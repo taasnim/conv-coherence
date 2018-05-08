@@ -19,8 +19,8 @@ If you use the entity grid files (including permutations) and the code, please r
       booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},
       series    ={ACL'18},
       publisher = {Association for Computational Linguistics},
-    	address   = {Melbourne, Australia},
-    	pages     = {xx-xx},
-    	url       = {https://arxiv.org/pdf/1805.02275.pdf}
-	    year      = {2018}
+      address   = {Melbourne, Australia},
+      pages     = {xx-xx},
+      url       = {https://arxiv.org/pdf/1805.02275.pdf}
+      year      = {2018}
 	}
