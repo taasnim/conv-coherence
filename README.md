@@ -1,6 +1,6 @@
 # conv-coherence
 
-This repository contains code of our ACL'18 Paper - [Coherence Modeling of Asynchronus Conversations: A Neural Entity Grid Approach](https://arxiv.org/pdf/1805.02275.pdf).
+This repository contains code of our ACL'18 Paper - [Coherence Modeling of Asynchronus Conversations: A Neural Entity Grid Approach](https://arxiv.org/abs/1805.02275).
 
 Software Requirements
 ---------------------
@@ -21,6 +21,6 @@ If you use the entity grid files (including permutations) and the code, please r
       publisher = {Association for Computational Linguistics},
       address   = {Melbourne, Australia},
       pages     = {xx-xx},
-      url       = {https://arxiv.org/pdf/1805.02275.pdf}
+      url       = {https://arxiv.org/abs/1805.02275}
       year      = {2018}
 	}
