@@ -17,7 +17,7 @@ If you use the entity grid files (including permutations) and the code, please r
       title     = {Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach},
       author    = {Tasnim Mohiuddin and Shafiq Joty and Dat Nguyen},
       booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},
-      series    ={ACL'18},
+      series    = {ACL'18},
       publisher = {Association for Computational Linguistics},
       address   = {Melbourne, Australia},
       pages     = {xx-xx},
