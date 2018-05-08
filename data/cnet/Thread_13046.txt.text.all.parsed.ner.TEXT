@@ -1,0 +1,39 @@
+<s> i want to setup a wireless network in my home but dont know were to start i own two dell laptops an inspiron 1000 and an inspiron 1501.  </s>
+<s> both have xp operating systems.  </s>
+<s> i also have a dell 926 all in one printer.  </s>
+<s> currently to access the internet i go online with an old windows 98 dial up system.  </s>
+<s> i want to get rid of this one all together.  </s>
+<s> im going with either dsl or cable with my network.  </s>
+<s> i dont plan on replacing the desktop.  </s>
+<s> i know that i will need a modem with dsl or cable for a high speed internet access.  </s>
+<s> if i understand it right the modem will be connected to a router?  </s>
+<s> after that im lost. the inspiron 1000 has a plug in 1390 adapter the other laptop has a 1490 wireless card installed.  </s>
+<s> i have used both in wi-fi hotspots without problems.  </s>
+<s> do i connect the printer direct to the router or use a device like a dell 3300 wireless printer adapter?  </s>
+<s> my 1501 came with norton security installed with a firewall.  </s>
+<s> i know i will need a firewall of some kind to protect my files but dont know how to set it up on the whole network.  </s>
+<s> i dont even know which router to buy?  </s>
+<s> i have more questions than answers at this point.  </s>
+<s> im in hopes i can find help here for those not at all knowable when it comes to networking.  </s>
+<s> your new setup would be wall &gt; dsl modem/router &gt; wireless router &gt; wired/wireless you'll plug an ethernet cable into the wireless router and follow the setup instructions.  </s>
+<s> first you'll have to update the firmware in your new wireless router.  </s>
+<s> most sit in a warehouse and the firmware becomes outdated.  </s>
+<s> broadcast your ssid use wpa security use nothing else.  </s>
+<s> now turn everything off, wait 15 seconds and turn everything back on.  </s>
+<s> try to connect using the wireless cards in the laptops.  </s>
+<s> type in the password, your connected.  </s>
+<s> dell wireless print adapter instructions.  </s>
+<s> plug the wireless print adapter into your computer using the usb cable.  </s>
+<s> insert the disk and follow the instructions.  </s>
+<s> when finished, you'll be hooking up the wireless print adapter to the printer.  </s>
+<s> printer driver instructions insert your dell photo aio printer 926 drivers disk into your computer.  </s>
+<s> choose network choose i'm directly connected using a print server find your printer follow the instructions.  </s>
+<s> when done remove disk.  </s>
+<s> insert your dell photo aio printer 926 drivers disk into the other computer and do the same installation method.  </s>
+<s> now each computer can use all the functions of the printer, without the other computer being turned on.  </s>
+<s> now you're not clueless anymore.  </s>
+<s> rick  </s>
+<s> thank you for the reply.  </s>
+<s> hopefully i can give it a try soon.  </s>
+<s> i may have to wait till after the holidays just depends on the $$$.  </s>
+<s> blair  </s>

@@ -1,0 +1,12 @@
+<s> i have a gateway performance 1600 pc, xp home, 512 mb ram, p4. i can't get into the bios setup to see why i am getting a keyboard error on boot. the keyboard works fine and shows up in the device manager correctly.  </s>
+<s> i just did a clean install of my os (it is actually installed as an upgrqade to me).  </s>
+<s> i had the keyboard problem before the reinstallation.. the manual says to press and hold f1 during restart.  </s>
+<s> i tried with a restart and a cold boot.  </s>
+<s> i don't see anything about entering setup on the screens that flash by during the bootup process.  </s>
+<s> any suggestions?  </s>
+<s> thanks kay  </s>
+<s> if so, try using a ps/2 keyboard.  </s>
+<s> then your keyboard will be visible during post and you can enter the bios and enable support for usb mouse/keyboard.  </s>
+<s> after that's done you can go back to your usb keyboard.  </s>
+<s> i have the same problem, the this is i think my ps2 port is not working so i got myself a converter to plug it to the ubs port instead, and now im have the problem as described on 1st post.. so is there a way i can get into bios ?  </s>
+<s> i have 2 extra harddisk (sata as the main and 2 more ide)and would like to set boot priorities tru bios.. as occasionally, prior to the keyboard problem it does not detect the sata drive as the master.. and help would much be appreciated, thanks!  </s>

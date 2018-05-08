@@ -1,0 +1,41 @@
+<s> someone please help me because i am going nuts the problems involve my hp c7200 printer.  </s>
+<s> it is on my home network.  </s>
+<s> 1)the printer randomly goes off line for no reason what so ever.  </s>
+<s> it is very annoying. the pop up states it is off line while i am doing something important and it sometimes it causes what i am doing to minimize its window.  </s>
+<s> it just happened.  </s>
+<s> and it will not stop until i check that the printer is online.  </s>
+<s> which i never took off line in the first place.  </s>
+<s> after i check that a little while later the same pop up states the printer is once again offline.  </s>
+<s> 2)i looked around for solutions and it looks like i should go to the printer properties and then port and then go to configure and enable or disable snmp.  </s>
+<s> well when i click on configure i get &quot;error was caused during port configuration access denied.&quot;  </s>
+<s> please some one help me.  </s>
+<s> it is a home network just 2 laptops and a pc and a roko and one printer on it.  </s>
+<s> i am running vista premium.  </s>
+<s> this is very frustrating because in just the little time i took to write this that pop up saying my printer is off line came up 3 times.  </s>
+<s> and help will be appriciated.  </s>
+<s> i'll just share that i don't have this issue with my wired connections and rarely with wifi.  </s>
+<s> remember that wifi is not reliable so let's do what we can to get it as good as can be.  </s>
+<s> that is, follow the advice in the networking forum.  </s>
+<s> good luck, bob  </s>
+<s> thanks i will look over there.  </s>
+<s> i also contacted hp because i think it is a problem with them.  </s>
+<s> hp should never allowed wep use on wifi.  </s>
+<s> it's too easy for neighbors to interfere and kids to smack down such a setup.  </s>
+<s> go get em! bob  </s>
+<s> assuming that this is the 7280 hp unit that came out a few years ago.  </s>
+<s> did the unit disk have the win vista drivers?  </s>
+<s> some did and some didn't, if not you would have to download the patch from hp. as bob stated, wirless hook ups can be erratic, not as stable as hard wire.  </s>
+<s> proximity is also an issue and there are server issues, signal and bandwidth variations can make a difference.  </s>
+<s> late yesterday i decide to go on chat with a hp tech after having no luck whatsoever at it website to see if there were any alerts for my printer or new drivers.  </s>
+<s> well it turns out there are two critical updates for hp printers for this very problem: 1) critical update to correct a pc to printer communication issue 2)critical update to enhance reliability of network and usb connectivity and improve system responsiveness while printing&quot;.  </s>
+<s> nobody knows about this until you actually get a hold of the tech.  </s>
+<s> if you go to the page where my printer is at there are two alerts and none of them are those two.  </s>
+<s> so problem solved.  </s>
+<s> i am a little mad because hp has this real intrusive program that automatically installs in your computer that suppose to tell you when the products you are using has a update but all it seems to do is pop up to tell me i need to buy hp products and that the printer was offline.  </s>
+<s> i have the same problem.  </s>
+<s> it is not solved yet but this is a great help.  </s>
+<s> yw. definitely use the hp chat. the tech knew what is was right away and directed me to the links and walked me through the process.  </s>
+<s> it has been working fine since.  </s>
+<s> one thing they wanted me to connect my computer to the network printer using the usb cable before i did it.  </s>
+<s> i told them i could not do that because i was in a wheelchair (i just had a car accident)and i could not get upstairs where the printer was so they did it wireless and it worked fine.  </s>
+<s> so if you do not want to use the usb cable make up a excuse why you do not have a access to the printer  </s>

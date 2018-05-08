@@ -1,0 +1,48 @@
+<s> i have had comcast cable internet for about 3 years now and have always used the same rca cable modem and have had no problems.  </s>
+<s> two months ago i first starting having a problem where the internet randomly disconnects but the modem is blinking exactly as it does when it's connected.  </s>
+<s> i'd have to wait several hours before the internet would work again and had no clue why.  </s>
+<s> this only happened about once a week so i figured it was comcast fixing something each time.  </s>
+<s> about a week ago it did this and did not come back on for over 24 hours.  </s>
+<s> i called comcast and asked them how to fix this and they told me to open up my network connections folder and disable local area connection 2. after that i need to unplug my cable modem and plug it back in until the lights are all blinking as normal.  </s>
+<s> i then have to enable local area connection 2 and the internet works again.  </s>
+<s> i was glad to find a solution to the problem, but now this happens every several minutes! the problem seems to happen a lot more often when i am downloading torrents or other p2p files but this never used to happen.  </s>
+<s> i've had to fix the problem four times while typing this message, can anybody help me?  </s>
+<s> i'd like to rid myself of this problem or at least minimize it.  </s>
+<s> a p2p sharing program points to some form of malware infestation.  </s>
+<s> if this is the only pc on the lan, try another.  </s>
+<s> this will tell if the disconnects are related to your original pc, a faulty modem or an isp issue.  </s>
+<s> comcast has upgraded their system to a newer protocol.  </s>
+<s> some of the older modems are not compatible. the list of modems is at the comcast site.  </s>
+<s> and the new protocol enables faster speeds.  </s>
+<s> i replaced my d-link dcm-200 to a new dcm-202 and my speed went from 3 mb/s to over 6. and comcast is in the process of upgrading again to an advertised 11 mb/s.  </s>
+<s> replace the modem.  </s>
+<s> are they both dhcp?  </s>
+<s> does this mean you have 2 default gateways as well?  </s>
+<s> windows typically uses 1 gateway and never resorts to the second gateway until packet loss is detected.  </s>
+<s> my guess is that your p2p software is opening bunches of tcp sessions and you router can not handle it.  </s>
+<s> your $50 router can only track a certaing number of sessions.  </s>
+<s> it seems many consumer routers stop functioning when the nat limit is exceeded.  </s>
+<s> try turning it off or stop sharing your directory with others to cut down on sessions.  </s>
+<s> trace route to yahoo or the dns server when the problem happens to see if traffic even gets past your router.  </s>
+<s> you should do this while the network is healthy and keep a copy handy for future reference.  </s>
+<s> skrall  </s>
+<s> i'm not sure if i found the right list but my modem model(dcm305) was on the list of cable modems approved for use with the comcast high-speed internet service at this list might not be up-to-date so could you please check if mine is on the list you were referring to or send me a link?  </s>
+<s> also, i've tested my download speed and it's maxing out at only 1.5mbps when it was maxing out at 6.2mbps only a few months ago.  </s>
+<s> i've always used local area connection 2 as far back as i can remember.  </s>
+<s> local area connection is disabled and if i enable it i get an error saying &quot;a network cable is unplugged&quot;.  </s>
+<s> i don't worry about that because my internet has always worked fine with it disabled.  </s>
+<s> the internet disconnects often even when i'm not using p2p file sharing software but it only happens every 30 minutes or so instead of every 2 to 20 minutes while running p2p file sharing software.  </s>
+<s> i've only been downloading 2 large files and used to download 10+ at a time without a problem.  </s>
+<s> i'm basically downloading files i wont be able to download when i relocate in 3 weeks and cancel my comcast subscription.  </s>
+<s> i really see no benefit in buying a new modem, if that is the cause of the problem, just to use it for 3 weeks.  </s>
+<s> your modem is docsis is 1.0/1.1 (the older cable protocol).  </s>
+<s> the newer protocol is docsis 2.0.  </s>
+<s> your modem is indeed approved for comcast, but the newer protocol is needed to get the higher speeds. the d-link dcm-202 is docsis 2.0 protocol.  </s>
+<s> i'd buy the d-link, try it, and if it works you're set.  </s>
+<s> if it doesn't work, return it and we'll try another route.  </s>
+<s> some virus do port scans looking for a new target to infect.  </s>
+<s> this can have the same effect as p2p software opening many tcp connections and crashing the router.  </s>
+<s> when in doubt, download the free ethereal scanner and capture everything in/out of your pc ethernet card.  </s>
+<s> shut down all browsers and mail and just scann your ethernet and see what traffic generates on its own.  </s>
+<s> this will give you a hint of what is going on.  </s>
+<s> i seriously doubt the problem is comcast.  </s>

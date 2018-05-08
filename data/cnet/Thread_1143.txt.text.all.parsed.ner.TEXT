@@ -1,0 +1,71 @@
+<s> hi guys i am hoping some of you knowledgeable people out there might be able to help me?  </s>
+<s> (my networking knowledge is quite basic) i am building a new house, and am setting up a home network.  </s>
+<s> i have got 15 cat6 runs through out the house ( 2 of them are for external for ip cameras) all my runs will terminate back to a patch panel in my study.  </s>
+<s> i am looking for a 24 port switch to work with my set up.  </s>
+<s> i will need poe for my 2 ip cameras.  </s>
+<s> i am looking for a rack mount, unmanaged gigabit switch.  </s>
+<s> i am hoping to spend &lt;$400.  </s>
+<s> any suggestions on which switch to buy?  </s>
+<s> i don't want to be playing with settings etc in the switch, i want it to be plug and play.  </s>
+<s> my future plans are to connect a rack mount nas (something similar to synology rs 212) does anyone have any reviews/suggestions etc? i want everything to pretty much run itself in the background.  </s>
+<s> thanks  </s>
+<s> i'd call a professional company to set it up.  </s>
+<s> after all, it's comparable to a small company with, say, 10 employees (= 10 pc's) and some servers.  </s>
+<s> if i owned such a company, i wouldn't do it myself. the first device i looked at was a 24-ports dgs-3120-24pc/ei for 1500 euro (that's 2000 usd).  </s>
+<s> kees  </s>
+<s> thanks for your reply kees.  </s>
+<s> i will never have more than 2 or 3 computers on the network.  </s>
+<s> i have got all the ethernet runs in order to connect televisions in different rooms etc, giving them access to my nas media.  </s>
+<s> there will not be a lot of traffic on the network, usually only 1 or 2 devices at a time.  </s>
+<s> i need a setup that is more for the home user.  </s>
+<s> i am hoping to spend about $400 or so on my switch.  </s>
+<s> would i be better to have a standard 24 port gigabit switch, and use poe adaptors?  </s>
+<s> thanks barry  </s>
+<s> the cabling has been done by a licensed electrician.  </s>
+<s> i am just trying to figure out the best setup for my network.  </s>
+<s> can anybody give me some help?  </s>
+<s> cheers barry  </s>
+<s> i'd recommend almost any 24 port cisco un-managed gigabit switch.  </s>
+<s> $500-$600 range is my estimate.  </s>
+<s> and apart from that you can also go for hp or d-link`s un-managed 24 port switches costing less then $400.  </s>
+<s> good luck  </s>
+<s> hi. 1. it seems any 24 port un-managed gigabit switch will meet your requirements.  </s>
+<s> 2. i have had some consistent bad experiences with d-link devices.  </s>
+<s> some of their ports randomly stop functioning after a while.  </s>
+<s> 3. i would suggest netgear or tp-link as an option.  </s>
+<s> 4. for poe, you are right on spot.  </s>
+<s> use external power injectors.  </s>
+<s> however use a cheap multimeter to check voltage drop on the network cable - then purchase a higher rated power adapter after calculating the power drop.  </s>
+<s> i can provide you with step by step instructions to calculate it if you want. 5. netgear on ebay.uk for gbp 118 6. tp-link on ebay.in - for approx $120 - note the model number.  </s>
+<s> in uk it costs a bit more in gbp.  </s>
+<s> take care, navneet.  </s>
+<s> hi navneet thanks for your reply, it was very helpful (sorry for the delay in replying, ive been away) yeah, could you give me step by step instructions for calculating the voltage drop?  </s>
+<s> thanks barry  </s>
+<s> unless you're using some individual midspan devices.  </s>
+<s> you'll need to know the power requirements in voltage and watts that the cameras will require if you want your switch to work with them.  </s>
+<s> cameras can need more power than aps.  </s>
+<s> you'll probably be looking for either 802.3af or 802.3at in the camera requirements specs.  </s>
+<s> you'll may also want to make sure your switch is managed in such a way that you can enable or disable poe on each port as needed.  </s>
+<s> many poe switches only have a few of the total capable of powering a device anyway.  </s>
+<s> thanks steven yeah, i was probably going to use 2 individual poe injectors.  </s>
+<s> what are your views on these?  </s>
+<s> barry  </s>
+<s> i did one with 8 connections initially but expansion capability was also a desire.  </s>
+<s> i would have needed 8 outlets for this setup and the injectors were already rather large.  </s>
+<s> as well, 8 additional lengths of ethernet cable would have been needed.  </s>
+<s> in this case, a more reasonable solution was a poe switch that matched the needs of the aps. the switch allowed individual ports to have power turned on or off through its web interface.  </s>
+<s> using a poe switch just made for a neater installation.  </s>
+<s> your op suggested that you were looking for a 24 port switch and that you needed poe.  </s>
+<s> i presumed you meant the switch needed to supply the power and was just making sure you were aware that not all poe devices use the same standards.  </s>
+<s> if you already have compatible injectors, you already have poe capability.  </s>
+<s> hi for i and my friend often use, maybe you can try to use cisco 1921 integrated services router (isr) delivers highly secure data, mobility, and application services.  </s>
+<s> within your price range.  </s>
+<s> you might want to consider whether or not you need jumbo frame capability.  </s>
+<s> since you want rack mount, you need to know these come in sizes to fit equipment of more than one width.  </s>
+<s> most i've seen are 19&quot; mounts but some are about 13&quot; if your space is limited.  </s>
+<s> unmanaged switches are plug and play.  </s>
+<s> poe switches usually offer some options through a web interface such as whether or not to turn power on for any port.  </s>
+<s> if you only have 2 poe devices, you can use injectors.  </s>
+<s> if you plan to add more later, you can even add a second switch for poe devices only.  </s>
+<s> poe does simplify the ac wiring scheme.  </s>
+<s> anyway, if all you want is a 24 port unmanaged switch, i'd say go to a site like newegg and check cisco, netgear, etc. and you'll find plenty of basic models in the $150-$250 range.  </s>

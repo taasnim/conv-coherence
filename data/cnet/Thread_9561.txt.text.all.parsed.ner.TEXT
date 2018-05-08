@@ -1,0 +1,110 @@
+<s> i intend to purchase an internal storage hard drive for my computer.  </s>
+<s> win 7, 3.0ghz, pci express on motherboard, sata ii. i am looking for ~500gb capacity; i already have a 250gb drive connected externally with a cage.  </s>
+<s> i assume their would be no problem connecting a 2nd storage drive.  </s>
+<s> i believe 750gb total storage would be sufficient; 1tb drives appear to be beyond my budget capacity.  </s>
+<s> i have seen drives labelled as &quot;sata 3&quot;.  </s>
+<s> does this mean it is an esata drive, incompatible with sata?? i was told sata and esata are incompatible.  </s>
+<s> an esata drive is capable of 3gb/s transfer speed.  </s>
+<s> my external drive cage is capable of esata connection.  </s>
+<s> thus i require verification of which drive i should purchase.  </s>
+<s> the e in esata stands for external.  </s>
+<s> so an internal drive should just be sata.  </s>
+<s> sata 3 is faster than sata 2, but you'll only read that extra speed if your motherboard supports it.  </s>
+<s> still, it won't harm to buy a sata 3 disk if you expect to use it later in a newer pc than you have now.  </s>
+<s> kees  </s>
+<s> read a few forums and you should find too many posts about lost content on externals.  </s>
+<s> more than the internals in my world.  </s>
+<s> be sure you don't trust these as &quot;storage.&quot; let's think of them as some temporary copy.  </s>
+<s> bob  </s>
+<s> could you please clarify precisely what you meant by &quot;temporary copy&quot;?  </s>
+<s> i had assumed that an internal storage drive was quite dependable.  </s>
+<s> i will attempt to obtain a backup drive for this storage drive in the future.. is this what you were referring to?  </s>
+<s> i am now having second thoughts about this pirchase, if not reliable.  </s>
+<s> also, what software is required?  </s>
+<s> dependent on drive capacity? is it practical to have one backup service two separate internal drives?  </s>
+<s> partitioning required?  </s>
+<s> i think bob read your post too fast.  </s>
+<s> an internal disk is much more reliable than an external one.  </s>
+<s> but still, it can go south.  </s>
+<s> so you surely need a backup of everything you put on it.  </s>
+<s> if it's a big hard disk full of stuff you don't want to lose, you need a big external disk (or a fast internet connection and a big enough web storage), or a second internal disk (preferably on another pc in your home network) or possibly a set of blue-ray dvd's for that backup.  </s>
+<s> usb sticks or normal dvd's can't contain enough data.  </s>
+<s> the advantage of an external disk is that you can store it elsewhere for added security against theft, fire and floods.  </s>
+<s> kees  </s>
+<s> you will see many ideas about this, but the advice we most often give in these forums is this; wherever your original files are, make 3 backup copies of it.  </s>
+<s> that might seem excessive, but if you only have one copy of it (the original + a copy), then if you lose the original that copy becomes the original and is vulnerable.  </s>
+<s> having 2 other copies of that file or those files reduces the vulnerability.  </s>
+<s> if and when one version of the files is lost, (whether the original or any of the copies), create another copy.  </s>
+<s> why do all this?  </s>
+<s> hard drives should not be considered as permanent storage because hard drives fail.  </s>
+<s> you said that you assumed internal hard drives are quite dependable.  </s>
+<s> yes.  </s>
+<s> but if you only have the one drive with all of your data that you cannot afford to lose, then if it does fail, you have lost it.  </s>
+<s> in these forums we see where hard drives fail all the time.  </s>
+<s> not just drives which have an os (operating system) installed on it, but 2nd and 3rd internals as well as external drives.  </s>
+<s> my own experience was a couple of years ago.  </s>
+<s> i have a desktop with 3 drives.  </s>
+<s> one was a new style ssd, (solid state drive), with vista installed, and the other two were conventional hard drives, the spinning type. the ssd kept failing for technical reasons, but both hard drives failed within a couple of weeks, and that was on a system less than a year old.  </s>
+<s> the first failed, and i returned it to the computer maker under warranty and which they replaced, but a week after i got the replacement the other drive failed and i had to return that too.  </s>
+<s> in my case i was fortunate.  </s>
+<s> i was using one as 'storage' but treated it only as temporary storage and had backed up the data on it 3 times on other external hard drives.  </s>
+<s> some would say that even my method is risky and i cannot argue with that.  </s>
+<s> cds and dvds last longer than hard drives.  </s>
+<s> i don't use cd/dvd for backups because i would need too many of them.  </s>
+<s> about your other questions... partitions?  </s>
+<s> not really needed.  </s>
+<s> for separating data i just use folders on the one drive and do not partition.  </s>
+<s> in that instance partitions are just the same as separate folders and there is no benefit.  </s>
+<s> but the problem with partitioning is that users believe if their hard drive is partitioned and data on one partition becomes corrupt, they still have the other partition.  </s>
+<s> while that is true they fail to take into account what would happen if the drive fails.  </s>
+<s> then they lose all partitions.  </s>
+<s> which software to use for storage/backups?  </s>
+<s> for personal data like documents, photos, music and videos, no software really.  </s>
+<s> simply copy those files from the original location to the new backup location.  </s>
+<s> internal drives may be faster to transfer data to that external drives, but for personal files we don't really need speed, and my own choice is to use external drives as i can put those away in a safe place.  </s>
+<s> mark  </s>
+<s> i agree here and again, the problem i see too often is that folk &quot;store&quot; their last copy on some external hdd and then something happens.  </s>
+<s> to call them &quot;storage&quot; is fine, but remember it's not reliable enough.  </s>
+<s> bob  </s>
+<s> thank you for all the information.  </s>
+<s> i have a 1tb backup drive for the main hard drive.  </s>
+<s> i was planning to get as large a 'storage' drive as possible, but i would than need another backup drive of the same capacity.  </s>
+<s> unfortunately, i am living on disability and creation of 3 backups is well beyond my financial reach.  </s>
+<s> i will have to determine the quantity of data on my main hd needing to be backed up.  </s>
+<s> i must then use the available backup space to determine how large a capacity is practical on the storage drive.  </s>
+<s> perhaps the external 250gb storage drive would suffice to backup the main drive.  </s>
+<s> then the 1tb drive would serve to backup the new storage drive.  </s>
+<s> i have ~190 video programs to backup somewhere., and intend to download more if my isp will stop screwing around.  </s>
+<s> i found a 1tb wd hard drive for sale in canada, but this size could not be backed up under my current situation.  </s>
+<s> much more consideration required and a decision to make.  </s>
+<s> thanks again for your advice.  </s>
+<s> all i have to safeguard fits on a single 32gb memory stick.  </s>
+<s> so i have that plus a copy on my laptop, my wife's laptop, some external hdds and of course dvd media.  </s>
+<s> a few items are up on dropbox, but i do have some old video files on some 1tb drive but if they vanish, no real loss.  </s>
+<s> bob  </s>
+<s> ive got tb of storage and not a lick of it is worth backing up.  </s>
+<s> its just music, apps, and movies.  </s>
+<s> the real stuff worth backing up thats actually irreplaceable will likely fit on a couple of 250-500 portables.  </s>
+<s> that said, tb drives are likely going to be more prone to failure than small ones.  </s>
+<s> do yourself a favor and determine how much of that data that you have is really worth saving.  </s>
+<s> put it all in a folder, look at its size and copy it to two drives with barely 30 gb more storage.  </s>
+<s> unless your doing graphic design or the like, you wont need any more backup space.  </s>
+<s> why are larger drives more prone to failure than smaller ones?  </s>
+<s> this is the first i have heard of this.  </s>
+<s> tb drives are commonly used in business, whose data are much more important than mine.  </s>
+<s> apart from banking info, my most important data are downloaded video programs, since i cannot afford to pay for them. the banking info i could store on a flash drive.  </s>
+<s> you are correct in stating i must decide which data are worth backing up.  </s>
+<s> my video collection would never fit on a flash drive.  </s>
+<s> it is looking like my best bet is to purchase an external storage drive.  </s>
+<s> although moving files would take longer, it would not be prone to an os crash.  </s>
+<s> no matter how many backups i make, there is still a chance of failure somewhere.  </s>
+<s> i can not afford to make the number of backups you mentioned.  </s>
+<s> i still have much to consider.  </s>
+<s> i value your continued input.  </s>
+<s> thank you.  </s>
+<s> sorry but this discussion now has to end.  </s>
+<s> &quot;my most important data are downloaded video programs, since i cannot afford to pay for them&quot; tells m you are file sharing to download pirated or copyrighted films without paying for them.  </s>
+<s> that exceeds the help we can provide as it contravenes forum policy .  </s>
+<s> just to finish this off, as far as i am aware tb drives are no more liable to fail as other drives.  </s>
+<s> but this thread is now locked.  </s>
+<s> mark  </s>

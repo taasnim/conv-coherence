@@ -1,0 +1,17 @@
+<s> ok, here is the scenario.  </s>
+<s> i have two rooms, one has the cable modem and wireless router, the other has everything else - printers, vonage device, etc. i'd like to connect everything in the second room to the wireless network without running a wire or using the ethernet over powerline adapters as i've heard they are worthless.  </s>
+<s> i have two laptops that connect to the wireless network with no problems.  </s>
+<s> i have no desktops in the second room and i don't want to use any of the laptops as servers.  </s>
+<s> so, here's what i have: room 1: cable modem with linksys wrt350n wireless router hooked up to it room 2: 3 printers (all usb, one is lan also), vonage device (lan) as i said, i can't run a wire to the second room nor do i want to use a ethernet over powerline adapter.  </s>
+<s> obviously, i can buy a wireless print server for one the servers but there are no n-draft printer servers yet and i would need 3 of them.  </s>
+<s> so, that's out.  </s>
+<s> i don't want to buy a n-wireless adapter for each device either.  </s>
+<s> so, what are my options?  </s>
+<s> buy an access point and plug in a switch or a hub into it, so i can add more than one device?  </s>
+<s> will it connect to the router and register all the deviced plugged into it to the wireless network?  </s>
+<s> what about a n-draft bridge?  </s>
+<s> any other ideas?  </s>
+<s> cost is not an issue thanks, chris  </s>
+<s> i use that to extend my lan to another area.  </s>
+<s> bob  </s>
+<s> thanks bob, will look into it  </s>

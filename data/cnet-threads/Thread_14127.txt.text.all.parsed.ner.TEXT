@@ -1,0 +1,12 @@
+<s> i realize that ati does not yet have (to my knowledge) this exact capability, but does the gtx260/280 provide a substantial cuda performance increase that would justify the higher price?  </s>
+<s> this is important for me, because i do a good bit of video transcoding which appears to benefit greatly from these applications that can take advantage of the gpu.  </s>
+<s> the video transcoders i use have never attempted to use the gpu.  </s>
+<s> maybe you'll have to share a few names.  </s>
+<s> bob  </s>
+<s> i read about it on anandtech- it's a new product called badaboom from elemental technologies.  </s>
+<s> the numbers they talk about seem to indicate pretty sizable performance gains in going with one of the new gtx cards over a 9800gtx, but i just wanted to see if anyone had any real-world data to add from experience.  </s>
+<s> here is the story referencing it:  </s>
+<s> i don't have any reason to encode h.264.  </s>
+<s> here it's all hd or dvd standards.  </s>
+<s> bob  </s>
+<s> badaboom is some transcoding software nvidia is promoting because it takes advantage of cuda.. dont know much about it though  </s>

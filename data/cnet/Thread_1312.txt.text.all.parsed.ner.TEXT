@@ -1,0 +1,52 @@
+<s> i just installed new mb and video card.  </s>
+<s> everything worked fine in vga mode before installing proper driver.  </s>
+<s> after installing driver and rebootin i get no video.  </s>
+<s> have tried another agp card and another pci card.  </s>
+<s> i am using win98 and an s3 8mb agp card.  </s>
+<s> any help out there ?? thanks.  </s>
+<s> stoaster@aol.com  </s>
+<s> did you install the latest motherboard drivers as well?  </s>
+<s> many devices will not work properly until you do.  </s>
+<s> test this in safe mode.  </s>
+<s> safe mode will set the video to 640x480 and you'll be able to find your way to the control panel, or display properties to set the display to 640x480 256 colors and then ok your way out.  </s>
+<s> reboot normally, and if the display shows, go to the display panel and select your preferred settings.  </s>
+<s> bob  </s>
+<s> i can't get to safe mode at all.  </s>
+<s> i get no video.  </s>
+<s> i can hear the hd doing its thing, going thru post etc. i dont get the beeps associated with no video card.  </s>
+<s> but i have taken the card out and run with nothing, i get the beeps then.  </s>
+<s> additionally, i changed the jumper to reset the cmos and booted that way with no results.  </s>
+<s> i have tried booting to a bootable floppy, but still no video, although you can tell it reads the disk goes thru the commands and waits at the command prompt.  </s>
+<s> thanks for your help.  </s>
+<s> i installed the new mb drivers first, when win98 asked for them as finding new hardware.  </s>
+<s> i got all of them installed (no new hardware found on boot), then decided to update video drivers from cdrom.  </s>
+<s> everything went fine, then advised i must reboot, so i did. then no video.  </s>
+<s> it does post and continue, but no video at all, not even showing cmos etc. thanks for your help.  </s>
+<s> &quot;then no video.  </s>
+<s> it does post and continue, but no video at all, not even showing cmos etc. thanks for your help.&quot; then it's time to try a dos boot disk to see if the video card has outright failed.  </s>
+<s> bob  </s>
+<s> .  </s>
+<s> i have removed and re-installed (2) different agp cards and (1) pci card, making sure to seat them all the way into the slot.  </s>
+<s> any more suggestions?  </s>
+<s> thanks.  </s>
+<s> at this point you test that the crt or display is functioning with another machine.  </s>
+<s> if multiple display cards fail to show any bios screen, then the list of failures starts to shrink: 1. the bios settings clear jumper is in the wrong position.  </s>
+<s> 2. the cmos battery is low, dead.  </s>
+<s> 3. a cable of other connection is stopping the bootup to the bios screen.  </s>
+<s> it was not fun to find a motherboard manual that showed the hd led to be on j11, but j11 turned out to be the reset.  </s>
+<s> fortunately the motherboard markings were correct.  </s>
+<s> after you ponder the above, then you have to decide if the machine is dead and now you get to find the dead part.  </s>
+<s> you also have to tell the forum if you are willing to take the machine down to power supply, cpu/heatsinkfan(hsf), one memory stick and test it our on a cardboard square.  </s>
+<s> you also may have to replace some major part like a motherboard or cpu.  </s>
+<s> before you start all this, can you revert to what worked or can you put it back to as-supplied and use your warranty?  </s>
+<s> bob  </s>
+<s> i tried a dos boot disk.  </s>
+<s> i still get no video.  </s>
+<s> not even cmos screen.  </s>
+<s> thanks.  </s>
+<s> thanks for suggestions.  </s>
+<s> i have removed all other cards (just modem).  </s>
+<s> i will try the cmos reset again, then pull everything and start over.  </s>
+<s> thanks for your help, bob.  </s>
+<s> i will post again after the weekend with results.  </s>
+<s> please, let me know what happened with your mb and/or video card, i have similar problem... thanks  </s>

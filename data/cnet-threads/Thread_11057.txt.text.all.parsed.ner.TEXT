@@ -1,0 +1,62 @@
+<s> im looking for help with what appears to be a common yet very fatal error with my pc. when i press the power button, the tower lights turn on, fans start up, but i get no post, no beeps, and of course no video.  </s>
+<s> now, a week or two prior to the pc basically dieing, i was experiencing some very strange behavior from my pc which, at the time, i thought was video related.  </s>
+<s> while in the middle of playing a game (wow if it matters, though im sure it doesnt), the computer would crash, causing the image on screen to become distorted and repeat itself in rows across the monitor.  </s>
+<s> it looked kinda like if you tiled a small picture onto the background of your desktop.  </s>
+<s> anyway this weird freeze started happening about once a day.  </s>
+<s> audio would still be playing out of the speakers, but as far as the screen, i had to keep reseting the pc to get out of it.  </s>
+<s> after a while it started happening more and more frequently to the point where i could only be in game for a minute or two before the pc would crash.  </s>
+<s> things only got worse from there.  </s>
+<s> this weird graphical glitch started happening outside of the game now.  </s>
+<s> watching a video on youtube, for example, would cause the same error to occur.  </s>
+<s> after that the screen glitch would occur while simply being idle in my desktop.  </s>
+<s> after that, it started happening at the login screen, and once it even happened during a post.  </s>
+<s> then finally, one morning when i tired to start it up, the pc refused to boot, and here i am today asking you all for help.  </s>
+<s> here are my pcs specs: motherboard: asus a2n-sli deluxe cpu: amd athlon 64 x2 dual core 3.0ghz psu: enermax 600w noisetaker ii video card: geforce 6800gt x2 (sli) ram: 2gb kingston hyperx ddr2 (2 sticks, 1gb each) i dont have a second computer to test components in, so the best i have been able to do is run some rough tests with a barebones setup outside of the case using: the psu 1 stick of ram 1 video card the cpu and heatsink fan (no new thermal compound applied yet) and ofcourse my monitor. the first thing i noticed when i opened the case was that the cpu was stuck to the heatsink fan.  </s>
+<s> with the help of a hairdryer, i was able to ease it off.  </s>
+<s> i inspected the cpu and found that no pins were bent or broken; everything looked ok. (i just thought id include that little bit on information in case it has some relevance to what the problem might be.) anyway, onto the tests: for obvious reasons, i wanted to test the video card first.  </s>
+<s> after basically watching any sort of graphical performance from this pc degenerate into crap, i was fairly convinced that the video card the monitor was plugged into had gone bad.  </s>
+<s> besides, i had been having a lot of driver errors recently with these video cards (which i believed i had resolved), so at the time there was no doubt in my mind that one of them was the culprit.  </s>
+<s> unfortunately, as i said earlier, i have no second pc to swap components with, so the best i could do was swap my lead video card (the one on top in my sli set up) with the other one.  </s>
+<s> unfortunately, this solved nothing.  </s>
+<s> with my second video card installed in the barebones setup, i was still getting no post, no beeps, and no video.  </s>
+<s> this discouraged me quite a bit. is it possible for both video cards in an sli setup to go bad at the same time?  </s>
+<s> i had no clue, so for the time being i decided to test other pieces: -swapping out my ram with the other stick yielded no results.  </s>
+<s> -removing all ram from the setup gave me an error beepcode.  </s>
+<s> -removing all video cards gave me another error beepcode.  </s>
+<s> -after leaving the power on for a few minutes, the cpu would get warm and so i turn to anyone willing to read this post.  </s>
+<s> i know its long, but i wanted to include as much information as possible, since i seriously do not know what to do next.  </s>
+<s> whats the problem? is it the mobo?  </s>
+<s> i know mobos cause this problem a lot, but the fact that i was getting error beepcodes caused me to believe otherwise.  </s>
+<s> am i wrong? is it the cpu? the fact that it was basically welded onto the hsf when i first opened the case seemed a little weird, and again, i know that faulty cpus cause this problem a lot too. is it possible that a lack of thermal compound can cause barebones setup to not boot? is it the video cards?  </s>
+<s> cause if you said yes id believe you without question.  </s>
+<s> but the fact that neither card changed anything caused me to second guess myself.  </s>
+<s> is it possible for both cards to go bad at the same time?  </s>
+<s> i dont know, so i have not come to a conclusion. is it something else? is this no boot problem even related to the video errors i was getting prior to it dieing?  </s>
+<s> please help me out.  </s>
+<s> if any part of my story has yielded some sort of hint that i clearly am not seeing, please tell me.  </s>
+<s> it appears you've done all you can.  </s>
+<s> i would suggest replacing the psu.  </s>
+<s> if you system wasn't cooled enough during all the time you had it, it experienced &quot;heat stress&quot; which in turn applies to all componets.  </s>
+<s> what gave out or became the weak link can be anything.  </s>
+<s> since, you play as gamer you can drive the system to extremes and cause an earlier death.  </s>
+<s> in other words, it was pushed until it pushed back and failed.  </s>
+<s> even if you replaced the psu there's no guarantee it will work, though it may.  </s>
+<s> many times removing parts to other system alone, they work, but once all together again, they don't as a package.  </s>
+<s> as for the cpu being stuck(welded), heat will cause air to be driven out and be some suction from application & dryness of the goop over time.  </s>
+<s> in many cases, i look at the psu or mtrbd.  </s>
+<s> being at fault.  </s>
+<s> you can google for t/s'ing guides but you did alot of what to test.  </s>
+<s> of course, replacing parts is about what you can do since you don't have another system.  </s>
+<s> also, return the bios setting to defaults if you tweaked them for performance setting.  </s>
+<s> tada -----willy  </s>
+<s> thanks for the reply willy.  </s>
+<s> i was able to test my psu with my brother's very old pc (its the only component still compatible with his set up) and it started up fine.  </s>
+<s> while i am not entirely sure this was the most effective test (his pc is going on 5 years old), it proves my psu isn't completely dead.  </s>
+<s> should i just rma my mobo and see what comes back?  </s>
+<s> if you can rma after 5yrs.  </s>
+<s> heck go for it.  </s>
+<s> psu are strange items, i often post that they lose their &quot;phuumf&quot; after awhile. the other half is the mtrbd.  </s>
+<s> and since logic is part of the &quot;start-up ckt&quot; something a user can't fix, a replacement mtrbd.  </s>
+<s> may be the fix.  </s>
+<s> however, as i stated it can be anything or a &quot;combo&quot; of problems.  </s>
+<s> tada -----willy  </s>

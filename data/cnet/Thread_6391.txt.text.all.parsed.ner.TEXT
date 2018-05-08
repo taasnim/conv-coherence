@@ -1,0 +1,10 @@
+<s> my accer p4 pc abruptly quit after approx.  </s>
+<s> 6 months.  </s>
+<s> i determined that the motherboard had failed so,i purchased a new motherboard and installed it with a spare hd as the new master drive and installed the old hd in order to recover the thousands of important files and applications.  </s>
+<s> problem is that window sxp does see the &quot;old&quot; drive after it has been successfully installed on the &quot;new&quot; hard drive.  </s>
+<s> how do get my new system to see the old drive?  </s>
+<s> if the drive shows in the bios then it can be the usual xp issue about disks over 127gb (xp does not support this till sp1.) your post is too light on details so i'll note the usual.  </s>
+<s> bob  </s>
+<s> is the hard drive containing the os set as master on the ide primary drive interface?  </s>
+<s> also, you might have a problem with xp with a new motherboard.  </s>
+<s> if the configuration of the pc hardware is &quot;significantly different&quot; from the original setup (when xp was activated), you will have to re-activate xp. go to forums.microsoft.com to get info on problems experienced by other users.  </s>

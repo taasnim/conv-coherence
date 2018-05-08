@@ -1,0 +1,32 @@
+<s> i want to buy a widescreen lcd display (native resolution 1920x1200).  </s>
+<s> i want to know if i need a new video card.  </s>
+<s> i am not into games or other stress graphics applications.  </s>
+<s> my systems is sony vaio 2002 vintage.  </s>
+<s> it uses a sis 650_740 chip set and has an agp card (from manual). the manual says the resolution available from the agp depends on the graphics monitor.  </s>
+<s> i use a sony multi-scan crt which i drive at its max resolution of 1600x1200.  </s>
+<s> i want to know if my existing video card can drive the lcd in its native resolution of 1920x1200.  </s>
+<s> or whether i need something new.  </s>
+<s> if so what?  </s>
+<s> although you did very well providing specs for the system, i'll need to the make and model of the agp card in the system to answer that question.  </s>
+<s> it neesds to be determined whether the card will support that kind of resolution.  </s>
+<s> if not, most new 128 mb agp video cards will support that kind of resolution and higher, but you also must know if the agp slot on your motherboard will support a newer spec card.  </s>
+<s> if it's from 2002, it is possible that it's not a slot compatible with newer agp cards.  </s>
+<s> i do suspect however that your existing video setup will support that resoution.  </s>
+<s> i will tell you everything i have learned from the pc manual: model number pcv-rx730 1.7ghz sis650_740 integrated graphics with real256 2d/3d graphics accelerator & 32mb shared with processor.  </s>
+<s> driver 4/6/02; version 6.13.10.2076 the manual says there is a agp bus and a agp card.  </s>
+<s> it is in slot 5. agp interface specification, version 2.0 (supports 2x/4x).  </s>
+<s> i'm still not entirely sure if the board has an agp card installed or an available agp slot.  </s>
+<s> if it has a card installed it will probably support the resolution but it's hard to say with out knowing the make and model of the card.  </s>
+<s> that said i do believe it's runing on onboard video, and information on the video capabilities of this chipset video are limited at best. the other problem is that the slot whether occupied or not, is a agp 2.0 specification. the newer specification is 3.0.  </s>
+<s> the compatibility issues there are complex to an inexperienced user and given the limited info on that chipset, i wouldn't attempt it if i were you just now.  </s>
+<s> if you install a 3.3v card were only a 1.5 is supposed to go, you're not going to like the result at all.  </s>
+<s> &quot;doctor, i smell burnt toast&quot; i'm going to do some more reasearch on the chipset and get back to you.  </s>
+<s> from what i can gather from the sis support site, even their newest igp chipsets only support up to 1600x1200.  </s>
+<s> this doesn't meet your demand.  </s>
+<s> if you do intend to then upgrade to an agp card, when you purchase it, make sure you go to a reputable dealer and explain to them that the agp slot is 2.0 2x 4x. the card &quot;should&quot; state if it's backwards compatible.  </s>
+<s> make for darn sure the guys or girl knows what their talking about because if they're wrong, bye bye motherboard.  </s>
+<s> it appears from what i can determine that a msi agp in the range of e would suit your needs and i believe would be compatible.  </s>
+<s> this may be hard to find, but as i've said, just make sure it's compatible.  </s>
+<s> in addition you'll probably want a card with 256 mb of ram to keep that kind of resolution running smothly.  </s>
+<s> good luck, feel free to contact me if you decide to make any purchases.  </s>
+<s> the typo in that last message was supposed to read in the range of a msi nvidia 5700le if you can find one or something comparable.  </s>

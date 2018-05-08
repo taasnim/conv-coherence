@@ -1,0 +1,36 @@
+<s> hey everyone this is my first post here.  </s>
+<s> i am not a networking expert and i need some help and possible clarification.  </s>
+<s> first let me start off by saying i currently am switching from hughes net broadband internet service.  </s>
+<s> (satellite) i will be replacing it with the basic dsl service from at&t.  </s>
+<s> now, i have two offices currently networked (wired) together and because i am on the basic dsl service plan (will upgrade when available) i would like for each office to have its own connection to the internet to lighten the load.  </s>
+<s> yet, i still want them to be networked for file sharing.  </s>
+<s> this is what i envision: office one: modem 1 router 1 -will be given the address of 192.168.1.1 -will not be set as a dhcp server -will allow ip connections from 192.168.1.2-50 hey everyone this is my first post here.  </s>
+<s> i am not a networking expert and i need some help and possible clarification.  </s>
+<s> first let me start off by saying i currently am switching from hughes net broadband internet service.  </s>
+<s> (satellite) i will be replacing it with the basic dsl service from at&t.  </s>
+<s> now, i have two offices currently networked (wired) together and because i am on the basic dsl service plan (will upgrade when available) i would like for each office to have its own connection to the internet to lighten the load.  </s>
+<s> yet, i still want them to be networked for file sharing.  </s>
+<s> this is what i envision: office one: modem 1 router 1 -will be given the address of 192.168.1.1 -will not be set as a dhcp server -will allow ip connections from 192.168.1.2-50 -will be connected to the switch clients -will have a manually configured ip from 192.168.1.2-50 -will have a gateway of 192.168.1.1 -will be on the network called dasilveira switch office two: modem 2 router 2 -will be given the address of 192.168.2.1 -will not be set as a dhcp server -will allow ip connections from 192.168.2.2-50 -will be connected to the switch clients -will have a manually configured ip from 192.168.2.2-50 -will have a gateway of 192.168.2.1 -will be on the network called dasilveira my question is will this work.  </s>
+<s> even though i have two separate routers, which will be connected by a switch will, the computers still connect on the same network.  </s>
+<s> will i have to use the rip feature?  </s>
+<s> if so how exactly does this work?  </s>
+<s> will my routers recognize one another and now that the clients are on the same network and allow them to communicate?  </s>
+<s> (my switch does not have the option to change any settings.) i know about dual wan routers but have never worked with them.  </s>
+<s> also, from my understanding the second wan is for back-up purposes only.  </s>
+<s> unless, you can specifiy on a dual wan router which computers use what connection i do not think it would be helpful.  </s>
+<s> thanks, tommy  </s>
+<s> okay i am thinking that if i set both modem rip directions to &quot;both&quot; then they will recognize what host (client) is where and that should ensure they stay on the same network.  </s>
+<s> is this correct?  </s>
+<s> 1.) one dsl modem per dsl line.  </s>
+<s> period.  </s>
+<s> 2.) you cannot put a switch in front of a modem.  </s>
+<s> period.  </s>
+<s> (and expect it to work.) possible resolution.  </s>
+<s> dsl line -&gt; dsl modem -&gt; wireless router -&gt; various computers connected via ethernet cable and/or wireless.  </s>
+<s> set file and printer sharing on all pcs.  </s>
+<s> it will be dsl modem 1 --- &gt; router 1 ---&gt; switch &lt;---- router 2 &lt;--- dsl modem 2 | | clients 1 clients 2 the switch is only necessary to connect the two routers as they will be a block away from one another.  </s>
+<s> i believe if i have the rip feature on each router set to &quot;both&quot; then they will communicate.  </s>
+<s> hopefully, this makes more sense.  </s>
+<s> i have two seperate dsl lines.  </s>
+<s> i know that is a necessity.  </s>
+<s> this is my current setup with my satellite modem: modem ---&gt; router ---&gt; switch ---&gt; all clients thanks, tommy  </s>

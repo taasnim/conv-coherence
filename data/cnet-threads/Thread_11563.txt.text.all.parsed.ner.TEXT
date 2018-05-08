@@ -1,0 +1,27 @@
+<s> i know it doesn't make much sense to have one sata and another uata drive and make the sata as a slave.  </s>
+<s> but if someone wants to do so, make the sata as a slave (or #2 as is the politically correct in la country now....) is that possible?  </s>
+<s> are sata and uata compatible at all?  </s>
+<s> i mean can i use a sata drive as a 1 drive and the uata as the 2nd?  </s>
+<s> i know that the main advantage with sata is the thinner cable which provides better airflow in the case.  </s>
+<s> but what else is the advantage?  </s>
+<s> i have asked this before, but since we don't have a search engine here, it's rather hard to find old posts... thanks in advance!  </s>
+<s> yes, it is possible to use the two hard drives in conjunction.  </s>
+<s> the thing is though, that sata drives do not have jumpers to set one as master and another as slave. the reason is because each sata drive has its own connection slot, as opposed to a uata drive.  </s>
+<s> although i do not have a sata and uata drive in conjunction i believe setting it up should be fairly simple, just plug them in, and off you go.  </s>
+<s> set the sata drive to be the boot drive or not, raid or any other option.  </s>
+<s> the sata will have its own section in the boot process they usually will not show on the same screen as the ide drives.  </s>
+<s> what chipset are you using??? do you have the manual??? that should explain it completely.  </s>
+<s> `  </s>
+<s> only supports up to ata100.  </s>
+<s> intel seems to feel that sata is the place to get faster drives now and in the future, so they didn't put ata133 support in the 865 or 875 chipset.  </s>
+<s> however most of the other mobo's using those chipsets add their own chipsets for additional raid support as well as aditional sata ports. the gigabyte 8knxp can support a total of 12 drives, their raid ports can also be run as ata/atapi.  </s>
+<s> not all mobo's raid ports can be used for ata/atapi.  </s>
+<s> `  </s>
+<s> techology and is where most new drive improvements will take place [at reasonable prices, to omit scsi].  </s>
+<s> it is a faster, but serial interface, but not for the purpose of having a thinner cable for cooling purposes.. it was for an interface that has fewer problems with noise fromcross coupling et al from multple parallel lines.  </s>
+<s> use it for boot drive or any other, makes no matter.  </s>
+<s> if your ide boot hard drive is an ata 133 it should be on the msi raid port if they allow them to be used as ata to take theoretical advantage of the ayta 33 speed.  </s>
+<s> [however it really doesn't transfer anywhere near that fast in real life.  </s>
+<s> lol].  </s>
+<s> this is a great mobo now that msi finally got a bios version that works. the mobo went through terrible growing pains right after anandtech praised it to the skies.  </s>
+<s> i had bought one and after reading of all the problems sent it back unopened and got the gigabyte.  </s>

@@ -1,0 +1,7 @@
+<s> my ctrl key was not working the last time on my old keyboard, so i did the registry change by doing this by swapping ctrl with caps lock : windows registry editor version 5.00 [hkey_local_machinesystemcurrentcontrolsetcontrolkeyboard layout]; &quot;scancode map&quot;=hex:00,00,00,00,00,00,00,00,03,00,00,00,3a,00,1d,00,1d,00,3a,00,00,00,00,00 but now i can't switch it back, i bought a new computer and i have to press the keys the other way round [caps lock is ctrl and vice versa] i also changed the registry by adding this : windows registry editor version 5.00 [hkey_local_machinesystemcurrentcontrolsetcontrolkeyboard layout]; it still didn't work.  </s>
+<s> so i need urgent help.  </s>
+<s> i'm currently using a logitech newtouch 100 now.  </s>
+<s> ~brandon  </s>
+<s> to before you made the changes?  </s>
+<s> create and use the un-caps2ctrl.reg  </s>
+<s> at notice that minus sign?  </s>

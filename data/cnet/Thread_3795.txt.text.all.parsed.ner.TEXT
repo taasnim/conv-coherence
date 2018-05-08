@@ -1,0 +1,59 @@
+<s> i noticed the a lot of people have computers home like windows home servers and other types of web services that allow people from the internet to connect to systems on there home networks.  </s>
+<s> the way most people set this up is using the dmz (demilitarized zone) function on there routers or the port forwarding feature are are dangerous.  </s>
+<s> the dmz mode in these home routers really provides you no security like a real dmz would.  </s>
+<s> so i thought it may be nice to give you a not so quick tip how you could at a reasonably low cost create a secure dmz much like the ones used at a business.  </s>
+<s> lets me spend a second first explaining what a real dmz should do.  </s>
+<s> a real dmz is designed allows you to place a pc / server on the internet in a section of your network that is isolated from every other computer on your network.  </s>
+<s> this then means that if a hacker (heaven forbid) was to gain control the system in your dmz they couldnt use it to access information on other computers in your network. the hacker could do bad things to the system in the dmz granted but it would be limited to only that one system.  </s>
+<s> and if youre placing any system on the internet youre going to have to accept some risk.  </s>
+<s> (that said always keep it patch and run updated anti-virus to minimize that risk.) the home versions dmz and port forwarding options that exist on 99% of home routers allow access to the system from the internet but do nothing to prevent the computer this is in the dmz mode from accessing other computers on your home network.  </s>
+<s> that means that if a hacker was to gain control over the system on your linksys, smc, netgear, etc, dmz they could then use that system to access file shares and other information on your other pcs in your house. the simple solution maybe something you already have or if not you can get for cheep ($25-$35).  </s>
+<s> you just need a second router (any brand will do).  </s>
+<s> with two routers you can easily setup a meaningful dmz that limits all access just like they do with all of the commercial firewalls.  </s>
+<s> here is how you set it up.  </s>
+<s> connect your 1st router the way you always would (or already have), then connect the wan / internet port on your 2nd router to one of the lan / pc ports on your 1st router.  </s>
+<s> then connect all the computers you want to be secure on to the 2nd router.  </s>
+<s> connect the server you want put in a dmz to the 1st router.  </s>
+<s> then configure the dmz / port forwarding on the 1st router to allow access to the pc you have placed on that router.  </s>
+<s> at this point youre really done.  </s>
+<s> you may ask so why is that so much better then just using one router.  </s>
+<s> good question by default wan port on your routers are good firewall and by default it prevents a lot of traffic from gaining access to your internal network.  </s>
+<s> once you turn on dmz / port forwarding feature on youre really disabling a lot of the security benefit of the device.  </s>
+<s> by not turning on the dmz function on the 2nd router youre protecting the computers on that network and preventing even the computer on the first router from accessing them.  </s>
+<s> dont believe me fair enough try this.  </s>
+<s> once you have this setup sit at one of the computers on the 2nd router and try to access the computer in the dmz.  </s>
+<s> if setup correctly you should be able to access the system in the dmz just like you can access any other system on the internet from the 2nd router.  </s>
+<s> this is because the 2nd routers default firewall allows you to access anything out the wan port.  </s>
+<s> now sit at the computer on the 1st router and try to access any computer on the 2nd router.  </s>
+<s> you should have no luck.  </s>
+<s> that is because the firewall in the 2nd router blocks all traffic incoming and considers you sitting on the 1st router no different then any untrusted user on the internet attempting to access your home network.  </s>
+<s> in the end what you have created is an untrusted network on the 1st router and a trusted network on the 2nd router.  </s>
+<s> pcs on the trusted network can still use the internet but people on the internet can not directly access them.  </s>
+<s> with this setup you can push thing out to the system in the dmz from the computers on your trusted 2nd router and do all remote management from the trusted system on the 2nd router.  </s>
+<s> one final note if you want you could also turn on wireless on both routers (if they both support wireless).  </s>
+<s> you could even open up the 1st router to have no password on your wireless.  </s>
+<s> this would allow anyone to connect to the 1st wireless router to access the system in your dmz or any system on the internet.  </s>
+<s> however just like the dmz system connect to the 1st wireless network will have no access to the information on your secure network on your 2nd router.  </s>
+<s> if you do turn on wireless on the 2nd router please be sure to use wpa or wpa2 encryption with a complex password.  </s>
+<s> (please never use wep or unencrypted wireless on any wireless network you want to keep secure.) hope someone finds this useful.  </s>
+<s> all the best, joe dawson  </s>
+<s> wpa2 has resulted in issues in the field.  </s>
+<s> since no maker will &quot;own up&quot; and fix the failed driver i can't tell people to use wpa2 today.  </s>
+<s> the next thing is something called client and ap isolation.  </s>
+<s> it may provide what you want without a second router.  </s>
+<s> bob  </s>
+<s> maybe i have just been lucky but my dell's and mac's have had no issues with wpa2.  </s>
+<s> i didn't know other have had issues.  </s>
+<s> everything i read so far on clint ap isolation talks about how it prevents one wireless client from communicating with another wireless client.  </s>
+<s> if that also works on the wired ports it could be a good start to a real dmz.  </s>
+<s> i just haven't read anything that says it works on wired ports yet or had a chance to test it.  </s>
+<s> i think we setup some 100 networks a week so eventually you run into it.  </s>
+<s> since makers won't fix the issue we have little choice here.  </s>
+<s> i have yet to test the client isolation in ddwrt but will someday.  </s>
+<s> bob  </s>
+<s> no doubt bob your right.  </s>
+<s> i just haven't had the chance to see it.  </s>
+<s> i have only worked with a 40-50 wireless networks of 1,000+ nodes each.  </s>
+<s> but most all of them are the same brand gear so maybe that again is why i have been lucky.  </s>
+<s> i will keep an eye out for that issue now.  </s>
+<s> so thanks for the heads up.  </s>

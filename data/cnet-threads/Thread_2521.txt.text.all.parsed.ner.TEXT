@@ -1,0 +1,24 @@
+<s> i have a seagate external hd. plug into port on my comp, lights up so the powers good.  </s>
+<s> open &quot;my computer&quot; in my windows xp(stop laughing, i know it's old).  </s>
+<s> drive shows up but will not open.  </s>
+<s> after many moments waiting the error message comes up: &quot;cannot open due to i/o damage&quot; i need all the info recovered as it stores pictures of a recently deceased daughter of mine.  </s>
+<s> i'm low tech, so take it easy.  </s>
+<s> i went to seagate website to download drivers for updating, could not even find my product!  </s>
+<s> downloaded driver manager and it says it's not plugged in.... help - i'm confused.  </s>
+<s> i have purchased a new usb 2.0 cable.  </s>
+<s> still , no action in recovering the info from the seagate.  </s>
+<s> any suggestions?  </s>
+<s> you hope it's the interface and not the drive itself.  </s>
+<s> you open the case and remove the drive.  </s>
+<s> with a little luck, it will have a standard pata or sata drive on the inside.  </s>
+<s> most do but i've seen some proprietaries.  </s>
+<s> if it's just a standard drive, you connect it to a port on the motherboard.  </s>
+<s> cross your fingers, boot the machine and hope its recognized.  </s>
+<s> if so, you extract your data and make immediate extra backups.  </s>
+<s> afterward, you replace your external with two of them.  </s>
+<s> good luck.  </s>
+<s> usb cables to external hard drives have to be pretty short (usually around 2 feet) because of critical timing.  </s>
+<s> if you replace the cable with anything longer, you're almost certain to get wierd errors because the timing isn't right.  </s>
+<s> generally replacing the cable that came with the drive is not a good idea because of that.  </s>
+<s> the other reason for short is that usb powered drives need every milliwatt that usb can muster.  </s>
+<s> bob  </s>

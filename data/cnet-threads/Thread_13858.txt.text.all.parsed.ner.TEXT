@@ -1,0 +1,15 @@
+<s> can i have my pc connected to two modem/routers at the same time (motherboard offers 2 lan ports) but only setup so that it connects to the internet through one of them? the reason is the following: i have 2 dsl lines, and 2 modem/routers.  </s>
+<s> i want to have one dsl providing access to the internet to my desktop pc (through modem/router 1), and the second dsl line providing internet to laptop, ps3 and other secondary devices (through modem/router 2).  </s>
+<s> however, i still want to have everything connected in a home network, so in order to do that i need to have my desktop pc also connected to the modem/router 2. how can i do that?  </s>
+<s> i am running windows 7 x64.  </s>
+<s> thanks!  </s>
+<s> so if i read this right desktop will only go to internet via router 1 other machines will only go to internet via router 2 desktop needs access to just the devices attached to router 2 and nothing past it.  </s>
+<s> first you need different subnets for your 2 routers.  </s>
+<s> ie 192.168.1.0/24 and 192.168.2.0/24... or whatever you like.  </s>
+<s> everything is setup pretty much standard except your connection on desktop to router 2. on this network interface you want to use a hard coded ip from the subnet assigned to router 2. do not set the default gateway or the dns on that interface.  </s>
+<s> your machine will have 2 ip addresses one on each subnet.  </s>
+<s> since there is only a single default route it will use that to go to internet but is smart enough to know based on the subnet mask that it can talk directly to your other machines.  </s>
+<s> if you issue the route print command from the cmd line you should see both network.  </s>
+<s> you may have to set options in the bios on some motherboards to allow both to be active at the same time.  </s>
+<s> if your question is the more standard one we see here of how to actually use 2 internet connections from a single machine that answer is that it is very hard to get to work effectively.  </s>
+<s> thank you, that was exactly what i was looking for  </s>

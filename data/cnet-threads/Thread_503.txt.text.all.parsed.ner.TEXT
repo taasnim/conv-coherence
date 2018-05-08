@@ -1,0 +1,26 @@
+<s> hi, i have 4 pc's: 2 win 98's, 1 winxp, and a new win vista.  </s>
+<s> one of the 98 computers had the printer (hp deskjet series 5550).  </s>
+<s> i took the printer off that pentium ii win 98 box (pc due to retire) and installed the printer directly connected to the new vista box.  </s>
+<s> that went well.  </s>
+<s> (enough).  </s>
+<s> i added the printer as a network printer to the win xp machine, and printed a test page.  </s>
+<s> wow, that went well!  </s>
+<s> i tried to &quot;add printer&quot; on the pentium 4 win 98 box.  </s>
+<s> :.-&lt; &quot;browse for network printer&quot; will not find the printer connected to the vista box.  </s>
+<s> i can't guess a path to the printer that works from the 98 box.  </s>
+<s> in xp shared printer is ok, in 98 &quot;add printer&quot; can't find shared printer, printer works well locally in vista.  </s>
+<s> how do i use vista printer from win 98 computer?  </s>
+<s> thanks!  </s>
+<s> b  </s>
+<s> hey, what needs to happen: go into properties of your printer on vista and under the sharing tab click on &quot;additional drivers&quot; and check win 98, this should do the trick.  </s>
+<s> it might want the drivers disk to do this, if you dont have a disk, google for win98 drivers.  </s>
+<s> this is the process to add drivers to an xp box, the vista process might be a little different, but similar, look around for similar settings or titles to the ones i mentioned.  </s>
+<s> whoa! that makes sense!  </s>
+<s> i will give it a try.  </s>
+<s> b  </s>
+<s> in fact, it turns out that i added xp that way.  </s>
+<s> in vista when i go to add drivers i get to choose by *processor*, not os. that's why i did not remember doing this. the choices are: itanium, x64, x86.  </s>
+<s> i'm beginning to feel non-supported by vista!  </s>
+<s> still, i oughtta be able to *find* the shared printer.  </s>
+<s> i'm gonna go look for it again.  </s>
+<s> thanks scottwang!  </s>

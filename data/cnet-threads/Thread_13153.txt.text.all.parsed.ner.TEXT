@@ -1,0 +1,15 @@
+<s> i have a small company which has separate computers for internet use and other computers for work use.  </s>
+<s> currently all have access to the internet and the network i would like to limit those computers for internet for internet and the others for network only.  </s>
+<s> very occassionally we would need remote access to these networked computers.  </s>
+<s> is there some sort of router or device that i can put between our high speed modem and the rest of the network to control which pc get internet and which computer gets network access.  </s>
+<s> no i don't want seperate networks this would be way to hard to maintain.  </s>
+<s> especially for updates etc.  </s>
+<s> i could install a filter that denied such in the router for a specific pc.  </s>
+<s> not that i'll duplicate the manual but in the router you reserve ip addresses for those machines that need blocking (so we can use dhcp) then for those ips we block sites outside our lan.  </s>
+<s> -&gt; your it staffer should be able to do this.  </s>
+<s> if not, talk to hr on how to replace them.  </s>
+<s> bob  </s>
+<s> thank you for your help i will definately look into that.  </s>
+<s> by accessing the ip and then adding filter to the computers which are to be connected to the internet you can get solution.  </s>
+<s> your network support services provider main role comes here and i think he can easily filter the ip address.  </s>
+<s> concern your network support service provider.  </s>

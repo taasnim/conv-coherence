@@ -1,0 +1,24 @@
+<s> i live in an apartment, and in the explosion of wifi, i can usually detect up to 5 different routers. the result of this at times seems to be interference where some locations in my apartment never have connectivity to my router; despite only one thin wall and less than 20feet of distance between my laptop and my router.  </s>
+<s> i have updated the router's firmware to the latest version, and have tried using different router channels to no effect.  </s>
+<s> i am using a linksys wrt54gs router, and the laptop in question is an older (but still 802.11g) compaq 2200 series.  </s>
+<s> when signal does reach the area in question, it is stong ( &gt;36mbps ), so i believe interference is the issue.  </s>
+<s> is there anything i can do to help alleviate this problem?  </s>
+<s> i can single out the network which is causing the interfering, is there any way to selectively block that particular ssid?  </s>
+<s> any other suggestions?  </s>
+<s> i just moved into a new place which has quite a few wireless routers.  </s>
+<s> i have found that there my laptop is able to connect from all the rooms however the connection will be very flaky for an hour or two and then things will start working again.  </s>
+<s> my router supports 802.11g but my laptop only supports 802.11b.  </s>
+<s> one of the other problems is that my laptop has a tenendcy to hop to other open access points and even not &quot;see&quot; my access point.  </s>
+<s> is there a way of fixing this?  </s>
+<s> if the problem is isolated to a single room, don't ignore the possibility of interference caused by other electrical equipmnent, such as wireless phones on the 2.4g band.  </s>
+<s> and, try to get the antennas up as high as possible, with few/no obstructions (under the desk, next to the pc's metal enclosure is not good) you might also check to see if your wap's transmisson strength can be tweaked.  </s>
+<s> finally, do a sweep of visible networks (using your wireless card's diagnostic tools) to see what stations the other ones [esp. the strong ones] are xmitting on.  </s>
+<s> try to get 6 channels of separation from them.  </s>
+<s> also, the wireless client card you're using can matter.  </s>
+<s> check around and get the best quality you can. as a last resort, consider a wireless card that has an external antenna, or get one of the usb wireless adaptors that has an antenna.  </s>
+<s> no other devices between the touter and the laptop operate in the wireless realm.  </s>
+<s> how do i go about sweeping other routers signals?  </s>
+<s> is that a diagnostic tool built into the windows wireless network setup?  </s>
+<s> since the card in my laptop is and internal oem i do not believe there is additional software beyond the windows standards.  </s>
+<s> i repeat, i have tried setting the router on all the different channels to no effect, and the router is on a cabinet about 5feet off the floor.  </s>
+<s> all the networks my computer sees are wep protected (so my computer wont try to connect to any but mine). the problem is that mine will faze in and out and be replaced by one specific other router.  </s>

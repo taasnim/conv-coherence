@@ -1,0 +1,30 @@
+<s> we are running winxp we have a cable connection to the dlink di-524 router.  </s>
+<s> our lan consists of two desktops wired to the router, one wireless laptop, and a wireless xbox adaptor model: mn-740. the xbox adaptor only has wep security (not wpa).  </s>
+<s> i live in a densely packed neighborhood and at any time there are strangers using my wireless router because i have no security enabled.  </s>
+<s> i have tried to secure the network, following the dlink instructions, but always end up with one problem when i enable wep security: the xbox live cannot access the internet, even after adding the wep key into the xbox security section.  </s>
+<s> please tell me very simply how to enable my dlink wep security and how to make it work with the xbox adaptor.  </s>
+<s> one more thing, when i look on the di-524 info on the home, dhcp page, only the computers are listed, the xbox is not listed, is the the cause of my problems and if so, how do i add the xbox to this page?  </s>
+<s> sorry to add to my question, but would mac filering help solve this problems, and if so, how do i do it?  </s>
+<s> thank you  </s>
+<s> the way the forum sticky suggests.  </s>
+<s> rick  </s>
+<s> please tell me where in the sticky it explains how to get the xbox live to work while securing the dlink router.  </s>
+<s> i see it says mac filtering is a joke, and wep isnt very much better.  </s>
+<s> how to i add the ip address of all four of my systems to a safe zone so i can lock out everyone else?  </s>
+<s> i cannot figure out how to add my 3 computers into the firewall rules list--funny the xbox ip is already listed.  </s>
+<s> i read di-links instuctions on setting up the di-524 firewall but they did not include much details and i got lost, for example, what do i chose for my destination?  </s>
+<s> what are my port numbers?  </s>
+<s> the tcp ports seem to be 1033-51652 but that doesnt sound right.  </s>
+<s> i need to be walked through the steps as i just cannot get it.  </s>
+<s> thank you  </s>
+<s> wait, that's worse than trying to block by mac address. the sticky is our hard earned advice won from far too many calls in the field.  </s>
+<s> please set it all up with wpa now and you'll not find anyone mooching on your connections.  </s>
+<s> bob  </s>
+<s> you download and install the firmware for your wireless router, make and model, from manufacturers website since you already made an attempt to do this, change your ssid(this will make it easier to connect) broadcast ssid use wpa security use mixed b and g mode(n if applicable) use channels 1, 6 or 11. most devices work better on these channels, like xbox and other game systems.  </s>
+<s> now save and exit.  </s>
+<s> restart your computer.  </s>
+<s> now each computer needs to go to available networks connect and enter your passkey/password.  </s>
+<s> this also has to be done for the game system.  </s>
+<s> you're secure and every can connect and be happy.  </s>
+<s> if usinf a wireless printer or print server, you'll also have to change this.  </s>
+<s> rick  </s>

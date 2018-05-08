@@ -1,0 +1,33 @@
+<s> i have a weird/funny problem with my seagate 80 gb hard disk (non-sata).  </s>
+<s> whenever i try to boot windows installed on it, i get the windows advanced options screen (start in safe mode, safe mode with command prompt etc.) with the message that the system was not properly shut down.  </s>
+<s> whatever i option i select, windows makes a bit of an effort to move forward, but then reboots and takes me back to the same advanced options screen.  </s>
+<s> to resolve this problem i decided to repair/format-and-reinstall windows when i noticed the strangest thing: my dvd-rom wouldn't work as long as i attached this particular hard disk to the computer.  </s>
+<s> any other hard disk and everything is fine. the problem is not specific to my pc either; i tried the hard disk on computers of a couple of friends and it jammed their cd/dvd-roms in the same mysterious way.  </s>
+<s> this clearly is a hardware problem, but i cannot imagine what on earth could cause a hard disk to affect a dvd-rom.  </s>
+<s> so if you have some insight into this, please help; not just because i want to retrieve some important data from the hard disk, but also because i badly want to know the reason behind such unique problem.  </s>
+<s> thanks a lot in advance, the impossible.  </s>
+<s> here's the deal.  </s>
+<s> not all ide devices co-exist on the same cable.  </s>
+<s> only those that maintain &quot;it should work&quot; will lose much time here.  </s>
+<s> as ide jumper settings and cable type was not shared i suggest you research that first or just tell the forum what settings and ide cable type you used.  </s>
+<s> bob  </s>
+<s> cable type, i will have to check; don't know much about it, but should be able to figure out the answer.  </s>
+<s> and hey, thanks a lot for the quick reply.  </s>
+<s> is the 80 conductor ide cable.  </s>
+<s> this has saved me so much time because the jumper settings are always the same (cable select.) bob  </s>
+<s> 80-conductor ide cable.  </s>
+<s> i am looking for for more details, if they are required.  </s>
+<s> i think mine is ata66.  </s>
+<s> i am also trying to figure out what do 100 and 133 mean in ata66/100/133.  </s>
+<s> the settings i use is cable select.  </s>
+<s> as to ata speeds you can google that quick enough for full explainers that you can pick the one you like.  </s>
+<s> bob  </s>
+<s> including all bob offered, and what you've discovered on the hd causing problems.  </s>
+<s> i suggest you find an adapter or ext.  </s>
+<s> hd that accepts ide connection to attach to the usb port.  </s>
+<s> that way, you can access you data and retrieve it.  </s>
+<s> there really isn't any repair here for the hd, the electronics are hosed and its better simple to swap out.  </s>
+<s> since, its an 80gb'er it just shown its age and if you like to play with it, but once your data is retrieved, pitch it.  </s>
+<s> of course, i hope the adapter or ext.  </s>
+<s> usb case will work with that hd. also, mark it as to its problem if you keep it.  </s>
+<s> tada -----willy  </s>

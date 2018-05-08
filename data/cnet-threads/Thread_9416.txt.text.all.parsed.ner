@@ -1,0 +1,8 @@
+(TOP (S (S (NP (NNP monitor)) (VP (AUX is) (NP (NNP samsung) (NN syncmaster) (NNS 2253lw)))) (CC and) (S (NP (DT the) (JJ video) (NN card)) (VP (AUX is) (NP (NN gigabyte) (NN radeon) (date (CD 9200))))) (. .)) )
+(TOP (S (NP (DT both)) (VP (AUX have) (NP (JJ analog) (CC and) (JJ digital) (NNS ports))) (. .)) )
+(TOP (S (S (S (VP (VBG running) (NP (JJ winxp) (NN pro)))) (, ,) (VP (VBZ sp3))) (, ,) (CC and) (S (NP (DT the) (NNP samsung) (NNS drivers)) (VP (AUX have) (VP (AUX been) (VP (VBN installed))))) (. .)) )
+(TOP (S (NP (DT the) (JJ analog) (NN signal)) (VP (VBZ works) (ADJP (RB just) (JJ fine))) (. .)) )
+(TOP (S (NP (DT some) (NNS monitors)) (VP (AUX do) (RB n't) (VP (VB autoswitch) (PP (VBN based) (PP (IN on) (NP (DT the) (JJ live) (NN signal)))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX do) (RB n't) (VP (VB believe) (SBAR (S (NP (PRP i)) (VP (VBP know) (SBAR (WHADVP (WRB where)) (S (VP (TO to) (VP (VB go) (S (VP (TO to) (VP (VB accomplish) (NP (DT that)))))))))))))) (. .)) )
+(TOP (S (S (NP (PRP i)) (VP (VP (VBD looked) (PP (IN in) (NP (DT the) (NNS bios)))) (, ,) (CC but) (VP (AUX did) (RB n't) (VP (VB see) (NP (NP (NN anything)) (SBAR (S (NP (EX there)) (VP (TO to) (VP (VB change)))))))))) (, ,) (CC and) (S (NP (DT the) (NNS cables)) (VP (VP (AUX are) (VP (VBN terminated) (ADVP (RB differently)) (PP (IN for) (NP (CD dvi))))) (, ,) (CC and) (VP (ADVP (RB only)) (VB use) (NP (DT the) (JJ rectangular) (NN fitting))))) (. .)) )
+(TOP (S (S (VP (VB look) (PP (IN in) (NP (DT the) (NN monitor) (NN menu) (NNS settings))))) (, ,) (NP (EX there)) (VP (MD should) (VP (AUX be) (NP (NP (DT an) (NN option)) (, ,) (NP (FW vga/dvi) (FW etc))))) (. .)) )

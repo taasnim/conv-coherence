@@ -1,0 +1,56 @@
+<s> hi my wife is starting to have problems with her pc. the flatscreen goes blank and nothing seems to get it working again without shutting the machine down and restarting. the screen is about 2/3 years od but the graphics card is older. is there a test to see if the graphics card is failing (it's a radeon)?  </s>
+<s> they put in another card and retest.  </s>
+<s> i know what you are asking but pc makers have been lax about issuing test or diagnostic software.  </s>
+<s> the reason is simple.  </s>
+<s> such software is expensive and swapping a card is cheaper.  </s>
+<s> your issue can be a failed fan on the graphics card or software but again there is no diagnostic software worthy of mention.  </s>
+<s> you'll find that shops across the globe will clean the heatsinks, replace fans and reload the os. bob  </s>
+<s> thanks - bit beyond my talents i think.  </s>
+<s> i'll need to ring around to get a price.  </s>
+<s> thanks for the quick reply.  </s>
+<s> &gt; [shops] put in another card and retest.  </s>
+<s> that's how i tested for a bad video board.  </s>
+<s> put in a cheap one.  </s>
+<s> was indeed the board.  </s>
+<s> i am somewhat surprised at the claim that computers do not come with diagnostics, no pc i have ever bought did not have them, either with the machine of downloadable from the manufactures site.  </s>
+<s> building diagnostic software is neither difficult nor expensive, especially since the cost is am amortized over thousands of items.  </s>
+<s> you could also swap the monitor if you have an old one.  </s>
+<s> ps in my other life, i amongst other things built diagnostic software.  </s>
+<s> you may need to update the drivers of either the video card, the monitor, or both. the problem might be caused by one or both of the drivers being outdated rather than the video card going bad.  </s>
+<s> if nothing has changed then it is not a driver problem  </s>
+<s> if the screen is going blank and the computer has to be restarted to get a picture back , then it could mean that either the monitor's driver or the card's driver has bugs in it and needs to be updated to a newer version.  </s>
+<s> if the video card was bad then there would be no picture at all, even after the computer is restarted.  </s>
+<s> and there would be a post beep during startup to indicate that the video card is failing (usually 1 long beep and 2 short beeps).  </s>
+<s> or it might be that the monitor itself is not properly connected to the video card at the back of the computer.  </s>
+<s> that could also cause the screen to go blank.  </s>
+<s> well, i've been to the card and screen manufacturers websites and i have the latest drivers.  </s>
+<s> i don't think either is overheating as they both have space around them.  </s>
+<s> 1. just like the shops do this.  </s>
+<s> swap the video card out and re-test.  </s>
+<s> 2. bootup a livecd like ubuntu or damn small linus for a test.  </s>
+<s> the control panel of your video card (not the control panel of windows) should have a built-in option for stress testing your video card.  </s>
+<s> since you use radeon instead of nvidia, i don't know if your video card's control panel has such an option, since i don't use radeon cards.  </s>
+<s> you should check your monitor also to see if you have the latest driver for that.  </s>
+<s> and you should check your connection by unplugging the monitor from the computer and then replugging it again.  </s>
+<s> because by gene8 - 7/25/09 9:56 am in reply to: why by msgale if the screen is going blank and the computer has to be restarted to get a picture back , then it could mean that either the monitor's driver or the card's driver has bugs in it and needs to be updated to a newer version.  </s>
+<s> if the video card was bad then there would be no picture at all, even after the computer is restarted.  </s>
+<s> and there would be a post beep during startup to indicate that the video card is failing (usually 1 long beep and 2 short beeps).  </s>
+<s> or it might be that the monitor itself is not properly connected to the video card at the back of the computer.  </s>
+<s> that could also cause the screen to go blank.  </s>
+<s> not true.  </s>
+<s> my g force 8800 ultra took a week to finally go completely.  </s>
+<s> i was getting green and blue horizontal lines across my screen.  </s>
+<s> and couldn't play any games unless it would freeze and require a restart.  </s>
+<s> at the end (waiting for my new 9800 gtx to come) the vga took over and i couldn't bring up my video card any more.  </s>
+<s> at that time i looked in my device manager and it had the yellow question mark next to my video card slot, so that cemented my assumption that it was my video card.  </s>
+<s> probably yours too.  </s>
+<s> video cards are cheap is you buy last years models.  </s>
+<s> (9000 series g force 3000 series ati $60-$100)  </s>
+<s> first thing to try is plugging in another monitor, 90% of all these types of problems are the monitor and/or cable.  </s>
+<s> if the fault clears treat yourself to a new monitor, otherwise try and locate a new graphics card, bearing in mind that if the pc is that old you may have to buy second hand (ebay) to get one that will fit the slot!  </s>
+<s> check how many separators there are when you look at the connections, this will tell you what type of agp bus it uses.  </s>
+<s> hi thanks for the posts.  </s>
+<s> a new dimension has been added.  </s>
+<s> yesterday the screen went a puce shade of green.  </s>
+<s> i have tried a different monitor but no problem was encountered so i went back to the flat screen.  </s>
+<s> it's difficult to know when the problem will happenas it seems quite random.  </s>

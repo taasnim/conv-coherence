@@ -1,0 +1,3 @@
+<s> i have an asus a8v deluxe motherboard with the usb header marked - usb+5v usb+5v usb_p7- usb+p8- usb_p7+ usb+p8+ gnd gnd nc (per pin) i have cables coming from my usb ports on my case marked 1 ground, 1 -d, 1 +d, 1 +vcc, 2 ground, 2 -d, 2 +d and 2 +vcc which cable goes to which pin so i can use the front usb ports on my case?  </s>
+<s> check out this posting:  </s>
+<s> usb+5v usb+5v ....... 1+vcc, repeat for 2nd port usb_p7- usb+p8- ..... 1-d usb_p7+ usb+p8+ ..... 1+d gnd gnd ............. 1ground nc .................. 1no connection 2-d, etc. are 2nd port tada ----willy  </s>

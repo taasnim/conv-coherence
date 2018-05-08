@@ -1,0 +1,31 @@
+<s> hello all i have a snow leopard imac with virtualbox installed.  </s>
+<s> on my virtualbox i am running windows 7. my job has two different networks.  </s>
+<s> i need my mac on network 1 and i need to have my windows 7 in virtualbox on network 2. if i install a usb ethernet port on the imac and plug network 2 into it, how can i make it work just for virtualbox?  </s>
+<s> i then want to make the built in ethernet port work on network one and be just for the imac?  </s>
+<s> can it be done or am i just crazy?  </s>
+<s> thank you  </s>
+<s> but i've seen such requests before so given how this works, i'm going with not going to work out for you as you planned.  </s>
+<s> why not connect both networks and then tell windows to use that lan?  </s>
+<s> bob  </s>
+<s> the problem is the two subnets.  </s>
+<s> one should not be connected to the other.how do i make the mac ignore one of them?  </s>
+<s> the route table, netmask and more details but i only see the tip of the iceberg of information here.  </s>
+<s> while i did write router code back in the early 1990s it appears you are trying something for reasons i can only guess at.  </s>
+<s> at the office i have something like this but i use 3 laptops to do the work.  </s>
+<s> bob  </s>
+<s> i work at a school.  </s>
+<s> i need to be connected to the instructional network sot fix computers, monitor student usage and all around support.  </s>
+<s> i also need to be on the administration network for the same reasons.  </s>
+<s> i currently have two computers to do this.  </s>
+<s> i would like to have one computer and put my other one out for student use.  </s>
+<s> i want my mac on the instructional and my virtual windows on the administration.  </s>
+<s> one cannot be connected to the other.  </s>
+<s> we have networks of hardware controls so we emulate this on our test rigs.  </s>
+<s> given how perilous setting up a single laptop would be and that it would be an emulation of the real thing we don't do what you propose.  </s>
+<s> but if i was to do this i would be looking at route tables, masks and such.  </s>
+<s> and there's the rub.  </s>
+<s> most folk can't alter a route table.  </s>
+<s> i know it took me years to learn this.  </s>
+<s> i mean i could issue the command but until i was on that router software dev team i didn't understand it because i didn't have to.  </s>
+<s> fast forward to your setup. it may take time for you to pound out what your apple's route table looks like for this one.  </s>
+<s> bob  </s>

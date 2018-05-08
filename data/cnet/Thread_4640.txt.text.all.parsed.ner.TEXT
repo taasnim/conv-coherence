@@ -1,0 +1,42 @@
+<s> i run windows xp, have windows service pack 3 and i have d-link 615 router.  </s>
+<s> there is only one other computer that is linked to the wireless network and that is the labtop i'm using right now. it is the only one with a consistent connection to the net.  </s>
+<s> my wired computer disconnects from the internet sporadically then reconnects after 30 minutes to an hour or so.  </s>
+<s> i haven't done anything new or out of the ordinary.  </s>
+<s> the only thing i can think of is that i had to reset my router and set up my network from scratch.  </s>
+<s> after that, my connection hasn't been the same.  </s>
+<s> i've called dlink about my problem, but the best answer they could give me is plugging into another port on my router.  </s>
+<s> i've also re-powered the router and modem several, several times.  </s>
+<s> that doesn't even get me a couple of seconds of the internet.  </s>
+<s> sometimes rebooting works.  </s>
+<s> when i run network diagnostics on internet explorer i get an error on my winsock status. it says error attempting to validate the winsock base providers: 2. at first i thought the winsock was the problem and i've opened up the command prompt and have reset it as well as downloaded winsock xp fix.  </s>
+<s> i also receive an error on my http, https, ftp connectivity.  </s>
+<s> i've been trying to research my problem for the past week.  </s>
+<s> so i've taken some steps already to try and resolve my problem.  </s>
+<s> i've ran network diagnostics in help and support and the following has failed on my network adapters: default gateway (same subnet) dhcp server dnsserversearchorder i've tried to repair my connections but it always gets stuck on renewing my ip address.  </s>
+<s> it seems i never can do it.  </s>
+<s> i've checked my connections and everything seems to be running fine.  </s>
+<s> it says i am connected to the internet yet, i can't access a website.  </s>
+<s> my connections are set to obtain ip address auto and the same goes for the dns server.  </s>
+<s> i've flushed and registered my dns.  </s>
+<s> i've also downloaded and ran ad-aware and spybot and super anti spy ware.  </s>
+<s> all three picked up on different things,and i have taken the steps to rid them from my computer already.  </s>
+<s> why would my computer act differently when it was running just fine?  </s>
+<s> it looks like the os is damaged.  </s>
+<s> you can try xp repair install (see google) but for all your post i can't tell what pc or xp cds you have to work with.  </s>
+<s> that is, the forum asks you to note make and model but i can't find it.  </s>
+<s> good luck with the xp repair install and let's hope you are all backed up.  </s>
+<s> bob  </s>
+<s> i have an hp pavilion a1477c.  </s>
+<s> as far as discs i'm unfamiliar with any.  </s>
+<s> what kind would i need?  </s>
+<s> how is it that you come to the conclusion that my os is damaged?  </s>
+<s> my computer and internet connection was working just fine before.  </s>
+<s> &quot;ow is it that you come to the conclusion that my os is damaged?  </s>
+<s> my computer and internet connection was working just fine before&quot; the answers are in your posts. it doesn't matter that it worked before, these pests such as xp antivirus 2008 and more are wrecking havoc to the point i'm now finding it faster to copy the owner's files out then restore the machine with the restore cd or if this is the windows media center pc 2005 a1477c hp pavillion with a ms-7184 (sb450/ati chipset), they offer the f10 restore on bootup which can do this without the cds.  </s>
+<s> this os is taking too much damage today to do much else than a restore.  </s>
+<s> here's why -&gt; these retail hp and other machines do not ship with the microsoft windows xp cd so all the repair methods you read about do not apply.  </s>
+<s> hp has their way and not much else.  </s>
+<s> good luck!  </s>
+<s> bob  </s>
+<s> does anyone else have another suggestion?  </s>
+<s> or do we all agree that i should reinstall xp? i will do this as a last resort.  </s>

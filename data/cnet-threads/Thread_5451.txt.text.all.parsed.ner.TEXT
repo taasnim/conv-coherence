@@ -1,0 +1,20 @@
+<s> dear all, i am facing a strange problem with my pc. just assembled it two days ago. the configuration being p4 3.0 ghz, 512 mb ram, 80 gb sata hdd, gigabyte motherboard having intel 865 chipset, mercury atx cabinet etc. my friend, who assembled it, has installed windows xp and few softwares in it.  </s>
+<s> now when i brought it to my home it is not running properly.  </s>
+<s> it starts and shows memory count, bios name, detects dvd writer ( do not detect hard disk but this may be a hardware issue) and continues operations, but after 2 to 3 minutes it got shutdown automatically.  </s>
+<s> as it detects dvd writer so i tried running a bootable disk (sun java desktop system), but after booting from dvd it runs for about 3 minutes and the got shutdown automatically.  </s>
+<s> i tried other operations like running bios setup, but the same thing happens, it runs for 2-3 minutes and then shutdown automatically.  </s>
+<s> this 2-3 minutes duration of operation is after cold boot but if i hot boot it after shutdown it do not work for even 2 minutes, shows memory and bios info and then shuts down automatically.  </s>
+<s> what may be the problem? is this a power related problem?  </s>
+<s> i checked earthing with the help of electrician, and it is ok. is this the problem related to motherboard of processor?  </s>
+<s> another thing that i noted is it is showing the processor as p4 2.4 ghz, but i purchased it as 3.0 ghz.  </s>
+<s> sometimes it shows it as 3 ghz, but sometimes it shows it as 2.4 ghz.  </s>
+<s> please help me asap.  </s>
+<s> thanks in advance.  </s>
+<s> -sameer  </s>
+<s> there are some things to check.. .. was the mobo installed correctly.. there can not be any metal parts contacting the backside of the mobo.. only the correct mounting holes can be used.. .. next is the use of peripherals.. remove all the peripherals and try a re-start/remove all the pci-cards also.. .. then for a self-build..there are the psu-connectors.. and the use of adapters or the wrong cables as a form factor/ atx boards get atx psus..my microatx does use a atx psu.. .. the tricky part of building a pc.. is the front panel power switch.. do you have a front panel power switch..?? or.. is the power-on sw. part of the power supply..?? this would need to be checked in accordance w/the front panel power sw.  </s>
+<s> header(located)on the motherboard.. your mobo mfg.  </s>
+<s> should have some explanation about the frt.  </s>
+<s> panel power sw.[header]&lt;&lt;--this is where the power-on pin assignments use the leds on the front of your pc.. it is the safest mode for a pc to start-up.. if you do not use such a switch..?? i would re-do the assy.  </s>
+<s> is a great sign that it got too hot and issued the shutdown command.  </s>
+<s> check to see if the hsf on the cpu somehow came loose when you took the compiter home.  </s>
+<s> also check that the 4 pin 12 volt connector for the cpu is not loose.  </s>

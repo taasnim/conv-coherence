@@ -1,0 +1,79 @@
+<s> i have an emachine t3112 amdsempron processor 3100+; 1.80 ghz, 1600 mhz fsb; 256 kb l2 cache; 80 gb hd; 256 mb ddr memory (plan to upgrade this to a gig soon) current video card is a s3 unichrome 3d with an avg slot available.  </s>
+<s> 56k modem.  </s>
+<s> am running windows xp home edition version 2002 with service pack 2. i believe the graphic card shares memory as i only show 192 or ram.  </s>
+<s> i read the cpus on the emachines are crap with low wattage(wish i had known that before i bought it.) what i am looking for is advice on purchasing a gaphic card that will allow me to do some gaming without straining this machine.  </s>
+<s> i would be satisfied to play older games if needed.  </s>
+<s> would a card like nvidia 5500 be okay for this computer?  </s>
+<s> any other suggestions?  </s>
+<s> any and all help will be very appreciated.  </s>
+<s> like i cited above i plan on adding ram to the machine before installing a new card.  </s>
+<s> thanks, maxy  </s>
+<s> lots of video cards, apg and pcie, to choose from.  </s>
+<s> once you narrow it down...double check the psu requirement and go from there.  </s>
+<s> re ram...check you system docs carefully and by all means look at sites like crucial.com.  </s>
+<s> sometimes it best to add ram in pairs to maximize system performance.  </s>
+<s> before you go too far...check to see if buying a new unit may be better/cheaper than upgrading...adding ram, adding new video card and maybe a new psu.  </s>
+<s> vapcmd  </s>
+<s> yes it is a sempron which is the stripped down amd cpu, just as a celeron is a stripped down pentium.  </s>
+<s> they run just fine for most applications [the majority of low priced systems use celerons or semprons.  </s>
+<s> yes more memory should be a big help.  </s>
+<s> do you mean that an agp slot for a video card [not avg] is available.  </s>
+<s> if so great, but don't get confused that most new video cards are pci express.  </s>
+<s> check your bios if you can disable the onboard video, thus witha plug in card you will get the shared memory back also.  </s>
+<s> i appreciate your feedback.  </s>
+<s> even though crucial says i can add different size memory modules side by side i will probably match them.  </s>
+<s> btw are they a reputable company in your opinion?  </s>
+<s> i know pitstop recommends them.  </s>
+<s> this computer is only about a year old and except for gaming has served me okay.  </s>
+<s> needs more ram but other than that no major complaints so i am by no means ready for a new machine yet.  </s>
+<s> i think what i probably meant to ask in my last post was: what is a good graphic card upgrade for the emachine t3112 based on the specs and information i have included?  </s>
+<s> i just double checked and it says agp slot available.  </s>
+<s> as far as the cpu on this machine i guess i was just relating stuff i had read on other forums.  </s>
+<s> believe me i'm no expert on computers.  </s>
+<s> if i was i wouldn't be asking so many questions.  </s>
+<s> lol.  </s>
+<s> would you be kind enough to tell me how to check the bios to see if the card can be disabled?  </s>
+<s> i have never ventured in there.  </s>
+<s> and, thanks for your feedback.  </s>
+<s> that emachines use to get into the bios.  </s>
+<s> it varies. the option only happens during early parts of the booting process.  </s>
+<s> many computers show a message &quot;to enter set-up&quot; hit {they then give the name of the key].  </s>
+<s> as an example for most non proprietary computers it is the del key.  </s>
+<s> hopefully the manual will tell you what key to hit and when.  </s>
+<s> surely someone else in these forums will know.  </s>
+<s> just realize that even though the actual function you want is set-up, it is usually referred to as the bios or as the cmos.  </s>
+<s> they're really slightly different terms but not worth worrying about is you get into that place.  </s>
+<s> lol  </s>
+<s> the emachines web site does not indicate any graphics slot is available for the t311x series.  </s>
+<s> for other models, such as the t312x series, it does indicate if a slot is available.  </s>
+<s> if you are getting the bug for gaming, better to plan to build a new system.  </s>
+<s> as mentioned ading a high power video card may require increasuing the power supply capability, and then going to the amd athlon cpu and on and on.  </s>
+<s> then cooling problems arise within the small case.  </s>
+<s> in this case the lower power consuming sempron is an asset, but for higher level gaming a detriment.  </s>
+<s> gaming and video processing place the greatest demands on computers, thus low price and power are at odds, although there are now some fairly good gaming systems available for $800 or so.  </s>
+<s> the specs are printed on the outside of the tower right below the power button.  </s>
+<s> it says agp slot available underneath the video information.  </s>
+<s> i will research that.  </s>
+<s> now i remember the dos screen when i boot up so that is where you would get that information huh?  </s>
+<s> i really just want a video card that this machine can handle.  </s>
+<s> i don't expect to be able to play the newest and most graphic intense games.  </s>
+<s> i'd be happy to play some of the older classics.  </s>
+<s> don't waste money on the fx series.  </s>
+<s> get a geforce 6 or 7 series or a radeon x15xx or better.  </s>
+<s> $120: geforce 7600gs $115: radeon x1650pro (rebate available, recommended) $110: geforce 6800xt (rebate available) $90: radeon x1550 $56: geforce 6200  </s>
+<s> thank you.  </s>
+<s> i will research these cards.  </s>
+<s> appreciate your help a lot.  </s>
+<s> if you buy from them for your exact pc....they guarantee compatability.  </s>
+<s> there are other sources that carry ram from crucial too....like newegg.com.  </s>
+<s> re the gpu....did you look at tomshardware.com ????? vapcmd  </s>
+<s> i am going to put in order for ram at crucial tomorrow.  </s>
+<s> even though they sayi can mix sizes i think i will get a set just in case.  </s>
+<s> tomshardware was super interesting.  </s>
+<s> i put the link in favs.  </s>
+<s> thanks for helping me.  </s>
+<s> i just want to make the right decision and not buy a card that is too strong for my small computer.  </s>
+<s> if the card is better than i have i will be happy.  </s>
+<s> have a good night.  </s>
+<s> catch ya later.  </s>
+<s> maxy  </s>

@@ -1,0 +1,18 @@
+<s> i have been running xp pro with 2 sata drives.  </s>
+<s> the master with the boot record is a wd2000 and the d drive is a wd2500.  </s>
+<s> yesterday i installed vista ultimate on the d drive with the xp c drive disconnected.  </s>
+<s> after getting vista up and running, i reconnected the old c drive (xp pro) and rebooted.  </s>
+<s> much to my surprise, the computer booted to xp rather than vista. the vista drive showed up as d. in looking at both drives, it says on the drive that no jumpers are required for sata operation.  </s>
+<s> short of reformatting the xp drive, is there any way to get the computer to boot up to vista? the reason i do not want to reformat is that all my data is on the xp drive and i want to transfer it to the vista drive before reformatting the xp drive.  </s>
+<s> i tried to get on the western digital website for info on this, but the site is down or at least it was a few minutes ago.  </s>
+<s> i'm wondering if this could be a bios problem since the sata drives show up there as ide drives which may require jumper setting to operate as master/slave.  </s>
+<s> listen to the real deal podcast where they cover that detail.  </s>
+<s> check the show notes too.  </s>
+<s> my bet is you only need to move which drive is going to which controller. bob  </s>
+<s> it has nothing to do with master/slave designations; therefore, no jumpering or physical change is necessary.  </s>
+<s> use the bios menu to select which drive you want to be designated as the first/primary boot drive.  </s>
+<s> i went into bios and one of the advanced features did allow me to select the hard drive i want to boot to (vista) and it worked great!  </s>
+<s> this allows me to have the best of both vista and xp with my d drive being able to boot to xp with a simple bios switch.  </s>
+<s> i realize or think i heard somewhere that it's possible to have a menu come up in the boot process that does the same thing.  </s>
+<s> from what i've seen so far, i would highly recommend that anyone who has a 2nd hard drive and wants to try vista, to do the same thing.  </s>
+<s> if nothing else, this allows me to still use my epson scanner ans vista will not run the scanner and from the epson website, they seem to indicate they have no plans on writing a vista driver for my scanner.  </s>

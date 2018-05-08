@@ -1,0 +1,27 @@
+<s> hi. i am using 3g network over huawei ec315 usb.  </s>
+<s> i have an tp-link td-w8950nd device too.  </s>
+<s> i want to bridge my tp-link device with the hawei usb which doesn't supports more than 5 connections at a time.  </s>
+<s> tp-link router supports bridge function but i don't know how to do this to expand my network connections.  </s>
+<s> guide me in performing this function!  </s>
+<s> huawei ec315 tp-link td-w8950nd  </s>
+<s> i find that bridging did not let the host device (such as the 315) count up more devices.  </s>
+<s> however shows some dsl modem router so that's a second issue.  </s>
+<s> that is i have yet to meet anyone that has turned a dsl modem router into a router.  </s>
+<s> that's 2 big hurdles why this does not work.  </s>
+<s> and on top of that, the ec315 is usb and wifi so again too many hurdles here.  </s>
+<s> too many wrong parts.  </s>
+<s> bob  </s>
+<s> in bridging i am considering this part on the manufacturers website which states that it can be done as a standalone feature  </s>
+<s> i looked at this and my determination was that it would never work.  </s>
+<s> glad to hear you found a way.  </s>
+<s> bob  </s>
+<s> i did the same as stated in the link but things don't work out for me.  </s>
+<s> tp-link router is not connecting with usb over wifi don't know why when i looked into usb for connected devices it showed connection but but failed to give it an ip address to connect its showing like this in usb ip: 0.0.0.0!  </s>
+<s> given the gear you listed i gave a look and it is not supposed to work.  </s>
+<s> but it's your choice to try anyway.. your reply above this gave me a slight impression you had it working but here it's not.  </s>
+<s> maybe it's time to ask those that support you for ideas that are known to work?  </s>
+<s> bob  </s>
+<s> tried much to do the same thing i.e. wireless bridging ec315 with tplink 841nd.  </s>
+<s> got same ip address 0.0.0.0.  </s>
+<s> but i am hopeful that it is technically possible.  </s>
+<s> a possible solution can be dd-wrt firmware.  </s>

@@ -1,0 +1,29 @@
+<s> i have recently acquired a samsung momitor 933sn which is currently working but appears to be using the nokia drivers which were previously installed, although i carried out the installation using the samsung disc.  </s>
+<s> i can adjust the screen size and display by rght-clicking on the desktop,then selecting properties and settings - but these are the normal windows instructions and are not unique to the samsung monitor.  </s>
+<s> if i use the procedure - control panel&lt;administrative tools&lt;device manager&lt;monitors&lt;plug & play monitor&lt;properties - the message reveals nokia geforce4 mx 420, which was my previous monitor.  </s>
+<s> i also have driver update program and this fails to detect the samsung monitor and insists that i update the nokia drivers.  </s>
+<s> do you have any advice?  </s>
+<s> does it matter that the samsung monitor and drivers are not detected on my computer?  </s>
+<s> or, is it a case of &quot;if it works don,t fixi it&quot;?  </s>
+<s> t.hyde my system dimension 4500, 2.53ghz processor, 1024mb, xp, 160gb hard disk, 80gb hard disk, samsung monitor, roxio cd r/rw, blueyonder broadband & lan, dell photo all-in-one printer.  </s>
+<s> iomega 500gb hard disk, toshiba 1tb hard disk.  </s>
+<s> dimension 4100, 1ghz processor, 256mb sdram, me, 20gb hard disk, adaptec cd r/dw, hp deskjet 840c, scanjet 3300c, blueyonder broadband & lan.  </s>
+<s> inspiron 8600, 1.4 ghz processor, 512mb sdram, xp, 40gb hard disk, philips cdrw/dvd disk drive, blueyonder broadband & lan.  </s>
+<s> netgear router.  </s>
+<s> 1. nokia (cell phones) and nvidia (graphic cards) 2. monitor (outside your pc, might need a .inf  </s>
+<s> file to tell windows and the video card driver what resolutions it supports) and video card (in your pc, needs a driver).  </s>
+<s> for the moment, no other things seem wrong.  </s>
+<s> kees  </s>
+<s> re-attach the old monitor and do a de-install of its drivers plus whatever the mx420 entailed.  </s>
+<s> once done it should revert to default native drivers, if not just do a shutdown especially if it comes back requiring some attention about video, do a shutdown.  </s>
+<s> re-attach new monitor to system.  </s>
+<s> next, upon boot-up do whatever it prompts you.  </s>
+<s> it should ask for video card drivers and monitor.  </s>
+<s> as kees offered, that usually means some .inf  </s>
+<s> file(monitor) or what the install refers to.  </s>
+<s> if none of this seems to helps it maybe because your mx420 video card is too old.  </s>
+<s> its drivers are meant for older type monitors and may not be capable to match whatever the new monitor now offers so it may default to less than capable just to have video display.  </s>
+<s> if that's the case, then a newer video card is required for best install and of course less hassles.  </s>
+<s> i exclude the monitor itself as maybe working as best it can under the circumstances.  </s>
+<s> come back with results.  </s>
+<s> tada -----willy  </s>

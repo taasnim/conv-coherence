@@ -1,0 +1,21 @@
+<s> hi all just noticed the other day that the 1 gig of ram in my pc is only being recognized as half a gig.  </s>
+<s> i'm using an ecs p4vxasd2+ motherboard (via chipset) with 1gb of high density ddr 2100 ram on a single stick (no idea what brand) and windows xp home sp2.  </s>
+<s> i remember the ad for the motherbord claiming it could use high density ram.  </s>
+<s> any ideas how to get the pc to use the full gig?  </s>
+<s> maybe it's a bios thang?  </s>
+<s> any help appreciated.  </s>
+<s> thanks in advance.  </s>
+<s> why remember?  </s>
+<s> be sure, read the specs either through the manual or support website provided.  </s>
+<s> then find out further if your brand ram module is acknowledged as being acceptable.  </s>
+<s> not all mtrbd.  </s>
+<s> makers provide that but many do just to prove thier product is capable, which if so is the &quot;solid&quot; basis for the specs provided.  </s>
+<s> also, a ram map should explain how ram is installed/order of.  </s>
+<s> plus review the bios update see where you stand with your current one, but understand what any bios update does if applicable to your problem.  </s>
+<s> check the bios for the memory handling, defaults are common, but if configuable, play with it.  </s>
+<s> expect some freeze-up if gotten awry, use the cmos clearing pins to return to defaults and reset again for what works best.  </s>
+<s> good luck -----willy  </s>
+<s> a system that only uses pc 2100 ram is less likely to support a 1gb stick.  </s>
+<s> sure there may be some that do, but at the time it was built 1gb on a stick was not a common item.  </s>
+<s> you might look for a bios update for your motherboard that will support the larger memory capacity.  </s>
+<s> that's is about your only chance to get the memory you bought to work to its full capacity.  </s>

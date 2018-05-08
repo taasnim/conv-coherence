@@ -1,0 +1,29 @@
+<s> hello i have two machines one pet ct scanner and other is also a medical machine and both are communicating via lan.  </s>
+<s> there is an ip conflict between both the machines, but we are not able to find same ip any where in the machines, could you please tell me is there any way to filter this ip conflict.  </s>
+<s> these macines are on the same network and also they have to communicate each other.  </s>
+<s> is complaining about the ip conflict?  </s>
+<s> a router?  </s>
+<s> lan devices have what is called a mac address, not an ip address.  </s>
+<s> a router interrogates each device, logs the mac address, and assigns an ip address.  </s>
+<s> tell us more about how these devices are connected and how you are seeing the address conflict.  </s>
+<s> hello, in hoaspital network both the machines are communicating through switches.  </s>
+<s> actual problem is when i am putting both the machine togather on the network one of the machine is asking again and again for a restart.  </s>
+<s> so i am thinking this problem might be related to an ip conflict.  </s>
+<s> please suggest me.  </s>
+<s> both the machines have static ip addresses.  </s>
+<s> thanks  </s>
+<s> somewhere someone in it (if that isn't yourself) should be keeping such records.  </s>
+<s> simply change one device to a known unused address.  </s>
+<s> &quot;so i am thinking this problem might be related to an ip conflict.&quot;  </s>
+<s> in other words, you've not verified this to be the case.  </s>
+<s> what this leaves is that you you've not really expressed what sort of problem you are having.  </s>
+<s> now a pet scanner isn't something found everywhere.  </s>
+<s> these are specialty diagnostic tools used in cancer treatment and cost plenty of money.  </s>
+<s> i don't know how they work or what sort of network connection is needed so will ask. is this a pc of some sort connected to the scanner that's used to transmit images and/or other data for pathological review?  </s>
+<s> if so, it has a professional operating system.  </s>
+<s> maybe you could give more information about that and what sort of network it's connected to.  </s>
+<s> you might also want add whether or not you are it or a technician who operates the scanner and other medical devices in the facility.  </s>
+<s> this might help in offering the best advice or a referral.  </s>
+<s> switches do not assign ip addresses.  </s>
+<s> routers do.  </s>
+<s> contact your it department.  </s>

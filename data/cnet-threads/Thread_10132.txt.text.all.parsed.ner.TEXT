@@ -1,0 +1,52 @@
+<s> new custom built pc. msi p965 neo motherboard (sata, core 2 duo).  </s>
+<s> dvd/cd-burner via ide.  </s>
+<s> shop installed xp media center edition and nero.  </s>
+<s> problems: 1. playing an audio cd gives ticks and cracks, like a heavily damaged lp. no problems at all playing streaming audio or mp3's from the hard disk.  </s>
+<s> 2. no obvious problems with installing programs from cd's.  </s>
+<s> 3. very strange behaviour when burning a cd: - time to read the cd (700 mb data or audio) is rather long: about 5 minutes - time to write cd at 40x (6 mb/sec) is about 20 minutes in stead of 2 - task manager&gt;processes tabs is normal: idle 99%, nero: 1%, as expected - task manager&gt;performance however shows one of the cores alternating between 0 and 80% use, and that's absurd - this practically slows other programs on the computer (like ms word) to a crawl and totally unworkable (why doesn't the other core do it's job?) - nero reports some 600 buffer underruns avoided on a machine doing nothing else as this burning, and that's absurd also the sales assistant in the shop suspected bios settings (which i didn't touch).  </s>
+<s> i don't have any idea except that it seems like a hardware issue to me, but i can't even guess if it's the burner or the motherboard.  </s>
+<s> of course i've got warranty and i'll bring it in for repair when i leave for a 1 week holiday in may (don't do so much burning).  </s>
+<s> and i expect that the tech will have the resources to find the problem.  </s>
+<s> i didn't dare yet to try to burn a dvd or install another burning program; i leave that to the tech.  </s>
+<s> does anybody have any ideas about a possible cause?  </s>
+<s> kees  </s>
+<s> link about -&gt; then again i've lost count on how many times i see shop installed windows that are &quot;not done yet.&quot; most will just use what cds came with the motherboard.  </s>
+<s> some won't bother with even that.  </s>
+<s> also noteworthy is a recurring speed issue on cdr media. the bulk back of cdr is marked 52x but if you examine the media with tools you find it's only 16x media.  </s>
+<s> when you confront the seller they note it's &quot;compatible with 52x recorders.&quot;  </s>
+<s> if you have alcohol 120% you can record at full speed then get a graph of the speed achieved during the burn.  </s>
+<s> bob  </s>
+<s> the motherboard has 6 sata connections, and 1 ata ide supporting one master and one slave.  </s>
+<s> in device manager, under ide-controllers, there's the 2 port sata, then the 4 port sata, then 3 primary ide channels, then 3 secondary ide channels, and then the standard dual channel pci ide controller.  </s>
+<s> all 6 ide channels but the third primary can be 'disabled' (red cross).  </s>
+<s> all 3 primary channels are udma mode 6. all 3 secondary channels are &quot;dma, if available&quot;, which isn't applicable for the first 2 (apparently not connected to anything) and results in pio-mode for the third (which is the cd-drive, because if i disable that the cd-drive disappears from windows explorer).  </s>
+<s> so the cd is pio indeed, i'd say.  </s>
+<s> the tech may find out why there 3 are instances of each of the channels in stead of 1, why the cd is secondary in stead of primary, and why apparently dma isn't available.  </s>
+<s> after all, he installed it like this. that is, of course, if it's really a pio-dma problem.  </s>
+<s> but you could very well be right.  </s>
+<s> thanks for the help thus far.  </s>
+<s> kees  </s>
+<s> maybe go in there and waggle it while the thing is playing.  </s>
+<s> obviously the ripped music to the harddrive plays ok, right?  </s>
+<s> bob, it definitely was a pio-dma problem on the ide dvd-drive.  </s>
+<s> later on i noticed i couldn't even view a dvd movie on it: it went stuttering on half speed. the tech checked everything, and all was fine, but she found the sata hard disk highly unreliable with &quot;several blue screens during the repair&quot;.  </s>
+<s> i never had any problems with it.  </s>
+<s> a clean install of windows on that hard disk didn't help.  </s>
+<s> so she put in another hard disk, and after a clean install of windows on that one everything was fine.  </s>
+<s> she even backed up and copied the full contents of my old hard disk to the new one ($ 40 for half an hour work), not really necessary, because i had most of it backed up myself, of course.  </s>
+<s> all i have to do now is reinstall all my programs, apply some 50 hot fixes, make new users and in all of them redo all changed settings and all firefox extensions, clean the desktop, reorganise the start menu, that's $0 for 2 evenings work.  </s>
+<s> i don't understand why replacing a sata drive would make any difference for the workings of ide on this motherboard (msi p965 neo). the old one was a sata2 samsung sp2504c, the new one an sata hitachi hds721616pla380 scsi drive, and belarc's description of the dvd-drive suddenly got &quot;scsi&quot; inside it also.  </s>
+<s> i really don't understand the hardware details (sata2 versus sata, and why scsi), but it seems to be effective: the ide details in device manager do look different and the dvd movie is playing full speed.  </s>
+<s> i suddenly had a raid driver icon in the system tray, that was a surprise i'll have to evaluate. the new hard disk even shows itself in the &quot;safely remove hardware&quot; dialog together with the usb-stick and the memory card reader.  </s>
+<s> that's another surprise.  </s>
+<s> any idea what will happen if i try to remove it with windows running?  </s>
+<s> unluckily, the old drive was 250 gb, and the new one 164 gb. that's clear even to a hardware layman like me, so it's back to the shop again.  </s>
+<s> all the sales lady (i think she's the owners wife) could say was &quot;sorry&quot;, and it will be the first thing to redo for the tech on monday.  </s>
+<s> but the prospects are rather good now.  </s>
+<s> kees  </s>
+<s> but the reasons why windows takes a dive is fairly well discussed.  </s>
+<s> the repeating issues i encounter are motherboard chipset drivers and that setting.  </s>
+<s> you may have seen me write about the dma flip many times.  </s>
+<s> it's a simple procedure and one that must be done even if you see xp report &quot;dma.&quot;  </s>
+<s> why? it lies.  </s>
+<s> bob  </s>

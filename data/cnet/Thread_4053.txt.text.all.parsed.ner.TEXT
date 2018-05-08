@@ -1,0 +1,24 @@
+<s> hello, i recently bought a 1tb western digital mybook home edition external hdd, which supports connecting via usb, firewire and esata.  </s>
+<s> i've connected it to my computer via usb, and it worked flawlessly.  </s>
+<s> however, when i try connecting it via firewire, i generally get the connected hardware sound, then nothing happens for a while, and then it might eventually turn up in my computer as &quot;local disk: h&quot; or something, but when i try opening it, i get an i/o error.  </s>
+<s> when i open up device manager, it's under disk drives as: &quot;wd my book ieee 1394 sbp2 device&quot;, with a yellow exclamation mark next to it.  </s>
+<s> in properties it says something like &quot;this device is unable to start&quot; or something similar, and the location is &quot;lun 0&quot;.  </s>
+<s> i'd really appreciate it if you could help me get it working with firewire, as the only reason i bought it was for the firewire connection.  </s>
+<s> try that connection on an apple or a machine that runs linux.  </s>
+<s> do not expect wd to help you fix your pc or windows.  </s>
+<s> bob  </s>
+<s> actually even if you get it running on fw you will not notice a really appreciable speed increase(loading etc) over usb 2.0.  </s>
+<s> where firewire connectivity comes into play and is a necessity, is with camcorder input.  </s>
+<s> bob is right with windows being iffy with fw. mac on the other hand seems to book right along.  </s>
+<s> hi....what happens if you unplug the firewire cable (are you using 1394a or 1394b) for about 5 seconds and then plug it back in.  </s>
+<s> another attempt would be to try updating the driver from device manager...just right click on the listing with the yellow bang and select update driver.  </s>
+<s> let us know what happens.  </s>
+<s> i've already tried, and it's not the hdd or firewire pci driver, they're up to date.  </s>
+<s> i do have an old g3 imac running panther, so i'll try it on that  </s>
+<s> well, i plugged it into my old g3 imac and it connected within a few seconds.  </s>
+<s> so obviously the problem is with windows, any suggestions?  </s>
+<s> nothing good that i can share.  </s>
+<s> we know there are issues with windows.  </s>
+<s> why would we attempt to fix this?  </s>
+<s> microsoft has the code, we don't so we can't fix it.  </s>
+<s> bob  </s>

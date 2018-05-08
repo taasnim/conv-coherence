@@ -1,0 +1,42 @@
+<s> i have a dell dimension 2350 desktop with windows xp operating system.  </s>
+<s> just lately when i shut the machine down completely at night i get &quot;program not responding&quot;.  </s>
+<s> that seems to only happen at night afer the unit has been on all day.  </s>
+<s> if i shut everything down after its only been on for a few hours it works just fine.  </s>
+<s> sound familiar...and what should i do?? many thanks mil  </s>
+<s> mil, does it show you which program isn't responding?  </s>
+<s> if you press ctrl/alt/del keys at the same time it should bring up the task manager which may show you which program isn't responding.  </s>
+<s> tufenuf  </s>
+<s> when the machine won't shut down, the &quot;notice&quot; i get regarding &quot;program not responding&quot; reads &quot;card reader lookup window&quot;.  </s>
+<s> mean anything to anyone????? many thanks.  </s>
+<s> mil  </s>
+<s> this was my first pc..a p4 1.8ghz..256 mbs ram..home edition sp1.. a fat32 system drive..30-gbs..mcafee security..it was a nice pc.. .. i pulled the hdd first/added a maxtor 120-gb diamondmax[ntfs]file system..added a second ram chip for 512mbs of ram..and the microsoft cd came out for sp2..so my home edition was raised to sp2..how-ever..i also added the xp-professional upgrade cd(sp2)..and this is where i began to develop &quot;complications&quot;.. .. so..for a dell dimension 2350 i would suggest the latest sp2 xp full version operating system..no upgrades or sp2 cds.. then 512 mbs of ram..that motherboard runs really slow ram(133mhz)if my memory serves me..that's a problem in these times with huge updateing services..my updates have doubled in 6-years.. .. so your running all day with a shut-down problem.. i suggest you slow down on shutting down.. first..getting to the desktop..signing off the internet.. use the disk clean up program..but wait about 30-seconds before clicking the icon(shortcut)..let it run..get back to the desktop..click the start-menu..click...turn-off computer..now wait until the desktop darkens before clicking turn-off computer..and that should work..otherwise/yes some device is still running..because of your hardware acceleration..the pc can't handle the needs of the programs and hardware..its time to drop some things.. like a digital sound card(return)to your integrated sound card.. remove video software..your pc is obsolete for video..and even dvd-rom..if you had upgraded to dvd-rom..you might want to put the cr-rom and cdrw back in the machine.. .. this was a solution to some of my problems.. my dell dimension 2350 was upgraded to a newer motherboard and processor and faster ram.. but i purchased a dell 1100-series de051..that had numorious problems because of hardware acceleration-due to the dvd drives..and video applications..also dell delivered a machine with the wrong ram module..once that was replaced/i pulled the drives and used the old dimension cd drives and used the de051 dvd drives in the upgraded 2350..in the de051 i dropped the hardware acceleration-one notch..viola'..one spectacular internet pc.. .. if your dell dimension 2350 is all original..i can almost assure you its obsolete..but would suggest you just slow down on shut-downs..let your desktop---darken..and then click---turn off.  </s>
+<s> i tried to do as suggested but i got the same result.  </s>
+<s> it seems to be that way after the computer is on for a lebgthy period of time.  </s>
+<s> does that make sense??? mil  </s>
+<s> bob  </s>
+<s> i have been having problems with my printer of late..could the &quot;card reader&quot; aspect of which i speak have anything to do with the printer problems ( brother mfc 4420c)??? mil  </s>
+<s> hi all new to this site.  </s>
+<s> i am having a problem when i am shutting down.  </s>
+<s> i run win xp, ecs 939pin mb, amd athlon 64x2 3800+, 1 gig mem, i get the following (card reader lookup window) i have to end process before i can shutdown.  </s>
+<s> also the comp just came back from repair; i notified them they were no help.  </s>
+<s> as i did have an evga mb 939pin that was better than the one they replaced it with, that went bad after only 10 months.  </s>
+<s> i am not satisfied with the work they did.  </s>
+<s> i got the unit back, they said they tested it, the hd power cable was off & the hd's were switched.  </s>
+<s> how could they have tested it?  </s>
+<s> sorry just venting.  </s>
+<s> any help would be great.  </s>
+<s> than you mike.  </s>
+<s> &quot;i get the following (card reader lookup window) i have to end process before i can shutdown&quot; many discover that program is not required to read the cards in the reader so they stop using that and the problem is fixed.  </s>
+<s> bob  </s>
+<s> other forums indicate that this may be due to a memory card in your printer or memory stick in your computer.  </s>
+<s> if you click on safely remove hardware before exiting (& select said memory card/stick), it'll go away.  </s>
+<s> i suspect that whether or not the memory card/stick is in place when you turn on the computer has a bearing on this.  </s>
+<s> i'm amused by this because i thought it was something to do with the card reader software (very old dos program) which i continued to use until very recently as i had a load of contact details which only it could read.  </s>
+<s> i haven't used it for 3 months so i was amazed to keep getting this message - anyway, i think i understand now.  </s>
+<s> it's just another example of micosoft's incompetence.  </s>
+<s> i have a brother printer as well.  </s>
+<s> i suspect that you model has the memory card readers built in.  </s>
+<s> if i remove a memory card prior to shut down then ms will hang up at shut down.  </s>
+<s> it wants to save the files even though they are no longer open.  </s>
+<s> i don't have the same problem with standard memory sticks or usb models for sd cards, just when i use the slots in the brother printer.  </s>
+<s> given that you probably would catch on to that error, i would try try uninstall and reinstall the brother printer software.  </s>

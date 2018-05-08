@@ -1,0 +1,17 @@
+<s> please help.  </s>
+<s> i just installed wifi wireless camera in the house.  </s>
+<s> i validated that i can access and view video within home wifi network.  </s>
+<s> however, i can't seem to access it remotely outside my home wifi.  </s>
+<s> i follwowed the instruction - found my ip address xxx.xx.xx.xxx : 85 and set port forwarding to 85 to ip camera.  </s>
+<s> what am i missing here?  </s>
+<s> i put the ip camera into the dmz.  </s>
+<s> sorry but i can't help you beyond that as you must be able to support your network.  </s>
+<s> mine works fine.  </s>
+<s> bob  </s>
+<s> some of these cameras are a pain they want you to buy software upgrades so you can remotely monitor them.  </s>
+<s> if the instruction say it will work remotely as bob suggested use the dmz option to start since it will map all ports to the camera.  </s>
+<s> if you do not have to run any special software ie you can use just the browser odds are pretty good you can get it to work the ones that use special software pretty much are building vpn tunnels between a pc in your house and your remote pc. the remote pc uses your home pc to view the camera.  </s>
+<s> make sure if this is what you are using that you have the firewall on the home pc set to allow this, generally incoming sessions are blocked by most firewalls.  </s>
+<s> had the same problem.  </s>
+<s> after a week of trying to solve it, i googled and found help at they figured it out to be a service provider issue and solved it in less than an hour.  </s>
+<s> i learned my lesson how precious my time is.  </s>

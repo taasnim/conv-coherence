@@ -1,0 +1,30 @@
+<s> my computer was running smoothly until i tried to install a cpu fan which i liked my old one so i reinstalled my old one and it did this..ive uninstalled all unnecessary parts and tried to just run the bare essentials and it still did that...everything powers the fans the hdd the cpu the cd-dvd drive everything..so i dont think its the psu when i unplug the 4 pin power connector it all works perfectly but i guess thats b/c the cpu and all that arent powered...ive taken out the cpu cleaned it cleaned the cpu fan did all that installed it correctly and it does that..my system is os:windows xp pro edition mb: asus p5wd2 premium cpu: intel dual core processor 800 lga 775 ram: kingston valuram 2gb 240 pin (ive taken them out and reinserted them and still it shut off) hdd: seagate barracuda 500gb vga: msi radeon x800xl 256mb psu: aspire 500 watt or 550 lol i forgot my psu has 2 fans and i have 6 fans..thinks thats all...if you need any more info please ask me...also i cant get to bios b/c it shuts down to quick..when i do start up my monitor shows my asus startup screen and im sometimes able to get to the first menu of bios then it shuts down...please help me lol  </s>
+<s> i really want to help you but your post really got me lost.  </s>
+<s> look do me a favor and write one again without all the different parts of ur computer and just tell me before it started have problems and after the problem started ok. i'm a man who need the details to solve any problem.  </s>
+<s> thanks  </s>
+<s> i've seen such when the owner didn't put on heatsink compound or the heatsink was not on proper.  </s>
+<s> bob  </s>
+<s> well i was able to get to the bios and checked the temp of the cpu and well it was 240 f it did that when it first started up...so i know my comp is shutting down for safety reasons but how do i fix the heating problem...i have a really good cpu fan on there i have the right amount of artic silver paste.  </s>
+<s> i cant ge to the bios to change any options.  </s>
+<s> my problem was that when i started my computer it would start (everything ran) then seconds afterwards it would shut off..so i know the problem so now i need ya'll to tell me the solution..i dont want to take it in to the shop b/c of the high costs and im sure i can fix it so please help!  </s>
+<s> i have the hsc on its artic silver 5 i did the pea size amount and i clipped the fan correctly onto the cpu its a flush agaimst the cpu as i can humanly tell  </s>
+<s> after reading your post i have come to the conclusion maybe the system doesn't have enough juice pumping in; in other words more watts.  </s>
+<s> i could be wrong but if starting the computer and then shutting down like that it sound like you make need to buy a power supply with more watts. the other thing that i noticed was that the temp.  </s>
+<s> was high but according to you, the right amount of thermal paste was applied and the fan was installed correctly, if all that was correct consider this the system needs power like you need food to make atp for ur cells' activities, but anyways consider more wattts.  </s>
+<s> and also maybe something was damaged by static shock just something to think about.  </s>
+<s> if the temp was really 240 your cpu would be fried.  </s>
+<s> i hope you meant a pea sized dot of paste instead of an amount of paste the size of a pea.  </s>
+<s> once you spread it out it should be thin enough that none squirts out the side when you mount the heatsink.  </s>
+<s> did you visually verify that the cpu fan was spinning?  </s>
+<s> personally i would be very suspicious of the power supply.  </s>
+<s> i would not go for more watts i would use a better company.  </s>
+<s> seasonic, fortran, silverstone, antec, enermax all make pretty good power supplies.  </s>
+<s> i had my mobo replaced just incase and i've put everything back together and its still doing what it was...i switched out the psu with an older one again and it did the same thing with the new psu everything on the comp runs everything and it shuts off right at the bios page what more can i do my pc is on for 2-5 sec so how can it be a cpu heat problem...  </s>
+<s> there is a 2005/11/07 bios update for that board.  </s>
+<s> p5wd2 premium bios 0606: fix crashfree fail issue with ecc dram fix winxp can't be installed from a px-716sa sata dvd-rw drive in ahci mode.  </s>
+<s> fix ecc initial incorrect adjust low threshold of cpu fan.  </s>
+<s> support ati crossfire technology.  </s>
+<s> i'm wondering if you fan never kicks on.  </s>
+<s> have you observed your cpu fan with your case open?  </s>
+<s> i wish i could update my bios but i can't get that far...and yes every fan spins all 7 of them lol  </s>
+<s> how do i update the bios if i can't even get past the bios screen if i choose to go to the bios setup it still crashes...  </s>

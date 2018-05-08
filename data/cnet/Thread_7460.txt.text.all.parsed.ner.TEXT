@@ -1,0 +1,66 @@
+<s> so i recently purchased high-speed and networked my house.  </s>
+<s> one of my computers is running windows 98fe, so i have this hooked up to my network with a wireless ethernet bridge.  </s>
+<s> however, my computer did not come with an ethernet port, so i had to install one.  </s>
+<s> i bought the linksys etherfast ethernet card that is supposed to work with even 95. however, the cd linksys included only had the drivers for windows xp on it. the linksys people told me to download the 98 drivers from their website so i did.  </s>
+<s> i installed them, but ever since i did so, my computer will freeze up after i close internet explorer (browsing the internet works fine though).  </s>
+<s> i can think of two possible reasons why this is happening: 1. the drivers on linksys' website were for version 5.0 of the card, but my card is version 5.2. the linksys people told me these drivers would work, but some of them aren't so bright so i wouldn't be surprised if they were wrong.  </s>
+<s> 2. the 98 drivers from linksys' website are meant for windows 98 se. if that is the case, should i try to install it using the drivers for windows 95 (i heard the 98 fe is more similar to 95 than it is to 98 se).  </s>
+<s> do either of these sound right or is there something else that is wrong?  </s>
+<s> also, is there somewhere i can buy an ethernet card that is sure to work with 98 fe (i am sick of dealing with linksys' incompatibility with older oses)...like a 3com or intel one or something?  </s>
+<s> and if so, where can i find one?  </s>
+<s> try the usual cure.  </s>
+<s> delete all bho's from this machine.  </s>
+<s> what's a bho?  </s>
+<s> ask google.com  </s>
+<s> how do i uninstall them?  </s>
+<s> hijackthis what is hijackthis?  </s>
+<s> ask google.com  </s>
+<s> sorry if i don't write a long post but its the cure i use.  </s>
+<s> bob  </s>
+<s> do you really think that is the problem?  </s>
+<s> i didn't think it was just a coincidence that it started freezing right after i installed the ethernet card  </s>
+<s> i was offering the usual cure to lockups when we exit ie. let's wait for others to offer something else.  </s>
+<s> bob  </s>
+<s> can you get the free se updates for this one?  </s>
+<s> as well, try to get your hands on an old 3com 905 series nic.  </s>
+<s> these had drivers written for win 98 and they worked.  </s>
+<s> i've given a box load of these things away and keep a couple handy for troubleshooting or second nics in xp machines because xp already knows them.  </s>
+<s> great old board.  </s>
+<s> do you know where i can get one of those cards (besides ebay)?  </s>
+<s> and is that card compatible with first edition?  </s>
+<s> also, what would be the best nic card to get for my windows me computer?  </s>
+<s> google search i'd get the tx or txnm rather then the m type.  </s>
+<s> nm means &quot;non-managed&quot; and m means managed.  </s>
+<s> some of these managed types needed to have that feature shut off using a dos utility in order to prevent their bios interruption during boot up.  </s>
+<s> these originally carried a price of well over 100 bucks each but you should be able to get one for less than 10. if you've got a local builder who does upgrades, i'm willing to bet these cards pass through his hands regularly.  </s>
+<s> check with such a shop.  </s>
+<s> i'd. the drivers are still on the 3com web site or easily available elsewhere.  </s>
+<s> i'd say they should work with me but have no such experience.  </s>
+<s> me was a later os and might even have the drivers built in.  </s>
+<s> i was thinking 98se had the drivers as well and such is why i mentioned the upgrade. the cards will work with the first editions.  </s>
+<s> the reason i suggested this was threefold.  </s>
+<s> i had a lot of experience configuring these and found them better and more reliable than other brands of that era.  </s>
+<s> many were made in the usa though some came from singapore and even ireland.  </s>
+<s> they were sturdy.  </s>
+<s> lastly, to me it makes good sense some times to use parts of similar vintage.  </s>
+<s> though you can still buy hardware that &quot;works&quot; with win 98, i have to question just how much effort went into tuning that driver.  </s>
+<s> such is why i recommended an older reliable card with an older os. good luck.  </s>
+<s> if you didn't complete the bho removal then you are likely going to repeat this issue again. the issue i note is well known, and easy to fix. also you can disprove it in a few minutes for free.  </s>
+<s> bob  </s>
+<s> i rarely use it.  </s>
+<s> you might try a fresh install of firefox to see if the lockups still happen with it.  </s>
+<s> win 98 is no where near as stable as xp. we'd have to blow these up and freshly install the os from time to time as last resorts to unresolved problems.  </s>
+<s> cleaning out pests often helped but they do come back when using ie frivolously.  </s>
+<s> the bho removal didn't work.  </s>
+<s> i think it is a driver problem because i am having similar problems after installing the same card on my windows me computer.  </s>
+<s> do those cards on the google search come with the correct drivers (cough cough, linksys) on a disk or something?  </s>
+<s> tell me which motherboard chipset driver you are using. is it current?  </s>
+<s> how do i find that?  </s>
+<s> when you post the forum asks for details such as make and model of the machine.  </s>
+<s> given that, members can offer direct links rather than generic answers.  </s>
+<s> tell a little, get a lot more.  </s>
+<s> bob  </s>
+<s> i'm running two gateway desktops.  </s>
+<s> one is windows 98 the other is me. the 98 is pentium ii, the me is pentium iii.  </s>
+<s> do you need anything else?  </s>
+<s> if not, time for a shop to fix this.  </s>

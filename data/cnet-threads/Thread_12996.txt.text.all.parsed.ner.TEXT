@@ -1,0 +1,12 @@
+<s> i was accessing my home lan on my notebook computer.  </s>
+<s> something happened and as i tried to connect to the network i got an error message saying &quot;it can't access the network and that i may not have permission and may need to contact the administrator.&quot; it was working fine before and i'm sure i didn't do anything to change permission.  </s>
+<s> what does this mean and how do i go about connecting to the network?  </s>
+<s> also, on the laptop i see the other computers in network neighborhoon but i don't see the laptop when using the other computers.  </s>
+<s> i have never done anything do &quot;add&quot; the laptop, perhaps that's the problem.  </s>
+<s> thanks for your help.  </s>
+<s> parameters of the network: 1) workgroup names the same 2) since you are using nn, check if file and print sharing is enabled 3) check that the ip and subnet numbers are in the same range 4) check for any disabled devices in device manager.  </s>
+<s> thanks michael, now remember that it was working previously and i'm the only one who uses this computer, so given that, would all of the above still apply?  </s>
+<s> settings to start your troubleshooting exercise.  </s>
+<s> if all holds true then next step is to look for what has changed since it last worked.  </s>
+<s> has any hardware/software been added or taken away?  </s>
+<s> have you scanned for virus's and spyware?  </s>

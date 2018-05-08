@@ -1,0 +1,24 @@
+<s> working on an old hp brio bax (1999?) that threw a hdd.  </s>
+<s> have it up and running, w2k on an 8 gb hdd.  </s>
+<s> however ... i bought a 80 gb hdd to install in the machine but even connected as a slave the pc will not boot up past the logo screen.  </s>
+<s> boot up disk or cd will not run, cd rom lights up but won't run the cd. bios sees and names the 80 gb and shows it as slave.  </s>
+<s> i have tested the 80 gb on my pc and it's ok, no problem with it.  </s>
+<s> one more thing. the brio has only one connection for a hdd, no slave connection on the ribbon.  </s>
+<s> i replaced the ribbon with the one that came with the new 80 and have both hdds outside the case. the mobo is win32 d78xxa any suggestions?  </s>
+<s> since older machines can lockup on too big hard disks, the drive makers offer limit jumpers to get around the issue.  </s>
+<s> bob  </s>
+<s> verify these items: hd jumpers for master/slave plus what they are for dual installation, that may differ fro some hds, next check the bios setting has lba set if applicable by that bios amker(it should), aslso that the 2wk is at sp4 level.  </s>
+<s> now, check what the bios release is on that system, see if any new bios updates may apply.  </s>
+<s> last, if none of this corrects the problem, the 80bg maker should provide &quot;overlay s/w&quot; to allow easier install, though it maybe called by another name.  </s>
+<s> wd, is lifegaurd tools, maxtor is maxblaster and seagate is diskmgr.  </s>
+<s> i believe.  </s>
+<s> i se no prblem with the current hd cable as you seem to have it.  </s>
+<s> tada -----willy  </s>
+<s> your combined posts led me to the answer.  </s>
+<s> i almost gave up after talking to a hp tech and being told the old brio only support a hdd up to 13 gb.  </s>
+<s> he said connecting a hdd over 31.5 gb would cause the pc to not boot at all, stall booting or freeze in the process.  </s>
+<s> for me it would not boot at all, paused at the first hp logo screen then i read these two posts from you guys, remembered all the jumper settings on the hdd i had purchased, deskstar hitachi, did a bit of research and bingo got the answer!  </s>
+<s> to bad the hdd manual does not address the settings or provide any of this info.  </s>
+<s> anyway, the hdd is working even though i only have use of and access to 31.5 gb. that's fine.  </s>
+<s> and yes w2k is at sp4 level.  </s>
+<s> thank you both very much!!  </s>

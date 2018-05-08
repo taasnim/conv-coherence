@@ -1,0 +1,42 @@
+<s> coryphaeus, this is george.  </s>
+<s> please do not joke with me when i ask for help with a problem.  </s>
+<s> i say the &quot;puter does not recognized the cd-rom.  </s>
+<s> in my device manager there is a yellow triangle with a black exclamation mark telling there is something wrong.  </s>
+<s> i wouldn't waste your time and please if you wont help dont waste mine.  </s>
+<s> all i ask for, is for a moderator whom i have had very successful communications with, for help.  </s>
+<s> i troubleshoot the device, upgrade the driver, it says the present driver is the best for the cd-rom.  </s>
+<s> it says to un-install and re-install device.  </s>
+<s> that dont work.  </s>
+<s> so i ask for help.  </s>
+<s> now if you can help me, please do.  </s>
+<s> i would truly appreciate it.  </s>
+<s> thanks in advanced  </s>
+<s> i can't guess what os is in use, how the drive is connected, jumpered or if the old boot the cd test works.  </s>
+<s> i understand you'd like help, but the supplied information is just far too skimpy.  </s>
+<s> bob  </s>
+<s> in original posting, i indicated mostly what was needed for assistance.  </s>
+<s> i am using an amd k-7 athlon, 1.1gig, os win xp prof, 40gig hd, with an atapi cd-rom and a lite-on ltr burner which is classified as a cd-rom.  </s>
+<s> its the atapi-cd-rom that is not being recognized by my computer.  </s>
+<s> i have gone into safemode, into device manager, system, un-install, rebooted and it found new equipment,(cd-rom), but it still came up with that black exclamation mark.  </s>
+<s> troubleshooting states &quot;windows cannot load device driver for this hardware.  </s>
+<s> the driver maybe corrupted or missing.  </s>
+<s> code 39. i've gone into my cmos but nothing seems to help.  </s>
+<s> maybe a new one would help, huh?  </s>
+<s> lol.  </s>
+<s> george i am using my secondary slot on moboard.  </s>
+<s> i have hd in primary slot if that is their names.  </s>
+<s> and not a hardware issue.  </s>
+<s> this is the pc hardware forum.  </s>
+<s> 1. the code 39 is what i'll address first -&gt; remove the upper and lower filters.  </s>
+<s> the noted keys are: hkey_local_machinesystemcurrentcontrolsetcontrolclass{4d36e965-e325 -11ce-bfc1-08002be10318} - &quot;upperfilters&quot; and &quot;lowerfilters&quot;.  </s>
+<s> sorry, but i will not supply a reference url.  </s>
+<s> 2. xp will not supply proper motherboard drivers for such hardware.  </s>
+<s> you must install the latest motherboard driver package for your board and for the selected os. i would have supplied the url of said package, but your post didn't tell the motherboard make and model.  </s>
+<s> that should resolve this if you have the jumpers proper for the ide cables you are using.  </s>
+<s> bob  </s>
+<s> glad to hear from you.  </s>
+<s> hope all ur holidays are filled with good tidings and joyful moments.  </s>
+<s> i will give these options a try.  </s>
+<s> george  </s>
+<s> best of luck and have a great day!  </s>
+<s> bob  </s>

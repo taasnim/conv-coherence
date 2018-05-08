@@ -1,0 +1,12 @@
+<s> i have dell 2400 and i tried installing new lg dvd rw drive, as i installed this it worked for few hours and then this morning it is not booting up, as soon as i start power it starts and then shuts down and again starts but hangs before even display comes.  </s>
+<s> i do not see any hard drive activity on the machine.  </s>
+<s> with this new dvd rw cofiguratoin i may have screwed up something.  </s>
+<s> please help how do i diagnose the error.  </s>
+<s> thanks in advance.  </s>
+<s> mak  </s>
+<s> pull the computer apart again, unplug the new hardware, replace the original ide cables (if applies) and crank it again.  </s>
+<s> if it boots normally, then start by checking the ide cables, see if the ide cable you were using is in perfect shape, and replace accordingly.  </s>
+<s> check for loose power cables, because they can give you many hard times.  </s>
+<s> although it might sound obvious, check if any of the power cables is stopping a cooling fan (has happened before) and last but not least, check the rating for your psu, if it hasn't got enough juice, it will not be able to crank the computer with the new hardware added.  </s>
+<s> if it still gives you the same headache, you're in trouble, for you might have fried the hdd.  </s>
+<s> just had the same strange problem, but fortunatly it went way on my dimension 8300 after updating the bios from a04 to a7  </s>

@@ -1,0 +1,18 @@
+<s> i set up 128 bit encryption on my d-link, d-624 wireles router.  </s>
+<s> i get about half the download speed of my wired desktop computer,which is connected to this router, on my wireless laptop is this common?????  </s>
+<s> it seems to.  </s>
+<s> if you need some security, try mac filtering.  </s>
+<s> that is, only allow your connection to the router (plus what other machines you want to allow.) in closing, if your firmware and drivers aren't the latest, ask why.  </s>
+<s> bob  </s>
+<s> is it the encryption or the wireless connection itself or something else?  </s>
+<s> yes, encryption does place some overhead on total throughput.  </s>
+<s> but it shouldn't cut throughput in half.  </s>
+<s> furthermore, though you didn't tell us the details of your connection, even the slower 802.11b speeds (11mbs nominal, 5-6mbs real world) are significantly faster than most broadband connections, so the internet connection is often the limiting factor in download speed, not the wireless equipment.  </s>
+<s> if you want to test whether the encryption by itself is problematic, you could turn off encryption for a short while and see if the 2:1 download speed relationship persists between the wired desktop and the wireless laptop.  </s>
+<s> if the laptop is still a dog, you know it wasn't the encryption.  </s>
+<s> check your signal levels, etc. - a weak signal will cause slow transfer rates, with or without encryption.  </s>
+<s> you may need to tweak the positioning of your equipment to improve signal strength.  </s>
+<s> what else is running on your laptop?  </s>
+<s> spyware/adware and p2p (even when you are not downloading anything yourself) are download speed killers.  </s>
+<s> if your laptop is functioning in a fundamentally different manner than the desktop, of course the download rates could be vastly different, unrelated to hardware or encryption.  </s>
+<s> dw  </s>

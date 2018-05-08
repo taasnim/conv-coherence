@@ -1,0 +1,61 @@
+<s> hi, i hope this is in the right section i recently upgraded my amd socket 939 mobo from an athlon 3500 and radeon x1650pro to a dual core amd 4200 with a thermaltake blue orb2 fan and radeon x1950pro.  </s>
+<s> i also installed a fresh copy of my windows xp home and it's fully updated (this was a few days after i installed the new stuff, hoping it would fix the problem).  </s>
+<s> problem: the old system ran fine, no crashes whatsoever.  </s>
+<s> after i installed the new components and installed the catalyst 7.10 &quot;driver only&quot; on the system, it would just randomly crash (with the old xp).  </s>
+<s> whether is be trying to install software, playing a game, looking at pictures and videos or browsing the net.  </s>
+<s> so i then installed a fresh windows and the catalyst 8.2 control centre and driver, which is what i'm using now.  </s>
+<s> it has fixed it to some degree, so i can now play games and install stuff.  </s>
+<s> but on a random website or trying to save a random picture or even watching a youtube video, it will either freeze or the monitor will turn off or it will say &quot;out of range&quot; and then restart.  </s>
+<s> it is a clean install of windows, 2 weeks old.  </s>
+<s> and the bios settings are exactly the same as with the x1650 which worked fine.  </s>
+<s> i know it may be a stability issue or a setting i must change in the bios, but i have no idea what the problem actually is.  </s>
+<s> my system is as follows: asus a8v deluxe m/b, agp 8x, socket 939, bios 1017 (latest) amd athlon x2 4200+ ati radeon x1950pro windows xp home sp2 fully updated 750watt tt psu i would really appreciate any help.  </s>
+<s> games fly, but i surf the net just waiting for it to crash.  </s>
+<s> i'm lucky i could write this message!  </s>
+<s> thanks ps. i was just about to press submit post and guess what it did... this time it said &quot;non-preset mode&quot; and just froze.  </s>
+<s> thank goodness for firefox's restore  </s>
+<s> take them out and put them in again.  </s>
+<s> double check that you put the ram in the right way.  </s>
+<s> do they match?  </s>
+<s> do you have the right one in the right slot?  </s>
+<s> run this diagnostics check: the cpu did you install it correctly? is it the right one for the board?  </s>
+<s> how about the power supply is it big enough?  </s>
+<s> this one is tough to diagnose: 500 watts is the upper limit for most systems.  </s>
+<s> anything more then this is &quot;over kill&quot;.  </s>
+<s> if you have a $5,000.00+  </s>
+<s> system this may apply.  </s>
+<s> if you have a $5,000.00+  </s>
+<s> system this may not apply.  </s>
+<s> thanks for the reply i didn't think about re-seating the ram and video card, i will try this and let you know what happens. the cpu is in properly and matches the m/b, so that's fine.  </s>
+<s> i also have 2gb of geil ddr400 ram (4x512mb), i've had these for over a year now and seem to work fine.  </s>
+<s> the psu is a thermaltake 750watt and is brand new.  </s>
+<s> i'm beginning to think that the video card may be faulty.... i hope that's not the case.  </s>
+<s> i'd check the ram thoroughly first.  </s>
+<s> run a memory test utility.  </s>
+<s> vista has one within it.  </s>
+<s> there are others as well.  </s>
+<s> two tests might be advised.  </s>
+<s> i've been thinking it can't be a problem with the memory or gpu because i can play games, listen to music and watch videos for hours without any problems.?/?-.- thanks though, i'll do a memory test soon.  </s>
+<s> oiling the fans is a good idea also.  </s>
+<s> might be heat.  </s>
+<s> try this software:  </s>
+<s> never thought of that, so thanks. the temp is running pretty good, cpu is at 40 to 45 degrees and mobo at 23-27 degrees. the case is an antec 900 which helps alot.  </s>
+<s> i also changed the resolution colour to 16 bit, down from 32bit and it seems to be working fine, no crashes and i've been all over the web.  </s>
+<s> so it might be fixed although it now looks pretty average, there might be some colour distortion.  </s>
+<s> i'm not game enough to go back to 32bit thanks guys  </s>
+<s> sorry for the double.  </s>
+<s> i posted the one above and it froze 5 seconds later, lol.  </s>
+<s> i then restarted and tried to change to 32bit colour, hit apply and it froze again.  </s>
+<s> so i'm either thinking of changing the voltages and see how i go or go back to an earlier catalyst driver.  </s>
+<s> something its still wrong but you have to live with it.  </s>
+<s> good luck.  </s>
+<s> oil it while your in there.  </s>
+<s> here's another tip if you wrap your fan with rubber bands they run quieter.  </s>
+<s> that around the out side of the fan cases not over the top of the fans, most figure that out, most.  </s>
+<s> run &quot;dxdiag.exe&quot;  </s>
+<s> to test your system for porblems.  </s>
+<s> i have run dx diagnostics and it comes up with no problems.  </s>
+<s> i did change my agp setting to 4x instead of 8x and it seems to be working ok. i have been on sites that have made it crash without trouble such as youtube.  </s>
+<s> i think i'll just have to change to 4x mode when i'm surfing the net for a while and go back to 8x when playing games.  </s>
+<s> thanks for the help.  </s>
+<s> if changing to 4x does not fix it, then i'll post here again  </s>

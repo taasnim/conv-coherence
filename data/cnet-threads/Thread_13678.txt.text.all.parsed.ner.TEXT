@@ -1,0 +1,98 @@
+<s> i'm running out of space on my comp, and for various reasons am considering getting an external hard drive.  </s>
+<s> i've seen several 500gb drives on newegg.com for under $140 or so, but i would like to know what's a good one to get. the main host computer currently only has a usb 1.1 interface, runs windows 2000 sp4, has the 137gb limit, a promise ultra-100 tx2 ide controller (not that it matters for an external drive), a msi k7t266 pro2 mobo, a 1.4ghz athlon cpu, 256mb ram, etc. i don't know what (if any) hardware/software upgrade i will be able to do on this computer, but i am considering trying to get my dad (it's his computer - i don't have my own yet and can't afford it, especially considering the multimedia-intensive things i will be doing with it) to put in another gb or so of ram, and upgrade to windows xp. i would be willing to consider putting in a usb 2.0 and/or firewire and/or sata interface card.  </s>
+<s> i basically would like: fast transfer speeds - preferably no more than 10-15% slower than the internal 7200rpm 8mb buffer hds.  </s>
+<s> (note referencing above: comp has 1.1 usb interface, i'm willing to get an upgrade card) don't want to spend more than about $100-130 or so (plus no more than $15-30 for an interface upgrade card) i don't know that i need one-touch backup or things like that.  </s>
+<s> i will be using this as supplemental storage, not primarily as a backup drive.  </s>
+<s> a couple reasons i'm getting an external drive as opposed to an internal one are because there really isn't a whole lot of room left in the tower, and i often will want to take the drive with me and plug it into other computers (some of which may have lesser specs than our computer, btw).  </s>
+<s> (also, we're running avg free edition (antivirus), which insists on scanning every single installed hard drive every single day (thankfully it lets you pause/cancel when it comes up, but it slows our computer down by a factor of 10 or more when it's running.))  </s>
+<s> so what are some models i should look at?  </s>
+<s> &quot;preferably no more than 10-15% slower than the internal 7200rpm&quot; even usb 2.0 is a fraction of your normal ide speeds so there are no usb drives that meet your spec.  </s>
+<s> -&gt; however i find such to be quite useful.  </s>
+<s> bob  </s>
+<s> so how slow is usb 2.0 compared to ide?  </s>
+<s> (keep in mind i'll be using it with a 4+ year old computer.) also, what about firewire, or external sata interfaces / drives?  </s>
+<s> i do need to be able to stream high-definition uncompressed audio and video, often multiple streams, for editing and viewing on my local machine, allowing for any bottleneck ram / cpu / etc might present.  </s>
+<s> and, for a 500gb (or 400gb) drive, is there a level below which i should avoid (meaning drives more prone to failure, for example, not necessarily having fewer features), even if i have to up my budget to, say, $135-150 or so?  </s>
+<s> what do you think of the first two on &lt;a href=&quot; &gt;this newegg site&lt;/a&gt; - the cavalry caxm37500 and the western digital es wdg1su5000n, both 500gb with usb/esata interface?  </s>
+<s> or is there something else i should look at? (btw, the wd drive is pushing my price limit a bit, but if it's otherwise a really good drive i may be willing to consider it.) of course i'll need to get a usb 2.0 / firewire / sata interface card for our computer.  </s>
+<s> (and, i still have that dang 127gib 28bit lba to deal with...)  </s>
+<s> do you run windows?  </s>
+<s> then i have to dismiss firewire.  </s>
+<s> why?  </s>
+<s> people bring me too many corrupted file systems.  </s>
+<s> however for the mac you'll get firewire.  </s>
+<s> let me wrap this up in a nutshell.  </s>
+<s> pc = usb 2.0, apple = firewire.  </s>
+<s> about sata and esata. the only problem here is the os and drivers.  </s>
+<s> if you can find good support to get it working this it can be exactly the same speed as the internals.  </s>
+<s> i've seen some that never got it to work.  </s>
+<s> bob  </s>
+<s> windows 2000 professional sp4.  </s>
+<s> dad may consider an upgrade to xp, but i don't know when/if (within the next year or so) that'll happen.  </s>
+<s> so with the software and hardware (plus an add-on adapter card (all we have now is usb 1) that we currently have, should i try sata/esata?  </s>
+<s> and how much slower is usb 2 than internal ide?  </s>
+<s> are more than usual.  </s>
+<s> sata came out long after windows 2000 so you need to research not only if you can fit the sata card but if that card has drivers for windows 2000.  </s>
+<s> as to the usb 2.0 it's under 1/2 the speed of ide.  </s>
+<s> this is why it didn't meet your criteria.  </s>
+<s> but since it's just nearline storage why would it matter?  </s>
+<s> i use mine and can play music, video just fine.  </s>
+<s> why such a hard criteria on speed?  </s>
+<s> bob  </s>
+<s> oh, if it's only like as bad as 35-40% or so, whatever... i could probably live with that.  </s>
+<s> when you said &quot;fraction&quot; in an earlier post i was thinking it was like 1/5 the speed or something like that.  </s>
+<s> i just need to be able to stream uncompressed video (at least 640x480 24bpp 30fps) and audio (44.1khz 16 bit stereo, maybe more channels) to/from the drive in real time.  </s>
+<s> i was just looking on wikipedia, and the max burst speed of usb 2.0 is 480mbit/sec, or 60 mbyte/sec.  </s>
+<s> would that be enough for the data transfer i'll be doing?  </s>
+<s> also, is it possible to get a drive that maybe i'll use usb 2.0 for now, but later when i get a new computer i'll be able to take advantage of a faster interface?  </s>
+<s> go with sata; but get the controller with both usb2 and sata and that also applied to the external case as well.  </s>
+<s> win2000 will work with sata (no problem here).  </s>
+<s> and i'm leaning toward usb2 & sata on the controller and ext hd. also, in case i want to use it with another device (don't have any right now though) that supports it, should i get a card that supports those plus firewire?  </s>
+<s> and, should i specifically get an external hard drive, or should i get an internal + usb2 / esata enclosure?  </s>
+<s> and, any recommendations on what specific model to get?  </s>
+<s> i looked at newegg, and they have a cavalry caxm37500 for $122.99 (- rebate + shipping & tax) and a western digital my book premium es wdg1su5000n for $154.99.  </s>
+<s> (they also have a seagate freeagent pro for $171.99, but that's more than i can afford.  </s>
+<s> i do need to buy the adapter card too.) then... which add-on card to get?  </s>
+<s> encore enladp-402 - $19.99 - 4 ext usb 2.0, 2 int sata koutech usb2.0 & firewire & sata combo pci card model io-pc820 - $49.99 (more than i want to pay) - 2 ext firewire, 1 ext sata, 2 ext usb ports or is there another one i should look at? i'd like to spend no more than $25-35 and get at least 4 - 6 external ports, distributed between usb 2.0 & sata, with at least 2 of each type.  </s>
+<s> i am leaning away from firewire for now, cause i don't think i need it just yet.  </s>
+<s> i may have 2 available slots... should i get separate cards for usb & sata?: the $20 encore card mentioned above, plus... bytecc bt- pci-sata150 - $21.99 - 2 ext sata ports (total combined price would still be less than the $50 card, and i'd have 2 each of internal and external sata ports.)  </s>
+<s> if my experience is of any indication, you won't be working with the usb at all.  </s>
+<s> it is too slow for my liking.  </s>
+<s> as for internal vs. external, internally you might save $20/$30.  </s>
+<s> of course externally has its own advantages though.  </s>
+<s> ...cause i will be frequently moving it from pc to pc, and therefore it won't be plugged in all the time.  </s>
+<s> esata has not reached the point i would consider this.  </s>
+<s> with each machine you have to not only obtain the esata card and connectors but do battle with the os to install sata support.  </s>
+<s> if you haven't installed windows 2000/xp onto a sata drive you may be in for a rude shock.  </s>
+<s> -&gt; i also get the feeling you want to put a game that you want to run on various machines.  </s>
+<s> even with the drive being portable the big problem is that with windows programs rarely move with the external drives.  </s>
+<s> that is the owner installs an external drive, installs battlefield on it and then takes the drive to a friends house.  </s>
+<s> bf won't run! let me be frank, honest and offer my best advice here.  </s>
+<s> go get your usb 2.0 card and your usb 2.0 drive and let it work without you heading down a dark path to a blind alley.  </s>
+<s> you will read those that will push esata but did they get it working on your windows 2000 machine?  </s>
+<s> bob  </s>
+<s> i would get a usb 2.0 card, just because that's useful for lots of things.  </s>
+<s> then get a drive or enclosure that supports usb 2.0, and possibly also firewire and/or esata.  </s>
+<s> i have a 320gb wd 7200rpm ide drive in a usb2/firewire enclosure.  </s>
+<s> i normally use it with firewire and when i move between computers with firewire or usb it works fine.  </s>
+<s> i assume switching from esata would work just as well, but don't take my word for it.  </s>
+<s> so to sum up: if you want maximum speed, go with esata.  </s>
+<s> if you want easy compatibility and portability, go with usb 2.0.  </s>
+<s> i use firewire because i already have so many usb devices plugged in :p and it's about the same speed as usb 2.0.  </s>
+<s> one final tip: when you get everything bought and plugged in, make sure the firmware is up to date.  </s>
+<s> my enclosure was pretty unstable with firewire until i updated the firmware.  </s>
+<s> now it hardly ever glitches.  </s>
+<s> (what was happening was during a large or continuous transfer randomly the transfer would hang and windows would say &quot;delayed write failed&quot;, so i'd have to unplug the drive and plug it back in and restart the transfer.)  </s>
+<s> lacie drives can crash your pc on bootup, and support is the worst i've ever experienced.  </s>
+<s> there are many other manufacturers you could go with - seagate, western digital, maxtor, anything but lacie.  </s>
+<s> for your hard drive.  </s>
+<s> i agree with above but i also dissagree with maxtor or western - well western may not be bad - havent heard much on it.  </s>
+<s> i live with seagate - i have some that have been runing for 10 years.  </s>
+<s> maxtor has a 13month avg.  </s>
+<s> life span.  </s>
+<s> ted  </s>
+<s> i am of the understanding that your motherboard has 4 usb 2.0 ports, and 4 usb 1.1 ports, no? anyway, you have a 66 mhz pci controller.  </s>
+<s> depending on the speed of your internal drive, you could get up to 200 mb/s transfer rate, compared with only 60 on usb 2.0.  </s>
+<s> on 1.1, it's much, much slower.  </s>
+<s> your transfer rate on a usb 1.1 port maxes out at 12 mbps, or 1.5 megabytes per second.  </s>
+<s> that's slooooooow.  </s>

@@ -1,0 +1,21 @@
+<s> hi, i'm hoping someone can help me, because this is driving me crazy.  </s>
+<s> i have a belkin pre-n network card and router.  </s>
+<s> my housemate has a belkin 54g router and card.  </s>
+<s> neither of our cards will work with the other's router, it just doesn't want to work.  </s>
+<s> he can connect to the pre-n router but at a very low speed and the internet is frequently unavailable.  </s>
+<s> is there any way that we can use both routers together in order that both of us can share the internet connection, or anyone got any ideas as to why this is happening?  </s>
+<s> thanks  </s>
+<s> probably with the 54g and definitly with the pre-n (see page 54 of the manual) i'm surprised that you are having problems with this the pre-n is supposed to have the airgo chipset which should prevent the router from dropping to the losest common denominator of card, but i doesn't seem to hurt you pre-n equiped computer's speed.  </s>
+<s> make sure you are using the latest firmware in the router and drivers for the cards.  </s>
+<s> have you tried calling belking tech support?  </s>
+<s> they are interchangable.  </s>
+<s> however, there are times when you should probably consider deleting the software and doing a complete reinstallation of the appropriate software for the card being installed.  </s>
+<s> sounds lame, but that is often a problem.  </s>
+<s> my personal home network comprises of four computers.  </s>
+<s> the desktop is direct to the belkin pren router and there are three laptops connected via wireless.  </s>
+<s> my laptop uses a pren card and the other two use 54g cards.  </s>
+<s> when changing card types, i have found it much easier to uninstall and then reinstall the appropriate software.  </s>
+<s> makes life much easier and has yet to cause me problems.  </s>
+<s> when installing a new setup, i push for all having the same type of card and if that is not practicle, i stress the need to avoid moving cards around.  </s>
+<s> once properly installed, life is great and very stable.  </s>
+<s> ben  </s>

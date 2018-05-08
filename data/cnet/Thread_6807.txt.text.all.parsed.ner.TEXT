@@ -1,0 +1,51 @@
+<s> hello everyone i just got a new computer (i am not a computer pro btw) and it has a agp slot. the problem is i am not to sure to know which one i have. the computer user manual don't tell, neither it says so on the mother board or in the computer periphical section.  </s>
+<s> i checked a few sites about agp cards but they made me confuses even more.  </s>
+<s> my card is brown and has a key in the middle near the front of the computer.  </s>
+<s> i found a site that might be usefull: it looks like the green one model, but it's brown.  </s>
+<s> i supose color doesn't mean anything but i just want to be sure before buying any cards.  </s>
+<s> let me know please.  </s>
+<s> thank you!  </s>
+<s> computer make & model?  </s>
+<s> motherboard model?  </s>
+<s> if you need help, download and run belarc advisor from download.com.  </s>
+<s> i am not too sure if this is the right info you need.  </s>
+<s> model: emachines d4362 board: first international computer, inc.  </s>
+<s> p4-865g series /vl33 pcb 1.x bus clock: 200 megahertz bios: phoenix technologies, ltd ifn422tm 03/09/2004 intel(r) 82801eb ultra ata storage controllers thank you  </s>
+<s> unplug the computer tower and open the side up.  </s>
+<s> lay the tower on its side with the open side up and have the back of the computer facing away from you.  </s>
+<s> look at the area of the board facing the farthest away from you, you should see around four slots (pci).  </s>
+<s> now look to the right of the pci slots, if you see one slot off by itself and a little closer to you than the rest then that should be the agp slot(most boards only have one).  </s>
+<s> google: emachines d4362 all the links that i saw indicated that the slot is agp 8x. keep in mind that if you upgrade to a high-end gaming card, you may have to upgrade the psu, too.  </s>
+<s> i know that, i opened it up and saw the agp slot for the card.  </s>
+<s> problem is, it not written on the board what agp slot it is (well i looked and looked and see nothing on the board near the agp slot).  </s>
+<s> i couldn't find for sure anywhere what kind of slot it was for the d4362 on google (there seems to be little info about this model).  </s>
+<s> also, the slot is brown, not green but it's made like the green one (visit the url i posted and you'll understand what i mean).  </s>
+<s> so i need to know if it's a 2x one or 8x one.  </s>
+<s> thank you in advance.  </s>
+<s> it's agp 8x. motherboard mfg: other source:  </s>
+<s> thank you alot linkit, it really helps me thank you again!  </s>
+<s> happy holydays  </s>
+<s> hh to you too! happy computing in the new year!  </s>
+<s> all the help needed has been received so the topic has been closed.  </s>
+<s> i do hope this procedrue helps.  </s>
+<s> you need to open your pc casing.  </s>
+<s> many mother board manufacturers have the pci slots in white color, the memory board slots in blue, the ide cable slots have one blue or black and then white, the cnr slot brown, and the agp slot brown.  </s>
+<s> try to notice where you attach your monitor cable to the back of your pc. if the female plug (where you attach your monitor cable) is located on the top most portion of back the panel - (with the pc casing in upright position), there is a 90% chance that your pc is using an agp card.  </s>
+<s> if the monitor cable is plugged to the second, third or fourth slot, then it could be a pci video card.  </s>
+<s> if you are still not sure, you can download a fresh diagnose program or software fromf fresh devices.  </s>
+<s> it is free. the software identifies all parts attached to your pc from mother board to adapters, pci slots, etc. some agp card brands like s3, nvidia, inno 3d, etc. are also displayed during boot sequence (upon powering up your pc)inclusive of the adapter type and version number.  </s>
+<s> if still in doubt, call the dealer where you bought your pc, surely they will know what type of video card they used to your pc, could be pci, agp or internal (on-board).  </s>
+<s> hi i am new here and i'm also having problem about what kind of agp slot version i have.  </s>
+<s> and i can't find any good answer about my problem.  </s>
+<s> i'm planning to buy new video card but i'm worried i might buy different video cards for my mother board.  </s>
+<s> her's my motherboard info.  </s>
+<s> hope u can help me too.  </s>
+<s> thank u. board: board: intel corporation d865gsa aad53275-204 serial number: azsa62414323 bus clock: 133 megahertz bios: intel corp.  </s>
+<s> sa86510a.86a.1024.2006.0504.1017  </s>
+<s> 05/04/2006 hope u can help me distinguish if what slot i have.  </s>
+<s> thank u.  </s>
+<s> i found the agp info using a browser search engine and the words &quot;d865gsa&quot; vapcmd  </s>
+<s> or via the web.  </s>
+<s> just not that difficult if you have mfg name, series and model number.  </s>
+<s> as indicated above, i found the answer in under 30 seconds via the web.  </s>
+<s> vapcmd  </s>

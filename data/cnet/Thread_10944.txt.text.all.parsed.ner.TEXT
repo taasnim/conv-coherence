@@ -1,0 +1,34 @@
+<s> i have a tiny notebook with win2000 pro installed.  </s>
+<s> on startup i get the above stop code with advice telling me to uninstall any new hardware, run checkdisk/f.  </s>
+<s> i cant do any of this as it wont boot up in safe mode, safe mode with command prompt or normally.  </s>
+<s> have inserted win 2000 system restore disc, installation cd in external cd drive, all to no avail.  </s>
+<s> can any body help please?  </s>
+<s> does your windows 2000 cd fail to boot?  </s>
+<s> if so that is the next issue to address.  </s>
+<s> check your bios setting to be sure that the cdrom is set to boot first.  </s>
+<s> then duplicate your windows 2000 cd and see if the copy boots.  </s>
+<s> if that fails try an external usb cdrom drive or another internal cdrom (replace yours!!!) drive.  </s>
+<s> as these cd/dvd drives age they can fail to be bootable but work in windows.  </s>
+<s> your old tech person will know this but new to repair staffers will lose time as they wonder why.  </s>
+<s> bob  </s>
+<s> thanks for reply.  </s>
+<s> have tried using system restore disc in internal cd and external cd. i know its not the hard drive cause it boots from a ms-dos floppy, but it wont go past the blue screen of death by any other method.  </s>
+<s> can i just wipe the hard disc somehow and reinstall?  </s>
+<s> follow robert's advice.  </s>
+<s> the w@k cd is suppose to be bootable, provided you have set the bios to boot from cd. this is a way to assure you can boot.  </s>
+<s> you say, your hd is ok but you boot from a floppy, not the same thing.  </s>
+<s> if you want to start over, simply install the w2k cd in the cd drive and boot from it.  </s>
+<s> you should be able to reformat, etc. to reload the os. tada -----willy  </s>
+<s> can you tell me how to get the computer to boot from cd pleasse?  </s>
+<s> i've clicked f2 to get into the bios, but i can't seem to instruct it from there.  </s>
+<s> can you give me a blow by blow directions so that the computer will boot from cd? thanks in anticipation.  </s>
+<s> i looked and could not find a manual for your machine.  </s>
+<s> if you supply it, i'll read it.  </s>
+<s> so we are left with generic instructions to look over all the bios settings to see if we left out the setting to boot from cd. bob  </s>
+<s> since you can enter the bios, look for a &quot;boot sequence or boot-up&quot; of devices.  </s>
+<s> it maybe mentioned in different ways, but generically speaking, boots in this order &quot;hd, cd, fd&quot; being hard drive, cd drive, and floppy.  </s>
+<s> it maybe displayed as &quot;c, cd, a&quot;.  </s>
+<s> as you have a tiny system not a common one here in the usa, be sure to locate their support website or review the manual for similar info for your model#.  </s>
+<s> when in the bios do search all areas, it may not be displayed on the initial 1st screen.  </s>
+<s> if you can't find or seem lost, provide the full details of your tiny system model(from decal/sticker).  </s>
+<s> tada -----willy  </s>

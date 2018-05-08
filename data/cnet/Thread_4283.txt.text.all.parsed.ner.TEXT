@@ -1,0 +1,20 @@
+<s> ok, so i just upgraded from an intel q6600(2.4ghz) to a q9400(2.66ghz).  </s>
+<s> now, when overclocking with the 6600 i couldn't get it to go past 3.0ghz (just wont boot past the windows logo screen), so i left it alone, figuring it was the just the chip.  </s>
+<s> but after upgrading, i have the same problem with he q9400, even though i know for a fact that the q9400 can be overclocked a lot higher.  </s>
+<s> can anyone help me!? i overclock through the bios btw.  </s>
+<s> also, when sitting idle, the cpu drops to 2ghz, but when i start an app, or do anything, it jumps back up to 2.66ghz.  </s>
+<s> maybe that has something to do with it?  </s>
+<s> system: evga 780i mobo intel q9400 (2.66ghz) with asetek liquid cooling 8gb pc6400 ocz/corsair ram nvidia 9800 gtx+ oc 1tb hdd  </s>
+<s> have you tried booting up without overclocking?  </s>
+<s> ya it boots fine without overclocking  </s>
+<s> well then, i'm sorry to say that the overclocking is the problem...  </s>
+<s> as a last effort you may want to check out if a bios update can correct or further your oc'ing efforts.  </s>
+<s> just because you can oc, you basically find a level that can be sustained/stable.  </s>
+<s> meaning, you can't go beyond a certain point w/o causing problems.  </s>
+<s> thus, your results are less than you expect.  </s>
+<s> further, some mtrbds.  </s>
+<s> even oc friendly maybe lacking in that those components are capable as expected when you reach the top levels.  </s>
+<s> understand also, you may need to configure the cpu voltage besides the fsb, etc.. also, your psu should be a brute and provide every voltage as stable as possible.  </s>
+<s> this is all a careful balancing act and each increase done one step at a time until the best output can be had.  </s>
+<s> of you had problems with the 6600, the most friendly of oc'able cpus then your problem lays elsewhere, imho.  </s>
+<s> tada -----willy  </s>

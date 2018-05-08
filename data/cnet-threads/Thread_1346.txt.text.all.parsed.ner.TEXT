@@ -1,0 +1,22 @@
+<s> hi all, i just moved house and re-setup my computer (a dell xps t600r piii, 512mb ram, 50gb hd, 19in dell trinitron, nvidia tnt2 64mb video card.) it works fine except for one annoying new problem: the screen now flickers and jumps 75% of the time.  </s>
+<s> periodically it will stop for maybe a minute and then it resumes hopping.  </s>
+<s> i never had this problem prior to moving.  </s>
+<s> what might be causing this?  </s>
+<s> have you checked the refresh rate you have the drive set for?  </s>
+<s> don't know the version of windows so i can't tell you how to do it, but generally you go to control panel/display and under settings/advanced/adapter you can see the refresh, it must be 70hz or higher to avoid flicker.  </s>
+<s> have you tried pulling it away from the wall, maybe put it on the floor for a test a few feet from where it is now, and see if it makes a difference, could be power cables in the wall creating problem (seen this once).  </s>
+<s> don't take anything for granted and recheck all setting and cabling.  </s>
+<s> next try moving the monitor or system to a different location and outlet.  </s>
+<s> if it settles down then, you have &quot;rf outside interference&quot; of some sort.  </s>
+<s> last, its possible some damage may have been done during the move and its starting to fail.  </s>
+<s> if under warranty, use it don't mention the move.  </s>
+<s> ;0 good luck -----willy  </s>
+<s> don't forget to check and see if you have the latest drivers from the manufacturer.  </s>
+<s> i have a 128mb nvidia (sp?) and i also had a similiar problem.  </s>
+<s> i adjusted the refresh rate and downloaded the latest drivers and it's working fine now.  </s>
+<s> also you might reseat the video card to be sure it is properly in its slot.  </s>
+<s> thanks for all your replies, folks:) i'll try moving the pc to a new location and see if that helps re: mag interference jmarchi and willy.  </s>
+<s> i've checked the plugs to make sure there's nothing disconnected.  </s>
+<s> but the suggestion of reseating the video card is a good one, thanks islander.  </s>
+<s> interestingly, denjones, i upped the refresh to 85mhz and it solved the prob for about a day and then i experience some more flickering, though not as often...  </s>
+<s> not sure what type of monitor, bit if is a flat lcd your issue may be the inverter board  </s>

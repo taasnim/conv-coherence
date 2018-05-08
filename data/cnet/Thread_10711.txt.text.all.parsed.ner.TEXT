@@ -1,0 +1,61 @@
+<s> hello everyone, if their is anyone out there that knows alot about hard drives- i like some help.  </s>
+<s> i put together a computer with a asus p5lde-deluxe board, everything is great.  </s>
+<s> all connections cool -execpt for one problem-.  </s>
+<s> bought a new 320g western digital (sata 2) drive and had an existing western digital 250g (sata 1) drive.  </s>
+<s> i formatted the new sata 2 drive s boot drive- the old sata 1 drive was already formated.  </s>
+<s> though they both show up in bios i cant see the sata 1(old drive) in -my computer-.  </s>
+<s> tried disk manager utility in windows and the w.d data lifeguard program- thought with sata all drives where compatable.  </s>
+<s> i mean sata 1 and sata 2, do i have to step down the sata 2 drive to sata 1 spec.  </s>
+<s> with jumper?  </s>
+<s> cant figure it out.  </s>
+<s> should be no need for slave or master on sata, right?  </s>
+<s> hope someone can point me in right direction.  </s>
+<s> thanks for the help.  </s>
+<s> drives don't show in windows until they are partitioned and even then i need to format them.  </s>
+<s> your post is void of the details for me to comment further.  </s>
+<s> bob  </s>
+<s> more infomation: i had one drive, my original drive(sata 1), bought second drive(sata 2)used on asus p5ld2 mother board.  </s>
+<s> can a sata 1 drive work with a sata 2 drive?  </s>
+<s> both show up as bootable but the sata 2 drive, is the primary.  </s>
+<s> i want to be able to log into old drive to copy files or use seperately.  </s>
+<s> i can format it as storage drive- but lose all info- i want to copy it's files first.  </s>
+<s> was thinking maybe i can use windows disk to repair the partion (or fix windows) maybe that might allow it to show in -my computer -in windows and allow me to use it. the sata 1 drive shows up on everything- but my computer in windows- and in disk management there is no drive letter.  </s>
+<s> in sata config.  </s>
+<s> on the board, i have the 320g(sata2)as the primary drive- plug 1 (the red one) and the original drive the sata 1 drive is on the slave sata plug 3 (the black one)- this is designation on the asus motherboard sata plug 1+2 master and sata plug 3+4 slave.  </s>
+<s> hope this will help you more.  </s>
+<s> thanks.  </s>
+<s> absolutely. but your issues appear to be related to nothing in your first post.  </s>
+<s> no mention that the drive was used in some other system so i wouldn't note that this is often how people learn about backing up what they can't lose.  </s>
+<s> look up zero assumption recovery and i wish you luck, bob  </s>
+<s> thanks to the person who has taken effort to reply- thanks bob. it maybe hard to understand, but i did what i was trying to do- and learned more about drives.  </s>
+<s> sata controllers work independantly- i was pretty sure.  </s>
+<s> there was no reason why my old formatted drive should not show up.  </s>
+<s> but only my new drive that had been formatted showed.  </s>
+<s> i just fooled with the windows cd and loaded some of the drivers from the cd. and low and behold this drive is now reconized in my computer.  </s>
+<s> i put both on the sata master inputs(the red ones)- i did this before so i think the drivers on the windows cd helped the windows install reconize the drive. the bios has always reconised it (drive that wasnt seen in windows).  </s>
+<s> now if i could just find a good program or find a way to transfer files- but now that i think.  </s>
+<s> datalifeguard will probly work.  </s>
+<s> thanks, bye.  </s>
+<s> not out of the woods yet- drive is showing, but cant access my user folder on drive.  </s>
+<s> says that i dont have permissions.  </s>
+<s> is there a procedure or settings i can adjust to allow me to acess the old sata 1 drive main folder and files.  </s>
+<s> thanks.  </s>
+<s> just type xp take ownership into google.com and pick the solution you like.  </s>
+<s> bob  </s>
+<s> ok i'll give the google search a try- ran into this problem before,but just formatted- dont want to lose files this time.  </s>
+<s> thanks again.  </s>
+<s> thanks alot man- you the man.  </s>
+<s> you really help me.  </s>
+<s> cant figure out how i got the drive to be reconized.  </s>
+<s> my first motherboard (before this new one that i used old drive in)stopped working.  </s>
+<s> and i found two viruses on old drive, but only after it was reconized.  </s>
+<s> do you think the windows cd had something to do with it, when i reinstalled the drivers( but it was already showing in bios, and disk manager- just not in my computer?, and no hardware issues in device manager?  </s>
+<s> any way this is what i knew could happen with these drives, and we worked it out.  </s>
+<s> so thanks again for the info bob- the last bit totally helped.  </s>
+<s> i'ld like to know what you think allowed the drive to be reconized, or was it a quirky thing.  </s>
+<s> thanks  </s>
+<s> sorry forgot to ask this, will try it.  </s>
+<s> but i should have no problems no doing a simply drag and drop from one drive to the next to transfer files- this could however spead a virus right.  </s>
+<s> i'm sure you've read stories where we uninstall and reinstall software and it works the second time.  </s>
+<s> i can't explain it.  </s>
+<s> bob  </s>

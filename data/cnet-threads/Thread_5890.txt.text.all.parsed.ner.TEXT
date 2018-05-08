@@ -1,0 +1,23 @@
+<s> is it possible that when any one gets connected to the router and when they open their browser the first page to display is my company's home web page.  </s>
+<s> where do i put this information?  </s>
+<s> just an example like when you are sitting in starbuck and you connect to their router and when you open the browser the first page to show up is the starbuck homepage.  </s>
+<s> neal kalyan  </s>
+<s> i would say yes, but without the permission of the owner of the browser, it's called hijacking.  </s>
+<s> just the plain old page.  </s>
+<s> maybe he wants to order something from the menu.  </s>
+<s> for the question, i don't think so. each wi-fi location has a different home page.  </s>
+<s> and some require a subscription like barnes & noble.  </s>
+<s> when you log onto their wireless network, the first thing you get is a page telling you how to buy minutes.  </s>
+<s> this is not possible because when you connect to their router the only thing that you are getting from them is signal and ip address,their home page cannot be transmitted to your pc even if you are wired to theor router.  </s>
+<s> this is not a common feature on home gateway products.  </s>
+<s> the basic concept works like this.  </s>
+<s> i boot my pc and i get a dhcp assigned address.  </s>
+<s> if i try to ping anything on the internet i am blocked.  </s>
+<s> if i try to browse the internet my browser is hijacked or redirected to the &quot;captive portal&quot; web page.  </s>
+<s> this page may live on the router or may be a separate web server.  </s>
+<s> at this point i need to login or click some usage agreement to get the portal to release the hijack.  </s>
+<s> once i login, i can surf normally.  </s>
+<s> here is a link to some linux based captive portals.  </s>
+<s> i believe this router from sonicwall will do the job.  </s>
+<s> they call the feature &quot;wireless guest services&quot;.  </s>
+<s> skrall  </s>

@@ -1,0 +1,14 @@
+<s> i recently installed a pcie esata card to my quad core dell running vista home premium.  </s>
+<s> i had a wd mybook home connected via esata.  </s>
+<s> it worked immediately after install.  </s>
+<s> it worked for a week or two and now if i reboot and the card is in i get an error message: ahci bios is not installed..this appears right after dell splash screen.  </s>
+<s> cannot enter bios from splash screen.  </s>
+<s> if i remove the card windows boots normally.  </s>
+<s> update: flashed bios no change  </s>
+<s> such things do fail.  </s>
+<s> try another.  </s>
+<s> gee thanks..i'm not convinced it's the card.  </s>
+<s> anyone else?  </s>
+<s> test the drive by connection to the mainboard.  </s>
+<s> the message was the decider for me. the card's bios won't load so the card is nonfunctional.  </s>
+<s> bob  </s>

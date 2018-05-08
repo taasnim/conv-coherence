@@ -1,0 +1,19 @@
+<s> hello, i'm thinking about 'donating' my old desktop to my friend for his kids to use. the timing works out well because i think i'm ready to spring for a new pc w/ dual core (or build one).  </s>
+<s> if i were to purchase a pc from a vendor, would i be able to drop my old hard drive in and essentially have my old pc's &quot;brain&quot; running on a faster machine?  </s>
+<s> old system is a dell p4 2.0ghz, 1gb ram running xp home edition.  </s>
+<s> the boot drive is the garden-variety 40gb, and i have installed another hd (160gb) for storage.  </s>
+<s> new pc would have a dual-core intel processor, but i am concerned that the bios would mess things up.  </s>
+<s> or if it came with vista pre-installed and if i were to remove the pre-installed hd completely, would it recognize my old hard drive, be able to boot xp, and still be compatible with the motherboard and the capacity for alot more ram memory?  </s>
+<s> i don't think i would have a problem, but figured i'd ask.  </s>
+<s> thanks for all of your help!  </s>
+<s> paulie k. chicago, il  </s>
+<s> it's not that the new computer won't recognize the hard drive, but your old xp installation will have trouble with the new motherboard, video card, etc. plus, the old xp was probably an oem version, and is &quot;married&quot; to the old computer.  </s>
+<s> when it came time to activate the old windows on the new system, it wouldn't work.  </s>
+<s> keep the new drive in the new system.  </s>
+<s> if you want to transfer one of the old drives to the new computer, that is fine.  </s>
+<s> if you give the old system to someone, let them re-install the old version of windows on the old computer.  </s>
+<s> the windows os doesn't survive such moves.  </s>
+<s> but for clarity here's a few articles about how i can save the os and apps when a machine gets a lightning hit and the hard disk survives.  </s>
+<s> read a few from bob  </s>
+<s> here's the deal: 1) new system will accept old hd with new hd as boot drive, you can then swap data as required(but can be iffy) 2) the old hd(old os) can't be used as main drive in new system w/o losing data and unless preparing it for proper use 3) the xp os won't allow usage as in step 2, and is illegal to use any oem os besides the intended system or dell in this case 4) install old hd in usb enclosure and mount that way to access data 5) if you donate old system with hd, then erase completely using pgms.  </s>
+<s> like killdisk, dban, or hd eraser(google for them) tada -----willy  </s>

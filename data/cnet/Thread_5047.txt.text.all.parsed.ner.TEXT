@@ -1,0 +1,199 @@
+<s> i'm having lots of grief in configuring my wireless network.  </s>
+<s> last week, before i moved, everything was working fine.  </s>
+<s> i had cable internet, my desktop pc was connected directly to my wireless router, and my laptop used wireless to connect to the network.  </s>
+<s> on the weekend i moved, changed isps, added a voip terminal, and am now trying to configure both my pc and laptop with wireless cards.  </s>
+<s> here's my layout: cable -&gt; cable modem -&gt; voip terminal -&gt; wireless router after experimenting a long while last night, i was able to get either my laptop or my desktop connected, but not both!  </s>
+<s> both pcs are running win xp sp2.  </s>
+<s> here's what i know for sure: - the internet connection itself is working.  </s>
+<s> i can connect to wherever at one of the computers.  </s>
+<s> - the restriction doesn't have to do with the acl on the wireless router (as i've disabled it and still have the problem) - the problem doesn't appear to be security related, as i can remove all security on the router and still have the same problem - i reserved two ips on the router, one for the desktop, one for the laptop, and configured their wireless cards to use these ips.  </s>
+<s> this doesn't seem to be the problem, but i could be wrong.  </s>
+<s> - the pc that can't connect is getting dns information, but not much else. if i ping google.com, it resolves to an ip, but i never get a response.  </s>
+<s> also, from this pc i can't ping other pcs on the network or the router.  </s>
+<s> - both pcs are connecting to the wireless network, but one of them can't connect to the internet or to anything else on the network.  </s>
+<s> does anyone have any thoughts on what might be wrong, or what else i could do to diagnose and fix the problem?  </s>
+<s> let dhcp assign the ip's... just for trouble shooting, remove the voip terminal..  </s>
+<s> i had a similar problem.  </s>
+<s> i powered everything down and rebooted in the order you have them linked and making sure that each device was completely booted before powering on the next device.  </s>
+<s> 1. you may want to post the output from &quot;ipconfig/all&quot; on both computers, so we have more information to go on by. 2. do you have any other virtual or physical network cards installed on the problematic computer?  </s>
+<s> (ie.  </s>
+<s> vmware, vpn, etc.) 3. have you tried using dhcp as opposed to static mapping?  </s>
+<s> in my mixed wireless/wired home network, i do utilize dhcp and static mapping with no issues, but i've seen some funny things happen when i tried static mapping with some home nat devices -- most likely because of misconfiguration.  </s>
+<s> 4. are you able to ping your nat/router from your problem pc? 5. how did you configure dns server entries on your computers?  </s>
+<s> are you letting your nat/router be the gateway to your isp's dns servers?  </s>
+<s> if you are not able to ping even the nat/router but you are able to get dns resolutions then --- errrrr --- i have to think about that... but that'll be a nice bit of info to know.  </s>
+<s> i don't ever check these forums, the only reason why i came across this post, is because this post somehow showed up as &quot;news&quot; on my google desktop... so ehrm... good luck!  </s>
+<s> cm  </s>
+<s> i tried using dhcp, but no difference.  </s>
+<s> haven't tried removing the voip terminal.  </s>
+<s> that's not really an option, but i guess it's a place to start.  </s>
+<s> you write ... cable -&gt; cable modem -&gt; voip terminal -&gt; wireless router which could result in the voip grabbing your one and only ip address.  </s>
+<s> bob  </s>
+<s> here's my results for ipconfig /all on the desktop: windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : elrond primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : unknown ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter ethernet: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : nvidia nforce mcp networking adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my ethernet mac address&gt; ethernet adapter wireless: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : d-link airplus g dwl-g510 wireless pci adapter(rev.b)  </s>
+<s> physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my wireless mac address&gt; dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.101 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 on the laptop (the pc that's doesn't get pings back from google.com): windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : galdalf primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : hybrid ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter ethernet: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : via rhine ii fast ethernet adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my ethernet mac address&gt; ethernet adapter vpn: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : vpn client virtual adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my vpn mac address&gt; ethernet adapter wireless: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : wireless-g pci adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my wireless mac address&gt; dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.102 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 primary wins server .  </s>
+<s> . . . .  </s>
+<s> : 192.168.0.1  </s>
+<s> this is the way the manual says to do it.  </s>
+<s> and the only way that ensures high quality voice calls.  </s>
+<s> 1. here's my results for ipconfig /all on the desktop: windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : elrond primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : unknown ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter ethernet: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : nvidia nforce mcp networking adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my ethernet mac address&gt; ethernet adapter wireless: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : d-link airplus g dwl-g510 wireless pci adapter(rev.b)  </s>
+<s> physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my wireless mac address&gt; dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.101 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 on the laptop (the pc that's doesn't get pings back from google.com): windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : galdalf primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : hybrid ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter ethernet: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : via rhine ii fast ethernet adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my ethernet mac address&gt; ethernet adapter vpn: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : vpn client virtual adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my vpn mac address&gt; ethernet adapter wireless: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : wireless-g pci adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : &lt;my wireless mac address&gt; dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.102 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 primary wins server .  </s>
+<s> . . . .  </s>
+<s> : 192.168.0.1 2. there is a vpn adapter on the laptop, but that shouldn't matter.  </s>
+<s> 3. yes, i have tried using dhcp.  </s>
+<s> same result.  </s>
+<s> 4. yes, i am able to ping my wireless router from both pcs, but i can't ping the voice terminal from either.  </s>
+<s> 5. dns configuration is the same on both pcs, set to the ip for the wireless router.  </s>
+<s> from your list, all of them have dhcp disabled... why don't you try to enabled it .. in your router too.. unless you also disable the dhcp on the router... then you need to make all the ip in the same ip range address.  </s>
+<s> you may also try to bridge the wireless and local internet connection ... (right click the network icon on the taskbar, open network connection, -- select wireless network connection and local internet connection (using ctrl key to select two items or more), right click and select bridge connections.. note: if this doesn't work .. then remove from bridge again.  </s>

@@ -1,0 +1,42 @@
+<s> no i didnt do it.  </s>
+<s> i got a gateway pc from my boss.  </s>
+<s> he formatted the hd so the &quot;work related info&quot; would be gone.  </s>
+<s> i know what formatting does and i need help to restore it.  </s>
+<s> it is a 20gb quantum.  </s>
+<s> it had win98 on it and also drivers for cdrom, usb and ethernet.  </s>
+<s> i have a 2gb hd with win 98 on it but no such drivers (base system) i want to run the 2gb as the primary and the 20 gb as the slave so i can reinstall the os on it.  </s>
+<s> any suggestions?  </s>
+<s> you want restore the 20gbs that was formated?  </s>
+<s> you want to install (i'm guessing) windows 98 on 2gb of space?  </s>
+<s> does windows 98 fit on 2gbs?  </s>
+<s> so all you need to do is boot your windows 98 cd or diskette and install windows 98. install instructions are never given by me since we have the internet and a thousand pages on installing windows.  </s>
+<s> bob  </s>
+<s> i have 2 harddrives. the one that is usefull is a 2gb harddrive that has win98 and a handful of other programs on it.  </s>
+<s> dont ask me how they got all of that on a little hd. my problem is that the 20gb harddrive i got was formatted.  </s>
+<s> i use the 2gb to boot the gateway system that the 20gb came in, and im trying to create a new operating system on the 20gb.  </s>
+<s> i need to find new drivers so i can use the cdrom, and i need to find either win98 or xp to put on the 20gb after i get the new drivers installed.  </s>
+<s> the problem at hand is the jumpers on the back of the hd's. the 2gb has 3 sets of prongs but no jumper. the 20gb has 4 sets of prongs with the jumper on the second set away from the ribbon.  </s>
+<s> i want to know where the jumper needs to be so that the 2gb harddrive is the primary and the 20gb harddrive is the slave.  </s>
+<s> i have 2 computers.  </s>
+<s> the first one is a gateway desktop pc that was made in 2000.  </s>
+<s> it is designed for win98 and has the 20gb harddrive.  </s>
+<s> the hd in this computer was formatted by a guy that i work with. the second &quot;donor&quot; computer is a no name brand built by my cousins husband.  </s>
+<s> it has a 2gb harddrive that has win98, microsoft office and a handful of other programs.  </s>
+<s> he uses winzip to fit everything on it.  </s>
+<s> i am trying to rebuild the gateway using the small hd from the donor to boot the system, then installing win98 or xp on the 20gb harddrive.  </s>
+<s> i cant get the system to show the two hd's.  </s>
+<s> it will boot from the little one but it only shows that i have one, not two.  </s>
+<s> i put the jumper on the 2gb in the first spot closest to the ribbon. the 20gb i have put the jumper in the second spot.  </s>
+<s> i am stumped.  </s>
+<s> also,the little hd only has drivers for video and 3.5 floppy.  </s>
+<s> i need to find win98 drivers for cdrom, usb and soundblaster sound card.  </s>
+<s> any advice or suggestions would be great.  </s>
+<s> thanks  </s>
+<s> today we use 80 conductor ide cables (see google.com about that) and both drives are jumped to cable select.  </s>
+<s> even a 2000 era pc should have that cable and use those jumper settings.  </s>
+<s> the cdrom is never a cdrom driver issue.  </s>
+<s> when you install the motherboard drivers, the cdrom works.  </s>
+<s> same for usb.  </s>
+<s> which leaves the soundblaster.  </s>
+<s> google is your friend here. the soundblaster drivers are a bit too easy to find.  </s>
+<s> bob  </s>

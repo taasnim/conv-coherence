@@ -1,0 +1,5 @@
+(TOP (S (S (NP (PRP i)) (VP (AUX have) (NP (DT the) (JJ maxtor) (NNS basics)) (NP (JJ external) (JJ hard) (NN drive)))) (: ;) (S (ADVP (RB however)) (, ,) (NP (PRP i)) (VP (VBP believe) (SBAR (S (NP (NP (DT the) (NN motherboard)) (PP (IN on) (NP (DT the) (NN enclosure)))) (VP (VP (VBD broke)) (CC or) (VP (VBN burnt) (PRT (RP out)))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX was) (VP (VBG wondering) (SBAR (WHADVP (WRB where)) (S (NP (PRP i)) (VP (MD could) (VP (VBN located) (NP (NP (DT a) (JJ new) (NN motherboard) (CC and) (NN enclosure)) (PP (IN for) (NP (DT the) (NN drive)))))))))) (. ?)) )
+(TOP (NP (JJ -LSB-img) (NN -RSB-)) )
+(TOP (S (ADVP (RB just)) (VP (VB find) (NP (NP (DT another) (NN enclosure)) (PP (IN of) (NP (PRP$ your) (NN choice))))) (. .)) )
+(TOP (NP (NNP vapcmd)) )

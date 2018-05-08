@@ -1,0 +1,206 @@
+<s> i have two computers, both with xp sp3, one home, the other pro, and a router. the xp home computer is connected directly with an ethernet cable to the router, the xp pro is connected to the router through ethernet over the a.c. supply through two of those whatever you call them &quot;adapters&quot;. both computers connect to the internet ok but they apparently can't see each other - the network which i thought i had set up doesn't appear in my network places, nor can the xp pro machine use the printer which is connected to a usb port on the xp home one.  </s>
+<s> when i try to print something from the pro machine, the printer's (epson) window opens up, telling me that the &quot;printer is not ready to print&quot;.  </s>
+<s> i may have overlooked something, or perhaps the various instructions which i have read have not mentioned something which they should have.  </s>
+<s> can anyone suggest a reliable and complete set of instructions which i can consult?  </s>
+<s> have you tried the windows help that's built into your system?  </s>
+<s> have you run the networking wizard from the control panel?  </s>
+<s> have you marked your printer shared?  </s>
+<s> have you turned on shared files and folders?  </s>
+<s> usually that's about all it takes.  </s>
+<s> good luck.  </s>
+<s> as there is no router model noted, i can't write much more.  </s>
+<s> bob  </s>
+<s> kindly provide more information on this share  </s>
+<s> yes, i have run the wizard (several times), the printer is marked as shared.  </s>
+<s> i have set some folders as shared.  </s>
+<s> how do i get access to the help to which you refer? the router is an dsl-2640r.  </s>
+<s> i see there are 2 versions.  </s>
+<s> i will only check the b1 version.  </s>
+<s> if you have the a1 version i will wait a few days before i comment again.  </s>
+<s> please folk, supply the details if you want the best help.  </s>
+<s> this model does not appear to have the firewall that blocks windows sharing.  </s>
+<s> as such it appears you have something else going on.  </s>
+<s> i'll wait for you to share what web site you are using to setup your networking shares.  </s>
+<s> bob  </s>
+<s> i've yet to find a reliable and complete set of instructions that don't include a full course in windows and more.  </s>
+<s> i see a lot of guides out there on how to share a printer on windows xp but i take it those have not helped so sharing another one is not going to help.  </s>
+<s> it took a few posts to dismiss a problem i encounter a lot today and the details are still slim.  </s>
+<s> for example, tell the forum more about how you setup the printer share.  </s>
+<s> bob  </s>
+<s> thank you bob. it has hardware version b2 and firmware version v1.18.  </s>
+<s> i had a brief look at the advanced settings but see nothing about networking.  </s>
+<s> i do see, though, that in a couple of those links, it says &quot; ... sometimes even the windows firewall has to be told that you have a new trusted device on the network.&quot;  </s>
+<s> ok, how do i tell that to my firewall?  </s>
+<s> oh, by the way, i noticed that in their description of it they say that it has a &quot;non-detachable diversity antenna&quot;.  </s>
+<s> yes, it's not detachable, but since it's on its own it ceratinaly ain't one of two or more antennas which are necessary for (space) diversity reception.  </s>
+<s> i wonder where some of these people get their ideas from?  </s>
+<s> when i'm trouble shooting the setting is off or disabled.  </s>
+<s> your new techs tend to not get why we do that and stumble for days as the firewall blocks their efforts.  </s>
+<s> -&gt; keep in mind we are on a lan behind a nat router so only the new networker seems to ask why we turn off the firewall on the lan machines.  </s>
+<s> i'll keep trying but i'd like to read about how you set up the printer share, if the workgroup names are the same and well, in short, what web page did you consult to set up the printer share?  </s>
+<s> lastly, a few printers do not support printing over the lan.  </s>
+<s> i read epson but no model number so i can't check into that.  </s>
+<s> i don't want to upset you but without the details we end up with a lot of posts.  </s>
+<s> try adding these details. 1. how did you share the printer.  </s>
+<s> 2. what epson.  </s>
+<s> npn  </s>
+<s> sorry, i should have been a more thorough.  </s>
+<s> it's an epson stylus sx-125.  </s>
+<s> i enabled sharing by right clicking on it in control panel &gt; printers and faxes, then clicking sharing and then, under the sharing tab, enabling share this printer.  </s>
+<s> i also enabled &quot;turn on file and printer sharing&quot; in the network setup wizard.  </s>
+<s> i have seen this instruction on several sites i visited, - can't remember them, there have been quite a few.  </s>
+<s> i entered the same workgroup name on both computers.  </s>
+<s> having searched for advice regarding this, i have looked at exceptions and found that &quot;file and printer sharing&quot; is ticked, and, in add program &gt; change scope (what a strange choice of words), i have enabled &quot;my network (subset) only&quot;, but upon reurning to this window/tab i find that it is no longer enabled, the setting having reverted to the default &quot;any computer (including those on the internet)&quot;  </s>
+<s> did you install the epson network and driver package at link?  </s>
+<s> if there's a firewall, all your work could be blocked.  </s>
+<s> until you get it working, disable it.  </s>
+<s> bob  </s>
+<s> no i didn't.  </s>
+<s> never heard of it before.  </s>
+<s> anyway, i have downloaded it.  </s>
+<s> i would guess that it has to be installed on both computers?  </s>
+<s> i think i shall excercise a bit more patience before resorting to that.  </s>
+<s> this often ends up with the service techs coming in.  </s>
+<s> good to read as folk can't seem to grasp why a firewall on a lan is going to make trouble.  </s>
+<s> as i can't teach everything here, i hope you think about your discussion here.  </s>
+<s> bob  </s>
+<s> i installed the epson network and driver package on both machines.  </s>
+<s> it didn't seem to make any difference.  </s>
+<s> i then disconnected the internet cable from the router and switched off the firewall on both machines.  </s>
+<s> no change.  </s>
+<s> i checked again, using the network wizard, everything ok. i used microsoft's network troubleshooter and disovered that the workgroup name (in the computer name tab) was not what i had entered and was displayed in the network wizard.  </s>
+<s> after changing it, i was able to see both computers through my nertwork places/&quot;view workgroup computers&quot;, and from each computer was able to see the files with sharing enabled on the other one.  </s>
+<s> remembering that my printer is on a usb port on the upstairs computer, i tried to print a document from the downstairs one. the expected windows were displayed, but, on clicking print, the printer window's progress bar filled up very quickly and i found that the file had not been printed.  </s>
+<s> i forget the exact sequence of the next one or two steps (having found this whole matter so frustrating, i have had a bit of a rest from it). next time i looked, although both computers were still shown in &quot;view workgroup computers&quot;, i was unable to see anything on the upstairs one from the downstairs.  </s>
+<s> i was presented with the message &quot; \home is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions.  </s>
+<s> access denied&quot;.  </s>
+<s> well, i am the administrator, and he doesn't know !! i had had quite enough again, thank you, so shut both machines off again.  </s>
+<s> this evening, i fired them back up.  </s>
+<s> i was able, from the upstairs computer, to modify a file on the downstairs one, and tell the downstairs one to print a jpg file, which it did.  </s>
+<s> going downstairs again i was unable to see anything on this (the upstairs one) from it again and was presented with that same message.  </s>
+<s> anyone got any ideas?  </s>
+<s> perhaps i should point out that in the message regarding lack of permission/s, &quot;home&quot; is what the system calls the &quot;full computer name&quot;, while &quot;upstairs&quot; is the one i gave it for use on the network.  </s>
+<s> &quot;\home is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions.  </s>
+<s> access denied&quot;.  </s>
+<s> &quot; that's your clue that there are account issues.  </s>
+<s> for example i log onto my pc as &quot;bob&quot; but if there is a shared printer on another pc i must have an account on that pc called &quot;bob&quot;.  </s>
+<s> this is basic windows 101 networking (not class 100) so it's quite close.  </s>
+<s> sounds just like the old account issues.  </s>
+<s> your comment about administrator is, well, read all the time.  </s>
+<s> but unless the accounts are there, you get such messages.  </s>
+<s> sometimes after you create the accounts you have to unshare and re-share the printer or folder.  </s>
+<s> bob  </s>
+<s> i never gave a name to the downstairs default account, just accepted the default, which was, i think, &quot;user&quot;.  </s>
+<s> anyway, i have changed its name to be the same as the one on this machine.  </s>
+<s> it didn't make any difference.  </s>
+<s> would just changing the name have been sufficient?  </s>
+<s> i have now un-shared the printer, and then shared it again.  </s>
+<s> going downstairs to see if anything has changed ....  </s>
+<s> it's an area i see a lot of stumbling around on.  </s>
+<s> firewalls too. the account area can upset folk.  </s>
+<s> don't know why. but here's a tutorial on &quot;simple file sharing&quot; which i turn off.  </s>
+<s> bob  </s>
+<s> i don't see anything in that link which helps me, quite possibly because i simply don't understand most of it.  </s>
+<s> can you enlighten me please?  </s>
+<s> simple file sharing and, well, the classic file sharing system.  </s>
+<s> it appears we made a little progress but you are seeing why xp is fading.  </s>
+<s> what should be simple can fall apart.  </s>
+<s> and look up where we needed to get the firewall off during setup and you didn't want to do that.  </s>
+<s> and then you pulled the internet out of the router which could have let xp fetch an update or driver automatically.  </s>
+<s> i've tried here but you can see why this is good for the geek squad folk.  </s>
+<s> again, the router is a firewall in its stock form.  </s>
+<s> seems we lost time over that.  </s>
+<s> bob  </s>
+<s> i can see that you are, with some justification, losing patience.  </s>
+<s> but i do appreciate your time bob.  </s>
+<s> if you would persevere i would be grateful.  </s>
+<s> if you can't, would you tell me where i might get further help?  </s>
+<s> and hope you understand that i don't want to upset folk as we work networking issues.  </s>
+<s> there's a lot to go over and something is blocking the shares.  </s>
+<s> i forgot something.  </s>
+<s> sorry.  </s>
+<s> after some of those changes we have to reboot.  </s>
+<s> again, xp is quite an old system and may not tell you need to do that.  </s>
+<s> let's work the clue about the access to the computer.  </s>
+<s> that is.  </s>
+<s> &quot; \home is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions.  </s>
+<s> access denied&quot;.  </s>
+<s> this is almost always the accounts issue.  </s>
+<s> you see a lot of folk try to network with guest, limited user accounts or accounts that don't match up across the pcs and end up with no network.  </s>
+<s> again, if i am to access \home, i must have an account there that matches the machine i'm logged into.  </s>
+<s> so if i'm bob here i must have a bob account on the other pc.  </s>
+<s> -&gt; yes you could enable guest access if you want to forget all that.  </s>
+<s> your choice on that.  </s>
+<s> bob  </s>
+<s> i may not have been blunt enough here.  </s>
+<s> i never use simple file sharing when mixing versions of windows.  </s>
+<s> you may discover first hand why.  </s>
+<s> bob  </s>
+<s> i had already changed the account name on the downstairs computer to be the same as on the upstairs one.  </s>
+<s> in the last post in that link you gave, the author gives a registry mod which overcomes the permissions problem.  </s>
+<s> i made the change and now i don't get that restriction.  </s>
+<s> ok. i can now, from either computer, modify a file in the other.  </s>
+<s> what i still can't do is print from the downstairs one, it shows the printer windown briefly as i said before, but it doesn't print.  </s>
+<s> but i can still tell the downstairs computer, from the upstairs one, to print a file from the downstairs one and it works.  </s>
+<s> ouch, that walks right into issues i don't want to think about.  </s>
+<s> i create the missing account if need be.  </s>
+<s> so that if my pc that i use has a bob account, i create a bob account on the other pc so it knows bob.  </s>
+<s> changing the name?  </s>
+<s> tell me if that works.  </s>
+<s> bob  </s>
+<s> i changed the default account name a few posts ago, the one dated 2/24/13 3:44 pm (sic).  </s>
+<s> no it didn't make any difference.  </s>
+<s> neverthless, i have renamed it again to user, as it was before, and created another one with the same name as the account on the this, upstairs, computer.  </s>
+<s> that has made no difference either.  </s>
+<s> i can still see the shared folders ok, but when i tried to print from downstairs i had to add the printer again.  </s>
+<s> it still doesn't print though.  </s>
+<s> i get the printer's progress bar filling quickly but no printing.  </s>
+<s> but it appears that odd things are happening here.  </s>
+<s> i write about the need for the accounts to be in sync and instead of creating an account with the matching name, an account is renamed.  </s>
+<s> this should work but given we are on xp home and mixing it with xp pro and how this all works, you are going down pathways i don't go.  </s>
+<s> i'm sure somewhere there is a reason for this to work or not but this many posts and it's not working.  </s>
+<s> i can't tell if the account rename is to blame here but it appears that it's time to forget all the accounts and just enable guest access since we can't seem to complete this the way i have for years.  </s>
+<s> it is possible that this printer may have network issues and i had hoped it was networkable given epson's network and driver download.  </s>
+<s> since we can't accomplish the account work, i suggest you just open up the network to all users and guests with the following change.  </s>
+<s> link follows.  </s>
+<s> bob &quot;i believe there is a feature to allow shared folders for ananymous access as well.  </s>
+<s> try these steps, if you are using winxp pro only!  </s>
+<s> 1. go to start-&gt; run -&gt; type &quot;gpedit.msc&quot;  </s>
+<s> without the quotes.  </s>
+<s> 2. expand computer configuration 3. expand windows settings 4. expand security settings 5. expand local policies 6. click on &quot;security options&quot; 7. find the entry &quot;network access: shares that can be accessed anonymously&quot; 8. type the share name on a separte line 9. enable the guest account &quot;  </s>
+<s> there are a few things not clear to me, bob. the instructions you give at the end of your last post apply to xp pro. it seems to me that those instructions imply anonymous access to files on that , i.e. the xp pro, machine.  </s>
+<s> if that is true, how will it help, since the problem is access to files (presumably that's what &quot;shares&quot; means) on the xp home machine ( the upstairs one)?  </s>
+<s> and the instruction number 8. what is a/the &quot;share name&quot;?  </s>
+<s> to comply with previous information, does enabling the guest account on the one machine mean that i have to enable it on the other too, since you say both machines must be using identically named accounts?  </s>
+<s> i'm sorry, but so many terms are either ill-explained or not explained at all on most, if not all, of the sites i look at. they all use jargon which assumes prior knowledge.  </s>
+<s> yes it applies to xp pro.  </s>
+<s> i think that it's not possible for me to fix this one.  </s>
+<s> with most posts you came so close to performing a step but then changed it slightly.  </s>
+<s> drop the firewall, but unplug the internet.  </s>
+<s> rather than create an user you renamed one.  </s>
+<s> at this point it's time to enable the guest account and you don't do that but want more about networking.  </s>
+<s> sorry but access control in the item noted is for shares whether it be files or printers.  </s>
+<s> i'm going to be absent for a while so let's hope you find out what caused this not to work.  </s>
+<s> i wonder why we can't accomplish steps without small changes but that's your choice.  </s>
+<s> next week i'll have to try that account rename but that will have to wait.  </s>
+<s> bob  </s>
+<s> i don't know if it's free or not but in the past this would fix up a lot of the issues we were working manually.  </s>
+<s> bob  </s>
+<s> notice the re-iteration of accounts?  </s>
+<s> bob  </s>
+<s> i recently read that magic works only with cisco routers.  </s>
+<s> but see my next post .....  </s>
+<s> don't ask me how, but i can now print from the remote computer.  </s>
+<s> i have read so much and tried so many different things that i can't remember what the last thing was.  </s>
+<s> i created a restore point and made a copy of the registry as soon as i discovered that it was all working as desired.  </s>
+<s> i have since found that i can use my default user accounts, both now bearing the same name, one of them having had its name changed a couple of times, and everything still works as desired with windows in-built firewalls enabled.  </s>
+<s> in view of the latter i shall install comodo's firewall, and possibly the other things which comes with it, on both machines.  </s>
+<s> some people feel that a router's firewall isn't, on its own, good enough.  </s>
+<s> i want to thank you, bob, for the time you have spent with me trying to solve these problems.  </s>
+<s> best wishes, aka syncopator  </s>

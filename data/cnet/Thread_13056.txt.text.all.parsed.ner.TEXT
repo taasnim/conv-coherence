@@ -1,0 +1,22 @@
+<s> hi all.  </s>
+<s> i have a friend experiencing issues with his computer, so all i say here are all the facts i have for now, before i actually get my hands on it, but i thought i'd see if anyone could help me out with some extra idea's i can arm myself with before i look at it.  </s>
+<s> ok, this computer runs fine (windows xp), but his dvd writer is playing up and wont write cd's.  </s>
+<s> this wouldn't be such a great problem as he has an old cd-writer too.  </s>
+<s> he puts that in and the computer won't get beyond the initial boot screen, not even making it to the windows load screen.  </s>
+<s> the same thing happens with just the cd writer in there too.  </s>
+<s> anyway, he opts for buying a new dvd writer anyway.  </s>
+<s> he installs that, straight swapping it for where the old dvd writer was. the same thing happens; it hangs on the boot screen.  </s>
+<s> if no dvd or cd writer is present it hangs on the boot screen.  </s>
+<s> it's like it needs the old dvd writer to operate!  </s>
+<s> if the old, original, dvd writer is put back in again, it boots up fine!  </s>
+<s> clearly theres a conflict some place.  </s>
+<s> i got him to tell me what the bios was saying, and it sounds fine, but he can't access the bios with either the cd or new dvd writer in the computer, due to the freeze they seem to cause.  </s>
+<s> my only idea is to update the bios, but even with an old bios, this kinda thing shouldn't be happening. the mother board isn't that old (unfortunately i don't know its brand let alone model).  </s>
+<s> any idea's what's going on?  </s>
+<s> bob  </s>
+<s> under the bios, verify the setting is set to 'auto' to best handle cd or dvd drives.  </s>
+<s> verify that the dvd is master/slave jumpered, same as old drive.  </s>
+<s> if it presists, try another i/o cable.  </s>
+<s> next, you can try doing a bios update as a last resort if the above doesn't work.  </s>
+<s> if you seem to have problems burning if you get that far, make sure you sue good quality blank media.  </s>
+<s> tada -----willy  </s>

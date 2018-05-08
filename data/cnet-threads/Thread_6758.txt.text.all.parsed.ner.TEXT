@@ -1,0 +1,26 @@
+<s> hey there.  </s>
+<s> i`m trying to connect my mobile phone to my pc using a usb cable designed for the job. the set up for the cable and software says that it should be a usb connection, but when it looks for the phone, it only looks at com ports 1 and 2 (which i believe are the serial ports).  </s>
+<s> how can i give my usb port a com number? is it even possible?  </s>
+<s> i`m using windows xp pro.  </s>
+<s> thanks in advance  </s>
+<s> this is the typical result of usb ports that are not enabled, or have other issues.  </s>
+<s> usually the person notices it when they try something that uses usb.  </s>
+<s> i'd pester your machine builder/supplier/support to show the usb ports working.  </s>
+<s> bob  </s>
+<s> having setup a lot of these i look for the icon in the tray (next to the time) that supports the actual synching.  </s>
+<s> if you right click on it it may pop up and have options for usb or serial, or you may need to bring up the setup options to change them to use the usb port instead of the serial port.  </s>
+<s> a palm pilot will look for serial if you don't set it correct, same with a phone.  </s>
+<s> since your system has xp i would assume you have working usb ports, you have gone to device manager (under control panel/system) and made sure they show up, or have used other usb devices with the system?  </s>
+<s> yes, i`ve used other devices both my usb ports with no problem. the little symbol next to the time in the system tray only gives me the &quot;safely remove hardware&quot; option when i select it.  </s>
+<s> when i plug the cable for the phone into the usb port, the computer gives the little audio sound that says a device has been connected to the ort, so the computer knows it`s there, but it gives a question mark in the device managed, saying there`s no drivers, even though they`ve been installed correctly, and that has been aknowledged by the installation program.  </s>
+<s> it`s just that the software for the phone will only look for com port 1 or 2, but it`s supposed to be a usb cable?!!!!! it`s doing my brain in!! thanks again for your help so far......  </s>
+<s> &quot;it gives a question mark in the device managed, saying there`s no drivers, even though they`ve been installed correctly&quot; this is often the result of plugging in a device before the drivers were installed.  </s>
+<s> let's not debate this point, but move forward to the usual remedy.  </s>
+<s> when you see those &quot;?&quot;  </s>
+<s> mark items, use the device manager to remove them.  </s>
+<s> then unplug the phone and do not plug it back in.  </s>
+<s> now install the drivers for the phone.  </s>
+<s> and then try again.  </s>
+<s> if it doesn't work, you'll have to tell us the url of said phone and drivers so we can check these are for xp. bob  </s>
+<s> i recently bought a digital camera and after loading the drivers for it i plugged it in to the usb port and a window popped up saying new harware found, and windows then proceeded to reinstall the driver for the camera.  </s>
+<s> try uninstalling you phone drivers and then plug in your phone and have windows seach for new harware.  </s>

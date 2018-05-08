@@ -1,0 +1,7 @@
+(TOP (S (NP (PRP i)) (ADVP (RB just) (RB recently)) (VP (VBD installed) (S (S (S (NP (PRP$ my) (CD 200) (NN gig) (NNS sata)) (VP (VB drive) (PP (IN into) (NP (PRP$ my) (NN computer))))) (CC and) (S (NP (NN everything)) (VP (AUX is) (VP (VBG working) (ADJP (JJ fine)))))) (, ,) (CC but) (S (NP (DT the) (ADJP (RB safely) (VB remove) (NN hardware)) (NN thing)) (VP (VBZ comes) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN task) (NN bar)) (VP (VBG saying) (SBAR (IN if) (S (NP (PRP i)) (VP (MD should) (VP (ADVP (RB safely)) (VB remove) (NP (PRP$ my) (NN harddrive))))))))))) (: ...) (. .)) (SBAR (S (NP (DT this)) (VP (AUX is) (RB not) (ADJP (JJ right)))))) (. .)) )
+(TOP (S (NP (NNP sata) (NNS drives)) (VP (MD can) (VP (AUX be) (ADJP (JJ ..) (. .) (JJ removeables)))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (SQ (AUX is) (NP (EX there)) (NP (NP (DT any) (NN way)) (SBAR (S (NP (PRP i)) (VP (MD can) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (DT the) (ADJP (RB safely) (VB remove)) (NN hardware) (NN thing)))) (PP (IN in) (NP (DT the) (NN task) (NN bar))) (SBAR (RB just) (IN because) (S (VP (VBG im) (NP (DT a) (NN perfectionist)))))))))) (. .)) )
+(TOP (SINV (PP (IN in) (NP (DT the) (JJ xp) (NN forum))) (VP (AUX was)) (NP (DT a) (ADJP (RB too) (JJ similar)) (NN discussion)) (. .)) )
+(TOP (S (VP (VB review) (NP (DT that) (CD one)) (PP (IN at)))) )
+(TOP (NP (NP (NNS thanks)) (PP (IN for) (NP (PRP$ your) (NN help))) (. .)) )

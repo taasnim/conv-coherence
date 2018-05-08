@@ -1,0 +1,85 @@
+<s> i have a 1 tb fantom drive.  </s>
+<s> 200 gb remain, so this thing has a few files i'd like to save... i guess problems seemed to start this summer when one of the movies on it skipped so much while watching it that we gave up (although i've been able to download and watch tv shows flawlessly).  </s>
+<s> last weekend i decided to put it through a defrag with defraggler that took a good 4 days to complete.  </s>
+<s> i have vuze on it and download directly to it because i've had issues with transferring videos and them not working.  </s>
+<s> now, i went and downloaded a bunch of tv shows from this week that i missed and those came through fine.  </s>
+<s> i go download a couple other files and they stop short of completing with error messages like: &quot;error: disk read error - flush fails, write fails, data error (cyclic redundancy check)&quot;.  </s>
+<s> and &quot;error: resume data save fails: flush fails, write fails, data error (cyclic redundancy check)&quot; vuze help forums said it's not a vuze problem, but a hardware or software problem.  </s>
+<s> videos currently on my internal hd do play.  </s>
+<s> on their recommendations, i ran chkdsk (stopped and quit at 38% with &quot;errors found.  </s>
+<s> chkdsk cannot continue in read-only mode.&quot; ) tried deleting all the files from the incompleted downloads, but some refused to go citing &quot;error 0x80070091: the directory is not empty.&quot; this of course drove me to google and then the acquisition of ad-aware and spyware terminator.  </s>
+<s> both ran and deleted stuff.  </s>
+<s> now, my external will be recognized, but will not open on 2 different laptops and a linux system.  </s>
+<s> i can try to supply the logs from ad-aware and st if you need.  </s>
+<s> really appreciate any help.  </s>
+<s> thanks.  </s>
+<s> things to try: 1. format the partition(s) on that disk.  </s>
+<s> 2. delete the partitons(s) and make new ones in stead.  </s>
+<s> 3. buy another hard disk.  </s>
+<s> making a backup of files is much easier when it's still functioning than after it got fatal hardware errors like this. now - most likely - you have to pay a data recovery company to do it for you.  </s>
+<s> this is the umptiest proof that external hard disks aren't to be used for storage.  </s>
+<s> just for a quick copy of data to transport them to another pc. or for a second backup copy.  </s>
+<s> preferably not even as primary backup.  </s>
+<s> kees  </s>
+<s> so what you're saying it that the hd is useless and i can't fix it while keeping everything on there?  </s>
+<s> funny you put in that last paragraph as this is the storage sub forum in the hardware forum.  </s>
+<s> what do you recommend for storage?  </s>
+<s> i have a 500gb fantom drive that i don't often go back to except for movies and i've never had a problem with that.  </s>
+<s> thanks though, i'm going to look into local places for data recovery.  </s>
+<s> i don't know if you availed yourself of the top post in this forum titled &quot;lost and found&quot; where we go over the usual do it yourself solutions.  </s>
+<s> but you are learning the backup problem first hand.  </s>
+<s> that is, &quot;storage&quot; is a misnomer.  </s>
+<s> these things must have a backup copy.  </s>
+<s> for example i bought an external then remembered my own admonishments and now have a second one that is synced with the first unit.  </s>
+<s> wish i could bring myself to really get into the &quot;true state of backup&quot; with backup copy number three.  </s>
+<s> bob  </s>
+<s> i read through the sticky. the only program i thought would really help was disk warrior, and that's only osx.  </s>
+<s> i think that all the data is still there, but i'm just unable to access the drive.  </s>
+<s> i have emailed a few local recovery places.  </s>
+<s> one question i have though is that i'm getting the impression that there is a difference between storage and backup.  </s>
+<s> what works best for each of them?  </s>
+<s> thanks.  </s>
+<s> so to store something we can't dismiss the backups.  </s>
+<s> as to the disk warrior when it comes to data recovery we can't dismiss other common machines and apps.  </s>
+<s> however i have encountered a few die hards that won't admit to using other than what they have!  </s>
+<s> bob  </s>
+<s> what should i back my externals up on then? is there a disk warrior for windows out there?  </s>
+<s> let me also ask, is the drive salvageable?  </s>
+<s> you know, a data recovery program gets the 800gb worth of files off of it so the drive can be fixed and then put the files right back on.  </s>
+<s> like it never even happen....?  </s>
+<s> the windows titles are noted in the lost and found post in this forum to avoid having to type in those names over and over.  </s>
+<s> to answer your question.  </s>
+<s> we don't know if salvage is possible till we try. the common tools and methods are discussed often in this forum with methods such as putting the drive in a desktop or another usb case.  </s>
+<s> some want to know the future.  </s>
+<s> bob  </s>
+<s> mounting the drive has been recommended in another forum.  </s>
+<s> just got a quote from a business that putting the drive in another case would be $65. should it be a failed drive, what new 1 tb is suggested as a replacement?  </s>
+<s> this is not much harder than changing a light bulb but some folk do need to have such work done for them.  </s>
+<s> there are too many 1tb drives out now so the only ones to avoid are the 39 buck models.  </s>
+<s> bob  </s>
+<s> i'd rather have a professional do it than myself.  </s>
+<s> sets my mind at ease that i'm paying them to do their job which is to save my data.  </s>
+<s> any preferred brands?  </s>
+<s> both of my drives may be fantom, but i'm not longer necessarily partial.  </s>
+<s> well, as i can do this task in a few minutes and know it's done right where i find professionals to be in a rush on what they think is a trivial task.  </s>
+<s> take my light bulb example.  </s>
+<s> a pro may think (and does) that this is a quick job and will rush through it.  </s>
+<s> there are times we should do this ourselves to avoid a pro from wiping out our data or jumping to the conclusion the drive is dead and then proving it to us.  </s>
+<s> sorry but this is the lesson i learned years ago.  </s>
+<s> do it yourself when you can. as to makes, the office has too many from wd, seagate, and units we popped together in minutes. the one thing is that we must do is backup what we can't lose.  </s>
+<s> -&gt; try this.  </s>
+<s> go shopping, pick one and ask the forum what they think.  </s>
+<s> sadly all drives by all makers have failed for someone.  </s>
+<s> bob  </s>
+<s> if an external is not what you want to store or back stuff up onto, then what is?  </s>
+<s> ...and i'm just not totally comfortable with handling stuff like this.  </s>
+<s> sorry if i was unclear.  </s>
+<s> one copy no matter what media is unreliable.  </s>
+<s> if you had a second hard drive with a copy, when the first drive failed you would have lost no files.  </s>
+<s> sorry if i was unclear.  </s>
+<s> you need two or more places when want to keep files around.  </s>
+<s> bob  </s>
+<s> so when i spring to buy another external, i should in fact by two?  </s>
+<s> buying 2 hard drives makes more sense than the only other thing i could think of-burning to disc.  </s>
+<s> we need no less than 3 copies so when one is lost we never leave the state of backup.  </s>
+<s> bob  </s>

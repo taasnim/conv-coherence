@@ -1,0 +1,14 @@
+<s> i had a maxtor 80g hd in my old win98se machine (1ghz, 748mb ram).  </s>
+<s> it was partitioned 40g/40g.  </s>
+<s> i added a 2nd maxtor 80g hd as master & set the old one to slave.  </s>
+<s> i installed winxp-home on the new c: drive, and when it was 100% working, i copied all data from the (40/40) d: drive to my new c: (side note: i found i could switch boot order in the bios & boot to either w98 or winxp ) i then erased the data & the 2nd partition on the 40/40 d: & used the xp disk management to reformat it.  </s>
+<s> my problem is the d: 40/40 now reads as a 40g hd !  </s>
+<s> nothing i have been able to do can correct this, even the bios autodetects it as 40 !  </s>
+<s> help ?  </s>
+<s> they have some utilities for you to try.  </s>
+<s> some allowed us to limit the size of the drive.  </s>
+<s> bob  </s>
+<s> can you give me any titles ?  </s>
+<s> go there and search for the downloads.  </s>
+<s> i didn't do it since this is not support but a discussion site.  </s>
+<s> bob  </s>

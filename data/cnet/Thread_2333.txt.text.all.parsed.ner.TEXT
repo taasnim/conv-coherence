@@ -1,0 +1,41 @@
+<s> i've recently made some upgrades to my computer, most of the main components actually.  </s>
+<s> after about a month of everything working great, it started to shut down at random times.  </s>
+<s> i can't trigger the shutdown, it can happen when i am doing anything.  </s>
+<s> i know that this sounds like overheating, but it can happen when i first turn the computer on, and when it happened last night i opened the pc and felt all the parts, nothing was hot at all.  </s>
+<s> lately when it shuts down, and i try to turn it back on, the monitor won't receive a signal from the video card, and the green light on my dvd drive blinks at random intervals.  </s>
+<s> when i try to open the drive, it makes a sound like it is trying to open up, but can't.  </s>
+<s> after turning it off for a minute or so, i can turn it on and boot up no problem.  </s>
+<s> now, i'm not sure if this is in my head or if it's real, but it also seems like my entire pc has been running somewhat (not a lot) sluggishly lately.  </s>
+<s> when i first put it together, i could play world of warcraft at max settings and keep 40-60fps pretty much anywhere.  </s>
+<s> now when i play in groups or anything even somewhat hectic, it drops to 20 or below.  </s>
+<s> i feel like it must be the power supply going bad, even though its very new.  </s>
+<s> i was wondering if anyone else has experience this?  </s>
+<s> could a power supply be going bad and give your components enough energy to run, but not enough to run on full power like they should?  </s>
+<s> i've never heard of it, but it's my best guess.  </s>
+<s> system specs: motherboard: gigabyte (s-series) ga-ma78g-ds3h processor: amd athlon 64 x2 5400+ graphics card: xfx geforce 8800gt with zalman cooler power supply: cooler master extreme power duo 650w (rp-650-pcar) hard drives: western digital 320gb sata 3.0 (maxtor 120gb ide hdd for storage) dvd drive: lg dvd-rw ram: 2gb (2x1gb) of g skill 1066mhz ram i feel like this system should easily run wow at max settings no problems.  </s>
+<s> am i wrong?  </s>
+<s> 1. remove the case cover and ask &quot;does it happen less or same?&quot; 2. consider the cpu heatsink.  </s>
+<s> did anyone put it on, pull it off and not put a drop of compound (only takes a small drop) to make sure the voids are filled?  </s>
+<s> there are also other areas the drive home builders crazy such as a few recent posts where new systems arrive with out of date bios and as we have the builder dig into the details we discover the old bios didn't set some memory or other voltage right.  </s>
+<s> bob  </s>
+<s> sorry i should have mentioned.  </s>
+<s> i did remove the side panel and used a box fan to cool the inside.  </s>
+<s> i thought that this did reduce the number of shutdowns, but it still happened.  </s>
+<s> and i am the one who put the heatsink on, i am fairly certain i did it correctly.  </s>
+<s> covered in grease, pressed it on and locked it down.  </s>
+<s> as for the bios, i will have to check on that.  </s>
+<s> i know that the motherboard said 1066 standard memory, but apparently that is only with an am2+ processor, which was hidden in fine print i guess. the timings however were set to what the memory would be at 1066, with voltages for 800mhz.  </s>
+<s> i upped the voltage.  </s>
+<s> i also tried downing the timings to 800mhz, and the voltage.  </s>
+<s> none of this helped the problem or worsened it.  </s>
+<s> also on a side note.  </s>
+<s> i was just looking into overclocking my video card, i used fear as a test.  </s>
+<s> when i left everything at normal speeds, i got very high fps (min: 61 avg: 133 max: 272) i then overclocked by a little bit, and i got (min: 44 avg: 67 max: 96).  </s>
+<s> this seems very odd and counterproductive?! i feel like my pc is stuck in a twilight zone =( thanks for helping though, anymore ideas/suggestions/information would be greatly appreciated.  </s>
+<s> i've built plenty of pcs now and i'm somewhat stumped.  </s>
+<s> if a heatsink on the motherboard were to have come undone somewhat, could this be the culprit?  </s>
+<s> you seem to be a little more seasoned than most so try the old test (power off please) where you grab the heatsink and give it a little pressure, rotation and inspect it to be sure it's not undone or rocking. the bios version is wiping many builders out since no maker seems to relay the why's or what's of the changes. the random boots may seem random since it could be some page read failure due to some memory controller setting (yada yada...) which is one of the many reasons i always check that bios.  </s>
+<s> also cutting down to one stick of ram, one hard disk, one cd/dvd drive, no usb things, etc helps narrow it down.  </s>
+<s> overclocking is always a dead end.  </s>
+<s> if you are, i must walk.  </s>
+<s> bob  </s>

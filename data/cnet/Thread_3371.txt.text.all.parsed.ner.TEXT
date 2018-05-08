@@ -1,0 +1,35 @@
+<s> compaq presario sr2020nx.  </s>
+<s> the last time it worked it made sounds as if it were working hard to cool down.  </s>
+<s> i opened it, and it was really dusty.  </s>
+<s> now when i start up it does nothing, nothing on the monitor, all the sounds are there (processor fan, hd, psu fan) the processor light on the front stays on steady, but i don't hear it working.  </s>
+<s> another thing i find odd is that now after normal power down when i unplug it, then plug it back in, i do not have to hit the power button, it powers up as soon as i plug it in. is the computer wasted?  </s>
+<s> (yes, i cleaned the dust out) what are your thoughts?  </s>
+<s> thanks in advance for any ideas.  </s>
+<s> 1) are you getting any beep codes?  </s>
+<s> first make sure that your ram,.ide/sata cables are secure and if you have a floppy the berg connecter isnt upside down.  </s>
+<s> further more if there are no beep codes, the system sounds to start normal but doesnt post do one of the following a) brake it down to just the basics and add hardware till it posts, you may have damaged something dusting it b) check your vga/dvi cable is secure and that your gpu is properly seated furthermore how did you &quot;dust&quot;, please tell me compressed air and not an actual duster orna vacuum.  </s>
+<s> it takes only a small barely noticable static transfer to wipe your bios, fry yourr mobo, ram, or anything else.  </s>
+<s> please start your pc and listen for any beeps, record any and if the are long or short.  </s>
+<s> also, please inform us of your dusting method.  </s>
+<s> if there are no codes and its appearing to post with no video check your display cable  </s>
+<s> you may have waited too long before the cleaning of the dust bunnies.  </s>
+<s> it has succumbed to heat stress/damage.  </s>
+<s> you may have &quot;bad caps&quot;, google for examples to check and verify against on your mtrbd.. next, while it seems to boot(power-on) it's not getting anyplace.  </s>
+<s> next time, try a safe mode boot-up, hit the f8 key repeatedly to get into the safe mode.  </s>
+<s> once there, reboot and try the safe mode with networking option.  </s>
+<s> then run the [chkdsk /r], no brackets at the run button area.  </s>
+<s> allow it to finish, it may take some time before its done provided it runs at all and/or boots into safe mode.  </s>
+<s> otherwise, report back the results.  </s>
+<s> tada -----willy  </s>
+<s> this is my aunts computer, she brought it to me in the state it is in.  </s>
+<s> i cleaned it out with an air compressor, but that couldn't have caused whats going on as nothing has changed in the way it is behaving.  </s>
+<s> there are no beep codes whatsoever, hitting the f8 key after powering up does nothing, the processor fan seems to be stuck on high, but that may be it's normal speed. the first thing i did after cleaning it out was to unconnect, and reconnect all cables, the video, and sound are all on-board.  </s>
+<s> there is only one card (other than ram) in the mobo, it has a green &quot;line&quot; phone type jack in the back, and the ethernet is also on-board.  </s>
+<s> i was hoping this was just a virus that may have messed up the hd, and a new one may get it working?  </s>
+<s> her kids use it, and are always getting malware on it.  </s>
+<s> i hope this gives you enough info, if you need more just ask.  </s>
+<s> thank you.  </s>
+<s> we did have that chernobyl virus that could do that but that's for other machines a long time ago.  </s>
+<s> these machines will beep and display the maker's screen with no hard drive so the fault is not something on the hdd.  </s>
+<s> you can test that by unplugging the hdd.  </s>
+<s> bob  </s>

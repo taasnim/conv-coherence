@@ -1,0 +1,12 @@
+<s> hello everyone, my logitech mx 518 went bad, i sent it off to be replaced, while waiting i bought a logitech wirelss m, 325, i used this for about a week, i had my mx 518 plugged into a usb to ps/2 adapter, when i installed the wireless i uninstalled the ps/2, now i got my new replacement mouse a logitech g400, so i plug it in the usb slot where the wireless was, and playing a old game quake 3 arena it engages left ,click, which is the fire button, and stays pressed for a little bit, it's not constant it happens every few presses though and sometimes does not even fire when you change to a new weapon, so i uninstalled the hid compatible and rebooted and it set it up again but didn't change anything, so i thought i would simply go back to the ps/2 slot using the adapter but now it does not recognize it to install it, even after reboots and even safe mode, i go to add new hardware and can not find the ps/2 compatible to install it.  </s>
+<s> any suggestions ?  </s>
+<s> winxp home sp3.  </s>
+<s> maybe how or where to get the driver, or how to install using the add new hardware wizard, whatever.  </s>
+<s> i've found the native ps/2 and usb mouse drivers to be fine.  </s>
+<s> however not all usb mice can plug into those usb to ps/2 convertors.  </s>
+<s> once in a while you'll find folk try that and wonder why it fails.  </s>
+<s> bob  </s>
+<s> i have always found the basic/ generic drivers to be fine also.  </s>
+<s> i have never installed a logitech driver, all my mice have always worked great, how ever in this case, it does not work properly in the usb and does not work anymore in my ps/2 port with the adapter although all my other mice have, what i would like to do is either figure out why it is messing up the left click usinbg usb, see when playing tha game q3 arena as i explained it keeps firing, i cna even type a message, it will stop then hit enter to send my message and it keeps on firing, or find the ps/2 compatible mouse section of the mouse and other pointing devices in my add new hardware wizard, if i can do that the ps/2 port just may work again.  </s>
+<s> unfortunately the was logitechs replacement for the mx518 which could utilize a ps/2 port, this g400 can not.  </s>
+<s> i assumed... but i do still have this sometimes not firing and sometimes stuck left click issue.  </s>

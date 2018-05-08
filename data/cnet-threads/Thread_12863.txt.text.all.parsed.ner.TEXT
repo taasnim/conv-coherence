@@ -1,0 +1,54 @@
+<s> i have a client that has the strangest router problem.  </s>
+<s> used 3 different routers so far, 2 wireless one non wireless.  </s>
+<s> an smc router worked fine for about 6 months, then started giving her &quot;network cable unplugged&quot; messages popping up (near the time) after being on for an hour or so.  </s>
+<s> unplugging and replugging the router power got her back on, for an hour or so again.  </s>
+<s> replaced the smc wireless router with a linksys wrt54g, a router i have used at many sites.  </s>
+<s> same problem, keeps getting &quot;network cable unplugged&quot; message.  </s>
+<s> unplugging and replugging the router power fixes it for a while.  </s>
+<s> bring in linksys wired router befsr41.  </s>
+<s> plug it in and still getting occasional dsl drops but it pretty much disappeared, use different dsl modem and problem seems to go away.  </s>
+<s> plug in the wrt64g router in my office and use it for 2 days on a system it was directly wired to.  </s>
+<s> it doesn't go down once.  </s>
+<s> give the smc wireless router she was having same problem with to a client, they have had no problems in a week.  </s>
+<s> bring back wrt54g wireless router and plug it in, start getting the unplugged message regularly, up for an hour or 2 then down, still using replacement dsl modem.  </s>
+<s> it seems this house is haunted!!! i am about to disable wireless on the wrt54g to see if that makes a different but does anyone have a clue as to what could be causing so many problems with multiple routers that work perfectly elsewhere.  </s>
+<s> i am beginning to suspect something on the wireless side is causing problems with the wired part of the routers.  </s>
+<s> i am using wep encryption with the wireless.  </s>
+<s> exact same problem fixed, maybe for you too.  </s>
+<s> it's on the second page, interesting read.  </s>
+<s> hope this helps.  </s>
+<s> interesting article, i carry the winsockxpfix file around with me on cd and usb key, so i will run it on the system and see if that does it.  </s>
+<s> when i tried the wired only router i didn't think of looking for a software solution, since it worked without fail, but this may be the answer.  </s>
+<s> hello, i am a computer tech, and i have seen this problem in my own home system for the last 2 months.  </s>
+<s> i have been trying to find answers about this for a month now. the problem started as a once in a while issue, but has now grown to almost every new connection i make.  </s>
+<s> each time i go to a new link the network cable unplugged error occurs due to a drop out in the smc 7004vbr router i use.  </s>
+<s> i spend a lot of time cleaning spyware from systems these days and have become very adept at finding these types of issues.  </s>
+<s> i use adaware, spyblaster, spybots s/d, hijack this, antiver, advancedadmin tools, as well as direct registry cleanup work to keep up with the spy stuff.  </s>
+<s> i also use zonealarm 4.5 firewall.  </s>
+<s> none of this has slowed this problem down.  </s>
+<s> i did try the obvious already, like reinstalling network components and drivers, changing network setup in the router, changed cables, ect.  </s>
+<s> i thought the problem may have something to do with smc router bios flash that i had done about 2 months ago, but after seeing that you have the same issue with other routers makes me think that this is some type of hack.  </s>
+<s> somebody is tracking us. the odd part is that i setup a new scsi drive with a copy of the new xp 64bit along with my old win2k system, and after a short time it seems has the same problem as well.  </s>
+<s> it is also happening on my wifes xp home sytem in the same net.  </s>
+<s> i think that this problem is from a local scanner program in my service area.  </s>
+<s> i am on cox cable, and live right next to the intel plant in chandler, az. somebody may be hacking the cox loop i am on.  </s>
+<s> i have also wondered about the changing ip's cox issues.  </s>
+<s> if the new ip you get was leased for the last week by a someone who was visiting warez or hack sites that capture ip's, then when that ip roles over to your system they will use it to direct infestations at you.  </s>
+<s> i do think this is how a great deal of the spyware is spread these days.  </s>
+<s> if someone can help isolate this issue i would be very thankful.  </s>
+<s> kj  </s>
+<s> i have found an issue with the security settings in the internet connection wizard.  </s>
+<s> this is a common issue i find with infected computers.  </s>
+<s> you can reset the settings to default, but they will not stay.  </s>
+<s> if they reset to custom settings each time you check them then you have a problem.  </s>
+<s> try can try changing the &quot;intranet&quot; settings to low instead of default, but this may hinder web page loading.  </s>
+<s> you should do a safe mode start and make the security changes in order to make the default changes stick.  </s>
+<s> turn of the system restore settings in the service manager while you boot in safe mode since this will often bring back problems you do not want, and it does not work very well anyway.  </s>
+<s> i am beging to think this is an active x explote.  </s>
+<s> it may be big brother keeping tabs, or just some teenage hack with more brains then smarts.  </s>
+<s> i hope it is the later!  </s>
+<s> kj  </s>
+<s> i was hoping this was the fix, but it didn't help.  </s>
+<s> with the wrt54g router the problem is just terrible, as it was with the smc router.  </s>
+<s> with a non wireless router the problem doesn't occur as often, but still happens every few hours. the thing is, it pops up in the lower right corner saying &quot;network cable disconnected.  </s>
+<s> it also occurs to two other systems that are connected with a wire, it's not as if there was just spyware in one system causing it.  </s>

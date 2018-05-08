@@ -1,0 +1,63 @@
+<s> hi, i have followed the guideliness as written in here - i have a desktop pc on which i have installed a d-link dwl-g520 pci wireless card (802.11g) while i have a d-link dwl-650 wireless 2.4ghz (802.11b) cardbus adapter installed on my compaq laptop. the desktop pc is wired with internet connection (using ethernet card and not a cable modem).  </s>
+<s> i would like to share this internet connection with my laptop using wireless networking. the issue is both the laptop and the desktop initially seem to connect fine (as per the connection signal strength).  </s>
+<s> if the laptop is taken to some distance from the desktop pc, it shows a fall in signal strength.  </s>
+<s> but after sometime the connection just seems to dies out and the host computer (desktop pc) will alternatively flash the wireless connection is not available or connection is excellent.  </s>
+<s> all this time the laptop will suggest the connection exit with 'no signal'.  </s>
+<s> also, even when the connection is fine between two pc's i cannot access the desktop pc. i even tried to ping it but it does not work.  </s>
+<s> both pc's are running microsoft windows xp sp2.  </s>
+<s> here is the ip's used for the two connections: desktop: =-=-=-=- ip address: 192.168.0.1 subnet: 255.255.255.0 preferred dns: 202.63.164.17 -=-=-=-= laptop: =-=-=-=- ip address: 192.168.0.2 subnet: 255.255.255.0 gateway: 192.168.0.1 preferred dns: 202.63.164.17 -=-=-=-= can you please help me fix this issue?  </s>
+<s> any assistance would be appreciated.  </s>
+<s> thank you in advance.  </s>
+<s> regards, hiren mehta  </s>
+<s> &quot;if the laptop is taken to some distance from the desktop pc, it shows a fall in signal strength.  </s>
+<s> but after sometime the connection just seems to dies out&quot; yes.  </s>
+<s> there are limits to distance in wifi.  </s>
+<s> nothing new here.  </s>
+<s> bob  </s>
+<s> bob, this is the issue which you seem to have missed out: &quot;but after sometime the connection just seems to dies out and the host computer (desktop pc) will alternatively flash the wireless connection is not available or connection is excellent.  </s>
+<s> all this time the laptop will suggest the connection exit with 'no signal'.  </s>
+<s> - during this time the laptop is a few inches away from the desktop.  </s>
+<s> also, even when the connection is fine between two pc's i cannot access the desktop pc. i even tried to ping it but it does not work.&quot; also i forgot to add, initially when the laptop and desktop are connected, i canont access the internet.  </s>
+<s> the internet line has been shared already.  </s>
+<s> thanks for your reply.  </s>
+<s> regards, hiren mehta  </s>
+<s> here's the deal.  </s>
+<s> interferring signals can pop up at any time and your less that robust connection falls apart.  </s>
+<s> also, the drivers and firmware of what you have may not be the greatest.  </s>
+<s> try the latest of each.  </s>
+<s> so far i don't see the issue.  </s>
+<s> i do know everyone wants it to work better and farther than it does.  </s>
+<s> also i know to try to keep all the parts of the same make or maker. the final nail in this setup is that adhoc is the mode not loved by the driver writers.  </s>
+<s> in fact it only runs at 802.11b speed since &quot;that's the spec.&quot;  </s>
+<s> bob  </s>
+<s> bob, besides the frequent disconnection (even though the laptop is few inches away), i cannot use internet on the laptop not ping the desktop from the laptop which actually suggest the connection is actually not made even though the wireless connection status suggest the connection to the desktop has been made.  </s>
+<s> did i miss out on something in here.  </s>
+<s> also, i get my internet via lan which requires the desktop pc to login into a windows clients without which internet will not work.  </s>
+<s> under these circumstances, how can i configure the router, if i use one.  </s>
+<s> will adding an extra ethernet card in the desktop and hooking it with the router work after keeping the internet connection for sharing?  </s>
+<s> thanks for your help so far.  </s>
+<s> regards, hiren mehta  </s>
+<s> &quot;besides the frequent disconnection (even though the laptop is few inches away)&quot; you have failed hardware, or incompatible hardware or out of date firmware or drivers.  </s>
+<s> fix that first.  </s>
+<s> my brand new dlink right out of the box did that.  </s>
+<s> i don't think it was funny that i had to update the firmware on a just opened unit, but this is the state of affairs.  </s>
+<s> -&gt; you have not written that you updated firmware, drivers or changed to other make/model devices.  </s>
+<s> bob  </s>
+<s> bob, i updated the driver for - d-link dwl-g520 pci wireless card (802.11g) from windows update while the driver and firmware for d-link dwl-650 wireless 2.4ghz (802.11b) cardbus adapter were updated to the latest version when the setup, which i downloaded from the d-link site, is run.  </s>
+<s> now the: but after sometime the connection just seems to dies out and the host computer (desktop pc) will alternatively flash the wireless connection is not available or connection is excellent.  </s>
+<s> all this time the laptop will suggest the connection exit with 'no signal'.  </s>
+<s> this has stopped. the connection status confirms the connection made with the laptop and is stable.  </s>
+<s> although, i cannot access internet from the laptop nor can i ping the desktop from my laptop.  </s>
+<s> any more suggestions?  </s>
+<s> regards, hiren mehta  </s>
+<s> any firewall can stop this from working.  </s>
+<s> your choice on the firewall and its settings.  </s>
+<s> before i write one more word, i offer zero support for firewalls.  </s>
+<s> this area is one you take up with the firewall provider.  </s>
+<s> you can keep trying this setup, but i know it's not easy to setup (witness how many firewall themselves closed) and the hardware issues.  </s>
+<s> the router is much easier to setup.  </s>
+<s> best of luck, bob  </s>
+<s> bob, thank you for all your help.  </s>
+<s> i finally got this working. the issue was with the d-link adapter utility application which was conflicting with windows xp. i removed it and everything just fell into pieces.  </s>
+<s> thanks for your time and support, sincerely appreciate it!  </s>
+<s> regards, hiren mehta  </s>

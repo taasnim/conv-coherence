@@ -1,0 +1,17 @@
+<s> one minute i connect a jumpe drive, no problem 5 minutes later put the jump drive back in and &quot;usb device not recognized&quot;.  </s>
+<s> same with mp3, external hard drives, etc. etc. thought it had something to do with mtp that my mp3 uses but umm no that's not it.  </s>
+<s> thought it was the belkin wireless adapter utility but umm nope that's not it.  </s>
+<s> i have xp pro and any and all updates installed.  </s>
+<s> latest updates i can find for intel chipset 875p etc. etc. bought a new hard drive re-installed a fresh copy of xp pro.  </s>
+<s> everything running along smooth and then boom back to the same problem i have had a few times in the past six months.  </s>
+<s> is the motherboard going bad? the serial bus controller?  </s>
+<s> thought it was just me but have found several similiar stories while searching for a solution on line.  </s>
+<s> problem is i can only find the problem but not a solution.  </s>
+<s> anyone have the answer?  </s>
+<s> unplug all usb devices.  </s>
+<s> open up the device manager.  </s>
+<s> click on the symbol next to ''universal serial bus controllers'' to expand it.  </s>
+<s> right-click on each item in the list and select ''uninstall''.  </s>
+<s> once all items listed under ''universal serial bus controllers'' have been uninstalled; restart the system my only hope is that someone has an answer other then your motherboard is about shot!  </s>
+<s> fyi the previous mentioned steps have solved the problem this time acutally but pretty sure it won't last which makes me think even more that it is the motherboard.  </s>
+<s> and yes i know so far i have been talking to myself.  </s>

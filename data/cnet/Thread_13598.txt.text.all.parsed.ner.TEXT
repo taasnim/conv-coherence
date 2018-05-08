@@ -1,0 +1,28 @@
+<s> my pc boots normally under light load for nearly 1 hour if i keep my pc off for nearly 1 day.  </s>
+<s> it may run smoothly for more than 1 hour but i never checked it.  </s>
+<s> (i can play songs, movie, browse internet simultaneously).if  </s>
+<s> i restart the pc, it freezes.  </s>
+<s> and if i try to boot it again, it doesnt boot.  </s>
+<s> i keep it off for 1 hour.  </s>
+<s> after 1 hour it runs for sometime and freezes again.  </s>
+<s> mouse and keyboard also stop working. the only way to restart it to press cabinet button for 5 sec so supply to motherboard get cut off.  </s>
+<s> so if i want to run it for long time, i need to keep it off at least 1 day and i cant restart it.  </s>
+<s> i checked ram. it is working fine.  </s>
+<s> my configuration is amd phenom x2 550 black edition.  </s>
+<s> asus m2n68-am plus motherboard psu: xtech 450-24,max 450w gpu: nvidia geforce 7025/nforce 630a initial processor temperature is 36c which increases to 48c in 5 mins under zero load.  </s>
+<s> i have updated my bios version from 0701 to 0804.  </s>
+<s> so what could be the problem??  </s>
+<s> remove the side case cover and point a box fan (those 2 to 3 foot fans) at the machine and retest.  </s>
+<s> if it runs longer it means that some part is heat sensitive.  </s>
+<s> your guess which.  </s>
+<s> bob  </s>
+<s> open case and clean out the dust bunnies.  </s>
+<s> leave side cover off and see if the system stays running longer.  </s>
+<s> if not, then place fan to help cool it.  </s>
+<s> if it continues to cause a problem at the same stop intervals as before, you may have a &quot;bad caps&quot; situation, google for examples.  </s>
+<s> next, your psu maybe petering out, check all fans to see they're running to include psu one(if present).  </s>
+<s> i won't return side until it appears fixed.  </s>
+<s> if upon returning side cover and it still stops/freezes, then you have some component(anything) that's been compromised by heat stress and will fail all together at some future point.  </s>
+<s> then and only then will it becomes obvious as it will work intermittently until failure.  </s>
+<s> in this case only swapping parts may do to help determine cause.  </s>
+<s> tada -----willy  </s>

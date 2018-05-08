@@ -1,0 +1,34 @@
+<s> i recently started using an external hard drive with a usb 2.0 connection to backup all my important documents.  </s>
+<s> the drive is usb powered and ntfs formatted.  </s>
+<s> on multiple occasions during file transfers the drive would 'hang' and explorer would become &quot;not responding&quot; and i would be unable to &quot;safely remove usb device&quot;, forcing me to turn off the pc or yank the usb cable out.  </s>
+<s> now many of my documents and folders have become &quot;corrupted&quot; and unaccessible.  </s>
+<s> is there any way i could salvage that data or restore it?  </s>
+<s> i appreciate any advice...  </s>
+<s> &quot;using an external hard drive with a usb 2.0 connection to backup all my important documents.&quot;  </s>
+<s> this means to me this is a backup and not the only copy.  </s>
+<s> if the only copy then where is the backup?  </s>
+<s> that is, you did write backup and not &quot;to store all my...&quot; the issue of usb powered drives is not unknown.  </s>
+<s> try adding a powered usb hub or if your unit supports it, add a power supply to it.  </s>
+<s> if it is backup, then just delete the partition, create and format a new partition and begin again but keep an eye out for corruption.  </s>
+<s> if it does corrupt then make it a warranty issue.  </s>
+<s> bob  </s>
+<s> oh sorry about that bob, what i meant to say was archive really, not backup. the data on the disk is the only copy left of those documents.  </s>
+<s> your advice is great for the future, but is there any means to restore corrupted files on an external drive like mine?  </s>
+<s> first the power issue should be addressed.  </s>
+<s> the simplest fix could be to add an usb 2.0 powered hub.  </s>
+<s> most ports are &quot;not great&quot; power sources.  </s>
+<s> dropouts can lead to corruption.  </s>
+<s> ntfs was a good choice but is damage resistant not damage proof.  </s>
+<s> ok, once you have good power to the drive you can look at solutions like getdataback and zar (zero assumption recovery) on google.com  </s>
+<s> i strongly suggest the drive be set aside until the power issue is tackled.  </s>
+<s> -&gt; more about the future.  </s>
+<s> backup and archive is where we have multiple copies.  </s>
+<s> this area is well discussed but today you don't get this from the vendors of machines or hardware.  </s>
+<s> my backup is on a few devices, 3 kinds of media.  </s>
+<s> my quick backup is to an nas or hard disk that is on the network.  </s>
+<s> this is quick so it helps to keep daily backups done.  </s>
+<s> next is another copy to a secure server of works that can't be lost.  </s>
+<s> from the works that can't be lost server we have 3 sets of dvdrw media.  </s>
+<s> and finally i have a distillation of what i can't lose ever on a 4gb memory stick that i can take with me everywhere i go.  </s>
+<s> i'm serious about backup.  </s>
+<s> bob  </s>

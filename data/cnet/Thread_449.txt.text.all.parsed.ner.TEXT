@@ -1,0 +1,33 @@
+<s> operating in windows 98se.  </s>
+<s> encountered some sort of problem, and cannot reload any drivers even for my printer.  </s>
+<s> thinking my only choice is to wipe the hard drive clean and do a fresh install.  </s>
+<s> however, would like to upgrade system to xp after the reinstall.  </s>
+<s> what do i need to do.  </s>
+<s> reload windows 98se so as not to lose data on my 2nd hard drive which contains act database information and then upgrade to xp or install full version of xp after wiping the hard drive clean.  </s>
+<s> what effect will this have on my slave drive which is formatted in 98se?  </s>
+<s> please help  </s>
+<s> a file that you want to save.  </s>
+<s> why not tell us more details about your system and when this problem arose, and the details of any message that you get. also is the computer a proprietary type, dell, compaq, et al [those that came with a recovery cd rather than a full win 98 cd ]. the proprietry types usually have a partition [sometimes hidden] on the hard drive that you do not wase.  </s>
+<s> tell us more please.  </s>
+<s> {reload windows 98se so as not to lose data on my 2nd hard drive which contains act database information } it just sunk in, if the data is on the second drive, just to be safe while installing xp on the boot disk unplug the power and signal cable from the second drive.  </s>
+<s> set your bios to boot from cd and the xp cd will format the first drive and install for you.  </s>
+<s> that is assuming that the cd will be a full install rather than an upgrade.  </s>
+<s> however if it is an upgrade, at some point it will ask for prove of prior system, you will then simply put the 98 cd in to verify it.  </s>
+<s> after installed you will need to install the mobo drivers etc. note that even if the data is saved and you want to continue using the application, you will have to reinstall the application again in order to re-establish the .dll  </s>
+<s> links so that xp can link to the application.  </s>
+<s> the app reinstallation should not bother the data at all.  </s>
+<s> again if the system is a proprietary type, you'll need more info.  </s>
+<s> thank you for getting back to me so soon.  </s>
+<s> my system is a gateway and i have a windows 98se disk which was used to reload the software once before. the problem started after a thunderstorm.  </s>
+<s> it was at this time i noted that i was unable to connect to the internet via roadrunner.  </s>
+<s> worked with roadrunner personnel including their tier 3 tech's in an attempt to resolve the problem.  </s>
+<s> because we could not get the drivers (roadrunner) to reload and the system would not recognize them, it was assumed that i had a bad network card.  </s>
+<s> i purchased a new network card (linksys) and had linksys personnel assist me with the installation.  </s>
+<s> the drivers were not recognized by my system and when asked to make the choice of protocol, then hit add, the system would not allow us to add anything.  </s>
+<s> linksys asked that i return the card to the store, thinking the card was faulty and obtain another one.  </s>
+<s> i did. the same thing occured.  </s>
+<s> 3 roadrunner techs came to the house in an attempt to reload the drivers, switched out the network card, installed one of their own, and still the system would not recognize or load the drivers. the system became unstable and would not boot but through safe mode with the continous attempts by the roadrunner techs.  </s>
+<s> finally, they were able to get the system to boot in the normal mode, without the drivers, and with no access to the internet.  </s>
+<s> that is where i am today.  </s>
+<s> still unable to connect to the internet although everything else with the system appears to be up and running.  </s>
+<s> i hope this helps  </s>

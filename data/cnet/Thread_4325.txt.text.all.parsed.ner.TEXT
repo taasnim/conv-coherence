@@ -1,0 +1,65 @@
+<s> ok all you tech junkies out there, time to band together and solve this very widespread problem. the nv4_disp loop error!!!!! i was recently doing a sketch in google sketchup when the screen started to flash when i would pan through my sketch.  </s>
+<s> at first i thought it was just getting too hot(i had been doing some serious rendering for about 5 hours) so i decided to save and let it cool off.  </s>
+<s> i got my save in thankfully and about 3 seconds later, the nv4_disp blue screen of death hit me. it says that the problem was proably caused by the file nv4_disp and that it was caught in an infinite loop.  </s>
+<s> from here i could do nothing but do a hard restart.  </s>
+<s> i have tried many solutions which all proved to just temporary.  </s>
+<s> i have gone to the nvidia web site and downloaded the lastest drivers, flashed the bios to the latest version(also previous versions), and tried many peoples fixes that worked for them but not for me.  </s>
+<s> i have done countless hours of googling which proved no further universal answers that worked.  </s>
+<s> i have a custom built computer with the following components: motherboard: gigabyte ga-ma790x-ds4 processor: amd athalon x2 5400 @ 2.8 ghz graphics card: evga geforce 8800 gts, ssc edition 4 gb of 1066 mhz ddr2 ram a 550 w power supply not to sound negative or anything but this is a very difficult problem so dont waste your time trying to fix this on your own.  </s>
+<s> we could all use some help.  </s>
+<s> any suggestions are very greatly appreciated, just dont tell me to re-update my graphics drivers or bios because i've already done those....twice.  </s>
+<s> having trouble solving problems, theproblemsolver  </s>
+<s> methods that worked for me: 1. i got lucky and setting all the overclocking the owner did to stock fixed a few.  </s>
+<s> 2. i drew from this post -&gt; to make an os install plan.  </s>
+<s> then we did that.  </s>
+<s> 3. another machine, another day only did that when hot. fixed the hot problem.  </s>
+<s> 4. another machine, just a 350 watt psu.  </s>
+<s> replaced the psu with over 600 watt model.  </s>
+<s> 5. another machine, had to reinstall the os. the os had been damaged from too much malware.  </s>
+<s> how did i know?  </s>
+<s> i slipped in a new drive and the os then it worked. the old drive could be swapped out and it failed.  </s>
+<s> sadly they didn't feel like paying by the hour to find what was different from one install to the next.  </s>
+<s> 6. and a pile of machines had outdated bios firmware.  </s>
+<s> 7. another pile had the memory voltage set wrong.  </s>
+<s> today i'm seeing more of that as those that build their own don't check it.  </s>
+<s> bob  </s>
+<s> a few questions about your helpfull solutions: 1- on #3, how do i tell if my pc is getting too hot?  </s>
+<s> 2- on #4, how do i tell if my psu is too small?  </s>
+<s> 3- on #7, how do i know what my ram voltages should be set at? making very nice progress, theproblemsolver  </s>
+<s> give you similar answers to mine.  </s>
+<s> try that.  </s>
+<s> what do you mean &quot;give you similar answers to mine?  </s>
+<s> i meant &quot;gives&quot; but a rewrite would be &quot;would find similar answers to mine.&quot;  </s>
+<s> ok now i sort of understand.  </s>
+<s> but still, is there a way to check my voltages on my ram and ensure that they are a-ok?  </s>
+<s> i look up the specifications for the memory sticks i used.  </s>
+<s> then i check the bios to see if it got it right.  </s>
+<s> sorry but how else would we do this?  </s>
+<s> i'm always open to read how people get this done.  </s>
+<s> bob  </s>
+<s> ok thanks a lot, i'll go check that cant believe i couldn't figure that out  </s>
+<s> i can't say how much help you've been in solving this annoying problem.  </s>
+<s> theproblemsolver  </s>
+<s> i've got a weird issue that i have researched to the hilt and have had no luck working out... about a week ago i started having issues with the computer's monitor flickering and occasionally having some image distortion.  </s>
+<s> i thought perhaps i had a monitor going out or something, but it self-resolved, or so i thought.  </s>
+<s> then, i noticed the system was sluggish and the distortion was horrible, and the image on the monitor would completely disappear for a second or two at a time about every 30 seconds.  </s>
+<s> i restarted and had no luck.  </s>
+<s> on the restart, i got an bsod error message that said nv4_disp.dll was in an &quot;infinite loop&quot;.  </s>
+<s> i tried a couple of the internet fix ideas, such as reinstalling drivers, updating drivers, and rolling back drivers, to no avail.  </s>
+<s> this seems to be similar to problemsolvers issue, but with one twist.  </s>
+<s> what i did find interesting is that the card and monitor work just fine in safe mode.  </s>
+<s> they are stable and steady as a rock even with the system on for hours, which leads me away from thinking it could be an overheating issue.  </s>
+<s> i also ran a test on my memory and it reported no errors.  </s>
+<s> memory voltage is set ok. there were no software or hardware upgrades recently.  </s>
+<s> have you ever seen anything like this before?  </s>
+<s> thanks, chris  </s>
+<s> well lets start with you giving your computer specs plz.  </s>
+<s> thanks, theproblemsolver  </s>
+<s> hi everyone, i had this same extremely annoying problem on a geforce fx5200 card running under win xp and tried fixing it by installing the latest nvidia drivers but it just seemed to make matters much worse.  </s>
+<s> i finally fixed it by uninstalling the nvidia drivers, and then running driver sweep to remove all trace of the nvidia drivers - and then the subsequent reboot everything worked perfectly - no monitor problems whatsoever!  </s>
+<s> checking in hardware manager there was a warning next to the display adapter representing the fx5200 and when i clicked on properties it showed that there were no drivers.  </s>
+<s> yet everything was working fine!! so i decided not to bother reinstalling the nvidia drivers! it would appear that removing the drivers, and just letting win xp sort out the plug and play capabilities of the card and monitor is the best option to fix this issue.  </s>
+<s> (for win xp at least!!). please note that i only use my pc for office type functions and don't do any gaming - so this approach may not work if you want to use all the funcionality of your graphics card - certainly for all the basic windows stuff it works just fine without the nvidia drivers!!! this problem appeared gradually - finally culminating in rapid on/off and flickering screens with distorted graphics and then the constant standby state of the monitor and on occasion bsod's.  </s>
+<s> if you need any more background on how this problem manifested itself on my pc then let me know.  </s>
+<s> hope this helps everyone!  </s>
+<s> cheers eddie  </s>

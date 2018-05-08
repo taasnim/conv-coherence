@@ -1,0 +1,65 @@
+<s> im building for video editing and am stumped on the best sata 3 hdd config: im considering 80g(8m cache) for os & programs, and 320g(16m cache) for data (and 2 more for backups.).  </s>
+<s> q. do i gain speed by having a smaller hdd for os & programsless search time (i dont expect to use more than 40g) or with a 250(16m cache)larger cache.  </s>
+<s> q. wd or seagate?  </s>
+<s> q. should i have a 3rd hdd for scratch track or partition the 2nd.  </s>
+<s> q. should i do a raid 0 with 2 320s or 250s.  </s>
+<s> help!  </s>
+<s> my head is spinning with all these options thanks!  </s>
+<s> laura my build specs so far: amd athlon 64 x2 4600+ windsore 2.8g 21mb l2 cache asus m2n-sli deluxe socket am2 nvidia nforce 570 sli sapphire 100196l radeon x1950 512mb coolermaser centurion 5 rosewill 550w sli support g.skill 2gb (21gb)  </s>
+<s> q. do i gain speed by having a smaller hdd for os & programsless search time (i dont expect to use more than 40g) or with a 250(16m cache)larger cache.  </s>
+<s> a. today, not as much as bad old dos/windows 98 days.  </s>
+<s> in fact i showed time lost as they had partitioned the drive and the added seek time from one partition to the next created a slower system.  </s>
+<s> they were incensed that all their hard work of partitioning resulted in less speed not more.  </s>
+<s> q. wd or seagate?  </s>
+<s> a. ford or chevy?  </s>
+<s> (answer in question form!) q. should i have a 3rd hdd for scratch track or partition the 2nd.  </s>
+<s> a. see first answer.  </s>
+<s> q. should i do a raid 0 with 2 320s or 250s.  </s>
+<s> a. now that adds speed when you want to copy a big file. the only danger is that many don't backup and don't have tools to repair raid sets.  </s>
+<s> also raid doesn't move well from machine to machine.  </s>
+<s> if you will be using these hard disks to move to another machine i give the nod to &quot;no.&quot;  </s>
+<s> bob  </s>
+<s> larger hard-drives are generally faster hard-drives, for two reasons: a) larger hard-drives are usually newer hard-drives, which means they have newer (therefore, generally speaking, faster) technology b) larger hard-drives are denser (same physical size, more data inside it) which means they can maintain somewhat better access times and somewhat better burst transfer performance now, this doesn't mean that a 1000gb hard-drive is going to be 4 times as fast as a 250gb hard-drive, it means that a 1000gb hard-drive at 7200 rpm with 16mb of cache is going to be a few percent faster than a 250gb hard-drive at 7200 rpm with 16mb of cache, but its still a tad faster i would advise against having a smaller 80gb drive for the os (see a and b), and suggest a 4 or 5 disk array for the entire system, with 4 disks i would consider raid10 or raid0+1, with whatever size you like, if 5 or more, i would go raid5 helpful information on raid  </s>
+<s> i just read that wd recently came out with a single platter sata3 160 hdd with 16mb cache (last october 06?). it's supposed to be the fastest and coolest hd out there, which may be ideal since i don't expect to go over 20g with os & programs (that leaves alot of room for the unexpected).  </s>
+<s> this 160 is supposed to have the same density as the larger hdds since the 250 & 320 use 2 platters (the 250 doesn't use the max density but the 320 does 160x2), the 400 & 500 use 3 platters and the 750 uses 4 platters.  </s>
+<s> i definitely agree that an older smaller drive will be much slower than a large new drive, but this may address both sides of the arguement...am i overlooking anything?  </s>
+<s> wd caviar re wd1600ys 160gb 7200 rpm 16mb cache sata 3.0gb thanks!!  </s>
+<s> caviar re, designed for enterprise use, due to the way it handles errors, best in a raid array.  </s>
+<s> a single platter as all about costs.  </s>
+<s> if you need speed look to the 10k rpm drives.  </s>
+<s> bob  </s>
+<s> if i might interject, 10k rpm drives are fast becoming pointless to invest in, due to the lower latencies and increased performance of modern 7200 rpm drives, which have more than enough cache and optimizations to compete fairly with at least a few 10k rpm drives.  </s>
+<s> if pure speed is the goal, 15k rpm u320 drives in raid5 is the only option, however such an arrangement is very noisy and expensive.  </s>
+<s> additionally, a single platter is far from junk, as the re series have proven reliability and capability in many enterprise applications.  </s>
+<s> there is nothing to say a single platter is any less capable than a multi-platter drive.  </s>
+<s> it's strictly a dollar play.  </s>
+<s> when you can explain to me the physics of access times across a platter can approach change from one platter to the next during a read (it can't) then you may gain some credibility.  </s>
+<s> i can see how the marketing of such can bamboozle the best of us.  </s>
+<s> bob  </s>
+<s> again, i'm trying to keep things simple and smart.  </s>
+<s> a single platter seems to be easier for the heads than going to a second platter and since i don't need more than 20g of storage for my os & programs why get a bigger drive than one platter at 160g?  </s>
+<s> from what i've read, wd uses the same platter for larger storage on this newest 160g hdd with 16mb cache.  </s>
+<s> does anyone know if the single platter is inferior or just the same?  </s>
+<s> and would there be a huge difference in 7200k vs 10k because the price difference is huge $60 vs $200... thanks!  </s>
+<s> the second platter.  </s>
+<s> once you discover what hole you just jumped into, email me if you want to retract that statement.  </s>
+<s> i can make like &quot;it never happened.&quot;  </s>
+<s> hint: the heads don't have to move at all, there is an electronic &quot;switch&quot; to read the second, third, fourth heads without one seek.  </s>
+<s> bob  </s>
+<s> i guess i'm showing my ignorance, i didn't realise they put in a separate head for each platter, but there's still switching involved.  </s>
+<s> my point is i only need 20g of storage and if there's 2 platters with 2 heads on a 320g that seems like an overkill unless the platters themselves are different from the single platter on the 160g.  </s>
+<s> from what i've read it sounds like they use the same platters...  </s>
+<s> trying to argue conceptual physics with you, i'm stating that a single platter hard-drive isn't more likely to break or be damaged, which the word &quot;junk&quot; would exemplify.  </s>
+<s> the platter still has high density, equal to the larger drives, yet costs less due to having the single platter.  </s>
+<s> additionally, the platter configuration doesn't matter a whole heap of a lot, especially in context of caviar re and re2, which are ideally in a multi-disk raid solution (which means whatever your ideal platter configuration, single drive, setup may be, its still going to be slower, and if its not, then its going to cost a load more).  </s>
+<s> i'm not going to run a raid, this will be for my os/programs, so maybe i should my attention to the se16, thanks for pointing that out! now i'm thinking of getting: wd caviar se16 wd2500ks 250gb 7200 rpm 16mb cache sata 3.0g i read that the ks is a little quiter than the aaks; the aaks is newer technology but the platter is bigger to allow for less platters.  </s>
+<s> i could only find ks in 250g and aaks in 320g on newegg so that's where i'm headed...any other thoughts?  </s>
+<s> l  </s>
+<s> is an excellent drive, and should serve well, if you do decide to go raid later, its just fine for that, the re is just more optimized (but that doesn't mean you have to buy a raid edition drive).  </s>
+<s> a seek is in milliseconds.  </s>
+<s> how do i know?  </s>
+<s> i'm an electronics designer.  </s>
+<s> again i can make that post about the head moving from platter to platter vanish if you wish.  </s>
+<s> bob  </s>
+<s> thank you for your help!  </s>
+<s> i learned alot, and will feel very confident in my purchase.  </s>

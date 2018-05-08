@@ -1,0 +1,13 @@
+<s> i have laptop running windows xp pro and a desktop with windows98 that i would like to network together.  </s>
+<s> ive tried with no success. the laptop is wireless and i use a linksys router. the desktop ,however, is connected through the modem via usb due to the fact it does not have ethernet.  </s>
+<s> on both when i go to the network they just have themselves on there and not the other.  </s>
+<s> another problem is i can ping from my laptop to my desktop but i cant the other way around.  </s>
+<s> can anyone tell me how i could network these together?  </s>
+<s> as a router, it supposed to have several rj45/ethernet port.  </s>
+<s> a usb connection, you will need to ask your isp for an ethernet type of modem or buy a router that does.  </s>
+<s> have you checked the network properties, in particular the configuration of your network card?  </s>
+<s> i played with the different speeds and eventually found some settings that let all my computers talk to each other.  </s>
+<s> double-click on the network-connected icon in your taskbar, then properties.  </s>
+<s> before you click configure, just see if both your computers have the same things under 'this connection uses the following items'.  </s>
+<s> it's not important that they do, but the experts say that they should.  </s>
+<s> best, jack  </s>

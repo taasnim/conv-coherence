@@ -1,0 +1,38 @@
+<s> hi i have just bought a samsung series 7 ultra touch laptop (model:np740u3e-s04uk).  </s>
+<s> i want to upgrade the stupidly small capacity 128gb ssd to at least 240gb maybe 512gb.  </s>
+<s> [samsung only sell the 128gb ssd here in the uk because we are a 3rd world country and that's all we deserve.  </s>
+<s> whereas germany gets not only a 256gb ssd but also an i7 rather than an i5 cpu, but don't get me started...] i phoned samsung and they refused point blank to tell me what ssds would fit and said i *had* to go through one of their authorised service centres.  </s>
+<s> &quot;or lose the warranty.&quot;  </s>
+<s> but this would cost &#163;90 just for them to look at it! i understand that my laptop uses msata.  </s>
+<s> can anyone tell me if any msata disk would work in fact?  </s>
+<s> is it hard to install?  </s>
+<s> what would be the best msata ssd that money could buy?  </s>
+<s> (in uk) btw, should i worry about parts of the ssd wearing out and if so what action should i take?  </s>
+<s> (e.g. partitioning the drive, having a v large drive etc) j  </s>
+<s> i'm curious why folk are buying into limited life span products.  </s>
+<s> at least you know and will keep a few spare backups.  </s>
+<s> bob ps. as to the other items, too risky to answer.  </s>
+<s> samsung was pretty clear about this.  </s>
+<s> speaking to samsung they told me it as an msata disk.  </s>
+<s> however according to the samsung instructions ( it has a: &quot;7mmh sata hdd ssd&quot; (which i assume specific type of msata, but surely it's not a hard disk drive (hdd), it's just a solid state drive (ssd)... (!).  </s>
+<s> and they install both a ssd and a hdd.  </s>
+<s> i can't write at length since i'd be duplicating the web.  </s>
+<s> you could get the laptop, decide to forgo the warranty and then open it up to figure it out.  </s>
+<s> bob  </s>
+<s> got it - no, the manual was being vague and covering several models.  </s>
+<s> bob nods a lot today.  </s>
+<s> ok so if i stuff my pc with enough ram it might double the life span of the ssd.  </s>
+<s> i think my np740u3e-s04uk can take 10gb although i have seen 14 and even 16gb quoted.  </s>
+<s> i always keep the data mirrored and archived, but i suppose it would be worth doing backups of the entire ssd using whatever windows 8 provides.  </s>
+<s> well that's an understatement.  </s>
+<s> with each windows release i hope the backup and restore would be without issue but so far, without fail you find folk backing up but can't get the restore to work.  </s>
+<s> here i have a few new windows 8 laptops and the factory restore fails.  </s>
+<s> fortunately samsung didn't rely on microsoft.  </s>
+<s> bob  </s>
+<s> utility that will identify your system components down to the mfg/make, series and model number of the ssd.  </s>
+<s> armed with that info, you should be to go on the www to get the dimensional info on the ssd allowing you to find a drive of choice that fits within the dimensional limitations.  </s>
+<s> from there it's up to you.  </s>
+<s> re ram...you need to check your system specs as you should use ram in matched pair....2 sodimms at 4gb for 8gbs, 2 sodimms at 8gb for 16gbs and so on.  </s>
+<s> when you mix capacities like an 8gb sodimm and a 4gb sodimm, you usually lose the benefit of systems dual channel (128bit) operation.  </s>
+<s> let us know how it turns out.  </s>
+<s> vapcmd  </s>

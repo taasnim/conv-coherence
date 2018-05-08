@@ -1,0 +1,12 @@
+<s> i need to find the ip address for this speed touch home wire dsl modem to enter the setup the address should be 10.0.0.138 but they will not work it a model 3ec18804gcaa01 it has a exp date sep 2001 and the no# cp0019a8437  </s>
+<s> modems don't have an ip address, routers do.  </s>
+<s> modems have a mac address.  </s>
+<s> are you sure this is not a router?  </s>
+<s> router access ip address will either be 192.168.0.1 or 192.168.1.1.  </s>
+<s> hi, i too have the alcatel dsl modem.  </s>
+<s> i donot know how to find the mac address of it? it is not written on the label.  </s>
+<s> please let me know how to find it?  </s>
+<s> as i can see if you tracert to say the first or second ip address will be your adsl/router/bridge.  </s>
+<s> but only on some models.  </s>
+<s> you could try that exploit about the expert logon.  </s>
+<s> bob  </s>

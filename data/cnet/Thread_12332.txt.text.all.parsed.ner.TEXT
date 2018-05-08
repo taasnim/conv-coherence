@@ -1,0 +1,19 @@
+<s> hi can anyone help me with a problem i cant seem to over come.  </s>
+<s> my current set up is connected to my master telephone socket (upstairs) is a fibre optic broadband modem which then goes into a huawei hg533 (talktalk) wifi router, giving me wifi in the home (connected to multiple win7 pcs/sky box/iphones/android tablets etc) i have an office out-building which i have a cat5 cable running from the office into my home downstairs.  </s>
+<s> (previously my broadband worked off the telephone slave socket and i could directly connect) now i am using a belkin hd powerline connected to the wifi router upstairs and then plugged in downstairs with the cat5 office cable inserted.  </s>
+<s> in the office i have netgear rangemax wnr854t which when the cat5 from the house is connected to the dsl socket which gives me wifi and allows me to direct connect my win 7pc/iptelephone/network printer/win7 laptop.  </s>
+<s> however this creates its own little network and whilst i can get internet ok. i can not see the home pcs and vis-a-versa.  </s>
+<s> i want to be able to transfer files across the full network (currently using a usb stick) and print from any machine to the office printer.  </s>
+<s> if i connect the cat5 from the house to a lan port i can see the full network but have now internet (or wifi) in the office.i  </s>
+<s> thought by doing it this way my office router would act as a network hub and allow internet through but it doesnt.  </s>
+<s> i thought i had a pretty good understanding of these things but this problem has broken me!!! can anyone help?  </s>
+<s> thank you in advance  </s>
+<s> if we want to see the lan.  </s>
+<s> if you used the wan port then you are creating another lan (sorry if i don't expand the common acronyms) on the other side of that router.  </s>
+<s> this is why i use routers for such things but google this phrase -&gt; how do i use a router as a wap?  </s>
+<s> that's all i ever needed.  </s>
+<s> bob  </s>
+<s> bob thank you so much!  </s>
+<s> it was so simple...and you pointed me in the right direction.  </s>
+<s> good man!  </s>
+<s> thanks  </s>

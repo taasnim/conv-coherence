@@ -1,0 +1,13 @@
+<s> first of all i have an hp s3200n slimline model and i am looking to downgrade to xp pro but i need to know if some of the drivers listed on the s3200n's download site at will work on xp pro. the drivers i'm concerned with are the dvd drive, the realtek audio and the lite-on wireless usb lan driver.  </s>
+<s> anything you can offer will be helpful.  </s>
+<s> specs of the s3200n include amd 4000 at 2.1ghz and 1gb of ram with an upgraded nvidia 8400gs low profile (i added that). the rest of the specs can be found at the hp site.  </s>
+<s> downgrading from vista to xp on a machine that has never had xp installed on it is full of difficulties.  </s>
+<s> if you look in cnet's windows vista or windows xp forums you will find many similar requests for help, eg here; mark  </s>
+<s> you have to be aware of what drivers to get and usually the support website is helpful, but not in the case of vista to xp. basically, if you know exactly what chipset of main chip is installed you can try to load drivers from the vendors, makers or generic type support websites.  </s>
+<s> so, if your chipset xyz-5 and find drivers that suggest they support xyz-5 even if vista or xp, good, but usually that's an open question to resolve.  </s>
+<s> vista is far more picky or stricter to standards and may not allow thier use within xp or simply state for vista use only, but you can always try.  </s>
+<s> your best bet is to *not* use the install pgm.  </s>
+<s> for such drivers but rather point to the dir.  </s>
+<s> such drivers are located to see if they take.  </s>
+<s> the results vary, so beware of that. the more popular, the better the chances of acceptance or greater support.  </s>
+<s> tada -----willy  </s>

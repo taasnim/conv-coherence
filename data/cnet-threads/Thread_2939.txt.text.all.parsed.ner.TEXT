@@ -1,0 +1,9 @@
+<s> if i check clear cmos when i update bios do i lose everything on my computor i am running windows 64 pro my motherboard is ecs with nvidia nforce 4 my procecessor is amd athlon(tm) 3200+ 2014mhz bus speed 212mhz  </s>
+<s> ...is a special type of chip.  </s>
+<s> this chip contains all your bios info.  </s>
+<s> if you reset your cmos (or flash it for that matter) you reset all your bios options to default values.  </s>
+<s> it has no other effect on any hardware.  </s>
+<s> everything from date/time, to cpu options (mulitpliers, voltages etc.), to ide drives details are held in the bios settings.  </s>
+<s> after resetting you simply have to set these all back to what they were before.  </s>
+<s> geebee.  </s>
+<s> thanks for the info i can get by on some things but some is just to tech for me its nice to have some help from time to time cheers  </s>

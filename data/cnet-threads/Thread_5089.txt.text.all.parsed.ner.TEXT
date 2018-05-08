@@ -1,0 +1,9 @@
+<s> i have a leadtek a6600gt card. the program for overclocking that came with the card(winfox2.0)  </s>
+<s> states that my graphics clock is 299, while my memory clock is 900. the memory clock is right, but the graphics clock should be 500. the overclocking program says that my 2d clock is 299/900, but my 3d clock is 500/900. is the 299/900 2d clock normal...or is there a problem.  </s>
+<s> also, which then should i overclock, the 3d or 2d clock.  </s>
+<s> to most it might seem like a stupid question, but i was just wanting to know.  </s>
+<s> yes, those are normal.  </s>
+<s> if you want to overclock, you can overclock both, both most people go for the 3d hence gaming.  </s>
+<s> konny  </s>
+<s> thanks man  </s>
+<s> it's reducing it's core clock to conserve power/lower heat output if you overclocked the 2d the card would use more power and make more heat, for nothing (you don't even need it that for 2d (don't lower it however)) and 900mhz is actually wrong for a 6600gt it should be 500/1000, unless you have a different versions (i've seen 1 version that ships 500/900, but it was chaintech)  </s>

@@ -1,0 +1,7 @@
+                                   DRIVE 0 0 0 0 0 1 0 1 1
+                                  CHOICE 0 0 0 0 0 1 0 1 1
+                                  VAPCMD 0 0 1 0 0 0 0 0 1
+                             MOTHERBOARD 0 0 0 0 0 0 0 1 0
+                               ENCLOSURE 0 0 0 0 0 0 0 2 1
+                                   -RSB- 0 0 0 0 0 0 0 1 1
+                                  BASICS 0 0 0 0 0 1 0 1 1

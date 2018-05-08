@@ -1,0 +1,25 @@
+<s> my netgear wgt624v4 wireless routers are having an ip conflict!  </s>
+<s> one is the base-station and the other the repeater.  </s>
+<s> how do i stop this madness?! believe it or not, netgear forums are of no help.  </s>
+<s> i've been told to make sure the ip of the repeater is outside the range of the base-station.  </s>
+<s> i thought i did that.  </s>
+<s> i assume from the error messages, i haven't done it right.  </s>
+<s> of course, i can't even check because i can't log into the repeater, only the base-station.  </s>
+<s> can't remember how to log into the repeater.  </s>
+<s> help!  </s>
+<s> i defer to the maker for support.  </s>
+<s> sorry but i must.  </s>
+<s> your complaint is well known and i lay the issue at the maker's door.  </s>
+<s> ok, but how do i extend a router's coverage?  </s>
+<s> i use this phrase on google if you don't know about it -&gt; how to use a router as a wap?  </s>
+<s> i never have this issue with the usual wap setup.  </s>
+<s> -&gt; as to your login to the repeater, i find myself resetting the repeater to it's factory setting then doing it all over.  </s>
+<s> bob  </s>
+<s> - disconnect the router (repeater) from the 1st router and power cycle.  </s>
+<s> - connect a computer to a lan port on the router (repeater) in order to configure it.  </s>
+<s> if you can't log in, you may need to reset to factory defaults.  </s>
+<s> - under &quot;advanced&quot; and &quot;lan setup&quot;, uncheck &quot;use router as dhcp server&quot;.  </s>
+<s> then select &quot;apply&quot; and reset router.  </s>
+<s> - connect the lan port from the first router to a lan port on the second router (don't use the wan or internet port).  </s>
+<s> power cycle both devices.  </s>
+<s> - you should be able to reconnect all devices with no ip conflict, since all devices will get an ip address via dhcp from the first router.  </s>

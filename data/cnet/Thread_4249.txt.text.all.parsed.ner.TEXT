@@ -1,0 +1,90 @@
+<s> my wife has a compaq 2596us laptop running win xp home, which came with a wireless broadcom adapter (card?  </s>
+<s> what do you call it?) built in.  </s>
+<s> we have a d-link di-624 router and cable internet.  </s>
+<s> if the laptop is connected via cable, everything is fine.  </s>
+<s> however, if we try to use wireless connectivity, the laptop reports &quot;excellent&quot; signal strength.  </s>
+<s> after about 2 minutes, however, it reports that there is no signal.  </s>
+<s> a few seconds to a minute later, it tells us &quot;oh, look; i've detected a wireless signal with 'excellent' strength.&quot;  </s>
+<s> this on-again off-again cycle is repeated until we give up and run a cable.  </s>
+<s> we have the latest firmware for the nic and the router. the &quot;help for idiots&quot; supplied by the isp says the computer cannot obtain a valid ip address from the server, and says the problem might be in the cable connections, the modem, or the nic. the laptop says the wireless nic is just fine, thank you.  </s>
+<s> hp/compaq has a wireless setup wizard, which we attempted to run. it told us that it couldn't help us because we didn't meet the &quot;minimum configuration&quot;, but didn't mention what it found lacking.  </s>
+<s> via e-mail, hp takes one of three routes: either 1] download and install the patches for the wireless nic; 2] it is the router's fault; or 3] they don't respond at all.  </s>
+<s> d-link says they can't see anything in the router, and suggests that we either call hp/compaq or get another wireless device and if it also has problems, to call them back.  </s>
+<s> if anyone can suggest a fix, we would be very appreciative.  </s>
+<s> thanks!  </s>
+<s> 1. the router has current (latest) firmware.  </s>
+<s> 2. you've tried it without wep, wap, mac filtering.  </s>
+<s> 3. you've tried another router.  </s>
+<s> 4. the machine has no spyware.  </s>
+<s> bob  </s>
+<s> thanks for the reply.  </s>
+<s> i'm afraid that i need more help: 1 -- router has latest firmware 2 -- i don't understand this one: what are they and i do i try it without them?  </s>
+<s> 3 -- no: i don't have another router to try. 4 -- correct, per spybot a&d and hijack this!. thanks, mark  </s>
+<s> these are settings in the router and ... written about in its manual.  </s>
+<s> for a test run, i always turn such off (see manual or ).  </s>
+<s> i've run into routers that don't work with all cards.  </s>
+<s> it's becoming a fact that the person servicing such networks will &quot;have a spare&quot;.  </s>
+<s> bob  </s>
+<s> hi mark3316, i just purchased a compaq r3000z laptop with the built in broadcom wireless.  </s>
+<s> i received it yesterday and have been having the same issue.  </s>
+<s> i spent 2 hours on the phone with tech support tonight.  </s>
+<s> we went thru all the normal things with no luck. the tech put me on hold for about 10 minutes.  </s>
+<s> when he returned, he told me that this is a known bug with the built in broadcom wireless and windows xp sp2.  </s>
+<s> do you have sp2 installed?  </s>
+<s> mine came with it pre-installed.  </s>
+<s> unfortunatly, the tech could not find the 'patch' he wanted.  </s>
+<s> we tried one but it did not help.  </s>
+<s> he's going to do more research and call me tomorrow around 4pm eastern us time.  </s>
+<s> i'll post the results in case they help you.  </s>
+<s> i just so happen to have 2 r3000's with the broadcom cards and ... sp2. it works just dandy everywhere i go.  </s>
+<s> very odd.  </s>
+<s> bob  </s>
+<s> this is my second r3000.  </s>
+<s> i bought one about 6 months ago and then a new one 2 days ago.  </s>
+<s> from what i can see in the system information (sandra), it looks like the broadcom chips are different. the first r3000 has worked perfectly since i got it.  </s>
+<s> i'm expecting a call from hp tech support around 4pm today, so we'll see if the tech knows what's talking about.  </s>
+<s> i was suspecting a bad wireless card until i found the posting from mike and talked to tech support.  </s>
+<s> i'll keep you informed.  </s>
+<s> i worked with a tech tonight who had me make a change to the boot.ini  </s>
+<s> file.  </s>
+<s> once i did that and rebooted the machine.  </s>
+<s> the problem seemed fixed.  </s>
+<s> the change was to add the /execute=optin parameter.  </s>
+<s> i've heard of such an issue, but in every case it shows faults in the driver code for the product and not a flaw in xp. i agree that its a valid fix till new drivers arrive.  </s>
+<s> bob  </s>
+<s> i wouldn't be surprised if it was the driver.  </s>
+<s> at one point the tech had me load the newest driver he could find which was dated march 16th,2005.  </s>
+<s> it didn't help, but it certainly indicates that they are upgrading the drivers.  </s>
+<s> thanks for your help bob.  </s>
+<s> jim  </s>
+<s> hi : could you tell us exactly which boot.ini file, and does that go on a line by itself or at the end of some other line?  </s>
+<s> i have a new r3430us with xp sp2 and it can see the neighbor's linsys router but not my netgear one... dave  </s>
+<s> hi dave, i don't have the details with me right now, but i'll try and post them later.  </s>
+<s> i can say that the parameter is on a pre-existing line that specifies the operating system also. the symptom i saw was that the tcpip service kept stopping and restarting.  </s>
+<s> i could always see my router.  </s>
+<s> i just could not stay connected to it.  </s>
+<s> sounds like your problem may be different. is your router set to broadcast it's ssid?  </s>
+<s> i found hp's support to be very good.  </s>
+<s> this was the first time i used them, but they didn't give me the run around and got to the problem.  </s>
+<s> i had to have them call me back because they couldn't find the solution right away, but they did have something within one day.  </s>
+<s> jim  </s>
+<s> my problem probably is different: my new r3240us can see the ssid from my neighbor's linksys router, but not the one from my own netgear wgt634u, which i know is working with another notebook with a netgear wireless card.  </s>
+<s> hp did answer within an hour, but only to suggest i check the router to be sure it is compatible with the broadcom b/g card in the notebook, which of course it is.  </s>
+<s> i thought if your fix was easy, i'd try it.  </s>
+<s> gagco, thanks for the information.  </s>
+<s> the folks i got hold of at hp tech support were obviously heading down the driver path, but when i told them that i [at that time] had the newest drivers, they lapsed into &quot;well, then it isn't our problem&quot; mode.  </s>
+<s> my wife currently has the laptop and she is off giving presentations at a couple of seminars.  </s>
+<s> she informs me that at the seminar sites and hotels she has stayed at, she has stayed connected to the various wireless networks without problem.  </s>
+<s> of course, at the seminar sites there has been a &quot;tech guy&quot; to get her connected, so i don't know what setup they are using.  </s>
+<s> rproffitt, i'm sure that people whose occupation involves servicing networks have spare routers they can swap in.  </s>
+<s> since i don't do that for a living, i can't see going out and buying extra hardware to use as a test bench.  </s>
+<s> it is hard for me to believe that many people would have &quot;spare&quot; routers, wireless cards, or whatever if they are just trying to get a home network set up, and i assume that from my posts you didn't mistake me for a network administrator or it professional, so i am puzzled by the assumptions you seem to be making, and the unexplained jargon you use, in your posts.  </s>
+<s> regarding your first response to my original post, i did have wep, wap, etc turned off.  </s>
+<s> hi, i had exactly the same problems, due to sp2.  </s>
+<s> what's strange is that the problem only manifested itself on certain routers.  </s>
+<s> ok anyway, the solution was to go to my network places, and on the left click &quot;hide icons for networked upnp devices&quot;.  </s>
+<s> there is probably another way to disable this constant searching, but using the common task pane worked for me.  </s>
+<s> hope it helps someone.  </s>
+<s> also had to switch my router (by visiting 192.168.0.1 in the browser) to use the correct channel.  </s>
+<s> my previous laptop wireless card was intelligent enough to switch/scan channels.  </s>
+<s> this one kept reverting to 11 when the router was set to 10.  </s>

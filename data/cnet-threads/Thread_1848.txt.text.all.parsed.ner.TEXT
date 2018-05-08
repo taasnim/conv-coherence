@@ -1,0 +1,27 @@
+<s> hello, i have my home pc using windows me, and my works laptop using windows 2000 on my wireless network at home (linksys).  </s>
+<s> i'm trying to get these systems to file share between them.  </s>
+<s> problem is i need to keep my laptop on my works domain; i can't swtich my network id to &quot;workgroup.&quot; i tried searching at linksys, but no luck. is there any other way to get this to work?  </s>
+<s> any help is appreciated.  </s>
+<s> -thnx  </s>
+<s> make sure you me machine uses the same network client.  </s>
+<s> set up the shares/permissions normally.  </s>
+<s> you should also require a username/password for your me machine.  </s>
+<s> the workgroup name should not matter.  </s>
+<s> when you attempt to access the laptop, you should be presented with an interactive login box.  </s>
+<s> you will need to enter a valid user and password.  </s>
+<s> to see how you are logged on, press ctrl-alt-del and the box will say how you are logged on.  </s>
+<s> use that full login name as the user and the password will be the one you log on to the laptop with.  </s>
+<s> you are logging onto the laptop and not your work domain.  </s>
+<s> i have a similar situation and my work laptop is part of a domain as well.  </s>
+<s> i need to be able to transfer and share data from my home pc and this is how i set mine up.  </s>
+<s> i was able to do this with win98 but now have xp-pro.  </s>
+<s> it should work with me.  </s>
+<s> good luck.  </s>
+<s> both are setup on client for microsoft networks.  </s>
+<s> share/permissions are setup, and i have a username/password setup for my me machine.  </s>
+<s> however, i can't access the laptop.  </s>
+<s> i've tried going to start &gt; run and using every combination of user name, password, machine name i could think of, but no go.  </s>
+<s> am i trying to access the laptop incorrectly?  </s>
+<s> i can't see it on my network at all.  </s>
+<s> maybe it's a me thing, which wouldn't surprize me.  </s>
+<s> thanks for the advice, i appreciate it.  </s>

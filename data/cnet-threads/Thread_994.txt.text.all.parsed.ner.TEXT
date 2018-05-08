@@ -1,0 +1,42 @@
+<s> i just got a belkin f5d7321-4 125mbps router and belkin f5d7011 125 mbps notebook pcmcia card.  </s>
+<s> i'm running windows xp sp1 on a dell latitude d600 centrino w/ built in wireless-b.  </s>
+<s> i had installed sp2, but then i found that some of the devices i use are not yet supported in sp2, so i rolled it back to sp1.  </s>
+<s> i'll admit i am new to this and here are my problems.  </s>
+<s> 1. the notebook card was getting a cannot start (code 10) error.  </s>
+<s> i searched belkin for the latest drivers and i already had it.  </s>
+<s> my machine is recognizing it as a dell truemobile 1300, so i went to dell and downloaded their driver.  </s>
+<s> success, the network card started!  </s>
+<s> however, i still can't get a connection.  </s>
+<s> 2. my internal wireless-b was recognizing the router, but now i'm having issues with it.  </s>
+<s> i've restored the router to the factory defaults and only changed the ssid back to mywireless.  </s>
+<s> i can hook up through a lan cable, so i know the router is functioning, i just can't seem to get a wireless connection.  </s>
+<s> when i run ipconfig it says that the media state is &quot;media disconnected&quot;  </s>
+<s> well i figured out what the problem was for no. 2. somewhere in the process the wireless switch in the bios was switched off.  </s>
+<s> turned it back on and the wireless-b is working great!  </s>
+<s> so, now i'm off to see if i can resolve the other problem.  </s>
+<s> i get exactly the same error with this card (cannot start code 10) on an xp sp2 desktop.  </s>
+<s> i downloaded and installed the latest drivers from the belkin website with no result, so if anyone does know how to persuade them to work...  </s>
+<s> go to start/administrative tools/services.  </s>
+<s> find the wireless zero config service and disable it.  </s>
+<s> reinstall your f5d7011 software and it should work fine.  </s>
+<s> the problem is that windows tries to configure the card and screws it up.  </s>
+<s> thanks to bruce finch, wireless guru at symbol technologies for the tip.  </s>
+<s> go to start/administrative tools/services.  </s>
+<s> find the wireless zero config service and disable it.  </s>
+<s> reinstall your software and it sould work fine.  </s>
+<s> the problem is that windows is trying to configure the card and it screws it up.  </s>
+<s> thanks to bruce finch, wireless guru of symbol technologies for the tip.  </s>
+<s> i have the misfortune of getting a belkin wireless g usb/wifi unit.  </s>
+<s> i get the same error code 10 as you.  </s>
+<s> i called belkin, and after trying a couple of things the lady suggested.  </s>
+<s> she told me the unit was faulty.  </s>
+<s> i took it back to the store, and the same happened with the exchange.  </s>
+<s> so i called belkin again, and i asked for level 2 support.  </s>
+<s> i was given the run around by some guy that could barely speak english named john or something like that.  </s>
+<s> anyway, i have already written belkin and complained about the unit and their lack of understandable customer support.. i al also throwing away about 250 dollars worth of belkin hardware; working or not.  </s>
+<s> i have already obtained a d-link router, and next i am going to try a d-link or linksys wifi unit (usb is first on the try list).  </s>
+<s> i have no problems with getting a signal of other networks on my wifi, but belkin wifi so far is unimpressive trash.  </s>
+<s> forestrj  </s>
+<s> ok i tried this and nothing, same issue as before.  </s>
+<s> error code 10. i have even tried reinstalling the driver with the unit plugged in and unplugged.  </s>
+<s> nothing happens.  </s>

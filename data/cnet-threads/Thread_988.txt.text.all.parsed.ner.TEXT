@@ -1,0 +1,25 @@
+<s> this happened before but somehow it actually fixed itself, (how?  </s>
+<s> i dont know) but now its actually lasting longer than it previously has.  </s>
+<s> ok, so i turn on my computer and everthing looks as though its going smoothly, then while it is 'detecting ide drives' it takes a little longer than it usually does, then after that, this comes up: 'primary master: none primary slave: none secondary master: toshiba dvd rom sd-m1502 1008 secondary slave: _nec nr-7700a' then it pops up saying 'verifying dmi pool data....update success boot from atapi cd-rom: failure... boot from atapi cd-rom: failure... disk boot failure, insert system disc...' recently i installed windows xp, though im pretty sure this has nothing to do with the problem, any info you need i dont mind on telling you.  </s>
+<s> any help would be appreciated.  </s>
+<s> either the bios is flaky or the mtrbd.  </s>
+<s> itself.  </s>
+<s> i find this happens every now and then and really nothing seems to correct it.  </s>
+<s> if it happens often enough maybe i could pin-point but usually not.  </s>
+<s> i make sure the bios is the newest and installed, all cabling is proper or swap out with others.  </s>
+<s> reseat any movable chips, etc. and inspect for contacts on the rear of mtrbd.  </s>
+<s> that the mounts aren't shorting, usually no matter what it seems to work at least for the time being.  </s>
+<s> a reboot seems to correct the problem or at least a warm reboot does.  </s>
+<s> if it happens usually from a cold boot(1st time) it maybe a cold solder joint.  </s>
+<s> considering the problems it may cause, i install a new mtrbd.  </s>
+<s> and proceed on.  </s>
+<s> the same mtrbd.  </s>
+<s> installed in another case and the problem doesn't come back, go figure.  </s>
+<s> sometimes cleaning the ram slots with alcohol helps or the cable connectors on mtrbd.  </s>
+<s> sorry, i've seen this too often, other than above no fix.  </s>
+<s> good luck -----willy  </s>
+<s> if set to auto the system goes through the detection process each boot.  </s>
+<s> in the bios, try to detect each of the drives [no time limit in this detection] and enter those parameters in the bios rather than using auto.  </s>
+<s> see if that helps.  </s>
+<s> probably use lba on the right side of the entry.  </s>
+<s> some time ago, i thought that i had read a post on on to extend thje toime that the boot allows to detect the drive before bowing out, but can't remember where.  </s>

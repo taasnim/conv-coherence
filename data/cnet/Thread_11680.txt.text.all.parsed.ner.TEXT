@@ -1,0 +1,19 @@
+<s> when ever i plug in my external hard drive or a usb stick it always loads lightroom 2. im sure at some point i must have told it to do this but how do i change it back to when just a small window loads up asking me what i want to do with it.  </s>
+<s> all help greatly appreciated  </s>
+<s> review any options, preferences, or startup portion to see if you can change it.  </s>
+<s> once done, check it out.  </s>
+<s> if nothing seems to address the issue, look at the msconfig file.  </s>
+<s> goto-&gt;start-&gt;run-&gt;type in msconfig-&gt;click startup button-&gt;uncheck lightroom2-&gt;save or apply and exit out.  </s>
+<s> you may have to reboot and try it.  </s>
+<s> if none of this works, uninstall lightroom2 entirely.  </s>
+<s> make note where you installed 1st(directory) and totally delete it once the uninstall procedure has been done.  </s>
+<s> reboot and then re-install lightroom2, if it requires some preference then, make note of it.  </s>
+<s> here you can now change how you want it to load.  </s>
+<s> tada -----willy  </s>
+<s> you could have also set the autoplay/autorun feature to run when usb is plugged-in, what pgm. to run.  </s>
+<s> to change/disable that or make at least ask again, try: once done and disabled, it won't autorun.  </s>
+<s> however, you still need to close the pop-up, do that and then the plugged-in device will be available.  </s>
+<s> if for some reason you want to act upon certain type files(association) then whenever those files are part of the autorun mode, this is what i believe what has happened in your case, imho.  </s>
+<s> now that autorun is disabled, no pgm.  </s>
+<s> will autostart again, unless you change it as it will always ask during that pop-up.  </s>
+<s> tada -----willy  </s>

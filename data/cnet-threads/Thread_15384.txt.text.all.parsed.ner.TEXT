@@ -1,0 +1,43 @@
+<s> i have been using a western digital wd1200jb 120 gb hard drive as the boot drive on a system running win98se. the mobo is an abit vh7t.  </s>
+<s> recently the drive has been behaving oddly.  </s>
+<s> if i perform a warm reboot using &quot;restart&quot;, the bios fails to detect the drive and i get a &quot;failed boot&quot; error.  </s>
+<s> if i restart and open the bios and highlight the drive location, &quot;auto&quot; does find the drive and i save the bios configuration and the system successfully reboots. the bios never fails to detect the drive if the pc is restarted from a cold boot when the system has been powered off and then restarted.  </s>
+<s> there is an additional drive (ibm 49gb)attached to the same ide port as a slave and it has never given any problem at all.  </s>
+<s> neither norton disk doctor nor the western digital diagnostic tools detect any problem with the device.  </s>
+<s> i would appreciate any ideas anyone can provide on troubleshooting this issue.  </s>
+<s> thanks, jim  </s>
+<s> if you have not enabled floppy seek in the bios, enable it.  </s>
+<s> what you need to do is &quot;stall&quot; for time during the reboot for the drive to come up to speed to be detected.  </s>
+<s> any delay in the boot sequence that you can add, that runs before it tries to find the drive could help.  </s>
+<s> although, i must admit that the problem usually happens during a cold rather than a warm boot if this is the cause.  </s>
+<s> thanks for the advice ray, i'll give it a try and let you know if it helps.  </s>
+<s> jim  </s>
+<s> i enabled floppy seek on boot in the bios and it did not resolve the problem.  </s>
+<s> thanks for the suggestion, i'll keep pecking a way at it.  </s>
+<s> jim  </s>
+<s> try reseating the ide cable and power cable.  </s>
+<s> the system can get &quot;stale&quot; either from hot/cold cycling.  </s>
+<s> try another ide cable set as well if possible the cost is very low.  </s>
+<s> also, understand high density hds when mounted too close together get the areal spacing whacked due to the heat build-up, its an after-effect from running a long time(usage).  </s>
+<s> the seagate hd could be heading to a failure so bck-up more often as a safety measure.  </s>
+<s> be prepared to use your warranty if under 3-5yrs(i forget).  </s>
+<s> tada -----willy  </s>
+<s> can you make it cd, then a, then c. this, of course is assuming that the problem is that the drive is not up to spped when it gets looked for.  </s>
+<s> are you using auto in the bios as the detection method?  </s>
+<s> that means that it gets searched for at each boot, but possibly if you have the parameters set, they are not exactly correct.  </s>
+<s> i could never get any drive to detect showing the parameters that the vendors sheet gave.  </s>
+<s> one parameter was always different than given by the mfr.  </s>
+<s> not the same parameter for each drive type.  </s>
+<s> i must admit that i can't understand, why a drive that had been running would be slow to come up again.  </s>
+<s> do you have a reset switch?? try that to see if it makes a difference.  </s>
+<s> my boot sequence is a then c the cd. i'll try changing it.  </s>
+<s> i did find that if i perform the detection in auto, it accurately detects the parameters.  </s>
+<s> i then switched to manually locking in the detected parameters.  </s>
+<s> so far that seems to work.  </s>
+<s> thanks, jim  </s>
+<s> i finally found and corrected the problem.  </s>
+<s> it seems there was an intermittently defective ide cable.  </s>
+<s> i replaced the ide cable and everything works perfectly now. the drives are autodetected normally in bios and no more problems.  </s>
+<s> simply replacing the old cable with a new one did the trick.  </s>
+<s> thanks for all the responses and suggestions.  </s>
+<s> jim  </s>

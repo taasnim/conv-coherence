@@ -1,0 +1,29 @@
+<s> did you get it just by reading?  </s>
+<s> no formal training?  </s>
+<s> if you want to learn about networking then i recommend these books.  </s>
+<s> tcp/ip illustrated volume 1, richard stevens interconnections: bridges, routers, switches, and internetworking protocols, radia perlman these 2 books used to be reference materiels for the router support teams at baynetworks/wellfleet and 3com.  </s>
+<s> they discuss standards based routing.  </s>
+<s> cisco certification teaches you to build networks the cisco way.  </s>
+<s> this usually means proprietary protocols instead of standards because they want to lock their customers in and keep them from looking at competing products.  </s>
+<s> key concepts to learn in the beginning.  </s>
+<s> dhcp arp dns how switches build a database.  </s>
+<s> how switches forward packets.  </s>
+<s> vlans rip and rip version 2 how packets are passed through a router.  </s>
+<s> how routers modify packets as they pass through.  </s>
+<s> for wan technologies... ppp pppoe (used with dsl) frame relay dlink has some great products for cheap prices.  </s>
+<s> the des-3326srm is an ethernet switch that can also route.  </s>
+<s> you can buy one for about $400.  </s>
+<s> much cheaper than a uc berkeley extension course.  </s>
+<s> and you can sell the switch on ebay when you are done with it.  </s>
+<s> or buy a cisco 800 and make the two work together and get some hands on with cisco ios.  </s>
+<s> cisco gear is traditionally very expensive.  </s>
+<s> skrall  </s>
+<s> i got my ccna and ccnp as part of my course work for my i.t. degree.  </s>
+<s> my first question is why you want the ccna? is your employer wanting you to get it?  </s>
+<s> there are other certifications out there, which will cover networking technologies, and are not cisco specific as the other post pointed out.  </s>
+<s> i think it would be possible to get certified from reading books alone, if you already have a strong background.  </s>
+<s> but there is no substitute for hands on experience using the equipment.  </s>
+<s> if you are planning to use your ccna out in the field i think you would be better off getting some formal training.  </s>
+<s> all the book reading in the world will not prepare you when things happen that are not covered in the book so to speak.  </s>
+<s> if you are just looking to increase your networking knowledge, and not work with cisco equipment specifically, i would probably follow the advice of the other post.  </s>
+<s> good luck with whatever decision you make.  </s>

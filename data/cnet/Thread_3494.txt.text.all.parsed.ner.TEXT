@@ -1,0 +1,39 @@
+<s> the suggestion to get a real xp sp3 cd did the trick, mostly.  </s>
+<s> i was able to install xp using the bios ide mode, no sata driver was required.  </s>
+<s> my only outstanding issue is the sound driver.  </s>
+<s> when i have sound working, i have two sound devices: the amd hmdi sound device, and the realtek sound device. the realtek sound device handles the internal speaker.  </s>
+<s> the problem is that when i reboot, the realtek device disappears, leaving only the amd hdmi audio device.  </s>
+<s> there are two &quot;microsoft uaa&quot; devices shown in the control panel. the first seems to be associated with the amd audio device, and the second seems to be associated with the realtek device.  </s>
+<s> i have to delete the second uaa device and then &quot;scan for hardware changes&quot; to activate the realtek audio.  </s>
+<s> this works until i reboot, then the realtek device goes away.  </s>
+<s> i have tried the following things: 1) set the realtek device as the default sound card.  </s>
+<s> on reset it is missing again.  </s>
+<s> 2) disable the amd device.  </s>
+<s> on reset it is enabled again.  </s>
+<s> 3) disable the first uaa device.  </s>
+<s> this results in no sound devices being detected at all.  </s>
+<s> any ideas?  </s>
+<s> thanks all.  </s>
+<s> les  </s>
+<s> that's proper for hd audio and i will stop there since the reset of why is on the internet.  </s>
+<s> as to disabling that, no. don't do that.  </s>
+<s> read this link and if your driver install order was wrong, sound can go missing.  </s>
+<s> there is no known quick fix.  </s>
+<s> i start over.  </s>
+<s> maybe the web has better ideas.  </s>
+<s> and i make a big assumption you got the drivers from the laptop maker too.  </s>
+<s> -&gt; notes the audio driver anomaly.  </s>
+<s> order matters.  </s>
+<s> bob  </s>
+<s> that points me down the correct path.  </s>
+<s> i found the following links: i suspect you are correct that installed the drivers in the wrong order.  </s>
+<s> it looks like there are registry entries i can add / modify to control the order in which the drivers get loaded.  </s>
+<s> thanks for the pointer.  </s>
+<s> les  </s>
+<s> it is kinda troublesome.... that i have to update driver every time when i reboot the computer... plz....let me know if you successfully solve the problem.. if you did...could you plz share your solution....? thank you.  </s>
+<s> my bet is you got the install order wrong.  </s>
+<s> it's a real common and annoying issue.  </s>
+<s> my question is simply this.  </s>
+<s> given how much arcane knowledge you need to install xp, is it game over for xp? bob  </s>
+<s> no i didn't.  </s>
+<s> i bought an external usb speaker.  </s>

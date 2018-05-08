@@ -1,0 +1,7 @@
+(TOP (S (PP (IN in) (NP (NP (DT the) (NN sticky)) (PP (IN at) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (DT this) (NN forum))))))) (, ,) (NP (NP (NN pudgyone)) (PP (IN at) (NP (DT some) (NN point)))) (VP (VBD said) (NP (NP (NN use) (NN wpa)) (, ,) (ADJP (RB not) (JJ wpa2)))) (. .)) )
+(TOP (S (SBAR (WHNP (WP what)) (S (VP (AUX is) (NP (NP (DT the) (NN reason)) (PP (IN for) (NP (DT that)))) (, ,) (PP (IN since) (NP (CD wpa2)))))) (VP (AUX is) (UCP (NP (DT a) (JJ later) (NN version)) (CC and) (ADJP (RB presumably) (RBR more) (JJ secure)))) (. .)) )
+(TOP (S (ADVP (RB also)) (, ,) (ADVP (RB just)) (VP (VB read) (NP (NP (NP (DT an) (NN article)) (NP (date (NN today)) (NNP re))) (: :) (NP (NP (CD two) (NNS guys)) (SBAR (WHNP (WP who)) (S (VP (VBP claim) (S (VP (TO to) (VP (AUX have) (VP (ADVP (RB partially)) (VBN cracked) (NP (NN wpa)))))))))))) (. .)) )
+(TOP (S (SBAR (IN if) (FRAG (RB not))) (NP (PRP you)) (VP (MD might) (VP (VB ask) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (ADVP (RB just)) (VP (AUX did)))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX did) (RB n't) (VP (VB read) (NP (DT the) (JJ other) (CD one)))) (. .)) )
+(TOP (NP (NP (NNS thanks)) (PP (IN for) (S (VP (VBG pointing) (NP (PRP it)) (PRT (RP out))))) (. .)) )
+(TOP (S (NP (NP (JJ next) (NN time)) (SBAR (S (NP (PRP i)) (VP (MD 'll) (VP (VB remember)))))) (: :) (VP (VBZ rtfs)) (. .)) )

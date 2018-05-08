@@ -1,0 +1,12 @@
+<s> having trouble setting up a peer to peer network for two laptops over a switch.  </s>
+<s> neither machine seems to have any net functionality.  </s>
+<s> i've assigned both a static ip (192.168.0.5/6) but to no avail.  </s>
+<s> any ideas?  </s>
+<s> no words about accounts, firewalls, shares, drivers, wiring and more.  </s>
+<s> with just what you provided, &quot;not much&quot; should happen.  </s>
+<s> bob ps. i don't duplicate web content on windows networking so if you need a tutorial just ask.  </s>
+<s> sorry, no accounts, no firewall, both hard drives are entirely shared (this is because there is no outside access to these laptops) the configuration is as follow 2 panasonic cf-29's (yea, the old toughbooks) i have both wired via cat-5 to a allied telesyn at-f716l 10base-t/100base-tx fast ethernet switch (16 ports) the ethernet adaptor is a realtek rtl8139/810x family fast ethernet nic i believe the problem here is the os. i can't seem to get the computer to see a network.  </s>
+<s> in fact, i can't even ping on the dos prompt.  </s>
+<s> i think you found the issue.  </s>
+<s> as to ping you'll have to fix that too.  </s>
+<s> bob  </s>

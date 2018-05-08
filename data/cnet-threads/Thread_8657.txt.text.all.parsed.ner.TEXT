@@ -1,0 +1,23 @@
+<s> i am currently setting up a network in a small retail store.  </s>
+<s> they are looking to have 5 computers and possibly add one more, and a server.  </s>
+<s> they want all of the computers to have access to the server since they will be using a pos system and right now the point of sale has different information on each computer (which is not a good thing).' the reason i am going with wireless is that they constantly move there displays and only one of the computers is in a permanent spot.  </s>
+<s> which equipment would you guys suggest for this setup?  </s>
+<s> and what would be the ideal way to set it up to access the server?  </s>
+<s> thanks  </s>
+<s> that you can read about at linksys.com or dlink.com  </s>
+<s> i suggest you implement it like any other setup and use the wireless security to keep unauthorized users out.  </s>
+<s> in closing, try to keep all the wifi products of the same make and the firmware and drivers the latest.  </s>
+<s> bob  </s>
+<s> i am looking for the router with the best securfity features, as the owner is slightly paranoid....  </s>
+<s> you can use mac filtering which allows only the network cards you put in the list to have access.  </s>
+<s> again, nothing appears to be different or special in this setup.  </s>
+<s> bob  </s>
+<s> you may want to disable ssid broadcasting, change the router password, use wpa encryption.  </s>
+<s> businesses broadcasting their business (not to mention credit card numbers) over radio waves is rather risky.  </s>
+<s> ''businesses broadcasting their business (not to mention credit card numbers) over radio waves is rather risky.  </s>
+<s> '' in your opinion then, wireless would not be ideal for retail, or would you just make sure the network is secure?  </s>
+<s> after you lock it up with mac filtering, you move to wpa encryption.  </s>
+<s> but i would be duplicating far too many web sites to note that.  </s>
+<s> bob  </s>
+<s> that is the reason for all of these security measures.  </s>
+<s> convenience is the deciding issue.  </s>

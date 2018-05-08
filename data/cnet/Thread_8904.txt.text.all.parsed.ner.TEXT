@@ -1,0 +1,33 @@
+<s> i have an industrial application (measurement instrument) which has a scsi-2 connector (hd-50 male) which is used to connect to an external scsi drive.  </s>
+<s> since the external scsi drive we used is no longer available, i need to find either: (a) an external drive that has a scsi-2 interface (or one which i can adapt to), or (b) a scsi-2 to usb converter to allow the use of a usb drive or stick.  </s>
+<s> for (a), i have not been able to find anything other than scsi drives which have vhdci connectors, which i'm told cannot be adapted to a 50-pin scsi-2 interface.  </s>
+<s> is this correct?  </s>
+<s> for (b), all i can find are adapters which treat scsi as the peripheral, not the host (i.e. the host is our instrument with the scsi interface, and the peripheral would be a usb device).  </s>
+<s> any suggestions for either solution?  </s>
+<s> no, we cannot re-design our product to use a different bus architecture (too costly, and the product is going eol shortly).  </s>
+<s> any suggestions would be greatly appreciated!  </s>
+<s> i still have some scsi drives in the closet and see numerous scsi drives on ebay.  </s>
+<s> some companies insist on new parts but as such fall out of production you have to get the used parts.  </s>
+<s> you are right about the lack of new hardware or adapter.  </s>
+<s> bob  </s>
+<s> as profitt said, ebay is the best place to get legacy equipment.  </s>
+<s> i think have a couple of scsi-2 drives, a 4gb and something else that are in working order.  </s>
+<s> pay for shipping and i'll give them to you... my wife is pleased when i reduce my inventory  </s>
+<s> thanks guys, if it were for my personal use i'd take your offers, but this is for a customer who would expect a brand new product, not used.  </s>
+<s> i did find an internal scsi drive from adtron which uses compact flash media ( ), but i need an external drive.  </s>
+<s> i looked for a drive enclosure for scsi, but all are either ide, usb or sata. the scsi drive enclosures i saw were not the right form factor ... bummer.  </s>
+<s> no more emails, hitting their websites, etc. most have some reserve for situations like this. they may have refurbs too.  </s>
+<s> i know we had to do this for sun machines.  </s>
+<s> bob  </s>
+<s> i know the scsi train pretty well.  </s>
+<s> try this.  </s>
+<s> (solid state drives) your average 80 pin scsi drive.  </s>
+<s> bob  </s>
+<s> adaptec just discontinued their scsi/usb adapter.  </s>
+<s> if adaptec (whose name is synonomous with scsi) is dropping these type of products, it means that external scsi is about dead.  </s>
+<s> i forgot to mention that to replace that 25 pin boxed scsi drive you'll likely have to piecemeal a solution from a few makers.  </s>
+<s> i'd look to granite for their adapters from 50 or 68 pin scsi drives i see for sale all over (newegg.com has those drives) to the 25 pin outlet.  </s>
+<s> you'll either find a new drive housing or modify one to get over your last run.  </s>
+<s> you can finish this but i doubt you will find nib ready to use 25 pin scsi drive in a box like we did 10 years ago.  </s>
+<s> this is going to be not so much fun but is par for the course as old technology exits.  </s>
+<s> bob  </s>

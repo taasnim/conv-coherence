@@ -1,0 +1,35 @@
+<s> i have been trying to connect to the internet and to the other computers that are both on the lan.  </s>
+<s> i get the following messages on the two frequently used computers on the lan: status: limited or no connectivity you might not be able to access the internet or some network resources.  </s>
+<s> this problem occurred because the network did not assign a network adress to the computer.  </s>
+<s> if clicking repair does not restore connectivity, the problem might be with the network, not with this computer&quot; i tried to repair and this was unsuccessful.  </s>
+<s> i updated my lavasoft ad-aware se professional ref. file (23.03.2005) recently and i read something about some people having network problems after.  </s>
+<s> i am using an ibm thinkpad (xp professional sp 2, intel pentium m 1400mhz 598 mhz.  </s>
+<s> 256 mb of ram).  </s>
+<s> i had to connect to internet via 56k modem.  </s>
+<s> i just updated ref. file (11.04.2005) on this ibm and i am now up-to-date on windows update. the other computer is a &quot;clone&quot; (correct term?) running xp home sp 2, pentium 4,...) the lan was running perfect 2 days ago up to now and i checked all cables.  </s>
+<s> dsl modem says all go. is there any other information u need?  </s>
+<s> i need my internet back!  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads my apologies, i created identical discussions in other forums but it took me a while to find out where exactly to post it.  </s>
+<s> wired and or wireless?  </s>
+<s> up to date firmware for the router?  </s>
+<s> it is a wired lan.  </s>
+<s> and i havent updated the firmware in a while.  </s>
+<s> could this be the fix.  </s>
+<s> i will try updating it and reply.  </s>
+<s> im using a d-link des-1008d switch.  </s>
+<s> it is a product of d-link in australia & new zealand, france and uk. these websites show that they are no drivers available for this product.  </s>
+<s> does that mean its not the problem then?  </s>
+<s> im sure this problem is not so rare and the fix isnt too tedious. the hardest part is finding out what to do.  </s>
+<s> help in addition to original message: i tried hooking up the dsl straight to the computer and i got the same response.  </s>
+<s> switch. as such your network configuration needs some clarification.  </s>
+<s> which device goes into what other device and how it connects needs to be explained.  </s>
+<s> what type of internet connection software is being used in lieu of a router?  </s>
+<s> further, when you connect the dsl modem directly to the pc you would need to run the dsl install software being used by the isp.  </s>
+<s> entries such as user name and password needs to be authenticated when not using a router.  </s>
+<s> i have 2 pc's (98, xp) plus a laptop (xp) that are connected to the switch. the 98 machine is rarely used.  </s>
+<s> each computer has its own &quot;network wire (rj-45?)&quot;  </s>
+<s> hooked up to the switch. the dsl is also hooked up to the switch.  </s>
+<s> is that what u wanted to know?  </s>
+<s> flawed. the first computer to log on will grab the ip address from the modem.  </s>
+<s> if another computer logs in no ip address will be available. the correct configuration would be to: 1) add a router between the modem and the pcs or 2) use a proxy server program or ics to dish out the lan ips to the various pcs.  </s>

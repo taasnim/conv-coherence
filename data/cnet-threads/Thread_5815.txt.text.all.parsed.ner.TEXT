@@ -1,0 +1,20 @@
+<s> hi there people, i have had a dell precision 330 with bios version a09. it was running xp but the computer was meant for windows 2000.  </s>
+<s> my problems: 1)when i start the computer it wont load windows but it says press f1 to retry boot f2 for utility setup 2) i would reinstall windows but cd booting does not appear in boot menu or in bios boot sequence  </s>
+<s> if there is no &quot;cd boot&quot; option, you're left with little to do.  </s>
+<s> i suggest you remove the hd and mount(jerry-rig) in another pc and do a os reload there.  </s>
+<s> do the basic os reload and then swap back.  </s>
+<s> do not install all sp patches, do that once the hd has been returned.  </s>
+<s> hopefully, it will see the need for a correction and allow you that option to &quot;repair&quot; otherwise, try again to boot from cd(if you can) and find the repair option&quot; from the menu and do that to help fix your problem.  </s>
+<s> boot into &quot;safe mode&quot; hitting f8 during boot-up and select the repair option if present.  </s>
+<s> if not, then see if you can run the chkdsk /r (dos level) using the networking menu option being loaded.  </s>
+<s> it should then allow the cd be accessed.  </s>
+<s> having the old pc bios if not truly updated, you're sol w/o cd access.  </s>
+<s> if this seems odd, then google for the above options for far greater details.  </s>
+<s> if no cd boot, then you're left with possible usb boot, which can be as difficult as well under its own issues.  </s>
+<s> i see your problem as a &quot;catch-22&quot; type issue, not having this or that to proceed.  </s>
+<s> what happens when you hit f1 or f2 and give it plenty of time to react?  </s>
+<s> tada -----willy  </s>
+<s> we used the old floppy disk install method.  </s>
+<s> it's only 6 diskettes but still available. the owner of such a machine usually learns how to do this but some forget.  </s>
+<s> let's find a refresher on this -&gt; good luck in bringing the machine back.  </s>
+<s> bob  </s>

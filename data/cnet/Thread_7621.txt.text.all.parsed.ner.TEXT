@@ -1,0 +1,20 @@
+<s> hey guys, so i recently aquired a new mobo, cpu, and some ram.  </s>
+<s> so basically a whole new setup.  </s>
+<s> i installed all these new parts with my old video card and harddrive and booted up.  </s>
+<s> first problem i ran into was with the os. ( running old windows xp) so i used the repair and after a while got everything running.  </s>
+<s> did windows update for everything it would give me.  </s>
+<s> but my sound is not playing at all.  </s>
+<s> no sound from anything.  </s>
+<s> i went on the mobo site and tried to get the audio driver but whenever i install it and restart it doesnt show up in device managers.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads think this is the step i need to do, and not 100% on if i did it right i did update my video card drivers fromt the website as well and the only yellow exclamation marks i have left in device managers is unknown devices in the other category.  </s>
+<s> ( 3 of them.) specs.  </s>
+<s> asus p8p57 deluxe - mobo intel core 2 quad q9550 - cpu ati radeon hd 4600 series - graphics card 4gbs ram  </s>
+<s> it's the yellow exclamation marks.  </s>
+<s> these are devices windows does not recognize and have drivers for.  </s>
+<s> they are likely on your new motherboard and the old copy of xp cannot fix that for you. the motherboard should have come with a driver disk.  </s>
+<s> you need to run that and install the drivers beginning with the chipset drivers.  </s>
+<s> after that, you can try the sound card and other devices until all the yellow goes away.  </s>
+<s> good luck.  </s>
+<s> example (!!!) at notice how hard it is to install sound on xp? i find this to be true for most of today's hardware.  </s>
+<s> bob  </s>

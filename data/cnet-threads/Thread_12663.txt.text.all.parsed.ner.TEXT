@@ -1,0 +1,18 @@
+<s> if i want to share an internet connection in the following manner: 1) dsl modem connected to router 2) wired connection from router port to ??? device 3) ??? device provides wifi connections to multiple computers to access the internet.  </s>
+<s> thanks,  </s>
+<s> cable modem -&gt; wifi router -&gt; 2nd wifi router.  </s>
+<s> i did this to fill in some no so great spots in the home.  </s>
+<s> today this is cheaper than a wap.  </s>
+<s> bob  </s>
+<s> i had done that at one time but am having difficulty after replacing router #1 (the one connected to the dsl modem).  </s>
+<s> now with the new router, router #2 does not allow connectivity to the internet.  </s>
+<s> i am looking for the proper device to connect to one of the router ports.  </s>
+<s> thanks,  </s>
+<s> you have dsl so your router 1 logs into the dsl via pppoe.  </s>
+<s> i don't need that since i'm on cable.  </s>
+<s> so adjust as you see fit.  </s>
+<s> but i did have to make sure the lan on router one was not the same ip range as router two.  </s>
+<s> i used 192.168.1.x for router 1 and 192.168.2.x for ... besides that, it's just the default settings.  </s>
+<s> &quot;i am looking for the proper device to connect to one of the router ports&quot; that would be a wifi router or wap.  </s>
+<s> today, the wifi router is the cheap solution.  </s>
+<s> bob  </s>

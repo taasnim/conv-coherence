@@ -1,0 +1,23 @@
+<s> how can i share a dial up vpn broad band internet connection over wifi i want to share this dial up connection at my laptop over wifi what nessescery hardware require to share internet wireless at my laptop thankyou  </s>
+<s> dial up and broadband ?  </s>
+<s> not sure what kind of dialup you can get since the lines are limited to about 64k.  </s>
+<s> although tends to be a little tricky to configure internet connection sharing (ics) is the feature microsoft designed to do this. it tends to be unreliable when you use it to share high speed connections but works ok for dialup.  </s>
+<s> if you have a wireless router then you can have your pc share it with the router which will then allow other machines to attach.  </s>
+<s> if you do not have a router you will have to do direct machine to machine wireless.  </s>
+<s> you will need to configure your pc wireless to be ad hoc they use to make routers that had ports for modems so you could share that way i have not used dialup in many years.  </s>
+<s> on a second reading.  </s>
+<s> if you actually have a vpn client running like people use to get into their corporate network then the answer is you can't most it departments intentionally configure the vpn software to prevent it.  </s>
+<s> it can be done on vpn solutions that allow what is called split tunnel but this is considered poor security design.  </s>
+<s> dear friend, my cable operator supply me dial up vpn connection 1mb/sec they give me a user id and password the ethernet cable i inserted into my lan port my cable operator website is the problem is that this user id only connects one computer multi login not allowed i want this internet connection shared between my desktop pc and laptop (wireless) laptop must be wireless please help me desktop pc runing windowsxp laptop pc runing windows 7 i hope you help me  </s>
+<s> there is not a lot of technical detail on their site but then there may be another site not in english.  </s>
+<s> i now see my confusion, dialup and vpn have a very special meaning but it does appear this isp uses those terms but means something else.  </s>
+<s> my best guess is that that instead up using central hardware to limit users they are using software on the user pc to do this... and this is what they call a dialer.  </s>
+<s> although they deliver optical to the house they appear to use a different system than other isp that use.... almost like they use simple fiber optic lan switches.  </s>
+<s> since they clearly have a warning about using a router i suspect when you get multiple users to work you also would remove any restrictions on the bandwidth.  </s>
+<s> i suspect you would get someone would have to hack the client software.  </s>
+<s> if they are using ppp you more than likely could move the ppp settings including the userid and password to the router.  </s>
+<s> they do have a warning they will cancel your account if you mess up their network so not sure its worth the risk.  </s>
+<s> when they run software on your pc it all depends how it is implemented.  </s>
+<s> some you can use the pc as a router and some you cannot.  </s>
+<s> ics is your best bet but the isp software must appear as a fairly standard network device to allow you to use this.  </s>
+<s> if ics cannot see the adapter or it stops working when you activate it there is little you can do.  </s>

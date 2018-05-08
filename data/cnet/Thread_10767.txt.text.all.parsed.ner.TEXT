@@ -1,0 +1,50 @@
+<s> this is pretty basic, but i can't figure it out.  </s>
+<s> i have a desktop and a laptop i use for school.  </s>
+<s> how can i setup my network such that i can share files between the desktop and laptop? the desktop is a typical home desktop using a wireless card to access the wireless router and internet connection. the laptop can and does access the same router, but is also configured to login to my network at school (wirelessly and hardwired). is there a way i can easily port files from the desktop to laptop and vice versa when i am at home?  </s>
+<s> is your workgroup names.  </s>
+<s> since you are logging into a school network with one pc, it's likely those settings do not match the other.  </s>
+<s> workgroup names need to be the same for one pc to see the other.  </s>
+<s> i have been able to access different pcs that belong to different networks, as long as you know how to get there.  </s>
+<s> all you have to do is go into my network places and click on either &quot;view workgroup pcs&quot; or &quot;entire network&quot;.  </s>
+<s> with view workgroup pcs option, just click on the &quot;up&quot; arrow and you'll see a list of networks, choose one and find the pc. if you go w/ entire network, then microsoft windows network and you'll have a list of networks.  </s>
+<s> the easiest way is to make them be on the same network, but the most important thing is that you have enabled file sharing.  </s>
+<s> if this isn't enabled...you won't see squat under the network name.  </s>
+<s> the first issue is that you didn't specify your operating systems...this is a very important part of the puzzle.  </s>
+<s> so what oss do you have?  </s>
+<s> i have been able to access different pcs that belong to different networks, as long as you know how to get there.  </s>
+<s> all you have to do is go into my network places and click on either ''view workgroup pcs'' or ''entire network''.  </s>
+<s> with view workgroup pcs option, just click on the ''up'' arrow and you'll see a list of networks, choose one and find the pc. if you go w/ entire network, then microsoft windows network and you'll have a list of networks.  </s>
+<s> (this is for windows xp machines).  </s>
+<s> the easiest way is to make them be on the same network, but the most important thing is that you have enabled file sharing.  </s>
+<s> if this isn't enabled...you won't see squat under the network name.  </s>
+<s> the first issue is that you didn't specify your operating systems...this is a very important part of the puzzle.  </s>
+<s> so what oss do you have?  </s>
+<s> they both use xp. i have a folder shared on the desktop (which is where all of the files i want to get to are).  </s>
+<s> i can't see it though on the laptop.  </s>
+<s> so you have a folder shared on the desktop of your desktop pc and your laptop can't see the folder that is shared on your desktop pc? are both pcs using windows xp pro?  </s>
+<s> first step i'd say is to make sure your pc (with the shared desktop folder) actually realizes its shared.  </s>
+<s> to do this, 1st make sure there is a lil hand under the folder, 2nd go to my network places and see if any shared folders appear in there.  </s>
+<s> if it's not in there...that's a problem of the file share settings.  </s>
+<s> if it is in there, it may be that you are on a different workgroup (have you tried browsing workgroups like i mentioned in ''actually''?). to see if they are on the same workgroup, then right-clicking on my computer -&gt; properties -&gt; computer name (tab) should tell you the name, workgroup, and domain (if applicable).  </s>
+<s> since you said you use this at school...you may be in a domain which may interfere with the home network (this is out of my league though if it involves a domain name).  </s>
+<s> if they are on different workgroups, you'll have to change the workgroup of one or go workgroup ''browsing'' to find the foldershare.  </s>
+<s> hope this helps!  </s>
+<s> &gt;&gt; so you have a folder shared on the desktop of your desktop pc and your laptop can't see the folder that is shared on your desktop pc? are both pcs using windows xp pro?  </s>
+<s> yep they are both using pro.  </s>
+<s> there is a folder shared on the desktop. the laptop can't see it.  </s>
+<s> &gt;&gt;first step i'd say is to make sure your pc (with the shared desktop folder) actually realizes its shared.  </s>
+<s> to do this, 1st make sure there is a lil hand under the folder, 2nd go to my network places and see if any shared folders appear in there.  </s>
+<s> if it's not in there...that's a problem of the file share settings.  </s>
+<s> if it is in there, it may be that you are on a different workgroup (have you tried browsing workgroups like i mentioned in ''actually''?). 1st - the little hand is there.  </s>
+<s> 2nd - it's in there like prego.  </s>
+<s> i tried browsing for it from the laptop, and the only windows network it &quot;sees&quot; is the one from school. the desktop does have a different workgroup name.  </s>
+<s> the desktop has no domain.  </s>
+<s> the laptop does have a domain.  </s>
+<s> i just tried to modify the domain and change it to a workgroup (the same one the desktop is on).  </s>
+<s> now i can't login to the laptop for whatever reason.  </s>
+<s> guess i will be visiting computer services at school tomorrow.  </s>
+<s> i love windows.  </s>
+<s> i shoulda mentioned not to mess w/ the domain name in my last post, i apologize for that.  </s>
+<s> unfortuneatly i do not know how you can set this up having your laptop on a domain.  </s>
+<s> the it people at your school may be able to tell you how to make the shared folder accessable to your laptop (most likely it is due to a setting on your laptop).  </s>
+<s> good luck!  </s>

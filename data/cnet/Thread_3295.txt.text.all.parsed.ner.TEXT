@@ -1,0 +1,30 @@
+<s> hi folks, i have wireless home network comprising of one desktop running on xp pro which the lexmark x1250 is connected to it through a usb port, and i have a hp laptop running vista home premium, they are linked through a netgear wireless g router, they all see each other, i have successfully transfered files between them, the problem is my lexmark all in one can not print from the remote vista laptop, the printer has being installed in the vista laptop, and it status in the printer and fax window is says ready, the problem is when send a file to print, after some time it gives me this error &quot;communication not available&quot; i have tried everything, un-install and reinstall, disconnecting on the print server and connecting back, i have check the printer port on the remote vista laptop, and is correct (\hostnamesharedprintername) once in-stlled the vista laptop it automatically becomes the default printer and vista can access it properties, apart from not being able to printer, it gives same error for all other functions like scanning, photocopying, where i noticed that vista says is ready but the lexmark icon says not connected, i have disabled firewalls and anti-virus on both systems but still same problem, is there anything else am leaving out here, thanks  </s>
+<s> were installed in the laptop using vista, correct?  </s>
+<s> you have the vista drivers for the printer?  </s>
+<s> downloaded from here you installed the lexmark x1250 into the desktop and have it set to be able to share printing.  </s>
+<s> so what i'm seeing here is the problem that was put in the forum sticky , about printer sharing on xp vista network(post 12).  </s>
+<s> let me know how you make out.  </s>
+<s> rick  </s>
+<s> thanks, i saw that thread while i was trouble shooting before my post, i tried it, but vista won't recognize the driver so can't install it as a local printer, so i click install on the driver installation itself, when installing, it asks me for the printer connection type, i click network printer (peer to peer), it then ask for the printer server name and shared name (the printer is shared in the xp desktop), once i fill in the data it searches for it, finds it and then installs it, after installation, it becomes the default printer on vista, vista can access the printer properties, even says it status is ready but when ever i try to print a test page it won't print, it gives this error &quot;communication not available&quot; after installation vista status says printer ready, but the lexmark notification icon in the vista taskbar say not connected.  </s>
+<s> i have tried the vista drivers downloaded from lexmark, still the same problem  </s>
+<s> i chatted with lexmark support just now and below is the chat transcript someone will be with you shortly... [gee] my x1250 network printer cannot communicate from my vista laptop [lexmark] welcome to lexmark chat support.  </s>
+<s> [lexmark] i will be glad to assist you with this issue today.  </s>
+<s> [lexmark] gerald, is the printer connected directly to your laptop?  </s>
+<s> [gee] no is connected to my xp desktop [gee] i use a home network [lexmark] is it printing fine in your xp desktop?  </s>
+<s> [gee] yes i can print from it [gee] i can also print when ma vista laptop is connected to the printer directly [lexmark] you can print through network only if the printer is connected to higher version, please connect your printer to vista.  </s>
+<s> [gee] do this solution apply only to this particular printer or all of lexmark's printers [lexmark] its for all lexmark printers.  </s>
+<s> [gerald.com]  </s>
+<s> thankyou [lexmark] you're welcome; it's been nice to assist you today.  </s>
+<s> [lexmark] is there anything else i could help you with?  </s>
+<s> [lexmark] gee are you there?  </s>
+<s> [gee] no thanks is there folks lexmark's solution, am not happy because i had a better hp printer but exchange it for this lexmark with my friend, now is either i install vista along side my xp os on my desktop or sell the lexmark printer, i used to be a lexmark fan, but now i will be more care full next time, is there any printer out there that does not have this problem, i won't mind your suggestions, thanks  </s>
+<s> always a print server.  </s>
+<s> i have a dell photo aio printer 964 hoohed up to a dell wireless print adapter 3300. the print adapter is hooked up to the printer using a usb cable.  </s>
+<s> it uses the wireless network and i have three laptops hooked up to this network.  </s>
+<s> installed the drivers in each laptop.  </s>
+<s> each one can print wirelessly to the printer.  </s>
+<s> no host computer needs to be connected.  </s>
+<s> you could get a wireless print adapter and connect it to the printer, if you really like the printer you have.  </s>
+<s> you can also change printers down the road with the setup i use.  </s>
+<s> sorry to hear about your dealings with lexmark.  </s>
+<s> rick  </s>

@@ -1,0 +1,23 @@
+<s> i have a sony vaio model pcg250.  </s>
+<s> my network connection is fine.  </s>
+<s> my wireless connection status says i am connected at 53.0mbps.  </s>
+<s> but it says i have an invalid ip address.  </s>
+<s> i am currently using a wireless router (dlink) and a wireless pc adapter (asante).  </s>
+<s> i am connected but my internet explorer does not work.  </s>
+<s> i went to command prompt to look at my ip configuration, but it says 0.0.0.0 i tried to manually input an ip address but my computer does not seem to accept it.  </s>
+<s> i tried to release my ip and then renew (my friend showed me how) but i get an error message saying &quot;an error occurred while renewing interface wireless network connection 3: the system cannot find the file specified.  </s>
+<s> please help!  </s>
+<s> and sometimes even *other* d-link adapters.  </s>
+<s> first, do you have a static or dynamic ip address?  </s>
+<s> if dynamic, you may need some info from your isp.  </s>
+<s> anyway, you may want to try this, reset the router per d-link's instructions (normally a little button you have to push, sometime with something like a pencil point).  </s>
+<s> open up internet explorer, and under tools&gt;internet options&gt;general tab, left click the delete files button in the middle to get rid of any cached router addresses.  </s>
+<s> re-setup router per the instructions.  </s>
+<s> then go through the setup page.  </s>
+<s> did the router and sony ever communicate with the 'net?  </s>
+<s> sometimes doing a repair of your lan connection will fix it, and check to see if the xp firewall is enabled.  </s>
+<s> i also have this problem and i even tried re-formatting but it didnt help  </s>
+<s> update the dlink firmware or suffer.  </s>
+<s> how more blunt can i make this?  </s>
+<s> if that doesn't help, try a dlink card to match.  </s>
+<s> bob  </s>

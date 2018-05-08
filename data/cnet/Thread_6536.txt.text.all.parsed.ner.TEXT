@@ -1,0 +1,17 @@
+<s> i have a dell dimension 2400 and i was board one day so i opened up the case (not the first time).  </s>
+<s> while i was doing so i decided to move a pci card over one slot to give my video card a bit more room to breath when i noticed that there was something that seems to be a layout for putting an agp slot in.  </s>
+<s> it is slighty farther back then the pci slots (like all the agp slots i have seen on motherboards) and it is the top slot (if there was a slot).  </s>
+<s> to get to the point, is it possible to buy an agp slot so i can use agp video cards?  </s>
+<s> look for mrbios.com or other bios suppliers if you need to try overclocking.  </s>
+<s> bob  </s>
+<s> printed circuit and soldered through holes that would be used for installing an agp socket?? an expert micro miniature soldering person could solder it in, however the firs thing would be to deteremine if there is actually the proper artwork connected to the solder spots.  </s>
+<s> twould take a little deft work with a dvm, and a likely schematic/wiring daigram.  </s>
+<s> the agp has a special power circuit and more.  </s>
+<s> if i wanted to cut the costs for a special lowball pc, i'd not put those parts on or... recycle a goofed agp board into such a machine rather than scrap the run.  </s>
+<s> no one i've met in 30 years of pc design (and i'm around my engineering friends) has ever done this.  </s>
+<s> bob  </s>
+<s> that it is unlikely to work.  </s>
+<s> i think that i have only seen one such mobo and never checked any of the plated thru vias to see if they went anywhere.  </s>
+<s> probably just filled to protect the mobo inner layers.  </s>
+<s> don't tell a solder to put on a agp slot on your agp-less motherboard cause it will screw up big time!  </s>
+<s> i tried it once 2 years ago with my old motherboard and the slot fried right on the moment of when i turned on the pc( hecka pissed me off), so i recommend you to get a motherboard with agp 8x instead( they're pretty cheap these days)  </s>

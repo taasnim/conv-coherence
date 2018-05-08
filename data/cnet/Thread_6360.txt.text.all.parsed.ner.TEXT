@@ -1,0 +1,28 @@
+<s> i'm not very computer literate, and i just wanted to buy some network cables.  </s>
+<s> i wanted to know what the difference between cat5 and cat6 cables are.  </s>
+<s> they look the same to me.  </s>
+<s> they are 2 different categories of cables.  </s>
+<s> cat6 has double the bandwidth of cat5 which boils down to a little more reliability.  </s>
+<s> you can use either cables with your computer.  </s>
+<s> i would recommend cat6 as applications are getting larger and the added bandwidth of a cat6 will accommedate better.  </s>
+<s> some good quality cheap cables can be found at good luck.  </s>
+<s> they are wired the same, they appear, on the outside, to be the same.  </s>
+<s> but cat6 has better shielding, and perhaps better insulation.  </s>
+<s> if you are needing something for short runs, like just a few feet, then either cable will work fine, but if you are needing something that is going to go further, or near high radio-noise inducing areas, like near actual transmitting radios, or power lines, then if you have 1gb (gigabit) devices (on both ends) minimize the possible noise conflict and get cat6 cables.  </s>
+<s> there is no shielding with utp, or &quot;unshielded twisted pair&quot; ethernet cables and stp or &quot;shielded twisted pair&quot; is rarely ever used.  </s>
+<s> for commercial applications, cat.6 which is capable of speeds up to 10 gig, is installed to accomodate future equipment upgrades and technology advances.  </s>
+<s> for the small office/home office user, cat.5 utp's rating of 100mbps is sufficient at a more attractive price.  </s>
+<s> what do you want to do, quibble about something that is really unimportant to the original question?  </s>
+<s> yes, i know that the one idea of shielding, where it is grounded, does not actually apply to the 8 wires, 4 twisted pairs of wires, in the ethernet wiring called cat5, cat5e or even cat6.  </s>
+<s> but there is a sheath, and it is generally constructed of aluminum foil, that is what some people call shielding.  </s>
+<s> you even said &quot;'shielded twisted pair' is rarely ever used&quot; rarely?  </s>
+<s> so then it does happen?  </s>
+<s> if you look up, on wikipedia (granted, a collection of many people's input, but that is what makes it knowledge more well rounded, and not just one persons opinion) you'll read that &quot;many such cables are unshielded but some are shielded .&quot; the person who started this thread just wanted to know the what the difference between cat5 and cat6 cables are, since they look the same.  </s>
+<s> i think i answered the question well enough to show swarm567 that the appearance is the same.  </s>
+<s> it is unlikely he'll ever construct any of the cables himself.  </s>
+<s> i even recommended that, depending upon the circumstance (and i gave examples), the cat5 cable will probably work fine for him.  </s>
+<s> as for saying ethernet cable is not shielded, is wrong.  </s>
+<s> you are thinking only twisted pair. the original ethernet cable, as designed by xerox (where i was employed from 1970 to 2004) was not only shielded, but it was double-shielded.  </s>
+<s> it was very thick (some called it &quot;thicknet&quot;), about a half inch, co-ax cable; and required special tapping devices to get past the double shield (some people called them &quot;vampire taps&quot;) to connect the transceiver boxes (i am so glad nobody uses that stuff anymore - except maybe masochists ).  </s>
+<s> i'm sorry for using a word that you felt the need to correct me.  </s>
+<s> perhaps what you added was useful for swarm567 , but i don't think so.  </s>

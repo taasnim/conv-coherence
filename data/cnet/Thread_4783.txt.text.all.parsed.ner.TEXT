@@ -1,0 +1,20 @@
+<s> hello, i bought a dell inspiron 546 that comes with a intigrated ati radeon hd3200 graphics card recently.  </s>
+<s> i also purchased an 23&quot; asus vh-232h monitor.  </s>
+<s> for some reason the desktop screen won't fill the entire 23 inch screen.  </s>
+<s> i'm getting black bars around the edges of the monitor.  </s>
+<s> is this a limitation of the video card or something i'm missing with the settings?  </s>
+<s> thanks in advance for your help.  </s>
+<s> what's the native resolution of the screen (in pixels, for example 1280x1024)?  </s>
+<s> what's the setting of the resolution in the video driver?  </s>
+<s> those should match.  </s>
+<s> if they do, try the monitor on another pc with the same resolution settings.  </s>
+<s> what happens? did you try all settings on the monitor (most monitors come with their own settings menu for brightness and contrast and much, including possible shift up or down or left or right).  </s>
+<s> kees  </s>
+<s> the native resolution of the monitor is 1920x1080.  </s>
+<s> i have no idea what the resolution is of the video driver.  </s>
+<s> how do i check the resolution in the video driver?  </s>
+<s> so based on the monitor i'm looking at. the only time i can see black bars on the edges is if i set the monitor to 4:3 mode.  </s>
+<s> that's just an adjustment with the monitor controls.....4:3 or full screen.  </s>
+<s> vid card res.....on this machine if i right click a blank area of the desktop and select properties/settings i see a slider to select screen res.  </s>
+<s> best to set it to monitor native res.  </s>
+<s> control panel, display, settings, 32bit high color, adjust resolution, should be an adjust slider, set to monitor requirement, click apply, reboot.  </s>

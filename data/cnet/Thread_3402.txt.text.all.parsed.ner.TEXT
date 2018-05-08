@@ -1,0 +1,34 @@
+<s> i follow the instruction in the weekend project and i have a problem.  </s>
+<s> when i open the ''view worked computers'' in the pc, it only appears the name of itself.  </s>
+<s> wheni open the ''view workgroup computers'' i see both the name of the notebook and the pc, but when i try to access the pc, it says ''\dell8300 is not accessible.  </s>
+<s> you might not have a permission to use this network resource.  </s>
+<s> contact the admin of this server to find out if you have access permissions. the network path is not found.'' im using di-524 as my router.  </s>
+<s> both of my pc (wired) and notebook (wireless) connect in it.  </s>
+<s> please help me before my brain gets blow-off!  </s>
+<s> what os is on desktop?  </s>
+<s> what os is on notebook?  </s>
+<s> do any of them have windowsxp upgrade version installed?  </s>
+<s> 1) firewalls are running and blocking 2) file and print sharing is not enabled through the firewalls 3) nothing is shared  </s>
+<s> in my pc windows xp home edition.  </s>
+<s> in my notebook, windows professional  </s>
+<s> so what should i do?  </s>
+<s> how can i allow the connection with firewalls?  </s>
+<s> do i need to disable the entire firewall?  </s>
+<s> i want to share some folder.  </s>
+<s> i am only able to share the folder in my c drive?  </s>
+<s> can i share some of my folder that is not in the c drive?  </s>
+<s> yes. you can share a folder that is not on your &quot;c&quot; drive.  </s>
+<s> right-click the folder you wish to share and select &quot;sharing and security...&quot; in the window that appears, set up how you want to share that folder.  </s>
+<s> all the option in the network sharing and security are gray and unable to check it.  </s>
+<s> this problem is in my pc. the notebook is just doing fine.  </s>
+<s> on your desktop pc, go to your control panels and run the network setup wizard.  </s>
+<s> complete the wizard, making sure you enable file and printer sharing.  </s>
+<s> then enable windows firewall.  </s>
+<s> on the exceptions tab of wf, put a check mark in file and print sharing.  </s>
+<s> open windows explorer, click on the tools/ folder options, then click on the view tab.  </s>
+<s> at the bottom you will see use simple file sharing, put a check mark in this.  </s>
+<s> set some folder on each pc to be shared and you should be good to go.  </s>
+<s> third party firewalls usually have the ability to let lan traffic through.  </s>
+<s> each one has is own design.  </s>
+<s> thank you, it works.  </s>
+<s> ivin  </s>

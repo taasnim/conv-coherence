@@ -1,0 +1,88 @@
+<s> dell inspiron 6000 laptop, windows xp home, been using a linksys wrt54gs router with speed booster for a little less than a year.  </s>
+<s> also have a dell pc wired into the router.  </s>
+<s> that connection is for the most part consistent, yet a power cycle must go down a few times a week.  </s>
+<s> but the real issue is my laptop.  </s>
+<s> i used to have a very consistent and fast connection throughout my home.  </s>
+<s> most importantly, my bedroom which is a floor above the router.  </s>
+<s> lately, all has become hell.  </s>
+<s> i have a very inconsistent connection with my laptop.  </s>
+<s> and now, i either get no connection in my bedroom, or an extremely weak signal.  </s>
+<s> trying to upgrade the firmware (which has been a headache in itself).  </s>
+<s> i've read a ton lately on how this specific model tends to be a terrible router.  </s>
+<s> any suggestions?  </s>
+<s> on the verge of picking up a dlink 655 extreme gigabit n router, even though my laptop runs on a g network.  </s>
+<s> please help!  </s>
+<s> i'm tired of not having consistent internet!  </s>
+<s> especially in my bedroom!!!  </s>
+<s> is it setup per our forum sticky?  </s>
+<s> maybe try this page.  </s>
+<s> i've got the very same router as you on xp pro with one other desktop and a dell inspiron 1100.  </s>
+<s> i've had no problems with this router for the past 6 months, and no problems upgrading the firmware.  </s>
+<s> it could also be the network adapter in your laptop ----- not the router.  </s>
+<s> i wish i had an answer for you.  </s>
+<s> you'll discover it's one very nice router.  </s>
+<s> it is set up per the sticky.  </s>
+<s> i tried that link zmark provided.  </s>
+<s> i downloaded the easylink firmware tool.  </s>
+<s> to upgrade the firmware, i was prompted to plug the ethernet cable (from the back of my wired computer) into the laptop itself, with the other end already in &quot;port 1&quot;.  </s>
+<s> well, the router never recognized the ethernet cable in port 1, so when i clicked to proceed forward, the router was not recognized, nothing happened, and i have the same problem.  </s>
+<s> i vaguely remember now when i first got the router, i went through the necessary steps with the router and the pc, did everything fine.  </s>
+<s> then i just started up my laptop, it recognized the network created on my pc, and i just used the internet on my laptop that way.  </s>
+<s> however i have always received the following message when starting up my laptop: &quot;duplicate name exists on the network&quot;.  </s>
+<s> i usually just x out of it, and proceed forward.  </s>
+<s> so my question is, did the actions listed above create my current problem?  </s>
+<s> why isn't my router recognizing the ethernet cable plugged into it from the laptop?  </s>
+<s> also, is there any way to test if the issues stems with my network adapter in my laptop???  </s>
+<s> that the machine you tried to update from likely had it's wifi link enabled at that time.  </s>
+<s> ps. if the firmware is out of date then it's not setup per the forum sticky.  </s>
+<s> this model router is well known to have issues corrected by updating the firmware.  </s>
+<s> so what should i do?  </s>
+<s> i tried to update my firmware, and i failed.  </s>
+<s> how can i check to see if the network adapter in my laptop is the issue?  </s>
+<s> why am i getting the &quot;duplicate name message&quot;? and what does it mean?  </s>
+<s> help!!!!  </s>
+<s> doesn't the dell control the wireless card using the fn+f2 button?  </s>
+<s> i'm sorry to ask this but do you know your laptop features or where to find them?  </s>
+<s> bob  </s>
+<s> i've never had to deal with whether my network adapter was an issue, so no, i didn't know of the fn+f2 function.  </s>
+<s> i'm wondering if i made a mistake adding my laptop to my network, hence the &quot;duplicate name on the network&quot; message i always get at start up.  </s>
+<s> my internet connection is so inconsistent with my laptop.  </s>
+<s> can anyone give me a step by step understanding of figuring out what the problem is (whether it be my network adapter, router, etc).  </s>
+<s> any words on my inability to have my router recognized by my laptop via an ethernet cable?  </s>
+<s> there are support people available to come in and set it up for you.  </s>
+<s> given you didn't know your own laptop is a sign.  </s>
+<s> i'm sorry if this offends you in any way but unless you dive in you may have to call in the troops for this sort of work.  </s>
+<s> -&gt; i agree the makers blew it big time here.  </s>
+<s> this is far more complicated than it needs to be.  </s>
+<s> bob  </s>
+<s> i don't think the fact that i didn't know how to turn on/off my network adapter is a sign i don't know my laptop.  </s>
+<s> it's just a part of my computer i've never had to deal with before (network adapter).  </s>
+<s> i'm confident the problem is the router.  </s>
+<s> it's just so inconsistent with my laptop.  </s>
+<s> i keep having my signal dropped, and it simply won't connect in areas of my house where previously it always had a strong connection.  </s>
+<s> i just put in my order for a dlink 655 xtreme n gigabit router.  </s>
+<s> here's to hoping that will solve my issues.  </s>
+<s> at the very least, it should help me figure out what the real issue is.  </s>
+<s> to replace a router before you got it updated since new routers may come with outdated firmware but new issues so we get to repeat the same issues.  </s>
+<s> as to not knowing your laptop, a reply above noted the key combo so you should have used that to get the task done.  </s>
+<s> bob  </s>
+<s> i tried to update the firmware and wasn't able to (i stated this before in posts).  </s>
+<s> i wouldn't call that sad.  </s>
+<s> i tried your suggestions and it didn't work.  </s>
+<s> so now i'm trying something else.  </s>
+<s> i understand your point, but again i'm confident the problem lies with the linksys router itself.  </s>
+<s> especially after it was working for quite some time.  </s>
+<s> plus, with all my online research regarding my current router, there have been a ton of user complaints in having many issues like i have had with this specific model.  </s>
+<s> lastly, i don't see where the key combo you mentioned again was stated by a previous post.  </s>
+<s> regardless, all that key combo did was turn the network adapter on and off, not really any help.  </s>
+<s> what program are you using to connect to the internet?  </s>
+<s> intel proset wireless?  </s>
+<s> if so, what version?  </s>
+<s> if it's version 11, there are problems with it staying connected.  </s>
+<s> i had to go back to version 10. download it from here set a system restore point.  </s>
+<s> go to control panel and remove intel proset wireless.  </s>
+<s> restart your computer.  </s>
+<s> install the file that was downloaded.  </s>
+<s> now connect and what happens? are you staying connected?  </s>
+<s> rick  </s>
+<s> i'm using intel proset wireless version 9. thoughts?  </s>

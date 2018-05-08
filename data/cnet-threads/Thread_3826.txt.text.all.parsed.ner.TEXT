@@ -1,0 +1,67 @@
+<s> my system (purchased fall 2001) gateway select 1400cs 1.40ghz amd athlon 133mhz external bus 768 mb of ram (will upgrade to 1024; specs say supports 1gb, but bios utility says 1536mb) 20 gb of harddrive space (want to add 2nd 160gb seagate internal hard drive.  </s>
+<s> circuit city, $49.99 [st3160023a-r]) 64mb nvidia geforce2 mx400 agp video card w/ dvi and tv out screen area/colors: 1280x1024 pixels, 16 million colors monitor: syncmaster 730b(analog) windows xp service pack 2 little confused on this...weekend project - get gigs to spare with a new hard drive, step 3: assess your pc. i want to add a 2nd internal hd (160gb), but the weekend project said &quot;...if your motherboard's bios is more than a few years old, it might not recognize the full capacity of a huge modern drive...&quot; it said to google the bios version for specs and/or updates to see if it could handle the amount of hd space i wanted.  </s>
+<s> couldn't find the specs though.  </s>
+<s> so in order to avoid problems i tried to update my bios anyway.  </s>
+<s> 1st thru american megatrends, inc.  </s>
+<s> website which after all the bs directed me to esupport.com which seems like a scam to pay for the update.  </s>
+<s> then i went to gateway and found the update for my bios version (amd athlon bios update 0aawv p09) now... went thru the steps and put bios update file on a floppy and restarted the pc to update the bios just to get a non bootable disk, strike any key error.  </s>
+<s> possible problems...had trouble with floppy drive (panasonic 1.44-mb floppy disk drive revision 5) before where with any disk (new, old, formatted, unformatted, etc) inserted a message would pop up saying disk needed to be formatted...format now?  </s>
+<s> and would sometimes make loud noise when reading a disk.  </s>
+<s> but i disabled, uninstalled, reinstalled, and enabled thru device manager and now it reads floppy disks.  </s>
+<s> questions i have: is it possible my bios has already been updated thru a windows xp patch/hotfix/update? or can it only be done with a boot floppy disk procedure?  </s>
+<s> where would i find the specs of want my bios can handle?  </s>
+<s> can i add ram based on the 1024 mb max specs of my amd (keystone) motherboard - 1.4-ghz?  </s>
+<s> or can i go by the bios max of 1536mb?  </s>
+<s> i get contradicting info on banks and slots (3 banks of 1 slot or 2 banks of 1 slot) but i will open up the pc today and look.  </s>
+<s> do i need to do the bios update for my bios version to recognize my soon to be new hard drive total capacity?  </s>
+<s> what if i want to keep my old drive as my master drive with the xp os (so i dont have to install xp on the new drive) and use the new hard drive just for backup/storage?  </s>
+<s> i dont need to install xp on the new drive if i'm just using it as storage, right?  </s>
+<s> apologies for all the info and questions.  </s>
+<s> just wanted get all that was on my brain.  </s>
+<s> thanx in advance  </s>
+<s> first the machine is new enough i wouldn't check the old disk size limit issue.  </s>
+<s> but the 20gb is getting to the age i'd begin to not want it to be my primary boot drive.  </s>
+<s> your new 160gb drive will come with drive copy software so you can move onto that new drive.  </s>
+<s> not only that but they'll have instructions to do that.  </s>
+<s> this is safe too since we don't touch the 20gb but set it aside when we boot from the copy on the new 160gb drive.  </s>
+<s> bob  </s>
+<s> so i should be able to make an image of the old drive onto the new drive with given software?  </s>
+<s> then i can clear the old 20gb drive and use that for storage?  </s>
+<s> about the ram max, should i go by gateway specs or the bios?  </s>
+<s> did you ask me to repeat my first answer?  </s>
+<s> as to the ram, you can check crucial.com as well.  </s>
+<s> bob  </s>
+<s> i am having somewhat of the same problem, only am using 512 of ram but wanted to upgrade my 40gb hard drive (as it is failing) with a new 250gb hard drive.  </s>
+<s> i have basically the same computer, gateway select 1400cs with the 1.4 ghz amd.  </s>
+<s> my computer will only show 127 gb of the new 250gb hard drive.  </s>
+<s> wanted to update my bios but the only updated i could find was the one on gateway, i can't find the current bios driver i am using or the motherboard exact model.  </s>
+<s> which limits me on finding a bios driver update.  </s>
+<s> my floppy has never gone bad and am using new pre-formatted ibm floppy disk, at start-up comp will not read bios update from the booted floppy.  </s>
+<s> returns with the same thing you stated...&quot;non-system disk or disk error replace and strike any key&quot; you ever have any luck booting the new bios version or finding a better download to update bios.  </s>
+<s> let me know, thanks.  </s>
+<s> the disk size problem noted at went away.  </s>
+<s> if this was mine i'd update my bios if i found any item they noted worthy.  </s>
+<s> 'my floppy has never gone bad and am using new pre-formatted ibm floppy disk, at start-up comp will not read bios update from the booted floppy.  </s>
+<s> returns with the same thing you stated...&quot;non-system disk or disk error replace and strike any key&quot;' i find that many have forgotten how to make a dos boot diskette.  </s>
+<s> tell me how you made this diskette so i can check your work.  </s>
+<s> bob  </s>
+<s> followed instructions that came as readme file to bios driver, which stated to unzip a driver file to the hard drive then copy all files in stated folder to a new floppy disk.  </s>
+<s> that's all i did, then booted of the disk.  </s>
+<s> thanks for the 48bit website will have to read more of it.  </s>
+<s> &quot;which stated to unzip a driver file to the hard drive then copy all files in stated folder to a new floppy disk.&quot; the new floppy disk would be a dos boot diskette.  </s>
+<s> no one bothers to tell you today about such since it's been 2 decades that this has been the way of things.  </s>
+<s> i think you found the problem.  </s>
+<s> you followed the directions... bob  </s>
+<s> well thank you bob for that info, you know i really appreciate the reply.  </s>
+<s> i surely wasn't looking for help, what i really wanted was a snide remark.  </s>
+<s> oh sure, i will now look up on the internet how to make a dos boot disk and figure out how to flash my bios.  </s>
+<s> so you certainly solved the problem.  </s>
+<s> but maybe next time when you ask to &quot;check&quot; someone's work you will come back with a more informative response.  </s>
+<s> such as, please look at this website, or simply state how you would make the disk.  </s>
+<s> but i sure do appreciate being treated like an idiot.  </s>
+<s> you did just fine.  </s>
+<s> my snide comment is that today you will find many of these instructions to assume that you would know that &quot;you also need to do this.&quot; if that isn't good enough for you consider this.  </s>
+<s> i will never rewrite a post if it gets the job done.  </s>
+<s> that is, this is all volunteer and if it will take me more than 30 seconds to rewrite it to avoid bruising someone's psyche i won't.  </s>
+<s> let's get it done.  </s>
+<s> ok? bob  </s>

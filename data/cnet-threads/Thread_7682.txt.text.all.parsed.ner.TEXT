@@ -1,0 +1,20 @@
+<s> when i select the sleep button on the keyboard the message says &quot;system standby failed&quot; the device driver for the 'terminal server keyboard driver' device is preventing the machine from entering standby.  </s>
+<s> please close all aplications and try again.  </s>
+<s> if the problem persists, you may have to update this driver.  </s>
+<s> i don't know where the driver is located and this problem just started a while ago. the key was working fine prior and i must have done something to cause this.  </s>
+<s> dell is no help nor could i find info on the logitech site.  </s>
+<s> i have the standby feature working in the power options and it stands by at theprogrammed time but i want to also be able to standby when the keyboard key is selected.  </s>
+<s> any help would be appreciated.  </s>
+<s> walt  </s>
+<s> walter: did you get a fix for this problem?  </s>
+<s> i'm having the same problem and would like to know how to fix it if you can assist.  </s>
+<s> thanks in advance.  </s>
+<s> jack titus  </s>
+<s> this is a not unusual issue with the usual fix to never use the logitech keyboard software.  </s>
+<s> my windows 2000 install strangely just works fine when i tap the sleep key.  </s>
+<s> most of the time, the software on the cd is best not installed.  </s>
+<s> if you must install such, get the latest from the logitech web site.  </s>
+<s> bob  </s>
+<s> i had the same exact problem with my logitech wireless keyboard.  </s>
+<s> i solved it by going to control panel, selecting add/remove programs, and selecting adobe type manager 4.0 to completely remove it.  </s>
+<s> i rebooted and now it works fine.  </s>

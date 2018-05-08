@@ -1,0 +1,26 @@
+<s> dear sire or madam, i bought a cnet c56k data/fax internal modem.  </s>
+<s> when i firstly tried to install it, it said that it's not compatible with windows xp(mine is windows xp home edition).  </s>
+<s> then i followed the quick star guide page9 regarding how to set up modem for windows xp. but i couldn't find &quot;system properties&quot; or &quot;device manager&quot; so could you help me solve this problem and let me get online as soon as possible please?  </s>
+<s> thank you so much for your help!  </s>
+<s> star.  </s>
+<s> if a driver for your modem is not offered for windows xp and it's not natively supported, go shopping.  </s>
+<s> about 10 bucks finds modems that have xp drivers.  </s>
+<s> compgeeks.com  </s>
+<s> for example.  </s>
+<s> another avenue is to call the place that sold you the modem, ask for the xp driver or ask them to trade it for one that does xp. bob  </s>
+<s> i used anoterh modem before and i'm trying to replace it.  </s>
+<s> do you need to uninstall the old modem application in the system?  </s>
+<s> (i already removed the old modem phisically).  </s>
+<s> hi bob, thank you for your reply.  </s>
+<s> on the cd lable, it says below: to start the software installation: 1. place the disc into your cd-rom drive.  </s>
+<s> 2. under win95/98/nt/2000/me/xp, the autorun function will start up the shell program.  </s>
+<s> does that mean it acutally supports windows xp? thanks a lot!  </s>
+<s> what i experience too often is the software or installer fails and the enduser is left to slug it out.  </s>
+<s> i know to dig around the cd contents and try methods such as device manager add/remove hardware to see if i can overcome that failure.  </s>
+<s> in closing, some are blissfully unaware that microsoft doesn't update your bios, set the bios proper (defaults work for most) or fetch and install motherboard (and other) drivers. the area of installing the os used to be a rite of passage before 2000, but now we read post after post about this issue.  </s>
+<s> i'll read your next post now.  </s>
+<s> bob  </s>
+<s> i tend to go with what works.  </s>
+<s> for me, i boot safe mode, use the device manager to remove old unused entries and then follow the new device install procedure.  </s>
+<s> works most of the time.  </s>
+<s> bob  </s>

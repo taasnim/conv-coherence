@@ -1,0 +1,18 @@
+<s> well, recently i bought a new custom computer.  </s>
+<s> dual core 3800+ 2 ghz procesor, 1 gig of ram, 2 128mb 6600 gt video cards, a 450 watt power supply, runing windows media center 2005.  </s>
+<s> i have the latest nvidia drivers.  </s>
+<s> now, my problem is that when playing battle field 2, about 45 minutes into it my system will crash.  </s>
+<s> my monitor will go blank, and my speakers will go quiet, however the power light on my computer will stay on, and i have to hold down the power button to turn it off, the turn it back on to make it work again.  </s>
+<s> this happens when sli is both enabled and disabled.  </s>
+<s> also, my first video card runs at about 50-60 degrees at most, and my second runs at about 40-50 degrees.  </s>
+<s> give it a try and see if it solves your problem: exit the nview desktop manager.  </s>
+<s> whenever the display driver is installed for geforce cards the nview desktop manager is on by default.  </s>
+<s> to exit it just right-click the icon in the notification area and click exit.  </s>
+<s> hope this solves you prob.  </s>
+<s> i'd look to a few places such as: a. the maker to make it their problem.  </s>
+<s> b. the power supply.  </s>
+<s> monster size it.  </s>
+<s> c. the heat.  </s>
+<s> remove the covers for now.  </s>
+<s> don't write &quot;the cpu is&quot; so many degrees since other parts get hot too.  </s>
+<s> bob  </s>

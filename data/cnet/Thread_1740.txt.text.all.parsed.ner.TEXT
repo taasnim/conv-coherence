@@ -1,0 +1,51 @@
+<s> i am running xp. my desktop has two internal hard drives.  </s>
+<s> i have two seagate freeagent usb/esata 500 gb external hard drives.  </s>
+<s> i am currently connecting them, one at a time, with usb2 cables. the problem is that my computer will read only one of the external drives at a time.  </s>
+<s> i can plug both in, but the computer will not recognise both.  </s>
+<s> a friend in europe says that he plugs all his ext hds into a usb hub, which then goes into a computer usb port.  </s>
+<s> i have one of these hubs, but am not currently using it. the seagate technician told me that, indeed, my computer would not recognise both external hard drives at once: that connecting them both could corrupt them.  </s>
+<s> this doesn't make sense to me.  </s>
+<s> i still have the firewire cable for one (probably both.) i did not connect with the firewire cable because i don't need the speed.  </s>
+<s> these drives are for safety backup of what is already on the internal hard drive and for access to an internet sharing hub. it is necessary for me to access both external drives in one session.  </s>
+<s> would i blow something up if i connected one drive to the next via usb2, then the second one to the desktop?  </s>
+<s> would firewire cables work this way?  </s>
+<s> would ext hds of different brands or sizes be read at the same time?  </s>
+<s> i blew up a maxtor some months ago, and don't know if it happened because i plugged it into the wrong voltage adaptor, or tried to connect two maxtors at once.  </s>
+<s> obviously, i have since learned that maxtor is the second line of wd. not much was lost except one very important folder of data which cannot be duplicated.  </s>
+<s> good lesson.  </s>
+<s> but that is history.  </s>
+<s> i just don't want to do it again if i could get a 1 tb seagate, then i would, but i have not found them yet.  </s>
+<s> and even so, i wouldn't want to waste the 500 gb drives if they could all be connected.  </s>
+<s> i hope i have not worded this problem in too complicated a way.  </s>
+<s> yes, you can break something.  </s>
+<s> are the drive cases usb powered or do they have their own external power supply?  </s>
+<s> btw, here is the seagate terabyte unit.  </s>
+<s> i was just asking a question in a post above and saw this so i figured i'd drop in... i run 2 seagate externals along with a maxtor external into 5 different usb onboard ports, the 2 maxtors into the box directly and the seagate into a hub that also has a printer, an ipod, a digital camera and a housed laptop hd for carting around stuff bigger than my flash drive will handle...the hd maker shouldn't be an issue, the os should see them as separate entities.. i've found that an external usb hub with its own power supply helps because sometimes the amperage draw from the external drives collapses the onboard usb feed.  </s>
+<s> also, there's usb cables to be had with one connector on one end and 2 on the other for hookups that need more power.  </s>
+<s> depending upon the onboard current availability of the system, this has always worked for me... i've never run 2 drives in series, it's an interesting thought if you can provide them the power they need...but please don't take that as an endorsement, i really don't know...and on my machine the firewire bus is it's own boss so i also plug stuff in there from time to time.  </s>
+<s> if your machine has a separate amperage source for usb and firewire it's an easy answer... and in reality, maxtor is the second line of seagate.  </s>
+<s> happened a few years ago.  </s>
+<s> wd is a stand alone who bought the company who developed sata technology...and in general, 1tb drives are 2 500s slaved in the same housing...hmm, if they share a partition i guess your thoughts or ganging them could be a good one... so i hope that helps, if for no other reason than to say i run different brands of hds all the time and have never had a problem, except the weird thing i posted before... good luck!  </s>
+<s> wayne  </s>
+<s> both your messages have helped clarify--and caution me! both of the ext drives do have their own power supplies.  </s>
+<s> is is at all possible that, because the two ext drives are the same size, and the same brand and model no, that the c drive cannot distinguish?  </s>
+<s> what if i hooked up one via firewire, and left the other alone with the usb2.  </s>
+<s> it just now occurs to me that my usb hub is not usb 2, so that might make a difference in capabilities--maybe only speed, which, as i said, is not a problem.  </s>
+<s> thank you again for your help and for any more someone or you can give.  </s>
+<s> alright, you are having a drive conflict, so here's what you need to do: 1.) click start, and then right click on my computer.  </s>
+<s> select manage -- this will bring up the computer management window.  </s>
+<s> 2.) on the pane furthest to the left in the computer management window, there should be an option for device manager.  </s>
+<s> click on device manager.  </s>
+<s> 3.) now, the device manager should open in the middle pane of the computer management window.  </s>
+<s> click on the arrow next to the disk drives option in the middle pane.  </s>
+<s> make sure that both external hard drives.  </s>
+<s> 4.) with the disk drives option selected, back over on the left hand pane of the computer management window, select disk management.  </s>
+<s> disk management will now open up in the middle pane of the computer management window.  </s>
+<s> 5.) in the disk management window, scroll down until you see your unrecognized external hard drive.  </s>
+<s> it will be showing a status of offline.  </s>
+<s> you need to right click on this option and select go online.  </s>
+<s> i have the same problem and seen this solution on another website.  </s>
+<s> it fixed it.  </s>
+<s> hopefully it will fix yours also.  </s>
+<s> this discussion is now over 4 years old, so no more replies needed.  </s>
+<s> mark  </s>

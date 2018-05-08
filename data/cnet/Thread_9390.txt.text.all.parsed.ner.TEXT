@@ -1,0 +1,13 @@
+<s> my printer worked fine until i did 'dir&gt;prn'.  </s>
+<s> i get error: 'printspooler not running' and no printer activity or even recognition of printer.  </s>
+<s> am using xp and brother hl-1440 laser printer, microsoft's 'automatic' suggestions don't help.  </s>
+<s> please help!  </s>
+<s> thanks  </s>
+<s> 1. reboot.  </s>
+<s> solves most of this problems, unless it's a hardware issue.  </s>
+<s> 2. printer selftest (if possible from the printer) 3. install on another pc and see if it works there.  </s>
+<s> kees  </s>
+<s> go to start&gt; run &gt; cmd and press enter, then type 'net start spooler' i guess the print spooler service stopped for some reason, try the above steps and let us know if it works ... vc  </s>
+<s> finally got solution: called brother(printer mfg) and got following faq: faq000539_000 (spent ~30 min on phone) installed this and my printer works!  </s>
+<s> thanks everyone for your help!  </s>
+<s> stanx3  </s>

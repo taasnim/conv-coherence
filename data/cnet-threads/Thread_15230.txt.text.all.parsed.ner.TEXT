@@ -1,0 +1,31 @@
+<s> on friday i did my first build utilising some new parts (processor, ram, motherboard) and existing parts from the pc i already had.  </s>
+<s> when it comes to booting the pc it takes 2 sometimes 3 or 4 times to succesfully boot up.  </s>
+<s> it starts a little then stops then does it again and then eventually proceeds through post and everything is fine then on.  </s>
+<s> however on a few occasions it wouldn't work at all and give me an error message stating that the overclocking failed and that i needed ot enter the bios to reconfigure settings, even though i hadn't done any over clocking.  </s>
+<s> i ran memtest86+ and it found no errors with the ram.  </s>
+<s> since runningg memtest86+ it has booted up on the second attempt every time so far. the spec is as follows intel i5 2500 3.40ghz asus p8p67 pro motherboard corsair xms ddr 3 pc3-1600 ram nvidia geforce 6600 gts graphics card 120gb sata hard drive pioneer dvd rw drive hiper type-r 550w psu there are two cae fans usn ports - printer, wireless adapter, mouse ps/2 keyboard there is also an additional usb 3.0 extension attached to motherboard and firewire extension slot attached as well.  </s>
+<s> any ideas what the problem could be?  </s>
+<s> t'm currently thinking it could be the psu not being adequate enough however once it gets going it seems to run fine and dandy, i have had an inadequate psu in the past (or maybe it was faulty i'm unsure) and it would sometimes cut out completley mid use which hasn't happened yet with this one.  </s>
+<s> so any ideas anyone?  </s>
+<s> help is greatly apprecaited thanks  </s>
+<s> have you asked the maker about the sandy bridge defect, recall and such?  </s>
+<s> hey thanks for the information, i hadn't heard of a fault so never thought of it.  </s>
+<s> i've been in touch with intel about it and the support technician does not beleive this issue is related to that issue and told me to contact asus in regard to the sata port issue to check if mine is one of the affected ones or not.  </s>
+<s> in regard to my current problem he reckons it sounds like a power issue.  </s>
+<s> over at newegg.com believe you'll find there's a bios fix pending for that.  </s>
+<s> but i just read about another problem with the p6 intel chipset.  </s>
+<s> might need to get the entire board replaced.  </s>
+<s> let us know how it turns out.  </s>
+<s> vapcmd  </s>
+<s> the above is the link to the sandy bridge issue.  </s>
+<s> so, if your chipset is that generation and is a recent manufacture it maybe affected.  </s>
+<s> because its i5 and i7 related plus if asus based, who jump on current releases it maybe it.  </s>
+<s> though, the tech answering the questions may not always know the latest info.  </s>
+<s> however, yes if possible replace the psu with a more powerful unit and be sure all connections are fully seated.  </s>
+<s> good luck tada -----willy  </s>
+<s> google sandy bridge news or read bob  </s>
+<s> and other vendors are claiming it &quot;sold out&quot;.  </s>
+<s> a clue maybe....?  </s>
+<s> current production of socket 1155 motherboards, is being removed from the retail supply chain.  </s>
+<s> i checked newegg too and they've removed the entire line of socket 1155 mbs from their online catalog.  </s>
+<s> vapcmd  </s>

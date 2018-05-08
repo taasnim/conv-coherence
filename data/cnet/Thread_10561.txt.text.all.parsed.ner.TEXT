@@ -1,0 +1,27 @@
+<s> after i built a new computer for myself, my brother's old computer has been acting up a few times.  </s>
+<s> he has an old built computer with an asus tuv4x motherboard and two quantum 20gb hard drives.  </s>
+<s> one drive is named the &quot;c&quot; drive where windows is located; the other drive is the &quot;d&quot; drive.  </s>
+<s> he recently got the trojan.vundo  </s>
+<s> virus (for the second time) and got rid of it after two days of cleaning.  </s>
+<s> after that, upon starting windows xp, the &quot;d&quot; drive would simply not show up in the &quot;my computer&quot; directory.  </s>
+<s> sometimes it does, other times it does not.  </s>
+<s> i took the computer apart, dusted it, replaced the ide cable and still no luck.  </s>
+<s> actually, i don't really know what to do.  </s>
+<s> he just wants this computer to last him until he gets a new laptop in july 2006.  </s>
+<s> (he thinks that after removing some quarantined files that the virus was responsible for could have caused the problem because trojan.vundo is rooted in certain windows files. is this a possibility?) any suggestions?  </s>
+<s> thank you.  </s>
+<s> i have no idea about the virus thing.  </s>
+<s> on this machine when i boot i get a couple of bios screens that show the hd's the bios found.  </s>
+<s> so... if you get those sort of screens you might want to watch them close and verify that the bios is not missing the &quot;d&quot; hd during it's probe.  </s>
+<s> i suspect that if the bios is missing the hd then the os will have a problem.  </s>
+<s> i'm sorry, but i don't understand what you said.  </s>
+<s> what is the bios' probe?  </s>
+<s> when you start the machine there are some things that happen before you load the os/windows.  </s>
+<s> these things are a function of the bios&gt;basic input output system.  </s>
+<s> look at it like a machine startup pkg, not to be confused with loading an os/windows that's the next level up.  </s>
+<s> one of the things the bios does is look to see what devices the machine has, that's the probe.  </s>
+<s> if it does not see the &quot;d&quot; drive then when you load windows i doubt that windows will see it either.  </s>
+<s> unplug the &quot;c&quot; drive, power the machine on, you'll see a few screens of info appear on the monitor.  </s>
+<s> where did it come from?  </s>
+<s> it's not from windows, the &quot;c&quot; drive is unplugged.  </s>
+<s> that's the bios running.  </s>

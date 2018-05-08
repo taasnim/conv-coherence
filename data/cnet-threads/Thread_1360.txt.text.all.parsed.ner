@@ -1,0 +1,7 @@
+(TOP (S (NP (PRP i)) (VP (AUX am) (VP (VBG trying) (S (VP (TO to) (VP (VB install) (NP (DT a) (NNP hitachi) (CD gd-2000) (NN cd) (NN burner)) (PP (IN in) (NP (NP (DT a) (NNP dell) (NN optiplex) (NN gx-260)) (VP (VBG running) (NP (NNS windows)) (NP (CD xp) (NN professional)))))))))) (. .)) )
+(TOP (S (S (NP (PRP it)) (VP (VBZ reads))) (CC but) (S (NP (NN wont)) (VP (VB burn))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBP believe) (SBAR (S (NP (PRP$ my) (NN problem)) (VP (AUX is) (NP (NP (DT a) (NN driver) (CC but) (NN im)) (VP (AUXG having) (NP (NP (NNS problems)) (S (S (VP (VBG getting) (PRN (-LRB- -LRB-) (NP (NN opening)) (-RRB- -RRB-)) (NP (PRP it)) (PP (IN from) (NP (DT the) (NNP hitachi) (NN site))))) (-LRB- -LRB-) (-RRB- -RRB-) (. .))) (S (VP (VB please) (VP (VB help) (NP (NNS !!!))))))))))) (. !)) )
+(TOP (S (VP (VP (VB try) (NP (NNS cdburnerxp))) (CC and) (VP (VB see) (SBAR (IN if) (S (NP (DT that)) (VP (VBZ works)))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (ADVP (RB yet)) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (JJ xp) (NN driver)) (PP (IN for) (NP (JJ cdrw) (NNS drives)))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (DT the) (NNP hitachi) (NN gd-2000)) (VP (AUX is) (NP (NP (NP (DT a) (JJ dvd-cd) (NN player)) (PRN (-LRB- -LRB-) (JJ 2x-20x) (-RRB- -RRB-))) (, ,) (RB not) (NP (DT a) (NN burner)))) (. .)) )

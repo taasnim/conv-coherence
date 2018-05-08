@@ -1,0 +1,22 @@
+<s> g'day guys i am having some serious dramas with a hard drive which will just not be recognised by another computer.  </s>
+<s> the hard drive was a master in the first computer which the motherboard has just died in. the copacitators have started to leak in the motherboard.  </s>
+<s> i tried to change the hard drive to another computer and make it a master in that one as well.  </s>
+<s> when the computer searches for ide drives in the boot up, it just stops there and doesn't go any further.  </s>
+<s> i thought it must have been something to do with the jumpers on it, once i pulled it out there are a whole lot of different settings compared to a normal hard drive, it has both 16 and 15 head options as master, slave and cable select.  </s>
+<s> it is a deskstar hard drive.  </s>
+<s> if anyone could help me with this it would be apreciated.  </s>
+<s> i am worried that if i do buy a new motherboard i will have the same problems and i will then have to buy a new hard drive as well.  </s>
+<s> the model of the hard drive is an ibm deskstar ic35l040avvn07-0 if that is any help.  </s>
+<s> i have it set as a master on 16 heads.  </s>
+<s> cheers.  </s>
+<s> justin  </s>
+<s> another thing is that when i have the hard drive plugged in i cant even make it into bios.  </s>
+<s> i am stumpped.  </s>
+<s> justin  </s>
+<s> you give us no idea how old the system is that you put the hard drive in.  </s>
+<s> many older systems can't recognize large drives, and a 40gb may be unusable in a pii system without a bios upgrade (or even with one).  </s>
+<s> if the system is real new then you may need to jumper the drive as cs (cable select) not master or alone (if alone on the cable that is a separate setting and you don't use master).  </s>
+<s> do not change the jumper for the number of heads, if you do that you will lose all data that was on there before.  </s>
+<s> cheers for the advice, i placed the hard drive into a newer computer and it worked just perfectly.  </s>
+<s> cheers once again.  </s>
+<s> justin.  </s>

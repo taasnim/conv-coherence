@@ -1,0 +1,28 @@
+<s> i have an older notebook and the hard drive is giving some problems.  </s>
+<s> i am considering buying an external usb portable hard drive and cloning the notebook drive to the ext.drive (bootable) before the drive totally fails.  </s>
+<s> i will mainly use the notebook for non hd tv streaming and older gaming where the increased drive speed may be helpful.  </s>
+<s> i thought the external drive could be used as a backup for my other notebook when the older notebook finally dies.  </s>
+<s> my older notebook has xp, 512 mb ram , intel pen-m 735 &amp; ati mobility radeon 9600/9700.for  </s>
+<s> a limited techie like me, when switching on the old computer how do i stop the computer using the old drive and use the external drive on a permanent basis ?  </s>
+<s> would it be wise to remove the old drive?  </s>
+<s> are there any other potential problems?generally  </s>
+<s> does increasing ram improve effectiveness of tv streaming ?many  </s>
+<s> thanks for any help offered.  </s>
+<s> i think i see xp but xp as supplied does not run from usb drives.  </s>
+<s> if you were to change to some other os (linux?) then booting and running from usb drives is supported.  </s>
+<s> bob  </s>
+<s> yes, the os is xp home.  </s>
+<s> as i would not be able to run the computer from a usb drive, is the best route to clone the old hard drive to discs and then replace the old hard drive and copy from the discs to the newly installed hard drive?  </s>
+<s> when i try to reinstall the hard drive will the computer recognise the dvd/cd drive in the netbook?  </s>
+<s> i do have a usb external dvd machine.  </s>
+<s> should i use that one?  </s>
+<s> i really appreciate your help and advice.  </s>
+<s> if the old hard drive is reasonably sound and you have an external case, you can buy a new drive and clone the notebooks hd to a new drive in the external case.  </s>
+<s> you may have to deal with partition resizing but you just replace the newly cloned drive with the failing one. the method i've used is to create an image of the old drive onto a usb external drive.  </s>
+<s> i then put a bare drive in pc and restore the image to that drive.  </s>
+<s> in either case you need such as a cd/dvd rom drive to boot the cloning software.  </s>
+<s> i use acronis true image but there are others out there.  </s>
+<s> &quot;note: due to the depth of this q&amp;a discussion thread, no additional replies can be accepted for this post.  </s>
+<s> if you have an answer to offer or need clarification of the original question, please reply to the original post at the beginning of this thread.&quot; by choosing the question format it's hard to carry on a discussion.  </s>
+<s> i suggest you clone the drive and then put the new drive into the machine and boot that.  </s>
+<s> bob  </s>

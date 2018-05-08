@@ -1,0 +1,29 @@
+<s> iam trying to add a ultra ata barracuda seagate 7200 40gig to a dell dimension 4700 desktop with sata hdd installed and working perfectly already.  </s>
+<s> i have added the hdd to the cable which is used to connect to the cd rom.  </s>
+<s> i enabled the hdd in bios.  </s>
+<s> but still not able to detect in winxp.  </s>
+<s> there are three setup available in the jumper.  </s>
+<s> 1. master/slave 2. cable select 3. limits drive capacity i tried all three but still no success.  </s>
+<s> any pointer would be of helpful.  </s>
+<s> then we use cable select.  </s>
+<s> the drive limit is not used.  </s>
+<s> but did you partition and format the drive?  </s>
+<s> if not, it won't show in explorer.  </s>
+<s> bob  </s>
+<s> is not recommended.  </s>
+<s> you may run into issues and the drive may not perform at its full potential.  </s>
+<s> have your considered adding a pci ata controller (about $25)?  </s>
+<s> after you follow r. proffitt's jumpering tips, check disk management for the hard drive.  </s>
+<s> sometimes new hard drives or hard drives formatted in another os (linux, etc.) will not show in my computer, but they will show in disk management.  </s>
+<s> thanks so much for the tips.  </s>
+<s> can you pls help me with the disk management? is it a software?  </s>
+<s> previously in bios, i used to a see an option to auto detect hdds.  </s>
+<s> but i dont see it nowadays mboards.  </s>
+<s> thanks in adv for the help.  </s>
+<s> start &gt; help and support.  </s>
+<s> type disk management into the search textbox and press your enter key.  </s>
+<s> go to: start settings control panel administrative tools computer management disk management  </s>
+<s> computer, i always (hope this has a floppy drive) disconnect the sata booting 'c' drive, connect the new hd to an ide channel, cable select, boot the computer with the manufacturers floppy (maybe cd like some of them come with nowadays.) use the create option, format, check disk, make active (or not- that's a whole other set of questions to be debated), then shut down, reconnect the sata booting drive, during boot press whatever key to get to setup menu (del, or f2, or f1, whatever) verify the first hard drive in boot sequence is the sata drive, let the computer boot, most likely the drive will appear as &quot;e&quot; (if all you have is the sata c drive, an optical drive, and your new one.  </s>
+<s> if it's still not showing, go to diak management and look for it, assign it a letter, change the path, whatever.  </s>
+<s> inside xp booted you can then be sure the formatted file system is what you wanted (ntfs or fat32).  </s>
+<s> bingo, you should be there.  </s>

@@ -1,0 +1,32 @@
+<s> has anyone successfully installed and used 2 sata hard drives of different volumes, different manufacturers and different speeds as native hard drives with either vista or windows 7? i have tried to do this for about 3 months with 2 different mobos, different memory and different processors without success.  </s>
+<s> here is what i have discovered so far.  </s>
+<s> vista.  </s>
+<s> vista, depending on mobo, wont always see both sata drives upon install.  </s>
+<s> if it does see both drives and installs correctly when my computer is opened the 2nd (non-system) drive is listed as removable and cannot be accessed.  </s>
+<s> solutions: use only 1 sata drive and partition, use 2 sata drives on raid (requires for best performance 2 identical drives) or use 1 ide drive and 1 sata drive (works for me).  </s>
+<s> windows 7. w7 upon install detects all drives connected and installation is problem less.  </s>
+<s> my computer displays both drives as local discs but when the 2nd drive (non-system) is accessed the computer freezes.  </s>
+<s> restart after restart does not solve this problem.  </s>
+<s> solutions: as with vista, use 1 sata and partition, use 2 sata drives on raid or use 1 ide drive and 1 sata.  </s>
+<s> i would like to here if anybody has had any success with this configuration and if so how?  </s>
+<s> thanks.  </s>
+<s> i coming to the conclusion that hard disk setups even in ide days are far too hard on owners.  </s>
+<s> i think the design needs to be like a car with 4 wheels and you bolt them on in their specific places.  </s>
+<s> on many pcs you can change the bios to have the tire be a spare, or a dualie with the os that is installed failing to work after the change.  </s>
+<s> sorry the issues i see are a combination of design and education problems.  </s>
+<s> this industry that does not as practice have a standard.  </s>
+<s> or rather standards that you pick and choose from.  </s>
+<s> then again we see a lot of homebrew machines with issues.  </s>
+<s> how do you tell them that you want to change the motherboard?  </s>
+<s> bob  </s>
+<s> it should be no problem at all.  </s>
+<s> i have one pc with a wd 250gb, a wd 500gb, and a seagate 320gb -- no problem at all.  </s>
+<s> some original sata 1 ports (on older mobos) don't work properly with some sata 3.0gbps drives and a jumper needs to be set on the drive to 'dumb it down.'  </s>
+<s> this is one of the major problems with home built systems.  </s>
+<s> it's nice to go to a supermarket and pick up a defined spec.  </s>
+<s> system with an os and other programs already installed.  </s>
+<s> just like buying a pre-packed bag of selected potatoes.  </s>
+<s> for those of us who like to &quot;pick our own potatoes&quot;, different sizes, shapes and varieties we run the risk that the potatoes simply won't like each other.  </s>
+<s> enough of the analogy. the problem for people who buy &quot;off the shelf&quot; systems is that they are not as hardware literate as us &quot;techies, nerds, i prefer entusiasts&quot; and spend a lot of time calling customer support or givng up. the whole idea of the pc is &quot;personal&quot;, choose the pieces of hardware you want and install them. the compatability of components is getting much better than it was some years ago but with every new tech that arrives so do compatability problems.  </s>
+<s> i love the idea of &quot;pick 'n' mix&quot; pcs, i've been doing it for years but sometimes after messing around with components for hours, trying every possible configuration only to see no result is dissapointing.  </s>
+<s> i guess i could buy a mac but a mac is just a supermarket pc. let's hope component manufacturers think about the self-builder who sits at home with his or her pc in pieces on the floor trying to figure out what is wrong before releasing a piece of hardware with different or non-compatable standards.  </s>

@@ -1,0 +1,21 @@
+<s> my esk top runs on windows vista 64 bit have internet explorer 8 i want to know how can i shut off any programs running in the background and how to find out if there is anything running in background.  </s>
+<s> for example has over 200 answers on this.  </s>
+<s> i think there's usually little to be gained here.  </s>
+<s> you are running vista 64 so the only thing i will offer is that it was a bit of a slug (the os) and if you had less than 4gb ram almost nothing you could do would make it respond faster.  </s>
+<s> bob  </s>
+<s> you need to gather information from various sources. the best source, perhaps, is yourself.  </s>
+<s> when you install software the install/setup process will often ask if you want to &quot;allow {this software} to load on startup&quot; or similar option.  </s>
+<s> sadly that option is normally already selected and you actually have to 'opt out' by de-selecting it.  </s>
+<s> if the option was to 'opt in', then even if we don't watch the setup process step by step, we wouldn't have any unwanted software loading at startup. the other options are; 1] the start menu &gt; all programs &gt; startup folder.  </s>
+<s> any entries in there means that application will load at startup.  </s>
+<s> you can delete that shortcut but it would also be advisable to open the application itself and check its options as it maybe set always to load at startup 2] msconfig - goto start then type msconfig in the search box and select the first entry in the list.  </s>
+<s> this opens the &quot;startup configuration editor&quot;.  </s>
+<s> head over to the startup tab and look down the list to see what is set to run at startup.  </s>
+<s> you can disable those from there.  </s>
+<s> any entries you are not sure about you cans search for in google or your favorite search engine.  </s>
+<s> 3] the task manager - open the task manager, (right click the taskbar, select task manager), and in the new window select the processes tab.  </s>
+<s> be sure to select the option at the bottom of the window to &quot;show processes for all users&quot;.  </s>
+<s> this lists the processes for all the software that is currently running on your computer.  </s>
+<s> some may be processes from applications that have loaded at startup and which are not listed in the steps 1 and 2, but to be sure you would have to open the applications that use those processes to double check.  </s>
+<s> google will help you identify the list of processes.  </s>
+<s> mark  </s>

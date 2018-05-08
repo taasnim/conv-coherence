@@ -1,0 +1,25 @@
+<s> i recently got roller coaster tycoon 3: platinum, and sometimes (especially at night, with the fireworks), it keeps freezing.  </s>
+<s> this happens regardless of how large the park is or how much activity is going on, whether it's 100 customers or 1000 customers in the park moving.  </s>
+<s> i'm thinking it's because of my graphics card, and i've considered upgrading it.  </s>
+<s> windows vista says it's because of the mjpeg codec, which apparently is the audio and video content.  </s>
+<s> i have a dell dimension e521 with amd athlon 64 x2 dual core processor 3800+ 2.00 ghz, 2gb ram, nvidia geforce 6150 le. is it because of the graphics card that is causing the problem?  </s>
+<s> around how much and how difficult would it be to upgrade it?  </s>
+<s> thanks in advance.  </s>
+<s> while it's a fine choice in the value pcs it's not your best 3d solution.  </s>
+<s> try it with the case cover off to sniff out if it's heat and consider finding a real 3d card.  </s>
+<s> is your pc freezing (non responsive, you have to restart) or crashing (blue screen and/or restarts on it's own)?  </s>
+<s> quote: &quot;vista says &lt;i&gt;it's&lt;/i&gt; because of the mjpeg codec&quot;.  </s>
+<s> what &quot;it&quot; are you referring to... the freeze/crash?  </s>
+<s> codecs (compressor decompressor) are not directly related to the video card unless they support hardware-assisted video acceleration.  </s>
+<s> regardless, here's what i suggest you do: 1) install the latest nvidia drivers using the scan feature of this site: .  </s>
+<s> if that fixes the issue skip step 2. 2) roller coaster tycoon 3 was released long before vista and is not designed for vista.  </s>
+<s> you can either install this codc package for vista: or configure roller coaster tycoon to run in xp compatibility mode: .  </s>
+<s> one or the other may fix the problem or both may be necessary.  </s>
+<s> only the program crashes, not the actual computer, and there has never been a blue screen of death.  </s>
+<s> vista says the mjpeg codec is the reason for the crash.  </s>
+<s> i'll try to download the codec package to see if it might work, otherwise i'll consider upgrading my graphics card.  </s>
+<s> will all graphics cards work on my computer or can i only buy a select few that are compatible?  </s>
+<s> thanks in advance.  </s>
+<s> so you can upgrade to new card.  </s>
+<s> but a codec provoked crash will probably not be cured by a new video card.  </s>
+<s> it's a software problem, not hardware.  </s>

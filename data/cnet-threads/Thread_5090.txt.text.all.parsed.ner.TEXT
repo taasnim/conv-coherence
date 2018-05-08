@@ -1,0 +1,32 @@
+<s> hey guys, i couldn't come up with a great subject so thanks for taking the time to check this thread out.  </s>
+<s> here's the deal.  </s>
+<s> athlon xp 1700+ 1.47hgz 1x512mb mushkin pc2100 hp lv2 222 ddr ram abit kr7a mobo bios: ?? but not original, i have updated.  </s>
+<s> nothing useful available from abit acard aec-6290 pci serial adapter/controller bios: 2.23 c: = (primary ide)ibm 30gb 7200rpm ide (( source drive )) 307030 d: = (sata ch:0) maxtor 80gb sata (( destination )) y080m0 windows xp pro sp1 fully updated via service pack 4.53v everything updated.. i'm trying to copy my c: to my d: i've done everything i can think of.  </s>
+<s> i'm using norton ghost 9.0 and i continue to get this error: &quot;the drive copy did not complete successfully.  </s>
+<s> cannot copy source drive to destination location.  </s>
+<s> error e7c30010: device \. physicaldrive1 cannot write 4,096 sectors starting at lba 21,747,847.  </s>
+<s> error 0000001b.  </s>
+<s> the drive cannot find the sector requested.  </s>
+<s> (0xe7c30010)&quot; there are no misprints in that quote, i have a screenshot.  </s>
+<s> i thought this was an allocation unit size issue.. but i'm using xp disk management &quot;default aloocation size&quot; to mount/format/partition the drive.  </s>
+<s> is it an issue with the pci sata card? the sata card and the ide..? ugh* norton ghost has no support, acard has no support, maxtor doesn't have much support.  </s>
+<s> can you guys help me..?  </s>
+<s> from what i've read online some people are saying you can't copy (even with ng9) from ide to sata in xp. the advice was to fresh install on sata then use fast wizard to migrate.  </s>
+<s> not my first choice, not looking forward to this if only option.  </s>
+<s> now with this being said for some reason when i try to install xp pro on the sata drive it sometime tells me that files are missing from the cd.. which can't be the case, the cd is in great shape.  </s>
+<s> this is the same as the older scsi to ide or vice versa moves.  </s>
+<s> windows doesn't like that and copies do not function even if the copy succeeded.  </s>
+<s> with all the time you invested, the install and file move would be done and done.  </s>
+<s> bob  </s>
+<s> what is so good about sata?  </s>
+<s> ide seems to work just fine.  </s>
+<s> why come up with something like that?  </s>
+<s> are there any significant benefits at all?  </s>
+<s> i've tried a clean install and the os is unstable.  </s>
+<s> sometimes it finds everything during install sometimes it claims files missing from install source.  </s>
+<s> i've tried a few source discs all to find the same issues.  </s>
+<s> somtimes it hangs during install, sometimes it doesn't.. it must be the drive, i'll contact the manufacturer to recieve another rma and hope it turns out in my favor.  </s>
+<s> anyone have any other advice?  </s>
+<s> for me it was an extra drive i had laying around and my current ide master drive will work in my ps2.  </s>
+<s> i've recently out grown my 4gb hdd in my ps2 so i think the 30gb ibm should keep me happy for a bit.  </s>
+<s> sata to ide, in my opinion less clutter and higher transfer speeds.. i truly enjoy having less clutter, but that's just me.  </s>

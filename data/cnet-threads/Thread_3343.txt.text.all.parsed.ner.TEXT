@@ -1,0 +1,78 @@
+<s> i plan to build a pc primarily for use in professional digital still photo editing.  </s>
+<s> there are a number of graphic cards on the market geared towards gaming and 3d workstations.  </s>
+<s> many of these are popular, such as nvidia 6800 and ati 800, but i don't know if they are technically suited to my purpose.  </s>
+<s> i don't mind overkill however, i would like to at least have the minimum requirements covered.  </s>
+<s> can you recommend a graphic card(s) to use for digital photo editing?  </s>
+<s> many forget color calibration tools like this one -&gt; if you don't get calibrated color, then the edits can be a waste of time.  </s>
+<s> bob  </s>
+<s> the monitor would be more important than the video card.  </s>
+<s> john  </s>
+<s> if its any help i use 256mb nvidia geforce fx 5500 card in a 3.2 pentium4 with 512 mb memory system this suits me fine for photo edits  </s>
+<s> if you have cash to throw around buy yourself a nvidea geforce 6600gt with 128mb ram.  </s>
+<s> that is an overkill, and only around $200au.  </s>
+<s> you would do fine with anything upwards of a geforce 5200 for editing - but i recommend grabbing a new display at the same time - dell or apple's flat panels are nice if u have a lot of cash, but if not just get a flat screen crt from samsung or somebody.  </s>
+<s> things to look out for without getting yourself buried in specs: video card: gpu clock speed - most gpu are 300-600mhz. the 6600gt is 1000mhz i think - not sure atm.  </s>
+<s> 128mb ram would be fine, u could even scrape by with 64 - go no lower though.  </s>
+<s> monitor - refresh rate isn't really important for what you want, but be on the lookout for things like colour fidility.  </s>
+<s> if you can get an lcd over a crt as they are 1) much better for your eyes, and 2) take up less desk space, so you have somewhere to put your camera.  </s>
+<s> the video card needs enough memory to do the highest color depth possible at the resolution you choose to run.  </s>
+<s> that is it.  </s>
+<s> then, you need to look at more important things, like the monitor. the monitor will make a huge difference because of color correctness issues.  </s>
+<s> good monitors come with software to let you adjust the colors to be correct so that you can count on the color.  </s>
+<s> again, this is a function of color correction being configurable, and having a good monitor.  </s>
+<s> save your money when it comes to the card, you will more than make up for it when you buy the monitor.  </s>
+<s> it is more important to have the correct monitor than the video card.  </s>
+<s> you must remember that what you see on your monitor is not exactly how it will appear printed.  </s>
+<s> you can feasibly get by with any cheap video card.  </s>
+<s> i think that your needs should be met within the $150.00 us range.  </s>
+<s> try a nvidia 5700 le or ati 9800 series card.  </s>
+<s> any well-known brand of video card that has at least 32mb of ram should be good enough.  </s>
+<s> i use an older 32mb ati rage and a 17&quot; crt with very good results.  </s>
+<s> many times, though, i have wished for a little more ram on the video card to speed up the process.  </s>
+<s> enough ram in the computer is important, too.  </s>
+<s> that has not been mentioned in any of the posts.  </s>
+<s> if you are building the machine now, use a motherboard that will accept at least a gig of ram & use it.  </s>
+<s> you will not regret having the extra ram.  </s>
+<s> any good video card with 128k should be more than good enough.  </s>
+<s> stay with a good crt.  </s>
+<s> get the largest you can afford.  </s>
+<s> a 21&quot; if you can - and flat screen.  </s>
+<s> it is my understanding that the crt refresh rate is usually better and that the colors are truer.  </s>
+<s> use good photo editing software (adobe photoshop is one of the best).  </s>
+<s> adobe is one of the software packages that will allow you to configure the color output of your monitor so that it most closely matches your printer.  </s>
+<s> speaking of printer - this was also not mentioned in any of the posts.  </s>
+<s> if a printed photo is the desired result, make sure that you use a good quality photo printer.  </s>
+<s> use the best ink carts you can get (usually the factory ones) & be sure to use &quot;photo&quot; inks and be certain to use good quality photo paper.  </s>
+<s> i won't mention any brand, but there are several good ones and they are not cheap!  </s>
+<s> if you do these things, you will have good results and not many complaints (assuming that you do a good job retouching)!  </s>
+<s> you are just using this for 2d so great calculations of polygons isn't an issue.  </s>
+<s> from what i have read of the past few years is that ati is going to give you better images but nvidia is going to give greater speed.  </s>
+<s> going with one of their top end cards is overkill for what you are using it for.  </s>
+<s> ati x600 is great and not too expensive.  </s>
+<s> yeah, flat panels are great on saving space, but not as versatile as the old-fashioned, but undeniably better crt.  </s>
+<s> get a 21 or 25 inch crt monitor by a name brand manufacturer and you will get, aside from less desk space and higher electricity bills, a machine that is more apt to get you better color rendition and the variable resolutions essential for the professional.  </s>
+<s> i have had really good luck with fairly cheap cards for video editing.  </s>
+<s> i find the most important thing to be the software that you will be using to edit with.  </s>
+<s> you can get very good software quite reasonably, i reccomend photoshop elements unless you are a real techie, than i would go with the full photoshop program, it is spendy but well worth it. the monitor issue is not all that important either if you use the right software you can calibrate any good monitor to work very well.  </s>
+<s> here is a link for a very good card at a great price.  </s>
+<s> you don't need a 400 or 500 dollar card unless your planning on gaming also.  </s>
+<s> for editing photo's you might want to look at the matrox millennium p750 with 64mb ($213.00) or even the millennium g550 with 32mb ($94.00) matrox makes other cards like the parhelia dl256 pci graphics card but there prices are out of most users range.  </s>
+<s> before settling on anything check prices on and others.  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads for still digital editing you need two things: 1. true color fidelity video card that support 32-bit color pallette at the highest horizontal refresh rate comparable with your monitor.  </s>
+<s> 16-bit color pallette is acceptable.  </s>
+<s> 2. 17&quot; or larger monitor that support 32-bit color at the color pallette size you want (32-bit); the screen resolution you want (1024x768) or larger; the smallest dot pitch that you can afford to buy; and the highest supported horizontal refresh rate at the screen resolution and color pallette size you want.  </s>
+<s> video card works in tandem with your monitor.  </s>
+<s> don't waste your money buying a high-end video card when your monitor can only support low-end resolution.  </s>
+<s> check the specification of your monitor before buying video card.  </s>
+<s> horizontal refresh rate of 75 hz or higher is strongly recommended if you were to spend alot of time editing pictures.  </s>
+<s> higher rate may be required for some people who're more sensitive to &quot;flickering screen&quot;.  </s>
+<s> higher refresh rate (horizontal) helps reduce eye straint/fatigue.  </s>
+<s> first, find out the size of your monitor (14&quot;, 15&quot; 17&quot;, 18&quot;, 19&quot;, 21&quot;, etc.).  </s>
+<s> next, find out the horizontal refresh rate of your monitor at the 16-bit color pallette and screen resolution of 1024x768 and at 1280x1024 resolution.  </s>
+<s> repeat the above step with 32-bit color pallette, if applicable.  </s>
+<s> you should see a table similar to this: ------------------------------------------ monitor screen color  </s>

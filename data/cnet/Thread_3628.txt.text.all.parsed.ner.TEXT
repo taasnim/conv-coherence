@@ -1,0 +1,41 @@
+<s> hi i have the following configuration gigabyte ex58 ud3r mobo core i7 920 running at 2.66 ghz radeon hd 4670 vengeance?  </s>
+<s> - 4gb single module ddr3 memory kit extreme power plus 600w zebronics joy cabinet ( ) other then that i don't have any coolant as such.  </s>
+<s> my easytune 6 normally reads as below avg.  </s>
+<s> system temperature: 45cavg.  </s>
+<s> cpu temperature: 60c i normally use it for running virtual machine or vmware server.  </s>
+<s> today twice my system got restarted due to excessive load/heat.  </s>
+<s> easytune 6 reading slightly went above the normal.  </s>
+<s> i would like to know what is the standard reading for this configuration.  </s>
+<s> also i am going to buy another vengeance?  </s>
+<s> - 4gb single module ddr3 memory kit soon.  </s>
+<s> please advise to overcome this heat problem considering i will be overclocking and upgrading more ram in future.  </s>
+<s> take the side panel off.  </s>
+<s> what happens to the temps?  </s>
+<s> temperature drops little but not at appreciable extent.  </s>
+<s> in a good setup what is the temps for core i7 and mobo ?  </s>
+<s> do is check the heatsink fan to see that none of the mounts have popped loose and it's making good contact with the cpu.  </s>
+<s> if it appears to be securely mounted, you might remount/reseat or preferably replace the heatsink fan with something more robust....especially if you intend to oc. i'd start by looking at the ratings over and then look at buyer reviews over at .  </s>
+<s> i've been very pleased with the xigmatek offerings and even though i've always bought retail cpus that come with heatsink fans, i haven't used any of them in the systems i've built over the last 15-20 years you might also explore case cooling options with better ....higher cfm, low-noise fans at stores like frozencpu.com,  </s>
+<s> coolerguys.com,  </s>
+<s> etc.,. suggest using pcwizard to monitor temp until you get the system and cpu temps under control.  </s>
+<s> let us know how it works.  </s>
+<s> vapcmd  </s>
+<s> less.  </s>
+<s> vapcmd  </s>
+<s> what do you mean by saying this: &quot;other then that i don't have any coolant as such&quot;? is this suppose to be a water-cooled setup?  </s>
+<s> have you completed the install of it?  </s>
+<s> if not or i digress then what air cooling is involved.  </s>
+<s> further, are you sure this setup was done properly, using cpu paste, secured mounting and/or correct one to include the right hsf for that cpu type and rating.  </s>
+<s> have optional case cooling fans been installed?  </s>
+<s> come back with results.  </s>
+<s> i only mention this if they maybe required as std.  </s>
+<s> install and not present.  </s>
+<s> verify what the heat range in the bios the &quot;default &quot; is, though i suspect it should be correct.  </s>
+<s> also, the bios setting for &quot;temp overheat&quot; while also at default, what action does it take, shutdown, reboot or slows down(cpu setting only).  </s>
+<s> 60c is too much imho.  </s>
+<s> i like to see in the 50c+ range when it gets high.  </s>
+<s> however, proper cooling even if it reports high can make it all work well.  </s>
+<s> the monitoring s/w too often reports incorrectly and should be taken at 10% off value.  </s>
+<s> core i7 920 specs webpage: tada -----willy  </s>
+<s> some think it's optional or pre-applied.  </s>
+<s> bob  </s>

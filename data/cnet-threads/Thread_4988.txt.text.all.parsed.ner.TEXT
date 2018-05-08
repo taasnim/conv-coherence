@@ -1,0 +1,31 @@
+<s> i am using windows 98 and have just tried to install a new samsung cd rom drive sh-152.  </s>
+<s> i checked and re-checked the internal connections very carefully.  </s>
+<s> even after using the &quot;add new hardware&quot; wizard, windows did not find the new device to install it.  </s>
+<s> however, the wizard is telling me that my system does have a pci universal serial bus comnnected but that this device is not installed and there is no driver for it.  </s>
+<s> i have failed to find the driver.  </s>
+<s> my questions are: 1) are these two problems related?  </s>
+<s> 2) do i need to re-install windows?  </s>
+<s> 3) anything else i might try any help from you boffins out there would be greatly appreciated.  </s>
+<s> bill molloy  </s>
+<s> a burner.  </s>
+<s> wun 98 automatically installs the drivers for the cd-rom function.  </s>
+<s> no need to tell it to install it.  </s>
+<s> possibly you didn't watch the first boot after instsalling it where windows should have detected the new hardware and installed the drivers with no help from you.  </s>
+<s> now i may be an idiot and the drive is a usb type, then forget what i said.  </s>
+<s> simply telling us the model of the drive would mean we would have to search to find out if it was an internal or external drive.  </s>
+<s> pleas include any of that special info in the intial post.  </s>
+<s> do you have something connected to the usb bus???  </s>
+<s> if you didn't already, enter the bios area and make the change for the new cd device, by setting to &quot;auto&quot;, then exit bios by saving changes.  </s>
+<s> to better enter bios area, read your manual or visit your systems support website.  </s>
+<s> next, recheck cabling, use either master/slave or cs jumpering and if you have dual cds installed, install accordingly.  </s>
+<s> now, reboot or boot-up with all those changes, the system should see new h/w and install or ask for whatever is needed.  </s>
+<s> once done, you *may* need to install any burner s/w or special cd realed s/w to make it a better experience.  </s>
+<s> however, you needn't install any drivers for win98 installed cd drives, it should be ok with native(atapi) type drivers provided by windoze.  </s>
+<s> i don't why you have some usb error or attention for that, you need to provide further details, of course make &quot;any cabling&quot; at all it properly seated and ordinated.  </s>
+<s> good luck -----willy  </s>
+<s> in one of the posts.  </s>
+<s> did you go into &quot;my computer-properties-device manager, and remove old cdrom drive before shutting down and changing to new one?  </s>
+<s> if not, the computer can't add new one.  </s>
+<s> if you are adding a second drive and not changing, disregard this post.  </s>
+<s> good luck.  </s>
+<s> chuck  </s>

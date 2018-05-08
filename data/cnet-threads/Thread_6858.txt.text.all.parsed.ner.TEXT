@@ -1,0 +1,21 @@
+<s> i just built a new vista business 64-bit rig, and i have hooked up my hp photosmart 7960 series printer to it.  </s>
+<s> previously, this was hooked up to a xp desktop, and my other xp laptops printed to it fine.  </s>
+<s> now that i have my vista rig hooked up to it, my xp laptops can't add the printer.  </s>
+<s> when i try to add the printer from the local network, xp says... &quot;the server for the &quot;hp photosmart 7960 series&quot; printer does not have the correct printer driver installed.  </s>
+<s> if you want to search for the proper driver, click ok. otherwise, clock cancel and contact your network administrator or original equipment manufacturer for the correct printer driver.&quot;  </s>
+<s> after clicking ok, it asks my to located the file &quot;*.inf&quot;.  </s>
+<s> i've tried inserting the hp disc that came with the printer and location a driver from there, but that does not work either.  </s>
+<s> i've also tried downloading the latest xp drivers for this printer and installing them on my xp laptop, but that doesn't work either.  </s>
+<s> help, please!  </s>
+<s> i do not own that model printer or have access to one but here's what i do to get such working.  </s>
+<s> 1. i install the printer driver from hp.com for the printer for the os in question.  </s>
+<s> 2. then i can find the printer and use it.  </s>
+<s> &quot; tried downloading the latest xp drivers for this printer &quot; since we need vista drivers, that seems to be something odd to do.  </s>
+<s> bob  </s>
+<s> i don't need the vista drivers; i downloaded and installed the vista drivers on the vista rig, and the printer is working fine on it. the problem is with the xp laptops.  </s>
+<s> i have tried downloading the xp drivers for the printer and installing them on the xp laptops, but then when i try to connect to the printer over the network, i still get that driver message.  </s>
+<s> i won't rewrite this but the public has been dealt a bad hand here.  </s>
+<s> let me say that the above link does work and the method of installing the printer driver first then changing the connection later.  </s>
+<s> if you feel the method you are using must work (it doesn't!) then you have to deal with hp, microsoft and a few dead popes.  </s>
+<s> i don't expect any of those 3 groups to respond.  </s>
+<s> bob  </s>

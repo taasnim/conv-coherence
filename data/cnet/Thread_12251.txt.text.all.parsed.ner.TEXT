@@ -1,0 +1,22 @@
+<s> hi, i am looking to buy an external hard drive that i can use to store files from my ibook laptop as well as my desktop pc. i'd like at least 250gb of storage, and it would be great if it were very simple to use, since i'm kind of clueless.  </s>
+<s> can you recommend a good brand/model for me?  </s>
+<s> i would like to spend no more than $100 if possible.  </s>
+<s> thanks!  </s>
+<s> -jeff  </s>
+<s> almost any prepackaged hd would be suitable.  </s>
+<s> preferred method of connectivity for the mac would be firewire (ieee1394) but not all pc's are fitted with that.  </s>
+<s> usb2.0 is the next choice but make sure that your version of the ibook has usb 2.0 and not usb 1.0 to be on the safe side for all of the above, look for an external that has both usb2.0 and firewire.  </s>
+<s> sharing the drive between both platforms will work as long as the drive is formatted as fat.  </s>
+<s> both platforms can read that format.  </s>
+<s> unfortunately, it is not a particularly stable format and has been known to lose files on a regular basis.  </s>
+<s> ntfs is the preferred windows format while hfs+ is the macs. the mac can read from, but not write to, ntfs and windows cannot do either for hfs+ hopefully bob will be along shortly to give you the name of a piece of windows software that will enable the pc to read and write to hfs+.  </s>
+<s> once installed, format the drive, using the mac, to hfs+(journaled) and let the sharing begin.  </s>
+<s> p  </s>
+<s> i hate fat32 for this.  </s>
+<s> i can't count how many people write back about total wipeouts.  </s>
+<s> type windows hfs on google.com to find software to use hfs on windows.  </s>
+<s> use macfuse (see google) to use ntfs on the mac.  </s>
+<s> bob  </s>
+<s> i note that i got it around the wrong way.  </s>
+<s> p  </s>
+<s> thank you, p and bob!  </s>

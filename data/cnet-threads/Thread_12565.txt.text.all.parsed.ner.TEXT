@@ -1,0 +1,17 @@
+<s> i just got a new hp pavilion media center m8530f desktop pc. amd phenom x4 9550 quad core 750 gb single hard drive nvidia geforce 9300ge windows vista home premium 64-bit / svc pack 1 after setup, i noticed an nvidia icon on the bottom right task bar.  </s>
+<s> i clicked it open and it had something to do with optimizing my hard drive.  </s>
+<s> i clicked ok. there was a drop down, default option was stripe (i don't remember what the other option was.) i clicked ok, and it ran.  </s>
+<s> now on boot-up, my pc says it is an nvidia stripe drive.  </s>
+<s> (there is only 1 hard sata 750 gb hard disk inside my pc), so it seems that i inadvertantly set up my single disk as a raid stripe.  </s>
+<s> i recovered to factory settings, hoping it would revert, but my system still boots as an nvidia strip.  </s>
+<s> i made recovery disks and did a clean boot/reformat from the recovery dvds.  </s>
+<s> same result.  </s>
+<s> i called hp tech support and was on the phone with them for hours.  </s>
+<s> they couldn't fix it... would welcome any suggestions on how to revert my pc back to the state before i ran the nvidia update. the taskbar update from nvidia never reappeared on any of my reinstallations. the nvidia control panel doesn't seem to have an option to reconfigure my storage devices.  </s>
+<s> it just says there that i have 1 healthy nvidia stripe (~700gb).  </s>
+<s> anybody know how to fix this? or even if i have to fix this?  </s>
+<s> what happens when i'm running a single nvidia stripe? is the performance of my pc degraded?  </s>
+<s> i don't plan on getting another hard drive for the forseeable future, so i don't think i need a raid config...please help...  </s>
+<s> a single drive stripe set performs the same as a single drive so it's not hurting you in anyway.  </s>
+<s> thanks.  </s>
+<s> i'll just leave it as is then...  </s>

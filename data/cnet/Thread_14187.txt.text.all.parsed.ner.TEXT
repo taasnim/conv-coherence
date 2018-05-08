@@ -1,0 +1,46 @@
+<s> so this is my first build ever, just finished it this weekend, and i'm off to a very rough start.  </s>
+<s> here's my parts list.  </s>
+<s> motherboard : asus sabertooth z77 cpu : ivy bridge i5-3570k ram : crucial ballistix 2 x 2gb (1333 mhz) boot drive : crucial m4 128gb storage drive : western digital black 2tb psu : 80+ gold lepa 500w optical drive : not sure... something i pulled out of an old box.  </s>
+<s> i used the stock fan that came with the cpu, and it worked fine for a day.  </s>
+<s> then yesterday i got a fan error while booting up.  </s>
+<s> i looked inside the case and indeed the fan seemed to be stuttering.  </s>
+<s> it would try and spin up, slow, stop.  </s>
+<s> then try and spin up again, repeating the whole process.  </s>
+<s> i did a reboot, and the problem went away.  </s>
+<s> then today i booted it up again and the problem came back, but it's not going away, no matter how many times i reboot.  </s>
+<s> i checked that the fan is in the right header, and it is.  </s>
+<s> i looked and i can see 3 headers there.  </s>
+<s> cpu_fan, cpu_opt, and cha_fan3.  </s>
+<s> just to be sure it's really the fan i tried to boot up with the thing plugged into one of these other headers.  </s>
+<s> nothing changed with cpu_opt, but when i tried the third one the fan started spinning normally. the computer won't accept it though, it still says there is a fan error and goes right into uefi.  </s>
+<s> another thing that puzzles me is that i'm using an asus board, which comes with q-led indicators (those little lights all over the mobo which light up during the boot up).  </s>
+<s> they are supposed to help you solve a boot up problem by staying red at whatever place the problem occurs.  </s>
+<s> except that when i run into the fan problem, the light stays on at the boot drive... but in uefi it says my m4 is fine.  </s>
+<s> please, any help would be really appreciated. the sabertooth has a 5 year warranty, but i don't even know if it's to blame.  </s>
+<s> i've ordered an aftermarket cpu fan (a noctua of some sort), but it will be a few days before it gets here.  </s>
+<s> in the meantime, i'd like to know what my options are.  </s>
+<s> should i ask ncix (the supplier i used) to take it all back?  </s>
+<s> it's been under a week so it might work, but i guess i would have to repackage them and pay for the shipping and handling... i was hoping to get this up and running in time for diablo iii... i doubt i'll make it.  </s>
+<s> but really at this point i just want a working computer.  </s>
+<s> umm... the title should be &quot;strange cpu fan failure&quot;. is there a way i can edit that?  </s>
+<s> i don't see what video card was used.  </s>
+<s> i missed it?  </s>
+<s> i see this has 3 12 volt rails.  </s>
+<s> did they offer any way to swap rails?  </s>
+<s> i had planned on getting a gtx 670 eventually, most people told me that with just one (no sli) i should be fine with 500 watts.  </s>
+<s> but for the time being i was planning on just gaming with the integrated intel hd 4000.  </s>
+<s> i had seen samples of game-play on youtube of hd 3000, and it looked fairly decent.  </s>
+<s> especially because i have about a dozen games from 2008 or earlier that i have to catch up on, so an hd 4000 should be plenty, i figure.  </s>
+<s> i haven't had a decent gaming computer in a long time... i'm not sure what you mean by swapping rails... it's semi-modular, it came with a bunch of cables.  </s>
+<s> i used 1 to connect to my 3 drives, and one to connect to all my fans. the rest go to the motherboard.  </s>
+<s> 320 divided by 12 = 26.667 amperes.  </s>
+<s> since any one rail of that psu is 25 amperes i wonder why the maker went for a multiple rail psu.  </s>
+<s> a single rail 500 watt psu would have avoided that issue.  </s>
+<s> can you share which power supply the fan uses?  </s>
+<s> might be a clue.  </s>
+<s> bob  </s>
+<s> about 14 centimeters... is this relevant to what's happening to the cpu fan?  </s>
+<s> at this point and with this answer it's time for the service counter.  </s>
+<s> well, wait, did you mean the cpu fan, because that's like 8 centimeters, i thought you were still talking about the psu.  </s>
+<s> anyway... i'll wait and see what happens with the new cpu cooler i ordered.  </s>
+<s> hopefully it will be here before friday.  </s>

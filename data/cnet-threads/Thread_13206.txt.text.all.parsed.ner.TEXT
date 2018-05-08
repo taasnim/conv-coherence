@@ -1,0 +1,52 @@
+<s> hi all, i am planning on building a new computer from scratch in about 2 months time from now ( july 2010 ) and i was hoping for some input on the specs that i have, so far, come up with.  </s>
+<s> i have done a reasonable amount of research, though i am somewhat of a noob the computer is to be used primarily for gaming , but also for graphic design & video production .  </s>
+<s> i'm not really interested in overclocking anything.  </s>
+<s> i am in australia and i'm planning to order all parts from australia.  </s>
+<s> my preferred website to order from is pccasegear .  </s>
+<s> sadly, parts are not cheap over here, and shipping from overseas is expensive.  </s>
+<s> i'm not interested in overclocking.  </s>
+<s> my budget is approx.  </s>
+<s> $5000 usd ($5500 aussie dollars) .  </s>
+<s> case - coolermaster cm storm sniper black edition i'm open to any suggestions here.  </s>
+<s> i just want a case that offers excellent airflow and cooling.  </s>
+<s> cpu - intel i7 980x i'm fixed on getting this.  </s>
+<s> gpu - 2 x evga nvidia geforce gtx 480 ??? ok, this is something i need advice on.  </s>
+<s> i absolutely want to run 3 x 24&quot; monitors , and be able to spread both games, and my windows desktop over the three monitors.  </s>
+<s> so i need 2 gpus.  </s>
+<s> i want to be able to run each monitor at 1900x1200 , with current games on max settings (don't care if i'm out of date in 6 months from now). is two 480s overkill?  </s>
+<s> i'm a bit skeptical about brand new gpus.  </s>
+<s> perhaps two slightly older atis is a better idea?  </s>
+<s> i want to avoid over-heating, but i don't want to resort to water cooling.  </s>
+<s> i'm not interested in 3d .  </s>
+<s> memory - g.skill 8gb (2x4gb) ddr3 dual channel vs triple channel?  </s>
+<s> i don't understand the difference, but i want at least 8gb .  </s>
+<s> if i go triple channel, i will have to go up to 12gb won't i? as far as i can tell, you can't get 3gb sticks.  </s>
+<s> if i buy a motherboard that supports triple channel is it bad to only use dual channel on it?  </s>
+<s> i did some research and the general consensus seems to be that g.skill or corsair are the way to go.  </s>
+<s> motherboard - asus rampage iii extreme (intel x58) it's brand new, supports the i7 980x, both ati crossfire or nvidia sli, and up to 24gb ram.  </s>
+<s> seems like a solid choice?  </s>
+<s> power supply - coolermaster silent pro m1000 1000w - would this handle two gtx480s along with everything else in the computer?  </s>
+<s> from what i've read elsewhere 1000w should be sufficient.  </s>
+<s> hard drive - seagate barracuda 1.5tb st31500341as seagate or western digital?  </s>
+<s> i've scanned a few forums and most posts seemed to indicate that seagate are now slightly better?  </s>
+<s> monitors - 2 x benq 24&quot; e2420hd (+my old dell 24&quot;) i'm not fussed about getting the latest greatest monitor, i'd rather save money.  </s>
+<s> as long as it's 24&quot; and it works.  </s>
+<s> it's not a problem mixing 2 different brands is it? the dell will sit in the middle to make the setup symmetrical.  </s>
+<s> and the rest logitech cordless keyboard microsoft sidewinder x8 mouse asus optical drive (all optical drives are pretty much the same no?) windows 7 premium so what's your opinion guys? is anything here overkill, or are there any bad bottlenecks?  </s>
+<s> any brands that i've mentioned that should be avoided?  </s>
+<s> all suggestions are welcome thanks for taking the time to read this! cheers guys, dave.  </s>
+<s> hd 5970 handles most any game well in multi-monitor setup with ati eyefinity .  </s>
+<s> this hardocp article tests two crossfired hd 5870s (hd 5970 is basically two hd 5870s in one package) with 3 monitors.  </s>
+<s> also, the x58 chipset is optimized for triple channel memory so for best performance you'll need 3 memory dimms (3x2gb or 3x4gb).  </s>
+<s> this hothardware roundup of 1tb and 2tb drives has the wd caviar black and seagate barracuda xt trading blows for best drive.  </s>
+<s> if you get a seagate, make sure it's an new xt model since older 7200.xx models had firmware issues that made them generally slower than other wd and hitachi drives.  </s>
+<s> thanks for the reply.  </s>
+<s> what do you think about 2 x 5870s with eyefinity?  </s>
+<s> surely this card is new enough such that having two of them will allow me maximum gaming performance with current games?  </s>
+<s> it will save me a lot of money.  </s>
+<s> thanks for the hard drive info too.  </s>
+<s> that has just been released by evga might be a bit 'overkill' - will run with either dual x58 or dual xeon cpu's (and up to 48gb of ram).  </s>
+<s> hd 5970 is two hd 5870 in a single package.  </s>
+<s> heat is more distributed, each chip get full x16 on the slots, rather than x8 when on 5970.  </s>
+<s> make sense?  </s>
+<s> i'm willing to spend the extra money.  </s>

@@ -1,0 +1,20 @@
+<s> my sister-in-law has a gateway computer with a dvd drive installed.  </s>
+<s> since reinstalling the os from the gateway recovery disk, her dvd player will not read dvd's.  </s>
+<s> you can put a cd or a dvd in and open explorer and view the contents.  </s>
+<s> but, when you use a dvd player program (and i tried several to see if it was just a software problem) the programs come back with a message stating that no dvd player was found.  </s>
+<s> everything looks good in device manager, my computer shows it as a dvd player, and i've gone through an updated all the drivers.  </s>
+<s> any thoughts on this??? thanks, cameron  </s>
+<s> a little history of why the os was reloaded (some oses just get reinfected with worms upon such reinstalls), what dvd player gateway supplied and no mention of what os. write a little more.  </s>
+<s> bob  </s>
+<s> sorry, bob, i should have put more information on it.  </s>
+<s> os (win 98) was reinstalled after a full reformat of the hd. i can't remember now why she felt like she needed to do that. the dvd was a gateway installed ... the manufacturer started with an &quot;m&quot;, but i can't remember exactly who it was.  </s>
+<s> i'll e-mail her and find out.  </s>
+<s> thanks for your help.  </s>
+<s> cameron  </s>
+<s> it does have issues with drivers. the motherboard, audio, video and such drivers all need to be installed before i would expect a dvd to work.  </s>
+<s> but if i look at powerdvd, it's default install in some versions needs a little help in finding the drive letter of the dvd.  </s>
+<s> its in some options menu but since there are any number of versions, i leave it to you to find the menu and setting.  </s>
+<s> next, the cd/dvd drives must not have any driver in config.sys.  </s>
+<s> please share the contents of the config.sys  </s>
+<s> file to make sure it's ok.  </s>
+<s> bob  </s>

@@ -1,0 +1,12 @@
+<s> do any vendors supply a wireless router that can dual as a wireless repeater/bridge?  </s>
+<s> a wifi router would not need to be a repeater since it's already broadcasting as best it can.  </s>
+<s> bridges however have been spotted.  </s>
+<s> look at the usual maker's websites.  </s>
+<s> bob  </s>
+<s> a router is a layer 3 device in the osi model.  </s>
+<s> it connects two networks with different ip networks.  </s>
+<s> it makes forwarding decisions based on the ip address.  </s>
+<s> a bridge or switch is a layer 2 device (osi) and it makes forwarding decisions based on the hardware address (mac address) most consumer routers are effectively a 2 port router (lan side & wan side). the lan interface is usually attached to a 4 port switch.  </s>
+<s> a wireless access point is a bridge that connects the wired to the unwired devices.  </s>
+<s> the ap is an extension of the 4 port switch side of the router.  </s>
+<s> skrall  </s>

@@ -1,0 +1,27 @@
+<s> hi i have bought this hard disk about 1 week ago, and since then i have 2 problems.  </s>
+<s> 1. i have received this error for several times: more details in the event viewer: windows disk diagnostic detected a s.m.a.r.t. fault on disk samsung hd502hj ata device (volumes c:;d:;e:).  </s>
+<s> this disk might fail; back up your computer now.  </s>
+<s> all data on the hard disk, including files, documents, pictures, programs, and settings might be lost if your hard disk fails.  </s>
+<s> to determine if the hard disk needs to be repaired or replaced, contact the manufacturer of your computer.  </s>
+<s> if you can't back up (for example, you have no cds or other backup media), you should shut down your computer and restart when you have backup media available.  </s>
+<s> in the meantime, do not save any critical files to this disk.  </s>
+<s> 2. for several times, at windows, suddenly the picture got noisy and the sound hanged up(like cd's scratch), and 1 second after, this blue screen showed up: i've re-installed the windows, changed the psu in use, but none of them worked.  </s>
+<s> the problem is here that every diagnostic software i used, has never detected any problem.  </s>
+<s> hd tune pro, speedfan, hddlife and even es tool (which is samsung's diagnostic utility) says my hard disk is healthy and no problem was found.  </s>
+<s> how can i diagnose if this is from hard disk or not?  </s>
+<s> any help is strongly appreciated!  </s>
+<s> we swap in a new drive. the discussions about this are legendary and why windows does that hangup is well discussed.  </s>
+<s> it's your choice to use the drive till it fails.  </s>
+<s> bob  </s>
+<s> could you please insert the link of those discussions here?  </s>
+<s> thanks  </s>
+<s> it's google.com  </s>
+<s> and ask a question like &quot;what do i do when my hard drive has a smart failure?&quot;  </s>
+<s> all this is your choice and money.  </s>
+<s> some don't rely on their pcs or don't have much to lose when the drive fails. the nice part about smart is the early warning.  </s>
+<s> it's just that. it does not tell you that it will die tomorrow or last 2 more years.  </s>
+<s> but that windows failure is telling me that it's sooner than later.  </s>
+<s> bob  </s>
+<s> finds the usual owner that disbelieves that smart is so smart.  </s>
+<s> there's not much you can do for them but wait for the end.  </s>
+<s> bob  </s>

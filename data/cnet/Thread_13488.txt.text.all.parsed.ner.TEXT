@@ -1,0 +1,30 @@
+<s> i am having problems with one of my pc's ever since i was forced to connect it to a wireless network using a d-link dwa-140 wireless usb mini adapter. the pc is a dell dimension dxp051 with intel pentium 4 cpu 3.000ghz, 2.99 ghz and 1 gb ram.  </s>
+<s> network card intel(r) pro/1000 pl version 9.0.15.0 it had xp home edition version 2002 sp2 + office 2000 (i need to keep the old office as i work with certain software that function better and faster with the old ms office than with newer versions, which i have on my other pc).  </s>
+<s> first i upgraded to sp3 and then i installed the dwa-140 usb adapter and connected to the wireless network.  </s>
+<s> as soon as i did, word started getting hung on startup (won't even open properly, hangs itself).  </s>
+<s> i initially thought it was a sp3 error, and tried fixes but still didn't work.  </s>
+<s> as i need word 2000 more than the internet connection, i chose to uninstall the dwa-140 and work without the network.  </s>
+<s> however, i now need to get back on the network/internet, so i tried to roll back to sp2, and check to see if word worked again, and it did.  </s>
+<s> but as soon as i installed the dwa-140 the same problem occurs... when i click on word, it opens but gets stuck and stops responding. is there anyone who can help me figure out where the problem lies... how does the d-link dwa-140 usb adaptor manage to screw up my office programs (and i remember some other software issues as well, but can't recall which ones, as this was some time last fall).  </s>
+<s> anyone who can help me fix this before monday... am in a real jam! =( thanks!  </s>
+<s> just like i read at it took longer to figure out what your machine was.  </s>
+<s> -&gt; there is no quick cure for you.  </s>
+<s> here's what i'd do.  </s>
+<s> 1. do this -&gt; 2. update the motherboard chipset drivers.  </s>
+<s> how?  </s>
+<s> head to dell.com and put in your tag number, get the motherboard drivers and install those.  </s>
+<s> then retest.  </s>
+<s> if it still flunks then head to the event viewer (use google if you must learn how to use it) to clear all events, crash and then tell us what shows up on the next boot.  </s>
+<s> 3. put the adapter in the rear usb port.  </s>
+<s> sorry if this seems short but i'm no longer discussing why this matters.  </s>
+<s> bob  </s>
+<s> hi bob, thanks for the tip.  </s>
+<s> i followed the guide (cleanup your grungy computer), updated chip set and bios, and tried to reinstall dwa-140 but word still hangs itself (which it didn't 2 minutes before installing the dwa-140).  </s>
+<s> i tried to follow your steps in the event viewer, but when i get to control panel - performance and maintenance - administration tools i just get a desktop.ini  </s>
+<s> file - there is nothing else! is there something missing in my xp version...? any suggestions on how to restore whatever tools should be under administration tools?  </s>
+<s> thanks!  </s>
+<s> susanne  </s>
+<s> hi again, sorry about my inexperience, i was able to find the eventviewer via the start button - administrative tools, and saved the old log files and cleaned them.  </s>
+<s> have now rebooted and the following appears: program log: 2009-02-16  </s>
+<s> &quot; word started getting hung on startup &quot; try word's safe mode.  </s>
+<s> here's how -&gt; bob  </s>

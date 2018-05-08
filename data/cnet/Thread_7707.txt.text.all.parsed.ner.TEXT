@@ -1,0 +1,46 @@
+<s> i have designed computer components and systems for over 15 years and worked on several large computer-manufacturing facilities, which have produced many consumer and industrial-grade pcs and server systems (i won't plug my employer's products but many of you are running these systems today).  </s>
+<s> here is my opinion on the subject of whether to leave your system powered on or off.  </s>
+<s> disclaimer: this is strictly my personal opinion and not endorsed by my employer. the system manufacturers, as well as the component manufacturers (power supplies, disk drives, fans, boards, monitors, etc) go through rigorous product development and qa to determine the life span/failure rate/cause-of-failure of each component.  </s>
+<s> while some of this data, from system manufacturers, are not made public, much of the component's mtbf (mean time between failure) data, optimal operating voltage and temperature/humidity range, etc, are available to everyone.  </s>
+<s> due to improvements in component and system manufacturing, we are building far better products today.  </s>
+<s> the answers below apply mostly to systems built in the last few (5-7?) years.  </s>
+<s> some (of the more reputable) component manufacturers build very solid products, but not everyone is equally good.  </s>
+<s> some of the &quot;cheaper&quot; components and brands tend to fail more often, some by as much as 200-300%.  </s>
+<s> these failures, especially on the power supplies and disk drives, are more susceptible to power surges when the system is turned on and off regularly.  </s>
+<s> however, the rate of failure is also higher for these same components when you run them continuously (due to &quot;normal&quot; wear and tear, etc).  </s>
+<s> in the interest of brevity, i won't go into detail on the different causes of failure for each component, but to sum up, for &quot;lesser quality&quot; components, it doesn't make much difference whether you run the system continuously or power it up and down every night -- both will increase failure rate.  </s>
+<s> for computer systems built many years ago, power cycling the system, which caused voltage/current surge in the system, have caused a high percentage of failures.  </s>
+<s> this historical information lead to the popular belief today that powering the system up and down a lot is bad.  </s>
+<s> while there are exceptions (see below), unfortunately, that &quot;myth&quot; is less true today.  </s>
+<s> today's pcs, especially for home/small business users, have more than adequately rated components to handle repeated power cycling of the system.  </s>
+<s> power supplies have surge control circuits as do some motherboards, disk drives, etc. disk drives have built-in ramp-up curves.  </s>
+<s> temperature regulation for chips and boards have gotten quite good so as long as you operate it within the spec range, you should be fine.  </s>
+<s> in other words, it is not as much of a problem for today's systems to have chips and boards heat up and cool down, or have drives spin up and down, as it used to be.  </s>
+<s> again, this is assuming that your computer manufacturer uses quality components and has done their r&d in quality assembly and testing.  </s>
+<s> as a previous post correctly stated, continuously running a system will definitely cause &quot;normal&quot; wear and tear.  </s>
+<s> this applies to disk drives (high rpm spin rate, head wear and tear, other mechanical issues, etc), power supplies, and fans more than other components.  </s>
+<s> in our &quot;real world&quot; test labs, this can cause failures sooner (mostly due to other factors; again, see below) than powering the system on and off regularly, but it still well past the published mtbf rating.  </s>
+<s> as an example, a typical western digital 80gb 10,000 rpm ata drive has a mtbf of 1,200,000 hours (135+ years) and a start/stop reliability of 20,000 cycles (55+ years, if you turn it on and off once a day, every day). it is safe to say that this component will hold up pretty well for the normal lifespan of a computer, regardless of what you do.  </s>
+<s> some different rules apply when you are running high-end servers or multiple cpus with large disk arrays and accessory components.  </s>
+<s> these systems will draw a lot more current upon start-up and run at a higher temperature.  </s>
+<s> this extra high current draw can shorten the life of the components, but continuously running it at an elevated temperature will also cause early failure.  </s>
+<s> this is the reason why large servers need filtered clean power, air conditioned temperature regulation, and it is better to run them continuously, in a controlled environment, than to power cycle them frequently.  </s>
+<s> however, the normal, everyday, consumer desktop pcs or laptops have more-than-adequate components to handle both running continuously as well as daily power cycles.  </s>
+<s> the bottom line and a few recommendations: .  </s>
+<s> for newer systems, built in the last 5-7 years by reliable manufacturers, it is fine to turn it off at the end of the day.  </s>
+<s> if you want to run it continuously for whatever reason and don't mind paying a little extra for the electricity use, that is ok too. . the biggest enemy, by far, are environmental factors, such as temperature, dirty power, and dust.  </s>
+<s> it is far more critical to keep these in check to maintain the health and longevity of your system: - built-up heat is always a big problem, so maintain adequate ventilation and don't let it overheat (for example, keep the system out of direct sunlight or a hot room in the summertime) - don't overload the system with too many disk drives or high amperage components.  </s>
+<s> it will unduly stress the power supply.  </s>
+<s> - put a good uninterrupted power supply (ups) w/ filtered battery power on your system (avg cost = $50-$90).  </s>
+<s> - keep it clean and dust-free inside.  </s>
+<s> every 6 months or so, power the system down, remove the side cover, and carefully vacuum out the dust.  </s>
+<s> for the average home/small business user, you will be surprise how much dust can accumulate inside. the dust causes the fan to work less efficiently, which causes overheating & component degradation.  </s>
+<s> dust accumulated on circuit boards also acts as insulation, creating heat build-up and possibly even short-circuiting boards (by *large* dust balls).  </s>
+<s> almost all hard drives shipped today are hermetically sealed, so they are not as susceptible, mechanically, to dust compared to drives built many years ago, but dust is still bad for overheating, causing component degradation.  </s>
+<s> hope this helps.  </s>
+<s> holy moly, thank you for that information.  </s>
+<s> i am a steady computer user at work and home and your information was readable, understandable and informative.  </s>
+<s> you ought to be a teacher!  </s>
+<s> jeanne  </s>
+<s> i'm going to agree with jeane.  </s>
+<s> thank you for this thorough, well-put information!  </s>

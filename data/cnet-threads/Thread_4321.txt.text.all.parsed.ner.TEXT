@@ -1,0 +1,61 @@
+<s> hello.  </s>
+<s> i have a new hp a1010n intel celeron d processor, 512mb ddr sdram memory 160gb 7200rpm ultra dma hard drive.  </s>
+<s> i also have a compaq presario that is currently not working because my processor fried.  </s>
+<s> i will like to put my old 40gb hard drive into my new pc - how do i put the old hard drive into the new pc? also, are there any dangers or warnings i should know about before doing this?  </s>
+<s> i will appreciate all the help.  </s>
+<s> bob or ray, i'll appreciate your input.  </s>
+<s> thanks.  </s>
+<s> ylc  </s>
+<s> i've lost count on the times i've done this.  </s>
+<s> locate the ide cable from the system board.  </s>
+<s> if there are two connectors, you're set.  </s>
+<s> set the jumper on the hd to slave and plug it into the middle connector on the ide cable.  </s>
+<s> make sure the jumper on the master hd is set to master.  </s>
+<s> if the master is set to cable select, set the new drive to cs also.  </s>
+<s> it ought to work either way.  </s>
+<s> after you power up go to control panel, administrative tools, computer management, and click disk management.  </s>
+<s> you will need to activate the new drive from there.  </s>
+<s> xp will read a drive formatted in fat32 or ntfs.  </s>
+<s> wayne give a person a fish and you feed them for a day; teach that person to use the internet and they won't bother you for weeks.  </s>
+<s> click here to see the cnet faces, learn a little about telephones, internet connections, spyware removal, and data, and download free software.  </s>
+<s> so could you break it down for me in terms that i can understand better?  </s>
+<s> lol.  </s>
+<s> sorry... thanks for your help.  </s>
+<s> i mean no offense.  </s>
+<s> your new hd has 4x the space of the old hd. do you need more space?  </s>
+<s> are you trying to do this just for yuks?  </s>
+<s> learning?  </s>
+<s> &gt; thats ok. imo.  </s>
+<s> folks that go looking for trouble usually find it.  </s>
+<s> on second thought, here is the site you need.  </s>
+<s> there is a link to adding hardware here page six has words and pictures.  </s>
+<s> wayne give a person a fish and you feed them for a day; teach that person to use the internet and they won't bother you for weeks.  </s>
+<s> click here to see the cnet faces, learn a little about telephones, internet connections, spyware removal, and data, and download free software.  </s>
+<s> has an operating system on it and things unique to the old presario.  </s>
+<s> so, first tell us what you want the final configuration of the old drive to be. if you simply want the old drive to be clean and available to put files and programs on, we'll format the drive as a first step.  </s>
+<s> need to know a little more about your new system.  </s>
+<s> recently some of the new systems only have a single ide port [two drives] because they use sata drives instaed of pata.  </s>
+<s> [both types are actually called ide drives, which can make things a little confusing.]  </s>
+<s> so let's be certain we know the final intended configuration of drives of all types before we dive in.  </s>
+<s> also go to the hp site and look at the photos of the interior assembly of your particular model.  </s>
+<s> i'll be going there to look also at what it's present configuration is.  </s>
+<s> if in the meantime you complete the operation based on the guidance provided by others, email me via my profile to let me know that you are done.  </s>
+<s> lol have you ever checked toni h.'s site for help in general?  </s>
+<s> four drive capability.  </s>
+<s> one is called the primary and one is called the secondary.  </s>
+<s> each can have a master and a slave drive connected to its ribbon cable.[they may use round cables, not sure].  </s>
+<s> first, you need to determine what port that the other drives are connected to. the boot hard drive will be the master on the primary ide controller.  </s>
+<s> very likely jumpered as cable select [cs].  </s>
+<s> that cable will likely be an 80 conductor cable, which means that when the drives are jumpered to use cable select, the master drive must be connected to the end connector of the cable. the &quot;slave&quot; drive gets connected to the middle connector.  </s>
+<s> [its also jumpered as cs, which simply means that the cable decides what drive is the master and which is the slave].  </s>
+<s> in your case we need to know what other drives [burners etc] there are and what ide port they are connected to.  </s>
+<s> i know my new pc's hd is a lot better and all.  </s>
+<s> but have you ever heard of this kind of situation where people have things on their old hd that they want to put into their new pc? hmm... that sounds like a possibility, right?  </s>
+<s> that's why i need to put the old hd into my new pc! duh!!!! damn smart *****..  </s>
+<s> i will check that website later on today and i'll let ya know if it worked or if i need more of your help.  </s>
+<s> thanks!  </s>
+<s> i will look into the what coryphaeus said and look at hp's website for a picture of my pc. then i will compare it to what you said.  </s>
+<s> if i understand everything and the steps are all the same, then i will try to do it.  </s>
+<s> if not, i'll come back here for more help!  </s>
+<s> you know i can't get enough of this website!  </s>
+<s> thanks, ylc  </s>

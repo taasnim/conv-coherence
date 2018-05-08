@@ -1,0 +1,265 @@
+<s> in my home, we have a router with 3 computers connected: one desktop, plugged into the router one laptop, connected wirelessly another desktop, connected wirelessly the second desktop lost internet access on friday, although it still connects with the router. the other computers have not had any problems, and we did not make any changes to the setup.  </s>
+<s> i thought that perhaps a mcafee update was affecting the second desktop, since none of the other computers use mcafee.  </s>
+<s> after uninstalling mcafee, however, the problem persists.  </s>
+<s> i've researched the problem online and tried lots of suggested remedies, with no luck. the desktop having the problem is running vista.  </s>
+<s> in case it helps, heres the &quot;ipconfig /all&quot; output for the problem computer: windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : hm-pc primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : broadcast ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wireless lan adapter wireless network connection 2: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : broadcom 802.11g network adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-07-40-ba-c7-02 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::484a:2042:7e7a:5a00%13(preferred) autoconfiguration ipv4 address.  </s>
+<s> .  </s>
+<s> : 169.254.90.0(preferred) subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.0.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : dhcpv6 iaid .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 318768960 dhcpv6 client duid. .  </s>
+<s> . . . . . .  </s>
+<s> : 00-01-00-01-11-2a-a8-86-00-21-97-4f-e6-d0 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : fec0:0:0:ffff::1%1 fec0:0:0:ffff::2%1 fec0:0:0:ffff::3%1 netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : enabled ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : nvidia nforce 10/100 mbps ethernet physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-21-97-4f-e6-d0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter local area connection* 6: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : isatap.{4d268137-e37d-415f-bce5-95eff1f7d50e}  </s>
+<s> physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter local area connection* 11: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : teredo tunneling pseudo-interface physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 02-00-54-55-4e-01 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter local area connection* 7: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : isatap.{9ddd3cbf-54f3-4f53-a1fe-08abff749a25}  </s>
+<s> physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes and here's the ipconfig output for the laptop, running windows 7, which i'm using to post this question: windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : slick primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : broadcast ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no dns suffix search list.  </s>
+<s> .  </s>
+<s> . . . .  </s>
+<s> : gateway.2wire.net  </s>
+<s> wireless lan adapter wireless network connection 2: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : microsoft virtual wifi miniport adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : b4-82-fe-18-05-f9 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes wireless lan adapter wireless network connection: connection-specific dns suffix .  </s>
+<s> : gateway.2wire.net  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : realtek rtl8191se wireless lan 802.11n pci-e nic physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : b4-82-fe-18-05-f9 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::ed3b:899c:303:1c72%11(preferred) ipv4 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 192.168.1.93(preferred) subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 lease obtained.  </s>
+<s> .  </s>
+<s> . . . . . . . .  </s>
+<s> : sunday, august 26, 2012 1:47:44 am lease expires .  </s>
+<s> . . . . . . . . .  </s>
+<s> : monday, august 27, 2012 12:31:34 pm default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.1.254 dhcp server .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.1.254 dhcpv6 iaid .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 330597118 dhcpv6 client duid. .  </s>
+<s> . . . . . .  </s>
+<s> : 00-01-00-01-12-f1-a7-e6-00-26-6c-44-6e-79 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.1.254 netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : enabled ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : realtek pcie fe family controller physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-26-6c-44-6e-79 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter isatap.gateway.2wire.net:  </s>
+<s> media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : gateway.2wire.net  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : microsoft isatap adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter isatap.{72233870-6474-4251-96c1-be204065c74f}:  </s>
+<s> media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : microsoft isatap adapter #2 physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter isatap.{21f5e010-fe2e-4143-b1a9-801568e141fd}:  </s>
+<s> media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : microsoft isatap adapter #3 physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter local area connection* 9: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : teredo tunneling pseudo-interface physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes ipv6 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 2001:0:4137:9e76:3ce5:35fc:b4c1:eeaa(preferred) link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::3ce5:35fc:b4c1:eeaa%15(preferred) default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : :: netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : disabled any suggestions would be appreciated!  </s>
+<s> so it's not connected to the router, because it has a 169.xxx autoconfiguration ip-address in stead of getting the usual 192.xxx address from the router via dhcp.  </s>
+<s> i'd remove the wireless connection and the laptop detect it again.  </s>
+<s> you'll have to re-enter the password.  </s>
+<s> if it fails, try a system restore back to when it still worked.  </s>
+<s> if after the system restore it still doesn't work, it might be a hardware issue.  </s>
+<s> some other things to try: - check the wireless switch or the program to enable/disable wireless; those are the things you use in an airplane to switch it off).  </s>
+<s> to confirm that it's hardware, boot from a ubuntu live disk and see if that works - a public hotspot or with a friend - remove the connection and let windows detect it again (you'll have to re-enter the password) kees  </s>
+<s> thanks for your response, kees.  </s>
+<s> i'm not quite sure how to do what you suggested.  </s>
+<s> i have gone through the network and sharing center on the problem desktop to disconnect it from the wireless connection and reconnect it, several times.  </s>
+<s> also, the computer connects to the router automatically every time i restart the computer.  </s>
+<s> i'm not sure how to get the problem computer to &quot;forget&quot; the router password, but i tried changing the password it uses to connect, at which point it failed to connect to the router.  </s>
+<s> then i changed it back to the correct password, and it connected to the router again, but still no internet access.  </s>
+<s> there is no wireless switch on the desktop, the computer runs on windows vista (not ubuntu), and i can't take it to a public hotspot, but i'll see if i can find a system restore point.  </s>
+<s> if that works, i'll post an update.  </s>
+<s> if there are any other suggested solutions, please let me know!  </s>
+<s> it connects automatically, because it's a defined connection.  </s>
+<s> if you remove it totally (like you do with the different connections your laptop found during its life on all places it ever was) you'll have to redefine it.  </s>
+<s> won't harm and might help.  </s>
+<s> although changing the password should have the same effect.  </s>
+<s> still, it was clear from your ipconfig output, that the dhcp didn't work.  </s>
+<s> so it's only a partial connection you now have.  </s>
+<s> if you hover your mouse over the wireless connection symbol on right side of the taskbar, you most likely see something about 'limited or no connectivity'.  </s>
+<s> that's a well known problem ( ). a bad password is one of possible causes.  </s>
+<s> you can run any computer on ubuntu, by just booting from a disk you burn yourself.  </s>
+<s> it's totally independent on whatever it runs when booting from disk (such as windows vista).  </s>
+<s> but if it connects (albeit limited) i suspect some software or setting issue, not the hardware.  </s>
+<s> if system restore doesn't work, and none of 'solutions' you find, a sure solution (although it takes some time) is a clean install of windows vista, back to factory settings.  </s>
+<s> a kees  </s>
+<s> thanks, kees, i did a system restore to 5 days ago, and the internet access was working again!  </s>
+<s> i never figured out how to totally remove a network connection, but it looks like it's a moot point now.  </s>
+<s> as for what caused the problem, i don't know if it was mcafee; i'd read that a recent mcafee update caused people to lose internet access.  </s>
+<s> to be safe, i installed avg on the problem desktop and uninstalled mcafee.  </s>
+<s> who would have thought that after all the connection settings i changed and commands i entered, something as simple as system restore would solve the problem?  </s>
+<s> that's a lesson i won't soon forget!  </s>
+<s> windows often is a mystery.  </s>
+<s> kees  </s>

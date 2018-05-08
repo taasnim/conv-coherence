@@ -1,0 +1,19 @@
+<s> i have an external hdd assembled using a 3.5&quot; 1 tb sata internal hdd and a casing. the unit was powered by the casing adapter and all worked fine until we had a power fluctuation and after that, the drive was not detected and kept creating clicking sounds.  </s>
+<s> going through various suggestions posted on the net, i tried freezing, heating, tapping and everything else there was to do, but to no avail. the clicking continued and the drive would not be recognized.  </s>
+<s> to avoid fluctuations, i had removed the casing & adapter and had connected this hdd directly to an smps, but the clicking went on.  </s>
+<s> however, as i connected another pata external hdd to the molex connector of the smps, the first hdd's clicking came to a halt and the hdd came to life.  </s>
+<s> all drives are now visible in windows and i'm in the process of backing up the data.  </s>
+<s> whenever the pata hdd is disconnected from the smps, the sata hdd gets disconnected and starts clicking again.  </s>
+<s> this is the weirdest thing i've ever encountered and have no clue what's making this happen.  </s>
+<s> why is the presence of another hdd connected to the smps making the sata hdd not work ??? has anyone else come across a similar situation or have any solution ???  </s>
+<s> it was noted in old drives and we chalked it up to a drive that was going to die.  </s>
+<s> without an oscilloscope you won't be able to watch the power supply closely to sniff out why more than one bothers it, but get your data out and move on.  </s>
+<s> that's the hardest thing i find today for folk is to get away from cranky gear.  </s>
+<s> they can't resist tinkering and risking their files on such things.  </s>
+<s> bob  </s>
+<s> thanks for the response.  </s>
+<s> it seems that the smps was faulty.  </s>
+<s> i concluded this from the fact that the clicking sata hdd worked perfectly when attached to another smps.  </s>
+<s> anyways, i'm not relying on the hdd and a backup is in progress.  </s>
+<s> apart from this, i had attached another pata hdd to the faulty smps to check and after being detected, it stopped spinning after 5 seconds and has now completely stopped functioning even with another smps. the &quot;smooth&quot; chip is getting overheated in this hdd and the motor seems lifeless.  </s>
+<s> i guess i blew the smooth chip and am now stuck with a bricked hdd  </s>

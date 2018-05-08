@@ -1,0 +1,23 @@
+<s> recently, i was hired by a client to recover the data on a new macbook pro.  </s>
+<s> they said one day the computer just wouldn't start, so they brought it to the apple store, where they switched out the hard drive.  </s>
+<s> they got to keep the old drive, which i attempted to recover using virtuallab and r-studio data recovery programs and a usb hard drive case.  </s>
+<s> both programs did the same thing: they scanned, and kept finding errors and never even got through 1% of the disk!  </s>
+<s> r-studio even scanned for almost 24 hours and nothing came up from the partition we needed to recover!  </s>
+<s> disk utility was the first thing i tried, and it appeared to have scanned the entire drive (this was about 3 weeks prior to trying the other programs)and found a lot of errors, but was not able to recover or repair the drive.  </s>
+<s> also, the hard drive kept making a pulsating, repeating sound while it was being scanned that sounded like it was trying to read the disk, almost a scraping sound but not quite. the drive did spin up and was recognized by the recovery programs, but it did not mount in os x. i was just wondering if anyone here has had a similar problem, or knows of a better program and/or a good, trustworthy advanced data recovery service she can hire to recover her important data.  </s>
+<s> any help would be much appreciated!! thank you, nick  </s>
+<s> big bucks there are a lot of recovery companies out there but all of them charge a lot of money to recover a disk.  </s>
+<s> expect to pay at least a couple of thousand to recover a decent size drive.  </s>
+<s> i would be tempted to give disk warrior a chance at the disk but from your description of the sounds, i would not hold out great hope.  </s>
+<s> i know it is a little late now, but perhaps your client will now consider a backup strategy, time machine for instance.  </s>
+<s> p  </s>
+<s> was about 22k. the drive was from a novell server and had medical records that the it didn't backup.  </s>
+<s> did the miracle and got it back.  </s>
+<s> that's about the highest i've seen for data recovery but they did get it done.  </s>
+<s> bob  </s>
+<s> if your drive is making sounds, there's a good chance that's there is a hardware issue.  </s>
+<s> ie the heads are scrapping against the platter, which will destroy the drive completely.  </s>
+<s> if the data is very important, i would definitely look at a data recovery service, which is expensive as others have said.  </s>
+<s> if you want to give it a shot yourself, you can always try the freezer method. the chances are slim that you'll be able to recover everything, but you might be able to boot off the osx cd and recover a few files at least. the problem is once the freeze wears off, and it's rather quick, the drive will start to bang again, and damage the disk even further.  </s>
+<s> try free mac data recovery software on download.com  </s>
+<s> &gt; called disk drill, i've read a lot of good reviews  </s>

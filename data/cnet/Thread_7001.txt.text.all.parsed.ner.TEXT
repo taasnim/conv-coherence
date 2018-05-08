@@ -1,0 +1,22 @@
+<s> i am getting stuck on this and i hope someone out there can help.  </s>
+<s> my desktop disk storage has gotten out of controll.  </s>
+<s> at present i have two hard drives on the first ide channel and one hard drive and a dvd/r on the other.  </s>
+<s> here is my delima.  </s>
+<s> i want to eliminate two of the hard drives that do not contain the operating system and replace it with one large one.  </s>
+<s> i want the other slot to become a second dvd/r drive.  </s>
+<s> of the two drives i want to replace one has one partition on it and the other has three.  </s>
+<s> i am thinking i can use ghost to make an image of all drives on a seperat external drive and then install the new large one and copy images to it.  </s>
+<s> will that work?  </s>
+<s> will i be able to keep current drive letter assignments?  </s>
+<s> i am a little gun shy since i don't want to reinstall everything.  </s>
+<s> thanks gary  </s>
+<s> two hard drives and ghost 2003 .  </s>
+<s> . .  </s>
+<s> a. 2 partitions c: os and all apps d: all data b. 2 partitions e: small partition for swapfile f: images of c: and d: if the os gets corrupt ... get the image of c: from f: and restore it with ghost.  </s>
+<s> if drive primary drive dies....replace it and restore c: and d: from the images on f: with ghost.  </s>
+<s> if you get a windfall...then put the images of c: and d: on an external...just in case.  </s>
+<s> trust me, it works and works well.  </s>
+<s> retail versions of hd's usually come with a drive copy utility.  </s>
+<s> you just add the new drive to your system and use the utility cd to copy the image of the hd with your os to the new drive.  </s>
+<s> if you purchase an oem drive, you can download the hd utility form the hd mfg.  </s>
+<s> example: western digital offers ''data lifeguard tools'' for their hd's.  </s>

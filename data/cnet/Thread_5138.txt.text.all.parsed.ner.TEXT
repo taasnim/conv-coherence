@@ -1,0 +1,52 @@
+<s> i have a wireless internet cable connection and one router that was supplied from the cable company.  </s>
+<s> i just got a new laptop with 54g 802.11a/b/g and bluetooth enabled network card in my laptop. the cable company wants to charge me $50 more to connect my laptop to my existing network.  </s>
+<s> if i try to connect my laptop to my own wireless network,it asks for a network id which i don't have. is there anyway i can get this setup without having to dish out another $50 to my cable company?  </s>
+<s> we should be able to save you $50 in these forums.  </s>
+<s> specifically, what hardware did the internet service provider (isp) provide?  </s>
+<s> - cable modem (one device) - cable modem and router (two separate devices) - combined cable modem-router (one device) please tell us the make & model number of the hardware that the isp gave you.  </s>
+<s> you say you have your &quot;own wireless network.&quot;  </s>
+<s> does that mean that you already own a wireless router (other than that which the isp provided)?  </s>
+<s> i have a router/cable modem combo provided by the cable company.  </s>
+<s> it's a netgear wireless cable modem gateway cg814wg.  </s>
+<s> i don't have my own wireless router.  </s>
+<s> i am able to see my own wireless network on my laptop, but i am not able to connect to it since it wants a wap network id number and i don't know what that is.  </s>
+<s> thanks in advance  </s>
+<s> the netgear cg814wg is listed on netgear.com as a combination ''cable modem gateway'' and says you need to contact your isp for support.  </s>
+<s> if your isp configured the cg814wg, they should have given you all the information you need to connect (ssid name, password, etc.).  </s>
+<s> when you contacted your isp, what did they tell you when you asked them what the ''wap network id number'' is?  </s>
+<s> if it is asking for a password when you try to connect, you should be able to learn what it is by going to the router's administration page.  </s>
+<s> if this router was configured by your isp, they should be able to tell you the password without charging you.  </s>
+<s> try looking around your isp's website for help & support links or a faq page.  </s>
+<s> what is your isp?  </s>
+<s> the lap top was able to dedect the network.  </s>
+<s> that is good.  </s>
+<s> if i have not misunderstood you, for the network id, try entering ''default'' (without the quotes).  </s>
+<s> if that does not work, then you need to go into the gateway of the router via its ip address .  </s>
+<s> etc. (supplied), then look in, e.g. the wireless section for the network id (ssid)-where to look depends on the make/model of the router.  </s>
+<s> note that this id can be changed. the gateway address can also be found by run&gt;cmd--&gt;ipconfig /all.  </s>
+<s> furhter note that it seems that the ''ssid broadcast'' at the router may have been turned off,(actually wise to do so) as otherwise, your laptop should have been able to connect automatically once it has detect the network.  </s>
+<s> further note that it may be better to disable the bluetooth if it is not needed.  </s>
+<s> (if the above works, please send the $50.00 to your favorite charity ! )  </s>
+<s> since it wants a wap network id can you provide the full message ?  </s>
+<s> but i do not understand - why wap for a laptop ?  </s>
+<s> wap is for mobile wireless devices such as pda, smart phones... maybe i am missing something ?  </s>
+<s> dude you need to check if you have admin rights to your modem / router.  </s>
+<s> try accessing the box by opening a browser and typing 192.168.1.1 or 192.168.1.0.  </s>
+<s> this should give you access to your box. the screen will request a username and password.  </s>
+<s> the typical user name is admin / administrator and the password could be 12345 or admin.  </s>
+<s> if you cant get past this page hard luck!!! you probably will have to end up shelling out the cash.  </s>
+<s> if you can, please check to see if the dhcp mode is on.  </s>
+<s> this will automatically assign a lan ip to your laptop and your in business!!!.. if this netgear box does not support nat and dhcp it probably means that the provider assigns a address to your machine.  </s>
+<s> if you want to test this go n/w properties on your machine and look for the ip address.  </s>
+<s> if the address is automatically assigned then your box should have dhcp.  </s>
+<s> if there is assigned address (say 192.168.1.2) then change it to 192.168.1.3 or 1.4 and see if you can still access.  </s>
+<s> if you can then assign this new add to your laptop.  </s>
+<s> once more your in business!!!!! if your still denied access it could be due to a mac list restriction.  </s>
+<s> so add your laptops wifi mac to the access list.  </s>
+<s> (note you can do this from your existing machine while your new laptop is on and the wifi mode is enabled).  </s>
+<s> enabling this feature is a great security feature as an add on benifit.  </s>
+<s> there is one more small trick that the netgear box has. it allows for secure access by setting up a pkn enabled password for accessing the n/w.  </s>
+<s> if this feature is on you should be prompted for a password to access the wireless n/w.  </s>
+<s> if your not prompted it means that this feature is not enabled.  </s>
+<s> if it is enabled and you have admin rights to your box then you could change the password to suit your convenience or disable the function.  </s>
+<s> if all of this dosent work have to say i am beaten , but try to figure out what your sp does and do let me know  </s>

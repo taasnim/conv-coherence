@@ -1,0 +1,67 @@
+<s> hey all which card i should go for?? first of all my system specs- processor: amd athlon x2 64 dual core processor 5200+ motherboard: asus m2a-vm 690g chipset expansion slots- 1 x pci express x16 1 x pci express x1 2 x pci hard disk: 1tb wdc wd10ears-00y5b1 ram: two 4gb ddr2 dvd/cd rom drive: sony hl-dt-st dvd-ram gh22np20 network adapters: rtl8168/8111 pci-e gigabit ethernet nic psu: techcom 600 watt i have xfx nvidia 8400 gs right now and i'm totally fed up with this card and so many problems related to it i've gone through some articles and forums and most of them suggest that ati 5670 is better than gt 240 with same price should i go for this one?  </s>
+<s> please suggest me according to the system specs i've provided above.  </s>
+<s> also suggest the name of the vendor like gigabyte, asus, xfx etc which is better thanks  </s>
+<s> it's the one from zotac with fanless, 1gb and is installed on a hp d499t.  </s>
+<s> not any problem and i like the power draw. the entire machine pulls about 99 watts when on a web page or office.  </s>
+<s> and when gaming pulls a gentle 120 watts.  </s>
+<s> this means i didn't have to upgrade the power supply.  </s>
+<s> the 8400/8600s were ok when new but they seem to be failing a lot now.  </s>
+<s> bob  </s>
+<s> check out these benchmarks and note which card performs better in the games and resolutions you're interested in.  </s>
+<s> $90 hd 5670: $80 gt 240:  </s>
+<s> same sys specs as i stated above.  </s>
+<s> i got this zotac gt 240 1 gb ddr5 installed it properly with newest recommended driver 258.96 from nvidia website.  </s>
+<s> i didn't get any problem with graphics for 2 days....though i got some small blue pink like boxes while opening windows firewall....restarted the system and it didn't came after that.  </s>
+<s> but on third day which means few hours before i posted this problem....i started having a strange problem.  </s>
+<s> i play video, be it using any media player, but the computer freezes randomly after doing that.  </s>
+<s> this is what happens(while playing any video only)- sometimes it plays flawlessly sometimes it freezes in the middle for about 2-3(damn) mins and then gets normal.  </s>
+<s> sometimes it freezes then recovers and plays only audio while the video is completely blank.  </s>
+<s> once the system froze, i restarted it and after welcome screen it showed only blue artifacts and boxes having color tones like we see on welcome screen only it takes a lot of time to close any media player from the task manager, system freezes while doing that.  </s>
+<s> sometimes the media player process keeps running, though i had closed it normally by hitting quit button, and at that time system performance shoots up to 50 percent or above.  </s>
+<s> i googled this problem and some of them got this problem but don't seem to find any possible cause other than changing the card(though it didn't worked either for some of them) is there any problem with the card or do i need to update any other thing...like bios...if it could be a bios issue....guide me how to update it.  </s>
+<s> if it doesn't seem that then help me out please!!!  </s>
+<s> my zotac gt 240 1gb fanless card is doing great.  </s>
+<s> no lockups or troubles and it's in a hp d4999t.  </s>
+<s> but your system is one i find many struggle with.  </s>
+<s> it's usually some bios setting, the ram or the owner that thought cpu heat sink compound was optional.  </s>
+<s> too often they think it's a driver.  </s>
+<s> bob  </s>
+<s> i had tested my ram with memtest and also installed and checked them individually...came out with no errors some 8-9 months ago i had replaced my previous card 8400 gs...then they had applied the compound on the heat sink and also updated the bios should i do that again?  </s>
+<s> i mean checking the thermal grease and updating the bios?  </s>
+<s> tell more of the story.  </s>
+<s> until this post i didn't read that it worked for 8 or more months.  </s>
+<s> and who are they?  </s>
+<s> for now forget the memtest.  </s>
+<s> use one stick of ram.  </s>
+<s> bob  </s>
+<s> my previous 8400 gs started working badly and showed jagged lines....this happened some 9 months ago i replaced that 8400 gs card with a new but same model...then &quot;they&quot; means computer hardware technicians at xfx service centre had applied the thermal grease and also updated the bios.  </s>
+<s> and the reason i'm using 2 sticks is that i have 1tb hdd...as the system was giving slower performance with 2 gb...the computer technician at my workplace suggested me to upgrade it to 4 gb....and to utilize 4 gb mem completely i had to install windows xp sp2 64 bit and now this problem after getting gt 240.  </s>
+<s> that's a sad version.  </s>
+<s> i find it to be fine if the drivers are spot on but rarely can i find an owner or shop able to deal with xp 64 bit.  </s>
+<s> my hp d4999t is running without a single issue with the same make, model card but i have windows 7 64 bit and a clean machine.  </s>
+<s> no torrents or that older os that you know to steer clear of.  </s>
+<s> maybe it is the gt 240 but here not a sign of trouble but then again quite a different os and machine.  </s>
+<s> bob  </s>
+<s> i googled this issue and most of the windows 7 users are facing the same problem.....most of them are facing this while playing game.  </s>
+<s> so we can't say it can be an os problem  </s>
+<s> i didn't reveal that many friends and my son has this similar setup without issue.  </s>
+<s> makes me wonder why folk have issues with this.  </s>
+<s> bob  </s>
+<s> i have one pci-e x16 expansion slot.  </s>
+<s> which version, can we say, this slot is in m2a-vm 690g chipset? is it 1.1?  </s>
+<s> because i contacted the customer care regarding the graphics issue and they said that gt-240 shows compatibility with pci-e 2.0 x16....and i should get gt 240 replaced with 9800 gt because it shows compatibility with both 2.0 and 1.1  </s>
+<s> it's well discussed about 2.0 and 1.x slots.  </s>
+<s> so far it makes no diff if you have a 1.x card, 2.0 card and either slot.  </s>
+<s> since i would be duplicating the web here i'll keep it simple.  </s>
+<s> that's not an issue.  </s>
+<s> bob  </s>
+<s> actually i work as a 3d artist in a gaming studio and i use 3ds max 9.0 64 bit as gt 240 was showing problems so i removed it and installed my previous card 8400gs.  </s>
+<s> after installing it was running ok though making the system a little slower.  </s>
+<s> i started 3ds max....but i didn't showed any grid in the viewport.....i imported a mesh but max couldn't render it.....so i went into &quot;customize&gt;preferences&gt;viewports&quot; and changed the driver from directx to opengl.....restarted it initially it hanged...so i restarted the system then i started 3dsmax again and i could see the viewports?  </s>
+<s> so could it be directx problem also?  </s>
+<s> i ran dxdiag no problems found so directx is clear i checked the bios version it's 1404, date 10/92007 it could be old bios problem also then.  </s>
+<s> how latest bios do i need to run gt240...or even 84000gs?  </s>
+<s> how latest version of the bios do i need for cards like 9800gt or gt 240?  </s>
+<s> has the topic changed from board selection to fixing some issue?  </s>
+<s> i know there are issues in 32 bit oses but here as i noted these cards are not giving us any grief.  </s>
+<s> bob  </s>

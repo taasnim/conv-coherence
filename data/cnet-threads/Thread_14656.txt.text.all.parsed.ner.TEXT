@@ -1,0 +1,21 @@
+<s> i presently have a normal home network using cables.  </s>
+<s> my most modern desktop is attached to the internet via a local dial-up connection.  </s>
+<s> i have another desktop and a laptop hooked up the the dial up through a windows xp network.  </s>
+<s> i am interested in going wireless with my home network and not yet going dsl or cable with the internet.  </s>
+<s> is this possible?  </s>
+<s> i think i just need to replace my 10/100 network cards with wireless and i can run the network the same way through win xp. also, would i be able to use my laptop to hookup through hot spots?  </s>
+<s> if you have ics up and working proper, and you have a lan, then all i would need to do is plug in something like a wap11.  </s>
+<s> there are many models like this, so here's a link to give you a starting point -&gt; then for the clients, you put client wifi cards in... bob  </s>
+<s> couldn't i just replace my nic cards with wireless network cards?  </s>
+<s> then and i can run the network the exact same way as i do now through win xp network with microsoft ics.  </s>
+<s> i don't have any wireless cards now, so the wap11 would not be of any use.  </s>
+<s> i am new so if this is a stupid question, please dumb down your answer.  </s>
+<s> thank you, dennis  </s>
+<s> the wap11 is the wifi access point.  </s>
+<s> once you have ics working on your lan, you simply plug that into your lan. the clients get wifi cards and communicate to the wap.  </s>
+<s> no changes to your ics or lan would be required.  </s>
+<s> just plug in the wap, follow it's included instructions and then add wifi clients.  </s>
+<s> since adhoc mode will be very cumbersome, i'll excuse myself from that lengthy discussion.  </s>
+<s> bob  </s>
+<s> before you buy a bunch of wireless network cards you better test it out, wireless is a real disappointment to many people, it just doesn't work that well, and many places can't get wireless working over a whole house, much less to the next room down the hall, you never know how it will work until you try.  </s>
+<s> i have had to wire a few places that expected to be able to go wireless, and could not.  </s>

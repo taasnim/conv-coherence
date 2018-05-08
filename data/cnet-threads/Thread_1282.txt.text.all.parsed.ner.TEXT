@@ -1,0 +1,19 @@
+<s> motherboard: i am looking to buy a new graphics card.  </s>
+<s> i am just a little confused about the different slots.  </s>
+<s> my current graphics card is in a pci slot, and the monitor is connected directly to the card. the agp slot is not next to a bracket, so the monitor cannot connect to it. the actual questions are: 1) should i buy an agp or pci graphics card?  </s>
+<s> and i assume if agp that i would connect the monitor to the motherboard.  </s>
+<s> 2) how would upgrading my 64mb graphics card to something much larger (say 256mb) affect the performance of my computer (in terms of internet browsing, games)? the processor is 1.7ghz.  </s>
+<s> many thanks.  </s>
+<s> pci is a shared bus, agp is not.  </s>
+<s> if you don't have pci-express you should use agp.  </s>
+<s> that's what you're asking.  </s>
+<s> agp may be obsolete, but pci is dead.  </s>
+<s> pci graphics card will cost more and perform less.  </s>
+<s> for internet browsing, keep your current card.  </s>
+<s> for serious 3d gaming (not internet games), budget $100 and get a radeon x1600pro or a geforce x7300gt with 256mb of ram.  </s>
+<s> if all you want to do is upgrade graphics card...agp is the only real choice.  </s>
+<s> it looks to me like your system has an built-in/onboard gpu.  </s>
+<s> how much system ram do you have ?  </s>
+<s> if the door is open to other options....like a new mb and cpu to go along with the video.... the options expand dramatically.  </s>
+<s> for example asrock has the 775dual-vsta which accepts ddr or ddr2, agp or pcie video and a multitude of intel cpus. the question is what are you using the pc for mostly and how fast do you want to go ?  </s>
+<s> vapcmd  </s>

@@ -1,0 +1,17 @@
+<s> hi, just got a actiontec gateway dsl router.  </s>
+<s> router to pc via usb network cable from router to apple air port express everything as far as i know is working as it should with the router, all lights are on and flashing nicely.  </s>
+<s> connecting via the mac i have no problems whats so ever, all lights are fine together with net connection.  </s>
+<s> but on my pc (win xp sp2) after a reboot i can get say 10 minutes if that before i lose all connnectivity, i can't even access the router admin from the browser, all lights on the router are fine.  </s>
+<s> so for some reason my pc is losing the connection to the router, this is under usb, i tried via the network card as well and the same happens.  </s>
+<s> this did happen before i added mac to router.  </s>
+<s> i've run just about all the spy/adware apps i can find and still its happening.  </s>
+<s> i did think it might be the isp but then why wouldn't the mac drop off as well.  </s>
+<s> any one heard of this before or know how to fix it?  </s>
+<s> cheers death = $mill  </s>
+<s> 1. unlike the mac, the pc is fun as you find all the drivers for motherboard, network card that microsoft does not supply.  </s>
+<s> do not use microsoft as a source for the drivers.  </s>
+<s> 2. there can be a power save setting in the usb and network card.  </s>
+<s> set it to &quot;disable.&quot; in closing, i only guide and never supply step by step instructions.  </s>
+<s> bob  </s>
+<s> you should use the airport express assistant, and configured it.  </s>
+<s> as far as i know airport express use 10.xxx.xxx.xxx while the router use 192.xxx.xxx.xxx read the manual... i use manual ip configuration and disable the dhcp... let the router take care of it.  </s>

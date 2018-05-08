@@ -1,0 +1,12 @@
+<s> just picked up a nas box for my seagate 400 gig sata drive.  </s>
+<s> got it connected to my network and in the process i found that the drive needed to be formatted in ext3.  </s>
+<s> never heard of it before.  </s>
+<s> i used the nas and it's software to format the drive and it works perfectly.  </s>
+<s> a short search said ext3 was a linux format.  </s>
+<s> anyone know why the drive had to use that format? is that standard?  </s>
+<s> is the little computer inside that box is running linux and to avoid microsoft's fee for that other file system they went with an open source or free file system.  </s>
+<s> bob  </s>
+<s> it's a gigabit nas for a sata drive with usb ports.  </s>
+<s> was only 29 bucks.  </s>
+<s> but they were out by the time i went to order it.  </s>
+<s> yup its a small cpu running linux.  </s>

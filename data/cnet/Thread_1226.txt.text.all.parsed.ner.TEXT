@@ -1,0 +1,25 @@
+<s> hello im new here, ive had my ibook for about 2.5 years and its been acting up recently, first it just started freezing up, usually with cpu intensive tasks like editing audio but the other day it froze while watching a youtube video, and today i go to turn it on and it freezes in the middle of the os x start up screen.  </s>
+<s> i dont know what to do, im thinking it could be the hard drive but i dont know...can anyone help me out??  </s>
+<s> what version of os x are you running?  </s>
+<s> how much ram is installed.  </s>
+<s> do you have any disk uttility programs?  </s>
+<s> have you run first aid on your drive?  </s>
+<s> can you boot into os x, successfully, using the os x installation disk?  </s>
+<s> p  </s>
+<s> im running the latest os x upgrade i have 516mb ram i ran disk utility a few weeks ago and it was fine i ran first aid also and it claimed to repair anything at present i dont have the osx disk with me but will be trying that later on today thanx, hope this helps  </s>
+<s> as this is an old(er) machine, perhaps you could be a little more specific about the version of os x you are running.  </s>
+<s> i have two machines here with the latest os x upgrade and they are both running 10.3.9 are you running 10.4.9 on that machine?  </s>
+<s> p  </s>
+<s> last time i checked it was 10.4.1  </s>
+<s> run repair permissions, disk first aid when booted from the os x installation disk and see if that makes any difference p  </s>
+<s> thanx for the tip, i tried it out but it didnt work, sux  </s>
+<s> you say that running disk first aid from the installation disk did not indicate that there were any problems with the disk.  </s>
+<s> as you only have 512mb of ram, the minimum for that machine when it was first released, there is not an easy way to check for a faulty sodimm.  </s>
+<s> unless you have a software utility that does that for you.  </s>
+<s> so, the next step is probably an archive and install.  </s>
+<s> boot from the installation disk and choose archive and install from one of the very early options.  </s>
+<s> this is preserve your data and put a new system down on the disk.  </s>
+<s> on completion, it will put your data back where it should be.  </s>
+<s> do not proceed with the installation unless you have chosen archive and install.  </s>
+<s> failure to do so will result in all your data being deleted.  </s>
+<s> p  </s>

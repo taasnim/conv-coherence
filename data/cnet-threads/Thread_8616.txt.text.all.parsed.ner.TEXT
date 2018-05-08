@@ -1,0 +1,7 @@
+<s> i just purchased a xfx geforce 6800 xtreme 256mb agp w/dual dvi that needs system power supply with minimum 450 watts or higher after doing some research i'm not sure what computer to put it in and if i need to up grade the power supply.  </s>
+<s> i have a new dell 1100 with the following specs: intel(r) celeron(r) cpu 2.53ghz 2.6ghz memory slot 1 [dimm_1] 256mb memory slot 2 [dimm_2] 256mb display adapters intel(r) 82865g graphics controller 96mb i also have and older dell 4400: processor, 80531, 1.6g, 0, 400fsb, socket n, d0 dual in-line memory module,1g, 266m, 32x64, 8k, 184 card (circuit), graphics, 16mb, ati technologies inc, ultra, full height i am assuming that the newer 1100 is the way to got but i can't find any information on power supply and i don't want to fry my new card.  </s>
+<s> any info would help.  </s>
+<s> although it's unlikely that either one of those computers will have anything close to a 450w psu, you can find the psu specifications on the psu itself.  </s>
+<s> look at the numbers next to where the power cord enters the case.  </s>
+<s> you may have to open the case if the numbers are on a different part of the psu.  </s>
+<s> the dell 1100 has no graphics expansion slot. the dell 4400 has an agp slot but only a 250w power supply which will need to be upgraded to accomodate the geforce 6800.  </s>

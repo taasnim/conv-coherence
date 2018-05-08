@@ -1,0 +1,20 @@
+<s> hey guys i am just wondering on how to close ports on a linksys router?  </s>
+<s> i have closed a few like 21, 23, 25, 79, 139, 110, 143 & 443 by forwarding them to dummy ip addresses.  </s>
+<s> i done a port test at although all the main ports are closed or stealthed it gave me a list of potential ports that are non-stealthed. the list was .. 123, 146, 623, 901, 902, 903, 1243, 1560, 2001, 2002, 2800, 3000, 3700, 5151, 6776, 7000, 7410, 9696, 10100, 10528, 11051, 12345, 12346, 12348, 12349, 15094, 17569, 20034, 25685, 25686, 27374, 31337, 34763, 35000. is there anyway i can fix this as i cannot forward all them lol.  </s>
+<s> also if anyone has a good port listening program they can suggest i would appreciate it.  </s>
+<s> all those ports don't connect to your machine from the outside world so for all intents they are indeed firewalled.  </s>
+<s> ahh ok ty... it did say they were closed but not stealthed.  </s>
+<s> when an inbound connection to the router is attempted there will be no response.  </s>
+<s> so it's closed and stealthed.  </s>
+<s> can you be explicit and explain where this would be wrong?  </s>
+<s> bob  </s>
+<s> like bob said.  </s>
+<s> . .  </s>
+<s> unless you open the dmz on that router, you're safe.  </s>
+<s> don't get too paranoid.  </s>
+<s> and some port scanning software/web sites will try to sell you something to close those ports.  </s>
+<s> when i tried that site it wanted to set a cookie.  </s>
+<s> why?  </s>
+<s> i don't know, and i denied it and i won't be back.  </s>
+<s> btw, there are almost 40,000 ports on a pc. are you gonna try to close them all?  </s>
+<s> please, don't worry about it.  </s>

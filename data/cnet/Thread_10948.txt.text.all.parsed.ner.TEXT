@@ -1,0 +1,51 @@
+<s> i have the following configuartion: intel pentium iv 2.4 ghz (non-ht) intel d845gebv2 board 512 mb ddr inno3d geforce fx 5500 256 mb, vivo, agp 8x (supporting 4x) yesterday i moved my system upstairs and tried to connect it to the tv and it worked.  </s>
+<s> after about 3-4 hours i experienced some strange hangups (but the card - graphics card) was still working.  </s>
+<s> i removed the card and the hangups discontinued. the graphics card to me was okay.  </s>
+<s> today, when i tried to install the card again in the agp slot.  </s>
+<s> it simply refused to boot up the system.  </s>
+<s> as soon as i start it, it hangs up, no display, no moving forward.  </s>
+<s> no respone whatsoever.  </s>
+<s> then, when i removed the card from the slot, the system works fine (&lt;-- i am on the same system atm).  </s>
+<s> i also noticed one of my ddr was not tight.  </s>
+<s> but i tightened it, and tried to repeat the process.  </s>
+<s> no luck!  </s>
+<s> i also tried to clear cmos by removing the battery/cell.  </s>
+<s> and then still no luck! the card doesnt give any smell.  </s>
+<s> it is still in good condition.  </s>
+<s> no burning sings on it.  </s>
+<s> except that i can't see whats beneath the heat sink.  </s>
+<s> it's the 2nd week since i bought this card.  </s>
+<s> i believe my graphics card is blown?  </s>
+<s> anything to check out?  </s>
+<s> your motherboard supports the intel d845ge chipset.  </s>
+<s> besides your agp connector you have integrated (on board) intel extreme graphics controller and 'integrated retention mechanism'.  </s>
+<s> it is possible that your graphics switched to the integrated and you need to disable it in the bios for your agp card to operate properly.  </s>
+<s> i haven't checked in a long time, but sort of remember for winxp you keep clicking the f8 key while booting to get safe mode & the bios.  </s>
+<s> let me write it this way, whenever i try to put the graphics card in the agp slot and try to restart the pc. it just not responds.  </s>
+<s> i can't go the bios, windows or anything if i have this card inserted.  </s>
+<s> as soon as i put the card out, it auto.  </s>
+<s> goes to onboard graphics and works abs.  </s>
+<s> fine.  </s>
+<s> i tried switching the graphics.  </s>
+<s> the only thing i can do in video config.  </s>
+<s> is select agp/pci, frame buffer and aperature size.  </s>
+<s> i switched between agp/pci, failed!. i cleared cmos, nothing again. the card was working tremendous yesterday.  </s>
+<s> what that suggests?  </s>
+<s> graphics card has gone bad?  </s>
+<s> depending on different computers, many automatically just switch the on board graphics to the new agp card in the bios without doing anything.  </s>
+<s> if you have also tried disabling the on board graphics while the agp card was out and then putting the card in without results, then you may have a defective agp card.  </s>
+<s> agp cards normally come with instructions and a disk.  </s>
+<s> your mobo or computer instructions should also talk about the integrated/and agp enabling/disabling features.  </s>
+<s> sorry i can't help further.  </s>
+<s> altough, i am going to call for repair/replacement on saturday on warranty.  </s>
+<s> but, connecting to tv matters?. can it blow up a card.  </s>
+<s> i inserted another card in the slot.  </s>
+<s> it worked fine.  </s>
+<s> so i am 98% sure its the card now!  </s>
+<s> i have played with my comp on a tv a few times... didnt have any problems.  </s>
+<s> no chance that the card was hit by a static discharge?  </s>
+<s> if everything was properly grounded, sounds like it's just a defective card.  </s>
+<s> it could be that some specific driver files for the card have become corrupted.  </s>
+<s> i seem to remember something like that happening to a friend of mine, however, i can't quite remember how he resolved the issue.  </s>
+<s> probably by removing/replacing the corrupted driver files and then re-installing the card.  </s>
+<s> i also seem to remember something about video card and monitor conflicts...but in that case i don't think the card would've worked at all.  </s>

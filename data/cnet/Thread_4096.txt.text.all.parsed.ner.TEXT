@@ -1,0 +1,79 @@
+<s> i build and repair computers and have for years...i was even a moderator here at cnet for years, so i'm not completely dumb as a rock when it comes to hardware especially, but this has me scratching my head.  </s>
+<s> asrock mobo that takes either ddrii or ddr ram in dual channel configuration.  </s>
+<s> (you can't mix both at the same time obviously).  </s>
+<s> i have two sticks of ddrii in the appropriate two slots (1gb each), and this is what happens.  </s>
+<s> i put in one stick in slot 1, and it boots up fine...take that stick out and put it into slot 3, and it boots up fine.  </s>
+<s> i take the other stick and do the same to it after removing the first stick, and it boots up fine both times.  </s>
+<s> if i put both sticks in at the same time, it refuses to boot up and acts stupid as all get out.  </s>
+<s> i've looked all over the place in the mobo manual and there is nothing to indicate this shouldn't work, since i've tested two sticks of ddr ram at the same time and had no problems with that...only the ddrii. the sticks are identical, both in size and vendor, and since they both work fine as a single mode no matter where i put them, i'm stumped.  </s>
+<s> any suggestions?  </s>
+<s> this is for a computer that i am selling and have to box up by wednesday to ship it out and i would like to get this resolved as quickly as possible. the sticks are about a year old, if that, and had been kept in their silver envelopes the entire time until i was ready to build this system.  </s>
+<s> they've never been installed in anything else because this mobo is the only one i have that takes ddrii ram.  </s>
+<s> thanks for any help or suggestions...... toni h  </s>
+<s> i might have the same/similar mb .  </s>
+<s> . .  </s>
+<s> asrock dual vsta.  </s>
+<s> i've only tried the ddr ...i use it mostly as a bench board but never tried any ddr2 in it.  </s>
+<s> tried bumping the ram voltage ?  </s>
+<s> bios up to date ?  </s>
+<s> vapcmd  </s>
+<s> i think it was kingston ram...it's not marked with anything except the size of 1gb (each stick) wondering....the bios (which probably needs to be updated but i haven't done that and is version 2.058) sees one stick as 1024mb.  </s>
+<s> according to the manual, the limit for this board is 2gb. is it possible that because it's over that limit totally with two sticks that that could be what is stopping it?  </s>
+<s> i'd have to check the bios to see what the voltage is already at.  </s>
+<s> it's been a while since i began putting this together and i was using ddr ram as well with no problems.  </s>
+<s> toni h  </s>
+<s> the latest bios. the manual clearly states 2gb of either ddr400 or ddr2 .... mine boots and runs with either crucial ddr400 or crucial ddr2-800 (defaults to ddr2-533).  </s>
+<s> let us know what you find.  </s>
+<s> vapcmd  </s>
+<s> states 2gb which was why i was wondering if the total being 2048mb according to the bios for one stick at 1024mb was making it go over the limit and refusing to see the second stick.  </s>
+<s> rather than fight this, i think my best bet is to just go out and buy one stick of 2gb from my local computer shop today...i can sell the 1gb sticks on ebay one at a time and recoup my money.  </s>
+<s> lol thanks..........  </s>
+<s> don't get hung-up on the 1000 vs 1024 memory status.  </s>
+<s> in the computer world 1024=1meg(mb), thus 2meg=2048 what your system supports.  </s>
+<s> two things come to mind on your problem.  </s>
+<s> though you have alike ram modules they have a timing issue, its that close.  </s>
+<s> next, you a slightly off ram module or starting to fail and its a weak link.  </s>
+<s> last, because this is a asrock mtrbd., i consider their products bottom-end offering.  </s>
+<s> that means, they could have less than perfect or borderline quality, in other words, cheap.  </s>
+<s> if a bios update is lacking, then do it or at least see what the bios update does, it may correct the problem.  </s>
+<s> i would think if you have access to yet another &quot;matched pair&quot; of ram modules you could test the install and clear alot of questions.  </s>
+<s> under the ram voltage setting, see if a slight tweek helps.  </s>
+<s> check the ram setup and see how its addressed.  </s>
+<s> maybe be more conversation or up it, play with it instead of &quot;auto&quot; setting.  </s>
+<s> tada -----willy  </s>
+<s> to check the ram signature or its chip id, you this pgm.  </s>
+<s> pc wizard 2009.  </s>
+<s> it has proved a great help at times.  </s>
+<s> install and run it will report the ram status.  </s>
+<s> if the info for the ram doesn't match, they are not a matched pair, though they look like it or have failed in some regard have become an unmatched pair if originally.  </s>
+<s> tada -----willy  </s>
+<s> that program might provide an answer but after checking the site i discovered that although it will run from a flash drive or dvd/cd, you have to have an operating system (windows) installed already and i'm not including that with this system, so it's got an empty harddrive.  </s>
+<s> darn the only voltage setting i have available in the bios p1.150 version is auto/high/medium/low....no 'number' setting where i could bump it gently.  </s>
+<s> according to asrock's tech support site, the voltage for ddr2 is 1.8 and i can't tell from my options which that would be. the manual doesn't give much details for bios changes like other mobo manuals normally do.  </s>
+<s> since ram is cheap now, i'll just get one stick of 2gb and try that instead.  </s>
+<s> i have no other systems that take ddr2 ram, so have no other pairs to try.  </s>
+<s> thanks for the suggestions.  </s>
+<s> toni h  </s>
+<s> i re-read your 1st post.  </s>
+<s> you say, slot 1 and 3 are used.  </s>
+<s> that means you really have 4 slots??? or 2 slots in total.  </s>
+<s> quite frankly, how can you boot-up with one ram stick installed, it has to be failing if no os present or stops upon finding none.  </s>
+<s> i think something is amiss here, imho.  </s>
+<s> otherwise, i would think you had windoze installed and thus use pc wiz 2009 to check things.  </s>
+<s> if you have 4 slots, my thinking is your system supports a total of 2gb, then that means 512mb per slot.  </s>
+<s> while it can handle 1gb installed(1 ram stick), it may not cover the difference when 2gb ram sticks are used(a bios update may cover this).  </s>
+<s> if in fact you have only 2 ram slots period then disregard this info. the mere fact, that asrock offers only slow/med/fast adjustment to ram gives you an idea what i mean by cheap.  </s>
+<s> better mtrbds.  </s>
+<s> offer manual values directly to include actual voltages.  </s>
+<s> not to belittle you, but i think you see my bewilderment here.  </s>
+<s> anyways, good luck.  </s>
+<s> -----willy  </s>
+<s> there are two yellow slots for ddr2 and two blue slots for ddr ram.  </s>
+<s> you can put one stick in either of the two yellow slots (slot1 and 3) as single mode and have the computer boot up.  </s>
+<s> you can put two sticks in those slots and have dual channel mode.  </s>
+<s> this works for the blue slots as well.  </s>
+<s> if i put ddr ram into the two blue slots, it boots up fine...it's only the ddr2 (yellow slots) that gets whacked for some reason.  </s>
+<s> hope this explains it better.  </s>
+<s> this is the last computer i will be building for sale so i know not to go with the asrock mobo anymore.  </s>
+<s> give me a reliable abit or gigabyte any day of the week.  </s>
+<s> lol toni h  </s>

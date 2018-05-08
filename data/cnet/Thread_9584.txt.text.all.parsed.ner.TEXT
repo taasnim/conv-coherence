@@ -1,0 +1,43 @@
+<s> i have the following groups of devices on my lan: 1) wifi router, tivo, aluratek internet radio 2) 1 linux and 2 windows xp computers 3) apple mac mini (used solely for photos and online banking) i want group 1 to be in a dmz, isolated from groups 2 & 3, and want to be able to use the apple as the only device online when doing banking.  </s>
+<s> i am thinking of this setup: switch #1 to the wan and connected to: - router #1 for group 1 (this is the wireless router) - router @2 for groups 2 & 3 (this router wired only) behind router #2: - using one port for switch #2 for all of the group 2 devices - using one port for the apple mac mini the plan is that group 1 should not have access to groups 2 & 3 at any time, and any time banking is to be done: - router #1 is unplugged from switch #1 and - switch #2 is unplugged from router #2 leaving only the apple online and only requiring unplugging of two ethernet cables.  </s>
+<s> this may seem like equipment overkill, but i have all the switches and routers that are needed, most of which are unused at the moment.  </s>
+<s> i don't understand enough about switches and routers to know whether one port of either device is effectively isolated from the other ports of the same device.  </s>
+<s> so my question is how to improve/simplify the setup without compromising the objectives, or is this perhaps the minimum configuration to meet the objectives?  </s>
+<s> but the multiple router idea is likely your best shot at this. good luck.  </s>
+<s> i bet you'll really know tcp/ip and more when you're done.  </s>
+<s> bob  </s>
+<s> you must connect switches to routers thus: modem -&gt; router -&gt; switch -&gt; devices.  </s>
+<s> switches do not assign ip addresses.  </s>
+<s> (well, you can reverse it but you need to be a ccna.) second, dmz means open to the world.  </s>
+<s> any device in a dmz is not protected by a router's firewall.  </s>
+<s> are you sure you want this?  </s>
+<s> why not just connect the devices to the router and switch normally, and either enable or disable sharing on specific devices?  </s>
+<s> like bob says, you can make it work by your description, but you will get to learn addressing and sub-nets.  </s>
+<s> i probably should not have used the word dmz as this appears to be a word of art, and i had just used it to mean a &quot;less secure area&quot; where whatever my guests get up to on the wifi might be isolated from our home lan, the tivo can update itself, etc. i have no idea how easy it might be to hack a tivo or an aluratek internet radio compared to a pc, but certainly would not be surprised to learn that they are much easier to get into and i doubt if they operate in a tunneled mode.  </s>
+<s> i have always thought of a port on a switch as a &quot;straight wire&quot; and that if for whatever reason i put a switch in front of a single router, that the router could connect through the switch.  </s>
+<s> but if i understand you, if there are two routers behind a switch (which is connected to my internet connection), each router cannot provide the modem function separately?  </s>
+<s> if so, then if i put the wired router (d-link dl-604) (which functions as the modem and a switch, then connect the wifi router (zyxel p-330 v2) to one of the d-link ports, will this create the &quot;less secure area&quot; for group 1 and which is &quot;isolated&quot; from the other ports on the d-link?  </s>
+<s> i just don't understand how how isolated one port on a switch is from another (i.e., can a node on one port of a switch sniff traffic on another port on a switch?) and this is part of what i would like to better understand.  </s>
+<s> if a guest's pc is compromised and this computer is in use on the wifi, can the compromised pc sniff traffic on the other ports of the wired router?  </s>
+<s> i hope that i am explaining my concerns clearly, but please let me know if not.  </s>
+<s> fairly complex configuration.  </s>
+<s> you may want to look for a router or firewall that allows you to have multiple zones.  </s>
+<s> in your proposed configuration.  </s>
+<s> 1st problem does your isp allow you to have 2 addresses.  </s>
+<s> since all you have is a switch between the isp and each of these routers each will needs its own ip. since both these routers appear to each other as just another device on the internet you should not have to do anything special to protect more that you would to protect from a neighbors router.  </s>
+<s> protecting between devices behind the second router will work as you describe but unplugging stuff is a pain.  </s>
+<s> on a switch it is very hard to prevent devices from seeing each other.  </s>
+<s> first option is to put the ports in different vlans and force them to use the router to see each other. the router would then have to restrict access between the vlans. the other method used mostly in dmz area is to use a more advanced vlan called a private vlan.  </s>
+<s> these restrict communication between machines in the same subnet but still allow access out of the switch.  </s>
+<s> although these options are getting to be more available you will not find them on $20 switches.  </s>
+<s> you simplest solution may be to treat your home network as hostile and use a vpn provider.  </s>
+<s> your traffic would be completely encrypted between you and the provider and no communication is allowed &quot;directly&quot; between your machine and and other machines while the tunnel is up.  </s>
+<s> this is similar to people working from home where you can only access work ips when the tunnel is up.  </s>
+<s> i see our posts overlaped i did see this one.  </s>
+<s> a device on a switch cannot directly sniff traffic on another port.  </s>
+<s> a port is only sent traffic destined for a mac address on that port and any broadcast traffic.  </s>
+<s> you would have to use a special feature in the switch to get it to replicate the traffic.  </s>
+<s> now in theory a compromised machine can do mac spoofing attacks to overflow that table of the switch so that all traffic is broadcast to all ports.  </s>
+<s> not sure how effect that really is but it is a known attack method.  </s>
+<s> you really should always assume your traffic is being sniffed.  </s>
+<s> this is why almost all sensitive stuff is run over https.  </s>

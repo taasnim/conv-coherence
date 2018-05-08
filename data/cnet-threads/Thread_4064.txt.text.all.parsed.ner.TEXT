@@ -1,0 +1,37 @@
+<s> i just installed hdd thermometer and am concerned at the results that i'm seeing.  </s>
+<s> 5 year old maxtor 7200rpm 80gb ultra ata drive runs between 49 and 55 degrees c new seagate 7200rpm 320gb sata drive runs between 43 and 49 degrees c this while running very few programs.  </s>
+<s> zone alarm free edition and avg free edition, windows messenger and aim, as well as firefox to write this post.  </s>
+<s> as far as hard drive usage is concerned, i would imagine that's fairly low.  </s>
+<s> how big of a problem is this?  </s>
+<s> i didn't monitor my hard drive temperatures before installing this new drive.  </s>
+<s> however, as i installed it i noticed there was very little clearance between my 3.5&quot; devices and i thought it might cause a problem.  </s>
+<s> i'm assuming the maxtor was running cooler before putting the new hard drive in but i cannot be sure.  </s>
+<s> if i look for a cooling solution it will probably have to be a new case.  </s>
+<s> my case currently has no fans as far as i can tell.  </s>
+<s> it appears that there is room for a fan below the hard drive tray and also room for a fan at the back.  </s>
+<s> i don't really see how a fan below the hard drive tray will cool the hard drive down.  </s>
+<s> i could see how one at the back sucking air through might though.  </s>
+<s> anyways, if i were to get fans, i'd have to get a new power supply.  </s>
+<s> i have a crappy power supply and it only has enough connectors for what i already have installed...two hard drives, a dvd drive, a cd-rw drive, and a floppy drive.  </s>
+<s> anyways, i guess at a minimum i'm looking at buying a fan and a better powersupply if this is a serious issue.  </s>
+<s> possibly a new case and a new power supply.  </s>
+<s> what do you guys think?  </s>
+<s> is this really serious?  </s>
+<s> should i be unplugging one of the drives until i can get it sorted out or just get it sorted out within a week or so?  </s>
+<s> thanks.  </s>
+<s> see if another temperature program gives you the same temperature.  </s>
+<s> try sensorsview or speedfan.  </s>
+<s> at a minimum, i'd install a rear exhaust case fan.  </s>
+<s> see if you can move the hard drives to a lower position so that a front intake case fan will blow over them.  </s>
+<s> note that even if the front intake fan doesn't blow over the hard drives, having good airflow from front to back can lower overall system temperatures.  </s>
+<s> also, what else can you tell us about the computer (make & model, cpu, video card)?  </s>
+<s> thanks for the advice.  </s>
+<s> it's a homebuilt computer.  </s>
+<s> as far as i can tell there is no easy way to move the hard drives any lower.  </s>
+<s> it's an asus p4p800 se motherboard with a p4 1.6 ghz processor and 640 megs (don't ask why) of pc2700 ram.  </s>
+<s> everything appears to be running pretty cool except for the hard drives.  </s>
+<s> i don't know much about overclocking but if i went with a new case that had a better design for keeping things cool i might end up experimenting a little since i'm not too worried about the hardware other than the hard drives...i'll be upgrading all of it in awhile anyways...if something went wrong that would just accelerate the plans a little.  </s>
+<s> i'll look into the other monitoring programs when i get back to my computer.  </s>
+<s> hdds and other devices.  </s>
+<s> i always leave a space between cd-dvds, hdds or place fans where they can exhaust any warm air the hdds generate.  </s>
+<s> vapcmd  </s>

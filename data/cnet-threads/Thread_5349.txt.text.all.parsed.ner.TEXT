@@ -1,0 +1,9 @@
+<s> i've worked on several computers that turn on as soon as you plug them into the wall.  </s>
+<s> i've worked on others that required you to press the power button after the pc has been plugged in.  </s>
+<s> how do i fix it so that plugging in the computer doesn't automatically turn the computer on?  </s>
+<s> i'm hoping for solutions geared towards the average homeowner (ahem, bob thanks, po  </s>
+<s> bios setting for power if bios is set to power on after power loss or last state change to remain off after power loss insted  </s>
+<s> could it also be wake on lan?  </s>
+<s> maybe somehow the pc interprets the connection of the plug as a signal to power on?  </s>
+<s> thanks for the idea po  </s>
+<s> check all wake on settings and disable them my bet is on the acpi power setting i have seen it before sometimes you can have an acpi bios but when windows gets installed if acpi was not enabled in the bios windows dosen't know its there so no driver gets installed if that's the case and you enabled acpi in the bios you then have to enable it in windows under power settings  </s>

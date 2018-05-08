@@ -1,0 +1,26 @@
+<s> hello, was just wondering if anyone knew how i can have a wireless network set up with mutliple access points but only show up as one wireless network from any pc that wishes to connect to them?  </s>
+<s> does it require a specific type/model access point, if so can anyone recommend any?  </s>
+<s> cheers for any help  </s>
+<s> every access point has a unique ssid and will be shown as such in the client.  </s>
+<s> but i might be totally wrong, and would appreciate to be educated by anyone knowing the right details.  </s>
+<s> kees  </s>
+<s> so there is no way to get them to show up as one wireless network instead of multiple access points?  </s>
+<s> but i'm waiting to be corrected.  </s>
+<s> can you tell more about the circumstances?  </s>
+<s> this is unlikely to be a requirement in a normal home environment, like you and me live in.  </s>
+<s> so i assume it's some business, and then of course, we're talking professional stuff like cingular and t-mobile have for their wifi offerings, and that might make a difference.  </s>
+<s> kees  </s>
+<s> its for a school, just for ease of use by users really  </s>
+<s> you name the waps in some fashion like... scl01 scl02 scl03 this way if one isn't working well they can report it.  </s>
+<s> if you did name all the waps the same (which is not a good idea...) you could be shot or hanged by the people who have to maintain the system.  </s>
+<s> bob  </s>
+<s> i can't say for sure what all is out there that will do this, but i know cisco's wireless products will do exactly what you are after.  </s>
+<s> they are actually pretty nice.  </s>
+<s> a user can log in anywhere, and roam anywhere around the building/campus (where they can get a signal) and the signal will automatically move ap to ap with the best signal with no loss in connectivity.  </s>
+<s> of course you will pay a premium for cisco equipment.  </s>
+<s> there may be cheaper solutions out there.  </s>
+<s> depending on the scope and topology of your network, you maybe able to accomplish this using wireless bridges instead of ap's.  </s>
+<s> 1. the ap has a connection limit.  </s>
+<s> (brick wall issue) 2. all users get to share the single airspace's speed.  </s>
+<s> (slow bus to nowhere issue) 3. if you allow 802.11b connections... (let's go real slow) for a public solution it's best to not entertain that.  </s>
+<s> bob  </s>

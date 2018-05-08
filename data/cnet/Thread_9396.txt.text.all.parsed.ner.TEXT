@@ -1,0 +1,37 @@
+<s> i have an old (4-6ish i think) dell desktop that i use mostly for messing around with various linux distributions (i use ubuntu normally).  </s>
+<s> everything was working fine with a 1gb stick of ram (which i purchased as an upgrade) that had tested fine with memtest when i first put it in.  </s>
+<s> i tried installing windows 7 public beta just as a test. the installation went fine, but then i was unable to boot the computer.  </s>
+<s> i put in a linux live cd (i can't remember what distro) and restored grub so that i could boot the existing ubuntu installation.  </s>
+<s> that too, though, didn't boot, so i put in an ubuntu live cd to reinstall.  </s>
+<s> this is where things get weird.  </s>
+<s> bits of the screen were blacked out and i could not click on anything.  </s>
+<s> this reminded me of a memory error, so i tried memtest again.  </s>
+<s> sure enough, it showed up with an error after a couple of passes.  </s>
+<s> i then replaced the existing stick of ram with an identical piece (from the same kit) and tried memtest.  </s>
+<s> it passed.  </s>
+<s> then i tried to boot ubuntu again from the computer (it didn't boot) and then tried booting ubuntu from the live cd.  </s>
+<s> once again, i got the black marks.  </s>
+<s> i tried memtest and it now fails.  </s>
+<s> in other words, the same stick of ram passed memtest before attempting to boot ubuntu/windows and then failed after.  </s>
+<s> this was true of two sticks of ram.  </s>
+<s> what is going on?  </s>
+<s> here's why.  </s>
+<s> there appears to be some hack tool out there that can rewrite some spds on memory sticks.  </s>
+<s> this is not an offer to detail that in any depth but to bring it up so you know to research that.  </s>
+<s> but ram does fail but outside of that one oddity my answer is no. bob  </s>
+<s> i have heard that a bad motherboard can occasionally cause memtest to fail (which makes sense, since the data transfers from the ram to the software via the mb), but is it possible for this to only occur after some period of use?  </s>
+<s> in other words, could a mb gradually cause a memory error or something?  </s>
+<s> you have the motherboard, the os, the power supply, cosmic rays and we can't stop there as you list possible causes.  </s>
+<s> it really doesn't matter since we can't rely on failed sticks of ram.  </s>
+<s> pull, replace it if you so choose and move on.  </s>
+<s> to diagnose exactly why it failed takes a small lab and a suitcase of cash.  </s>
+<s> replacements are far cheaper.  </s>
+<s> bob  </s>
+<s> actually, that is exactly what i did.  </s>
+<s> i took the stick of ram out and replaced it with a new one.  </s>
+<s> it passed memtest the first time, but after attempting to boot ubuntu it now fails.  </s>
+<s> but looking over your post i can't tell if there are other issues with the hardware.  </s>
+<s> you set the direction of the discussion so let me note that memory failures can be caused by overtaxed power supplies, over heating components (just last week found 2 loose heatsinks) and the bad caps issue.  </s>
+<s> then we have that age old issue of setting the bios for the ram in question.  </s>
+<s> today i find many owners glaze over we we need to discuss exact part numbers, bios versions and more.  </s>
+<s> bob  </s>

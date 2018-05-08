@@ -1,0 +1,37 @@
+<s> hello i want to make a wireless connection between my pc (using dwl-g122) and psp by using unoffical software to pc thanks for who understand me, if not, let me know and i will explain better thank you!  </s>
+<s> you didn't tell.  </s>
+<s> but sony shares how to get your psp on wifi at  </s>
+<s> i know that if i will buy a router i will able to connect easly but i want to do that with my d-link dwl g122 and i need the settings or a software to make it come it must be an unoffical driver(aka the &quot;software&quot;) for dwl-g122 to activate this hardware (d-link dwl-g122) as access point that i will can connect to, i want to make a &quot;gate a way&quot; from the cable modem to the dwl-g122 this is the situation for whom has confused: the internet - &gt; cable modem - &gt; pc - &gt; d-link dwl-g122 - - &gt; psp  </s>
+<s> you want to have the psp connect to the wireless card on your pc, correct?  </s>
+<s> rick  </s>
+<s> correct!  </s>
+<s> the adhoc setup would apply.  </s>
+<s> but you might be asking for more than a connection.  </s>
+<s> but until you decide if its worth asking, this will the the answer.  </s>
+<s> set it up as adhoc and you can connect to the pc. but missing from your post is what such a connection would do.  </s>
+<s> what documentation? the link i supplied.  </s>
+<s> i just want an unoffical driver for dwl-g122 that it will make my dwl-g122 with a purpose such as routher i want that i able to find the &quot;dwl-g122&quot; in the infrastructure mode in psp and i will able to connect and surf in the psp browser i think it called gateaway mode(sharing the cable modem by the &quot;dwl g-122&quot; ).but in the &quot;offical&quot; driver it dosent exsits therfore i need another driver that include gateway mode  </s>
+<s> it appears you want your pc to substitute for the router.  </s>
+<s> i will not help you get this to work but will tell you the articles and methods that were used a few years ago.  </s>
+<s> the problem is that there are so many steps involved and with today's firewalls most owners can't get it to work anymore.  </s>
+<s> since it's a tarpit of issues the smart people don't do this anymore.  </s>
+<s> they get a router.  </s>
+<s> so here goes.  </s>
+<s> you will be installing ics on the pc. you can use this link as example on what to do next -&gt;  </s>
+<s> i success with the first part but the &quot;client&quot; is a psp so i cant do the setting shown there  </s>
+<s> you have to understand networking.  </s>
+<s> some can't deal with anyone telling them a generic answer such as &quot;set the gateway&quot; but need a video or pictures that match the exact screens you'll encounter.  </s>
+<s> i have yet to find a cure for such an issue.  </s>
+<s> bob  </s>
+<s> its true that i am not a network operator in my job.. if i was know what to do i dont aks for help here i just do it.. anyway.. i found this: this is a way to play multiplayer games in my psp through ad-hoc, but still no infrastructure connection i success to do what in this guide (you can translate it in google: thanks for helping but the problem still dosent slove.. thanks for who wants to help  </s>
+<s> the cheapest i found is a refurb at frys.  </s>
+<s> 20 bucks.  </s>
+<s> since you can't accomplish the adhoc and ics setups you need to move to the usual solutions.  </s>
+<s> i know that i can buy but i want to use with what i have sorry that i dont mention yet but with &quot;msi us54g&quot; i was able to make a access point with this chipset and i success to connect to him with my psp and surfing internet and playing multiplayer games because in this chipset there is the &quot;gateway mode&quot; that sharing my cable modem throw &quot;us54g&quot; to psp or other devices, but now it broken therfore i bought the dwl-g122 eventualy its quite the same device (the &quot;us54g&quot; and the g122) but in this device there is no &quot;gateaway mode&quot; so i ask from you to give me another driver that include that thanks for who will help now i am sure you got me please help!  </s>
+<s> try other wifi gear since you seem to have hit a dead end with the dwl-g122.  </s>
+<s> there isnt out there some generic driver that i will able to configure the dwl-g122 as a access point or gateaway it must have some  </s>
+<s> all that we have has been discussed above.  </s>
+<s> sometimes owners really don't want to dive into it so they move to the router and software like network magic.  </s>
+<s> in closing, if there was a clue in your posts i'd point it out but as you present the issues there is nothing amiss unless you didn't do the setup proper or firewalled it.  </s>
+<s> bob  </s>
+<s> i guess i will move to routher  </s>

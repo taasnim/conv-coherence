@@ -1,0 +1,17 @@
+<s> somebody please help!!! my computer will not de-fragment!! i have no idea why.....  </s>
+<s> the most common cause for this is there is one or more pgms.  </s>
+<s> already running in the bkgrd.  </s>
+<s> doing thier tasks, thus the defragger repeats when in conflict.  </s>
+<s> i suggest you hit the clt+alt+del keys once and see what's running, and kill the tasks not required(leave ms ones) for the time being and allow the defragger a chance to finish.  </s>
+<s> you can also, check the &quot;startup&quot; of files to see if you can disable during such defragging.  </s>
+<s> if your systemtray is more than 3-4 icons present, check them to disable, try one at a time for best operation.  </s>
+<s> check into areas... good luck -----willy  </s>
+<s> you didn't note the os plus what hardware issue you feel may be affecting this.  </s>
+<s> hint: you posted in the &quot;pc hardware forum.&quot; for windows 9x/me this article covers it all -&gt; this applies to defragmenting as well as scandisk.  </s>
+<s> what i often see is any number of responses that contain bits and pieces of what's in this article, but why not have it all.  </s>
+<s> in closing, if you feel this is a hardware issue, tell about what hardware issue you have.  </s>
+<s> bob  </s>
+<s> turn computer on and while it is booting in black/white screen, keep pressing the f8 key until an option appears that offers safe mode.  </s>
+<s> then run defrag.  </s>
+<s> when finished, shut down and restart, and computer will boot normally.  </s>
+<s> hae you tried scandisk first?  </s>

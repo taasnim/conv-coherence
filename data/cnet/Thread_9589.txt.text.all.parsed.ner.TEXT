@@ -1,0 +1,21 @@
+<s> i had a hard time with viruses.  </s>
+<s> so i decided to format c: and reinstall xp.i am using two ide hards of 40 gig and 160 gig.  </s>
+<s> i have xp's on both the drives but i am working with the xp on 40 hard disk.  </s>
+<s> so i booted with an xp cd, although i was supposed to format only the partition c: unfortunately i had formatted the whole 40 gb. that way i lost all the data on my 40.(because there it didnt show me the separate partitions of disks) after installing the xp when i open the &quot;my computer&quot; i realised that the volumes on my 160 is not visible there.  </s>
+<s> so i opened disk mgt in computer mgt wondering there i saw both the disks(40 and 160).  </s>
+<s> but for the 160 it was visible only a one partition and there it shows, that partiton takes the whole capacity of the disk.  </s>
+<s> but i had 3 partitions on my 160.  </s>
+<s> my all the important data are on my 160.  </s>
+<s> i suppose the data is still there since i didnt format that.  </s>
+<s> so can anyone please help me to access the partitions on my 160.  </s>
+<s> thanks in advance.  </s>
+<s> 2. xp doesn't support over 127gb drives until sp1 is installed (or later sp versions.) i've seen your story before and the owner panics and before they install sp2 or such they panic and begin using data recovery programs which only screw up the drive further.  </s>
+<s> stay calm and install the service packs.  </s>
+<s> bob  </s>
+<s> no i have sp2.  </s>
+<s> i tried with partion doctor and had a look at it.  </s>
+<s> thanks!  </s>
+<s> i could see my lost partitions there.  </s>
+<s> but since it is a demo version i cannot save it.  </s>
+<s> so if you know free software pls let me know..  </s>
+<s> &quot;pcinspector file recovery pcinspector file recovery is able to find and unerase deleted partitions on your hard disk &quot; more at bob ps. to save getting a bum/bad reply, always supply what os is in use.  </s>

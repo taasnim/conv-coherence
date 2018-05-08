@@ -1,0 +1,49 @@
+<s> hi all, i've got an hp system running win98 that i've had for about 3 years.  </s>
+<s> 512mb ram, 30gb open on 90gb drive which was recently defragged.  </s>
+<s> recently the system became very slow to boot and seems to stutter as it comes up.  </s>
+<s> i'll get the windows background but then everything seems to slow to a crawl, mouse, if it moves, is very delayed and the system seems occupied with something.  </s>
+<s> i noticed that the disk lite, usually full on when booting, only pulses once every few seconds.  </s>
+<s> programs, with the exception of web access, seem to run fine.  </s>
+<s> now any web access will bring the system to a halt. the globe icon will move in jerks every few seconds and the page will very slowly (5 minutes) load.  </s>
+<s> other machines on the same router will access the web without problem.  </s>
+<s> i should add that a week before the slowdown started, i had been trying to get the three machines connected to my router to talk to each other.  </s>
+<s> i used microsofts network tool disk but was not successful in getting the win98, win2000 and winxp machines to share files or the printer connect to the problem machine.  </s>
+<s> perhaps the problem is related to my attempt to network.  </s>
+<s> any help on troubleshooting this problem would be greatly appreciated.  </s>
+<s> rick  </s>
+<s> 3i have seen more problems with hijacked browsers in the last month or so than any time in the past. the systems with the problems run extremely slow and get constant popups as well as being redirected almost all the time to web sites that appear to be help sites but aren't.  </s>
+<s> does this describe anything you are seeing?  </s>
+<s> if it does then you need to download adaware (lavasoftusa.com) and cwshredder for starters and try and clean your system up with them.  </s>
+<s> another cause of the problem you describe is a bad hard drive that is just starting to go.  </s>
+<s> there are a number of hits on goggle about slow boots and a whole bucket load of reasons why it happens.  </s>
+<s> many of the post have to do with file+print sharing, since you mentioned you were playing in this area and could not get it to work you might want to go back and see if these items are turned off.  </s>
+<s> jmarchi and bob b are right.  </s>
+<s> to expand on jmarchi i suggest, and i've seen it a thousand times, that you use this solution.  </s>
+<s> install and use these free products every day.  </s>
+<s> adaware (lavasoft) spybot search and destroy (patrick m. kolla) spyware blaster (javacool) avg anti-virus (grisoft) beware of fake sound alikes esp.  </s>
+<s> copies of spybot.  </s>
+<s> if you use kazza or i-mesh or other file share tech,delete it, run the anti-ad progs, then reinstall and note the progs that your sharing prog installs (so you don't delete them later and ruin your file share).  </s>
+<s> also get: scottie the guard dog from winpatrol it stops changes to your startup, the addition of mysterious tool bars, and can kill a program immediately when control-alt delete won't do it.  </s>
+<s> also get: sysgate personal firewall (sysgate)  </s>
+<s> thanks for all the hints so far.  </s>
+<s> this win98 systems has a hardware firewall (router) certified by using shields up, running norton internet security (2003) updated daily on boot-up.  </s>
+<s> ad-aware and spybot s&d run at least weekly and i've tried that several times since this started.  </s>
+<s> to clarify, this problem most effects boot-up speed and then any access to the internet.  </s>
+<s> i can run half-life and never see a stutter.  </s>
+<s> on boot-up, i was used to hearing the moboard health check beep and then the hd would fire up and continue loading.  </s>
+<s> now, the hd light will come on hard until my screen background comes up and then the drive led goes off, only to come on once ever few seconds.  </s>
+<s> this goes on for maybe 3 - 4 minutes and then finally the led will go hard on and the machine finishes loading.  </s>
+<s> programs, except for ie, appear to work fine at this point.  </s>
+<s> when loading a page, the ie globe will move only every few seconds and then not very much.  </s>
+<s> something is interrupting program execution.  </s>
+<s> i suppose i could turn all networking function off and see what happens.  </s>
+<s> after this started, i went back in and turned off file & printer sharing.  </s>
+<s> checking the task list doesn't turn up anything unexpected.  </s>
+<s> watching the network i don't see anything moving in or out unless it's something i commanded.  </s>
+<s> this may be a hardware (hd) problem but i suspect i've done something that's causing congestion or confusion for the os - just wish i had some idea how to track it down and fix.  </s>
+<s> thanks again for trying to point me in the right direction.  </s>
+<s> rick  </s>
+<s> just over at my dad's house and a cdrw drive had failed. the machine worked pretty well, except for a long boot time (over 5 minutes.) i spotted a clue it was the cdrw and for a test boot, shut off the power, unplugged the suspected ide cdrw and the machine booted in less than one minute.  </s>
+<s> you have to try such things and look for any clue you can. in closing, many machines i see are &quot;badly configured.&quot;  </s>
+<s> yes they work, but it's just bad practice to have a cdrw on the second channel as slave and no master.  </s>
+<s> bob  </s>

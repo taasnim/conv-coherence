@@ -1,0 +1,39 @@
+<s> hello, iv recently been experiencing very poor network quality.  </s>
+<s> i also just upped my cable speeds to 12mbps but it feels like it slowed down due to all the disconnecting.  </s>
+<s> i have a motorola surfboard sb4200 cable modem which is about 6 years old and a linksys wrt54g wireless router which is almost 4 years old.  </s>
+<s> when i first set up my home network, we only had 2 computers connecting to the internet, a compaq desktop pc which is connected via cat-5 to the back of the router and an hp laptop that connects over the wireless.  </s>
+<s> recently our family has added 2 more laptops and an xbox 360 to the network.  </s>
+<s> all was good for about 3-4 months then we started getting disconnected frequently.  </s>
+<s> iv had people tell me its my network security, so iv tried non at all, wep, and wpa, all giving me nothing.  </s>
+<s> i tried flashing the router with dd-wrt, nothing changed at all, still getting disconnected randomly.  </s>
+<s> its like the router has a mind of its own.  </s>
+<s> iv also been told to trade in for a new modem, which is what i will end up doing if nothing else works.  </s>
+<s> i would really appreciate some help.  </s>
+<s> read as it stands today there is no place to hide in &quot;no-security&quot; and wep.  </s>
+<s> i've seen too many wifi setups failing and fixed too many with the move to wpa.  </s>
+<s> + -&gt; change the rf channel.  </s>
+<s> try 1 then 5 or 6 then 11. if need be, get wired. the less wifi clients the better.  </s>
+<s> also, don't expect the move to wpa to instantly knock the pest off your back.  </s>
+<s> i had one system that they attacker didn't give up for days.  </s>
+<s> hope this helps, bob  </s>
+<s> iv tried both of those, and its not my wireless security, i think its just the fact that my modem and router are farely old and have been under alot of strain that they cant keep up, im just waiting for someone to confirm this with me.  </s>
+<s> that is known to cause issues on wifi routers. the cure is to ... get wired.  </s>
+<s> this area is fairly new so you won't get too many to flatly state this but the last year has me writing this. the security angle is still a possibility since we had that one instance where the attacker was clogging up the channel for days.  </s>
+<s> it was not friendly and about a week later the client is finally happy that we solved it.  </s>
+<s> those first few days were rough.  </s>
+<s> as to old router it could be.  </s>
+<s> our tech carries spare routers to make a quick switch when that is the suspect.  </s>
+<s> routers are cheap when the man or woman is on the clock.  </s>
+<s> bob  </s>
+<s> unfortunaly i wasnt blessed with a house prewired for me, it would cost time and money to wire all my walls.  </s>
+<s> and its also gonna cost me an extra 30 bucks a month for another ip from my isp to run on the downstairs part of my house.  </s>
+<s> i think i just need a new router, i just dont really know what kind, i want a g rotuer that is strong and i will be able to get signal throughout my 2 story house  </s>
+<s> i hope you realize that in the us the fcc limits the power output of said products.  </s>
+<s> so all output the same &quot;strength&quot;.  </s>
+<s> those with mimo and other tricks help but offer no more strength than any other router.  </s>
+<s> you can focus the signal with antennas and relay it with repeaters or bridges. the biggest obstacle would be an owner that wants a &quot;guarantee.&quot;  </s>
+<s> there is none since it's uncontrolled rf air space.  </s>
+<s> however we can improve it with the items noted.  </s>
+<s> so it all comes down to buying the parts and implementing.  </s>
+<s> bob  </s>
+<s> w/e im just gonna get a new router and modem...  </s>

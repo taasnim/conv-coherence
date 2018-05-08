@@ -1,0 +1,7 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (VP (VBN lenovo) (NP (QP (RB ideacentre) (CD k230)) (NN desktop)))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (VP (VP (VBN removed) (NP (NN vista)) (PP (IN from) (NP (DT that)))) (CC and) (VP (VBN installed) (NP (NP (NNS windows)) (VP (ADVP (RB xp)) (VBN sp3) (PP (IN on) (NP (DT that)))))))) (. .)) )
+(TOP (S (SBAR (IN after) (FRAG (SBAR (IN that) (S (NP (DT the) (NN camera)) (VP (VP (AUX is) (RB not) (VP (VBG working) (ADVP (RB so)) (SBAR (WHNP (WDT what) (NNS settings)) (S (NP (PRP i)) (VP (AUX have) (S (VP (TO to) (VP (VB make) (PP (IN for) (NP (DT that) (NN ??))))))))))) (, ,) (CC and) (ADVP (RB also)) (VP (ADVP (RB cannot)) (VBP play) (NP (DT any) (NNS games) (SBAR (IN on) (S (NP (PRP it)) (VP (VBZ ..))))))))) (. .))) (VP (VB .please))) )
+(TOP (S (VP (VB help) (NP (PRP me))) (. .)) )
+(TOP (S (SBAR (IN since) (S (NP (PRP you)) (VP (MD can) (RB n't) (VP (VB find) (NP (DT a) (NN camera) (NN driver)) (PP (IN at) (NP (NN lenovo.co))))))) (PRN (-LRB- -LRB-) (S (NP (PRP i)) (VP (AUX did) (RB n't) (VP (VB look) (PP (IN for) (NP (PRP you)))))) (-RRB- -RRB-)) (ADVP (RB just)) (VP (VB restore) (NP (PRP it)) (PP (TO to) (NP (NN factory))) (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ works) (ADVP (RB again)))))) (. .)) )
+(TOP (S (VP (VBG locking) (NP (PRP it)) (ADVP (RB here))) (. .)) )
+(TOP (S (VP (VB see) (NP (NNS kees)))) )

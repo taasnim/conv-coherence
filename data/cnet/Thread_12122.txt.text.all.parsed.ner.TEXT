@@ -1,0 +1,38 @@
+<s> sorry if my question is stupid, but i currently use a cable modem and am interested in networking my other two computers in order to have access to the internet on all 3. i called my provider and they made it sound as simple as buying a wirless router and hooking it up to my cable modem and that that is all i have to do.  </s>
+<s> my question is, is it that simple?  </s>
+<s> do i only have to by a router and install it to have access for the other two?  </s>
+<s> any help you could offer would be great!!!! thanks, steve  </s>
+<s> millions use the router setup.  </s>
+<s> it's now a commodity or common solution.  </s>
+<s> it's a little untrue you have to do nothing but hook it up.  </s>
+<s> you may have to update the router's firmware or even configure it.  </s>
+<s> bob  </s>
+<s> first of all what you should do is check with your isp to see if they allow sharing like you want to do.  </s>
+<s> i've heard that some providers can detect if you are doing &quot;sharing&quot;, and try to prevent you, or want charge you more.  </s>
+<s> other isps don't care if you &quot;share&quot; (or at least they don't bother to monitor such activity).  </s>
+<s> if your isp will just let you &quot;share away&quot;, a &quot;wireless router&quot; might be what you need, but not necessarily.  </s>
+<s> if your pcs are located all over your house, yes, that might be adviseable, but then you'd need &quot;wireless client&quot; devices for your pcs, too.  </s>
+<s> however, if they are all in the same room, you would not need a wireless one.  </s>
+<s> setting up a home network is fairly straightforward.  </s>
+<s> i am taking a class in wireless networking.  </s>
+<s> last night, during the &quot;lab session&quot; part of the class we were supposed to setup an &quot;access point&quot;. the one i was given was brand new, never been opened.  </s>
+<s> it was a linksys product, but i don't remember the model.  </s>
+<s> it was an &quot;all-in-one&quot; product which included a router, wireless access point, and ethernet switch.  </s>
+<s> i had never seen, nor laid hands on such a device before.  </s>
+<s> i just took it out of the box, and started hooking it up.  </s>
+<s> i thought the instructions left a bit to be desired, but i just messed around with the device.  </s>
+<s> i think the net result, though, was that i made no changes to it from the default configuration.  </s>
+<s> what had to be configured was the pcs.  </s>
+<s> i had two pcs that had previously been configured with wireless nic cards, and two pcs that did not have wireless nics.  </s>
+<s> i won't bother you with the rest of the details for now, but i will say it was pretty easy.  </s>
+<s> in about an hour and a half i had all of 4 pcs going out onto the internet.  </s>
+<s> if i were hooking up a home network for the first time, i'm sure i would feel much more comfortable if i could see one that had already been set up.  </s>
+<s> if you have children, perhaps they have friends who have home networks.  </s>
+<s> perhaps one of them might permit you to visit them, and see how it was done.  </s>
+<s> one more thing.  </s>
+<s> if you &quot;go wireless&quot;, be sure to read up a bit on wireless security.  </s>
+<s> enter &quot;tips on wireless security&quot; into a search engine, like google, and you'll quickly find plenty of good reads.  </s>
+<s> at the very least, enable &quot;wep&quot;.  </s>
+<s> depending of the vendor, they might call it 64-bit or 128-bit encryption, or something else in their configurations.  </s>
+<s> there are plenty of folks who just love to drive around neighborhoods with wireless laptops in their cars, and look for houses who have setup wireless networks.  </s>
+<s> and, if you have left the security features disabled, they will just help themselves to your network. the security features can be hacked, but at least if you've enabled them, you stand a chance that the &quot;war-driving&quot; hacker, will just drive down a few houses or blocks, and help themselves to a network that is completely open.  </s>

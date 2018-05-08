@@ -1,0 +1,16 @@
+<s> i have a hp m480n media center pc. its about a year old and i was given the media ctn upgrade, 2004 to 05. now the my tv section won't recognize my tv signal,it did before.  </s>
+<s> this version is suppose to be able to use two tv's, but my 2004 pc has only one tv tuner card.  </s>
+<s> i'm wondering if i have to go back to my original operating system- media ctn 2004 windows xp, for this to work with my tv again.  </s>
+<s> hp listed my computer as able to receive the upgrade.'it was free'.  </s>
+<s> anyone have any idea's?  </s>
+<s> its a pentium 4 3.2ghz mem-1024 mb 3200ddr video- nvidia geforce 5200 w/128mb-dvi-out,tv tuner card with fm tuner.  </s>
+<s> windows xp media center 2005  </s>
+<s> just because mce 2004 would work with the tv tuner in your pc dosn't mean that it will work with mce2005.  </s>
+<s> call hp to find out about drivers.  </s>
+<s> john  </s>
+<s> intervideo dvd is the problem.  </s>
+<s> it stops the tv decoder from working.  </s>
+<s> remove it from add/remove software.  </s>
+<s> than download an update intervideo dvd software from hp and install it.  </s>
+<s> as soon as i did this the tv worked again. the answer came from an online hp tech.  </s>
+<s> i didn't see what one had to do with the other, but that conflict was the problem.  </s>

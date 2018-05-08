@@ -1,0 +1,18 @@
+<s> i have bought a new 160 gb sata seagate hdd and i already use a 40 gb pata samsung hdd.  </s>
+<s> after i add the new sata to my pc will there be any compatibility issues between the two disks?  </s>
+<s> any booting delays etc? can anyone shed some light on this??? my motherboard supports both sata and pata hdd's, intel d101ggc is the model.  </s>
+<s> all i can offer is that i had to tinker with the bios and add a driver to the os. sadly what i did doesn't apply to all other pcs.  </s>
+<s> there is or was not compatibility issue but there definitely is a issue with how well they document this.  </s>
+<s> bob  </s>
+<s> and as far as compatibility goes, you problaly won't notice a thing especially both uses as an internal drives.  </s>
+<s> thanks guys... even i hope there is no issues as such....am planning to use the new sata as the master and the present pata 40 gb as the slave.  </s>
+<s> hope everything goes fine.  </s>
+<s> read our xp forum you find many posts about people having difficulty installing xp to sata drives.  </s>
+<s> thankfully there are now thousands of articles how to on google.  </s>
+<s> bob  </s>
+<s> you should have said that in your opening post, that way you would have got the right information to start with.  </s>
+<s> as bob said adding a hdd and adding & changing it for boot drive, is not the same thing.  </s>
+<s> and your pata should still be master if nothing has been change.  </s>
+<s> your sata are actually a scsi device.  </s>
+<s> make sure to change the boot sequence if that will be your os drive.  </s>
+<s> thanks for the input guys...the help here has been wonderful.....:-)  </s>

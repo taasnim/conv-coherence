@@ -1,0 +1,41 @@
+<s> i have a networking question.  </s>
+<s> i currently have 3 computers that seem to refuse to network to each other.  </s>
+<s> computer one is a laptop with a 1.13 ghz pentium 3, 256 mb of ram and winxp.  </s>
+<s> computer two is a desktop with a 2.0 ghz pentium 4, 512 mb of ram and winxp computer three is a desktop with a 2.14 ghz amd athlonxp 2600+, 1,536 mb of ram and winxp.  </s>
+<s> i have a netgear mr314 broadband router, and a 802.11b card for the laptop.  </s>
+<s> i had the two desktops networked (wired) 10/100 and it worked fine, until the amd system went down (psu problems) after i fixed the amd system the two desktops wouldn't network.  </s>
+<s> the laptop has never worked with the card that was bought for it.  </s>
+<s> any suggestions (netgear's support thing wouldn't let me send the support e-mail, i mailed the laptop manufacturer) i only care about getting all 3 to work because i want to share a broadband connection, and since i have the hardware i don't plan on buying anything but a cable modem, here is my second question.  </s>
+<s> should i buy a cable modem or let my isp provide one for me? the local electronics store only had one overpriced, motorola model.  </s>
+<s> i looked on the web at tigerdirect and newgg.  </s>
+<s> most of those modems seemed pretty expensive, around $50. any help at all...  </s>
+<s> you do not buy a cable modem, you let your connection provider supply it and connect your router to that.  </s>
+<s> you need to set fixed ip's on the 2 desktops and the laptop and see if you can ping the ip of the other systems while connected.  </s>
+<s> if you can ping then you can get the internet working, file sharing will also be possible.  </s>
+<s> when you connect up to the router select start/run type cmd and hit enter or ok. then type ipconfig on each system.  </s>
+<s> what ip does it show your network card using on each system?  </s>
+<s> you should get a different ip for each system, in the 192.168.x.x range.  </s>
+<s> if you don't get that then the router is not handing out addresses.  </s>
+<s> you can hard code the address by going to tcp/ip properties for the network connection and specifying the ip. once you do that you can then ping the ip of the other system to see if you can see it on the network.  </s>
+<s> actually the amd system is saying its ip is somthing like 4.227.22x.xxx should i go and assign the ip addresses these machines had before they crashed (i believe the other desktop retains its old ip, it just has a .1 or .2 and so on up to 4) i could just make each computer have the address it would have been given right?  </s>
+<s> please ignore my other 2nd post.  </s>
+<s> it didn't read my network connection, it read my modem, my bad.  </s>
+<s> ok the old desktop is getting the correct address from the router. the amd has 2 network connection ports.  </s>
+<s> neither of them can renew their ip address from the &quot;repair&quot; button.  </s>
+<s> i cannot ping the older computer.  </s>
+<s> could you please be more descriptive on how to get into the screen to assign my computer an ip address.  </s>
+<s> thank you  </s>
+<s> an ip like you mention makes no sense at all, no router would assign an ip like that.  </s>
+<s> you need to be working with the 192.168 range, so that it is private.  </s>
+<s> it could be your router has a problem, you might try resetting it and reconfiguring it, but the address you describe is not within the range handed out by any router i have seen, unless someone messed with it quite seriously.  </s>
+<s> give one system an ip of 192.168.1.2 and the other 192.168.1.3 and see if you can ping one from the other.  </s>
+<s> to set the ip, open network connections in control panel, right click the local area connection and select properties.  </s>
+<s> double click on tcp/ip and you can set the ip address right there.  </s>
+<s> amd based systems don't network with just microsoft's offerings.  </s>
+<s> you get to download and install motherboard drivers and maybe lan card drivers.  </s>
+<s> easy to break by accepting a driver from windows update (hint: don't!) the same story for the other machines.  </s>
+<s> microsoft rarely gets the lan driver proper.  </s>
+<s> in closing, any install of zonealarm promptly kills off networking for new network builders.  </s>
+<s> they need to uninstall such and disable icf until the network is up.  </s>
+<s> also, home made cables are a no-no for beginners and seasoned builders know what issues a hand made cable brings.  </s>
+<s> bob  </s>

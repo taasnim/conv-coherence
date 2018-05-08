@@ -1,0 +1,47 @@
+<s> i have a 2gb flash drive, vendor unknown, (bought from ebay), 4 computers all running under win xp home, with two desktops and two laptops. the problem: i put two folders, each containing several mp3 files on the flash drive called &quot;medialink&quot; and &quot;mrkeen&quot;. the drive is written using my ibm desktop.  </s>
+<s> after writing the files, i read them to see that they are ok. then i eject the flash drive using the ejection software in the system tray, then replug the drive and look again at the two folders.  </s>
+<s> now one of them is empty!  </s>
+<s> where did the files go?  </s>
+<s> how do i retain them?  </s>
+<s> it didn't used to work this way.  </s>
+<s> how do i determine the cause?  </s>
+<s> thanks for any help.  </s>
+<s> simplest is to reboot your pc and replug in the drive.  </s>
+<s> when you eject the media, versus just pulling it out which should be ok for flash unless you changed the drive config, the pc disconnects the drive.  </s>
+<s> when you replug in, pc takes a while to detect it and the media.  </s>
+<s> you may have checked for folder before the autoconfig finished.  </s>
+<s> faulty even.  </s>
+<s> did you do a chkdsk on the drive already?  </s>
+<s> kees  </s>
+<s> i did a check of the flash drive by starting my computer &gt; select drive &gt; properties &gt; tools &gt; error checking.  </s>
+<s> it said the drive was ok. but, i'm not sure it is ok, because i can do the same things with another flash drive, and there are much more predictable results.  </s>
+<s> does anyone have suggestions about how to thoroughly check a flash drive to verify its condition?  </s>
+<s> are there certain software utilities which can be employed, available somewhere on the internet?  </s>
+<s> by the way, i did reboot the computer and replug the flash drive. the missing files are still missing.  </s>
+<s> i found a utility (flash check v1.08, freebie) on the internet.  </s>
+<s> i ran tests on all my flash drives, and all had zero errors except the noname 2gb drive which was giving me trouble.  </s>
+<s> this drive gave me about 260 errors!  </s>
+<s> this flash check utility seems to be a very handy item.  </s>
+<s> if anyone knows of a better checker, please let me know.  </s>
+<s> i also observed that the board and usb connector on this troublesome drive is somewhat loose in its case.  </s>
+<s> i suspect the following: i have a clock radio next to my bed which permits playing mp3 files stored on a usb flash drive.  </s>
+<s> i had used this drive the night before.  </s>
+<s> it is quite possible that sometime during the night i hit this drive while it was still plugged into the radio and did it some damage.  </s>
+<s> it sticks out like a &quot;sore thumb&quot; and could easily be harmed. the lesson learned: don't leave the flash drive in the machine over night if it is within reach.  </s>
+<s> your flash drive seems to be logically wounded.  </s>
+<s> it is probably due to fatal virus attacks, file corruption or operating system failure.  </s>
+<s> i suggest you to consult data recovery experts who can not only fix your problem but can retrieve your data in minimum cost.  </s>
+<s> consulting doesnt cost!  </s>
+<s> just wanted to add that i am suffering a similar problem (based on two xp pro systems).  </s>
+<s> i thought that it would be a good idea to use a usb flash drive as a backup for my digital camera.  </s>
+<s> thought it would be more useful for file sharing.  </s>
+<s> i have tried two different drives (16gb and a 32gb) and the same thing happens.  </s>
+<s> i have always taken them out correctly, used all the scan disks and recovery utilites, and still no luck.  </s>
+<s> folders randomly empty themselves, or leave corrupt files.  </s>
+<s> any suggestions on what is going wrong would be really helpful.  </s>
+<s> thanks  </s>
+<s> maybe i think you should scan your disk firstly by recovery software.  </s>
+<s> if it could find the data and preview, i think it will recover it.  </s>
+<s> i have the similar experience as you.  </s>
+<s> i download a demo version of easeus data recovery wizard and try to scan. it is fair to know if i should buy their software.  </s>
+<s> i think this is a good way to try if you can get the data back.  </s>

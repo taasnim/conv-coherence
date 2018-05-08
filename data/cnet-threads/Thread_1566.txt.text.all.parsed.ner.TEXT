@@ -1,0 +1,23 @@
+<s> firstly, apologies if this seems a little long winded, but i am hoping to provide as much info as possible.  </s>
+<s> a friend of mine has recently set up a router (linksys wrt54gs) in his home, and currently connects to desktop machines via cat5 and one laptop via wireless.  </s>
+<s> for the most part the network appears stable, however when he attempts to play certain online games(on one of the machines connected via cat5 cable), he encounters a series of problems.  </s>
+<s> now i know, port forwarding is often an issue here, however i have double checked all port information for the games in question (primarily medieval 2 at present) and have subsequently forwarded all ports appropriately.  </s>
+<s> when he tries to run the game whilst connected to the router he is regularly disconnected, and any games he sets up to host are visible, but unconnectable to others.  </s>
+<s> if he connects his computer directly to his cable modem, the issues resolve themselves.  </s>
+<s> what is equally baking my noodle here, is that i have, for all intensive purposes, the exact same setup as him (i.e. a similar number of computers, same router, many of the same games - including medieval 2) and i do not encounter these issues. the only noticable difference here is that i connect via wireless protocol instead of via cat5.  </s>
+<s> i have double checked my router setup to his and they are identical.  </s>
+<s> any ideas what i am missing here and where the issue might lie?  </s>
+<s> many thanks, kg p.s. his current setup is as follows (some of the pc specs differ between his machine and mine but the majority are comparible): pentium 4 1024 mb ram 200gb hdd nvidia 7800 sis ethernet adapter linksys wrt54gs router windows xp home sp2  </s>
+<s> is the firmware current?  </s>
+<s> yes, the issue was present when the router was running the firmware version it was shipped with, and has continued after i upgraded his firmware for him.  </s>
+<s> kg  </s>
+<s> next test, no router.  </s>
+<s> go direct.  </s>
+<s> bob  </s>
+<s> this has already been tested (as mentioned briefly in the original post).  </s>
+<s> when i change the setup so that the cable connection is connected directly to his main machine (thus missing the router out completely) the issues do not occur.  </s>
+<s> this is how i have confirmed that it is something to do with the router and/or its setup itself, however i am at a loss as to what element is at fault.  </s>
+<s> kg  </s>
+<s> sometimes the support staff will tell you an exact version of firmware or declare the router dead.  </s>
+<s> i don't keep a list of what firmware to try on each router so that's what i'd do next.  </s>
+<s> bob  </s>

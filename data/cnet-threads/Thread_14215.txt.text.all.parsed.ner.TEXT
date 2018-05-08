@@ -1,0 +1,195 @@
+<s> my new computer has a sata maxtor drive as the primary.  </s>
+<s> can i install my old maxtor ide drive without any conflicts or cable conflicts (even tho the later will have a flat cable)?  </s>
+<s> [windowsxp prof, msi mb k8n neo4 platinum mobo]  </s>
+<s> but beware one thing.  </s>
+<s> some move a drive like that and hope the software keeps running (from the old drive).  </s>
+<s> you can guess the result.  </s>
+<s> -&gt; also, xp will mark the drive as non-bootable and others weep as they have to repair it when they stick it back in the old machine.  </s>
+<s> bob  </s>
+<s> this second drive will only have data.  </s>
+<s> i assume that its flat cable will fit into the regular ide slot of the mobo, but won't be able to share the cable of the primary sata drive.  </s>
+<s> by the way, what are the short pci express slots for?  </s>
+<s> thanks.  </s>
+<s> 2. pci express slots are currently for video cards.  </s>
+<s> bob  </s>
+<s> there should be no problem in connecting a sata and ide drive, although it would be best to install the sata as the main drive.  </s>
+<s> i am currently running a maxtor 200gb sata drive as the master and a maxtor 120gb ide drive as the slave.  </s>
+<s> you must be sure to set the jumpers to master and slave, this should be identified by the diagram on the drive.  </s>
+<s> i am using the appropriate cables for each drive.  </s>
+<s> you will have to ensure your motherboard can accommodate and additional ide drive, same as the cd/dvd rom.  </s>
+<s> i hope this helps.  </s>
+<s> i have been running a sata drive as my primary drive with os and programs and 2 ide drives for data storage.  </s>
+<s> no problems in over a year of use.  </s>
+<s> just make sure your board will support both.  </s>
+<s> i've had this setup running on my machine for the last 2 years (approx) and haven't had any problems.  </s>
+<s> windows manages the two hard drives separatly so you shouldn't have any problems.  </s>
+<s> i have my sata drive setup as the primary because i bought a wester digital raptor drive (10k rpm) which is a bit faster than the normal sata drives.  </s>
+<s> and my standard ata100 drive is a secondary.  </s>
+<s> i installed windows on the sata drive.  </s>
+<s> i built this computer myself and haven't had any problems with this configuration.  </s>
+<s> ide and sata drives use different controllers.  </s>
+<s> you cannot mix the two on the same controller to my knowlege.  </s>
+<s> i have an intel motherboard with two built in ide controllers and two built in sata controllers.  </s>
+<s> i'm running 4 ide/atapi devices (160gb hd, 80gb hd, cd-rw drive, and a dvd/cd-rw drive) on my ide controllers.  </s>
+<s> i've had a 200gb sata running off my separate sata controller for three months now.  </s>
+<s> no problem.  </s>
+<s> you won't have a problem.  </s>
+<s> your mobo sounds similiar to mine.  </s>
+<s> you should have a spare ide controller or at least a spare channel/port.  </s>
+<s> if your system didn't have any spare ide ports, then you could buy a separate ide/ata/atapi controller card that plugs into an empty pci slot.  </s>
+<s> same goes for sata controllers.  </s>
+<s> i think some sata drives have legacy ide plugs on them, but i'd only use the sata plug with the small serial cable.  </s>
+<s> i have a newer computer with both sata and ide and have both a sata and ide drives and controllers - most newer boards with sata will have 4 sata connections and 1 or 2 ide.  </s>
+<s> depending upon your bios and startup options, if it is like mine you have the option either within the bios, or at startup, which drive to choose as the primary.  </s>
+<s> i have os's on both drives and can boot from either by selecting which one i want to be the primary at startup(note this will have an effect on drive letters).  </s>
+<s> when running more than one os on multiple drives you can use this option, or if running a properly installed nt/2000/xp, you can add boot options into the boot.ini.  </s>
+<s> there are a few additional considerations to take into account if you are running multiple sata drives in a raid array (like making sure all os's are installed with raid drivers) but this can be made to work as well.  </s>
+<s> as long as your mobo supports both ide and sata and still has a connection for each, then you're fine.  </s>
+<s> my primary was a sata and 2nd hd bay was an ide.  </s>
+<s> my sata conked out, and i wanted to get up and running right away, w/o buying an expensive sata at a brick&mortar store nor wait 5 days for a it to ship in from online, so i just used my 2ndary ide and swapped it to primary where my os and other stuff is.  </s>
+<s> i'll be having a sata later on for my slave drive.  </s>
+<s> it's better to have sata for primary, but the speed wouldn't be a big difference  </s>
+<s> i have windows 2000 with an amd 2800 chip and a7v8x mobo.  </s>
+<s> i can boot off the sata only if i have no ide drives attached.  </s>
+<s> there is no option on the mobo to boot from sata.  </s>
+<s> so i'm going to have to upgrade to be able to boot from sata and add back all my ide drives.  </s>
+<s> i haven't found an upgrade for the mobo so i can make the sata (wd raptor) my boot drive.  </s>
+<s> any other ideas out there?  </s>
+<s> thanks, laurie  </s>
+<s> i have a sata drive as the primary and and ide slave.  </s>
+<s> as long as your motherboard has both sata and ide connections available and you set the switches on the drive appropriately, it should work!  </s>
+<s> i have two sata drives as my main drives, and i have two ide drives (one refuses to operate), so i installed the one ide drive into my system, and have had no compatibility problems at all. the only problem i've had though is with both sata drives when i had to format my c: drive to do a fresh install of windows 2000 - each drives' last partition became free space and i lost valuable data.  </s>
+<s> i was told because i wiped out a registry entry (related to the sata drive setup) and there was a problem due to the fact windows 2000 can't see anything over 135 gb without this entry - these drives are each 200 gb's.  </s>
+<s> i have still been unable to recover the lost data, using recovery programs, etc., i think the info is still there, but i'm not going to pay a high price to get the info recovered manually!  </s>
+<s> i've wised up and i now image my main system drive and restore the image if i ever have a crash.  </s>
+<s> i have a mobo that will accept both drives and i don't have to set any jumpers on the pata drive and of course there are none to set on the sata drives.  </s>
+<s> i have a gigabyte motherboard that will take 4 sata drives, 2 pata drives and 2 cd/dvd drives so i can use the pata drives in a raid array as the mobo came with intel software for this.  </s>
+<s> some motherboards allow you to configure both an ide drive and sata drives in a raid array.i  </s>
+<s> don't use raid but the controllers can co-operate. the problem of reinstalling windows on a sata boot device still happens with xp, but almost the first message from windows asks you to &quot;press f6 to install a raid controller&quot;.  </s>
+<s> but it only recognizes a floppy as the source for the sata controller.  </s>
+<s> so be sure you have the driver on a floppy and it should have come with your motherboard.  </s>
+<s> that way it will recognize your sata drives and install windows on the drive you select to be the boot drive.  </s>
+<s> i would advise disabling ide hard drives by temporarily removing their power connectors so you can't accidently make a mistake and boot from the ide drive.  </s>
+<s> hey laurie, yours is the first post i've come across that describes (almost) the same problem i have.  </s>
+<s> i just rebuilt my pc using an asus a7v880 mobo, amd athlonxp 2800+ with 1gb ram.  </s>
+<s> i can boot off of the sata drive regardless, but the os (winxp pro) will not see the ide drive.  </s>
+<s> it sees any other ide drive attached, but not the hdd.  </s>
+<s> i have tried setting it up as master, slave, cable select, primary, secondary...all to no avail.  </s>
+<s> did you ever find out what your possible problems could be?  </s>
+<s> i can't get these 2 drives to coexist & am wondering what i am doing wrong.  </s>
+<s> if you find out any good info, please let me know...thanx!  </s>
+<s> regards, robert  </s>
+<s> i installed a western digital 200 gb sata drive in a windows xp system and it only sees 100gb.  </s>
+<s> sata is primary drive and it was automatically set to drive h.  </s>
+<s> i had to rename my drives to a drive letter beyond the h drive.  </s>
+<s> most modern motherboards are equipped with connectivity for 2 sata drives and the usual ide complement of room for 4 ide devices.  </s>
+<s> therefore most people can run 6 devices note that each sata connector must not be shared you may only connect 0 - 2 sata devices and 0 - 4 ide devices.if  </s>
+<s> you need more devices you can add more device controllers in a pci slot and you can add data storage devices as usb devices, if you get crazy don't forget to upgrade your power supply.  </s>
+<s> there are two things to keep in mind, do not overload your power supply or strange difficult problems will begin to occur and make the correct bios settings for your data storage device complement.  </s>
+<s> i'm using an asus p4p800-vm mobo and it requires an advanced (not for beginners says the user guide) bios setting to use both serial-ata and parallel-ata devices.  </s>
+<s> enhanced mode device support must be set on to use a mixed device configuration.  </s>
+<s> my best advice is read your documentation if you don't understand it have your dealer help you and then do what it says, and really be certain to use an adequate power supply.  </s>
+<s> i'm using 3 maxtor hd's 80 & 120 gb sata + 200 gb pata, and 3 dvd burners benq 1625, & 1610, + lg gsa 4163b.  </s>
+<s> an ati aiw 9600 video & creative sb audio card + web cams and dual monitors + tv, logitech thx 560 watt surround sound and serving a small lan and sharing my hp1210 psc on the lan.  </s>
+<s> oh yes and too many fans trust me about the power supply problems i'm removing some fans so i hope that i don't have to replace my power supply, mixing sata and pata is great otherwise.  </s>
+<s> i have an 80gb ide and want to add more memory.  </s>
+<s> i thought i should get sata now anyways.  </s>
+<s> the sata drive can be the secondary drive?  </s>
+<s> i didn't want to re-install windows (until vista) and then i might switch things around.  </s>
+<s> do those ide converters to sata work ?  </s>
+<s> improve speed at all?  </s>
+<s> i have 2 sata drives and 1 ide drive.runing  </s>
+<s> windows xp i'm having problems with my ide drive.  </s>
+<s> my system is windows xp proffessional 1 gig memory sata drive 1 160 gig sata drive 2 300 gig ide drive 1 300 gig problem 1) 1st time install no problem started to download files to it(ide drive)then by going to a dumb crack site started getting loads of popups.so  </s>
+<s> i just thought would be easier to reinstall windows.  </s>
+<s> when i install the windows os it installed on the ide drive didnt give me an option to install on sata and did a quick format.tried  </s>
+<s> many programs to get old files that i had on it back.  </s>
+<s> get data back for ntfs search and recover 2.5 easy recovery pro 6 partition magic 8 no luck with getting data back.the  </s>
+<s> only files i was able to retrieve was simple deleted files.  </s>
+<s> problem 2 now i have 2 hard drives with windows on them.so  </s>
+<s> i set the ide to a slave and reboot reformated the ide drive set it back as a master.when  </s>
+<s> i tried to boot bios seen the ide drive but windows didnt used windows disk management did a delete partition create partition format partition.windows  </s>
+<s> seen the drive.next  </s>
+<s> day windows cant see the drive again.tried to do another format.came up with error (the operation did not complete because the partition or volume is not enabled.  </s>
+<s> to enable the partition or volume,restart the computor.) did the restart still no luck.  </s>
+<s> question 1 what is the best program to get back original files i had?  </s>
+<s> question 2 would it be best to use ide drive for operating system and use the sata drives as storage drives?  </s>
+<s> i too am havin sata ide troubles i recently bought a new seagate barracuda 7200rpm, 320gb, sataii (limited to 1.5g/s) drive.  </s>
+<s> upon putting it into my computer several things started to happen &gt;my root drive (ide barra) now wont load windows xp even after a format reinstall.  </s>
+<s> it freezes at the windows loading screen.  </s>
+<s> &gt;i formatted and partitoned the sata drive wiv the disk writer program from seagate, and now the sata switches between being one partition or the three partitions that i set out in disk writer.  </s>
+<s> neither of this partitions let me install windows as they say it cant read the sata drive.  </s>
+<s> &gt; the third thing that i found really weird was that when i reinstalled windows onto the ide barra, it installed on not one but two partitions in the barra.  </s>
+<s> so it installed onto c: and put a windows folder on d: as well as the stuff already there.  </s>
+<s> that just blew my mind so i thought i better get sum help &gt;i think it could be sumthing wiv the mother board the ga k8vm800m only supports the sata in later versions of it's drivers and i need to install sata drivers before windows installation (pressing f6 and stuff).  </s>
+<s> also i've updated the bios drivers and according to other forums should have stopped the sata troubles.  </s>
+<s> &gt;ive tried setting the ide to primary slave and cable select but none have changed the results.  </s>
+<s> &gt;i also often get different results using the same settings, so im thinking it could be a reading problems.  </s>
+<s> &gt; i've also tried reinstalling xp wivout the sata which works until i put the sata in and windows wont even start up on the ide, this makes me think that there may be conflict between the drives as well, sorta like master and slave but over sata and ide.  </s>
+<s> im not sure how that works wiv the two different drives.  </s>
+<s> ill put sum of my system specs up ga k8vm800m bios updated to f8 athlon 64 3000+ 1gb ram (i think kingston)( not that ram is really gunna matter) baracuda 80gb 7200rpm ide barracuda 320gb &200rpm sata ive removed everything else (running on integrated graphics).  </s>
+<s> im desperate guys, i've run out of ideas thanks babs  </s>
+<s> i think the problem may be the controller the bios and windows sees the sata drive but cant partition it or format it i've found at the chipset site that there are drivers for both sata pata ide and sata raid only the sata raid controller was present on the mobo website so maybe headin to the chipset site and checkin out wat they have maybe a possible controller fix via also seems to be continuing to release new versions of the drivers so there is some good news there as well.  </s>
+<s> if u think i am weird for replying to my own post.  </s>
+<s> i thought it would be helpful to those wiv the same problems hope this helps babs  </s>
+<s> __[ in english, resume/summary ]______________________ i get a hd sata and want turn it the primary boot device and primary drive of my system.  </s>
+<s> solution: 1. convert all partitions on ide hds to extended.  </s>
+<s> (this option maybe optional) 2. because windows, and system, detect hd sata and primary ide hd in id 0 bus 0 atapi, i move my ide hds to secondary ide channel e move my dvd/cdrom to primary ide channel.  </s>
+<s> 3. temporaly desativate secondary ide channel, while installing windows on hd sata, because windows insist in write mbr both hd sata and old ide boot hd. 4. after boot windows xp/operating system on hd sata, i re-activate ide hds and after backup data, repartitioned like i want. 5. ready to use, my system boot by hd sata and use hd ide as swap and backup drives.  </s>
+<s> it's all.  </s>
+<s> []s claudio ps: sorry because my english is short compreensive (= poor) but i try help you .  </s>
+<s> __[ in portuguese (brazil) ]__________________________ pessoal, passei por problema parecido e por isso mesmo acabei caindo nesta pgina de discusso.  </s>
+<s> como sofri, gostaria de compartilhar minha experincia, para que mais gente no perca o tempo que perdi.  </s>
+<s> __[ cenrio ]__________________________________________ motherboard asus m2npv-mx, com 2 hds &quot;antigos&quot; ide, seagates de 7.2 e 4.3.  </s>
+<s> ambos conectados no canal ide primrio.  </s>
+<s> o hd de 7.2 como master e o de 4.3 como slave.  </s>
+<s> leitor de dvd/cd como master do ide secundrio.  </s>
+<s> tudo funcionando com windows xp e linux __[ problema ]__________________________________________ resolvi colocar um hd seagate 250 sata-2, mas aps instalar o windows xp e ativar este hd como primeiro dispositivo de boot, recebi a mensagem &quot;erro ao carregar sistema operacional&quot; e em alguns momentor &quot;error loading operating system&quot;.  </s>
+<s> __[ tentativas ]________________________________________ tentei desabilitar o canal ide primrio, tentei carregar os drivers sata_ide fornecidos pela asus (fabricante da placa-me).  </s>
+<s> no funcionou.  </s>
+<s> apesar da instalao do windows detectar o hd, sem precisar dos drivers sata, aps instalar data o problema.  </s>
+<s> tentei no desabilitar o canal ide primrio e no colocar o hd sata como primeiro dispositivo de boot.  </s>
+<s> funciona, mas s porque existe o hd ide como primrio.  </s>
+<s> assim, o gerenciador de boot do windows, ntloader, fica no hd primary master e carrega os arquivos e depois carrega o resto do windows no hd sata.  </s>
+<s> mesmo assim no era isso o que eu queria.  </s>
+<s> __[ objetivo a ser solucionado ]_______________________ eu queria e quero que funcione o hd sata como primeiro dispositivo de boot e que o windows e o linux o utilizem para gravar seus gerenciadores de boot, ainda quero utilizar os hds ide como backup, swap, memria virtual.  </s>
+<s> __[ soluo ]__________________________________________ aps vrias pesquisas e vrias tentativas, as dicas passadas me levaram a conseguir resolver o problema e observar algums coisas.  </s>
+<s> 1. transformei as parties dos hds ides em estendidas.  </s>
+<s> talvez este item seja opcional 2. durante a instalao do windows notei que tanto o hd sata quanto o hd ide primary master, apareciam como id0 no barramento 0 atapi, ou seja, eles &quot;concorriam&quot; para ser o primeiro dispositivo, desta forma o windows queria gravar a mbr em ambos.  </s>
+<s> 3. resolvi isso invertendo a ordem dos dispositivos ide, ou seja, o dvd/cdrom passou a ser instalado no canal ide primrio, sendo o primary master, e colocando os outros hd no canal ide secundrio.  </s>
+<s> 4. reiniciei a instalao do windows e o hd sata passou a ser o primeiro dispositivo, e os outros hds respectivamente, segundo e terceiro dispositivos da listagem.  </s>
+<s> nota: no precisei pressionar o f6 durante o incio da instalao do windows, com isso no utilizei quaisquer drivers especficos para enxergar o dispositivo sata.  </s>
+<s> o windows reconheceu o hd sata como estando no barramento atapi/ide.  </s>
+<s> 5. mesmo assim o windows queria gravar informao no mbr do antigo disco de boot do windows, para isso desativei temporariamente no setup este disco, para poder concluir a instalao do windows.  </s>
+<s> 6. conclui a instalao do windows com sucesso, e depois pude iniciar o sistema via hd sata sem problemas.  </s>
+<s> 7. ativei o hd ide desativado no item 5. o sistema continuou iniciando como feito no item 6. 8. aps backup do contedo, reformatei os hds ide para se adequarem s minhas necessidades.  </s>
+<s> 9. pronto, tudo funcionando e pronto para receber o linux.  </s>
+<s> espero ter ajudado, pois as diversas discusses na internet, inclusive essa colocada por diversos participantes, me ajudaram a chegar na soluo que atendia minha vontade.  </s>
+<s> []s claudio  </s>
+<s> i put in a new motherboard recently and couldn't figure out why i could no longer access my ide hd. i have a sata hd running as my main drive and another ide hd, formerly my main one, that i use for music files and backup storage.  </s>
+<s> it used to work but after the mobo install the bios recognized an unknown drive instead of the other hd. it was driving me crazy.  </s>
+<s> jumper settings did nothing.  </s>
+<s> nothing showed in windows xp at all-didn't show up in disk management either.  </s>
+<s> i've looked all over but couldn't find anything related to this issue online.  </s>
+<s> i finally read your post and remembered that was how i had altered it before(accidentally, about a year and a half ago) to get it to work. the ide hd had to be on the secondary ide cable in order for it to be recognized by the sata drive.  </s>
+<s> i just switched the cables, put my dvd and cd writer drives on the primary ide cable instead, restarted, and voila!  </s>
+<s> my drive lettering is messed up now a:floppy c:sata hd ------ ok so far, then f:dvd emulator g:ide hd h:cdrw i:dvd no d: or e:? before, the cd and dvd drives were e: and f:, the hd(when it was recognized) was still g: not sure why it happened (i might try removing all emulation drives first and see what happens-that's a known issue with drive lettering iirc) but it's a minor issue compared to not being able to retrieve my music/itunes folder and backup info.  </s>
+<s> thanks for posting the information, bad english or not-it was good enough for me and a great help:)  </s>
+<s> my troubles are also quite similar to some of thse posts, one in particular where xp would freeze at the black &quot;windows xp&quot; screen at startup.  </s>
+<s> my configuration is as follows: intel p4d; intel chipset/mobo; 1 - seagate barracuda 7200 rpm 320gb sata drive --&gt; this is my main os drive {connected to sata 0} 2 - 300 gb maxtor ide drive {connected to sata 1} 3 - 200 gb maxtor ide drive {connected to sata 3} i have a sata adapter on the 2 ide drives, hence their connection to the sata ports on the mobo.  </s>
+<s> i have 2 dvd drives on the ide cable.  </s>
+<s> i have ensured that with the sata adapter on the ide drives, the jumper settings on the ide drives are all set to master.  </s>
+<s> prior settings of the jumpers to &quot;slave&quot; would result in no boot screen at all upon powering on.  </s>
+<s> that mistake recognized and rectified, i still cannot figure out why xp won't load under my current setting. the bios settings have been set so that sata 0 is the drive to boot from (the true sata drive).  </s>
+<s> in the bios, the system is recognizing the other hdd's connected to sata 1 and 2 without a problem.  </s>
+<s> sata 1 has my old image on it (also xp), and when i set sata 1 as the drive to boot from, i get the same problem of windows freezing at the black &quot;windows xp logo&quot; start up screen.  </s>
+<s> anyone know how to overcome this?  </s>
+<s> thanks.  </s>
+<s> but i'll decline why since this post is buried on page 2. bob  </s>
+<s> further to my post above... my only guess is the ide-to-sata adapters attached to the ide hard drives are junk.  </s>
+<s> but despite that, the bios does recognize the drives are there but i can't figure out why xp won't boot.  </s>
+<s> i'll double check the motherboard drivers but i'm sure the one's i've got are up to date.  </s>
+<s> burying a new discussion here is not going to find others jumping in to help.  </s>
+<s> i only noticed it because it was on the latest list and easy to get to.  </s>
+<s> think it over.  </s>
+<s> bob  </s>

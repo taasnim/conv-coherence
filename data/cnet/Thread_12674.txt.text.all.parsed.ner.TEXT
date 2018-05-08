@@ -1,0 +1,100 @@
+<s> can any1 tell me why an amd phenom quad or triple core is way better than an amd athlon64 dual core?  </s>
+<s> even though the dual core has a much higher clock speed... many people still prefer the quads... why?  </s>
+<s> =p i m a computer noobie xd  </s>
+<s> if you are using a system that has smp built into the kernel, the number of cores may make a difference.  </s>
+<s> internal clock speed is based upon processor architecture and release not manufacturer.  </s>
+<s> how many tasks are running?  </s>
+<s> more cores can mean these are spread out among the cpus.  </s>
+<s> -&gt; back to reality.  </s>
+<s> last year games could tap the dual core just fine.  </s>
+<s> and 2 years back you had rabid gamers disabling dual core back to single core.  </s>
+<s> oh how the stances have changed.  </s>
+<s> today the majority of gamers and video editors will pick the over 2 core cpu.  </s>
+<s> -&gt; the answer depends on what you are going to use the maching for.  </s>
+<s> bob  </s>
+<s> most games today suppport dual core cpus, but only a few support quad cores.  </s>
+<s> they can still run on quads, but can't take advantage of all of the cores.  </s>
+<s> i think games like crysis and maybe bioshock hev full quad support.  </s>
+<s> in other games that don't fully support quads (most games) people find that dual core processors outperform them.  </s>
+<s> really all comes down to pc games.  </s>
+<s> there aren't very many other things you can do with your computer that would require a quad core (vieo editing?).  </s>
+<s> i use visual studio 2008.  </s>
+<s> i want more cores.  </s>
+<s> bob  </s>
+<s> like what you have stated ... the type of games?  </s>
+<s> does it really matter?  </s>
+<s> i mean does a quad core in a cpu really affect a duo core game?  </s>
+<s> not a game there.  </s>
+<s> i'm on a windows mobile application development cycle and it screams for more more more and more cores.  </s>
+<s> bob  </s>
+<s> hi, since you say you are relatively new to the topic, i won't go into great detail on computer performance and capacity - even people who have been in the field for decades still argue at length about it.  </s>
+<s> i'll give you a few pointers and then look at why you might choose one over the other.  </s>
+<s> there is a difference between performance, speed if you like, and capacity, the amount of work you can do.  </s>
+<s> think of it as an analogy.  </s>
+<s> a truck can carry a vast amount of freight compared with a sports car but a sports car can travel at three times the speed.  </s>
+<s> so if you want to get from a to b in the shortest time, use a sports car but if you want to take a ton of bricks, use a truck.  </s>
+<s> and that's the basic difference you have seen - the &quot;sports car&quot; is the single processor, the &quot;truck&quot; is the quad or higher and a dual core comes mid way between, a wagon if you like.  </s>
+<s> so, as bob and others have said, it depends what you want to do.  </s>
+<s> if you are working on a single complex mathematical calculation in multiple steps that follow on one after the other (this is called a single thread), you want the fastest processor you can get, typically a single processor.  </s>
+<s> if you want to run your web browser, your email client, your word processor and view your latest photos, you would want a quad core processor to run these four independent tasks.  </s>
+<s> that's the simple explanation, as the chip makers have increased the number of cores (mainly due to the limitations of speeding up a single processor) the application developers have redesigned their programs to use multiple threads in parallel, and so a single application, like video rendering can use more cores in parallel for its multiple threads.  </s>
+<s> the games writers in particular have exploited this technique to use the greater capacity of a multicore processor.  </s>
+<s> intel have a very good demonstration of crysis (i think) which can exploit the multiple cores, on a single processor, a dual and a quad.  </s>
+<s> and the screen rendering is able to exploit the multi cores so efficiently, that the dual core completes in half the time of the single and the quad finishes in half the time of that.  </s>
+<s> but this is the exception.  </s>
+<s> so let's look at performance. it isn't just a case of clock speed.  </s>
+<s> given two machines of identical design in the same family, say an athlon 4000 and an athlon 5000, to use your manufacturer, the performance will closely follow clock speed.  </s>
+<s> but if the machines are not of the same design or from the same family, these comparisons are not valid.  </s>
+<s> performance depends on many factors, the main four (and others may disagree!) are clock speed, cycles per instruction (an indication of how much work you can do in each clock cycle), the memory bus speed (how fast you can get data from memory into the cpu and back out again into the memory) and the architectural design of the cpu processing pipeline (which indicates the degree of parallelism in each core).  </s>
+<s> the memory system isn't just the ram, of course, it includes the level 1, 2 and sometimes 3, data caches.  </s>
+<s> so you can get some idea that this isn't just clock speed. the topic is too big to discuss here but i'll give you an example.  </s>
+<s> when intel introduced their centrino package, the cpu component clock speed was much lower than people were used to with the older pentium design.  </s>
+<s> in fact, the performance of a 1.5 ghz banias centrino was very close to that of the 3 ghz pentium 4 - the difference was made up by the other performance components i mentioned earlier.  </s>
+<s> to get back to your question, the amd phenom is a newer design generation than an athlon, so some of its extra performance comes from the design, rather than just the clock speed. the designs are not comparable, the phenon is vastly better.  </s>
+<s> actually, amd just released two core phenoms (though confusingly may have labelled them athlons!) and so you should really be comparing a 2 core phenom with a 4 core phenom, then my earlier discussion of the number of threads you want to run comes into play.  </s>
+<s> trust me, this is a big can of worms you have opened!  </s>
+<s> meaning four cores can run more program then two.  </s>
+<s> but ..... parallelisms is were computer programmers break programs into various components to run on these cores concurrently, all at once. the programing community lags behind in the ability to do this so not all program are paralleled to run on quads.  </s>
+<s> what this means is some programs are written to run on two cores so that's what they do, wasting the two remaining cores as they sit idle waiting for instructions.  </s>
+<s> &lt;&lt;if you want to run your web browser, your email client, your word processor and view your latest photos, you would want a quad core processor to run these four independent tasks.&gt;&gt;  </s>
+<s> better yet: why not buy four computers?  </s>
+<s> use one to run your web browser, another to run your e-mail client, another to run your word processor and another to view photos? the reason: it's a waste of computers; you can accomplish those tasks simultaneously on one computer.  </s>
+<s> same principles apply: you can run a web browser, e-mail client, word processor and image viewer and all those tasks together will not even use 20% of one core.  </s>
+<s> if your programs have a single thread of processing, and you only use one at a time, then you will benefit from the higher clock-speed of the dual-core.  </s>
+<s> if your programs are optimised for multiple cores, or you have a number of intensive operations happening at the same time, then you will benefit from a quad-core processor.  </s>
+<s> it's that simple.  </s>
+<s> for example, if i am using a quad core processor and i am currently running on 1 program wouldn't i waste power?  </s>
+<s> just leaving the other 3 core's to idle working around will produce an amount of unecessary heat to the procesor... (nothing to do with overclocking)  </s>
+<s> i see many programs ticking along.  </s>
+<s> many folk are just learning about operating systems so their definition of one program running is the one on the task bar.  </s>
+<s> not all the others.  </s>
+<s> what's nice is this will likely cause them to buy less and more often!  </s>
+<s> good for the pc economy.  </s>
+<s> bob  </s>
+<s> but could you define it a bit more detail... xd i didnt quite get the part about the task manager thingi xd  </s>
+<s> if you wanted to learn more about the task manager you could research that on the web.  </s>
+<s> let's stick to what's not on the web or what's hard to find?  </s>
+<s> bob  </s>
+<s> please remember that the original poster said that he or she was relatively new to this issue and so simplifying a complex subject is appropriate.  </s>
+<s> what you are forgetting is dispatcher time - that cpu power used for no useful purpose than task switching.  </s>
+<s> in fact, just loading up the four applications i mentioned fires up 48 processes, i.e. 12 per core on a quad core cpu or 24 on a dual (on average - another over simplification).  </s>
+<s> assuming you didn't start the applications just for the sake of it and you want to actually use them, it is very easy to saturate a processor even allowing for the gross inefficiency of the ia and windows designs.  </s>
+<s> if all applications are actually doing something, the dispatcher will be making frequent task switches as tasks enter wait states and interrupts to request restart.  </s>
+<s> in principle, you are halving these dispatcher actions as you double the number of cores.  </s>
+<s> clearly, if you are idling your machine at anything less than 25% busy (mine work for a living), a uniprocessor will probably do the job assuming a reasonably low degree of serialization.  </s>
+<s> between 25% and 50%, a dual processor would be indicated and anything over 50% will benefit from a quad core.  </s>
+<s> these numbers, again, err on the side of simplicity, the level of serialization and the performance of the peripherals can apply a significant variation.  </s>
+<s> your suggestion that 4 computers would do the job is flawed, if the aggregate capacity is that of a single core machine.  </s>
+<s> the benefit of a quad core over 4 single cores of equal capacity is that it is unlikely that all four cores will peak at the same time, so a busy core, given an average level of parallelism (like the case above) can &quot;borrow&quot; additional capacity from an idle core, which can't be done in the separate ia machine environment.  </s>
+<s> now, if you were to move up to ibm z series mainframes in a parallel sysplex, then your argument would be valid - a tad expensive for most of us, though!  </s>
+<s> have a good weekend!  </s>
+<s> speed also depends on the motherboard,the cache, and memory speed.  </s>
+<s> to get your task manager up, hold down the &lt;control&gt; and &lt;alt&gt; keys down while you press the &lt;delete&gt; key.  </s>
+<s> task manager pops right up on top of everything. the first three tabs are of interest for this discussion: applications, processes, and performance.  </s>
+<s> even without anything listed under 'applications', you'll find numerous things running under 'processes'.  </s>
+<s> 'processes' tells you all the &quot;actual programs&quot; that have been launched by the operating system and by each application you run, as well as the tasks started automatically on system startup.  </s>
+<s> please notice, you don't have to start any applications for your computer to be running lots of processes!  </s>
+<s> now the 'performance' tab shows graphs of a. percentage use of the cpu, and b. total used physical + virtual memory.  </s>
+<s> if the %cpu never 'pegs' at 100%, you don't really need a faster cpu or more cores, and the &quot;i have more cores than you&quot; is just a sad rerun of the &quot;mine is bigger&quot; game.  </s>
+<s> if i were a 'gamer' i'd never get any work done (and true gamers will never have 'enough' speed), but i can easily 'peg' my %cpu rendering a 3d scene or video.  </s>
+<s> uh, i think i'm writing a book now, so let me close by saying: this is a great thread (short of the book i'd write ... your answer is within, luke.  </s>

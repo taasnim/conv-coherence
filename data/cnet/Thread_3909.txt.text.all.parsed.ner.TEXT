@@ -1,0 +1,34 @@
+<s> i was looking for a platform independent remote connection software.  </s>
+<s> googling threw up vnc on top of the list.  </s>
+<s> so, is vnc the best avaiable option for this purpose?? also, there are myriads of vnc variations available (realvnc, tightvnc, ultravnc, and what not). which one of these is the best option available around??  </s>
+<s> why criteria makes one better than the other for you?  </s>
+<s> i read your post twice and couldn't find how you would rank these.  </s>
+<s> bob  </s>
+<s> my criteria is basically user-friendliness in configuration, and performance.  </s>
+<s> none seem friendly to non-network savvy folk.  </s>
+<s> let's give all you listed a failing grade.  </s>
+<s> however these are fairly technical items.  </s>
+<s> i won't suggest any to users that are not network proficient.  </s>
+<s> example, they know what a netmask entry is, and how dns works.  </s>
+<s> bob  </s>
+<s> so, what's basically the difference between them?? is a comparative study available anywhere on the web??  </s>
+<s> not to discourage you but each software has a homepage that you could read and see what you like about each.  </s>
+<s> since all do about the same thing all that varies is laid out on the three web sites.  </s>
+<s> why not do your own study?  </s>
+<s> bob  </s>
+<s> sure, i have done my own study.  </s>
+<s> but these are the exact reasons why forums are there for!! every vendor makes claims about its products superiority over others.  </s>
+<s> i thought someone here might have had experience with these vncs to provide an independent analysis of which one is the better one.  </s>
+<s> these product for my use and what they do are fungible.  </s>
+<s> that word should suffice why you didn't find a study.  </s>
+<s> all fail for your need of ease of use.  </s>
+<s> all of them however do function very well but require a modicum of network setup skill, understanding of what ports are, the difference of udp, tcp and such.  </s>
+<s> i just connected the dots when i looked at your other discussion about the proxy issue.  </s>
+<s> when i did that, it's clear to me that you need something much better than any vnc made today.  </s>
+<s> bob  </s>
+<s> i had to scramble for my dictionary when i saw your use of word: fungible.  </s>
+<s> initially, it sounded like derogatory... anyways, it was good you looked at my other thread, and this one as they are surely related.  </s>
+<s> as a developer, i am pretty much at ease with ports, tcp/ip and all, just that i have not used them for a remote connection type of thing outside windows ra/rdc.  </s>
+<s> looks like i need to get my hands dirty.  </s>
+<s> whenever i do, i will try to find a reproducible series of steps that other can use to accomplish what i am trying.  </s>
+<s> and i will document them here!!!  </s>

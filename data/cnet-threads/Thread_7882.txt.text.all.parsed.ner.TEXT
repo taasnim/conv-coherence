@@ -1,0 +1,18 @@
+<s> hello all, newbie here.  </s>
+<s> i am trying to use my pc's internet connection that i am getting from a cricket wireless device to go to a linksys wrt54g router.  </s>
+<s> i believe it should be possible to enable ics and hook up a cable from the nic on the pc to the wan port on the router but have not been able to get it to work so far.  </s>
+<s> os=win 7 but would like to know how to do it on xxp also.  </s>
+<s> any help would be appreciated.  </s>
+<s> thanks  </s>
+<s> is a comparable discussion.  </s>
+<s> but, apart from learning that it's difficult, nothing came out of it.  </s>
+<s> kees  </s>
+<s> in xp it did work here but i can't offer any support.  </s>
+<s> there are only a few million pcs out there and i've never found 2 that were the same.  </s>
+<s> bob  </s>
+<s> you could just bridge the wireless and wired nic in the pc? i've done this in reverse to turn a wireless nic into an ap. perhaps it would work in either direction.  </s>
+<s> thanks a lot !!!! very easy solution.  </s>
+<s> just a few changes to the configuration.  </s>
+<s> 1. disable ics 2. plug the network cable into the lan instead int oth wan port on the router 3. bridge the two connections thanks steven  </s>
+<s> just bridge the two connections  </s>
+<s> just disable ics and bridge the two connections  </s>

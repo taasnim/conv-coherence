@@ -1,0 +1,12 @@
+<s> i've got a bunch of mp3's and wav files on an external hd on my pc. i'd like to give them to a friend with a mac.  </s>
+<s> both computers have usb2 ports.  </s>
+<s> if i take my external hd over to his place and plug it into his mac thru the usb2 port, can he copy the files to his computer?  </s>
+<s> to do this you want a partition in fat32.  </s>
+<s> but fat32 on usb is somewhat flaky so don't put what you can't lose on said drive.  </s>
+<s> bob  </s>
+<s> thanks, bob, i wouldn't want to lose any of it.  </s>
+<s> what alternatives are there?  </s>
+<s> obviously a dvd won't hold as much as an ext.  </s>
+<s> hd, but would a dvd burned from a pc be able to be read on a mac?  </s>
+<s> it's a standard filesystem so unless you do something odd like use udf (incd, directcd, dla) then it just works.  </s>
+<s> bob  </s>

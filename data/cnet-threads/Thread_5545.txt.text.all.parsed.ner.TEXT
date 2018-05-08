@@ -1,0 +1,22 @@
+<s> what all things are needed to be considered before buying a nvidia geforce 7 series graphics card for the complete compatibility of it with the pc. my pc came with pre-installed nvidia geforce 6200 128 mb turbocache.  </s>
+<s> and i'm planning to upgrade to nvidia geforce 7 series.  </s>
+<s> my pc config : pc:- lenovo 3000 series q100 8822 11q intel pentium 4 3.06 ghz ht intel 945g chipset 2 gb ddr2-533 ram 80 gb hard disk nvidia geforce 6200 128 mb turbocache (currently installed graphic card) installed in pci express x16 windows xp home  </s>
+<s> 1. the pcie x16 slot (which you have) 2. a suitably sized power supply.  </s>
+<s> which you didn't state.  </s>
+<s> that's about it.  </s>
+<s> bob  </s>
+<s> how do i get to know about the details of the power supply.  </s>
+<s> since the motherboard manufacturer and model is showing as :&quot;to be filled by oem&quot;.  </s>
+<s> can u tell me any way to find the size or voltage of the power supply in my pc. but at the back of my cpu ,a sticker states &quot;dc +12v/4a&quot; is that the size of the power supply ?  </s>
+<s> so that's not it.  </s>
+<s> there should be other numbers on the power supply.  </s>
+<s> make/model usually helps.  </s>
+<s> bob  </s>
+<s> you need to open the case and check the decal/sticker mounted on the power supply(psu) inside.  </s>
+<s> hopefully, its visible and states what it is and specs.  </s>
+<s> if not, its on the other side, do what you have to to inspect.  </s>
+<s> if this is an oem(dell, gateway, etc) then look-up that model# on the respective support website and check for specs there, but even so, the decal should be present.  </s>
+<s> most graphic card makers supply what the basic requirements are for its usage, again visit the support website for the model# in question.  </s>
+<s> don't assume anything, check.  </s>
+<s> for the most part, a decent 350w is required but system demands should be well served by at least a 400w psu of a brandname or better.  </s>
+<s> tada -----willy  </s>

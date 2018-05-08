@@ -1,0 +1,29 @@
+<s> well, i've got a rather interesting problem, that so far, has stumped everyone who has worked on it.  </s>
+<s> my computer that i just finished building will only send a completely black signal to my monitor.  </s>
+<s> after talking to one of my friends, we decided that the problem might be in that the monitor was screwed up, and wasn't working.  </s>
+<s> so, i hooked it up to the monitor i'm using now, and nothing.  </s>
+<s> once i did that, we figured the problem might be in that its just not sending a signal at all.  </s>
+<s> so, using the same method, i hooked it up to another monitor, and it doesn't give me the &quot;no signal&quot; message.  </s>
+<s> if you're going to say that its only not giving me that because its plugged into a grounded outlet, you're wrong, this monitor has a problem in it that doesn't have it check from grounding, it only checks for a signal going into it.  </s>
+<s> so, right now, we're all stumped, i'm hoping you can help me.  </s>
+<s> get your hands on a simple video card, pci type or an older one that works, then connect monitor to it.  </s>
+<s> if you can then see any display, its your orginal video port or card is bad.  </s>
+<s> with power off remove the just tested card, working or not, and find on the mtrbd. the cmos clearing pins.  </s>
+<s> check your manual or online support website to locate them.  </s>
+<s> follow the instructions and just monetarily short them when applying power.  </s>
+<s> this should cause the cmos(bios) to return to default vales.  </s>
+<s> see, if the orginal video port/card can now access a display.  </s>
+<s> of course if a card, make darn sure its fully seated.  </s>
+<s> if can see a display, reboot to access the bios screen area.  </s>
+<s> verify the bios reflects it has choosen what is your proper video out source.  </s>
+<s> if can see any display with orginal port/card things are working.  </s>
+<s> if not, but with the old card, then that suggests the orginal port/card is bad.  </s>
+<s> however, i have seen this problem if you don't install the latest video drivers and/or bios updates.  </s>
+<s> check to reseat the monitor cable, plus look at connector for no bent/pushed in, broken pins.  </s>
+<s> of course use a working monitor tested good elsewhere to eliminate that.  </s>
+<s> good luck -----willy  </s>
+<s> how am i supposed to reinstall bios or drivers?  </s>
+<s> i can't see anything thats going on!?! i'll try using the video card though, that may just work.  </s>
+<s> i do have a slight suspicion of what it might be though.  </s>
+<s> most of the parts i built this computer out of i got for free, and i believe that one of the computers i took parts out of may have had some unbelievably nasty virus, so bad it was inground onto the hardware.  </s>
+<s> i'm not sure if any of that computer is in this one, but i do know that a 3.5&quot; floppy drive has its magnetic control removed, so any disk put in it is magnetically wiped... but only if its hooked up and on.  </s>

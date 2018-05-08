@@ -1,0 +1,64 @@
+<s> my hdd is frequently active even when &quot;nothing&quot; is running.  </s>
+<s> because it is a mechanical device, i get nervous by too much activity.  </s>
+<s> new gateway gt5012, pentium d, 2.8 ghz., 1 gb ram, 250 gb sata hdd.  </s>
+<s> running windows media center xp, office pro xp installed.  </s>
+<s> security provided by nsw premiere 2005 and zone alarm (yes, i wear a belt and suspenders!). in system tray: za, msn messenger, nsw a-v, loudspeaker, usb removal icon,and clock.  </s>
+<s> in quick launch: control panel, windows explorer, word, cute ftp pro, front page, msn, internet explorer, media player, and a shortcut to a favorite web site.  </s>
+<s> with all this stuff in place, the performance monitor shows about 310 mb of memory in use, and every 10 seconds or so, the graphs shows a spurt in activity.  </s>
+<s> sometimes only a few percent of cpu time, but occasionally ten percent or higher.  </s>
+<s> to see the effect, i stopped za, nsw, and set my cable modem to &quot;standby.&quot; no change in disk activity.  </s>
+<s> what is causing this acitivity, and can i stop it or minimize it?  </s>
+<s> this has bothered me for a long time, but the reason i have a new computer is that the hdd on my old one had to be replaced twice in two years.  </s>
+<s> any help or insight will be greatly appreciated.  </s>
+<s> is a search box.  </s>
+<s> enter &quot;find fast&quot; in the box.  </s>
+<s> see if it applies.  </s>
+<s> thanks for the reply, bob.  </s>
+<s> i tried the find fast, but the only thing that seemed to apply was something about popups.  </s>
+<s> i don't think that is my problem.  </s>
+<s> make sure its not your antivirus.  </s>
+<s> i know some times with my norton it will set there and start a disk scan when my computer is idle.  </s>
+<s> also if you are familer with windows something else you can try is going into task manger to close out some of the running processes just make sure you leave the following open as they are required bye windows to run correctly taskmgr.exe  </s>
+<s> explorer.exe  </s>
+<s> service.exe  </s>
+<s> smss.exe csrss.exe  </s>
+<s> lsass.exe  </s>
+<s> all svchost.exe's  </s>
+<s> system idle process system winlogon.exe  </s>
+<s> services.exe  </s>
+<s> spoolsv.exe if you try to close any processes and it pops up the following skip it &quot;this is a critical system processes.  </s>
+<s> task manger can not end this processes&quot; also keep in mind that closing processes is tempory when you reboot the computer the processes will start back up.  </s>
+<s> if you do this 1 at a time you should be able to determin which processes is causing the abnormal disk activity on your system.  </s>
+<s> once you know which processes is giving you problem run a google search on it to find out more information about it.  </s>
+<s> such as is it a spyware issue, or virus, or maybe it just something like nero being dumb.  </s>
+<s> i will warn you thought there is a remote chance that if it is a virus it might cause windows to crash and not boot correctly.  </s>
+<s> when you close the processes but that is rare.  </s>
+<s> hotrodder, thanks for the suggestion.  </s>
+<s> i had thought about stopping services, but was afraid to because i didn't know if they would start up again automatically.  </s>
+<s> that is a good bit of information.  </s>
+<s> i do lean toward the anti-virus, but i did &quot;deactivate&quot; norton and zone alarm without affecting the disk activity.  </s>
+<s> perrhaps even though those programs are halted they still do their thing in the background?  </s>
+<s> vince  </s>
+<s> the most common reason is the indexing service.  </s>
+<s> it's on by default and is the most common cause.  </s>
+<s> try stopping it.  </s>
+<s> bob  </s>
+<s> indexing appears to be turned off, but i still get some disk activity.  </s>
+<s> a friend says that windows xp is always doing some housekeeping in the background, and that this activity is normal.  </s>
+<s> (hmmm.  </s>
+<s> i don't remember my old computer doing this.) thanks for all the input and suggeastions.  </s>
+<s> vince  </s>
+<s> windows is not a &quot;quiet&quot; os. if this is an issue, try linux or more ram.  </s>
+<s> bob  </s>
+<s> when you notice activity, look at device manager/processes.  </s>
+<s> i find that ewido, avg, etc., are often working behind the scenes at the same time, and performance tells me they are frugal in cpu power consumption.  </s>
+<s> i am not concerned about cpu time so much as the activity of the mechanical drive.  </s>
+<s> i've turned off a lot of stuff and still the drive is active.  </s>
+<s> almost exactly every second there is at least a small &quot;tick&quot; when the head is seeking.  </s>
+<s> this is accompanied by a short flash of the indicator light.  </s>
+<s> every 10 to 15 seconds, the activity lasts longer, sometimes up to 1/2 second or more.  </s>
+<s> it just doesn't seem that this should be good for the drive!  </s>
+<s> am i just being paranoid?  </s>
+<s> thanks for the discussions.  </s>
+<s> vince  </s>
+<s> i have the same situation after reinstalling xp. what does everyone think of the article performance enhancements in windows xp by andrew binstock  </s>

@@ -1,0 +1,58 @@
+<s> i posted this in xp forum but did not get a response, hence posting it here system details: emachines t2040 desktop 2.0 ghz 40 gb + 120 gb 512 mb ram (256+256) summary of my problem: i had windows xp home on my machine which was running fine.  </s>
+<s> i purchased 'xp professional for upgrade' and installed over xp home .  </s>
+<s> xp pro ran fine for around 2 weeks but suddenly my computer started giving problem.  </s>
+<s> it would shut down after running for 5 minutes whenever you switch it on.  </s>
+<s> it would not run for more than 5 minutes.  </s>
+<s> i thought some virus has attacked my pc, so i tried do a clean install of xp professional on my pc by deleting the existing partitions, creating new partitions and formatting it with ntfs format.  </s>
+<s> while doing so it copies all the file from xp pro cd to my pc and then does a shut down and restart to install xp but it again shuts down after reaching midway.  </s>
+<s> i then tried to do a system restore with the manufacturer oem cd (xp home) on my pc. it copies all the file from cd to hard drive and then it shuts down and restart to set up windows.  </s>
+<s> but when the message comes that windows is starting, the pc would shut down.  </s>
+<s> i did chkdsk /r and then an exit and then started the windows but again it would shut down.  </s>
+<s> i again did a chkdsk /r and then i installed a fresh copy of xp home from oem cd and again at the point when it says windows is going to start, the pc would shut down. is there a way to fix this problem by any software/hardware changes or my pc has gone dead.  </s>
+<s> please help.  </s>
+<s> thanks & regards, png6778  </s>
+<s> this sounds like you are having a power supply problem. the power supply is alot like a car battery in that it can have enough power to run the radio and lights but not enough to start the car.  </s>
+<s> i would get a new power supply and install it in that machine.  </s>
+<s> if you do not know what size to buy here is a handy rule of thumb: for each hard drive, floppy, cd rom, dvd rom you have in your machine figure on 60 watts each.  </s>
+<s> then for each additional board you have, video, audio, lan, etc., add 25 watts each for those.  </s>
+<s> then add 150 watts for the processor and you should have enough.  </s>
+<s> most machines can do fine with 300 watts.  </s>
+<s> i will not install anything less than a 400 watt just to be on the safe side.  </s>
+<s> i hope this helps you!  </s>
+<s> daniel  </s>
+<s> sounds like poor power supply, or overheating generally.  </s>
+<s> at least once a year i do a clean by making sure that all the vents and fans in the computer are open and clean.  </s>
+<s> this includes the important cooler and fan on the cpu.  </s>
+<s> sorry cant be more specific, but generally more software takes more power and cooling.  </s>
+<s> hi, while looking at my power supply , i noticed one thing - around 10 of my capacitors on motherboard have bulged out on top and have some residue on the top. the capacitors which have bulged out were around the heat sink/processor and near the power cable to motherboard.  </s>
+<s> could this be the problem ??? regards, png6778  </s>
+<s> if it is a hardware problem then it sounds like you've identified it.  </s>
+<s> but if you can start in the safe mode then do it and go into your device manager which is in the systems folder located in the control panel and see if you have any yellow and black exclamation marks.  </s>
+<s> if you do, then reload the drivers if you can or uninstall said item if it is not crucial to the running of your machine.  </s>
+<s> you might also look into the add/remove programs in the control panel and if you can remove all programs like automatic installs from microsoft that were added right before your machine started acting up.  </s>
+<s> now like i said, this is all dependant on whether you can boot up into safe mode or not.  </s>
+<s> good luck.  </s>
+<s> it is possible.  </s>
+<s> did you make this system yourself or was it a name brand?  </s>
+<s> i saw you said oem cd's, but you can buy those with systems you make.  </s>
+<s> assuming it was a boxed item from some name brand, you may want to check back with the manufacturer.  </s>
+<s> since you know what a capacitor even looks like, you may want to investigate the power supply and the power switch yourself.  </s>
+<s> make sure all or your hardware (memory, add in cards, cables, etc) are all seated correctly.  </s>
+<s> the same thing happened to me just now.  </s>
+<s> i have the same computer, but its not letting me log on.  </s>
+<s> when i click on it, it just shuts down.  </s>
+<s> what happens after you updated the bios?  </s>
+<s> what make and model is the bios?  </s>
+<s> what codes are listed when you install the tech aid card? the codes are usually 2 numbers.  </s>
+<s> what happens when you use that hd in a 2nd pc? what happens when you use a diff hd in your emachine pc?  </s>
+<s> i have had the same problem with my p4 desktop.  </s>
+<s> try starting windows in safe mode, if it works the problem is with the display adaptor.  </s>
+<s> try disabling it in safe mode and running windows normally.  </s>
+<s> homam  </s>
+<s> if you have found bulging and leaking capictors on your motherboard, problem solved, the board is bad.  </s>
+<s> i can't believe people trying to still give you a software solution after this post.  </s>
+<s> apparently a couple of years ago there was a big batch of substandard capacitors produced.  </s>
+<s> i know that there has been thousands of dell motherboards replaced due to this problem.  </s>
+<s> my personal machine had a gigabyte md. that died after about 2 years with bad capacitors and i am sure there are many others.  </s>
+<s> usually the processor chip, memory and other components are unharmed.  </s>
+<s> your cheapest fix is to buy a new motherboard that is compatable with your cpu and memory and swap it out (usually around $50).  </s>

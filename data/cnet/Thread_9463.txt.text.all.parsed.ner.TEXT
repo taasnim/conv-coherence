@@ -1,0 +1,15 @@
+<s> i have a sound blaster audigy 2zs.  </s>
+<s> all sound from the speakers works, but when i try to use a microphone it doesnt pick up any sound.  </s>
+<s> ive checked all the advanced options and it isnt muted anywhere.  </s>
+<s> i tested the hardware but it never picks up any sound.  </s>
+<s> all the sound drivers under the device manager work, except for one driver, called &quot;multimedia audio controller, which is labeled as unknown.  </s>
+<s> what i dont get is that the mic worked with this exact setup a month ago, and it just stopped working one day.  </s>
+<s> i tried the mic in another computer and it worked, so i know it is not the mic itself.  </s>
+<s> i've tried updating the drivers from the creative website and everything.  </s>
+<s> any help would be appreciated.  </s>
+<s> i might make a complete fool of myself here, lol but i have a couple of questions which u probly hav already stated: 1) are your speakers 5.1 surround?  </s>
+<s> 2) if so have u disabled centre/sub in the sound mixer?  </s>
+<s> this is what happened to me, so i bought audio splitters but i have to turn centre/sub woofer to mic in denni0302  </s>
+<s> type of mic you may have to set a jumper (or remove it) on your card.  </s>
+<s> my shure sm58 cardoid microphone required a jumper to be put in on my clabs x-fidelity card.  </s>
+<s> try one of the cheap pc microphones and see if it works if you are trying a high quality vocal or directional audio mic.  </s>

@@ -1,0 +1,15 @@
+<s> i have search the forums and could not find anything on the subject of my needs.so  </s>
+<s> i am posting.  </s>
+<s> i have read that you are to install 32 bit version first and so i have server 2003 installed and want to install xp x64 after that then vista x64 on the same 500 gig drive can this be done and how?  </s>
+<s> my system is able to run all os. it is a machine i built to fit my needs.  </s>
+<s> please help.  </s>
+<s> to also add i do have server 2003 x64 around the house somewhere i bought about a year or two back.  </s>
+<s> should i install this version and save my self the problems. the reason why i wanted server03 in 32 bit is because i am more familar with it than x64 version of server 2003.  </s>
+<s> there's a few ways to set-up multi-boot systems.  </s>
+<s> all of them will require some sort of way to select which operating system to boot.  </s>
+<s> with a single hd, you'll need to partition it into at least a seperate server 2003 and a windows xp partitions.  </s>
+<s> i've used acronis multiboot manager, is ok. it comes with the disk director suite, which will handle partitioning, too.  </s>
+<s> i haven't done server 2003, but in principle there's no reason it can't be the same re multibooting as any other os.  </s>
+<s> i am going to give acronis a try i have heard that it helps in multiboot systems.  </s>
+<s> here is what i did i installed server 2003 32 bit first then installed xp x64 then vista x64.  </s>
+<s> tested all os systems and it all workd ok.  </s>

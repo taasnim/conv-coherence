@@ -1,0 +1,38 @@
+<s> i'm looking for a little help with some recent issues i've been having with my external lacie hard drive.  </s>
+<s> i've had absolutely no problems with the drive until a few days ago when, after running ccleaner, my pc suddenly started getting really bogged down to the point where opening a simple program like notepad would cause it to crash. the lacie drive has been spinning at an abnormally high volume and the status light is constantly in yellow &quot;active&quot; mode.  </s>
+<s> when i remove the drive, the computer works up to speed as usual, and there are no problems. is it possible that ccleaner removed some sort of registry entry which messed up how the drive works, and if so, how can i remedy this?  </s>
+<s> i also noticed that on the lacie drive itself, several of my photo album folders were somehow corrupted.  </s>
+<s> these folders were renamed as a crypic series of symbols and cannot be opened, edited, or deleted, returning a &quot;the filename, directory name, or volume label syntax is incorrect&quot; message when i try.  </s>
+<s> i've tried a few recovery programs for that data, but none has worked successfully thus far.  </s>
+<s> if anybody has any suggestions for straightening this out, they would be greatly appreciated.  </s>
+<s> thanks!  </s>
+<s> [my system is a dell dimension 4600 pc running windows xp sp2 with a 2.8ghz p4 and 768mb ram. the drive is an external 40gb portable lacie hard drive]  </s>
+<s> sorry but this sounds more like the usual pests.  </s>
+<s> in the security forum the usual free scans would be my next move.  </s>
+<s> it's that or windows is indexing.  </s>
+<s> bob  </s>
+<s> i took your advice and ran several full system scans, with my symantec av software, but came up empty. the odd thing is that the scans only went through 14011 files and only took 03:36.  </s>
+<s> these full scans used to take close to an hour and checked 100s of thousands of files and folders, so i'm not sure it's really doing it's job.  </s>
+<s> is there a chance my av software has become corrupted as well?  </s>
+<s> any advice?  </s>
+<s> thanks!  </s>
+<s> after you ran ccleaner is when problems started,you could have deleted something you shouldn't have.i did that one time with reg seeker.  </s>
+<s> these reg cleaners have the option to back up first before deleting.  </s>
+<s> you can try avg anti spyware and your anti virus in safe mode.  </s>
+<s> not sure if system restore will help.  </s>
+<s> tom  </s>
+<s> i've run my av software normally and in safe mode several times, to no avail, and i also just noticed windows media player won't open.  </s>
+<s> i reinstalled the program itself, but no change.  </s>
+<s> drives slowing my pc to a standstill, av software not operating as usual, programs not functioning at all...got to be a virus of some sort, but how do i get rid of it if my av software won't catch it?  </s>
+<s> thanks!  </s>
+<s> did you run avg anti spyware in safe mode?  </s>
+<s> maybe disable system restore,scan in safe mode,then ser new restore point,then scan in normally mode.  </s>
+<s> tried it, and unfortunately no change .  </s>
+<s> i've used several av and anti spyware programs (including avg) in both normal and safe modes, but they never turn up anything.  </s>
+<s> i've made sure to get the most updated definitions but still no luck.  </s>
+<s> i did scan with spyware doctor, which did find several infected files, but i'm not sure if it was just a ploy to get me to purchase the full version of their software?  </s>
+<s> not sure what i can do at this point to recover the last 5 years of backed up photos, get windows media player working again, and get rid of the corrupted folders/files on my external drive.  </s>
+<s> to me the drive needs to be set aside until you find the pest or bug.  </s>
+<s> until then it is not a good idea to use this drive.  </s>
+<s> over in the virus and security forum is a sticky post with the usual free scanning tools.  </s>
+<s> i list the usual notable disk tools at bob  </s>

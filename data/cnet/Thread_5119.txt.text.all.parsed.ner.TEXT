@@ -1,0 +1,12 @@
+<s> my mobo only supports 4x agp.  </s>
+<s> i wanted to upgrade to a better video card but i am not sure what to do here.  </s>
+<s> does anyone have a suggstion other than replacing the mobo?  </s>
+<s> would cards advertised as 8x work on this system?  </s>
+<s> but many get derailed by odd or miswritten instructions on agp cards.  </s>
+<s> if the agp card fits and if your machine's power supply can supply the extra watts then it's fine 99.99% of the time.  </s>
+<s> bob  </s>
+<s> i know the nvidia cards will work as long as the slot is 1.5v and not the old 3v slot.you won't get the advertised performance gains running a 8x card in a 4x slot, but you should notice an increase in performance over your old card.  </s>
+<s> as far as the ati cards, i haven't used them enough to offer an opinion.  </s>
+<s> &quot;i know the nvidia cards will work as long as the slot is 1.5v and not the old 3v slot.&quot; please research this one and discover that the agp card requests the voltage and there is no set value on the agp voltage.  </s>
+<s> this is the area that confuses most as they try to verify they have a 1.5v agp slot and can't. the really old agp slot in question won't let the 8x card plug in.  </s>
+<s> bob  </s>

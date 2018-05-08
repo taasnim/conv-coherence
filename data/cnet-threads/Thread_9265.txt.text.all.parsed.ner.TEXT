@@ -1,0 +1,11 @@
+<s> i have my xp connected with my me via d-link.  </s>
+<s> how can i get access to the hd of the me from the xp? do i just change the properties of the me hd? thanks  </s>
+<s> you should review such sites as: to see if you forget a step (sharing a folder) or if you installed a firewall that is blocking the share.  </s>
+<s> bob  </s>
+<s> first, make sure your two computers are in the same workgroup: in me, right click on 'network neighborhood' and select 'identification'.  </s>
+<s> in xp, right click on 'my computer' and selct 'properties'.  </s>
+<s> choose the 'computer name' tab and click on 'change'.  </s>
+<s> next, on your me computer, turn on file sharing.  </s>
+<s> get there by opening 'network' in the control panel.  </s>
+<s> finally, choose the folder(s) you would like to share: open 'windows explorer' (windows key + e). right click on the folder to be shared.  </s>
+<s> choose 'sharing...' turn on sharing in the window that opens, and your done!  </s>

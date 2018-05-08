@@ -1,0 +1,30 @@
+<s> hi i have a very small hard drive.  </s>
+<s> i was wondering if there is an easy way to copy everything from my hard drive to a usb flash drive?  </s>
+<s> also,if drive c crashed, could the usb flash drive, which is e, be used as a backup?  </s>
+<s> would the computer know it is supposed to boot off of it?  </s>
+<s> -stephen  </s>
+<s> if your flash drive is larger than the hd, you may be able to copy it over but this isn't going to make it bootable or save you from a hard drive failure.  </s>
+<s> as well, if your hd is ntfs, you may have trouble getting larger files to copy to the flash drive.  </s>
+<s> these tend to be formatted in fat32 and you'd need to change that to ntfs.  </s>
+<s> you'd really only copy your data and not your programs to the flash drive anyway.  </s>
+<s> they won't run from the flash drive and only take up space unnecessarily.  </s>
+<s> thanks steven first i don't intend to change fat32 to ntfs since this is above my knowledge level.  </s>
+<s> i don't have that much data other than about 11gb of music.  </s>
+<s> i was hoping that a flash drive was bootable since i just had a serious problem with my computer and this seemed like a simple idea that might work.  </s>
+<s> so people get a usb hard drive (my guess) and do the files and settings transfer wizard thing (which i've never done) ??? will the computer boot from that if the original hard disk crashed?  </s>
+<s> p.s. original hard disk = 40 gb - stephen  </s>
+<s> lot safer.  </s>
+<s> you don't need any kind of wizard to transfer data from a hard drive to a flash drive. the reason i mentioned going with ntfs is only if you have some very large files as fat32 has something of a 4gb limit and folks who download movies and stuff can have some fairly large files.  </s>
+<s> if you don't do that, there's no problem. the flash drive is seen in explorer just like any other drive.  </s>
+<s> you can select files or entire folder and just copy and paste them from one drive to the other.  </s>
+<s> as for the flash drive being bootable after that....sorry...nope.  </s>
+<s> it's possible to make a flash drive bootable to run some utilities but not windows.  </s>
+<s> thanks ahtoi.  </s>
+<s> thanks steven (yes, explorer sees my 2 gb flash chip as drive e. i noticed that a while back.) but as i said (not talking about a flash chip now): &quot;so people get a usb hard drive (my guess) and do the files and settings transfer wizard thing...&quot; i think in a round about way this may have been answered.  </s>
+<s> (forget about the flash chip for now.) if my drive c crashed and i had transfered everything to a usb hard dirve by using the wizard in windows... would the computer boot up from the usb port with the usb hard drive cabled to it? it seems you're saying no, and there is no easy way to create a bootable full disk back up.  </s>
+<s> thanks, and sorry about the confusion here.  </s>
+<s> i hope we're close to the end.  </s>
+<s> -stephen  </s>
+<s> it might be possible to create a compressed drive image on a large enough flash drive that could be restored to a new hd in the event your old one failed.  </s>
+<s> that's another story but there's no &quot;wizard&quot; that's going transfer your hard drive to a usb flash drive that you can boot from.  </s>
+<s> sorry 'bout that.  </s>

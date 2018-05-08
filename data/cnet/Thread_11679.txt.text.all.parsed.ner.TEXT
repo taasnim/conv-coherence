@@ -1,0 +1,30 @@
+<s> hello, my question is about my dsl modem.  </s>
+<s> prior to having it i had cable modem, it passed the internet ip through to my router and i was able to monitor all traffic from outside to my router to include port scans and hack attempts.  </s>
+<s> with the dsl modem it's a little different; the modem gets the internet ip address and runs nat on the other side and issues a private ip to my router.  </s>
+<s> thats where the problem comes in.  </s>
+<s> even though the dsl modem has a web gui it does not monitor any outside traffic so it is impossible for me to tell if im being probed, flooded, scanned, ect.. does anyone have a solution to this problem or know of a way i can work around this? the model of the modem is prestige 645 by zyxel ds  </s>
+<s> dsl modem with the router builtin.  </s>
+<s> such are built for cost and lowered support calls.  </s>
+<s> you may not like such a modem and will have to replace it.  </s>
+<s> and yes, you always are being probed.  </s>
+<s> bob  </s>
+<s> i just wish there was a way i could monitor them. the only way to beat a hacker is..........  </s>
+<s> what are you going to do with all your logs of random probes?  </s>
+<s> if the zyxel modem is stopping them and none make it through to your router and your network, then you've won.  </s>
+<s> but that wasn't what you asked.  </s>
+<s> read the documentation for your specific model of modem (there are several variants of the 645, and you may have to go to the zyxel site to get the full user manual) to learn how to set it to bridge mode.  </s>
+<s> then it will be just like your old cable modem in that it will no longer perform the nat and dhcp functions.  </s>
+<s> dw  </s>
+<s> exactly where im headed.  </s>
+<s> thanks for you post and take care.  </s>
+<s> darrin  </s>
+<s> what will you do with all those ip addresses?  </s>
+<s> i use a dialup and run zonealarm software as my firewall.  </s>
+<s> some months i delete a list of 10,000 or more probes logged by the software.  </s>
+<s> there's nowhere to report them and trying to follow them is almost imposible.  </s>
+<s> it must be illegal to use software to monitor public network traffic or is it?  </s>
+<s> no one seems to give a flying leep anyhow.  </s>
+<s> i have sent email to several companies and organisations asking them to stop such probes (you can look up the org using arin whois) and some have askd for more info.  </s>
+<s> none however yieled any results.  </s>
+<s> others just ignored my requests.  </s>
+<s> i can only assume that they were probibally cia or fbi... good hunting ron  </s>

@@ -1,0 +1,42 @@
+<s> i recently purchased the ati radeon 9550 and now i'm having a little problem with configuration and would like some help if possible.  </s>
+<s> i opened the ati multimedia configuration and ran the pc test i received three errors which i'm not sure how to correct.  </s>
+<s> 1. directx test results state dx not installed properly to reinstall directx 8.1 or later.  </s>
+<s> - uninstalled/reininstalled dx still getting failed test result.  </s>
+<s> 2. wdm (capture) drivers test results state- possibility of the following wdm devices inf file not installed wdm devices are not listed in registry wdm devices are not loaded or enumerated by the device manager wdm devices are not registered with directshow recommendation: get the capture drivers and the recommended ati display driver from the ati website.  </s>
+<s> i uninstalled/reinstalled driver to no avail same results.  </s>
+<s> finally, last but not least.  </s>
+<s> 3. sound card clock stability test results state - clock stability &lt;+/-0.2%  </s>
+<s> explanation: the audio card clock synchronizes audio with video during dvd playback and video capture.  </s>
+<s> recommendation: ensure that i have the latest drivers for my audio card.  </s>
+<s> video card is a creative audigy sb value 2. the driver that i have installed is ctaud2k.sys  </s>
+<s> dated dec.  </s>
+<s> 8, 2005.  </s>
+<s> i'm sorry for the long post but i'm at a lost as to what i should do to correct the errors i'm receiving any and all help will be appreciated p.s. when i connect my headphones sound is very low i have to turn volume up.  </s>
+<s> if computer specs are needed will provide.  </s>
+<s> __________________  </s>
+<s> about the clock stability.  </s>
+<s> what bios setting do you choose for spread spectrum?  </s>
+<s> if you don't know then dismiss that section and move on.  </s>
+<s> about the wdm capture.  </s>
+<s> where is that capture device?  </s>
+<s> if you don't know, ignore that section.  </s>
+<s> about directx install.  </s>
+<s> see if dxbuster can clean it out and try again.  </s>
+<s> bob  </s>
+<s> thanks bob for replying i'm new at this graphics card stuff and just want this thing to run correctly.  </s>
+<s> in regards to your question about clock stability i'm lost.  </s>
+<s> if i have to adjust something in the bios i could do that if you steer me in the right direction.  </s>
+<s> i looked in device manager and under display adapters i'm showing radeon 9550 and radeon 9550 secondary they both seem to have driver dates of 8/2/06, versions 8.282.0.0 and they're digitally signed from ms. concerning the dxbuster after use do i retain the system32 folder that's on c: or can i delete it?  </s>
+<s> in case it helps here are my computer specs dfi lp875b rev.b1 phoenix-award bios v6.00pg date 01/20/2005 intel p4 2.8 ghz fsb 800 ram: 1gb corsair value select 512x2 ddr400 plextor 708-a dvdr/rw 8-in-one lite-on ltr-24102b (52x/32x/52x cd-rw) video: ati radeon 9550, audio: sound blaster audigy 2 value, hdd: seagate 80gb,120gb 7200rpm, ultra-ata/100) monitor: lg l1732tq lcd os: windows xp pro sp2  </s>
+<s> the spread spectrum bios setting can be found out with google.com  </s>
+<s> dxbuster can be researched with google.com but i never delete the system or system32 folder.  </s>
+<s> at least you've not found a video capture device so we can dismiss that one.  </s>
+<s> bob  </s>
+<s> well bob thanks for your help but i've found a work around on this one.  </s>
+<s> since i'm not a gamer and don't need all of that fancy stuff i decided to go this route.  </s>
+<s> i totally uninstalled the drivers and supporting software and did a driver cleaner pro run (you can get this at - and downloaded the older catalyst 5.11 drivers with the classic control panel.  </s>
+<s> so far running well.  </s>
+<s> i have the same problem, but i am a gamer.  </s>
+<s> i don't know what that has to do with it, but can you help me?  </s>
+<s> how do you uninstall without messing up your video card all together and then reinstall, i also have radeon 9550.  </s>
+<s> if it is not that much trouble could you write to my email account, i have a bad memory when it comes to where i get info, so i might not remember this site, my email is mattthemyth@live.com  </s>

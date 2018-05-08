@@ -1,0 +1,49 @@
+<s> i have 3 ram slots, i have one 1gb stick of ddr ram and two sticks of 512mb ddr ram, my computer works when i put the 1gb stick and one 512mb stick in, it says i have 1.50gb.  </s>
+<s> but when i try to add the last stick of 512mb my computer does not boot up.  </s>
+<s> i installed a program called sisoft to check out my motherboard to see the max amount of ram that can be installed and it says 2gb, i also have tried adding one 256mb of ddr along with the 1gb stick and one 512..but still will not boot up. the motherboard i have is the &quot;asustek p4pe&quot; i am sure every stick i have works, i have tried each one individualy.  </s>
+<s> the 1gb stick is dobule sided dimm.  </s>
+<s> one of the 512 sticks is also double sided dimm. the last 512 stick is single sided dimm.  </s>
+<s> but the computer boots with either of the 512mb sticks along with the 1gb stick.  </s>
+<s> does anyone know whats wrong?  </s>
+<s> =(  </s>
+<s> one of the 512 sticks is also double sided dimm. the last 512 stick is single sided dimm.  </s>
+<s> i think these need to be an identical pair to work &quot;together&quot;  </s>
+<s> while you mention the mb size of the memory, its important to know what class&type the memory is.  </s>
+<s> if they differ too much of amongest the total of the ram installed you have computability problems not to include the system itself.  </s>
+<s> in the system, the bios must be at its latest level as it *may* correct or help in this regard. the ras and cas rating of the ram are part of its make-up so if they differ, expect problems.  </s>
+<s> one way i look into the make-up of a ram module is to use everest home edition, gotten from some download file service, like or or similar websites.  </s>
+<s> once installed and used, find the differences of ram installed and proceed from that. it usually makes sense to have very similar memory installed, besides mb sizes.  </s>
+<s> tada -----willy  </s>
+<s> therein lies the answer.  </s>
+<s> vapcmd  </s>
+<s> i believe this has been answered for you...but i am no expert.  </s>
+<s> what you have is mis matched.  </s>
+<s> either all 2 sided or all 1 sided... it's a conflict.  </s>
+<s> you can only install 3 single sided ram,if you install a double sided in slot 2 you must leave slot 3 empty as slots 2 & 3 'share the same rows'.so  </s>
+<s> you can have either single or double sided in slot 1 with either 2 single sided in the remaining 2 slots or 1 double sided in slot 2 with slot 3 remaining empty.  </s>
+<s> what you have is a timing problem.  </s>
+<s> it is likely that you have a newer stick that is too fast for the slower 512mb stick.  </s>
+<s> without seeing the specs on each stick it is hard to say exactly which one has an issue, but it sounds like the newer one is causing the timing problem.  </s>
+<s> count of the chips on the stick should not matter.  </s>
+<s> look each stick of memory online to see the specs and that should help you determine what is the conflict.  </s>
+<s> your motherboard only supports memory with speeds up to 333mhz.  </s>
+<s> now, if each of the sticks works individually, then that is the test to see if each is at or below this limit.  </s>
+<s> memory matching: it is not advisable to install memory of different speed/type/size in any one machine, much less paired slots.  </s>
+<s> when i advise freinds (or build systems for them) i always make them buy new ram.  </s>
+<s> why recyle those old pos sticks?  </s>
+<s> to save $20? a 1gb stick of value priced ram can be purchased for less than $60.  </s>
+<s> 2x2gb for less than $160.  </s>
+<s> there is no excuse for cheap ram.  </s>
+<s> or maybe your mobo's fried/bad socket.  </s>
+<s> i had the same experience when replacing a 128mb ram in slot 2 of an intel 810 chipset with a 256mb ram in the same slot 2. pc would not boot with 256mb chipset.  </s>
+<s> removed 256mb chipset and pc did boot with the existing 256mb chipset in slot 1, slot 2 empty.  </s>
+<s> pc also would not boot when i inserted the original 128mb ram in slot 2. pc manufacturer said my pc would only hold 256mb ram.  </s>
+<s> intel website said capacity was 512mb in two slots.  </s>
+<s> intel website suggested upgrading bios.  </s>
+<s> since intel no longer supported the 810 chipset i had to go to a second party provider for $40.  </s>
+<s> upgraded bios allowed the pc to boot with 512mb ram.  </s>
+<s> a side benefit was improved performance from the pc with the new bios.  </s>
+<s> about six months later i reinstalled windows xp which deleted everything from the hard drive to clean up the computer.  </s>
+<s> low and behold the pc booted with 512 mb ram without the new bios.  </s>
+<s> apparently when i had the original problen adding ram something happened so that the slot 2 ram was causing a conflict.  </s>
+<s> go figure.  </s>

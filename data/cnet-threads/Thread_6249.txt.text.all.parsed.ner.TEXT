@@ -1,0 +1,69 @@
+<s> while under minimal load, my computer spontaneously shut off.  </s>
+<s> i rebooted, and several minutes later it happened again.  </s>
+<s> i booted down and vacuumed everything out.  </s>
+<s> i made sure my cpu was locked in place 'cause my computer shuts off if it isn't.  </s>
+<s> when i tried to boot back up, it shut down in a few seconds.  </s>
+<s> and again and again.  </s>
+<s> sometimes it will boot for up to thirty seconds but then shuts off.  </s>
+<s> video, mouse, keyboard don't work.  </s>
+<s> no beeps when it stays on for more than a few seconds.  </s>
+<s> i took out everything but one stick of ram, the cpu, ps, and motherboard.  </s>
+<s> immediately shut off.  </s>
+<s> when i put my gpu in, it stayed on for about fifteen seconds the shut off.  </s>
+<s> still no video.  </s>
+<s> specs: ocz gamexstream 700w psu nvidia geforce 8600gts seagate 320gb sata hd nforce 650i ultra chipset four 1gb 800mz ram core 2 duo e6750 2.66ghz cpu nothing is overclocked.  </s>
+<s> &quot;i made sure my cpu was locked in place 'cause my computer shuts off if it isn't.  </s>
+<s> &quot; i'm betting you meant to write about the cpu's heat sink and fan unit.  </s>
+<s> if that falls off and you just stick it back on then voids in the heat sink compound may form.  </s>
+<s> fix?  </s>
+<s> add a little more compound and hope that's it.  </s>
+<s> bob  </s>
+<s> the heatsink has been locked in place for about a year now.  </s>
+<s> it got loose about a year ago when i was cleaning it out, but since then i haven't had any problems.  </s>
+<s> i suppose if that's not the problem it's like the power supply?  </s>
+<s> i assume cpu's are much more robust.  </s>
+<s> cpus are not robust.  </s>
+<s> and we are talking about one dollar here.  </s>
+<s> if you can't put one dollar of heatsink compound in to remove this from the suspect list or want to discuss heatsink compound and how it should dry out or need more then i must move on.  </s>
+<s> this is a simple thing, easy, cheap and something i encounter weekly.  </s>
+<s> try that!  </s>
+<s> bob  </s>
+<s> i went and bought some compound.  </s>
+<s> got the most expensive kind. the paste that was left on my cpu was almost gone, so i think i did some preventive maintenance, but the problem is still the same as before.  </s>
+<s> but the 8600gts is my next suspect. the 8400 and 8600 chips are dieing all over.  </s>
+<s> beg, borrow any other card for a test run.  </s>
+<s> and for now, leave the case cover off till it gets better.  </s>
+<s> bob  </s>
+<s> shouldn't i be able to hear beeps after booting even without a gpu?  </s>
+<s> also, if i let it sit for a while, it will stay on for about thirty seconds, albeit still with no video or anything.  </s>
+<s> each time i boot after that, the amount of time it stays on gets shorter.  </s>
+<s> find each heat sink to clean off.  </s>
+<s> and you have compound, drop a little on each and hope you find it.  </s>
+<s> otherwise we get to replace parts till you find it.  </s>
+<s> bob  </s>
+<s> see event viewer for clues.  </s>
+<s> cpu heat sink compound -&gt; check!  </s>
+<s> machine cleaned -&gt; not sure.  </s>
+<s> read the nvidia geforce 8600gts possible failure -&gt; haven't read if another card was tried.  </s>
+<s> this and the 8400 dropping like flies out there.  </s>
+<s> other heatsinks and compound -&gt; i'd do that!  </s>
+<s> bob  </s>
+<s> i have had a similar problem twice recently,the first time about 3months ago was a virus(i had to format my os harddrive)and more recently a faulty usb device (my webcam),if your sure its not a virus unplug all your usb devices (incl.key board & mouse if necesary-use non usb devices) if no joy it could be your psu loosing/low power output?  </s>
+<s> good luck maurice  </s>
+<s> i see that above answers can solve your problem.  </s>
+<s> if it doesn't.... did you try reseting the bios by removing the battery for 15 mins?  </s>
+<s> this may sound odd in this case but never know, bad bios settings can also cause this.  </s>
+<s> if still no go then it must be the psu or mobo(motherboard) itself a cause of problem.  </s>
+<s> bad bios is not likely to be your problem unless you made changes to it since your problems first started.  </s>
+<s> if bios worked before (and no settings have been changed since then), then it is not a suspect.  </s>
+<s> do not remove your bios battery without first backing-up your current bios settings!!!!!  </s>
+<s> i'll let the other commenters go over the possible fixes, but i've experienced this symptom on 2 computers in the past and they are telling you to harvest your important files to a usb stick pronto, because you're about to experience massive and probably permanent failure...  </s>
+<s> have you tried a new power supply?  </s>
+<s> i would investigate the bios settings.  </s>
+<s> i have experienced spontaneous changes in bios settings on a few computers.  </s>
+<s> most computers of recent vintage have temperature monitoring circuitry.  </s>
+<s> the bios settings allow you to select a preselected temperature to execute an automatic shutdown.  </s>
+<s> i would increase the temperature indicated to see if there is any change in the shutdown time.  </s>
+<s> if the computer remains up longer i would suspect either a faulty sensor or faulty component.  </s>
+<s> you can also disable the temperature sensing / shutdown option.  </s>
+<s> good luck  </s>

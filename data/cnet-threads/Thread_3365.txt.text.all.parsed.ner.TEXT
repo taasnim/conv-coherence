@@ -1,0 +1,15 @@
+<s> hello, i have an asustek p4b motherboard, which has 3 slots for memory.  </s>
+<s> i have 2 sticks of 512 in there and i am trying to add a third stick of 512.  </s>
+<s> i can put in any of the 2 sticks, into any of the 3 slots (conclusion all the memory is fine and the 3 slots are fine also).  </s>
+<s> but whenever i put in all 3 sticks of memory windows xp will not start up. it keeps trying to start up over and over again.  </s>
+<s> i cannot even get it to start up in safe mode.  </s>
+<s> does anyone know what might be the problem?  </s>
+<s> thanks in advance!!  </s>
+<s> you tried it with just the one new stick.  </s>
+<s> but there are boards that do that.  </s>
+<s> you have little choice but to replace ram or the motherboard.  </s>
+<s> bob  </s>
+<s> have been many mbs that simply won't function when all dimm slots are used/populated even if the ram is 100% compatible with the mb. vapcmd  </s>
+<s> hi all, thanks for your replies.  </s>
+<s> i finally figured out what the problem is.  </s>
+<s> it seems that the p4b motherboard cannot take 3 double-sided memory sticks!  </s>

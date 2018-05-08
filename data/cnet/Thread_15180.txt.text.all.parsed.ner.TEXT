@@ -1,0 +1,57 @@
+<s> just got in for $499.  </s>
+<s> everything looks great so far.  </s>
+<s> i added a ati radeon x800 xl pcie, and that is working great (wish that card had 2 dvi ports though).  </s>
+<s> got 2 x 1gb 400ddr pc3200 memory sticks.  </s>
+<s> haven't received just yet. the mobo appears to be msi.  </s>
+<s> logitech z-2300 speakers are on the way also.  </s>
+<s> now for the fun stuff: i am going to swap the hard drive with the two other drives from my older computer.  </s>
+<s> i am going to move my ati hdtv tuner from the old computer to the t6212.  </s>
+<s> several questions: 1. do i need additional ps wattage? the one in the box is 300w (or 350, i forgot but i am pretty sure it is 300) 2. sounds like i can't overclock the pc but can i overclock my ati graphics card?  </s>
+<s> 3. what happens to the integrated memory set aside for the graphics now that i have my own card?  </s>
+<s> 4. i can merge two monitors together using the dvi and vga port on the ati card but the quality drops (1280x???) instead of 1920x1200.  </s>
+<s> is there any way possible that i can have the two monitors setup on the same machine and use one screen for the pc and use the other screen for tv viewing?  </s>
+<s> 5. with 4 slots for memory, i am hoping that i can throw the 2 sticks of 1gb with the other 2 slots that are filled with 2 x 256 for a total of 3gb??? thanks.  </s>
+<s> 1. yes you do need to buy a new power supply.  </s>
+<s> x800xls require at least 350w.  </s>
+<s> look at antec, ocz, or enermax.  </s>
+<s> 2. no you cannot oc your cpu, yes you can the gpu.  </s>
+<s> i used ati tool, free download, for easy oc. 3. it shouldn't decrease any memory from your main memory if you have your onboard graphics disabled.  </s>
+<s> check your system properties to make sure.  </s>
+<s> 4. yes you can use two monitors.  </s>
+<s> thats all i know for that ?  </s>
+<s> lol 5. just stick with 2 sticks of 1gb.  </s>
+<s> dual channel will do the rest konny  </s>
+<s> how do i know which psu i should get?  </s>
+<s> do i need additional cooling?  </s>
+<s> i could always go to 4gb of ram  </s>
+<s> doubt you need additional cooling, you could get any psu with the proper number of pins in your mobo.  </s>
+<s> get something with at least 18a on +12v.  </s>
+<s> 400watt or higher.  </s>
+<s> as for whther it'll fit, i dk, you might want to take measurements roger  </s>
+<s> &quot;how do i know which psu i should get?&quot; what damasta55r said and make sure it is an atx power supply.  </s>
+<s> i believe emachine has a regular atx power supply so that should be fine.  </s>
+<s> look for dual fans and or one 120mm fans inside the psu.  </s>
+<s> this will prolong the life of it and also help remove heat from your case so that you dont need additional cooling.  </s>
+<s> personally, i recomend this model, as its in my machine now and has been running with no problems for over 5 months now.  </s>
+<s> also check enermax and ocz, but the above would be my choice.(bestbuy,  </s>
+<s> newegg, and frys carry this) konny  </s>
+<s> you need memory that can handle over clocking otherwise you can burn out the sticks as well as fry the cpu.  </s>
+<s> also if you are going to replace the hd drive go with a sata drive and set up a raid system using eid hd  </s>
+<s> well, i wish i had a different drive.  </s>
+<s> i ghosted my old drive to the emachines installed drive (seagate 160mb) and now i get a hal.dll missing error when the pc boots up.  </s>
+<s> i tried just copying the new hal.dll overwriting the hal.dll but no luck.  </s>
+<s> should of expected this.  </s>
+<s> i don't want to do a new install of windows because i don't have the disks and don't have cd's for most of my apps.  </s>
+<s> i tried editing the boot.ini  </s>
+<s> file but no luck there either.  </s>
+<s> any suggestions?  </s>
+<s> if you're planning to stick with your current processor you don't need a new psu. the x800xl uses very low energy (like 60watts).  </s>
+<s> go check out the x800xl online.  </s>
+<s> my friend has a 250watt(or 270watt cheap psu) psu; he got an x800 overclocked with a 3500+ and 768ram, no cooling except cpu/heatsink, 1 double layer cd/dvd combo and last but not least, a 120gb hd. no problems at all.  </s>
+<s> his computer doesn't get very hot, sometimes very warm.  </s>
+<s> google the x800xl yourself and find out.  </s>
+<s> i have a t2542 (don't laugh), ran disk clean up with every thing selected and after a restart, i can't boot but restore my computer using the cd that was supplied.  </s>
+<s> (i did exactly the cnet weekend project told me)  </s>
+<s> an x800 is different from the x800xl.  </s>
+<s> suggest you get at least 350watts.  </s>
+<s> if you have very little things to powere, you may get away with it.  </s>

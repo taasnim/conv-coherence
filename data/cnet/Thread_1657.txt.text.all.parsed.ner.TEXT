@@ -1,0 +1,40 @@
+<s> here is my situation.  </s>
+<s> recently had my win2k machine go bad (motherboard/processor) so i got a new machine and now i need to transfer some of the files from my old hd over to the new one. the new machine is running xp sp2.  </s>
+<s> will i be able to buy an enclosure and hook it up via the usb connector to my new machine and move those files over?  </s>
+<s> like i mentioned before, the old hd has windows 2000 on it.  </s>
+<s> i've read several threads on here concerning similar instances but haven't seen one yet that involves win2k and xp working together like this.  </s>
+<s> any help would be appreciated.  </s>
+<s> i did place a win2k drive from a tower machine into an external enclosure connected via usb and was actually able to boot from it.  </s>
+<s> xp was able to see the drive.  </s>
+<s> however, if all you wish to do is transfer a few files, it might be easier and cheaper to just temporarily connect the drive to an internal ide port. the only risk here is that xp will see the hardware change and put one checkmark against your quota before reactivation is needed.  </s>
+<s> thanks for the reply.  </s>
+<s> since i just got this new machine yesterday i would be afraid that it might void my warranty should i open the case plus i really dont want to screw up anything although i feel comfortable upgrading stuff.  </s>
+<s> i guess its just kinda &quot;gun shy&quot; from all the computer problems i have encountered over the past couple of weeks.  </s>
+<s> i actually would like to keep the internal drive in the enclosure even after transferring the files as a easy way to back up my files since this is something i have never really done very well in the past.  </s>
+<s> i dont particularly want to boot from the external drive but rather just have xp recognize it and allow me to move some of those files over to the new hd. would there be a problem with this?  </s>
+<s> if connections are proper, you should have nothing to lose.  </s>
+<s> i cannot think of a reason xp would damage the drive but it's been known to alter the mbr.  </s>
+<s> once you transfer what you wish, you can format it for whatever use you desire.  </s>
+<s> when you put the drive in the enclosure, set the jumper to cs (cable select) as it will be a single drive.  </s>
+<s> boot xp and then insert the usb plug.  </s>
+<s> xp should first detect and configure the controller and then recognize the drive and give it a drive letter.  </s>
+<s> it will then appear in &quot;my computer&quot;.  </s>
+<s> ok, lets say i got the route of the enclosure and it does work.  </s>
+<s> after i transfer my files will i be able to format the drive in the enclosure or will i have to install it in a machine as a slave or whatever to get this to work?  </s>
+<s> thanks for the help.  </s>
+<s> well i hooked up my old hd as a slave in the new machine and just moved the files over that way.  </s>
+<s> now since that part is taken care of, i need to format my old hard drive and still buy an enclosure to mount it in so i can have a good backup system in place in case of any future problems.  </s>
+<s> what's the simplest way to format a drive and handle this task?  </s>
+<s> can it be done while in the enclosure or will i need to hook up the old hd as a slave again in the new machine to do it?  </s>
+<s> change the jumper to cs (cable select) and put it in the enclosure.  </s>
+<s> i paid about 40 bucks each (free shipping) from new egg for mine.  </s>
+<s> xp w/sp2 easily configures these.  </s>
+<s> once it's given a drive letter, you can format it from windows explorer.  </s>
+<s> right click the drive and select &quot;format&quot;.  </s>
+<s> i saw some on newegg the other day in the mid $20's each.  </s>
+<s> i will probably place the order soon to get this stuff done and out of the way, i'm so tired of messing with the computer internals.  </s>
+<s> haha  </s>
+<s> formatting right from windows explorer will only work if the drive has an existing partition.  </s>
+<s> your win2k has such so this will work.  </s>
+<s> a new unpartitioned drive (or repartioning) is handled using the disk management function found within administrative tools in the control panel.  </s>
+<s> keep that in mind if you decide to add more externals.  </s>

@@ -1,0 +1,9 @@
+<s> when i boot up my system lately, sometimes my bios post screen shows up and my bios settings have changed such as my voltage settings for my cpu speed and ram settings, my boot order, seek floppy disk, it loads my onboard audio which i have disabled because i have a sound card, i will go into my bios again and change it again sometimes it will boot into windows for a minute or two then try to reboot all over again and i will get no video at all and my monitor light will blink red and not beep and go to green.  </s>
+<s> at first i thought it was the cmos battery even though my clock never lost time and i replaced the battery but thats not it.  </s>
+<s> i believe that my motherboard has gone bad, but i need advice before i replace it, once i do get it to boot to windows it runs fine.  </s>
+<s> here are my specs.  </s>
+<s> shuttle ak 35gt2 mb amp athalon xp 2200 cpu 1 gig pc2700 memory ati 9550 256 meg agp video card turtle beach 5.1 sound card maxtor 120 gig hd windows xp pro sp2 (full version)  </s>
+<s> sounds like it's failing - besides, you can't diagnose a bad motherboard without testing with a known good psu! and if you do wind up needing a mobo, you'llwant a new psu to protect it anyway!  </s>
+<s> good luck  </s>
+<s> i thought it was the power supply at first but didnt think it would have an effect on my bios settings, but i will try that first if i do change the mb how do i delete the current mb drivers such as the 4 in 1 drivers so that i can install the new mb drivers, i am looking at a different brand of motherboard.  </s>
+<s> except the psu - you cannot diagnose or properly set-up your system without a known good psu  </s>

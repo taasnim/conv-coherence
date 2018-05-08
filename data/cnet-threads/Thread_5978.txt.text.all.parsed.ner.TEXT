@@ -1,0 +1,7 @@
+<s> during startup my computer is giving me an error message: explored caused an exception oih in module shdocvw.dll at 0167:77c6901b any ideas...please help.  </s>
+<s> thanks,  </s>
+<s> look at the top note: if you're asking for technical help, please be sure to include all your system info, including operating system, model number, and any other specifics related to the problem.  </s>
+<s> as the other post says you haven't told us much, you say you get the error but dont say if your system crashes!  </s>
+<s> anyway shdocvw.dll is a iexplorer file so it is likely you have spyware as (i assume) a program at startup is trying to load a web page.  </s>
+<s> therefore run spyware programs and if that doesn't work stop items in the startup folder of msconfig from loading until you find the culprit.  </s>
+<s> peter  </s>

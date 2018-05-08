@@ -1,0 +1,18 @@
+<s> ok so i was wiping 2 drives on 2 different computers both 7 passes, i have another 3-4 hard drives i have to do my question is what if i were to do 1 pass seven times, will that be considered &quot;7 passes&quot;?! what if i were to do two 3 passes, would that equal 6 passes?  </s>
+<s> i don't see any error.  </s>
+<s> kees  </s>
+<s> even a single pass is more than sufficient unless you have access to a billion dollar forensics lab.  </s>
+<s> why so many?  </s>
+<s> i have always done 1 pass and it did the job.  </s>
+<s> on top of that repeated passes on large hds do take time. the military(dod) spec is 5 passes, fyi.  </s>
+<s> there maybe others suggesting more, but intense 1/0 writing can tax a hd so be careful, you may actually break the hd under intense usage.  </s>
+<s> tada -----willy  </s>
+<s> thanks for the reply guys, i let it finish and it said did it actually finish or did it fail?  </s>
+<s> what does the error mean?  </s>
+<s> dban succeeded all selected disks have been wiped.  </s>
+<s> -pass scsi disks 465gb -error /dev/sda (pocess crash) press any key to continue then it goes to that usual red and white page  </s>
+<s> i see open discussions on that at  </s>
+<s> if i remember right, i've always done dban on 1-hd installed in the system.  </s>
+<s> disconnect all others and if this is the actual 2nd hd, make solo as if only on port 1, etc.. doing so, helps defeat the error popping-up but i urge trying this before trying anything else.  </s>
+<s> plus, the error probably is more of a procedural one than a h/w fault.  </s>
+<s> tada -----willy  </s>

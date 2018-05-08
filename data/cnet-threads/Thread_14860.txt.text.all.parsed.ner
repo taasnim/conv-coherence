@@ -1,0 +1,6 @@
+(TOP (SQ (MD can) (NP (NN anyone)) (VP (VB advise) (NP (DT the) (NN proceedure)) (S (VP (TO to) (VP (VB achieve) (NP (NP (JJ port) (NN forwarding)) (PP (IN on) (NP (DT this) (NN router)))))))) (. .)) )
+(TOP (S (S (NP (PRP i)) (VP (AUX 'm) (VP (VBG installing) (NP (NP (NNP a) (POS ')) (NN slingbox)) ('' ') (-LRB- -LRB-) (-RRB- -RRB-)))) (CC and) (S (NP (PRP it)) (VP (VBZ needs) (NP (NP (NN access)) (PP (IN past) (NP (DT the) (NN router))) (PP (TO to) (NP (NP (DT the) (NN internet)) (PP (IN for) (NP (JJ external) (NN viewing)))))))) (. .)) )
+(TOP (NP (NNS thanks) (. .)) )
+(TOP (S (NP (PRP it)) (VP (VBZ covers) (NP (DT this)) (PP (IN for) (NP (JJS most) (NNS routers)))) (. .)) )
+(TOP (NP (NP (NNS thanks)) (PP (IN for) (NP (DT the) (NN link))) (. .)) )
+(TOP (S (VP (VBZ seems) (S (VP (TO to) (VP (AUX have) (NP (NP (DT the) (NN info)) (SBAR (S (NP (PRP i)) (VP (AUX need))))))))) (. .)) )

@@ -1,0 +1,7 @@
+<s> i have a netgear wpn824n and a linksys e1000n routers. the linksys is connected to the cable modem and the netgear wan port is connected to the &quot;2&quot; port on the linksys.  </s>
+<s> computers connecting to the netgear can connect to the internet ok. but devices on the netgear network cannot connect to devices on the linksys network and vice versa.can anybody explain to me how to set up so devices connected on one router can identify and communicate with devices on the other?  </s>
+<s> don't use the wan port on the netgear to connect to the linksys.  </s>
+<s> use the numbered lan ports to connect the two routers together.  </s>
+<s> turn off dhcp on the netgear.  </s>
+<s> your devices should receive ip's from the linksys.  </s>
+<s> noted at  </s>

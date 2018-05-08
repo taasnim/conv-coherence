@@ -1,0 +1,12 @@
+<s> is there any noticeable real-world performance difference between installing an operating system on a single 300gb velociraptor vs 2 300gb velociraptors in raid 0? my plan is to install windows 7 home premium 64-bit.  </s>
+<s> i'd say no. might notice a difference on some disk intensive apps but the speed gain/increase might not be worth the cost.  </s>
+<s> vapcmd  </s>
+<s> while i really enjoy high tech fast machines the brutal truth is that raid in all forms tend to overwhelm the home users with the need to know more than they bargained for.  </s>
+<s> i'd setup this with a single drive and use a possibly cheaper drive as a second clone copy for the day it goes south.  </s>
+<s> and then we still need backup!  </s>
+<s> bob  </s>
+<s> that seems to me to be way too much disk space for a primary drive.  </s>
+<s> if you're bent on raid 0 with these 10000 rpm drives, why not consider the less expensive 150 gig drives.  </s>
+<s> that gives you 300 in raid 0 which will hold a lot of software.  </s>
+<s> my preference is to store data off of the primary drive as this tends to grow to enormity and makes backing up more complicated if the primary drives grows with it.  </s>
+<s> i prefer to get a huge secondary drive plus an external or two to store data and use for backups....maybe a nas too.  </s>

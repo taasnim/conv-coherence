@@ -1,0 +1,32 @@
+<s> i purchased a hard drive without realizing that there had been an advancement in technology.  </s>
+<s> i currently have an eide connected hard drive, but purchased a serial ata-300, what can i do or purchase to make this new hard drive work.  </s>
+<s> thanks for all answers.  </s>
+<s> maybe it can use this new drive?  </s>
+<s> it is a compaq presairo with xp 2002, pentium 4, 2.5ghz.  </s>
+<s> not sure if that is what you are asking for. the computer itself is 4-5 years old  </s>
+<s> but not enough.  </s>
+<s> without a model number i can't explore if your machine had support, whether a card or converter could be used.  </s>
+<s> to speed up this discussion, head to compaq.com,  </s>
+<s> find your machine and share a link to it.  </s>
+<s> bob  </s>
+<s> read the manual or visit the support website and read about the specs.  </s>
+<s> if no mention of any sata ports on your system model#, then you have to buy a sata adapter.  </s>
+<s> you add either an adapter to the sata drive itself and become eide capable.  </s>
+<s> -or- buy a sata pci type card to install which adds sata ports to install your new drive.  </s>
+<s> if possible and you can return the new sata drive for eide type, try that, minus any s/h costs, etc.. tada -----willy  </s>
+<s> the model number is s5000v  </s>
+<s> sorry, you'll have to use an adapter like bob  </s>
+<s> hopefully this will be my last question.  </s>
+<s> will the adapter that you directed me too, support this hard drive?  </s>
+<s> but like all things pc, you can't warrant the answer.  </s>
+<s> i purchased the adapter that was recommended above, hooked it up to the mother board and then the cord to the hard drive, the power light is on the adapter but when i start it up and go to my computer it is not recognized.  </s>
+<s> any thoughts?  </s>
+<s> i forgot to mention that i would like to set up the sata as the slave  </s>
+<s> the unit is configurable and many can't make them work.  </s>
+<s> i've been a bit lucky with such things.  </s>
+<s> it's a bit odd to try it as slave. the unit i had only worked by it's lonesome on the primary ide channel.  </s>
+<s> that is, i set the switch, plugged it into the motherboard primary ide channel and it worked.  </s>
+<s> but then again i had to install the os which for some is like building a moon shuttle in their garage.  </s>
+<s> here's another card i'll try next week.  </s>
+<s> i'll try it with a few configurations such as one drive, no drives in the pc which has no sata ports, etc. so it should be fun.  </s>
+<s> bob  </s>

@@ -1,0 +1,37 @@
+<s> hi i would like to know if its safe to keep a usb flash key with my backup saved on it in my computor usb drive at all times or when i have finished a backup should i take the usb key out?. this is because i noticed it flashing red when i was not using it.  </s>
+<s> and i was wondering why it was flashing and thought it was spyware or was it just windows xp os or firewall checking it.  </s>
+<s> thanks  </s>
+<s> 1. multiple copies.  </s>
+<s> 2. remove the media from the site.  </s>
+<s> 3. write protect the media.  </s>
+<s> there are more but this is not backup as long as there is no write protection, not removed from the computer and no second, third and more copies.  </s>
+<s> i'm going to answer &quot;no.&quot;  </s>
+<s> bob  </s>
+<s> if you open up windows explorer or an open/save dialog in most software (which opens up a subset of explorer), windows may do a quick scan of what drives are available on the system, thus making your usb drive blink.  </s>
+<s> no, it's not a good idea, and here's why; a flash drive has a limited life - i've heard 100,000 &quot;writes&quot; mentioned as the limit.  </s>
+<s> if the drive is flashing, it means that it's being accessed, and it's life being used up.  </s>
+<s> this is specially true of &quot;journalling&quot; os's, like ntfs; a read accesses the drive as much as a write.  </s>
+<s> burn it to disc(s)and get an external hard drive; most come with backup software.  </s>
+<s> yes, and burn that to disc.  </s>
+<s> today is a good day to do this.  </s>
+<s> bob is absolutely right - if this is your backup - you have no backup if you leave it in the computer.  </s>
+<s> it's not unknown for usb ports to &quot;spike&quot; which can destroy a flash drive; if someone accidentally pulls it out without stopping it properly, it can be history (see archive posts) and, of course, some klutz like your pet may knock it and break it.  </s>
+<s> to be honest, i don't think flash drives are a good long term backup device.  </s>
+<s> an external hard drive is better and reasonably affordable these days.  </s>
+<s> vista has a terrible time with usbs left plugged in.  </s>
+<s> they can seriously effect the start up of an already slow starting os. i kept mine plugged into the back of my pc to run &quot;ready boost&quot; and had loads of problems with it.  </s>
+<s> there could have been changes made in sp2 to have fixed this problem.  </s>
+<s> bottom line for me is, if i can't leave a usb plugged in to run &quot;ready boost&quot; i will not waste the time plugging one in each time i use my pc. the small improvement &quot;ready boost&quot; provides in performance is simply not worth the effort nor the hassle.  </s>
+<s> i can understand the logic of keeping backups out of harm's way - up to a point - but i can't go along with the idea that flash or pen drives are any more vulnerable to being damaged or corrupted than any other type of drive - quite the reverse in fact.  </s>
+<s> all my pc's have usb2 expansion cards installed, with an on-card internal socket; i use a 2 or 4 gb pendrive in that socket as a permanent backup drive for recovery use should the system go down for any reason.  </s>
+<s> in the case of my xeon server, the original pendrive is still fully functional after six years of logging site and data changes, plus hit counters and ip logs on a daily basis, so i think the point is proven from that angle. the other aspect of the equation is that hard drives are heavy, hot and use a lot of power to drive them, which vastly increases the running costs; however the move towards sshd's is gaining momentum now that initial costs are falling, so we'll probably see the demise of conventional ide / sata drives within the nexr ten years or so.  </s>
+<s> as sshd's are little more than parallel-banked flash memory modules, i really don't see the distinction between them being of any great importance - the hd version is simply a bigger version of the same thing.  </s>
+<s> jb.  </s>
+<s> thanks every one for the all your helpful advice.  </s>
+<s> the usb flash key is not my only backup.  </s>
+<s> i do have cd rw and cd r backup.  </s>
+<s> there could be something bob mentioned about the media that i backed up and with the music license that i backed up the write protection and copies.  </s>
+<s> there is also a possibility what mikebliv said about window explorer doing a quick scan of what drives are available on the system making the usb drive blink.  </s>
+<s> my usb flash key has 4gb it is a ready boost available.  </s>
+<s> i do find using it convenient easier than a cd. i will now not leave the key plugged in the pc as a precaution.  </s>
+<s> thanks hele  </s>

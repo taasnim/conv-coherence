@@ -1,0 +1,15 @@
+<s> hi there, i am running windows xp pro on my pc, windows vista on my laptop, and seem to be having issues regarding file sharring.  </s>
+<s> file sharring has worked in the past, however i am having trouble after some recent changes.  </s>
+<s> both computers are on the same network.  </s>
+<s> i have installed lttd on the xp machine.  </s>
+<s> when i view network map on my laptop, i am able to see my desktop connected on the network.  </s>
+<s> when i go into network on my laptop however, i am not able to see the shared folders that i have on my xp machine.  </s>
+<s> also to add, when i am running azureus on my desktop, i am able to see a media folder under networks on the laptop.  </s>
+<s> any ideas as to why i cannot see my shared folders?  </s>
+<s> thank you  </s>
+<s> did you run the network setup wizard?  </s>
+<s> firewall?  </s>
+<s> what &quot;recent changes&quot;?  </s>
+<s> yes. ran the network setup wizard, and set both pcs on the same workgroup.  </s>
+<s> firewalls are turned off on both computers.  </s>
+<s> as to recent changes, i had done a system restore a few weeks ago, and since then have not been able to share files between the two.  </s>

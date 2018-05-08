@@ -1,0 +1,34 @@
+<s> i have an older dell (dimension 4100, 933mhz, 512mb ram from 2000) that i'm nursing along until i build a new pc. in the mean time, it's driving me crazy!  </s>
+<s> when i start it, it boots fairly quickly, but the av (nod32) does a start up scan which renders the maching next to unuseable until the scan is completed.  </s>
+<s> i just reformatted the hd, ran auslogics boost speed, which helped, but not much during the av scan period.  </s>
+<s> when i check performance with windows task manager, the cpu is at 100%, ram about 60% usage.  </s>
+<s> i don't have that many programs installed, and only the av, zone alarm, and system32ctfmon run at start up, according to msconfig. the startup folder is empty.  </s>
+<s> doe you think the cpu is getting ready to fail? is my av that big of a resource hog?  </s>
+<s> there is now so many more threats.  </s>
+<s> in 2000 there were only so many threats so the virus database to check against was only so big.  </s>
+<s> it's now 2010 and for a proper antivirus scan it is going to consume that single core cpu and all the ram as it runs.  </s>
+<s> sounds proper.  </s>
+<s> bob  </s>
+<s> :-(( yeah, i was afraid of that, but thought it was a bit much.  </s>
+<s> the same av startup scan barely fazes my core2duo laptop. the new pcs i'm looking at for work are either a dell optiplex 780 core2 duo or quad from the outlet or the newer vostro 430 or optiplex 980 i5 650.  </s>
+<s> do you think the i5 is worth paying more for if no heavy video work (no games, no video editing)?  </s>
+<s> mostly word processing, quickbooks, coreldraw, itunes and internet use.  </s>
+<s> help soften the blow of such tasks.  </s>
+<s> the only reason i see to think of getting a core2duo over the i3 (or larger) is the price. the i3 is dual core plus hyperthreading so expect to see the old dual core and c2d machines to be heavily discounted as the consumers figure out they want the i3 or better.  </s>
+<s> your choice to move up the cpu ladder.  </s>
+<s> bob  </s>
+<s> the older optiplex model from the outlet with a core 2 quad processor q9550 2.83ghz and 4gb 1066 ram is about the same as a new opti with an i3 530 2.93mhz and 2gb 1333mhz ram, (or for $85 more the i5 650 3.2mhz).  </s>
+<s> how are the new ixxx better than the older quad?  </s>
+<s> not to launch into all the differences but hyperthreading is back on the i3 and up line.  </s>
+<s> really makes it worth looking at abandoning the dual and quad cores for dual and quads in the i3, i5 and i7. bob  </s>
+<s> thanks bob, i don't need a lot of power, but also hate buying a new computer (that i plan on keeping a while) that's at the end of the platform's life.  </s>
+<s> if available, you can reset the nod32 config, to &quot;not&quot; scan during boot-up.  </s>
+<s> you will need to scan manually or at some set time frame.  </s>
+<s> also, if not restable, then delete the whole nod32 setup, once done, reboot.  </s>
+<s> then re-install it and pay attention to the scan options, then and make non-scan during boot.  </s>
+<s> at least most av scanner provide this option.  </s>
+<s> tada -----willy  </s>
+<s> i unchecked the box for automatic startup file check on my laptop, but it seems to do some kind of scan anyway.  </s>
+<s> i unchecked it on my old dell this morning and when will see if that helped when i turn it on tomorrow.  </s>
+<s> if not, i'll do the uninstall/reinstall option you suggest.  </s>
+<s> thanks  </s>

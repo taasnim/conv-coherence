@@ -1,0 +1,8 @@
+(TOP (S (NP (VB no.) (DT this)) (VP (AUX is) (NP (NN factory) (NNS dvd))) (. .)) )
+(TOP (S (NP (PRP i)) (ADVP (RB now)) (VP (VBD noticed) (SBAR (S (NP (DT the) (NN dvd)) (VP (VP (VBZ dones) (NP (RB not) (VB work))) (CC or) (VP (AUX has) (VP (AUX been) (ADJP (JJ spratic)))) (CC and) (VP (ADVP (RB only)) (VBZ works) (NP (DT some) (NNS times))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (S (VP (TO to) (VP (VB restart) (CC and) (VB reboot))))) (. .)) )
+(TOP (NP (DT any) (NN advice) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (DT an) (JJ acer) (ADJP (NP (date (CD 4200)) (NN travel) (NNS mate/vista/4years)) (JJ old)) (NN pc.)) (SBAR (WHADVP (WRB when)) (S (ADVP (RB ever)) (NP (PRP i)) (VP (VBD shut) (NP (NP (DT the) (JJ dvd) (NN tray)) (SBAR (S (NP (DT the) (NN laptop)) (VP (VBZ shuts) (PRT (RP off)))))))))) (. .)) )
+(TOP (S (VP (VB try) (VP (VBG running) (NP (DT the) (NN machine)) (PP (IN without) (NP (PRP it))))) (. .)) )
+(TOP (S (VP (VB remove) (CC or) (VB replace) (NP (DT the) (NN drive))) (. ?)) )

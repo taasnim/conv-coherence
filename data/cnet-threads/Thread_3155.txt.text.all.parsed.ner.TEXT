@@ -1,0 +1,68 @@
+<s> given the way that i am currently using my computer, i do not need a high end computer.  </s>
+<s> but my plans for when i get my new computer built will involve much more intenstive and extensive use of the computer.  </s>
+<s> i plan on having dual monitors with adobe cs on one and pinnacle studio (video editing) on the other and moving some photos into the video editor, plus adding music and voice overlay.  </s>
+<s> this brings me to the subject of dual core vs quad core.  </s>
+<s> i have just read two articles with opposing views on the subject so for whatever they are worth i have listed them below favoring quad core: &gt; favoring dual core what are your thoughts.  </s>
+<s> years ago the discussion began about multiple cores and to this day i smile as while the discussions raged on i had my dual pentium pro with the overdrive package.  </s>
+<s> i got to see and feel the benefit for years while folk, right or wrong (remember i was already there) debated if more than one was needed.  </s>
+<s> today you can see more debate and i'll smile as i rev up handbrake and see if use every cpu core and i'm done while those that went with less pull up such articles to prove they made the right choice.  </s>
+<s> remember, i'm already there so in my rear view mirror i wonder what all the fuss is about.  </s>
+<s> here's my latest i7 build favorite link: so with that out of the way, is your view from hindsight or guessing what's next?  </s>
+<s> bob  </s>
+<s> the data of the article.  </s>
+<s> if you were building the machine in 2006 then i can see where a fast dual core might be better than a slower quad core for many folks. the industry had not quite figured out how to use all those cores.  </s>
+<s> today......the industry has figured out how to split things 4/6/8 ways.  </s>
+<s> photoshop..video editing.......i'd jump to the 8 core.  </s>
+<s> very interesting article but i am still not sure what i need to do what i mentioned.  </s>
+<s> also, i am trying to find a motherboard that supports more than 6 sata ports and 2 graphic or video ports.  </s>
+<s> long ago another traveler had their drive collection.  </s>
+<s> they struggled with 4+ drives and i had made it worse by gifting them some old 200mb drive.  </s>
+<s> i had moved on to a 2gb drive (large for those days) and i continue to this day keeping the drive count low.  </s>
+<s> i thought the link i shared had a video card with 2 ports not counting the onboard port.  </s>
+<s> did i miss something?  </s>
+<s> bob  </s>
+<s> i think it is just my own way of doing things.  </s>
+<s> even with my ancient machine, i have 3 internal hard drives and 10 external hard drives.  </s>
+<s> i won't go into the reasoning for this - just that it is the way i do things.  </s>
+<s> two video ports is great.  </s>
+<s> i am going to split the difference between the haswell and its many cores and the dual core.  </s>
+<s> at this moment i am planning on going with intel's dz77ga70k mobo and intel core i7 3770k which are compatible. the mobo will support 9 sata ports.  </s>
+<s> thanks again for your thoughts, they are always most helpful.  </s>
+<s> i had to make a decision - which was more important extra cores or extra sata ports.  </s>
+<s> since i really have little experience in working with either cs or pinnacle studio, i may find it more than i can handle.  </s>
+<s> i have worked some with photoshop 5 and with an older version of pinnacle studio but that was a few years ago.  </s>
+<s> and as i am the ancient one (85 years old) i move rather slowly and if the computer moves slowly we will be on the &quot;same page&quot;.  </s>
+<s> seems to show 6 classic sata ports and 2 more for a raid controller.  </s>
+<s> 10 usb ports each with their own fuse and well, seems like a nice board.  </s>
+<s> when folk build pcs my advice is to steal a published design from the web (tom's hardware, etc.) as they have usually done the hard thinking about power and more.  </s>
+<s> bob  </s>
+<s> considering what you plan to do, you're already into the top end of pcs.  </s>
+<s> whether you like it or not, i suspect having a &quot;work station&quot; type pc would best suit you.  </s>
+<s> as for more than 6 sata ports, if you need more i don't think there are many mtrbds.  </s>
+<s> out there that go beyond that as i typically see.  </s>
+<s> again a work station being something of a mack truck configuration is more capable and do-able for grunt tasks as it were.  </s>
+<s> it just gets the job done and depending on the cpu all the better.  </s>
+<s> while having the most multiple-core will do fine, can the s/w use it?  </s>
+<s> even, if the s/w can't use *all* of them it will try to use what its capable of, so it still not a waste.  </s>
+<s> google for workstation configs and see what's out there and build similar or buy one.  </s>
+<s> remember, cheap is cheap so will results be if you lean too much on cost factors.  </s>
+<s> what you plan to do is certainly going to task a pc, so buying top shelf parts will be a plus.  </s>
+<s> if storage seems to be a concern because of the sata needs, maybe look into nas or separate storage array setup, like in a raid server(guessing here).  </s>
+<s> tada -----willy  </s>
+<s> thanks for all of the great information.  </s>
+<s> i always look forward to your posts to my stuff and also to other people's posts.  </s>
+<s> you seem to grasp the totality of what a person is trying to accomplish.  </s>
+<s> i have found several mobo's that have more than 6 sata ports and processors that are compatible.  </s>
+<s> now whether or not the motherboard and cpu are of high quality or not is debatable, but at least they are within my budget. the combination is set up for raid configuration, though i have never tried that &quot;program&quot;. a server, i believe, is beyond my capacity.  </s>
+<s> and as far as storage, i am looking forward to the esata port and getting an external esata drive to use for my monthly backup that is kept in my safety deposit box. it is my understanding that esata process is a whole lot faster than my current usb 2 external drive which i am currently using for my monthly backup.  </s>
+<s> i do other backups to my internal drives on a more frequent basis.  </s>
+<s> below is the link to the motherboard that i am giving consideration in buying.  </s>
+<s> these are the most important features of the motherboard in regard to my attempt to build a computer that meets my needs: type of mobo dz77ga-70k socket lga1155 max memory size 32 gb memory types dual ddr3-2400/1600/1333 o.c graphics output hdmi discrete graphics 2 pcie 3.0 x16 # of usb ports 18 # of sata ports 8 # of esata ports 1 raid configuration 0,1,5,10 audio (back channel + front channel)  </s>
+<s> looks good to me, remain with intel cpu and of course the mtrbds.  </s>
+<s> that support it.  </s>
+<s> as for raid, do be sure whatever drives you use are similar and capable of the tasks you plan to do.  </s>
+<s> as for back-up, please consider that any back-up plan can falter, so &quot;redundancy&quot; is a must for anything critical and important, then think multiple copies of back-up.  </s>
+<s> all this will add-up and make it expensive, so again if that's what you want that's going to be an expensive pc once done.  </s>
+<s> you should also consider an ups or power isolater(line conditioner) as well to include a better surge protector.  </s>
+<s> again you're rubbing shoulders with the big boys, good luck.  </s>
+<s> tada -----willy  </s>

@@ -1,0 +1,19 @@
+<s> well i finally decided to build my own computer piece by piece and found that i actually did it right!  </s>
+<s> i upgraded from an old mobo and a 1ghz amd thunderbird w/ sdram.  </s>
+<s> here is what i got: arctic silver ceramique thermal paste amd athlon xp barton 2.1ghz asus a7n8x-e deluxe nforce2 mobo 2 bars of corsair 512mb ddr pc 3200 thermaltake silentboost cpu fan ati all in wonder radeon 9600 seagate 160gb sata hard drive 7200rpm western digital 40gb hard drive i run on windows 98se only... so first thing i noticed is that i cant have a drive any larger than 135gb because of 98.. yay!... i had to partition and i still have about 30gigs unaccounted for that i cant use, any suggestions about that are welcome.. here are my issues though: 1. i cant recall what programs they were but two of them showed my processor as 1.3 & 1.4 ghz only!  </s>
+<s> this seems kind of true because it takes about 3 minutes to load windows sometimes more (longer than w/ my old 1ghz thunderbird) and also many applications dont show the impact of my processor being twice as fast now.  </s>
+<s> 2. i get system hangups when the processor led is not blinking but there is something going on in the background 3. extremely slow transfer from hard drive to hard drive.  </s>
+<s> if i move around 10gigs or more, i usually get an auto system reboot eventually... when i leave my pc on overnight to encode dvds ill usually wake up to a reset pc and an invalid/crashed file i was really expecting win98 to be on crack w/ this new configuration that it was probably not made to ever witness but instead im very disappointed that such an optimal setup could be so slow, i know something has to be wrong here.  </s>
+<s> i've tested my pc w/ the new warhammer demo and i was able to run it on full config with only some frame hits, i also can now run the highly demanding avs plugin for winamp in fullscreen which i could barely use in half screen before.  </s>
+<s> my corsair memory is reporting correctly at about 1.2ghz.  </s>
+<s> i have not been able to go online and update drivers but i will eventually do that, that might be a problem.  </s>
+<s> please give me some advice.  </s>
+<s> the 137gb drive limit is dos.  </s>
+<s> there is also an issue with over 512m with windows 98. this article explains how to limit windows to 512m.  </s>
+<s> in closing, some machine misbehave with both sticks of ram and that is a warranty issue.  </s>
+<s> bob  </s>
+<s> im not worried too much about the ram, i will try that out though... what worries me most is that my processor is not showing over a third of its processing, ive never heard of any case where a 2ghz could possible report as a 1.3... has anyone???  </s>
+<s> usually a sign the bios is out of date or you set the fsb wrong.  </s>
+<s> a new board does not mean the bios is current.  </s>
+<s> bob  </s>
+<s> im not worried too much about the ram, i will try that out though... what worries me most is that my processor is not showing over a third of its processing, ive never heard of any case where a 2ghz could possible report as a 1.3... has anyone???  </s>

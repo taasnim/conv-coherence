@@ -1,0 +1,20 @@
+<s> im trying to setup a public wifi hotspot.  </s>
+<s> i would like however to mimic the ones public libraries and fedex-kinkos (at&t) has where upon connecting the user is redirected to a startup html page that says something like &quot;...you agree by accessing this site you may be monitored...and give up all privacy...and agree not to use this connection to break any laws...hold harmless any idiot webmasters...and agree to hereby sign your life away...click here...&quot; i assume that this page is located on the wireless router not on any server.  </s>
+<s> i know html, but how do i setup the router to do this without need of a computer server somewhere?  </s>
+<s> or otherwise how would i setup the router if i had a free-web page somewhere with this start-page and ensure that if the person did not agree, they wouldnt be allowed to the internet?  </s>
+<s> lets pretend you dont know the model wireless router.  </s>
+<s> what are the standard router configuration settings i would need to look for?  </s>
+<s> where would the html page be stored? is it referenced somewhere in the router?  </s>
+<s> lets say you have to know the router model, lets go with a linksys (cisco) wireless router.  </s>
+<s> feel free to refer me to any web pages with step-by-step info on this specific issue (setting up a start page on router.) thanks.  </s>
+<s> you assume a lot but let's dismiss that.  </s>
+<s> not many routers can do this but the first link should help you begin your research to find routers that can do this.  </s>
+<s> pops up fast enough and you can see if you can bear the work of flashing a supported router.  </s>
+<s> i know once in a while folk want to do this on their router or want a ready to use or &quot;easy&quot; solution.  </s>
+<s> i can't tell which applies to you.  </s>
+<s> but i think i can help you begin your search.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> yes it appears to address running the portal capture from the router only and even has one recommended model, the linksys wrt54g at which will require basic operating knowledge of unix and compiling openwrt source code into binary files.  </s>
+<s> not having some of this training will create some challenge for me but im up to the task.  </s>
+<s> for anyone interested in this topic of capture portal but doesnt want the additional challenges, they can use the &quot;port forwarding&quot; and dmz functions available in most routers and run authentication from a dedicated pc.  </s>

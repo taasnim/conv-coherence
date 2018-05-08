@@ -1,0 +1,46 @@
+<s> okay, i have a couple of question about adding a video card into my computer.  </s>
+<s> i have the following: brand: compaq presario sr2170nx pentium 4 1 gb of ram radeon xpress 1100 on board memory (128 dedicated and 128 shared) vista os okay, now for the questions: 1. i'm thinking of getting the radeon x1300 256 mb pci-express graphic card. is this a good card for my computer?  </s>
+<s> 2. will it work with my computer?  </s>
+<s> 3. should i get the pro version of radeon x1300?  </s>
+<s> 4. also, it states this: 350-watt power supply or greater recommended (assumes fully loaded system).  </s>
+<s> what does fully loaded system mean?  </s>
+<s> 5. does anyone know if my system has a 350-watt power supply or greater?  </s>
+<s> (i don't want to open up my computer right now).  </s>
+<s> 6. if it doesn't, could i buy any 350-watt power supply for my computer?  </s>
+<s> 7. can my computer take a higher watt power supply or does it not matter?  </s>
+<s> 8. is there anything else i need to buy if i want to install the graphic card?  </s>
+<s> 9. any suggestions?  </s>
+<s> describes your computer, but probably a trip to hp's website would give you more details.  </s>
+<s> 2. will it work with my computer?  </s>
+<s> yes you have a slot for pci-express 3. should i get the pro version of radeon x1300?  </s>
+<s> don't know your graphic's requirements.  </s>
+<s> if you are a super intensive gamer, probably if thats the brand you like.  </s>
+<s> what does fully loaded system mean?  </s>
+<s> enough devices and power consuming gear to max out 350w.  </s>
+<s> if its configured as you bought it, one drive and one optical drive and not too much usb power requirements, you should be ok with what you already have.  </s>
+<s> 7. can my computer take a higher watt power supply or does it not matter?  </s>
+<s> yes, no not usually.  </s>
+<s> bigger is usually better in this case.  </s>
+<s> you will need to know how to go into setup and disable your existing onboard video and how to uninstall its driver.  </s>
+<s> the x1300 *will not* give you any substantial improvement in vista's general performance.  </s>
+<s> unless you plan on playing games like world of warcraft or need for speed, the integrated graphics are fine.  </s>
+<s> if you still want to upgrade your graphics, get at least a radeon x1650pro or a geforce 7600gs.  </s>
+<s> both are about $105 from web hardware shops and both will work fine with your 350w power supply.  </s>
+<s> is at most 350 watts, and probably 300.  </s>
+<s> and the reviews i've read of ati are good at hardware, bad at software.  </s>
+<s> so, given how early it is with vista still, i'd hunt down an nvidia card that specifies vista compatible.  </s>
+<s> with a high performance graphics card you should have a powersupply higher than the recommended.  </s>
+<s> but just so that you know, i have a dell with an ati x1900 that supposedly needs that big power too, and i kept my power supply.  </s>
+<s> seems to work fine.  </s>
+<s> i wouldn't worry about the power requirement, unless i was getting one of those super expensive top of the line graphics cards.  </s>
+<s> and even then, i'd not replace the powersupply unless the card seemed to be giving me trouble.  </s>
+<s> my dad has a compaq too, and they're pretty stock power supplies from what i can see.  </s>
+<s> unlike dell that isn't even shaped like a stock.  </s>
+<s> so if you do need a power supply, it should be pretty easy to find.  </s>
+<s> those new graphics cards have their own hookups now directly to the power supply.  </s>
+<s> and some of them even 2! so watch that when getting one.  </s>
+<s> ok so i own the same computer: and am looking to upgrade so i can play elderscrolls oblivian.  </s>
+<s> i was looking at the nvidia e-geforce 6200 le 256mb ddr2 pcie video card: will this work with the computer.  </s>
+<s> it has the pci express slot but i wasn't sure if vista, the motherboard, or the onboard radeon xpress 1100 would cause problems when i put in the new nvidia.  </s>
+<s> thank you  </s>
+<s> have the same system as the first post..was wondering what kind of upgrade i would need in order to play warhammer online...just upgraded my ram but the gameplay is still choppy any help is appreciated  </s>

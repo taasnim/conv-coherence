@@ -1,0 +1,51 @@
+<s> hello all you computer gurus.  </s>
+<s> first of all i apologize for the length of this post, but there have been a series of events that have brought me to this point and i'm not sure which ones are relevant.  </s>
+<s> i'll try to sum up everything in a few sentences at the bottom.  </s>
+<s> i've unfortunately been out of the loop for the past several years when it comes to computer hardware.  </s>
+<s> however, even when i knew what i was doing, i had never encountered a problem like this. a couple weeks ago my display randomly locked up, and distorted everything into a rainbow of colours. the computer itself didn't appear to be frozen as the keyboard lights still responded to num-lock, and capslock.  </s>
+<s> i rebooted, and everything was fine again.  </s>
+<s> shortly after that it happened again.  </s>
+<s> this time, it would be fine until windows booted up, and once it made it to the desktop it would immediately go all wonky.  </s>
+<s> a friend recommended i reinstall the video drivers.  </s>
+<s> since i was still able to boot into safe mode without any issues i tried it. the drivers installed, the computer rebooted itself and once it booted up everything was all good again.  </s>
+<s> however on the next reboot, it was back to a distorted rainbow.  </s>
+<s> i was able to do the 'safe mode driver reinstall, allow it to reboot itself' trick anytime i needed to turn the computer on.  </s>
+<s> in the meantime i just left it running so i didn't have the hassle.  </s>
+<s> fast forward even farther, and now that doesn't even consistently work.  </s>
+<s> i've discovered the only way to get the display to even turn on while it's booting, is to turn it off by pulling the plug from the wall while it's running first.  </s>
+<s> then it will boot into the desktop, and allow me to do anything i need to it do, except run chrome.  </s>
+<s> the minute i open chrome it craps out again. the three finger salute won't work, mouse won't respond, but i can turn num lock on and off all i want.  </s>
+<s> in a few rare occasions the display has suddenly come back with no error messages or explanations, and everything has run fine, including chrome.  </s>
+<s> i've included pictures of what i'm talking about.  </s>
+<s> i apologize that they aren't the greatest.  </s>
+<s> i can't take a screenshot in that state and had to use my cellphone.  </s>
+<s> i've exhausted my limited troubleshooting skills. the ram is good, all the fans are working and are clean, and the video card is seated properly.  </s>
+<s> nothing feels like it's getting too hot and it responds the same way if the computer has been running for a minute or a week, so i doubt it's an overheating issue.  </s>
+<s> at the moment i've just been rebooting it, and opening chrome to see if it crashes.  </s>
+<s> 99% of the time it does, but on that 1% where it doesn't, it will run without a problem until the next reboot.  </s>
+<s> has anyone encountered anything similar to this? or have any suggestions? is my video card shot?  </s>
+<s> possibly the power supply?  </s>
+<s> or, hopefully, there's a software fix?  </s>
+<s> any help would be appreciated.  </s>
+<s> thanks.  </s>
+<s> tldr; computer display locks up, and displays random colours 99% of the time after a reboot.  </s>
+<s> 1% of the time it works perfectly fine.  </s>
+<s> see above link for a crappy photo.  </s>
+<s> it looks like a classic gpu card issue but just in case, did you inspect for bad caps, clean and replace all heat sink compound as well as run it with the cover off?  </s>
+<s> bob  </s>
+<s> i didn't look in depth at any of the components.  </s>
+<s> i assumed it it was a bad capacitor the issue would not have been repeatable in the manner i've described.  </s>
+<s> would it not just crap out at peak performance times like running games?  </s>
+<s> not necessarily opening a browser?  </s>
+<s> i was also constantly taking the cover off and putting it back on when i was messing around with things, so it's been off for the past week or so.  </s>
+<s> as i mentioned i've been monitoring the heat levels inside (with my hand, not a thermometer) and nothing seems like it's running hot.  </s>
+<s> but when i see a pc like this, we do the inspection.  </s>
+<s> as to the repeatable question, the one thing about bad cap machines is they drive the owner crazy as they are not repeatable.  </s>
+<s> this creates more lost time at the shop counter as the owner wants the counter person to write down all the errors.  </s>
+<s> i hope you see why they don't, just nod and wait for them to finish.  </s>
+<s> back in the service area the inspection is done, if we find a bad cap we give an estimate for the replacement board (only in rare cases do we replace bad caps) then if that's a pass we move to cleaning and heatsink compound replacement as that's cheap and fast to do.  </s>
+<s> then a re-test.  </s>
+<s> there's more but if you do this a lot your nod gets pretty good.  </s>
+<s> bob  </s>
+<s> thank you sir, your explanation is making a whole lot of sense.  </s>
+<s> i guess it's time to pull it out and take a closer look.  </s>

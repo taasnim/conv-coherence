@@ -1,0 +1,14 @@
+<s> i had to reset my netgear router.  </s>
+<s> now the wireless is turned off.  </s>
+<s> i need to configure/setup the router without the internet.  </s>
+<s> the setup cd seems to require internet access.  </s>
+<s> is there a way to connect my computer to the router without connecting to the internet?  </s>
+<s> thanks for any help!  </s>
+<s> don't get confused by the way you address a router -- the setup pages are in firmware in the router -- not on the internet.  </s>
+<s> log in to your router via internet explorer (or similar) using its ip address -- usually 192.168.0.1 but see the manual for precise details of default ip address and username password for accessing interface pages.  </s>
+<s> i tried without the cd. default ip is 192.168.1.1. it said it couldn't find that address.  </s>
+<s> i tried couldn't find that either.  </s>
+<s> thanks again.  </s>
+<s> link up computer/router by ethernet cable.  </s>
+<s> go start, all programs, accessories, command prompt at the black and white screen type ipconfig /all this will show you the ip address of all connections including the gateway which whould be the address of the router.  </s>
+<s> failing that you could press reset button on router to get it to revert to factory default ip address -- but this may default all other settings in the router too.  </s>

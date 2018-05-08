@@ -1,0 +1,22 @@
+<s> hi all, just after some advice.  </s>
+<s> i have 3 partitions + some unallocated space.  </s>
+<s> in partition magic it shows my 3 partitions adjacent to eachother with the final partition next to the unallocated space.  </s>
+<s> i want to give all the unallocated space to the partition in the middle.  </s>
+<s> so i went to resize partition on the menu and selected the middle partition and went through the wizard, increased the size etc.... after clicking okay and looking at the operations pending items bit it said it was going to &quot;move partition x [the partition next to the unallocated space] up by [amount i wanted to give to the middle partition] and then resize the middle partition with the ammount i wanted to increase it by. my question is that is this the correct way of doing this?  </s>
+<s> should i perhaps reszie the partiton next to the unallocated space to the max then give this free space to the middle partition?  </s>
+<s> any help appreciated.  </s>
+<s> thanks.  </s>
+<s> is extend partition 3 to include the free space at the end of partition 3. then i'd shrink/reduce partition 3 starting at the beginning of the partition (between partitions 2-3) by roughly the amount you want to add to partition 2. then i'd expand partition 2 by the free space created.  </s>
+<s> you can do each step indivdually or build a batch.  </s>
+<s> i prefer to do each step and check the results before going on.  </s>
+<s> let us know.  </s>
+<s> vapcmd  </s>
+<s> thanks for the reply, how about i move partition 3 past the unallocated so the unallocated is inbetween partition 2 and 3. then give the space to partition 2. are there any other programs i could use to do this? or is partition magic pretty reliable ?  </s>
+<s> any further help and advise will be gratefully appreciated.  </s>
+<s> thanks.  </s>
+<s> time you're doing something like this ...it pays to be backed up, just in case.  </s>
+<s> re which way to do it...your call.  </s>
+<s> even though it says 'move'.... my guess it actually does it in sequence the way i suggested.  </s>
+<s> if you're not 100% sure of the other way ... i'd try the one i suggested or else why ask for help ?  </s>
+<s> let us know how it turns out.  </s>
+<s> vapcmd  </s>

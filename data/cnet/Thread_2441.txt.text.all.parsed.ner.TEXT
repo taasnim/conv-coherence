@@ -1,0 +1,47 @@
+<s> howdy all, i live in a 3 apt house where we all share wireless from the 3rd floor apt.  </s>
+<s> it's a dsl connection, over a g router.  </s>
+<s> i am on the bottom floor, and cannot use my skype phone, nor ps3 or xbox.  </s>
+<s> i have run a 100ft cat6 cable from the top apt to ours.  </s>
+<s> i would like to install an access point down here to use my skype phone (which has no port, only wifi), and wire my pc, and other stuff to the access point.  </s>
+<s> i have bought a netgear wnr2000 (recerted from tigerdirect for $20) to serve as the access point.  </s>
+<s> my question is this: should i use the n router as the access point to better serve my apt, or switch it for the g router upstairs and use the g router in my apt?  </s>
+<s> here are the two setups i'm imagining: modem wired to g router wired to n access point which is wired to pc, 360 and ps3, and wirelessly connected to skype phone and laptop.  </s>
+<s> or... modem wired to n router wired to g access point which is wired to pc, 360 and ps3, and wirelessly connected to skype phone and laptop.  </s>
+<s> intuitively, i feel like having the n right at the beginning of things would prevent a bottleneck, but i don't know if because i am wiring it to the access point if it matters.  </s>
+<s> does the n or g matter if it's an access point?  </s>
+<s> would i be better off getting another n router so the whole system is n? also, if you need the router model number, i can ask my neighbor and update.  </s>
+<s> any thoughts?  </s>
+<s> thanks in advance!  </s>
+<s> cheers, alex  </s>
+<s> while i wonder why folk think n routers have better coverage (my experience says no) since you have all the parts why not try one setup and then the next?  </s>
+<s> you may discover your first try to work well enough to forget retrying.  </s>
+<s> i had a wnr2000 (gifted it to my brother) and it's an ok unit.  </s>
+<s> just update the firmware.  </s>
+<s> as to setup, we cover that in the cnet networking forum sticky.  </s>
+<s> bob  </s>
+<s> if you hook an n and a g router together, you will limit yourself to g speed.  </s>
+<s> first, you can up the output power on your base to increase the range.  </s>
+<s> check in your settings for the router.  </s>
+<s> if that is not enough you can get an amplifier for wireless, called bridge or repeater.  </s>
+<s> put that at a midpoint where you get a good signal from your router.  </s>
+<s> as the previous poster said, yes, if you include wireless-g in the picture, you can't go any faster than wireless-g speed, which tops out at 54mb/s.  </s>
+<s> and no, there's nothing inherent in wireless-n that gives you better coverage...however, the wireless-n router that i've been using about a year now gives me much better coverage than the wireless-g router that i used to use.  </s>
+<s> keep in mind that the higher the signal strength, the faster the router will go, for both wireless-g and wireless-n.  </s>
+<s> if the signal is only &quot;fair&quot;, then a wireless-g router will slow down to fit those conditions, and you'll get considerably less than 54mb/s.  </s>
+<s> for example, when we used wireless-g between our router and my daughter's bedroom, the signal was only fair (linksys wrt54gs), and it ran fairly slow.  </s>
+<s> when i switched to wireless-n (netgear wndr3700), and the signal was excellent, the wireless speed was about 130mb/s or so.  </s>
+<s> very solid and fast enough for pretty much anything.  </s>
+<s> so it goes, you need a good router, and you'll get a better speed connection with wireless-n for the same signal strength.  </s>
+<s> however, if there's wireless-g anywhere in the network path, that limits the network connection to wireless-g speed.  </s>
+<s> -roger  </s>
+<s> the setup i use is ethernet to connect the two.  </s>
+<s> this means that machines that connect to n get the full speed possible even where there is a g router that we didn't connect to with wifi.  </s>
+<s> bob  </s>
+<s> thanks for the replys all, unfortunately, i just found out that the upstairs neighbor's router is also his modem, so there is no switching them.  </s>
+<s> so the set up will be my netgear n rated router/ap wired by cat6 cable from his westell g rated modem/router.  </s>
+<s> that will act as my hub for wired and wireless connections.  </s>
+<s> i'm having some trouble configuring the netgear to do anything it's supposed to.  </s>
+<s> i turn off dhcp, and try to give it a subnet ip in the range of the westell but then i just lose connection to the netgear.  </s>
+<s> i can't login to it with any ip. i'll try to figure it out for a few more days though, before i ask for help.  </s>
+<s> thanks!  </s>
+<s> i think it's post 18 or 19 of the cnet networking forum sticky.  </s>

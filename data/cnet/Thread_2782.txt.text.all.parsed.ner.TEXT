@@ -1,0 +1,31 @@
+<s> hi, i have just bought a 400gb freecom external hard drive.  </s>
+<s> i plugged it in and it seems to work ok but all my mp3s now sound distorted.  </s>
+<s> i thought at first it was just the mp3s i put on the hard drive.  </s>
+<s> but infact its all sound played on my computer whether on the freecom, on my internal hard drive, or from the internet.  </s>
+<s> has anyone come across this before?  </s>
+<s> i think my computer might have usb 1 rather than usb 2 but im not sure how to find out.  </s>
+<s> it shouldnt affect the sound either way though should it?  </s>
+<s> thanks in advance  </s>
+<s> it's basically just a mass storage device, so the connection of an external hard drive shouldn't affect the quality of your sound.  </s>
+<s> in any case, here are some things to check: fragments list.s.cnet pre_process.sh  </s>
+<s> threads did this problem start immediately after you connected the external hard drive or was it down the road a ways?  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads just to make sure, try unplugging the external hard drive and see if the problem remains.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads check that the speaker connection(s) is (are) firm...if a plug isn't in all the way it can cause distortion.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads try using a different set of speakers with the computer to rule them out.  </s>
+<s> alternatively, try connecting the speakers to a cd player, stereo, etc and see if the problem still exists.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads check device manager to see if there is an issue with the audio drivers.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads try downloading the latest software/drivers for your sound card from the manufacturer's website.  </s>
+<s> also, please include the following information about your setup: fragments list.s.cnet pre_process.sh  </s>
+<s> threads basic pc specs, including processor and ram fragments list.s.cnet pre_process.sh  </s>
+<s> threads operating system installed fragments list.s.cnet pre_process.sh  </s>
+<s> threads sound card (make/model) fragments list.s.cnet pre_process.sh  </s>
+<s> threads speakers (make/model) if there are details about your computer, such as sound card, that you don't know, the free program everest will help determine the specs.  </s>
+<s> john  </s>
+<s> many are blissfully unaware about motherboard and other drivers for their machine until they see an issue like yours.  </s>
+<s> microsoft does not fetch or find the latest drivers so you must think back to the old ways of making sure your motherboard and other drivers are current.  </s>
+<s> bob  </s>

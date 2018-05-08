@@ -1,0 +1,31 @@
+<s> i'm setting up a tlp zebra 2844-z on a windows xp machine sp3.  </s>
+<s> and i can't get it to print anything.  </s>
+<s> i have it connected to a desktop computer via usb cable. the printer works fine as it will print it's own test lables and it feeds the lables properly.  </s>
+<s> i've tried using a parallel cabel and nothing changed.  </s>
+<s> when i go to &quot;priners and faxes&quot; the printer shows up after i've insalled it.  </s>
+<s> it says &quot;ready&quot;. i go to print a windows test page and the the print job is added to the que and sits there.  </s>
+<s> it seems to me to be a communication issue but i don't know where to go from there.  </s>
+<s> any help or advice is greatly appreciated.  </s>
+<s> thank you!  </s>
+<s> i find people installing xp without thinking about drivers for the motherboard and what they find is all usb printers do that.  </s>
+<s> be sure to test the printer on another pc as well as another printer on this pc. in short order you'll know which is the problem unit.  </s>
+<s> bob  </s>
+<s> i've installed it on 3 different pcs and it always works out the same.  </s>
+<s> i've used the driver that came on the cd and i've used the driver from the webstie on all the pcs i've tested it on.  </s>
+<s> i've also tried different usb cables.  </s>
+<s> it tells me the printer is dead or misconfigured.  </s>
+<s> zebra printers are not cheap so let them show you it working.  </s>
+<s> bob  </s>
+<s> the other half of the test was any other printer.  </s>
+<s> we use any other printer to assure ourselves it's not our xp installs.  </s>
+<s> bob  </s>
+<s> i've now tired other printers and they all work fine.  </s>
+<s> thanks for the advice i'll get in contact with zebra and get it straightened out.  </s>
+<s> thank you again  </s>
+<s> here is a link to the newest driver if the printer is still installed: (if you find two of the same printer installed, delete both and start over).  </s>
+<s> otherwise: start; control panel; printers; right click on the printer; select properties; select ports check to see what port is being used.  </s>
+<s> lpt1 is parallel.  </s>
+<s> usb is usb.  </s>
+<s> to manually install a usb printer: step one: determine the appropriate compatible driver use the following list to find the print driver that is compatible with your product.  </s>
+<s> step two: install the driver install the compatible print driver on the computer.  </s>
+<s> 1.  </s>

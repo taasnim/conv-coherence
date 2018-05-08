@@ -1,0 +1,45 @@
+<s> i have this card installed on an xp os, and have nothing but problems. the box says &quot;for best ports connection&quot; and it uses an ali chipset, 4 usb's plus firewire. the drivers never seem to install right, i also tried one from another site.  </s>
+<s> now the hardware wizard comes up everytime i boot.  </s>
+<s> anyone have luck with this card?  </s>
+<s> i got this off ebay for a bargain, but that seems not to be now.  </s>
+<s> it appeared to work for a bit, but not all devices initially, now it seems useless.  </s>
+<s> any help?  </s>
+<s> -thanks, russ  </s>
+<s> i'm finding it works fine with camcorders, but reports of dataloss on windows with firewire drives just continue.  </s>
+<s> i know of no fix other than to move the drive to usb. in closing, i install no drivers for such cards with xp sp2.  </s>
+<s> bob  </s>
+<s> i'm sorry, i did not understand your message about hard drive, usb port.  </s>
+<s> my problem is with a pci card that is supposed to give me usb 2.0 & firewire ports. the card seems to have major driver issues with win xp and i do have sp2 loaded. the people who sell this card seem to play dumb.  </s>
+<s> just looking to see if this is a lousy generic card and that there are in fact no legit drivers out there for this.  </s>
+<s> i can't seem to find a legit tech support site for this as well.  </s>
+<s> maybe someone can even recommend a bargain usb 2.0 card out there.  </s>
+<s> -thanks, russ  </s>
+<s> people are losing data on pc/windows and firewire drives daily.  </s>
+<s> what can i do but warn you off?  </s>
+<s> as to drivers?  </s>
+<s> i have yet to need them for any firewire card.  </s>
+<s> bob  </s>
+<s> i have a 4 port ms dos pci serial expansion card containing a nm9845cv chip by moschip.  </s>
+<s> i can not get this card to work. the card manufacturer is not labled but packaging refers to &quot;best ports connection&quot;.  </s>
+<s> my bios acknowledges the card but the the bios and driver monitor tells me that the com ports need to be reconfigured.  </s>
+<s> moschip.com has driver information and documentation but not enough for me to configure the com ports for my application.  </s>
+<s> anyone have information on this card or how to configure the com port parameters?  </s>
+<s> the post you replied to is about an usb/firewire card.  </s>
+<s> yours is not this card.  </s>
+<s> on your new post supply: a. a link to the product.  </s>
+<s> i will not hunt it down.  </s>
+<s> b. the os in question.  </s>
+<s> c. machine details.  </s>
+<s> best of luck, bob  </s>
+<s> model....sy-nec-5u serial....uw0702nc00900 i believe i am having the same issue with this card, and yes i bought it from ebay at a bargain as well.  </s>
+<s> it has the 5 usb port connections (1 internal, 4 external).  </s>
+<s> i have installed it in the top pci slot of my motherboard and i let windows xp sp2 find the driver(s), which it did with no problems.  </s>
+<s> in &quot;device manager&quot;, the new card shows up and shows to be working properly with no conflicts.  </s>
+<s> now the problem.......no matter what i plug into the new usb card, it doesnt recognize any of them (mouse, digital camera, printer, etc.) i get a small balloon at the bottom right corner that says &quot;unknown device&quot;.  </s>
+<s> if i plug any of these items back into my motherboard usb slots, it finds them correctly with no issues....but my motherboard usb slots are 1.1 which is why i bought this new card.  </s>
+<s> any fixes or tech support for this problem?  </s>
+<s> i will comment that the most common fix to this issue is to install the motherboard drivers.  </s>
+<s> however if the card is dead...  </s>
+<s> machine?? i built my own pc.....motherboard &quot;ecs elite group&quot;, &quot;k7vta3 v.8&quot; everything on my pc works fine, it's just the new card that doesnt.  </s>
+<s> my motherboard and windows see the card and acknowledge it, but the card itself doesnt recognize anything i plug into it.  </s>
+<s> test the card in another machine and find ecs's latest motherboard driver package...  </s>

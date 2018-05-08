@@ -1,0 +1,13 @@
+<s> i have three computers that have been networked through a linksys 5-port ethernet hub.  </s>
+<s> we are in a rural area and use dial-up for our internet.  </s>
+<s> i had the internet connection on an older dell dimension 2350 but when the modem went out switched the connection to our dell latitude d830 notebook computer.  </s>
+<s> when i had to leave for a couple of weeks and took the notebook computer with me, my son connected to the internet using the modem in his ancient hp pavilion.  </s>
+<s> everything was working before i left all computers could access the internet and see files/folders/share printers.  </s>
+<s> since i returned and hooked the notebook back into the network, the two desktop computers can see the internet is active on the notebook but cannot send/receive email, view web pages etc. file/folder/printer sharing is working between all the computers.  </s>
+<s> all three computers are running windows xp home sp 3. any troubleshooting tips you can share would be appreciated.  </s>
+<s> are you using ics or some sort of router that works with dial-up to share the connection?  </s>
+<s> if ics, i believe the host pc needs to be using 192.168.0.1 or something similar and, of course ics would need to be enabled on one networked machine only.  </s>
+<s> by ics im assuming you mean internet connection sharing.  </s>
+<s> if so, yes, i am using ics - have re-run the network setup wizard several times, making sure all the settings are correct (workgroup name is all the same, etc.) the ip address of the notebook (host) computer is 192.168.0.1 ics is enabled only on the notebook (host) computer.  </s>
+<s> is there a way to test the hub to see if it has gone bad?  </s>
+<s> i tried to ping the other computers and the request timed out  </s>

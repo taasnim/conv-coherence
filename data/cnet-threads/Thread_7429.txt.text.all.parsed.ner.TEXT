@@ -1,0 +1,20 @@
+<s> hi - i purchased the netgear 54 mbps wireless router (wgr614).  </s>
+<s> i have no idea what to do now.  </s>
+<s> if i set it up in my basement, will it work upstairs?  </s>
+<s> will my laptop need a special card?  </s>
+<s> without knowing what type of computers will be accessing the router, if they have wired or wireless adapters, what operating systems and what type of internet connections you are using, all is guess work.  </s>
+<s> i also have a wired router, which i am using now - i have wires going to all of my computers (3).  </s>
+<s> can i hook the wireless router to the wired one and still use the wired one, and just use the wireless router for my laptop?  </s>
+<s> think of the broadcast range of the wireless router as a big bubble with the router in its center.  </s>
+<s> you will likely find that you will maximize your wireless coverage if you place ther wireless router on the second floor, or maybe the first floor.  </s>
+<s> you can make a wired connection to the wireless router via a network cable.  </s>
+<s> this must be done for the initial setup of the router.  </s>
+<s> any subsequent wireless connections will be from compouters that have wireless network adaapters.  </s>
+<s> if a computer doesn't have a wireless network adapter, you can't make a wireless network connection.  </s>
+<s> there are internal wireless network adapters and external adapters.  </s>
+<s> most newer notebooks come with an internal wireless adapter.  </s>
+<s> this is a configuration that i would not suggest for a beginner to home networking.  </s>
+<s> having two dhcp serving devices on the same network segment requires you to turn off that function on one usually the wired router so it serves as a switch only.  </s>
+<s> look into your wired router's setup page and jot down the settings.  </s>
+<s> then replace it with the wireless router and duplicate those settings in it's setup program.  </s>
+<s> since you have not provided any more info as to your laptop's hardware, i can offer no more advice on that.  </s>

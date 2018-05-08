@@ -1,0 +1,59 @@
+<s> hello, i was hoping someone here could recommend a quality wifi router with a good track record that i could get on ebay for under $20. i made the terrible mistake of buying a used d-link di-624, which has turned out to be an epic piece of junk.  </s>
+<s> thank you.  </s>
+<s> have setup many 624's but won't call them junk as they all work fine.  </s>
+<s> maybe you didn't try the settings in our forum sticky?  </s>
+<s> bob  </s>
+<s> hi bob, i checked the sticky which contains some pretty elementary basics for set-up.  </s>
+<s> my knowledge base is far beyond this.  </s>
+<s> i've worked with other wifi routers, even other d-link routers and have never encountered problems like i am encountering with the di-624.  </s>
+<s> i bought it based on cnet's recommendation.  </s>
+<s> there are a plethora of complaints about the di-624 out there.  </s>
+<s> we all have the same problem.  </s>
+<s> the radio just drops out occasionally and we lose the connection.  </s>
+<s> i'm curious to look into a broadcom-based router so that i can install tomato firmware.  </s>
+<s> ryan  </s>
+<s> if you want to move to what i like and consider great stuff go get any router you can run ddwrt on.  </s>
+<s> those are nice and what i use.  </s>
+<s> bob  </s>
+<s> can you give a simple explanation of what ddwrt is (i did a web search and am still confused), and even though i know you don't like to recommend a specific brand and model number, i'd appreciate if someone would. the 2 i'm considering are the linksys wrt546s or the netgear wrg614.  </s>
+<s> thanks, janice  </s>
+<s> being open source you have what may be thousands of programmers poking and fixing at it.  </s>
+<s> dlink, linksys don't have that many working on it.  </s>
+<s> ddwrt is stable powerful router firmware.  </s>
+<s> bob  </s>
+<s> bob, i know based on the published bandwidth capabilities of g band, i shouldn't have a problem - yet i was still wondering if a g band router might choke if three computers were online at the same time on a 20 mbit/s broadband connection.  </s>
+<s> i don't want the router to get in the way of utilizing all 20 mbits of bandwidth.  </s>
+<s> i'm confused over net bit rate of 54 mbit's vs. the throughput of 19 mbit/s.  </s>
+<s> at which point does a g band router bottleneck and slow things down?  </s>
+<s> thanks.  </s>
+<s> you hear howls from that gamer about ping when the other user piles in.  </s>
+<s> it's that simple.  </s>
+<s> bob  </s>
+<s> i have no idea what you are talking about.  </s>
+<s> we're not gamers.  </s>
+<s> i just wanted to know if a g band router could handle 3 users at one time on a 20mbit/ sec cable connection - for general online use.  </s>
+<s> thanks.  </s>
+<s> the sharing works almost as if you have the entire connection if you are getting email, loading a web site or such.  </s>
+<s> you can pile 100 users on a router and it works super since no one is demanding long demands on the connection.  </s>
+<s> your email is fetched and that's over. the web page loads and it's over.  </s>
+<s> it's sharing at its best.  </s>
+<s> however if someone starts downloading something big then you see the effect.  </s>
+<s> bob  </s>
+<s> thank you.  </s>
+<s> assuming all users were downloading something at the same time - my cable bandwidth service tops out at 20 mbit/sec - so would a 802.11g spec router split the bandwidth into 3 or give precedent to the user that started first?  </s>
+<s> assuming the router divides the bandwidth evenly, can a g band router handle 3 simultaneous 6 mbit/sec transfers?  </s>
+<s> the reason is deeply technical and you don't get an exact division of the bandwidth.  </s>
+<s> it's a long discussion of queuing theory, packet sizes and probability.  </s>
+<s> in the long run it may be 1/3 for each of the 3 users but you can safely bet it will not be exact.  </s>
+<s> and it has nothing to do with who started first.  </s>
+<s> yes, it's a fine thing to discuss in a class room but this small space would be overwhelmed if we truly dissected how it plays out in real life.  </s>
+<s> can we go with almost 33% for each user during long downloads?  </s>
+<s> bob  </s>
+<s> okay. last thing i'd like to know is if a g band router can handle 6 mbits/sec from three separate computers at the same time - 18 mbits total. is this what &quot;throughput&quot; means.  </s>
+<s> if so, g band can do 19 mbit/sec (per wiki) - so the answer is yes?  </s>
+<s> but since your internet connection is not 18 mbits total and the wifi link is half duplex, all this becomes an exercise of how exact you insist the answer be and if we are talking about laboratory conditions and more.  </s>
+<s> under ideal conditions, if the packet sizes are the same, if the response times are stable, the servers that are being fetched are responding on time, all things being perfect.  </s>
+<s> remember i lived through the days of battle over the network protocol asynchronous transfer mode (atm) versus tcpip and you are treading right into the argument for atm.  </s>
+<s> bob  </s>
+<s> okay, i'm clear now.  </s>
+<s> thank you much!  </s>

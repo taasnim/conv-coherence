@@ -1,0 +1,24 @@
+<s> basics of home network: fios with vista desktop connected to router via ethernet cable,xp laptop and lexmark s605 printer communicate wirelessly with router.everything  </s>
+<s> worked flawlessly until last weekend. the old dlink g router died on sunday after 5yrs so i ran to staples and bought a cisco/linksys e1000 'n' router.i got everything back up and running with no problems.to  </s>
+<s> rejoin the s605 to the network,i went into it's wireless network settings and entered the router's ssid and p/word.i  </s>
+<s> printed from both the desktop and laptop,everything worked and the network was happy!  </s>
+<s> fast forward one week:i'm on the verge of taking my mossberg 500 and using the printer for target practice.  </s>
+<s> printing from either desktop/laptop gives communication errors(neither one sees the printer over the network).i  </s>
+<s> can use the printer only if i connect it to the desktop via usb.  </s>
+<s> things tried: reset printer to factory defaults.  </s>
+<s> delete all traces of anything lexmark and reinstall software on both computers.  </s>
+<s> result:the printer can see the router and i can add it to the network through the printer's settings but neither computer can see the printer?  </s>
+<s> i realize i have to create a new printer port on the desktop but i can't,entering the printer's ip addy get's 0 results.  </s>
+<s> the n router had to be set to 802.11 g mode and all the usual ports and firewalls tinkered with.  </s>
+<s> i think the mossberg is the better idea.  </s>
+<s> bob  </s>
+<s> you gave me a place to start checking for the problem,thx.  </s>
+<s> the s605 is a 'n' device,i checked the router's basic wireless settings and it was set to 'mixed' which includes b/g/n so that was left as is.  </s>
+<s> directly above that was 'configuration view'.wifi  </s>
+<s> protected was selected with manual being the other choice.i  </s>
+<s> selected manual,saved the changes and behold! the printer was no longer invisible and i was able to create a new port.  </s>
+<s> didn't play on mixed mode. the printer only showed up in 802.11g mode at the router.  </s>
+<s> truly a mossberg 930 target.  </s>
+<s> the software was no better.  </s>
+<s> so even after getting it to work, hp's support was not there so back to usb connections for quite a long time. the printer is now history and i went to another make for awhile.  </s>
+<s> bob  </s>

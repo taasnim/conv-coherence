@@ -1,0 +1,43 @@
+<s> i am connecting my laptop pc to my hdtv via a wireless gizmo. the gizmo has a dongle transmitter connected to the pc via the hdmi port and the usb port for power, on the receiver hdtv end the receiver box connects to the hdtv through the hdtv hdmi port and to the a/c power on the wall, all this is to replace a hdmi to hdmi cable connection.  </s>
+<s> i hope i,m clear so far.  </s>
+<s> now i want to clone my pc screen to my hdtv screen i.e. i want to see the exact same image or video on both my pc screen and on my hdtv screen and here lies my problem, as i stated in my original post, i am unable to do so using the fn/f8 keys or the microsoft key/p options i have on my pc keyboard.  </s>
+<s> using these keys i can see a video on either the pc laptop screen or on the hdtv screen but not on both at the same time which is what cloning or duplicating means? the internet posts related to this issue recommend using my nvidia control panel to achieve cloning, i have also tried that approach with no sucess because when i go there, i do not have choice for cloning, it seems it doesnt recognize or detect a second monitor ?  </s>
+<s> graphic card is nvidia ion  </s>
+<s> since the laptop display is not the same as the hdtv, this should be a dead end.  </s>
+<s> why can't you use the usual extended display?  </s>
+<s> why must it be a clone job?  </s>
+<s> bob  </s>
+<s> proffitt lots of posts on net where ppl connected laptop to hdtv successfully!  </s>
+<s> not sure what u mean by &quot;makes sense&quot;?? i also tried extend screen w negative results'  </s>
+<s> let's take my netbook which has 1024 x 600 pixels.  </s>
+<s> that's nothing my hdtv will display so cloning that display should result in a dead end.  </s>
+<s> it makes sense to me.  </s>
+<s> as to those other folk they may not have your netbook.  </s>
+<s> on top of that you elected to not share make and model.  </s>
+<s> the extended display does work here as long as i set it to something compatible.  </s>
+<s> -&gt; i don't want to upset you but why the lack of make, models, cables used, settings and what that usb to hdmi thing is? the usb to hdtv link i know of required some driver install and setup yet your post is so light on details that i can't see where it went wrong.  </s>
+<s> bob  </s>
+<s> thanx for your help!  </s>
+<s> i am not upset at all.  </s>
+<s> just want to solve problem.  </s>
+<s> my laptop is asus eee the only info i have on graphics card is nvidia ion. the wireless is nyrius aries.  </s>
+<s> it consists of a transmitter and a receiver.  </s>
+<s> the transmitter is a dongle that attaches to laptop with a hdmi male to laptop female and also to the usb input on the laptop for power. the receiver is a box that attaches to the hdtv via a male hdmi cable and to the wall a/c outlet.  </s>
+<s> perhaps you can find it on google under nyrius aries hdmi wireless connection.  </s>
+<s> that's where i bought it.  </s>
+<s> i send them an email but they have not replied!  </s>
+<s> before you use the wireless hdmi did you get it working with just a hdmi cable?  </s>
+<s> i have one of those hdmi wireless things but mine is the philips sww1890/27 wireless hd net connect.  </s>
+<s> bob  </s>
+<s> yes i started that way with a hdmi to hdmi cable and i had the same result as with the wireless connection!!  </s>
+<s> that's a problem with troubles like this. if it didn't work with just the hdmi then adding this wireless hdmi only muddies the conversation.  </s>
+<s> i'd head back to wired and see if we can find the user's manual fort this computer.  </s>
+<s> you look too.  </s>
+<s> i'll be back later.  </s>
+<s> bob  </s>
+<s> support for eee family eee pc 1215n change your model add to my favorite register knowledge download specification warranty policy bob, i found this on asus support for my laptop eee pc 1215n: optimus support hdmi 1.4a 3d display specification so display can't support clone mode.  </s>
+<s> page tools solution the lcd and crt display output from intel gpu. the hdmi display output from nvidia gpu.  </s>
+<s> because the nvidia gpu can't sync intel display data for calpella platform,so that is nvidia gpu limitation for this architecture.  </s>
+<s> clone mode is pretty much a non-starter since this netbook's display is 1024 x 600 and you have found a second reason.  </s>
+<s> i'd focus on the extended desktop method now.  </s>
+<s> bob  </s>

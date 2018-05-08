@@ -1,0 +1,39 @@
+<s> ok i am a novice when it comes to computers so i need some advice on building my first pc.  </s>
+<s> so let me get straight to nitty..... i decided to build a pc because i was told (and i heard) that it would be cheaper than buying a mac (the industry type).  </s>
+<s> i want to build a computer which will be great for multitasking in graphic design, music production, music recording, mixing, editing and etc. (i wont be playing any games on it).  </s>
+<s> now the question at hand is, which intel or amd processor is the best price to performance ratio for this kind of make?  </s>
+<s> as for a budget...not more than $2000.  </s>
+<s> and secondly can anyone recommend a case and a motherboard to go along with that specific processor?  </s>
+<s> take a look at tomshardware.com as well as the benchmarks there.  </s>
+<s> today you might choose the core 2 duo.  </s>
+<s> you can afford an imac.  </s>
+<s> they start at $1200 for the 20&quot; model.  </s>
+<s> if you want to build your own, i suggest a barebones since it will already have the case, power supply, and motherboard premounted.  </s>
+<s> adding the cpu, ram, and drives will only take you about 30 minutes.  </s>
+<s> you didn't mention any specific apps, but the type of work you plan to do could use a lot of memory, so i suggest you get 4gb.  </s>
+<s> barebones: shuttle cube, $235 or asus slimline, $200 dual core cpu: intel core2duo e6750 (2.66ghz ), $190 4gb ram: mushkin ddr2-800, $90 500gb hard drive: western digital caviar gp sata, $105 dvd burner: lg 20x w/lightscribe, $31 wireless keyboard/mouse: microsoft laser combo, $46 os: windows vista premuium, $110 total: $807 or $772 depending on barebones if you want dual monitors, you'll need to add a video card like this: pny 8400gs low profile, $66 if you're planning on something like an m-audio delta card , you'll need to use a cube (or full-size) case.  </s>
+<s> if you're going to be using usb or firewire audio , the slimline is fine.  </s>
+<s> this case is small but not too small and pretty sharp looking: asus btx, $185  </s>
+<s> well ramarc to be frank i'm not into mac's like that.  </s>
+<s> plus most of my software application are for pc. so thats why i want to continue sticking to the pc. as for the applications, i'll be using, protools, reason, fruity loops, photoshop cs2, illustrator, corel, and etc. the cases you guys shown me i wasnt thinking along that line of cases.  </s>
+<s> more like this: i thought maybe seeing that i am going to be using more than one hard drive (4 or more), couple adio cards, and couple drives... why not get one with a air vent or couple fans.  </s>
+<s> now with that type of case in mind, and the intel quad core 6600 or 6700.. which one of those proccessors whould be the best match for the above applications?  </s>
+<s> since you mentioned the mac, i thought you just didn't want to spend mac cash but still wanted something mac size (compact and clean design).  </s>
+<s> i priced that build so you'd have room in your $2k budget for a big 24+&quot; or dual 22&quot; monitors (about $500), a pro-audio solution with at least 4in-4out, midi i/o, and spdif i/o ($300+), and a pair of powered studio monitors.  </s>
+<s> unless you need 4tb of storage, don't get 4 hard drives.  </s>
+<s> a matrix array of dual 750gb drives will yield a mirrored 200gb boot volume and an ultra-fast 1tb data volume.  </s>
+<s> matrixing dual 1gb would yield a 200gb boot and 1.5tb data volume.  </s>
+<s> and remember that there'll always be bigger and faster hard drives available each year.  </s>
+<s> so don't spend money on space you won't be using.  </s>
+<s> you're said you're not into gaming and i assume you're not overclocking.  </s>
+<s> so, a gaming case like the thermaltake would be for looks only.  </s>
+<s> since you're into music production i also assume you want a quiet pc.  </s>
+<s> so any quiet case you like with a 120mm exhaust fan will be more than adequate for a midrange pc. antec p180, very quiet, $109 antec sonata iii w/500w ps, quiet, $110 coolermaster cavalier, quietness depends on power supply, $75 corsair 550w btw, all the cases above have slots for 4 internal 3.5&quot; drives.  </s>
+<s> as for dual vs. quad core, photoshop is the only app you've listed that could take advantage of 4 cores.  </s>
+<s> but the q6600 (2.4ghz) would be slower in all other apps. the e6750 is the same speed as the e6700 (2.66ghz) but $150 less. the best mainstream dual core now is the core2duo e8400 (3ghz) which runs about $240 (but will fall in price in early march).  </s>
+<s> here's my suggested mobo msi p35 neo2-fr .  </s>
+<s> thanks ramarc.... the e8400 it is.. but i would think that the 6600 and 6700 would be better than the e8400...seeing they have 4 cores...right?  </s>
+<s> photoshop is optimized for quad cores, but other apps (like illustrator) don't show much benefit going from 2 to 4 cores because of thread synchronization issues.  </s>
+<s> that's also especially true of most music software.  </s>
+<s> they optimize for 2 threads but not 4. so a fast dual core (3ghz e8400) will outperform a slower quad core (2.4ghz q6600/2.66ghz  </s>
+<s> q6700) in all of your apps except photoshop.  </s>

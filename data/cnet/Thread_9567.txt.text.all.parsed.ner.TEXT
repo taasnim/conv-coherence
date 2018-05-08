@@ -1,0 +1,21 @@
+<s> i got a new seagate barrucuda 160gb hard drive.  </s>
+<s> i partitioned it i made a partition of 10gb for windows xp os and the other 150 gbs idk. the question i was wanting to ask is where the other gbs i open my computer and all i see it c:/ where is the other one i can't find it.  </s>
+<s> i also wanted to know why my when i dont partition my hard drive and use it all together that my computer recognizes it as a 127 and not 160 or watever plz help me plz  </s>
+<s> also i know that it is allocated but i want to make it another drive like the c: if its possible i dont how to use the un-partitioned space  </s>
+<s> 1.) make sure you actually created a second partition of 150gb...it's not automatically created.  </s>
+<s> you can boot to your xp cd to verify this and create/delete partitions.  </s>
+<s> 2.) 127gb is a standard limitation unless you install sp2, a free (but large) download from microsoft for all legitimate users.  </s>
+<s> john  </s>
+<s> i have service pack 2 installed if i reboot it then download sp 2 again will it recognize the rest of the hard drive?  </s>
+<s> ill try it with the xp cd thanks  </s>
+<s> to see if the motherboard can see the whole drive capacity.  </s>
+<s> if it shows there, then windows can see it also, if you have sp2 installed.  </s>
+<s> go to drive management and look there.  </s>
+<s> go to: start control panel administrative tool computer management disk management right click on the box that shows 'unallocated' ...you can create and format the partition from there  </s>
+<s> thanks guys u really helped me out alot thanks  </s>
+<s> ok i rebooted my computer and im using the whole drive as one big partition but when i look in my computer its saying i only have 127 gbs of 160 and 22 or something is allocated how can i add the allocated space to the other 127 gb cus i really need it i dont want to partition it or anything i just want to use it i have xp sp 2 and all updates but ti wont recognize the whole drive plz help plz  </s>
+<s> the last suggestion by vapcd?  </s>
+<s> you can also right click on the drive and then on &quot;help&quot;.  </s>
+<s> look for the help file that says &quot;to create a partition or logical drive&quot;.  </s>
+<s> it tells you step by step how to do it.  </s>
+<s> thanks guys u really helped out i fixed everything i will try to help others the same u helped me thanks bye  </s>

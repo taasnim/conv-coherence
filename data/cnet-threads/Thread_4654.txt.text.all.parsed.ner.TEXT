@@ -1,0 +1,26 @@
+<s> i mistakenly fouled up my broadband connection on my home wireless network when i was trying to clear some space to install norton systemworks go back.  </s>
+<s> when i reinstalled the software, it said that i should not have the network card attached to the computer during installation.  </s>
+<s> i dutifully disconnected the unit.  </s>
+<s> when it got to the place where it says to connect to a powered usb port, it did nothing when i plugged it in to the usb port on my usb hub, the port from whence it came originally.  </s>
+<s> i then tried plugging it in to the one free usb port on the computer.  </s>
+<s> the whole computer shut down.  </s>
+<s> instantly, like i'd pulled the plug.  </s>
+<s> i checked that everything was plugged in properly, started over, and the same thing happened when i plugged into the computer's usb port.  </s>
+<s> it all worked ok yesterday.  </s>
+<s> specs: gateway desktop (bought in 2000.  </s>
+<s> several hardware upgrades since then,including dvd drive and 80 gig second hard drive.) xp professional os the wireless network is msn.  </s>
+<s> base unit is on my son's dell, which is tne newest computer in the household.  </s>
+<s> any help would be much appreciated.  </s>
+<s> i tried reaching gateway's tech chat, but it throws me back to the desktop when i try to connect.  </s>
+<s> (from my son's computer,not the one with the problem, natch).  </s>
+<s> thanks  </s>
+<s> apparently whatever you are connecting to the powered usb port [it the powered port is mandatory], is something that draws considerable current from ther 5 volts.  </s>
+<s> if you connected the device to the powered hub, but did not have the hub power adapter plugged in, the device may have drawn too much current from the 5 volt usb connection within the computer.  </s>
+<s> this may have caused the computer shutdown.  </s>
+<s> the amount of current required for the device certainly shouldn't be too much for the main 5 volts from the power supply, however, the computer's usb circuits may have built in protection to prevent getting burned out by overload.  </s>
+<s> [of course, it is possible that the device has failed and is shorted] this is simply a wag, because i see that no else has answered for quite a while, although on summer weekend days many people that normally reply are enjoying something else.  </s>
+<s> i am not absolutely sure what device was being connected.  </s>
+<s> possibly a little more precise explanation of what you were doing step by step would clarify it further.  </s>
+<s> good luck.  </s>
+<s> try powering off the computer, then plug in the device and restart.  </s>
+<s> my computer sometimes complains when i plug in with the machine on.  </s>

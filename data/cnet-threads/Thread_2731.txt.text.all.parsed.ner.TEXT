@@ -1,0 +1,40 @@
+<s> i have a really old pentium 233, 160 ram, pcchips motherboard self-built computer.during the last year the screen has a tendency to go black (blank) at any time for no reason at all. the only way to fix it is to restart the computer and even then it takes quite a while for the image to come back.  </s>
+<s> it usually comes back during the scandisk that is done before windows starts when it's restarted abrupty. the system itself doesn't freeze, but of course i can't do anything without being able to see the screen.  </s>
+<s> the screen is a techmedia 15''. the video card is a cirrus logic 5546. the components of the computer are all rather generic.  </s>
+<s> here's where the question goes.  </s>
+<s> i don't know what is causing this.  </s>
+<s> tightening the cables hasn't worked.  </s>
+<s> i don't know if the problem is due to the screen or the video card.  </s>
+<s> this is what i would like to know. is it the screen or video card causing this problem?  </s>
+<s> any possible solutions?  </s>
+<s> i'd really appreciate if you all could help me with this because it's driving me and my family crazy.  </s>
+<s> do you have another monitor that you could try, to see if it is the monitor or in the computer.  </s>
+<s> good luck.  </s>
+<s> gordon  </s>
+<s> techmedia is on the lower end of the monitor scale.  </s>
+<s> if you hear an audible click, then black, the monitor isn't cutting it.  </s>
+<s> of course the best test is to swap card and/or monitor on another system.  </s>
+<s> it maybe also just showing its age and finally on its last legs.  </s>
+<s> i suggest you prepare to get another monitor when you can. if possible a decent used monitor could be had at local goodwill or sal.  </s>
+<s> army, maybe also inform them of your need and willingness to pay when one comes in.  </s>
+<s> -or- local computer shop as well.  </s>
+<s> you can always buy new as cheap monitors around here are $80+ range.  </s>
+<s> sorry... tada -----willy  </s>
+<s> while changing the monitor for another for a test is a great idea, an old server at the office with a cirrus logic pci card failed.  </s>
+<s> the video card was the culprit.  </s>
+<s> mind you i am strictly sharing this one occurance (out of hundreds) but you are reaching the end of life on the parts in said box and may have to search out replacements.  </s>
+<s> -&gt; do try opening the box and dusting it out in case it's a heat induced issue.  </s>
+<s> bob  </s>
+<s> first swap video cards.  </s>
+<s> you didn't specify if it was a crt or not and i'm not familiar with techmedia.  </s>
+<s> if it is a crt unplug the power cord and take the back off.  </s>
+<s> on the neck of the crt itself is a small pcb (circuit board)carefully unplug the pcb from the neck of the crt.  </s>
+<s> you will see a partial to full circle of solder joints.  </s>
+<s> these are the filaments to the crt.  </s>
+<s> after a period of time these solder joints can become poor.  </s>
+<s> as the display heats up, it causes a fracture of the joint (thermal fracture) resolder and give it a whirl.  </s>
+<s> you can also check them before you do anything by taking the back off and power up your system.  </s>
+<s> turn all lights off and you should see a &quot;glow&quot; in the neck of the crt.  </s>
+<s> if the &quot;glow&quot; is there, then it is not the filaments.  </s>
+<s> as long as the unit is unplugged you don't have to worry about getting a shock as long as you stay away from the anode lead going to the head of the crt. it is usually a big red wire with a suction cup on the crt.  </s>
+<s> just don't poke anything under that (that is where the stored charge is) usually 20kv - 25kv range.  </s>

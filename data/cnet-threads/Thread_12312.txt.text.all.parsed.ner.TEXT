@@ -1,0 +1,33 @@
+<s> hello everybody, i have a hp computer that recently had the hard drive go bad.  </s>
+<s> i was talking with their support and they wanted to charge around $400 dollars for a replacement drive and she said that the recovery discs can't be used on third party drives, is that true?  </s>
+<s> i'm not the most tech savvy person but i want to know can i just buy an affordable third party drive and have it work?  </s>
+<s> i'm not sure how to tell what kind of hard drive to get.  </s>
+<s> i know there is ide and sata but are there any more types?  </s>
+<s> and how can i tell which one i have?  </s>
+<s> thanks in advance  </s>
+<s> first off i don't see any reason why recovery discs wouldn't work on any hard drive.  </s>
+<s> there are 3 types of internal hard drive and which type you need depends on yur motherboard's connections.  </s>
+<s> 1. ide - this was the old standard for many years and still exists now.. it connects using a 40 pin rubbon cable at speeds of 33/66/100+ mbs.  </s>
+<s> if your machine is pretty new i doubt your motherboard will use this connection but it may have one incorporated on it.  </s>
+<s> 2. sata - most common connection used in todays desktop pcs.  </s>
+<s> much thinner ribbon cable about 1cm comes in speeds of 150, 300 and 600mbs (600mbs is very new so its more than possible that your motherboard doesn't have that speed capability).  </s>
+<s> both ide and sata are backwards compatabile so you can attach fast drives to slower connections and vice versa.  </s>
+<s> 3. ssd (solid state drives) these are the latest hard drive types.  </s>
+<s> basically there are very large memory sticks.  </s>
+<s> imagine a load of usb mem sticks in a box the shape of a hard drive.  </s>
+<s> i doubt very much your pc has these although at $400, the price they want to charge you, i would expect one because these are not cheap.  </s>
+<s> as i said at the beginning, i see no reason why a 3rd party drive wouldn't work on your pc unless hp have some kind of special bios that only allows hp products to be installed (this can be got around if that is the case).  </s>
+<s> try a 3rd party drive they are cheap and if for some reason it doesn't work sell the drive.  </s>
+<s> you could save yourself $400 if it works.  </s>
+<s> buy a hp hard drive.  </s>
+<s> easiest way is to open your pc case.  </s>
+<s> if the cable connecting your hard drive is about 1cm wide its sata 150 or sata 300.  </s>
+<s> sata 300 is faster and only $2-3 more so buy that.  </s>
+<s> if its much wider about 5cm then its ide.  </s>
+<s> buy the fastest ide drive you can 100-150mbs.  </s>
+<s> never succomb to these pc company giants.  </s>
+<s> they want your money that's all.  </s>
+<s> i have always built my own machines so if i need technical support...i know where i am 24/7.  </s>
+<s> thanks guerito, yeah i bought a sata hard drive on amazon and it worked after i used the recover disks.  </s>
+<s> i don't know why the lady said it would cost so much.  </s>
+<s> at least i saved a lot of money, i appreciate the help!  </s>

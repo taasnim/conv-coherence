@@ -1,0 +1,21 @@
+<s> i've got this old dell pc with the following specs win xp sp3 p ii 231 mhz 396 mb ram.  </s>
+<s> i have a sata hard drive that i need to be able to read using this old dell.  </s>
+<s> except that it doesn't have a sata wiring.  </s>
+<s> someone said to me to get an ide/sata controller card.  </s>
+<s> there are several available that i've noticed on newegg and just about all have very bad reviews.  </s>
+<s> not to mention the fact this is an older pc, i am really asking for trouble?  </s>
+<s> this hard drive that i'm speaking of has some data that i need but something happened to it and it boots into the blue screen of death.  </s>
+<s> i ran the diagnostic routine and it told me the disk is bad, which i know is not really the case; i think only the boot sector is gone bad.  </s>
+<s> so anyway, a local pc shop wanted 130 bucks to retrieve my data, i said, are you kidding?  </s>
+<s> i guess they have to make a living and people who don't know any better will pay.  </s>
+<s> where was i, oh yeah... anyone has experience with a similar configuration and why are all these sata controller so funk prone?  </s>
+<s> thank, risho.  </s>
+<s> would be to buy an external enclosure to put the drive into.  </s>
+<s> assuming your old dell has usb, they will probably be 1.1 instead of 2.0 which will make it slower.  </s>
+<s> that pc is pretty old.  </s>
+<s> i would possibly expect it to not have pci but isa slots which would further complicate a sata adapter.  </s>
+<s> a damaaged boot sector can be fixed with a reformat, but if the diagnostics say the drive is bad they are detecting a hardware issue and the drive is close to toast.  </s>
+<s> here's a cheap sata-to-ide adapter: no drivers will be necessary.  </s>
+<s> if the pc has usb, consider this case: if you want a controller, here's another inexpensive choice but you'll have to install drivers.  </s>
+<s> as for newegg's customer reviews, you'll find many folks complaining because they didn't know what they were getting.  </s>
+<s> &quot;it won't work with my 1tb drive; the drivers are buggy; it won't work with this drive, it's slow&quot; etc. adding new tech to an old pc can be a challenge.  </s>

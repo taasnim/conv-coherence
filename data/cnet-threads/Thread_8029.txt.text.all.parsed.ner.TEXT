@@ -1,0 +1,27 @@
+<s> hi all, i recently purchased some new ram for my computer from staples, at the same time as i purchased the new computer that i bought.  </s>
+<s> at staples they assured me that the ram was compatible with my computer.  </s>
+<s> however, after installing the ram myself i have found that my computer is not recognizing that there is any ram.  </s>
+<s> i was wondering if anyone could help me.  </s>
+<s> i already had 4gb of ram installed, and i installed another 4gb of ram.  </s>
+<s> i am using ubuntu x64 so it will recognize more ram, and i checked in my bios to make sure.  </s>
+<s> only 4gb is showing up. the ram is pushed in &quot;all the way&quot;, and i know that my ram port is working.  </s>
+<s> my computer is a hp pavilion g6-2235. the ram that i purchased has the information below.  </s>
+<s> i am somewhat of a beginner and do not know what all of the data below is for, but if you can make sense of it then let me know.  </s>
+<s> l/4g-ddr3-1066 sodim 4gb pc8500 ddr3 1066 mhz 9857462 i read online doing bios updates maybe, but i don't know how to do a bios update (or how it would be useful).  </s>
+<s> let me know if any of you can help me!  </s>
+<s> thanks  </s>
+<s> that seems to say what you bought is not supported ram.  </s>
+<s> also note that section in red about matched pairs.  </s>
+<s> the quickest test for ram is remove the current ram and replace with new.  </s>
+<s> if the new ram works ok, alone then you have mismatched or improper combo.  </s>
+<s> if it doesn't work, you have a probable bad or true unrecognized ram which the bios won't allow.  </s>
+<s> in some cases, updating the bios should get the most of many ram setups, but not all.  </s>
+<s> if the bios is done and the new ram works, then you have your fix, install the other ram.  </s>
+<s> as the other poster offered, if the ram is not as required, that too will fail.  </s>
+<s> here's what i do in many cases.  </s>
+<s> i installed pcwizard 2012, to check the ram status. the ram status will show what your current ram is.  </s>
+<s> then you match that against any newly brought ram or compatible types.  </s>
+<s> understand faster ram may work, only if the bios allows it and part of its current standing.  </s>
+<s> if there too much difference, it should fail as its suppose to.  </s>
+<s> -or- return ram and have them explain why it didn't work when their sales people said it would.  </s>
+<s> tada -----willy  </s>

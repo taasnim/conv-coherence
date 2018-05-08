@@ -1,0 +1,46 @@
+<s> i have an amd computer, and this is what the current ram stick says on it... ddr 333 128 mb 16mx16 2.5 v ui and i need to buy a gigabyte of new ram.  </s>
+<s> what kind of ram do i need to buy, and how do i know it will work?  </s>
+<s> if it is a proprietary such as dell, compaq, hp, etc, it's simple.  </s>
+<s> go to enter the model number of your computer.  </s>
+<s> they'll tell you what type it will take and the maximum size [in mb] that each memory slot can support.  </s>
+<s> very important if it turns out that your mobo supports dual channel.  </s>
+<s> ddr333 memory is also called pc 2700.  </s>
+<s> there are also some possible issues regarding the density of the dimm chip used on the memory sticks such that some mobos do not support the higher density dimms.  </s>
+<s> if you can tell us what mobo you have, we could help.  </s>
+<s> however, if you know the answer to that you can go to the mobo mfr's website and find the info yourself.  </s>
+<s> go with the crucial website and enter your information. it was great advice above.  </s>
+<s> we can't help much more.  </s>
+<s> to that i'll add kingston and corsair also offer ram for most pcs and armed with the manufacturer name, series and model number of your pc...you can go to their websites and see what they offer and recommend.  </s>
+<s> the good thing about buying from crucial, kingston or corsair is they guarantee compatiability with your pc if you buy one of their products recommmended for your pc directly from them.  </s>
+<s> some of their products are also available at newegg.com zipzoomfly.com,  </s>
+<s> etc., you could buy generic ram and hope it works but in my experience you're way ahead by going with good quality brand name stuff unless you're a glutton for pain and punishment.  </s>
+<s> so how do i find out more about my pc's motherboard? is it all in the motherboard manual?  </s>
+<s> what kind of info am i looking for?  </s>
+<s> cpuz should tell you exzactly what mb you have and what revision it is (3rd tab).  </s>
+<s> you can bounce that off what you get using belarc &quot;advisor&quot;.  </s>
+<s> good info to have available.  </s>
+<s> once you get that....check the motherboard manual for any info re adding ram to your system.  </s>
+<s> go to one or two of the recommended sites and see what's available.  </s>
+<s> then post the info (mb mfg, model and rev) here along with your proposed ram purchase for others to comment on.  </s>
+<s> tell what type ram and how much per slot, total memory maximum and if there are any unusual things about the last memory slot.  </s>
+<s> [some mobos allow less in the last slot depending on what it in the earlier slots.  </s>
+<s> the mobo seems to be... amd sempron, 1200 mhz, sis-741 does that help?  </s>
+<s> what are the specific types of ram i should be looking for now?  </s>
+<s> and look at the tab called ...&quot;mainboard&quot; ...give us the exact manufacturer name, model number, and revision number.  </s>
+<s> amd sempron 1200 mhz is the cpu that is installed. the sis 741 mis the chipset that the mobo uses.  </s>
+<s> many mobosof different mfrs use sis chipsets.  </s>
+<s> you really need to find the mobo model to be sure of the speed memory that it is designed for.  </s>
+<s> it is true that one can use faster rated memory in a slower bus and it will simply run fine but simply at the lower clock speed, and you could get away with pc 3200 ddr 400, although that seems like a rather older cpu.  </s>
+<s> but it is best to be safe before wasting money getting unsuitable memory.  </s>
+<s> buy from outfits such as crucial and mushkin,will give lifetime warranty and replacement if it is the incorrect type  </s>
+<s> well, where would i find out what the motherboard specifications are without the mobo book?  </s>
+<s> armed with the mfgs name, model #, and rev #, you can usually find the mb spec's on the mfg's website in the applicable mb manual.  </s>
+<s> right ?  </s>
+<s> under the mainboard tab, the only information present is as follows.. motherboard---- model : sis-741 sensor: ite 8712 bios--- brand : phoenix technologies, ltd version: 6.0 pg everything else in this tab is grayed out.  </s>
+<s> i got this computer on a special from fry's, it was a 1.2 ghz amd with linux installed as the default os on the 40 gig harddrive.  </s>
+<s> and i can not for the life of me figure out the mobo specs to buy ram at all.  </s>
+<s> ps...what did it say under the memory or spd tab under cpu-z  </s>
+<s> thats easy!  </s>
+<s> are you assuming the ddr333 is right ?  </s>
+<s> how many dimm slots does he have to work with ?  </s>
+<s> does the mb support dual channel ?  </s>

@@ -1,0 +1,12 @@
+<s> hi i want to install an agp video card into my pc but i have a problem.  </s>
+<s> i do not have the manual for the motherboard and i cannot figure out which keys to press to enter the bios.  </s>
+<s> i searched google and found many different combinations but none seem to work.  </s>
+<s> i need to get into the bios to disable the on board video and enable agp. is there anyway i can track down my bios key?  </s>
+<s> also is there another way to disable on board video without using the bios?  </s>
+<s> anyway my bios is amibios ver 7 and the numbers at the bottom of the screen are &quot;amibios-0aawvp06-y2kc-f&quot; thanks  </s>
+<s> or motherboard have a name and model number?  </s>
+<s> that's the first place to look.  </s>
+<s> usually del, f1, f2 or f10 gets you in.  </s>
+<s> on most systems as &quot;setup&quot;, as in in &quot;press [whatever key] to enter setup&quot;???? the bios is stored on a cmos chip.  </s>
+<s> some call the bios cmos.  </s>
+<s> unfortunately i do not have the manual and the screen says nothing about what key to enter setup which is why i am stumped...  </s>

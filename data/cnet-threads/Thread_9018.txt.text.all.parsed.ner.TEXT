@@ -1,0 +1,49 @@
+<s> i am trying to access my usb flash drive.  </s>
+<s> it was encripted using bitlocker.  </s>
+<s> i am running windows 64 bit ultimate.  </s>
+<s> when i insert the drive it says it needs to be fornatted.  </s>
+<s> the drive capacity is full though so i am assuming the files are there.  </s>
+<s> this was after i had to reinstall windows.  </s>
+<s> i have a copy of the certificate in the personal information format but this is no help.  </s>
+<s> any ideas?  </s>
+<s> thank you  </s>
+<s> when i see bitlocker failures i turn to drivesavers.com.  </s>
+<s> i already know that msft's answer is to format it and restore from backup.  </s>
+<s> i'm going to assume you read how to install the certificate and this reinstall of windows is complete.  </s>
+<s> that is, i find many to forget to install all the drivers and helper apps today.  </s>
+<s> bob  </s>
+<s> by the way, the cnet computer help forum is among the most visited.  </s>
+<s> try that.  </s>
+<s> i'll lock this and others because it would create duplication of effort and confusion.  </s>
+<s> yes, windows is reinstalled.  </s>
+<s> i dont have a backup of the flash drive.  </s>
+<s> how do i go about restoring the ceritificate?  </s>
+<s> i have never had to do this before.  </s>
+<s> thanks  </s>
+<s> but msft is a little disorganized as i look for that.  </s>
+<s> i read your post and it seems like you knew all about bitlocker.  </s>
+<s> read and try each &quot;scenario.&quot;  </s>
+<s> bob  </s>
+<s> still no luck.  </s>
+<s> be aware that if it was that easy to crack, security pundits would slam msft for that.  </s>
+<s> i think it's best to ask drivesavers.com  </s>
+<s> what can be done next.  </s>
+<s> if you read my prior discussions about folder and drive lock apps, my advice is always to have a backup without encryption as these do tend to fail then take the data to the bit bucket in the sky.  </s>
+<s> bob  </s>
+<s> i have trired that on a windows xp laptop annd no luck.  </s>
+<s> i think its the drive if so whats the best software to try and recover it if its possible. the drive was working fine but i had to reinstall windows due to the screen going black for a reason i could not determine.  </s>
+<s> when i did the reinstall i spotted on the bios that it had tried to change it to the first boot drive.  </s>
+<s> i have the encription key in the personal information exchange format saved on a dvd.  </s>
+<s> - what is &quot;that&quot; in your first sentence?  </s>
+<s> and &quot;no luck&quot; in a later post?  </s>
+<s> - can you tell in more detail what you did to recover the contents of the drive and what happened?  </s>
+<s> we can't guess/ - do i understand correctly that you reinstalled windows with this stick inserted?  </s>
+<s> - why is that copy of the encryption key on that dvd no help?  </s>
+<s> kees  </s>
+<s> that helped in an odd way.  </s>
+<s> we know that xp64 is the worst for getting a proper install today.  </s>
+<s> it's early version would have deep issues with drivers and usb drives over a few gb. i strongly suggest you move to an os you can get support for and forget drive encryption if you can't keep an unencrypted backup around.  </s>
+<s> bob  </s>
+<s> i have same [roblem but my pc not see it and any pc a buy it new  </s>
+<s> it's new, and not for you to solve.  </s>
+<s> but maybe you don't have the same problem as xp64 is not offered by any company today on a new computer (i'll discount those custom shops.) bob  </s>

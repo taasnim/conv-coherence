@@ -1,0 +1,16 @@
+<s> it's it weekend for me apparently among friends.  </s>
+<s> i am working on restoring 2 computers.  </s>
+<s> one (we'll call a) was a prebuilt compaq that went into an infinite restart loop after downloading sp3, and since the computer was old to begin with, the owner decided to build a new one. the second (we'll call b) was a selfbuilt that had the os suddenly become corrupt and could not get past the startup diagnostics screen.  </s>
+<s> computer b owner figured we'd just get a few things off the old drive, then reformat it, so i slaved the drive into the new computer i'm building for the owner of a and retrieved the files.  </s>
+<s> however, when we replaced the hard drive back into the original system, the computer refused to detect it.  </s>
+<s> okay, we figured, the thing was old and dying anyways, so we figured it was just that...until i slaved the hard drive from computer a to the same new computer and retrieved its files.  </s>
+<s> again, same story, the original computer now refuses to recognize that there's a hard drive once replaced.  </s>
+<s> i've checked and rechecked all cables, put jumpers where they belong (cable select, both hard drives are the only drives in the system), but both systems refuse to detect their hard drives.  </s>
+<s> which leads me to believe that it's something i've done/am doing to kill them.  </s>
+<s> any insight would be greatly appreciated, it would be nice to get these things back up and running again.  </s>
+<s> i fixed them both.  </s>
+<s> for those of you in the future who encounter this, all i had to do was reset the cmos.  </s>
+<s> been my guess.  </s>
+<s> vapcmd  </s>
+<s> compaq that went into an infinite restart loop after downloading sp3 - is that an amd athlon machine?  </s>
+<s> if so, look here for the cure:  </s>

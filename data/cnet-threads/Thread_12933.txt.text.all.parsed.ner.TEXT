@@ -1,0 +1,30 @@
+<s> ok heres the time line of events original hard drive working wine with winxp buy new 160gb seagate hard drive and install ubuntu linux.  </s>
+<s> (i left the xp drive in place, but i just swapped the ide cable to the new drive).  </s>
+<s> i run the new seagate hard drive with linux (which installed fine the first try) for a few days then switch the ide cable back to my xp drive....no problem.  </s>
+<s> few days of widows...open the case plug the ide back to linux, start-up and bam...problem.  </s>
+<s> ubuntu would start loading but would hang and never get to the desktop.  </s>
+<s> i would have to switch off the power.  </s>
+<s> i never had a problem loading linux before i switched to the other xp hard drive.  </s>
+<s> i try to reinstall ubuntu...but it doesn't let me reinstall gives me an error during installation.  </s>
+<s> so i switch back to the xp drive, and everything boots up fine, then after about 5 min, the computer just turns off.  </s>
+<s> does this everytime i boot up win xp. 5 mins of running than bam - off.  </s>
+<s> so i decide to reinstall xp and now it wont reinstall xp, it hangs during install.  </s>
+<s> so now ive got two seperate hard drives both of which won't complete a full install of an o.s. and i've tried both xp and ubuntu on both hard drives same problem on both drives.  </s>
+<s> i checked the new seagate drive using the diagnostics disk, and no problems were detected, i even wrote zeros to the entire drive (took about 10 hours) and still the same problem when trying to reinstall.  </s>
+<s> since this happened to two drives that were never connected at the same time, and because the diagnostics for my hard disk comes back clean i assume i may have a hard ware failure somewhere else.  </s>
+<s> could this be a mb problem?  </s>
+<s> any suggestions on how i solve this problem.  </s>
+<s> (good thing my laptop still works!) thanks, -brent  </s>
+<s> if you remove any hd from your configuration (comparing with configuration when linux was installed), or change primary/secondary or master/slave position, linux won't boot without /etc/fstab reconfiguration.  </s>
+<s> please, send error reported in boot sequence.  </s>
+<s> an overheating cpu could cause these problems.  </s>
+<s> any chance you accidently unplugged a fan while you were inside the case?  </s>
+<s> make sure all fans, including any on the cpu are spinning.  </s>
+<s> also check for cables/wires that might block a fan when you close the case.  </s>
+<s> are both hard drives powered on during your tests?  </s>
+<s> unplug the power connector to the drive you're not using.  </s>
+<s> make sure the ide cable is firmly and correctly connected to the hard drive and the motherboard.  </s>
+<s> when one starts to move things around, it easy to turn one simple problem (stopped fan) into two problems (stopped fan and loose ide cable.) could be other things.  </s>
+<s> be specific about what the problems during your installs.  </s>
+<s> completely hosed it.  </s>
+<s> destroyed.  </s>

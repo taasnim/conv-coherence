@@ -1,0 +1,18 @@
+<s> so when i plugin something with a hard drive connector.  </s>
+<s> my pc will not boot from its windows partition.  </s>
+<s> i don't know if this is a bios setting that i don't want on or something else that is what i need help clarifying.  </s>
+<s> i have also built this pc in june so keep that in mind.  </s>
+<s> can you tell more about &quot;will not boot from its windows partition&quot; means?  </s>
+<s> and what it does?  </s>
+<s> and the relevant history from june until now.  </s>
+<s> kees  </s>
+<s> i've run across home built pcs and folk seem to forget one of the sata connection rules which is &quot;place the boot drive on the lowest numbered sata port.&quot; later they add another drive and because they had the boot drive on a higher port number, they are perplexed why it doesn't boot.  </s>
+<s> bob  </s>
+<s> can you provide us more info?  </s>
+<s> and what do you mean by &quot;...i have also built this pc in june so keep that in mind&quot; hard drive connector?  </s>
+<s> are you referring to an external drive with an usb?  </s>
+<s> anyways, i agree with r. proffitt, make sure your primary (boot) drive is connected to 0 or 1 (lowest sata ports).  </s>
+<s> if the dvd is ide, then each ide port on your mb supports 2 drives (master & slave) - the ribbon cable should have 2 connectors, so you can do that.  </s>
+<s> you may need to change jumpers on the devices so that 1 device is master & 1 is slave.  </s>
+<s> if the dvd is sata, no you can't plug your ide into the same cable.  </s>
+<s> a quick search shows 2 sata ports and 2 ide ports on that mb. unless you already have 4 ide devices in use, you can attach to 1 ide port or other.  </s>

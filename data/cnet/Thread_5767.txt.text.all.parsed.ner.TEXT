@@ -1,0 +1,76 @@
+<s> i'm upgrading my pc and i need some help choosing a graphics card.  </s>
+<s> i'm a graphic designer working mostly with print design.  </s>
+<s> i frequently work on some very large files (upwards of 200mb) in adobe photoshop cs, quarkxpress 6.5, illustrator, acrobat.  </s>
+<s> my system has dual xeon 3.4ghz processors and 2gb ddr2 memory.  </s>
+<s> i have a pci-express (16) slot available.  </s>
+<s> should i go for 256mb or 512mb on the card?  </s>
+<s> gefroce or quadro?  </s>
+<s> firegl or radeon?  </s>
+<s> i don't do 3d work, but i hear windows vista may have some 3d in it.  </s>
+<s> any advice?  </s>
+<s> i'd like to get the optimal card without overkill.  </s>
+<s> getting a 3dlabs or matrox card, not an nvidia or ati card something like this which is designed for what your doing, yes a more basic gpu like an fx 5200 would work, but that matrox provides higher color output (10-bit per channel vs 8-bit, it doesn't actually do much though) and true support for triple monitor, which would aid you for multitasking  </s>
+<s> not only good gfx card, but monitor you'll need.  </s>
+<s> well graphics software like you have as well as video editting software are processor and memory intesive applications.  </s>
+<s> you seem to have that coverd in spades!!! getting a good video card won't hurt.  </s>
+<s> video games need a fast video card.  </s>
+<s> so $150~200 for a good 256mb video card with 3d should take care of you.  </s>
+<s> a good monitor and a montior calabrator would better than a highend video card.  </s>
+<s> john  </s>
+<s> or it's worthless, because a cheaper card won't handle high resolutions like 1600x1200 or 2048x1536 (or 9mp) as easily, just saying get a 256mb card is a bad idea i stand by my suggestion of a matrox  </s>
+<s> firstly thank you all for your advice and help.  </s>
+<s> i took a look at the matrox card, but it only has 128mb on-board.  </s>
+<s> 1. will i benefit from more memory on the card?  </s>
+<s> (when loading a large image file, does this use the memory on the card, or the main system memory?) 2. how do the bits-per-channel affect me?  </s>
+<s> other than that, the matrox card looks to be excellent.  </s>
+<s> in response to the advice that i get a good monitor - i'd love to get the sony artisan (gdm-c520k) but it's way out of my price range.  </s>
+<s> instead i've opted for the viewsonic g220fb.  </s>
+<s> but that viewsonic should be great as well (that sony costs as much as my entire tower, and no i don't have one/have never used one) no, the images are loaded using system memory the resolution is handled by the card's ram, but 64mb can handle 2048x1536x32 with ease 10 bits per channel alright, a normal video card displays 8 colors per channel, which would be 24-bit color, to make things easier for ram (which is based on an octal system) and to enhance quality 32-bit color was invented, or implemented, or whatever it has alpha pixels on the 4th channel, which are used to determine pixel location, it saves the card process cycles the matrox uses said alpha pixels for 3d, but in 2d they aren't really used afaik, anyways in short it means you have something like 7x the colors 10-bit per channel = 1024^3 wherein 1024 = the number of variants of the invidual color and 3 = the number of channels (1 is r, 1 is b, and one is g) it's not 30-bit color, it's like a patented matrox technology, basically it's for a slightly higher precision and it has no application since it's release on parhelia in late 2002  </s>
+<s> thanks for the detailed answer...now, out of curiosity and a desire to learn, what does on-board ram do?  </s>
+<s> who does it benefit?  </s>
+<s> my limited understanding tells me that more ram will benefit gamers because the textures in 3d games are loaded into the gpu's ram instead of the system ram, but i don't know if this is correct.  </s>
+<s> i had thought that everything displayed on the screen was loaded into ram in which case opening a large file in photoshop would use more graphics card ram than a small file.  </s>
+<s> am i mistaken?  </s>
+<s> i would go for the matrox parhelia.  </s>
+<s> i put one into a friend's pc because he wanted to run three sony 21&quot; monitors (and yes, he's rich).  </s>
+<s> although it *only* has 128mb onboard it runs a triplehead disply with no problems at all.  </s>
+<s> (it is available in 256mb for megabucks, if you insist on the extra).  </s>
+<s> not the fastest for games, but that isn't what it's aimed at.  </s>
+<s> hope this is of some help.  </s>
+<s> thank you for taking the time to respond.  </s>
+<s> as i've asked ozos above - what does the on-board ram really do anyway?  </s>
+<s> the memory is used to give colour depth and resolution.  </s>
+<s> actually, only a bit is needed for quite high resolutions and 32 bit colour.  </s>
+<s> manufacturers make a big song and dance about lots of video ram and it is useful.  </s>
+<s> it is very fast and lets the card work with big textures in games without using the slower system ram.  </s>
+<s> it also lets the card work with big textures when rendering objects, so yes, more memory is useful for you.  </s>
+<s> cpu and ram also play a big part.  </s>
+<s> obviously, the more processing cycles you can throw at a render, the faster it will go and the more system ram you have, the less chance of paging to hard disk when the system runs out of ram (it will happen, 3d rendering is very system intensive) there are also dedicated cards optimised for things like autocad but most of these are getting on a bit now.  </s>
+<s> bottom line.  </s>
+<s> see if you can find a 3200+ athlon chip.  </s>
+<s> then buy another 512 mb of ram and try your system.  </s>
+<s> you will be suprised how lively it becomes.  </s>
+<s> if you still want more, then go for something like the parhelia.  </s>
+<s> withou going 64bit and basically building a new pc that is about as high as you could go.  </s>
+<s> good luck.  </s>
+<s> thank you for your detailed explanation.  </s>
+<s> however, i don't do 3d rendering.  </s>
+<s> will extra on-board (the gaphics card) ram benefit someone who doesn't play games, doesn't render in 3d and works with very large 2d files?  </s>
+<s> my system is a dual xeon 3.4 ghz with 2gb ddr2 ram.  </s>
+<s> please forgive me, that will teach me to have too many windows open.  </s>
+<s> i answered the wrong post!  </s>
+<s> doh.  </s>
+<s> your answer is yes, since in computers, bigger is always better and too much of a good thing is never enough.  </s>
+<s> i wpould guess that you are working with some high screen resolutions on files that size, so the extra memory would help.  </s>
+<s> it all depends on what you want to spend.  </s>
+<s> decide on your budget and go for the best you can find at that price.  </s>
+<s> i finally went ahead and bought my new dell precision 670.  </s>
+<s> i'm waiting for delivery.  </s>
+<s> specs: dual xeon 3.6, em64t, 2mb l2, 800mhz fsb 2gb ddr2 pc-3200 400mhz ram boot drive: 250 gb sata storage: raid 0 -&gt; 2 x 300gb scsi (3gb/s each) it came with an nvidia quadro nvs 280 pcie 64mb but i'd like to upgrade with an aftermarket purchase.  </s>
+<s> do you still stand by your recomendation of the matrox parhelia?  </s>
+<s> why not try the card and see if you need any better first?  </s>
+<s> if you don't do 3d rendering and gaming then i suggest you try the 64mb card first.  </s>
+<s> im also a graphic artist and from my experience (7 years) i haven't had problem working on a 200mb file using a 128mb vga card, 1 gig of ram with an athlon 3000.  </s>
+<s> (although i also use a powermac g4 which has a 256mb vga and 1gig of ram) both perform their task well.  </s>
+<s> the manipulation and effects we do with images doesn't tax the gpu much, processing for such will greatly depend on your ram and the cpu.  </s>
+<s> and with the specs you have for your new pc i don't think that a higher gpu would give you a noticable boost.  </s>

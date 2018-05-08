@@ -1,0 +1,24 @@
+<s> let me detail the problem a bit further... my computer has been suffering from an ongoing 'random blue screen' problem.  </s>
+<s> when too many applications are running it'll just show a blue screen and i'll have to restart.  </s>
+<s> these are the hardware solutions i've tried so far: replacing graphics-card/motherboard/processor installing new case/heatsink fans reformatted hard-drive i was told that it was unlikely to be the ram so only yesterday did i try using only one of the 2*256 sdram sticks that i have.  </s>
+<s> i left the computer on for the whole night with just the one stick of ram and it worked absolutely fine with no problems.  </s>
+<s> i assumed that the other stick of ram was causing the problem (since it worked fine without it), but i've been running the computer with no problems today with what i believed was the dodgy ram!  </s>
+<s> i've been monitoring things vigorously and it now appears the computer only works error-free when running with a free ram slot.  </s>
+<s> can anyone shed any light on this at all?  </s>
+<s> i'm very confused!  </s>
+<s> there are a number of motherboards that do that.  </s>
+<s> it can also be a power supply issue. the suspect list is ... 1. bios. 2. motherboard.  </s>
+<s> 3. power supply.  </s>
+<s> 4. ram.  </s>
+<s> bob  </s>
+<s> robert's advice maybe just the ticket to follow.  </s>
+<s> i only suggest, if you haven't already to clean the ram slots themselves, use an old toothbrush(alcohol damp) and brush down, allow to dry and then try again.  </s>
+<s> if you're using non-similar brand ram, they are incompatible if only slightly, its not suppose to be a problem, but it can happen, try using a &quot;match pair&quot; even if only 128mb each to test.  </s>
+<s> since, you didn't mention the os, if win9x/me 512mb is a known problem with that much ram installed, check here for cures: find related topic.  </s>
+<s> enjoy -----willy  </s>
+<s> since my last post, i'm now using both sticks of ram, and i'm not getting any problems. the problem had been persistent for over a month and now i'm having a stretch of close to 2 days with no troubles since i've been fiddling with the ram.  </s>
+<s> i think by reseating them, i might have indirectly cleaned them?  </s>
+<s> minor oxidation can happen and repeated seating can break into a new contact(rescratch) surface.  </s>
+<s> however, if that is the problem it will come back, use a cleaner for electrical contacts found at local radio smack for a better cleaning.  </s>
+<s> enjoy -----willy  </s>
+<s> the problem's not cropped up again, so i'm hoping it's sorted now... i'll be sure to have some proper cleaner ready for next time tho  </s>

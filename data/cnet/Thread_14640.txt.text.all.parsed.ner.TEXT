@@ -1,0 +1,125 @@
+<s> in a nutshell and as shortest explanation i can render... the psu is the most underrated componet of the system.  </s>
+<s> that's due to its install and forget nature.  </s>
+<s> once installed it should deliver it power(wattage) rating at a stable output.  </s>
+<s> however, that's not always the case either due to being actually under-rated or stressed out from demands.  </s>
+<s> take that into account, let''s not forget any heat build-up and added future devices.  </s>
+<s> it was common to have 250w-350w not too long ago for a basic system.  </s>
+<s> but, with the added technology of better video, more ram, added hds or cds, usb, these too need power. the quick cure is a bigger wattage psu.  </s>
+<s> not only that but a &quot;high quality&quot; one is a must.  </s>
+<s> psus are now sold up to 1000w.  </s>
+<s> better system cases come with no psu, you add what you need.  </s>
+<s> however, typical cases are sold with a psu and generally may do well if only the system is simple in nature.  </s>
+<s> once, you get into gaming, heavy graphics or raid type systems then power consideration has to included beforehand otherwise it has to be dealt with later.  </s>
+<s> what that means is you head-off any possible future problems that may include freezes, reboots, or shutdowns as power issues cause unstable device failures.  </s>
+<s> many will attempt to correct device or system failures to exclude the psu as the source of the problem.  </s>
+<s> temporary fixes may seem ok but they come back or cause greater problems in short order.  </s>
+<s> these are to include outright device failure like graphics, motherboard or even the psu itself.  </s>
+<s> a general rule of thumb is any rated psu should deliver 75% as a regular stable output and the rest for &quot;peak periods&quot; which should be short lived.  </s>
+<s> that's to say, its doing it job under such conditions is very good.  </s>
+<s> once those demands start to exceed and become the norm above a 75% level, replacement is a must as the stress will be noticed in flaky problems whatever they maybe.  </s>
+<s> i suggest you google for wattage demands of all your componets/devices, add them up and then place a 50% increase to that value and then seek a psu that meets or exceeds that value.  </s>
+<s> thus, getting a better(namebrand?) psu to meet those demands.  </s>
+<s> i like to stress quality as a important aspect of such a psu as possible, as its greater cost more is well worth it.  </s>
+<s> understand also, that psus when under heat stress or heat build-up conditions will deliver a degraded rating level, again quality matters.  </s>
+<s> as the psu is counted on so much when it starts to waver, it cause system componets and/or devices to also waver and thus lead to those to falter too.  </s>
+<s> understand as well, a larger psu only uses x-watts to meet the demands of the system.  </s>
+<s> any left over or &quot;untapped&quot; is in reserve and is called only as the system needs more, so don't be concerned if too big of psu rating is installed, it doesn't matter.  </s>
+<s> i exclude any physical sizing or constraints the manufacturer presents.  </s>
+<s> what makes-up a quality psu?  </s>
+<s> those build having thicker gauge wiring, heatsinks, good componets(caps, xsisters and such) plus a reliable safety overload feature.  </s>
+<s> i leave out the gimmicks, like leds, fancy lighted fans, control panels, and cable connections as these fall more into mods, and/or cosmetic issues which in general don't anything to really improve the stability of the psu.  </s>
+<s> last, &quot;cheap is cheap&quot; so don't expect finding most cheap psus to remain cheap once it fails or causes problems.  </s>
+<s> finis ----- willy  </s>
+<s> read and i see 9 out of the 21 failed to meet their labeled values.  </s>
+<s> some failed fabulously.  </s>
+<s> bob  </s>
+<s> the topic is very good in that it addresses a very critical, overlooked, and misunderstood component in any pc. i find that there are a few omissions of crital importance.  </s>
+<s> 1. understand the type of power supply needed, do you need multiple 12v rails?  </s>
+<s> do you need graphics card connectors?  </s>
+<s> if you are using multiple processors,and/or multiple graphics adapters of any type then the answer is probably yes.  </s>
+<s> 2. if you decided yes to the above statement then the minimum power on the dc rails you will need will probably be in the range of 250-400 watts.  </s>
+<s> if you have a raid subsystem then add about 30-40 watts for each additional drive over the 1 system drive.  </s>
+<s> note: i said power on the dc rails! the stated power of a pc power supply is ac power input not output and this is where a lot of the misunderstanding comes in.  </s>
+<s> a 400 watt power supply can vary in dc ouput power anywhere from about 50% for a really poor and inexpensive supply to 90% for a very good suuply. the determining factor is the switching conversion efficiency so for that inexpensive power supply you are only going to get about 200 watts of dc power split amongst the output rails however on the better supply you are going to get 360 watts of dc power output, that's a big difference!  </s>
+<s> also the higher effeciency power supply wastes less energy in the form of heat hence smaller fans or in some cases no fan at all for the power supply.  </s>
+<s> 3. the labels on the power supplies can be confusing especially if you look at all of the rail voltage/current capabilities.  </s>
+<s> important: those represent the maximum current capability only for that particular rail and do not represent in the sum of all of those crrent ratings the capability of the supply!  </s>
+<s> if you were to add all those ratings up (voltage x current = power in watts) on that 400 watt power supply you would probably find that they sum up 600-800 watts. the output power is divided up amongst all of these rails and if one of those rails ever did reach it's max then the other rails would have no current output.  </s>
+<s> 4. quality does count in a power supply and only buy from a reputable company.  </s>
+<s> how do you know whether they are a reputable company?  </s>
+<s> see whether they participate in the 80+ program.  </s>
+<s> the 80+ program is at and is a program to try and &quot;green&quot; things up a bit by improving efficiency by using higher switching frquencies higher &quot;q&quot; tranformers and coils, low voltage drop semis, fast mosfets with low &quot;on&quot; resistance and most of all low esr (equivalent series resistance) high frequency capacitors.  </s>
+<s> all of the above components add weight to a psu so there is some merit to the weight of a power supply.  </s>
+<s> most manufacturers are now working on the 90% standard but at the very minimum look for active power factor correction and an operating efficiency that is better than 80%. 5. go to seasonic they are a very reputable power supply company and get their &quot;power angel&quot; power monitor if you truly want to get a grip on the input power of your system.  </s>
+<s> you can then work backward from there, obtaining the efficiency of the supply to find out how much your computer really needs.  </s>
+<s> if the manufacturer does not list the conversion efficiency then they are not proud of it and it's probably in the neighborhood of 60-70%, the rest is just being burned off as heat.  </s>
+<s> as far as transient response, the larger the ouput capacitors the better, that also adds weight to the supply.  </s>
+<s> always look for the 80+ certification.  </s>
+<s> another hint is to look to see how many different countries have certified their design, the more the better.  </s>
+<s> fred dunn  </s>
+<s> i thought many people can &quot;power test&quot; many a psu if they wanted too w/o alot of effort.  </s>
+<s> those tests tom supplies are very good, but they do put it to the wall.  </s>
+<s> i rarely if ever had a psu blow-up or flash out, but i know it happens.  </s>
+<s> one reason to at least look at the specs of the decal/sticker provided, plus look for the u/l label.  </s>
+<s> some ago years you didn't have that many makers putting out so many psus as there are now.  </s>
+<s> but, what can you do but at least take thier word for the specs they provide.  </s>
+<s> plus, early psus weren't so cheap or simply put out to be sold as are now, dumped on the market.  </s>
+<s> myself i try to stick with what has proven to be a good product.  </s>
+<s> even, if i get a cheap one, the decal rating i look for is above i expect to use as simple safeguard.  </s>
+<s> i think more than ever the video side of power has gotten on the wild side, gezzz i don't what they expect when someone puts a new video card, maybe two and just hope for the best with the old psu they have, good gawd oh mighty.  </s>
+<s> -----willy  </s>
+<s> as i stated to robert, the cheap units seemed to have flooded the market.  </s>
+<s> all you have are the specs found on the labels to go by. i rarely ever meant a user that stated they researched(beforehand) to get the psu they needed.  </s>
+<s> further, i haven't found too many recalls or x-brand being at fault openly.  </s>
+<s> yes, tomshardware does some testing, but there are so many out there. the user has already build system or if oem(i think are good), they went cheap, regardless of the good advise already given.  </s>
+<s> i see these users later or at least within 3mos.. i understand the rail side of things but explain that to a user and it seems to hit dead space.  </s>
+<s> one reason, i try to impart at least buy a namebrand or really spent the $$$ and buy at pcpower&cooling.  </s>
+<s> alot of people complain of oem psus being cheap but i find that not the case.  </s>
+<s> they're simply build to supply what's &quot;needed&quot; and very little room to grow on for the product sold.  </s>
+<s> the power issue comes up after x-years of use(wear&tear) or added devices plus the years of use.  </s>
+<s> i find it hard to impress anyone on the simple psu side of things until it takes down the system.  </s>
+<s> but hey, it pays for my services.  </s>
+<s> -----willy  </s>
+<s> where did you ever hear that??? the ac power of a power supply is the present total load on the dc rails divided by the efficiency [if 70%, divide by .7]  </s>
+<s> due to power factor of the input power.  </s>
+<s> supplies without pf correction tend to be inductive.  </s>
+<s> the power company' meter measures watts, the supply draws volt-amps and the power company get gypped, lol.  </s>
+<s> if you buy a cheap psu and then something goes wrong -- blame yourself.  </s>
+<s> the stated power of a power supply is not the dc power available, rather it is the maximum power that the supply will draw from the ac mains not considering reactive power factor.  </s>
+<s> if i said &quot;the ac power of a power supply is the present total load on the dc rails divided by the efficiency&quot; then i stand corrected.  </s>
+<s> it should have read the ac power consumed by a power supply (not considering reactive power factor) dc side ((vsum x isum)* 1/efficiency of conversion)) so if all of your rails are pulling 150 watts and your conversion efficiency is 70% then your ac power draw is 150 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads (*1/.7) or 150 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads 1.43 or 214.5 watts.  </s>
+<s> if your efficiency is 80% then your ac draw is 187.5 watts.  </s>
+<s> thanks for correcting me.  </s>
+<s> without the math.  </s>
+<s> but always remember to look for the 80+ certification.  </s>
+<s> fred  </s>
+<s> 2 in your thread.  </s>
+<s> you clearly stated the power rating is the ac power which is is not.  </s>
+<s> 150 bucks wasted.  </s>
+<s> if i weren't in the unlucky habit of throwing away my boxes on garbage day, i'd have returned it and got my money back.  </s>
+<s> and no offense cnet, but it was your video of accompanying a new video card with a high powered psu that wasted me my money.  </s>
+<s> i bought a pc power and cooling 470 watt powersupply that worked, but only worked after hitting the button twice (after holding it in 3 seconds).  </s>
+<s> and then when i got frustrated at the extra effort i told myself screw it, and put back in the old one.  </s>
+<s> and theres been nothing out of the ordinary.  </s>
+<s> whats next? the y2k+8 bug?  </s>
+<s> couldn't that have been the result of a mismanaged connection?  </s>
+<s> i could try it again but i tried it twice.  </s>
+<s> i think even 3 times.  </s>
+<s> it was a while ago and the thing is collecting dust in the garage.  </s>
+<s> it could have been me though.  </s>
+<s> i spend 90 bucks on a battery backup because i live in the lightning capital of the world and got tired of losing power.  </s>
+<s> and the battery came with a usb port hookup that registered wattage draw on a meter (so that it can calculate how long it can keep your computer running).  </s>
+<s> and guess how much?  </s>
+<s> 140 watts.  </s>
+<s> p4, x1900 graphics card, 2 optical drives, and one hard drive.  </s>
+<s> 140 watts.  </s>

@@ -1,0 +1,29 @@
+<s> hey, i was wondering if there is any possible configuration for a powerline adapter to be connected to a router (that is connected to a modem) at one end, and be connected to another router (ethernet line connecting to the &quot;internet&quot; port) in a different part of the house at the other end.  </s>
+<s> so basically is it possible to &quot;broadcast&quot; the internet on the base router to another router via powerline adapters?  </s>
+<s> i tried this experiment and it showed up another ssid (&quot;default&quot;), with excellent connection but it wouldn't connect successfully.  </s>
+<s> or could it be that the router is a little outdated?  </s>
+<s> my base router is a just-released wireless-n linksys, and the one i am trying to use in a different part is a (3-year outdated) d-link b/g router.  </s>
+<s> thanks a lot in advance!  </s>
+<s> of our forum sticky.  </s>
+<s> unfortunately, that configuration is impossible for me, as there is no cable jack downstairs to connect my cable modem to...  </s>
+<s> i re-read your first post and the configuration noted in post 17 will work.  </s>
+<s> (hint: i've done it.) so here's the setup.  </s>
+<s> 1. cable modem -&gt; router.  </s>
+<s> 2. an ethernet cable from the router to the first powerline network bridge module.  </s>
+<s> 3. an ethernet cable from the second powerline network bridge module to a port in the second wifi router as noted in post 17. it's only slightly hard to setup but it has been done before.  </s>
+<s> if you can't do this, ask some other network jockey to try it.  </s>
+<s> bob  </s>
+<s> i just found out the solution to my problem, or what is affecting my results.  </s>
+<s> apparently, one side of my house is on a different power line than the other side, and the 2 outlets i'm trying to use together with the powerline adapters won't work together (after a long series of tests with my laptop).  </s>
+<s> this is uber-strange, as it was working all over my house just a few months ago. is this possible to fix or are the powerline adapters basically useless now?  </s>
+<s> but powerline adapters and that issue is very well known.  </s>
+<s> their tech support may have the right words for you but here it's very simple.  </s>
+<s> it must be on the same side of the 220v branch.  </s>
+<s> some will write &quot;it worked before&quot; but that doesn't change that it shouldn't have.  </s>
+<s> bob  </s>
+<s> you have one power line but 3 wires coming into the house.  </s>
+<s> two wires are &quot;hot&quot; and the other is neutral. the neutral side is the transformer &quot;center tap&quot; which is the neutral side and hot wires, being ac, run at 180 degrees out of phase to each other. the two 110 ac circuits are distributed throughout your house in a scheme that's supposed to promote good load balancing and it's bridging across these that provides your 220 vac.  </s>
+<s> poor load balancing creates excessive amounts of current on the neutral wire and can cause a variety of problems.  </s>
+<s> anyway, if you want to know which 120 lines are common, go to your circuit breaker box and shut everything off on one side...left or right.  </s>
+<s> then check all the outlets to see which ones are still live.  </s>
+<s> in this way you should be able to find 2 that will server your purpose.  </s>

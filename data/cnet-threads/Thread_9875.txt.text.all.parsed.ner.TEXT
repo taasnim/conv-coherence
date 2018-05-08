@@ -1,0 +1,117 @@
+<s> i did not see an completely appropriate forum section for this question so networking it is.  </s>
+<s> please redirect me if i am mistaken.  </s>
+<s> i am doing some research on migrating off my mainframe system here onto a server system.  </s>
+<s> my question is what physical machines and os have others used to do this.  </s>
+<s> i am not asking for someone to tel lme exactly what and how i should do it, just give a generalknowledge of what others out there have done. the requirements i have are (1) quad processors (2) at least 8gigs of ram (3) at least 144gig of disk space oon at least 4 hot-swappable disks as i would like to make a raid 5 array and have a hot spare.  </s>
+<s> i am currently looking at and trying to familirize myself with solaris by sun. it looks like a very capable os and sun looks to be making some great server machines.  </s>
+<s> what do you guys think?  </s>
+<s> thanks for you time.  </s>
+<s> mac  </s>
+<s> this purely depends on your application and needs.  </s>
+<s> in most of my projects, the clients prefer to use linux on dell's.  </s>
+<s> imho, sun makes great servers and solaris is a rock solid os however given their present financial state, i am not sure how long sun is going to be in business.  </s>
+<s> so if you're looking for long terms support, be careful about getting into a sun platform.  </s>
+<s> as for storage, consider san's from sun, hitachi.  </s>
+<s> we recently deployed apple x-serve raid and it works great coupled with a good fibre-switch.  </s>
+<s> to spec the system by number of cpus and ram sounds odd.  </s>
+<s> of course i can't know what's driving this requirement but let's compare the old xeons to the new ones? the old xeons would not deliver as many mips as the latest at the same ghz but would meet your spec.  </s>
+<s> sun also may deliver you opterons and not xeons so without a benchmark it could happen your quad cpu system could be outperformed by a simpler but faster dual core xeon?  </s>
+<s> i think you should toss this spec back into the pot and cook it more.  </s>
+<s> bob  </s>
+<s> thanks for the replies guys.  </s>
+<s> i appreciate the heads up on the financials with sun i will for sure look into that.  </s>
+<s> i understand the point you are trying to make about processor performance.  </s>
+<s> however, as you can see from my handle, i am but a lowely intern doing research and was given these requirements from the boss.  </s>
+<s> he basically said he wanted to double the processing and ram of the current mainframe we have that runs at 50mips, dual processor 4gb ram setup and have at minimum the same ~144gb of storage space.  </s>
+<s> i have been looking and san's and you have lead me into what would have been my next question.  </s>
+<s> in these new servers where would i get better performance in terms of speed, internal scsi disk drives or a fiber san?  </s>
+<s> sun has excellent people you can get this done and over with.  </s>
+<s> why not make the free call and toast this assignment?  </s>
+<s> bob  </s>
+<s> i have been on the phone with sun a little bit and got some reccomendations on which machines they think would suit my needs.  </s>
+<s> i have also done some researching on ibm, dell, hp and a few others machines also.  </s>
+<s> i would just like to get some information about what others out there are doing and how it is working out for them.  </s>
+<s> not to mention we will need long term support for this hardware so if sun is in financial disaray that could be disasterous.  </s>
+<s> it is imperative that we not have this hardware be unsupported.  </s>
+<s> if it were to go down.....lets just say many bad things that would effect us all would happen.  </s>
+<s> you could make a case against every hardware maker on that area. the days of 7 year support seem to be long gone.  </s>
+<s> sun is today your answer for multi-year hardware.  </s>
+<s> the downside is that with the current advances those that want 10 year computers are bound to be upset in 2 years as what they bought is now 1/4 the speed of new and maybe 1/2 the price.  </s>
+<s> be sure your goals are not conflicting on this area.  </s>
+<s> if you jump into intel/amd powered servers (what's a mainframe?) then there is no issue as one box looks like another as you look at what google does for their server farms.  </s>
+<s> they wouldn't give sun a call.  </s>
+<s> bob  </s>
+<s> in this euphoria to look elsewhere you might miss an opportunity to improve your operation and save some money by migrating to newer ibm products.  </s>
+<s> for example the new z9 bc has a very low entry price for this kind of small workload and you can add a large ifl (integrated linux engine) for a tiny extra ammount giving you a superior environment - but saving you lots of effort and costs in moving your current workload elsewhere.  </s>
+<s> take a look at the mainframe blog to see what people are saying about the new mainframe.  </s>
+<s> the grass may not always be greener somewhere else.  </s>
+<s> i have looked at the new mainframe systems as well.  </s>
+<s> the only problem with them and the main reason we are looking at migrating off them is the cost.  </s>
+<s> the main focus of this migration is long term cost savings.  </s>
+<s> the goal is to lay out x number of dollars to save x^2 over the next several years.  </s>
+<s> not to mention saving the company that kind of money while i'm at intern could almost guarentee me a job as long as i don't screw up the rest of everything too badly.  </s>
+<s> haha!  </s>
+<s> you might not be laughing if you make the wrong choice! the industry is littered with failed it projects and mainframe migration attempts.  </s>
+<s> ie. and i know of one prominant microsoft mainframe migration reference that recently decided to buy a new mainframe having discovered that although it may be easy to move the low hanging fruit .... some of the tougher things to migrate are probably lower cost to put onto a new mainframe - as i said in my initial comment.  </s>
+<s> so you had better do your homework and be confident that you chose the correct solution from the many out there.  </s>
+<s> as per my initial question....&quot;what have others done and how has it worked?&quot;  </s>
+<s> i am in the middle of setting up a couple of simple test environments right now one for solaris and one for suse. the problems i am going to run into with those are the machines i have them running on are not even close to the configurations of how they would be implemented, but i think it is a good place to start.  </s>
+<s> so again, i have looked at ibm both servers and newer mainframe units, dell, hp, and sun servers for hardware.  </s>
+<s> i have looked at solaris, suse, red hat and aix op systems.  </s>
+<s> i can look at the specs and the features all day, but i would like to know what others have been successful - or not- with and some of their experiences.  </s>
+<s> there are lots of success stories on the vendors websites.  </s>
+<s> but when things go wrong .. or it is too dificult then the natural human reaction is to clam up and say nothing. it is only in cases where there is 'public interest' like in government or public utility does this come to the attention of the press.  </s>
+<s> see the alabama example i cited or where the auditors have found issue (like at sydney water authority).  </s>
+<s> it would be interesting to hear how your tests progress.  </s>
+<s> but i state again that the testing of 'low hanging fruit' does not tell you everything.  </s>
+<s> this is known to be easy to move ... the issue you have to face is how do you deal with the bits that are hard/impossible to move.  </s>
+<s> do not leave consideration of this until after you have started your march down the implementation road.  </s>
+<s> because you may end up with an intel based system and a new mainframe.  </s>
+<s> this might not then be a good idea because the perceived business benfit of throwing out the mainframe will have erroded!  </s>
+<s> finally i am aware of one small mainframe site, like yours, who replaced an old amdahl box with dell intel servers.  </s>
+<s> after 2 years they found they had more than 100 dell servers to manage, operate, fix, apply virus protection, etc, etc. they have now embarked on a vendor change and a major project to consolidate the many intel servers to a smaller number of 'virtualised' intel servers.  </s>
+<s> i wonder how long it will be before they come to their sences and think about migrating back to a future mainframe?? only time will tell.  </s>
+<s> good luck!!  </s>
+<s> whilst digging on the web for some other material i found this - it provides an interesting insight into how a big expensive mainframe can be lower cost overall than a bunch of near free intel boxes. the message is do not just focus on aquisition costs (which is very easy to do) - look at the bigger picture.  </s>
+<s> what do they use?  </s>
+<s> never said it could. the question here is can you move a current mainframe workload to intel or unix?  </s>
+<s> a mainframe is not right for a specialised web environment like google or ebay or hosting the olympics website or even the us open tennis.  </s>
+<s> but we are not talking of someone with the massive compute power requirements of these megalyths!! i think he said 50 mips.  </s>
+<s> a mainframe is great at running a huge mix of data processing work consisting of integrated online transaction processing, webserving, database and batch.  </s>
+<s> infact the mainframe is the true data processor that runs most of the leading enterprise businesses.  </s>
+<s> we all benefit from a mainframe as we go about our daily lives - every day you touch the mainframe that sits behind things like atm, pos and many websites.  </s>
+<s> if we switched off all mainframes today the world would stop.  </s>
+<s> and many people forget just how complex batch - we are talking about doing i/o here and not raw horsepower.  </s>
+<s> and once you rip off the covers what do we find inside these machines?  </s>
+<s> bob  </s>
+<s> what did you mean by &quot;what do we find inside these machines&quot; bob?  </s>
+<s> ibm mainframes have a purpose built processor chip and i/o subsystem plus a unique operating system and clustering technology - z/os or its predecessor os/390.  </s>
+<s> sun servers run solaris and are typically sparc based although a lot of amd has been seen recently.  </s>
+<s> it is not about hareware anyway.  </s>
+<s> it is more about the capabilities of the operating system and any middleware that exploits a specific os.  </s>
+<s> infact it is the whole integrated package - hw, sw, i/o, etc - that sets the mainframe apart from a commodity wintel or lintel outfit.  </s>
+<s> these are more like lego and the poor stressed systems admin guy is responsible for glueing the different vendor sourced parts together.  </s>
+<s> it might be cheap ..... but you pays your money and ........  </s>
+<s> i know all vendors post success stories.  </s>
+<s> thats why i'm not on vendor sites looking at success stories, thats why i'm here asking what has gone right/what has gone wrong for people.  </s>
+<s> thanks for the articles you posted so far btw.  </s>
+<s> sun has just announced that they have sold the core technology that underpins their mainframe rehosting business to chicago's clerity solutions inc.  </s>
+<s> so now mtp amd mbm have another new home.  </s>
+<s> see &quot;still looking to cut costs, struggling server maker sun microsystems inc.  </s>
+<s> has sold off its mainframe re-hosting business to chicago's clerity solutions&quot; this set of products has had a chequered history - starting life as unikix and then had a numbers of owners - first it was unikix in the early 1990s then came peerlogic then critical path then sun bought it in around 2002 and now clerity in 2006.  </s>
+<s> so if you are planning that your current mainframe applications run on sun's mtp/mbm product set for the next 10-20 years then maybe you should now be cautious?  </s>
+<s> what you may find of interest is that vax machines are still available (pricey) with support from a branch of hp and that's quite old stuff.  </s>
+<s> not a solution but a data point of the few that did hit many years on a platform.  </s>
+<s> even there we ran into issues as the os was revised.  </s>
+<s> today there are no more revisions of note.  </s>
+<s> bob  </s>
+<s> i'd say a lot depends on what the mainframe is doing.  </s>
+<s> if it runs a 15 year old custom application (with lots of cobol and batchprocessing and cics and hierarchical databases, supporting 1000's of users) a migration can't be done without a total functional and technical redesign taking many years and many, many millions.  </s>
+<s> if it's used as a web-server (some well-visited transaction oriented website certainly need mainframe capacity) using standard open source software, a migration could be a good possibility.  </s>
+<s> although it's not really sure it would save any money.  </s>
+<s> mainframes still are cheap horsepower, with excellent system management software.  </s>
+<s> and there's everything in between, of course.  </s>
+<s> to me, but i'm an applications guy, the needs of the application are leading.  </s>
+<s> then do a benchmark on different hardware solutions supporting the application, throw in financial and support arguments, consider the manpower to maintain it (1 system manager doing say 10 servers) and make a choice based on the whole picture that emerges.  </s>
+<s> nothing relevant for the choice is presented in this post, as far as i can see.  </s>
+<s> kees  </s>

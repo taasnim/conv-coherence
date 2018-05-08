@@ -1,0 +1,7 @@
+<s> i have a new intel d915gag micro atx mb w/ a p4 3.6 cpu, 2,gig ram. the problem i am having is that the ios see's the maxtor diamond hd 200g and plextor 716a dvd, allows the either drive to be selected to boot first. the problem is, in the bios where you select the 1st booting device, the drive is inclosed in parentesis (both drives). the bios has the note : &quot;a device enclosed in parentesis has been disabledin the corresponding type menu&quot;.  </s>
+<s> i have never encountered this typ of problem.  </s>
+<s> i hope someone can bail me out.  </s>
+<s> thank you  </s>
+<s> have you checked the auto detect options in the bios and the jumpers on the hd set to 'master'?  </s>
+<s> just a thought.  </s>
+<s> thanks for the suggestion.  </s>

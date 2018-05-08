@@ -1,0 +1,62 @@
+<s> my floppy drive is extremely slow.  </s>
+<s> it takes &quot;forever&quot; reading a floppy disk.  </s>
+<s> i've tried several different new floppies and it's definitely the drive itself.  </s>
+<s> any ideas?  </s>
+<s> a &lt; $10 item.  </s>
+<s> i wouldn't even think about trying to troubleshoot a floppy drive.  </s>
+<s> replace it.  </s>
+<s> was scanning that diskette.  </s>
+<s> since diskettes are slow already a programming gaffe (never!) in norton caused diskettes to run at less than 1/2 the speed.  </s>
+<s> may happen to other av software too.  </s>
+<s> doesn't watch &quot;antiques roadshow&quot;.  </s>
+<s> jdm  </s>
+<s> today's machines.  </s>
+<s> even if it was only 360kb and you multiple up the to by 4 to the 1.44mb today's machines are slower at formatting.  </s>
+<s> this must be an unloved, neglected area.  </s>
+<s> -&gt; but i did cure it.  </s>
+<s> i picked up a 2x sony usb floppy drive.  </s>
+<s> bob  </s>
+<s> i'm trying to load a program i got off the internet with my windows xp desktop into my windows 95 laptop using a floppy.  </s>
+<s> seems like it can't be done because it always says to reformat the floppy.  </s>
+<s> guess they're completely incompatible with each other?  </s>
+<s> what i'm trying to do is recover old photos off of my laptop that i accidentally deleted.  </s>
+<s> then i'll throw it away.  </s>
+<s> i'll skip to what i used to get around it.  </s>
+<s> -&gt; i formatted the diskette in xp. bob  </s>
+<s> doesn't work.  </s>
+<s> i formatted in xp, then loaded a file onto the floppy.  </s>
+<s> then tried it in my win 95 laptop and it wanted to format the disc again.  </s>
+<s> when i clicked no then no file was shown on that drive.  </s>
+<s> the reason for the incompatibility was traced down to a virus on the 95 boxes.  </s>
+<s> but many forget this stuff.  </s>
+<s> -&gt; the other workaround.  </s>
+<s> go to bootdisk.com and get the dos boot diskette.  </s>
+<s> create it on the xp box, boot that diskette and copy files to said diskette.  </s>
+<s> done. the only issue i could see here is if the owner wasn't from 1995.  </s>
+<s> bob  </s>
+<s> i followed everything up until booting the diskette,... i copied the files to a floppy off of my desktop - xp. then i rebooted the desktop and it went to drive a:. from there i have no idea what to do.  </s>
+<s> this means you didn't read the instructions.  </s>
+<s> sorry but you may have to reveal if you are from 1995 where we used the command line, dos commands and such.  </s>
+<s> given you are asking about windows 95 i pegged you as the usual user from that time period.  </s>
+<s> i tried to gracefully note that today's users may be a bit lost but maybe i was too subtle.  </s>
+<s> i also don't provide step by steps when the web sites supply that.  </s>
+<s> -&gt; now run the file that you get from bootdisk.com and it will format the diskette and make the boot disk proper.  </s>
+<s> good luck, bob  </s>
+<s> i did as the instructions said as such: 1. most of the files above are disk images.  </s>
+<s> download the file to your c: drive, put a fresh disk in your a: drive, then click on the file to create the bootdisk.  </s>
+<s> from there i'm stuck.  </s>
+<s> may be obvious to you but it isn't to me.  </s>
+<s> 95 is when i got the laptop.  </s>
+<s> i am mildly used to working in dos as i haven't bothered with it in eons.  </s>
+<s> but some of the commands i'm familiar with.  </s>
+<s> it appears you copied the file to the diskette which isn't what i read for the instruction.  </s>
+<s> sorry but you may want to brush up on the dos copy command since it's coming up next.  </s>
+<s> bob  </s>
+<s> said i copied the file to the disc but didn't.  </s>
+<s> i downloaded the boot6.22 program to the desktop and ran it.  </s>
+<s> then it said put a clean disc in the a drive, which i did. then it copied all these files to the disc.  </s>
+<s> i can only go by what you tell me.  </s>
+<s> now all you need to do is boot that diskette.  </s>
+<s> again, working with the usual 95 owner they'll know how to do that.  </s>
+<s> or if they forget they'll look in the bios and set the floppy as the boot device.  </s>
+<s> bob  </s>

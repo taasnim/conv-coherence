@@ -1,0 +1,46 @@
+<s> i have a vista pc and have attached a samsung ml-1740 (usb) laser printer to it.  </s>
+<s> vista found the device, and installed drivers for it.  </s>
+<s> it completed with no errors, and vista says it is ready for use.  </s>
+<s> when i try and print to it, it fails to print with no real specific message.  </s>
+<s> printing a test page from control panel, simply says &quot;test page failed to print.  </s>
+<s> would you like to view the troubleshooter for assistance&quot;.  </s>
+<s> i have deleted the printer, downloaded newest samsung drivers and installed again...still no go even though control panel says the printer is &quot;ready&quot;.  </s>
+<s> any suggestions would be appreciated.  </s>
+<s> i find many pcs with new installs missing drivers and more.  </s>
+<s> taking a page from the hp printer fiascoes, the usual is we have a firewall installed or a non-administrator account.  </s>
+<s> bob  </s>
+<s> thanks for the quick response.  </s>
+<s> after i submitted the original post, i tried installing an hp deskjet printer i had lying around.  </s>
+<s> in response to your question, no i never actually did have a local printer attached to usb.  </s>
+<s> so i installed the hp and it works perfectly.  </s>
+<s> i was surprised actually, cause i thought it was a usb issue. the only thing that i can think of, is that i had this samsung printer on my old xp laptop and this vista pc was printing to it via workgroup sharing.  </s>
+<s> maybe now that this same printer was moved locally, vista isn't seeing it as local...the only problem with this theory is the printer is detected and showing ready.  </s>
+<s> if i remove the usb cable it shows offline too.  </s>
+<s> so there is communications.  </s>
+<s> also, i am running as administrator, and no firewalls in place.  </s>
+<s> thanks again.  </s>
+<s> sorry for the prior typo.  </s>
+<s> as i read your reply it sounds like the old failed printer issue.  </s>
+<s> or if a network the old permissions, accounts issues that i think is covered by the it staff.  </s>
+<s> bob  </s>
+<s> i am sorry, i don't understand your response.  </s>
+<s> who are the &quot;it staff&quot; in this case? is there a posted document or something i can look up, on this forum?  </s>
+<s> i do believe you are on the right track with the old permissions or accounts ideas, but can you be more specific on where i could look?  </s>
+<s> thanks.  </s>
+<s> tony  </s>
+<s> just to clarify, the printer is not networked at all.  </s>
+<s> it is directly connected to the vista pc via usb.  </s>
+<s> it was connected to an xp pc and networked and the vista pc printed to it via network.  </s>
+<s> but now it is directly connected.  </s>
+<s> thanks.  </s>
+<s> it could be as simple as. 1. the port is bad.  </s>
+<s> on desktops, use the rear ports first.  </s>
+<s> 2. the usb cable is bad.  </s>
+<s> try another.  </s>
+<s> i was under the impression that the network was in some office.  </s>
+<s> offices must have an it staff.  </s>
+<s> bob  </s>
+<s> the cable is fine...as i had mentioned i got another hp printer working fine with both the same cable and the same port (and others as well). the printer is good too....tested on another pc altogether.  </s>
+<s> i am sure it is a vista problem, and i have the latest drivers from samsung.  </s>
+<s> vista on the support list.  </s>
+<s> ouch.  </s>

@@ -1,0 +1,32 @@
+<s> have an ipod and maxtor 3100 external hard drive running windox xp professional on dell d600.  </s>
+<s> can connect each individually through usb with no problem.  </s>
+<s> if ipod is plugged in while external hard drive is connected, windows xp indicates &quot;usb device not recognized&quot;.  </s>
+<s> likewise if ipod has been connected by itself working fine, then connect external drive, ipod no longer recognized.  </s>
+<s> can someone help??  </s>
+<s> with just xp, usb 2.0 is not supported.  </s>
+<s> with xp sp1, usb 2.0 started to function but we couldh't run chkdsk on the usb 2.0 hard disk.  </s>
+<s> finally with xp sp2 we could run chkdsk on out usb 2.0 hard disks.  </s>
+<s> your post didn't note the sp1 or sp2 and many won't install sp2 (their choice).  </s>
+<s> i can only share that some fixes were in sp2 but i can't find a document revealing what microsoft fixed.  </s>
+<s> this is not an offer to fix your issue, but a comment about sp1, sp2 and how it matters in usb 2.0 bob  </s>
+<s> i had a similar problem with almost the exact same hardware (d610 instead of the d600).  </s>
+<s> my problem was intermittent in that sometimes my computer could recognize both usb devices at the same time, but most of the time it couldn't (very infuriating).  </s>
+<s> i believe i've fixed it by uninstalling itunes and ipod updater, installing the latest bios update and the dell notebook system software, and reinstalling itunes and ipod.  </s>
+<s> go to select you computer and os and find both updates under the following: flashbios updates dell latitude d610 system bios system and configuration utilities dell notebook system software hopes this helps i finally came upon this solution after trying everything else on the apple website.  </s>
+<s> i too have a dell and when the external hard drive is plugged in and i connect the ipod the hard drive locks up.  </s>
+<s> my dell can still detect them both but the hard drive becomes useless because i cannot move any files that are related to the external hard drive around, and the point of having one was because i have to much music to store on the regular computer.  </s>
+<s> i tried updating my computer by installing &quot;usb 2.0 driver version 2.7&quot; but when i restarted the computer the problem still existed.  </s>
+<s> i would appreciate it greatly if anyone knows what to do.  </s>
+<s> as i noted there is no usb 2.0 support in xp. i noted when it appeared.  </s>
+<s> the reason is simple why we have to know.  </s>
+<s> there are some that do not want to install sp1, sp2 or sp3.  </s>
+<s> bob  </s>
+<s> this has always been an issue for xp sp1 users, complaints rolled in like rapid water floods directly to ms. the same goes with dx 10, why not release the driver for xp? well, mr bill wants you to buy vista, thats all.  </s>
+<s> anyhoo, usb 2.0 is supported with any service pack, please go here  </s>
+<s> thanks for the links that validate why we ask about service packs.  </s>
+<s> -&gt; here's another nugget.  </s>
+<s> in xp sp1 some of our external hard disks would mysteriously need a chkdsk.  </s>
+<s> after sp2 that problem vanished but we never could tell exactly where in the release documents microsoft tweaked that.  </s>
+<s> more fun at  </s>
+<s> here's an article on apple's support site that may help.  </s>
+<s> (i had a similar issue where when i plugged in my ipod, my usb keyboard and mouse stopped working.)  </s>

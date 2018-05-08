@@ -1,0 +1,41 @@
+<s> i have k9a platinum motherboard with the latest bios installed.  </s>
+<s> i recently purchased and upgraded my crossfired x1600 pro graphics cards to a single hd 3870.  </s>
+<s> i had done my research and was told by the manufacturer of both motherboard and video card that the pcie x16 interface is currently backwards compatable with the new pcie 2.0 interface.  </s>
+<s> however, after a doa card, i installed the video card only to find that the supplied drivers couldn't recognize my new video card.  </s>
+<s> i had to wait for the next release of the catalyst driver suite to remedy the problem (little over 1 month).  </s>
+<s> after the drivers were installed, i noticed many graphics problems, such as funny colors in the corner of the screen, reflected in-game lights were about 50 pixels off-center, and many games were blurry and stuttered, and almost every 3d app crashed after a short period of time.  </s>
+<s> i contacted the manufacturer, and they keep telling me to have my motherboard reseller test the board.  </s>
+<s> i heard about omega drivers, and tried them and success!  </s>
+<s> things work a lot better, but there were still crashes now and then usually after about half-hour to an hour of gaming.  </s>
+<s> my brother bought a new k9a2 platinum board, which has pcie 2.0 slots, and we tested my card in with his and it works flawlessly (until we run the stability test in furmark in which case the card simply overheats in 5 minutes flat...) so, i know that the card works fine as it has not crashed in a week of heavy gaming in the k9a2 plt.  </s>
+<s> catalyst drivers also work on that setup.  </s>
+<s> my motherboard works great with the x1600 crossfire setup, and i even ran an x1900 xtx in it and it worked.  </s>
+<s> i tried using a zalman cooler on the hd 3870 and it never gets above 66 celcius in furmark on the k9a2, but still crashes on my board reguardless of the better cooling.  </s>
+<s> i have had my motherboard tested by my reseller, and have been told that quicktech pro burn-in test has revealed 2 consistant always occuring errors: 1. pci test: check device status - failure 2. smb test: sm bus operation - failure my reseller also concluded that all of the pcie x16 boards he has don't work with the hd 3870 using existing drivers, but the pcie 2.0 boards he has work fine with it.  </s>
+<s> msi continues to tell me to have my reseller take care of the problem. the problem with that is the mainboard is only covered by the reseller for 30 days from the date of purchase, after which i have to go directly to msi for warranty/rma.  </s>
+<s> my reseller has done all he can with the problem...besides, the warranty is from msi not him.  </s>
+<s> i have just under a year on the motherboard warranty at this point, but when the problem first occured it was still fully covered.  </s>
+<s> now, i would have to pay $35 just to get msi to handle it.  </s>
+<s> anybody have any thoughts?  </s>
+<s> my system specs: amd athlon 64 3800+ msi k9a platinum bios rev.  </s>
+<s> 1.8 msi hd 3870 oc. edition bios rev 102 2x 1gb corsiar xms2 2x 512mb corsiar xms2 4x seagate sata 3.0 hdds 1x cd/dvd burner 1x cd/dvd rom windows xp sp2 power supply: mad dog surepower 550 watt 20a 12v1 rail, 22a 12v2 rail, 45a 5v rail.  </s>
+<s> almost always this is the old motherboard chipset driver issue.  </s>
+<s> i missed which version you installed.  </s>
+<s> and while 35$ is hard to swallow for some, if that's what it takes to get the board replaced, updated, upgraded or such?  </s>
+<s> a bargain compared to a trip to any shop counter.  </s>
+<s> bob  </s>
+<s> the driver for the chipset is as from the msi support site, version 8.521, which was posted on 9/4/08.  </s>
+<s> i just remembered this, but in the windows device manager it shows a yellow exclamation point next to a secondary ide channel (this device cannot start), but the motherboard only has a single ide channel.  </s>
+<s> it has been like that for a while, but never seemed to adversely affect the motherboard.  </s>
+<s> if you think it possible without disrupting the machine entirely, set the bios to all defaults.  </s>
+<s> reinstall the motherboard chipset driver one more time and see if that clears up the sm bus issue.  </s>
+<s> (when posting, save me time by sharing the link to your board.) how about that &quot;amd amdaway driver&quot;?  </s>
+<s> sorry it took a few days to respond.  </s>
+<s> first, reset the bios by removing power from the board and pulling the battery out and letting the board sit for 24hrs.  </s>
+<s> then re-installed the latest version driver for the chipset and ran the tests again, and the same errors occured.  </s>
+<s> we tried several different chipset driver versions and ran the test again after each.  </s>
+<s> each time we got the same problems.  </s>
+<s> reguarding the amd away driver, it is installed and we tried several versions of the driver, though windows still believes there to be a secondary ide channel.  </s>
+<s> msi support has sent me the following response, and am doubtful that they will even do anything about it.  </s>
+<s> &quot;thanks for your feedback and useful information.&quot;  </s>
+<s> i hate to think that the new graphics card was a complete waste of money, but msi doesn't seem to be standing behind their products.  </s>

@@ -1,0 +1,30 @@
+<s> hi, i was playing a game and i noticed that my pc was alot louder than normal so i turned of the pc, cleaned it and during the process i noticed that the graphic card was extremely hot. the next day when i turned on my pc my monitor would not display anything even though the pc light is on and fans too.  </s>
+<s> i assumed it might be my monitor so i replaced it with another and it still wouldnt display it.  </s>
+<s> i than decided to not attach the monitor cable to the garphic card port but to the additional port located near the other input components and the monitor did work and pc turned on.  </s>
+<s> but as u prob know when i did dxdiag my display card was not nvidia but the built in motherboard graphic card which cannot handle playing games like cod/bf even fragments list.s.cnet pre_process.sh  </s>
+<s> threads garphic games like wow and league of legends which is not good news for me.i assumed that the graphic card is at fault so my last resort was removing the garphic card and replacing it with my other pc graphic card.the  </s>
+<s> pc turned on fine when i did dxdiag it shows the intended garphic card which is nvidia geforce 6200 so i installed it successfully.  </s>
+<s> i updated the drivers etc but when i play games or stream/view videos my fps is still the same if not worse(unplayable) so i began to think it might not be the graphic card afterall?  </s>
+<s> any help or tips appreciated.these  </s>
+<s> specs are with the other pcs graphic card installed, my card which has the problem is nvidia geforce 8800 gts series --------[ everest ultimate edition ]------------------------------------------------------------------------------------ version everest v5.50.2100 benchmark module 2.5.292.0 homepage report type report wizard [ trial version ] computer alien-pc generator alien operating system microsoft windows vista home premium 6.0.6002 (vista rtm) date 2012-01-17 time 22:12--------[ summary ]----------------------------------------------------------------------------------------------------- computer: computer type acpi x64-based pc operating system microsoft windows vista home premium os service pack [ trial version ] internet explorer 9.0.8112.16421  </s>
+<s> directx directx 11.0 computer name alien-pc user name alien smtp e-mail address [email]x00068263@itnet.ie[/email] logon domain [ trial version ] date / time 2012-01-17 / 22:12 motherboard: cpu type dualcore amd athlon 64 x2, 2400 mhz (12 x 200) 4600+ motherboard name asus m2a74-am se motherboard chipset amd 740g, amd hammer system memory [ trial version ] dimm1: corsair xms2 cm2x1024-6400c4 1 gb ddr2-800 ddr2 sdram (5-5-5-18 @ 400 mhz) (4-4-4-13 @ 270 mhz) dimm2: corsair xms2 cm2x1024-6400c4 [ trial version ] bios type ami (08/03/09) communication port communications port (com1) display: video adapter nvidia geforce 6200se turbocache(tm) (64 mb) video adapter nvidia geforce 6200se turbocache(tm) (64 mb) 3d accelerator nvidia geforce 6200se turbocache monitor dell 1908fp (analog) [19&quot; lcd] (uw53875a03al) multimedia: audio adapter realtek alc662 @ ati sb700 - high definition audio controller storage: ide controller standard dual channel pci ide controller ide controller standard dual channel pci ide controller storage controller microsoft iscsi initiator disk drive samsung sp2504c ata device (250 gb, 7200 rpm, sata-ii) optical drive hl-dt-st dvd-ram gsa-h55n ata device (dvd+r9:10x, dvd-r9:10x, dvd+rw:20x/8x, dvd-rw:20x/6x, dvd-ram:12x, dvd-rom:16x, cd:48x/32x/48x dvd+rw/dvd-rw/dvd-ram) smart hard disks status ok  </s>
+<s> the 6200 is a fraction of the power that any 8800 card had to offer.  </s>
+<s> here's the list of cards i use when i shop -&gt; in other words, i hope you didn't buy a 6200.  </s>
+<s> bob  </s>
+<s> ofc not, the 6200 is my very very old pcs graphic card but even back than with my crappy pc specs it was able to play games with no fps issues but on low pref and when i put it on on my new pc i have major fps issues  </s>
+<s> gpu cards are a major source of heat.  </s>
+<s> they too are prone to any heat stress.  </s>
+<s> which is why i often offer that any gamers provide the cooling needed.  </s>
+<s> all too often though this is an after thought.  </s>
+<s> it maybe already too late, the video card has faltered.  </s>
+<s> if you haven't already, remove gpu card and clean it as well directly.  </s>
+<s> once returned and fully seated, that its fan is working as well.  </s>
+<s> if the display doesn't come back, remove from pc. enter your pc and find the cmos clearing pins/pads and return the pc to defaults.  </s>
+<s> it should allow you on next boot to enter the bios(does display) and re-enter any bios changes that need be required and save upon exit.  </s>
+<s> now, it if work then, do a shutdown.  </s>
+<s> return gpu card and see if it accepts it or follow prompts.  </s>
+<s> you may need to do a re-install or accept new h/w.  </s>
+<s> hopefully, if it accept the old gpu card and you reboot and it works, great.  </s>
+<s> if not and no display, you have a bad gpu card.  </s>
+<s> of course, you can test on another pc, if able.  </s>
+<s> tada ------willy  </s>

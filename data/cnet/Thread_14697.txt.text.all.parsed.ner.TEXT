@@ -1,0 +1,33 @@
+<s> i have encountered a puzzler. the asus sk8v motherboard was designed for the amd athlon64 fx-51 processor.  </s>
+<s> here's the problem: the registered, tested and recommended memory for the mb is non-ecc. the processor requires ecc memory.  </s>
+<s> what do i do?  </s>
+<s> i suppose i should go with ecc since i plan to fill all of the dual slots with memory.  </s>
+<s> correct?  </s>
+<s> not correct?  </s>
+<s> i'm confoozled!  </s>
+<s> ftp://ftp.asus.com.tw/pub/asus/mb/socket940/sk8v/e1473_sk8v.pdf on page 11 noted either memory type.  </s>
+<s> i'd get your system supplier to stand up and exchange these out if it doesn't work out.  </s>
+<s> bob  </s>
+<s> thanks for responding. the system isn't built yet.  </s>
+<s> i ran across this conundrum while researching for my rebuild.  </s>
+<s> so, since i am responsible for whether or not things work together, i wanted to get some help with this before i spend a good chunk of money.  </s>
+<s> if a person could ever get a response from asus, i'd ask them.  </s>
+<s> i sent them an email 2 years ago and haven't heard anything yet.  </s>
+<s> i guess the question is : what would the average computer genius use?  </s>
+<s> ecc or non_ecc?  </s>
+<s> uni  </s>
+<s> it's clear to me that it's your choice on the matter, except that i always copy someone else when venturing out on such expeditions.  </s>
+<s> answers your question.  </s>
+<s> bob  </s>
+<s> if you truly have &quot;alot&quot; of memory, then using ecc type makes sense.  </s>
+<s> understand, those that use ecc type memory are more &quot;server&quot; usage or business apps, in general and those usually ship with ecc type memory.  </s>
+<s> for the typical home user it isn't needed or required.  </s>
+<s> ecc just gives more room for &quot;error correction&quot; in intense demanding apps or math dependant usage.  </s>
+<s> of course, if the system can'r be started w/o ecc installed that pretty makes everything mute, just install it.  </s>
+<s> in most cases it is an &quot;option&quot; that can be installable, but *all* must then be ecc type in order to work properly.  </s>
+<s> good luck -----willy  </s>
+<s> almost no one uses ecc memory these days, the chance is one in many million that you will ever benefit from it's error correction.  </s>
+<s> it is capable of correcting single bit errors which are usually caused by being bombarded by cosmic rays/noise, an extremely rare situation.  </s>
+<s> now it could also correct memory errors caused by bad memory, but in that case you are going to need to replace the memory anyway. the only time ecc is really needed is with mission critical servers.  </s>
+<s> both the sk8v & sk8n require registered ecc ddr memory.  </s>
+<s> it has to be registered ecc for any socket 940 amd m/b.  </s>

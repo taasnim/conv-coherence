@@ -1,0 +1,11 @@
+<s> i am unable to share my pc with my smart tv. i have checked &quot;share files/drives&quot; on my pc to no avail.  </s>
+<s> 1. my tv sees the computer in the network, however when i go to open it, i only get access to c/users/pictures/video, (the demo ones) that came with the pc. 2. i also do not have my audio and video, pics in the &quot;my documents&quot; part of my c drive.  </s>
+<s> 3. they are all on my d drive and i think there in lies the problem?  </s>
+<s> how can i access my other drives so they will be accessible on my tv? thanks for any info!  </s>
+<s> a tv is not a pc so that's the short reason why.  </s>
+<s> also, many require us to install some dlna server and that app (dlna server) may only be coded to share specific folders.  </s>
+<s> you can imagine the security types would go bonkers if a tv could see all files on your pc. bob  </s>
+<s> you will need to right-click on the folder(s) on your d: drive and select the &quot;sharing&quot; tab, then enable sharing.  </s>
+<s> you may need to reboot the pc once you make the changes.  </s>
+<s> bob, i finally solved this problem.! i had to go into my network (click on the little house-windows 7) to the pc/media devices/&quot;media player&quot; and add the other drive and/or folders to the media player's &quot;library&quot;.  </s>
+<s> seems so simple yet i thought all i had to do was &quot;share&quot; the drive/folders i wanted to see on my tv. at least with my tv; it has to be in the pc's media player library. the files are not physically in the library; they are just indexed, so to speak:)  </s>

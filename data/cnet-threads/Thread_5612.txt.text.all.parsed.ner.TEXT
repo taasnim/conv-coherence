@@ -1,0 +1,38 @@
+<s> my computer reported an error in writing to the c: drive (i have my drive partitioned) while working/surfing/ (on known sites) on it.  </s>
+<s> i did a restart of the computer, and came up with a black screen, nothing else.  </s>
+<s> i put in another backup drive and got the computer running.  </s>
+<s> the main c: drive is blank, empty 0 free space, 0 space.  </s>
+<s> it needs to be formated?  </s>
+<s> huh?  </s>
+<s> what happened?  </s>
+<s> i have tried to use several free hardrive recovery programs with no luck(not seeing anything)?  </s>
+<s> what is going on here?  </s>
+<s> how can i recover from this? thanks in advance...  </s>
+<s> hoe old is this hard drive?  </s>
+<s> did you try setting the jumper on the failing drive to slave put in the pc and see if you axcess anything?  </s>
+<s> when it is installed as a slave see if you can run scandsk on it.  </s>
+<s> john  </s>
+<s> see anything on the partitions of that original drive?  </s>
+<s> if so, try salvaging whatever you can off the partitions to a cd (or copy everything over to the current drive you are using).  </s>
+<s> once you have salvaged what you can try putting the drive back in a the master c: drive to boot with, and use your bootdisk to get to the a: prompt....then see if a fdisk /mbr command will put things back right.  </s>
+<s> (this is assuming it's anything other than xp as other things might need to be done to see if the drive can be recovered).  </s>
+<s> which free recovery programs did you use before and how were they used?  </s>
+<s> toni  </s>
+<s> i can see the other partitions!! just my first partition with my windows, programs, etc on is gone!  </s>
+<s> i mean there is nothing there.  </s>
+<s> running 2000.  </s>
+<s> will the bootdisk fdisk/mbr command work without deleting the data on the other partitions?  </s>
+<s> i was thinking of trying to repair the disk (quick fix?) by inserting the windows cd. and seeing if it would repair the partition.  </s>
+<s> i have reformatted many harddrives before(with the boot disks), and i know that you can repair them as well(instead of the full install), and in doing that you just rewrite the windows files.  </s>
+<s> i know the easiest way is just to reinstall a fresh copy, but i would like to get it back instead of this option.. virtual lab, get data back, and data recovery insurance program - were used.  </s>
+<s> they came up with minimal results..  </s>
+<s> writing to a possibly corrupt drive may make matters worse.  </s>
+<s> before you do any repair ask yourself if you have recovered what you can at this point.  </s>
+<s> i've seen people reach a point where they could have scrapped their files off, but didn't.  </s>
+<s> they proceeded with repair (that should have been safe) and lost it all.  </s>
+<s> don't do what johny does.... bob  </s>
+<s> then backup you data before you do anything else! john  </s>
+<s> any chance you got a bomb type worm?  </s>
+<s> i've had three client computers in my shop in the last two weeks, same thing as you, well similar, one was a ntldr missing but same idea.  </s>
+<s> these worms go in and demo your mft.  </s>
+<s> normally used for specific targets though.  </s>

@@ -1,0 +1,25 @@
+<s> i currently have added a maxtor pci sata card to my system, but the motherboard (p4 1.7 with 66mh mobo, i think) doesn't let me enjoy the truly high-end speeds because of the pci bottleneck.  </s>
+<s> sadly, the attached hd has taken to coughing fits of random mechanical noises and must soon be replaced.  </s>
+<s> to the same system, i've added an adaptec usb 2.0 expansion card.  </s>
+<s> q: any comments/ideas as to the differences in speed to be expected on an internal sata replacement drive -vs- external usb 2.0 drive in this case?  </s>
+<s> thanks in advance for any help.  </s>
+<s> pci at 66mhz is for a 32bit pci bus or roughly 264 million bytes per second.  </s>
+<s> there are web sites that cover this in gory detail so the average ata133 drive is all of 133 megabytes per second in a burst. the slow pci bus you write can burst at over 2x an ata drive and sata drives are not much faster.  </s>
+<s> think this one over since usb 2.0 is just some 480 mega bits per second and that pales in comparison to both sata and pci speeds.  </s>
+<s> bob  </s>
+<s> ah thanks for the stats in detail.  </s>
+<s> so clearly the internal drive will be much faster, but my sound card is also on the pci bus (which my understanding is the number you state is shared amongst everything).  </s>
+<s> also, i'm not sure - does the agp video card draw from that as well?  </s>
+<s> thanks for the prompt reply.  </s>
+<s> this follow-up is to primarily fuel or extenguish my lust for an onboard sata adapter.  </s>
+<s> sadly, i don't offer a course in pc architecture in this small space of a few paragraphs.  </s>
+<s> while it is possible to give one off answers to specific points, the pc architecture is widely discussed out on the web or in a book for the better book stores.  </s>
+<s> i'm unsure what you are attempting but there are bottlenecks all over various pcs.  </s>
+<s> but in spite of that we still use them.  </s>
+<s> bob  </s>
+<s> hey stevel2000. the pci bus is separate from the agp bus.  </s>
+<s> agp has it's own bus dedicated soley to the video card plugged into it (and it's much faster than the pci bus, despite the usual 3 or 4 pci slots which all share the same pci bus).  </s>
+<s> so yes, your sound card and sata card would be sharing the same bus.  </s>
+<s> it's unfortunate that the moderator chose to, in this case, be a pretentious, unhelpful jerk.  </s>
+<s> don't offer a coure in pc architecture?  </s>
+<s> let's stop being condescending for a second and just say that you don't know.  </s>

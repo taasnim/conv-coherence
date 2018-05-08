@@ -1,0 +1,5 @@
+<s> i have 2 pc with different os windows 98 and windows xp can i network them so that i can share files from both pc what cable should i use and what other configuration should i do thanks  </s>
+<s> given here:  </s>
+<s> all you should need is an ethernet card in each computer and cross-over ethernet cable for the connection.  </s>
+<s> both os's should be able to automatically configure the hardware so that sharing of files is possible. the network setup wizard on xp should be run on both computers, but isn't absolutely necessary.  </s>
+<s> to run the xp setup wizard on 98 you can use the xp setup cd or a floppy disk with the wizard on it which can be created when the wizard is run on xp first.  </s>

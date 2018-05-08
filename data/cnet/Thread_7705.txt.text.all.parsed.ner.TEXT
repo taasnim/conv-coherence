@@ -1,0 +1,40 @@
+<s> i am thinking about picking one up but wanted to hear some thoughts about the model and the 'n' spec (or lack thereof) in general.  </s>
+<s> i am currently running a netgear gs gigabit switch with a pos linksys single port router.  </s>
+<s> this would be my first wireless experience (and would provide extra gigabit ports).  </s>
+<s> i have a work laptop with g and any laptop in my future would definitly have n.  </s>
+<s> when you get it, update the firmware, enable ssid and use wpa and it should &quot;just work.&quot; with your g and other systems.  </s>
+<s> i'd keep that gigabit switch since the switch in these routers are not very good.  </s>
+<s> i've seen them top out very quickly.  </s>
+<s> my connection choice would be... internet -&gt; router -&gt; gigabit switch -&gt; wired pcs.  </s>
+<s> i'd save those router ports when i overflowed the switch.  </s>
+<s> bob  </s>
+<s> yes, that was my plan - to use the new one in place of my pos single port router and connect everything wired with the switch and use the extra ports on the router as overflow (probably would not ever need them with the 8 port switch).  </s>
+<s> does n add anything to existing g products (i assume that only n spec stuff would see better performance)? is there much risk associated with buying n spec stuff now?  </s>
+<s> should i wait?  </s>
+<s> or tell if you'll be upset by changes in 2 years.  </s>
+<s> but most n routers seem to do g better so it's usually a good idea.  </s>
+<s> i also found my old router choked when i setup wpa and mac filtering (many others found this out too.) moving to a new router made this possible to use but given that wpa works fine on it's own the extra layer is not needed and as you add more for the router to do, it usually takes a speed hit.  </s>
+<s> bob  </s>
+<s> i looked at the linksys wrt350n real hard but chose the dir-655 because (a) when i read cnet's review, they said it was the best and (b) it cost's a good deal less.  </s>
+<s> i dont care how clunky it is if it works well but the d-link has a much smaller footprint for having so much n in it.  </s>
+<s> when it first arrived, it loaded up in a snap with my old linksys wireless g usb adapter.  </s>
+<s> however, i had a pain of a time trying to get it to connect to a sony vaio pcg-k25.  </s>
+<s> it wasn't until i loaded firmware 2.0 until everything worked.  </s>
+<s> since then... everything runs much smoother... all my wireless products are g, and i've yet to find a place in my house where i cant get at least a &quot;very good&quot; signal with the laptop, and i've been trying, and thats with the router in the far corner of the house because thats where our office is.  </s>
+<s> because of our houses structured wiring, i put a gig switch in the basement to connect all the rooms to the office.  </s>
+<s> with a new gig adapter i can stream video, download, and move big files around with no slowdown.  </s>
+<s> with our old linksys wrt54g, i could not stream video wirelessly to my dsm-510, however, i tested it out with the dir-655, and it works flawlessly... admittedly i don't have any hi-def content to stream yet, but everything that i've thrown at it has worked without a stutter.  </s>
+<s> sorrry for rambling... in short... after the firmware 2.0 update... this product has made my network run much more smoothly overall.  </s>
+<s> i'm considering buying the d-link dir-655.  </s>
+<s> has anybody tried it on wildblue satalite?  </s>
+<s> also, i would like to print to it wireless.  </s>
+<s> the dir-655 has a usb port on the back but i haven't seen anywhere where it specifically states that you can plug in the printer and do this. the printer is an hp 1310 series.  </s>
+<s> i read the manual again and the usb port and what it does is documented clearly.  </s>
+<s> it is not for a printer.  </s>
+<s> bob  </s>
+<s> ok guys, help me out here.  </s>
+<s> i always thought that the reason for having a switch is for when you have exhausted the ports on your router.  </s>
+<s> now you are recommending the opposite...use the ports on a switch first then only use the router ports if needed.  </s>
+<s> i am just switching over to a dir-655 and if this scenario is truely recommended i may as well go ahead and add a switch from now.  </s>
+<s> could you explain the rationale for me?  </s>
+<s> thanks.  </s>

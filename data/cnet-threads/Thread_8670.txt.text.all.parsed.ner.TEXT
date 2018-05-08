@@ -1,0 +1,38 @@
+<s> hi there, i have a compaq armada laptop. the battery will not charge and i am unable to switch on the computer even if the power supply is plugged in.  </s>
+<s> it happened before once but then started working again.  </s>
+<s> it is fine once there is power into it.  </s>
+<s> please help?  </s>
+<s> carolyn.  </s>
+<s> that sounds like a bad conector on the motherboard time for a service shop to look at it  </s>
+<s> that and a desktop and we save the files that the owner didn't.  </s>
+<s> cheap.  </s>
+<s> as to the laptop.  </s>
+<s> remove all removable parts, put it all back together and try again.  </s>
+<s> try without the battery.  </s>
+<s> no? time for the repair shop.  </s>
+<s> just my fair warning -&gt; don't take a laptop in such a condition to the corner pc repair shop.  </s>
+<s> they do desktops well, but not this one.  </s>
+<s> bob  </s>
+<s> if you have warranty still, use it.  </s>
+<s> if not, remove battery and clean contacts on both, the laptop and battery.  </s>
+<s> make sure of no collapsed contacts and retry.  </s>
+<s> if you had the battery more than 12-18mos.  </s>
+<s> already consider a replacement.  </s>
+<s> batteries are fickle items so follow any recovery hints/tips that compaq offers at thier support website.  </s>
+<s> there's nothing more to do for the end-user other than take to repair center or such.  </s>
+<s> good luck -----willy  </s>
+<s> &gt;don't take a laptop in such a condition to the corner pc repair shop i agree, under warranty or not.. if you need to repair it send it back to compaq, there are some cowboys out there who will trash your laptop (from experience).  </s>
+<s> is the power adapter good?  </s>
+<s> compaq had a recall on certain versions of these and they do go bad.  </s>
+<s> i know i am reviving a thread that is 18 months old, but i recently purchased a compaq armada m700 giving the exact same problems described here!  </s>
+<s> it just starts working again if you leave the laptop for a while.  </s>
+<s> i have found no sollutions yet, but a few explanations came after a few hours of googling.  </s>
+<s> the battery is fine - the leds on the battery shows it is fully charged, battery monitoring tools pick up the battery as normal.  </s>
+<s> dignostics shows all the information that you could possibly want to know about the battery, yet it is as dead as a doornail if you pull the ac adapter!  </s>
+<s> apparently there is a problem with the micro controller inside the battery.  </s>
+<s> it crashes and doesn't want to discharge the battery because the battery thinks it is still charging.  </s>
+<s> the cells are still fine.  </s>
+<s> if this is true or not, i don't know - but it is the *only* explanation i could find... i hope someone can help out with this!  </s>
+<s> there's quite a bit of armada parts out on ebay.  </s>
+<s> you can try another mainboard or battery to see which it is.  </s>
+<s> bob  </s>

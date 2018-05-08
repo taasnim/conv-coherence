@@ -1,0 +1,13 @@
+<s> what happens if i put pc3200 ram with super low timings (2-2-2-5 or such) into a board and cpu that runs with pc2700?  </s>
+<s> now what happens if i increase the fsb of the cpu with the pc3200 installed?  </s>
+<s> cpu is amd thoroughbred 2600+ @ 2.13mhz  </s>
+<s> either the pc3200 won't work, because the board doesn't support, or the pc3200 will be underclocked to 333mhz pc2700.  </s>
+<s> as for increasing the fsb, this isn't an athlon 64, so increasing will be just that a increase in fsb.  </s>
+<s> pc 2700??? if so the pc 3200 should simply run at the speed of the pc2700.  </s>
+<s> as to the memory timing, how is the timing set in the bios??? by spd, or can you set the cas [cl] etc? is the mobo an overclockers type?? if so you may be able to increase the memory clock speed 1 mhz at a time to see how fast it will run.  </s>
+<s> how can you increase the fsb other than by increasing the memory clock???  </s>
+<s> using cpuid or speedfan i can increase the fsb (which does increase the memory clock), but the mem is oem in my hp (thus no bios options) and so the ram is pretty low quality, i can't increase the fsb past 138 (from 133) without it becoming unstable.  </s>
+<s> my reasoning was, if i have better ram, then i could increase the fsb (with these programs) more because the ram will allow me to go higher and be stable.  </s>
+<s> i was able to push it to 143mhz, but anything that cause above a 25% cpu usage would blue screen the comp, albeit, i pushed the 2130 to 2300 or so.  </s>
+<s> i would like to get to 2600 stablely if i could, and i think the only way i can do this is with better ram.  </s>
+<s> lowering the multiplier from x16 won't work, or i haven't found a program that will actually let me do it.  </s>

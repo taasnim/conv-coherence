@@ -1,0 +1,73 @@
+<s> okay, so i'm a fairly active gamer and an avid computer user, and i'm very excited about building a new pc. the issue is that while i know what all the hardware does and how to install all of it, i'm a little out of date on the current generation of computer hardware.  </s>
+<s> i want to keep my comp at or around $1,000.  </s>
+<s> i think that seems pretty reasonable.  </s>
+<s> i would like to try some of the more cpu intensive games, but if i can't run say... stalker or supreme comander, i think i'll live.  </s>
+<s> so here are my questions: as far as processors go, i'm not sure what all the new generation stuff is about (like the dual core compared to quad core, compared to a p4 or amd equivalent).  </s>
+<s> i'm also a bit unsure what i have to look out for when getting a mobo.  </s>
+<s> i think i recollect some issues about compatibility between motherboards and processors (and maybe other hardware too) but once again, i'm not really sure.  </s>
+<s> with the power supply, do sites like newegg have listed the power drain that each part pulls, or is it kind of an estimation thing?  </s>
+<s> i want to make sure i get the right stuff.  </s>
+<s> finally, i'm sure i'm being a little optimistic when asking this, but would anyone be able to post a rough breakdown of the best way to put 1k into a computer.  </s>
+<s> just specs are fine, no need to link parts or anything.  </s>
+<s> if anyone could shed light on any or all of these, i would really appreciate it.  </s>
+<s> cheers -ry  </s>
+<s> $800 budget gaming pc from extremetech.com that may be worth having as a basis and you could pick which parts to expand like the video card that could make the cost $1,000 easily i think though don't forget about how vista figures into what you want to do.  </s>
+<s> as for the single core vs. dual core vs. quad core, the key here is how many things do you want the computer to run at once as each core is capable of running code independent of the others.  </s>
+<s> now there aren't many games yet that take advantage of this yet but most computers run enough things that dual core does provide a nice benefit as there are things that can run in the background like the firewall and anti-virus for example, so that the game can take advantage of the other core.  </s>
+<s> dual-core is likely to be more common and quad core right now is pricey though some people want the latest and greatest which would be intel's quad core as amd's quad core cpus aren't out yet, though you could google up barcelona and amd and learn much more about it.  </s>
+<s> on the motherboard the keys are which socket you want, what memory limits, overclocking abilities, size and a few other things as there are a good number of different ones.  </s>
+<s> regards, jb  </s>
+<s> et's $800 gamer is fair, but can be improved et's prices don't include shipping and some are unrealistic (for example, xp home is $90 minimum).  </s>
+<s> the core2duo platform is the best performance choice currently.  </s>
+<s> however, the asus motherboard uses an older nvidia chipset that has been superseded by the 650i.  </s>
+<s> intel 965p based motherboard also have better overclocking potential than some nvidia based boards.  </s>
+<s> nvidia just filled out its dx10 compatible geforce 8000 gpu series.  </s>
+<s> ati will be releasing its dx10 compatible hd2000 gpus in early may.  </s>
+<s> so, you'll need to decide if dx10 compatibility is worth the slight premium over older, but still good performing geforce 7000/radeon x1000 based cards.  </s>
+<s> here's my suggestion for $1k or so: cpu: intel core2duo e6420, 2.13ghz, 4mb cache, $199 mobo: gigabyte ga-965p-s3, $110 or msi p6n sli, $121 ram: ocz platinum ddr2-800, 2gb, $154 ($35 rebate) or ocz gold ddr2-800, 2gb, $162 ($50 rebate) video: xfx geforce 7950gt extreme, $199 or xfx geforce 8600gts, $199 or sapphire radeon x1950pro, $160 ($20 rebate) or radeon hd2600 hd: seagate barracuda 7200.10, $90 dvd: lg/liteon/sony/samsung 18x/20x burner w/software, $42 case: coolermaster centurion case w/430w ps, $90 antec sonata ii w/450w ps, $116 ($30 rebate) raidmax ninja w/450w ps, $85 windows: vista premium oem, $120  </s>
+<s> wow, guys thanks.  </s>
+<s> i probably wont be purchasing until early-late summer, so i have some time to wait for the dx10 compatible cards to come out and or come down in price.  </s>
+<s> any aditional comments would be great.  </s>
+<s> i am putting the pieces together now for a system almost identical to what you suggest.  </s>
+<s> intel 6420, gigabyte ga-965p-dq6 rev.3.3, etc. i have a very nice antec case that i like, but the psu is inadquate (230 w). i really want a psu with modular cables because the tangle drives me nuts.  </s>
+<s> there are several choices from silverstone, cooler master and others, but i read a comment from someone who bought a psu that i'll not name because his comment may be off the mark.  </s>
+<s> here's what he said, and i'd like to know if what he's talking about is even a function of the psu or was the real problem with the mobo's voltage regulation?  </s>
+<s> even an 8800gts 640mb card only specifies a 450w power supply.  </s>
+<s> here are actual power draw figures of a similar pc with a core2extreme x6800 cpu and various 8800gts video card: as for the comment, he's complaining about the motherboard/bios (increasing cpu voltage helps in overclocking), not the power supply.  </s>
+<s> power supplies deliver pre-determined voltages (3.3v, 5v, 12v, etc.); only the mobo can deliver a custom voltage to the cpu.  </s>
+<s> any of the power supply brands you mention are fine choices.  </s>
+<s> thanks for the reply.  </s>
+<s> i was pretty sure the 1.4 v and such was a mobo function.  </s>
+<s> what the psu brings to the table (according to thg testing, etc.) is stability of the +12, +5, etc. under no-load and full load conditions.  </s>
+<s> so, thanks for validating that.  </s>
+<s> i have chosen to go with big psu on the basis that i use both ata and scsi drives and plenty of both.  </s>
+<s> and, one never knows about a second video card -- as i said, i keep things a long time.  </s>
+<s> anyway, thanks again for the reply.  </s>
+<s> i've got a powerstream 520w adj-sli and it was a cinch to install, and is great. the problem w/ lots of power is two-fold: utilities bill and noise.  </s>
+<s> i don't think you can have quiet and powerful exactly coexisting.  </s>
+<s> i'd consider lining the case with a soundproof foam if that's a big thing.  </s>
+<s> in response to the op, i posted a very detailed blog article about my pc build.  </s>
+<s> granted, it might have some older parts by today's standards (amd x2 3800+) and i dint consider a high-end gaming gpu a priority.  </s>
+<s> on the contrary, photoshop doesn't even use the gpu but is cpu intensive.  </s>
+<s> so that's where my money went at the time.  </s>
+<s> you've also got to figure my system build included a 20&quot; lcd monitor, xp pro, and a security suite in the total cost.  </s>
+<s> i'd moved from being a mac poweruser.  </s>
+<s> hope this helps.  </s>
+<s> i did tons of research and it helped make the build easy!  </s>
+<s> i don't think i'd ever buy an off-the-shelf pc after such a rewarding experience building my own to my specs on a tight budget.  </s>
+<s> cheers.  </s>
+<s> david  </s>
+<s> antec truepower 430 watt and thats an old model you cant beat antec just my opinion bushwhacker  </s>
+<s> this is the psu i use.  </s>
+<s> it's a little expensive (okay, it's a lot expensive), but i like to plan ahead and it's extrememly quiet and cool.  </s>
+<s> brief description of my system: asus m2n-sli deluxe motherboard (socket am2) amd athalon 64 x2 5200+ corsair xms2 pc26400 800mhz 4x1gb ram (4-4-4-12) evga 8800 gts video card zalman 9700 cpu cooler zalman zm600 psu dual lg optical drives wd 74gb 10000 rpm hard drive wd 180gb 7200 rpm hard drive (used for storage) lian-li pc-65b black aluminum case with xp pro, shipping and tax, it cost me slightly under $1400.  </s>
+<s> maximum pc and cpu are good magazines, as well as websites, to visit to learn more about hardware performance.  </s>
+<s> if you already have a box, then you'll have to make sure the motherboard fits in it correctly or it won't do you any good right off the bat.  </s>
+<s> also, you can go online with to the makers of the motherboards, and find out which processors will fit the socket.  </s>
+<s> not all of them will plug right into just any board. the computer i am using right now is made up of parts that i collected and pieced together.  </s>
+<s> i haven't been to college since 1992.  </s>
+<s> i have built a total of 6 machines, 3 really old ones, and 3 relatively old ones.  </s>
+<s> with what i learned, however, i was able to get them up and running even with windows xp, after a so called &quot;knowledable person&quot; said it wouldn't run anything past windows '98.  </s>
+<s> so it isn't really rocket science, but it helps when you do a little research first.  </s>
+<s> after what i learned, i am going back to college to finish the degree in computer information systems, without having been in a classroom since 1992.  </s>
+<s> everyone thinks it's great.  </s>

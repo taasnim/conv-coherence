@@ -1,0 +1,12 @@
+<s> i have a brother mfc-440cn multi function printer, which is network capable.  </s>
+<s> i use an ethernet cable to connect it to my d-link dir-825 router.  </s>
+<s> but printing a test page does not work. the d-link people say i have to get the following from brother: pcp port # & udp port #. i'm on hold so long with brother that i thought i'd ask this forum how to get those numbers.  </s>
+<s> the d-link people said i also have to know how to set the following in my printer: static ip address subnet mask default gateway does anyone know how to do this?  </s>
+<s> p.s., i'm running vista home pro 64 bit on a dell xps 1530 laptop.  </s>
+<s> no, i don't know how.  </s>
+<s> i do know that the mfc-440 is not listed at and a few other places.  </s>
+<s> as such my advice is to pack it up and return it since we can't find xp 64 drivers.  </s>
+<s> bob  </s>
+<s> to make sure your pc can communicate with the brother printer, you'll need to know the printers ip address.  </s>
+<s> this can be done by printing out a configuration page from the printer console.  </s>
+<s> once you get the address, can you ping it from the pc? as far as port #'s, i wouldn't be concerned with this unluss your trying to reach the printer over the internet via a router.  </s>

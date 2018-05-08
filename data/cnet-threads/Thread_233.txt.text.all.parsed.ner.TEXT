@@ -1,0 +1,25 @@
+<s> so i just received two 1 gb sticks ddr2 533mhz for xmas...one is a kbyte brand...the other kingston both are 533mhz...on my computer i already had installed a 1gb stick and one 512mb stick (both kingston)for a complete total of 2gbs of ram, my pc came with a buffalo firestix 512mb 533mhz stick.  </s>
+<s> i took out the 512 mb kingston to make room for one of the new gigs, now if i do the math right...i have in my 4 slots 3 gig sticks plus the 512mb buffalo stick...so i know i should at least have 3.5gigs of ram..but on my computer it shows that i only have 2.75 gb of ram...but i checked my bios and it says i have at least 3000mbs of ram installed....here are my specs: intel core 2 duo processor e6600 2.4 ghz 1066fsb 2x2mb l2 cache em64t asus p5n32-e nforce 680i sli chipset lga775 cpu fsb1333 ddr2 dual channel memory architecture, 4xdimm, max 8gb ddr2-800/667.533,  </s>
+<s> non-ecc, unbuffered memory.  </s>
+<s> 8mb award bios, pnp, dmi2.0, wfm2.0, sm bios 2.3, multi-language bios 2 identical nvidia 7600gs 512mb 320gb sata-ii 3.0bb/s 16mb cace 7200 rpm hdd liteon shm-165h65 16x double layer dvd+-rw super allwrite+lightscribe technology xfi xtremegamer 24-bit pci sound card windows xp sp2 (vista-ready) apevia 600w darkside power atx power supply also, i've &quot;t'weaked&quot; out my core 2 duo so it now reaches 3.4 ghz...now for the most part it runs smooth 95% of the time..once in awhile it says some dumb ghz number i.e. 2.14..and wont start up and i have to restart it again...  </s>
+<s> other than matched pairs of equal density dimms...certainly not 3@1gb and 1@512mbs.  </s>
+<s> the system is probably adjusting the 1gb and 512mbs mismatch by using the 1gb as 512mbs.  </s>
+<s> so the 2@1gb plus 2@512mbs is 3gbs.  </s>
+<s> let us know what you find in the mb manual.  </s>
+<s> vapcmd ps...if the system isn't stable 100%, you need to throttle back a little.  </s>
+<s> otherwise you'll be writing to us sooner than later about the parts that no longer work.  </s>
+<s> it told me that dimma1+a2 slots must equal dimm1b1+dimmb2...so i went out and bought another gigabyte stick..replaced the 512 and i should have a total of 4 gigabytes...not my bios screen tells me that i only have 3048mb installed and 3047mb being used...but before it told me i 3572mb installed and being used...so i didnt get that...the new one i bought is a pc5300 667/533/400 ddr2 and another one is 5300 and my kbyte one is 4200 so im hoping that those numbers are irrelvant as long as my mb supports them...my mb manual says something about cas latency...i dont know what that is, it also says that if i try and install 4 2gb dimm that it may say that i have less than 8gbs installed (due to chipset allocation)  </s>
+<s> looks like the mb takes 8gbs ?  </s>
+<s> what's the second screen show re dimms in what slots ?  </s>
+<s> here's some info on win xp and ram limitations  </s>
+<s> what's the second screen show re dimms in what slots?  </s>
+<s> second screen?  </s>
+<s> re dimms?  </s>
+<s> also the sites i was able to access has let me know that i have to have a 64bit cpu...but i am not familiar with windows xp..and xp64 so i am not going to download that just yet...but it states that a 32bit os can only handle roughly 2gbs of ram..and 64bit can handle 4...i will have to do more research with google and i will update this after my results...thanks to both of you for your help.  </s>
+<s> k well i just opened up my case...and found my new memory loose hahaha, so i secure it this time...boot back up and...my bios screen now shows me 4000mb+ installed and used...yet xp still only recognizes 2.75 of it..i found an article that may help..but i have no idea what steps to take...here is what this person said to someone else's same problem: open your boot.ini file (remove its read-only and hidden attributes) and delete the 3gb switch.  </s>
+<s> then add the /pae switch.  </s>
+<s> reboot your computer.  </s>
+<s> xp will now see all 4 gb of ram.  </s>
+<s> i have no idea how to get to the boot.ini  </s>
+<s> file...can anyone tell me by a step-by-step process to do what this guy is saying...thanks!  </s>
+<s> and yes my mb can support 8mbs  </s>

@@ -1,0 +1,10 @@
+<s> help, i want to send a message from my laptop running win xp to another computer also running xp. in ms-dos prompt, i type &quot;net send family hi&quot; (family is the name of the other computer) but it says the alias could not be found although that is the name i gave the other computer.  </s>
+<s> the laptop is wireless and the other computer isn't.  </s>
+<s> i tried turning off the windows firewall but it didn't help.  </s>
+<s> any help would be greatly appreciated, trent  </s>
+<s> needs to be started on both computers before net send will work.  </s>
+<s> &lt;b&gt;how do i start the messenger service??&lt;/b&gt;  </s>
+<s> it is one of a windows xp hole that can be used by spammer to send you a message... many expert will tell you to turn off messenger services.  </s>
+<s> so, it is best for you turn off messenger service.. by going to run, services.msc,  </s>
+<s> stop messenger services, make it disabled.  </s>
+<s> now, for the need of sending a message to other computer.. you may want to use 'realpop' .. you must install it on both pc... its free.. google it..  </s>

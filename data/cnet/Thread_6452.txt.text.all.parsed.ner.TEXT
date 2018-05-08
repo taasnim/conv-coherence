@@ -1,0 +1,33 @@
+<s> i have been recently using up a lot of storage space on my computer ( 275gb out of 350gb) and my pentium 4 processor seems to be taking a long time opening applications ( it take me 16 seconds to open word 07!! ) my current intel pentium 4 is measured at 3.4ghz- is there any point investing in a slower 2.0ghz core 2 duo?  </s>
+<s> my motherboard is compatible and i have a ati hd3850 as a video card  </s>
+<s> &quot;is there any point investing in a slower 2.0ghz core 2 duo?&quot; it's a common misconception that processing power is based on solely on clock speed.  </s>
+<s> it's not only about the ghz, there's the cache size and more importantly, the chip architecture.  </s>
+<s> a newer core 2 based processor (regardless of the clock speed, because even lower end chips overclock like crazy) will be worth the upgrade and it will be faster than your older processor.  </s>
+<s> if you have slow application startup times, that tells me straight away that your processor is not the bottleneck.  </s>
+<s> application startup times are dependent on disk reading speed.  </s>
+<s> have you defragmented your hard disk?  </s>
+<s> if not, do it now.  </s>
+<s> how old is your installed copy of windows?  </s>
+<s> it might be time to erase the hard disk and reinstall windows in order to get rid of the cruft that has accumulated within windows and on your hard disk, and get the whole computer running faster.  </s>
+<s> alternatively, you could try a different operating system - i've found that linux barely slows down even if you use it a lot. the core 2 duos are great processors, and if you want to upgrade and feel some speed benefits, go for it.  </s>
+<s> but a faster processor will not significantly decrease application startup times - when applications start up, they are basically loading data from disk to ram, not doing any serious computation.  </s>
+<s> i have just defragmented my hard disk and the time to open up word07 is now 6 secs so thanks that helped a lot!! furthermore- i now am wanting to get a core 2 duo for playing games at higher settings and resolutions the most.  </s>
+<s> what are the other jobs of a processor besides playing games better?  </s>
+<s> do they help in using itunes by any chance?  </s>
+<s> ( as i am a itouch user )  </s>
+<s> any multi-core cpu will benefit you.  </s>
+<s> it also depends on the degree any s/w uses it &quot;directly&quot;, otherwise, the cpu will decide how its gets used, though that again should benefit the whole system.  </s>
+<s> since, you mentioned gaming and other tasks, gaming being very intensive can benefit too, but don't expect leaps and bounds of improvement.  </s>
+<s> for gaming a whole system tune should be taken into acct., then again the later hi-end games do demand alot.  </s>
+<s> also, be sure the system or mtrbd.  </s>
+<s> will support a multi-core cpu otherwise a mtrbd.  </s>
+<s> will have to be brought.  </s>
+<s> review the manual or specs from support website and get all your clues from that.  </s>
+<s> as for multi-core cpus in general, don't think in speed terms but in capability of handling many tasks, thus done quicker.  </s>
+<s> tada -----willy  </s>
+<s> so itunes and any other app will see a boost with cd ripping to mp3/aac being much faster.  </s>
+<s> image/video apps like photoshop or premiere elements will also be much faster.  </s>
+<s> if your motherboard does not support the dual core procs even after a bios update, you may want to consider just getting a separate system, instead of just upgrading the proc.  </s>
+<s> you could sell the old computer or if you are like me, use it for something else.  </s>
+<s> like, make a nas with vnc and fah installed.  </s>
+<s> you could also make it a very decent game server for counter strike or your fps of choice.  </s>

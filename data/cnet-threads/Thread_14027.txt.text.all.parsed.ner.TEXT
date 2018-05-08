@@ -1,0 +1,15 @@
+<s> i am trying to borrow my uncle's shared broadband internet connection by unplugging the ethernet cable from his laptop and plugging it into my laptop.  </s>
+<s> at first, my computer tried to acquire the network address on the lan connection but it ended with limited or no connectivity.  </s>
+<s> i eventually fixed that problem by changing the ip address on my laptop to my uncle's ip address and making the last digit different.  </s>
+<s> while it now says lan connection is connected, i still cannot browse the internet.  </s>
+<s> i checked the status on my internet connection and it looks like it receiving packets but is not sending packets.  </s>
+<s> any solutions would be great beccuase this is frustrating.  </s>
+<s> i know i can use my uncle's internet connection withmy computer but i just don't know how.  </s>
+<s> but xp is ipconfig/release and then renew from a command prompt.  </s>
+<s> or reboot the router and pc.  </s>
+<s> when i try to renew my ip, it just remians idle until my connection attempt is timed out. is my only other option network wizard setup because i'm not sure how to configure it correctly.  </s>
+<s> it seems my only problem is on the receiving end and not the sending end.  </s>
+<s> my os is windows xp pro btw.  </s>
+<s> any other suggestions would be great...  </s>
+<s> if this is a direct connection to a broadband modem, then you may require user names and password for dsl, or a cycling of the modems power in the case of cable.  </s>
+<s> i can't get my cousins laptop to renew its ip address i have tried reseting the router the cable modem uninstalling all of the networking adapters, tried ipconfig -renew & - release the thing that kills me most is the it tells me the signal strength is excellent anymore suggestions?  </s>

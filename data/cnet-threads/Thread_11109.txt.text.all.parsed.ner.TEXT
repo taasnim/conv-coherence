@@ -1,0 +1,74 @@
+<s> hi guys, pc -hp dv7 4020sa os- windows 7 basically two years ago i purchased this laptop and a few days ago the computer just shut off.  </s>
+<s> when i tried turning it on i got a black screen after the windows boot logo.  </s>
+<s> i tried connecting a external monitor via the vga port but same thing.  </s>
+<s> i checked all the forums and found out the display drivers were the problem, i went into safe mode(worked:d) and uninstalled them and the laptop seemed to boot up fine but the display was all grainy and big.  </s>
+<s> so i thought the best way to solve this would be to do a complete factory reset.  </s>
+<s> now after the reset im getting the same problem but this time i cant even boot into safe mode because it says i have to do a &quot;setup new computer&quot; process in normal mode.  </s>
+<s> please any help will be appriciated.  </s>
+<s> thanks again  </s>
+<s> if a factory restore from restore discs fail, the machine often needs repair.  </s>
+<s> one last idea.  </s>
+<s> are the bios settings the default and did you clean the vents with the usual canned air?  </s>
+<s> bob  </s>
+<s> be sure no usb devices are plugged in until the setup is complete.  </s>
+<s> hi thanks for the replies.  </s>
+<s> i completely formatted the hdd and installed a clean copy of windows 7 using a boot up disc.  </s>
+<s> but now the computer is using default vga graphics and i cant get back to the hd ones i was using before which means i also cannot connect my laptop using hdmi.  </s>
+<s> any ideas?  </s>
+<s> thanks again  </s>
+<s> seems the boot up disc you used didn't contain the right driver.  </s>
+<s> what does device manager say about the video card?  </s>
+<s> all you can do: download the correct driver from hp and install that.  </s>
+<s> kees  </s>
+<s> use the maker's restore media.  </s>
+<s> clean install require more work than what i see today's owners will invest.  </s>
+<s> and it's possible it's not windows 7 compatible.  </s>
+<s> i have an old vista laptop that will never run 7. bob  </s>
+<s> i just cant find the correct driver.  </s>
+<s> my graphics card is the amd radeon 4200 as seen on my device manager.  </s>
+<s> but i remember when i compputer used to work fine i had 2 drivers there (5400 and 4500).  </s>
+<s> did i install the wrong drivers?  </s>
+<s> thanks again  </s>
+<s> laptops, netbooks and such can use other drivers than you find on the web.  </s>
+<s> most if not all require us to install motherboard drivers first and then drivers for that model net/lap top.  </s>
+<s> these are sometimes not on the maker's web site.  </s>
+<s> here's an example where the drivers were hidden on some ftp site.  </s>
+<s> owners would never find those.  </s>
+<s> bob  </s>
+<s> hi, could you tell me where i can get the motherboard drivers from as they are not on the hp website.  </s>
+<s> im gonna remove all existing display drivers, use a cleaner to remove leftover files and install the one from the hp website for my laptop.  </s>
+<s> hopefully this should work.  </s>
+<s> thanks again  </s>
+<s> from the link given by bob it seems only hp customer service can answer your question.  </s>
+<s> did you already ask them?  </s>
+<s> kees  </s>
+<s> so i can't know if they hid the drivers like they often do.  </s>
+<s> and it appears you missed a nugget.  </s>
+<s> here it is again.  </s>
+<s> driver install order matters.  </s>
+<s> again, motherboard drivers may need to be installed before a video driver.  </s>
+<s> this is true for almost any system i've encountered.  </s>
+<s> more?  </s>
+<s> sure.  </s>
+<s> i find a lot of folk lose months over this.  </s>
+<s> after a few years of this my best advice is to use the recovery media for this laptop.  </s>
+<s> bob  </s>
+<s> hi, i will try contacting them but are they free because the laptop is 3 years old and out of warranty.  </s>
+<s> i did try installing the motherboard drivers and then the display drivers but i started getting the blank screen like before so i had to go into safe mode and take them off.  </s>
+<s> now my computer is using just default vga display drivers.  </s>
+<s> thanks again everyone for your help  </s>
+<s> when we get a new computer among the first steps is to create the restore media.  </s>
+<s> many of these use a restore partition.  </s>
+<s> so both those are free.  </s>
+<s> installing a clean copy of a retail windows is, today asking a lot of everyday users.  </s>
+<s> i gave an example of a chat at hp.com but it's been days so i'm wondering why you didn't try that?  </s>
+<s> if you end up ordering restore media, it costs.  </s>
+<s> not as much as a windows license so it's a bargain.  </s>
+<s> bob  </s>
+<s> i have found these drivers that work, but unfortunately the only thing i cant use is the hdmi port to connect to the tv. thanks again for all your help.  </s>
+<s> yes that points to a driver issue.  </s>
+<s> keep in mind that if you didn't use the restore media but some other os then you often get to chat with hp what drivers and what order they need to be installed in.  </s>
+<s> -&gt; but that's half the story.  </s>
+<s> today we have helper applications that add support for things like enabling video ports and more.  </s>
+<s> i can't guess which it is for this model, so back to hp. another strong nod to restore media.  </s>
+<s> bob  </s>

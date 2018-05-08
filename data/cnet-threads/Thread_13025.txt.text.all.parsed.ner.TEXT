@@ -1,0 +1,43 @@
+<s> my hard drive stopped.  </s>
+<s> i replaced the control board and it is now spinning however it can not find track zero.  </s>
+<s> can any one help me with the next step to make this drive work long enough to duplicate it?  </s>
+<s> hd specifications: western digital eide, drive (40gb) params: lba 78125000, model wd400bb-75caa0, date 05 mar 2002,dcm dseana2ch.  </s>
+<s> =many thanks= -how-  </s>
+<s> changing the pcb rarely works.  </s>
+<s> here's why.  </s>
+<s> not only must you match the make/model, but the firmware version and pcb revision levels.  </s>
+<s> many will not find a working drive to steal the pcb from.  </s>
+<s> they'll get another dead drive and hope it works.  </s>
+<s> companies like drivesavers and ontrack (dot com) offer data salvation services every day.  </s>
+<s> bob  </s>
+<s> sounds like the hard drive has a bad surface area not allowing it to find track 0. the old western digital hard drives used to have a 3 year warranty.  </s>
+<s> i suggest you call them and get an rma to get a new one. the fact that you replaced the control board in it may have voided your warranty.  </s>
+<s> i have removed the media from the bad drive and installed it in a known good drive.  </s>
+<s> (i have facilities to do this kind of stuff) the heads seek but never find home.  </s>
+<s> finally, drive gives up and stays parked.  </s>
+<s> i have tried total recall but they will not talk technical also, want $&gt;k to recover.  </s>
+<s> i can't afford.  </s>
+<s> if i can talk to knowledgeable tech i will learn what i don't know and may be successful.  </s>
+<s> how?  </s>
+<s> &quot;if i can talk to knowledgeable tech i will learn what i don't know and may be successful.&quot;  </s>
+<s> you ready to go to work?  </s>
+<s> start here re-read bob's post.  </s>
+<s> a full and complete understanding and history of h/ds' is needed, not just talking. the talking comes after, to clarify understanding and proceedures.  </s>
+<s> you will not be succesfull swapping controller cards, period.  </s>
+<s> open the h/d case outside a clean room will destroy the drive.  </s>
+<s> drop a h/d more than 1&quot; you might get lucky and not destroy the heads.  </s>
+<s> trying not to sound harsh.  </s>
+<s> just trying to get your attention.  </s>
+<s> cause their is no easy way to gaining knowledge.  </s>
+<s> bill .  </s>
+<s> you may have ignored the reasons i supplied why it rarely works. the firmware and pcb revision levels must be exact matches.  </s>
+<s> beyond that, a failed head, cable from drive to pcb can be broken and that will be beyond many.  </s>
+<s> data salvation services are held daily at the noted companies.  </s>
+<s> when you write you can't afford it, what you may have learned is that backup never looked cheaper.  </s>
+<s> bob  </s>
+<s> amen to that!! my back up of all the really important stuff was my salvation.  </s>
+<s> but, i didn't realize how much stuff was not included in my back, many photos and the like were not included in that back up.  </s>
+<s> i would like to recover them and then, there is the challenge of doing it...........  </s>
+<s> thank you bill, i've always done the hard stuff and somethimes the hard way.  </s>
+<s> i off to start.... how  </s>
+<s> you don't seem to understand, having a new hdd isn't what he wants...he wants the data from the old one...  </s>

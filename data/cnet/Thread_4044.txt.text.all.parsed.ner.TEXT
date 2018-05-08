@@ -1,0 +1,84 @@
+<s> hello, i have a sony vaio with a pentium ii processor, 320 mgs of ram, i put a new 60g maxtor ata hard drive in about a year ago and installed windows xp and have been very happy with the setup, with the exception of the slow processor.  </s>
+<s> i recently aquired an ibm pc with a pentium iii, a 30g hard drive and 256 mgs of ram.  </s>
+<s> my question is, how do i move the 60g hard drive that's all set up with xp, then make the 30g hard drive a slave?  </s>
+<s> i tried just removing the 30g hard drive, putting in the 60, then going into bios and &quot;auto detecting&quot; hard drives, but it wouldn't boot up.  </s>
+<s> i tried several different things, manually changing the setting in bios to make the new drive the master, etc, that didn't work.  </s>
+<s> then i gave up, put the 30g drive back in the ibm and decided to try installing xp on the 30g drive (successfully), then transfering everything over via serial cable using the &quot;transfer files & settings&quot; wizard that comes with xp and neither pc could detect the other after a couple of hours of trying.  </s>
+<s> after i tried that, i restarted the ibm with the 30g drive with the recently installed xp and it says that i have to activate xp, or i won't be able to log on to windows.  </s>
+<s> there was a message that would come up saying that i had 30 days to activate, right before i attempted the transfer.  </s>
+<s> i am wondering if the reason i can't transfer everything, is because i have xp on both pcs installed from the same disk.  </s>
+<s> i don't plan to ever use the sony again, other than for parts, so i shouldn't be violating microsoft's policy on having xp installed on more than one pc. after rethinking everything, i think that the optimal setup would be to use the 30g drive as the master and the 60g as the slave for storage, but at this point, i would settle for anything that gets the ibm up and running with all of my settings, files, etc, from the old pc. i can't afford to take them to a repairman to have them switched (that's why i am upgrading to a pc with a pent iii in the first place...boldly stepping into the 90s!), plus i'm a diy type of a guy and want to learn to do it myself.  </s>
+<s> btw, i changed the jumpers on the drives to the appropriate position with each attempt.  </s>
+<s> any advice would be much, much appreciated!!!  </s>
+<s> while the hard disk will function, this os will fail to boot.  </s>
+<s> to add insult, the os may not work after you put it back!  </s>
+<s> no version of windows has moved with grace from machine to machine.  </s>
+<s> xp is definitely to worst of the lot so far.  </s>
+<s> bob  </s>
+<s> thankfully, it still worked when i put it back in the sony, or i wouldn't be able to post on here now, lol!  </s>
+<s> any suggestions on how to transfer the files & preferences to the new pc? one of the things i did is i put the 30g drive from the ibm into the old machine (sony) as a slave (it had me on it at the time), then i did a &quot;government wipe&quot; with norton utilities, because i figured it would be best to start with a fresh, empty drive.  </s>
+<s> that worked just fine, i then put the drive back in the ibm, then installed xp which went just fine also, i was able to log on to xp on the ibm just peachy...until i tried to transfer my files and preferences...then it said i needed to activate xp on the ibm, or it wouldn't finish booting up.  </s>
+<s> i figured i could do the same thing again with the wipe, but when i put it back in the sony as a slave, it recognized the new hardware, it showed that the drive was working properly, but i couldn't access it, therefore, i couldn't wipe it again.  </s>
+<s> i suspect that's because i have xp on both drives, so it won't allow me to access the slave in an effort to prevent a conflict, am i right?  </s>
+<s> i have thought about just backing everything up on the 60g drive, then putting it all in the 30g drive in the ibm, disk-by-disk, but that would take approx.  </s>
+<s> 20 cds (around 25 gigs), which would get fairly expensive, not to mention very time consuming!  </s>
+<s> i think i may break down and call microsoft and see what i need to do to get the files transfered.  </s>
+<s> this has been a very frustrating exercise in futility at this point.  </s>
+<s> all i've seemed to accomplish is to raise my blood pressure and give myself a headache!  </s>
+<s> &quot;any suggestions on how to transfer the files & preferences to the new pc?&quot; read which explains this.  </s>
+<s> &quot;i have thought about just backing everything up on the 60g drive, then putting it all in the 30g drive in the ibm, disk-by-disk, but that would take approx.  </s>
+<s> 20 cds (around 25 gigs), which would get fairly expensive, not to mention very time consuming!&quot; this is not nearly as espensive as how much it costs to get your files back when a hard disk vanishes.  </s>
+<s> data recovery still runs about 1,000 usd and 20 cds cost me about a dollar so that's a winner.  </s>
+<s> also, i see many people that never have a copy of what they can never lose.  </s>
+<s> its sad how ill prepared people are when the hard disk or entire machine vanishes.  </s>
+<s> bob  </s>
+<s> i have used this in the past.  </s>
+<s> when you put the 60gb hd in the ibm machine boot the pc with your xp install disk and do the repair fuction on the xp install, choose the the no recovery diskett option and just let the install program &quot;fix&quot; the nessary files for the new hardware setup.  </s>
+<s> john  </s>
+<s> that sounds simple enough, but how much risk is there for losing data?  </s>
+<s> i am in the proccess of backing everything up right now, but of course, i am hoping i won't need to use the back up disks.  </s>
+<s> it would sure be nice to be able use your suggestion and have everything work just the way i have it now, but with the newer pc! i really appreciate those that have taken the time to help me with this problem, it's good to find a place where i can get advice from those that are more experienced than i am. i get the feeling that i will be spending a lot of time on these boards in the future!  </s>
+<s> i may attempt using your suggestion tonight, if you don't hear from me for a while...well, lets just hope it works the first try!  </s>
+<s> thanks again for all your help!  </s>
+<s> only a few in a thousand will lose the hard disk data.  </s>
+<s> you have to decide if you will roll the dice.  </s>
+<s> it may be even less than that, but when a person loses it all, they usually post somewhere like here asking how to get it back.  </s>
+<s> those who backup, just shrug and figure they were lucky.  </s>
+<s> bob  </s>
+<s> i think i will roll the dice on this one, it sounds pretty straightforward and i'm in the process of backing everything up right now, so i will be about as prepared as i can be.  </s>
+<s> hopefully, by this time tomorrow i'll have everything working properly on the new(er) pc! it's a lot more reassuring to have good folks like you to give me advice than when i just try things on my own, hoping they will work out.  </s>
+<s> of course, i will probably still do some things on my own and when i mess things up, i'll be back for more help, lol!  </s>
+<s> ok, i put the 60g drive into the ibm, booted from the xp setup cd, selected the repair feature, selected the drive (c) to repair, but it needs an &quot;administrator password&quot; to continue.  </s>
+<s> i tried the one that i use to logon to windows, i tried various others, such as &quot;11111,&quot; &quot;12345,&quot; &quot;00000,&quot; etc. i even tried just hitting &quot;enter&quot; but i can't get past that point.  </s>
+<s> so i put the drive back in the sony and thankfully, it still works and here i am! is there a default administrator password, or a way to bypass it somehow?  </s>
+<s> i even went into bios and reset the 2 passwords (1 &quot;supervisor,&quot; 1 &quot;user&quot;) that are in there, but that made no difference.  </s>
+<s> this is very frustrating!  </s>
+<s> in your last post you didn't tell if this os was from some hp and you are moving it.  </s>
+<s> frankly, the license doesn't allow it.  </s>
+<s> i offer no fix for this issue.  </s>
+<s> read: 1. 2. read and use it on xp home too!  </s>
+<s> bob  </s>
+<s> no, i bought the full home version of xp about a year ago (at staples, i think) and installed it on a brand new maxtor 60g hard drive that i put in my sony vaio.  </s>
+<s> i had the understanding that as long as i was just upgrading to a newer machine and i used the same hard drive from the old pc and the old machine would not have that same version of xp, it would not violate the license agreement.  </s>
+<s> of course, i could be wrong about that though.  </s>
+<s> i don't even plan to use the vaio for anything but parts, in fact, it won't even have a hard drive once i get this problem worked out.  </s>
+<s> i hope that doesn't violate the agreement, because it doesn't seem fair to me that i paid around $250 for the full version of xp and a year later, i have the oportunity to put a better pc together using the same drive that version of xp was originally installed on and i may be expected to shell out another $250 (or more) for another new os.  </s>
+<s> i think if that's the case, i'll save my money and get a mac, just so i'm not putting anymore money in bill gates' pocket!  </s>
+<s> if i have to buy another os, that will put the total for this little project almost high enough that i could have just bought a brand new pc that would be much better anyway.  </s>
+<s> i'll check out those articles you posted and see if they will help, if not, i guess i'll just have to break down and call microsoft and see if they can help me get it worked out. the problem with that is, i understand that they charge something like $35 for that call and that doesn't neccessarily guarantee the problem will get solved.  </s>
+<s> i really don't have the money to do that, that's why i came here for help instead.  </s>
+<s> i just had a thought...is there a chance that the password it's asking for is actually the product key code that comes with the windows disk?  </s>
+<s> maybe i'll give that a shot, i've got nothing to lose but the time it will take to do it.  </s>
+<s> anyway, i really do appreciate the help you have given me, it's very nice of you to take the time to help somebody else out like that, thanks.  </s>
+<s> you don't even have to keep it on the same hard disk... if you activate too many times a week or some such thing, you get to call the 800 number but even then it's fast and you just say your machine had a problem... best of luck in your repairs!  </s>
+<s> your welcome, bob  </s>
+<s> i've been meaning to post an update on here, but just haven't been able to find the time until now.  </s>
+<s> i wound up calling microsoft tech support and they told me that they weren't even sure if what i wanted to do would even work.  </s>
+<s> they suggested uninstalling xp sp2 and all the other updates, as well as my norton internet security and norton system works then trying the transfer, but there was no guarantee that it would work after all that and i still might wind up losing some data.  </s>
+<s> so what i decided to do, is activate xp on the 30g drive in the ibm, then just run a restore on my backup (12 cds) into that drive and then do a wipe on the 60g drive and use it as the slave.  </s>
+<s> this worked quite well, it was a bit time consuming, but well worth it!  </s>
+<s> i am now on the ibm, i now have a piii processor, 384 mgs of sdram, the 30g drive as the primary and the 60 for storage.  </s>
+<s> it has a built-in dvd rom as well as a built-in cd writer, which is nice, since with my old setup, i had an external cd writer.  </s>
+<s> this is a vast improvment over my old system with the pii! and i only spent slightly over $200 in the process...not bad for a stupid plumber, eh? lol! the best part about doing the transfer the way i did, is that i was never down, i always had a functioning pc to access the internet (2 of them at one point!), which is good, because i sell on ebay and can't afford to be down for very long! in fact, that's what worried me the most, if something went wrong, i would have to go down to the local public library and use the public pcs to take care of business on ebay.  </s>
+<s> that idea just doesn't sound good to me for some reason, lol!  </s>
+<s> anyway, i just thought i'd let those that took the time to post and give me advice know that it all turned out well in the end and i really appreciate the help you gave me, thanks!!! scott  </s>

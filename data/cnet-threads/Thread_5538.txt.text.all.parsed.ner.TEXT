@@ -1,0 +1,44 @@
+<s> i'm replacing our 4-year-old vista 32-bit 2gb ram desktop.  </s>
+<s> we use it for web browsing, email, word processing and storage of photos, music and video.  </s>
+<s> no gaming.  </s>
+<s> i find it is getting slow at waking up, web browsing, switching between applications, and switching between users.  </s>
+<s> i'm not a geek.  </s>
+<s> i basically limit myself to running msconfig and turning off unnecessary things.  </s>
+<s> i have also plugged in ram and other cards, but that's about it.  </s>
+<s> i expect the biggest resource hog on our system is office 2010 professional.  </s>
+<s> i just purchased an hp pavilion p6-2125 and am getting it ready to swap over.  </s>
+<s> it seems to be much faster at tasks, but it is, after all, right out of the box.  </s>
+<s> i am thinking of adding another 4gb of ram to the 4gb that is already there.  </s>
+<s> will i notice a difference when waking it up, web browsing, switching between applications, and switching between users?  </s>
+<s> i'm looking at kingston valueram, but someone suggested corsair cml4gx3m1a1600c9. the corsair is well reviewed for gaming and overclocking, but we don't do that.  </s>
+<s> also, since i assume that the factory-installed 4gb is probably not a high performance stick, i wonder if adding the corsair would cause problems.  </s>
+<s> any opinions are welcome.  </s>
+<s> here are the specs i think are relevant: windows 7 home pro 64-bit according to hp: dual channel memory architecture two 240-pin ddr3 dimm sockets supports up to 8gb on 64-bit systems thanks!  </s>
+<s> full specs for your pc  </s>
+<s> your mobo has 2 ram slots.  </s>
+<s> your mobo supports dual channel.  </s>
+<s> i'll take a guess that both slots are in use.  </s>
+<s> if that's true you can't add more ram to the existing ram.  </s>
+<s> what you will need to do is remove the installed sticks........2x2gb?  </s>
+<s> install new sticks.......2x4gb.  </s>
+<s> if you want to do this......look here.  </s>
+<s> for excel and access.  </s>
+<s> so given the cost to upgrade and the fact you have only got 2 dimms slots ..... here's what i'd get.  </s>
+<s> you would have to remove the ram that came with the pc ... and install the 2 new dimms.  </s>
+<s> since the pc is under warranty ....you may want to keep the original ram until the warranty expires in the unlikely event you have a problem with the machine and have to return it.  </s>
+<s> let us know how it works out.  </s>
+<s> vapcmd  </s>
+<s> those were very good points, so i opened the tower and, voila!  </s>
+<s> only 1 slot is occupied by a 4gb stick made by hynix.  </s>
+<s> i took it out and scanned both sides for really good images, it but it seems that this forum has no way to upload files... according to wikipedia hynix is: &quot;the world's second-largest memory chipmaker and the world's sixth-largest semiconductor company... formerly known as hyundai electronics&quot;&lt;div&gt; i googled &quot;compatible with hynix ram&quot; but didn't get anything helpful... so i'm back to my original question: any tips on what 4gb desktop ram to get to run alongside this hynix ram?  </s>
+<s> &lt;/div&gt; thanks again.  </s>
+<s> two ways to do this.  </s>
+<s> you can buy a stick that is the same speed as the installed ram and hope the two sticks will play nice together.  </s>
+<s> or. if you have 40 bucks you can remove the original stick and install a 8gb kit. the kit will have two matched sticks that will play nice together and use the dual channel feature with no fuss.  </s>
+<s> 1600 speed is the max your machine will support.......that's the target i'd shoot for.  </s>
+<s> in your other post you talk about testing this for best perf.  </s>
+<s> w7 comes with a bench mark tool called.....windows experience index......run that thru google.  </s>
+<s> you can use that and test different configs of ram.......see what the tool shows.  </s>
+<s> difficult that it may appear and most of us with experience recommend just biting the bullet and getting the matched ram from a reliable source as suggested above.  </s>
+<s> if you're going to all this trouble....best to put the odds of success on your side. even if you went back to the pc mfg....to get another dimm, chances are it wouldn't be from the same mfg with the same specs....latency, voltage, etc.,. always best to get all that you need at time of purchase or upgrade later with a kit of matched dimms from a reliable source.. let us know how it works out.  </s>
+<s> vapcmd  </s>

@@ -1,0 +1,39 @@
+<s> ok, bare with me here on this. recently within the past week, my parents gateway gt5408 desktop has decided to go belly up with not real explicable reason i can find.  </s>
+<s> when the computer gets turned on, the monitor will show the splash screen (for the acer brand of monitor) then go out and give a no input notification (its not getting a signal from the tower anyway. the fan will ramp up to high gear and just run.  </s>
+<s> but nothing else really happens.  </s>
+<s> i have searched the issue via google and have found others to have this same issue.  </s>
+<s> 3 beeps, no boot, fan runs.  </s>
+<s> i followed the primary suggestion of opening the tower and cleaning the contacts of the memory and cleaning out any dust.  </s>
+<s> this worked for a matter of two days and now its back to the previous state of not working.  </s>
+<s> i even ran memtest (however, i'm not sure if i ran the whole thing...it did one pass...is it suppose to do more?) and nothing came up as an issue with the memory.  </s>
+<s> so i'm lost here.  </s>
+<s> specs: gateway gt5408 intel processor windows vista sorry the specs are sparse, but i currently cannot get that information.  </s>
+<s> will update in a day or so.  </s>
+<s> seems to point to memory issues.  </s>
+<s> in fact you did that and it did fix it for a short time which tells you it was that.  </s>
+<s> it is possible that the motherboard has developed a failure but it is still a memory or memory controller type failure.  </s>
+<s> --&gt; what confused me is how did you run memtest if it fails to boot and have no visual?  </s>
+<s> bob  </s>
+<s> oh, after i had taken off the tower to deal with dust it was able to boot up.  </s>
+<s> it was then i was able to run the memtest.  </s>
+<s> as you found out it is a memory error.  </s>
+<s> it does mean the sticks are bad but that something in the memory system has failed.  </s>
+<s> try this.  </s>
+<s> power off, remove the ac cord to be sure then gently push all the cards, especially the video card home.  </s>
+<s> that 3 beeps can also be a failed video card but i didn't read what was in that machine.  </s>
+<s> good luck, bob  </s>
+<s> ok thank you for the suggestion.  </s>
+<s> i'll give it a shot.  </s>
+<s> ok, so here are some more specs on this pc, which i'm actually using (in safe mode).  </s>
+<s> windows vista 32bit, sp2 intel core2 cpu 4300 1.8ghz, 501mb ram intel gma 950 dynamic video memory technology 3.0 it seems to only boot properly when the power is completely cut from the system.  </s>
+<s> then when it does boot it is incredibly slow, so slow that it took about 15 minutes to completely boot, and nearly 20 to shut down (this is out of safe mode).  </s>
+<s> as for the possibility of it being the video card, i'm not so sure it really is.  </s>
+<s> seeing as there is never an issue with display when it does boot correctly.  </s>
+<s> the colors aren't off, the image isn't blurry, it runs as if there are no issues.  </s>
+<s> is there anyway to test the motherboard for issues?  </s>
+<s> i made a typo above.  </s>
+<s> i meant to write &quot;it does not mean the sticks are bad.&quot; what a difference when i drop one word.  </s>
+<s> that extra info helps a little but only in that i would try it with one stick at a time and move it from slot to slot till it boots.  </s>
+<s> with 512mb and 11mb given up for the onboard video this should boot slowly.  </s>
+<s> i see nothing wrong with such as low memory machine running vista to run incredibly slow.  </s>
+<s> bob  </s>

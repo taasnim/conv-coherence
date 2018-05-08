@@ -1,0 +1,17 @@
+<s> hello all, i have a netgear mr814v2 4 port router and netgear ma101 802.11b usb wireless adapter.  </s>
+<s> i have 2 desktops running win xp pro.  </s>
+<s> system a is a direct lan connection to the router.  </s>
+<s> this system can access the internet through the cable modem.  </s>
+<s> and is very reliable.  </s>
+<s> i am trying to get the second system to connect to the internet and system a via the wireless adapter. the usb adapter is connected through a usb2 port expander.  </s>
+<s> in the past, i have successfully established a connection, been able to access the internet and share files with system a. but when i power down the system and then reboot, the connection is gone, and i have to jump through hoops to get it re-established.  </s>
+<s> sometimes i can physically disconnect the adapter from the usb expander port and then reconnect it and re-establish the wireless connection.  </s>
+<s> but even this is not consistent.  </s>
+<s> i've tried the router with and without wep.  </s>
+<s> same result.  </s>
+<s> i've searched ms knowledgebase and scoured the web but haven't found any reference to a similar problem.  </s>
+<s> thanks for any ideas, lee.  </s>
+<s> the firmware and drivers the latest from netgear for your products?  </s>
+<s> after you have assured the drivers and firmware are up to date, try it without the usb port expander but rather with the wireless unit plugged directly into a usb port on the computer.  </s>
+<s> sometimes those port expanders don't work the way the advertising suggests, particularly when the connected devices require power through the port.  </s>
+<s> dw  </s>

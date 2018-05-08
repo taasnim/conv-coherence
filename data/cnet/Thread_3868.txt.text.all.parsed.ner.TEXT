@@ -1,0 +1,49 @@
+<s> hi there i have an issue with my desktop p.c where by it keeps rebooting when i put in a cd irrespective weather it was a original or a copy.  </s>
+<s> i changed roms as well as ide cables and still the same problem.  </s>
+<s> i thought it may be the os so i tried to reinstall.  </s>
+<s> when i put in the windows disc it kept rebooting as well.  </s>
+<s> it would get to the point where windows would load the driver, before it even gives you the option to format, and then reboot.  </s>
+<s> i tried the hard drive in another machine and it formatted there fine.  </s>
+<s> im at a loss and hoping some one could help.  </s>
+<s> the mother board specs is as follows: mother board: intel d865glc/ d865peso d865pcd /d865pck ram: 512 ddr400 processor: intel pentium 4 2.53ghz hdd: wd 80gb sata samsung dvd writer and sony cd witer  </s>
+<s> such as the drivers you install after windows.  </s>
+<s> it's not automatic and not found or installed by msft.  </s>
+<s> these motherboard drivers are supplied with the machine, it's maker or such.  </s>
+<s> bob  </s>
+<s> i don't quite follow you?  </s>
+<s> basically when i set the motherboard to boot from the cd rom, save the changed and insert the windows cd, the computer rebots  </s>
+<s> &quot;i set the motherboard to boot from the cd rom, save the changed and insert the windows cd,&quot; this makes no sense to me.  </s>
+<s> but let's look at your top post.  </s>
+<s> you say you installed windows.  </s>
+<s> fine, that's done.  </s>
+<s> now tell me what motherboard driver package you install next.  </s>
+<s> in your top post you supply four motherboard models of intel d865glc/ d865peso and d865pcd /d865pck.  </s>
+<s> i wish you could pick one but i've lost count of the times people post such and you discover later it's a hp model v6790 desktop.  </s>
+<s> don't hide details like that.  </s>
+<s> -&gt; said motherboards come with a driver cd which looks like will be un-useful at this point.  </s>
+<s> when this happens i reload windows and check my work.  </s>
+<s> but here's the driver from intel.com for that chipset.  </s>
+<s> good luck!  </s>
+<s> see item 2 at  </s>
+<s> hi there, i apologize for the miss communication.  </s>
+<s> basically i'm trying to install windows on the p.c and when it boots of the windows cd it gets to the point where it loads the drivers and just before it asks you to select f8 to accept the terms and conditions it reboots.  </s>
+<s> i have formatted the hard drive in another machine and it seems to be working fine.  </s>
+<s> with regards to the mother board models, this is what is stated on the mother board it self, unfortunately it does not specify which one it is.  </s>
+<s> if when the cd is inserted while the computer is booting up and is still at the bios / cmos stage, would it be a fault on the mother board?  </s>
+<s> in another forum, a guy mentioned that it could be as a result of blown or leaking capacitors, i check all the caps and none are leaking or swollen.  </s>
+<s> if original holographed windows xp cd won't install, it's a hardware issue.  </s>
+<s> all you can do: remove all unnecessary hardware.  </s>
+<s> keep only necessary hardware (one harddisk, cd, (ps/2) keyboard, (ps/2) mouse, video).  </s>
+<s> then try again.  </s>
+<s> if it's still failing, it's one of remaining components.  </s>
+<s> you already excluded the hard disk, it seems.  </s>
+<s> that leaves the fans to check (can be a temperature issue) and the motherboard, the ram (try it with one stick if that's big enough), the cd drive, the keyboard, the mouse, the videocard and the psu to replace.  </s>
+<s> choose the sequence you like most.  </s>
+<s> kees  </s>
+<s> &quot;if original holographed windows xp cd won't install, it's a hardware issue.&quot;  </s>
+<s> yep, that's true.  </s>
+<s> nothing in your post reveals what could be busted here.  </s>
+<s> it could be bad anything to issues like someone trying to format a drive ahead of time to too much ram for the xp in question.  </s>
+<s> or simply trying to use a dell, hp, gateway xp cd. bob  </s>
+<s> thanks for the help, out of what you have recommended i had already done the following: cleaned the fan and cpu heat sink as well as cleaned and replaced the heat sink past i have tried ram from a working p.c i have changed the cd rom i have tested with a keyboard and mouse from a working p.c removed the graphics card and running on the on board graphics.  </s>
+<s> i haven't tried swapping the power supply, will give it a go, thanks for the assistance.  </s>

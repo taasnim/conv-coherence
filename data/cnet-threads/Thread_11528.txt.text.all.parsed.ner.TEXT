@@ -1,0 +1,15 @@
+<s> i have a netgear wpn824 wireless router and three laptops.  </s>
+<s> the newest laptop is about 2 years old.  </s>
+<s> i know that the recommendation when enabling wireless network security is to not use wep because it is too easily broken.  </s>
+<s> assuming that i am using a router that supports higher protocols, how can i tell if my wireless devices support the higher protocols as well?  </s>
+<s> if not, is it just a matter of upgrading firmware or would i have to replace the device?  </s>
+<s> i subscribe to the theory that some deterrent is better than none.  </s>
+<s> i'd use wep if that is your only option. the wap (often a wireless router) will have its supported encryption protocols listed in its product specifications on the manufacturer's website.  </s>
+<s> note that your wireless network adapters must support the same protocol to connect using the wap's enabled protocol.  </s>
+<s> check a firmware update's descriptions at the manufacturer's website to determine just what the update does.  </s>
+<s> all of the 802.11 standards, whether it be a/b/g, supports wep and wpa.  </s>
+<s> i assume your your laptops are using one of these wi-fi standards?  </s>
+<s> therefore if your router offers wpa, use it.  </s>
+<s> it's my understanding that a particular 802.11 standard may include a lot of features, but that doesn't necessarily mean that they all are implemented in every wireless device.  </s>
+<s> an example: if i implement wpa encryption on my wireless router and my wireless network adapter in my computer only supports wep, then i can't connect.  </s>
+<s> unfortunately, some adapters don't have firmware updates that add newer abilities, such as wpa or wpa2.  </s>

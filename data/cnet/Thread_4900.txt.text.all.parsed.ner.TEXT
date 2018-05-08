@@ -1,0 +1,60 @@
+<s> morning everyone - i'm currently researching/looking for a 8 port, layer 5, load balancing switch.  </s>
+<s> i was wondering if anyone could provide me w/ some some insight as to what your company may be using and also what you may recommend.  </s>
+<s> i have already spent a tremendous amount of money upgrading our network and this addition is absolutely necessary but we are trying to acquire a lbs at a reasonable price but of high reliability.  </s>
+<s> thank you in advance!  </s>
+<s> -ck  </s>
+<s> pick up the phone and call cisco.  </s>
+<s> bob  </s>
+<s> i posted this to find out if their were any products people would recommend, obviously cisco would say that the 11501 switch is the obvious route.  </s>
+<s> a co-worker and myself have come up w/ a product that will do the job, turns out we've decided not to go w/ cisco.  </s>
+<s> i really appreciate the time and effort that you put into your exstensive and highly detailed reponse bob.  </s>
+<s> seems to me it was delivered in a mocking manner.  </s>
+<s> i was on the phone w/ nortel and cisco yesterday for about an hour a piece.  </s>
+<s> if you talk to the usual outlets that sell a lot of network gear, they may let out a clue what would be a clone of the cisco/nortel product.  </s>
+<s> but what i've learned is to plug in the cisco box, configure it and go home.  </s>
+<s> it's a lesson you learn after this much time.  </s>
+<s> best of luck, bob  </s>
+<s> how could i infer 'mocking' in so few words?  </s>
+<s> i'm sharing my insight after 2+ decades of networking.  </s>
+<s> if you don't value it, then that's ok. but i will treat you with respect anyway and wish you happy hunting.  </s>
+<s> bob  </s>
+<s> i apologize bob i obviously misinterpreted your response.  </s>
+<s> i appreciate your response and i also appreciate your expertise in this area.  </s>
+<s> i did in fact call cisco and although they did provide me w/ some answers they quickly transferred my questioning to an engineer that provided me w/ less information then their sales team did.  </s>
+<s> cisco is a valued product in the networking world but i was shocked at how limited their responses were to my questions.  </s>
+<s> maybe i got the wrong person on the phone, i'll give it a shot again tomorrow.  </s>
+<s> on a separate note bob i was wondering if a solution that we have created would work: their will be an internet connection coming into a failover switch.  </s>
+<s> that switch is connected to webserver 1 and webserver 2. each of those webservers is then connected to a second failover switch which is then connected to database 1 and 2. i have recently learned that it doesn't matter which database server the information is written to because we will be using replication software for that purpose.  </s>
+<s> could you possibly forsee any problems with the flow of information on a small solution of this type.  </s>
+<s> much thanks again!  </s>
+<s> cliff  </s>
+<s> you can read further what microsoft has noted at specifically they mention &quot;cisco localdirector, f5 networks's big-ip, and alteon websystems acedirector&quot; the limited responses (from cisco) are due to an overload of people asking questions to those that will respond.  </s>
+<s> even my responses are often short due to the facts that: a. i don't get paid for this.  </s>
+<s> b. i expect people to research as much as they can.  </s>
+<s> c. i am not going to shop for anybody.  </s>
+<s> that's your work, not mine.  </s>
+<s> item c may inflame you but item a explains it.  </s>
+<s> -&gt; i've learned not to cheap out or overanalyze switchs and network hardware.  </s>
+<s> i also learned never to get a power supply or ups just big enough to do the job.  </s>
+<s> to recap: be sure you are not overdoing it.  </s>
+<s> too many times i've found: a. the person was building a supertanker to transport 5 gallons of content.  </s>
+<s> b. the person has a gigibit serving server, but connected to a kilobit connection.  </s>
+<s> c. it wasn't their line of business.  </s>
+<s> more about item c. just a fews months ago i finished a consult with a business.  </s>
+<s> they were growing and having severe machine pains.  </s>
+<s> what i discovered was the company's owner's son was building the machines.  </s>
+<s> from server to desktop.  </s>
+<s> it was fine when there was just a handful of machines but now it was out of control with each machine a masterpiece of what was out that week.  </s>
+<s> we tossed the server down to the pit and put in a dell server and started acquiring simple dell machines as we needed for the users.  </s>
+<s> this cured that in nothing flat.  </s>
+<s> point?  </s>
+<s> their business was not building pcs.  </s>
+<s> they needed to return to doing what they did best.  </s>
+<s> the same problem existed with their website.  </s>
+<s> they had consults that were more than willing to help them build web servers, get high speed connections and write the code to make it all go.  </s>
+<s> again, we tossed that out and went with a web server company.  </s>
+<s> they are now online at some 100 bucks a month.  </s>
+<s> at first they thought the monthly fee was high until we put it on a spreadsheet with 1 and 2 years projected costs for the do it yourself solution.  </s>
+<s> point?  </s>
+<s> is building a web server your business?  </s>
+<s> bob  </s>

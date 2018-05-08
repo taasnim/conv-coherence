@@ -1,0 +1,18 @@
+<s> if i have a 1.83 core duo how much ram would i need to get the most out of my prosser?  </s>
+<s> what are you doing with the machine and which operating system will it use are just a couple of the factors in this as it could be anywhere from 512 mb to 4 gb for most situations though there may be some exceptions if you want to try to run something really fancy schmancy.  </s>
+<s> it's sufficient for everything unless you do big photoshop files.  </s>
+<s> dual core is a 32/64.  </s>
+<s> either you will get more from a 32 bit environment or more stability from a 64 bit environment.  </s>
+<s> ram depends on the number of processes (programs and calls) running at the same time.  </s>
+<s> this depends on os choice (windows takes up more, sun os takes up a lot of ram but delivers the goods, linux has user defined processes, except sys and root, bsd uses less process, and plan9 uses the least.  </s>
+<s> mac is a bsd type system) the kernel for each automatically loads the necessary drivers.  </s>
+<s> are you running an audio video setup?  </s>
+<s> with heavy equipment?  </s>
+<s> a stereo?  </s>
+<s> multiple or 3+ tier cd burner/ dvd burner racks?  </s>
+<s> then you need more ram.  </s>
+<s> ram which is purchased because some says it is good and not for system performance is the same as buying snow chains while living in florida.  </s>
+<s> it makes no sense.  </s>
+<s> go back, make a list of what you are running and the amount of ram necessay for each process.  </s>
+<s> add that up and add 128m for safety/overflow measures.  </s>
+<s> that should be your answer.  </s>

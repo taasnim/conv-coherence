@@ -1,0 +1,29 @@
+<s> i have a trendnet wireless router and my desktop is connected to the router with a cable.  </s>
+<s> i had an old laptop with a trendnet pc card and my speeds and connections were great. the problem is with my new laptop.  </s>
+<s> i no longer have the old laptop.  </s>
+<s> my new laptop has a broadcom internal wireless adapter and the speeds were really slow.  </s>
+<s> i took off the security and set a mac filter list.  </s>
+<s> my speed is good now, but i keep losing my connection for no reason!  </s>
+<s> when i reconnect it works fine for a while, then it's gone again.  </s>
+<s> i have changed from channel 7 to 6.  </s>
+<s> try moving the router to a central location in the house.  </s>
+<s> also, right-click the wifi connection in the lower right of your screen and set the priority of your router as the first to connect.  </s>
+<s> if you go to multiple locations or have a neighbor with a wifi router, your laptop might be trying to connecto to it, occasionally.  </s>
+<s> there are easy to find softwares to interfere and hijack a neighbor's wifi if they use no security or wep or mac filtering or any combo of these.  </s>
+<s> this is why we note in our forum sticky to move to wpa (and not wpa2) and forgo mac filtering.  </s>
+<s> bob  </s>
+<s> i found this on another site as i'm having the same problem this from the linksys web site which is reasonably easy to use and has some good info.  </s>
+<s> &quot;if your wireless signal is intermittent, then you are most likely you are experiencing 2.4 ghz interference.  </s>
+<s> you will need to try switching channels and changing the ssi d on your wrt54g. the best channels are 1, 6 and 11. to switch channels: 1. using a computer that is plugged into the router directly with a network cable, open a web browser.  </s>
+<s> 2. in the address bar type and press enter.  </s>
+<s> 3. a box should appear asking for a user name and a password.  </s>
+<s> leave the user name field empty, and type your wrt54g router password into the password field (the default password is admin) and click the ok button or press [enter].  </s>
+<s> 4. the wrt54g setup page should now appear.  </s>
+<s> click onto the wireless page. 5. when the wireless page loads, you should be on the basic wireless settings sub-section.  </s>
+<s> 6. look for the wireless channel option. the default channel is set to 6 - 2.437ghz.  </s>
+<s> change it to either 1 - 2.412ghz, or 11 - 2.462ghz.  </s>
+<s> 7. click on the save settings button toward the bottom of the page to save changes.  </s>
+<s> click continue when prompted to reload the page.  </s>
+<s> 8. the channel of your wrt54g has now been changed.  </s>
+<s> restart your wireless computers so that they can automatically connect using the new channel.  </s>
+<s> 9. if you still experiencing interference using channels 1, 6, or 11, try switching the router to the other channels as well (2, 3, 4, 5, 7, 8, 9, 10) and find one that captures a good connection&quot;.  </s>

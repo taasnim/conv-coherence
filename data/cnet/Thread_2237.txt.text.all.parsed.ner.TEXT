@@ -1,0 +1,22 @@
+<s> okay, so i was trying yo figure out a way to split my maxtor one-touch 500 gb hard drive so i could format each half a different form.  </s>
+<s> i'm running on a compaq presario xp. i right-clicked on my computer, selected manage, and chose disk management over in the sidebar.  </s>
+<s> i saw my drive (under d:) and right clicked it.  </s>
+<s> i chose delete partition so then i could, i don't know, i thought it would help me.  </s>
+<s> but, now my ex. hard drive isn't being detected under my computer, so i can't access it.  </s>
+<s> when i plug it in it still makes the doo-duh sound. the drive is still installed and working (or at least it said it was). the power cable is working fine, the light stays on.  </s>
+<s> i've tried many usb cables and that isn't the problem.  </s>
+<s> i've even tried other computers and they all did the same thing (after installing the drive).  </s>
+<s> i'm really needing help.  </s>
+<s> thanks for looking and i hope i explained enough.  </s>
+<s> and since there is no partitions there is nothing that should show in explorer.  </s>
+<s> go back the disk management and create a partition and then format that.  </s>
+<s> after that, you should be good.  </s>
+<s> bob  </s>
+<s> there was no place to create a new partition and format, but i found out what to do.  </s>
+<s> i'll post that so that if anyone else runs into this problem, they can be helped.  </s>
+<s> 1. download the maxtor maxblast program at 2. make sure your ex hard drive is plugged in 3. run the program 4. it will come up with a message saying, &quot;a blank disc has been found.  </s>
+<s> do you want to prepare the disc for data and, if necessary, copy your files onto it?  </s>
+<s> click no to skip these steps and keep the disc as is.&quot; 5. slect yes (of course) 6. click next two times, then make sure the &quot;create new partition in unallocated space&quot; is checke.  </s>
+<s> 7.then click next seven more times (unless you want to change any of those setting) and choose proceed.  </s>
+<s> it will do the process and in the end saying &quot;new disc was successfully added.&quot;  </s>
+<s> many don't want to use the native tools so your method is good too.  </s>

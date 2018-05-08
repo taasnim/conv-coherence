@@ -1,0 +1,24 @@
+<s> while researching something else, i ran across an article about matching mtu settings on my home lan to what my isp likes for the internet.  </s>
+<s> changing mtu setting supposedly solves some problems with page hangs/unsuccessful download of large pages.  </s>
+<s> i tried pinging a couple of internet sites and also other computers on the lan.  </s>
+<s> when i ping other computers on the lan the maximum mtu that works is 1492.  </s>
+<s> when i ping web sites the maximum that works is 1454.  </s>
+<s> i'm connected to the internet via fiber broadband.  </s>
+<s> i do experience occasional problems loading pages, usually at heavily scripted pages like mail.yahoo.com,  </s>
+<s> but occasionally other pages.  </s>
+<s> it isn't a big problem so i have mostly ignored it.  </s>
+<s> i understand that if my computer is trying to send packets larger than the mtu then the packets get fragmented, it creates extra overhead and so on.  </s>
+<s> what i don't know is how important this is in the real world.  </s>
+<s> any thoughts?  </s>
+<s> if the connection is generally working as is, is there much utility to trying to change the mtu for everybody on the network?  </s>
+<s> thanks.  </s>
+<s> if things are working correctly mtu is &quot;discovered&quot; when the session is initiated.  </s>
+<s> mtu can change anyplace in the path.  </s>
+<s> there is so much equipment there is no way to know for sure. the one place that mtu size has a large impact is when the do not fragment flag is set.  </s>
+<s> normally a device that cannot pass it will return a messages via icmp that says fragmentation required but the flag is set and drop the packet. the client then resends it with a smaller mtu.  </s>
+<s> when a firewall blocks this message (some people do not know icmp is not always ping) you get very strange and hard to debug issues.  </s>
+<s> packet fragmentation used to be a much larger issue.  </s>
+<s> depends what device is doing the reassembly of the packet.  </s>
+<s> pcs now days have plenty of power and so do most routers and firewalls.  </s>
+<s> there is also the issue of extra overhead for the tcp header on the fragments but bandwidth is huge so that also makes little difference. the only mtu settings that make a large performance difference is when you can run jumbo frames but this is limited to equipment that can support this.  </s>
+<s> i'll leave the settings where they are for now.  </s>

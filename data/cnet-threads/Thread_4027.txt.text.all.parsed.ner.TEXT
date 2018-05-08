@@ -1,0 +1,25 @@
+<s> hi there, please help install a new sound card.  </s>
+<s> i have a computer running xp(home) p4, to improve its performance i have changed its power unit to 400w,and changed its video card to 256mhz .  </s>
+<s> now i wish to install a sound card.  </s>
+<s> it has not got a sound card at the moment, i have bought an audiophile 2496, m-audio card.  </s>
+<s> i have been advised to disable m/b sound capacity, (m/b is matsonic, ms9327e+(usb) socket 478, sis 650gl chipset pentium 4. it's sound on board is rather good but not good enough i wish to install the pci card which i have bought.  </s>
+<s> how do i disable the on board sound capacity?  </s>
+<s> all help will be appreciated.  </s>
+<s> shafiq  </s>
+<s> computer and enter the &quot;bios setup&quot; (usually the &lt;delete&gt; key).  </s>
+<s> depending on what bios you have is where in the bios you'll find where to disable motherboard sound.  </s>
+<s> your motherboard manual will assist you in this.  </s>
+<s> might as well get the latest bios and install it while you're at it.  </s>
+<s> those can be found at the motherboard's website.  </s>
+<s> and life goes on... jack  </s>
+<s> thank you jackintucson, it has been &quot;no no&quot; area thus far, but i am going to try it and shall report.there is an &quot;audio device&quot; in the &quot;features setup page of the bios setup utility,which enable /disable onboard ac'97 audio chip whatever it means.  </s>
+<s> i have tried once before, unsuccessfully, to update the bios once before, but could not find the correct number of the m/b on the matsonic web site, this time i shall persist a bit more.  </s>
+<s> thanks for help.  </s>
+<s> thank you very much.  </s>
+<s> shafiq  </s>
+<s> yes the ac'97 is the onboard sound.  </s>
+<s> set it to disable, then save and exit the bios.  </s>
+<s> if you are not having any problems with your computer that an updated bios is supposed to fix, leave it alone.  </s>
+<s> you do not have to upgrade your bios to go into it and make simple changes such as disabling audio.  </s>
+<s> you can be in a big mess if something goes wrong during a bios update.  </s>
+<s> if you like to learn, when you have time, do a google search on bios upgrading in general, and go to your motherboard manufacturer's web site in particu;lar, and learn about it (including possible recovery options if it goes bad) before you attempt it.  </s>

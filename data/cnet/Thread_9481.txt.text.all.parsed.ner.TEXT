@@ -1,0 +1,88 @@
+<s> it's a long, long story... my hard drive was nearly full, and the computer wouldn't boot into windows anymore.  </s>
+<s> had a bunch of problems, mft corruptions, bsods, disk read errors... nothing worked.  </s>
+<s> then... in february or so, my sister gave me her old computer to use.  </s>
+<s> my brother removed all the stuff and reformatted it, and then whilst i was sleeping he put my hdd in sister's computer.  </s>
+<s> the computer was now with two hdds, and working again.  </s>
+<s> (mine is a maxtor and hers a samsung) about two days later i was prompted with a bsod, about software.  </s>
+<s> looking up on google (with an old machine) i find a solution but it would mean all my program settings would be deleted, or changed.  </s>
+<s> didn't care.  </s>
+<s> so i did what was written on the article.  </s>
+<s> don't remember what happened next, but i know for sure that some programs wouldn't work, or had issues, including the antivirus (avast!), which would give me an error every hour or so.  </s>
+<s> there wasn't a way to reinstall, it failed.  </s>
+<s> so i just installed avira.  </s>
+<s> stayed with it for some time until i noticed the sound was slowing down randomly, and chopping.  </s>
+<s> i updated the audio drivers but it didn't work.  </s>
+<s> then i tried a number of things, but no luck.  </s>
+<s> i uninstalled avira (which was also giving me some errors), and the sound kind of improved, but it was still bad.  </s>
+<s> whatever... the samsung hard drive also kept disappearing, both from windows and bios, so anything stored on it wouldn't be accessible anymore.  </s>
+<s> it would also make the dreaded clicking noise.  </s>
+<s> now the most recent stuff... and what is bugging me... this saturday i was playing some games installed on my sister's hard drive.  </s>
+<s> it was all okay until a clicking noise appeared.  </s>
+<s> the game froze.  </s>
+<s> that happened for a while until a bsod came, which made me turn off the computer.  </s>
+<s> i immediately thought the hdd was horrible and untrusted, or that a cable was loose. the computer kept giving me a bsod.  </s>
+<s> left it alone for some time.  </s>
+<s> midnight comes, i try starting up the computer, and the click strikes again.  </s>
+<s> but this time with my hdd. the bsod was either there, or ntldr failure, or the drive simply wouldn't be recognised.  </s>
+<s> it was probably dead, and there was nothing i could do to help.  </s>
+<s> i got to bed.  </s>
+<s> waking up, mum says my computer is faster than ever.  </s>
+<s> that was strange, since it was very slow before.  </s>
+<s> but who cares, the hard drive wasn't dead after all.  </s>
+<s> or so i thought.  </s>
+<s> turns out my brother had formatted the samsung drive (sister's) without telling me, or asking for permission.  </s>
+<s> everything that i had was lost, or at least missing.  </s>
+<s> i then took a peek and windows said my drive had: 232 gbs of 232 gbs total.  </s>
+<s> i am now hopeless.  </s>
+<s> i am pretty sure i lost everything, but perhaps there is a small chance of recovering my data.  </s>
+<s> never made any backups, since there was no way to.  </s>
+<s> i don't have any external drives with me, and the computers we have available have very small capacity.  </s>
+<s> it was over 200 gb of data.  </s>
+<s> everything was important to me.  </s>
+<s> i had thousands and thousands of folders.  </s>
+<s> it would take a long time to search and copy the files.  </s>
+<s> my mum who knows nothing about computers, told me it might be empty because it's borked.  </s>
+<s> but she also doesn't believe that my stuff is missing.  </s>
+<s> i can access it fine without any errors.  </s>
+<s> i don't want to put anything there, though, in fears of (hidden) data getting overwritten.  </s>
+<s> all my fault, i'm sure. is there a way to recover?  </s>
+<s> apologies for the long text but i really had to tell someone and sorry for my english, especially the repetitive words.  </s>
+<s> i am also really sad so it's hard for me to express myself clearly.  </s>
+<s> forgot to say that the motherboard was also beeping, it was about 4 fast beeps.  </s>
+<s> do i have to tell my specs?  </s>
+<s> all of them or just about the hard drives in particular?  </s>
+<s> i'm not very knowledgeable of this but i know a little.  </s>
+<s> well, a notherboard that's beeping at boot is telling you something. the manual, or the customer service of the maker, can tell you what error on the motherboard causes 4 beeps.  </s>
+<s> if the drive was only formatted, data recovery programs might (just might, not sure at all) be able to recover data from it.  </s>
+<s> i'd start with recuva (it's free).  </s>
+<s> have a look at the top-post in our storage forum .  </s>
+<s> but not having a backup is risky, i'm sure you realize that.  </s>
+<s> kees  </s>
+<s> you &quot;assumed too much&quot; because it was working on the 2nd pc that things got resolved.  </s>
+<s> you should have immediately tried to back-up your data, at least the super critial stuff rather than now hope for the best.  </s>
+<s> it appears when your old hd was installed in newer pc that if &quot;malware&quot; was at work had a new home.  </s>
+<s> at that time, an immediate scan should have been done to assure no malware at work.  </s>
+<s> once a clean bill of health, swap data to newer hd and then actually remove your old hd. that way you have a physical back-up and allow the newer pc to do all.  </s>
+<s> if it works w/o problems then add old hd for more storage, etc.. but, that is now not as possible w/o alot of work if at all.  </s>
+<s> further, you have &quot;beeps&quot; which are bios error code sequence.  </s>
+<s> note down, exactly that sequence and look up your bios brand find what it means.  </s>
+<s> you need to fix that before anything else as that is a real hard problem.  </s>
+<s> once fixed then proceed with your initial problem(s).  </s>
+<s> yes&lt; it works to have info available it will anyone help you.  </s>
+<s> why, should we guess and yes now what bios you have makes sense now to know, etc.. quite frankly remove your old hd and simply install the os and see if works, etc.. make that a 100% install of os, drivers, updates, etc. and prepare it with av and scan once updated to see if it's ok.  </s>
+<s> provided no problems arise after all that, add your old hd and swap data over.  </s>
+<s> but even before that, make an av scan pointing to that old hd at least or both drives.  </s>
+<s> i use avast and allow a &quot;boot scan&quot; which is better at detecting malware at its lowest levels.  </s>
+<s> this all takes time to do, so don&quot;t rush it, fix the pc and then use after its 100% ready.  </s>
+<s> since, you mentioned gaming being done on this pc, make sure it's well cooled.  </s>
+<s> it maybe part of the problem or not, but again its an area that has to be checked.  </s>
+<s> also, once you start to use both hds, you create a &quot;hot spot&quot; between the drives which can cause issues.  </s>
+<s> if the clicking noise isn't present when only 1 drive is installed, that's a clue.  </s>
+<s> again, a well cooled pc is better and if both drives are installed one of top of the other it will be best to arrange is possible to gap them greater or directly cool them.  </s>
+<s> however, the damage maybe already done, too late it will only get worse.  </s>
+<s> which leads to the initial 1st problem, maybe a bad hd to begin with or one of several problems.  </s>
+<s> i hope you have the currently running pc restore/recovery install discs.  </s>
+<s> it will help greatly.  </s>
+<s> good luck -----willy tada -----willy  </s>
+<s> hi ulrakki i would suggest that you download auslogics defrag program from cnet i would recommend that you choose the proffessional trial version which may require you to purchase and register after trial time is over i have found it to be fantastic it not only defrags the harddrive but optimises it to and runs a chkdsk of your harddrive automatically without using windows to do it i was so impressed i bought the full proffessional version straight away you may also need piriforms ccleaner piriforms speccy which also have many benefits playing games you will need latest java and adobe flashplayer macromedia player and air anti virus protection get rid of what you have now and download microsoft security essentials it is free and is the best anti virus program i have ever used and windows update will keep it upto date as long as you select it from the optional downloads and get a second larger harddrive i sourced a samsung 2tb sata harddrive from amazon for as little as &#163;50.00  </s>
+<s> i hope this helps robjlee64  </s>

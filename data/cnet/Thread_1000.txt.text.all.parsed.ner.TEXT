@@ -1,0 +1,39 @@
+<s> i have a problem with the wireless connection on my mum's laptop.  </s>
+<s> it's been working fine but recently the message &quot;wireless network connection not connected&quot; has appeared.  </s>
+<s> we can no longer connect through wireless.  </s>
+<s> i've tried re-enabling it but no luck.  </s>
+<s> i've tried the windows repair option but no luck.  </s>
+<s> i've tried setting up the network again but still nothing.  </s>
+<s> when i try to view available networks it says none in range. is this a hardware failure?  </s>
+<s> can anyone advise me?? more info we normally have to press a button for it to search the wireless networks and now when we press it nothing happens.  </s>
+<s> also if i right click the monitors and click view avaliable wireless networks its blank and nothing comes up!! although there are at least 3/4 networks around my area including ours.  </s>
+<s> note: if you're asking for technical help, please be sure to include all your system info, including operating system, model number, and any other specifics related to the problem.  </s>
+<s> also please exercise your best judgment when posting in the forums--revealing personal information such as your e-mail address, telephone number, and address is not recommended.  </s>
+<s> os name: microsoft windows xp home edition version: 5.1.2600  </s>
+<s> service pack 1 build 2600 system model: amilo m  </s>
+<s> why service pack is not there could be interesting.  </s>
+<s> for now try the usual quick fix.  </s>
+<s> lookup winsockfix and run that.  </s>
+<s> some laptops have a button to disable the wifi (aka flight mode) so be sure you don't have it in that mode.  </s>
+<s> bob  </s>
+<s> it is there i put 'service pack 1' thanks for your advice im trying that now  </s>
+<s> it had a lot of wifi fixes.  </s>
+<s> i can't find this file on my system!  </s>
+<s> winsockfix is found with google.com  </s>
+<s> bob  </s>
+<s> because i can't retrieve any wireless networks what so ever i won't be able to connect to the internet!  </s>
+<s> i use another machine to put such things on an usb memory stick or cdr.  </s>
+<s> hint?  </s>
+<s> use any means at your disposal to avoid trips to service counters.  </s>
+<s> bob  </s>
+<s> oh ok thanks!! i will do that now 1 sec!  </s>
+<s> now that i have downloaded that i can't even turn on my laptop!!!  </s>
+<s> i looks like the unit was in some failure death spiral.  </s>
+<s> have you tried the usual removal of battery, ac power and wait a few minutes, slip the battery in, the ac and try again?  </s>
+<s> bob  </s>
+<s> i done that.  </s>
+<s> its on now.  </s>
+<s> but the wireless thing still isn't working!  </s>
+<s> the first article notes this happens when the wzc service is stopped.  </s>
+<s> tell me how yours is set.  </s>
+<s> bob  </s>

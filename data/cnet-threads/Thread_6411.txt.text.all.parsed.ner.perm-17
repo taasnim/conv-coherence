@@ -1,0 +1,3 @@
+(TOP (SQ (ADVP (RB hi)) (, ,) (MD can) (NP (PRP i)) (VP (VB upgrade) (NP (NP (PRP$ my) (JJ realtek) (ADJP (QP (CD ac) (CD '97)) (NN driver)) (NN software)) (SBAR (S (VP (TO to) (VP (VB realtek) (NP (JJ high) (NN definition) (NN audio)) (PP (IN without) (S (VP (VBG changing) (NP (DT the) (NN sound) (NN card))))))))))) (. .)) )
+(TOP (INTJ (UH no) (. .)) )
+(TOP (NP (JJ ok) (NNS thanks)) )

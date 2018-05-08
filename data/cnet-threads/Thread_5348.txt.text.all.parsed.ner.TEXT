@@ -1,0 +1,20 @@
+<s> greetings.  </s>
+<s> i was hoping somebody might be able to help me out of a bind.  </s>
+<s> a few days ago my computer stopped connecting to the internet.  </s>
+<s> i'm on an ethernet network.  </s>
+<s> i ran ipconfig at the command prompt to release and renew my ip, which didn't work.  </s>
+<s> i checked the cables and connections, as well, which were all fine. the computer sees no problem with the card or the connection, and no other computer is having difficulties.  </s>
+<s> i also ran adaware, winsock, and my antivirus to cover my bases. the one thing that caught my eye is on the ipconfig it says &quot;media disconnected.&quot;  </s>
+<s> i'm not extremely network savvy, but the windows help (yes, i was that desperate) noted it was something i should ensure it didn't say (not that it said what to do about it).  </s>
+<s> for the record, i'm using windows xp, a netgear en104tb ethernet hub, and a realtek rtl8169/8110 family gigab ethernet nic, although i suspect it's software related somehow.  </s>
+<s> any help would be appreciated, and thank you in advance.  </s>
+<s> i pickup winsockxpfix and run it to see if some spy/malware has been at work.  </s>
+<s> hint: google.com  </s>
+<s> bob  </s>
+<s> don't know if this problem is old news, but i had the same problem today and discovered very simple explanation.  </s>
+<s> my dell truemobile wireless utility showed multiple wireless networks, but my windows wireless network connection utility showed none.  </s>
+<s> so my wireless card seemed to be working fine, except that i could not sign onto any networks, and ipconfig showed &quot;media disconnected&quot;.  </s>
+<s> after updating the driver, deleting from the device manager and rebooting, and several others of the &quot;usual&quot; fixes, i discovered that the dell wireless utility was checked to &quot;let this tool manage your wireless settings&quot;.  </s>
+<s> turns out the windows utility was also checked to be in control.  </s>
+<s> i unchecked the dell utility and everything immediately worked fine.  </s>
+<s> a quick and logical fix that should be checked before (like me) you try all the other fixes.  </s>

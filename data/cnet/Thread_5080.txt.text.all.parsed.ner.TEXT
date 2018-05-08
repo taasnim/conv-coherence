@@ -1,0 +1,20 @@
+<s> i installed windows 98 once, and it didn't work.  </s>
+<s> anyway, i was able to start up in safe mode, and i had something like 5.8 gb of space on that computer's hard drive.  </s>
+<s> i decided to re-install.  </s>
+<s> i made a boot disk, and typed fdisk to re-partion my hard drive.  </s>
+<s> i deleted by old partitions, and made a new one.  </s>
+<s> when it asked if i wanted to use the maximum space for my partion, i hit yes. it said 508 mb. i figured something was wrong, so i restarted, and did the process of fdisk over.  </s>
+<s> this time, instead of clicking yes to the maximum, i just set the value of space to be used on the partion i wanted (in percent) to 99%. it came out as like 500 mb.  </s>
+<s> what happened!? it's like my hard drive was randomly reduced to 1/10 the size!  </s>
+<s> any ideas?  </s>
+<s> my first thought was that the hard drive was shot, but i later proceeded to install windows 98 on it, so i fail to see how only 90% of it was ruined... any suggestions as to where to go would be helpful.  </s>
+<s> thanks, garciaowens by the way, i'm 100% sure that my hard drive -was- very near 6 gb, so it's not just be seeing things or something.  </s>
+<s> i also notice that when bought my first hard drive it ranges around 160 gig.  </s>
+<s> but after a couple of months i was infected with a unknown virus so i decided to reformat my pc but after i reformat it, install os and drivers i checked my my computer properties and ive noticed that my hard drive lost some of its volume.  </s>
+<s> it was not some for me but it was a more gig capacity which was i lost and then i asked someone who knows more about computer than me and he said every time i reformat a pc it automatically lose some space.  </s>
+<s> please note that this is just my opinion and others might not agree w/ me so i suggest you to ask for second and third opinions.  </s>
+<s> thanks hope this will provide you much ideas.  </s>
+<s> i think fdisk reports it as 500 megs even when it's bigger.  </s>
+<s> why don't you download a disk utility from your drive's manufacturer and use that instead?  </s>
+<s> they work much better than old fdisk and format, much quicker and are more updated, give more accurate info.  </s>
+<s> let's hope they figured it out.  </s>

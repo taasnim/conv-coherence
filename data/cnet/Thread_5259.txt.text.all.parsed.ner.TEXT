@@ -1,0 +1,87 @@
+<s> ok, here is a weird one.  </s>
+<s> when i boot my machine in the morning, it takes 6 to 7 minutes to boot. the box goes through the post and then hangs, nothing on the display, the only indication i get that the box is even working is the disk drive light remains active and flickers occassionally.  </s>
+<s> now here is the twist, once the box boots for the first time in the morning it boots normally all day after a power down usually under 1 minute.  </s>
+<s> i have ruled out anything to do with xp since it reboots fine.  </s>
+<s> i have swapped out the ram, the power supply, the video card, reset the cmos, and replaced the battery, no joy.  </s>
+<s> i can't figure out what would be effected by an extended period of no power.  </s>
+<s> my next step is to replace the drive, its the only thing left that i haven't swapped out.  </s>
+<s> has anyone else had this issue or know what the root cause is.  </s>
+<s> thanks in advance.  </s>
+<s> i find xp based systems will lag after they been in use for yrs.  </s>
+<s> users, report just as you. the only cure, if you want to call it that is to reload the os and restart all over again. the main reason the results are like this is because all the xp updates, etc.. will strangle the system over time to include any past installs, etc.. you may want to try some registry cleaner, etc., but that's up to you.  </s>
+<s> point blank, there is no easy fix other than what i offered in the beginning, start afresh.  </s>
+<s> of course, back-up critical data, etc. beforehand.  </s>
+<s> if you have access to a new hd or cleaned hd, you swap data over or clonezilla it.  </s>
+<s> doing so will remove any noncontinuous data segments, etc.. tada -----willy  </s>
+<s> i have ruled out any software related issues because it boots in less than 60 seconds if i power down and reboot.  </s>
+<s> if it were software related it would boot slowly everytime i power down and reboot.  </s>
+<s> btw, i keep my registry cleaned up on a regular basis and defrag my drive once a week.  </s>
+<s> once i get past that first slow boot up in the morning, it is lightining fast for the rest of the day.  </s>
+<s> i think the disk drive is the cause of the problem.  </s>
+<s> i think the drive is slow to come up to speed.  </s>
+<s> once it is warmed up it works fine.  </s>
+<s> the symptom is consistent with bad caps.  </s>
+<s> did you research bad caps and inspect for same?  </s>
+<s> bob  </s>
+<s> a bad capacitor has crossed my mind but this is usually accompanied with a noisy ground which can cause all kinds of wicked symptoms and the system is very stable once it boots up.  </s>
+<s> since all power coming out of the power supply is dc, all the capacitors on the mb are for ground isolation, filtering, or dc stibilization.  </s>
+<s> i am impressed with troubleshooting skills however, not many people know the symptoms of a bad capacitor.  </s>
+<s> a bad capacitor is still a possiblitity, as you may already know, the symptoms of a bad capacitor can vary greatly.  </s>
+<s> have a very common symptom.  </s>
+<s> &quot;problem starting in the morning.&quot;  </s>
+<s> if you google bad caps you learn about a botched formula and 2 million dead pcs and now we see these bad caps all over in hdtvs, cars, motor control circuits and more.  </s>
+<s> this is not a cap that has gone bad, but was made bad! bob  </s>
+<s> bad caps can be a problem.  </s>
+<s> also, understand a bad solder joint(s) as well.  </s>
+<s> what could be happening is minor swelling after heat-up makes contact and is able to boot.  </s>
+<s> with your problem, usually you may not actually find the problem until it truly fails.  </s>
+<s> tada -----willy  </s>
+<s> interesting, i'll give the mb a good visual inspection this evening and see if there are any bulging caps, next i'm going to try imaging a new disk drive to see if that fixes the problem.  </s>
+<s> next step after that is to strip it down to barebones and see how it performs, if the problem persists i'm going to shitcan the motherboard and start from scratch.  </s>
+<s> i just wanna get a sec hand hard ware,can you offer me some ways to get it?  </s>
+<s> download the free crystaldiskinfo, it will show you the health of your hard drive.  </s>
+<s> i would think that your soft reboots should be as slow as the first one, but since you did say that the hard drive light is going while the system is hanging does point to a hard drive issue.  </s>
+<s> sounds like some data are on iffy sectors and the drive head has to read them more than once just to get what it needs.  </s>
+<s> you may need to replace the drive or at best, back up and reinstall windows.  </s>
+<s> even making a disk image and restoring should work since, hopefully, the drive already knows not to use those sectors and will put your data on good ones.  </s>
+<s> i was having the same problem and found the windows xp search was the issue.  </s>
+<s> on the first boot of the day my computer was indexing everything.  </s>
+<s> i removed windows search and marked it as &quot;don't show this update again&quot; i have had no more issures with the slow first boot issue.  </s>
+<s> the symptoms are inline with your suggestions.  </s>
+<s> lately it has been intermittent, this morning it booted in less then 60 seconds.  </s>
+<s> also, chkdsk occassionally reports index issues, it repairs the index but it doesn't seem to have any effect on the boot time.  </s>
+<s> i'm going to image a new drive and see what happens.  </s>
+<s> hp printer drivers can be horrendously slow to boot, particularly for their aios from a few years ago (like the officejet l7680, f'rinstance).  </s>
+<s> other things, like pre-2010 norton, can slow your initial boot to a crawl.  </s>
+<s> this is highly unlikely to be a hardware issue of any kind.  </s>
+<s> have you tried running a system file check (sfc /scannow)?  </s>
+<s> ok, i re-imaged a new drive yesterday.  </s>
+<s> i upsized my drive from a 250 to a 320.  </s>
+<s> so far so good.  </s>
+<s> this morning it booted in 65 seconds, a few seconds longer than before but i attribute this to a larger drive size.  </s>
+<s> if it goes a week without a long boot i will consider it fixed.  </s>
+<s> when all of this started i was having three major issues; 1. occassional blue screens of death.  </s>
+<s> 2. intermittent freeze ups requiring a power down, and 3. long bootup times.  </s>
+<s> i suspected a virus but my av scan was clean.  </s>
+<s> i bought a registry clean-up tool and cleaned up the registry (1490 errors in the registry).  </s>
+<s> updated the device drivers, 5 were out of date including the display adapter.  </s>
+<s> and replaced my c drive. the system seems to be very stable.....finally.  </s>
+<s> something similar happened with my desktop recently and mind you a techy thought there was corrupted file; reset to factory defaults; turns out there was a short in the dvd drive causing power fluctuations, actually zapped and killed my external back up drive; so new dvd burner/drive was all that was needed; wasted time, lost files, photos.  </s>
+<s> this was a strange problem and after months of troubleshooting i finally found it.  </s>
+<s> i tried replacing and swapping out everything. the answer is...the monitor.  </s>
+<s> hard to believe, but the monitor ( viewsonic vx2245 ) had a bad power supply that was not only causing problems with the pc power supply but the monitor ( thru the dvi plug ) took forever to send a 'ready' signal to the video card.  </s>
+<s> once the monitor finally powered up everything worked fine. the root cause of the power supply problem in the monitor was ....bad capacitors.  </s>
+<s> so the guy that responded to this thread stating bad caps as the source of the problem wins the prize !!! good call.  </s>
+<s> i replaced the monitor with the same model ( vx2245 ) and my system has been super stable for 2 weeks.  </s>
+<s> boots right up everytime.  </s>
+<s> you win the prize.  </s>
+<s> see the thread for the cause of the problem.  </s>
+<s> just read through all this and all can say is great work.  </s>
+<s> i can't say i would 'ever' have thought of a monitor causing slow boot up.  </s>
+<s> thanks for letting us know.  </s>
+<s> mark  </s>
+<s> &quot;from there to here, from here to there, funny things are everywhere!&quot; &#8212; dr. seuss glad you checked &quot;everywhere.&quot; the big clue was the symptom.  </s>
+<s> it only is the symptom but never tells us where.  </s>
+<s> good sleuthing on your part too.  </s>
+<s> many will never believe how bad this plague is.  </s>
+<s> bob  </s>

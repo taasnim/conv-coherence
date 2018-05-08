@@ -1,0 +1,40 @@
+<s> i got a hp pavilion zd8060us notebook, it came with a dual tv tuner avc-3610/hp, it works fine with windows media center, but when i try to use the tv tuner with any other application (like windows movie maker) a popup says &quot;the video device is currently in use.  </s>
+<s> close any other application that is using the device and try again&quot;, but there is no other application using it.  </s>
+<s> what should i do?  </s>
+<s> contacted hp?  </s>
+<s> they told me to reinstall the tv tuner drivers an run &quot;media center&quot; to configure it, it works with mc but not with other program  </s>
+<s> it appears that a hidden service has control of the device.  </s>
+<s> when i called hp, they told me that they only support tv capture with media center.  </s>
+<s> i've tried every application.  </s>
+<s> made sure i disabled all the services that may be running that are associated with media center.  </s>
+<s> still it seems that media center is taking control of the device and is not allowing any other applications to use it.  </s>
+<s> can somebody find a registry setting or command to disable media center entirely?  </s>
+<s> i have the same problem on my laptop.. there is a microsoft tech note that says to disable the microsoft media center receiver service via the control panel and then reboot.  </s>
+<s> but even that didn't help.  </s>
+<s> i'm so pissed off at microsoft right now i better not continue this message any further... grrrrrrrrrrrrrr  </s>
+<s> windows media center has services that are constantly running.  </s>
+<s> you need to right click on my computer &gt; click manage &gt; then expand services and applications on the left &gt; click services &gt; find 'media center reciever service' and 'media center scheduler service' and right click them and click stop for both.  </s>
+<s> you must start them again when your done to make sure media center runs properly.  </s>
+<s> do not disable these services, just stop them.  </s>
+<s> i had stated before that i disabled the services for windows media center.  </s>
+<s> yes, i stopped them first and attpemted the other applications and still get the same error.  </s>
+<s> it is not a windows issue.  </s>
+<s> i called adaptec.  </s>
+<s> they told me that hp is responsible for support and hp still insists that it is a setting or configuration error.  </s>
+<s> i spoke to them again today for about 2 hours before the battery ran out on my cordless.  </s>
+<s> it has to be a driver issue, because the device gives me the exact same error on a different pc, running plain windows xp. the driver is version 1.0 and is apparently designed to only work with windows xp. i am still trying to get this escalated through hp support. the only way that there ever will be a different driver created is if enough people call there and complain.  </s>
+<s> hp has to order it through adaptec (if they haven't already, because when i called adaptec they would not provide any information on it) call hp and complain!!! it's toll free and 24-7.  </s>
+<s> having a pvr that the driver cannot handle s-video, composite or audio capture is absurd!  </s>
+<s> i'm so pissed off at hp right now, i'm about to break something.  </s>
+<s> first off, i'm sick and flippin tired of speaking to someone in bangalore, india who barely speaks english,and insists on reading prompts from a computer screen.  </s>
+<s> second off, i'm tired of hearing that everything is a third party software support issue.  </s>
+<s> i just spent 1hr on the phone with hp tech (non) support only to have raja tell me he couldn't help me.  </s>
+<s> if anyone can solve this problem, please please please post the solution here!  </s>
+<s> arrgghhhh!!!!!!!! m  </s>
+<s> if the product doesn't work, pack it up and start the return process.  </s>
+<s> it is that simple.  </s>
+<s> bob  </s>
+<s> sorry i can't help.  </s>
+<s> just wanted you to know you are not alone.  </s>
+<s> two hours of non-conversation, at my cost, with no result.  </s>
+<s> my letter to the ceo is in draft!!!  </s>

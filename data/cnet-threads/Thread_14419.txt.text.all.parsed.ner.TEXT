@@ -1,0 +1,31 @@
+<s> this morning i tried turning my desktop pc on and it wouldn't boot.  </s>
+<s> no power light on, and on closer inspection the fan turns feebly for half a second or so, then it all stops.  </s>
+<s> i have tried unplugging the power cable and plugging it in again, which has worked before with this issue, but no luck this time.  </s>
+<s> any suggestions of what this could be?  </s>
+<s> how do i fix it?  </s>
+<s> you better answers provide full details of your pc as best as possible.  </s>
+<s> repeat you past remedy, unplug ac cord for 10min.  </s>
+<s> and then retry.  </s>
+<s> if that doesn't work then that suggests your psu is bad, replace with similar or more wattage unit.  </s>
+<s> you should inspect the insides very closely for any &quot;bad caps&quot; issue, google for examples and it needn't be a real bad failure.  </s>
+<s> more than likely its a bad psu, excluding any other fault.  </s>
+<s> since, you've experienced this before usually means it was going until a total failure.  </s>
+<s> tada -----willy  </s>
+<s> is it new.....is it old ?  </s>
+<s> big box pc or clone ?  </s>
+<s> changed the cmos battery lately ?  </s>
+<s> vapcmd  </s>
+<s> (1) try to clear the cmos.  </s>
+<s> there is a cmos jumper (2 or 3 pin header) on the motherboard.  </s>
+<s> e.g. for a 2pin header, closing the pins could clear & open could be normal function.  </s>
+<s> depending on what motherboard you have got, the story could be the other way round.  </s>
+<s> (2) check your memory.  </s>
+<s> if the memory is short, the pc turns for half a sec & stops.  </s>
+<s> (3) remove the cpu.  </s>
+<s> put it back after 2 to 3mins.  </s>
+<s> (4) try another power supply unit.  </s>
+<s> unplugging a few things first.  </s>
+<s> in a situation like this i would unplug all hard drives, cd/dvd drives, and pull out all memory.  </s>
+<s> then try to start computer.  </s>
+<s> if it starts with everything unplugged, then turn it off and try plugging in devices one at a time, restarting after each device to determine where the problem lies.  </s>
+<s> if it won't fire after unplugging all of these items, you have at least eliminated several possible problems.  </s>

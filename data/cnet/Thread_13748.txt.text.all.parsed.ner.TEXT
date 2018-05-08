@@ -1,0 +1,47 @@
+<s> ok i need an expert opinion.. i'm building a new comp strictly for gaming and i cant decide on a crt or an lcd.. ive read good things about some lcd's such as the samsung 226bw but i just am not sure if this is what i want to get.  </s>
+<s> i've always played with my resolutions in the past at 1024x768 and i'm worried that an lcd with a big resolution is going to be way to different for me.  </s>
+<s> if someone could advise me on whether to purchase an lcd or a crt it would be greatly appreciated.  </s>
+<s> by the way i will be running this monitor on an 8800gt, thanks.  </s>
+<s> if you have the money, you should go with an lcd for sure.  </s>
+<s> but if you are a bit tight on budget, i suggest saving up and buying an lcd later, instead of buying a crt right now.  </s>
+<s> i saved a ton of money by switching to lcds.  </s>
+<s> seriously.  </s>
+<s> if you look at your average 19inch crt wattage and your lcd even at 20+ inches you find it's less than 1/2 the power.  </s>
+<s> at the office this is enough to pay the difference off in less than a year.  </s>
+<s> bob  </s>
+<s> ok well would it be ok for me if i will plan to play games such as cod4, crysis, etc. i just dont want the resolution to be so big that i lose performance based on the resolution size.  </s>
+<s> like i said ive always used 1024x768 and the 226bw's native resolution is like 1600 by something..  </s>
+<s> at home i gifted the old 17's and 19's out, lcds are in and it shaved a 20 off the monthly bill.  </s>
+<s> payback is still at one year for the diff.  </s>
+<s> here the games never ghost or such so i guess we're good.  </s>
+<s> bob  </s>
+<s> you can set the resolution to what you like.  </s>
+<s> but native is usually the best.  </s>
+<s> what i did.  </s>
+<s> i have a 19&quot; wide screen.  </s>
+<s> i found a 22&quot; wide screen.  </s>
+<s> when i got it home i found out that my intel graphics card supported about a gazillion resolutions.  </s>
+<s> but not the one specific to the new 22&quot;.  </s>
+<s> specifically, it supported resolutions above and below the new lcd, but not the exact one.  </s>
+<s> bummer.  </s>
+<s> i took it back.  </s>
+<s> i too found out that the majority of intel and ati adapters don't support non-standard modes.  </s>
+<s> intel has some technical googly list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads on their site about issues with hardware/firmware/software compatibility and offers a non-standard driver which won't install on most laptops, including centrino platforms!  </s>
+<s> why can't intel and ati make video products with simple user customizable driver modes like nvidia's?  </s>
+<s> i didn't return my 1680x1050 22&quot;.  </s>
+<s> i just dumped intel and ati and switched to nvidia.  </s>
+<s> i can't count how many times i've fixed this by installing a monitor.inf  </s>
+<s> file.  </s>
+<s> i also know that most are only owners and won't know about this. said file does not come from ati or intel but the display maker.  </s>
+<s> bob  </s>
+<s> i knew that but didn't think about it.  </s>
+<s> rats.  </s>
+<s> monitor not on sale any more.  </s>
+<s> maybe santa will be good to me.  </s>
+<s> not for the reason that monitor infs help, but because my dock doesn't support non-standard rez.  </s>
+<s> monitor infs can't fix what's not in the adapter infs; they only serve to hide the modes that a monitor cannot display and therefore eliminate issue of overdriving.  </s>

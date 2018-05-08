@@ -1,0 +1,41 @@
+<s> hey again, thanks for prompt previous responses.  </s>
+<s> heres the deal - as i mentioned before my parts arrived just today from newegg(cpu amd64 3ooo+, 512ddr rosewell pc3200, chaintech uli s1689 motherboard,chaintech geforce 5200fx agp256ram,case asiapro|dt807t black 450w on the box its called asys ) and i've been trying to start the system all day without results.  </s>
+<s> i cant even get the leds up working.  </s>
+<s> checked the manual connected the wires(power switch, hdd switch,reset switch..).i have installed cpu &ram, dont want to bother with hdd yet and when i tried to boot the pc nothing happens except that sometimes power supply and cpu fan start to work for 2-3 s and when stop.  </s>
+<s> anyone??  </s>
+<s> 1. bad brand new powersupply right out of the box...tried another one and it worked fine.  </s>
+<s> 2. the fact that the cpu and fans start up for a short period of time sometimes and then quits immediately is indicative of over heating and the system shuts down to protect the cpu from burning up....check your thermal paste and heat sink fan mounting.  </s>
+<s> 3. this is was a weird one on only one brand of motherboard and doesn't sound like your problem....the cmos jumpers were placed incorrectly by default to off by the factory. the system wouldn't boot up at all until it was noticed and jumpered properly.  </s>
+<s> toni  </s>
+<s> there is no hdd switch.  </s>
+<s> it is an hdd led, the wiring of which must have the correct polarity [usually the colored wire to the pin marked +]. [this is not the cause of your problem though].  </s>
+<s> there should also be a power led [sometimes called message led], also polarity sensitive.  </s>
+<s> these are lighted by 5 volts and the power on led should light momentarily in your case.  </s>
+<s> toni's post gives the likely reasons.  </s>
+<s> i will add one, tell us in detail how you mounted the mobo, you may have shorted it out.  </s>
+<s> mount the mobo on a piece of cardboard so that it is totally insulated from the case and mounting place and see what happens.  </s>
+<s> by not having drives etc connected you are doing things correctly.  </s>
+<s> normally that quick shutdown will be the fact that the hsf is not correctly attached to the cpu and it gets hot real fast and shuts down.  </s>
+<s> if you had lots of drives hooked up, then the inrush load on the power supply could shut it down, but not likely with a stripped system.  </s>
+<s> i assume that you now realize that the place to set the voltage etc is in the bios.  </s>
+<s> i have downloaded your mobo manual in case needed to provide help to you.  </s>
+<s> drawing in the manual is lousy.  </s>
+<s> notice that the power led pins are separated by a blank space, they are not adjacent.  </s>
+<s> being the owner of a small computer business, and a+ cert.  </s>
+<s> let me explain to you that not all case wiring and motherboards have compatible wiring schemes.  </s>
+<s> i encountered a situation recently where a client wanted to know why his power led wouldn't work.  </s>
+<s> well it was because his case harness for the led was a three prong harness, the outer two being wired, and his mobo connection was a two prong.  </s>
+<s> check and make sure yours are both three &quot;spaces&quot; even if only two of the &quot;spaces&quot; are wired.  </s>
+<s> in my case, i changed the harness on the case wire for the led to a two prong, but that may be beyond your scope, i don't know.  </s>
+<s> plus, you'd have to have one lying around.  </s>
+<s> i've never seen a place where you can buy them.  </s>
+<s> none of the other replies make any reference to post messages.  </s>
+<s> is there an internal system speaker connected?  </s>
+<s> if so are you getting any post messages that your mobo manual can help you decifer?  </s>
+<s> also, many mainboards have safety features built in that shut down power if they detect certain conditions as we're all aware. is the cpu fan connected to the board connector or direct to the power supply?  </s>
+<s> we didn't ask because he specifically said either it doesn't boot up at all or only for 2-3 seconds before shutting back down......that wouldn't be long enough for the post to even begin let alone show up on a monitor.  </s>
+<s> and normally if there are no beeps (he hasn't mentioned), it's the powersupply or the cpu...so since he didn't mention any beeps, there wouldn't be any under the circumstances he's described.  </s>
+<s> toni  </s>
+<s> i'm not the one with the problem.  </s>
+<s> check out this post make sure you have built your computer correctly.  </s>
+<s> john  </s>

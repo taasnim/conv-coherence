@@ -1,0 +1,40 @@
+<s> if i want to see how much 'memory' my pc can handle, i can browse to crucial.com and run their scanner - this will tell me the maximum amount that my pc can hold and exactly what type to buy.  </s>
+<s> how can i do the same to find a pata 'internal hard drive' for my pc? i am unemployed so i can't afford to waste money buying a hdd that my pc can't handle.  </s>
+<s> for example:- xp can handle 2 terra-bits but my old dell dimension 3000 can only run a max hdd size of 160 gigs.  </s>
+<s> i have older pcs and need to increase their hdd size - but can't get the info from the manufacturer on max hdd size.  </s>
+<s> i am already running the most up-to-date bios upgrade that their web site holds.  </s>
+<s> some bios's can only handle 40 gigs, others can handle 137 gigs - but how can i tell without 'trial and error'?  </s>
+<s> this is not a storage issue, i already have an external usb drive for that.  </s>
+<s> i just need the largest and fastest internal pata hdd that my old pc will run.  </s>
+<s> is there a scanner out there that can do the job?  </s>
+<s> many thanks - mike  </s>
+<s> but since you didn't post the make, model of the machine, members can't share if they had such.  </s>
+<s> don't pass up posting the important details since the discussion fills with &quot;what is it?&quot; ok, go look at for articles and tools.  </s>
+<s> here's the fast ide drive i used on a cheap box -&gt; i chose that one because of size and seek time.  </s>
+<s> sorry but no checking of in or out of stock as this is a world forum so you get to search for such drives in your country.  </s>
+<s> bob  </s>
+<s> on the system bios and the os .  </s>
+<s> . .  </s>
+<s> down to the service pack.  </s>
+<s> one way around an old or outdated system bios... is a hard disk controller with a bios that allows large hdds.  </s>
+<s> that circumvents the hw problem ... you still need to address the os limitations.  </s>
+<s> re a utility that tells you exactly what's the largest hdd you can install in any system (and access all the space), there isn't one that i know of.  </s>
+<s> vapcmd  </s>
+<s> thanks bob - i have several (all different) old pcs to upgrade but the one i'm working on at the moment is... pc - rm window box m/b - micro-star international.  </s>
+<s> 2003.  </s>
+<s> sis 650gl-6a6ixm4lc-00 bios - phoenix award bios v6.00pg.  </s>
+<s> uk date 29-01-2003 os - windows xp pro - service pack 3, fully updated.  </s>
+<s> rm usually customise their award bios's have located the hdd you recommended for around 35 (uk) but i'm guessing that neither of my pcs will recognise them.  </s>
+<s> somebody must have a way of finding the max size for each machine.  </s>
+<s> my dell is only 2006 but can't read more than 160 gigs... sigh....! glad to see that you are using the same type of dyslectic keyboard as me - my .com  </s>
+<s> always comes out as .ocm as well - but appart from that, they are good keyboards.  </s>
+<s> -------------------------- thanks vapcmd the hdd controller you mention.. would that be a pci plug-in type...? seems like a good alternative.  </s>
+<s> many thanks - mike  </s>
+<s> looks like there is no 127gb limit there.  </s>
+<s> so it's back to 48bitlba.com and the tools there.  </s>
+<s> were pata (ide) made by promise technology.  </s>
+<s> here's a listing of some pcis made for ide.  </s>
+<s> they also have them that handle both die and sata which might give you even greater drive choices and options.  </s>
+<s> when you boot up...or go into the bios, what does the setup screen show for the hard disk drive size ?  </s>
+<s> i'm asking because i've never heard of a system limit of 160gbs.  </s>
+<s> if you had an msi mb...here's the kind of info should see the mb and bios.... vapcmd  </s>

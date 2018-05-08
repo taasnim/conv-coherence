@@ -1,0 +1,17 @@
+<s> i just tried to test a hard drive in working pc ,but the dos startup boot just says ide hdd detected ,but not continue on , whats the problem.  </s>
+<s> does that mean the hdd im testing is faulty ?  </s>
+<s> please look at the screen shot  </s>
+<s> your link loaded only into an error.  </s>
+<s> it wasn't available then to view and i'm not going to become a member if that's the cause.  </s>
+<s> next, your problem if your hd under test isn't formatted in order to get into a test mode, you should. it maybe working but isn't available to be accessed depending on the nature of the problem.  </s>
+<s> if you haven't already.  </s>
+<s> get the hd makers diags which are more readily capable of testing and/or accessing the hd w/o any os help.  </s>
+<s> of course, follow their instructions for such use and beware of destructive and non-destructive testing.  </s>
+<s> also, ware of the hd jumper setting found on the hd itself via decal/sticker.  </s>
+<s> if not present then again visit the hd makers support website to access the required data.  </s>
+<s> look into all that and come back with results.  </s>
+<s> tada -----willy  </s>
+<s> there are a couple of factors that might affect your problem.  </s>
+<s> so try to give more details, and yes your screen snap link is broken.  </s>
+<s> did you check your bios that your hdd is detected as master?  </s>
+<s> if yes, configure it as a slave and check its contents... maybe you need to reformat it completely and re-install your os.  </s>

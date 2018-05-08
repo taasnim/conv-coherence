@@ -1,0 +1,26 @@
+<s> my external hard drive is not being recognized by windows, yet i can see that it detects it in device manager but not in my computer.  </s>
+<s> will updating the drivers allow the hard drive to be seen in my computer?  </s>
+<s> and will updating cause me to lose the data that's on the hard drive?  </s>
+<s> thanks for the suppport  </s>
+<s> assuming you have windows xp or vista (not me or 98) the answers are no and no. there's nothing to update as your machine comes with all drivers to access the disk.  </s>
+<s> but if you do somehow, it won't harm, because those drivers are on your pc, not on the external disk.  </s>
+<s> things to try: 1. try the drive on another pc. if it works, that's a good occasion to make a backup of your data.  </s>
+<s> 2. try another usb-port (without intervening hub).  </s>
+<s> 3. see what xp or vista disk management tell about the drive.  </s>
+<s> it's unlikely they will find an errorless fat32 or ntfs partition, but you might be lucky.  </s>
+<s> 4. put the drive in a new case, just in case the electronics is broken and the drive ok. 5. repartition and reformat.  </s>
+<s> you'll loose all data on it.  </s>
+<s> 6. buy a new drive.  </s>
+<s> kees  </s>
+<s> it's likely to be a corrupt volume if there are no other bad sounds like clicking, clacking or such emanating from the drive.  </s>
+<s> here's a few titles to try: getdataback zero assumption recovery as to loss of data if you install drivers that should make matters worse as none are required.  </s>
+<s> also we only lose what we didn't backup.  </s>
+<s> bob  </s>
+<s> well i tried steps 1-3 already, although all xp says is that the device is working fine (via the device manager).  </s>
+<s> i can't do step 4 because i'm not that familiar with electronics and the only other hard drive i own is my sister's (who i don't think would be too happy about my taking apart her hard drive...) hopefully i'll be able to find some way to fix it though  </s>
+<s> there actually is some clicking coming from the drive.  </s>
+<s> however, around two weeks ago when it finally broke there was also clicking but after fiddling with it a bit i managed to get it to show in my computer although i couldn't access the files (i have another thread here that fully explains the situation ) i've tried getdataback and it worked, only it was a trial so i was able to see my files still there.  </s>
+<s> i turned off the drive because i needed to buy the program and didn't want it to overheat before i bought it, but now the drive won't show anymore.  </s>
+<s> those recovery programs might find it and be able to extract the data.  </s>
+<s> you only know when trying.  </s>
+<s> kees  </s>

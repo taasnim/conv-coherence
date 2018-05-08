@@ -1,0 +1,12 @@
+                                   THERE 0 0 0 0 0 0 1 1 1
+                                  DEVICE 0 0 0 0 0 1 0 0 0
+                              TECHNOLOGY 1 0 0 0 0 1 0 1 1
+                                   INTEL 0 0 1 0 0 1 0 0 0
+                                 MANAGER 1 0 0 0 0 1 0 1 1
+                                 PENTIUM 0 0 0 0 0 0 0 1 1
+                                    CPUS 0 0 0 0 0 0 0 1 1
+                                      P4 0 0 0 0 0 0 0 1 1
+                              PROCESSORS 0 0 0 0 0 1 0 0 1
+                                 ENTRIES 0 0 0 0 0 1 0 1 1
+                                       R 0 0 0 0 0 0 0 0 0
+                                 3.60GHZ 0 0 0 0 0 0 0 1 1

@@ -1,0 +1,25 @@
+<s> hello cnet, my name's robert, and i recently got a upgraded video card which has been causing some issues once i installed it.  </s>
+<s> i was using a radeon hd 4600 series then upgraded to an asus radeon hd 7770.  </s>
+<s> before installing the new card i uninstalled the old driver through control panel, then shutdown, installed new card, rebooted and installed the new driver.  </s>
+<s> during my gaming sessions i would notice random screen tears happening, it would only be for less than a second but it would happen every few hours sometimes back to back when it did occur.  </s>
+<s> after the tears started to become more frequent then i would be getting blue screens, i was always checking my temps they were fine, my 6pin is connected.  </s>
+<s> i then read online to install &quot;driversweeper&quot; to remove all existing drivers that may be causing interference which i did, then after i uninstalled those drivers it had me reboot, now during startup and i can't get to my desktop without getting a bluescreen.  </s>
+<s> i was just going to whipe my computer with my vista disk but that is not working.  </s>
+<s> any way to resolve this without whiping my computer?  </s>
+<s> but not one code from a blue screen so i'm going to write it's some overtaxed power supply.  </s>
+<s> i see various sites write about 100 watts just for this card and asks for a 500 watt or better psu.  </s>
+<s> while i'm inside i'd replace the cpu heatsink compound and ask the machine's maker about bios updates and compatibility.  </s>
+<s> bob  </s>
+<s> sorry i was at work when i made this post so i wasn't able to provide better information.  </s>
+<s> i found out that my power supply is in total 700 watts.  </s>
+<s> i'm not sure of a program i could use to show all my information, for example the dxdiag doesn't display my information for some reason.  </s>
+<s> i know this much about my computer... intel quad core q6600 2.40ghz heatsink is a hyper master 212 plus asus radeon hd 7770 8 gigs of ram ocz 700 watt psu (12v) windows vista 64bit below i was able to provide a screenshot of the bluescreen i am getting.  </s>
+<s> i tried swapping out the radeon 7770 with the 4600 series i was using before i was getting the bluescreen and i still get it right before it shows the windows logo then goes to desktop.  </s>
+<s> i ended up taking out everything, cleaning out the computer which built up some dust, and replaced everything and still ended up with the bluescreen.  </s>
+<s> screenshot of bluescreen provided below.  </s>
+<s> i see a few marked &quot;solved&quot; so see what they did.  </s>
+<s> at least it's not my first guess.  </s>
+<s> i hope you see why i could only guess without the details.  </s>
+<s> there is some thought that since it works for a time it could be heat related.  </s>
+<s> did you try it with the cover off and pointing a fan at the open box?  </s>
+<s> bob  </s>

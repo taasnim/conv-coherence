@@ -1,0 +1,36 @@
+<s> alright guys here it goes.. i recently purchased 2 gigs of ram for hp presario, 2x 1gb ddr2 sticks, well... the problem is one works and one doesn't.  </s>
+<s> now i know what you're thinking &quot;simple answer, bad stick of ram&quot; well it works in my brothers dell, and its not my ram ports because the working stick works in both, but heres where it gets really confusing, both sticks are identical, same speed, brand, size, blahblah w/e.  </s>
+<s> when i try the bad stick by itself it doesn't work, but when i try it with a random 512mb stick, it does work.  </s>
+<s> another wierd thing is, if i put the good stick in the first ram port, and the bad one in the 2nd, it doesn't even attempt to load windows it just shows the bios version and restarts and keeps going, but if i put the bad stick in the first ram port, it loads windows and blue screens.  </s>
+<s> so i guess my question is, why the crap are 2 identical sticks of ram working with other sticks of ram, but not each other?  </s>
+<s> oh, btw i only have 2 ram slots xd, i have more info if u guys need it lol.  </s>
+<s> the machine only supports that much ram, bad slots, and so on.  </s>
+<s> you made a bad post since there is no make, model to work with.  </s>
+<s> but it's a common issue and you'll find other posts like yours.  </s>
+<s> try this, what does crucial.com tell us about your supported memory?  </s>
+<s> bob ps. yes you wrote hp presario but without the model number...  </s>
+<s> i've always found hp systems picky when it comes to ram, it just seems so.  </s>
+<s> to answer your question, try entering the bios and reset it to &quot;defaults&quot; and reboot.  </s>
+<s> if it works then, then re-enter(if needed) and reset any bios setting that reflect the old ones and reboot once saved.  </s>
+<s> make darn sure the ram was supported by hp support webpage specs, as i said, it can be very specific and/or limited.  </s>
+<s> tada -----willy  </s>
+<s> oh, sorry..im not good at writing posts out, i know.. its model number sr2011wm and crucial says it'll hold up to 2 gigs of ram.  </s>
+<s> but if one of the sticks works by themselves, the other one should too shouldn't it?  </s>
+<s> i mean, they are identical.. but the one that doesn't work by itself will work with another stick of ram as long as it isn't the identical one.  </s>
+<s> i did, however leave out how both sticks are 800mhz and my comp only supports 533 mhz, but it does dumb them down to the slower speed.  </s>
+<s> it seems to me like the stick that wont work by itself is just bad..but if its bad why will it work with a different stick, and why will it work in another computer?  </s>
+<s> gah, i'll screw with it some more.  </s>
+<s> there is more to ram compatibility than if one works then the other should.  </s>
+<s> i decline to dive into architecture discussions here.  </s>
+<s> why not return the sticks and get some from crucial?  </s>
+<s> here's crucial link: notice no 800mhz ram used.  </s>
+<s> when it comes to ram, systems tend to &quot;auto-configure&quot; and usually its right.  </s>
+<s> your ram together if 899mhz type isn't supported but can for one get going but when pushed fails.  </s>
+<s> return the ram and get the right ones.  </s>
+<s> ram may look the same, but the &quot;decals&quot; on the ram say what?  </s>
+<s> unless, you go beyond consumer labeling, look at the chips themselves, etc. you see a probable difference, if not then the real world experience has failed you, return them.  </s>
+<s> tada -----willy  </s>
+<s> thanks guys.  </s>
+<s> i guess i will return them, but they are identical.  </s>
+<s> they have the same model number, and they're duel-channel.  </s>
+<s> i just wish i knew why one works and one doesn't.  </s>

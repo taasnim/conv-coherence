@@ -1,0 +1,32 @@
+<s> i have 1 tb seagate hard disk which was working fine but now when i connect it to my laptop running with windows7, windows detects the hard disk and icon of the disk displays at my computer.  </s>
+<s> but when i double click it to open it shows an error message box &quot; location is not available f:/ is not accessible access denied&quot;.  </s>
+<s> and when i see properties by right clicking it is shows used space 0 bytes free space 0 bytes capacity 0 bytes also tried to check it for errors from tools it shows error message &quot;the disk check could not be performed because windows can not access the disk&quot; and also i have to tried to access it from command prompt (run as administrator) using command f: it shows &quot;access denied&quot; when i try to change access permission from properties/security by providing full control or changing the owner it shows &quot;unable to save the changes in permission information&quot;.  </s>
+<s> and finally when i try to format the disk it shows &quot;you do not have sufficient rights to perform this operation&quot;.  </s>
+<s> &lt;div&gt;and i have also tested two other external drives(wd &amp; seagate)but faced the same issue.&lt;/div&gt;how  </s>
+<s> could this is possible that one day disk is working fine and next day it has this issue.  </s>
+<s> please provide some solution to fix this.  </s>
+<s> i'd wait to learn if these work on other pcs.  </s>
+<s> if you wanted to solve the sufficient rights issue, that's on google but for now, try this on a new administrator account.  </s>
+<s> bob  </s>
+<s> yes these drives work well on other pcs but can not be accessed on my laptop.  </s>
+<s> and if they work elsewhere, formatting them is unlikely to fix the issue.  </s>
+<s> there is malware that can cause such but as presented i would be guessing if some malware was recently cleaned off.  </s>
+<s> how did the new administrator account test work out?  </s>
+<s> bob  </s>
+<s> no it is not working with new admin account too.  </s>
+<s> could you tell me why it is showing used space 0 bytes free space 0 bytes capacity 0 bytes when in driver properties it shows device working properly.  </s>
+<s> one more thing to add when i connect my android phone to the same laptop using usb cable, it connects and also i am able to access both phone & external memory card memory without any problem.  </s>
+<s> so i am not able to figure out what is wrong with the access for hard disks and pen drives.  </s>
+<s> add the name of the account to the permissions.  </s>
+<s> this is discussed at bob  </s>
+<s> actually as i have mentioned in my first post itself that i am also not able to change any permission setting for the drive.  </s>
+<s> it shows &quot;unable to save the changes in permission information&quot;.  </s>
+<s> and same error windows have no access to this object.  </s>
+<s> i think this is not a permission issue because in this case it is not even showing the disk capacity when i check properties.  </s>
+<s> i also noted above to try this in new admin account.  </s>
+<s> i don't see where you did that.  </s>
+<s> this is a hardware forum so we won't dive into repairing the os and since i can't tell how the os was damaged i'll have to write that a reload is next.  </s>
+<s> bob  </s>
+<s> i have tried the new admin thing that you have noted but the behavior is same in every particular access method that i have stated in my first post and even changing the permission showing same error message.  </s>
+<s> i don't know how the os got into this state so i can't write any other fix other than to reload the os. if you need a little help in the research, see this link -&gt; i know a fix, even if it's unpopular.  </s>
+<s> bob  </s>

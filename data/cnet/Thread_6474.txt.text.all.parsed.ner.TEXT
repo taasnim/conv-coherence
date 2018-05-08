@@ -1,0 +1,34 @@
+<s> i have set a wi-fi network with a desktop pc and a laptop.  </s>
+<s> both running on xp. i have a printer connected to the laptop and need to be able to print on it from the desktop pc. both computers are on and running.  </s>
+<s> when i try to go through the add a printer wizard it goes as far as recognizing the printer connected to the laptop.  </s>
+<s> it gives me the name of the laptop and the name of the printer.  </s>
+<s> so i choose it and click on it.  </s>
+<s> this is where i hit a stumbling block.  </s>
+<s> a frame comes on that tells me is connecting to &quot;name of the laptop&quot; and asks for a user name and a password.  </s>
+<s> i have tried the user name and password for the laptop; it simply tells me access denied.  </s>
+<s> i have tried as administrator.  </s>
+<s> i have tried too the user name and password of the pc. all instances same result.  </s>
+<s> i made sure the share a printer on the laptop printer is enabled.  </s>
+<s> any suggestions to solve this problem will be appreciated.  </s>
+<s> felito  </s>
+<s> the printer is shared with full control?  </s>
+<s> go to the printer properties.  </s>
+<s> add the everyone group on the security tab.  </s>
+<s> this should give access to the printer to umm everyone.  </s>
+<s> setting up the printer... go thru network places&gt;entire network&gt;microsoft networks&gt;your desktop machine name&gt;your printer share name.  </s>
+<s> double-click the printer share and it should ask you if you want to install the printer.  </s>
+<s> hope this helps.  </s>
+<s> edward fox  </s>
+<s> would let you hang the printer on the network rather than on the laptop.  </s>
+<s> you would then be able to print from either computer withhout the other one being on.  </s>
+<s> frank  </s>
+<s> i tried the permissions route but for some reason although it recognized the desktop pc it would not let it print.  </s>
+<s> any way, after dickering with it for some days i accessed hp, the printer manufacturer, and presented the problem.  </s>
+<s> they directed me to download an specific wizard for that printer which i saved on a cd and ran on the desktop pc. it worked perfectly and now i can access printers back and forth between both computers.  </s>
+<s> thanks for the input and help.  </s>
+<s> alfredo  </s>
+<s> at the present time i could not get a wireless printer card.  </s>
+<s> although i had though of that route to follow.  </s>
+<s> i probably will follow your suggestion in the not too distant future, as soon as i can do it.  </s>
+<s> thanks for your help and assist.  </s>
+<s> alfredo  </s>

@@ -1,0 +1,21 @@
+<s> i would like to transfer ~60gb from my old computer in san francsico to my new computer in los angeles.  </s>
+<s> my old computer uses win2000 and the hard disk is formatted as fat32.  </s>
+<s> my new computer uses winxp (disk formatted as ntfs).  </s>
+<s> my plan is to build my own external hd with an enclosure.  </s>
+<s> set up the external hd on my new winxp computer, take the drive to my old win2000 computer, copy files from old computer to external hd, transfer files from external hd to new computer.  </s>
+<s> will there be any problems?  </s>
+<s> i'm especially concerned about the fat32 and ntfs compatibility.  </s>
+<s> fyi, i have no idea what the difference is between fat32 and ntfs thanks in advance  </s>
+<s> windows 2000 and xp both can read the external drive with ntfs.  </s>
+<s> bob  </s>
+<s> . . .  </s>
+<s> once you've got the new pc built ... pull the hdd out of the old pc and install it in the new pc as a second hdd.  </s>
+<s> once you get the data transferred ... repartition or reformat as desired and use it as backup.  </s>
+<s> makes backing up and restoring a corrupted primary drive much much faster and easier.  </s>
+<s> regards vapcmd  </s>
+<s> someone on the forum recommended this external enclosure: adaptec acs-100 the reviews say that users are having problems with win2k.  </s>
+<s> are these problems related to ntfs vs. fat32 issues?  </s>
+<s> i ask because i was looking through other posts for enclosure recommendations.  </s>
+<s> windows 2000 and xp are completely interoperable with the external in either fat32 or ntfs.  </s>
+<s> there is no issue here.  </s>
+<s> bob  </s>

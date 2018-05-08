@@ -1,0 +1,10 @@
+<s> i'm using a netgear ms2110 network storage unit, said to support hot-swapping of its hdds.  </s>
+<s> it currently has two 2tb hard drives and is configured as raid1.  </s>
+<s> my question is, if i want to upgrade to two 4tb drives (maintaining the same raid config), is it simply a matter of replacing one of the hard drives with the larger capacity one, and when the data has been mirrored across to that new larger drive, then replacing the other drive, so i end up with the two 4tb drives with all the original data?  </s>
+<s> if this is essentially possible, are there any traps that may result in data being lost in this transfer?  </s>
+<s> cheers, brian  </s>
+<s> check your other post as i see it's been answered.  </s>
+<s> bob  </s>
+<s> question is does the nas support the larger hdds ??? vapcmd  </s>
+<s> while folk can try bigger, you are off the reservation so anyone's bet on issues.  </s>
+<s> bob  </s>

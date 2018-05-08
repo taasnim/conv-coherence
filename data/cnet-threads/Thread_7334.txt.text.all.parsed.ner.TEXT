@@ -1,0 +1,20 @@
+<s> i have an old windows vista system with the c drive capacity of about 76gb.  </s>
+<s> i have unallocated space of 5gb and then next to it the c drive of 70gb but the unallocated space is listed before the c drive.  </s>
+<s> have tried to extend volume from the c drive partition but it's grayed out.  </s>
+<s> have tried to make the unallocated space into usable space and then giving it a hard drive name to see if i can then delete it and then see if i can extend the volume at that point but that didn't assist me.  </s>
+<s> any ideas?  </s>
+<s> would appreciate any help  </s>
+<s> and if you delete the c partition you won't have an os to boot to.  </s>
+<s> if you have a good backup copy and a backup copy of that you can try gparted to move the partition.  </s>
+<s> bob  </s>
+<s> with the size of today's hard drives, 5 gb is nothing.  </s>
+<s> you'd likely do more harm than good since that partition was probably put there by your manufacturer for a good reason.  </s>
+<s> it may contain recovery info or it may be used for security or other purposes.  </s>
+<s> windows provides a disk management tool under the administrative tools applet of the control panel, but i just remind you that &quot;if it ain't broke, don't fix it&quot;.  </s>
+<s> good luck.  </s>
+<s> is a pittance and you'll be back need more in a month or less.  </s>
+<s> vapcmd  </s>
+<s> such as they have one of those early 10,000 or 15,000 rpm drives and paid dearly for it and want to eek out that last gb.  </s>
+<s> i can see that (and wonder if such drives do fly.) bob  </s>
+<s> to regain use of 5gbs says 'nah'. keep up the good work !  </s>
+<s> vapcmd  </s>

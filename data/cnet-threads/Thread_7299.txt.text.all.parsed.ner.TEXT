@@ -1,0 +1,40 @@
+<s> i just bought two new laptop, with windows xp pro-sp2 (oem), both are wireless ready.  </s>
+<s> when i use a cable (hardwired) they get the ip as it should.  </s>
+<s> problem is, when i try to connect/join my existing wireless lan, those two laptop unable to get an ip address, what they get is 169.xxx.xxx.xxx (the wifi icon has yellow triangle in it - 'limited or no connectivity' or 'unable to get an ip address'.  </s>
+<s> is there some setting i should look for?  </s>
+<s> i'm pretty sure this is a windows xp-sp2 related problem, because when my other laptop with windows xp pro-sp1, join the wireless lan, it has no problem at all... thank you for any help and information.  </s>
+<s> it's unlikely to be xp-sp2, but many like to toss that about. the problem i see is you didn't share the make/model laptop.  </s>
+<s> for instance some require you to turn on the wifi card and some require you to do other steps.  </s>
+<s> too bad you didn't tell more.  </s>
+<s> bob  </s>
+<s> sorry about that, the laptop is acer 3200 folio design and acer ferrari 3400.  </s>
+<s> note: there is a button near the keyboard to enabled/disabled wifi lan.  </s>
+<s> i don't relize if there is another setting to turn on the wifi... (yes i heard that i have to turn on the wifi, but, where it is .. if this applicable to my laptop) thank you again for the help  </s>
+<s> i tried to fill in the ip manually, the icon in the taskbar showed - connected with strong and excellent signal - but still i can not browse the internet... tried turn on and turn off the firewall, same result... any suggestion on what should i do or check?? thank you  </s>
+<s> nothing noted about the wireless access point configuration.  </s>
+<s> some try to do all the wep, filters or install a firewall before they get it working... bob  </s>
+<s> basically i'm saying the current wireless/wired lan is working.  </s>
+<s> because my friend new laptop with windows xp pro sp1, get connected with no problem, that also why i suspecting the sp2 setting the access point is dhcp 'disabled', using wep security, channel is 'auto' (it get the ip from the router which is dhcp enabled).  </s>
+<s> the firewall i'm talking about is windows xp firewall (this is a brand new laptop, with standard 4 software adaware, spybot sd, spywareblaster and avg 7 free) while using manual ip, i can ping the router but not external address.. when i use the dhcp enable on the laptop (i get 169.xxx.xxx.xxx) i can not ping anything.  </s>
+<s> note: just incase you are wondering that my home wireless lan is at fault, tonight i will try in different lan location (a friend house or in the office) thank you  </s>
+<s> &quot;the access point is dhcp 'disabled'&quot; at this point i can't help you further.  </s>
+<s> such a setup is something not stock for such systems.  </s>
+<s> someone made a choice and they'll have to tell you how it's supposed to work that way.  </s>
+<s> it's my choice to start with stock settings, get it working and then move to other settings.  </s>
+<s> in closing, my neighbor just a few weeks ago pulled a windows xp sp2 new laptop out and we just connected just fine.  </s>
+<s> but we use almost all the stock settings in the router such as dhcp and more.  </s>
+<s> bob  </s>
+<s> ok.. (currently the router is releasing the dhcp not the ap) ... i'll try it on other location... just wondered .. why that setup is work on other laptop but not on this two.. thank you...  </s>
+<s> i can't answer this since the configuration of what works is not known to me.  </s>
+<s> why is dhcp disabled?  </s>
+<s> this was never shared.  </s>
+<s> bob  </s>
+<s> the access point is separate unit from the router... both have dhcp functionality.. that is why i disabled the one in access point.  </s>
+<s> cable modem -&gt; router --&gt; (ap + laptop + desktop) the router is configured as 'default' .. 192.168.1.1 and dhcp enabled. the point is that network is working fine with that setup .. and the new laptop is in default configuration ... i'm going to a friend house (different network layout) and try to see what happened there... back in about 6 hours .. till then .. thank you  </s>
+<s> why wasn't this revealed earlier?  </s>
+<s> as it stands, it sounds as if you assigned some ip to the wired connection.  </s>
+<s> if so, for instance 192.168.1.5 (for argument since you didn't tell) would be on the wired interface with a netmask of 255.255.255.0 with the ip assigned to the wired interface, the wireless (wifi) will never work since the route is &quot;occupied&quot;. i find it interesting you are doling out the needed information to find what's going on.  </s>
+<s> that's your choice, but it may explain why support for your setup is problematic.  </s>
+<s> bob  </s>
+<s> well, i didn't said anything about ip address etc. because i thought it doesn't matter, since the wired/wireless network is already work... and so i didn't thought of the network/lan problem... now the problem is solved... but don't ask what i do or how do i do it... because i didn't do anything... nothing is change.  </s>
+<s> i tried at my friend house, it get connected as it supposed to be.. (turn on the laptop, and get connection.. nothing change) then just as soon as i get back home, i also get connected, and able to browse the internet normally... my guest is the wifi signal became very low, while i'm trying the laptop... anyway, thank you for all the help and information.  </s>

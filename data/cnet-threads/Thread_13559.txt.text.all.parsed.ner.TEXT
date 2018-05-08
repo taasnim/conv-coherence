@@ -1,0 +1,36 @@
+<s> im running an intel 2.8ghz processor, the board is intel d865gbf.  </s>
+<s> when i start my computer, everything is normal but usually (and more oftenly now) the display suddenly turns something weird, a combination of lines and blocks and everything is stalled.  </s>
+<s> this can happen before or after the loading of windows (no fixed time).  </s>
+<s> and when i restart the pc, normality is restored for sometime but then again this problem can erupt any time.  </s>
+<s> to give an idea of the sort of display problem ive taken a snapshot of the monitor screen, which can be found at note that im running win xp (sp2) and i hv two memory (ram) sticks for quite some time now i am not sure where the problem lies!  </s>
+<s> but its really annoying...it could be the display, ram, or anything..itssurely not the monitor!  </s>
+<s> i found an all too similar display when someone's gpu heatsink was not seated proper.  </s>
+<s> a failed fan could do same.  </s>
+<s> if not that, try another video card.  </s>
+<s> and a boot test with some linux livecd.  </s>
+<s> bob  </s>
+<s> let me first tell u that im not a very techie person.  </s>
+<s> i know this that on my board (d865gbf) i hv a built-in vga, so how can i try another one? the fan looks fine to me, its working....and a temp sensor in the casing shows temps around 35-42 deg celcius u think its not ram? and i cant do much testing on the pc since it freezed almost a minute or two after starting  </s>
+<s> i don't see how many sticks of ram but if there are 2 i try it with one then the other (only one at a time.) the linux livecd is a good test to see if it's a hardware or software (os) issue.  </s>
+<s> type linux livecd into google.com  </s>
+<s> to catch up on what that is.  </s>
+<s> they are free.  </s>
+<s> bob  </s>
+<s> i managed to run speedfan for a minute (but then again it froze)....the program showed cpu temp to be 65 deg c, overheating?  </s>
+<s> your posts are a little light on details.  </s>
+<s> such as if the case cover is off or not.  </s>
+<s> minor things that could shed light as fans and heatsinks all in their place and running.  </s>
+<s> also is this some newly built machine or ??? for now, leave the case cover off and see if that helps.  </s>
+<s> also check those fans and make sure all the heatsinks are on proper and the fans working.  </s>
+<s> one plea for help found they didn't have a cpu heatsink and fan. it was one of those build yourself things and they didn't know.  </s>
+<s> i don't know what you know about this machine.  </s>
+<s> bob  </s>
+<s> the cover is currently off, machine was built by an expert 2 or more years ago.  </s>
+<s> processor is intel 2.8g, two ram sticks. the fan is working (i can see it running) and the heat sink, how can i check it??? i havent done that before, how can i know if its proper?  </s>
+<s> you can research and read web sites about &quot;how to build a pc.&quot; i don't duplicate such content but leave it to members to look for ready web content.  </s>
+<s> why?  </s>
+<s> these are self help areas and not tech support.  </s>
+<s> however it helps to bounce ideas off each other.  </s>
+<s> how did the test with just one stick go?  </s>
+<s> and how are you doing with your linux livecd tests?  </s>
+<s> bob  </s>

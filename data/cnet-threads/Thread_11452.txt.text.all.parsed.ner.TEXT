@@ -1,0 +1,60 @@
+<s> i have a blasterpc i bought a couple of years ago from tigerdirect.  </s>
+<s> advertised as being manufactured by creative labs, the mb has built-in soundblaster live 5.1.  </s>
+<s> creative says they provided the components for this kit but do not support it.  </s>
+<s> tigerdirect says that they no longer have records for the manufacturers of the components other than creative.  </s>
+<s> i would like to upgrade the award modular bios version 4.51 pgm so that the system will read and use the full 1gb of ram i have installed, as well as read the entire 40gb of the maxtor hdd i have installed, rather than only 31gb; as well as take advantage of any other enhancements offered by an updated bios.  </s>
+<s> i would hope to find something that can be flashed via boot disk or whatever.  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> following are the specs for my system per the guillemot hardware inspector program.  </s>
+<s> internet explorer v6.0.2800.1106  </s>
+<s> bios system bios date 02/02/01 system bios version award modular bios v4.51pgm video bios version version 4.17.00.54.24 running windows xp service pack 1 (5.1.2600) system default language : english (user : english) processor memory processor running at 903 mhz processor is intel pentium(r) iii coppermine found 1 processor(s) 767 mb of physical memory 476 mb of free physical memory 2047 mb of total virtual memory 1999 mb of free virtual memory drives drive letter volum name type size free total c: ntfs 6.54 gb 31.49 gb g: new volume ntfs 949.00 mb 74.53 gb gaming directx 8 or above installed(4.09.00.0902) thrustmapper : not installed.  </s>
+<s> drivers video nvidia geforce4 mx 420 5.2.1.6 nvidia multimedia avermedia avertv wdm video capture (878) 7.0.0.0 avermedia technologies avermedia, avertv wdm tvtuner 5.3.4.0 conexant creative sb live!  </s>
+<s> (wdm) 5.1.2603.0 creative network linksys lne100tx fast ethernet adapter(lne100tx v4) 2.12.507.2001 microsoft controllers others intel 82443bx pentium(r) ii processor to pci bridge 5.1.2600.0 microsoft intel 82443bx pentium(r) ii processor to agp controller 5.1.2600.0 microsoft intel 82371ab/eb pci to isa bridge (isa mode) 5.1.2600.0 microsoft intel(r) 82371ab/eb pci bus master ide controller 5.1.2600.1106  </s>
+<s> microsoft intel(r) 82371ab/eb pci to usb universal host controller 5.1.2600.1106  </s>
+<s> microsoft n/a none microsoft nec pci to usb open host controller 5.1.2600.1106  </s>
+<s> microsoft nec pci to usb open host controller 5.1.2600.1106  </s>
+<s> microsoft nec pci to usb enhanced host controller (b1) 5.1.2600.0 microsoft creative game port 5.1.2600.0 creative pci list mediastream controller (multimedia) manufacturer brooktree corporation revision 0x11 vendor 0x109e product 0x36e sub vendor 0x1461 sub product 0x0004 subclass video commands memory access busmaster status has capabilities list supports back-to-back trans fast timing general header type 0x80 bus latency 0x40 self test not supported capabilities list other capability list not supported.power  </s>
+<s> management capabilities current power state : d0 video capture (audio section) (multimedia) manufacturer brooktree corporation revision 0x11 vendor 0x109e product 0x878 sub vendor 0x1461 sub product 0x0004 subclass other commands memory access busmaster status has capabilities list supports back-to-back trans fast timing general header type 0x80 bus latency 0x40 self test not supported capabilities list other capability list not supported.power  </s>
+<s> management capabilities current power state : d0 fast ethernet controller (network) manufacturer admtek inc revision 0x11 vendor 0x1317 product 0x985 sub vendor 0x1317 sub product 0x0574 subclass ethernet commands i/o access memory access busmaster status has capabilities list supports back-to-back trans fast timing general header type 0x0 bus latency 0x50 self test not supported capabilities list power management capabilities supports power state d2 supports power state d1 current power state : d0 sound blaster live!  </s>
+<s> (multimedia) manufacturer creative labs revision 0x5 vendor 0x1102 product 0x2 sub vendor 0x1102 sub product 0x002f subclass audio commands i/o access busmaster status has capabilities list supports back-to-back trans fast timing general header type 0x80 bus latency 0x40 self test not supported capabilities list power management capabilities current power state : d0 (null) (display) manufacturer nvidia corporation revision 0xa3 vendor 0x10de product 0x172 sub vendor 0x0000 sub product 0x0000 subclass vga commands i/o access memory access busmaster status has capabilities list supports 66mhz supports back-to-back trans fast timing general header type 0x0 bus latency 0xf8 self test not supported capabilities list power management capabilities current power state : d0 agp capabilities version 2 agp speed(s) supported : 1x 2x 4x current agp speed : 2x fw transfers supported.  </s>
+<s> &gt;4gb address space not supported.  </s>
+<s> sideband addressing not supported.  </s>
+<s> 440bx/zx agpset host bridge (bridge) manufacturer intel corporation revision 0x3 vendor 0x8086 product 0x7190 sub vendor 0x0000 sub product 0x0000 subclass pci to host commands memory access busmaster status has capabilities list received master abort fast timing general header type 0x0 bus latency 0x40 self test not supported capabilities list agp capabilities version 1 agp speed(s) supported : 1x 2x current agp speed : 2x fw transfers not supported.  </s>
+<s> &gt;4gb address space not supported.  </s>
+<s> sideband addressing supported.  </s>
+<s> 440bx/zx agpset pci-to-pci bridge (bridge) manufacturer intel corporation revision 0x3 vendor 0x8086 product 0x7191 sub vendor 0x0000 sub product 0x0000 subclass pci to pci commands i/o access memory access busmaster system errors status supports 66mhz fast timing general header type 0x1 bus latency 0x40 self test not supported piix4 isa bridge (bridge) manufacturer intel corporation revision 0x2 vendor 0x8086 product 0x7110 sub vendor 0x0000 sub product 0x0000 subclass pci to isa commands i/o access memory access busmaster special cycles status supports back-to-back trans fast timing general header type 0x80 bus latency 0x0 self test not supported piix4 ide controller (storage) manufacturer intel corporation revision 0x1 vendor 0x8086 product 0x7111 sub vendor 0x0000 sub product 0x0000 subclass ide commands i/o access busmaster status supports back-to-back trans fast timing general header type 0x0 bus latency 0x40 self test not supported piix4 usb interface (serial) manufacturer intel corporation revision 0x1 vendor 0x8086 product 0x7112 sub vendor 0x0000 sub product 0x0000 subclass usb (uhci) commands i/o access busmaster status supports back-to-back trans fast timing general header type 0x0 bus latency 0x40 self test not supported piix4 power management controller (bridge) manufacturer intel corporation revision 0x2 vendor 0x8086 product 0x7113 sub vendor 0x0000 sub product 0x0000 subclass pci to other commands i/o access memory access status supports back-to-back trans fast timing general header type 0x0 bus latency 0x0 self test not supported usb host controller (serial) manufacturer nec corporation revision 0x41 vendor 0x1033 product 0x35 sub vendor 0x3083 sub product 0x0035 subclass usb (uhci) commands memory access busmaster status has capabilities list fast timing general header type 0x80 bus latency 0x40 self test not supported capabilities list power management capabilities supports power state d2 supports power state d1 current power state : d0 usb host controller (serial) manufacturer nec corporation revision 0x41 vendor 0x1033 product 0x35 sub vendor 0x3083 sub product 0x0035 subclass usb (uhci) commands memory access busmaster status has capabilities list fast timing general header type 0x0 bus latency 0x40 self test not supported capabilities list power management capabilities supports power state d2 supports power state d1 current power state : d0 pci to usb enhanced host controller (serial) manufacturer nec corporation revision 0x2 vendor 0x1033 product 0xe0 sub vendor 0x3083 sub product 0x00e0 subclass usb (uhci) commands memory access busmaster status has capabilities list fast timing general header type 0x0 bus latency 0x40 self test not supported capabilities list power management capabilities supports power state d2 supports power state d1 current power state : d0 game port (input) manufacturer creative labs revision 0x5 vendor 0x1102 product 0x7002 sub vendor 0x1102 sub product 0x0020 subclass other commands i/o access busmaster status has capabilities list supports back-to-back trans fast timing general header type 0x80 bus latency 0x40 self test not supported capabilities list power management capabilities current power state : d0  </s>
+<s> i can't recall any creative mtrbds.  </s>
+<s> out there that they made.  </s>
+<s> yes, they do provide the audio portion but make the whole mtrbd.  </s>
+<s> nope.  </s>
+<s> i suggest you visit this website and follow thier lead: get the info you need and proceed.  </s>
+<s> now, if creative really did &quot;rebadge&quot; a mtrbd.  </s>
+<s> and put thier name on it, they should provide the mtrbd.  </s>
+<s> info.  </s>
+<s> but, that becomes lost on older or not so popular mtrbds.  </s>
+<s> and it gets hard to find.  </s>
+<s> you may find a more &quot;generic&quot; support for the *chipset* on the mtrbd., these are the main componets and if you find them, make sure they'll do what you want and various flavours are out there.  </s>
+<s> last, as for the 40gb hd, you'll never see the true 40gb become available due to the os used and how the manufacturer supplies info, get more detailed answers from the hd maker.  </s>
+<s> they usually offer an explanation on this common question/query.  </s>
+<s> good luck -----willy  </s>
+<s> waz up sir mortis, i'm not sure what components are provide by creative, but i don't think they make mother boards either.  </s>
+<s> so i think the best way to go at this is the simplest, just open your case and see who's the manufacturer of the motherboard.  </s>
+<s> then go to their website to get latest bio.  </s>
+<s> if you find no name most manufacturer stick to a specific circuit color on their mother board.  </s>
+<s> like brown for &quot;asus&quot; and ... but not all mother board do support 1 gig of mem.  </s>
+<s> -sherwin  </s>
+<s> 1. diamond was absorbed by creative labs and did indeed make such a board.  </s>
+<s> look for the m7p9 or such designation on the motherboard to find out which is yours.  </s>
+<s> without this, i can't help much.  </s>
+<s> has a few manuals, but which one is yours?  </s>
+<s> 2. about the ram.  </s>
+<s> no bios can fix this issue!  </s>
+<s> i will explain it once and only once since nothing we can do with bios or jumpers or words will fix a simple problem. the bx memory controller only has so many address lines running to the memory sockets.  </s>
+<s> to get 256m support it runs two cas lines to the sockets. the generic 256m stick will identify as 128m and this is proper.  </s>
+<s> if you get the dual bank 256m sticks, then it works.  </s>
+<s> but you are unlikely to get such at the grocery store or most computer shops.  </s>
+<s> crucial does have the right parts.  </s>
+<s> again, there is nothing in a bios revision or anything you can do to fix this except get the right memory parts.  </s>
+<s> with that, i will write no more about it.  </s>
+<s> write back with which board you have if you want me to see if a bios to go past 32gb on the hard disk exists.  </s>
+<s> bob  </s>

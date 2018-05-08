@@ -1,0 +1,24 @@
+<s> okay, originally i started out buying an e-machines t2245.  </s>
+<s> it has a 40gb wd hard drive.  </s>
+<s> the computer crashed, and i couldn't boot up the computer.  </s>
+<s> i had a 20gb wd hard drive as my slave drive.  </s>
+<s> before the crash everything worked.  </s>
+<s> i went out and bought a 80 gb wd hard drive.  </s>
+<s> i removed the slave drive until i could install windows xp on the 80 gb drive.  </s>
+<s> i put the 20 gb drive back in as a slave (jumpers in correct positions)and now can't access it.  </s>
+<s> it doesn't show up in &quot;my computer&quot; folder as it should.  </s>
+<s> it does show up in the device manager, and it says it's working properly.  </s>
+<s> same thing with the 40 gb drive.  </s>
+<s> i'm trying to get files off the old drives because i didn't back anything up (hey, i'm still new to this computer thing).  </s>
+<s> please tell me what i'm doing wrong and how to fix it.  </s>
+<s> it's driving me nuts.  </s>
+<s> my mother-in-law passed away in april and i have irreplacable pictures on the other drives.  </s>
+<s> help!!!!!  </s>
+<s> since the pictures are irreplacable, then any home remedy or repair is not advised.  </s>
+<s> you would move to recovery services like drive savers or ontrack immediately.  </s>
+<s> shows use of fdisk /mbr by microsoft and an article why this is done.  </s>
+<s> of course, this can be counterindicated if you have some oddball, non-stock method of an os install, but the mbr is a cause of a missing drive.  </s>
+<s> best of luck, bob  </s>
+<s> do this: when you u turn on your pc go to cmos utility by pressing &quot;delete&quot; on startup!! then go to &quot;advanced bios feature&quot; check your &quot;boot devices&quot; make 1st boot device ur new hard disk and 2nd boot device ur old hard disk if it doesnt work try it vice versa!! and if doesnt work then turn off ur new hard disk to boot!! just make 1st boot device ur old hard disk and 2nd boot device - cdrom or disabled!!! dont boot ur new hard disk!! so ur computer will read the old hard disk!  </s>
+<s> try it!!! sandesh  </s>
+<s> from w/d support: on a dual(slave) (second drive in a two drive system) 6 pin drives, jumpers on pins 3-4 & 1-2 10 pin drives, jumpers on pins 3-4 & 1-2.  </s>

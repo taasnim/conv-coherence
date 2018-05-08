@@ -1,0 +1,20 @@
+<s> i have an old external lacie cd-rw that i no longer use.  </s>
+<s> so i decided to trash the burner and use the enclosure to make a new 500gb external hdd.  </s>
+<s> i swaped the ide burner for a seagate baracuda 500gb ide hdd and made sure that its jumper was set to master.  </s>
+<s> then i pluged it into my toshiba notebook running xp pro media edition.  </s>
+<s> using the disk management utility in administrative tools, the new 500gb drive is visible but the device is still recognised as a cd-rw.  </s>
+<s> i can't format the drive or manage to load it as a hard drive.  </s>
+<s> windows automatically loads a cd device driver and i can't seem to get arround it.  </s>
+<s> does anyone have a solution to this problem, i'd rather not have to buy a new enclosure.  </s>
+<s> it should work with seagate because they bought maxtor.  </s>
+<s> good luck.  </s>
+<s> how about some specs first, like os, service pack, etc... paul  </s>
+<s> but has that computer seen this external box as when it was containing the cd drive?  </s>
+<s> it could be the os is assuming it is the same as it was when it was connected before.  </s>
+<s> check the device manager under &quot;dvd/cd-rom drives&quot; when it is connected.  </s>
+<s> if it shows up there as a cd, delete it by right clicking on the drive and then let windows reinstall it.  </s>
+<s> if that does not work, try a different computer.  </s>
+<s> another thought would be try a linux live cd.  </s>
+<s> boot from that to see what that os does with it.  </s>
+<s> if that still shows as a cd drive, then the external box must have an identifier built into the front end.  </s>
+<s> in that case, a different box will be needed.  </s>

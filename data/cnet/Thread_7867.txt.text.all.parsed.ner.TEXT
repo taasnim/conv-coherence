@@ -1,0 +1,86 @@
+<s> is there a powerfull enought anteana on the market that can send a 360* signal for a distance of 10-40 miles?  </s>
+<s> that was asked a bit ago. the problem is you need more watts plus that antenna.  </s>
+<s> remember that an antenna does not add power to the signals.  </s>
+<s> if can pick up more and be more efficient (less loss), but adds no power.  </s>
+<s> a short discussion elsewhere found the power required at about 20 miles to be about 500 watts for 360 coverage.  </s>
+<s> this is just one reason why a cellular type approach works.  </s>
+<s> your answer is a simple no. bob  </s>
+<s> &quot;think power.  </s>
+<s> remember that 2.4gbz is that same frequency range as your microwave oven.  </s>
+<s> now a little issue of how to double the coverage of a radio signal.  </s>
+<s> you need 4 times the power for each doubling of the distance.  </s>
+<s> starting at only 200 milliwatts for your best wifi wireless access point (wap) as a baseline, we can figure what it takes to reach out to you at 100 miles away.  </s>
+<s> let's peg that full speed 802.11a at 11 megabits to work super at 41.25 feet and see what watts we need at 1 mile?  </s>
+<s> ok bpbasic ready&gt; 64000 bytes free 41.25 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 = 5280 feet.  </s>
+<s> 0.2w fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2 = 25.6 watts end bpbasic now if we want to go from 1 mile to 20 miles we just keep going. 2 miles = 51.2 watts 4 miles = 102.4  </s>
+<s> watts 8 miles = 204.8  </s>
+<s> watts 16 miles = 409.6  </s>
+<s> watts 32 miles = 819.2  </s>
+<s> watts yes, we have about the power of your average household microwave oven at 20 miles.  </s>
+<s> not only do we need this much power in the wap, but about that much in you lap pc-card.  </s>
+<s> looks like wifi in your card will have some problems.  </s>
+<s> bob&quot; --------- in addition -------- numerous other issues creep in such as a reflection off some mountain will duplicate the signal, but slightly out of phase and effectively scramble your reception.  </s>
+<s> all the same issues that cell phone network builders become lots of fun.  </s>
+<s> --------- the bottom line ----- you won't be doing this. the band in question is shared by all.  </s>
+<s> you would be wiping all others off the airspace and someone would be hunting you down.  </s>
+<s> bob  </s>
+<s> you are a very intelagint persone!  </s>
+<s> i will pay you to find out how it can work for me and what i need.  </s>
+<s> hey im not sure if you hered of wimax?  </s>
+<s> that has arange of 30 miles. the only problem it is not compatable with 802.11 only 802.16- best regards michael  </s>
+<s> it can be done some how.  </s>
+<s> if you were doing line of sight, there are ways.  </s>
+<s> omni?  </s>
+<s> no. bob  </s>
+<s> interesting.  </s>
+<s> how about we talk about this in secure at shimi00740@aol.com  </s>
+<s> why do that?  </s>
+<s> if you perfer not to, that is fine.  </s>
+<s> what is exactly line of sight?  </s>
+<s> an phrase meaning i can see the target.  </s>
+<s> point to point, etc.. from google in case i was unclear... definitions of line of sight on the web: the line of sight is the line that connects the observer's eye with the thing the observer is looking at.  </s>
+<s> this expression is often used with measurements of doppler velocity and magnetic field in magnetograms, where only that part is measured that is directed along the line of sight.  </s>
+<s> to know the complete velocity or magnetic field, the components that are at right angles to the line of sight must also be measured.  </s>
+<s> such components may be called the field-of-view components, though this expression is not commonly used.  </s>
+<s> laser, microwave, and some infrared transmission systems require that no obstructions exist in the path between the transmitter and receiver.  </s>
+<s> this direct path is called the line of sight. the connection between communication devices characteristic of certain transmission systems (such as laser, microwave, and infrared systems) in which no obstructions on a direct path between transmitter and receiver may exist. the connection between communication devices characteristic of certain transmission systems (such as laser, microwave, and infrared systems) in which no obstructions on a direct path between transmitter and receiver may exist.  </s>
+<s> in some rules systems, one unit is considered to be able to see another if it can establish a clear line of sight.  </s>
+<s> such a los is simply a straight line from one unit to the other, unblocked by terrain or objects that cannot be &quot;seen through&quot; according to the rules.  </s>
+<s> for instance, trees or a hill might block a los.  </s>
+<s> network communication systems that require a direct, unblocked path to transmit data.  </s>
+<s> an unobstructed straight line between two transmitting devices.  </s>
+<s> line of sight is typically required for long-range directional radio transmission.  </s>
+<s> due to the curvature of the earth, the line of sight for devices not mounted on towers is limited to 16 miles (26km).  </s>
+<s> (n) imaginary rays of light radiating from an observers eye to the object.  </s>
+<s> in perspective projection, all lines of sight start at a single point; in parallel projection, all lines of sight are parallel.  </s>
+<s> los is sometimes referred to as the viewpoint.  </s>
+<s> highered.mcgraw-hill.com/sites/0072322098/student_view0/glossary_j-l.html the connection between communication devices characteristic of certain transmission systems (such as laser, microwave, and infrared systems) in which no obstructions on a direct path between transmitter and receiver may exist.  </s>
+<s> an expression used to indicate that certain radio signals will not propagate through natural or &quot;man-made&quot; obstacles that are in the line-of-sight between the transmitting and/or receiving facilities.  </s>
+<s> a straight line from the eye through the aiming device to the point of aim the line of sight is the distance you, or the signal generator can &quot;see&quot; in a straight line.  </s>
+<s> line of sight can be blocked by terrain, like a hill or mountain, or it can be interrupted by the actual curve of the earth.  </s>
+<s> obviously, the higher the antenna, the farther it can &quot;see&quot;.  </s>
+<s> back to chapter 7. phred.dcccd.edu/~ttg/datacom/glossaryc7.htm a term that describes the requirement for narrow-band, tight-beam transmitters and receivers to have an unobstructed path between them.  </s>
+<s> if you can see from sender to receiver, they can also exchange data with one another.  </s>
+<s> intranet.sgc.edu/people/staff/jeburdette/courses/networking/glossary.htm line of sight is the imaginary line between a unit and its target, which may be blocked by other units or terrain features.  </s>
+<s> a clear line of sight allows unrestricted fire.  </s>
+<s> in perspective views, the point(s) and direction from which the viewer is looking into the image.  </s>
+<s> designed to facilitate the manipulation of the manikin's field of vision.  </s>
+<s> it can be selected as any other segment of the manikin.  </s>
+<s> lmhibm5.epfl.ch/catia/french/online/french/hbrug_c2/hbruggl.htm a condition whereby the antennas of a given link have a sufficient path for communication.  </s>
+<s> it requires that at least 60% of the fresnel zone between them be unobstructed.  </s>
+<s> (do not confuse with loss of signal.) an imaginary straight line along which an observer looks bob  </s>
+<s> what is the ussal range???? where can i buy this kind of anteana thank you for all you help it was greatly apprechatied!  </s>

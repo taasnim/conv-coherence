@@ -1,0 +1,6 @@
+(TOP (NP (NNP bob)) )
+(TOP (FRAG (RB not) (NP (NP (DT a) (NN risk)) (ADVP (RB yet))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX 've) (VP (AUX had) (S (VP (TO to) (VP (VB move) (ADVP (RB back)) (S (VP (TO to) (VP (NN wpa) (NP (DT a) (JJ few) (NNS times)) (PP (IN on) (NP (DT some) (NNS networks))))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBP run) (NP (NP (PRP$ my) (NN home) (JJ wifi) (NN network)) (PP (IN with) (NP (NN wpa2))))) (. .)) )
+(TOP (S (SBAR (IN if) (S (NP (DT an) (JJ additional) (NN computer)) (VP (VBZ arrives) (S (VP (VBG using) (NP (DT a) (CD usb) (JJ wifi) (NNP interface))))))) (, ,) (NP (PRP i)) (VP (VBP assume) (SBAR (S (NP (DT the) (NNP usb) (NNP interface)) (VP (VBZ needs) (S (VP (TO to) (VP (AUX be) (VP (VBN wpa2) (S (ADJP (JJ compatible))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB connect))))))))))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (VBP think) (SBAR (S (NP (PRP$ your) (NN assumption)) (VP (AUX is) (ADJP (JJ correct)))))) (. .)) )

@@ -1,0 +1,18 @@
+<s> dear sir how can i format my pc and reinstall windows xp profational?  </s>
+<s> please advice.  </s>
+<s> tanks & regards, khalid 975.  </s>
+<s> you don't format a pc. you only format a partition on a disk.  </s>
+<s> but let me assume you want to reinstall xp on a clean c:-drive for some reason.  </s>
+<s> the way to do that depends on the resources you have, such as: - recovery partition on the hard disk - recovery cd - windows xp installation cd - driver cd without knowing those details, we can't tell how you should do it.  </s>
+<s> all we can say: check the user manual and see what it says about reinstalling the os. kees  </s>
+<s> hello, i have ibm 2.4 ghz desktop, 2 drives, both are ntfs, i want to format drive c to install fresh xp, (already running xp).  </s>
+<s> but my dvd rom is not showing up, when i press f12, though it's working properly in my computer and if i run set up from my computer, but it doesn't format.  </s>
+<s> how can i delete the both partitions and make new partition with fresh windows installation?  </s>
+<s> please advice.....  </s>
+<s> in your ibm pc of (for the moment) unknown model?  </s>
+<s> alas, the function keys for the bios are totally unstandardized across motherboard and bios makers.  </s>
+<s> can you provide a link to the user manual?  </s>
+<s> all i can say: boot from the cd that has the setup-program for windows xp. usually, that is a two step process: 1. check in the bios-setup that the pc is set to boot from that device, if possible.  </s>
+<s> 2. put the cd in and boot from it, without pressing any key.  </s>
+<s> you might need to confirm that you really want it, by pressing y within 30 seconds.  </s>
+<s> kees  </s>

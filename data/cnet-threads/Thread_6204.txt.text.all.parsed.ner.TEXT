@@ -1,0 +1,742 @@
+<s> question: how can i share data files with someone in a different location?  </s>
+<s> i have a particular question, and i get different answers from different tech people and salespersons at fry's and best buy.  </s>
+<s> here's my dilemma: my business partner works from home, while i am in the office using a windows 7 desktop.  </s>
+<s> this desktop contains most of the files.  </s>
+<s> there are many times when he needs to access the files, so i have to e-mail them to him.  </s>
+<s> it's become a distraction and slows down our work process.  </s>
+<s> my question is what's the best solution to remedy this?  </s>
+<s> what's the best way to share files and work independently of each other?  </s>
+<s> do we need to get a server?  </s>
+<s> we're trying to keep down costs and i've seen that they can run pretty expensive.  </s>
+<s> do we need a nas?  </s>
+<s> can we use another desktop computer as a &quot;server&quot;?  </s>
+<s> i think pogoplug concept is nice, but i don't seem to read good or great reviews about them.  </s>
+<s> any suggestions?  </s>
+<s> - submitted by tim  </s>
+<s> a group of co-workers on a project share all our information using dropbox.  </s>
+<s> we each have a connection to dropbox on our computers, tablets or phones.  </s>
+<s> we all save anything related to our group project into the shared dropbox and then everyone else can access it.  </s>
+<s> it seems to work well.  </s>
+<s> and i know of other groups who also use it.  </s>
+<s> there are other similar programs/aps whatever we call them these days - but this is the main one i have worked with.  </s>
+<s> honestly, tim, there are multiple resources out there, but one that i have found to be both economical and really easy to use is dropbox.  </s>
+<s> i have dropbox, and it's a free account, yet i still have 4 gb of storage there that i can use for online storage and sharing of files.  </s>
+<s> it works seamlessly between mac, windows, and even android tablets or smart phones.  </s>
+<s> i can't recommend them highly enough as a great resource that seems tailor-made for this particular need of yours.  </s>
+<s> for $99 a year you can get 50 gb of storage space, and if you just want to try it out, you can start out with a free account that gives you 250 mb... and if you recommend it to others and they sign up, you get 250 more mb per each of those who signs up.  </s>
+<s> i'd suggest try it for free, and see how you like it.  </s>
+<s> i think you'll like it a lot.  </s>
+<s> tony  </s>
+<s> one word.  </s>
+<s> dropbox. the first 2gb are free.  </s>
+<s> yes, you can use something like dropbox.  </s>
+<s> you can also use google documents to share spreadsheets, documents, etc. be sure that you understand all the security issue, though.  </s>
+<s> i'm not really up on them, but at my work we use google docs to some extent to share some things.  </s>
+<s> it's all accessed via so that's good, but you need to understand the full security picture, like encryption and other ways of limiting access as well.  </s>
+<s> i do not know how to set it up but i do know that your computer can be set to accept networked computers.  </s>
+<s> maybe some of the tech people can explain better and how.  </s>
+<s> from the way you describe it, this seems a perfect task for dropbox - as others have suggested.  </s>
+<s> i use dropbox across four computers on my network including on my ipad. it is so simple and the first 2gb is free.  </s>
+<s> it is the sort of programme that makes you wonder how you ever managed without it!  </s>
+<s> christopher macgowan, london, england.  </s>
+<s> if your partner is also using windows 7 it is pretty easy.  </s>
+<s> there are tutorials in 7 for this.  </s>
+<s> basically you just go into &quot;control panel&quot;, select network and sharing, and just set up a homegroup/workgroup, create a password for both of you, give permission to &quot;share&quot; the folders he needs or even pretty much the whole hard drive and so long as your work pc is on, he can get into anything he needs so long as the work pc is turned on.  </s>
+<s> it can go two-way as well if you need to get into something on his pc.  </s>
+<s> i don't even think he needs to bring his pc in to work although it might make the initial setup easier.  </s>
+<s> hey tim.. don't complicate your life...or your partners.  </s>
+<s> just use &quot;go to my pc&quot; he can access his computer from anywhere, network with you if necessary, que print both at the office and at home on a wireless network..you just have to set up both of your computers at work for multiple users.  </s>
+<s> jerry  </s>
+<s> but both computers have to be on at the same time that way.  </s>
+<s> ditto for using windows 7 and sharing through a workgroup.  </s>
+<s> that really limits things and takes away a lot of the flexibility.  </s>
+<s> you can use office to do what you are describing.  </s>
+<s> you both can have access to the files and both can modify them.  </s>
+<s> i don't have need for this feature so i cannot give you details of how it works, but it saves the file online and you have access to it from anywhere as long as you have the password.  </s>
+<s> as someone has pointed out, this function is also available in windows 7 without the need for office if you don't need the other features of office.  </s>
+<s> there are a number of ways to do this out there including google docs and drop box and i use &quot;4shared desktop&quot; ( ) which similar to dropbox has automatically updated on line storage as well as a folder on each pc which can hold files common to both pc's. the files are always up to date no matter which pc makes changes.  </s>
+<s> they also have a free amount of on line storage.  </s>
+<s> there is a ground-swell for dropbox -- so that option is well covered.  </s>
+<s> however, you also asked if you could repurpose a desktop as a server. the answer to that is easily!  </s>
+<s> you could use almost any computer you have laying around.  </s>
+<s> if you have any friends with any linux savvy at all, have them set it up for you.  </s>
+<s> if i were in your office and you handed me an extra computer that had windows on it, i'd have the hard-drive wiped and the machine serving files within an hour (faster than you can install windows off a cd). the linux world is wonderful and is designed around networking.... and you don't need to buy &quot;linux server&quot; ... linux boxes are all servers if you want them to be. the only program you need to add to your standard linux distribution is called &quot;openssh&quot; or just &quot;ssh&quot;.  </s>
+<s> it is free of course and takes about 60 seconds to install.  </s>
+<s> once you had such a machine, you could use winscp or filezilla or some other freeware program to move files back and forth between that server and your windows computers.  </s>
+<s> windows does not mind connecting to a linux box, whether in your office or on the other side of the world ... in fact, if you go in over a network it does not even know what is in the other end (that's just part of what's built into networking).  </s>
+<s> unlike some of the other proposed solutions, this one is secure.  </s>
+<s> your fileserver would not be open to the world.  </s>
+<s> you would be logging in to your own account and if your password is good no one else is going to get in.  </s>
+<s> you could make your files read only (for your colleague) and read/write for yourself.  </s>
+<s> so you get to change them, and your buddy can't.  </s>
+<s> of course he could keep a separate copy under his own account ... or you could set them up so either of you could modify them.  </s>
+<s> i have been windows-free in my business and personal life for six years, and i just keep getting more productive.  </s>
+<s> this solution has a learning curve, but it pays dividends (if you are that kind of person).  </s>
+<s> alternately, hire a consultant ... like me.  </s>
+<s> you could have a custom system that did just what you wanted in very little time and is virtually maintenance free.  </s>
+<s> i read about pogo-plug in linux journal.  </s>
+<s> it is supposed to work very well and bypasses all that &quot;learn some linux&quot; stuff i just mentioned.  </s>
+<s> i would not be afraid of trying that.  </s>
+<s> it's so inexpensive it would be hard to go wrong.  </s>
+<s> all this stuff you are reading about &quot;the cloud&quot; ... it's all just linux doing what it does.  </s>
+<s> you can either rent the service from someone else, or set it up yourself.  </s>
+<s> i now live in france, my best friend still lives in the uk. we have found that an easy way to share quite large files is to send them via skype.  </s>
+<s> it's very simple .  </s>
+<s> there are a number of ways you can share files between two people, you can do it through a file server but this isn't always 100% necessary.  </s>
+<s> first one is e-mailing back and to, as you are currently doing, this is the easiest way of sharing files, it doesn't require you to set anything up and you can just fling stuff back and to all the time at each other but of course you have the problem that every time your business partner wants that file he needs to call you up or e-mail you and ask you for it and then you send it him and that can get a bit of a nightmare.  </s>
+<s> another way is to use a system like gotomypc, showmypc, logmein or any of the other similarly named applications.  </s>
+<s> these allow you to create a network connection between your pc and the other persons computer and then the other person can see your pc screen, and any drives you've shared with showmypc.  </s>
+<s> this again is quite simple, most routers and firewalls are set up to allow these applications through and easily share documents.  </s>
+<s> the only issue with showmypc is the fact that the other user can also see exactly what you've got on screen and control your computer, there are security checks in place which advise you when this is happening, such as a password and a notification to tell you that the person is looking at your pc (plus also the mouse can start to move on it's own!), but obviously you have to take this into account when using this and ensure that either you can fully trust the person at the other end or you ensure your monitoring what they are doing and protect or hide confidential documents and information you don't want them to see. then you can also set up your own ftp server.  </s>
+<s> filezilla server will create an ftp server on any windows based pc (and linux has it's own version as well).  </s>
+<s> using filezilla server turns your standard pc into an ftp server (it doesn't require anything like windows server or linux to run, just a standard windows system works fine).  </s>
+<s> filezilla server works perfectly if both computers are on the same network (on the same router), however if you want to access it through the internet it then gets a little more complicated.  </s>
+<s> to set up on an local network you just need to install filezilla server and then set the directory you want to use as the root and create users and what permissions you give to your users (for example read only, read/write, etc) and whether or not you allow anonymous logging in (normally on a ftp server with private documents on it you wouldn't).  </s>
+<s> from then on any pc that retrieves it's ip address from the same dhcp server as the computer (dhcp server is normally on the router) can access that computers ftp server by typing into any windows explorer window ftp:// &lt;ip address or domain name of pc&gt; to find the ip address of the pc just click start and in the search box type cmd and press enter (on xp click run... and then type cmd).  </s>
+<s> a black box will appear with all text in it, then just type ipconfig and press enter, a load of text will be on screen and it will amongst that will be ip addresses for your pc normally starting either 192.168.x.x or 10.x.x.x so if your pc has an ip address of 192.168.1.2 then just type ftp://192.168.1.2 and that will access that computer, you can also use the computer name for example if your computer was called maryceleste you could type ftp://maryceleste and then you will see the ftp site.  </s>
+<s> this of course does all rely on you having the ftp set up on both the router and your pc right, if you find it will only work on the main pc and no others try disabling the firewall for a minute or two and seeing if that makes a difference, if it does then you know the firewall needs to be set up right.  </s>
+<s> now as for accessing this method from a computer connected to the outside world - this can be a lot more tricky and is best if you really know what you are doing.  </s>
+<s> firstly you need to set your computer up with a static ip address (if your router has dhcp reservation you can use this to reserve a specific ip address for your computer).  </s>
+<s> then you need to forward anything going to the ftp port (normally 21) to your computers ip address (using port forwarding options on the router).  </s>
+<s> then you need to find out what your routers ip address is for the internet, this is the wan ip not the lan ip and whether or not your isp gives you a static or dynamic ip address.  </s>
+<s> if they give you a static ip that's good, as long as you have all your firewall software set up right and port forwarding set up you should be able to access your ftp site from anywhere in the world just by typing in your routers wan ip address.  </s>
+<s> if it's dynamic you will need to use a service like dyndns to turn your dynamic ip address into a static one (or ask your isp for a static ip address).  </s>
+<s> then using the ip address they provide you can access your ftp from anywhere in the world.  </s>
+<s> another alternative to this is instead of messing around setting your router up and ip address up is to buy some webhosting and use the ftp connection supplied with that as an ftp drive, of course you need to make sure that the folder you create isn't visible to people using there is also cloud based hosting, such as google documents, this doesn't need much setting up just a google account and then upload all your documents to it.  </s>
+<s> you can then edit your documents through your web browser with google.  </s>
+<s> some other methods that could be used are things like vnc (this shows the pc screen on the other persons computer, like showmypc, but it does need the router setting up the same way ftp server does.) you could use your own server, but again you would need to set that your router up to forward the ports to it, and the same for a nas drive. the simplest method if your not too technical is to use a service like showmypc or logmein, or use cloud based document hosting as all the set up is already done for you.  </s>
+<s> i'm surprised no one has mentioned microsoft's skydrive.  </s>
+<s> i have a hotmail account, and use skydrive to read email attachments online instead of downloading them, and i also keep documents there to email.  </s>
+<s> i have not collaborated on any since i am retired, but this is from the website: work together at the same time you can work with other people on word docs and excel spreadsheets&#8212;all at the same time.  </s>
+<s> as long as the file is stored on skydrive, you can see the changes people make in real time.  </s>
+<s> i also use dropbox and love it.  </s>
+<s> i have it on my laptop and iphone, and share documents and pictures, as well as share them with family members on their laptops and iphones in the shared folder.  </s>
+<s> godaddy's cloud storage is very economical, and they don't limit how many times you can access your account.  </s>
+<s> you have the option of a public area where you can put files for others to access. the minimum storage is 100 gb, which is plenty for most.  </s>
+<s> you can have your data files backed up on godaddy, or you can sync your files.  </s>
+<s> but be sure to clean out the folders of junk that doesn't need to be backed up.  </s>
+<s> please note, if you have lots of gb's to back up it takes a long time.  </s>
+<s> you also have to remember, should you not have unlimited bandwidth usage, you are using bandwidth to back up to the cloud.  </s>
+<s> i use godaddy for work, and haven't found the interaction to be very speedy.  </s>
+<s> of course this may be because the files are still being backed up after about five days.  </s>
+<s> keeping in mind the speed is dependent on many different factors, i.e. your computer is only as fast as its slowest component.  </s>
+<s> for home back up i am using carbonite.  </s>
+<s> it is very pricey, in comparison to godaddy, but it also seems to work better when accessing files.  </s>
+<s> it too took a long time to upload the files off from my laptop.  </s>
+<s> but the yearly cost is for unlimited back up from your computer hard drive.  </s>
+<s> it doesn't do external hard drives.  </s>
+<s> with your windows 7 account you could give your coworker remote access to your computer.  </s>
+<s> there are many options .  </s>
+<s> . .  </s>
+<s> good luck.  </s>
+<s> you've already read of dropbox, pogo, and some others.  </s>
+<s> i would (also) highly recommend skydrive-i believe it offers 25gb free.  </s>
+<s> there is also-4shared, adrive, boxnet, send this file, carbonite, and a multitude of others,  </s>
+<s> live in the clouds.  </s>
+<s> before clouds, i used vpn's, remote control, dropbox and yousendit and gotomypc and other assorted tools which all worked in their way.  </s>
+<s> now i just save it to the cloud i am sharing with a partner or client.  </s>
+<s> we can both view and change what we need and it is always there for the other to see.  </s>
+<s> if you need to save it on your desktop and resave it to the cloud it works!  </s>
+<s> aren't clouds beautiful and you can have as many as you like.  </s>
+<s> small clouds are free.  </s>
+<s> i share common files (in a folder) with a few people around the country using windows live mesh by microsoft, it works similiar to dropbox.  </s>
+<s> once a folder is set up for the files that you want to share live mesh will keep them synced on both machines as long as they both have live mesh running.  </s>
+<s> it is a free download from microsoft.  </s>
+<s> george  </s>
+<s> for my home network my dli**k nas with a built in ftp server works great for me (even through my nat router firewall) to be able to access my files from anywhere and for me to exchange files with others that are too large to email.  </s>
+<s> and unlike the services for this where you pay monthly (i don't need anymore monthly bills!!) for a pitifully small few gigs of space - i have 3.5t free on the 4t nas right now.  </s>
+<s> (luckily i bought them before harddrive prices got so outrageous!) i like the nas solution since it is simple and low impact - ie. small, draws little power and puts out little heat - this is a home network after all.  </s>
+<s> this does not allow multiple people to work the same file at the same time - i don't think anything does that.  </s>
+<s> however, maybe an even better solution for you is a really great program called ifolder (having nothing to do with ap*le).  </s>
+<s> unfortunately it will require a server.  </s>
+<s> heretofore i have only had the pleasure of using ifolder as a client when a company i worked for had it installed; but now i am trying to get this going for myself - unfortunately i am hardly versed in unix but as best i can tell ifolder is free!! but will only run on a suse server.  </s>
+<s> so - i am going to try to see if i can install suse on a thin client and then ifolder (in keeping with my low impact requirements).  </s>
+<s> this will allow me the simple remote access i want - but more importantly for me to effortlessly keep my desktop and laptop in sync.  </s>
+<s> it may not be the perfect program - i'd prefer it did a few things differently - but it the best i've seen so far.  </s>
+<s> in the best of all worlds i guess ifolder would work with linux - which runs most nas units and then someone would sell a nas with ifolder built in - that i would buy!  </s>
+<s> if i ever get this working completely as i'd like - that thin client will run ifolder and an answering machine program.  </s>
+<s> that would be great.  </s>
+<s> another solution for you - if you don't mind keeping a pc on - is team viewer - that works well for me as too - if only it supported wake on lan - then it would be even more useful since that would remove the requirement of keeping a machine on 24/7 - remember - mine is a home network.  </s>
+<s> you might consider spideroak ( ), which has the advantage of allowing you to structure your data the way you want, and also keeps all versions in perpetuity.  </s>
+<s> unlike dropbox, spideroak doesn't know the encryption key so nobody but you and your partner will ever be able to read the files.  </s>
+<s> since you are in a business, pay the $100 a year to get 100gb of storage, then you and your partner use the same account, and then make sure the folders with the business files are selected for backup.  </s>
+<s> while spideroak also has a sharing feature, you would only do this if you were only sharing a few files with somebody rather than actively collaborating on documents.  </s>
+<s> spideroak never forgets a document, as files deleted from a computer are available from a deleted files link in spideroak until you decide to purge them.  </s>
+<s> and, if you aren't doing so already, pay for online backups for both computers.  </s>
+<s> i use backblaze ( ), which backs up unlimited amounts of data for $50 a year, and you can set your files to be encrypted so that nobody but you can access them.  </s>
+<s> thank-you - that was interesting.  </s>
+<s> i took a look at live mesh - i'll try it.  </s>
+<s> it looks like it does what team viewer does plus the sync.  </s>
+<s> for me it will help to sync my desktop and laptop when they are both online.  </s>
+<s> a pity however it cannot use my nas like it uses skydrive to sync when either is not online - but that is not the way the industry is going - they aren't happy enough with high software prices - they want us all dependent and on monthly subscriptions.  </s>
+<s> this all depends on what kind of files you are sharing.  </s>
+<s> if your data files contain personal information, don't use dropbox and don't use google.  </s>
+<s> at least, before you use any online service, read (and re-read) the site's privacy policy and terms of service (tos)!  </s>
+<s> if you read the tos for both dropbox and google, you may find that, on the excuse they need these rights to provide you with a service, they not only do not agree to protect your information, but they claim that you must give them the right to view, alter, abstract and even publicly display your uploaded data.  </s>
+<s> at one point, they both claimed ownership of your data but that is now gone since they are violating copyright.  </s>
+<s> dropbox says that, not only must you give these companies rights to your data, but that by uploading you certify that you have the right to give them those rights.  </s>
+<s> i wouldn't even let a kid put his homework on one of those sites let alone company confidential data.  </s>
+<s> the important thing is to read the tos yourself.  </s>
+<s> otherwise, you may find that your work has been turned over to an advertiser so they can use its contents to send you advertising.  </s>
+<s> i also would not trust twitter as we already learned that anything you send (even outside the u.s.) gets turned over to the department of homeland security (remember the two british youths who stepped off the plane in l.a. and were arrested because of a tweet?. be very careful.  </s>
+<s> you'd be better off creating you own website for this.  </s>
+<s> see my other post or go read dropbox's terms of service.  </s>
+<s> he wants this for business documents which may need to be kept confidential.  </s>
+<s> plus with a recent snafu with dropbox accidently opening all 'secured' documents is not what he wants for his business documents.  </s>
+<s> i would use something that encrypts and syncs data on both the computers, like carbonite or mozy, plus daily external hdd backup (nothing to do with sharing, just data backup)  </s>
+<s> the are a multitude of ways to share files both with someone in the same office or in another corner of the world.  </s>
+<s> dropbox is probably the most popular(at the moment) and is usable across virtually any device including smart phones, tablets, netbooks, pc's and mac's.  </s>
+<s> i have well over 100 clients that use dropbox for both personal and business needs and have had zero issues.  </s>
+<s> however there are many other similar services available with all kinds of features.  </s>
+<s> there are some key factors that can help dictate which type of service best meets your needs: amount of data - one key factor is the quantity of data that you need to share?  </s>
+<s> you mentioned that cost was a big issue.  </s>
+<s> there are several services that offer free accounts for 2gb to as much as 25gb but if you are looking at sharing larger amounts of data, than you will have to pay.  </s>
+<s> for example: dropbox offers a 2gb account for free, 50gb account for $9.99 per month and a 100gb account for $19.99 per month.  </s>
+<s> online storage vs. syncronized storage - some services store your files in the cloud and you work on them remotely or download them as you need them.  </s>
+<s> other services such as dropbox store your files in the cloud but also store a copy on your computer and then synchronize them whenever you make a change or add a file. the advantage of this is that you have access to all your files at all times even if you do not have an internet connection and if you make changes or additions, they will simply synchronize to the cloud and onto other users the next time your internet connection is restored.  </s>
+<s> cost - there are some rather costly programs that tend to offer many more features such as additional storage, increased security and give you greater ability to control who sees what and who can edit or delete files.  </s>
+<s> for example: dropbox offers &quot;dropbox for teams&quot; which starts at $795 per year for 5 users which caters more to business users.  </s>
+<s> no internet - one big issue is whether or not you need to have access to files when you are away from an internet connection or at times when your internet connection happens to be down.  </s>
+<s> compatibility - double check system compatibility with the operating system that you plan to use.  </s>
+<s> some of the services require windows vista or windows 7 and do not work with windows xp or older operating systems.  </s>
+<s> i ran into this problem myself when i wanted to use an old windows 2000 test machine.  </s>
+<s> but i found that dropbox works fine on it too.  </s>
+<s> some system may require that you upgrade all of your equipment before you can get them to work.  </s>
+<s> in some cases this could cost you some big dollars.  </s>
+<s> for example: icloud requires that you update your iphone and ipad to the latest ios and your mac must be running osx 10.7 (lion).  </s>
+<s> if you are using it with a pc too, then you need to have windows vista or windows 7 and outlook 2007 or 2010.  </s>
+<s> so if you are running windows xp with office 2003, you have some major updating to perform.  </s>
+<s> file size - the general size of the files that you work on can greatly affect what kind of service might work best for you.  </s>
+<s> if most of your data is made up of relatively small files (a few megabytes or less each) such as word documents and excel spread sheets than the type of service probably does not matter.  </s>
+<s> but if you have the need to share large files such as video or huge raw image files than online storage may be too slow for you.  </s>
+<s> it can take a long time to access and load some of these files due to the speed of the internet.  </s>
+<s> in this case it would be best to have the files local to all machines and then synchronize them later.  </s>
+<s> online vs. your own hardware - if you simply do not like the idea of someone else having your data, you can always opt for setting up you own file server.  </s>
+<s> if you are handy or know someone who is, you could convert and old computer to a linux file server or simply purchase a nas (network attached storage) box.  </s>
+<s> many of these nas devices offer methods to share files with others over the internet.  </s>
+<s> i had good luck with some of the units from synology and not much luck with some from buffalo.  </s>
+<s> note: keep in mind that having your own system will probably require that you have it on 24/7, you will need to consider some form of backup for it, and you still need to be concerned about security.  </s>
+<s> also, in some cases, especially if you opt for a server of some kind, the power consumption alone could end up costing more than some of the online services.  </s>
+<s> security -most file sharing systems use some form of data encryption but access to your files is still pretty much based on a username and password.  </s>
+<s> i always recommend making this password difficult to guess by using at least 8 characters with a minimum of 1 uppercase letter and 1 number.  </s>
+<s> never use common words that can be found in the dictionary for a password.  </s>
+<s> i also highly recommend using additional password protection that word and excel offer when storing really sensitive files such as personnel files and or other files that may contain things like social security numbers, account numbers and passwords.  </s>
+<s> i do this even for files that are not stored in the cloud.  </s>
+<s> for example: i have a 3 page excel spreadsheet that contains all my account numbers, usernames and passwords for pretty much everything in my life.  </s>
+<s> if this were to get into the wrong hands, it would be an absolute nightmare.  </s>
+<s> it is stored on my computer as well as in dropbox so that i can access it from all my computers and devices as well as a backup is saved on carbonite.  </s>
+<s> some people would say that it is crazy to store that on your computer, but i say, what is the point of having all this technology if you are not going to use it?  </s>
+<s> if i am traveling and lose my wallet, i can go to any computer in the world and access dropbox to get all the phone numbers and account numbers so that i can call and cancel my cards.  </s>
+<s> i don't know about you, but if i were to lose my cell phone, i am not sure if i could even remember my own home phone number anymore.  </s>
+<s> again i can go to dropbox from anywhere and access my list of addresses and phone numbers.  </s>
+<s> these files are important to me and having access to them is equally important.  </s>
+<s> but i also want to store them as safely as possible.  </s>
+<s> so one method is to password protect these individual files using additional password security built into word and excel.  </s>
+<s> this way if someone happens to get your files in the cloud or from your lost or stolen laptop or even some form of virus then those important files have a second line of defense.  </s>
+<s> if you are still really paranoid about security, you could always use a 3rd party encryption program like boxcryptor to encrypt your files before storing them in the cloud.  </s>
+<s> online file sharing alternatives - here are just a few of the many online services that are available: dropbox -- box.net -- icloud -- google docs -- amazon cloud drive -- windows live mesh (skydrive) -- microsoft office 365 -- sugarsync -- spideroak -- if you want to read more about some of these services and compare features here are a few links you may find helpful.  </s>
+<s> dana wayland computer message was edited by lee koo (admin) to add links 03/02/2012 3:16pm  </s>
+<s> by all means use the &quot;cloud&quot; if: 1. you don't mind your data being accessible by anyone in the world that is connected to the web and really wants to see it.  </s>
+<s> 2. you don't mind if your data could all disappear one day when the &quot;cloud&quot; provider goes out of business.  </s>
+<s> 3. you don't mind not being able to access your data when someone makes a mistakes at your &quot;cloud&quot; provider.  </s>
+<s> if you want real secure data be a little paranoid, don't be in such a rush to jump into the clouds.  </s>
+<s> get a raid 1 nas system, (they can be had for $500 or less).  </s>
+<s> store your data on it.  </s>
+<s> have your partner access it via ftp when needed. he could even back up your data to a usb drive at his location.  </s>
+<s> this would limit your exposure to the nastiness of the web.  </s>
+<s> i will admit i don't run a business but if i did i would be very suspicious of putting my eggs into a cloud just to save a few keystrokes.  </s>
+<s> i have read the 28 posts (so far submitted).  </s>
+<s> no one (not one) that i've seen, even mentions this program (teamviewer).  </s>
+<s> everyone appears to take one suggestion, and run with it, or bash it.  </s>
+<s> an individual looking for help/advice, is looking for help, and good advice.  </s>
+<s> i have 2 winxp laptops, 2 win7 laptops (1 dual boots ubuntu), 1 win7 desktop (dual boot ubuntu), and an android powered device.  </s>
+<s> all of these (...!!!all!!!...) have teamviewer installed, up and running.  </s>
+<s> each (and everyone) will connect to the other, regardless of which os is running.  </s>
+<s> and....and!!!! it is free.  </s>
+<s> so......four os's, three systems, one program (diff flavors), and i can connect anytime, from anywhere.  </s>
+<s> oh....did i mention it is free !?!?!?!?!? btw..systems have to be on, and connected to a network, with teamviewer running in the backgrgound (think tsr).  </s>
+<s> read again - i mentioned teamviewer!  </s>
+<s> you need to look at what you are sending up to the internet before you decide on a google docs, dorpbox, teamdrive or any other public &quot;cloud&quot; service.  </s>
+<s> if this is your business, what would happen to you if you found your document on the front page of a newspaper (l.a. times, wall st. journal) or on t.v. or your reuters newsfeed.  </s>
+<s> first, of all, i hope you are not sharing medical data.  </s>
+<s> by putting medical data up on any of these services without you personally encrypting the file, you would be in violation of hipaa and hitech laws as none of these services are hipp-compliant.  </s>
+<s> google says that some put this data on google docs but google does not have any responsibility for protecting your data and is not really hipaa-compliant.  </s>
+<s> i work at a county government.  </s>
+<s> hipaa violations (not breaches) usually carry about a $1 million fine.  </s>
+<s> so, if you are a doctor, lawyer or are looking to share customer data confidentially, i would at least read the terms of service for any of these internets sites.  </s>
+<s> they not only don't guarantee that your stuff is safe, but they actuall claim rights that are opposite of that.  </s>
+<s> convenient, yes, confidential, no.  </s>
+<s> i am not sure, but would that not be a little anoying to have your business partner connecting to your computer and grabing files while you are trying to work on your computer.  </s>
+<s> plus, i don't think i want him to have access to my entire computer.  </s>
+<s> i use it all the time.  </s>
+<s> it will meet all your needs, it keeps the google, drop box and related snoops out of your files, and it's free.  </s>
+<s> does anyone ever turn their pc off?  </s>
+<s> my network pc's are never off, mainly because carbonite backs them all up at night.  </s>
+<s> my son uses dropbox and swears by it...not at it.  </s>
+<s> he has 250 employees at the university and they all share files at will.  </s>
+<s> he wouldn't have it any other way.  </s>
+<s> highly recommended.  </s>
+<s> unless i'm running some long process - which is infrequent. the way i do things my data is backed up immediately after i generate it - to my nas .... which of course is always on.  </s>
+<s> with progressive electric rates here - its too costly to leave a pc on - the nas uses far less power.  </s>
+<s> pc also runs hotter - fire hazard.  </s>
+<s> there are two modes of &quot;rough service&quot; for a computer - frequent on and off and on 24/7.  </s>
+<s> do the math - even if you are a very heavy computer user you are only using 1/3 to 1/2 of its life if its always on (1/4 in a work environment - 5 out of 21 shifts per week).  </s>
+<s> as a result i've had few if any machine failures - they run for years and years - well into obsolescence - which is usually the reason i upgrade or get a new one.  </s>
+<s> this is how i've been using my pc's since 1980.  </s>
+<s> mine go on when/if i need them - and off at the end of my day.  </s>
+<s> it would be nice if team viewer would employ wake on lan - but at least it will wake the computer from sleep mode.  </s>
+<s> i must have missed it, when i posted my reply.  </s>
+<s> your post mentioning teamviewer is dated 28 feb 12....mine dated 26 feb 12. mods in your initial post?  </s>
+<s> btw.... kudos to you for mentioning teamviewer.  </s>
+<s> it seems that messages on this thread do not get delivered in chronological order.  </s>
+<s> i don't know about the dates - i do know that i thought i read the whole thread before commenting and then a couple of days later i got an notify email citing your reply.  </s>
+<s> sorry!  </s>
+<s> oh well - at least we got the message out about team viewer.  </s>
+<s> i set that up before my nat's ftp server.  </s>
+<s> both are useful but the nat uses less power and is always on.  </s>
+<s> like i mentioned - if team viewer did wake on lan - then it would be complete - then i could remotely access my computer whenever.  </s>
+<s> now i just need a good sync solution - like ifolder!  </s>
+<s> i have just successfully used logmein hamachi to setup a vvpn (not sure if that is a new acronym, but it works) virtual, virtual private network.  </s>
+<s> instead of using a vpn box where i had to configure it past the firewalls at each office, i just installed the free version of hamachi from logmein. it worked like a champ.  </s>
+<s> even if you use the paid version, which is 32 connections, its only $19.00 a year.  </s>
+<s> i connected two offices shared drives.  </s>
+<s> one in dallas one in florida, mapped the drives on each pc and it worked like a champ.  </s>
+<s> very easy to setup, anyone can do it, it uses port 80 and 443, so its no problem getting past firewalls.  </s>
+<s> norton gave me trouble on one pc, but i just added it to the exception list.  </s>
+<s> i was very impressed at how well it worked and even more impressed with the price.  </s>
+<s> and skydrive (now just part of live) gives you 25gb of storage that you can share...or not...  </s>
+<s> dropbox is super cool and easy to use.  </s>
+<s> download, install, create a folder then share it with your co-worker.  </s>
+<s> it will take 5 minutes tops.  </s>
+<s> everything you put into the dropbox folder will show up magically in the co-workers dropbox folder, if you make a change it will magically change on the other computer, if you drag it out of the folder it will disappear from the other computer.  </s>
+<s> if you click this next link to get your new dropbox account i will get a referral 1/4 extra gb of space from dropbox and you will get a dropbox 2gb account for free!  </s>
+<s> never use a usb flashdrive ever again.  </s>
+<s> if you are worried about security and encryption, use another free program called trucrypt.  </s>
+<s> encrypt your files right in your dropbox folder.  </s>
+<s> more info is here: if the files you share are a spreadsheet or a document, then use google docs.  </s>
+<s> super easy to share a file, it is designed for document collaboration.  </s>
+<s> ed.  </s>
+<s> you can get a secured 2 gigs of storage.  </s>
+<s> this is plenty of storage for documents, and typical office files, such as excel, photographs etc. also, files can be worked on and saved to the dropbox file, and collaborative efforts are possible however, if you mutually work on a file, you cannot work in a &quot;whiteboard&quot; fashion.  </s>
+<s> so, it is best if one person works a file and saves it, before the person on the other end picks up and works on it.. also, it's a good idea to keep a back up copy of files in a separate folder, even if it's another dropbox.  </s>
+<s> there are other cloud storage options, but i've found dropbox to be simple to use, and simple to implement.  </s>
+<s> if you find it valuable for your business, you can also add storage and the price is reasonable..  </s>
+<s> compare the 25 gb free online storage available through skydrive with the overly highly praised 2 gb free online storage available through dropbox.  </s>
+<s> you can't do much with 2 gb and prices go up fast from there.  </s>
+<s> i frequently post 50 to 75 high resolution photos to skydrive for family members.  </s>
+<s> you simply cannot do that with dropbox free version.  </s>
+<s> remember this is for a business.  </s>
+<s> if he has customer data, you would not want to share that on a dropbox account, especially if the data is customer medical records.  </s>
+<s> go to logmein.com.  </s>
+<s> they have a free version and then a pro version.  </s>
+<s> i use the pro version because you can tap into his or your computer from either one and use it like you are there.  </s>
+<s> we have the pro version for three computers and have five computers accessable through the program.  </s>
+<s> if one computer just has the free version i transfer the pro version to it until i get what i need. it works perfect for us as there is nothing online it stays on or just between your own computers.  </s>
+<s> i have been impressed with the new nas that pogo plug is offering.  </s>
+<s> i had a couple of old 200 gigabyte hard drives and bought 2 hard drive enclosures and hooked them up to my pp. myself and others that i give permission to can access any files, music, videos or &quot;junk&quot; that i designate.  </s>
+<s> it's easy to set up and maintain.  </s>
+<s> you can also use it to back up everything on your computers.  </s>
+<s> since it is your own personal cloud there are no maintenance fees or anything else associated with it that cost money.  </s>
+<s> i have it all protected by my norton 360 so it is encrypted and safe.  </s>
+<s> i even check on and add to shared files we are working on through my thunderbolt android phone.  </s>
+<s> i love my pogo plug for just this type of work!  </s>
+<s> i'd use dropbox.  </s>
+<s> avoid google they are now snooping in everything you do online.  </s>
+<s> i love this program.  </s>
+<s> i used windows live sync for years, when it existed and supported xp. i kept 2 work computers, one home computer and one laptop with all the same files via sync. the entire program rolled into windows live mesh, but only works with windows 7. i actually upgraded all my computers to windows 7 last year just to continue to use this program.  </s>
+<s> it is much easier to use than dropbox and others mentioned, plus it is free, plus it is not limited by a certain gb limit, just the size of your hard drive.  </s>
+<s> here's a few you might think about.  </s>
+<s> how about a ftp program like filezilla, just give him access to a certain folder or directory, he can copy/download them easily, and you can make it so he can not change.  </s>
+<s> move add or delete anything unless you want to.  </s>
+<s> maybe a program like team viewer which is remote pc support and screen-sharing ?  </s>
+<s> i also like the idea of things like hotmails/windowslive, skydrive.  </s>
+<s> or if you are having to edit at the same time or something like this google had something for you forget what it was called, but easy to find.  </s>
+<s> i can't stand google though, i'm more into privacy.  </s>
+<s> what's more you can find a few of those aforementioned programs in portable format they run from a usb stick or cd or desktop whatever.  </s>
+<s> shoot i believe you can do it remotely and definitely networked/lan, windows has it built in.  </s>
+<s> they are called, network places.  </s>
+<s> their web site can be found here. it is a secure service and by establishing a work-group you can mount the remote storage just like a local disk.  </s>
+<s> each user can have his own private space and you can establish a shared space.  </s>
+<s> the other good side is that you can also access your files from any browser so it's perfect for working on the road. the pricing is very reasonable (not free) and is based on how many users access the file storage and how much data you need to store.  </s>
+<s> it is billed monthly and the pricing is dynamic so you never run out of space.  </s>
+<s> you just need to make sure you don't get carried away with the space you consume.  </s>
+<s> you can also set it up to do periodic backups of critical data based on local changes.  </s>
+<s> the company behind jungledisk is rackspace so it's not some fly by night operation.  </s>
+<s> i've been using it for about a year between my home system and the office with other users in a work-group.  </s>
+<s> tom  </s>
+<s> has anyone had experience with this product?  </s>
+<s> my understanding files are encrypted during transmission with dropbox - though of course not encrypted to the user when logged in.  </s>
+<s> for me dropbox is the ideal solution which in addtion to syncing copies of the files stored at both locations (the files are in each dropbox folder on the computer as well as in the dropbox folder online.  </s>
+<s> 1) you access files normally on each computer because that is where they are so apart from when they are actually updating you load them as quickly as any other file 2) you can access files even if your internet connection is down, they will synchronise when you re-connect 3) you can also copy files to a public folder in dropbox (this doesnt mean the world can just find them) it is a public sharing folder so if you have a large client presentation say, you can keep this in the public folder and any time you want to send it to a client you can instead send a link to the specific document in dropbox - this gets around the problems of some clients not receiving attachments 4) if you happen to be elswhere, at a client or on holiday, you can access your files from any computer with an internet connection without having to lug your laptop around 5) you can also use apps for both android and ios to access the same files, or upload new files, from your mobile or tablet device i have used dropbox since it first came out and apart from one well publicised security issue (which has now been fixed) it has been 100% reliable for me and easier to use than any other file sharing method i have tried.  </s>
+<s> some mention google docs - hmm ok if you want to use the google software rather than your own but i prefer to do my editing off the cloud.  </s>
+<s> i find teamviewer a &quot;must have&quot; program.  </s>
+<s> while i've used it for remote diagnostics, i use it primarily to run my business pc (in my upstairs office) on my laptop (downstairs in the living room).  </s>
+<s> i got tired of going upstairs to turn my office pc on (i guess i'm getting lazy in my old age), so i found a neat, free software utility that does that. it says that it works with wired, but i use my wireless network to do this without an issue.  </s>
+<s> what's also cool about this is that when you scan for devices, it will show you everything on your network...roku, phones, anything with a wireless address.  </s>
+<s> i didn't have to mess around with the bios settings either.  </s>
+<s> highly recommend this....i'm not a techie per se, but i found this a snap to use.  </s>
+<s> i only wish i could wake up the pc when i'm on the road and away from my wifi network...haven't figured out a solution for that.  </s>
+<s> it installs with all the drives being given some type of access, when i tried it. the most concerning was drive c. but with the setting throttled back it seemed to work okay it the precise ip adsress was used. the dynamic address stuff is not working so far.  </s>
+<s> it even allows one to limit just what ip address it will relate to, or not relate to, if you wish.  </s>
+<s> hey tim,you could use to share the data with your friends,it is only for 2gb,we always share program with our clients by wetransfer.  </s>
+<s> hope it helps you  </s>
+<s> why no mention of usenet or bittorrent?  </s>
+<s> they are cheap/free and efficient for the kind of file-sharing in question..  </s>
+<s> another vote for microsoft! it works on windows 7, and on vista contrary to what another reply said.  </s>
+<s> live mesh will synchronise files between the 2 pc's when they, and the internet connections, are on.  </s>
+<s> the benefit over most cloud solutions is that you don't need access to the cloud to get the files.  </s>
+<s> they are there when you want them instead of having to wait for a download.  </s>
+<s> hi this is also possible using google apps like large files or ge.tt and if you dont know how to access these then use my youtube channel to see how and if you need anymore info then just email me thanks ian what you want is on ten minutes in the video thanks ian leave comments on my youtube if i helped thanks again.  </s>
+<s> hi tim here is another video on youtube which you may like to look at it thanks ian  </s>
+<s> i have screen captures of all kinds of stuff.  </s>
+<s> i can have that display at 3 per second and video that.  </s>
+<s> i did that with over 900 trapline pictures.  </s>
+<s> just videoed them popping up on the screen.  </s>
+<s> very easy.  </s>
+<s> not all that difficult to have just selected users access your video as well.  </s>
+<s> video is easy to stop and start so seeing it all isn't a problem.  </s>
+<s> i like easy; maybe even lazy.  </s>
+<s> we (3) want to share from 3 different usa locations (view, enter, edit) quickbooks. the cost of quickbooks is $40.00 a month.  </s>
+<s> do you think we can acheive the same thing using gotomypc,showmypc ot logmein with a lower cost?  </s>
+<s> thank you  </s>
+<s> you might give the file sharing option a try.  </s>
+<s> once your two computers are connected, your business partner can probably access whichever files he wants.  </s>
+<s> i have never used the program for file sharing, but i do use it occasionally to assist friends on their computers.  </s>
+<s> download and install the free program at on both computers.  </s>
+<s> there is no guarantee that the files will ever be safe once they are in the cloud, if that &quot;cloud&quot; is not controlled by the owner of the files.  </s>
+<s> any cloud storage is subject to certain risks so it becomes a matter of what information is being pushed up there, and the potential liability.  </s>
+<s> in most all cases the data is safe.  </s>
+<s> an individual's information from an everyday business would probably not be of much interest to those who have the ability to hack into it. the level of protection that one might be looking for is directly related to the sensitivity of that data.  </s>
+<s> that said, even banks and other keepers of personal information have had breaches.  </s>
+<s> there are risks.  </s>
+<s> make a decision as to what level your information needs protection and i'd wager that the more protected it needs to be, the more valuable your overall business is as well, therefore, you can manage to pay for the additional protection.  </s>
+<s> i think a secure dropbox account is a reasonable choice for most businesses.  </s>
+<s> as well the data that is pushed into the box can be password protected, and encrypted.  </s>
+<s> at the risk of wash, rinse, repeat: determine the value of your information and seek out the level of storage and protection you need.  </s>
+<s> lots of good suggestions; i might switch to one of them.  </s>
+<s> currently my wife and i have 2 computers (vista & windows7) and a seagate goflex external drive attached to our router.  </s>
+<s> we have the same basic file system on all 3 hard drives, omitting some of the large old un-needed files from one or the other or both of our computers.  </s>
+<s> when we change or create a file on one computer, we also update the external drive and also drop the new file into a special drop box on the external drive. the partner can periodically check the &quot;drop box&quot; and copy the new or revised file on his/her computer hard disk.  </s>
+<s> then the file in the drop box is deleted. the difficult part is keeping the filing systems in sync, especially since we both keep finding ways to improve/streamline the file systems.  </s>
+<s> that problem, synchronizing filing systems, would seem to be with us no matter which of the suggested file sharing systems we used.  </s>
+<s> i'm not so sure about teamviewer, although i'm on my way to get it now... but i sure got a kick out of this post (ha!) john b.  </s>
+<s> i understand that teamviewer allows the person you allow to read your computer files, including areas you are hiding from your better half [read mature pics] or top secret files from iran.  </s>
+<s> barring these two extremes it's a matter of trust as to who you allow to use teamviewer to help you work with your computer ... and your business partner, why did you pick him/her in the first place?  </s>
+<s> you are both there for the same purpose - to make money through being of service using a partnership.  </s>
+<s> and if you can't trust him when you have a problem, will you kindly leave the partnership legally [and this could cost you more than a shekel] but it might be the best alternative if you are so hung up pn privacy issues.  </s>
+<s> consider that andrew carnegie knew nothing about the manufacturing of steel but he assembled a mastermind of individiduals working for the same purpose ... he also had no problem replacing who he had as members of this mastermind ... this is the source of his way to wealth.  </s>
+<s> it is my undestanding that teamviewer shuts off after you are through with the immediate task at hand so if he is going to grate your files while he's trying to help you,.  </s>
+<s> you can deny him further access by turning off your teamview and barring tht posssibility , restart your computer while in the middle of teamviewer and he'll need your permission to get back on.  </s>
+<s> now wayne , anyone who uses teamviewer has to have trust as i mentioned before so the issue is more how important is that file you need that he has versus how much is your own data you are trying to hide from him.klet's  </s>
+<s> turn the question the other way around.  </s>
+<s> suppose you have the info he needs and withholding trnsfer will cost your business a few thousand dollars.  </s>
+<s> how important is the privacy issue?  </s>
+<s> it could be anyone if some kid working as a system administrator at dropbox gets bored and finds your upload.  </s>
+<s> or google decides to send your uploads to a third party like an advertiser.  </s>
+<s> after reading many of the posts here i see there are many concerns over security of documents stored in the cloud and i would like to expand on this a little further.  </s>
+<s> first, security of you data should always be a concern whether you use cloud storage or not and i would not treat one any differently than the other.  </s>
+<s> if you have any data that you would not want to lose or see on facebook or youtube then you should take extra steps to protect it whether you are storing it on your computer, on a server, on a nas device or in the cloud.  </s>
+<s> if your data is subject to hippa or other regulations, then you also need to further protect this data.  </s>
+<s> use your own password protection and encryption.  </s>
+<s> if i look at the average computer user, who typically does not have a lot of technical knowhow, their data is probably a lot safer in the cloud than it is on their own computer.  </s>
+<s> these users are typically the ones that let their antivirus software expire, did not setup their wireless router correctly, do not know how to implement a firewall and probably do not have any backup system in place or if they do there is a good chance that it is either not working correctly or stopped worked years ago.  </s>
+<s> they are also the ones that have had their aol, gmail or yahoo accounts compromised because of a weak password.  </s>
+<s> i don't say this because i want to put anyone down but rather to prove a point.  </s>
+<s> say what you want, but their data is probably saver in the cloud.  </s>
+<s> having personally well over 10,000 service calls under my belt, to date, i do not know of a single person that has lost or had data stored in the cloud compromised, yet... (not including email accounts).  </s>
+<s> but i have had plenty of people lose documents stored on their computer because of a hard drive failure or by simply deleting them by mistake.  </s>
+<s> i have many others lose or have stolen their entire laptop, ipad or smart phone and i have had numerous nas devices fail (especially buffalo drives) as well as plenty of external usb drives go bad if you take the time to create secure passwords (and change them often), setup multiple working backup systems, and implement additional encryption or password protection for sensitive data, then i really see no reason for concern.  </s>
+<s> yes anyone of these companies could go belly up in the morning but so could your computer, that is what backups are for.  </s>
+<s> dana wayland computer  </s>
+<s> a solution i have not seen in this long and interesting thread is to use microsoft live mesh.  </s>
+<s> as long as your are running windows 7 this should work.  </s>
+<s> there are differences in live mesh compared to dropbox.  </s>
+<s> here are some of the things i like about live mesh: 1. live mesh does not store files on a cloud server, it just synchronizes files between computers.  </s>
+<s> 2. storage is limited only by the amount of hard drive space you have.  </s>
+<s> 3. you can specify which folder are &quot;watched&quot; and synchronized--you do not have to put files in specific locations on your hard drive (like in dropbox).  </s>
+<s> 4. with proper permission you can log into a remote computer (like remote desktop).  </s>
+<s> 5. you can choose to automatically or manually synchronize folders and files (i use automatically).  </s>
+<s> 6. you can control permissions to people you invite to share files and folders (read/write, etc.) but, there are also some issues.  </s>
+<s> live mesh is more complicated than dropbox and i have seen some initial confusion synchronizing folders on different computers with different pathnames (it will work, but may be confusing).  </s>
+<s> and, this is not a good solution for non-windows users.  </s>
+<s> for me, this has been a set-it-and-forget it solution to keeping 500gb of data files synchronized between home and work.  </s>
+<s> as an additional bonus, i back up all my music and photography files on an external hard drive i hang off a remote computer.  </s>
+<s> you can learn more at best, alan  </s>
+<s> many people mentioned the dropbox. the dropbox is not good for the video uploading and sharing.  </s>
+<s> sharing video file is very slow. the dropbox is not perfect for all the files sharing.  </s>
+<s> this is a long & interesting thread.  </s>
+<s> please re read carefully and you will notice 4 other posts mentioning windows live mesh  </s>
+<s> many years ago, i started using microsoft's &quot;briefcase&quot; for file synchronization.  </s>
+<s> more or less, that what live mesh is.  </s>
+<s> i've rarely heard of people using briefcase over the years.  </s>
+<s> i think it's still available in windows.  </s>
+<s> it seems to me that remote access is another possible solution, whereby the files are worked on in/on a separate virtual window.  </s>
+<s> citrix for example might be a good solution for his needs as well, .  </s>
+<s> a virtual desktop would be a good solution and the nice thing about it is that the remote side doesn't need to have a super fast connection.  </s>
+<s> i've used mine with a 3g hotspot connection.  </s>
+<s> there are reasonably secure solutions and many ways to kill that cat.  </s>
+<s> let's look at the original request.  </s>
+<s> the poster wants a method to use for a business.  </s>
+<s> not just share vacation photos.  </s>
+<s> not just put up their recipes.  </s>
+<s> this is business data.  </s>
+<s> my point was that we really don't know how confidential the data is.  </s>
+<s> if this is customer data, would you, as a customer, feel good about knowing that your information, possibly including credit card numbers or medical data, is sitting out on the internet where it is almost guaranteed that someone will see it?  </s>
+<s> you also said, &quot;having personally well over 10,000 service calls under my belt, to date, i do not know of a single person that has lost or had data stored in the cloud compromised, yet... (not including email accounts).  </s>
+<s> &quot; i can tell you that, if you were using google docs, this would not be true.  </s>
+<s> google employees are allowed to read your information that you put up there.  </s>
+<s> dropbox is the same way.  </s>
+<s> if you don't believe this, just read the tos, the privacy statements and the faqs of all of these services.  </s>
+<s> google states that all documents are scanned electronically looking for inappropriate information.  </s>
+<s> they also state that many of the documents are scanned by their employees.  </s>
+<s> they also say they can give your data to 3rd parties (such as? maybe homeland security as twitter does?  </s>
+<s> or their advertisers?). both google and dropbox have been hacked in the past with data being compromised.  </s>
+<s> so, in general, while you may be correct that your data has never been compromised, if you used some of these services, your data technically has been compromised but you may not know it. it depends if you trust the host's employees or not.  </s>
+<s> but what if your information is so sensitive, that nobody can see that data?  </s>
+<s> not even google or dropbox?  </s>
+<s> for example, my credit card numbers.  </s>
+<s> or a lawyer's case notes on a trial.  </s>
+<s> what if you have client's medical data (hipaa-related) and you put those up there and get caught?  </s>
+<s> have a lot of money to pay a fine? is putting the data up there enough to cause a violation just in itself?  </s>
+<s> these services do not guarantee hipaa-compliance (read faqs).  </s>
+<s> not only do they not guarantee that you documents would be safe but they say that they have a right to read, modify and display your documents publicly!  </s>
+<s> don't believe me.  </s>
+<s> just do the reading.  </s>
+<s> if it is free, chances are they are making their money some other way by how you use their services.  </s>
+<s> even twitter snoops (or is it the homeland security people doing the snooping).  </s>
+<s> just because you use something for business does not necessarily mean that the information is anymore sensitive than someone's personal information.  </s>
+<s> i see plenty of business data that is pure junk.  </s>
+<s> but, that is exactly why i said that if you have sensitive information that you did not want anyone to see, then simply encrypt the data before saving it.  </s>
+<s> no one can see, view or read it but you.  </s>
+<s> this should be done whether or not you use any form of cloud storage.  </s>
+<s> this is also why i typically don't recommend google docs because there is no way that i know of to add your own protection to the items saved there.  </s>
+<s> if you encrypt the your dropbox data then my understanding is that it is hipa compliant but if anyone has information to the contrary, please by all means let us know.  </s>
+<s> dana  </s>
+<s> dropbox and many of the other services are handy and convenient, but they lack a great deal in terms of security.  </s>
+<s> that has always been of concern to me, especially in regard to client and customer data.  </s>
+<s> jungledisk provides a great deal more security and is very affordable.  </s>
+<s> security-wise, files are encrypted at rest as well as during transfer.  </s>
+<s> in addition, you, rather than jungledisk, control the encryption keys. the downside is that jungledisk is slightly more challenging in terms of initial setup, but nothing that most users could not accomplish.  </s>
+<s> tonido is also a very handy service.  </s>
+<s> one big advantage with tonido is that your files are never stored in the cloud; they are shared directly between the users' computers with tonido servers handling the encryption during transmission. the sync and sharing components are slower than jungledisk, but the web access is very good.  </s>
+<s> file sharing and configuration control with subversion (svn) is my answer.  </s>
+<s> svn is a popular and very well implemented, opensource (did i say free?) configuration control system: ( ) that runs on most platforms.  </s>
+<s> the svn repository must be hosted somewhere which entails a bit of work, but there are cloud-based free or inexpensive svn services out there like beanstalk ( ). each workstation needs a client application to checkin and checkout files.  </s>
+<s> i use and suggest opensource tortoisesvn ( ) which integrates smoothly with windows.  </s>
+<s> there is some learning involved, but the benefits are vast.  </s>
+<s> enjoy!  </s>
+<s> i believe we are in the same boat, i know what you are saying.  </s>
+<s> but, if you really mean that literally you need to learn more .  </s>
+<s> do more research as it isn't true.  </s>
+<s> stay a way from google for sure.  </s>
+<s> if i put up my own personal information and it gets published on the from page of the l.a. times, that is my own hard luck.  </s>
+<s> if i am running a business and my customers find out that their information was exposed, that is entirely something else.  </s>
+<s> both the u.s. and most states have laws governing that.  </s>
+<s> last time we just lost a laptop, it cost us over $500,000 just in postage to be in sync with the law.  </s>
+<s> you can't just send an email and you can't throw up your hands and say &quot;oh, well!!&quot; it doesn't work that way in business.  </s>
+<s> not to mention paying for your customer's credit reporting for a year.  </s>
+<s> look up california sb 1386 and follow-on laws.  </s>
+<s> i agree on encryption.  </s>
+<s> completely.  </s>
+<s> but the question is, who is really going to do that (raise your hands out there....). the whole attitude is speed, ease of use and convenience.  </s>
+<s> encrypting is not convenient.  </s>
+<s> if we go back to the original post, the poster did not want to use email because it wasn't convenient.  </s>
+<s> before you say it, if he or she is using business data by email, even that should be encrypted.  </s>
+<s> if you encrypt everything you send up to google or dropbox then i would agree.  </s>
+<s> it would meet the standard of being unreadable, unrecoverable, etc. that would make it hipaa-compliant.  </s>
+<s> what i'm pointing out is that even though these services encrypt your data, that is probably not good enough as the services themselves can read your data and can publicly display your data if they want to.  </s>
+<s> or if some bored system admin decides that court documents covering a &quot;lindsay lohan&quot; trial would be something all of his friends would want to see.  </s>
+<s> so, getting back to my original concern, people need to be familiar with the terms of service and privacy policies of whatever service they use.  </s>
+<s> will the service take responsibility for keeping your information private?  </s>
+<s> what about medical data?  </s>
+<s> hipaa is a whole different thing.  </s>
+<s> at least if it is only your information, you only have yourself to blame.  </s>
+<s> you won't be in violation of state or federal law and you are not likely to sue yourself.  </s>
+<s> also,  </s>
+<s> we already know that twitter sends stuff to the department of homeland security.  </s>
+<s> just ask the two british people who were arrested for a private tweet as soon as they stepped off the plain in lax.  </s>
+<s> also remember, there is nothing out there that is truly &quot;free&quot;.  </s>
+<s> if that were the case, google would not be a major company.  </s>
+<s> they subject you to advertising and that costs the advertisers money which, in turn, costs the end consumer more money as the cost is added onto the price of the products.  </s>
+<s> i downloaded and tried both dropbox and windows live mesh. the description of syncing with windows live mesh sounded like exactly what i wanted.  </s>
+<s> changes in a synced folder on one computer would be copied to the corresponding synced folder on our other computer.  </s>
+<s> it took me a long, somewhat frustrating time to get windows live mesh installed on our vista laptop, partly because i had to do so many updates to get the computer ready.  </s>
+<s> but i finally got it installed and tested it out.  </s>
+<s> maybe, probably, i did something wrong, but the synced files didn't go to the correct folders on either computer.  </s>
+<s> in fact, on the vista computer the sub-folders were transferred - shifted around, but all were empty!  </s>
+<s> very disappointing.  </s>
+<s> i'll stay with drop box which works as advertised.  </s>
+<s> it means i have to move the updated or newly created files into the proper place on the alternate computer, but at least they are there and up-to-date.  </s>
+<s> since the free version is only 2 gigabyte, i'll use it for key files that one of us changes while either or both of us are on the road.  </s>
+<s> for most work at home, i copy all changes onto corresponding folders on our go-flex external drive attached to our router. the filing arrangement is the same on both our computers and the external drive.  </s>
+<s> we also dump a copy of any new or changed file into a special drop-box-like folder on the external drive.  </s>
+<s> that is a reminder to enter that updated file on the alternate computer.  </s>
+<s> pity the win live mesh didn't work as expected, but for me it is not worth the aggravation to try to find a way to make it work right.  </s>
+<s> i guess i did not explain my point very well.  </s>
+<s> i deal primarily with private clients as well as small businesses of 10 or less employees as well as a whole lot of in-home businesses and there is a big difference between what should be and reality.  </s>
+<s> for the most part, they do not have the it staff, personnel, funds or the know-how to implement security of any kind.  </s>
+<s> i walk into small offices all the time that have zero security, no backup, expired antivirus and no encryption on their wireless network.  </s>
+<s> they may also drop off unprotected computers and laptops to any old geek at any store for service.  </s>
+<s> my point was that in many cases their data was probably more likely to lost or stolen in their own office or home then if it were with someone like dropbox. is this good?  </s>
+<s> no! does it meet the requirements of any privacy law?  </s>
+<s> no! is a service like dropbox or google perfectly safe?  </s>
+<s> no! which again is why i recommend encrypting your own data before saving it anywhere.  </s>
+<s> i agree, that even though services like dropbox claim to encrypt the data, they also hold the key.  </s>
+<s> which is why i would recommend that if you have sensitive data, then you should encrypt your whole dropbox folder yourself.  </s>
+<s> i am not disagreeing with you at all...  </s>
+<s> sugarsync works for us just fine.  </s>
+<s> teamviewer has a limit of about 20 minutes of inactivty, before it auto-logs off/out.  </s>
+<s> i have been using the free version (not corporate), for a few years.  </s>
+<s> no one has &quot;asked&quot; me for, or pressured me for money to purchase.  </s>
+<s> also, no popups (unless they're invisible).  </s>
+<s> be aware that dropbox has tons of bugs which means you need to back up all your files somewhere else as they may disappear off of dropbox without one of the users deleting them.  </s>
+<s> also, sharing can suddenly be removed, meaning you can no longer share files and have to go reset the settings (which can cause it's own problems).  </s>
+<s> since the documentation is very poor, support is very slow and takes a quick look and sends out a standard reply (often missing what really happened/is going on) and there are tons of problems being reported in the forum so good luck searching through them to get an answer or getting your problem replied to, it will take you a lot of time to resolve the issue.  </s>
+<s> but if you want a free product, that you can share files to (not caring if you have to put in extra time when it doesn't work) and you keep copies of all files somewhere secure, then dropbox is useful.  </s>
+<s> we had a problem, checked their forum and found tons of people with problems. the software is created so that if one person deletes or changes a file, dropbox does the same thing on all locations.  </s>
+<s> but many people report that files were deleted when they didn't do any delete.  </s>
+<s> at times dropbox support said they found an event that showed someone deleted the files, but about 25% of the time the answer was yes the file was deleted and we didn't see [an event that indicated] anyone delete the file.  </s>
+<s> so make sure everything is backed up, do no rely on dropbox to backup the files for you. the problem we had was sharing all of a sudden stopped.  </s>
+<s> we didn't know why. in debugging the problem (dropbox replies quickly with standard simple answers, but it takes them 24 hours or much longer to respond when they can't spit out on of the simple answers that might have caused your problem.  </s>
+<s> note the simple answers do not necessarily apply to your situation, just standard ones they have available - like someone must have deleted the file, go look at the events to see if someone deleted the file.  </s>
+<s> there was no event saying anyone had unshared the folder.  </s>
+<s> we were doing our own debugging while waiting for dropbox, and found there was sharing issues.  </s>
+<s> each user's webpage for dropbox showed files that matched their computer, but the two webpages didn't show the same list of files.  </s>
+<s> we noticed that sharing had stopped.  </s>
+<s> there was a rejoin button, so we clicked it.  </s>
+<s> but instead of restarting the sharing, it created a new copy of the files and synced it to the other account.  </s>
+<s> now we had a bigger problem, two sets of files that didn't match and oh, we now exceeded our dropbox account size (which the dropbox support person nicely pointed out was a way that sharing stopped, rather than checking the events to see that sharing had stopped before we tried a rejoin).  </s>
+<s> end note - back everything, don't trust that dropbox is really doing sharing or keeping your files.  </s>
+<s> from what i saw, about 3/4 of the problems people listed in dropbox were from people who had not set it up correctly (e.g. their antivirus was stopping dropbox from working), but about 1/4 of the problems with deleted files and sharing problems were dropbox bugs.  </s>
+<s> when i don't have dropbox running i still have my synced files on my machine.  </s>
+<s> also, if someone deletes the files, these are not deleted from my machine until i give the ok! something odd is causing you problems as you noted but here?  </s>
+<s> all good.  </s>
+<s> bob  </s>
+<s> bob, you say: &quot;when i don't have dropbox running i still have my synced files on my machine&quot; the problem is dropbox runs when your computer is running, the &quot;synced&quot; files change on their own, so when anyone at any synced location changes a file/deletes a file, the ones on your computer change also.  </s>
+<s> you also said &quot;also, if someone deletes the files, these are not deleted from my machine until i give the ok!&quot; so where is the documentation about that feature (and one that says you don't accept any file changes anyone else did without you oking them - same issue)?  </s>
+<s> that goes against the purpose of dropbox, to automatically keep everything in sync.  </s>
+<s> as i said, their standard help documentation is sparse and i saw no mention of this &quot;feature&quot;.  </s>
+<s> i used to &quot;love&quot; dropbox and tell everyone about it, until we ran into these problems and i started reading the forums and seeing all the people having problems with files &quot;disappearing&quot; and syncing not working and while debugging learning how dropbox was really written to work.  </s>
+<s> as most of us can send files up to the limit allowed via your regular email account this goes direct to the other persons account.  </s>
+<s> if you trust the person on the other end you might be able to use team viewer you can also reduce the size of the fille using a photo editor ... you can use a zip program for this as well.  </s>
+<s> these suggestions should not be overlooked ... always scan the file with a anti virus.malware program before sending or receving a data file.  </s>
+<s> dap is a great download program ...  </s>
+<s> i have several hundred clients that have been using dropbox for well over a year as well as several businesses using dropbox for teams and have never had a single problem.  </s>
+<s> backing up your data goes without saying.  </s>
+<s> you should never just a single copy of any data regardless of where it is.  </s>
+<s> i do use dropbox and appreciate its possibilities.  </s>
+<s> but it does not &quot;sync&quot; changes to corresponding files on our two computers.  </s>
+<s> it simply puts the modified files in the dropbox on the other computer.  </s>
+<s> so the problem i foresee is this: computer a modifies filex and drops it in the box,.  </s>
+<s> computer b modiies filex (without incorporating the changes from dropbox.) and saves his version to dropbox.  </s>
+<s> i guess i'll have to run some experiments to see if dropbox does anything to prevent or at least flag this.  </s>
+<s> by the way, i tried the sync facilities that were promised by windows &quot;live&quot; -- the results were unacceptable for me.  </s>
+<s> ms merge (or whatever it's called) put the files in the wrong places on the other computer.  </s>
+<s> well your reply said it all.  </s>
+<s> the feature you said that prevented others from deleting a file from a shared dropbox folder - you could not provide any documentation about this feature.  </s>
+<s> never seen it, and as i pointed out it does not fit with the purpose of dropbox.  </s>
+<s> yeah, i used dropbox also as a business, for about 4 months, until we ran into a dropbox bug which led to other bug and i read the forum to see all the problems there.  </s>
+<s> i suggest for anyone to look at the dropbox forum user sight to see what users are reporting as problems.  </s>
+<s> note, there is no way to see the number of problems they reported directly to dropbox.  </s>
+<s> a lot of problem reported every hour when i checked, problems with no syncing and even worse deleted files.  </s>
+<s> dropbox support is virtually non existent, so of little help when you run into a problem and no way to contact them except online (no chat no phone calls) use dropbox at your own risk, being aware of the problems it has.  </s>
+<s> i can only guess that these problems are probably due to either user error, virus infected computers or other issues unrelated to dropbox.  </s>
+<s> i have not seen any problems with the installations with my clients.  </s>
+<s> i don't see what the big deal is with deleted files.  </s>
+<s> dropbox keeps deleted files for 30 days so if someone deletes your files by mistake you can still get them back.  </s>
+<s> but in the end, you should have your own backup anyway.  </s>
+<s> i am using the stock version and settings and see the verification popup when i delete a file from my other machine.  </s>
+<s> you seem a little combative and i hope we can find out why you are losing files like this.  </s>
+<s> bob  </s>
+<s> it always surprises me when people complain about not being able to talk to technical support when they are having problems with a product that is being supplied to them for free.  </s>
+<s> what do you expect?  </s>
+<s> just try talking to someone about problems with free accounts such as gmail, aol, yahoo or avg.  </s>
+<s> does that mean that all of these services are no good?  </s>
+<s> if you need or want phone technical support you have to belly up and pay for it.  </s>
+<s> i have had no problem talking to technical support for clients that are paying for dropbox for teams.  </s>
+<s> when you delete a file it asks do you really want to delete the file.  </s>
+<s> this is not what i am talking about. the problem is counting on the files being there as you are a business and need to share files with different computers (different people sharing them or having them there when you go to another location).  </s>
+<s> other users are finding: the files are deleting and therefore not available to them when they need them (and to avoid this they have to back them up on both locations often - daily, as soon as they get them, etc.).  </s>
+<s> dropbox stops sharing - and the feature of dropbox (have two or more locations being able to see them) is not longer there.  </s>
+<s> so you are back to emailing pictures to each other or having to wait till you get to other computer - e.g. dropbox is not functional.  </s>
+<s> this does not happen all the time, took us 3-4 months of heavy useage before we ran into the problem.  </s>
+<s> i am trying to warn people don't count on dropbox working, there are a lot of bugs.  </s>
+<s> yes it is useful but don't count on it working.  </s>
+<s> spend time backing up daily (or more often) so you have the files at both sides (vs counting on dropbox working).  </s>
+<s> have a backup plan with dropbox stops working and don't expect dropbox to be able to resolve the issues at all let alone in a timely manner.  </s>
+<s> i am bowing out of this conversation, the business users that want to count on dropbox understand fully what i am saying, as i said they can easily verify what i said by checking the dropbox forum.  </s>
+<s> waytron - as i said, 3/4 looks like user caused (e.g. software setup on their computer like antivirus stops dropbox) 1/4 is dropbox bugs.  </s>
+<s> and the lack of customer support is the same for paid accounts and non paid accounts, though they seem to come back quicker with the paid accounts (but still the problems don't get solved unless it is something simple like turn off your antivirus).  </s>
+<s> we considered going up to paid version, but are taking another paid product instead because of the problems dropbox has.  </s>
+<s> now, to make sure i don't get any more emails when people respond to this post.....  </s>
+<s> here when i delete a file on one machine the other machine pops up with a notice that allows me to save it or recover it.  </s>
+<s> again you seem to misunderstand this is a discussion that we could try to figure out why you are losing a file without that notice.  </s>
+<s> -&gt; but i'd like to understand why any business person would put their last copy of a file on such a place.  </s>
+<s> all my dropbox files are not my last copies.  </s>
+<s> even if my dropbox content vanished i wouldn't lose a single file.  </s>
+<s> are you new to pcs and file management?  </s>
+<s> i think you have another discussion about this where i brought up the old novel and file servers and you didn't seem to know about that.  </s>
+<s> bob  </s>
+<s> your needs seem to call out the old school solution as well.  </s>
+<s> hope this gives you something to ponder.  </s>
+<s> as to dropbox.  </s>
+<s> if it doesn't work for you, why bother with it or even discussing it?  </s>
+<s> bob  </s>
+<s> especfially at work.  </s>
+<s> at work (i work for the government), the people in my department were working with a local (but large) police department to implement a solution using one of these online public cloud services.  </s>
+<s> that police department backed out at the last minute.  </s>
+<s> why?  </s>
+<s> because neither of the big providers are cjis-compatible.  </s>
+<s> they wanted to keep criminal and case data on the public clouds so it is readily available to everyone.  </s>
+<s> unfortunately, we have laws governing this in the u.s. the criminal justice information service dictates standards and, despite the use of a police office in one of their testimonial ads, neither of the big guys are legal for them to put this data on.  </s>
+<s> let's also look at the medical industry.  </s>
+<s> doctors, health maintenance organizations, etc. there are also laws that dictate what a doctor's office can and cannot do.  </s>
+<s> this is commonly refered to as &quot;hipaa&quot; or &quot;hitech&quot;.  </s>
+<s> please look these up.  </s>
+<s> while they do say that medical records must be encrypted while at rest or in transit (over a network), they also specify who is not allowed to view this data.  </s>
+<s> so, what it boils down to is this: let's take google but you will find that dropbox is about the same: if you are dealing with criminal data, cjis has a say in who can see that data.  </s>
+<s> if you are dealing with medical records, hipaa dictates the same thing.  </s>
+<s> both of the big services discussed here tell you straight up-front that they look at your stuff.  </s>
+<s> that their employees look at your stuff.  </s>
+<s> there are articles out there they say you may be subject to a hipaa fine if you put this kind of data on these services.  </s>
+<s> at my office, a violation (not a breach) is suppossed to bring a fine of $1.5 million.  </s>
+<s> google, only as an example, has stated that no public cloud is compatible with cjis.  </s>
+<s> not true, take a look at datamaxx (2 x's).  </s>
+<s> as far as hipaa is concerned, reportedly, google said that they are not subject to hipaa laws.  </s>
+<s> that has not been determined, to my knowledge one way or another but certainly the medical offices that put data on these services are responsible.  </s>
+<s> google (according to their faq's) assumes &quot;no responsibility&quot; for the user's hipaa certification.  </s>
+<s> so, if we go back to the original question asked, should one put their business data on google or dropbox? the answer is that it depends.  </s>
+<s> was the person part of a medical group?  </s>
+<s> were they a government agency or a law firm concerned with confidential case data?  </s>
+<s> were they one of the myriad firms that i buy things from and are they planning to keep my credit card data online?  </s>
+<s> (just like hipaa and cjis, the credit card processors have to conform to a set of laws called the fact act).  </s>
+<s> i don't believe that any of the general public services screen any of their employees especially with servers kept around the world.  </s>
+<s> do they read your uploads? the big guys say that they do read them.  </s>
+<s> it's in the terms and i'm not making this up. is this a violation?  </s>
+<s> maybe?  </s>
+<s> i don't know if it is but it should be.  </s>
+<s> i'd not sure i trust my credit card, medical information nor criminal history to someone in a foreign country who makes a lower wage than someone making u.s. minimum wage?  </s>
+<s> i'm not predjudice but look at the economics.  </s>
+<s> on the question of losing your data.  </s>
+<s> while i know that both google and dropbox have had hacking &quot;adventures&quot; that exposed data, i don't know if they ever lost data at least permenently.  </s>
+<s> if they don't like your data, they say they can shut down your account, but i don't know if anything has ever gotten permanently lost.  </s>
+<s> but maybe hardware and software issues could result in temporary loss of your data, even when you need it the most.  </s>
+<s> like during a presentation.  </s>
+<s> read their terms.  </s>
+<s> they all say that they have no responsibility for anything.  </s>
+<s> did you read your agreement with microsoft and any os? none take any responsibility for your files or data.  </s>
+<s> you may want to reconsider how it is today.  </s>
+<s> bob  </s>
+<s> i think you could do so already with this very program... running it from another computer from what you want to access your home pc. read this to know what you need to do first: i'm downloading the program from the link you provided (thank you!) to see if it works.  </s>
+<s> if not, the link below provides a program that does what you want to do, turning your pc on first to work with teamviewer afterwards if you configure it to run at windows startup, by clicking &quot;extras&quot; - &quot;options&quot; &quot;general&quot; tab, activate the option &quot;start teamviewer with windows&quot; in the startup section.  </s>
+<s> then you need to go to &quot;segurity&quot; tab and set a predefined password hope this help if you haven't found a solution yet  </s>
+<s> if you are talking about files then i would be very happy if you can state precisely which files u are talking about. is it images, documents, spreadsheet data, music?? i must say that u can all do that just by asking that some one to install google drive n then u can share all the above mentioned files with him.  </s>
+<s> if you are very specific about files such as spreadsheet data o music then, ample number of tools are available which target a specific need.  </s>
+<s> just as collatebox can be tremendous for online data sharing.  </s>
+<s> this service tacked pornography onto my video when my receipient downloaded it.  </s>
+<s> beware be prepared for your documents and files to be defiled and perverted!  </s>
+<s> what do you think your clients will think of you when they download this trash?  </s>
+<s> they might be so embarrassed they might never say anything to you...then again they may appreciate the free trash.  </s>
+<s> more than likely your seeming lack of professionalism will turn them off.  </s>
+<s> and heaven forbid you try to send something to your little old grandma....boy, she'll get a face full.  </s>
+<s> then you'll get an earful when granny calls you to tell you how disgusting you are! when they say that this new website is sexy they are not just refering to the web interface!  </s>

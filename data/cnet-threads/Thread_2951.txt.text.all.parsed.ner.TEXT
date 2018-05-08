@@ -1,0 +1,34 @@
+<s> my friend encountered a strange problem: double-click my computer, ie always opens a window.  </s>
+<s> has anyone seen this before, how to solve this problem?  </s>
+<s> even double-click my documents icon is the same!  </s>
+<s> appreciate for the ideas.  </s>
+<s> remove all bhos from the system.  </s>
+<s> what's a bho?  </s>
+<s> see google.  </s>
+<s> what do i use to remove them all?  </s>
+<s> i use hijackthis.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> i know what you mean.  </s>
+<s> i have tried similar tools, but failed.  </s>
+<s> after tried the tool you mentioned, it is the same.  </s>
+<s> maybe the principle is the same, but the tools failed to find it/them out.  </s>
+<s> thanks, anyway.  </s>
+<s> funnily enough i tried doing the following: boot your system in safemode open cmd (start, run, cmd).  </s>
+<s> type &quot;c:&quot; and then press enter.  </s>
+<s> type &quot;attrib&quot; -h -r -s autorun.inf and then press enter.  </s>
+<s> &quot;attrib -h -r -s autorun.inf&quot;  </s>
+<s> also post that hijackthis for a peek under the hood.  </s>
+<s> sometimes i see the other item.  </s>
+<s> bob  </s>
+<s> thanks maddogmcree.  </s>
+<s> as for as i know this command is used for adding/getting rid of the file attribute of hidden, read-only and system.  </s>
+<s> how could i use this command to solve this problem, would you please say more clearly?  </s>
+<s> thanks.  </s>
+<s> autorun.inf file on your c:-drive that causes this problem.  </s>
+<s> this command would make it visible, so you could delete it.  </s>
+<s> kees  </s>
+<s> attrib -h -r -s autorun.inf  </s>
+<s> kees  </s>
+<s> thanks for the update.  </s>
+<s> mad.  </s>

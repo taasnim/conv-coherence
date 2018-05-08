@@ -1,0 +1,23 @@
+<s> i have a seagate goflex 500gb external hdd.  </s>
+<s> recently when connected to my computer, the light goes on, the disk rotates and all... but computer doesn't show any drive.  </s>
+<s> i have tried everything short of getting it replaced(obviously coz i got data in it that i don't wanna part with).  </s>
+<s> but then when i connect it via usb to my samsung led tv, i can play videos, music etc properly.  </s>
+<s> i have tried it with a number of friends' computers, none can read the drive.  </s>
+<s> but if i connect it to a tv, runs fine.  </s>
+<s> any suggestions?  </s>
+<s> 1. what does windows disk management say about the drive?  </s>
+<s> 2. if windows pc's don't see the data, and the tv does see it, what about linux?  </s>
+<s> that's free to try. 3. if no luck with linux, see if any of the free data recovery programs mentioned in the top post of the storage forum can locate the data and copy it to some safe place, before you repartition the drive, didn't they tell you that external drives are unreliable and only should be used for backup (but not your only backup!) and transport of data between different device, certainly not for permanent storage.  </s>
+<s> that way, you never lose data, because you always have a permanent copy somewhere else.  </s>
+<s> kees  </s>
+<s> disk management doesn't show the drive either.  </s>
+<s> all the seagate recovery s/w i tried to no avail.  </s>
+<s> and u can't use those s/w anyways if u can't see the drive on computer.  </s>
+<s> haven't tried it in linux.  </s>
+<s> will do.  </s>
+<s> thanx  </s>
+<s> a tv connection has simpler demands for operation than a pc. at least it should be when compared to each other. the link i provide should give a clue.  </s>
+<s> what may happen is the file system or overall partitioning is done so the tv sees it while a pc expects as it wants the files and needs the ability to retrieve but show access to whatever needs are required at a higher level.  </s>
+<s> you may need a linux type access to mount the ext.  </s>
+<s> hd and see if you can xfer the data, then reformat the hd as needed.  </s>
+<s> tada ------willy  </s>

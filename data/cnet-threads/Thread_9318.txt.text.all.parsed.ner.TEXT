@@ -1,0 +1,35 @@
+<s> my keyboard doesn't work.  </s>
+<s> or, more accurately, my keyboard works only before windows loads (i.e. it works to get into the bios, it works to navigate in the bios, it works if i use a boot disk to load dos, etc).  </s>
+<s> once windows xp loads, i have no keyboard functionality.  </s>
+<s> i've gone into device mangaer several times to uninstall and re-install the drivers, both in safe mode and regular mode.  </s>
+<s> no go.  </s>
+<s> i've tried deleting the drivers and replacing them with &quot;fresh&quot; copies from the xp cd. no go.  </s>
+<s> i've run windows update.  </s>
+<s> no go.  </s>
+<s> i've updated the drivers for my other hardware.  </s>
+<s> no go.  </s>
+<s> i've even tried to do a repair installation of xp with the cd. let me tell you, entering your product key when you have no keyboard really sucks.  </s>
+<s> and it still didn't work afterwards.  </s>
+<s> it's not the keyboard, because it works on other computers.  </s>
+<s> it's not the port, because it works as long as windows isn't running.  </s>
+<s> it's a ps/2 keyboard, and i haven't yet tried a usb keyboard, i'm looking for a friend who has one that i can borrow.  </s>
+<s> any ideas from anyone?  </s>
+<s> i've hit a wall.  </s>
+<s> i don't know what else to try.  </s>
+<s> --chriscrutch  </s>
+<s> i ran into this with a logitech keyboard driver. the driver was flawed and to logitech's discredit the method to fix it keeps moving on their web site.  </s>
+<s> it's a common issue that keeps coming back to some that ... install keyboard enhancers.  </s>
+<s> bob  </s>
+<s> i probably shoud have said this in the first post, but it is a logitech keyboard and driver that i'm working with.  </s>
+<s> any idea where to find the solution (or what to look for) on logitech's website?  </s>
+<s> i was on there once already, but it was just a cursory search because i didn't expect to find anything.  </s>
+<s> thanks for the tip!  </s>
+<s> --chriscrutch  </s>
+<s> here's one removal page from logitech.  </s>
+<s> thanks for the article.  </s>
+<s> i'm going to email logitech and see if they can give me the url for the keyboard version of that page.  </s>
+<s> this worked great for getting rid of the mouseware program, but i need the itouch program installed.  </s>
+<s> this is probably the closest i've come to a solution, after working on this problem for over a week and taking about it on three discussion boards.  </s>
+<s> thanks so much.  </s>
+<s> it goes to show that sometimes personal experience can win out over pure, unadulterated knowledge.  </s>
+<s> --chriscrutch  </s>

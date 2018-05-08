@@ -1,0 +1,20 @@
+<s> my computer running linux and my wifes running xp are connected to a dlink router to share a cable internet connection.  </s>
+<s> today i noticed in the router status her machine has 3 connections to the internet, while mine has only one.  </s>
+<s> can someone explain why?  </s>
+<s> it's possible that it used a few in the past but so far, xp would only use one ip.  </s>
+<s> [url= [/img][/url]  </s>
+<s> try this one: you'll see my computer (sid) has one address...her xp machine has 3  </s>
+<s> i can't check the mac i can't tell if this is the old lease issue.  </s>
+<s> sorry i can't see enough to tell if there is any issue here.  </s>
+<s> i'm going with it's just an old lease.  </s>
+<s> bob  </s>
+<s> i just checked again, and all 3 of her connections show the same mac address.  </s>
+<s> i can do another screenshot if that would help.  </s>
+<s> again i see nothing wrong here.  </s>
+<s> i know on my linux box i can get more than one ip. it doesn't mean anything is broke.  </s>
+<s> bob  </s>
+<s> have you checked her pc to see if all those addresses are active at once?  </s>
+<s> check her network adapter settings, and try ipconfig from a command prompt.  </s>
+<s> maybe there are some virtual adapters in use.  </s>
+<s> i am much more familiar with linux than xp but i will take a look tomorrow.  </s>
+<s> more to satisfy my curiosity than anything else should have thought of that myself.  </s>

@@ -1,0 +1,34 @@
+<s> i have vista premium. the main computer [acer aspire 4736 laptop] is connected via nic to a zyxel p-320w wireless router which is in turn connected to a zyxel p-660 asdl2 modem... other computers connect wirelessly.  </s>
+<s> this setup used to work.  </s>
+<s> however, there are now frequently line d : when the asdl2 modem is booted up, it detects the dsl line and automatically connects to the internet[nailed up connection].  </s>
+<s> the router is then booted up, followed by the main computer.  </s>
+<s> at this time, the internet is still being connected, as indicated by the &quot;internet activity&quot; light of the modem.  </s>
+<s> however, as soon as a browser is clicked, internet connection is lost - the dsl light goes out, then starts blinking, the modem then detects the dsl line and automatically connection to the internet.  </s>
+<s> the browser then shows the web site.  </s>
+<s> however, as soon as a link within the webpage is clicked, internet connection is lost again....and the dsl light goes out... the cycle repeats itself... this also happens to other computers connected wirelessly.  </s>
+<s> however, once in a while, there are no problems.  </s>
+<s> what can cause this to happen ?  </s>
+<s> there seems to be no static on the service line.  </s>
+<s> shall i replace the modem ?  </s>
+<s> the p-660hw has it's own wifi and router.  </s>
+<s> setup could be classified as &quot;experts only&quot; when you add a second router.  </s>
+<s> given only model numbers and no details about settings it is time to ask those that set this up to see if the settings are proper.  </s>
+<s> i can't tell such from your post except it's not a stock or standard setup.  </s>
+<s> again the p-660hw is more than a modem.  </s>
+<s> i couldn't find a p-660.  </s>
+<s> bob  </s>
+<s> thank you, bob, for your reply.  </s>
+<s> i am sorry for some misinformation.  </s>
+<s> the modem is actually a adsl2+router model p-660r.  </s>
+<s> there is no wireless.  </s>
+<s> if you are unable to find it, it may be an older model.  </s>
+<s> setup: dsl line to the p-660r from which cat5 cable to the p-320w (lan port instead of wan port) [ odd ?  </s>
+<s> advanced setup ?] the main computer connects to the p-320w (lan port) with its [the main computer]nic.  </s>
+<s> the dhcp server of the p-320w has been disabled, leaving the one at the p-660r enabled. the ip address of the p-320w has been changed slightly [to 192.168.1.0] because it is the same as that of the p-660r [192.168.1.1] the p-660r has been configured as a router instead of as a bridge.  </s>
+<s> unfortunately, the person who performed the above set up is no longer around.  </s>
+<s> connection type is pppoe.  </s>
+<s> thank you for your kind attention.  </s>
+<s> christy  </s>
+<s> the .0 address is usually reserved as a broadcast address.  </s>
+<s> i'd reconsider that choice.  </s>
+<s> bob  </s>

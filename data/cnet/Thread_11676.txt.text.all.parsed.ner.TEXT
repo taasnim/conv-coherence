@@ -1,0 +1,24 @@
+<s> i'm having trouble pairing my laptop with my desktop bluetooth.  </s>
+<s> i successfully paired another device only a few days ago so i'm 99.99% certain i'm using the correct pairing key.  </s>
+<s> how can i check the pairing key on my laptop bluetooth to be sure i'm using the correct key?  </s>
+<s> p.s. i changed it from the default key a long time ago, and i have been successfully pairing devices up until now.  </s>
+<s> i do some bt programming but unless we get lucky and it's one of the usual i think you should change the key to something you know.  </s>
+<s> bob  </s>
+<s> i'm having trouble with a laptop running win xp sp3.  </s>
+<s> where can i find what the key actually is?  </s>
+<s> or is there a way i can restore it to the default key and then change it back?  </s>
+<s> but as there are no less than 5 blue tooth stacks, i can't tell you where the controls are.  </s>
+<s> i've seen toshiba, widcomm, msft, blue soleil, something with samsung on it and now some chinese stacks.  </s>
+<s> each one is accessed in some different way so i can't answer this one without the final detail.  </s>
+<s> but do look around.  </s>
+<s> here's the microsoft article about theirs.  </s>
+<s> bob  </s>
+<s> i want to have all my devices paired with each other.  </s>
+<s> i have an asus eee pad transformer tablet with bluetooth that i use to send photos among my devices.  </s>
+<s> i was able to pair all of the devices with no problem except the toshiba laptop.  </s>
+<s> i have paired the asus tablet with the desktop computer and the desktop computer with the tablet and a bluetooth printer. the asus tablet does not support wifi printing and only supports photos via bluetooth.  </s>
+<s> my desktop computer is running win vista premium and my toshiba laptop is running win xp sp3.  </s>
+<s> p.s. since my laptop is rather old and i was using the bluetooth stack for windows which came already installed on the laptop, i just might remove that and get newer bluetooth adapter and use that.  </s>
+<s> thanks for the help.  </s>
+<s> i uninstalled the bluetooth stack and re-installed it.  </s>
+<s> issue is now resolved.  </s>

@@ -1,0 +1,21 @@
+<s> hello, im new here i hope i get help.. i need to extend the range of my college wifi to rooms in a nearby building. the wifi is open and is hotspot based: each time i connect, i have to enter my username and password.  </s>
+<s> the setup i made: access point on the roof of the building set as station, connected to a switch with 3 cables going down to three different rooms.  </s>
+<s> when i try connecting a laptop on lan, it doesnt get automatic ip, so i set up the same ip+subnet+gateway+dns as obtained when connected to the university's wifi. the connection works well !  </s>
+<s> i try connecting 3 laptops simultaneously each with a different ip.. the connection works great on all 3 laptops.  </s>
+<s> when i connect just 1 router with static ip... this works fine as well.  </s>
+<s> but !! when i try connecting 3 routers exactly like the laptop's configurations, the network fails... i dont know what im doing wrong !  </s>
+<s> (interference is not an issue since the routers are far from each others) please help me.. thank youu  </s>
+<s> the next routers must not have any connection to the wan port.  </s>
+<s> right?  </s>
+<s> bob  </s>
+<s> of course they are connected to the wan port... all 3 routers are connected to a switch that is connected to the access point... to make it simpler: when i connect 3 laptops on lan with static ip it works perfectly, when i connect 3 routers instead with same static ip. all three doesnt work... is there anything else i should configure in the routers?  </s>
+<s> maybe assign each a different dhcp range ?  </s>
+<s> you want to deal with a double nat?  </s>
+<s> sorry i would not do that.  </s>
+<s> good luck.  </s>
+<s> as to static ip, another something i would not do.  </s>
+<s> my setup would use these routers as waps to avoid the double nat and other issues.  </s>
+<s> remember i can't tell you how to set this up.  </s>
+<s> that's something you must get a good grasp on, decide how and why and execute it as you have to live with it.  </s>
+<s> besides, since you are using their service you can always work with their it staff.  </s>
+<s> bob  </s>

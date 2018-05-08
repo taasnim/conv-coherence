@@ -1,0 +1,66 @@
+<s> i really need to replace some memory in my laptop.  </s>
+<s> my concern is this. the memory in my laptop is ddr2 333mhz.  </s>
+<s> digging around the best buy website, i wasnt able to find anything that was 333mhz.  </s>
+<s> did find some ddr2 800mhz ram chips.  </s>
+<s> i had people suggest reading the docs for my system to check the compatibility.  </s>
+<s> one person did say the memory would step itself down if it needed to, to mach what the motherboard could handle.  </s>
+<s> well, the docs for my hp dv6375us are pretty sparse on the specs for the motherboard, as is the net in general.  </s>
+<s> so, any sugesstions?  </s>
+<s> should i keep digging around for memory that matches exactly what i have now?  </s>
+<s> cpuz 1.48 identifies the motherboard as: mfgr: quanta model: 30bc (66.40 is listed....i think as a revision # - the box isnt labeled) intel i945pm chipset for a screenshot for the memory info tab  </s>
+<s> how about the ram speeds in the bios ?  </s>
+<s> the most popular and cheapest are tigerdirect and newegg, but amazon and geeks.com  </s>
+<s> aren't bad.  </s>
+<s> best buy usually overcharges and has a lot less selection, tiger and new egg specialize in computer parts bigboy  </s>
+<s> i'm so used to going to best buy for stuff, cause its close, and i don't have to wait 3 days...i didn't bother to think about new egg or tiger direct.....but i will check on that. the bios - i'll have to get back to you guys on....the manuals say zero about the speeds....blah... btw, i accidentally pasted the same link twice.. is the mainboard info is the ram info for those who might be interested  </s>
+<s> go to crucial.com and do a memory check, this will tell you the tale, just do the free scan and you will know what is in the system, etc.  </s>
+<s> so it seems new egg has some arrangement with crucial.... to use crucials wizard, and recoomend crucial ram chips avaialbe on the new egg site.... it recommended a $25.99 pack....so for that - i'l going to take a chance  </s>
+<s> that laptop.  </s>
+<s> vapcmd  </s>
+<s> hp does tell ya? well, i did find a list of hp model #s for replacement parts in the docs for the laptop - but hp parts do always seem to be overpriced.  </s>
+<s> if there was anything specific in the docs for this machine about the memory specs, i overlooked it i guess.  </s>
+<s> well, $25 seems like a risk i can afford...  </s>
+<s> when you're buying ram...laptops or desktops.  </s>
+<s> pc2-5300/pc5300 or ddr2-667/ddr667 are the more common terms used and starting a ram search based on 333mhz alone puts you at a real disadvantage.  </s>
+<s> what's more confusing is the hp specs show that laptop as having 2gbs ram and 2gbs of ram is also shown as the max.  </s>
+<s> same max ram limit shown on crucial.com. the point being ... doesn't look like there's an upgrade path and even if there was, you didn't have sufficient info to assure getting the right product.  </s>
+<s> hope it all works as desired.  </s>
+<s> vapcmd  </s>
+<s> well, as long as thhe new 2 gig works, and fragments list.s.cnet pre_process.sh  </s>
+<s> threads quits crashing left and right with memory errors like i'm getting now, i'll be happy, even if i can't upgrade to 4 gig.  </s>
+<s> firefox and ituns have been just up and disapearing a lot lately....even without a crash error....gets frustrating....long as that goes away, i'm good to go.  </s>
+<s> ok - so.... as far as the terms go....ya got me.... all i know is, that the only util i could find that gives me a decent list of info on my system was cpuz, which told me ddr2....at a speed of 333mhz.... so - 333mhz somehow translates to 5300?  </s>
+<s> or 667?  </s>
+<s> so how does that translation work&gt;  </s>
+<s> as far as the ram types, its generally referred to as ddr2-667 (2x333mhz) or pc2-5300 which indicates the ram module's bandwidth.  </s>
+<s> then you really need to add form factor because there's memory for desktops and laptops ... dimms, sodimm, and pins .  </s>
+<s> .  </s>
+<s> .168, 184, 240, etc., and laptops 144, 200 and 204 respectively.  </s>
+<s> double data rate-2 (ddr2) 333mhz x 2 = 667 mhz bandwidth is 8 bytes wide times 667mhz or pc5300 if you were to ask for 333mhz ram....that could get you a lot of different things ... most of which would be wrong.  </s>
+<s> my only point is asking for the right thing to start which at minimum gives you a chance of getting you the right thing avoiding returns, refund, rmas, etc.,. while ram is ram...it ain't all the same or the same quality...and cheap is not the best way to shop for it.  </s>
+<s> that's why a lot of folks recommend crucial.com because if you buy ram for a specific make and model like you indicated ...they pretty much guarantee compatibility.  </s>
+<s> did you test the existing memory with memtest86+ or the ms windows ram test ?  </s>
+<s> perhaps it's not the ram but rather drivers that are causing your problems.  </s>
+<s> hope this helps.  </s>
+<s> vapcmd  </s>
+<s> vapcmd ya - that explanation does help for sure.  </s>
+<s> thanks and i confess that no i haven't tested it with anything.  </s>
+<s> i do hang around in some some programming chat rooms - with people who normally can answer questions like this - and surprisingly wasn't able to get any recommendations on this issue.  </s>
+<s> well at least it surprised me.  </s>
+<s> but i will be doing that today.  </s>
+<s> its just that the behavior i've been getting appears to be a classic symptoms of bad ram - programs regularly just terminating with no error, windows giving me low memory warnings every 10 minutes, etc. fortunately this normally takes about 2 hours to start, so possibly its a heat issue too.  </s>
+<s> but when it boils down to it, the crucial wizard at newegg did suggest a $25 2 chip pack for my laptop, something that seems like a real low risk to me.  </s>
+<s> about pc.. to wit...i know nothing about programming.  </s>
+<s> some know both but it's hard to keep up with...change is the only constant.  </s>
+<s> anyway...if you get a chance....try testing the old ram.  </s>
+<s> and by all means test the new ram immediately on receipt...remember to unplug the ac power and remove the laptop battery before removing the old ram or installing the new ram.  </s>
+<s> let us know how it works.  </s>
+<s> vapcmd ps&gt;&gt;&gt;while you've got that laptop open, try blowing out any dust bunnies with some compressed air.  </s>
+<s> heat is a common problem for laptops.  </s>
+<s> download and run pc wizard 2008 and then minimize it....you can watch your system temps in the upper right hand corner of the screen.  </s>
+<s> yes, indeed, its hard to know.  </s>
+<s> that's why i figured this place would be a good place to ask around.... and believe me....i will unplug it and pull out the battery.... ever since i got zapped by a toaster when i was 8, and i stuck a wet butter knife in it to dig a piece of toast out.....well..im sure you get the point... havent got around to burning the cds for memtest86 or the microsoft tool yet.  </s>
+<s> gonna do that this afternoon probably...ran out of blank cds for the 1st time in months  </s>
+<s> the battery as a continuing source of power even after the ac power is unplugged.  </s>
+<s> that's usually covered in the laptop mfg's ram removal/installation instruction too.  </s>
+<s> vapcmd  </s>

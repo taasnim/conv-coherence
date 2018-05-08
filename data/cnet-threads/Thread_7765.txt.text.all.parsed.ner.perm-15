@@ -1,0 +1,7 @@
+(TOP (S (NP (WDT which) (PP (IN of) (NP (NP (DT the) (JJ many) (NNS tablets)) (PP (IN out) (NP (EX there)))))) (VP (AUX is) (ADJP (JJ good) (PP (IN for) (NP (DT this) (NN purpose))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (AUX am) (ADJP (JJ interested) (PP (IN in) (NP (NP (NN something)) (ADJP (ADJP (JJR smaller)) (PP (IN than) (NP (DT an) (NN ipad)))))))) (. .)) )
+(TOP (S (S (VP (VB try) (NP (DT the) (JJ htc) (NN flyer)))) (, ,) (ADVP (IN at) (JJS best)) (VP (VBP buy) (PP (IN for) (NP (money ($ $) (CD 299))))) (. .)) )
+(TOP (S (S (NP (PRP you)) (VP (MD can) (VP (VB read) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT the) (NNS specifications)) (PP (IN of) (NP (NP (JJ tablet) (NN pc)) (ADVP (RB here)))))))))) (: :) (S (NP (DT the) (NN site)) (VP (AUX have) (ADVP (RB pretty) (RB much)) (VP (VB know) (NP (DT all) (RB about) (JJ tablet) (NN pc))))) (. .)) )
+(TOP (SQ (AUX do) (NP (PRP you)) (VP (VB mean) (PP (IN like) (NP (DT a) (NNS graphics) (NN tablet)))) (. ?)) )
+(TOP (FRAG (ADJP (RB quite) (JJ good)) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX am) (VP (VBG looking) (PP (IN for) (NP (NP (DT a) (JJ smallish) (NN tablet)) (SBAR (S (VP (TO to) (VP (AUX be) (VP (VBN used) (ADVP (RB primarily)) (PP (IN for) (S (VP (VBG notetaking) (PP (IN during) (NP (NP (VBZ lectures)) (CC and) (NP (NNS meetings)))))))))))))))) (. .)) )

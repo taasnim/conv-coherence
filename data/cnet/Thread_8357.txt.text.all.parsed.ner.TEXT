@@ -1,0 +1,59 @@
+<s> recently i tried to print a document for may daughter on my laser. the document was left and right justified.  </s>
+<s> when i printed it, the output was left justified for the most part.  </s>
+<s> i found a copuple of spots where it tried to justify the text but it never made it.  </s>
+<s> in some cases it put a big gap inside a word.  </s>
+<s> ever see the word ice spelled i (big gap) ce. really strange. it appears i have the latest driver but i downloaded it again and had the system install on top of itself.  </s>
+<s> no soap, output still bad.  </s>
+<s> tried the hp support forum but no one wanted to respond.  </s>
+<s> hoping i have better luck here.  </s>
+<s> btw, i am running w98se and using office 2000 (word to be exact).  </s>
+<s> i tried printing the same file on my daughters system and it looked just fine.  </s>
+<s> she is running winme, office 2000 and is printing to an epson 740i.  </s>
+<s> anybody have any ideas where to go from here?  </s>
+<s> john  </s>
+<s> word is not a typesetting program and you are asking for typesetting features and results.  </s>
+<s> the issue you are writing about will drive many nuts.  </s>
+<s> here's a workaround.  </s>
+<s> go get open office and open that doucment.  </s>
+<s> now create a pdf (pdf creation is included in open office) and print that pdf.  </s>
+<s> what happens.  </s>
+<s> bob  </s>
+<s> word is not a typesetter.  </s>
+<s> be sure you have that clear or you will become frustrated.  </s>
+<s> a typesetter such as pagemaker and it's ilk sets the letters and pictures exactly on the page regardless of the printer.  </s>
+<s> word does the opposite and takes the capabilities of the video display and the printer driver and reformats the document according to rules we don't exactly know about.  </s>
+<s> a common problem is that some font may exist on one machine and may not on the other.  </s>
+<s> word will substitute one for another and you won't see the same output.  </s>
+<s> the pdf end run helps to mitigate these issues.  </s>
+<s> bob  </s>
+<s> bob, thanks for the reply.  </s>
+<s> i realize word is not a typesetter.  </s>
+<s> i use pagemaker for that, at least my daughter does she's the graphic artist.  </s>
+<s> but i thought it would at least be able to do justification.  </s>
+<s> guess i was wrong.  </s>
+<s> at work we use interleaf to produce our technical manuals but we have had all sorts of consultants come in and suggest we switch to word since interleaf support may be going away.  </s>
+<s> can't wait to see what they say about this fiasco.  </s>
+<s> you said to get openoffice.  </s>
+<s> that used to be a freebe, but i seem to remember that sun is now charging for it. is there still a free version?  </s>
+<s> reason i ask is i have abdobe (at least my daughter does) so i can probably use it distiller program to convert the file to pdf.  </s>
+<s> all i gotta do if figure out how.  </s>
+<s> again thanks for the reply.  </s>
+<s> john  </s>
+<s> i can fetch it from and yes, i've used pagemaker (many years ago now), framemaker and my run-in with interleaf was about 15 years ago.  </s>
+<s> no hands on, but i know it.  </s>
+<s> today, i use word on occasion, but open office invaded the office due to the dollar (zero budgets seem to be the rage.) we find it good enough and the pdf output is quite the feature for the price.  </s>
+<s> for documents, it works.  </s>
+<s> for typesetting, you know you may need better.  </s>
+<s> bob  </s>
+<s> the software patch for this printer is here ftp://ftp.hp.com/pub/softlib/software1/lj517/lj-10228-1/lj517en.exe or i have heard of a paper feeding problem with the 1100 model.  </s>
+<s> are u have-in any problems with that?  </s>
+<s> just purchased a slightly used 1100a.  </s>
+<s> and yess i continually have to remove the paper and shuffle it, stack it neatly and return to the printer.  </s>
+<s> on another forum someplace i saw lots of comments about this problem.  </s>
+<s> no answers.  </s>
+<s> bob  </s>
+<s> vacuum the area where you scuffed the rollers afterwards.  </s>
+<s> it's the usual and removes what i can best describe as a &quot;glaze&quot; that forms on the roller surface.  </s>
+<s> you can replace the rollers but i've used this method for years.  </s>
+<s> don't overdo the scuff.  </s>
+<s> bob  </s>

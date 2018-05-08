@@ -1,0 +1,62 @@
+<s> sorry but this is a second post as i accidentally posted in the laptop forum.  </s>
+<s> hello all.  </s>
+<s> i have a desktop computer that is part of a home network and runs w2000pro.  </s>
+<s> my drive was zapped in a storm and i had to reinstall.  </s>
+<s> my adapter will not reconnect with the wireless router without the instalation cd that, naturally,i've lost. the adapter is a microsoft mn 510-51.  </s>
+<s> i downloaded a driver from drivers.com but it didn't work.  </s>
+<s> i went into microsoft's download site and gave up trying to navigate the site after trying for a long time.  </s>
+<s> i have a feeling that i not only need the driver but i need the instalation disk that came with the adapter now, after all that, can anyone tell me where i can purchase or otherwise acquire a copy of the installation disk.  </s>
+<s> thanks for your patience in reading and any assistance you can offer.  </s>
+<s> stewart  </s>
+<s> microsoft broadband network utility .  </s>
+<s> (it's near the bottom of the page.) direct download link (12.7mb):  </s>
+<s> or drivers.  </s>
+<s> your post is too light on details. for instance some (most in fact) amd based machines also require a motherboard driver package before the cards that plug in function.  </s>
+<s> you've left out the details so members can't see where the issue might be.  </s>
+<s> bob  </s>
+<s> i didn't list more details of my rig as the hardware profile is exactly as it was before the crash when the adapter installed no problem with the supplied software.  </s>
+<s> by the same token i now have less drivers as it is a new install.  </s>
+<s> i downloaded the drivers from ms as kindly supplied by linkit. the drivers are presumably up to date. the only major variable that i saw was the difference between the original cd and the downloaded software.  </s>
+<s> however i may be off base on that one. the situation at present is that the new drivers change the error in the device manager and show the adapter as being functional.  </s>
+<s> however all that shows in my task bar is the lan icon with an unplugged tag.  </s>
+<s> i have tried to call up the adapter icon by going through the &quot;make a new connection&quot; routine but .  </s>
+<s> as they say in the trade, to no avail think i'll leave it for now and hope the muse talks to me in my sleep.  </s>
+<s> cheers stewart  </s>
+<s> router firmware updated, too?  </s>
+<s> try this: in the list of &quot;preferred networks,&quot; click on the &quot;remove&quot; button to remove the stored connection settings for the network.  </s>
+<s> after you do that, either &quot;add&quot; the &quot;preferred network&quot; again, or just try to connect to the detected network.  </s>
+<s> any luck?  </s>
+<s> i don't see a post here about the hardware before or after the crash.  </s>
+<s> your choice here, but you may have passed up the chance someone would have noted a driver you need.  </s>
+<s> bob  </s>
+<s> thanks for the ms driver link problem is that this is a clean reinstall so there is no connection history.  </s>
+<s> also i have no way of calling up preferred networks.  </s>
+<s> however, thanks for your efforts.  </s>
+<s> regards stewart  </s>
+<s> what happens when you double-click on the taskbar icon?  </s>
+<s> does a window that says &quot;choose a wireless network&quot; appear?  </s>
+<s> i open a window &quot;network and dial-up connections&quot; there is a message &quot;to create a new connection, click &quot;new connection&quot; but when you try for a new connection you get a choice of two dial-up alternatives a direct cable link to anothr computer,an accept incoming connections, and a connect to private network through the internet.  </s>
+<s> my adapter is blinking away so it wants to do something and is probably disgusted that i can't oblige.  </s>
+<s> cheers stewart  </s>
+<s> i thought your mn-510 is a wireless-b adapter?  </s>
+<s> you are supposed to use it to connect to some type of wireless access point.  </s>
+<s> therefore, you need to use the &quot;network setup wizard&quot; and not &quot;create a new connection.&quot;  </s>
+<s> what is your setup?  </s>
+<s> do you have a wireless router?  </s>
+<s> if you need help in finding it, just type &quot;network setup wizard&quot; into help and support.  </s>
+<s> sorry, you did say windows 2000 and not xp.  </s>
+<s> yes linkit i have a simple three-computer home network with a wireless router and a modem connection to the canada bell broadband service.  </s>
+<s> it has been working flawlessly for the past two or three years untill my hdd got fried.  </s>
+<s> what i don'r understand is that the adapter icon appears unmarked and kosher in device manager but can't be persuaded to show up in the network window.  </s>
+<s> considering the time i'm spending on this problem, i would ne better off to just buy another adapter with its own install disk.  </s>
+<s> they're cheap enough but i'm hooked on solving this mystery.  </s>
+<s> good night or good morning as the case may be.  </s>
+<s> stewart  </s>
+<s> hey linkit.  </s>
+<s> i found a copy of the original adapter set-up disk that i had burned, in my caotic pile of &quot;stuff&quot; in my bottom drawer.  </s>
+<s> i ran it and hey pres!  </s>
+<s> i'm back on net. it confirms what i suspected: that drivers are sometimes not enough as the set-up disk holds other secrets.  </s>
+<s> so now i can sleep a bit more soundly:-) thanks for your contribution.  </s>
+<s> regards stewart  </s>
+<s> even though i've been disappointed in microsoft's support pages for their networking hardware, i'm glad you're in the good.  </s>
+<s> happy networking!  </s>

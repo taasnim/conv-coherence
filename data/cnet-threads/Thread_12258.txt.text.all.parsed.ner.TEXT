@@ -1,0 +1,16 @@
+<s> my wife bought an ibook that she uses in her elder care business. the unit is used so going to a retailer is out of the question.  </s>
+<s> i've decided to help her get connected at various hot spots and have been having difficulty with the airport subsystem.  </s>
+<s> the ibook runs os x 10.2.8 (6r73), with 256 memory, and a processor speed of 700 mhz (powerpc g3).  </s>
+<s> airport does not access a local hot spot that my desktop pc (gateway g6 450, running windows xp professional and using a linksys wireless-b pci adapter) easily does. the airport continues to show &quot;server not found&quot; message.  </s>
+<s> how do i set up this airport user?  </s>
+<s> thanks.  </s>
+<s> take a look at the airport setup assistant and see what is going on there.  </s>
+<s> also, take a look at the apple system profiler and see if the airport card is actually recognized.  </s>
+<s> remove the airport card, following the instructions on the apple web site, and reseat it into its slot.  </s>
+<s> does the airport actually &quot;see&quot; the wireless hot spots or are you just trying to make it work at a known hotspot.  </s>
+<s> theoretically, it should just &quot;see&quot; any wireless network.  </s>
+<s> try the above and let us know p  </s>
+<s> how simple.  </s>
+<s> i let her do all the keystrokes and &quot;voila&quot; internet access.  </s>
+<s> didn't have to remove and reseat the card.  </s>
+<s> thanks.  </s>

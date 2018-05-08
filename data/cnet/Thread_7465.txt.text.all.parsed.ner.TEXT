@@ -1,0 +1,26 @@
+<s> i was wondering if someone could inform me and the major things that would need to be compatible for me to upgrade my systems memory.  </s>
+<s> currently i have 512 ddr-sdram.  </s>
+<s> i am looking to purchase either 1gig or higher, windows xp, sp1 (earlier problems with sp2) compaq, 1 year old or less.  </s>
+<s> i have looked through a few websites and i am still not certain on compatibility.  </s>
+<s> could you please post the things i need to check and perhaps ways to check them so that i can easily and properly upgrade my computer.  </s>
+<s> also things that could be different but still compatible that could effect speed also post as my computer is mainly used for gaming.  </s>
+<s> another thing that i am worried about is my current memory problems and will they effect my upgrade.  </s>
+<s> currently my ram seems to be running very slowly.  </s>
+<s> i have used dxdiag and it tells me that i have 448mb of ram, which is different then what it was whenever i had purchased it.  </s>
+<s> i opened my pc and i unseated and reseated both sticks and it has no effect.  </s>
+<s> i used a memory program, cpu-z which tells me i have 512. is there a way that this could effect my upragde such as faulty seats for the memory or could i perhaps fix them now so i wont have to worry?  </s>
+<s> thank you for your posts  </s>
+<s> the clue that you revealed with your 448mb memory shows your machine has shared memory video.  </s>
+<s> such will not get any noticable speed boost with an additional 1g of ram since the video can slow or pause the cpus access to ram. in this case a dedicated video card would help if you can actually disable the onboard video.  </s>
+<s> laptops and most i810 based boards can't do that.  </s>
+<s> bob  </s>
+<s> are you using an internal video card?  </s>
+<s> if not, you're then likely using some on-board video port whcih is using system ram for its own use.  </s>
+<s> doing the math, the missing ram is 64mb(+448mb), the amount loss from 512mb.  </s>
+<s> that's good reason your gaming is poor as on-board video isn't as capable as add-on video cards.  </s>
+<s> as for ram install, check the specs for what can be installed and way its installed via the support website or manual.  </s>
+<s> i wouldn't leave out sp2, its worth the install besides security issues it does alot of 3rd party drivers, etc. your best bet is to do a complete format and re-install of os, doing all updates to include sp2.  </s>
+<s> expect a long install process anything else but that may cause sp2 to puke, its a hassle i know.  </s>
+<s> good luck -----willy  </s>
+<s> well the reason i am not sure about this is becaues i had previously reinstalled my os and it didnt seem to be like this until i did so, for the first about nine or ten months i had the computer it ran fine, but after i reinstalled os it seemed to just have disappeared.  </s>
+<s> anyone have any other comments  </s>

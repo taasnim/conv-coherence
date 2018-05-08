@@ -1,0 +1,34 @@
+<s> hi all, my problem is that since about a week ago, all of my devices (both wired and wireless) have been randomly losing internet connection from my asus rt-n12 router.  </s>
+<s> currently connected to the lan ports of the router i have a laptop, my pc and my ps3 connected with numerous other devices connected wirelessly (ipods, ipads, laptops etc.). the problem only started occurring about a week ago, when we still had an old linksys wrt54g router.  </s>
+<s> thinking that it was the router reaching the end of its life, i went out and purchased a new one and am currently using that, however the problem remains.  </s>
+<s> i recently got in contact with my isp and they checked the lines running into my modem and could not find the problem there, and of course i've tried many common solutions, i.e turning off both the modem and router for 2 minutes then turning them back on, checking encryption codes, updating the firmware on the router and they havent helped.  </s>
+<s> i have also recently discovered that the drop outs do not occur when i connected my laptop straight to my modem, and that my internet worked perfectly.  </s>
+<s> would this suggest that my problem does in fact lie within my router (which is only 2 days old)..im so confused! the problem is most noticeable when streaming youtube videos, as it cuts out and the video will no longer stream past that point.  </s>
+<s> it is also a problem with downloading large files, it will get to about 4-5% before the download fails and i have to start over again.  </s>
+<s> and with online gaming, i normally get through about 5-6 minutes of an online game before i am signed out.  </s>
+<s> please if you could help me at all, it would be much appreciated, if you need any further details i would be happy to oblige, and if your someone who likes a good challenge, then this is certainly one!  </s>
+<s> thank you  </s>
+<s> - what's &quot;numerous&quot;? - any of those numerous devices using p2p-downloads?  </s>
+<s> check with none of those wireless devices turned on.  </s>
+<s> then gradually increase the number turned on and actively using the connection until you reach the maximum that works.  </s>
+<s> kees  </s>
+<s> hey kees, sorry i forgot to mention that ive tried the router with nothing but my pc connected via ethernet and i was still experiencing the drop outs just as frequently..could it be something to do with the way my router is set up?  </s>
+<s> go back through router set up procedures, you may have missed a step. the other consideration is bandwidth, depending upon your server capabilities.  </s>
+<s> but the first thing to do is to start from scratch.  </s>
+<s> as kees suggested, start small and work up, one hardwire hook up one wifi hook up.  </s>
+<s> good luck!  </s>
+<s> routers should work out of the box with their default settings.  </s>
+<s> although it's highly recommended to switch them immediately to wpa2 for the wireless part.  </s>
+<s> in case of such a drop, go to the routers management page, and see if it tells you something interesting.  </s>
+<s> if it's still dropping out with the wireless disabled and only one pc or laptop connected wired and it happens with different routers, it's the modem or the connection with the isp.  </s>
+<s> kees  </s>
+<s> it could be a couple things.  </s>
+<s> first of all how is your router setup?  </s>
+<s> does it automatically connect to your modem or did you have to manually assign it an ip address?  </s>
+<s> or it could be your router, not that it has an issue but that it just isn't able to handle all that your network requires.it  </s>
+<s> might just be getting overloaded with devices.  </s>
+<s> many wireless routers will only support 16 devices at a time.  </s>
+<s> it could also be how comparable your devices are with the signal you router is broadcasting.  </s>
+<s> i had 2 older laptops that always dropped my wireless connection because they didn't like the frequency of my router.  </s>
+<s> there is a apple airport router that supports 50 devices at a time and broadcasts wireless n and g. that might fit your needs.  </s>
+<s> i personally don't love working with apple products but this router isn't too bad.  </s>

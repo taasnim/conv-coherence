@@ -1,0 +1,20 @@
+<s> hi, i need your help... i have a sata raid card from sunix.  </s>
+<s> i made (2008!) a raid1.  </s>
+<s> but today i accidentally delete the raid1 from the card's bios utillity configuration!!! the pc does not boot!!!!!!!!! help.  </s>
+<s> i have all my data inside the disks... i made new raid 1 configuration but nothing. it shows that raid1 is good and after that nothing...  </s>
+<s> unless sunix supplies a recovery method i strongly suggest you goto next.  </s>
+<s> that is, unless you have all you need on backup.  </s>
+<s> bob  </s>
+<s> i search for a disk recovery in internet and was ok... (unfortunately i have to make a new windows installation)  </s>
+<s> because raid 1 recovery is very unsure and unsafe to the files on the raid 1 set.  </s>
+<s> if you had not mentioned raid i would have linked to the cnet storage forum &quot;lost and found&quot; sticky top post where there are many recovery titles for free and free to try.  </s>
+<s> but your post had raid so i have to defer to the safest methods.  </s>
+<s> i can't help people destroy their last copy of their files.  </s>
+<s> hope you understand, bob  </s>
+<s> because yours is raid 1 (mirror) you could get lucky as long as the bios removal did not state all data would be lost.  </s>
+<s> what you might try is to remove one drive (they'd both be identical), and change the the bios to allow standard drive use rather than raid.  </s>
+<s> if it would not boot, you could try to fix the mbr.  </s>
+<s> i can say i've had better luck with raid on sata than ide ports when it comes to fixing broken raid arrays.  </s>
+<s> i stopped using these a while back and never used raid 0 as it's an accident waiting to happen.  </s>
+<s> raid 1 is slightly more forgiving.  </s>
+<s> good luck.  </s>

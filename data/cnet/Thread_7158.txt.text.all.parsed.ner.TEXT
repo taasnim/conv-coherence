@@ -1,0 +1,49 @@
+<s> 1.) four pc home lan, full file and printer sharing.  </s>
+<s> 2.) d-link gigabit router.  </s>
+<s> 3.) external usb-2 80 gig hd connected to one pc. 4.) set external drive to sharing, works fine for backing up &quot;stuff&quot; from other pcs.  </s>
+<s> 5.) power off either the usb drive or the pc it's connected to and sharing goes away.  </s>
+<s> have to reenable sharing again.  </s>
+<s> normal?  </s>
+<s> any way for the external drive to remember it's shared?  </s>
+<s> so can't offer much more than how i set it up.  </s>
+<s> i turned off system restore monitoring of the drive, set the drive letter manually, and use automatic caching.  </s>
+<s> i set permissions to read and change but not full control.  </s>
+<s> i can power off/on and the drive letter remains as does sharing.  </s>
+<s> my bios knows the drive by manufacturer and model just as if it was connected to the mb for what that's worth.  </s>
+<s> maybe, for some reason, windows doesn't see it as the same drive each time you restart.  </s>
+<s> that powering off and on just the drive, it remembers it's shared.  </s>
+<s> but if i power off then on the pc, it forgets.  </s>
+<s> i did assign the drive letter and volume name.  </s>
+<s> permissions like yours.  </s>
+<s> how did you set system restore off just on that drive?  </s>
+<s> specific drives are not allowed on my xp pro.  </s>
+<s> wayne  </s>
+<s> my computer/properties/system restore and select &quot;settings&quot;. you can't do that?  </s>
+<s> i'm not sure if it makes a difference.  </s>
+<s> i know that if i unplug a drive and use another usb port for it, windows sees it as a new drive and gives it a different drive letter.  </s>
+<s> it also turns on system restore for that drive by default.  </s>
+<s> i can't figure why it thinks its a new drive.  </s>
+<s> does your bios id the drive?  </s>
+<s> if not, i would wonder if windows forgets it saw it once and shuts off sharing.  </s>
+<s> the settings option in the system restore tab.  </s>
+<s> haven't tried looking in the bios.  </s>
+<s> will do it now.  </s>
+<s> and see if shows by model or if generic.  </s>
+<s> mine shows full model #.  </s>
+<s> device manager only shows usb mass storage device.  </s>
+<s> and this ibm bios does not list the drive.  </s>
+<s> that may be part of the problem, this is an ibm thinkcentre.  </s>
+<s> built for business &quot;stuff&quot;.  </s>
+<s> it's powerful, p-4 3 ghz hyper thread (dual processor) with a gig of ram.  </s>
+<s> sweet machine.  </s>
+<s> i've replaced the 40 gig hd with an 80 gig perpendicular recording seagate and added an lg dual layer dvd burner with lightscribe.  </s>
+<s> customized.  </s>
+<s> but i digress, sorry.  </s>
+<s> it must be something in the way the ibm handles usb drives.  </s>
+<s> no biggie.  </s>
+<s> when i want to back up &quot;stuff&quot; from my other pcs i'll just plug in in each one.  </s>
+<s> under usb devices somewhere not have it default to auto with each restart.  </s>
+<s> i've forgotten the process but i had to halt during post and go usb device setting and restart until the drives appeared by model #. i exited and saved the settings.  </s>
+<s> i also can allow more time for usb devices to present themselves.  </s>
+<s> i had to add a few seconds for one of my drives that was a bit slow to spin up.  </s>
+<s> you might see what options you have in your bios to remedy this.  </s>

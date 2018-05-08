@@ -1,0 +1,74 @@
+<s> my father has a desktop pc that's years old already, but normally works just fine.  </s>
+<s> it's a gateway yorktown model connected to a fairly new samsung monitor. the monitor doesn't seem to have any problems, except that suddenly it's been taking a really long time to wake up from standby.  </s>
+<s> i'm not sure if it's a monitor problem, though.  </s>
+<s> it would normally just take a second or two to wake up after being away from the pc for a while.  </s>
+<s> touch the mouse or keyboard and it would wake right up.  </s>
+<s> suddenly it can take almost 20 mintues to wake up.  </s>
+<s> also, the green light on the monitor will blink green on and off before it wakes up.  </s>
+<s> i've already changed the power settings for him, but that doesn't seem to be the issue.  </s>
+<s> today this happened for the first time on start-up.; he started his pc and waited for it to finish booting up, but the screen was black and the monitor power light was blinking.  </s>
+<s> he kept moving the mouse, etc, but nothing happened.  </s>
+<s> no images on the screen at all.  </s>
+<s> he forced a shut down and re-started again, then suddenly it worked.  </s>
+<s> i also checked all the drivers on his pc and they are all updated.  </s>
+<s> i shut down some misc programs that started on boot-up. the only thing left that starts on boot is his anti-virus.  </s>
+<s> does this sound familiar to anyone?  </s>
+<s> could it be due to an impending hardware failure with a part on the pc? i really don't think it has to do with the monitor itself.  </s>
+<s> i feel like the pc might be having trouble communicating with the monitor.  </s>
+<s> anyone have any ideas??  </s>
+<s> but nothing significant.  </s>
+<s> 1] is it time for house cleaning?  </s>
+<s> when was the last time the case was opened and all the dust bunnies blown away from the fans, power supply source and vents with an air aerosol?  </s>
+<s> 2] other house-keeping, reducing processes and services and any applications that &quot;load at startup&quot; but are not needed all the time and can just be opened when required.  </s>
+<s> they take up ram.  </s>
+<s> mark  </s>
+<s> pc is cleaned regularly, and i've already stopped a bunch of processes/services that load at start up, but it hasn't made any improvements regarding the standby issue.  </s>
+<s> that's good and it eliminates two possibilities.  </s>
+<s> how about other clues?  </s>
+<s> if you note the time that the display finally appears, head over to the event viewer and look at the logs for both applications and system, and see where the delay, (time gap), is between events.  </s>
+<s> something there may show what is calling the delay.  </s>
+<s> i do have a couple of other thoughts; network and anti-virus.  </s>
+<s> my own win 7 system appears at times to delay desktop display until the network is established.  </s>
+<s> i'm on a broadband always-on connection.  </s>
+<s> also some anti-virus utilities might run a quick scan on boot up.  </s>
+<s> i know stand-by is not the same, but does the anti-virus scanner kick in anyway?  </s>
+<s> mark  </s>
+<s> thanks! i have tried disabling the antivirus and that didn't work, plus he's had it on his pc for years and he does update it.  </s>
+<s> also he is using windows xp, not windows 7. i just checked the events viewer logs under all items, but didn't find anything that showed any problems.  </s>
+<s> i wish i could figure out what is causing the problem.  </s>
+<s> if you read overclocking advice you find a tale of overlapping protection.  </s>
+<s> maybe you can use this for ideas of what to look for?  </s>
+<s> bob  </s>
+<s> i didn't expect the event viewer to show problems; instead, looking at the &quot;times&quot; between each event, perhaps there is some clue as to what is causing this delay between logged events.  </s>
+<s> bob's idea is good.  </s>
+<s> what running security programs are there on this system besides the anti-virus?  </s>
+<s> for example we find many xp users still using spybot search &amp; destroy with it's teatimer component running in the background, or lavasoft's adaware with it's adwatch component running in the background and with today's anti-virus scanners those components often cause conflict.  </s>
+<s> which anti-virus is being used?  </s>
+<s> are any 'optmizers' or 'registry cleaners' being used?  </s>
+<s> we often find those can cause problems.  </s>
+<s> mark  </s>
+<s> did you check your belief about it not being the monitor that causes this?  </s>
+<s> that's so easy (just swap monitor with another pc) that i would start with that.  </s>
+<s> kees  </s>
+<s> thanks, i looked at the event viewer again and everything is pretty much seconds to a minute apart in time.  </s>
+<s> as for anti-virus, he is running mcaffee anti-virus and does not have any other anti-virus type program or optimizers, he wouldn't even know what to do with most of those other programs.  </s>
+<s> i'm not sure if this would qualify as a registry cleaner, maybe since it gets rid of programs, but he does have revo uninstaller.  </s>
+<s> he said he hasn't uninstalled anything in months, though.  </s>
+<s> he has been having problems with his usb ports for some time also, which is what made me wonder if his pc is just slowly dying part by part.  </s>
+<s> actually, i did not swap out another monitor to check if that could be the cause, but it wouldn't be a problem for me to do so.  </s>
+<s> i'll just get one of mine and bring it over to try.  </s>
+<s> i should try to rule that in or out for him.  </s>
+<s> once i get to doing this, i'll post back what happened.  </s>
+<s> i see another good idea from kees, and note that you will swap out the monitor to see if the problem is there.  </s>
+<s> in fact i was going to type on about ... &quot;if not, i would wonder about the event viewer showing events a minute apart.&quot;, but re-reading your first post, i now see you are talking about anything up to a 20 minute wait before the display shows.  </s>
+<s> so, now i'm not at all sure anything in the event viewer, or anything else software wise, would be causing this, and it looks like kees' suggestion might have hit the nail on the head.  </s>
+<s> let's see what you find out when you swap the monitor.  </s>
+<s> good luck.  </s>
+<s> mark  </s>
+<s> i finally got around to hooking up a different monitor to the pc and sure enough, the new monitor works fine with no stand-by issues.  </s>
+<s> it goes to sleep and wakes up instantly.  </s>
+<s> so the problem lies with either the other monitor itself or the cables attached to this monitor.  </s>
+<s> so for now, i just gave him my monitor that has no issues with stand-by.  </s>
+<s> thanks again for everyone's help and suggestions!  </s>
+<s> and thanks for letting us know.  </s>
+<s> mark  </s>

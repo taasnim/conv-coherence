@@ -1,0 +1,6 @@
+(TOP (S (NP (NP (NN click) (NN network) (NN guide)) (PP (IN in) (NP (DT the) (NN left)))) (VP (VBZ coloumn))) )
+(TOP (S (NP (PRP i)) (VP (VP (VBP want) (S (NP (PRP it)) (VP (TO to) (VP (VB start) (PP (IN in) (NP (PRP$ my) (NN basement))) (PP (VBG connecting) (NP (NP (PRP$ my) (NN pc)) (CC and) (NP (DT a) (NN file) (NN server)))))))) (CC and) (VP (AUX have) (NP (PRP it)) (NP (NNP wireless)) (PP (IN up) (PP (TO to) (NP (NP (NP (PRP$ my) (NN mom) (POS 's)) (NN pc)) (PP (IN in) (NP (DT the) (NN den)))))))) (. .)) )
+(TOP (SBARQ (WHNP (WP what) (NN hardware)) (SQ (AUX do) (NP (PRP i)) (VP (AUX need) (S (VP (TO to) (VP (NN setup) (NP (DT a) (NN home) (NN network))))))) (. ?)) )
+(TOP (SBARQ (WHNP (WP what)) (SQ (AUX do) (NP (PRP i)) (VP (VBP need.) (SBAR (S (NP (NP (DT the) (NN place)) (SBAR (WHADVP (WRB where)) (S (NP (PRP$ my) (NN pc) (CC and) (NN file) (NN server)) (VP (AUX are) (VP (VBN located)))))) (VP (AUX is) (PP (ADVP (RB directly)) (IN below) (NP (NP (PRP$ my) (NN mom) (POS 's)) (NN pc)))))))) (. .)) )
+(TOP (INTJ (UH hello) (. .)) )
+(TOP (NP (NNS thanks) (. .)) )

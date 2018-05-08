@@ -1,0 +1,48 @@
+<s> on my late wife's computer, an intel p4 3 gig, the temp monitor is showing 50 degrees c, it used to be rather less than that.  </s>
+<s> i wish to remove the cooling fan and heatsink so i can clean it properly.  </s>
+<s> i believe it may be quite dusty in the cooling fins etc. how do i remove it?  </s>
+<s> i have released the two over-centre levers, which loosens it, but the cage is still held in place.  </s>
+<s> it looks as if once the cage is unclipped or released, the fan and heatsink might come off.  </s>
+<s> what exactly holds the cage in place, and how do i unclip it?  </s>
+<s> many thanks.  </s>
+<s> usually the compressed air can can do fine at this. in some cases i remove the heatsink to apply a fresh dab of heatsink compound then button it all up proper.  </s>
+<s> in a few laptops they would not run past a few minutes prior because the heatsink had come off in one corner.  </s>
+<s> bob  </s>
+<s> i have blown it out, but the fins seem very deep, so i still need to know how to get it off so i can be sure it is clean and has sufficient compound still in place.  </s>
+<s> have to take it apart.  </s>
+<s> not for the feint of heart but you can sometimes get lucky and find a service manual at the maker's web site on disassembly.  </s>
+<s> my links are the generic version.  </s>
+<s> for those p4 cpu units i always suggest a laptop cooling pad to extend the life of those units.  </s>
+<s> bob  </s>
+<s> the fan/heat-sink should lift off.  </s>
+<s> i suppose the thermal compound that was used might be holding it in place.  </s>
+<s> instead of trying to lift it straight up try to gently twist it to one side or the other.  </s>
+<s> there is also a handle that will lift up to release the cpu but in all cases i have seen it is covered by the heat sink.  </s>
+<s> what do you mean by &quot;cage&quot;?  </s>
+<s> post back on your progress.  </s>
+<s> normally, you'll have to face temperatures ranging from about 50 to 70 degrees when 3gb is installed, although people from intel says it should be much less.  </s>
+<s> but here's what you can do, after installing the temperature monitoring software, do make sure, your acpi drivers are installed, that starts from selecting the acpi from your bios setting and then installing the operating system, xp. now after installing still you'll have to further install few more acpi drivers from the list of drivers, for example, acpi power, and acpi thermal and acpi system management extra, as these are all in the drivers list.  </s>
+<s> these shall keep your system under control.  </s>
+<s> to clean, simply remove your fan, alongwith the heat-sink metal block as the fan and heat-sink are both clipped together, while removing you might feel as if the heat-sink compound, called silicone grease is keeping the cpu in place, now intel puts in a very thick paste (sort of) to make sure, you won't get the same type and color, for waranty reasons, just to make sure, you won't do it yourself.  </s>
+<s> but if you want to, then you'll first have to have a small quarter of a tea-spoon or even half of that from somw technical person or company, thicker the paste better it is.  </s>
+<s> (white color you'll find.) now after the first install you might face the cpu not coming out of your cpu socket, meaning if the socket is equiped with a small handle like noodle to release the cpu's pins then you must know ahead of time that you are not supposed to even touch the pins of your cpu with bare hands at all.  </s>
+<s> and still shall have to keep the pins not getting at an angle further than 90 degrees from the base.  </s>
+<s> vertical they must remain, and not bent at all.  </s>
+<s> then cleaning with a volatile liquid spray the entire socket if its been some months since your regular usage, and then perhaps with doctors swab that they use before and after injecting people that has alcohol strip.  </s>
+<s> (for wipping the socket and around.  </s>
+<s> as it gets messy because of the old, heat sink compound.  </s>
+<s> and re-using the same compound would be like asking for the cpu to get warmer than before.  </s>
+<s> make sure your mother board is out of the computer's body, and resting on a flat surface.  </s>
+<s> with an earthed wrist band connected with a common terminal on your mother board, as you might burn out your mother boards sensitive integrated circuit chips internal goodies.  </s>
+<s> and if you simply want to clean it without this much hastle yourself, then simple high speed blower shall take out the dust but won't keep the things within limited temp.  </s>
+<s> another hint, you'll have to check on your computers power supply from the software intel has it on their website, you'll have to search for your mother board whatever company it is made out from.  </s>
+<s> and then figure out if the voltages are absolutely normal and they do not get into variation, and if they do, then have something installed before your computers power supply plugs, for example, a good quality voltage regulating device that won't give up just because it might be not suitable for computers supply needs.  </s>
+<s> good luck.  </s>
+<s> at that stage the fan and heatsink seem to come loose, but it feels as if there may be other clips or some such, holding the fan etc on to the cpu.  </s>
+<s> i don't think it is compound holding it in.  </s>
+<s> i don't have any intention of removing the actual cpu.  </s>
+<s> by cage, i mean the brackets, clips, cage, legs, whatever, that hold the fan onto/over the heatsink and cpu.  </s>
+<s> strangely enough, today, after a couple of weeks of &quot;high&quot; 50c temperatures, it's dropped back to 35 degrees c, which is where it used to be.  </s>
+<s> i have no idea why! the ambient air temperature is only about 3 degrees lower than yesterday.  </s>
+<s> the temperature monitor being used, is the built in &quot;intel active monitor&quot;.  </s>
+<s> voltages, according to the monitor, are all fine.  </s>

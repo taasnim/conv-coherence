@@ -1,0 +1,16 @@
+<s> i have the 2wire modem/wireless router with at&t isp.  </s>
+<s> several times a day it loses dsl connection.  </s>
+<s> at&t claims that everything outside the home is fine, and i live in an apartment and they claim everything inside the home is fine.  </s>
+<s> here are portions of logs i get.  </s>
+<s> inf  </s>
+<s> 1. uncancelled echo: 6.7 db suspicious - check phone filters and alarm your post doesn't tell much about your knowledge of filters and that alarm system.  </s>
+<s> 2. any torrent use?  </s>
+<s> 3. what happens if you turn off the wifi and get wired?  </s>
+<s> bob  </s>
+<s> 1. nothing is plugged into any other jack in the apartment, and there is no alarm system 2. no torrent use 3. i need to use wifi and don't have a ethernet cable to test this out at the moment.  </s>
+<s> i read somewhere that sometimes it can mess up if it is maxing out bandwidth.  </s>
+<s> how can i limit the bandwidth for downloads to test this out?  </s>
+<s> but my last idea is to get the ethernet for a test as well as secure your connection to wpa as well as change the rf channel. the uncanceled echo is still an nagging item.  </s>
+<s> since it can't hurt, plug two filters into nearby phone jacks.  </s>
+<s> this will change the line impedance and let's see what happens.  </s>
+<s> bob  </s>

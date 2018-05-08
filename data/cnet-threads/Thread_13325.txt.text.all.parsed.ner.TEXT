@@ -1,0 +1,36 @@
+<s> hi, im running my own webserver at home and since i dont want to have 1 computer turned on the whole day, i thought of having 2 instead so they can help each other.  </s>
+<s> in order to do that, they need to have the same place to store the files, in this case an external hard drive.  </s>
+<s> i know that a usb switcher is an option, because it would allow me to turn off one computer and switch the hard drive to the other that is on.  </s>
+<s> however i wonder if there is a way to have them both connected at the same time without having to switch them every time so i would just need to turn on one and turn off the other.  </s>
+<s> could you please give me a hint?  </s>
+<s> thank you.  </s>
+<s> some routers offer a usb port which can accommodate hard drives as network drives.  </s>
+<s> you can buy external hard drives with an ethernet port which essentially makes then nas drives (network attached storage).  </s>
+<s> you might look into that.  </s>
+<s> as a side note, remember to have a backup plan for any such drive.  </s>
+<s> thanks.  </s>
+<s> im interested in the router option.  </s>
+<s> could you please tell me the exact name of that hardware so i can google it?  </s>
+<s> thank you.  </s>
+<s> print server router you can take it from there.  </s>
+<s> happy hunting.  </s>
+<s> thank you very much.  </s>
+<s> i found this one question.  </s>
+<s> my hdd is usb 3.0.  </s>
+<s> do you think speed gets affected if i connect it to this router?  </s>
+<s> there are two factors involved.  </s>
+<s> one will be your network speed and the other will be the usb to router transfer speed.  </s>
+<s> this router seems to be 10/100 so even usb2 will outrun it.  </s>
+<s> usb3 should not make any difference one way or the other.  </s>
+<s> if your network speed was fully gigabit, it might matter in some limited circumstances.  </s>
+<s> in any event, it should provide you with what you want short of buying an actual nas device.  </s>
+<s> sounds a good idea.  </s>
+<s> :)&gt;  </s>
+<s> check out this link: from what you are saying, i see no reason you cannot use something like this for what you want to do.  </s>
+<s> and, it's pretty well straight forward for installation and use .  </s>
+<s> of course, you will need all programs installed on each computer that will be accessing the files.  </s>
+<s> let us know what you decide to do!  </s>
+<s> hmmm, i don't think you quite answered supercain's question. the answer is, yes, speed will be affected.  </s>
+<s> any networking solution to sharing the drive will be considerably slower than just plugging the drive into your pc. even gigabit ethernet will be slower than usb3.0.  </s>
+<s> of 10/100 so the speed will depend on the slowest device in the transfer path.  </s>
+<s> i can't see where a usb3 hd would transfer data between his pc and the usb3 hard drive any faster than to a usb2 drive with that network speed limit...at least not detectably.  </s>

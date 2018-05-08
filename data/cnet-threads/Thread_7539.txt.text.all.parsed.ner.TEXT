@@ -1,0 +1,55 @@
+<s> hi everyone!  </s>
+<s> stats: windows xp dell inc.  </s>
+<s> optiplex 755 2.4 gigahertz intel core2 duo 64 kilotbyte primary mem cache 80 gig hard drive 39 free mb dell inc.  </s>
+<s> 0gm819 bios dell inc a09 03/11/2008 tsstcorp dvd-rom ts-h353b optical drive memorx external dvd/cd (arcsoft) burner any other info that is helpful i can provide.  </s>
+<s> ok, computer does not recognize the cd burner on either drive.  </s>
+<s> it will read from but no write to.  </s>
+<s> i have used device manager to no avail.  </s>
+<s> i uninstalled the dvd player twice an it did install the main driver.  </s>
+<s> still same problem.  </s>
+<s> in other words, using windows media player, when i add tracks to my burn bucket if you will or place where you would put in your tracks to burn them to a cd/dvd doesnt work.  </s>
+<s> so how do i get my machine to recognize the burner part of the attatched drives, both internal and extenal??  </s>
+<s> the dvd-rom can't burn ('ro' is read-only). the external burner should be able to burn, but only if it isn't defective.  </s>
+<s> so the first thiing to do: try it on another pc to see if it's ok.  </s>
+<s> that's a basic diagnostic.  </s>
+<s> kees  </s>
+<s> as another poster mentioned, rom is read only.  </s>
+<s> windows xp didn't have burning capability onboard, you'd have to use an aftermarket burning software to accomplish the task, roxio, nero and others. the external drive dvd/cdrw is going to pose the same issue, it needs software to run against.  </s>
+<s> even is the system recognizes it as a usb device it will not likely burn anything without software installed in the system.  </s>
+<s> or write cds or dvds.  </s>
+<s> vapcmd  </s>
+<s> well with the dvd burner i just purchased with memorex they gave me software for making dvd and cd music disks etc. wouldn't that be the same software as nero?  </s>
+<s> i've used too many titles and they are never the same.  </s>
+<s> usually it's just more or less features, menu's and interfaces vary.  </s>
+<s> but there are fine free choices for most of what folk need to do.  </s>
+<s> bob  </s>
+<s> so i downloaded a freebo burner program.  </s>
+<s> well now it sees the drives at least but it doesnt see the disc.  </s>
+<s> it give an error &quot;please insert a writable disc&quot;  </s>
+<s> now it sees the drive, but does not see the disc.  </s>
+<s> i downloaded a freebee burner software program added a few tracks and to no avail.  </s>
+<s> stumped.  </s>
+<s> in pc years, a 2 year old drive can be dead.  </s>
+<s> bob  </s>
+<s> is there any diagnostic to run to see?  </s>
+<s> however i am thinking its ok. as above i have a brand new memorex external dvd burner that i think is working.  </s>
+<s> it appears that the computer somehow is not recognizing either drives as burner drives.  </s>
+<s> also there are other reasons such as media or a cluttered pc with cd emulators but i don't see that here.  </s>
+<s> bob  </s>
+<s> no matter whether internal /external and thereafter, the system must have cd-dvd burning software to create/copy cd-dvds.  </s>
+<s> as operating systems go, xp does not have built in cd_dvd burning such so you must supply it.  </s>
+<s> vapcmd  </s>
+<s> downloaded a freebie program for burning cds.  </s>
+<s> no luck still does not want to burn or recognize the burner drives as burner drives.  </s>
+<s> well this may help explain.  </s>
+<s> not sure what it means but i think i need a new drive.  </s>
+<s> i did a pre boot test in bios (diagnostics) when the cd rom was tested it returned a &quot;spindle test failed&quot; result.  </s>
+<s> error code: 2000-0147 so looks like it is in fact time for new drive unless someone has a tip on how to fix that.  </s>
+<s> thanks!  </s>
+<s> might be best to bite the bullet and just replace the internal cd-dvd.  </s>
+<s> re the external...like someone else suggested might try that on another pc. r. proffitt often mentions a registry problem referring to 'upper limits' that might be worth looking at too....there are some of those posts on cnet about that.  </s>
+<s> keep us posted how it works out.  </s>
+<s> vapcmd  </s>
+<s> reviews on cd-dvd burners over at newegg.com.  </s>
+<s> at least that gives you some perspective on how actual buyers rate cd-dvd drives they bought that should be currently available.  </s>
+<s> vapcmd  </s>

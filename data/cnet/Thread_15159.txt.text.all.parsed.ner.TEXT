@@ -1,0 +1,25 @@
+<s> i just moved my dlink 524 router to another computer.  </s>
+<s> the internet works, im surfing it now.  </s>
+<s> i just cant open up the window to configure the router.  </s>
+<s> i dont know if it matters, but the pc that was connected to the router before was using a cable modem, but now we switched isps and now its running through a dsl line.  </s>
+<s> pc: p4 1.4gz, 128mb ram (im upgrading soon), 64mb vram, windows xp home ed.  </s>
+<s> or this one.  </s>
+<s> does the router let you login?  </s>
+<s> bob  </s>
+<s> the manual says to login on the 192.68.0.1 but everytime i try the internet connection dies, so i have to turn off both the router and modem to get a connection again.  </s>
+<s> perhaps your dsl modem is actually a modem/router, and it is giving ip addresses in the same range as your dlink router.  </s>
+<s> what i'd try is disconnecting the dsl router and trying 192.168.0.1 again to get into the router and set it up to give out addresses in some other range (10.0.0.0 is a good range)  </s>
+<s> i wonder if you tried the links i provided.  </s>
+<s> you may have a document error.  </s>
+<s> bob  </s>
+<s> not sure what he did, but i can log on, but the connection for the pc connected to the router comes and goes, plus even though the settings on my router are the same, my laptop cannot get on the network.  </s>
+<s> it detects the network though.  </s>
+<s> my laptop uses a dlink airplus dwl650+ card. the firmware for the router is up to date.  </s>
+<s> i tossed it out and got something else.  </s>
+<s> in closing, my di-524 was almost tossed until dlink issued new firmware.  </s>
+<s> at this stage of the discussion i can only share that ... a. 192.168.0.1 is the documented default address.  </s>
+<s> b. my 650 card was never quite right.  </s>
+<s> tossed it.  </s>
+<s> c. the latest firmware in the 524 did wonders for it.  </s>
+<s> bob  </s>
+<s> im in the process of getting a new adapter  </s>

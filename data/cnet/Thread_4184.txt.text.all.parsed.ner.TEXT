@@ -1,0 +1,18 @@
+<s> i have an internet access by cable connected to my workstation, and everything was fine.  </s>
+<s> then i got a server (actually an usual computer: p4 3.0ht, asus p4p800-x, 1gb ddr, 2x100mbps nic), set up the win2003 server and configured routing&remote access, so i had i small network.  </s>
+<s> then i discovered the speed was decreased when surfing internet.  </s>
+<s> made a speed test on server, it shows 600-900kbps, then plug a cable into workstation, and test result was 2000-2200kbps. the nic on server are ok, replaced with new one.  </s>
+<s> routing&remote acces was turned off when testing, no network applications& extra services running.  </s>
+<s> what may be the problem?  </s>
+<s> what can cause windows server to decrease the speed?  </s>
+<s> why not put a router in there and be done with it?  </s>
+<s> bob  </s>
+<s> well, because the server is also a database server, web server and file server.  </s>
+<s> i need it for development.  </s>
+<s> so you say that it's a bad idea to user pc with windows server as a nat router?  </s>
+<s> set up the server to serve such.  </s>
+<s> adding nat is going to frustrate people that actually look at the numbers.  </s>
+<s> the speed you noted was fine years ago but as rates climbed... what i'm writing is to use what works best where it works best.  </s>
+<s> bob  </s>
+<s> great idea, i can buy a router and put a server+workstation behind that keeping internet connect to both machines almost direct.  </s>
+<s> thanks!  </s>

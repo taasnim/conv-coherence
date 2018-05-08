@@ -1,0 +1,85 @@
+<s> hello there, you guys might remember me from a while back, with the external hard drive issue.  </s>
+<s> you wont believe my luck but now my sony laptop harddrive (60gig) has failed.  </s>
+<s> i was using it the other day and it decided it froze and a blue screen came up saying that there could be dataloss and restart your machine.  </s>
+<s> kept restarting and it kept happening.  </s>
+<s> i then tried to use the recovery disks to format the drive, no go. the reformat process reached 3% then just froze.  </s>
+<s> i'm pretty sure it's a physicla failure.  </s>
+<s> it's weird though because i did a total reformat 3 days before this happened, was running a clean system.  </s>
+<s> and it was only a year old, as my previous hard drive failed a year after i got the computer.  </s>
+<s> lucickly i use retrospect to backup every few months (because of my slow dvd burner), so i wont have lost that much information except for all my emails... before the hard drive crashed, i used the external hard drive (when it was working) to create a backup of my most important files (including emails etc), so i could then copy all my important files over after i reformatted the machine this time.  </s>
+<s> lastnight while attempting to access the hard drive in another desktop system, it worked for about 3 minutes then made a strange noise and it froze the machine i was working on.  </s>
+<s> i then restarted the machine, and it came up with a scan disk checking all the chkdsk etc. it said it had unreadable sectors.  </s>
+<s> does anyone know the chances of recovering this data, i am going to send it through to because its a western digital hard drive still under warranty and i dont want to void it.  </s>
+<s> also i am not sure of the cost, has anyone used a data recovery service before?  </s>
+<s> i am also going to run the western digital data diagnostic tools on their website.  </s>
+<s> anyone has any hints or tips in this situation?  </s>
+<s> thanks rossco  </s>
+<s> the web site grc.com has an application that has been known to pull rabbits out of hats as well bring back all but dead hard drives.if  </s>
+<s> you are interested,the application is called spinrite6 and it can be had at grc.com along with much much more credible information as to its reputation as one of the if not the very best hard drive utility available.it  </s>
+<s> will cost for the first time purchaser $89.00 but it gets better over time.read up because there are stories at the site that will make your decision to purchase less lonesome.good  </s>
+<s> luck!  </s>
+<s> the data recovery peopple said the minimum cost would be about 600 dollars.  </s>
+<s> and not to power on the drive again because it could keep destroying data if the heads are damaged.  </s>
+<s> cheers rossco  </s>
+<s> i meant what i said,&quot;you can get your money back at the door&quot;  </s>
+<s> frankly? i'd replace the drive and move on.  </s>
+<s> here, an 60 or 80gb laptop drive can be found for 99 bucks.  </s>
+<s> cheap compared to other avenues.  </s>
+<s> still want to save the drive?  </s>
+<s> let me state that if the heads have crashed (rare!) then the crash scraped off the coating and the data is long gone.  </s>
+<s> given that, i'd buy spinrite and let it at the drive.  </s>
+<s> cheers, bob  </s>
+<s> spinrite has a great reputation. it only works on internal drives, from a floppy, so give it a shot for the laptop.  </s>
+<s> on an external drive with problems, take the drive out of its container, hook it up to a desk top as a second (slave) drive, and again try spinrite on it.  </s>
+<s> spinrite does a thorough job, and it may take as much as 24 hours, be patient.  </s>
+<s> if the drive doesn't spin, or if your system does not see the drive, you may consider using the drive as a door stop, unless the data is valuable and you have plenty of cash.  </s>
+<s> the following link will take you to a page - with more links - that will tell you how to revive a non-working hard drive.  </s>
+<s> even one that doesn't spin.  </s>
+<s> also, ontrack at is another hard drive recovery company that has very good recovery software.  </s>
+<s> i have used there personal recovery software with very good results.  </s>
+<s> i hope this helps.  </s>
+<s> jamesl63  </s>
+<s> first rule of hard drive recovery - stop! and think.  </s>
+<s> if the drive is still spinning, not making strange noises and most of the drive seems to be accessible, backup your data.  </s>
+<s> then give spinrite a chance.  </s>
+<s> if the drive is still spinning and you've lost access to the drive: 1. check your bios settings to see if the system sees your drive 2. start spinrite (it brings its own os and runs from a floppy).  </s>
+<s> its preliminary diagnostics may give you some hints as to what went wrong such as 'bad mbr' or 'overwritten sector 0'. another program with a startup diagnostic is partitionmagic that can help show what your system sees.  </s>
+<s> if these don't get on your way to a good answer, try the reasoning in the next step.  </s>
+<s> if the last notice from the drive was bad &quot;noises&quot; or rapidly narrowing access, shutdown the system and unplug the drive.  </s>
+<s> think back to what data is on the drive, when you last backed it up, how important it may be and how hard it may be to reproduce.  </s>
+<s> there are data recovery companies that can in most cases rebuild the drive to last long enough to get the data from it.  </s>
+<s> costs start at $600.  </s>
+<s> and go up depending on how complete a recovery you need, the type drive involved and the time you are willing to wait.  </s>
+<s> note: the more you play with the drive after it starts to fail mechanically, the less likely you are to get your data back.  </s>
+<s> in any case, 2 new drives failing in one year is way out of norm today.  </s>
+<s> since one drive was an external drive you may want to check for a bad ac power source, something that might be overheating the area or something physically jarring the equipment (e.g., enthusiastic vacuuming) in any case, better luck in the future.  </s>
+<s> ouch. i was wondering if you had s.m.a.r.t. activated on the drive(s) and if any warning flags were raised before hard drive doom set in.  </s>
+<s> doesn't always work as advertised but better than nothing, imo.  </s>
+<s> i was going to suggest trying to run spinrite version 6, but someone beat me to it.  </s>
+<s> it's regarded as &quot;the tool of last hope&quot; to many in your situation. it would certainly be cheaper (around $100 for copy) than sending it off somewhere for emergency data recovery.  </s>
+<s> and who knows, it may come in handy on another failing disk drive.  </s>
+<s> what it would do is analyze and recover the bad sectored data it could and move it to a working sector, assuming the drive is considered operational at all.  </s>
+<s> these hard drive data recovery companies don't work cheaply and i don't think they are even able to guarantee results.  </s>
+<s> what they would find is all you get for your money.  </s>
+<s> fyi, drive savers is another well-known recovery company in the u.s. i would definitely exhaust every possible idea of your own before sending it off somewhere.  </s>
+<s> use them for emergencies only.  </s>
+<s> many of them can perform miracles out of seemingly bad hd crashes, but they are hella expensive.  </s>
+<s> it certainly varies per company, but the ones i called costed $800 minimum and even up to $8,000 just for a simple data recovery on a 120gb hd gone wrong.  </s>
+<s> most ppl who use these services will be corporations, enterprises, or smaller groups who have mission critical info (banking, financials, blueprints, etc.), and who obviously were lax with their backups.  </s>
+<s> i'd gander many large businesses will have their own backup solutions to avoid needing these emergency data recovery services should hardirves crash.  </s>
+<s> it's your $$, and it looks like you're fine w/o it since u opted to backup regularily.  </s>
+<s> try the &lt;$100 suggestions if you still wanna try to recover some data.  </s>
+<s> i took the respondants advise and bought the spinrite program.  </s>
+<s> the problem is, i can't even get it to work.  </s>
+<s> i had over 7,000 mp3 and family photo's on my hard drive and now i have nothing.  </s>
+<s> i downloaded my entire music cd and personal family photos into my computer before moving from illinois to california, and now i have nothing.  </s>
+<s> i must admit, i'm not the most computer savy guy out there, but i tried to use this program, followed what i thought were the instructions by hitting thr f2 or delete key during startup, and nothing happened.  </s>
+<s> i guess i just wasted $80 of my hard earned money. if i could send this damn program back to spinrite i would.  </s>
+<s> can anyone give me step by step instructions on what to do?  </s>
+<s> i'm about at my wits end trying to get this consumer unfriendly program to work.  </s>
+<s> thanks, terry  </s>
+<s> data recovery houses like ontrack.com and drivesavers.com the recovery is beyond the home remedy stage.  </s>
+<s> bob  </s>
+<s> to help with western digital problems please see: partners with western digital so that all clean room work is covered by a warranty sticker:  </s>
+<s> i know this thread is old, but for whoever finds it, like vbrauner said, id check the western digital link, and pick a company close to you.  </s>
+<s> i went with since theyre in the neighborhood; worked out well.  </s>

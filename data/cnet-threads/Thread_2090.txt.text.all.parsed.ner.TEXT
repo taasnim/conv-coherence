@@ -1,0 +1,60 @@
+<s> here's a brain picker.  </s>
+<s> i deal with several hundred ibm netvista pcs.  </s>
+<s> these are leased units and there are basically four different year(models) the second year lease are (6792&6794 desktop and tower respectfully).these two models are suppose to be identical except for the footprint configs.  </s>
+<s> now the problem.  </s>
+<s> not long after installing these units we began to get trouble calls on them.  </s>
+<s> one day they would be working fine then shut down for the night.  </s>
+<s> the next day upon start up the machine would go through post then come up with and error &quot;missing vmm32.vxd&quot; or simular error and the system would not finish booting.  </s>
+<s> i would boot the system to a 98 boot disk and check the c: drive for this file.  </s>
+<s> it should reside in the windowssystem folder.  </s>
+<s> well some of the machines had the windowssystem folder totally blown away others even had the enitire windows directory gone.  </s>
+<s> i went around and around with ibm to no avail, even sent them one of the machines that had experienced this problem.  </s>
+<s> their respose was nothing wrong with the machine and it was apparently a rouge application, virus or someone deleting these files from the hard drive.  </s>
+<s> well thses machines are on a network with many other different types and models of computers and these particular ones are the only ones that experience this problem.  </s>
+<s> to me that knocks out the rouge application and virus since the first year leased ones have the same os (win98) and app loads.  </s>
+<s> also it has happened to computers all over the district even in our admin offices so that eliviates someone deleting the files. the mainboards of the first and second year lease are essentially the same except for second year having some revisions.  </s>
+<s> first lease mainboard has p5 designation, second year p6.  </s>
+<s> anyone have ideas as to what's causing this or experienced it themselves please respond.  </s>
+<s> thanks in advance.  </s>
+<s> windows 98 has no protection from the delete key or any rogue spyware or other pest.  </s>
+<s> it's part of the reason it's not used as widely anymore.  </s>
+<s> bob  </s>
+<s> there was an option called 'disable fast shutdown' which i think was removed by some update.  </s>
+<s> if you still have it run a test.  </s>
+<s> anyway on this machine it's gone.  </s>
+<s> another thought is to disable write behind caching and test.  </s>
+<s> well bob i understand what you're saying here, only thing is this happens to only the 6792-6794 machines nothing else.  </s>
+<s> hard to believe that the no protection from the delete key or any spyware would just be targeting only these machines.  </s>
+<s> i might also mention that these machines are among the model of the known problem of swelling, leaking capacitors adjacent to the processor which causes involuntary reboots and or shutdowns.  </s>
+<s> i have only discovered one machine thus far with the capacitor problem in the ones i support but know of many others.  </s>
+<s> for the input i'll have to look into this.  </s>
+<s> the cache not getting flushed on some machines.  </s>
+<s> this item will affect only specific machines.  </s>
+<s> but and this is a big deal, it would only affect machines that didn't have all critical updates.  </s>
+<s> you as the administrator get to know all about this... given the age of this os, i do not expect ibm to be able to help you.  </s>
+<s> bob  </s>
+<s> i suppose you are refering to the l1 l2 cache not getting flushed?  </s>
+<s> i can see where some files could get screwed up in a situation like this but for the life of me i can't see no way in hades the entire system folder or more especially the windows directory could actually vanish off the hard drive.  </s>
+<s> like it's poof they're gone.  </s>
+<s> where can i find more info on machines not flushing the cache, bob?  </s>
+<s> thanks for your responses by the way.  </s>
+<s> have cache that may need flushing.  </s>
+<s> microsoft did supply a critical patch for this.  </s>
+<s> does not detail all the possible effects of this issue.  </s>
+<s> bob  </s>
+<s> and that could certainly explain a machine working fine one day and booting up the next with a missing vmm32.vxd  </s>
+<s> error.  </s>
+<s> still puzzling are the ones that have lost the entire system directory or windows directory.  </s>
+<s> thanks for the info.  </s>
+<s> have anything else let me know please.  </s>
+<s> the directory &quot;sector&quot; may need to get rewritten and ... fails. the old entry is invalid and you get the effect you note.  </s>
+<s> only one reason why we don't bother with fat file systems at the office.  </s>
+<s> at least with ntfs, the transactions are ... part of why ntfs is more damage resitant.  </s>
+<s> there has been no attempts to cure this issue.  </s>
+<s> bob  </s>
+<s> couple of co-workers and i had just discussed this and came to the same conclusion.  </s>
+<s> your post just verified it.  </s>
+<s> still there must be something with the particular machines we've had this problem with since the same load is on many other machines of different build and model times.  </s>
+<s> we have downloaded that patch and installed it on an image to be used on two school labs containing the machines in question.  </s>
+<s> guess we'll see if that was the fix for this problem.  </s>
+<s> thanks much for the insight and expertise!  </s>

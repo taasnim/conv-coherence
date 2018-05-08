@@ -1,0 +1,24 @@
+<s> i was attempting to help my friend with his computer problems... he has a dell desktop, not sure what model, but i don't believe that is relevant in this case.  </s>
+<s> he wasn't sure when it happened, but he thought it might have been when he uninstalled dvd43.  </s>
+<s> under my computer, both his cdrw (sony crx216e) and dvdrw (pioneer dvr-110d) drives were missing.  </s>
+<s> after going into device manager, it showed both drives, but they both had yellow exclamation points next to it.  </s>
+<s> first step was to uninstall the drives, and reboot windows.  </s>
+<s> same problem.  </s>
+<s> the drives showed up under device manager with the yellow exclamation point.  </s>
+<s> second, i attempted to update the drivers (found at each respective company's website).  </s>
+<s> when installing the drivers, an error came up for both of them saying &quot;available target not found.&quot; after that, i tried to rollback the drivers, but it said something along the lines that there was no previous driver installed.  </s>
+<s> i considered using system restore, but he isn't sure when the problem started happening, and i don't want to restore it too far back because i'm not sure if that will harm anything else he's done since the problem occurred.  </s>
+<s> also, in another form someone mentioned that a system restore did not help them.  </s>
+<s> i attempted to look into the bios, but dell's bios is nothing like mine, and barely has any options.  </s>
+<s> i've searched through multiple forums, but to no avail.  </s>
+<s> one mentioned going into the registry and editing a few things, then uninstalling the drives and rebooting, but i am a bit nervous editing the registry on a computer that is not mine.  </s>
+<s> noted and linked at  </s>
+<s> i looked over that forum, but i don't see where that relates to my problem.  </s>
+<s> that forum seems to be about drives that are recognized, but do not recognize a cd-rw.  </s>
+<s> maybe i am missing something, could you specify which post on that forum describes a solution to my problem?  </s>
+<s> dont worry about too much about editing the registry,as long as you follow the instructions right it will be fine , besides you can back it up before changing/deleting , it may make some installed burnning software to malfunction if it have an upper/lower filter driver but thats all , nothing beyond , if that will happen its very easy to uninstall and reinstall that specific software.  </s>
+<s> that looks exactly like what i've read in the other forums... i was hoping there would be a fix without a regedit, but i'll just back up his registry before i do anything.  </s>
+<s> i'll give it a shot and repost the results later tonight.  </s>
+<s> don't want to use regedit.  </s>
+<s> bob  </s>
+<s> thank you all for the fast help... i followed stephen471's advice and everything is back in order.  </s>

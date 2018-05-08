@@ -1,0 +1,13 @@
+<s> i have installed an internal dvd rw drive externally using an ide-usb2 adaptor into my pcs' usb1.1 socket.  </s>
+<s> i get a message saying it wont work due to an i/o problem.will this be cured by replacing my usb1.1 card with usb2.0  </s>
+<s> my thought on this is..if you have a usb 2 device then by all mean get an usb 2 adapter card.  </s>
+<s> if the usb card can't handle the power that is require by the device then you will also need a hub with external supply also (i think that maybe your problem right now; just guessing).  </s>
+<s> the data rate of usb 1.1 is too low for dvd recording.  </s>
+<s> let's attempt a dvd write at about 600 kbps?  </s>
+<s> that's about 4 hours.  </s>
+<s> a cd-r at 4x is some 700 mb that at top speed completes in about 25 minutes.  </s>
+<s> i actually see 30 minutes.  </s>
+<s> so at usb 1.1 and 4,700 mb to a dvd that would be 4,700 / 700 or 3.3 hours.  </s>
+<s> and this is if all went well... you'll want an usb 2.0 card since for a pci card it's the cheap solution.  </s>
+<s> here's one i used -&gt; be sure to read more at about usb 2.0 on the os in question.  </s>
+<s> bob  </s>

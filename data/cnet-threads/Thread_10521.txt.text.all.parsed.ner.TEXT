@@ -1,0 +1,36 @@
+<s> i recently was trying to upgrade to a newer video card on an old computer i have.  </s>
+<s> i put it in but it turned out it wasnt compatible, at least so i think.  </s>
+<s> while i was trying to get the new drivers to work i uninstalled the old intel graphics drivers on the computer.  </s>
+<s> i then had to take out the old card but when i try to run the computer off the old the old intel graphics card i cant get a driver to install.  </s>
+<s> i tried downloading a couple drivers, but im not 100% sure of what model the graphics controller is and when i try to isntall it it says that this driver cant be used with this device. the computer is a: x86 family 6 model 8 stepping 6 processor intel graphics controler windows 98 128mb ram any help i can get or a proper driver that will work wil be appreciated.  </s>
+<s> thanks  </s>
+<s> since these controllers are usually on the motherboard, i always try the motherboard makers drivers first.  </s>
+<s> what make/model is the board or is it some hp/gateway/sony system?  </s>
+<s> bob  </s>
+<s> in adding in your new graphics card, besides uninstalling the old one, you will probably need to disable the onboard graphics card in the bios setup, so it will not try and re-install the old one everytime you re-boot.  </s>
+<s> this should not have disallowed you from adding the new one.  </s>
+<s> however it might have asked you first for drivers for the old one each time.  </s>
+<s> follow this link to download this program.  </s>
+<s> it will tell what you have installed inside the box.  </s>
+<s> then go to the manufacturers website and search for your drivers.  </s>
+<s> i got that aida program and figured out i have a intel i752 graphics controller.  </s>
+<s> i went looking for drivers but found that the drivers are bundled in with the 810 drivers.  </s>
+<s> so i got them and when i tried to install it said that i could not install graphics driver on current graphics device.  </s>
+<s> and to report it to technical support.  </s>
+<s> so how do i find the proper drivers then, i still cant get a thing to work.  </s>
+<s> and when i tried the new video card again it wouldnt boot.  </s>
+<s> it just stopped at the windows 98 screen every time.  </s>
+<s> this is really messed up why cant the graphics controller just work like it used to?  </s>
+<s> a few points that i will share.  </s>
+<s> 1. there is no disable in the bios or jumpers for the onboard video on this board.  </s>
+<s> appears to be a common design feature of i810 boards.  </s>
+<s> 2. nothing seemed to work well until i downloaded and install an i810 motherboard (then video) driver set from the motherboard maker's web site.  </s>
+<s> this is where a visual identification of the motherboard is crucial.  </s>
+<s> or if it's a gateway/hp/sony, then you share that.  </s>
+<s> -&gt; you didn't answer if it was or was not a name brand box!  </s>
+<s> &lt;- 3. once i got it all working proper, then i could set the primary video setting in the bios to agp or pci.  </s>
+<s> since most i810 boards (all?) don't have agp, then agp means that the onboard video is the boot/primary video and pci means that the addon card is the boot/primary video.  </s>
+<s> if you can't reveal if its a hp/compaq/sony do tell us.  </s>
+<s> if you can't open the case and get a make/model of the motherboard (only useful if not a hp/compaq/sony), then tell that too.  </s>
+<s> tell why you can't open the case.  </s>
+<s> bob  </s>

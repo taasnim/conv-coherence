@@ -1,0 +1,14 @@
+<s> is their a way to mirror two drives on a win2000 pro box without upgrading to win2000 server?  </s>
+<s> third party software may be an option.  </s>
+<s> use scopy to copy the drive daily from one to the other.  </s>
+<s> better yet, use acronis to save an image when you like to the other drive.  </s>
+<s> bob  </s>
+<s> i.e. , writing to the two drives simultaneously, is a hardware matter -- you need a raid controller, and it must be configured as raid 1. (raid 0 is striping, which is faster but without redundancy and with a greater chance of failure.) bob's workaround is, in essence, backup; this does have some advantages.  </s>
+<s> a major disadvantage, however, is that backups take time.  </s>
+<s> if i were going that route i would, as bob recommends, choose acronis true image.  </s>
+<s> to save time, those important things needing frequent backup -- mainly data & documents -- in a separate partition, and then do partition imaging.  </s>
+<s> imho, the same idea applies to a raid 1 system.  </s>
+<s> in my case the single c drive contains the os, program files, relatively unimportant data, and other items that do not change frequently.  </s>
+<s> this drive is backed up only as needed.  </s>
+<s> my d drive, which is a pair of drives i raid 1 configuration, gets the more important and changable data.  </s>
+<s> hope this helps frank  </s>

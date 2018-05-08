@@ -1,0 +1,11 @@
+<s> ok i am trying to create a wired network between two computers in the same room.  </s>
+<s> can i use the dlink des-1105 port switch to do this? it has an input port and 4 other ports to plug ethernet cables into.  </s>
+<s> i tried doing this and only 1 of the computers was working.  </s>
+<s> you will need the right ethernet cables to get them electrically connected.  </s>
+<s> more importantly, you need to do some work at each pc to get them talking.  </s>
+<s> you'll need to deal with tcp/ip protocol which requires a unique address for each pc.  </s>
+<s> you'll need to configure a network name and names for the pcs.  </s>
+<s> you'll need to set up shares on each if you want to move files back and forth.  </s>
+<s> what have you done so far in this regard?  </s>
+<s> these switches are made to connect to a router that hands out dhcp tcp/ip addresses.  </s>
+<s> that being said, you could still use them as long as you manually set tcp/ip addresses on each computer manually that are on the same subnet.  </s>

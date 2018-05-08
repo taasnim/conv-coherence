@@ -1,0 +1,34 @@
+<s> i was trying a trial software for home networking and its a nice program, but it cannot settle for some reason me sharing files and folders.  </s>
+<s> so i decided to remove it and go along with windows xp network wizard.  </s>
+<s> btw, i have a wirless usb adapter on laptop, which oddly, i am able to go on the internet with it via my router.  </s>
+<s> getting back to xp networking, i ran the wizard on both computers, and only one has an ip address, the host when i do ipconfig.  </s>
+<s> the laptop comes back with: desination host unreachable ( 4 x ).packet 100% loss.  </s>
+<s> i disabled firewall.  </s>
+<s> just what else is there to do? the message says check connections.  </s>
+<s> someone told me to check dchp i believe is the acronym..but the wizard does not give me that option...only my router does.  </s>
+<s> given only the details in your post i can't comment why the unnamed software appears to be buggy.  </s>
+<s> maybe you should do the setup without it?  </s>
+<s> bob  </s>
+<s> maybe you should do the setup without it?&gt;&gt;&gt; which setup are you talking about...xp wizard or the magic network software?  </s>
+<s> i've reinstalled the software so many times even their techs are confused...which is not saying much these days.  </s>
+<s> obviously, you don't mean the xp wizard...how else can one setup a network..jeesh!  </s>
+<s> for instance the wizard can't handle making the connection if we add or enable a firewall.  </s>
+<s> so it's my view we best do without such wizards and set these things up the old fashioned way.  </s>
+<s> there is a magic network software out there but i've never found it reliable enough to sort out networks for those that wanted an easy button.  </s>
+<s> i'm still pretty stumped since i know so little about your network.  </s>
+<s> sometimes it's out of date firmware in the router, firewall settings or other oddities.  </s>
+<s> how do i setup a network?  </s>
+<s> i follow the directions on the router and know when and where to setup the firewall to allow what i want.  </s>
+<s> bob  </s>
+<s> first, i read somewhere that windows wizard for networking takes into account about firewalls...regardless, i had it disabled anyway on both computers.  </s>
+<s> your right about magic network..it is fickled..so i removed it.  </s>
+<s> now, my systems were working when i had a ethernet connection, and that was done with xp wizard.  </s>
+<s> now that i got a usb adapter wi-fi for my laptop, i couldn't get to share files or folders although they were chosen in setup.  </s>
+<s> i am able to get to the internet though.the  </s>
+<s> adapter is not at fault, because me and a tech of theirs established that, plus the fact i am able to get on the internet.  </s>
+<s> i was wondering if the software that came with the usb adapter may be at fault...if i remove it, then most likely i would not be able to get on the internet also.  </s>
+<s> so i am at a loss.  </s>
+<s> i had a 20+ back and forth discussion and it ended when we started to share details so i could point to the firewall in the router.  </s>
+<s> if you don't share the details i can't tell you about that setting in the router.  </s>
+<s> but you can look since you are there.  </s>
+<s> bob  </s>

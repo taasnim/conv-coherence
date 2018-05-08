@@ -1,0 +1,38 @@
+<s> hi, i'm going to describe a problem i'm having, maybe someone can throw me an idea.  </s>
+<s> i have a laptop.  </s>
+<s> it's a dell inspiron 5000 with w2k. it has one mouse/keyboard port and one serial port.  </s>
+<s> i'm trying to hook up a mouse and a keyboard to the laptop.  </s>
+<s> mouse has to be hooked up to the serial port, i have an adapter for it.  </s>
+<s> problem: when everything is hooked up, the system does not see the mouse on the serial port, only touchpad works.  </s>
+<s> i already checked in the bios and the touchpad is set to [auto, disable], as it's supposed to.  </s>
+<s> anyone would have any idea why the system would not switch to the serial mouse automatically?  </s>
+<s> thanks.  </s>
+<s> it seems to be some cruel joke that radio shack and many other places sell such adapters.  </s>
+<s> bottomline?  </s>
+<s> i've never seen such work.  </s>
+<s> do describe in gruesome detail the make/model number of said mouse so i can see if it is indeed serial capable. the switch to use an external mouse is far from automatic and you may need some usb or ps2 mouse to make this work.  </s>
+<s> bob  </s>
+<s> you can't use the ps/2 port for a mouse?  </s>
+<s> are you using the ps/2 port already?  </s>
+<s> make sure the serial device is the only one and select an irq if possible or use &quot;auto&quot; mode for best results.  </s>
+<s> usually, i use the ps/2 port for a mouse.  </s>
+<s> -----willy  </s>
+<s> they make splitters for the ps/2 port that will allow you to run both a keyboard and mouse from the single ps/2 port on a laptop.  </s>
+<s> that would be the best answer unless you actually have an old style serial mouse, which should work.  </s>
+<s> well, there is one ps2 port and one serial port on the laptop.  </s>
+<s> keyboard is plugged in to ps2. that leaves serial port for the mouse.  </s>
+<s> i would think that when the system software finds a device (like a mouse) on the serial port, it should disable the touchpad automatically.  </s>
+<s> hi bob, well the mouse is a generic no-brand two-button ps2 mouse.  </s>
+<s> since i have used up the only ps2 port by plugging the keyboard to it, i am trying to make use of the serial port by using a ps2-to-serial adapter thingy.  </s>
+<s> i had a laptop some six years ago or so, with win95, and i did exactly the same thing with the adapter, and it worked automatically.  </s>
+<s> all i can say is that some manufacturers do things that boggle my mind sometimes, like only providing one ps2 port.  </s>
+<s> there is plenty of space for two in the back panel.  </s>
+<s> as i noted, such adapters are readily available and only serve to confound users and tech support.  </s>
+<s> at this point i have not read anything that says this make/model mouse can do rs232.  </s>
+<s> your other note about plugging in some serial mouse and it taking over is worth discussing a bit.  </s>
+<s> behaviours about this changed over the years since 95 since sending bytes out the serial port to probe for a mouse can confuse non-mouse devices connected to such a port.  </s>
+<s> i think this idea vanished over time.  </s>
+<s> while you may want things to work a certain way automatically, it doesn't mean that such a way would be acceptable to the next person... so with that, not everyone can be satisfied.  </s>
+<s> did you try an usb mouse?  </s>
+<s> bob  </s>
+<s> you assume incorrectly, it varies all over the place, some automatically disable the touchpad if a ps/2 mouse is used, some do not, same would be true with a serial mouse.  </s>

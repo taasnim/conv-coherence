@@ -1,0 +1,13 @@
+<s> my usb flash drive no longer activate when inserted into my laptop's usb port, and any other pc's usb port and it was before.  </s>
+<s> what are the likely causes and is there a solution?  </s>
+<s> if you mean &quot;doesn't show in my computer and windows explorer&quot;, there are 2 possibilities: 1. see if it comes up in disk management.  </s>
+<s> that means the fileystem is damaged somehow.  </s>
+<s> delete the partition(s) on the drive, make a new one and format it.  </s>
+<s> 2. if it doesn't even show in disk management on several machines it's broken.  </s>
+<s> throw it away then.  </s>
+<s> kees  </s>
+<s> usually a crack in some circuit path or a burnt out chip.  </s>
+<s> i bet you don't care to discuss causes and just want your memory stick repaired?  </s>
+<s> why throw it away when you may be able to recover the drive?  </s>
+<s> according to this article - - it may be possible to fix your problem as long as the drive is still lighting up when you plug it in.  </s>
+<s> give it a shot, may work, just be sure to follow the instructions well cause it warns running both programs at once can cause damage, so be careful!  </s>

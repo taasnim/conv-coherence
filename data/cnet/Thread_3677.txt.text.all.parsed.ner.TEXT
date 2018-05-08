@@ -1,0 +1,52 @@
+<s> can anyone help?  </s>
+<s> i have a 12&quot; g4 powerbook running mac os x 3.3, i remember my login which isn't a root login, but have forgotten my admin password.  </s>
+<s> i also do not have the original os x disks to change it.  </s>
+<s> i want to erase the hard disk and install os x fresh so i have root access to make changes etc. but i have had no luck.  </s>
+<s> it wont mount via firewire onto the desktop of my other mac, it wont boot from a cd... i'm stuck!  </s>
+<s> unless you have any x.3.x installation disks, and can boot from them, then you are generally sol. the major question here is not that you cannot change your password, but that you cannot boot from the cd. will it boot from any cd? will it read any cd's?  </s>
+<s> how were you planning on installing os x fresh without any installation disks?  </s>
+<s> go beg, borrow or otherwise obtain, a set of panther installation disks.  </s>
+<s> if you are trying to boot from the restore disks from another mac, you are probably wasting your time.  </s>
+<s> they are machine specific.  </s>
+<s> p  </s>
+<s> i do have panther 10.3 disks, but it will not boot from the disk, i turn the machine on with disk one inserted, hold down c or apple c and it always just takes me to the log in screen which i set up when i bought the computer - admin login, or one for the family with no access priv.  </s>
+<s> it's the admin password i have forgotten and the install disks i have borrowed just don't seem to be working. is there no other way of wiping the hdd when i'm in the non admin login?  </s>
+<s> make sure that you have an undamaged install disk.  </s>
+<s> put the cd in the drive.  </s>
+<s> when it appears on the desktop, open it up and go to the install os x icon.  </s>
+<s> double click it. the machine should reboot from the cd and allow you to go to the file menu and reset the password.  </s>
+<s> if the machine does not boot from the cd, then the cd is damaged or your cd drive is not functioning correctly.  </s>
+<s> when booted from the installation cd, the machine will not go to any password screen until you tell it to.  </s>
+<s> reset password is in the file menu of the install window p  </s>
+<s> the drive reads the disk and it shows on the desktop, but when i try to intstall os x it asks for my admin password.  </s>
+<s> when i try and boot from the disk it sounds like it's reading the disk, but the os x login screen always appears.  </s>
+<s> i can't understand why it will not boot from a disk because even if i did know my root password it is still not letting me boot from the disk.  </s>
+<s> i know the disk works because i installed os x on my home g4 tower from this disk. is there no software available that will delete the hdd?  </s>
+<s> after all i'm not trying to access password protected files, i'm just deleting them right??  </s>
+<s> part of the strength of os x is that its core, and a bunch of other places, is protected against what you are trying to do to it.  </s>
+<s> this is one of the many reasons that there are currently no virus's for os x. to delete the files you have to have access to them and have the rights to read/write and delete.  </s>
+<s> you are going to have to boot from the cd to install os x so i would not be too quick to blow away the hd. the os x installer will not install to the drive that it is mounted on.  </s>
+<s> i would continue my efforts to boot from the cd. have you tried inserting the cd, mounting it on the desktop, going to system preferences, choosing the cd as the startup disk and then restarting?? if not, try it.  </s>
+<s> you are going to have to boot from the cd eventually.  </s>
+<s> (see above) p  </s>
+<s> i can't boot the disk as a startup disk because the packlock is locked and i need an admin pass to make changes.  </s>
+<s> i don't understand why i cannot boot from a disk.  </s>
+<s> surely you can boot from any disk right?  </s>
+<s> is there software available to overwriye the admin password protection?  </s>
+<s> if not i think i'm going to have to buy a new hdd  </s>
+<s> i know of no software that will over ride the administrators password.  </s>
+<s> that does not mean that it does not exist though.  </s>
+<s> i will keep banging the &quot;you gotta boot from the cd&quot; drum though.  </s>
+<s> once you get your brand new, virgin, hd, how do you propose to get the os onto it?  </s>
+<s> to install os x onto the new hd, you will have to boot from the cd. you can only boot from a cd that has the correct operating system for your machine.  </s>
+<s> however, your machine should boot from the original panther cd's.  </s>
+<s> you said you had the panther disks, the three black ones?  </s>
+<s> does the machine boot from any cd? p  </s>
+<s> yes i have the three black panther disks, it will not boot from these, nor will it boot from any other cd that i've tried so far.  </s>
+<s> could it be that i'd upgraded to os x 3.5 before i lost my root password and the machine will not boot from these disk as they are only 3.3?  </s>
+<s> should i try getting a later version of os panther to see if that works? the thing i can't understand is that my home desktop g4 runs on os x 3.3 and i can boot from any disk on that machine.  </s>
+<s> could i have turned my powerbook's &quot;option to boot from a cd&quot; off in anyway?  </s>
+<s> or perrhaps the powerbook needs to be running in single user (root) mode to be able to boot from a disk?  </s>
+<s> panther only comes in one flavor on a cd. you have to update from there.  </s>
+<s> unless the cdrom drive is faulty, i don't think there is any reason why it would not boot from the install disks.  </s>
+<s> this might be worth biting the bullet and speaking with apple.  </s>

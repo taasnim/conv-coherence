@@ -1,0 +1,93 @@
+<s> hey folks, just bought a new sound blaster live!  </s>
+<s> ls card so i could utilize the eax feature during halo.  </s>
+<s> as you may know, in order to enable eax in halo, the user must first enable hardware acceleration in halo's audio setup.  </s>
+<s> however, enabling hardware acceleration in halo causes the sound to cut out.  </s>
+<s> i did a directx diagnostic (version 9.0) and received the feedback that my card does not support hardware buffering.  </s>
+<s> that's the whole reason i got this card!  </s>
+<s> creative hasn't been much help either.  </s>
+<s> there website doesn't really say much about hardware acceleration.  </s>
+<s> they seem to focus on the fact that their cards all support eax, but they rarely mention the hardware acceleration issue.  </s>
+<s> i did find one comparison chart where they compared the audigy series with the live!  </s>
+<s> series and they put &quot;n/a&quot; next to the entry for &quot;hardware acceleration of eax &/or eax advanced hd&quot; next to the live!  </s>
+<s> card.  </s>
+<s> it looks like the least expensive card that supports hardware acceleration is the sound blaster audigy 2 value.  </s>
+<s> i just didn't want to spend any more and i'm not sure it will make halo any better.  </s>
+<s> any suggestions?  </s>
+<s> thanks!  </s>
+<s> emachines t6212 amd 64 bit 3200+ abit 256 mhz graphics 1.25 gb ram creative sb live!  </s>
+<s> ls 5.1  </s>
+<s> maye check microsoft for an update to the game?  </s>
+<s> i know there's suppoedly an issue with the audigy 2 zs card and the oem version fo halo that ms has an update for or soemthing.  </s>
+<s> maybe try that?  </s>
+<s> yeah, first place i looked was microsoft's website for halo. the only update they currently offer is a patch for &quot;a possible malicious attacker...&quot; i really think the issue is that my card doesn't support hardware buffering.  </s>
+<s> thanks though!  </s>
+<s> you need 5.1 speakers if your turning on the hardware acceleration and you need &quot;matrix&quot; or any other upmix that gives the center speaker a cut of a 2.0 source, off for example my logitech z-640's have the &quot;matrix&quot; button the idea is to upmix the sources from the front left and front right to the center, turning that off will allow the sound to play in halo unless your not getting sound on any speaker but if your not getting sound on most things than it's that you don't have a center channel  </s>
+<s> yes, i have the logitech x-530's (5.1 surround) and if i set the speaker configuration for either 2.1 or headphones, i can then enable hardware acceleration (and hear it).  </s>
+<s> however, this defeats the purpose of having 5.1 sound, since i'm loosing the center channel and the two rear satellites.  </s>
+<s> also, the sound is better if i just leave hardware acceleration off and set the speaker configuration to 5.1.  </s>
+<s> there is no &quot;matrix&quot; button...i'm not sure what that is - whether it's part of the software for the sound card or if you're referring to the speakers themselves.  </s>
+<s> i'm pretty sure that i just need to upgrade to a little better card that supports hardware buffering/acceleration (like the creative audigy 2 value sb0400).  </s>
+<s> thanks for the update.  </s>
+<s> hmmm matrix is on my z-640's and the z-640's are basically &quot;last year's model&quot; of the x-530 let me look up a picture of the x-530 and see if i can identify what your version of it is hmmm can't seem to find it on the z-640's it's located next to the knob which adjusts the center volume but i don't see anything like that on the 530's hmmm go into the thx console and tell it that you have 5.1 speakers then go into windows' thing and tell it that you have 5.1 speakers then try it and if it doesn't work it might just be the sound card (i've only tried it on my audigy 2 zs plat., never even tried it on the soundstorm integrated on my mobo)  </s>
+<s> ...nope, don't have the matrix thing you're referring to.  </s>
+<s> don't have a thx console either.  </s>
+<s> (this is an el cheapo sound card - it's the sound blaster live!  </s>
+<s> digital 5.1.  </s>
+<s> got it basically for free, but it's like two seasons ago model!  </s>
+<s> box says &quot;certified for windows 2000&quot; ha!) so, i think when the money flows, i'll look into one of the audigy's.  </s>
+<s> by the way, how you like that audigy 2 zs? it looks like an outstanding card.  </s>
+<s> no reply address so i looked up your post.  </s>
+<s> wild guesses: 1. turn off dep. 2. reboot then run halo so java's vm is not in ram.  </s>
+<s> 3. make sure the java updater is not running.  </s>
+<s> bob  </s>
+<s> i'd downsize the memory and try it with just 512 (the pair of 256m) to see if you've uncovered another hardware issue.  </s>
+<s> i've run into motherboards that while the docs start you can, it doesn't.  </s>
+<s> i have no cure for this except to test with just 2 sticks, retest with the other (just 2) sticks and go with what works.  </s>
+<s> you've convinced me you have some bum configuration.  </s>
+<s> it is doubtful the maker of the machine will support you.  </s>
+<s> bob  </s>
+<s> ...to remove two memory sticks, test them, then try the others.  </s>
+<s> i'll let ya know.  </s>
+<s> thanks, graham  </s>
+<s> well, i removed the 2 x 1 gb sticks and ran just the original 2 x 256 with no problems.  </s>
+<s> it seems a lot slower, though.  </s>
+<s> then i put in the 2 x 1 gb and sure enough i got the ''memory can't be read error''.  </s>
+<s> i then took out one of the 1 gb sticks and got the same error message.  </s>
+<s> my last test was then to swap the 1 gb sticks and the one that's in there now hasn't caused a problem.  </s>
+<s> (anybody out there want to buy a 1 gb stick of memory?  </s>
+<s> ) i'm tempted to return/exchange the memory (rosewill ddr 400) but i'm a little aggravated at the process.  </s>
+<s> rosewill, although it guarantees the memory for life (why i purchased their brand in the first place), claims i must go through the vendor if not purchased through them.  </s>
+<s> well, the vendor, chiefvalue, requires that i pay to ship it back and pay a 15% restocking fee.  </s>
+<s> i understand this is pretty standard since newegg has the same policy.  </s>
+<s> probably if i had discovered this within 30 days of purchase it would have been easier to return/exchange, but as we all know, diagnosing computer issues can take a lot of time (switching parts, rebooting, removing components, reinstalling, uninstalling, etc.).  </s>
+<s> plus, i wasnt sure if it was a hardware or software issue.  </s>
+<s> oh well.  </s>
+<s> two final notes; 1.  </s>
+<s> a friend has a development tool that fails on machines with 1.0 gigabytes or over ram. it took a few months for the tool maker to verify the issue, but it was not resolved after a few years since the toolmaker was moving away from that toolset.  </s>
+<s> you may be a victum of such a programming error or ... you have some incompatible piece of hardware.  </s>
+<s> if this was my machine i would make sure the bios was the latest and the psu was a monster (my p4 has this 680 watt psu).  </s>
+<s> then i might even relax the memory timing for yet another test.  </s>
+<s> in the end, you've found the hardware issue.  </s>
+<s> bob  </s>
+<s> flashing the bios was the next item on my list of things to do.  </s>
+<s> a couple of things regarding the bios, though.  </s>
+<s> i have two options.  </s>
+<s> 1. i can flash it using the award bios update found here; or 2. my video card (abit x600 pro pci-e) came with an ati utility to flash the bios.  </s>
+<s> (looks like you simply put the cd in the tray, select the option to upgrade the bios and that's all there is to it - hopefully!) questions; 1. which of the above two options should i use?  </s>
+<s> 2. i don't have a floppy.  </s>
+<s> can i use a memory stick?  </s>
+<s> 3. by the way, i've never flashed the bios before.  </s>
+<s> i admit, i'm intimidated.  </s>
+<s> thanks!  </s>
+<s> btw, thank's for the info on the tool that won't work on systems above 1 gb memory.  </s>
+<s> sounds like something that may be relevant.  </s>
+<s> graham  </s>
+<s> if the machine's motherboard bios is out of date, it's a sad day.  </s>
+<s> why?  </s>
+<s> we've been wasting a lot of time needlessly.  </s>
+<s> sorry to read that.  </s>
+<s> bob  </s>
+<s> i checked and the bios is up-to-date.  </s>
+<s> it ended up being memory problem.  </s>
+<s> all the funky stuff that was happening could be attributed to 1 bad stick of memory which i have since replaced.  </s>
+<s> thanks for all your help!  </s>

@@ -1,0 +1,9 @@
+<s> is there a command line inquiry that i can run that will display the ip address of all the active pcs on my local lan?  </s>
+<s> thanks, jim  </s>
+<s> go to the command prompt and type nbtstat /? to get the command that you want.  </s>
+<s> .  </s>
+<s> thanks &quot;nbtstat&quot; gave exactly the result i was looking for.  </s>
+<s> jim  </s>
+<s> ping the network mask number once and you get a reply from all on that lan.  </s>
+<s> neat trick.  </s>
+<s> bo  </s>

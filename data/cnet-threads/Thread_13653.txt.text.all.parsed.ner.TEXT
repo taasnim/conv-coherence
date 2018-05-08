@@ -1,0 +1,25 @@
+<s> i'm having trouble getting this card to function properly with my pc. i went through the installation procedures, and when i first start up the pc, i can see everything up to the windows loading progress bar screen.  </s>
+<s> but after that, everything goes black.  </s>
+<s> i imagine it could be some configuration problem, but i'm at a loss.  </s>
+<s> btw, it's not a power supply problem, i have a 500w supply installed.  </s>
+<s> does anyone have any ideas?  </s>
+<s> thanks  </s>
+<s> the good news is i doubt it's a hardware issue.  </s>
+<s> so try this.  </s>
+<s> boot to safe mode and change the resolution to 800x600, ok your way out and do a proper reboot.  </s>
+<s> bob  </s>
+<s> well, i tried to reboot into safe mode, but the process began to hang at the agp440.sys  </s>
+<s> service.  </s>
+<s> i found a ms support doc that instructed to disable this service (via windows recovery off the cd).  </s>
+<s> so now it just hangs on another service in the boot process.  </s>
+<s> when i don't try safe mode, it exhibits the same problem as before, no problems until after the windows progress baar screen.  </s>
+<s> i'm at a loss as to what to do, and since i'm not that windows-savvy, i don't want to do anything irreparable.  </s>
+<s> any suggestions?  </s>
+<s> it will appear to hang.  </s>
+<s> many people won't give it the 20 minutes i've see it take to boot.  </s>
+<s> my bet is still on the video resolution is incorrect so this is how i fix it.  </s>
+<s> bob  </s>
+<s> i let it go for about an hour twice, and each time it hangs on btkrnl.sys.  </s>
+<s> i just can't get to that logon screen...  </s>
+<s> and not a good one. it is usually a sign of malware or spyware damage.  </s>
+<s> my next step is to do a xp repair install (see google.) bob  </s>

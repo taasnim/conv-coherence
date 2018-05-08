@@ -1,0 +1,14 @@
+<s> hi, can someone explain to me in very layman terms what ipv6 is and how i can use/get it?  </s>
+<s> thanks in advance!  </s>
+<s> it's going to be a long time to get this out.  </s>
+<s> here's the article about it but for most folk, it's a non-starter as no common internet service uses it.  </s>
+<s> so unless you are doing research and willing to setup your own server and lose months of time, i suggest you forget about it.  </s>
+<s> bob  </s>
+<s> thanks bob... in the article it doesn't say if it will be any faster.  </s>
+<s> will it?  </s>
+<s> i guess if you want to be very picky it will be slower since you must transfer more bytes to obtain the same information.  </s>
+<s> the best way to think of this is that it is just a different name for your computer.  </s>
+<s> it does not have any affect at all on the way data is sent between machines or the way applications process the data.  </s>
+<s> the key benefit to ipv6 is that there are more internet routable ip addresses.  </s>
+<s> the key reason that not much has happened with ipv6 is that the vast majority of people do not even need the one ip address their isp gives them now.  </s>
+<s> nat along with the ability of servers to share ip with dns tricks has kept ipv6 on the sidelines so far.  </s>

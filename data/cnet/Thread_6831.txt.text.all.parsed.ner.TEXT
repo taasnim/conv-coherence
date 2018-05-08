@@ -1,0 +1,45 @@
+<s> i'm going out on a limb here, and am not sure if this is the right forum... plz correct me if i am wrong.  </s>
+<s> ok, optorite dd0201 burner, princo 1x media (yes, i know, thats 2 strikes against me, dont remind me), and yes, the media is supported by the burner. the problem is, is that i have failed 8 out of 15 burns.  </s>
+<s> it burns the full disc (using nero 6 of course), but then, when i look on the disc, there is &quot;nothing there&quot;.  </s>
+<s> if i look at the disc using a program like dvdinfopro or alcohol 120%, it sees that there is information on the disc, but still does not know what it is.  </s>
+<s> ... uh, why?  </s>
+<s> whats going on... i cant figure it out.  </s>
+<s> i get this problem when either ripping a dvd or burning data to a dvd.  </s>
+<s> i have also noticed the problem when burning hd-burns (look it up, its similar to overburn, allowing you to stick 1.4 gigs on a single cd).  </s>
+<s> plz help.  </s>
+<s> if you post, then sit at the forum, and press &quot;refresh&quot; to see if there has been a reply, it reposts... that is a really weird script that would do such a thing... i am sorry, please delete this duplicate.  </s>
+<s> if the write fails, there can be many causes, but let's go over the basics?  </s>
+<s> 1. firmware.  </s>
+<s> be sure you find the latest firmware for your dvd recorder.  </s>
+<s> 2. hedge your bets.  </s>
+<s> for me, i've very picky and my personal machine has latest bios in all parts (motherboard, cdrw, dvdrw and such.) i also fit the newer 80 conductor cables on all ide connections and with that the jumpers are cs. this gives the signals a little more change to not be corrupted.  </s>
+<s> the power supply for this box is at least 50 or more watts oversized to avoid any brownout or stress of the psu.  </s>
+<s> cooling is simple.  </s>
+<s> i just leave a big hole where i can for the air to move.  </s>
+<s> 3. the handling of the media.  </s>
+<s> dvd media is some 7 times more dense than cdr/w.  </s>
+<s> you want spotless, dustless surfaces, a clean work area and if you start to get errors, a pass of the cd/dvd lens cleaner is not a bad idea.  </s>
+<s> mind you i have only used that on my drives about once in a year.  </s>
+<s> it's not something you do a lot.  </s>
+<s> 4. old shool burning.  </s>
+<s> back when we had 486s, you couldn't move the mouse once the recording began or you might get a coaster.  </s>
+<s> today, people seem to think you can play games, surf the net or more.  </s>
+<s> maybe you can, maybe you can't?  </s>
+<s> so be careful about that.  </s>
+<s> if you are making coasters, then it's time to examine the above and consider just doing what you need to when you record.  </s>
+<s> best of luck, bob  </s>
+<s> all firmware and bios' are up to date.  </s>
+<s> drive is brand new (lens cleaning should not be an issue) and the media is unhandled until placed directly into the burner.  </s>
+<s> i have never &quot;failed&quot; a burn, they are all &quot;successful&quot; just the data on it does not appear... like i said, programs show that there is data on the drive (alcohol 120% has something called a cd/dvd manager that allows you to read in hexidecimal, every sector of the disc... it shows data throughout the entire disc) but windows itself cannot see the files on the disc... i also burn the discs not at full capacity since this is cheap media... what else could be an issue?  </s>
+<s> there is far too many ways to write a disk that windows will have nothing to do with and i won't get into that deeply at all.  </s>
+<s> in short, you didn't really reveal what you wanted to do until the second post.  </s>
+<s> but there is a solution.  </s>
+<s> i can't help you fix your setup, but will share that dvd shrink seems to work fine at moving your personal dvd from one dvd to its backup.  </s>
+<s> remember we have to stick on a straight and narrow path here and must violate neither the forum policy or other... bob  </s>
+<s> oh, no, i already know that :p the recent problem has been only with data dvds... i currently dont have hard drive space for making backups, but i need to get data off my hard drive.  </s>
+<s> dvd shrink cant do that... perhaps i screwed up something in nero? is there a way to revert to defaults?  </s>
+<s> thx.  </s>
+<s> data on dvd is a little perilous since the file system could be limited to exactly 4gb.  </s>
+<s> i wish there was a faq about this area, but in short, if i use nero to make a data dvd, it seems to sort it out.  </s>
+<s> i can't comment on the software you used since i don't use that.  </s>
+<s> bob  </s>

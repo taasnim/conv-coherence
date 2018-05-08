@@ -1,0 +1,19 @@
+<s> i just bought a maxtor onetouch 4 plus (external harddrive) for my ibook g4. i'm running osx 10.4.l0, and the drive mounts fine, and i can drag files on to it and everything.  </s>
+<s> however, the one-touch feature does not seem to work.  </s>
+<s> maxtor manager opens, but when i click &quot;backup now&quot;, nothing happens.  </s>
+<s> how can i fix this?  </s>
+<s> i don't know if the backup feature of this drive actually works with os x, it may do but i did not find anything definitive about it on their website.  </s>
+<s> as it works with windows and mac os, i have a feeling that this drive is formatted in fat or fat32.  </s>
+<s> this allows it to work, out of the box, on almost any machine.  </s>
+<s> it is, however, a notoriously fickle and unstable format for your data.  </s>
+<s> you would be well advised to format this drive in hfs+ (journaled) for your data's security.  </s>
+<s> you can do this via disk utility.  </s>
+<s> p  </s>
+<s> ... more stable than hfs in everyday use, but it's not a mac-friendly format with many restrictions in how big files can be, etc. reformatting as hfs makes sense. it also depends on how complete a backup you want.  </s>
+<s> if you want to be able to boot off the drive and restore a completely usable backup, i'd suggest going for alternative third party software like superduper (as opposed to the retrospect that i believe is shipped with the maxtor).  </s>
+<s> it's nowhere near as good as some windows solutions, but it's probably as good as you're going to get on a mac.  </s>
+<s> after some dozens of drives brought in for recovery with said combo i've seen tears over the losses.  </s>
+<s> there's a free lesson here.  </s>
+<s> post your problem in a new thread.  </s>
+<s> seems like you have more problems going for you than just the hard drive one.  </s>
+<s> p  </s>

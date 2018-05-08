@@ -1,0 +1,14 @@
+<s> after recently installing a new 80gb hard drive my local disk c properties says i only have 1.99gb of space.why  </s>
+<s> isnt the computer picking this up,and could it be something to do with a partition on the drive?,ifso can anyone help as im a total beginner.im  </s>
+<s> running with windows me.helpppppppppppp.  </s>
+<s> when you run fdisk, if you don't answer yes to large disk support, you get 2 (or 1.9999) gb partitions.  </s>
+<s> start over.  </s>
+<s> bob  </s>
+<s> ive tried running fdisk and ive enabled larger disk space but it doesnt seem to work.anymore ideas?thanx  </s>
+<s> you didn't describe in detail what doesn't work.  </s>
+<s> but to give a little push, fdisk from microsoft only lets you delete and add partitions.  </s>
+<s> but once you made that 2gb partition, then you limited what could be done.  </s>
+<s> you would have to delete all the partitions and start over.  </s>
+<s> some don't find fdisk easy enough and pay for partition magic.  </s>
+<s> i never use partition magic since i learned too long ago how to use fdisk.  </s>
+<s> bob  </s>

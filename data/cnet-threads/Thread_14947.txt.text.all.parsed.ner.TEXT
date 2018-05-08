@@ -1,0 +1,20 @@
+<s> hp pavilion xg 814 with windows xp. i tried to increase the ram from the current 320kb (two slots-slot 1 with 64 and slot 2 with 256) to the max recommended of 512 by removing the 64 and replacing with a new 256.  </s>
+<s> pc would not boot up to windows.  </s>
+<s> checked and verified card seating.  </s>
+<s> tried again with no success.  </s>
+<s> reinserted the 64 and no problem booting up.  </s>
+<s> kept the 64 in slot 1 and replaced the 256 in slot 2 with new card to check it out.  </s>
+<s> no problem.  </s>
+<s> next attempt was inserting the &quot;old&quot; 256 in slot 1 with new 256 in slot 2 and verified seating.  </s>
+<s> would not boot up.  </s>
+<s> placed 64 back in slot 1 and once again booted with no problem.  </s>
+<s> any ideas why changing from the 64 in slot 1 to a different card will not work?  </s>
+<s> if it cannot be made to work in this pc can i instead install a 512 in slot 2 to obtain the desired result?  </s>
+<s> not all 256mb sticks will work.  </s>
+<s> the technical reason is the number of available chip selects available from the i810 chipset.  </s>
+<s> crucial.com and other memory providers will get you the right sticks.  </s>
+<s> your generic parts usually fail.  </s>
+<s> bob ps. no. there is no bios setting or update to correct this!  </s>
+<s> might be best to return the new ram and buy here: if you buy ram from crucial for your mfg and model pc, they guarantee it to it work.  </s>
+<s> while lots of ram looks alike ...sadly it isn't.  </s>
+<s> vapcmd  </s>

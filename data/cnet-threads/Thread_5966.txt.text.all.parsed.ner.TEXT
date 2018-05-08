@@ -1,0 +1,31 @@
+<s> last month my six-year-old sons hand-me-down pc started beeping continuously when powered on and then shut itself down in about 5 seconds.  </s>
+<s> we did the following troubleshooting: checked all connections and found them to be tight and sound.  </s>
+<s> took off-line, one at a time, the cd-rom, floppy, and hard drives.  </s>
+<s> replaced with known working versions the power supply, sound and video cards, and ram.  </s>
+<s> we had the same problem after each step.  </s>
+<s> over the course of the next two weeks i tried booting up several times, but each time the immediate shutdown occurred.  </s>
+<s> we unplugged the pc from the power source for about ten days.  </s>
+<s> i was then able to boot up with no problem and it ran happily for about 3 or 4 hours.  </s>
+<s> when i rebooted, it began to power up but again shut down in 5 seconds.  </s>
+<s> (i was not able to replicate this behavior by leaving it unplugged overnight.) no hardware or software changes had been made, nor were there any apparent symptoms prior to the problem.  </s>
+<s> since we live in south florida, we have frequent power outages and brownouts.  </s>
+<s> the climate and our three cats make overheating a constant menace, but we saw no visible evidence of any. the heatsink looks fine; its fan works, as does the cpu cooler and the case fan.  </s>
+<s> although it was custom-built, this is now a spare pc and i dont want to invest any more than necessary to keep it running.  </s>
+<s> our son uses it for games and educational software.  </s>
+<s> there is no internet connection, not even a modem installed, and it is virus-free. the process of elimination would seem to indicate motherboard and/or chipset, but i wanted some input before buying something we may not need.  </s>
+<s> i may be overlooking something obvious.  </s>
+<s> if we do need, i would appreciate any suggestions for a low-cost replacement for this system configuration. the pc is running windows 98se.  </s>
+<s> specs: amd athlon-pecm, 908 mhz asus a7v133 (5 pci, 1 agp pro, 1 amr, 3 sdr dimm) chipset - via vt8363a apollo kt133a 256 mb (sdram) award medallion bios(06/06/01) video adapter - asus agp-v7100 sdram v5.33a 3d accelerator - nvidia geforce2 mx/mx 400 acerview 7133s creative sb pci512 sound card promise ultra100 ide controller thanks, rmck  </s>
+<s> do a close visual inspection of the motherboard.  </s>
+<s> check for leaking or bulging capacitors.  </s>
+<s> they're the small clyndrical shaped things on the motherboard.  </s>
+<s> look at the tops, they should be flat, not rounded or domed.  </s>
+<s> if you find this, then replacement of the board is in order.  </s>
+<s> try running the machine with the side panel off and a small house fan blowing directly on the motherboard.  </s>
+<s> if it shows improvement, then it's heat related.  </s>
+<s> what configuration of memory chips?  </s>
+<s> one stick of 256, 2 sticks of 128, etc.? memory chips can fail.  </s>
+<s> if you have more than one, try booting with just one stick installed, then replace with another.  </s>
+<s> best of luck  </s>
+<s> if that doesn't work than it's your motherboard.  </s>
+<s> and life goes on... jack  </s>

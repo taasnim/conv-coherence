@@ -1,0 +1,27 @@
+<s> i have a dell dimension 8300 pc running windows xp with a dvd drive and a dvd burner.  </s>
+<s> neither drive will automatically play a cd or dvd when insterted into the drive.  </s>
+<s> this occurs both when i insert a game and when i insert a dvd movie.  </s>
+<s> preciously, when i inserted a game, the computer automatically started the game.  </s>
+<s> and when i inserted a dvd movie, the computer automatically prompted me as to what action i would like to take (ie open with powerdvd or windows media player or roxio, etc).  </s>
+<s> i am not sure what i changed in the system to cause this problem or what to do to correct it.  </s>
+<s> i can play a game if i go into the programs menu and select the game icon after inserting the game disk.  </s>
+<s> and i can play a dvd movie by again going into the programs menu and selecting the power dvd program and then pointing to the drive.  </s>
+<s> but neither drive will play automatically any more. the device manager says that both devices are working properly.  </s>
+<s> when i go into my computer and highlight either drive and click on properties, the auto play tab shows that i still have checked the option to have the computer &quot;prompt me each time to choose an action&quot; for both video and dvd.  </s>
+<s> i even tried changing it to the option where the default was to select a specified program (ie power dvd or windows media player), but that didn't work either.  </s>
+<s> under device manager, ide ata/atapi controllers, advance settings tab for both primary and secondary ide channel, it shows device type as &quot;auto detection&quot; and the transfer mode as &quot;dma if available&quot;.  </s>
+<s> i mention the dma settings as i was attempting to upgrade the firmware on my sony dvd burner (sony dru-530a) and may have screwed something up in that process. it was after i made this upgrade that the two drives would no longer autoplay a disk.  </s>
+<s> i was instructed to disable the dma settings before executing the firmware update and then to enable the dma settings afterwards.  </s>
+<s> i thought i performed both steps correctly, but i may not have.  </s>
+<s> and i don't know if this would cause the problem i am describing or not.  </s>
+<s> once again, proving that a little knowledge is a dangerous thing.  </s>
+<s> can anyone suggest how to troubleshoot this problem.  </s>
+<s> i haven't had any luck searching various knowledge bases.  </s>
+<s> i would be most appreciative of some help.  </s>
+<s> and in the autoplay, click restore defaults, should work.  </s>
+<s> i think.  </s>
+<s> roger  </s>
+<s> see  </s>
+<s> thanks for the tips.  </s>
+<s> restore defaults did not work, but using the autofix utility did.  </s>
+<s> i greatly appreciate your help.  </s>

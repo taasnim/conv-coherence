@@ -1,0 +1,53 @@
+<s> we would like to share files from access and excel and other software between our two home offices using windows 98 and xp we both have broadband dsl and cablewere 20 min.  </s>
+<s> apart any sugestions inexpensive is the way we need to go we could booth go xp if that would make it easier.thanks  </s>
+<s> god bless, evpgwpn@yahoo.com  </s>
+<s> let me be clear that sharing a file system at the present time over the internet is perilous.  </s>
+<s> but i do have a secure means i use to fetch files from remote places and to copy them back.  </s>
+<s> look at for both server and client.  </s>
+<s> find winscp for a windows interface.  </s>
+<s> and just like any network setup, you get to forward ports to the server in question.  </s>
+<s> in this case, you can change the port from its default of 22 if you wish.  </s>
+<s> all the documentation is there, and be aware i will not answer a question if the answer was in the documentation.  </s>
+<s> i only read about two parapraphs so it must not have been too hard to setup.  </s>
+<s> works great and is secure.  </s>
+<s> bob  </s>
+<s> another thing, bob, is he may end up having to change operating systems.  </s>
+<s> he will if his xp machines are using ntfs.  </s>
+<s> that, or reinstall those os's and switch it to fat32.  </s>
+<s> a system using fat32 will not be able to &quot;see&quot; any system using ntfs.  </s>
+<s> and, of course, windows 98 cannot use ntfs.  </s>
+<s> so, he may end up having problems anyway.  </s>
+<s> my kid's pc runs windows 98. servers in the house run a mix of windows 2000 pro on ntfs, a linux box on ext3 and the 98 box sees those files just fine.  </s>
+<s> i'm a little confused that you state that i would have to put the servers file systems to fat32?  </s>
+<s> bob  </s>
+<s> fat32 can't read a filename of up to 255 characters like ntfs can.  </s>
+<s> in your home, you probably don't have a file much deeper than &quot;c:program filessomeprogramsomethingwhatever&quot; which is only about 40 characters so you will have no problem.  </s>
+<s> note this person is talking about a business.  </s>
+<s> a whole new story.  </s>
+<s> at my job, we have filenames over 200 characters, which isn't uncommon in a business environment.  </s>
+<s> if you are using a win98 machine on our network, you won't be able to access many of our files.  </s>
+<s> almost all of our &quot;shared&quot; files are over 150 characters.  </s>
+<s> &quot;fat32 can't read...&quot; i'd rewrite that to be ... &quot;the os windows 98 can't...&quot; it's a minor point and why the office only has a few windows 98 machines left.  </s>
+<s> it's decade old technology that is what it is.  </s>
+<s> also, ms provided 8.3 name mangling so even with your noted issue, it still works.  </s>
+<s> bob  </s>
+<s> yeah, real good, bob.  </s>
+<s> recommend a program that in approximately 75% of all cases where it is attempted it doesn't work.  </s>
+<s> go to a technet meeting and tell that to some network administrators, they could use a good laugh.  </s>
+<s> i learned about this site from a customer.  </s>
+<s> he was having a problem getting his router configured.  </s>
+<s> when he called me to straighten out the mess he created, i asked him where he learned about networking, and he said he'd been reading some of the posts here.  </s>
+<s> i thought maybe it would help having some advice from someone who has had training, but i see this place doesn't want it.  </s>
+<s> you need to stick to your field of expertise, whatever that is.  </s>
+<s> i won't be wasting anymore time here.  </s>
+<s> this is an open forum. the only item i have an issue with is this.  </s>
+<s> you seem to maintain that a windows 98 machine can't use the network file services of nt/2000/xp/linux/other unless the file system on the server is fat32.  </s>
+<s> this is not true and is worth me noting such. the office ran nt 4.0 with ntfs for about 8 years (was on nt 3.51 too) and all that time, the server hard disk was ntfs and the clients were from windows 3.1 to windows 2000.  </s>
+<s> when xp arrived we moved to 2000 server as well as some linux boxes.  </s>
+<s> again, the 9x clients still work and don't care if the server hard disk is not fat32.  </s>
+<s> oh, please get out on the usenet forums and ask about this.  </s>
+<s> please?  </s>
+<s> bob  </s>
+<s> bob, god could tell this guy just what you said and he'd still argue the point.  </s>
+<s> i just hope he's true to his word.  </s>
+<s> sitting here amongst my very mixed network (ntfs, fat32, etc.) and they all are getting along with each other, sharing just fine.  </s>

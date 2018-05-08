@@ -1,0 +1,15 @@
+<s> i replaced my motherboard, cpu, and memory after my computer would not work, and after setting everything up it will not boot. the light on the motherboard is on, but when i try to boot it the fan on the cpu cooler spins for half a second and then stops.  </s>
+<s> i tried it with 2 hdds and 3 power supplies but same result.  </s>
+<s> help!  </s>
+<s> be sure that the system is minimum one, just enough to boot-up.  </s>
+<s> you don't need any hd or cd mounted, just a floppy, video, kybd., get it.  </s>
+<s> if it can at least boot-up to display an error, then work from that.  </s>
+<s> if you get the bios display, enter what the system is &quot;current&quot; and at minimum one, save and exit.  </s>
+<s> once that's stable you can proceed adding one item at a time(use common sense, no power, etc.) and check results.  </s>
+<s> if you're reusing old components be sure they're working, if the system fails to boot after adding an item remove it and add another, logically resolve all this and buy new if need be or use &quot;proven good items&quot;.  </s>
+<s> don't take anything for granted, test.  </s>
+<s> tada -----willy  </s>
+<s> reseat the heatsink, plug in 4-pin atx 12v, try again.  </s>
+<s> i think i found the problem.  </s>
+<s> i took the video card out, tried to boot it and it started up.  </s>
+<s> thanks guys.  </s>

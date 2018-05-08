@@ -1,0 +1,10 @@
+                                     BOB 0 1 1 0 0 1 0 0 1
+                             REQUIREMENT 0 0 0 0 0 1 0 1 1
+                                  SYSTEM 0 1 0 0 0 1 0 1 1
+                                   ISSUE 0 1 0 0 0 1 0 1 1
+                                    GAME 0 0 0 0 0 1 0 1 1
+                                   LEVEL 0 0 0 0 0 1 0 1 1
+                                     MHZ 0 0 0 0 0 0 0 1 1
+                                   WORDS 0 1 0 0 0 1 0 1 1
+                                 DETAILS 0 0 0 0 0 1 0 1 1
+                                  THREAD 0 0 0 0 0 0 0 1 1

@@ -1,0 +1,29 @@
+<s> cpu intel dual core 2.4ghz ddr2 2gb 800 wd3200aaks 320gb sata 2 good day, i've come to you asking for help with a very weird problem.  </s>
+<s> a client of mine brought her pc to my store telling me it had a virus and stuff.  </s>
+<s> everything was running smooth until windows xp (sp3) loaded. the sequence was this: 1.windows spalsh screen 2. windows login screen 3. windows starts up 4. os running normally, exploring around is was ok, clicking, double clickig around, running programs and al that, you could even click at start button without any problem... 5. around minute 6 or 8... trying to access to start bar (whatever button on it, or clock) or desktop (including icons and right clicking) would freeze the os for 3 minutes (checked around 20 times with bootvis), at that point all you could do was moving mouse arrow around (no ctrl alt supr would call task manager), after that everything came back to normal, then it would randomly freeze again at any time.  </s>
+<s> i tried to run task manager before the freezing-time, it did run normally, even with the os in coma, showed no abnormal cpu usage, or memory, no suspicious process or anything like that.  </s>
+<s> so i ran bitdefender, norton, avast, panda cloud, kaspersky, even tried bitdefender and f for linux (so i could mount and scan hdd without any risk), nothing showed up.  </s>
+<s> chkdsk, hdsentinel, wd software, tells me the hdd is fine, smart is ok, every single sector is ok. reading and writing is perfect, just like the specs for the disk says ( ). i formated the disk with ntfs (quick and normal) reinstalled windows xp sp3 (tried 3 differnt cd's)... same thing happening.  </s>
+<s> installed bootvis to see what was going on and try to optimize boot sequence, nothing... nothing was going on... no malware, no process, no nothing was loading at that time or making system to idle, whenever it went to vegetative mode disk activity decreased and just peaks would appear in the graphic, cpu1 and 2 were at 100% (even though task manager said they were not).  </s>
+<s> i then unplugged everything but the hdd... still happening.  </s>
+<s> so i took it off and connected to my laptop running ubuntu 10.4 lucid through usb (external case) it writes 22 mb/s.  </s>
+<s> i also connected an old 6gb ide hdd to the m/b it ran smoothly re-erased the disk and formatted in ext4 and installed ubuntu 10.4 lucid on it.... same thing is happening.  </s>
+<s> already updated bios, setted disk speed to udma6, changed sata cable, tried both sata chanels, no jumpers in sata so that wont do it.  </s>
+<s> then i zero-filled the hdd using dban bootable disk, it took about 40 minutes.  </s>
+<s> installed windows xp sp3 (again) quick-mode formated... instalation error, windows loads without theme and error msgs, but theres no freezing!. now im reinstalling using... again... using a different cd, reformated using normal mode.  </s>
+<s> what in this earth could be the problem?  </s>
+<s> every diagnostic tool keeps telling me that the disk is ok... but its not.this is the short story... i've been working on this one for about a week, i dont like to lie and tell customers that something is wrong or crashed if it is not, but for god's sake im about to smash and burn this disk.  </s>
+<s> maybe the sata 2 sockets at m/b? i've been working with computers for 15 years and had never seen something like this.  </s>
+<s> i desperately need your help... thanks in advance.  </s>
+<s> sorry for my bad english, not my native language  </s>
+<s> forgot to say, disk temperature is 34c most of the time, cpu temperature is around the same value  </s>
+<s> when i run across a problem like this, i simply replace the psu with a good one that's quite capable.  </s>
+<s> if that fixes it, great, mount a new one.  </s>
+<s> if not, then you have a case of &quot;bad caps&quot; or poor solder joints.  </s>
+<s> a system as you state can result from what i've explained, it basically gets flaky and weird or freezes and/or hangs.  </s>
+<s> if everything checks out, the mtrbd.  </s>
+<s> is the root of the issue or part of it.  </s>
+<s> this can happen from either being an old sysetm, cheap one or an over-stressed one from heat.  </s>
+<s> you can test wiring if you like and check voltages, but best with a oscilloscope rather than a meter for any noise noticed as well.  </s>
+<s> it gets to a point where it costs more to work on it than a repair, so explain it all should it come to that.  </s>
+<s> tada -----willy  </s>

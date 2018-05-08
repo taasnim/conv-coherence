@@ -1,0 +1,38 @@
+<s> i have p3, 1.1 ghz, mercury motherboard, 256 mb ram system.  </s>
+<s> it has 40 gb hrad disk which has 4 partitions and 70 % of each partition is free.  </s>
+<s> my computer has recently developed this issue that it restarts without any notice.  </s>
+<s> previosuly i installed windows xp. whenever i used to go online, it was restarting.  </s>
+<s> then i installed windows 2000 pro with sp 4, its re-starting frequency has lessened.  </s>
+<s> i spoke to a technical guy who told me that there might be the problem with power supply.  </s>
+<s> i changed the power supply but still this problem persists.  </s>
+<s> he then told me to change the motherboard.  </s>
+<s> i have updated antivirus software and spyware and ad ware.  </s>
+<s> they report no suspicious activity.  </s>
+<s> my question is what could be the possible problem and its solution?  </s>
+<s> is the motherboard change is the solution?  </s>
+<s> sarfraz  </s>
+<s> motherboard, could be something else.  </s>
+<s> try different ram first.  </s>
+<s> if that fails, it it likely the motherboard.  </s>
+<s> but just about any component could cause that to happen for one reason or another (or no reason).  </s>
+<s> since you have reinstalled windows and it still happens, i am not very inclined to think it is a software issue, although it is possible.  </s>
+<s> mine did this after i'd installed norton antivirus 2006.  </s>
+<s> previously with norton 2004 i had no troubles.  </s>
+<s> may not be what is wrong with yours (don't know what antivirus software you are using) but may be worth disabling your antivirus for a while to see what happens.  </s>
+<s> i think you should checkout ram of your pc, if u hav a spare ram or just take it from some of ur friend to just check this out i am sure ur problem will get over, if still u face the same problem do let me kno again, my name is tariq & my email id is tariq_naqati@hotmail.com, i'll try my level best 2 help u out.  </s>
+<s> byee  </s>
+<s> although it could be hardware like the motherboard or network card, you would like to rule out the software, there is one thing you mentioned; it only happends when you connect to internet, so check that you have installed the latest service pack and the latest recurity patches that fix windows vulnerability.  </s>
+<s> look for any bios update for your motherboard.  </s>
+<s> if the network card is not onboard try it in different slots, and removed any other one.  </s>
+<s> if that still doesn't, verify that it only happend when your use the internet if so then replace the network card or if it is onboard, then you can buy the card and disable the onboard on the bios settings.  </s>
+<s> hope it could have give you some ideas.  </s>
+<s> run the error checking tools in the properties of the hard disk.  </s>
+<s> use a can of compressed air to blow dust off of all case filters, fans, heatsinks.  </s>
+<s> remove ram and blow out dust from slots.  </s>
+<s> your mulitple windows installations may have corrupted one another over time.  </s>
+<s> you might want to backup all important files and perform a fresh os installation.  </s>
+<s> clarification: you say that you updated antivirus/antispyware programs and that they report nothing.  </s>
+<s> did you scan with them?  </s>
+<s> try ewido, if you haven't already done so.  </s>
+<s> using any p2p filesharing programs (limewire, kazaa, etc.)?  </s>
+<s> they are an open door for malicious programs.  </s>

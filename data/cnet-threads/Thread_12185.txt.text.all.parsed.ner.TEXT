@@ -1,0 +1,14 @@
+<s> i have jsut purchased the dlink524 wireless router and am trying to set up a network.  </s>
+<s> i have a dell pc for my desktop to which i have internet on (56k aol...but i cannot get rid of aol due to issues so thats out of option) and an apple powerbook to which i want to start a network.  </s>
+<s> my main question is that although i have the router set up on the dell it does not seem to see the apple, thus it denies me in setting up the network.  </s>
+<s> from the powerbook i can log on to the network name i gave to my dell, but i cant seem to access files/internet and the dell does not seem to acknowledge that the apple is there.  </s>
+<s> my main concern right now is to be able to share files/printer between my two computers and for them to correspond.  </s>
+<s> some people say the aol sharing is impossible but someone told me of a program (analogx) that uses a proxy to share the connection but im utterly lost with that also so if anyone has used it and has any tips that would be helpful.  </s>
+<s> anyone that can help me in anyway is greatly appriciated, i searched online but i cant seem to find any anwsers to my problems.  </s>
+<s> i hope i dont have to send my router back to newegg.  </s>
+<s> keep in mind that although i have been around pcs my whole life and know a good deal about them i have never had much experience with apples nor networks (always had only one computer and it ran dialup since my area does not get dsl) thanks!  </s>
+<s> but here is a good place to start with the networking part of your question&gt;&gt;&gt;&gt; as far as setting up a shared dialup through a router, i've found that the routers dhcp functions need to be turned off, leaving only the incorporated 4 port switch to handle the network traffic.  </s>
+<s> then i use windows own version of proxy server called ics to serve up the internet.  </s>
+<s> the powerbook is running os x 4.2.  </s>
+<s> sorry about that i thought i had posted that.  </s>
+<s> thanks for the help so far, does anyone else have any tips before i spend my night trying to figure this out?  </s>

@@ -1,0 +1,16 @@
+<s> i have a question regarding built in lan connections.  </s>
+<s> i have two desktops that are being readied for use in my shop.  </s>
+<s> both have win 7 64 bit, one professional and one home premium.  </s>
+<s> when i wanted to download a file to install on each of them, a 350mb file, one desktop took over an hour and a half to do so, where the other desktop came in at about 8 minutes.  </s>
+<s> same lan, realtek rtl8111d on both boards, although different manufacturers.  </s>
+<s> one gigabyte board, one msi board.  </s>
+<s> any ideas what might have caused this?  </s>
+<s> perhaps a bad driver??  </s>
+<s> if pc a took 1:30:00 but pc b started after a was finished, the download appears to have been cached.  </s>
+<s> try the download speed tests at and/or .  </s>
+<s> both of you pc's should give similar results -- if not, something's wrong with the slowpoke.  </s>
+<s> the computers were built at different times, and the downloads were done at different times.  </s>
+<s> i use a kvm to hook up the new builds for my customers, and was updating adobe software.  </s>
+<s> at first i thought it was just the server, but the second pc d/l the software through the same router/modem setup as the first pc, only at light speed.  </s>
+<s> if the second pc started the d/l after the first pc completed, it sounds like your isp is caching the dl. this is a good thing!  </s>
+<s> test both pcs at dslreports or speedtest to make sure there's nothing wrong with the &quot;slowpoke&quot;  </s>

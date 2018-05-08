@@ -1,0 +1,36 @@
+<s> hi my laptop can not access the internet but it can connect.  </s>
+<s> it says local and internet connected but i can't access ie or firefox and aim says server failure.  </s>
+<s> it does this for both wireless connections and if i directly use an ethernet cable the same thing happens.  </s>
+<s> well it was working before at my home connection then i went to a starbucks to connect to the tmobile wifi and then when i came back home the internet couldn't be accessed.  </s>
+<s> i tried ipconfig and this is what shows up microsoft windows [version 6.0.6000] copyright 2006 microsoft corporation.  </s>
+<s> all rights reserved.  </s>
+<s> c:windowssystem32&gt;ipconfig windows ip configuration wireless lan adapter wireless network connection: connection-specific dns suffix .  </s>
+<s> : link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : random letters and numbers ipv4 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 192.168.0.104 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : tunnel adapter local area connection* 6: connection-specific dns suffix .  </s>
+<s> : link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : random number and letters default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : tunnel adapter local area connection* 7: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : tunnel adapter local area connection* 9: connection-specific dns suffix .  </s>
+<s> : ipv6 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : random number and letters link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : random numbers and letters default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : :: c:windowssystem32&gt; im running windows vista 64 bit please help as soon as possible!! thanks!  </s>
+<s> from a command prompt: ipconfig /release ipconfig /renew i don't know if vista has command prompt.  </s>
+<s> yes vista does just go to run then type cmd... but if you want to have administrative access type command into the start menu and right click command and run as administrator.  </s>

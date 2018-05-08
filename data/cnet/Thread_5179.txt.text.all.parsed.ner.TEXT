@@ -1,0 +1,76 @@
+<s> hi all... my netgear rp614 v.2 router has begun &quot;disallowing&quot; certain sites to be accessed, with no changes or input from me. the biggest site in question is usps.com, which is a vital part of running my business.  </s>
+<s> i can access the site with the router bypassed.  </s>
+<s> i have upgraded the router's software, reset all defaults, adjusted mtu, etc., with no results.  </s>
+<s> i spoke with netgear and they suggested that i will need to obtain the usps.com  </s>
+<s> port number(s) and manually input them into the router.  </s>
+<s> my question is how do i obtain such port numbers, and how do i input them into the router, &quot;forcing&quot; it to allow that site?  </s>
+<s> any help would be very much appreciated!  </s>
+<s> are you sure this a router issue and not some firewall preventing access?  </s>
+<s> michael, no other changes have been made to the network (which is really only two pcs and the router) that i can think of that would have caused this problem.  </s>
+<s> i did install xp service pack 2 on one of the machines, but not the other, but both are having the problem, and had been since before the sp2 install.  </s>
+<s> manually turning the sp2 firewall off on the one box does not improve things.  </s>
+<s> some hijackers do that.  </s>
+<s> try firefox to be sure.  </s>
+<s> bob  </s>
+<s> hey bob -- same problem with firefox.  </s>
+<s> again, i can access the site when i bypass the router and plug the modem directly into a machine.  </s>
+<s> that's a lot more clues.  </s>
+<s> you now can traceroute and pingpath (or is it pathping?) to see where it fails.  </s>
+<s> your tcpip skills will come in handy now.  </s>
+<s> bob  </s>
+<s> this is definitely an area i don't know much about... allt the traces i ran, though, stop at srp-8-1-ur01.royaloak.mi.mich.comcast.net  </s>
+<s> , which i assume is where my comcast connection originates.  </s>
+<s> then i get lines with stars.  </s>
+<s> ????  </s>
+<s> and same results without the router?  </s>
+<s> there may be a clue here.  </s>
+<s> 1. is the firmware in the router current?  </s>
+<s> 2. is there some firewall is said router? 3. did you put the mac address of your pc into the router?  </s>
+<s> (check the manual...) bob  </s>
+<s> and same results without the router?  </s>
+<s> --actually, i didn't try tracing yet with the router bypassed... 1. is the firmware in the router current?  </s>
+<s> --yes 2. is there some firewall is said router?  </s>
+<s> --the router (netgear rp614 v.2) does have some kind of built-in firewall.  </s>
+<s> 3. did you put the mac address of your pc into the router?  </s>
+<s> (check the manual...) --no, everything was auto-configured, totally plug and play.  </s>
+<s> that's what bothers me; i made no changes to the router before the problem started.  </s>
+<s> i'm not even sure how to manually input a mac address (or what it is exactly -- please forgive my ignorance!).  </s>
+<s> 1. is the firmware in the router current?  </s>
+<s> --yes super!  </s>
+<s> 2. is there some firewall is said router?  </s>
+<s> --the router (netgear rp614 v.2) does have some kind of built-in firewall.  </s>
+<s> it can interfere.  </s>
+<s> be aware that turning it off is not a bad thing.  </s>
+<s> you still get the benefits of the nat firewall feature.  </s>
+<s> 3. did you put the mac address of your pc into the router?  </s>
+<s> (check the manual...) --no, everything was auto-configured, totally plug and play.  </s>
+<s> that's what bothers me; i made no changes to the router before the problem started.  </s>
+<s> i'm not even sure how to manually input a mac address (or what it is exactly -- please forgive my ignorance!).&quot; i'd have to read your manual about this.  </s>
+<s> what can confound us is that &quot;we&quot; didn't change a thing... but that nat address can be seen in windows xp if we open a command window (start, run, cmd, enter...) and type... arp -a here's mine.  </s>
+<s> c:&gt;arp -a interface: 192.168.0.110 --- 0x2 internet address physical address type 192.168.0.1 00-0f-3d-00-4d-39 dynamic that physical mac address may be required in your router, but i can't know this since i am not your isp. but it is one of the things i always set.  </s>
+<s> bob  </s>
+<s> take a note of your current ip address (ipconfig /all in the command prompt) -- (sometimes you will get wrong ip, dns, dns server, gateway, etc.) turn it off for a day or two (to let it release the lease time) reset the router to the default setting, usually by pressing a small button (look in the manual) then try to connect them to the modem and pc... check your ip again and look for any differences with your previous ip etc. if you still have problem, try other router if possible, to see if your router ain't broken.  </s>
+<s> good luck  </s>
+<s> the postal service owns the entire 56.xx.xx.xx network and if i go to usps.com the address and port always seem to be 56.0.134.24:80 my local port that connects is always in the 1650 range and i am behind a router.  </s>
+<s> not sure what your isp wants you to do.  </s>
+<s> do you get the 'red on black' &quot;blocked by netgear&quot; screen?  </s>
+<s> if so, there are two items in the netgear router configuration you should check.  </s>
+<s> after you log in to the router, check the 'block sites' and 'block services' items in the left-hand column menu.  </s>
+<s> 'block sites' lets you block sites that contain keywords that the router administrator selects.  </s>
+<s> for example, i block sites with 'xxx' in the site name, among others.  </s>
+<s> if you have blocking turned on, see what domains and keywords are on your 'blocked' list and remove those you want to get to.  </s>
+<s> you can turn off site blocking by checking the item that says 'never', under 'keyword blocking'.  </s>
+<s> you can also create exceptions to your blocking rules by putting specific pc's ip addresses in the 'trusted' list at the bottom of the 'block sites' screen center column.  </s>
+<s> likewise, check the 'block services' item to see if you have this option turned on.  </s>
+<s> either make an exception for services you want to use, or disable 'block services' completely.  </s>
+<s> i have mine shut off completely.  </s>
+<s> i rely on my firewall to block unwanted port activity.  </s>
+<s> you really should dig into the manual that came with the router.  </s>
+<s> to enter the router configuration you need to have an internet browser window open (internet explorer, netscape, mozilla, or aol).  </s>
+<s> in the address space type: - then 'enter'.  </s>
+<s> you'll need the default login name and password that netgear supplied with the router.  </s>
+<s> typically the username is 'admin' and the default password is 'password'.  </s>
+<s> you'll want to change that password on your first login.  </s>
+<s> this would also be an excellent time to set up some security between the router and the wireless devices.  </s>
+<s> if your pc cards accept wap security, use it because it is the most difficult to hack.  </s>
+<s> if not, use wep security, preferably the 128-bit variety. the problem with installing setting up a wireless network by just 'plug-n-play' is that some important features like the firewall, security, etc., never get implemented.  </s>

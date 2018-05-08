@@ -1,0 +1,40 @@
+<s> hi, my problem is this: when printing to hp p2055dn (network printer) from pdf document and power point documents that have more pages (documents are not large in size), printer prints first two pages then stops (like he's having a tea break hehe) for about 2 sec and then prints 2-3 pages, then stops again for 2 sec, and then prints more pages and then stops for 2 sec and so on...i haven't tested it on other formats but i believe it would be the same result.  </s>
+<s> this is what i've tried so far: 1) printing with pcl5,pcl6 and universal drivers ==&gt; problem stays 2) upgrading latest firmware ==&gt; problem stays 3) reset all settings to manufactured ==&gt; problem stays 4) printing directly trough usb ==&gt; problem stays did anybody had similar problem and knows the solution, or has any advice?  </s>
+<s> thanks.  </s>
+<s> and one more question, why does document in size 2mb when printing, printer in job status - see what's printing shows that it has 10-15 mb and more?  </s>
+<s> when printing from foxit pdf printer prints delayed as i mentioned in the post previously , but when printing same document from adobe reader 9 and x printer prints normaly.  </s>
+<s> also when printing document from foxit pdf and power point e.g document that has in size 300kb then in window &quot;show whats printing&quot; is shown much larger size ( e.g. 300kb becomes 3 mb).  </s>
+<s> can somebody explain why does printer spooler enlarges document in his memory so much when printing from foxit pdf and power point.  </s>
+<s> i've tested another printer hp cm1415fn, and similar problem occured, but this time printing pdf document (8 pages; 2mb) from adobe reader x. the document size in &quot;show what's printing&quot; windows has enlarged to 33 mb, and thus printer prints very very slow.  </s>
+<s> i've tried also older version of adobe reader.  </s>
+<s> printers are installed on server 2008 standard, operating sistems: both winxp and win7.  </s>
+<s> every help would be appriceated thanks.  </s>
+<s> the pausing during spooling/printing some documents is common and normal.  </s>
+<s> you might try changing the setting to wait for the last page to be spooled before printing.  </s>
+<s> it won't speed up the whole process but might stop the pauses.  </s>
+<s> as for the displayed size of the print job, i don't think you can equate that to size the file shows on on disk especially when compressed graphics might be involved.  </s>
+<s> i wouldn't worry about either as an issue but you could, as an experiment, change the mentioned setting.  </s>
+<s> go to customize your printer/advanced and tic the button to wait for the entire document to be spooled before starting the print.  </s>
+<s> 2 seconds to move 33 mb of data to the printer is great.  </s>
+<s> i wonder if anyone would be asking why a 2mb pdf could create a printer image of 33mb?  </s>
+<s> i'm finding most folk don't care to know how things work but here, i don't see any cause for concern.  </s>
+<s> bob  </s>
+<s> i've already tried that but the problem stays.  </s>
+<s> first i believed that the problem lied in the printer alone but then this also happened on another printer hp clj 1415fn.  </s>
+<s> i also have checked scan settings( document has been scanned with that settings), but they are ok (150dpi, color, pdf, normal size).  </s>
+<s> as for compressed graphics and document size in print job status, i believe size should be the same when printing from foxit and adobe, but it is not :p. printing from foxit pdf reader document prints normaly (even the size in printer job status window is normal).  </s>
+<s> but problem also appears with foxit when printing some other document, and also with printing powerpoint document.  </s>
+<s> maybe there is problem with a printers network card?  </s>
+<s> anyway thank you for your time  </s>
+<s> 2 seconds of printer timeout between pages being print.  </s>
+<s> printer prints 2 pages then timeout 2 sec (loads data into job queue) then prints again, timeout 2 sec (loads data..)...i have no problem with the size of document being sent to printer queue but i have problem with the printer timeouts that are sure connected with size of the document being loaded in printer job queue.  </s>
+<s> imagine printing 5 pages of pdf document, or powerpoint doc and printer is printing it one whole minute.  </s>
+<s> also i tried printing to another hp 2055dn printer and everything is ok so maybe it's problem with printer network card but problem also appeared on another hp printer hp cm 1415fn.  </s>
+<s> anyway if anything else comes to your mind please reply, thank you for your time.  </s>
+<s> i know the timeout period is tweakable but here there is no issue since it times out, and continues when the printer is ready for the next page.  </s>
+<s> all without any input from us.  </s>
+<s> maybe there is a problem here but i can't find it.  </s>
+<s> that is, if it works but drops some messages in the event viewer that could upset some admins but the problem is it works.  </s>
+<s> bob  </s>
+<s> i believe the problem lies within the printers hardware, maybe nic etc. i didn't find any solutions but i know that hp printers will never gonna cross my doorstep again .  </s>
+<s> thank you.  </s>

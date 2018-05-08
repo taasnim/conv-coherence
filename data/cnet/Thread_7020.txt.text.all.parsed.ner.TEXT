@@ -1,0 +1,19 @@
+<s> i have a nforce 570 slit-a motherboard.  </s>
+<s> i have a single hard drive (250gb) that i have plugged into the sata1 connector.  </s>
+<s> i have 2 ide channels (one primary and one secondary).  </s>
+<s> i currently have my dvd rw drive plugged into the secondard ide channel. is that correct?  </s>
+<s> i was reading on a post that i need to buy an ide card for the dvd but i don't see the sense in that if i have 2 ide's available.  </s>
+<s> thank you for your thoughts.  </s>
+<s> tim  </s>
+<s> get a nice 80 conductor ide cable and from the primary ide to the master connector on the cable with the drive set to cs plug it in there.  </s>
+<s> bob  </s>
+<s> bob, is sata supposed to be faster than ide?  </s>
+<s> also, would it improve performance by moving the dvd drive to the primary master ide?  </s>
+<s> thanks again for your thoughts.  </s>
+<s> tim  </s>
+<s> and to get the best effect i would use both channels.  </s>
+<s> -&gt; yes sata can be faster but most dvd drives have read limits well below the sata speeds and even ide rates.  </s>
+<s> let me comment that for xp, installing to a sata drive (xp retail versions) can be troublesome for some.  </s>
+<s> if i wanted to make it harder to install i'd give my tech all sata components.  </s>
+<s> this changes in vista but that's another can of worms.  </s>
+<s> bob  </s>

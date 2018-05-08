@@ -1,0 +1,41 @@
+<s> note: this is an educational exercise but it's still important to me.  </s>
+<s> i am trying to learn something about networking by examining my home network and it's not going well.  </s>
+<s> if anyone can help me get past my immediate problem, i will be very grateful.  </s>
+<s> i have the following configuration: computer | hub_1 &lt;--- point_a | wireless router | hub_2 &lt;--- point_b | cable_modem | the_world wireless router = netgear mr814 wireless router cable modem = motorola surfboard cable modem hubs = blackbox 8 port hubs (i.e. real hubs, not switches).  </s>
+<s> please note that everything works correctly.  </s>
+<s> the problem is my understanding of how it works.  </s>
+<s> when i put a sniffer (a packet grabber) at &quot;point_a&quot;, i can see all the packets in both directions.  </s>
+<s> i see pings, arps, dns requests and tcp and udp traffic.  </s>
+<s> everything looks great.  </s>
+<s> when i put the sniffer at &quot;point_b&quot;, i see thousands of arp broadcast requests and an occasional dhcp broadcast.  </s>
+<s> what i don't see is any other traffic.  </s>
+<s> no ip packets at all.  </s>
+<s> i successfully went to several web sites and still no packets were captured from those sites.  </s>
+<s> why not?  </s>
+<s> there are no filters on the sniffer. the same setting that works fine at point_a is the one used at point_b. the sniffer does not show any errors, like runts, crcs, collisions, fragments, etc. so the question is, why am i not able to see all the packets at point_b?  </s>
+<s> (to anticipate a question, i do know the difference in a &quot;hub&quot; and a &quot;switch&quot; and my hubs are really hubs (i.e. simple repeaters).) second question: i know the mac address of the surfboard cable modem.  </s>
+<s> that is not the address on the arp packets.  </s>
+<s> i thought the cable modem was my interface to the world and my router would be talking to it at the ethernet level.  </s>
+<s> that's clearly not the case.  </s>
+<s> what's going on?  </s>
+<s> thanks for any guidance you can provide.  </s>
+<s> what are the ip's of the outside interface of the router and your &quot;point b&quot;?  </s>
+<s> you'll need point b to be on the same public network as the outside router interface.  </s>
+<s> hope that helps...  </s>
+<s> thank you for the reply and suggestion.  </s>
+<s> i know the router's wan address because i can display the assigned address (dhcp).  </s>
+<s> i know another address which is the default gateway provided which is probably the other end.  </s>
+<s> however, i didn't think i needed to get an address on that network because i am only sniffing packets and not (i hope) transmitting anything.  </s>
+<s> i should be able to grab packets passively without actually having a valid ip address.  </s>
+<s> good news.  </s>
+<s> problem solved.  </s>
+<s> (and i'm embarrassed.) the problem was with the monitoring pc. it was running a firewall.  </s>
+<s> since i was seeing arps and dhcp traffic and not running any filters, i thought i was getting everything. the firewall (zonealarm) was allowing the arps, etc through but blocking all the tcp and udp packets.  </s>
+<s> by lowering the security on the firewall, i was able to see everything.  </s>
+<s> from this first attempt to look at the packets between the router and cable modem, i can see this educational exercise is going to significantly difficult.  </s>
+<s> (at least for me.  </s>
+<s> i spent days getting past a firewall problem!) i didn't recognize much of anything in the 200mb i've looked at so far.  </s>
+<s> this education is going to be time comsuming.  </s>
+<s> i'm glad you have the problem solved.  </s>
+<s> since you're running a windows based os, winpcap will allow sniffing without having an assigned ip. zonealarn had/has a log parser too which was free to analyze the log output.  </s>
+<s> this may help too.  </s>

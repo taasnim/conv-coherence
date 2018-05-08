@@ -1,0 +1,18 @@
+<s> i have a fibre optic dsl connection and several computers on a home network.  </s>
+<s> my wife is not interested in learning how not to avoid malware and principally uses an wxp home computer, but she also does banking on her apple mac mini.  </s>
+<s> i would like to isolate the mac mini and my linux computer from the wired/wifi network that we now use.  </s>
+<s> (btw we are out in the countryside and the wifi is unlikely to be problematic).  </s>
+<s> i was thinking about putting a d-link di-604 router behind one of the wired ports on the existing zyxel p330w v2 wifi router. the idea is that wife, kids, and guests can browse, hopefully not getting infected, but in any case isolated from the d-link network behind.  </s>
+<s> i can imagine the possiblity a sniffer getting installed on the zyxel network which might then be able to monitor traffic from/to the d-link network as it passes through the zyxel.  </s>
+<s> would such a sniffer be able to monitor the zyxel traffic or is the latter encrypted or otherwise unsniffable as it leaves the d-link and passes through the zyxel?  </s>
+<s> alternatively, is there a way for the two routers to sit side by side and somehow share the dsl connection without being reachable by the other, say if a switch sat in front of the routers (don't know if a switch with divide traffic in this way or not) so, are either of these a good approach and if not, why?  </s>
+<s> tia  </s>
+<s> the setup to do with with routers and more will tax owners too harshly.  </s>
+<s> let's call the answer out as &quot;install a firewall.&quot;  </s>
+<s> bob  </s>
+<s> bob, thanks, but i do not understand your comments.  </s>
+<s> could you elaborate on both please?  </s>
+<s> &quot;the setup to do with with routers and more will tax owners too harshly.&quot; the poor wording here is a problem.  </s>
+<s> but the setup with routing, how to administer this so that it all works is just too tedious and taxing for most of us.  </s>
+<s> this is why i wrote in my next sentence: -&gt; let's call the answer out as &quot;install a firewall.&quot;  </s>
+<s> almost every firewall has a setting to not allow sharing, etc. bob  </s>

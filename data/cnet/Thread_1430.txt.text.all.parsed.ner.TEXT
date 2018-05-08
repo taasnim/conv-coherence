@@ -1,0 +1,35 @@
+<s> i hope someone brighter than me has a solution to this very annoying problem--which appears to be evolving.  </s>
+<s> i first got a message from xp as follows: cannot complete the cd writing wizard there was an error in the writing process. the disc you have attempted to write may no longer be usable.  </s>
+<s> i followed the standard troubleshooting techniques to no avail. the writer is a ''philips cdd5301 / h1.1'' and is listed in device manager.  </s>
+<s> i decreased the speed to match the cd-rw speed, confirmed that burning is ''enabled'', and ran ''services.msc  </s>
+<s> /s to ''start and automate'' the imapi cd burner.  </s>
+<s> interesting thing here is that it seems to stop at some point after i start it (not, though, when i try burning).  </s>
+<s> i may have deleted ''record now'' and therefore installed a newer version (sonic record now) without success.  </s>
+<s> i also reinstalled media player 10 just in case.  </s>
+<s> finally, i attempted to update the philips driver to a more recent one, but that doesn't seem to work either.  </s>
+<s> now, i'm not even getting the error message from the cd writer, but it just seems to lock up when i ask it to ''write these files to cd.'' the message remains the same, ''there is no disc in the drive, please insert a writable cd.'' i tried removing the drive from the device manager and reinstalling without success.  </s>
+<s> finally, for fyi, i have not ''reset the drive cables to the optical drive'' nor have i ''cleared the registry filters''.  </s>
+<s> i was hoping to find an easy solution that i could simply download and updated driver or something.  </s>
+<s> if anyone could please point me to a solution, i would be greatly appreciative.  </s>
+<s> otherwise, i guess i'll be forced to purchase and install a new drive, though i have no experience doing so.  </s>
+<s> thanks and regards!  </s>
+<s> while the above may or may not resolve it, i suggest tossing out xp's native recording which you can also read more at that &quot;some cds burned by win xp cannot be read.  </s>
+<s> microsoft has acknowledged various problems with the inbuilt software that can result in files (or sometimes whole disks) being unreadable when they have been burned with the inbuilt software.  </s>
+<s> see mskb 320174.  </s>
+<s> they have posted a patch on the microsoft download center...&quot; i'd use cdburnerxp from download.com and let microsoft keep their problems.  </s>
+<s> bob  </s>
+<s> thanks for the insight.  </s>
+<s> does this mean that my problem is limited to the s/w and that my cd-writer remains ok? thanks again!  </s>
+<s> you would have to try cdburnerxp and see.  </s>
+<s> bob  </s>
+<s> i tried everything and seem to have a compatibility problem.  </s>
+<s> i wind up with a 5 asc: 30 ascq: 0 error which, when researched, appears to indicate some sort of compatibility problem.  </s>
+<s> i suspect my philips cdd5301 needs replacement.  </s>
+<s> any final thoughts on other troubleshooting techniques or resources for resolution?  </s>
+<s> ps. the link referred me to the same troubleshooting i tried earlier and the new s/w doesn't solve the problem either.  </s>
+<s> thanks!  </s>
+<s> and other searches don't reveal much.  </s>
+<s> i can't tell what that means given so little a story from you about what you used to get that error.  </s>
+<s> i'm also unsure if you used cdburnerxp and tried it with new media at 1/2 the rated speed.  </s>
+<s> also suspect is the drive's firmware (never revealed) and if you used a cd/dvd lens cleaner. the lack of details leaves me with little traction on this one.  </s>
+<s> bob  </s>

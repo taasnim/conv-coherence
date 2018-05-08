@@ -1,0 +1,39 @@
+<s> hi, i hope someone can help.  </s>
+<s> i have a compaq presario that's about 5 years old.  </s>
+<s> i did a automatic windows update and it asked to do a restart to finish.  </s>
+<s> i did and when the computer restarted i got this error.  </s>
+<s> &quot;disk boot failure, insert system disk and press enter.  </s>
+<s> i've replaced a cmos battery, made sure all the cabling is secure and yes when in bios the hard drive is not registering even when you try to find it in bios.  </s>
+<s> i've purchased a new hard drive and but can only get the bios to reconize it when i ask it to detect it and then when i save and exit i still get the same error.  </s>
+<s> the cd-rom is being seen as well as the floppy and yes i've tried reseting the defaults in bios.  </s>
+<s> this is the first time this happen and i can't seem to resolve it.  </s>
+<s> i'm running windows xp home.  </s>
+<s> oh and one more thing, even though the cd is showing up in the bios and has power, for i can load a system cd in the tray it won't run.  </s>
+<s> what the f*#%.  </s>
+<s> please help me if you can.  </s>
+<s> tim  </s>
+<s> remove all usb devices, all.  </s>
+<s> reboot and check results.  </s>
+<s> no go, see if you use usb kybd.  </s>
+<s> etc. remove those too.  </s>
+<s> replace using a std.  </s>
+<s> ps/2 type kybd.  </s>
+<s> and mouse.  </s>
+<s> enter the bios and verify if usb used, disable, exit and save.  </s>
+<s> check status of kybd.  </s>
+<s> and mouse used.  </s>
+<s> reboot system, check results.  </s>
+<s> tada -----willy  </s>
+<s> 1. &quot;when i exit the bios i get the same error&quot;.  </s>
+<s> that seems ok with a new hard disk until you partition and format it and install an os on it.  </s>
+<s> you don't tell anything about that.  </s>
+<s> 2. &quot;the cd won't run&quot;.  </s>
+<s> what exactly does that mean?  </s>
+<s> if you set the bios to boot from the cd first, and put a bootable windows xp cd in it (check on another pc that it is bootable, just to be sure), what happens?  </s>
+<s> if bios set to boot from cd, the cd is bootable on another machine and doesn't boot here, first replace the cd-drive; if that doesn't help it's time to replace the motherboard.  </s>
+<s> kees  </s>
+<s> might be corruption in mbr or mfr files on hd. many commercial defraggers do not defrag these items they maybe so fragmented there creating errors.  </s>
+<s> also try uninstalling the ram and reinstalling it this might clear these errors as well, bad ram might do this also.  </s>
+<s> if you can get it started again check the virtual memory settings.  </s>
+<s> set them to &quot;system managed&quot; or larger then the &quot;system managed&quot; size.  </s>
+<s> follow willy's suggestion on this one, then try these.  </s>

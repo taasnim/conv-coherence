@@ -1,0 +1,41 @@
+<s> i have an asus a7v8x-x with an amd 1.4gz that just zapped off while editing a document, and now it won't turn on.  </s>
+<s> at first i thought it was a bad power supply so i replaced it with another from my kid's pc and still won't turn on.  </s>
+<s> when powered up, the fan trys to kick start and then nothing. the little led light inside the mb turns on with power.  </s>
+<s> i disconneted the hd, cds and floppy so just the mb is powered and still nothing. the mb is just 2 months old. is the mb bad or could it be something else?  </s>
+<s> any suggestions?  </s>
+<s> i would remove the cpu and see if it powers up. the cpus do a meltdown and this is a common problem.  </s>
+<s> video on demand if you want to watch it.  </s>
+<s> bob  </s>
+<s> what's funny is, it doesn't even hit the bios, no tests, and no beeps.  </s>
+<s> how would i know if it powers upwithout cpu ?  </s>
+<s> should i plug a fan in?  </s>
+<s> i was just reading up on bad capacitors.  </s>
+<s> i need to check to see if any are &quot;blown&quot;.  </s>
+<s> it's much like the old melted cpu syndrome.  </s>
+<s> you remove the cpu and see if the unit powers up.  </s>
+<s> no beeps are expected, just fans and maybe some leds.  </s>
+<s> bob  </s>
+<s> i have the exact same problem, but i have an asus a7v133.  </s>
+<s> i tried taking out the cpu but it doesn't make a difference. is there anything else that could cause this problem.  </s>
+<s> to the least number of parts to power up... just two... motherboard and power supply unit (psu.) if that doesn't power up, one of the two units left is dead.  </s>
+<s> bob  </s>
+<s> my guess it's the power supply because when i wrote the problem to asus they replyed me that the light on the mb doesn't mean the power suplly is adequate.  </s>
+<s> anyway i tried to strip it down and still nothing.  </s>
+<s> thanks for the help though.  </s>
+<s> i have an a7n8x-deluxe and an a7n8x-vm and both boards will try to boot up with out memory, but can't of course. the fans on the cpu spin, but i have to have memory for it to post and boot.  </s>
+<s> if you have one strip of memory then that strip may have become unseated or the memory may have been blown.  </s>
+<s> &quot;the fans try to kickstart&quot; i presume that you are talking about the power supply?  </s>
+<s> if so then that indicates a bad power supply, or one that is being shorted to ground.  </s>
+<s> in this case it could be the motherboard, possibly a capacitor shorted to ground.  </s>
+<s> if you mean the cpu fan then the same thing.  </s>
+<s> if the motherboard is only a few months old then i believe that they are warranted for one year by the manufacturer asus.  </s>
+<s> norm  </s>
+<s> i to am working on fixing an asus socket a a7v8 motherboard.  </s>
+<s> it would restart with no warning or error messages.  </s>
+<s> now it wont boot.  </s>
+<s> all the fans come on even the cpu fans, but i cant open the cdrom door.  </s>
+<s> remove the wide ide cable.  </s>
+<s> if power is proper (+12v and +5v) the drive will open and close on a good drive. it would be a good idea to try the manual eject if the button fails, but cdrom units can be tested to some degree without a computer... bob  </s>
+<s> i received a mobo and only the fans and the led turns on, the cpu get hot really quickly because i put my hand on the heatsink.... but all those little square chip next to the cpu where there are those connection ports get hot instantly when you press the pwoer button.... i got a brand new cpu, ram...... i have wasted 100$ on this machine .....  </s>
+<s> i'm unsure how this old discussion applies.  </s>
+<s> bob  </s>

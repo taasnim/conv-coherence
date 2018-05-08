@@ -1,0 +1,30 @@
+<s> hello, my burner model is tsstcorp cd/dvdw ts-l532a the computer is a gateway 7510gx running windows xp home.  </s>
+<s> it burns cd-r/rw, dvd+-rw and dvd+dl however, as of late, i can only burn dvd discs, and not cd's, which lock up the burning software.  </s>
+<s> i've tried burning with nero, cd burner xp pro, and alcohol, all of which can burn dvd's fine but (now) not cd's, and i have burned cd's before. the burn process starts, the light comes on and the drive spins, then after a minute or so the drive spins down and the software hangs (with nero).  </s>
+<s> with cd burner xp pro/alcohol an error message is spitted out (below).  </s>
+<s> i tried reinstalling the burner with no luck. the error message listed by cd burner xp pro is: writing error: (3) error occurred writing data to the disc. the scsi/atapi bus was reset and caused a write failure (1026).  </s>
+<s> error sense data: sense key: 6 asc: 29 ascq: 0 if that helps.  </s>
+<s> if you have any suggestions i appreciate it, thanks!  </s>
+<s> 2. try it at 2x speed.  </s>
+<s> 3. try another recorder.  </s>
+<s> good luck with this.  </s>
+<s> bob  </s>
+<s> 1. the cd lens cleaner had no effect.  </s>
+<s> 2. i tried burning it slowly and it seems to have worked.  </s>
+<s> but what gives?  </s>
+<s> my burner is rated for top speed of 24x; and the discs 52x.  </s>
+<s> why does it fail at higher speeds?  </s>
+<s> the laser dims with time... bob  </s>
+<s> oh okay, i didn't know that.  </s>
+<s> so i guess i'd have to buy a new burner?  </s>
+<s> sometimes i'll change my burning software to lock in at the speed i find to work but let me share this. for years i have recorded at 1/2 the media speed. it takes not so much longer and i have none of the problems of people around me.  </s>
+<s> i wonder... bob  </s>
+<s> quite true!  </s>
+<s> anyway, thanks for all your help!  </s>
+<s> hey guys, i have read briefly over the writings so far, and i have a very similar problem.  </s>
+<s> my ts-l632d will burn dvd's without a problem, it will read dvd's without a problem, it will even read cd's without a problem.  </s>
+<s> but when i burn a cd it burns like it should, it completes like it should, the light on the drive blinks like it should... but in the end... its just a blank cd... i heard a piece of advice, i should burn at a lower speed, this i will try, but is there any advice that can be given?  </s>
+<s> other than that?  </s>
+<s> if that doesn't work then how else can i fix it?  </s>
+<s> also... if that does work, i don't want to burn at 2x from now on.  </s>
+<s> alternatively i had a super-multi drive kickin' around so i've got it on my ide to usb adapter and burn from it, but that's not a perfect solution either  </s>

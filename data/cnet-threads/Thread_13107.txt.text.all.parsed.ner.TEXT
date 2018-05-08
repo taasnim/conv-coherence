@@ -1,0 +1,15 @@
+<s> i just installed a radeon 9250 pci stealth video card, with 256 megs of memory.  </s>
+<s> to my surprise, it does not seem to display video any faster than the intel video that is built into the motherboard.  </s>
+<s> other owners have commented on increased redraw speed but i cannot tell any difference.  </s>
+<s> i have downloaded and installed the latest ati drivers.  </s>
+<s> i run a pretty standard clone computer with an intel 845g chipset, 512 megs of ram, xp home edition and a 1.8 ghz processor.  </s>
+<s> is there some configuration utility or method that i am missing to kick this card into high gear?  </s>
+<s> pci express?  </s>
+<s> if yes, the pci bus runs at half the speed or less than the agp bus and is not a dedicated bus. it is shared with other pci cards.  </s>
+<s> however, i dfo know that ati drivers can be a bear to install properly.  </s>
+<s> sometimes there is only so much one can do to improve older computers.  </s>
+<s> in what program/game do you wish to improve redraw speed?  </s>
+<s> nowadays, video cards only differentiate themselves by how well they handle 3d games (doom, half life 2, call of duty, splinter cell, oblivion, etc.).  </s>
+<s> outside of gaming, your integrated intel graphics are just as good as any other video card.  </s>
+<s> thanks very much for the help.  </s>
+<s> this card fits into a regular pci slot, so i suppose it can only work as well as pci allows.  </s>

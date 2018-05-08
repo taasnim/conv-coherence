@@ -1,0 +1,40 @@
+<s> i am an avid gamer in my spare time, as most of you likely know latency(ping) is a major factor in online gaming.  </s>
+<s> recently i noticed my ping has doubled and tripled to some gaming servers including ones located only about 150 miles away.  </s>
+<s> i also noticed the most change in servers that were very close by. a ping test to a server not 30 miles away had shown my ping had jumped from the normal 20-30ms to 90-110ms overnight.  </s>
+<s> so i did all the basics, reset and reconfigured my router, made sure i didn't have an emi issue.  </s>
+<s> nothing worked, so i did a tracert. the results are weird, my isp is using a route clear on the other side of the states from me starting at hop 4. i live in north florida, iptrace shows this to be in minnesota.  </s>
+<s> ideas on the cause and how i might fix this?  </s>
+<s> haven't had the chance to contact my isp yet and i get a sneaking feeling that contacting them won't be much help anyway.  </s>
+<s> tracert results below. 2 14 ms 14 ms 17 ms 69-57-112-1.nefcom.net  </s>
+<s> [69.57.112.1] 3 12 ms 14 ms 14 ms 67-223-195-94.nefcom.net  </s>
+<s> [67.223.195.94] 4 102 ms 234 ms 218 ms zen-townes-jkvlfl-421.mgmt.zayoms.net  </s>
+<s> [137.192.5 2.93] 5 73 ms 68 ms 70 ms plmomncdpe0-te0-0-0-1-76.mgmt.onvoy.net  </s>
+<s> [137.192 .52.46] 6 67 ms 111 ms 68 ms xe-4-1-0.mpr1.msp2.us.above.net  </s>
+<s> [208.184.236.229 ] 7 72 ms 69 ms 70 ms xe-4-0-0.mpr1.msp1.us.above.net  </s>
+<s> [64.125.21.46] 8 73 ms 70 ms 73 ms ae3.cr1.ord2.us.above.net  </s>
+<s> [64.125.20.78] 9 85 ms 96 ms 74 ms ae5.cr2.ord2.us.above.net  </s>
+<s> [64.125.28.234] 10 74 ms 71 ms 72 ms ae4.er2.ord7.us.above.net  </s>
+<s> [64.125.20.42]  </s>
+<s> 11 103 ms 104 ms 102 ms te0-5-0-24.ccr21.ord03.atlas.cogentco.com  </s>
+<s> [154.5 4.10.197]  </s>
+<s> 12 108 ms 105 ms 108 ms be2003.ccr22.ord01.atlas.cogentco.com  </s>
+<s> [154.54.29 .21] 13 71 ms 68 ms 78 ms be2099.ccr22.atl01.atlas.cogentco.com  </s>
+<s> [154.54.28 .74] 14 72 ms 74 ms 74 ms te4-1.ccr01.clt01.atlas.cogentco.com  </s>
+<s> [154.54.84.  </s>
+<s> 238] 15 88 ms 84 ms 84 ms te4-2.ccr01.rdu01.atlas.cogentco.com  </s>
+<s> [154.54.80.  </s>
+<s> 58] 16 90 ms 86 ms 84 ms 38.122.176.2 17 87 ms 84 ms 84 ms 137.118.63.254 18 85 ms 83 ms 84 ms hosting.nefcom.net  </s>
+<s> [137.118.32.27] trace complete.  </s>
+<s> i just realized i posted this in the wrong section i think, sorry about that.  </s>
+<s> pretty tired, i just got home from work and am rather new to this board.  </s>
+<s> if a mod could move it to the appropriate forum i would appreciate it.  </s>
+<s> sorry but when i talk to gamers we get them wired, turn off the wifi and never share the connection.  </s>
+<s> we may even remove a router.  </s>
+<s> and in parting with netflix hitting an all time high in use, lags are hitting new highs too.  </s>
+<s> bob  </s>
+<s> in reply to your answer, i did try running a hard wire straight to the modem and got the same result.  </s>
+<s> my home network is not shared and is secure.  </s>
+<s> and i still don't understand why my provider routes me from florida clear to minnesota at hop 4. i should mention their home office is like 15 miles from where i live...?  </s>
+<s> it way out of your control except to talk to the isp or switch isps as routing past that is, again, out of our control except to call in.  </s>
+<s> i'm hearing this a lot now that netflix and other video streaming is saturating the pipes.  </s>
+<s> bob  </s>

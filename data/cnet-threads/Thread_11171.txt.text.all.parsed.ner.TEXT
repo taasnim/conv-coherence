@@ -1,0 +1,36 @@
+<s> hi i am a bit confused with whats going on with my router signal.  </s>
+<s> i previously had a linksys wrt54g, before i upgraded to my new router i was getting quite good signals and my internet speed on my pc was ranging from 3.7 - 4.5 mbps.  </s>
+<s> after upgrading to a cisco linksys e4200 based on the great cnet ratings, my internet speed has plumetted to a range of 2.5 - 3.1 mbps and the signal strength on my wireless connection has gone to &quot;very low&quot; i have checked the channels of the surrounding routers (using a software called network stumbler ).  </s>
+<s> i am using channel 1 which is not being used by anyone else.  </s>
+<s> i am just surprised, i thought my speed and connection strength would sky rocket after getting such a good router.  </s>
+<s> anyone got any idea what i may be doing wrong?  </s>
+<s> i don't see enough detail to dig into it.  </s>
+<s> it could be out of date firmware or some combination of mac filtering and hiding the ssid but those details are not here.  </s>
+<s> try telling more and be sure to try it the simple way with current firmware, ssid broadcasting, router defaults and wpa2 aes personal security.  </s>
+<s> bob  </s>
+<s> if this has 802.11n enabled, try channel 3. just in case.  </s>
+<s> however here i let my router pick the channel.  </s>
+<s> it saves me from checking into this setting ever again.  </s>
+<s> call me lazy, i don't like to fiddle with the router.  </s>
+<s> bob  </s>
+<s> hi r.proffitt thanks for the reply please find further details below: current firmware: 1.0.04 this is up to datemac filtering: disabled ssid broadcasting: enabled security mode : wpa2/wpa mixed mode channel: auto, (network stumbler software shows channel 1 was used) ipv6 spi firewall protection:enabled ipv4 spi firewall protection: enabled  </s>
+<s> 1. just wpa2.  </s>
+<s> 2. without the firewall.  </s>
+<s> nat is a firewall since there will be no inbound connections that can make it to your machine unsolicited.  </s>
+<s> it can cause slowdowns in some routers.  </s>
+<s> some folk dig in their heels on item 2. it's understandable but then again, nat is a firewall too.  </s>
+<s> bob  </s>
+<s> 1. i have removed the firewall 2. i have not changes the wpa2/wpa to just wpa2 because one of my wireless cards doesnn't connect if it's just wpa2.  </s>
+<s> 3. i have moved a small obsturction out of the routers way.  </s>
+<s> i am now getting a bit better internet speed.  </s>
+<s> just as a comparison, if i am sitting next to the router the speed of the internet is above 20mbps, but in a room upstairs (router is downstairs) i am now getting about 3.5 mbps, so ideally i would like to get up to atleast 10 mbps is the upstairs room.  </s>
+<s> wpa only?  </s>
+<s> there's no reason to use wpa2 if this is in mixed mode.  </s>
+<s> also, how about a channel check?  </s>
+<s> what channel is this on?  </s>
+<s> bob  </s>
+<s> thanks for that bob much better now signal strength good internet speed 4mbps-5mbps settings changed: 1. wpa only instead of wpa2/wpa 2. channel 3 instead of default 1  </s>
+<s> for the channel, if you are sure the region is set properly, then automatic is fine.  </s>
+<s> read to see where the region matters.  </s>
+<s> on a personal comment, i hope these makers start offering some reduced options where they offer the things that have issues in some expert menus.  </s>
+<s> bob  </s>

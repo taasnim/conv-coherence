@@ -1,0 +1,12 @@
+<s> actually, i can change the resolution, but the monitor is not displaying it properly.  </s>
+<s> for example, i try to increase resolution from the default 1280x1024 (it's a dell 20 inch widescreen lcd) instead of the image on screen getting smaller, the size of the display gets larger ... it expands beyond the physical boundaries of the screen.  </s>
+<s> that is to say, the functional area of the desktop increases in pixel width and height while all the elements on the screen stay the same size.  </s>
+<s> so when i move my mouse to the edge of the screen, instead of a hard stop, the display scrolls.  </s>
+<s> this behavior is really bugging me.  </s>
+<s> i don't want the screen to scroll around, i want the objects on the screen to get smaller so i can see more stuff at the same time.  </s>
+<s> does anybody have any idea why this is happening and how to resolve it? the display is attached via dvi-d to my ibm laptop ... i don't have any other connection available.  </s>
+<s> tia.  </s>
+<s> the native resolution of a dell 20&quot; e207wfp is 1680x1050 and that's the highest res it will display.  </s>
+<s> sounds like you've got a desktop panning feature turned on either via your graphics card or some 3rd party add-on.  </s>
+<s> to find out how to set the resolution required by the wide screen monitors.  </s>
+<s> usually its not in the standard lineup, however they provide a procedure on how to revise the driver setting.  </s>

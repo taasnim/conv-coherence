@@ -1,0 +1,32 @@
+<s> hi ok, sorry if this is in the wrong section, im new here.  </s>
+<s> today i bought myself a macbook pro (running version 10.6) and have had trouble with my connection.  </s>
+<s> my router is a wrt54 gs ver.6, i have had it around a year.  </s>
+<s> i have a ps3, xbox, 2 wired windows pc and a windows laptop all connectiong to it, (windows xp) without any problems.  </s>
+<s> i plug the macbook in via an ethernet cable and it recognises it but cannot connect.  </s>
+<s> i have an unprotected belkin router near my house which the macbook can connect to with ease.  </s>
+<s> any ideas on why my macbook wont connect with the linksys, if you need further information just ask.  </s>
+<s> thanks jk.  </s>
+<s> normally this is just a question of plugging it in an moving on.  </s>
+<s> when you say that the macbook recognizes it, what do you mean?  </s>
+<s> does the mb have an ip address that starts with 192 or 169?  </s>
+<s> (169 is not good) after not being able to load a page, does safari display the network diagnostics button?  </s>
+<s> if so, what happens when you proceed with the diagnostics?  </s>
+<s> p  </s>
+<s> ok, my mackbook recognises my router, so that i can enter its wpa personal encryption key. it accepts the key althought still wont connect to the internet.  </s>
+<s> the status of &quot;airport&quot; in the network diagnostic is yellow, and underneath it says &quot;no ip address&quot;.  </s>
+<s> it has something to do with my router because my macbook can connect to a belkin router nearby.  </s>
+<s> i have tried turning the firewall and airport on and off but no luck.  </s>
+<s> im also sitting right next to my router.  </s>
+<s> &quot;after not being able to load a page, does safari display the network diagnostics button?&quot;  </s>
+<s> yes it displays that and says it cannot fix the current networking problem.  </s>
+<s> my ip address now does actually say 169.  </s>
+<s> how do you change this?  </s>
+<s> the 169 ip address is a self assigned one. the computer does that because it is not getting one from the router.  </s>
+<s> turn off any wireless encryption, on the router, make sure that airport is expecting an address via dhcp and reboot the mac.  </s>
+<s> p  </s>
+<s> i can't resist this - i am in between eye surgeries, so i miss a couple of things now and then.  </s>
+<s> usually it is humorous.  </s>
+<s> when i read your post question and got to the line that reads, &quot;i am also sitting next to my router,&quot; i read it as, &quot;i am also sitting next to my mother!&quot; so, ask her!  </s>
+<s> did you restart the computer after the ethernet cable was connected?  </s>
+<s> did you try to change the port on the router for the ethernet cable?  </s>
+<s> i hope your router can run g/n protocol, or n. you might like to see that it is not just b or g in the settings.  </s>

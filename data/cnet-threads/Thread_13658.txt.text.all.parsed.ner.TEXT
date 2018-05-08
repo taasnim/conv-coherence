@@ -1,0 +1,116 @@
+<s> i was in the process of getting my pc ready for an xp-home re-installation in order to clean up some things on my computer.  </s>
+<s> i have a large capacity slave drive (160 gb)that i previously partitioned into a 130 and a 30 gb drive.  </s>
+<s> i moved all of my data files from my primary c drive to the 130gb partition of the slave and i was just doing some other things to get ready for the process.  </s>
+<s> i'm not exactly sure when it happened but all of a sudden my computer was unable to view any of the files on that partition of the slave drive. the 30 gb partition of the same drive is apparently unaffected.  </s>
+<s> in a windows explorer window when i click on the drive letter of the problem drive, a window opens asking me if i want to format this drive and that it is not formatted.  </s>
+<s> of course i do not do it but i have all my files backed up there and i don't know how to retrieve them.  </s>
+<s> some other things i recall doing in the process of getting ready for a re-install were: upgrading the system bios (dell dimension 450 pc), unsuccessfully trying to install norton ghost to make a disk image, and just a bunch of files tranfered from c drive to slave partition.  </s>
+<s> i need some help here.  </s>
+<s> after i couldn't get the drive accessed, i unplugged all my hardware and re-installed xp on the c drive.  </s>
+<s> all my stuff is on the slave backup though.  </s>
+<s> with the new xp operating system installed, i re-plugged the slave and unfortunately the same symptoms occurred.  </s>
+<s> any advise would be appreciated.  </s>
+<s> thanks  </s>
+<s> i have seen windows install an generic driver for hard disk controllers that does not recognize large hd's.  </s>
+<s> download the latest driver for your hd controller from your website and install it.  </s>
+<s> if this is a homebuilt machine, download the driver from the motherboard mfg.  </s>
+<s> if the controller is a pci add-in card, download the driver from the card's website. the description of the driver should say something to the effect that it supports large hard disks or 48-bit lba.  </s>
+<s> for troubleshooting in this forum please provide the following: - computer make & model - does the drive data cable connect directly to the motherboard or to a pci card?  </s>
+<s> - if a pci card, what is the name of the card?  </s>
+<s> (look in device manager under scsi & raid controllers.)  </s>
+<s> &quot;i have seen windows install an generic driver for hard disk controllers that does not recognize large hd's.  </s>
+<s> download the latest driver for your hd controller from your website and install it.&quot; should be: i have seen windows install an generic driver for hard disk controllers that does not recognize large partitions.  </s>
+<s> download the latest driver for your hd controller from your computer mfg's website and install it.  </s>
+<s> this information was not helpful to my situation - can anyone else give my problem a shot?  </s>
+<s> thanks  </s>
+<s> xp (you noted xp, not xp sp1 or xp sp2) will not recognise a drive over 127gb and it's partitions.  </s>
+<s> if you have xp sp1 or xp sp2, it was not noted.  </s>
+<s> offers a cure.  </s>
+<s> bob  </s>
+<s> did you try to install the latest hd controller driver as i suggested?  </s>
+<s> when you update the system bios, it often necessitates the installation of updated/new device drivers.  </s>
+<s> this is what sometimes happens--when the bios changes, windows will install a generic driver because the old one no longer works. the problem lies in that the generic windows driver sometimes will not address the issue of 48-bit lba, as noted by the post by r. proffitt.  </s>
+<s> i had assumed you were using at least xp (sp1) because you had the drive working before.  </s>
+<s> some fall into a pit by doing this.  </s>
+<s> 1. install xp. their cd is xp. nothing more.  </s>
+<s> 2. install sp1 or later.  </s>
+<s> 3. add a drive, use it and then... 4. wipe the os and forget sp1 to regain access to the other drive.  </s>
+<s> 5. to seal the second drive's fate they often try disk repair tools before they install sp1 because &quot;they are looking to recover the data first.&quot;  </s>
+<s> bob  </s>
+<s> i had the large hard drive problem once with xp (no sp1).  </s>
+<s> another time i had the problem when i installed windows on a drive from an xp (sp2) disk.  </s>
+<s> i had a secondary 250gb pata drive (not the boot partition) on a promise ulrta 100tx2 controller card.  </s>
+<s> after the windows xp (sp2) installation, windows didn't recognize the secodary drive as being formatted and storing files and asked i if i wanted to format it.  </s>
+<s> i knew the firmware version on the controller card supported 48-bit lba, but the driver that windows installed for the controller card didn't allow the card to recognize the large hard drives properly.  </s>
+<s> i ended up downloading and installing a driver from promise to solve the problem.  </s>
+<s> does that mean the slave drive in that scenario will never be able to be used above 130gb, or it could, but only after partitioning that 130gb+ partition into smaller partitions or formatting it?  </s>
+<s> you could install sp1 or sp2 to enable xp to support such a large drive.  </s>
+<s> your choice here.  </s>
+<s> bob  </s>
+<s> okay everyone say it &quot;bob proffit is my computer guru hero!&quot; props on that answer bob, you always stay a step ahead of me, just when i think &quot;hey i know what the problem is there&quot; i scroll down, and sure enough, r.proffit r.proffit r.proffit.  </s>
+<s> i just thought someone should try to make you laugh today.  </s>
+<s> that my pager didn't work one day.  </s>
+<s> i took it in and the fellow looked at it, opened it, flipped the battery over and handed it back.  </s>
+<s> bob  </s>
+<s> i you review my original post, i said that the drive was not recognized prior to my re-installation of the os (which is xp-home sp2). the drive was working fine right up until i did the bios upgrade and some other minor software things.  </s>
+<s> so if someone can link the bios upgrade to my problems then that is where i could use some help.  </s>
+<s> please detail some solutions in that direction. is it possible to remove the bios upgrade and revert back to the previous one installed?  </s>
+<s> i'm kicking myself for doing that in the first place.  </s>
+<s> thanks for the replies so far though.  </s>
+<s> keep them coming.  </s>
+<s> if you can download an older bios file, just reinstall that.  </s>
+<s> however, i would try to keep the new bios, as it probably fixes some bugs in older versions and adds capabilities.  </s>
+<s> please clarify the following: how many total physical hard drives do you have in this computer?  </s>
+<s> how many logical partitions and on what physical drive do they reside?  </s>
+<s> where are all the drives located?  </s>
+<s> motherboard primary ide master motherboard primary ide slave motherboard secondary ide master motherboard secondary ide master pci ide controller card primary master pci ide controller card primary slave pci ide controller card secondary master pci ide controller card secondary slave other?  </s>
+<s> what are the names of your hd controllers?  </s>
+<s> what is the name and version of the hd controller driver?  </s>
+<s> i have had your same exact problem.  </s>
+<s> my solution involved uninstalling the hd controller driver and installing a different one.  </s>
+<s> you might be able to resolve this problem by downloading and reinstalling the latest ide controller/chipset driver from the computer mfg.  </s>
+<s> if this is a homebuilt system, get it from your motherboard mfg.  </s>
+<s> drivers sometimes have to be reinstalled after a bios update.  </s>
+<s> where are all the drives located?. .  </s>
+<s> .  </s>
+<s> motherboard primary ide master (c:)winxp-sp2 motherboard secondary ide slave (partitioned to d: and e: 130gb and 30gb respectively) 30 gb e: partition works fine the pc is a dell dimension desktop xps 450 where can i find the names of my hd controllers and the name and version of the hd controller drivers?  </s>
+<s> i think this is correct: i went to my computer - device manager - ide ati/atapi controllers - in this there were three listings: -intel ata storage controller -primary ide channel -secondary ide channel (i also saw each hdd listed in device manager with their own set of properties and drivers but i continued to look at the ide controllers as you are suggesting) i clicked on the properties of each channel and then the ''driver'' tab.  </s>
+<s> i assume that the secondary ide channel is the affected one. is this a correct assumption?  </s>
+<s> should i be doing something here?  </s>
+<s> update, uninstall?  </s>
+<s> i wish that i tried this before reinstalling the xp operating system because i might have been able to select ''roll back driver'' but now that i have obliterated the last os, there will be no record of the previous driver.  </s>
+<s> if i uninstall - i'm thinking windows will try to locate the updated driver on next reboot - or maybe i should just click update and my guess is that win will search the web for an updated driver.  </s>
+<s> however, i have not installed web access on that computer yet - i have been waiting to get this drive functioning properly before making any more changes.  </s>
+<s> since i have the cd with win xp - sp2, will windows use that to search for an updated driver for this ide controller.  </s>
+<s> go to dell.com and find all the drivers for your model here: download the ata driver for your model.  </s>
+<s> there may not be an ata or driver listed, so you will have to download the chipset driver.  </s>
+<s> if the downloaded file is a self installing executable file (.exe), just run that.  </s>
+<s> if the downloaded file is the actual driver file, try to update the driver through the particular device in the device manager.  </s>
+<s> any luck?  </s>
+<s> here is what dell offers for my system - no ata driver or chipset driver listed: audio drivers altec lansing altec lansing ada 885 harman kardon 695 high end speaker voyetra turtle beach 64 voice montego ii communication drivers 3com usr 56k python controller modem conexant gvc data fax voice v.90 modem dell truemobile 1150 series rg1000 (wireless base station/residential gateway) diagnostic utilities dell 32 bit diagnostics display devices dell 1503fp dell 1702fp dell 1900fp dell e772p dell m782 dell m992 dell p1130 dell p792 dell p992 dell w2600 lcd tv flashbios updates dell dimension system bios network drivers 3com hpna pci internal nic dell truemobile 1150 series pc card dell truemobile 1150 series rg1000 (wireless base station/residential gateway) patches and fixes dell patches and fixes (cross lob) printer drivers dell photo printer 540 removable media storage devices samsung sm-308b 8x combo drive scsi drives quantum atlas 10k scsi hard disk drive system and configuration utilities dell zztop utilities  </s>
+<s> i do apprecitate the help that people are trying to offer here.  </s>
+<s> however, i have a feeling that the controllers are not what is causing my problems.  </s>
+<s> if the controller was not working properly, why would the second partition on the hard drive in question work perfectly fine? the driver for the controllers was from the xp service pack 2 from when i reinstalled the os. i don't see how that could be affecting things since the drive was working fine before.  </s>
+<s> this brings me back to the possible cause being the flash bios upgrade that i downloaded from dell.  </s>
+<s> there's no way i'm going to get anywhere trying dell technical support.  </s>
+<s> i wish i could revert to my previous bios but i don't know how to do that.  </s>
+<s> (don't think it's possible) this really sucks.  </s>
+<s> i need to get a lot of stuff off that drive and it's driving me crazy - no pun intended!  </s>
+<s> i looked over the list and see a scsi drive?  </s>
+<s> frankly these are usually &quot;expert&quot; systems which the owner has a backup to fall back on.  </s>
+<s> where's the backup and backup plan?  </s>
+<s> there is a post by toni about data recovery.  </s>
+<s> be sure to look for it with the search.  </s>
+<s> bob  </s>
+<s> i have had the misfortunate that my inspiron 600 m mother board died.  </s>
+<s> as usual dell ordered the part and whhen they did get to service provider &quot; nantech&quot;, we had to beg for next day service. the tech said he had no time till the week after&quot; sevice contacts stipultes next day service&quot; needless to say, we manged to get the tech to our facility to replace the mother board, which turned out to be defective.  </s>
+<s> we had to start from the beggining and that were hell broken down.  </s>
+<s> calls to tech support often routed over seas to india, the phillipines and panama, before one could get an answer from the usa.  </s>
+<s> although dell shipped the parts, it took 3 days to get the service.  </s>
+<s> we have relied on dell for 15 years as a soul pc supplier but no more.  </s>
+<s> this is because: 1.tech staff at dell do not have much to say to service providers 2. service providers &quot;outsourced&quot; extremely un-professional and lack ethics.  </s>
+<s> 3. next day service coudl extends to 3- 5 days service and one has no power to affect that.  </s>
+<s> dell has been least repsonsive.  </s>
+<s> 4. dell quality and workmanship is not what it used to be.  </s>
+<s> do not listen to the reviewers 5. last, i do not want to call a company where who ever handles calls reads from a page before you could even talk to them.  </s>
+<s> dell sucks big time!  </s>

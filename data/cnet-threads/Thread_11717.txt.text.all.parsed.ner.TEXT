@@ -1,0 +1,38 @@
+<s> i'm currently using a ibm thinkpad t30, with the &quot;cisco sytems pci wireless lan adapter,&quot; windows xp sp2.  </s>
+<s> my problem is that whenever i move my laptop the wireless will drop: i get the message, &quot;limited or no connection.&quot; it can be a distance of only about 1 foot, but will definitely occur if i change rooms.  </s>
+<s> i have to use the repair function every time this happens.  </s>
+<s> after repairing, the laptop's internet will reconnect and will work again-- until i move it.  </s>
+<s> this is very inconvenient and i don't know what's causing it. the drivers are updated and the wireless connection is managed through windows.  </s>
+<s> the signal strength from my router is also strong throughout the house.  </s>
+<s> any help on how to maintain my wireless connection as i move about?  </s>
+<s> house?  </s>
+<s> where you router or access point is located could make a big difference.  </s>
+<s> you could try moving it.  </s>
+<s> next, change it's broadcast channel.  </s>
+<s> since the t-30 is an older model, i wonder if you're using wireless &quot;a&quot; as these don't have the range of b/g.  </s>
+<s> thanks for replying!  </s>
+<s> i don't think it has to do with the location of the router-- i can be sitting right next to it and move my computer off of my lap and it will go into limited-connection mode.  </s>
+<s> other laptops in the house don't have this problem either.  </s>
+<s> i'm on channel 6 because other houses are on 1 and 10. how can i check if my laptop is on &quot;a&quot; like you said?  </s>
+<s> the router is set to &quot;11b/11g standard&quot; mode. the only other option on the router is &quot;g enhanced&quot; which i don't think is what i'm looking for.  </s>
+<s> you didn't mention you had other laptops that didn't exhibit this issue.  </s>
+<s> i could think you might have an antenna connection problem within the laptop. the wiring generally stretches from the pci board up into the display.  </s>
+<s> this means it flexes when you open and close the laptop and these wires break.  </s>
+<s> as well, sometimes the plug/jack connection on the wifi adapter isn't the greatest.  </s>
+<s> since laptops move and flex, any mechanical connection can become intermittent.  </s>
+<s> your moving the laptop could cause a momentary signal loss requiring it to reconnect.  </s>
+<s> now, if your router is b/g, your laptop runs in one of these modes so &quot;a&quot; isn't in the picture.  </s>
+<s> then are you suggesting that the only solution is to replace the hardware?  </s>
+<s> the connection is very stable when the computer is stationary, and continues to work again after using 'repair'.  </s>
+<s> because of this, i was wondering if there's a software issue where the computer or wireless card doesn't manage to automatically update its connection after a shift in location, resulting in me having to do it manually.  </s>
+<s> is there anything that i can check on to confirm with the problem is?  </s>
+<s> such as opening the laptop etc.  </s>
+<s> instead of doing the repair, just turn it off and back on to see if it reconnects.  </s>
+<s> it might be the repair you are doing isn't really the cure.  </s>
+<s> if this happens only with one laptop and you have others that work fine, i'd focus on that laptop first.  </s>
+<s> there's no button or shortcut on the t30 to turn on/off the wireless.  </s>
+<s> i can only disable it through hardware devices.  </s>
+<s> instead of doing the connection repair.  </s>
+<s> another thing you might try is to see if moving the laptop in such a way that flexing is minimized.  </s>
+<s> put it on a cart and transport it slowly.  </s>
+<s> you need to isolate the root cause and if it's an antenna dropout due to a broken wire or poor connection, this might help verify that.  </s>

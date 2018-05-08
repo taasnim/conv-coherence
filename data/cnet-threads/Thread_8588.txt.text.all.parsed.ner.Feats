@@ -1,0 +1,17 @@
+                                 WINDOWS 0 0 0 0 0 1 0 0 0
+                                   DRIVE 0 0 0 0 0 1 0 0 0
+                                   THERE 0 0 0 0 0 0 1 0 1
+                                ANYTHING 0 0 0 0 0 1 0 1 1
+                                  SYSTEM 0 1 0 0 0 1 0 1 1
+                                    NAME 0 0 0 0 0 1 0 1 1
+                                   CABLE 0 0 0 0 0 1 0 1 1
+                                    .... 0 0 0 0 0 0 1 1 1
+                                PROGRAMS 0 1 0 0 0 1 0 1 1
+                                   SLAVE 0 0 0 0 0 0 0 1 1
+                                  MASTER 0 0 0 0 0 1 0 1 1
+                                EXPLORER 0 0 0 0 0 1 0 1 1
+                                  FORMAT 0 1 0 0 0 1 0 0 1
+                                   HERES 0 0 1 0 0 0 0 0 1
+                                    TONI 0 0 1 0 0 0 0 0 1
+                                  COMPAQ 0 0 1 0 0 1 0 0 0
+                                PRESARIO 0 0 0 0 0 0 0 0 0

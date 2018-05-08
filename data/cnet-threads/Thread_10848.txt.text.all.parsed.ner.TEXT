@@ -1,0 +1,21 @@
+<s> my home wireless network uses a netgear dg834g modem/router, and my two desktops and a laptop all plug away on the internet perfectly.  </s>
+<s> however, they now cannot see each other, or the shared printer.  </s>
+<s> i have been into the router's properties and setup, but cannot identify a reason for this.  </s>
+<s> i am thinking there may be a winxp service turned off on the computer systems.  </s>
+<s> all drives are set up with the sharing hand icon under them, and the printer is set up to share.  </s>
+<s> at this stage i would like a definitive list of which of the services need to be running for the xp machines to see each other and trade files, please.  </s>
+<s> i cant work it out at the moment.  </s>
+<s> do you have the xp firewall on?  </s>
+<s> if you do, you'll have to allow the computers access each other.  </s>
+<s> all three computers run xp firewall, and on each one the file and printer sharing tickbox is enabled.  </s>
+<s> i am at a loss as to what to do next.  </s>
+<s> i am aware that the individual computers need to communicate via the modem/router, and tcp/ip is enabled on each.  </s>
+<s> few do.  </s>
+<s> if you don't allow the traffic you can't share.  </s>
+<s> bob  </s>
+<s> i have all the firewall exceptions set to allow file and printer sharing, but still cannot see other computers in this wireless home network of three.  </s>
+<s> i am convinced that the problem has something to do with which xp services are enabled, although i was advised that netbios was not required, only tcp/ip.  </s>
+<s> i have read the comments ridiculing the endeavours of some users in this forum who are attempting to tune a wireless network, and that rather puts me in the same boat, i fear.  </s>
+<s> in order is they need to unshare the share and reshare.  </s>
+<s> someday i hope they fix that issue.  </s>
+<s> bob  </s>

@@ -1,0 +1,23 @@
+<s> hello, i have a three year old [window me] hewlett packard that has had continous pnp problems.  </s>
+<s> sound, printer, keyboard, monitor display, etc. as well as memory problems and on and on.  </s>
+<s> at any rate, the tower was bumped {not hard) and since that time niether the mouse or keyboard worked. the mouse had an adapter which allowed me to plug it in another socket but not so with the keyboard.diagnostics  </s>
+<s> claim the ports are ok and no retoring helps. the bios is messed up but not enough to account for my problems. the biosman suggests i load xp which i have but with only the onscreen keyboard i can't load it.  </s>
+<s> comp usa offered to install ports for free [30bucks for hardware] however when i brought they wanted 100bucks just to drop it off.  </s>
+<s> i'm getting a new system but would like to give this one to my son...ideas????  </s>
+<s> bumped? if just a bump look for an internal connection that may have come loose.  </s>
+<s> if that fails try a serial adapter?  </s>
+<s> do you have usb?  </s>
+<s> if not and you have a pci slot what about adding usb and upgrading to a usb keyboard and mouse?  </s>
+<s> they are cheap.  </s>
+<s> bios has problems, could be why you have so many problems with pnp.  </s>
+<s> consider replacing or flashing.  </s>
+<s> lots of good web stuff on how to do that.  </s>
+<s> it sounds to me that either the motherboard itself has a problem or your bios is corrupt.there are two avenues you can pursue since no amount of software,(such as installing xp),can fix a hardware problem.your  </s>
+<s> bios can indeed cause virtually every problem you have described.you  </s>
+<s> must find the model of the motherboard you have which is stamped on it somewhere.if  </s>
+<s> you still have your original literature on it you may find it there.once  </s>
+<s> you determine your motherboards model you can then go to their site and download an updated bios.most of the manufacturers have instructions on how to flash your bios to update it.choose the latest version.if  </s>
+<s> you don't feel comfortable trying to flash the bios,which cost nothing,you can actually purchase a new bios chip from biosworld that will come preprogrammed for 25.00.they  </s>
+<s> give detailed instructions on their web site on how to remove the chip and install the new one which really is fairly easy.if  </s>
+<s> you want to go all out you can replace the entire motherboard,processor and memory for around 150. to 200. and have virtually a new system.places that sell these parts are numerous on the internet and the procedure usually only takes a few hours even for newbies.if  </s>
+<s> you still have the same problems after the bios is flashed,which i would try first,i would look into a new motherboard and cpu.  </s>

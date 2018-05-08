@@ -1,0 +1,16 @@
+<s> i have an emachines t6536 and just bought an evga geforce 7300gt i followed the manual perfectly, (even disabled onboard video adapter), and when i plug the moniter into the new card, and start up my computer, i can hear it logging in (all the normal windows music and stuff) but the screan is blank!  </s>
+<s> if i plug the moniter into the onboard, it still works for some reason, and the screan has been loaded!  </s>
+<s> this is not the first time this has happened, (other video cards too, all nvidia) i just want to play the games that i bought this computer for.  </s>
+<s> send tips to bizsystm@inbox.com or post here  </s>
+<s> also i have new 680w psu, upgraded to 2gb ram, both work perfectly  </s>
+<s> reverify that the bios video port was disabled.  </s>
+<s> check the nvidia setting pgm.  </s>
+<s> for any selection of video ports or displays, swap if need be.  </s>
+<s> boot into safe mode and goto the device mgr.  </s>
+<s> and delete all reference of video ports/cards, exit out and shut down.  </s>
+<s> attach cable to new video card, reboot and enter the bios, reverify video port disabled, if correct ok, no, correct it, save and exit out.  </s>
+<s> allow it to continue booting, hopefully it sees new h/w and you proceed with install then or its a plain video connection, now start the install after finish of boot.  </s>
+<s> this all becomes a &quot;catch-22 situation&quot; if it keeps defaulting to build-in port, that a bios glitch, see if emachines has any new bios patches that may address this.  </s>
+<s> are you sure any extra video power plugs are attached on the video acrd itself(if required)?  </s>
+<s> tada -----willy  </s>
+<s> thank you ill try that but i know its not a problem of missing power cables because the fan is running  </s>

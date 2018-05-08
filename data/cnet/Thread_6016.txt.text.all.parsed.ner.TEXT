@@ -1,0 +1,12 @@
+<s> hello, i want to change the ssid on all my aps without it affecting the connected devices.  </s>
+<s> the users should possible not be affected with the connecttion to the wifi network.  </s>
+<s> how can i go about it?  </s>
+<s> since changing the ssid drops the network connection you can't push out a change to the machines.  </s>
+<s> let's say no. bob  </s>
+<s> if you actually change it you will drop.  </s>
+<s> some commercial ap have the ability to add multiple ssid to the same vlan.  </s>
+<s> you could then run in parallel for a while and tell your uses to use the new one and then remove the old.  </s>
+<s> a couple of brands of ap actually have a feature that allows you to not allow new sessions to a ssid but leave it active.  </s>
+<s> if and that's a big if i could have multiple ssid i could have my it staff push out the change to the new ssid and when enough time has passed (months?) then we could drop the old ssid.  </s>
+<s> great idea.  </s>
+<s> bob  </s>

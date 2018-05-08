@@ -1,0 +1,18 @@
+<s> i have a hp 8030 media center pc. i have a tv tuner card that can pick up hd signals.  </s>
+<s> windows media center doesn't manually scan for all the signal on the cable.  </s>
+<s> i know that the cable does have hd signals because my tv/hd scanned and pick up all the free hd signals.  </s>
+<s> does anybody know how i can get the most out of my tv tuner card?  </s>
+<s> check if your tv tuner card supports qam.  </s>
+<s> qam is different than over-the-air digital.  </s>
+<s> without it, you won't be able to get any of the clear/free hd channels from your cable company.  </s>
+<s> do you know which tv tuner cards i am looking for.  </s>
+<s> it is not that easy to find a card for my pc.  </s>
+<s> here's a review of myhd and dvico: hauppauge recently added qam support to the wintv hvr-1600 but i don't think the qam feature is available to windows media center:  </s>
+<s> i have the update and the necessary card (the right product number).  </s>
+<s> i searched through all the the &quot;qam&quot; or whatnot, and i'm able to view a handful of hd broadcasts by connecting my cable to the atsc input, having installed the proper updates.  </s>
+<s> my problem isnt that i cant view the beautiful content, but its that i cant set my pvr to record them.  </s>
+<s> when i do, they seem to record, take up an enormous amount of disk space, but they dont seem to work.  </s>
+<s> i get audio when i play them back on some mpeg editors (the setting is that it only records on &quot;dvd quality&quot; 2048 bytes/sec and i cant change that, and the recording do not play back through windows media center or player).  </s>
+<s> i run vista on a brand new quad core machine.  </s>
+<s> its a &quot;stock&quot; hp m8120n with a ge force lite or le or something 128 video card.  </s>
+<s> do i need to upgrade my video card to be able to handle so much raw data?  </s>

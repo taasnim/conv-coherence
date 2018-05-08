@@ -1,0 +1,45 @@
+<s> i am using windows xp p4 2ghz 736 ram.  </s>
+<s> i purchased a usb 2 external enclosure and put an old 10gig hard dive in it.(  </s>
+<s> i want to image my current hard drive and to do that i must plug it directly into usb on computer.. ) i plugged it into a hub which i forgot was usb 1 and windows found hard drive and told me i was plugging high speed drive into low speed port and to unplugg it and plug it into on of 4 high speed ports listed.  </s>
+<s> ( the enclosure operates perfectly when plugged into the hub, i can read and write to the drive).  </s>
+<s> when i plug enclosure directly into usb port on the computer xp does not find it.  </s>
+<s> i have unplugged hub and used same port.  </s>
+<s> i only have two ports on computer even though xp says i have 4. (maybe two more in case?) i have used system restore, uninstalled hub, etc. when i plug in hub xp find hub no problem but not the enclosure.  </s>
+<s> i am lost.. can anyone please help?? thanks  </s>
+<s> fielded a few questions on this one.  </s>
+<s> turned out the xp was not patched up to what microsoft was offering (sp1 and such.) the issue of motherboard drivers is also an issue.  </s>
+<s> many still rely on microsoft.  </s>
+<s> but without knowing what motherboard you have, i can't tell if such is needed.  </s>
+<s> in short, things may just need: a. windows update to latest.  </s>
+<s> b. motherboard drivers (sorry, can't tell with your supplied info.) bob  </s>
+<s> motherboard is ecs p4vxasd2+ .  </s>
+<s> i think i have all pertinent windows updates.  </s>
+<s> scanner plugged into other usb on back of computer works.  </s>
+<s> &quot;motherboard is ecs p4vxasd2+ .  </s>
+<s> i think i have all pertinent windows updates.  </s>
+<s> scanner plugged into other usb on back of computer works.&quot;  </s>
+<s> reveals this is a via based board.  </s>
+<s> while usb 1.1 fuctionality is working, you may need to install the via or usb 2.0 drivers that ecs or via supplies.  </s>
+<s> many are not aware that microsoft will, most of the time get the machine to the point to install the rest of the drivers, but final touches are left to the os installer.  </s>
+<s> has notes about this.  </s>
+<s> bob  </s>
+<s> i installed viausb 2 drivers, (could not find any at ecs).uninstalled usb in safe mode, they reinstalled etc. still no change.  </s>
+<s> any more ideas? the computer knows it is a usb 2 device when i plug it into the hub so even if port was usb 1 it should still find it and give same message, right?  </s>
+<s> why would port find hub and not the enclosure?? i do not understand.  </s>
+<s> &quot;why would port find hub and not the enclosure?? i do not understand.&quot; i vaguely understand since the hub eats a bit here or there and it's not the same device at the end of the chain now.  </s>
+<s> have you read the usbman via article?  </s>
+<s> bob  </s>
+<s> i installed viausb 2 drivers, (could not find any at ecs).uninstalled usb in safe mode, they reinstalled etc. still no change.  </s>
+<s> any more ideas? the computer knows it is a usb 2 device when i plug it into the hub so even if port was usb 1 it should still find it and give same message, right?  </s>
+<s> why would port find hub and not the enclosure?? i do not understand.  </s>
+<s> 1. usb 2.0 drivers are not supplied by microsoft due to license issues.  </s>
+<s> you seem to have fallen into this trap.  </s>
+<s> 2. &quot;cleanup device manager while in safe mode fragments list.s.cnet pre_process.sh  </s>
+<s> threads ghost devices can cause untold usb problems.&quot;  </s>
+<s> follow its advice.  </s>
+<s> sorry to read your posting, but it seems to be a lesson too often repeated.  </s>
+<s> bob  </s>
+<s> yes i've been looking at usbman, that's why i deleted in safe mode and checked irq's , which were ok. i can not find any pertinent bios upgrades(they say to check release notes before installing.)  </s>
+<s> at the bitter end of the guide is where the advice is to just install a pci usb card.  </s>
+<s> i bail out fast on that in the shop and office since those cards are 10 bucks and service costs more than that.  </s>
+<s> bob  </s>

@@ -1,0 +1,54 @@
+<s> i'm running a dual-boot setup with windows xp and windows vista home premium and i've gone and put all my documents, music, pictures, and other garbage onto my external hard drive to put it in an easily accessible common location.  </s>
+<s> now under windows xp, it works perfectly just as it should.  </s>
+<s> in and out of standby, running for days on end, it just works perfectly.  </s>
+<s> however, under windows vista, it'll work just fine to start, but it seems that at a certain point, whether it's going into and out of standby or whatever, it'll start up for a brief moment and then spin down again, so when i need something from the drive, it needs to spin up again.  </s>
+<s> i've even set turn off hard disks in the power options to &quot;never&quot; and it still idles itself.  </s>
+<s> is there anything i haven't though of to solve this problem?  </s>
+<s> relevant specs?  </s>
+<s> pentium 4 521 2 gb ddr2-667 2x 80 gb 7200 rpm raid 0 x550 graphics intel d 945g chipset  </s>
+<s> ms never took to firewire for storage.  </s>
+<s> yes, go ahead and tell me it seems to work but the brutal advice i can offer here is... windows?  </s>
+<s> use usb.  </s>
+<s> apple?  </s>
+<s> firewire.  </s>
+<s> linux?  </s>
+<s> your choice.  </s>
+<s> if you truly believe it should work, be sure to talk to the machine makers and of course those is redmond.  </s>
+<s> my advice is to not use firewire on windows for hard disks because too many bring me them to try and recover their files.  </s>
+<s> bob  </s>
+<s> vista is broken!!!!! sorry to sound so callused, but vista is broken.  </s>
+<s> why anyone would use it is beyond me.  </s>
+<s> no, i don't have an answer except to remove vista.  </s>
+<s> it has failed on more computers from day one than any other operating system.  </s>
+<s> well, maybe not more than me.  </s>
+<s> can you honestly tell us why you are running vista?  </s>
+<s> honestly?  </s>
+<s> xp is not broken, it's tried and true, and everything works with it. it sounds like you're pretty computer literate.  </s>
+<s> and if so, why did you install vista, knowing, as you surely do, that vista has been pure hell.  </s>
+<s> just wondering.  </s>
+<s> because it's been really pretty usable for me.  </s>
+<s> i've had the few programs and a couple peripherals that don't like it all that much but other than that, with the stuff i use the absolute most, it actually works better, and i'm saying this honestly.  </s>
+<s> my startups are actually faster with vista than they are with xp, too.  </s>
+<s> i must have just lucked out.  </s>
+<s> other than this, of course.  </s>
+<s> (if you want to mention the betas of vista though, then you're right.  </s>
+<s> they were definitely not all together!)  </s>
+<s> i was able to get a hotfix straight from the source (microsoft) but so far, that hasn't exactly worked either.  </s>
+<s> for now, i'm going to just use the drive on usb, but if anybody can get this one figured out, let me know!  </s>
+<s> xp's got its issues, too.  </s>
+<s> hibernate has a tendency not to work properly with over 1 gb of ram for some reason.  </s>
+<s> this should be fixed in sp3, if it ever gets here!  </s>
+<s> remember that firewire was the connection of choice of a competitor.  </s>
+<s> this alone is part of the reason why it never got a big shakedown.  </s>
+<s> given the broken filesystems i've seen i can only share that &quot;it's not working&quot; and hope people can move to what does work.  </s>
+<s> bob  </s>
+<s> of course, then there's sony, who took the technology and rebranded it as their own, calling it i.link.  </s>
+<s> sony sold their own computers and they were all windows based.  </s>
+<s> for now, i'm just using the drive with usb until a real hotfix can be delivered.  </s>
+<s> i really prefer the firewire because it can be daisy chained with my scanner, and because when i put my system to sleep, it takes the drive with it.  </s>
+<s> less heat generated and less power used, especially during the summer months when you have no air conditioning.  </s>
+<s> when my desktop hibernates the usb drives spin down.  </s>
+<s> i'm using this case: bob  </s>
+<s> that's what i'm using.  </s>
+<s> so far, i've really liked it.  </s>
+<s> i'd probably get an esata enclosure, but i really don't feel like adding an external controller for it.  </s>

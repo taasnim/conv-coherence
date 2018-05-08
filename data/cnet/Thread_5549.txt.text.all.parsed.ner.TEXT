@@ -1,0 +1,51 @@
+<s> my wife wants wi-fi access to the internet and our two printers, but for security reasons i would prefer to not have my two desktops exposed to wi-fi access.  </s>
+<s> but i also want access to the internet and our two printers for my two desktops.  </s>
+<s> we only have one connection to the internet coming into our apartment and we can not add another. is it possible to configure such a system and make everyone happy and secure?  </s>
+<s> &quot; prefer to not have my two desktops exposed to wi-fi access.  </s>
+<s> &quot; do not enable sharing on these 2 desktops or any other &quot;server&quot; or &quot;service&quot;. also, install a firewall.  </s>
+<s> bob  </s>
+<s> it is not clear where the wireless access is situated in the network, but assuming you have an internet router with wifi, it is possible for someone to use your internet connection if you don't secure the network.  </s>
+<s> regardless of how you connect to the internet, you need to install a firewall on each computer.  </s>
+<s> zonealarm is one of the easier firewalls to use.  </s>
+<s> to prevent anyone making use of your internet connection (if you have limits or pay for the amount you use this could be critical) there are several things that you can do.  </s>
+<s> firstly, create a network name that is not likely to be guessed (ssid).  </s>
+<s> secondly, once you have tested your network, turn off the broadcast of your network name (ssid).  </s>
+<s> thirdly, make sure that you use the best encryption that your wireless network has to offer (on older modems this may be wep).  </s>
+<s> set the encryption strength as high as you can get it (128 bit if available).  </s>
+<s> use a key or passphrase that is complicated.  </s>
+<s> one way is to take the first line of a song and remove all the vowels, add a couple of @#~ in between the words.  </s>
+<s> finally, if you can, set up your wireless network so that only certain mac addresses can use the network.  </s>
+<s> a mac address is an identifier of the particular network card.  </s>
+<s> you can get the mac address (in windows nt and greater) of your network card by running 'ipconfig/all' from a command prompt and looking for your wireless network connection. the mac address is shown as the 'physical address'.  </s>
+<s> if you set up your wireless network so that it is extremely difficult for someone to make use of it, wireless poses a small risk over a hardwired network.  </s>
+<s> the real security issues are in configuring and firewalling the network as a whole.  </s>
+<s> make sure you have current firewalls, anti-virus and anti-spyware software on your computers.  </s>
+<s> run a full scan on each machine regularly.  </s>
+<s> he want his wife can not access his desktop, while still using the same internet and printer.  </s>
+<s> to access his other desktop for files etc. i guess what he want is two separate network using the same internet connection and printer.  </s>
+<s> maybe different ip range would do the job, don't you thing?  </s>
+<s> this response requires a little bit of time and effort but it gives you corporate-class security with soho usability.  </s>
+<s> this is what i did to separate the networks, have security, and still allow some parts of the networks to be able to communicate between eachother: 1) find an old machine.  </s>
+<s> this can be used to install m0n0wall on.  </s>
+<s> [ this is a very user friendly web-based firewall that is based on freebsd.  </s>
+<s> [don't be scared, it's very easy to use even if you're a non-bsd person] 2) either install a wifi pci card or connect a wireless access point to the m0n0wall.  </s>
+<s> this will take care of your wireless connectivity.  </s>
+<s> 3) configure the m0n0wall to use 2 different subnets.  </s>
+<s> [ie 10.0.0.0/24 and 10.1.1.0/24]for your lan and your wireless network and then restrict access between those networks using the rules wizard to only allow traffic from your wife's computer to the printers and whatever other communications you may need between the networks.  </s>
+<s> that should take care of the requirements.  </s>
+<s> security, wireless, and interconnectivity.  </s>
+<s> if you live in nys, you should look at captive portal functionality because here, it is legal to use any wap unless there is a huge warning before hand.  </s>
+<s> hope this puts you into the right direction.  </s>
+<s> cheers ~tree  </s>
+<s> i agree that the best way to protect the internal network is to put a real firewall with different segments allowing only known traffic between the segments.  </s>
+<s> one of the easier(free) firewalls to set up (linux based but transparent to the user) is ipcop - download the iso, cut a cd and boot the spare machine from the cd to install.  </s>
+<s> i haven't tried monowall but i imagine it is similar. the problem with any real firewall is the skill level needed to set it up.  </s>
+<s> i worked in a large corporate it organisation for 19 years and found the average user has no clue about tcp/ip and security.  </s>
+<s> the other problem is that most wireless internet solutions have a wireless access point built into the router.  </s>
+<s> this means that although you firewall behind the access point, the wireless access point itself may be open to abuse (even though your internal machines are safe).  </s>
+<s> this could be a costly exercise if someone uses your wireless access point to get a free connection to the internet(depending on whether you pay for excess bandwidth or not) or could cause your connection to slow down because someone has sucked your bandwidth allocation.  </s>
+<s> when i set up my wireless network, i immediately picked up several usable connections in my neighborhood.  </s>
+<s> in general, people do not either understand or underestimate the implications of security.  </s>
+<s> my attitude to network security at home is to only turn on my router when i need to use the internet and only activate my wireless connection when i need to use it.  </s>
+<s> that at least limits any hacking attempt to the same time as when i am using the connection.  </s>
+<s> leaving a connection on 24/7 allows a hacker a larger window of opportunity (i actually unplug my line to the splitter - also protects my router from lightning).  </s>

@@ -1,0 +1,35 @@
+<s> been getting this error message for a while now - at first i put it down to dirty or scratched cd's, however i now notice that it is also giving the same response to my e drive (both asus drives, one dvd rom, one cd rw) and also to my floppy a drive.  </s>
+<s> to my knowlede the only recent update to my computer is the upgrading to the latest norton systemworks.  </s>
+<s> very annoying so any help will be greatly appreciated.  </s>
+<s> col.  </s>
+<s> o/s - windows xp home (original installation, not upgrade from previous version) tried removing the driver and forcing an update but still got the problem - though this did fix it long enough for me to run a cleaning disk on the drive.  </s>
+<s> tried different types of disk as well and no format is recognised, (cd cdr cdrw and audio cd)  </s>
+<s> run the anti-bug suite courtesy of r proffitt:  </s>
+<s> ok, carried out all of the above but to no avail i'm affraid - although ad-aware finds 54 items but then crashes b4 it does anything about them.  </s>
+<s> gonna keep trying with that one after clearing the quarantine in spybot and see if that helps, but in the mean time any other suggestions would be appreciated.  </s>
+<s> thanks col.  </s>
+<s> didn't get round to delting the quarantine in spybot - all of a sudden the computer started to recognise the drives again without me doing anything extra.  </s>
+<s> i did try to roll back with system restore but got an error on that as soon as i opened it telling me that it could not protect my computer and to restart.  </s>
+<s> it seemed to be after this restart that it all worked again.  </s>
+<s> very odd!!!!  </s>
+<s> .  </s>
+<s> for anybody else who develops this strange bug - which, by the way, returned.  </s>
+<s> look at what you have recently installed - i totally forgot i had installed microsoft publisher, it was this program which caused the bug - delete the program - fix the bug.  </s>
+<s> only problem now is - i want the program - oh well - such is life!!!!  </s>
+<s> you sure the software/application isn't looking for media in that drive?  </s>
+<s> check what defaults you have set for publisher.  </s>
+<s> options / general.  </s>
+<s> just a thought.  </s>
+<s> problem returned, seems it wasnt microsoft publisher aftrer all.  </s>
+<s> the real reason, after much searching has turned out to be norton systemworks 2004!!!! apparently it has issues with any version of nero burning rom earlier than nero 6. as i only 5.5.9 this causes a conflict.  </s>
+<s> removed systemworks and no longer have the problem.  </s>
+<s> if you also have this problem then either upgrade to nero 6 or remove systemworks.  </s>
+<s> apparently no one is getting a response from the manufacturers of norton who are burying their heads in the proverbial sand on this problem with their software.  </s>
+<s> hope this helps anybody else with this issue and btw - cheapest place i have found for nero 6 is e-bay, worth a try.  </s>
+<s> after 5 versions (2000, 2001, 2002, 2003, and now 2004), the only reason i see for it is a cheap way to get nav (which looks like a misfire in 2004) and disk doctor. the rest can be done without.  </s>
+<s> reference the same bug continues on in most if not all versions.  </s>
+<s> symptoms are as following: you get a message a: is not accessible incorrect function when accessing the floppy drive and d: is not accessible incorrect function when accessing the cd drives in windows xp. if you boot with a floppy all hardware works great.  </s>
+<s> if you boot xp with a cd in the drive you are able to read that cd. the problem seems to be with nero burning rom.  </s>
+<s> (system also has norton system works 2004 on it.) i uninstalled the older oem version of nero and installed the newer oem version 5.5.10.53 and everything works great!  </s>
+<s> i really hope this helps someone as it took me a while to figure out what was going on.  </s>
+<s> good luck!  </s>

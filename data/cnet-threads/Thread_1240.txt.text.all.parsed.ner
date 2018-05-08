@@ -1,0 +1,5 @@
+(TOP (SQ (AUX does) (NP (NN anyone)) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VP (ADVP (RB completely)) (VB wipe) (NP (DT a) (JJ hard) (NN drive))) (CC and) (VP (VBG starting) (ADVP (RB anew)) (ADVP (RB again)))))))) (. ?)) )
+(TOP (S (VP (VB appreciate) (NP (DT the) (NN help)))) )
+(TOP (NP (NN utility) (. .)) )
+(TOP (S (NP (EX there)) (VP (AUX are) (NP (NP (JJ commercial) (NNS programs)) (PP (IN like) (FRAG (: ') (VP (VB wipe) (NP (NP (NN drive) (POS ')) (NNS ..))) (. .)) (NP (NNS vapcmd)))))) )
+(TOP (SINV (ADVP (RB here)) (VP (AUX 's)) (NP (NP (NP (DT the) (JJ free) (NN non-commercial)) (SBAR (WHNP (WP what)) (S (NP (JJ many)) (VP (VBP use) (NP (NNS -&gt)))))) (: ;) (NP (NNP bob)))) )

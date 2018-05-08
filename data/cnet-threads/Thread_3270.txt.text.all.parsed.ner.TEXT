@@ -1,0 +1,57 @@
+<s> so i recently found a great online deal for an asus cm6870 for the purpose of using as the base of a gaming rig.  </s>
+<s> i replaced the psu with a coolmax zu-900b to power my gtx580 gpu.  </s>
+<s> after testing 3 or 4 games, i launched skyrim with some graphic mods and the pc rebooted.  </s>
+<s> this happened within about 30 minutes of testing.  </s>
+<s> after trying the game again about 15 minutes later, i realized that the audio was playing very slowly and was pitch-shifted really low.  </s>
+<s> i also heard the fan blowing loudly, so i turned it off immediately. the back the case was painful to the touch.  </s>
+<s> here's some info that may be useful: - the case does not have a fan in the front.  </s>
+<s> - the psu did not initially align with the screw-holes in the current case until bending some guide-rails out of the way.  </s>
+<s> - the psu did not have direct connections for the video card but had some additional cables that connect manually via the psu's housing.  </s>
+<s> (i used common sense in using only connections that fit naturally) - the motherboard is pretty small (1 x16 pcie, 1 x1 pcie).  </s>
+<s> - the case has non-removable covers where additional slots would be.  </s>
+<s> (possibly restricting airflow) first off, did fry my gpu already?  </s>
+<s> and why is it overheating so quickly? is it the case? the psu? the motherboard?  </s>
+<s> could not having a front fan or any apparent frontal ventilation on the case lead to that quick of an overheat?  </s>
+<s> the whole idea of &quot;airflow&quot; is to exchange air from in to out, thus airflow. the exchange obviously replaces hot air for cool.  </s>
+<s> if you have some restrictive path or simply one that is block or not yet fully used, you need to make it happen.  </s>
+<s> best explained by visiting gaming websites to review pix of all those gaming rigs out there.  </s>
+<s> if you have no frt.  </s>
+<s> fan, then get one and mount as it should(empty space/mounting) and draw air, &quot;in&quot;.  </s>
+<s> better fans have an embossed &quot;arrow&quot; showing air direction or label/decal.  </s>
+<s> you mention, no side cover, well either that's a poor gaming rig or it wasn't for gaming in general.  </s>
+<s> now, you know why gaming rigs cost more, everything is geared to make it stay running longer, even the case.  </s>
+<s> what some users have done, make a &quot;blow hole&quot;, by cutting on side or top(or both) and mount a fan there.  </s>
+<s> it would appear the asus cm6870 is capable, so investigate what's what.  </s>
+<s> maybe a plate is blocking air, you have to remove it by flexing it off(knock-out?). better pc cases have the psu mounted on the bottom to better assist heat exchange as they too cause heat.  </s>
+<s> heat rises and its better exhausted by upper fans and all is expelled out.  </s>
+<s> also, if a filter is mounted at frt.  </s>
+<s> maybe remove it, as you need better airflow even unfiltered as demands are greater than can be supplied &quot;as is&quot;.  </s>
+<s> these are areas to look at, so they're suggestions and using common sense you may zero-in on problem area.  </s>
+<s> also, visit gaming websites.  </s>
+<s> gpu in general will run hot or at least uncomfortably so, but if too hot, they will stress out and worse, fail.  </s>
+<s> be sure that if the gpu is fan cooled it is working as well and clean.  </s>
+<s> tada -----willy  </s>
+<s> after trying the game again about 15 minutes later, i realized that the audio was playing very slowly and was pitch-shifted really low.  </s>
+<s> i also heard the fan blowing loudly, so i turned it off immediately. the back the case was painful to the touch.  </s>
+<s> question: which fan.....the cpu fan ? the gpu fan ?  </s>
+<s> or the psu fan ?  </s>
+<s> here's some info that may be useful: - the case does not have a fan in the front.  </s>
+<s> - the psu did not initially align with the screw-holes in the current case until bending some guide-rails out of the way.  </s>
+<s> - the psu did not have direct connections for the video card but had some additional cables that connect manually via the psu's housing.  </s>
+<s> (i used common sense in using only connections that fit naturally) - the motherboard is pretty small (1 x16 pcie, 1 x1 pcie).  </s>
+<s> - the case has non-removable covers where additional slots would be.  </s>
+<s> (possibly restricting airflow) question: have you tried running it with the case's side off ?  </s>
+<s> first off, did fry my gpu already?  </s>
+<s> and why is it overheating so quickly? is it the case? the psu? the motherboard?  </s>
+<s> could not having a front fan or any apparent frontal ventilation on the case lead to that quick of an overheat?  </s>
+<s> answer: fry gpu ....not way to tell.  </s>
+<s> try running system with case side off.  </s>
+<s> answer: overheating so quickly....almost anything and everything overheats when it cannot dissipate heat.  </s>
+<s> again, try running system with case side off.  </s>
+<s> question: how many power connectors from the psu are connected to the gpu and exactly which gtx580 (mfg/series/model #) do you have ?? suggestion: download,install, run and minimize pcwizard 2012 ...the system temps including the cpu, the gpu will remain on the screen....let us know what the temps are.  </s>
+<s> vapcmd  </s>
+<s> thanks a lot guys!  </s>
+<s> decided to go get a new case with an obscene amount of ventillation lol.  </s>
+<s> downloading cpuid to monitor my temps.  </s>
+<s> if i hit anymore snags, i'll add a new reply.  </s>
+<s> thanks again for the guidance!  </s>

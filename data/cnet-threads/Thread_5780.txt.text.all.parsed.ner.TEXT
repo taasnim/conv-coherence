@@ -1,0 +1,12 @@
+<s> i have an external usb/firewire hd installed.  </s>
+<s> if i leave my minicruz flash drive plugged in during a re-boot, windows (98se) changes the drive letter on my external hd. if i remove the flash drive, reboot, it corrects the problem. is there a way to lock the drive letter on the external hd so this stops happening?  </s>
+<s> did you assign it a drive letter?  </s>
+<s> your post didn't say.  </s>
+<s> bob  </s>
+<s> windows assigned the drive letter.  </s>
+<s> i went it and tried to assign a letter, but it was shaded and would permit me to change it.  </s>
+<s> dennis.  </s>
+<s> that can mean you installed a dos cd driver.  </s>
+<s> remark out such a drive in config.sys  </s>
+<s> bob  </s>
+<s> if you can't use the native methods, then read... bob  </s>

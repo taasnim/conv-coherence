@@ -1,0 +1,36 @@
+<s> i very recently purchased a new dell xps system and would like to add the hard drive from my old computer to the new one so i can keep my old files and for the extra hd space.  </s>
+<s> the new system is a dell xps400 with a 80gb hd and win xp media center. the old system is a dell dimension 8100 with a 20gb hd with win xp still installed.  </s>
+<s> my questions are: 1. do i need to uninstall the os on the old system before adding it to the new and how do i do this without formatting the drive?  </s>
+<s> 2. after adding the second hd to the new system, can i run the os off the older hd so that it is seperate from all my media and other files in case one drive ever crashed?  </s>
+<s> and how do i move those files?  </s>
+<s> or would this not be recommended?  </s>
+<s> if any more information is needed, please ask.  </s>
+<s> thanks!  </s>
+<s> 1. do i need to uninstall the os on the old system before adding it to the new and how do i do this without formatting the drive?  </s>
+<s> no. and thus don't need to know.  </s>
+<s> 2. after adding the second hd to the new system, can i run the os off the older hd so that it is seperate from all my media and other files in case one drive ever crashed?  </s>
+<s> sorry, windows does not support such. the os on the old drive will be non-operational.  </s>
+<s> however, i use a knoppix cd if i even need emergency boot and access.  </s>
+<s> (hint: google knoppix) 2a. and how do i move those files?  </s>
+<s> or would this not be recommended?  </s>
+<s> most will use explorer and drag the files to the new home.  </s>
+<s> bob  </s>
+<s> thanks but i think i was unclear about something.  </s>
+<s> &quot;2.  </s>
+<s> after adding the second hd to the new system, can i run the os off the older hd so that it is seperate from all my media and other files in case one drive ever crashed?  </s>
+<s> sorry, windows does not support such. the os on the old drive will be non-operational.&quot;  </s>
+<s> i mean that after i add the old hd to the new system, i will move my files to the new hd and format the old, then i would like to move and run os from the old hd.  </s>
+<s> sorry, but windows has many reasons why it will fail to run after such a move.  </s>
+<s> no fix is planned.  </s>
+<s> bob  </s>
+<s> thanks.  </s>
+<s> so i should be safe adding the 2nd hd, then moving my files and then formating the 2nd so i can use it for more space, correct?  </s>
+<s> where's the backup of the files you can't lose?  </s>
+<s> what if that hard disk fails during the move?  </s>
+<s> my important/critical files are backed up on 2 usb drives but i mostly just don't want to rip 1500 songs again from cd to my new system.  </s>
+<s> thanks for the help!  </s>
+<s> if you have your restore disk or os oem that came with your puter, you transfer all files you want to save from the old hd and then make it the master and the new one slave, you can use the os restore disk to make this 20 gig run just the os. i think that is what you wanted to know.  </s>
+<s> however, when i did the same with a compaq/hp the new hd was smaller than the old one and the restore disk formatted it to the smaller size.  </s>
+<s> i have not tried to go from a larger one to smaller one yet.  </s>
+<s> go for it.  </s>
+<s> if it does not work, you can change masters and no harm done.  </s>

@@ -1,0 +1,22 @@
+<s> my parents have an emachines desktop which was working fine until a couple weeks ago when windows xp started shutting down almost as soon as they turned it on.  </s>
+<s> sometimes it completes the startup and is on for a few minutes before it shuts down.  </s>
+<s> other times it starts shutting down before the startup is complete.  </s>
+<s> what's really bizarre is that it also started coming on by itself after being off for several days.  </s>
+<s> they had to unplug it to get it to stop booting up in the middle of the night.  </s>
+<s> anyone ever seen this problem before?  </s>
+<s> the first thing i do is remove the cover to see if the heatsinks are still where they belong and then i do the yearly dusting and cleaning.  </s>
+<s> bob  </s>
+<s> tried that, but it's still doing the same thing.  </s>
+<s> what would make a computer power on by itself?  </s>
+<s> it's not just in hybernation mode, the switch had been turned off when it came back on...  </s>
+<s> besides motherboard defects you can set many machines to power up at a specific time or by mouse or keyboard in the bios settings.  </s>
+<s> i'll let you research those settings.  </s>
+<s> bob  </s>
+<s> go in the bios section and verify &quot;no wake-up&quot; setting is enabled plus any power setting whatever they should be.  </s>
+<s> verify all bios setting and save regardless, if change or not before exiting.  </s>
+<s> next, i strongly believe the psu/power supply is going kaput. it has been compromised in some way and basically only a replacement will do.  </s>
+<s> if there is no surge protection, get some as possible outside ac line glitches can reek havoc on a pc's psu.  </s>
+<s> going on/off suggest a psu problem but as a bios offering wake-up can do the same on a remote level.  </s>
+<s> power spikes/surges, or lulls can be at fault too, so if experienced look for electrical pros to handle that side if need be.  </s>
+<s> i've seen these types of problems due to various causes and nothing can be taken for granted and its a hit-or-miss fix sometimes.  </s>
+<s> good luck tada -----willy  </s>

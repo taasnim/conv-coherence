@@ -1,0 +1,34 @@
+<s> i have recently finished clearing a friend's computer of literally thousands of viruses, trojans and assorted malware items.  </s>
+<s> everything now seems ok, except for the &quot;safely remove hardware&quot; icon ever present with occasional popups advising to connect the device to a usb2.0 port for better results.  </s>
+<s> what device?  </s>
+<s> there are none connected...even using ps/2 keyboard and mouse.  </s>
+<s> all usb ports are ok, except one in the pre-installed 9 in 1 card reader.  </s>
+<s> suspecting the icon problem could be caused by the card reader, i uninstalled then disconnected it.  </s>
+<s> on reboot, the icon had gone.  </s>
+<s> i then reconnected the reader and the icon reappeared.  </s>
+<s> all other components of the reader appear in my computer as removable storage devices and seem to be working ok. all except the usb port. the ever-present icon makes me think there could be a hardware prob in the reader, affecting only the usb port.  </s>
+<s> any thoughts would be very much appreciated.  </s>
+<s> system is hp pavilion a1525a, running windows xp media center edition and all peripherals were preinstalled and are exactly as per system specs.  </s>
+<s> i did update a couple of drivers which did not alter the situation.  </s>
+<s> device manager shows no drivers are needed.  </s>
+<s> this is cosmetic at this point.  </s>
+<s> focus on real issues.  </s>
+<s> does the pc have an internal card reader installed?  </s>
+<s> if it has, then this icon will always be shown, this is normal.  </s>
+<s> if there is anything connected to the motherboard usb ports like card readers, then the 'safely remove usb' icon will be there.  </s>
+<s> don't worry about it.  </s>
+<s> your card reader maybe a usb hub and will keep the icon on.  </s>
+<s> if you have a sata hard drive.  </s>
+<s> the windows os reads sata drives as a usb drive.  </s>
+<s> i have two sata drives and i had the same thing you are having.  </s>
+<s> right click on the icon and a popup window will tell you what is keeping the icon on.  </s>
+<s> in your post &quot; i uninstalled then disconncted it (card reader).  </s>
+<s> on reboot the icon had gone.  </s>
+<s> reconnected the reader and icon reappeared.&quot;  </s>
+<s> i think your reader is a usb hub.  </s>
+<s> the safely remove hardware icon is in my tray as well which serves as a safeguard re uploading photos to your computer.  </s>
+<s> when your uploads have finished, click on the safely remove hardware before removing your usb connection device and wait for a popup to inform you it is safe to remove the device.  </s>
+<s> in other words, it is an extra precaution well worth the little space it uses in your tray.  </s>
+<s> thanks guys...problem solved.  </s>
+<s> inserted a new 9 in 1 reader.  </s>
+<s> usb port works fine, no permanent icon in system tray and no frequent reminders about &quot;this device can operate faster, etc, etc...&quot;  </s>

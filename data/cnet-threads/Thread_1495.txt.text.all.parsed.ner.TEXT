@@ -1,0 +1,30 @@
+<s> shortly after my wife picked up a wirless sony viao laptop, and decided to share our comcast broadband with our kids (using aol dial-up), i picked up the standard linksys router (which is looped directly through my desktop in my office), and a linksys adapter for my kids computer two rooms away. the router is the g, four port, wrt54g.  </s>
+<s> after a week of wireless bliss (kids in seventh-heaven over no more dialup), the connection began to intermittently lose connectivity, then with &quot;repair, pick up again.  </s>
+<s> that lasted another week.  </s>
+<s> from that point on i was on the phone with linksys every three days, going through complex diagnostics, pinging left, right, and center.  </s>
+<s> each time they managed to get my kids puter back online...but it has become tedious.  </s>
+<s> it seems each tech has a different reasoning for why that adapter loses signal.  </s>
+<s> it's two rooms away, and no brick walls or other obvious impeding structures in the way.  </s>
+<s> i recently read in a pc magazine the glitch could be the 2.4ghz cordless phone, and fax/cordless phone in my office.  </s>
+<s> what do i do?  </s>
+<s> shoot out and replace everything with 5ghz communication equiptment...or is there a better router/adpter i can switch to??? any help is greatly appreciated.  </s>
+<s> ron kolman doonbiz@aol.com  </s>
+<s> the logic is when the cordless is off the base, it will transmit a signal... also when you don't use it anymore.. same logic apply... remove the battery..  </s>
+<s> the cordless phone could be your problem, but it doesn't sound like it to me.  </s>
+<s> try moving the phone on one side of your office computer, the router on the other.  </s>
+<s> see if that makes a difference (same for any cordless phone near the kid's computer).  </s>
+<s> i have heard that the proximity of the phone to the router (or adapter) can be a problem, though i didn't experience it myself.  </s>
+<s> if you seem to keep losing connections at a regular interval (like every 24, 48 hrs), then it would likely be your router's lease time settings for the internet connection.  </s>
+<s> presuming that you have a dynamic ip address for your cable modem (like my comcast connection), check your router's lease time.  </s>
+<s> either set it to never (if that is an option), or check for an option to have it auto-reconnect.  </s>
+<s> it could be at some interval close to when you usually have the connection drop on you.  </s>
+<s> if it doesn't auto reconnect, you lose connection, and have to restart the router.  </s>
+<s> if it is only the connection to the wireless adapter on the kid's computer, it could be simply having trouble getting a good signal.  </s>
+<s> that could be phone related, or due to other structures in the house (plumbing in walls, brick work, etc).  </s>
+<s> if the adapter on the kid's computer is a wireless usb adapter, see if they can move it farther away from the monitor or computer.  </s>
+<s> and change the orientation of the antenna.  </s>
+<s> that might help.  </s>
+<s> the last option would be to place the router in a more central location between the computers, or get an range extender.  </s>
+<s> i say check the lease time settings on the router first.  </s>
+<s> make sure it is either set to never, or check for the option to auto-reconnect.  </s>
+<s> good luck larry bell  </s>

@@ -1,0 +1,15 @@
+<s> this should be a fairly easy question i was just wondering if i buy a graphics card that is pci express 2.0 will it run in a standard pci express x 16 slot?  </s>
+<s> &quot;pcie 2.0 is backward and forward compatible with pcie v1.x. graphic cards and motherboards designed for v2.0 will be able to work with v1.1 and v1.0, and vice versa.  </s>
+<s> in some rare cases it is possible that a pci-e 2.0 card will not work correctly on a pci-e 1.0a slot.  </s>
+<s> this is only limited to certain video cards.&quot;  </s>
+<s> but since you declined specifics this is all that can be told.  </s>
+<s> well this seems to be what i was asking for i couldnt give much specifics because im looking a graphics cards and almost everyone that interested me was a 2.0 and my motherbaord only has the standard pci express slots and my current graphics card is a pci-e x16  </s>
+<s> sometimes our members will share they did that or find reports of it working fine or not.  </s>
+<s> thats the thing i havent decided which one i want yet other than i know i want it to be a nvida and most of the ones that i have looked are 2.0  </s>
+<s> details and specifics are where things potentially can go wrong, so like bob said, when you have details it'd not be a bad idea to run it up the flagpole.  </s>
+<s> of course if you buy from reputable place they'll have a fair return policy (stores near where i live give 14 to 30 days - one mom-n-pop store gives just 7 days for refund, but will return for store credit up to 4 weeks).  </s>
+<s> i remember reading a report where they ran cards in pcie 1x vs 2.0.  </s>
+<s> not only did they work well in both, but there wasn't appreciable performance difference -- the diffs between cards is much bigger than the diffs btwn old and new pcie.  </s>
+<s> as always, ymmv...  </s>
+<s> the pcie 2.0 cards are backwards compatable to pcie x16.  </s>
+<s> i just installed a geforce 8800gt pcie 2.0 card in a computer that has pcie x16 motherboard and it installed without a hitch and is working fine.  </s>

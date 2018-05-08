@@ -1,0 +1,60 @@
+<s> have a mag innovision p900 lcd monitor.  </s>
+<s> problem is the screen going black.  </s>
+<s> running xp home on a computer (wintergreen) bought from tiger direct last christmas.  </s>
+<s> symptom is screen going black.  </s>
+<s> monitor power light remains green, moving mouse will not bring the display back, however if i cycle the monitor on and off display will come back for approx 2-3 seconds and then go black again.  </s>
+<s> i have display and power settings set to never for the monitor and hard drive as well as hibernate off.  </s>
+<s> i did find the fan on the ati radeon 9500 video card had stopped running and very hard to turn, so instead of messing with ati, i bought an evga nvidia based card, fx5500.  </s>
+<s> refresh is at 60 hz, resolution on desktop set to 1024 x 768.  </s>
+<s> i know the mb is a cheapo and probably not the greatest with cooling, but that should not cause the display problems, so i am assuming the the lcd monitor is overheating.  </s>
+<s> any help would be appreciated.  </s>
+<s> my next step is to swap it out with my used gateway vx900 beast and see what happens, but would still like some input if possible.  </s>
+<s> thanks  </s>
+<s> from your brief description of the problem, its sounds almost certainly like a power suppply problem in the monitor. the easiest way to test it would be to grab a working monitor and hook it to your existing system, or take your monitor over to someone else's system and see if they are having the same problems.  </s>
+<s> lcd power supplies can be replaced (~$100, sometimes less) but from my recollection, mag stuff is quite cheap and youre probably better off buying a new monitor.  </s>
+<s> but you can certainly stop swapping out video cards, as i really dont think thats whats causing your issue.  </s>
+<s> hope that helps.  </s>
+<s> hooks-  </s>
+<s> i have a similar problem with a sony sdm x73.  </s>
+<s> i assume it is overheating but it may significant that the problem started to manifest itself after i tried an 'electronic whiteboard' attachment (a 'sympodium')... to my computer (a viglem vm4 cube) in any case, powering the monitor off , leaving, then powering on again works .  </s>
+<s> i also look forward to any ideas on this one.  </s>
+<s> in most cases the &quot;backlight&quot; portion or its related power source is kaput or going out.  </s>
+<s> lcds rely on such to lite the screen.  </s>
+<s> if you closely by a outside light source, you should still see abit low light display on the screen.  </s>
+<s> if so found then that's your problem.  </s>
+<s> you can have send to be repaired if under warranty or any other reputable source or just replace.  </s>
+<s> if repair is 50% or more than up to you to replace. the quickest test is to swap monitors to check video output and if you get display then more than likely the lcd is flaky.  </s>
+<s> tada -----willy  </s>
+<s> i have the exact same model of monitor and am experiencing the exact same problem.  </s>
+<s> it only stays on for 2 seconds, goes black, and i must press the power button 4x to get it back on for 2 seconds before it goes blank again.  </s>
+<s> i called mag for support, and they said that my monitor was not under warrenty since it was 14 months old.  </s>
+<s> to get it fixed, it would cost $100 plus shipping.  </s>
+<s> i'm looking for a monitor from another company with a better support.  </s>
+<s> never again.  </s>
+<s> sounds like it's a known problem, and they should have been able to provide a fix.  </s>
+<s> i'm having the same problem with my hp pavillion f1703 lcd.  </s>
+<s> it'll go dim for a second, the go black. the power button seems faint, but still lit.  </s>
+<s> i can have the pc off all night, turn it on in the morning, and it still doesn't work.  </s>
+<s> turn it off, run some errands, turn it on, works for hours before it goes out.  </s>
+<s> for some reason i was thinking it was a power issue, but not sure.  </s>
+<s> i bought a used crt today and it's working fine.  </s>
+<s> it's the size of my car, but it works great.  </s>
+<s> the same thing happened to my 15&quot; mag lcd. it is not the power supply; it is rather the backlight inverter module to blame (see picture linked below).  </s>
+<s> on my inverter board one of the high voltage transformers shorted out and the backlight would turn on for two seconds, slightly dimmer than usual, and then will go off.  </s>
+<s> a skilled technician may fix the module on the component level if you find exact replacement miniature hv transformer (good luck with that!), or you may simply buy replacement inverter board for about seventy bucks a pop. it may not be worth to repair since lcd monitors are cheap these days.  </s>
+<s> here's a link with picture of the inverter board: i'm not affiliated in any way with the above, just posting what i found out.  </s>
+<s> on the 1703, such a problem is commonly caused by poorly soldered toroidal coils on the inverter board.  </s>
+<s> my sister had the same monitor and problem, and i fixed it by popping it open and re-soldering the four toroidal coils.  </s>
+<s> a guide on how to do this, if you are so inclined, can be found here:  </s>
+<s> i'm now having the same trouble with a sceptre lcd monitor and also the built-in crt screen of an old imac. the difference with the crt being that it stays dim for all but a fraction of a second while it's being powered on.  </s>
+<s> it appears from the response that i got from sceptre and the identical response others got from their monitor manufacturers - that they fully expect their lcds to have this problem after the (very short) warranty expires.  </s>
+<s> that attitude and the fact that they keep it secret from us is frankly, crappy.  </s>
+<s> while lcds are more affordable than they were before, i wouldn't call them affordable.. and certainly not so if we're expected to buy a new one every 2 years.  </s>
+<s> that's ludicrous! the way they're &quot;breaking&quot; is particularly upsetting and so is the cost of repair.  </s>
+<s> if something breaks, i don't expect it to flicker in and out of proper operation.. and i shouldn't expect the cost of repair to approach what it would cost to replace it!  </s>
+<s> what are they thinking?  </s>
+<s> that we're just made of money and we're fine with throwing away complex electronics that are 90% operational after a year of use?  </s>
+<s> wtf!? i am quite angry about this.. particularly so since my second screen (previously mentioned) just got worse.  </s>
+<s> it previously was only going black when i'd have it off then turn it on again.  </s>
+<s> this time it's been on the whole time.. then went blank with no interaction from me.  </s>
+<s> i'm very disappointed.  </s>

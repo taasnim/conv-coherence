@@ -1,0 +1,47 @@
+<s> i have a total of 40 gb hard drive and i have them in two parts one is in 19.53gb and is fat32 format and the other is in a as a logical drive and not formated yet it has 17.73gb in it free the other only has 3.13gb free and i want to find out how to use the other part of my hardrive that is not yet formated as one big hard drive without re installing windows because i dont have a windows install disc and is it safe to do anything?  </s>
+<s> here is a link to a picture  </s>
+<s> the first problem to solve is how to recover from any error.  </s>
+<s> even while partition magic might work if power was lost or a disk error happened we don't have a way to get back to xp. fix that issue first before risking it all.  </s>
+<s> bob  </s>
+<s> but what will happen if i format that parition?  </s>
+<s> can i use it as free space?  </s>
+<s> but it doesn't fix the underlying problem.  </s>
+<s> it's very expensive to pay up for a full version of xp. i'd get my xp cd from the maker asap before you discover how expensive this lesson is.  </s>
+<s> bob  </s>
+<s> i don't understand what the problem is?  </s>
+<s> iam not messing around with the main partiton with the windows operating system installed on it  </s>
+<s> playing around with the file system could leave xp in some need of repair.  </s>
+<s> without your cd you can't fix it.  </s>
+<s> a simple issue balloons into one big problem and could be costly if you can't get your restore cds made or supplied.  </s>
+<s> for example a call from the geeksquad puts in into the 200plusplus range to get the machine working again.  </s>
+<s> bob  </s>
+<s> ok so its best to just leave it?  </s>
+<s> i wish i had more space to store files on.  </s>
+<s> changing partition sizes is somewhat dangerous.  </s>
+<s> partition magic usually does fine but we have no xp cd to recover the system with.  </s>
+<s> formatting that second partition is about as safe as it gets but still leaves the original issue unresolved.  </s>
+<s> hard disks die all the time so we need to get our plan together for that day.  </s>
+<s> hope this lays it all out for you.  </s>
+<s> why not ask for your restore cds?  </s>
+<s> bob  </s>
+<s> who would i ask for the restore cd's?  </s>
+<s> more was told about the pc. if dell we ask dell, if hp then hp. if it's some pirate xp, then you'll eventually have to pay up.  </s>
+<s> bob  </s>
+<s> my computer is a dell.  </s>
+<s> they ship restore cds for about 35 bucks (mostly).  </s>
+<s> the full xp will run from 99 to 299 bucks not including someone helping you to install it if you can't.  </s>
+<s> geeksquad hit a neighbor for over 100 &quot;due to difficulties with finding drivers&quot; and so their tab for xp pro came to over 400 bucks.  </s>
+<s> (299 is the retail xp pro price plus 100 to install) yikes.  </s>
+<s> this is something that might not cost much today but as time passes could cost dearly.  </s>
+<s> -&gt; also noteworthy is some dells have you make your own restore cds.  </s>
+<s> i can't guess why some pass up on that.  </s>
+<s> bob  </s>
+<s> ok ill just leave ths issue for a while and later i might do somthing about it.  </s>
+<s> but thanks for all fo your help bob i am sorry i caused so much trouble.  </s>
+<s> i was trying to steer clear of a potential issue for you.  </s>
+<s> your choice on how to proceed depends on how much risk you can tolerate.  </s>
+<s> it's fairly low to prepare the remaining disk space but any move without your xp cd is going to have risk so my thoughts are to get that out of the way first.  </s>
+<s> bob  </s>
+<s> 1 - image what you have. it can easily be placed back onto any drive/part0 and restored in minutes with no other loss.  </s>
+<s> 2 - use partitioning tool to create partition out of unused space and then merge partitions.  </s>
+<s> i have found the following link to also contain useful info (hint hint):  </s>

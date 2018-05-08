@@ -1,0 +1,28 @@
+<s> ok guys and gals, put on your thinkin' caps.  </s>
+<s> i'm having to dive into a project that's bigger than my experience.  </s>
+<s> i know i could go to a local integrator but, for cost reasons (there will be no revenue return), i need to pull this off myself.  </s>
+<s> i've built and managed many networks, cabled and wireless, but nothing this large nor with the type of equipment that i think i need.  </s>
+<s> we want to provide free wifi over about an eight-acre area that is partially enclosed (it's a large flea market). the building construction is mostly steel so i'm anticipating considerable interference and therefore will probably need a considerable number of &quot;hot spots&quot;.  </s>
+<s> we'll be sharing (at first) a single 5-mbps dsl line devoted strictly to the hot spots.  </s>
+<s> equipment will be under cover although the environment could be somewhat hostile (heat, dust, humidity, etc.), so i'm wondering if i need to work with aps, etc. designed for outdoor use which, of course, are considerably more expensive.  </s>
+<s> my other networking experience tells me that i need at least a router/gateway, possibly a switch, and some aps (around 6-8).  </s>
+<s> my problem is that i'm not sure what might be the most economical (but still functional) way to configure the equipment.  </s>
+<s> if i have to run cable from my router and/or switch to the aps, my segment lengths will exceed specs.  </s>
+<s> so, i've considered the idea of adding phone outlets in various locations that would serve up the dsl to the extremities.  </s>
+<s> i'd then use additional routers from those locations and run cable and hang aps from there.  </s>
+<s> trouble is, i don't even know if the nature of a dsl signal will allow such a configuration.  </s>
+<s> of course, i've also wondered if there are devices out there that would make it possible to eliminate the need for cable while maintaining acceptable signal strength, etc. so, here's the short version... how would you do it?  </s>
+<s> i'll be happy to fill in the blanks for whatever i've left out.  </s>
+<s> thanks so much for sharing!  </s>
+<s> al  </s>
+<s> howard: i work for a networking hardware company: levelone, digital data communications.  </s>
+<s> i am based in australia, however we do have a distributor in florida: abovd-net, inc.  </s>
+<s> address : 18851 ne 29th ave suite 1011 aventura, fl - 33180 phone: +1 (786) 279-0527 fax: +1 (305) 466-6606 homepage : e-mail : vendas@above-net.com  </s>
+<s> we have a unit that would suit this kind of situation.  </s>
+<s> it is the wab-3000, this is a wireless outdoor mesh.  </s>
+<s> in your situation you would need a dsl modem/router, which then connects via cat5/6 to the wab.  </s>
+<s> for product information go to: global.level1.com/products2.php?id=929&pc1thid=8 or contact the distributor above.  </s>
+<s> we make use of these units extensively in australia, for dispersed security camera setups, and for exactly the type of large area wifi you are trying to setup.  </s>
+<s> good luck with the project (even if you don't go with our product!)  </s>
+<s> thanks very much for the info.  </s>
+<s> i'll be checking it out today.  </s>

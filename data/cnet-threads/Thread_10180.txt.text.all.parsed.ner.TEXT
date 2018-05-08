@@ -1,0 +1,27 @@
+<s> an ide hard drive marked as ata and one marked as ultra ata?  </s>
+<s> my older 60 gig hd will work in my external usb-2 case but my new 160 &quot;ultra&quot; will not.  </s>
+<s> it works perfectly in my desktop as a slave, but it will not work in my external case.  </s>
+<s> windows (xp pro) does not notice the usb device.  </s>
+<s> but if i put the older 60 gig drive into the case, xp sees it perfectly.  </s>
+<s> just wondering.  </s>
+<s> and yes, the jumpers are correct, master while in the case.  </s>
+<s> some really old cases had issues with drives over 127gb... bob  </s>
+<s> so on.  </s>
+<s> here's what the &quot;wisegeek&quot; had to say about it: &quot;ata (advanced technology attachment) refers to a common standard used to connect hard drives and other storage devices to a motherboard.  </s>
+<s> it is also referred to as ide (integrated drive electronics), though the terms are not technically interchangeable.  </s>
+<s> ultra ata is simply next generation ata with improved transfer speed and architecture.  </s>
+<s> there are several buzzwords surrounding ultra ata that can make it a little confusing for consumers, but each buzzword refers to an aspect of the standard that forms the overall architecture of ultra ata.  </s>
+<s> udma (ultra direct memory access): to begin, ultra ata is based on a joint venture design between intel, quantum and seagate.  </s>
+<s> it is written around a specification that allows a hard disk or drive to transfer data directly to the computer's system memory without having to use the cpu to direct this action.  </s>
+<s> this saves processor resources and increases performance.  </s>
+<s> therefore, ultra ata is also called ultra dma, or udma for short as if all this isn't enough to make the average consumer hire the neighborhood geek to buy a hard drive for them, there are also escalating grades of ultra ata defined by transfer speed ceilings.  </s>
+<s> for example, there is ultra ata/33, ultra ata/66 ultra ata/100 and ultra ata/133.  </s>
+<s> as you may have guessed, ata/133 is the fastest, with a transfer rate of 133 megabytes per second, roughly comparable to the earliest version of sata.  </s>
+<s> while sata drives have long out-paced ultra ata drives for performance, the latter is still an excellent economical choice.  </s>
+<s> aside from their use as system drives, ultra ata drives are also popular backup and archive drives.  </s>
+<s> if purchasing an ultra ata hard drive or atapi device, you will need a udma controller to take over the responsibility of directing data flow between system memory and the component device.  </s>
+<s> this controller is built into the motherboard chipset in most cases.  </s>
+<s> for motherboards that are not ultra ata compliant, a udma controller card can be purchased and added to an open pci slot on the motherboard.  </s>
+<s> ultra ata drives and controllers are available everywhere computer products are sold.&quot;  </s>
+<s> i actually have two of them and they're probably 3-4 years old.  </s>
+<s> which brand model 160gb is it that doesn't work ?  </s>

@@ -1,0 +1,18 @@
+<s> hello - we have an office network of 6 pc's.  </s>
+<s> a shared folder is setup on one pc for all pc's to access.  </s>
+<s> how can i make this shared folder inaccessible to just one of the 6 pc's?  </s>
+<s> all are windows xp. thanks for any help!  </s>
+<s> tim  </s>
+<s> how have you done that?  </s>
+<s> i'm not sure how its setup right now.  </s>
+<s> they just all have access.  </s>
+<s> so i need to get into permissions and deny that single pc? is it that easy?  </s>
+<s> but allowing users to access it.  </s>
+<s> you said there is one pc you want to exclude but, if that pc needs general network access, you need to look at how user accounts are set up.  </s>
+<s> you don't do this by exclusion but by inclusion.  </s>
+<s> presuming you have a simple peer-to-peer relationship which would mean local rather than network authentication, you just create user accounts on the pc with the share for all users that that need to access it.  </s>
+<s> you give access to that share by setting permissions on that pc to include those defined users.  </s>
+<s> i'll give a suggestion not to allow the &quot;everyone&quot; option.  </s>
+<s> on the pc you don't want to have access to that particular share, you can do so by not creating the same user account names/passwords that are defined on the pc with the shared folder and given access to it.  </s>
+<s> in this way, they may see the network share but will get &quot;access denied&quot; if they attempt to open it.  </s>
+<s> this is just the simplest method i can think of but there may be others depending on your intentions and other networking needs.  </s>

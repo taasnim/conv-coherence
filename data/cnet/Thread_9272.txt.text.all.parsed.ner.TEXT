@@ -1,0 +1,13 @@
+<s> hi there i have just put new ram in my hp pavilion t620a, it had 266 ddr sdram at 226mhz, in the second slot i put in 1gb ddr sdramat 400mhz.  </s>
+<s> is this ok? when it boots it is fine, it recongises both ram chip when i open the setup menu, but when i got to boot the nothing happens. the hp screen will show up, then it will go blank, then my screen shows no signal then it repeat the process.  </s>
+<s> so im thinking my harddrive is not booting?  </s>
+<s> its was fine up intill then... please help, i am sort of teaching myself as i go... yea might not be the best way to go... thanks  </s>
+<s> is 226 a typo?  </s>
+<s> what is sdramat?  </s>
+<s> ddr sdram at?  </s>
+<s> possibly your mobo does not support ddr 400 [pc 3400].  </s>
+<s> i don't know about hp setup, but possibly there is a setting to determine what speed the memory bus should run at.  </s>
+<s> does your system support dual channel??  </s>
+<s> according to your motherboard specs, your pc can use ddr-266/ddr-333 and maxes out at 1gb of ram. it may not work with sticks larger than 512mb.  </s>
+<s> try removing the old ram and booting with the new 1gb stick.  </s>
+<s> (most ddr400 is compatible with the slower speeds, but some motherboards get confused by it.) if that doesn't work, return the ram and get 1 or 2 sticks of 512mb ddr-333.  </s>

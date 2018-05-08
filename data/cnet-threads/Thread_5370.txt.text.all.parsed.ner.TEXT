@@ -1,0 +1,17 @@
+<s> i use two ati radeon 5770 graphic cards msi and xfx(crosfire, i use the msi hdmi port, when i use the xfx there is no signal on the monitor.  </s>
+<s> sometimes the ati is the default sound device and sometimes the realtek hd is the default sound device.  </s>
+<s> in fact i do not use realtek hd, i use ati with hdmi.when the realtek hd was the default sound device i checked the sound devices and i found that the ati sound device is not connected but it is always connected.  </s>
+<s> to solve the problem is to unplug the hdmi cable and plug it again or restart the computer.  </s>
+<s> so how can i use only the ati as the default sound device without uninstall or disable the realtek hd built in on asus rampage iii extreme.  </s>
+<s> control panel sound and select the default among devices listed.  </s>
+<s> alternatively if you are not going to use the analog out or front panel ports or mics, disable audio in mobo bios and there will be no confusion for windows.  </s>
+<s> playback devices in the control panel sound are only active realtek digital output with a green tick mark and the others are dim: ati hdmi output 2-ati high definition audio device not plugged in (with red downward arrow mark) ati hdmi output ati high definition audio device not plugged in (with red downward arrow mark) speakers realtek high definition audio not plugged in the active playback device is only the realtek digital output: realtek high definition audio default device.  </s>
+<s> so i am not able to select the listed playback devices to make it default.  </s>
+<s> i also checked the bios and the setup is: onboard device-- standard high definition audio -- enabled front panel type audio -- hd audio spdif out mode setting -- spdif (i changed to hdmi) what i did in the past was i changed the graphic card pcie port such as the first time i used was the msi graphic card in the pciex16_1 port and xfx was in pciex16_2 port then i changed it msi was in the pcie16_2 and the xfx was in the pciex16_1.  </s>
+<s> after i have problem of playback sound device then i've changed like before.  </s>
+<s> when i tried to open the playback devices is also always slow.  </s>
+<s> are you using and have you installed the proper ati hd audio driver?  </s>
+<s> for xp you have to download a separate audio, for w7 it's included in ccc pkg.  </s>
+<s> go to amd.com and look around.  </s>
+<s> the os is windows 7 ultimate 64bit.  </s>
+<s> i installed the latest version of the ati drivers ati catalyst control center version 2010.0825.2146.37182.  </s>

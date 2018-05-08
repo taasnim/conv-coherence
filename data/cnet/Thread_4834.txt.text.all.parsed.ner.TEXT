@@ -1,0 +1,30 @@
+<s> ok, i'm sure this is already somewhere in the forums but i've been searching for an hour and can't find my answer so i'm starting a new thread.  </s>
+<s> i just had to move my cable modem far away and i need to extend my wireless network range.  </s>
+<s> connected to my internet is a linksys wrt54g and i have an extra belkin wirless g router model no: f5d7230-4 laying around that i want to use as an access point.  </s>
+<s> i have not been able to get it set up properly.  </s>
+<s> i had wpa protection on, then turned it off completely.  </s>
+<s> i can't figure out what settings i need to change on my linksys or belkin to get them to work properly.  </s>
+<s> i have been tinkering but whenever i think i get it setup, i can't pull up one or the other's setup page.  </s>
+<s> let me know if i need to give more information for someone to solve my problem.  </s>
+<s> thanks pat  </s>
+<s> using a router as access point isn't as easy as just using an access point, but tends to be cheaper these days.  </s>
+<s> a router typically has a switch, access point, and dhcp server. the most important thing is to turn off the dhcp server.  </s>
+<s> it will butt heads with the router you currently have running.  </s>
+<s> there is generally a check box to turn that off under dhcp or something like that (nat). the first thing to know is where the main router (linksys wrt54g) is routing, on it's webpage if you select dhcp it should show something like dhcp server enable/disable (enabled of course), starting ip address 192.168.x.100 (x being whatever class c segment it's on; generally 0, 1, or 2) and number of dhcp users (50).  </s>
+<s> that means it gives out addresses 192.168.x.100 to 192.168.x.149.  </s>
+<s> it is likely at 192.168.x.1 (can be seen under status) for lan port.  </s>
+<s> so you need to set the belkin lan to something like 192.168.x.2 for lan port (don't care about wan - your not going to use it).  </s>
+<s> reset the belkin and it should work (my netgear did).  </s>
+<s> if not you may need a reversing cable between lans (one of the four the linksys lan ports to one of the four belkin lan ports) you don't use the wan at all, turning off dhcp pretty much disabled it.  </s>
+<s> what can be used for the connection between the main router and the new access point?  </s>
+<s> i know you said they can be hardwired from lan port to lan port.  </s>
+<s> that makes perfect sense.  </s>
+<s> can the new access point be connected to the router wirelessly?  </s>
+<s> eg.. router to new access point on 'x' channel, and access point to computers on 'z' channel.  </s>
+<s> i have never tried adding a new access point or had the need to.  </s>
+<s> i have always be curious about how it would work.  </s>
+<s> thanks, bruce.  </s>
+<s> as far as i know this would be a rare thing, there are routers designed as expansion types, but this would slow the flow and cause problems with most normal routers.  </s>
+<s> there are also ethernet through wiring units that might be used to make it easier with the wired method.  </s>
+<s> things are still evolving in both ethernet and wireless.  </s>
+<s> ethernet as it was is one the way out being slowly replaced with the optical version at 1g+ speeds. the newer multi-channeled routers might do this well, but i don't have one or the need at the moment.  </s>

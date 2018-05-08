@@ -1,0 +1,10 @@
+<s> i have a asrock motherboard, k7s41gx motherboard with two 256 mb ddr memory modules installed (512 mb) in total.  </s>
+<s> i recently purchased a 512 mb ddr (3200/2700 pc400/333 184 pin dimm) and tried installing this today with one of the 256 mb ddr also - to get 768 mb in total.  </s>
+<s> when i tried booting my system, i did get the 768 mb on the &quot;splash&quot; screen, but it never booted to windows xp. from attempting some different settings in the bios setup i was able to get to the windows xp splash screen, but windows xp did not load at all.  </s>
+<s> when i remove the 512 mb ddr card my system boots fine and right into windows xp. i need some help on this one, as from what i can find the 512 mb ddr memory is compatible with the system.  </s>
+<s> thank you in advance for your assistance.  </s>
+<s> are you supposed to add in matched pairs ?? vapcmd  </s>
+<s> you failed to tell us the speed of the original memory, what settings are being used in the bios to set the memory timing parameters.  </s>
+<s> [by spd ?] if the pair of 256's were running dual channel adding the 512 should still work, if they are compatible, but possibly would take you out of dual channel mode.  </s>
+<s> normally the mobo mfrs website will give a list of memory types [mfrs] that they have verified to work in their mobo, check there.  </s>
+<s> as per vapcmd, think that you shou  </s>

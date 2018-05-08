@@ -1,0 +1,13 @@
+<s> i have two video cards in my system, controlling three displays.  </s>
+<s> i have an xfx geforce 8800gt controlling my primary 20&quot; display, and an xfx 7200gs controlling my secondary 19&quot; display, and my tv via s-video.  </s>
+<s> i want to upgrade to an amd 4890 for the primary display, and use the 8800gt for the secondary monitor and the tv. my question is: can i have an amd card and an nvidia card both running simultaneously in this configuration?  </s>
+<s> also, since xfx uses proprietary forceware drivers, can i also have a non xfx nvidia card in the system?  </s>
+<s> here is my system configuration: mobo: asus striker ii formula (nvidia 780i chipset) primary video card: xfx geforce 8800gt secondary video card: xfx geforce 7200gs operating system: windows 7 ultimate 64-bit  </s>
+<s> ati and nvidia drivers typically don't get along well.  </s>
+<s> they may work, but you will run into problems (especially using hd decoding, video playback, etc.) btw, nvidia drivers will work with any nvidia card from any manufacturer... even xfx.  </s>
+<s> the pci bus has made this easier than it used to be, because it allows multiple vga cards to co-exist in one machine.  </s>
+<s> you need a special driver to let windows see them as a single display, and since the drivers come from the video card's manufacturer, that means that all the cards must be identical (the matrox millenium has been mentioned as one, but there may be others).  </s>
+<s> all of the cards except one must have vga emulation turned off (the system needs one vga card to boot, but more than one would cause conflicts).  </s>
+<s> there are also video cards that have more than one vga chipset and come with special drivers that make them behave like a single vga card, but they may be expensive and hard to find.  </s>
+<s> brands that have been mentioned include stb, colorgraphics, and appian graphics.  </s>
+<s> check card models listed in the chipsets list (distributed with this faq) for multiple (usually 2 or 4) monitor support.  </s>

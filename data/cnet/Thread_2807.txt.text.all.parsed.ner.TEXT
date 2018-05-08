@@ -1,0 +1,55 @@
+<s> i recently installed windows 8 on my laptop and have had some problems burning dvds and playing them.  </s>
+<s> windows burning software would not work burn them and neither would imgburn or dvdflick.  </s>
+<s> so i downloaded freemake video converter and successfully burnt 30 dvds onto tesco dvd-r disks.  </s>
+<s> every single one plays without problems on my dvd player and xbox 360 but not one will play on my laptop.  </s>
+<s> they are on pal. the computer views them as blank dvd-rs and says they are empty not sure how this can be though as they are dvd-rs not dvd-rw so should not be re-writable.  </s>
+<s> i have tried updating the drivers for the drive but windows says it is upto date.  </s>
+<s> i also uninstalled the drivers and re installed but still no luck.  </s>
+<s> any help on this would be appreciated thanks!  </s>
+<s> tells how to fix this.  </s>
+<s> this may confuse folk but dvd player software is not free.  </s>
+<s> vlc player is free due to where the folk that write it are and the laws of the land there.  </s>
+<s> since microsoft would have had to pay a license fee, many windows 8 versions can't play dvds.  </s>
+<s> bob  </s>
+<s> it's by design that they don't play: windows 8 doesn't come with dvd-player software.  </s>
+<s> a retail dvd won't play either.  </s>
+<s> tells more.  </s>
+<s> but it shouldn't show as empty, i think.  </s>
+<s> can you read a data-dvd?  </s>
+<s> kees  </s>
+<s> you might want to try nero software.  </s>
+<s> it works well on my windows 8 computer.  </s>
+<s> i have a $20 lg dvd/cd drive there.  </s>
+<s> good luck.  </s>
+<s> thanks everyone for the reply's, i should have been more clearer in my first post but i have vlc installed and i can play retail dvds on the computer through vlc.  </s>
+<s> when i insert a burnt dvd-r autoplay opens and gives me 2 options one is to burn disk and the other is do nothing. the burnt dvd-rs also wont open directly in vlc as it says error please check log.  </s>
+<s> so basically everything works fine accept on burnt dvds which show as empty, it literally offers the space on the disk to copy to.  </s>
+<s> i will try nero now and see if they will play but would really like to find a solution to this situation as i have burnt 30 dvds that wont open thanks!  </s>
+<s> if the person making said dvd didn't make a single closed season or used that drag and drop method to create the dvd, all this should happen!  </s>
+<s> bob  </s>
+<s> hi bob, i made the dvds using freemake video converter, i opened freemake, choose video at the top and browsed to the desired movie file.  </s>
+<s> i then clicked to dvd and choose settings pal and burn to disk when finished converting.  </s>
+<s> they all converted then burnt to the dvd-rs and as far as i could see the disks where finalized.  </s>
+<s> so the problem is freemake?  </s>
+<s> not correctly burning the disks?  </s>
+<s> although they do play on the xbox and dvd player.  </s>
+<s> thanks!  </s>
+<s> but why create a video dvd at all if you have the source file?  </s>
+<s> with the source file on a data dvd it can be played in many apps and i would not lose resolution.  </s>
+<s> bob  </s>
+<s> the reason i created dvds was so i could play the movies directly in my xbox and dvd player but also be able to play them on the computer.  </s>
+<s> i gets awkward when you have to use a vgi cable to watch your movies on the tv. basically i just wanted to be able to play the movies on the computer, dvd player and xbox which is why i didn't just keep the avi, mp4 and mkv files on disk.  </s>
+<s> something in the creation is broken.  </s>
+<s> you can play the files directly on the computer so for now it appears you are able to do what you need.  </s>
+<s> maybe not what you want.  </s>
+<s> in closing, i use dvd flick to create such dvds.  </s>
+<s> bob  </s>
+<s> yeah, dvdflick wouldn't work for me, it make the video_ts and audio_ts files but would not successfully create a dvd.  </s>
+<s> i can still do what i need but its abit of a inconvenience so will give nero a shot.  </s>
+<s> thanks!  </s>
+<s> think i could just convert the files to the required format then play them on xbox through the media player?  </s>
+<s> think that would avoid the need to create a dvd.  </s>
+<s> i can create those to drop onto a dvd in a custom way.  </s>
+<s> most of the time i have dvd flick create an .iso  </s>
+<s> so i can create a few copies or even better, play the .iso in vlc player.  </s>
+<s> in closing, i use imgburn to create the dvd from the .iso. bob  </s>

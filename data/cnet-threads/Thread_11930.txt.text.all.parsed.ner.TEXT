@@ -1,0 +1,28 @@
+<s> windows will not fully boot on my wives laptop.  </s>
+<s> i have tried safe mode, and everything.  </s>
+<s> i took the hard drive out.  </s>
+<s> hooked it to an external connector and accessed it on my laptop.  </s>
+<s> i ran several scans and they found the virus and deleted the affected files.  </s>
+<s> obviously that will not fix the damage to system files.  </s>
+<s> so i have two options.  </s>
+<s> 1. i can reformat the drive and reinstall windows and all her other stuff.  </s>
+<s> which i am fully capable of doing. the problem is she has alot of photos on the drive.  </s>
+<s> i have tried accessing the photos using the same external method but access is denied.  </s>
+<s> she had her laptop password protected.  </s>
+<s> i know the password, i was the one who initialy set it up. is there anyway i can get to the files to back them up before i format the drive?  </s>
+<s> 2. my other option is to put the windows disc in the machine and boot to the disc.  </s>
+<s> i hit r to run windows recover to try and repair the system files.  </s>
+<s> when i do this i am prompted for a administrative password.  </s>
+<s> i do not beleive this password is something i have ever set. the laptop is only 2 years old and i am the one who initially set it up.  </s>
+<s> i know what passwords i used and none of them allow me run recovery.  </s>
+<s> is this a default pasword for toshiba or windows?  </s>
+<s> i have 2 options to save her files but i am currently being blocked by two problems.  </s>
+<s> i appreciate any help you can provide.  </s>
+<s> thank you again i am open to new ideas.  </s>
+<s> type ntpasswd on google.com and with that, the password issue is solved.  </s>
+<s> moving on.  </s>
+<s> type xp take ownership on google and that solves your access denied issue.  </s>
+<s> what's left?  </s>
+<s> nothing i can find so i'll stop here.  </s>
+<s> bob  </s>
+<s> thank you  </s>

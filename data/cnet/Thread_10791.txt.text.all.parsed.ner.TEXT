@@ -1,0 +1,12 @@
+<s> 3 times this weekend my computer had the blue screen on it saying it was dumping the physical memory.  </s>
+<s> nobody was using it, i just saw the message as i was walking by. the first 2 times i rebooted, it started up normally. the 3rd time it gave me a ''harddrive not found'' error.  </s>
+<s> i am using xp sp2. the hard drive is less than 6 months old.  </s>
+<s> i don't have any extra hard drives, just a cd-rom & a 3'' floppy.  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> what happened immediately before the memory dump, did you download/install anything?  </s>
+<s> were you connected to the internet?  </s>
+<s> otherwise check your physical connections, power and ide (if relevent), then go to the bios on boot and see if the primary device is recognised.  </s>
+<s> i checked the connections, but everything looked alright.  </s>
+<s> when i tried a different plug in, it started working just find.  </s>
+<s> thank god it was something easy.  </s>
+<s> thank you very much.  </s>

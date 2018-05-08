@@ -1,0 +1,18 @@
+<s> hello i have microsoft's bluetooth desktop keyboards and mouse set, the shingle which comes with the set is connected to one of the four usb 2.0 ports on the motherboard.  </s>
+<s> now here's the problem.  </s>
+<s> i have two os on my system, windows xp professional and windows vista business, when starting the machine, cold boot, we usually come across the initial screen where rams are counted and then comes the screen where we have to choose between the two os systems, now here's the catch, during all that time, no matter how much i tried to use my keyboard to choose an operation system or even go into the boot screen, using the del or esc keys, nothing happens.  </s>
+<s> i end up connecting another microsoft keyboard that has both a usb and serial connection, through the serial connection only, where the system responds, and moves on to open the os windows for me.  </s>
+<s> can someone tell me why does this happen, why doesn't the system respond to my bluetooth keyboard?  </s>
+<s> some do, some don't.  </s>
+<s> it's a bios issue.  </s>
+<s> if your bios does, it's in some menu and may have words like usb, keyboard, mouse and/or emulation.  </s>
+<s> but you elected to tell nothing about the host machine so this is all i can offer.  </s>
+<s> bob  </s>
+<s> thank you bob for the reply i&quot;m using a gigabyte ga-8ipe775, based on intel's 865pe chipset, with a 3.2 pentium 4 ht processor, its old i know, but its bios has support for usb keyboard, and usb mouse, and even an optoin called support for legacy usb storage devices.  </s>
+<s> when i connected a usb keyboard to the computer it worked fine, but when i connect the bluetooth keyboard through the shingle it doesn't work at all.  </s>
+<s> so the question is does a keyboard that connect to the computer using bluetooth shingle, should work like a usb keyboard connected directly to the pc? regards ashraf kadry  </s>
+<s> i'd pack it up and return it since the other usb products works.  </s>
+<s> looks like someone pushed out a product that needed more work.  </s>
+<s> bob  </s>
+<s> not only does it not work during startup, but its a game of luck when it comes to working under the windows environment, where sometimes the lags coming from the keyboard and the mouse seem like forever.  </s>
+<s> thank you again bob, truely appreciate it.. regards ashraf kadry  </s>

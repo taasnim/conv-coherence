@@ -1,0 +1,20 @@
+<s> i just install a wireless internet today.  </s>
+<s> i have 2 pc and 1 laptop.  </s>
+<s> the 2 pc are wired connect.  </s>
+<s> all of the computer are running windows xp pro.  </s>
+<s> and is connected through linksys wrt54gs router.  </s>
+<s> all computers have the same workgroup name &quot;johnson&quot; and ran the network configurations.  </s>
+<s> one computer can see all the computer on the network.  </s>
+<s> i'm not sure if you guys understand me so, i hope this will help you guys understand what i'm talking about.  </s>
+<s> computer a in my room with the router computer b is in another room computer c is the laptop computer a can see b & c computer b can see a computer c can't see any pc what am i doing wrong???? please help me...thank you mike  </s>
+<s> if a firewall is installed, that's a common complaint.  </s>
+<s> and to pre-emptively note such, even when disabled, zone alarm still interferes with this.  </s>
+<s> bob  </s>
+<s> i've run into similiar problems, particularly with my pro system (have 1 98, 1 xp home laptop, and my main system with pro).  </s>
+<s> bob mentioned zonealarm, which i use.  </s>
+<s> in the firewall configuration, i added the ip addresses of all the computers, and the full range of addresses, e.g, 192.168.2.1-192.168.2.40.  </s>
+<s> in addition, and this seems to have caused me the most problem, xp's firewall often automagically turns itself on, so in in the local area connection properties&gt;advanced, i disable the xp firewall.  </s>
+<s> i have the most problems with my pro system. the 98 system never has a problem, lol.  </s>
+<s> so much for 'upgrades'.  </s>
+<s> hope this was of some help.  </s>
+<s> also, i've turned off all power management and screensavers, as i've read this can be an issue with a network.  </s>

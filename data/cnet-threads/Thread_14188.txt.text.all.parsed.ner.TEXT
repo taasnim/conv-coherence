@@ -1,0 +1,35 @@
+<s> hi, i got one of those maxtor crashes.  </s>
+<s> i was transferring data to my external drive and my laptop got hanged.  </s>
+<s> i had to force restart my laptop.  </s>
+<s> after restart my laptop refused to recognise the external drive.  </s>
+<s> also, whenever the drive is powered on or is trying to read the drive, it gives a beep sound (something like when a game starts).  </s>
+<s> some of the partition softwares recognise the drive but they are not able to rea anything on the disk nor able to access it.  </s>
+<s> but they do show total memory and stuff.  </s>
+<s> i have searched this forum and tried everything with failures.  </s>
+<s> this makes me feel its a mechanical failure.  </s>
+<s> please advice what to do.  </s>
+<s> i am more concerned about my data that the drive.  </s>
+<s> has all the advice you could possibly find on this matter.  </s>
+<s> from other machines, new cases to recovery software.  </s>
+<s> the only item you didn't reveal was the file system you have the drive in.  </s>
+<s> fat32 will crash and burn since it doesn't fair well during a crash whereas ntfs has some damage resistance.  </s>
+<s> bob  </s>
+<s> its ntfs.  </s>
+<s> i have read the post you referred to.  </s>
+<s> i have a slightly different problem.  </s>
+<s> i have a laptop, so i cant change the hard disks.  </s>
+<s> also, even if i dont connect the external drive to my laptop and just power the drive on, it gives me the beep sound (its more like when we open a inbuild tv game)and then it seems as if the drive is attempting to start but its unable to.  </s>
+<s> it happens 3 times and then dead silence.  </s>
+<s> the advice was to put the drive in a new housing and/or run recovery software.  </s>
+<s> as to your laptop, be sure you test the drive and houseing as-is on another machine before you swap the drive to another case.  </s>
+<s> bob  </s>
+<s> i will do that today and let you know.  </s>
+<s> frankly i dont have much of hope as, this beeping sound comes even if i dont connect to the computer.  </s>
+<s> the sound was not there earlier.  </s>
+<s> it sounds like a sort of warning.  </s>
+<s> in fact it comes again if i connect the drive to laptop.  </s>
+<s> so its like whenever someone tries to connect to the hard disk, it gives this sound and some scratching sound and then everything goes dead (except the blue light on the drive)  </s>
+<s> i have found this the crux of good pc-operation.. then there is the over-burden of &quot;other&quot; hardware.. a 300-gb hdd for a laptop seems a bit...difficult to imagine.. though i think the maxtor brand the best..i use a 120-gb diamond max as an ext.. i have found a hardware solution to less than perfect cpu's.. that in the monitor properties section..to drop hardware accelleration one notch/compensates for a less than perfect cpu.  </s>
+<s> thanx a lot for ur replies.  </s>
+<s> i have even tried freezing my hard drive with no obvious benefit.  </s>
+<s> so i decided to part with my data and send it to maxtor..but this definetly creates jitters in me..because what will replace my existing drive will be from the same company and that too a refurbished one.  </s>

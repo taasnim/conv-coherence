@@ -1,0 +1,21 @@
+<s> i was under the impression that a video card, graphics card, and video adapter card were all the same thing, but now i think i'm wrong.  </s>
+<s> on my pc, whenever i'd run software to detect what video card i had, it would say this - &quot;ati 3d rage pro agp&quot;.  </s>
+<s> it's been called a video card or a graphics card by different software i use and when listed under my device manager, it's called an adapter card.  </s>
+<s> that's why i thought those were all the same thing.  </s>
+<s> however, i recently purchased software that says i don't have a video card.  </s>
+<s> i checked the requirements and it said i needed a video card that was directx 9.0 compatible and could handle up to 32-bit color and a resolution of 1024x768.  </s>
+<s> as far as i've been able to tell, that 3d rage pro meets all those requirements, but i could be wrong.  </s>
+<s> can someone clear this up for me?  </s>
+<s> the example that you gave are one and the same but if you just saay an adapter card, then it could mean lots of different types card.  </s>
+<s> as for the directx thing, some of the newer graphic cards have directx chips built-in (i think).  </s>
+<s> i don't think rage pro meet that requirement.  </s>
+<s> gigabyte, when refering to &quot;graphics controllers&quot; they can come in many flavours, onboard, pci graphics adapters, agp graphics adapters, and the new pci-express format.  </s>
+<s> all of these are &quot;graphics controllers&quot; the difference and what is confusing you is simply terminology.  </s>
+<s> a graphics &quot;card&quot; is an add on board that fits into pci or agp or pci-e slots that have an onboard video processing unit or &quot;gpu&quot; a video card or video adapter is the same thing really, just different terminology.  </s>
+<s> if a software application states that you must have a directx 9.0 compliant card to play, that card you have will definitely not cut it.  </s>
+<s> your card is directx 8 compatible.  </s>
+<s> this simply means the gpu chiset is not directx 9.0 compatible.  </s>
+<s> only the newer cards on the market are &quot;truly&quot; directx 9.0 compatible. the game may still play, but with a degredation in graphics quality.  </s>
+<s> you do have a graphics card, but whether the software application will detect it is another story.  </s>
+<s> those rage 3d cards are terribly out of date, and it wouldn't much suprise me to see a directx 9.0 game not recognize it.  </s>
+<s> do you know if the rage card is agp or pci?  </s>

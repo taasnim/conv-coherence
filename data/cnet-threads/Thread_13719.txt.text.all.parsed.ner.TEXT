@@ -1,0 +1,32 @@
+<s> i have a fairly straightforward setup - cable modem, router, wireless access point.  </s>
+<s> suddenly, no internet (time warner).  </s>
+<s> reboot everything, no go.  </s>
+<s> check internet at the modem and it's working fine.  </s>
+<s> reboot everything but am very careful about sequence and timing, no go.  </s>
+<s> breakout my backup router which is identical to the primary.  </s>
+<s> modem connected to backup router connected to laptop, no go.  </s>
+<s> this goes on for quite some time, all the while being careful to reboot modem each time.  </s>
+<s> eventually i notice via the windows 7 network and sharing center that whenever a router is inline, the internet connection lasts for about 20 seconds, then it's off for about 20 seconds, then back on, etc. laptop connected directly to the modem, rock solid.  </s>
+<s> throughout this process, i tried different computers, ethernet cables, just about everything but the cable modem.  </s>
+<s> all the lights are lit as they should be on the modem and as mentioned, things work great when plugged directly in.  </s>
+<s> i've ordered another modem off ebay and it'll take a few days but if anyone has any ideas, i'm all ears because right now, i'm mystified.  </s>
+<s> if your router is over 3 years old, it could need to be replaced.  </s>
+<s> for something with no moving parts, this has always seemed strange to me, but they do wear out somehow. the good news is they are cheap.  </s>
+<s> you can get them for as little as $15. ` good luck.  </s>
+<s> but for another person rather than myself.  </s>
+<s> in this case, what we are seeing is the modem to randomly get out of sync and need to reconnect.  </s>
+<s> it may cycle over and over.  </s>
+<s> i can remove the router and connect the pc directly to the modem and it seems to be better.  </s>
+<s> i put this other persons router on my own network and ran it for days without a hiccup.  </s>
+<s> this person uses twc as well and i think it's at their end. the clues may be here i'm noting that the signal to noise ratio in the other modem is a much lower number than in my own.  </s>
+<s> also, the power levels are significantly lower than mine.  </s>
+<s> check your modem by going to it's interface with a web browser and see if you're well within these specs.  </s>
+<s> if you have a motorola, the default ip is usually 192.168.100.1.  </s>
+<s> good luck.  </s>
+<s> thanks steve - my signal strength is about -3dbm so believe we're ok there but will check other specs based on the dslreports thread.  </s>
+<s> i keep a network binder at home with all kinds of reference material and i will absolutely add this to the binder.  </s>
+<s> thanks again!  </s>
+<s> just so happens i have the exact same router (d-link dgl-4100) as a spare and had the same results when i inserted it in place of the original router.  </s>
+<s> with the spare inserted, configuration was simplified to just modem, router and laptop - still no internet.  </s>
+<s> the higher the number, the better.  </s>
+<s> mine runs 40+ while the person i'm trying to help runs slightly under 30.  </s>

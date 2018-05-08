@@ -1,0 +1,28 @@
+<s> recently built my 1st pc ( no sparks, smoke or fire!). used asus p5gd1 mobo, intel p4 630 cpu, western digital 120gb hd, corsair twinx 512mb (2x256) memory, i'll add 2 more when i can afford it, radeon x300se, win xp pro sp2.  </s>
+<s> now, after reading a little more about raid configurations it seems one way to put in another hard drive would make the 2nd one a backup or &quot;mirror&quot; the first.  </s>
+<s> or would i be better off with an external hard drive? the mobo has 2 master and 2 slave plug-ins.  </s>
+<s> thanks, tom.  </s>
+<s> mirror rarely saves anyone today.  </s>
+<s> here's why.  </s>
+<s> most people have the boot (os) and data on a drive.  </s>
+<s> if you mirror that, the most common failure is the os is corrupted. the mirror faithfully copies the corruption.  </s>
+<s> since very few want to learn how to repair any os, this mirror didn't save them from losing it all.  </s>
+<s> what could work for many is a drive backup image using either acronis or other software and carrying the images away to another location.  </s>
+<s> one of the premises of backup is that the copy is not in the same building.  </s>
+<s> hope this helps.  </s>
+<s> bob  </s>
+<s> yes, it makes sense.  </s>
+<s> i have been trying to learn through the online classes at cnet and even bought the xp inside and out book which is way over my head, but plug away no matter.  </s>
+<s> you didn't say anything about an external hard drive.  </s>
+<s> guess that would be the same as an internal?  </s>
+<s> if one used the transfer wizard to an external would that eliminate the the bad os problem?  </s>
+<s> thanks for your expertise and insight bob.  </s>
+<s> tom  </s>
+<s> another premise of backups is that you have multiple copies.  </s>
+<s> unless you get about 3 external hard disks and rotate amoung them, it's not a backup but just a copy.  </s>
+<s> hope this clears that up.  </s>
+<s> acronis (google.com)  </s>
+<s> allows you to make an image to dvd media and carry it away for that day you don't want to happen.  </s>
+<s> also you can copy an image to an external if you want.  </s>
+<s> -&gt; this is all your choice.  </s>
+<s> bob  </s>

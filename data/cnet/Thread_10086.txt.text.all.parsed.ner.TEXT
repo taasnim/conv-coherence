@@ -1,0 +1,11 @@
+<s> periodically, both &quot;enter&quot; keys on my stock dell keyboard stop working (both the standard enter key & the enter key on the numeric kepad on the right).  </s>
+<s> i have swapped in a known good keyboard, but the enter key continues not to work. the system is a stock dell desktop (1.8 ghz centrino, windows xp) with dell keyboard, dell monitor (motherboard graphics), dell mouse, dell 802.11b usb wireless ethernet adapter.  </s>
+<s> sometimes, a reboot fixes the problem... and then it reappears.  </s>
+<s> in an attempt to fix this problem, i have uninstalled the keyboard driver & allowed the system to reboot so that windows &quot;finds the new hardware&quot; and then installs a new driver, and reboots... this solves the problem for a while, but then it returns.  </s>
+<s> i'm at my wits end!  </s>
+<s> any ideas on what i might do to fix this issue?  </s>
+<s> thanks  </s>
+<s> you may need to visit the dell support website and check for updated driver.  </s>
+<s> hint: be sure that you know the exact model # of your keyboard.  </s>
+<s> be sure that your computer is free from all virus, adware, spyware, etc. if you haven't already, run ad-aware, spybot, cwshredder, and also run a virus scan with norton or other anti-virus program.  </s>
+<s> many thanks -- i tried spybot & cleared out everything... it seems to have fixed the problem.  </s>

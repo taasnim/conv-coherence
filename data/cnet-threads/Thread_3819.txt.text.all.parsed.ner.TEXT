@@ -1,0 +1,12 @@
+<s> hi all.  </s>
+<s> i had a few issues with my belkin router, and not really knowing what i was doing, i fiddled around and enable the &quot;configure router as access point&quot; option.  </s>
+<s> i now have an issue where some, but not all, wired devices can access the internet, and i've no wifi access at all.  </s>
+<s> this is only temporary, as i'm getting a new wireless n modem/router from my isp, but this won't be for approx 4 weeks.  </s>
+<s> in the meantime, how can i log onto the router's settings and disable the access point only? the previous ip of 192.168.1.0 has now been altered.  </s>
+<s> current setup: scientific atlanta epc2100 cable modem belkin f5d8236-4 router pc (vista &amp; ubuntu gnu/linux)- able to connect over ethernet on both os's ps3 - able to connect over ethernet laptop (xp) - unable to connect either with or without network switch (shared with below) laptop (osx) - unable to connect either with or without network switch (shared with above).  </s>
+<s> any thoughts?  </s>
+<s> if you don't know the ip you changed it to your best bet is to reset it to factory and start all over.  </s>
+<s> thanks for the help, but i've already tried that to no avail (indeed, if someone had configured their router as an access point, they'd not want that setting removed every time they performed a factory reset).  </s>
+<s> how can i find the ip address?  </s>
+<s> using ipconfig in windows (or ifconfig in ubuntu) will only show my modem's wan ip - not my router's lan ip - suggested (as i suspect &quot;access mode&quot; implies) that the connection is effectively bypassing the routing function entirely, and treating the router as a simple (if quite expensive) ethernet switch.  </s>
+<s> does anyone have any experience of using a belkin f5d8236, or indeed of switching off access-point mode in any router once enabled?  </s>

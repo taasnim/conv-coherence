@@ -1,0 +1,40 @@
+<s> hi, my epson stylus color 880 printer has disappeared from my device manager.  </s>
+<s> i have uninstalled and reinstalled it, but it doesnt print, message says to check cables, but i see it still isnt in the device manager.  </s>
+<s> any ideas for a non advanced computer user?  </s>
+<s> thanks, sarah  </s>
+<s> your post didn't reveal how it was connected, the os in use, if motherboard drivers were reinstalled or the bios enabled the usb and printer ports.  </s>
+<s> i'm in the dark too.  </s>
+<s> bob  </s>
+<s> sorry, but what does os stand for?  </s>
+<s> i uninstalled in the programme in the control panel, and used a cd rom to reinstall the printer.  </s>
+<s> i use a parallel interface to plug in the printer.  </s>
+<s> is this any clearer?  </s>
+<s> thanks, sarah  </s>
+<s> since you noted it is connected to the parallel port, a boot with your dos diskette and tapping printscreen a few times may be a good test to see if it's an os issue or just a dead cable or printer.  </s>
+<s> again, you need to tell if the printer self test works, what lights blink and more.  </s>
+<s> bob  </s>
+<s> sorry its win98se is my dos diskette my startup disk?  </s>
+<s> how do i self test the printer, dont have much about this in the manual?  </s>
+<s> thanks, sarah  </s>
+<s> forget the dos boot disk.  </s>
+<s> just tap f8 about once a second after you power up.  </s>
+<s> select the command prompt.  </s>
+<s> after that stops.  </s>
+<s> you should have a c: prompt.  </s>
+<s> tap printscreen and tell what happens.  </s>
+<s> if nothing, then you may have a dead printer, printer port or cable.  </s>
+<s> i'll leave you to read your printer manual for the printer self test.  </s>
+<s> tell what happens.  </s>
+<s> no manual?  </s>
+<s> go to epson.com and fetch it.  </s>
+<s> bob  </s>
+<s> the printer self test doesnt work.  </s>
+<s> i remember this problem starting when i switched off the computer and the printer hadnt finished switching off.  </s>
+<s> i tried printscreen, printscreen, but the command is invalid.  </s>
+<s> should i just type c:&gt;printscreen then enter?  </s>
+<s> sorry, i'm not very dos literate.  </s>
+<s> my computer is french, so windows is in french, but i guess ms dos is universal?  </s>
+<s> sarah  </s>
+<s> printscreen is a &quot;key&quot; on the keyboard.  </s>
+<s> but since the printer selftest failed, the issue seems to be clear.  </s>
+<s> bob  </s>

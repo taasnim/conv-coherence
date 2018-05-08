@@ -1,0 +1,124 @@
+<s> okay. i've got an hp pavilion a6157c desktop with 2gigs ram, intel 4400 chip (2.00ghz).  </s>
+<s> running vista home premium.  </s>
+<s> i've had trouble with the last 2 hp's i had and returned them before the store warranty expired.  </s>
+<s> no, i'm not a dedicated hp fan, just didn't have a huge selection to go by (costco).  </s>
+<s> and it seems nowadays, most manufacturers are pretty equal.  </s>
+<s> but each time i get a new hp there, the model changes. the first 2 (a1777c and a6077c both with vista home premium), ran on the nvidia geforce 7500le graphics cards.  </s>
+<s> now, the latest model i have (a6157c), is running on the intel graphics media accelerator 950 card.  </s>
+<s> why?  </s>
+<s> what's the difference in the cards?  </s>
+<s> why would they switch them out?  </s>
+<s> if i find an issue with this latest hp, i'm done with hp.  </s>
+<s> are you talking integrated graphics or actual cards?  </s>
+<s> do you have a dedicated video card or is it incorporated in the motherboard?  </s>
+<s> for example i have 6150le integrated graphics on my mobo but i run a dedicated 8600gt video card.  </s>
+<s> the graphics card on this pc is integrated. is this a negative for a non-gamer like myself?  </s>
+<s> what about the above questions???  </s>
+<s> with building a mass produced personal computer, the designers look at the cost per thousand of whatever chip they want to put into it.  </s>
+<s> to have the geforce 7500le requires purchasing however many tens of thousands of geforce chips from nvidia, in addition to the rest of the system, while the intel gma 950 is part of a number of intel chipsets (such as the 945g northbridge), which means one chip provides more features (so they have to spend less money to get a functional system).  </s>
+<s> the advantage for a non-gamer is that it saves money, instead of paying the extra $50 to $500 for an actual graphics card, the mainboard has the graphics core integrated into it. the &quot;switch&quot; is probably just a change in whatever model costco is currently selling, as i'm guessing costco buys based on whatever allows them to give you (the consumer) the lowest price.  </s>
+<s> having the gma 950 over the 7500le will only be noticed in gaming applications, as the current generation of intel integrated graphics (gma 900, 950, and x3000) all support some level of hardware decode for video playback, and can actually handle some older video game titles without much of a problem.  </s>
+<s> was the nvidia geforce 7500le card an integrated one?  </s>
+<s> was it a better card than the integrated 950 i have now?  </s>
+<s> i'm wondering because i returned my system, because of typing issues and monitor distortions (split screen, horizontal lines).  </s>
+<s> all of which i tried to resolve through the appropriate channels first, before ending up returning the system, and had zero success with any resolutions.  </s>
+<s> when i went back, there was a $300 price differnce from $1299 with the geforce 7500le to $999 with the intel integrated 950.  </s>
+<s> and the model # was different (a6077c vs a6157c).  </s>
+<s> i figured it was because the graphics card was different.  </s>
+<s> was the savings though in my best interest or was i robbed and should i have stayed with the geforce 7500le?  </s>
+<s> can i add a dedicated graphics card in the future if i step up to any gaming?  </s>
+<s> the intel graphics media accelerator 950 is just a little graphics card that is good for surfing the web, and playing some low-graphic games and stuff like that. the nvidia geforce 7500le is a seperate processor for processing graphics, and is for the serious gamer.  </s>
+<s> they downgraded the graphics card from the nvidia to the intel.  </s>
+<s> i'm guessing they wanted to save money.  </s>
+<s> would i be able to effectively play movies and stuff like that with the intel 950??? could i add a dedicated graphics card too in the future to this hp a6157c system???  </s>
+<s> yes, the intel 950 is capable of playing movies, including blu-ray/hd-dvd.  </s>
+<s> it can play any movie you want.  </s>
+<s> and yes, if you decided to switch to a serious graphics card (like the nvidia) you can.  </s>
+<s> thanx for so much advice here.  </s>
+<s> i did some research and found some details about the a6157 vs a6077 models.  </s>
+<s> hp downgraded the following on the a6157 model... hard drive: went from 400gb sata to 320gb graphics: went from geforce 7500le to intel integrated 950 accelerated sound/audio: deleted the dolby pro logic ii ability from nvidia (but no nvidia card to support it anyway) on a6157.  </s>
+<s> port type: disabled the 1 vga on a6077 model due to dedicated graphics card.  </s>
+<s> expansion slots: pci 2 (a6157), 3(a6077) pci express x16: 1 (a6157), none (a6077) pci express x1: 1 (a6157), not offfered (a6077) drive bays: 3.5&quot; 3 (a6157), 2 (a6077) pocket media bay: none (a6157), 1 (a6077) technology: viiv (both models), but a6077 adds nvidia pure video.  </s>
+<s> i'm sort of po'd about the graphics card issue.  </s>
+<s> and having no pocket media drive bay.  </s>
+<s> would you say all these change-outs constitutes a $300 price difference?  </s>
+<s> i feel robbed!!! i may just return this and customize my own online or wait out my 3 month warranty to see if anything else better comes about and then replace it!  </s>
+<s> personally, i like to make my own pcs, that way i never get ripped off, but if you buy another pc i would recomend sony.  </s>
+<s> sony pcs are expensive, but are worth the money (at least mine was!)  </s>
+<s> if you mean a multireader, you can add one yourself for around $20, it may not have the hp logo, but it'll do just what you want.  </s>
+<s> if you want to add the media reader: you can have it external, internal, black, white, etc i'm assuming you've purchased the 6157 based on what you've said so far, it offers an open pci express x16 slot, and you could put a card in there for $80 to $130 that would be easily faster than the 7500le (which is a very low level 3d card).  </s>
+<s> if you wanted to put a 3d card in, i'd suggest looking at the geforce 8500gt, which can be found at newegg for about $80 (look at: evga, msi, xfx, bfg tech; avoid: ecs, jaton) however based on what you've described your pc needs as, the gma 950 should be just fine.  </s>
+<s> based on the availability of inexpensive 3d cards which are easily faster than the 7500le, and low price of card readers, the $300 savings seems like $300 well saved, given that upgrading your new pc to the same level as the more expensive 7500le equipped model would cost roughly $100 and would give you a higher performance system than the 7500le model.  </s>
+<s> to the comment on sony pc's, sony is notorious for using highly proprietary power supply and mainboard configurations, overcharging for almost everything, and having very limited upgradability due to the proprietary nature of most of their systems.  </s>
+<s> is nvidia pure video something that comes with a new nvidia graphics card?  </s>
+<s> i think i'll keep the a6157 and upgrade to the new nvidia 8500 series card instead.  </s>
+<s> its a feature found on many new nvidia graphics cards, the 8500 series comes with purevideo hd:  </s>
+<s> i also have the a6157c and i am under the impression that it only has a 150 watt power supply.  </s>
+<s> the 8500 gt recommends at least 250.  </s>
+<s> does anyone know if hp's numbers are true and if so what kind of problems would this cause ?  </s>
+<s> i don't know the specifications of most oem power supplies, however 150w seems very low for a modern system.  </s>
+<s> if it is in fact that low, i'd suggest replacing it before getting an 8500gt.  </s>
+<s> 150w seems like a very low figure though, dell seems to be shipping 200-350w in most of its systems.  </s>
+<s> thanks for the reply.  </s>
+<s> how would i find out the correct number without calling customer support ?  </s>
+<s> they make you jump through alot of hoops just to ask a simple question.  </s>
+<s> i'd like to know what hp says too about how much power the a6157c has.  </s>
+<s> because i would love to get the nvidia 8500 too.  </s>
+<s> this on board graphics chip is for the birds!  </s>
+<s> doodledog, our power supply is 250 watts.  </s>
+<s> does that limit us in the video card upgrade department?  </s>
+<s> go to they list about 26 different nvidia 8500gt models.  </s>
+<s> i've noticed all have different power supply requirements.  </s>
+<s> i'd like to know what others think is the best one to go with (all are good prices, the most expensive is $99, but requirea a 300w power supply).  </s>
+<s> the hp unit is going to meet the spec of the system, not the system with upgrades, buying a new power supply will easily solve the issue, and won't cost all that much, it will also allow more upgrades in the future i would, however, like to point out, that there is no point in ugprading beyond integrated graphics if there is no real need to.  </s>
+<s> what's the reason they use integrated graphics?  </s>
+<s> is it solely a cost factor?  </s>
+<s> or is there a useful purpose too?  </s>
+<s> first, yes, it does keep the price down, it provides a 2d subsystem and low power 3d subsystem without needing a dedicated card, which allows for less overall components, meaning less power is needed, meaning less is spent on the overall system. the other advantage is that it keeps power use down, keeps heat output down, if you aren't going to be doing anything beyond the capability of the gma 950, theres no point in having something beyond the gma 950 as it will just increase the thermal footprint, and therefore electrical footprint, of the system.  </s>
+<s> integrated graphics are a convience for system builders and it personel alike, as it keeps the majority of the system on one board (yes, if that one board is damaged the whole system is gone, but we're going to assume its built to a good quality standard (which most mainboards are)) this means the whole system can be built faster, more easily, maintained more easily (you have one driver package from intel which gives you sound, video, and chipset drivers for i/o, networking, etc, instead of 3-4 driver packages for the same thing).  </s>
+<s> the only real downside to integrated graphics is the 3d performance, a few years ago (and even to a degree today) nvidia was toying with putting more &quot;complete&quot; gpus on mainboards, such as the geforce mx 440, geforce 6100, etc, the gma 950 is generally faster than the mx 440, and generally competitive with the 6100. the 3d performance issue is a major thing for gamers, but for most other users theres no need to pay for anything beyond integrated graphics, if thats all they're going to really need.  </s>
+<s> thanks for the great input! it really helps!  </s>
+<s> rather than downgrading the 6077, i think it's more accurate to say they upgraded the 6057.  </s>
+<s> on june 5 costco had both models on sale.  </s>
+<s> the 6077 was $1299 and the 6057 was $999. the current 6157 has the same specs as the 6057 except that it has (1) a faster processor, the core2duo 4400 vs. the core2duo 4300, and (2) it has 2gb of memory vs. 1gb of memory.  </s>
+<s> this could be important because the intel 950 uses the main system memory.  </s>
+<s> i am considering buying the 6157.  </s>
+<s> i don't really care about game performance, but i do care about graphics-related performance like scrolling speed.  </s>
+<s> what has been your experience with the system?  </s>
+<s> my personal experience is good. the only thing i'd have to say bad is i hang/freeze in my browser's e-mail.  </s>
+<s> this didn't happen on the a6077c.  </s>
+<s> but i asked here, and ppl don't seem to think it's the graphics card.  </s>
+<s> but more the browser itself.  </s>
+<s> i also asked if ppl thought the $300 savings over the a6077c was worth it.  </s>
+<s> so far, ppl thought it was, because better graphics cards can be installed by yourself cheaper.  </s>
+<s> you are getting a smidge less in the hard drive too on this one.  </s>
+<s> i'm going to try a movie soon.  </s>
+<s> i'll let you know how it is.  </s>
+<s> most of your questions have to do with 2d display quality and performance, which hasn't been a real issue for computers since the mid to late 90's, so i wouldn't be too worried about it.  </s>
+<s> however, i can understand your question and where its coming from.  </s>
+<s> the 950 does use main system memory, however it doesn't use a huge piece of main system memory (i'm guessing 128m is probably the largest amount of memory it can have allocated to it (it doesn't have free reign, the bios allocates a block of ram to it)).  </s>
+<s> thanks ozos for your informative posts, and also thanks doodledog for your reply to my post.  </s>
+<s> btw, i found that costco has a $100 off coupon for the a6157c good aug. 13 to aug.  </s>
+<s> 19 i found someone selling the coupon on ebay, but presumably one could also get the coupon book at costco.  </s>
+<s> although it's hard to do direct comparisons of price because the a6157c is exclusive to costco, it appears to me that comparable systems cost significantly more if purchased directly from hp on their website.  </s>
+<s> would anyone else agree/disagree?  </s>
+<s> i always price compare and research everything.  </s>
+<s> no matter if it's a stick of gum or a computer bundle.  </s>
+<s> coscto beats competitor's hands down for price.  </s>
+<s> i was po'd because i have that coupon you mention, but i needed my system now, so had to eat the $100 savings .  </s>
+<s> but because i had trouble with my previous a6077c, i returned it and saved $300.  </s>
+<s> so i'm happy.  </s>
+<s> oh! i also got some great advice from ozos about my browser issues.  </s>
+<s> things work much better for me (and really faster) when i stopped using ie 7 & and switched to firefox 2 instead.  </s>
+<s> i've posted a lot about typing issues, and hang time and went rounds with resolutions at hp and costco concierge tech support.  </s>
+<s> i took ozos advice and downloaded my free version of firefox at and i am impressed!!!! no more ie for me!!!!  </s>
+<s> so i've been reading this thread for a few days and decided to call hp about a few things.  </s>
+<s> i called hp and they confirmed that it has a 250w power supply.  </s>
+<s> i then asked if there is a specific type of power supply i would need to purchase so i could have enough for a nice video card.  </s>
+<s> after putting me on hold a few times, the man told me that 300w would be the highest i could upgrade to because any higher than that and it might make my &quot;motherboard go bad&quot;.  </s>
+<s> is there any validity to this? i've never heard of a power supply breaking a motherboard...i dunno, i'm a rookie.  </s>
+<s> all i know is i want a better video card! the guy said a few things that led me to believe he didn't know what he was talking about.  </s>
+<s> after he broke the news that i couldn't go above 300w he told me that would be plenty for any card i wanted to get.  </s>
+<s> i told him that can not be true because the 8800gts card i want needs 400-500 at least.  </s>
+<s> so am what's the deal with the power supply?  </s>
+<s> is there validity to what he said about going above 300w?  </s>

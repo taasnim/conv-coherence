@@ -1,0 +1,61 @@
+<s> helping a buddy set up a wireless network with linksys wireless-g.  </s>
+<s> i couldn't get it working properly!  </s>
+<s> here's the setup (all pcs running xp pro + sp1 + all updates): base station (located in basement just below stairs): cable modem &gt; linksys wrt54g router &gt; gateway desktop (wired).  </s>
+<s> works as normal.  </s>
+<s> first set up ~ wifi gateway pc (located on first level approx.  </s>
+<s> 16'0&quot;): linksys wrt54g &gt; second gateway desktop fitted with a linksys wmp54g wireless-g pci adapter.  </s>
+<s> this pc can connect but would disconnect after a few minutes and have to reconnect each time.  </s>
+<s> this issue cannot be resolved so far.  </s>
+<s> have tried changing different channels still it disconnects after a few minutes on line.  </s>
+<s> any suggestions?  </s>
+<s> second set up ~ wifi pc (located on second level approx 36'0&quot; away from linksys router): on clicking connect it shows the signal strength to be below average but the pc cannot connect to the internet.  </s>
+<s> third set up ~ toshiba satellite centrino with built-in wifi 802.11b.  </s>
+<s> it shows the linksys router with a red &quot;x&quot; and cannot connect at all.  </s>
+<s> tried installing a linksys wireless-g pcmcia card and it shows that there is an excellent signal strength but would not connect to the internet!  </s>
+<s> any thought on where things have gone wrong?  </s>
+<s> could the fact that the linksys router being located in the basement be the problem?  </s>
+<s> but then it shows that the signal strength to the first desktop to be strong and this connects but loose connection every few minutes.  </s>
+<s> have called linksys tech support and was told to try different channels till one works.  </s>
+<s> but no joy.  </s>
+<s> also note that wep is enabled.  </s>
+<s> any suggestions on how to get this set up working would be greatly appreciated.  </s>
+<s> 1. latest firmware all around.  </s>
+<s> 2. from the fab i agree that it could be a power management issue.  </s>
+<s> yes, this is not usb, but ... bob  </s>
+<s> i might move the router upstairs and run a cat5 line down to the basement to see if that improves the signal.  </s>
+<s> i have a client with a similar setup and the router move upstairs solved the connection issue.  </s>
+<s> it seems even the g standard is limited by environmental factors.  </s>
+<s> latest firmware was the first thing i applied when it could not connect.  </s>
+<s> moving router was not a preferred alternative.  </s>
+<s> he thinks that linksys should have a proper working product a non- fully functioning product.  </s>
+<s> i have a 802.11b linksys in my basement at home and my wifi laptop can connect even when i am in my bedroom on the second floor.  </s>
+<s> though the signal is around 20~30% the connection never disconnects!  </s>
+<s> what is not told to everyone is that no rigourous testing is performed on every card or device in order to cut production costs.  </s>
+<s> every once in awhile you'll find a bad card or device in the field.  </s>
+<s> on your part you will try the networking within a few feet to make sure that the parts are dead and then begin the exchange process. the testing of the product may work ok in the factory, but that was many months ago some thousands of miles away.  </s>
+<s> this isn't an excuse for a defect, but it shows up as stories we read here.  </s>
+<s> bob  </s>
+<s> i seem to recall reading somewhere that &quot;g&quot; has high data transfer but short range.  </s>
+<s> could this be the problem?  </s>
+<s> linksys' tech said there could also be interference from microwave & cordless phones.  </s>
+<s> but the cordless phone is in a different location and the microwave is also quite a distance away.  </s>
+<s> if such is the case then this product is not ready for the market?  </s>
+<s> i have recommended that he return the product to the store!  </s>
+<s> &quot;i seem to recall reading somewhere that &quot;g&quot; has high data transfer but short range.  </s>
+<s> could this be the problem?&quot; i'll write no. the distance i'm seeing is the same.  </s>
+<s> but one situation is unlike another, but 20 feet even with a floor is usually ok unless it's some concrete floor which can have a metal layer in it.  </s>
+<s> &quot;linksys' tech said there could also be interference from microwave & cordless phones.  </s>
+<s> but the cordless phone is in a different location and the microwave is also quite a distance away.  </s>
+<s> if such is the case then this product is not ready for the market?&quot;  </s>
+<s> again, i'll write no. far too many success stories and if the situation was this dire, retailers would have already removed the products from the shelves.  </s>
+<s> did you notice how short those tablet pc's showed up?  </s>
+<s> bob  </s>
+<s> i recommend returning it as well.  </s>
+<s> i've got the linksys g setup in an almost impossible house to try and get a wireless system to work.  </s>
+<s> &quot;g&quot; has high data transfer and long range.  </s>
+<s> i think i was lucky.  </s>
+<s> i bought a linksys g router and wireless notebook card and it worked flawlessly out of the box.  </s>
+<s> however, i suggested a friend try it.  </s>
+<s> he needed to return it.  </s>
+<s> also be advised the linksys customer service help is inept.  </s>
+<s> i had to call three times to get an answer on possibly upgrading the router.  </s>

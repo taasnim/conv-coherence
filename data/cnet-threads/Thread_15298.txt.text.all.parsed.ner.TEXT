@@ -1,0 +1,33 @@
+<s> hi, my acer aspire m1640 desktop of two years died suddenly.  </s>
+<s> it was checked by an it chap who noted that it doesn't even give a beep on start up.  </s>
+<s> we can hear the fans and the hdd calibrate but then nothing else. he checked that the right voltage is flowing through.  </s>
+<s> so it seems that the motherboard is gone kaput.  </s>
+<s> so my question is, if i am going to replace the motherboard, could i upgrade to a new motherboard, chipset and processor (like i3 or i5).  </s>
+<s> does is make technical and financial sense. it is for my daughter who is a keen artist and does do a lot of drawing/ painting stuff on it.  </s>
+<s> upgrading os and other software is not an issue.  </s>
+<s> you will need to verify the physical sizing aspects of the new mtrbd.  </s>
+<s> but in most cases they follow the baby atx size factor, to include the required mounting holes.  </s>
+<s> you need to consider buying yet another psu to help power it all when done. the current psu maybe too skippy on power, probable 250-300w unit thus typical new system is in the 500w range or better.  </s>
+<s> you may want to try the new psu just to see if it corrects the present problem.  </s>
+<s> that and getting the feel for the repair/swap process.  </s>
+<s> otherwise, for the cost of new rebuild system, you can check pricing on new entry level systems.  </s>
+<s> they are quite decent now in price for the xmas season and selling before the end of the yr.. at least compare it all to a total diy project.  </s>
+<s> tada -----willy  </s>
+<s> thanks willy, you have understood the dilemma of a dad at christmas time!! new machines with an i3 processor seem to still cost about ?500 here in the uk. but the poor girl likes (and is good at) drawing pictures so don't want to burn my fingers again if the new system is underpowered! the mobo is a mini-atx so i will look out for a similar sized replacement. the it person who checked my pc found a steady supply voltage of 12v and 5v in the relevant areas so i am interested in your suggestion about replacing the psu.  </s>
+<s> would that give more safety and peace of mind.  </s>
+<s> also, what if i just upgraded the motherboard/cpu/ram to something more contemporary (built around an i3 processor).  </s>
+<s> would i be able to use the rest of my components or have to change them too.  </s>
+<s> apologies if that is a silly question, but i am a novice in hardware but keen to get the most bang for my buck.  </s>
+<s> cheers, vivek  </s>
+<s> i mentioned the new psu as you're already doing a mtrbd.  </s>
+<s> replacement, it's a good time to swap the psu as well.  </s>
+<s> plus, you mentioned the system just up and died.  </s>
+<s> that usually means to me the psu, even though voltages are present doesn't mean the &quot;amps&quot; are there to power things.  </s>
+<s> regardless, it would be a good move to swap the psu during this time and buy a larger wattage unit.  </s>
+<s> that along with the new demands of a new mtrbd.,  </s>
+<s> etc., is a good match.  </s>
+<s> as for the rest of the components, test elsewhere if possible.  </s>
+<s> build small, then add as you expand the system, that way you do a simple test and get a feel for what's installed.  </s>
+<s> you also help yourself by reducing what could be causing a problem, should one arise.  </s>
+<s> verify any jumper/setting/config that maybe needed, take your time and proceed at your own pace.  </s>
+<s> good luck tada -----willy  </s>

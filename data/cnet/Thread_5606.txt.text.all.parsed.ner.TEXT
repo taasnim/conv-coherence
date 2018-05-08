@@ -1,0 +1,32 @@
+<s> i finally tried to build my first computer today with the parts listed below, but when i try to turn on the computer, nothing happens.  </s>
+<s> i disconnected all the peripherals from the psu to eliminate that as a problem, but it still won't start.  </s>
+<s> when i initially flip the switch for the psu, the lights on my keyboard (caps lock and the like) flash for a second, but then when i hit the power button on the case, it doesn't turn on.  </s>
+<s> the psu never makes a noise and the fan doesn't move.  </s>
+<s> i thought this might be because i only used 2 out of the 3 cables that you can't detach from the psu (the website says that all &quot;non-vital&quot; cables are detachable, so maybe i need to use all 3 of these &quot;vital&quot; cables?). i used the 8 pin cpu connector and the 24 pin main power connector, but am not using the 4 pin cpu connector since there is nowhere on the motherboard to put it.  </s>
+<s> do the lights on the keyboard mean the psu works and i'm just doing something wrong or is the psu dead?  </s>
+<s> or is it something else entirely, like the motherboard being dead?  </s>
+<s> thanks.  </s>
+<s> build: asrock 770 extreme3 ocz 700w modxstream pro amd athlon ii 640 his radeon 5770 ocz special ops edition low voltage ram, 1600 mhz, 2x2 gb antec 200 case  </s>
+<s> if proper connections are made it should work.  </s>
+<s> its important to review the manual and verify the connections are going to where they need to go.  </s>
+<s> also, the frt.  </s>
+<s> panel power-on/off harness si proper.  </s>
+<s> you can remove the harness and using a small screwdriver or metal contact, short the contact for a split sec.  </s>
+<s> and see if it powers-on.  </s>
+<s> that way yu know at least the proper contact was active.  </s>
+<s> next, check the video connection, if not on video car or on-board is connected, that way at least a flash may appear or not bit indicates power again is present. the monetarily flash you see1st powering-on is only the surge and means only power is present but not active(on?off)  </s>
+<s> status.  </s>
+<s> alas, not cables/harness need be connected, if all that are required are connected.  </s>
+<s> new psus come ready for various setups and thus not all are needed.  </s>
+<s> check and verify all is fully seated and ok, take your time.  </s>
+<s> you need to make a simple(basic) system, only enough to power-on the system.  </s>
+<s> if that doesn't work, again some connection isn't pressnt or misconnected.  </s>
+<s> of course, if all else fails, you can then though the status of components being ok, swap and replace.  </s>
+<s> google for bad caps or such and look for exmaples at -or- a troubleshooting chart giving ideas to check following the chart.  </s>
+<s> you can't take anything for granted.  </s>
+<s> if possible test compnets elsewhere.  </s>
+<s> you didn't mention what wattage psu was, is it better than 400w and a decent name brand?  </s>
+<s> tada -----willy  </s>
+<s> no need to double post.  </s>
+<s> i will lock this so you can concentrate on your other thread here; it avoids confusion and duplication.  </s>
+<s> mark  </s>

@@ -1,0 +1,19 @@
+<s> ok here is my question.  </s>
+<s> i have an emachiene t5212 ( ) and the specs say it has a max video ram of 128mb.  </s>
+<s> i was hoping to put in a direct x10 video card, but now it doesnt seam to be possiable.  </s>
+<s> my question is, can i add 2 video cards each having 128mb or can my computer only handle a total od 128mb, and does anyone have any suggestions on a good card.  </s>
+<s> thanks!!!!!!  </s>
+<s> dual video board is not possible as far as i can see.  </s>
+<s> but dx10 is possible; look at some of the pci-express board above $300.  </s>
+<s> i think some of them have dx10 support.  </s>
+<s> your emachines 5212 has a pci-express slot allowing 1 video card to be added.  </s>
+<s> (the pci-express video card will override your built-in video.) the main contstraint is your power supply.  </s>
+<s> its power rating is not listed in the pc's specifications but it's probably 300w.  </s>
+<s> without upgrading your power supply you could add a geforce 8500 based card.  </s>
+<s> here's a msi 8500gt/256mb for $100 .  </s>
+<s> if you're willing to add a 400w (or better) power supply ($30-$40 or so) you could move up to a 8600gt for about $150 or a 8600gts for $170-$190.  </s>
+<s> 8600gt- 300w recommended minimum ps.  </s>
+<s> i have one in my dell e521 which is 305w.  </s>
+<s> big improvement over what i had (x1300 pro).  </s>
+<s> btw ati recommended minimum is 350w even though dell offers it on the e521.  </s>
+<s> dell underrates their psu's a bit though.  </s>

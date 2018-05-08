@@ -1,0 +1,14 @@
+<s> i am running 2 320 gb sata hardrives in a raid(not sure which raid it is i just kno that it shows the system one big disc consisting of 640gb).  </s>
+<s> i want to add a new drive to my system ( a 1tb sata).  </s>
+<s> can i add this to the raid?  </s>
+<s> how do i do this?  </s>
+<s> where is that?  </s>
+<s> give a link please.  </s>
+<s> most likely your 320gb drives are striped (raid-0) into a single device.  </s>
+<s> if so, you'd have to backup/restore the entire device since any changes will reinitialize (erase) the existing drives.  </s>
+<s> also, most raid-0 implementations require drives of the same size or they will only use the size of the smallest drive.  </s>
+<s> so adding a 1tb drive would result in a 900+gb raid device with 600+gb inaccessible on the 1tb drive.  </s>
+<s> intel's matrix raid would allow you to access the 'leftover' space.  </s>
+<s> if you're using jbod, then you could add the 1tb drive but the question would be 'why'?  </s>
+<s> it would offer no performance benefit and unless you've filled the existing drives it wouldn't be used.  </s>
+<s> you'd be better off using the 1tb drive seperately and doing some spindle management (moving apps/data to different drives to avoid contention).  </s>

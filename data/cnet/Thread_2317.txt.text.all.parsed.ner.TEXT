@@ -1,0 +1,103 @@
+<s> i just sold me house, finally got some cash to build my dream system.  </s>
+<s> of course i want it all.  </s>
+<s> great gaming, and great video editing.  </s>
+<s> what should i go with?  </s>
+<s> i'm even up in the air about athlon vs p4. i read maximum pc and they area praising the amd stuff right now and suggest waiting for the new dual core chips from intel to come out.  </s>
+<s> i've always had intel inside so i'm somewhat biased.  </s>
+<s> tia shawn  </s>
+<s> $1500 would get you a great system... the price of a house would enable you to buy many computers.  </s>
+<s> my suggestion build your own.  </s>
+<s> a list of parts would be avilable upon request and $1500 is all you need for just the computer.  </s>
+<s> roger  </s>
+<s> i have never built a system so i don't know if i could handle it.  </s>
+<s> i've done everything to an exsisting computer aside from changing the power supply and the motherboard.  </s>
+<s> i have never built a tower either so i would have that built for me as well.  </s>
+<s> i'm leaning toward the top end athlon 64, definitely need 2gb of ram.  </s>
+<s> i would rather have one really fast hd for video editing and game playing and another for mainly storage of mp3 warez etc.  </s>
+<s> ok, this is a basic configuratiion i would recommend going with... cpu- athlon 64 fx-55 mobo- asus sli (don't no exact name) ram- 4 x 512 mb pc3200 ocz video card- 2 x nvidia 6800 ultra hdd- 2 x 74 gb western digital raptor 10,000 rpm 1 x 200 gb seagate sata (for mp3s) sound card- sound blaster audigy zs2 (or sumthing like that) cooling- liquid cooling case- your decision  </s>
+<s> and read the article comparing the upcoming dual core amd and intel.  </s>
+<s> they had versions to test. the amd left intel looking bad.  </s>
+<s> when one takes into account the terribly high power consumption of the intrels there seems to be no choice.  </s>
+<s> you do have to cool them you know. the intel consumes more power at idle than the amd at peak.  </s>
+<s> and to hold their heat down, intel has to run the processor slower than their single core [3.2 vs 3.8].  </s>
+<s> notice also, that since the amd has the mch in the cpu die, the nvidia 4 chipset for the amd is a single chip, while for the intel it is still the northbridge and southbridge.  </s>
+<s> yes intel calls the mch and ioch.  </s>
+<s> configure a high end dual core now with intel: (don't forget dual wd raptor 10,000rpm hard drives) or wait to see what they come up with for amd's new 'dual core' processors.  </s>
+<s> amd has previously announced that they will not consider their top fx 55 for dual core until games for dual core are out.  </s>
+<s> intel has been working on that also:  </s>
+<s> the fx-55 will always be a 2.6ghz hammer based chip with 1 core fx-57 is basically a 90nm fx-55 at higher speeds and amd's view is that the fx series is for nothing but gaming, so the chip should do basically nothing but (it's just a benchmarking/power house chip) i wouldn't suggest 2gb of ram (you don't even need it, gaming won't touch needing that mouch, video editing (you have to have bob explain it (because he does this stuff) but basically his comment is that you save 5 minutes out of 6 hours...not worth the extra money) aside from that i would suggest the athlon64x2 4600+ or 4800+ the reason?  </s>
+<s> they are amazingly fast, and will help in video editing (they will cut a huge chunk of time off your rendering, as they render almost like a dual opteron server) aside from that i would not get the asus board i would suggest the dfi sli board (it's about $40 more) and a pair of geforce 6800gt's or 6800ultra's (either would be more than fast) in addition i would suggest hte creative labs audigy 4 pro, the 4 is not a new generation card, all audigy 4 means is that it has 4 inputs/4outputs (which is nice compared to the 2 zs plat/2 zs plat pro's 3/2 type config) the reason the 4 pro is good is because unlike m-audio's delta 1010, which is 10 in 10 out only the 4 pro supports 7.1 thx playback at a higher snr than the audigy 2 zs series (by about 2 db, so it's not really anything amazing) in addition you will want a very good power supply, i would suggest pc power & cooling's 850w (you don't need something as manly as this, but since you have the money, why not get the best?) it's about $499 find it here that psu will drive 2 basic machines or 1 really tricked out machine (like what your building) but wait, there's more so i'm suggesting this board: with the above psu and since you have the money to spend that is what i'd cool the cpu with it will do around -45* c then we move to the video cards if you really want the best cooling two of those for your 6800 ultra's and put them on a wc loop (buy the other hardware at danger den) building it yourself is easy installing the hardware is simple guides exist and it's cheaper/better than getting a pre-built  </s>
+<s> thanks for the reply.  </s>
+<s> great job with the links as well.  </s>
+<s> i'm going to go with the 4800 then as well as the dfi mobo.  </s>
+<s> if i go with the thermaltake silent purepower w0014ru atx 480w power supply 100 - 240v will that work with the dual vids and the 4800?  </s>
+<s> thanks again shawn  </s>
+<s> forget the thermaltake, the 600w all in one noise taker is what i'm going to with. the turbo-cool is out of stock : (  </s>
+<s> re: &quot;i've always had intel inside so i'm somewhat biased.&quot;  </s>
+<s> dell has now come out with the new intel dual core series 820, 830 and 840 in a 9100 model in addition to their gamer gen 5 dual core.  </s>
+<s> don't get the thermaltake i have the 420w in another rig, it's not bad from what i've seen so far, but i wouldn't suggest it, nor it's 480w cousin, for sli and what not i would suggest a pc power & cooling 850w if you really want the best if you want to step down a bit, the 510w would be fine also, on newegg the zippy/emacs 700w and 600w units would be fine along with enermax's 660w unit  </s>
+<s> if i get a athlon mobo, will i be able to drop in a dual core chip at somepoint???  </s>
+<s> processor can be thrown into just any current athlon motherboard.  </s>
+<s> from what i understand the new amd dual core processors can be installed in a socket 939 motherboard and be activated through the bios.  </s>
+<s> as to the details, i would suggest contacting amd for clarification on which current motherboards. the pricing is supposed to be: $1001 = 4800 $803 = 4600 $581 = 4400 $537 = 4200 respectively, in 1000 unit quantities according to ray harinec..... &quot;amd's dual core isn't due until late 3rd quarter, early fourth.&quot;  </s>
+<s> mobos. of course at that time a bios update will be required.  </s>
+<s> consider the two top abit mobos, the fatality or the sli.  </s>
+<s> high price but ready for the future.  </s>
+<s> very highly rated in testing sites.  </s>
+<s> and the heat that the intel dual cores put out would scare the hades out of me.  </s>
+<s> my thoughts are that intel will almost force one to go to a btx style system [new case, new mobo, new hsf et al. [of course intel has been pushing the btx spec, and vendors have tried to ognore them.  </s>
+<s> a little like the intel insistance on sticking to rambus memory until****.  </s>
+<s> there are some btx cases available now. the mobo goes in from the right side rather than the left as the current atx's go.  </s>
+<s> change will continue to happen, simply progress, can't fight it.  </s>
+<s> to read their in depth article comparing the intel and amd dual core cpu's?? tom's and other such sites get actual devices from the mfrs to use before they are generally available, so they are actually testing the real devices. the heat issue will floor you.  </s>
+<s> it's $10.5k to ship it to your door (just under) all parts from newegg dual xeon 3.6 with em64t (they'd eat an 840 alive) dual 6800u's (the 512mb ones) 8gb of ram 2.1tb of storage dual top end dvd burners alienware can't touch this it's a monster if your interested links and part list avliablble but me, i don't suggest something this expensive  </s>
+<s> for my third system, i thought, &quot;what the heck; i spend so much time tinkering around with this stuff, how hard can it be?&quot; the hardest part was getting sp1 loaded on a 200gb harddrive--bill used all kinds of subtefuge to get me to buy into sp2, but i resisted.  </s>
+<s> sp1, without a patch, can't handle the large harddrives (i can't exactly remember what the limitation is, but it's less the 200gb).  </s>
+<s> anyway, i paid twice as much money for a fundamentally limited gateway in 1998.  </s>
+<s> then, thinking to outfox the limitations, in feb 2004, i bought an &quot;expandable&quot; e-machine advertised at pc 3200+.  </s>
+<s> i could never figure out how the nvidia chipset, rated by the nvidia people, the fic mobo assembly people, and the amd designers; all three of these entities said this was 400 fsb / 3200+ (emachine said it was a 3200+ machine as well--it just couldn't handle fsb over 333 (does anyone see a problem?). somehow, e-machines was able to downsize the fsb to 333 ddr (i had two 512 ddrs for 2 slots).  </s>
+<s> i had been reading the wrangling about whether this is a pc2700 or a pc3200 that i had.  </s>
+<s> i got a good price on a pair of crucial 1gb 400 ddrs and decided to take the chance.  </s>
+<s> wrong.  </s>
+<s> the bios recognized the 2048mbs of 400ddr, but as soon as i would plug in my agp (i was giving the system it's enema and because the mobo was designed w/ nvidia integrated video, i had to set the rest of the stuff up.  </s>
+<s> then, load the nvidia video drivers for the agp card.  </s>
+<s> before rebooting to the new drivers, i had to disable the onboard nvidea drivers.  </s>
+<s> ok so far--agp drivers loaded fine, the 400ddr was up and running so i'd power off, unplug the power, pop the agp card in, plug it back up, power it up and everything would load properly until it came time to adjust the new agp card setting--bam--bsod.  </s>
+<s> after running in that circle for 2 or 3 times, i said, &quot;screw this--i'm going to either mess up the new memory or my agp card & maybe the sound card--who knows?  </s>
+<s> i need 64 bit processing anyway (need?  </s>
+<s> bs; i wanted it!). down to the local store, bought an abit mobo w/ a 64 bit, true pc 3200+ for that socket 939.  </s>
+<s> no more socket a for me.  </s>
+<s> true, that set me back a few bucks, but the total expenditure on mobo & chipset was less than a 4th of what i spent on the emachine.  </s>
+<s> no more trying to make a silk purse out of a sow's ear.  </s>
+<s> i snatched out the new 200gb hd i had installed in the emachine, it's unappreciated new 400ddr mem mods 2gb or did i say that, the 52x (at the top) cd burner/dvd reader. the sound card (and i think that's it).  </s>
+<s> i kept the emachine's dvd read/readwrite/re-write (or whatever) drive.  </s>
+<s> i forgot--i also took the pci usb/firewire card to put in the new system.  </s>
+<s> so, for about 350 bucks (i think) plus all the good stuff already bought and paid for that was wasted on the emachine, i now have a system that screams.  </s>
+<s> i'm not a gamer, but this setup could be competetive--replace the 128mb video card w/ 850 dollars worth of video card (at that price, take your choice), and you've got a gamer.  </s>
+<s> i guess i'd also have to go to serial ata (the abit board can serial built-in but my harddrives are ide) or a bunch of tiny hard drives--my 200gb is like a 747 flying against a squadron of f16s.  </s>
+<s> isn't that what a scuzzy really is?  </s>
+<s> however, if you don't feel like tinkering w/ your computer, go ahead & buy the emachine.  </s>
+<s> they are a very good buy--just don't plan to upgrade.  </s>
+<s> you get what you pay for and emachine gets the most out of the little material that they've put in--hat's off on that count.  </s>
+<s> i'll never buy another pre-assembled desktop (i'll be forced to replace my laptop in about 18 mos & i can't assemble one of those--i'm too clumsy).  </s>
+<s> nice dude.  </s>
+<s> i think 10k is a little much at this point.  </s>
+<s> i can spend 3500-4500.  </s>
+<s> keep the suggestions coming, extremely helpfull.  </s>
+<s> i like the fatal1ty from abit, think i will go with that.  </s>
+<s> i've been a maximum pc fan / boot reader for sometime and seem to be in love with it.  </s>
+<s> i'm not much of a gamer at this point, but i know i will be when i get the system.  </s>
+<s> are the vid cards dual slot?  </s>
+<s> if so, is dual pcie needed or even available at this point?  </s>
+<s> shawn  </s>
+<s> i've been reading that site voarciously for a few weeks now trying to get caught up on this stuff. the last time i worked on a computer i was getting &quot;boot&quot; magazine in the mail.  </s>
+<s> thanks for all the tips!!! shawn  </s>
+<s> parts list of the king is needed.  </s>
+<s> a buddy i work with is going to spend 10g's on one.  </s>
+<s> thanks shawn  </s>
+<s> ok if you really want what my dream system is, you gotta get the tyan thunder k8qs pro quad socket 940 motherboard.  </s>
+<s> just the thought of running 4 cpus at once makes me drool.  </s>
+<s> sure the motherboard alone is $1,500.00 but if u got the money, it would be amazing to have. 10 friggin ram slots, a total of 32gb of ram supported!! 4 amd opteron 800 processors.  </s>
+<s> its expensive, and sure you wouldnt need it, but damn id love to see anyone top you with that.  </s>
+<s> but in serious terms, you should go for a dual intel computer with a nvidia 6800gt graphics card, and as much ram as you can fit on there.  </s>
+<s> sorry i said 10 ram slots, its 16. heres a picture of this beauty.  </s>

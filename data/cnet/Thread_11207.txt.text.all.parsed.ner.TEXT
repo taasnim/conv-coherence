@@ -1,0 +1,65 @@
+<s> hi i have been backing up my files onto an 8gb transcend flash drive. the other day when i went to access one of the files, the drive asked me to format, which i know is the wrong thing to do.  </s>
+<s> when i look at the drive properties the pie chart indicates that the drive is full but it also says 0 bytes on the drive.  </s>
+<s> is there any way to recover the files on this drive or am i out of luck.  </s>
+<s> running windows xp media edition sp2 on dell pc. many thanks for any help you can give me.  </s>
+<s> bob h  </s>
+<s> these things are backup, not storage so i had to fish around but found the hp usb formatter with this search -&gt; hope this helps bring it back.  </s>
+<s> bob  </s>
+<s> hi bob thanks for your help and please forgive me if i sound stupid about this.  </s>
+<s> i was under the impression that formatting would erase anything on the drive (am i right&gt;) in that case i've defeated the purpose which was to recover what's on this flash drive.  </s>
+<s> bob h  </s>
+<s> while you can use them as such, all too often they can lose it.  </s>
+<s> just google and find many users having the same issue, lost access or ability to retrieve. the flash drives are great for &quot;temporary storage&quot; or xfer from one system to the next.  </s>
+<s> excluding any s/w glitch it may have succumb to esd(static) damage or possible os hi-jinks.  </s>
+<s> the same recovery tools can be used as any other storage device, google away.  </s>
+<s> some are free to use or test results then buy.  </s>
+<s> i suggest you look at these &quot;file websites&quot; that provide such pgms.: good luck -----willy  </s>
+<s> backup is when you have a copy.  </s>
+<s> now let's say you have a copy on your pc and that flash drive.  </s>
+<s> that's barely a backup since when the pc is wiped out you only have the original and no copy.  </s>
+<s> thus no backup.  </s>
+<s> -&gt; try the stick in some other machine next.  </s>
+<s> maybe your host machine is missing drivers after a reload.  </s>
+<s> but i don't see that in the story so that would be me guessing badly.  </s>
+<s> bob  </s>
+<s> hi willy i took your advice and went on to filehippo.  </s>
+<s> i found a freeware program called pc inspector but besides not being user friendly, it didn't seem to recover anything on the drive.  </s>
+<s> is there a better way.  </s>
+<s> thanks bob h  </s>
+<s> use google to find easyrecovery recuva getdataback zero assumption recovery many of these do not require the drive to have a drive letter.  </s>
+<s> bob  </s>
+<s> oh, and when using the program i get an error message &quot;bad parameters in boot sector&quot; i know that's not a good sign.  </s>
+<s> thanks bob h  </s>
+<s> you are a patient person, friend.  </s>
+<s> believe it or not i'm far from computer illiterate but this one has me stumped.  </s>
+<s> i took your advice and installed recuva from piriform. the program refuses to scan the flash drive because it says.....&quot;unable to read boot sector&quot; thanks bob h  </s>
+<s> try additional file recovery pgms.  </s>
+<s> until you seem familiar(or like) with the process.  </s>
+<s> a boot sector error is something that can't be dismissed so easily.  </s>
+<s> a damaged boot sector is far worse than a erased file or folder.  </s>
+<s> remember, some pgms.  </s>
+<s> offer to test and go through the process but don't really recover anything until you pay for the version.  </s>
+<s> others may proceed and actually do the work but nag anyways even freeware.  </s>
+<s> here is another popular file website: tada -----willy  </s>
+<s> i offered a few titles because i've found some to succeed where others fail.  </s>
+<s> also, please have a friend try that stick.  </s>
+<s> bob  </s>
+<s> i will try some of the others but i did try the drive in a laptop and i still got the prompt to format.  </s>
+<s> thanks again for your patience bob h  </s>
+<s> this is a note to say thanks to all of you who read and gave suggestions about how to retrieve data from my flash drive.  </s>
+<s> especially to willy and bob who came up with the winner.  </s>
+<s> zero assumption software did the trick, restoring all my valuable records and files......i promise never to depend on flash hardware for storage again.  </s>
+<s> i recommend this software because it's easy to use and because, unlike the others.....it works.  </s>
+<s> tell your friends.  </s>
+<s> again....thanks everyone, you made my new year.  </s>
+<s> bob hennessy  </s>
+<s> what backup is... could use a little definition.  </s>
+<s> backup means more than one copy.  </s>
+<s> but some stop at one copy (2 places where the files are) and only later discover that when we lose the first copy the second copy is no longer the backup.  </s>
+<s> to maintain &quot;backup&quot; we have to start with at least 3 copies of a file.  </s>
+<s> now when we have a failure we still have a backup copy.  </s>
+<s> flash drives are not so bad but you may lose one once in awhile.  </s>
+<s> about the titles.  </s>
+<s> some do better than others depending on the failure, the media and so on.  </s>
+<s> keep your favorite but be ready to try the others when the favorite strikes out.  </s>
+<s> bob  </s>

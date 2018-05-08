@@ -1,0 +1,63 @@
+<s> hi, i have an hp pavilion 8760c, 733 mhz processor.  </s>
+<s> i purchased it back in august 2000 (yep, it's an oldie and a slow one at that!). in june 2004, the original hard drive failed.  </s>
+<s> i took it to a local computer repair shop, which told me that the drive was unsalvagable.  </s>
+<s> i replaced it with a maxtor hard drive and updated the ram.  </s>
+<s> i also upgraded from win 98 to win xp sometime in 2003 or 2004.  </s>
+<s> it's been running fine--nothing fast or special, but it was getting the job done as our printing station, word processor, quick email station, etc (my husband and i both have laptops).  </s>
+<s> it would give the message that it was running low on virtual memory when we had too many explorer windows or media open, but closing them usually resolved this issue.  </s>
+<s> well, i turned the computer on this morning to check my email.  </s>
+<s> things were working fine.  </s>
+<s> i left for a few hours and when i came home, the screen was entirely black with the message &quot;disk boot failure&quot;.  </s>
+<s> i tried restarting and noticed that it's not recognizing the hard drive at startup.  </s>
+<s> naturally, this also means that when i insert the win xp boot disk, it tells me it doesn't recognize any hard drives.  </s>
+<s> i opened up the computer, checked the connections and tried a different power supply.  </s>
+<s> still the same problem.  </s>
+<s> so, my question is, am i out of luck and is the drive just dead?  </s>
+<s> or is there any chance that the cables are dead and the drive is fine?  </s>
+<s> i'm not hearing the clicking or strange noises like i did when my first one failed.  </s>
+<s> then again, i was gone for about 5 hours, so i don't know what happened in the moments leading up to the failure.  </s>
+<s> nothing was open on the computer except my mulberry email client.  </s>
+<s> despite our first rash of bad luck and my repeated reminders, my husband has not been backing up his school work in the past few months.  </s>
+<s> i'm going to buy a new desktop since there is no point to updating the old one again, but i'm wondering if there is anything i can do to get the data off the hard drive, beyond bringing it to an expert?  </s>
+<s> and if that is recommended, does anyone have a ballpark on cost?  </s>
+<s> thanks!  </s>
+<s> joy  </s>
+<s> that's worth the few dollars.  </s>
+<s> later on the new machine consider some 20 buck usb hard disk enclosure at newegg.com or geeks.com and hope the drive shows up.  </s>
+<s> bob  </s>
+<s> since, you're going to be getting a new system, then consider adding the old hd to the new system.  </s>
+<s> doing this *may* allow it to be seen.  </s>
+<s> you will need to jumper the hds, old and new for cs operation.  </s>
+<s> visit the support website of the hd vendor and go from there for details.  </s>
+<s> but, most hds do have a sticker/decal that explain the jumper setting.  </s>
+<s> if the new system doesn't see the hd then(once properly setup), then the hd is kaput.  </s>
+<s> you can then consider what cost you're willing to pay for any data recovery.  </s>
+<s> google for such a service and offhand, expect to pay roughly anywhere from $500-2000+ and no real guarantee either of 100% recovery.  </s>
+<s> do yourself a favor and don't try any recovery methods should your system see the hd if it repeatedly shows errors of any sort as you'll further corrupt data or start to.  </s>
+<s> you can try an ext.  </s>
+<s> usb enclosure for possible access that way as robert posted.  </s>
+<s> if the system doesn't see it then nether, then find a recovery service.  </s>
+<s> this service has done well in the past: use keywords: hd data recovery tada -----willy  </s>
+<s> thanks for your helpful thoughts.  </s>
+<s> i think i know what you're referring to with cs operation--so instead of jumping one disk like you do when you have master and slave disk, i jump both.  </s>
+<s> will they load or run any differently when i do?  </s>
+<s> also, if this doesn't work, is there any use in trying the external usb method that robert posted about?  </s>
+<s> or they both trying the same thing in different ways?  </s>
+<s> finally, does anyone know if newer desktops will still support a 3.5&quot; floppy disk bay?  </s>
+<s> up until a year ago, my husband still had to use these to back up data when he was at school, so he has some data on them i need to transfer to cds.  </s>
+<s> i was considering taking out the floppy drive bay from my old computer and putting into the new one to back up his old stuff.  </s>
+<s> thanks!  </s>
+<s> joy  </s>
+<s> you can use the master/slave jumpering if you like, but cs does ok too.  </s>
+<s> once, you jumper correctly, and installed on hd cable properly as well, keeping the new hd as originally connected and place the old hd on remaining connector.  </s>
+<s> once all that is done, hopefully when powered-on the new system sees the old hd. if it asks for a &quot;dual boot setup&quot; decline should it ask.  </s>
+<s> otherwise, if the old hd does get acknowledged, then finish boot, retrieve data to any storage device.  </s>
+<s> once, you're finished, remove old hd(power down) and return new system as it was. the method robert offered is another way, you can try.  </s>
+<s> if the process i suggested fails -or- you play it safe and deal only as robert posted first then any *possible* glitch is keeping on the usb enclosure and keeps the new system from poof factor(rare). the plus side if it works and you get all required data, you can reformat the old hd and then use it as a ext.  </s>
+<s> storage device.  </s>
+<s> you can also use a entirely new larger hd as well of even greater storage capacity. the fd drive if your new system doesn't have it, more than likely will accept it.  </s>
+<s> you will the old cables and access to a fd port on the new mtrbd.  </s>
+<s> and set the bios to accept it.  </s>
+<s> if you find no *legacy fd port* then using a usb type floppy is still an option.  </s>
+<s> using usb for fd usage will require such a purchase if you want to retain that storage method.  </s>
+<s> tada -----willy  </s>

@@ -1,0 +1,89 @@
+<s> i'm setting up a lacie etherdisk 1tb nas for a school that needs to be accessed a network divided into several workgroups in a peer-to-peer setting. the nas has windows xp embedded with a very spartan environment.  </s>
+<s> all the school pcs use xp pro and members from other workgroups will also use the storage device.  </s>
+<s> the problem is that the nas isn't visible in &quot;network places&quot; without other members of it's workgroup turned on.  </s>
+<s> i do believe this is normal.  </s>
+<s> while i know how to search for it by name and map shares as needed, other users do not so those who come in after school hours do not know how to connect to the nas when the browser function isn't working.  </s>
+<s> i know it's possible for a workgroup of 1 pc to broadcast itself and be displayed in network places so i'm thinking this nas has been stripped of a browser service, netbios setting, etc. i can connect a keyboard, mouse and monitor but the desktop is just a shell i can't figure out how to get underneath.  </s>
+<s> not expecting much here but maybe someone knows if it's possible to get this thing display itself on the network when it's other workgroup members are turned off.  </s>
+<s> i'm thinking what's missing is a master browser and this nas can't be one so this thought could be doomed.  </s>
+<s> ideas?  </s>
+<s> thanks.  </s>
+<s> to peek under the hood and find out what they did you'll have to ask it's maker.  </s>
+<s> unlike open source there's not much to do here.  </s>
+<s> &quot;if it's possible to get this thing display itself on the network when it's other workgroup members...&quot; why are you not in it's workgroup?  </s>
+<s> &quot;why are you not in it's workgroup?&quot;  </s>
+<s> we've divided the pcs into workgroups with the intention of simplifying network browsing.  </s>
+<s> rather than have a single group for the entire school, we separate the teaching staff and administration from the pcs primarily used by students.  </s>
+<s> we actually have another similar nas but an older model that's for student use only.  </s>
+<s> this gets complicated because it's a parochial school that gets some public money and that money can only be spent on hardware that's for student use.  </s>
+<s> we cannot connect the teaching staff to this nas and have purchased a separate one with school funds for school staff.  </s>
+<s> because the &quot;student&quot; nas always has other pcs on within it's workgroup during school hours, we don't run into this browsing issue. the new unit will be used after school hours when the rest of the school pcs are off.  </s>
+<s> i do have a few options but was hoping it would be possible to get this nas device to broadcast its identity as a stand alone.  </s>
+<s> no luck with this one.  </s>
+<s> eventually we hope to have it available using ftp/http from staff while at home but this i can't do myself because it's hardware firewalled and i have no access to this device.  </s>
+<s> for the time being, we'll just need to map shares to pcs as requested.  </s>
+<s> if there's one real advantage to volunteer work, it's the job security.  </s>
+<s> i looked at manual it's nothing more than a windows pc file server.  </s>
+<s> if you had set workgroup name on disk same as users, it should appear on network even with yourself as single user.  </s>
+<s> (assuming you do have an always on network with switches and dhcp server; if static you'll have to assign ip and submask same as workgroup) you have to assign permissions to shares for users to map and access them.  </s>
+<s> i can change the workgroup name of the nas to that of my home network and it appears right away.  </s>
+<s> when i change the workgroup to the one it will be in at the school it disappears.  </s>
+<s> coincidently, i had the school secretary's pc at home for some work and placed it on the my home network.  </s>
+<s> it's also xp pro. the secretary's pc displayed itself (workgroup/computername) just fine.  </s>
+<s> when i added the nas, they were both there in that workgroup.  </s>
+<s> disconnecting the secretaries pc caused loss of the nas.  </s>
+<s> i've had every one of the school's pcs at my home at one time or another for repair or general maintenance.  </s>
+<s> these, individually, will display their workgroup name though it sometimes takes a while for them to appear. the nas is, and will be using a static address so we can use the http function and bookmark it in the browser.  </s>
+<s> almost all administration of it is done through its web interface.  </s>
+<s> this is no problem.  </s>
+<s> i'm not an it guy and learn this stuff on the fly.  </s>
+<s> perhaps i'm all wet here but my thinking is that this stripped down os is short on a service or two that's included with the full xp package.  </s>
+<s> i cannot get into the network settings other than basic addressing and windows firewall.  </s>
+<s> i have to wonder if this has something to do with being on a peer-to-peer network and needing a master browser to collect the network shares.  </s>
+<s> i get lost trying to understand that concept, however.  </s>
+<s> anyway, i know both of these lacie devices exhibit the same behavior.  </s>
+<s> if i've set on up wrong, i've done same to both.  </s>
+<s> but, i've got several dozen pcs and laptops humming along just fine so i don't think i'm completely ignorant...just a little bit.  </s>
+<s> to find out if two disks can coexist on same net with different workgroup names.  </s>
+<s> maybe their embedded xp is hardened for security reasons.  </s>
+<s> they can both be on the network just fine.  </s>
+<s> it's just that they won't openly display their presence as stand alone devices as other pcs can be made to do.  </s>
+<s> lacie already says that modifications to the nas void the warranty.  </s>
+<s> i'm sure that if i could figure a way to change the configuration outside of what the shell and browser offer lacie won't offer support.  </s>
+<s> this isn't the end of the world.  </s>
+<s> i can make it work just fine for me but those who will use it have grown accustomed to simply browsing for what they want and not playing hide and seek.  </s>
+<s> thanks.  </s>
+<s> &quot;they can both be on the network just fine.  </s>
+<s> it's just that they won't openly display their presence as stand alone devices as other pcs can be made to do.&quot;  </s>
+<s> &quot;fine&quot; means their netbios can be resolved, which it can't in this case, unless i'm misunderstanding your issue.  </s>
+<s> finally, do you mean to say you've already reported this issue to lacie and all they can offer is no useful advice on setting up in a multi-workgroup environment but just a warning about warranty?  </s>
+<s> if a device won't fill your need, you shouldn't mess with the internals.  </s>
+<s> just move on.  </s>
+<s> the devices can reside on the network and can be accessed.  </s>
+<s> they just cannot be accessed by simply browsing the network unless another pc in its workgroup is also on.  </s>
+<s> but, i know how to find the device by using its name or address and can map the drive or shares, create desktop links, etc. other users in the school won't know how to do this.  </s>
+<s> i don't care to visit every pc in the school that might need access to this nas.  </s>
+<s> anyone can browse a network and click on what shows up.  </s>
+<s> not everyone knows about drive mapping.  </s>
+<s> since both devices exhibit this same behavior, i'm thinking its and issue with a service or some network setting causing this but the device doesn't have windows explorer installed.  </s>
+<s> it has a very limited shell.  </s>
+<s> i'm not unhappy with it. it works quite well and is fairly simple to configure via a web browser.  </s>
+<s> perhaps you have a better understanding than i do of what a master browser is in a peer-to-peer network.  </s>
+<s> for some reason i'm thinking this hiccup is related to that need.  </s>
+<s> maybe this might explain it i'm thinking the nas is a non-browser and i cannot configure it as one.  </s>
+<s> therefore it cannot maintain a list of workgroup shares...even it's own.  </s>
+<s> it relies on another pc to do so.  </s>
+<s> make sense??  </s>
+<s> anyhow, re-read your original post and yep, doomed!  </s>
+<s> one pc must be the samba server.  </s>
+<s> i misread your intention as making the staff new workgroup members and reacted &quot;what is his problem?&quot;  </s>
+<s> i don't suppose you'd volunteer to install hosts and lmhosts file on every pc.  </s>
+<s> and installing something on another pc is counter to what i am attempting because i'm only wanting the nas to be viewed in the network neighborhood when the rest in that workgroup are off .  </s>
+<s> obviously that's not going to happen without changing it.  </s>
+<s> i do appreciate any offers of help or advice.  </s>
+<s> even if it doesn't suit my particular purpose it can be added to other learning experiences.  </s>
+<s> i've posted here before with problems for which i've not found solutions but have gained plenty of knowledge just by reading other posts.  </s>
+<s> i chose this piece of hardware for a number of reasons...not all of which might be sound.  </s>
+<s> it comes at a reasonable price, fits neatly in the 19&quot; relay rack, accommodates an adequate number of users and is fairly easy to configure.  </s>
+<s> it does offer ftp and http web access so the next project will be how to get that function to work.  </s>
+<s> at least with that, users can make their own bookmarks without help...er...most of them anyway.  </s>

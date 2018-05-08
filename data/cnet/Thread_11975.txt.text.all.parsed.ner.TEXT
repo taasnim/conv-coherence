@@ -1,0 +1,32 @@
+<s> hi, i have a netgear wgr614 wireless router that is connected to a cable modem in one part of the house.  </s>
+<s> i'm thinking of getting vonage, and if i do, i will get a free linksys wrtp54g wireless router.  </s>
+<s> in my studio in another part of the house (within wireless range), i have a macbook and a dell desktop running ubuntu.  </s>
+<s> currently, i have the macbook connected to the netgear via wireless, and the dell wired to the macbook with an ethernet cable.  </s>
+<s> i am sharing the internet connection from the macbook with the desktop.  </s>
+<s> now, here's the issue: if i get the linksys wireless router, it will be set up in place of the netgear.  </s>
+<s> i would like to use the netgear as a sort of &quot;distribution point&quot; for a subnet in my studio... to put that differently, i would like to have the netgear router in my studio, and have my laptop and desktop hard-wired into it via ethernet.  </s>
+<s> i would then like to have that netgear router connect to the linksys over wifi, and distribute that connection over ethernet (sort of like what i am using my laptop for now, except without the need to have a computer on all the time).  </s>
+<s> i don't really care if it rebroadcasts the signal, as i don't really need that.  </s>
+<s> i just want a connection available to the desktop, even when my laptop is not powered on or available. is it possible to do this?  </s>
+<s> to fill in dead spots as well as other reasons i hooked up this.  </s>
+<s> cable modem -&gt; netgear wifi router -&gt; buffalo wifi router.  </s>
+<s> works fine.  </s>
+<s> why not do that?  </s>
+<s> bob  </s>
+<s> that's not really what i was hoping to do... i don't have dead spots or lack of connectivity... i want to use the router as a sort of distribution point of the wireless signal... kind of like the reverse of what it normally does.... have it recieve the wireless signal from the main router, and then distribute it via ethernet.  </s>
+<s> i looked at your router and it doesn't do bridge mode.  </s>
+<s> i decline to teach what a bridge is but armed with the proper name you can research what to use.  </s>
+<s> my setup works fab since i get 2 times the possible wifi speed (split over the 2 channels) and &quot;it works.&quot;  </s>
+<s> i can't guess what you are trying to do but will guess you didn't want to pick up a couple more wifi client adapters.  </s>
+<s> bob  </s>
+<s> &quot; i can't guess what you are trying to do but will guess you didn't want to pick up a couple more wifi client adapters.&quot;  </s>
+<s> well, sort of, but not really... i just seem to have connectivity problems when i'm running two wireless adapters in such close proximity.  </s>
+<s> also, the desktop in my studio is running linux, and i have not been able to get my adapter to work, despite hours of hacking and fiddling.  </s>
+<s> there are other issues such as use of wep or no security but that's covered in our forum sticky.  </s>
+<s> you skipped sharing the details so we can't tackle the problem you want to fix. with my setup you could have a pair of wpa-psk wifi routers on different rf channels, ssid broadcasting (see forum sticky as to why) and it works fine for most.  </s>
+<s> again, if you don't try it our way then you should share what you are doing.  </s>
+<s> bob  </s>
+<s> and it's not very expensive.  </s>
+<s> in fact i'm ordering it since i need another printer server.  </s>
+<s> hope it works with my new vista laptops.  </s>
+<s> bob  </s>

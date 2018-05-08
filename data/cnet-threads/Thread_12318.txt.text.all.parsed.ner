@@ -1,0 +1,6 @@
+(TOP (SBARQ (WHNP (WP what)) (SQ (VP (AUX is) (NP (DT a) (JJ good) (VBN rated) (JJ affordable) (JJ dual) (NN layer) (NN burner))) (, ,)) (. ?)) )
+(TOP (S (NP (PRP$ my) (NN plextor)) (VP (AUX is) (VP (VBG starting) (S (VP (TO to) (VP (NN crap) (PRT (RP out))))))) (. .)) )
+(TOP (S (NP (NNP as)) (VP (AUX is) (NP (NP (NP (PRP$ my) (JJ digital) (NN camera)) (, ,) (NP (NP (PRP$ my) (NN 55&quot)) (: ;) (NP (NN tv))) (, ,)) (CC and) (NP (NP (PRP$ my) (NN radio)) (PP (IN in) (NP (PRP$ my) (NN truck)))))) (. .)) )
+(TOP (S (NP (NP (RB mostly)) (PP (IN from) (NP (NP (NN newegg.com)) (CC but) (NP (DT the) (NNP hp) (NNS units))))) (VP (AUX are) (ADJP (RBS most) (VBN used)) (SBAR (IN since) (S (NP (PRP we)) (VP (VBP use) (NP (NN lightscribe)) (NP (DT a) (NN lot)))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (S (NP (PRP i)) (VP (AUX do) (RB n't) (VP (VB look) (PP (IN at) (NP (DT the) (NN brand)))))) (CC but) (S (NP (PRP i)) (VP (AUX do) (VP (AUX have) (NP (DT a) (JJ few) (NNP sony))))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (AUX 's) (SBAR (IN because) (S (PP (IN at) (NP (DT the) (NN time))) (, ,) (NP (PRP it)) (VP (AUX was) (NP (DT the) (ADJP (RBS least) (JJ expensive)))))))) (-RRB- -RRB-)) (. .)) )

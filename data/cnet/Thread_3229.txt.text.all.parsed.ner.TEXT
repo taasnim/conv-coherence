@@ -1,0 +1,28 @@
+<s> hey everyone, i'm running a dell dimension 4700 pc and i have recently just bought a msi 7600gs graphics card to replace onboard graphics.  </s>
+<s> i plug it into my pci-e slot and everything is fine, the fan spins and it seems alright.  </s>
+<s> however, i un-installed and disabled the onboard drivers and plugged my monitor into the card.  </s>
+<s> i get nothing, my monitor doesn't even recognize a new device in the system.  </s>
+<s> i went into the bios and made sure it was set on 'auto' to read new devices, and it was set.  </s>
+<s> this is the first time i am using the pci-e slot, is there anything i have to do to activate the slot?  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> thank you  </s>
+<s> the version of motherboard driver package you used.  </s>
+<s> also try setting the &quot;init display&quot; to pcie or others.  </s>
+<s> sorry if that isn't the right words for your bios but there is no standard so i just look to see if it's an option.  </s>
+<s> also, some of these boards need a power supply connection.  </s>
+<s> i note this in case yours did and you forgot.  </s>
+<s> bob  </s>
+<s> no power supply connection needed.  </s>
+<s> did you let the generic windows driver install before installing new drivers?  </s>
+<s> it does not notice the card at all, it notices the onboard graphics after i uninstalled the drivers, but not the new card.  </s>
+<s> and the bios says nothing about any pci-e slot.  </s>
+<s> according to the dell site that computer has 2 pcie slots.  </s>
+<s> one is a x16 the other a x1. i know that card (as i have the same card) is a x16 and i don't know what putting it in the x1 slot would do.  </s>
+<s> it also takes a minimum 300 watt power supply and i couldn't find what the 4700 comes with.  </s>
+<s> it also mentions that you have to tell what slot you are putting the card into for it to work.  </s>
+<s> hope that helps.  </s>
+<s> wayne  </s>
+<s> see item 2 &quot;  </s>
+<s> i only see one pcie slot in the system.  </s>
+<s> and it is right over what appears to be pci slots, i'm not sure though.  </s>
+<s> i don't see a second pci-e slot  </s>

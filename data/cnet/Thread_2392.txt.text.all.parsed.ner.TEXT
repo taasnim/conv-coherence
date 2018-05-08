@@ -1,0 +1,29 @@
+<s> i'm running win xp with sp 1. a couple weeks ago, my dvd-rom and cd-rw drives stopped working.  </s>
+<s> they weren't visible in &quot;my computer,&quot; and the cd-rw drive wouldn't even open when i pressed the eject button, so i restarted.  </s>
+<s> they were not found by the bios at boot-up.  </s>
+<s> i figured it was a bad ide cable, so i pilfered one from another computer and installed it.  </s>
+<s> presto, they worked again.  </s>
+<s> today, the same thing has happened.  </s>
+<s> i don't think the chances of having two ide cables go bad in the span of a couple weeks is very likely. the dvd drive is set to be the master on ide channel 2, and the cd-rw as the slave on the same channel.  </s>
+<s> the dvd drive will open if i push the eject button, so it doesn't seem like an issue with my power supply.  </s>
+<s> the dvd drive is an 8x drive from creative, the cd-rw is a cd-writer plus 9100 from hp. neither has any firmware updates on their respective websites.  </s>
+<s> anyone have any ideas?  </s>
+<s> test each unit alone and one at a time.  </s>
+<s> does it work then?  </s>
+<s> bob  </s>
+<s> testing them seperately, they both worked fine.  </s>
+<s> so, i returned to the original configuration (dvd as master, cd-rw as slave on channel 2), and they even worked while they were together again.  </s>
+<s> so far, the problem seems to be solved by opening the case, removing the ide cable, and reconnecting it.  </s>
+<s> could it be a problem with one of the pins on the dvd drive?  </s>
+<s> i don't really want to have to open my case every week just so my drives will work.  </s>
+<s> any suggestions for a next step?  </s>
+<s> thank you.  </s>
+<s> if this was my machine i'd watch for signs that a drive was on the verge of failure. the bios boot screen could read &)(*()(dvd)*)(*( instead of ld dvdrom master.  </s>
+<s> these clues lead us to what to do next.  </s>
+<s> also, i know to see if the firmware is current and i also will fit 80 conductor cables, set the jumpers to cs since that's my most trouble free setups.  </s>
+<s> sadly, the drive or part with the issue didn't reveal itself (yet).  </s>
+<s> bob  </s>
+<s> thank you.  </s>
+<s> i'll try cs and keep an eye on things for now.  </s>
+<s> i appreciate your help.  </s>
+<s> -chris  </s>

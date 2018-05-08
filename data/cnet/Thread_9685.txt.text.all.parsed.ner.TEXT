@@ -1,0 +1,58 @@
+<s> hi all, i am working with a sony vaio pcg-frv35.  </s>
+<s> upon startup with battery in and plugged in, the computer will say it is running on a/c power, when it should say bettery (charging).  </s>
+<s> if i shut down and remove battery and re-insert, start back up it works fine, runs on battery and charges correctly, even works without charger as should.  </s>
+<s> this problem does not take more then an hour or a day to come back. the main problem is that i am not the primary user of this pc and since it is for business use, they dont want to learn how to deal with it.  </s>
+<s> any ideas from anyone?  </s>
+<s> by the way- we already purchased a new battery and are using it now, but the problems occurerd with the old battery as well.  </s>
+<s> i also noticed that when i start up the laptop on battery it stays on the windows xp loading screen for about 2 mins, sometimes more, and the loading bar moves slower then usual or on charger.  </s>
+<s> after getting insto windows the mouse moves but lags for a split second every other second or so. it doesnt clear up right away after the computer finishes loading but a couple minutes later and the mouse has no lag.  </s>
+<s> you said with the laptop plugged in, it says it's running on ac instead of saying it's charging the battery.  </s>
+<s> i'm not seeing a problem.  </s>
+<s> it is running on ac. as for the slower response while running on battery, this is normal.  </s>
+<s> it's conserving power.  </s>
+<s> one way is to slow or &quot;step down&quot; the cpu.  </s>
+<s> you might find that you can customize some power settings to be less conservative.  </s>
+<s> i'm not sure about sony but other laptops i've seen derive their power status displays from services that are running.  </s>
+<s> it could well be that the battery isn't always charging.  </s>
+<s> it won't need charging when full and not using it.  </s>
+<s> are you finding problems being caused such as disconnecting the ac and finding the battery only 1/2 charged when it should be full?  </s>
+<s> no it does not get only partial charge.  </s>
+<s> a big problem that i noticed is that it will sometimes die while the power is pluged into it.  </s>
+<s> and no, it is not supposed to say running on ac power when plugged in with the battery.  </s>
+<s> it should only say that if the battery is removed from the system.  </s>
+<s> when the battery is in and power plugged in, it should say charging.  </s>
+<s> at these times that it says running on ac power, i go into control panel to power management and go to the battery screen where it shows no battery recognized.  </s>
+<s> after removing the battery and re-insterting to get it to charge correctly and tell me it is charging, if i go to power management it shows the battery type and power level and whether or not it is charging.  </s>
+<s> the main problem with this is that it does engine programming and if the laptop dies while programming, it could cost us more then the laptop to replace the computer we are programming.  </s>
+<s> i know that is enough reason to buy a new laptop but i am not the one that makes these choices.  </s>
+<s> please help if you can.  </s>
+<s> so far i am leaning toward mainboard problems but i will try anything you can think of that may help.  </s>
+<s> as for the computer being slow when unplugged. it does not take a laptop 3 minutes solely on the xp loading screen aside from all the bios.  </s>
+<s> plus, my laptop i have at home if run on battery will show you the slower clock speed in the system settings.  </s>
+<s> this sony shows the full clock speed and has no options to tell it to slow down the cpu for power savings.  </s>
+<s> i do not think this laptop has that option, and if it does i dont think it is being used anyway.  </s>
+<s> that's weird. is this your laptop or are you some tech? the battery issues are easy to solve on laptops because there are so few parts at play.  </s>
+<s> we have the wall unit or brick which we check out with the voltmeter then the mainboard, contacts and finally the battery.  </s>
+<s> when you have a client that insists on it working you can nail the maximum repair fee with the cost of the mainboard, battery and your one hour shop fee.  </s>
+<s> bob  </s>
+<s> well its a family business that i work in not dealing with computers at all but i am the only one that works on and maintains the 10 computers that we use for work.  </s>
+<s> so im stuck with just an hourly wage here.  </s>
+<s> i have already tested the wall unit with volt meter and it measures out good, just a sliver over which is better then underpowered.  </s>
+<s> how do i check the mainboard?  </s>
+<s> contacts?  </s>
+<s> battery?  </s>
+<s> the tech bench has to swap the part to see if that fixes it.  </s>
+<s> this is why you issue a maximum estimate to see if they are serious about fixing it.  </s>
+<s> thanks for the info, i know i wont be able to swap the board to test it so lets move on to the contacts and battery.  </s>
+<s> by contacts, do you mean the piece the charger plugs into that runs to your main board?  </s>
+<s> i know some are plugged in and some are soldered in.  </s>
+<s> if this is plugged i know how to test it.  </s>
+<s> i didnt look at the battery close enough to know but can i use volt meter on the battery alone?  </s>
+<s> and i dont assume you can check battery voltage with the charger plugged into it... plus i'm wondering if getting power problems will even affect the issue im having, which is windows not recognizing the battery all together.  </s>
+<s> i guess i'll find out eventually.  </s>
+<s> passing or failing if they can't measure voltages.  </s>
+<s> if we put the battery in we can test the contacts by seeing if the battery voltage appears on the motherboard on the other side of where these contacts go.  </s>
+<s> replacing contacts has been done in the past but is such a rare failure that i'll just say the motherboard is the highest failure item after the owner keeps a failed battery in the laptop too long which fries the charging circuit.  </s>
+<s> today's techs are little more than screwdriver jockeys but once in awhile you find one with a voltmeter.  </s>
+<s> those are at least aware that there is more to this than swapping parts.  </s>
+<s> bob  </s>

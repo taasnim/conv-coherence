@@ -1,0 +1,100 @@
+<s> hey all, please help me on this issue.  </s>
+<s> my computer spec's are: amd xp 1900 maxtor 40gig ati 9000 128mb asus a7n8x-x mobo 1 year ago my computer was rebooting everytime i was using a software like norton, or games like call of duty or anything that seemed to be using more memory.  </s>
+<s> i've did a memcheck ... never seen any error on my ram.  </s>
+<s> we've brought the computer to a computer store, they came back and told us it would be 200$ to fix or 300$ and it was the mobo,ram was fine, graphic card was fine and also the processor so i've bought the asus a7n8x-x mobo .. installed it and apparently when transfering a file from two partition, my computer rebooted again.  </s>
+<s> i checked the event viewer and it tells me there was an error on harddisk0 .. so now i think its the hard drive.  </s>
+<s> i've downloaded a maxtor diagnostic and as i was rebooting the computer the screen turned off ... and i can't get the screen back up, i've removed the port for my graphic card and reinserted it and its still black but shows connected, my monitor is fine, i can use another computer box and boot up.  </s>
+<s> so here is my issue.  </s>
+<s> 1. my computer reboots whenever, or gives blue screen of death 2. i've reinstalled a new motherboard 3. i've did diagnosed memcheck for my ram - suceeded 4. i tried booting up floppy for harddrive diagnostic and now i can't get my screen on, it just stays black. is there any good diagnostic for memory,processor,mobo, fan, whatever you can find so i can fix this list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads issue (sorry for language) please help me try to figure this out, its money and time wasting.  </s>
+<s> sam  </s>
+<s> i don't see what size power supply is in this box.  </s>
+<s> it's often overtaxed and leads to posts like yours.  </s>
+<s> next items of interest?  </s>
+<s> 1. spyware.  </s>
+<s> simply something you can't allow on the machine.  </s>
+<s> 2. heat. the simple test.  </s>
+<s> remove the side cover.  </s>
+<s> better?  </s>
+<s> same?  </s>
+<s> 3. bios updates? is your machine current?  </s>
+<s> 4. motherboard drivers?  </s>
+<s> microsoft didn't do it, did you?  </s>
+<s> bob  </s>
+<s> it sounds to me like the most likely causes are in order of probability 1) a defective or low quality/underpowered power supply (an athlon xp needs a high quality power supply) 2) overheating 3) a defective stick of ram the easiest thing to do is try a different stick of ram and see if the problem ends.  </s>
+<s> you didn't mention the power supply.  </s>
+<s> especially if it is not a high quality one, i would replace it with a high quality one of at least 300 watts.(my  </s>
+<s> choice would be antec) what cpu temperatures is your system showing?  </s>
+<s> thanks for the reply 250 watts power supply is whats in the box.  </s>
+<s> 1. no spyware, i run the scan each reboots 2.the cover is not on cause i just replaced the mobo so i haven't had time to put the cover.  </s>
+<s> there is no heat, i don't smell anything, both fan are running.  </s>
+<s> 3. i flashed my bios 30 minutes before this happened however i was able to boot up to windows after,that's where i moved a file to another partition and the computer rebooted i got back to windows and checked the event viewer to find out the harddisk0 crashed now i can't do anything, i am stuck with a flashing orange light monitor.  </s>
+<s> 4. i've installed all drivers for that mobo the day before.  </s>
+<s> 5. i've installed service pack 2 on it also.  </s>
+<s> and to let you guys know i tried another graphic card in the board and my monitor still doesn't detect that one.  </s>
+<s> but it works with my dell computer.  </s>
+<s> thanks, computer is not heating up however the powersupply is not a manufactor i've seen before, its 255 watts i've changed the stick of ram .. and it didn't help i wish i knew my cpu temp but i can't get it to bios to check or windows my computer can be 24hrs off, and it still won't turn on, so it couldn't be heat related if its cold.  </s>
+<s> if its the list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads motherboard again, kill me  </s>
+<s> it certainly leaning towards a bad power supply.  </s>
+<s> the beware factor is, if the p/s is actually bad and you install new devices or componets it may bring them down, not just not work but break them.  </s>
+<s> its the cheapest solution for now to replace the p/s unit and then worry about the mtrbd as the next possible cause. the repair shop should have mentioned that, but a flaky p/s is problematic to resolve.  </s>
+<s> a 350w unit is a good start but 400w+ units or better and you count on quality, as cheap is cheap.  </s>
+<s> on top of all this, you should at least try a &quot;minium system&quot; setup, the basic stuff, just do it.  </s>
+<s> don't take anything for granted, all you need is fd, video, 1-ram stick or bank and mouse, kybd.  </s>
+<s> no hds, or cds drives active and reflect that at bios if possible.  </s>
+<s> if you can't even get a screen then, you have a serious problem, try swapping parts out to replace in the minium system setup.  </s>
+<s> if you have any warranty with repair shop return it for such as a new mtrbd.  </s>
+<s> should last longer.  </s>
+<s> good luck -----willy  </s>
+<s> you've found your issue.  </s>
+<s> why such a small supply?  </s>
+<s> bob  </s>
+<s> thanks, at the time the box it was build, bad credits goes to futureshop.com.  </s>
+<s> so even if theres light on the machine when you turn it on and the graphic card doesn't work .. it's still the powersupply ??  </s>
+<s> the issue has been an repeating nightmare for owners.  </s>
+<s> i'll help you wake up, but only if you want.  </s>
+<s> bob  </s>
+<s> a nice writeup on choosing a power supply.  </s>
+<s> bob  </s>
+<s> im kinda jumping into a convo that i odnt know about cuase i havent read any of the replies, but i had a computer kinda like that and it would reboot autotmatcally when would try to load a level in call of duty.  </s>
+<s> i never found out what the problem was, becase i bought a new computer.  </s>
+<s> but, i have had the problem where you reboot, and you can see the bios menu and stuff but but when the login to windows starts, your monitor turns off.  </s>
+<s> if this is your problem, boot in safe mode.  </s>
+<s> then reinstall your graphics card's driver.  </s>
+<s> then reboot not in safe mode (normal mode?) then you will get back into windows.  </s>
+<s> lol and if your problem has already been solved by these peoples replies then sorry for butting in, and if this has nothing to do with your problem, sorry  </s>
+<s> he doesn't need a 400 watt power supply, just a high quality 300 watt one, unless he wants to add a few more peripherals or a higher end video card, then a 350 watt one would be a good idea.  </s>
+<s> i suggest going with the brand antec, although there are some other brands that are high quality.  </s>
+<s> an off brand 255 watt power supply is quite likely to be a problem in an athlon xp system.  </s>
+<s> hey man, its cool.  </s>
+<s> i've done all of those you meantion .. however you don't need to be sorry at least your trying to help ... but right now i am looking into thinking its the power supply.  </s>
+<s> i changed the power supply to 430watt bought two kingston 256mb ram (might of been bad ram before) changed the mobo to asus a7n8x-x reformatted, dad started playing and now after 2-3 weeks its giving him blue screen and freezing his pc just like it did before i started this thread.  </s>
+<s> only thing we didn't do is change the cpu but this is starting to get cost effective, we bought a new mobo, powersupply and new ram tell me what you think  </s>
+<s> you need to pressure the supplier to stand up to the system parts.  </s>
+<s> of course you'll remove the case cover, have a current bios, bios defaults and not think that a new board would have the latest bios.  </s>
+<s> no spyware either.  </s>
+<s> bob  </s>
+<s> while a high quality p/s units are available, they're just as good to get a hi-wattage unit. the prices being that they are, most users would rather go that route until they realize it made more sense to actually get not only a quality unit but a hi-wattage one.  </s>
+<s> i recommend 350w too, but there are so many 400w+ and the typical user will be happy.  </s>
+<s> 500w units are readily available and come with dual fans, etc. to help keep the p/s unit stable, to include 400w units in the model line.  </s>
+<s> excluding any quality issues, most 400w units do alright.  </s>
+<s> -----willy  </s>
+<s> my advise is to get away fro amd.... intel is much more stable sounds like to me that your processor is not supporting the other hardware  </s>
+<s> this might be worth looking into.  </s>
+<s> had same problems with a similar setup.  </s>
+<s> does that have shared video?  </s>
+<s> like on-board?  </s>
+<s> if so, try adding a different video card.  </s>
+<s> that's what i found for the solution in my problem.  </s>
+<s> i would be copying files, etc, and it with blue screen and restart. the minute i added a different video card, problems went away.  </s>
+<s> was with an asus mobo and kinsgton ram as well.  </s>
+<s> let me know.  </s>

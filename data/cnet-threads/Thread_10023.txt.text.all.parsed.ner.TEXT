@@ -1,0 +1,46 @@
+<s> ok, i have networked before and never had this much problem. the house that i am networking uses bellsouth fastaccess dsl with a westell modem.  </s>
+<s> i am trying to add a linksys wirless b router to the house.  </s>
+<s> connecting one computer wired and two others via wireless cards.  </s>
+<s> i set up the dsl on a dell computer and began connecting. it didnt work so i called bellsouth and they said that i had to configure the modem to work with bridged networking from pppoep.  </s>
+<s> i did everything the guy said and it still doesnt work.  </s>
+<s> i have used the same router at my house with a cable modem and it works great!  </s>
+<s> so i would think it has to be something with westell, bellsouth, or can it be something wrong with the router?  </s>
+<s> does anyone have any ideas?  </s>
+<s> anyone use bellsouth and have networked it?  </s>
+<s> ever ran into something similar?  </s>
+<s> thanks tyler  </s>
+<s> i have the router do the login and nothing on the clients except have windows &quot;obtain an address automatically&quot;.  </s>
+<s> nothing in your post about configuring the router... bob  </s>
+<s> i had it on obtain the ip automatically.  </s>
+<s> i made sure the dhcp server was enabled.  </s>
+<s> i set it up like i did the last time i networked some computers.  </s>
+<s> like you said, i find it very odd.  </s>
+<s> after it didnt work i reseted the router to the defaults-and still nothing.  </s>
+<s> i thought it might be the pc so i ran the network wizard and ran home and small business networking.  </s>
+<s> nothing.  </s>
+<s> i started to run the disk that linksys gave me(suppossed to not be required to run) but it kept giving me error about not being able to reach the internet.  </s>
+<s> thats because the modem is still in the single user setting.(which  </s>
+<s> i had to put it in to run the linksys program so it could access the internet.  </s>
+<s> then i hooked the router up like it said(maybe i should have put the setting back to &quot;bridged&quot; in the modem.) im a slightly confused as to what needs to be done.  </s>
+<s> tyler  </s>
+<s> have you tried setting the router to report the original computer's mac address?  </s>
+<s> that's the only way i could get mine to work with dsl here (telus, bc).  </s>
+<s> john  </s>
+<s> i'm having almost the same exact problem with the same exact modem and using dell (see &quot;immediate assistance...&quot;).  </s>
+<s> wonder if it is the modem?  </s>
+<s> i was using usb connection prior and worked fine.  </s>
+<s> i searched it out on the internet.  </s>
+<s> the bellsouth tech was no help and knew nothing.  </s>
+<s> set the modem to bridging ethernet.  </s>
+<s> set the router to pppoe.  </s>
+<s> type in user name (ex: username@bellsouth.net).  </s>
+<s> type password.  </s>
+<s> click status to make sure it is connected.  </s>
+<s> reboot computer.  </s>
+<s> router has to be pppoe not auto find.  </s>
+<s> tyler p.s. the power of google is amazing.  </s>
+<s> &quot;westell+linksys&quot; gave me my info try for yours  </s>
+<s> i had to call linksys tech support and they refered me to a web site that automatically set the proper settings on the router.  </s>
+<s> my system is running smoothly now.i  </s>
+<s> think the website was but i would call the tech support number in your manual.  </s>
+<s> verizon tech support gave me the wrong information three different times.  </s>

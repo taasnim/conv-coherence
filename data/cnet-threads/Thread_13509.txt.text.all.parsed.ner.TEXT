@@ -1,0 +1,46 @@
+<s> i have been having the same issue now for a few weeks, my computer shuts off without warning.  </s>
+<s> it shuts off when in idle and also when running labor intensive programs, but not simple tasks like surfing the web or using ms word.  </s>
+<s> i keep getting the following event notice: kernel-power 41 (63) error.  </s>
+<s> i have checked everything that i can find on the web, including the help page from microsoft, and followed all of the tips.  </s>
+<s> i am at a loss as to what is next.  </s>
+<s> i have checked my psu and it has very good voltage readings.  </s>
+<s> i have checked all connections, checked for loose parts and screws that may be causing shorts.  </s>
+<s> i have checked by bios settings as well as my power option settings.  </s>
+<s> the only thing i can think could be the problem is the mobo, the cpu, or the ram.  </s>
+<s> i lean more to the cpu because (according to the windows 7 gadget meter), my cpu was running at almost 100% before it shut off last night.  </s>
+<s> now that doesn't account for why it shuts off during idle, but it may be a clue.  </s>
+<s> in case you are wondering, i have also checked the thermal compound.  </s>
+<s> i have the following: evga nforce 790i ultra sli motherboard - nvidia nforce 790i ultra sli, socket 775, atx, audio, pci express 2.0, sli ready, s/pdif, usb 2.0, firewire, esata, raid xfx geforce 9800 gtx + video card - 512mb ddr3, pci express 2.0, sli ready, (dual link) dual dvi, hdtv, vga support intel core 2 quad q8200 processor bx80580q8200 - 2.33ghz, 4mb cache, 1333mhz fsb, quad core, retail, socket 775 hitachi 1tb and 3tb serial ata hd kingwin mach 1 modular power supply - 1220-watt, atx, sli-ready, six 12v rails corsair xms3 2048mb dual channel pc10600 ddr3 1333mhz memory (2 x 1024mb) your help would be great.  </s>
+<s> thanks  </s>
+<s> 1. did you try the old cover off tests?  </s>
+<s> 2. i'm seeing 8800 and 9800 video cards failing now.  </s>
+<s> do you have another card to swap in if the cover off test doesn't show any changes?  </s>
+<s> 3. &quot;six 12v rails&quot; now comes the really hard question.  </s>
+<s> if this has six rails, how did you balance them?  </s>
+<s> and this is why i tell folk to get single rail power supplies.  </s>
+<s> to avoid learning this the hard way.  </s>
+<s> bob  </s>
+<s> 1. if you are referring to whether or not i took the cover off to let more air in, well not exactly.  </s>
+<s> i did take my cover off becuase i was looking for a noising fan (what i thought was the problem), and even with the cover off and a new fan, the computer was still shuting down.  </s>
+<s> 2. i do not have a spare video card 3. while i know how to plug my parts in, i guess i don't know what it means to balance the rails or how to balance the rails.  </s>
+<s> can you provide more information?  </s>
+<s> in short it means you take care to balance the load across the rails so that no single rail gets over taxed.  </s>
+<s> this is why i tell folk that don't want to learn this stuff to get a single rail psu.  </s>
+<s> bob  </s>
+<s> would &quot;balancing&quot; mean anything if i have been running great since 2009?  </s>
+<s> i have only made the following changes: 1. better fan for cpu 2. added a 3tb hd 3. changed the fan on the 3tb hd two times 4. had the dvd drive replaced on a warrenty issue the only things that were added new to the psu was the 3tb hd and the its fan.  </s>
+<s> everything was going great. then one day the computer turned its self on from a standby state then shut down completely.  </s>
+<s> since that day, it has been nothing but problems.  </s>
+<s> i can't even identify the problem correctly to be able to identify the solution.  </s>
+<s> balancing the psu is a new solution, so i will try that.  </s>
+<s> but no. it does not mean much as the parts age and a new psu has spare power and now it's failing.  </s>
+<s> not the psu but since no one did the balancing or even knew, it's one of the areas i keep encountering.  </s>
+<s> i think you may be thinking that the psu is always the same.  </s>
+<s> does not age?  </s>
+<s> bob  </s>
+<s> the first thing i did was purchase a new psu because i was certain that was the problem, but when i checked the levels, they were good.  </s>
+<s> i know psu's along with all the parts age.  </s>
+<s> go over on one and it usually shuts down.  </s>
+<s> from our chat here it appears this is news to you and new to you as well.  </s>
+<s> next time, get a single rail and try another video card.  </s>
+<s> bob  </s>

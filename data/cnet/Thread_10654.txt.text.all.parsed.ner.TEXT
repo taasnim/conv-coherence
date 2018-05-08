@@ -1,0 +1,18 @@
+<s> hello i have an hp pavillion xt966 1.3 p4 256mb windows me in which i want to upgrade to 512mb of ram.  </s>
+<s> i am not sure what to look for or if it is possible to upgrade this computer.  </s>
+<s> here are the specs for the memory.  </s>
+<s> component attributes ram (standard) 256 mb pc600 rambus (rdram) maximum 2 gb (4 x 512 mb rimm) (ms windows me supports up to 512 mb) speed 400 mhz synchronous rambus channels 2 sockets 4 / 184-pin rimms size 128, 144, 256, 512 mb rimms pairs required yes.  </s>
+<s> rambus rimm modules must be installed in pairs, and both modules within a channel must be identical (same manufacturer and type).  </s>
+<s> if there is an unpopulated rimm socket (in a channel), it must be loaded with a c-rimm (continuity module) to complete the rambus channel.  </s>
+<s> for example, populate each channel with: rimm + rimm or rimm + c-rimm free rimm sockets 0 type supported intel pc600 rdram 400 mhz note: free rimm slots may vary due to availability of memory components at the time the pc is manufactured.  </s>
+<s> cacheback to top of page level quantity level 1 upgrade sockets 128 kb (on processor) none level 2 256 kb (on processor) hard driveback to top of page 60 gb (3.5 inch form factor) any response would be appreciated.  </s>
+<s> please let me know what type of memory i need to buy.  </s>
+<s> thank you.  </s>
+<s> crucial and kingston are not much help.  </s>
+<s> try contacting these guys:  </s>
+<s> so basically, i have 4 slots with 64mb each of rambus. is that right?  </s>
+<s> so if i purchase 1 pair of 128mb , i could leave in the other two 64mb modules and that would make it a 384mb computer.  </s>
+<s> is that correct?  </s>
+<s> any other suggestions.  </s>
+<s> thanks again.  </s>
+<s> that seems correct to me also, but i know nothing about rambus except when it came out some years back rambus was the most powerful ram that everyone aspired to want, but was expensive, and has since faded away.  </s>

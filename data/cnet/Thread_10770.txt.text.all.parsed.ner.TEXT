@@ -1,0 +1,15 @@
+<s> xp home started with logitech optical mouse in the serial port with adapter.  </s>
+<s> no red light and pointer did not move.  </s>
+<s> steps i have taken taken to make it work.  </s>
+<s> removed logitech mouse and installed the original mouse with out the adapter, that did not work either.  </s>
+<s> also checked for bent pins (ok) reinstalled the logitech on a open usb. it worked. the mouse worked fine yesterday but not today.  </s>
+<s> i would like to find why it did not work and how to fix.  </s>
+<s> thanks joe  </s>
+<s> check device manager for any disabled devices, in particular com ports.  </s>
+<s> then i would scan for the pests using the tools listed here:  </s>
+<s> the reason is simple. the serial port doesn't have the power to run such a mouse.  </s>
+<s> yes, you can buy usb or ps2 to rs232 adapters or find such, but i think you've found such an adapter and was hoping it would work.  </s>
+<s> bob  </s>
+<s> checked all items mentioned all ok. i guess i was lucky to have the optical mouse last a year in a standard mouse port.  </s>
+<s> i will leave it the way it is with the optical mouse in the usb.  </s>
+<s> as bob says &quot;if it ain't broke, don't fix it&quot; thanks again.  </s>

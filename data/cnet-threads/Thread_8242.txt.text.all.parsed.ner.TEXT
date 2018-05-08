@@ -1,0 +1,37 @@
+<s> ok, a few months ago i bought a 108mbps netgear router with mimo.  </s>
+<s> today i bought a 240mbps netgear wifi usb adapter.  </s>
+<s> i just cant get my computer to accept a 54mbps+ connection.  </s>
+<s> i have checked: drivers usb ports software router configuration router driver what can i do?  </s>
+<s> my internal nic, which i didnt think had to do with anything get 1gbps.  </s>
+<s> why would you use an additional networking device without first disabling the integrated one.  </s>
+<s> 802.11g is a standard and provides 54 meg pretty easily if you are near by the ap. what is the distance between ap and computer?  </s>
+<s> are there walls or other obstacles between the two devices?  </s>
+<s> super g is not standard.  </s>
+<s> it is supported by many chipsets but not all.  </s>
+<s> it uses 2 of the 3 non-overlapping channels to get 108 mbps.  </s>
+<s> both devices need to support super g to see this benefit.  </s>
+<s> i believe your 240 mbps ap is probaby pre-802.11n.  </s>
+<s> 802.11n is not a standard yet and probably will not be for a year.  </s>
+<s> so this means vendor proprietary to get these speeds.  </s>
+<s> and the usb adapter would need to be 802.11n as well to support the 240 mbps.  </s>
+<s> the integrated one is disabled.  </s>
+<s> the distance between my router and my computer is not more than 20 ft with no walls in between.  </s>
+<s> also my ap only gets speeds of up to 108mbps my usb adapter can support speeds of 240mbps.  </s>
+<s> you should be able to get a 54m signal under those circumstances.  </s>
+<s> if not, try changing channels.  </s>
+<s> usable channels are 1, 6 and 11. if super g is enabled it uses 2 channels simultaneously.  </s>
+<s> do you have neighbors with aps?  </s>
+<s> do you have a 2.4ghz cordless phone?  </s>
+<s> do you use bluetooth devices?  </s>
+<s> all of these use the same frequencies as 802.11g.  </s>
+<s> you can also try downloading netstumbler and see if it works with your usb adapter.  </s>
+<s> netstumbler will tell you the signal strength of your ap signal.  </s>
+<s> any value between 0 and -70 should give you 54m.  </s>
+<s> unless there is noise or interference.  </s>
+<s> netstumbler will also tell you the signal to noise ratio.  </s>
+<s> did the usb wireless come with any tools?  </s>
+<s> some wireless management software shows the signal strength.  </s>
+<s> good luck!  </s>
+<s> you didn't specify the exact model numbers of your equipment, but you did give enough to tell that these two devices will never connect at anything above 54mbps. the ap contains an atheros superg chipset and the usb adapter has an airgo true mimo chipset inside and they don't have any common transmission rates above the standard 802.11g  </s>
+<s> 54mbps rate.  </s>
+<s> sorry, but the two devices either both need to be 108mbps super g or both 240 rangemax devices to connect at higher speeds.  </s>

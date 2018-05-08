@@ -1,0 +1,22 @@
+<s> why don't i have sound in my rear two speakers when i play mp3's?  </s>
+<s> all appears to work well other wise. the test on the audigy control panel works.  </s>
+<s> the voice says: &quot;front left.  </s>
+<s> front right.  </s>
+<s> rear right.  </s>
+<s> rear left.&quot; the setting is correct on the panel: 4/4.1 speakers.  </s>
+<s> i get sound in the rear speakers during video games.  </s>
+<s> birds chirping, guns, etc... i used two different players wmp and music match just to see if the problem was with the player, but neither let the rear speakers work.  </s>
+<s> i sometimes swap cards with an old game theater xp and that card plays sound out the back with mp3's.  </s>
+<s> anyone have an idea why i have no sound in my rear speakers when i play mp3's using my sb audigy 2 zs?  </s>
+<s> in short, most mp3's are stereo. the entire idea of mp3 is to shrink the filesize and there is no reason carry more channels than 99.99% of the people will have. the reason the other setup may emit sound is that it's setup to just copy stereo out that back channels.  </s>
+<s> your skill in finding all the settings may be needed, but i do not see any flaw in hardware or software here.  </s>
+<s> bob  </s>
+<s> ok here's what i had to do.  </s>
+<s> i called creative tech support, and they told me to install their creative media source software.  </s>
+<s> this was an option i unchecked during the install of the card.  </s>
+<s> i didn't think i would need this installed to get sound out of my rear speakers when i play mp3's.  </s>
+<s> in the cms player or organizer click the eax console tab.  </s>
+<s> this is to the right of the eax enable tab. then click the cmss 3d tab. then click the &quot;enable cmss 3d&quot; box.  </s>
+<s> then click the &quot;cmss 2&quot; circle.  </s>
+<s> that's it. it seems like a roundabout way to get sound out of the rear speakers during mp3 play.  </s>
+<s> i didn't have this problem with the game theater xp. (the game theater xp had gaming sound problems) thanks for the reply, bob.  </s>

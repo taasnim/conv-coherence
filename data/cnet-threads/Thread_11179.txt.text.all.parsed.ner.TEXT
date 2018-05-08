@@ -1,0 +1,20 @@
+<s> hey all, i'm trying to bring some life to an old computer - dell dimension 8200, by installing a sata hd controller card.  </s>
+<s> i also have a small footprint dell that i have been using that does have a sata drive, however the spring-loaded 'circuit breaker' that breaks an electrical connection when the interior overheats has broken in that machine.  </s>
+<s> i'm still using it, thanks to the use of a jumper wire, but am not happy with that solution - thus prompting me to upgrade the older machine.  </s>
+<s> i've already tried a sata controller card that i now see was designed as a raid controller.  </s>
+<s> i'm not using a raid system, but i naively put that card into the dimension, hooked up the sata drive from the other computer, and booted up.  </s>
+<s> shortly into the windows xp splash screen, i got a blue screen telling me that the system was stopping in order to prevent something dangerous from happening to the system.  </s>
+<s> hmmm... question - will a sata controller card designed for a raid system not work with a single hard drive?  </s>
+<s> what i'd like to happen is that i put in a controller card and my existing hard drive into the dimension, the xp os on the hd automatically recognize the controller and then boot up. is this a reasonable thing to expect?  </s>
+<s> if so, can anyone recommend a sata controller card that will do this in a plug-and-play fashion?  </s>
+<s> i'd think there would be a chicken-and-egg issue with respect to installing drivers on a hard drive for recognizing a new hd controller card.  </s>
+<s> thanks for any help, john  </s>
+<s> a sata card with the onboard rom to enable it to boot.  </s>
+<s> &quot;is this a reasonable thing to expect?&quot; sorry no. this is not something that has been designed to do that.  </s>
+<s> we had a member go though all sorts of trials and they seemed to never try the sata card that could boot. the ones that can boot have an onboard rom (or flash) that enables this to work very closely to what you ask. but then again you wrote &quot;xp&quot; which does throw a wrench in to the works.  </s>
+<s> xp has that nasty 127gb limit and will be tough on some to install.  </s>
+<s> bob  </s>
+<s> thanks for the reply - a couple of things: the 127 gb limit won't be a problem as the sata drive i want to use is only 80 gb. i've looked some more and saw what might be another option - an adapter that connects between a sata drive and the ide socket on a motherboard.  </s>
+<s> found one on amazon for less than four bucks including shipping, so i'll give that a try.  </s>
+<s> worth a look and try.  </s>
+<s> vapcmd  </s>

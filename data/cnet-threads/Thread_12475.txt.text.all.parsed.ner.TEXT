@@ -1,0 +1,109 @@
+<s> i reformatted the hard drive on my computer and had a full backup on the maxtor one touch iii mini.  </s>
+<s> however, the maxtor one touch iii is locked and i stupidly did not make a copy of the setup software that would allow me to unlock it and the setup software is on the locked external hard drive itself.  </s>
+<s> i checked the maxtor web site to see if they provided a download for the setup software but it doesn't seem to be available from there.  </s>
+<s> does anyone know where i can get a copy of this setup software?  </s>
+<s> thanks so much!!!  </s>
+<s> should all be on the cd that came with it.  </s>
+<s> you did keep that in a safe place and know where it is, don't you?  </s>
+<s> frank  </s>
+<s> hi...yes, if there had been a cd, i would have had easy access to it as i have two cd storage systems.  </s>
+<s> however, maxtor tried to make things easier for the user by putting the installation software right on the hard drive itself so that all you had to do is plug the external hard drive into the usb port and then launch the installation/utility software from it.  </s>
+<s> no cd comes with the hard drive.  </s>
+<s> the installation software for the utility was, in fact, convenient.  </s>
+<s> however, maxtor did not factor in that the software allows you to lock the hard drive using this utility software and that a lughead like myself might have a need to reformat the internal hard drive where the utility software was installed and forget to make a backup of the installation/utility software from the external hard drive.  </s>
+<s> now, because the maxtor external hard drive is locked, i cannot get to the setup/utility software to launch it as locking the hard drive keeps windows from recognizing it (the external hard drive) ... but i do not have a backup copy of the setup for the utility software other than what is on the external hard drive itself.  </s>
+<s> hopefully, someone out there has one of these drives and will share the setup software with me or point me to a resource that can provide it.  </s>
+<s> it's hard to believe they didn't furnish a cd with a backup copy of the software and a manual.  </s>
+<s> that would have cost them just pennies -- i think most companies are now going too far to shave costs.  </s>
+<s> then, not to have the software available for download from the web is almost criminal.  </s>
+<s> there certainly should have been a big warning about this.  </s>
+<s> things like this may be what drove maxtor down to the point they had to sell out to seagate.  </s>
+<s> i suggest you contact seagate by email to their customer support people.  </s>
+<s> surely they can furnish you the needed software or a workaround.  </s>
+<s> if they can not or will not support you on this, it is time to start passing the word about their poor customer support.  </s>
+<s> thank you for the link to the seagate customer support form.  </s>
+<s> hopefully, they will respond with the software or a workaround.  </s>
+<s> you are right that they should at least have put a warning on the installation instructions to make a backup of the utility software to a cd or flash drive to protect idiots like me from themselves and doing something like this. the easiest and most logical thing would be to have the software available for download on their web site ... almost all companies do this and the software is no good without their hardware so it is a great service that costs them virtually nothing.  </s>
+<s> i will let you know how they respond.  </s>
+<s> thanks again for the suggestion/link.  </s>
+<s> well it has been a week since i requested assistance from seagate and one follow-up but still nothing but one automated response that they got my original inquiry.  </s>
+<s> for anyone buying a maxtor or seagate product, beware...support is non-responsive.  </s>
+<s> i bought my daughter the same maxtor one touch mini iii but she lives 3 hours away at school.  </s>
+<s> however, we are going there this coming weekend to visit so i guess i will try and copy the software off her hard drive.  </s>
+<s> if anyone else buys one of these external hard drives, learn from me and immediately make a copy of the utility software so you don't accidentally lock yourself out of the data you backed up.  </s>
+<s> this is especially critical if you have to reformat the internal hard drive on your pc (which after all, is one of the reasons we back up data on external drives in the first place).  </s>
+<s> i had a somewhat related problem.  </s>
+<s> i copied some files to the 160 gb mini drive without installing the one touch software and later when i tried to access the drive, it was locked. the only way i could access the drive and my data was removing the drive from the one touch enclosure and connecting to an ide channel with a 2.5&quot; hard drive adapter.  </s>
+<s> all my data was there, unencrypted.  </s>
+<s> close call.  </s>
+<s> here is the way i did it.  </s>
+<s> search for : winot1to2up.exe it is an update from maxtor.  </s>
+<s> download it from them and install it.  </s>
+<s> after restart it will realize your onetouch iii as locked and after naming the password it will unlock it.  </s>
+<s> then work can be done as usual.  </s>
+<s> cu, linux  </s>
+<s> thanks very much for pointing me to the setup software, i was able to download it and proceeded to install it.  </s>
+<s> however, the installation hangs at the point where i physically connect the maxtor drive.  </s>
+<s> did you actually get a prompt for a password after installing the setup software and connecting the hard drive?  </s>
+<s> it looks to me like the setup software cannot detect the drive (just like windows doesn't) because the drive is locked and so it just keeps trying to access the maxtor external drive and gets nowhere. is there really a point where the software realizes the drive is locked and asks for the password?  </s>
+<s> i have been avoiding using mrzinguy's more drastic solution (its like kicking down the door of your house when you lock yourself out)as i hate to rip the drive apart.  </s>
+<s> however, i am beginning to think i may have no other choice.  </s>
+<s> before i take that approach, however, i am hoping there is something i am missing when installing the setup software.  </s>
+<s> anyone have any ideas?  </s>
+<s> i own a maxtor onetouch iii mini edition, and have all of the software.  </s>
+<s> whoever had the brilliant idea of putting the unlocking software on the locking device should be shot.  </s>
+<s> kinda like buying a safe with the keys inside.  </s>
+<s> anyway, the files are about 150mb, but the adobe reader folders that is included takes up about 100mb, but i don't know if the setup will work without them.  </s>
+<s> i can offer to zip and email the 50mb (w/o adobe), but if you want the full file set, i'd have to send you a cd, but if you are willing to wait...  </s>
+<s> i was able to download the setup software from the info that linux_made provided to me but the installation stalls at the point it is supposed to detect the maxtor drive. is there actually a separate software for unlocking the drive in the software that comes with the drive that is separate from the setup software?  </s>
+<s> i don't recall.  </s>
+<s> if there is, then i would truly appreciate your offer to zip and send it to me.  </s>
+<s> otherwise, i am thinking i need to find someone locally who has one of these drives with the software already installed on their pc and take my drive to them and unlock it.  </s>
+<s> i agree with you about maxtor's brilliant ploy of putting the unlocking software on the locked device ... the least they could do was put a big warning in the installation instructions to back it up to a cd immediately, if they are too cheap to provide a separate cd. in any case, if you can provide software specifically for unlocking the device that would be great.  </s>
+<s> according to the literature, the software should be available at the maxtor site.  </s>
+<s> unfortunately, the support has moved to seagate because of the buy-out, so it may be a case of getting lost in the shuffle.  </s>
+<s> it is strange that they have the vista software as a download, but not xp/2000.  </s>
+<s> anyway... if you can find someone else with the software, that would be the quickest way.  </s>
+<s> once unlocked, the drive will reveal itself to any system just like a flash drive.  </s>
+<s> if you don't have the software, the password dialog box obviously cannot appear.  </s>
+<s> have you verified that the drive has been detected?  </s>
+<s> it should show up in device manager when plugged in, even though it does not show up in my computer.  </s>
+<s> i do not believe that there is a separate install for just the unlocking sequence.  </s>
+<s> it appears to be part of the (rather large) setup.exe  </s>
+<s> file.  </s>
+<s> i can try to find out for certain when i get home.  </s>
+<s> i have tried installing the setup software and it stalls/hangs at the point where it detects the drive.  </s>
+<s> an unlock dialog box never appears, it just sits at the dialog box that detects the drive. the drive shows up in device manager correctly but does not appear in my computer and i can hear the drive whirring but again no password dialog box appears.  </s>
+<s> i suspect this may be because the setup software was not designed for a locked drive as the drive ships in an unlocked state.  </s>
+<s> that is why i was wondering if there is some way to get the lock/unlock software separate from the setup software.  </s>
+<s> my other alternative is to find someone with a maxtor drive that has the software already installed and trying to unlock the drive using their computer.  </s>
+<s> hallelujah, seagate finally responded to my inquiry.  </s>
+<s> they asked for a serial number and when i provided it, i told them that i had already downloaded and installed the software but that it kept hanging at the point that it detected the device.  </s>
+<s> they responded that they did not know where i got the software because it was not available on their public website (which i knew).  </s>
+<s> they provided me a customer support link to download the software, so i uninstalled the software that i downloaded based upon the google search on the program that you (linux_made) provided and voila the software link that seagate provided worked and i have successfully unlocked my hard drive.  </s>
+<s> thank you to everyone for all their ideas.  </s>
+<s> i also suggested to seagate that they insert a warning to make a back up of the software to cd immediately after installation of the driver and setup software which i don't know whether they will heed or not.  </s>
+<s> hi, i have a problem similar to what you had before.  </s>
+<s> instead of waiting for a week for seagate's response can you share the link to the software that seagate gave you?  </s>
+<s> i think its not serial specific but rather production revision specific.  </s>
+<s> hi sharky168, not sure which size drive you have or production version, as you say, but here is the entire text of the message i got from seagate: &quot;i am not sure where you got the software, because we didn't put it on the public website.  </s>
+<s> therefore please refer to the below link and download the software.  </s>
+<s> please disconnect the drive when you install the software.  </s>
+<s> in addition, that is normal if the drive was locked, you won't be able to see the drive in my computer.  </s>
+<s> if you have any questions please don't hesitate to contact us.  </s>
+<s> in order to allow us to deal with all enquiries as efficiently and accurately as possible we would ask that you include any previous emails when replying to us.  </s>
+<s> kind regards, alexa zhou apac technical support team, seagate technologies rep.  </s>
+<s> of ireland&quot; if the software doesn't work for your model, i would definitely contact seagate.  </s>
+<s> they did apologize for taking so long to respond to me and said they had some kind of server problem so you may get a much faster response than i did.  </s>
+<s> good luck!!!  </s>
+<s> it worked!!! thanks a lot!  </s>
+<s> hey, am having the same problem, my drive is maxtor onetouch iii mini edition 160gbb, nscole if u can get the setup i'll be greatfull if u send it to me my email is beeb0o0@hotmail.com...  </s>
+<s> i have a maxtor one touch iii mini 160gb drive and its locked out.. using winxp (sp2) how do i unlock my drive?  </s>
+<s> could someone please post the link for the unlocking software.  </s>
+<s> the 'winot1to2up' executable did not do the job as it doesnt allow you to find the locked drive.  </s>
+<s> link link link plsssss someone... thanks.. talking of locked.. they should've locked up seagate for putting the files on the drive in the first place duhhhhhhh  </s>
+<s> i have one maxtor onetouch iii mini, i want to use it to back up file from my computer but it requires to install.  </s>
+<s> i don't have disc to do so, can you have me how find the disc to install in my computer?  </s>
+<s> - what os (such as mac os x, ubuntu linux, windows 95, windows 7)? - what exactly (including the full text of all messages) happens if you connect the drive?  </s>
+<s> what does it want to install?  </s>
+<s> - what disc do you think you need, one from maxtor or one from the maker of the os? kees  </s>

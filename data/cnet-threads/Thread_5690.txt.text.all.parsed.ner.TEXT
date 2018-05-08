@@ -1,0 +1,19 @@
+<s> i am considering purchasing either a gateway 827 gm or an e-machines t6212.  </s>
+<s> from what i can tell both have less than a 350w psu.  </s>
+<s> i'm planning on upgrading to a pci-e video card if i buy one of these systems.  </s>
+<s> i'd feel more comfortable with a 450w psu, but have never swapped one of those out.  </s>
+<s> how difficult is it to make that change?  </s>
+<s> other than unplugging, securing the psu and reconnecting what is involved?  </s>
+<s> thanks in advance for any help or suggestions.  </s>
+<s> you should learn what compaines are good and you should find out what your system needs odn't just go on wattage i'd take a good 350w over a no-name 450w because the 450w will provide less power, and not work aside from taht if you just want to get a suggestion i say antec neopower 480w and that price is around average for a good mid-range psu (mid-range is 450-500w)  </s>
+<s> you need to check the current required on each of the rails, as different psus pump out different amounts.  </s>
+<s> make sure it's adequate to support your computer's components.  </s>
+<s> once you get your pc, you can open it up and look at the ratings on the power supply currently in it, and as long as the currents supplied on each rail by your new psu are equal or more, you should be ok, as long as you also take into account the new component you want to put in.  </s>
+<s> read this article for more info:  </s>
+<s> the actual swapping of p/s units is pretty much straight-foward task. the real problem is a true &quot;physical fit&quot; and same type of connections as that being replaced.  </s>
+<s> the connectiosn shouldn't be a big problems, just make sure of the 20-pin or 24-pin main mtrbd.  </s>
+<s> connection.  </s>
+<s> then some p/s have dual fans or single fan where it directly blows across the cpu, check that.  </s>
+<s> if all you plan to do is replace the video card, the oem p/s should do ok, but if not check at this website for power calucations: for the best p/s unit you can buy and a true match/fit look at the (costs$$$) but well worth it.  </s>
+<s> last, get the highest wattage unit you can afford, the bigger the better if you plan to further upgrade even more.  </s>
+<s> tada -----willy  </s>

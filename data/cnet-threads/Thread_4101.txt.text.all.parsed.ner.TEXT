@@ -1,0 +1,82 @@
+<s> hi, i have been having problems with my computer for about a month now.  </s>
+<s> after endless troubleshooting a have come across this problem.  </s>
+<s> my system specs are asus m2n-sli deluxe mobo amd anthlon 64x2 3.2ghz 8800 gts 550w antec ps 2 wd caviar 320gb g skill dddr2 800 2x2gb okay.  </s>
+<s> my problem is i am getting the error 132 in world of warcraft, and my computer keeps blue screening with nv4_disp.dll and irql not less or equal and page fault in non paged area.  </s>
+<s> when i go to turn it on after it has been shut off over night, i have to keep turning it off and turning it on until it boots.  </s>
+<s> all the leds light up on the case, all the fans spin but i get no picture on the monitor.  </s>
+<s> sometimes it will boot to the post screen but freeze there then ill have to reboot it and it will boot all the way into windows.  </s>
+<s> last night i was playing wow and kept getting the 132 error.  </s>
+<s> also my graphics suddenly got all messed up and i couldn't see firefox, wow was all black with colors everywhere and the icons in windows were all discolored.  </s>
+<s> something that confused me though was the sound was all crackly and messed up when this happened and my sound is on board... i think im pointing towards the power supply but idk. i replaced the ram and the hd but it still didn't fix my bsod problem. the booting problem started just a couple days ago as i have been troubleshooting this computer for about a month now. the cpu runs idle 50c and under work like 71c.  </s>
+<s> i did a stress test using hirens boot cd and the cpu failed immediately. the memory and hd both passed without and problems.  </s>
+<s> i have tried everything from replacing the hd and ram to flashing the bios to reformatting like 5 times.  </s>
+<s> please can someone point me into the right direction, i know its a hardware issue but idk what.  </s>
+<s> i have had this computer and it has worked fine for over a year.  </s>
+<s> i am running windows xp sp2 home edition and also, the computer sometimes restarts itself without warning.  </s>
+<s> automatically restart on system failure is unchecked.  </s>
+<s> retest after each idea.  </s>
+<s> leave the case cover off throughout.  </s>
+<s> 1. remove the case cover.  </s>
+<s> no! it's not what you measured, it's all the other parts that may be a little hot. 2. run with less parts.  </s>
+<s> you can pull 1 stick of ram and unplug one hard disk.  </s>
+<s> 3. build ideas.  </s>
+<s> let's hope the drives (both dvd and hds) are not stacked against each other.  </s>
+<s> space them out.  </s>
+<s> 4. the bios and memory speed settings.  </s>
+<s> slow as possible until the issue is solved.  </s>
+<s> 5. more bios settings.  </s>
+<s> no overclocking!  </s>
+<s> we want stability.  </s>
+<s> 6. and what about the vram or memory voltage setting?  </s>
+<s> i can't tell if you got that right.  </s>
+<s> (no part numbers to look for.) to help with this i need a link to the exact ram you bought.  </s>
+<s> bob  </s>
+<s> all of the bios settings are set to automatic and it has been runnig stable like that for over a year.  </s>
+<s> the system just keeps restarting on me so i moved to a different computer.  </s>
+<s> im really thinking the power supply is going bad.  </s>
+<s> nv4_disp.dll is a nvidia file.  </s>
+<s> i see you use a 8800.  </s>
+<s> i do too.  </s>
+<s> this means the problem resides in your 1)video system and 2)video hardware.  </s>
+<s> you most likely have a life time warranty on that card and will be able to get a direct replacement for free.  </s>
+<s> i did and i also updated my drivers.  </s>
+<s> my asus board has the led panel on back and i noticed when it failed to post that it stopped on vgaint.  </s>
+<s> which turned out to be the 8800 failing to start.  </s>
+<s> it's not your wow, cause i have managed to duplicate the problem in a multitude of other games.  </s>
+<s> also let me know if you overclock your system and what you overclock including voltages.  </s>
+<s> also let me know the manufacter of your gpu.  </s>
+<s> my guess if i am right will be bfg?  </s>
+<s> tell me what your bios set for cas latency, timing, and voltage (vram or similar.) i'm not telling what these should be because i want you to tell me what you see first.  </s>
+<s> bob  </s>
+<s> all of those bios setttings are set on automatic.  </s>
+<s> i do not overclock any of my stuff and my card manufacture is evga  </s>
+<s> the manufacture is evga.  </s>
+<s> i didnt register it beofre 30 days after purchase and the 1 year is already up so i dont have any warrantys on it.  </s>
+<s> could the card be causing the boot problem and when hte video messed up the sound messed up also which is on board.  </s>
+<s> could the video card cause the sound to mess up and the booting/restarting problem.  </s>
+<s> people have said the nv4_disp.dll  </s>
+<s> sometimes isnt caused by the video card but i know its the main driver for it.  </s>
+<s> unfortunately, it's not that simple of a fix.  </s>
+<s> read this thread for info: there's a bunch of threads on nvidia's forums also.  </s>
+<s> recommend you uninstall all nvidia drivers and delete all your mobo/chipset devices in device manager.  </s>
+<s> then reinstall the latest mobo software and the latest stable (non beta) graphics drivers.  </s>
+<s> i installed that patch and going to see if my computer crashes.  </s>
+<s> thanks  </s>
+<s> nope still crashing :at i can't find the ram you purchased.  </s>
+<s> this means we have to manually make sure the settings are spot on.  </s>
+<s> go get cpuid from share the screen shot like this one -&gt; and on photobucket.  </s>
+<s> supply all if possible.  </s>
+<s> your board?  </s>
+<s> that pdf shows that you do have control over the ram settings.  </s>
+<s> i see a simple choice here.  </s>
+<s> use ram from the qvl or dive in and ask them for the settings.  </s>
+<s> i see the settings but don't post them here since i want you to tell.  </s>
+<s> bob  </s>
+<s> i would suggest you try some isolation test.  </s>
+<s> i do not think your mobo comes with integrated graphics, so lets say a cheap $50 ati card will do or borrow one from a friend.  </s>
+<s> swapping out your 8800 this way will pinpoint your issue (hopefully).  </s>
+<s> my guess is that your system will normalize.  </s>
+<s> also it is worthy to note 550w psu actually runs at 85% of that.  </s>
+<s> i know the 8800 take quite a bit of power.  </s>
+<s> if you do the swap and your still having issues, let us know.  </s>
+<s> also check those other forums and as much as it sucks, attempt to contact tech support at evga or nvidia.  </s>

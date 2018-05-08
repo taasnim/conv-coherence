@@ -1,0 +1,37 @@
+<s> hi i just put together a new gaming system yesterday.  </s>
+<s> however i've been having an annoying problem so far with my ide lg dvd writer not being able to read cds/dvds properly.  </s>
+<s> i try to install different games/programs and after a lil while i'll get an error saying&quot;fileerror: retry?&quot;  </s>
+<s> i have tried using the setup files with autorun disabled.  </s>
+<s> my specs are- msi k8n neo4 mobo 1 gig corsair ram 300 gig sata maxtor hd 256mb xfx gf 7800gt a64 3500+ so here is what i've tried so far.  </s>
+<s> opened up the case drive set to master, plugged into master ide cable, verified this in the bios.  </s>
+<s> windows installed fine on the same dvd writer drive with no errors at all.  </s>
+<s> it seems only after installing the nforce ide drivers that this occurred.  </s>
+<s> i tried removing just the nforce ide drivers using add/remove programs but the problem still persists.  </s>
+<s> i am sure this dvd writer works as it works in other computers and successfully installed windows onto the machine, i then tried reinstalling windows a second time just to make sure...same problem.  </s>
+<s> when the nforce driver was installed i checked and it said ultradma 33. i put it in pio and the same problem continued.  </s>
+<s> i know for a fact my cds are good as they are all originals and work in other machines with no scratches.  </s>
+<s> after removing the nforce ide drivers the windows ide drivers installed and i rebooted, same problem.  </s>
+<s> i am really stumped here all i have in the pc are 1 sata hard drive and 1 ide dvd writer connected to their respective master cables and proper jumper settings...everything looks good in the bios.  </s>
+<s> one other thing i also have an external usb 2.0 dvd writer, i use this on another machine.  </s>
+<s> i tried it as well in the machine and i get the same problem.  </s>
+<s> i know it isn't the usb connection since i have other devices on the usb that work fine.  </s>
+<s> any ideas?  </s>
+<s> :s  </s>
+<s> 1. check lg website for firmware update.  </s>
+<s> 2. install your cd/dvd burning software.  </s>
+<s> try unpluging the ide cable from both the dvd and motherboard and repluging it in if that dose not work try changeing the ide cable.  </s>
+<s> yes you can try reinstalling windows also try updateing the firmware and install the software provided by lg hope this info helped you have any more question dont hesatate to reply back helping the computer community  </s>
+<s> yeah i tried that and no difference, i even reinstalled windows a second time and no problems.  </s>
+<s> i noticed that is says ultra dma 33 under the system hardware interface, i tried changing it to pio etc but no difference.  </s>
+<s> why is it that my usb 2.0 dvd writer has the same problem?  </s>
+<s> as it's happening with your internal andexternal drive i'd say it's nothing to do with either drive or media.  </s>
+<s> if you have more than one stick of ram installed i would try installing your programs with one of them removed, if you get the same problem then try the other stick of ram.  </s>
+<s> if you only have one stick of ram try to get some sort of 'burn-in' program to test that it works properly.  </s>
+<s> as a last resort i would remove the modem (if you have one installed) sounds strange i know, but i've found that they sometimes cause memory issues.  </s>
+<s> i think the motherboard might have some issues try useing these on a nother computer if they work on the other computers the motherboard might be the device that is causeing the other devices to not work properly hope this info helped you have any more question dont hesatate to reply back helping the computer community  </s>
+<s> i have a program that microsoft made so that you can test your ram its called microsoft windows memory diagnostic you can get it at  </s>
+<s> i ran some stability/burn in tests and they generate no errors even when pushing everything at 100%.  </s>
+<s> have had the system running for a few days now, not overclocked and temperatures seem fine.  </s>
+<s> i have not had a crash yet.  </s>
+<s> did some real world testing by playing battlefield 2 and counterstrike source for a few hours and no crashes so i think that this shows everything is in order.  </s>
+<s> i was thinking perhaps the nforce drivers for the ide are messing it up but i tried using the windows ide drivers and same problem....do you think the only solution to this is to get a sata dvd drive?  </s>

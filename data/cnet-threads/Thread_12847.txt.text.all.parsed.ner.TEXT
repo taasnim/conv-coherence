@@ -1,0 +1,10 @@
+<s> hi all, i recently purchased (a second hand) hp lefthand p4500 machine with 12 3.5&quot; sas/sata bays.  </s>
+<s> when i try inserting any electro-mechanical hard drives into the bays, they have a small orange light (instead of green) glowing in their respective led indicators.  </s>
+<s> when i go into the raid configuration, i am unable to see any of the disks... i tried inserting 12 hard disks - 10 x 1 tb wd hdds and 2 x ssds and only the two ssds were recognized. the configuration of my machine is as follows: quad core amd opteron processor x 1 4 gb ddr2 ram hp smart array p400/256mb controller ilo100i can someone help me out with this please?  </s>
+<s> i am in need of getting this san box up and running for my project completion... (i hope i am posting the question in the right forum, if not, please pardon...) thanks very much in advance.  </s>
+<s> regards, krish  </s>
+<s> but head to hp.com and use their chat link to see if documentation is available.  </s>
+<s> bob  </s>
+<s> also tripped over one odd note &quot; 1.5g sata hard drives are required.  </s>
+<s> &quot; this may explain why this unit was de-commissioned.  </s>
+<s> bob  </s>

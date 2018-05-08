@@ -1,0 +1,49 @@
+<s> so i have been running a pc i built about two weeks ago and haven't had any real problem until just recently. the problem is this: i am listening to music from a website and all of a sudden buzzing comes from the speakers and the computer shuts down.  </s>
+<s> twice this has happened, the first time i got a blue screen and it simply had 3 lines of text one of which stating my hardware had failed and another stating that i should contact my hardware supplier.  </s>
+<s> the third i do not remember but it was uninformative.  </s>
+<s> no numbers appeared and i had to manually shut down and restart. the second occasion happened about 6 or 7 hours later after being used on andd off throughout the day.  </s>
+<s> this time however i did not receive a blue screen however and it booted up displaying the mobo logo and standard boot up procedures.  </s>
+<s> both times i was running a game (eve online) with high graphic settings and at the time of the crashes it was minimized.  </s>
+<s> i also was listening to music from grooveshark.com however i'm not sure that is part of the issue.  </s>
+<s> i do have power issues but i'm not sure if that is it either as it runs quite well with several instances of the game running as well as music being streamed in the background.  </s>
+<s> i don't recall installing anything from the point when it was working just fine to the point it has started crashing like this.  </s>
+<s> i would greatly appreciate any help.  </s>
+<s> additional information about my system: i5 760 processor 42nm p55 evga motherboard palit gtx 460 1 gb windows 7 64 bit 850 thermaltake black widow psu 4 gb g.skill ripjaw 9-9-9-24 500gb seagate hdd (barracuda series if i'm not mistaken.) i am using the onboard sound and have a 5.1 system hooked up  </s>
+<s> i to am noticing a problem with my system.  </s>
+<s> i just built it w/parts from newegg.  </s>
+<s> amd phenom ii x4 925 asus m4a87td evo g.skill ddr3 1600 running 1333 palit geforce gtx 460 1024mb gddr5 sonic coolmaster 212 plus hdd seagate 1.5 tb i have tested my system and have found it to be unstable.  </s>
+<s> it must be the graphics card.  </s>
+<s> although, i can't confirm this i think we are having problems with the same palit cards.  </s>
+<s> i have had system failures and blue error screens due to hardware failure.  </s>
+<s> when watching a movie or playing a game with high graphics or low graphics i notice sound and video corruption.  </s>
+<s> simultaneously, video slows and skips frames and sound makes a data dial up sound (like dialing up to get on a 56k connection).  </s>
+<s> i can't describe the sound with words. the sound when playing a movie is like a game freezing and repeating.  </s>
+<s> the same thing happens to frames in a movie, they skip and repeat and hang up until a process is released.  </s>
+<s> are all your components new?  </s>
+<s> when you get the blue screen, doesn't it give a long list of numbers and letters?  </s>
+<s> if so what are they - make a note when it happens again before shutting system down.  </s>
+<s> you can also google those numbers to get more info.  </s>
+<s> what are the power issues you have?  </s>
+<s> you 850w psu should be overkill for your system, it should draw about 400w under full load.  </s>
+<s> did you run memtest to confirm memory stability after build?  </s>
+<s> was the memory from the mobo approved list or did gskill show that their memory was compatible with your mobo?  </s>
+<s> did you have any probems loading drivers?  </s>
+<s> did you get the latest drivers for your video card from manufacturers website?  </s>
+<s> go to start/settings/control panel/system & maintenace then scroll down to device manager and click on it.  </s>
+<s> you will see a list of devices.  </s>
+<s> are there any red or yellow marks (such as question marks) next to any item.  </s>
+<s> if so which one? they indicate problems, usually drive related, with the specific device.  </s>
+<s> have you rechecked all power and other cabling to make sure it is secure?  </s>
+<s> did you make any system changes - hardware or software in the 2 days prior to the first occurrence?  </s>
+<s> the system you have should easily handle many multiple applications.  </s>
+<s> however i am not familiar with you game and what the high settings might do, but if it was minimized then it should not be a direc issue.  </s>
+<s> what is your monitor resolution?  </s>
+<s> you might layoff the game for a day or two to see it it seems to make any difference.  </s>
+<s> did you get the speaker buzzing about the same both times?  </s>
+<s> amd phenom ii x4 925 asus m4a87td evo g.skill ddr3 1600 9-9-9-24 running: ddr3 1333 667mhz palit geforce gtx 460 1024mb gddr5 sonic coolmaster 212 plus hdd seagate 1.5 tb kingwin lz-1000 1000w psu i have run several different diagnostics tests.  </s>
+<s> memtest 86 plus 4.whatever + great dos program to boot from usb flash drive, all pass: ran for 2 hours hot cpu tester pro: no errors ran for 2 hours and 40 minutes prime95: great diagnostics tool to leave running for a day to check system stability.  </s>
+<s> no errors msi afterburner: to lower system default on gpu to 500mhz clock + manually increased fan to 100% changed all system to default in bios and disabled q-fan mode to boost cpu fan to 100% problems have vanished system is more stable.  </s>
+<s> updated all drivers.  </s>
+<s> found my problem came from overclocking.  </s>
+<s> so i guess i will stay away from overclocking.  </s>
+<s> i still have sound problems just not as frequent.  </s>

@@ -1,0 +1,5 @@
+(TOP (S (NP (PRP i)) (VP (AUX 'm) (VP (VBG trying) (S (VP (TO to) (VP (VB build) (PP (IN from) (NP (NP (NN scratch)) (SBAR (S (NP (NP (DT a) (NN gaming) (NN computer)) (VP (VBG .....) (NP (NP (CD 1)) (PP (IN of) (NP (PRP$ my) (NN ??))))) (. ?)) (VP (AUX is) (SBARQ (WHNP (WHNP (WP what) (NN type)) (PP (IN of) (NP (NN monitor)))) (SQ (MD should) (NP (PRP i)) (VP (VB use) (SBAR (IN .....) (S (NP (PRP i)) (VP (AUX 'm) (VP (VBG thinking) (NP (NP (CD 15) (NN inch)) (VP (VBG ....) (NP (WP what) (NN kind))))))))))))))))))))) (. ?)) )
+(TOP (S (S (NP (PRP i)) (VP (MD may) (VP (AUX be) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB find) (NP (DT a) (NN 15&quot)))))))) (: ;) (S (S (VP (VBG ,,) (NP (NN 17&quot)))) (: ;) (VP (VBZ seems) (S (VP (TO to) (VP (AUX be) (NP (DT the) (JJ starting) (NN point))))))) (. .)) )
+(TOP (SBARQ (WHNP (WRB how) (JJ much)) (SQ (VP (VBD $$$$) (NP ($ $) (AUX are))) (NP (PRP you)) (VP (VBG planing) (S (VP (TO to) (VP (VB spend)))))) (. ?)) )
+(TOP (NP (NNP john)) )
+(TOP (NP (NP (NNP max)) (NP (money ($ $) (CD 300)))) )

@@ -1,0 +1,22 @@
+<s> ok, so i recently purchased a belkin n+ wireless router, which i hooked up to my modem and connected to my wireless laptop (running windows vista home premium sp2).  </s>
+<s> previously, i had a linksys wireless router, and i would run my desktop (running windows xp pro sp3) through a lan cable into my laptop and connect through the internet like that with no changes to internet settings (except &quot;allow users to connect to the internet through this computer&quot; on my laptop internet options).  </s>
+<s> after i setup the new belkin router though, my desktop lan connection through my laptop would not connect to the internet.  </s>
+<s> finally, i got it to work by setting up a &quot;home network&quot; on my desktop, with the laptop as a gateway.  </s>
+<s> this was brand new, i didn't have to do this before for the desktop to connect to the internet.  </s>
+<s> now my desktop shows the laptop as a gateway, in &quot;network connections&quot; it specifies the wireless laptop connection as the internet connection. the laptop ipv4 address on the lan connection also needs to be 192.168.0.1 (the same as the router default) in order for the desktop to connect to the web, not &quot;automatically detect ip&quot;.  </s>
+<s> the problem is this, many webpages will not load (cnn.com, java.com, etc.), they get locked halfway through loading, and programs cannot access the internet to update/communicate (boinc communication doesn't work, java updates won't download, pc tools spyware dr. won't update).  </s>
+<s> some will load (google.com,  </s>
+<s> news.google.com).  </s>
+<s> where is the problem here?  </s>
+<s> why wouldn't my desktop connect to the internet through my laptop the way it did before the new router?  </s>
+<s> is the &quot;home network&quot; complicating things? is this a firewall issue?  </s>
+<s> why now if it is?  </s>
+<s> something is blocking full internet access on my desktop, and i have a feeling it's tied to the network settings but can't pinpoint it.  </s>
+<s> i've already tried loosening program allowances in my mcafee firewall, but that doesn't seem to have helped.  </s>
+<s> is there any chance of setting it up like most of us? that is.... internet -&gt; router -&gt; pcs.  </s>
+<s> i don't have a wireless networking card in my desktop, just an ethernet card.  </s>
+<s> that's why i cannot connect my desktop directly to the wireless router (it's also physically too far away to run a cable into the router's ports).  </s>
+<s> it is what it is.  </s>
+<s> when you veer far off the usual setup you find it's troublesome.  </s>
+<s> cables and wifi cards are pretty cheap at geeks.com and newegg.com.  </s>
+<s> what i find is that i have to give it time for people to feel it's worth the money.  </s>

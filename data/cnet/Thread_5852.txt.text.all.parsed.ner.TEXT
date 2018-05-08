@@ -1,0 +1,41 @@
+<s> i have two different networks for my computers.  </s>
+<s> (the reason is complicated and has to do with online backup and comcast bandwidth caps.) all of my computers are on one network, except for one mac that has all my photos and videos.  </s>
+<s> i would like to plug a drobo in to that mac for backup purposes and then use the droboshare to share those files to all the other computers (on a different network) and allow other computers to back up to the drobo. the connection to the mac, which is the one on the different network, would be a direct firewire/usb connection. the various computers are windows, mac, and linux. is this possible with a drobo?  </s>
+<s> thanks!  </s>
+<s> look at servers you access everyday on the internet.  </s>
+<s> you must know that those servers run anything and every operating system you've ever heard of and your mac, pc access them just fine.  </s>
+<s> however it's very strange to think about connecting to that drobo across multiple interfaces.  </s>
+<s> what article made you think that works?  </s>
+<s> in closing.  </s>
+<s> connect the drobo to droboshare and then to the network.  </s>
+<s> all is well and done.  </s>
+<s> bob  </s>
+<s> no article in particular, but it seems logical that it would.  </s>
+<s> let me explain again what i am looking for: i would like the drobo to connect via firewire or usb to one computer and also connect to my network. the reason is that that one computer has its own router and is not connected to the other computers.  </s>
+<s> is this possible?  </s>
+<s> thanks!  </s>
+<s> &quot;heh, it has firewire, usb and ethernet.  </s>
+<s> why should each work at the same time?&quot; the answer is not what you may want to hear.  </s>
+<s> so the answer is no, then?  </s>
+<s> is there any work around?  </s>
+<s> would some sort of splitter work?  </s>
+<s> thanks!  </s>
+<s> your splitter.  </s>
+<s> why not use that?  </s>
+<s> perhaps i have not been clear.  </s>
+<s> one computer is on a different network from the others.  </s>
+<s> that's just plain old networking.  </s>
+<s> i took it what you wanted to plug into the firewire port at the same time the droboshare was active.  </s>
+<s> that's not something i've seen work and i don't see in the manual such a setup.  </s>
+<s> that bridge can be done any number of ways.  </s>
+<s> since i an not your network architect i can't offer much more than i've done more than a few bridges.  </s>
+<s> for an example, you could vpn into that other network and then do that backup.  </s>
+<s> break the vpn and you're back on your lan.  </s>
+<s> bob  </s>
+<s> i was originally hoping to use firewire, since i thought it would be easier.  </s>
+<s> to be honest, the simpler the setup the better.  </s>
+<s> i consider my self pretty knowledgeable about computers, but when it comes to networking, nothing seems to work for me. is there any simpler way?  </s>
+<s> perhaps i could connect my mac to both networks?  </s>
+<s> i know very little about your networks.  </s>
+<s> ask the person who designed yours for how to do the bridge or vpn from one to another.  </s>
+<s> as to connecting to both networks, did you try it?  </s>

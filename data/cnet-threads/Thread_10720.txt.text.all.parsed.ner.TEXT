@@ -1,0 +1,59 @@
+<s> hi guys and girls.  </s>
+<s> i can't seem to figure this one out.  </s>
+<s> here is my setup: speedtouch 536 dsl modem, nexxt 4 port wireless router, cnet cic 920w wireless ip camera. the camera is set up in wireless mode and any computer on the wireless or local area network can see the camera and access the video. the setup went perfect for the internal network.  </s>
+<s> but i cannot for the life of me see why the configurations i have set to see the camera externally are not working.  </s>
+<s> here are some of the things i have done: the ip of the dsl internally is 10.0.0.1 and the gateway is 10.0.0.138. the router is being assigned an ip 192.168.1.1 and the gateway is set to 10.0.0.138 (the wan of the router is connected to the dsl). the ip of the camera is fixed to 192.168.1.100 and has a gateway and dns set to 192.168.1.1 the napt on the speedtouch was modified so that any outside ip accessing port 80 would be mapped internally to 192.168.1.1 also, the virtual server on the wireless router was set to put anything accessing port 80 to 192.168.1.100 which is the ip of the camera.  </s>
+<s> i was unable to access the camera using the external ip of the dsl while at home so i tried going to another location.  </s>
+<s> still did not work.  </s>
+<s> can someone please tell me where i went wrong?  </s>
+<s> i would write about routing, forward but both 192.x.x.x and 10.x.x.x are non-internet addresses.  </s>
+<s> something is not right here.  </s>
+<s> or you changed an address to not reveal your internet address.  </s>
+<s> while you could have just written &quot;internet address&quot; and your lan range is 192.x.x.x your post is such that it's dead.  </s>
+<s> i can't see how this would ever work.  </s>
+<s> bob ps. just so you know, this is not the support site for cnetusa products but people helping people.  </s>
+<s> i did not put my internet ip because i am not sure where i did not use it in any of the configurations i mentioned.  </s>
+<s> i thought i only would need the internet ip when i am trying to access the camera from the internet.  </s>
+<s> did i draw an incorrect conclusion?  </s>
+<s> all ip's mentioned are internal to my network.  </s>
+<s> thanks for your assistance.  </s>
+<s> as i look at the speedtouch's &quot;specs&quot; we see it is also a router.  </s>
+<s> so you have your combo dsl router wired to a second router (with wifi).  </s>
+<s> you are now performing a double nat and have quadrupled the work to get your camera on the internet since you have to port forward not once but twice and hope it all works.  </s>
+<s> i make no offer to write how to forward ports.  </s>
+<s> but in post 17 of this forum's sticky we note how to use common wifi routers as a wap.  </s>
+<s> if you had done this then only one the first dsl router would have to be configured for forwarding the needed ports.  </s>
+<s> you can also turn on the &quot;bridge mode&quot; of the dsl router so you configure the wifi router to do the pppoe login and you have the same issue of port forwarding.  </s>
+<s> this is no offer to write a tutorial about such as the internet is full of articles about this.  </s>
+<s> you also have an issue that your isp may block inbound port 80 so besides the issues you created with dual routers you have to see if your isp is thwarting your efforts.  </s>
+<s> good luck, bob  </s>
+<s> thanks for the info so far.  </s>
+<s> my isp says that they are not blocking port 80. also, the login on my dsl modem is using pppoa but the wifi router only has the pppoe option.  </s>
+<s> will this be a problem?  </s>
+<s> also, i am not sure why i would be quadrupling the efforts to port forward both the dsl and the wifi.  </s>
+<s> do i need to do more than what i have already done?  </s>
+<s> can you tell me how to access the post you are mentioning?  </s>
+<s> thanks.  </s>
+<s> did you try? i can't count the times where people want some guaranty from me.  </s>
+<s> &quot; can you tell me how to access the post you are mentioning?  </s>
+<s> &quot; the sticky post is in this forum, the top post today.  </s>
+<s> just click on cnet forums: networking & wireless and there it is.  </s>
+<s> &quot;also, i am not sure why i would be quadrupling the efforts to port forward both the dsl and the wifi.  </s>
+<s> do i need to do more than what i have already done?&quot; because you have a double nat and need to forward twice and your hardware may not work.  </s>
+<s> you have double the hardware and software at work here so 4 times the possibility of it not working.  </s>
+<s> bob  </s>
+<s> thank you for your assistance.  </s>
+<s> hi there, i had the exact same problem.  </s>
+<s> even though the port is not being block, it's being &quot;hidden&quot; by the firewall.  </s>
+<s> in the router setup, go to the firewall selection.  </s>
+<s> i have a linksys router.  </s>
+<s> no matter what your router is, it should be have settings in the firewall selection.  </s>
+<s> there should be something like &quot;filter anonymous internet requests&quot; what this does is hide the ports.  </s>
+<s> click this off and you should be o.k.  </s>
+<s> hi - i have a very similar setup to yours - and i am trying to host a web site on a machine behind the nexxt.  </s>
+<s> note that i have already configured the speedtouch so that i can access the machine from the outside internet (this works if i connect my machine directly to the speedtouch).  </s>
+<s> i am however at a loss as to how to put my wireless router in the mix and still be able to access the machine from the outside internet.  </s>
+<s> help pleaaaaaaaaseeeeeeeeeeeeee!!!! (pretty please with sugar on top)  </s>
+<s> 1. set your router to forward port 80 to the server.  </s>
+<s> 2. ask your isp if they block &quot;servers.&quot; some do.  </s>
+<s> as to your wifi router, post 17 of our forum sticky looks like what you need.  </s>

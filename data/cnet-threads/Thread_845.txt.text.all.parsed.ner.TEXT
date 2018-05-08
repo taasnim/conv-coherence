@@ -1,0 +1,48 @@
+<s> system info: amd athlon xp 3200+ asus a7n8x deluxe rev. 2 mobo 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 256mb corsair twinx ll pc3200 dimms 80gb hitachi deskstar sata hard disk ati radeon 9800 xt (agp 8) antec trublu 480watt psu wavemaster coolermaster tac-t01 mid tower case (3 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 8mm case fans) internal iomaga zip 250 drive dvd-rw/cd-rw combo drive dvd-rom windows xp pro sp1 samsung 213t 21.3'' tft problem: when i first boot the system up (after it has been off for a few hours), i am able to see the post and the beginning of windows launch, however just before windows loads up properly the system stops outputting graphics.  </s>
+<s> after leaving it run for a few minutes and then performing a cold restart (need to stop doing that i know) the system will boot up properly.  </s>
+<s> it isn't the my display as i've tried with a selection of others (tfts and crts).  </s>
+<s> i then thought that there may have been too much of a strain on the psu, so disconnected 2 of the fans plus all of the drives, but am still having the same problem.  </s>
+<s> i suspect that it may be a loose connection somewhere, which is solved when the system heats up and connections expand - but i could be wrong.  </s>
+<s> as a last resort i will probably disconnect and reinstall everything, but before i do i'd most appreciate any help from anyone who may have had a similar problem or may have a theory about a possible cause.  </s>
+<s> thanks in advance harinder  </s>
+<s> when you 1st boot-up and see the booting display, that's the h/w output on basic default level.  </s>
+<s> once it starts the xp os, etc., its gettig into the &quot;desired&quot; display output selected and since you have a full plate, expect it to take time.  </s>
+<s> swapping out displays while a good idea for h/w, isn't 100% for s/w issues.  </s>
+<s> the next time on a cold boot, just walk away and see what the results are, before doing anything drastic, allow at least 10min.. if you haven't alrady clean the system of old files, old pgms.  </s>
+<s> etc.. that simply are used or long in tooth, decide what stays. then find some &quot;registry cleaner&quot; to better handle the tidbits to best final clean the system.  </s>
+<s> this will reduce prolonged boot-ups too as the registry isn't as long as before upon boot checking.  </s>
+<s> then finally &quot;defrag the hd&quot; for tidy-up sdome more.  </s>
+<s> tada -----willy  </s>
+<s> take out the video card and re-seat it.  </s>
+<s> first, take a soft pencil eraser and lightly go over the contacts to get rid of any residue that might have collected there.  </s>
+<s> if this or willy's suggestions don't work then consider a new video card.  </s>
+<s> and life goes on... jack  </s>
+<s> it does kind of sound like a cold solder joint or connection.  </s>
+<s> i would first suspect a: graphics card or b: system board.  </s>
+<s> try opening up your system before power up and warm it up with a hair dryer then power up.  </s>
+<s> if it comes up, good guess is connection or solder joint and go from there.  </s>
+<s> ati 9700 user  </s>
+<s> hi, apologies for the very, very late reply / update, i had just started a new job.  </s>
+<s> to update the situation, i had kind of side stepped the problem by swapping my radeon 9800xt with my brother's old geforce 2 mx.  </s>
+<s> my card has been in his 1.5ghz p4 system for a number of months now, and he has had no problems, and vice versa, i have had no problems with using his in mine.  </s>
+<s> i guess it makes sense that the bios/post isn't making drastic demands on the g card.  </s>
+<s> i recently carried out a clean install and upgraded the xp to sp2.  </s>
+<s> i will be re-installing the card to see if this solves the problem.  </s>
+<s> regards harinder  </s>
+<s> hi jack, thank you for the info, i did try this but it didn't seem to make a difference. the graphics card has been working fine in my brother's p4 system for a number of months now, and his geforce 2 mx has been working fine in my system without any problems for the same period of time.  </s>
+<s> i have just carried out a clean install, so will be swapping them back again pretty soon.  </s>
+<s> regards, harinder  </s>
+<s> hi, i did try this, but it didn't seem to make a difference, saying that though, the card did sometimes sit at a 'funny' angle.  </s>
+<s> regards, harinder  </s>
+<s> it seems like quite a useful tool... regards, harinder  </s>
+<s> hi all, another chapter in this horrid saga, i purchased a new bfg geforce 7800 gs oc last week (yes i gave up on my poor 9800xt), and it is having exactly the same problem.  </s>
+<s> the card boots up to the login screen and is stable, but once you login, it restarts without even getting to the desktop, restarts a few more times and then freezes at the post directly after the ram check has completed.  </s>
+<s> the 7800 (maybe the fan) also gives out what sounds like a high pitched beep.  </s>
+<s> have once again had to revert back to my ancient geforce 2 mx400, and as usual it gives me no problems.  </s>
+<s> contacted, bfg support and tried their suggestions (they've been very helpful), they have kindly offered to replace it (which i will take up if my new psu and mobo still don't fix the problem).  </s>
+<s> have now ordered a new ocz modstream 520w psu, if that still doesn't solve the issue, i will try replacing the mobo.  </s>
+<s> will update to let you all know happens.  </s>
+<s> in the meantime, does anyone have any other suggestions as to what the most likely culprit is.  </s>
+<s> thanks in advance for all your suggestions, regards, harinder  </s>

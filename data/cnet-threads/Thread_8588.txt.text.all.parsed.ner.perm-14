@@ -1,0 +1,7 @@
+(TOP (S (ADVP (RB just)) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (PRP it)) (VP (AUX 's) (VP (VBN jumpered) (ADVP (RB correctly)) (PP (IN with) (NP (NP (DT the) (NN master)) (SBAR (WHNP (WDT that)) (S (VP (AUX 's) (PP (IN on) (NP (DT the) (JJ same) (NN cable)))))))))))))) (. .)) )
+(TOP (S (NP (NNP heres)) (NP (PRP$ my) (NN system)) (VP (VBD info) (NP (CD os) (NN name)))) )
+(TOP (S (S (VP (VP (VB shut) (PRT (RP down))) (CC and) (VP (VB remove) (NP (PRP it))))) (PRN (-LRB- -LRB-) (S (VP (VB make) (S (ADJP (JJ sure)) (SBAR (S (NP (DT the) (NN master)) (VP (AUX is) (VP (VBN jumpered) (ADVP (RB correctly)) (ADVP (RB again)) (PP (TO to) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (AUX was) (ADVP (RB before))))))))))))) (-RRB- -RRB-)) (. .)) )
+(TOP (S (RB then) (SBAR (IN if) (S (NP (EX there)) (VP (AUX 's) (NP (NP (NN anything)) (SBAR (S (NP (PRP you)) (VP (VBP want) (PP (IN from) (NP (PRP it)))))))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB use) (NP (NNS windows) (NN explorer)) (S (VP (TO to) (VP (VB drag) (CC and) (VB drop) (PP (TO to) (S (NP (PRP$ your) (JJ current) (NN drive) (NN ....)) (ADVP (RB then)) (VP (NN format) (NP (DT the) (NN slave)) (PP (IN by) (S (VP (VBG rightclicking) (CC and) (VBG choosing) (NP (NN format)) (PP (ADVP (RB right)) (IN from) (NP (NN explorer)))))))))))))) (. .)) )
+(TOP (NP (NP (JJS most) (NN anything)) (PP (IN except) (NP (JJ installed) (NNS programs))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (DT a) (NNP compaq) (NN presario) (date (CD 5000)))) (. .)) )
+(TOP (NP (NNP toni)) )

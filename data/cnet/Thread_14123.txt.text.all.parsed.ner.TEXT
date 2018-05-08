@@ -1,0 +1,93 @@
+<s> hi all i bought a new usb today, and when i tried at, my pc did recognize the device but the problem is that its icon isn't showing in my computer.  </s>
+<s> i tried to solve it by changing the path name, but whenever i connect the usb, i can't access disk management because the pc get stuck and i get a not responding message.  </s>
+<s> and then i have to restart it again.  </s>
+<s> does anyone encounter a similar problem?  </s>
+<s> thanks in advance.  </s>
+<s> i would be guessing if this was some usb memory stick but as it stands it is defective and you send it back.  </s>
+<s> bob  </s>
+<s> i already tried it in my laptop and it works perfectly.  </s>
+<s> i think the problem is with my pc, because when i plugged in my friend hard disk, i also encountered the same problem.  </s>
+<s> the usb works only if i plug it before the pc start, which is not very practical.  </s>
+<s> thanks for replying r. proffitt.  </s>
+<s> there are issues like this on desktop front ports, windows xp and such.  </s>
+<s> there is so little detail that i can't pick a direction bob  </s>
+<s> my operating system is windows xp. my older usb works perfectly in it, but my pc is not responding with this new one nor my friend hard disk.  </s>
+<s> i can make them work if i plugged them before starting the pc. what kind of other details you want to know?.  </s>
+<s> open the device manager program, then plug in the problem usb device.  </s>
+<s> check the usb section then in device manager, see if you can find any info about what's going on there.  </s>
+<s> i've seen problem where newer fast flash memory cards wouldn't read in a slow reader and maybe the same happens with some of the newer fast usb flash thumbdrives.  </s>
+<s> windows sees it on bootup, but ignores it if plugged later.  </s>
+<s> that's odd, but maybe due to bios settings.  </s>
+<s> while in device manager, look under the computer part (right at the top) and see if it says an acpi computer, which would mean windows takes over for bios when it boots.  </s>
+<s> set bios to be shadowed.  </s>
+<s> as for it's usb 1.0, it says &quot;enhanced&quot;, so i guess that means 2.0?, even though my pc is kind of old.  </s>
+<s> i did what you mentioned, and everything seems normal.  </s>
+<s> the usb section is also fine (unless if there's something specific you want me to check), and the usb is recognizable in the disk drives section.  </s>
+<s> it says (acpi multiprocessor pc) under the computer section.  </s>
+<s> can you please instruct me in how to set bios to be shadowed.  </s>
+<s> and do i need to change the bios order and put usb first?.  </s>
+<s> xp has severe limitations of which some are removed as you apply service packs.  </s>
+<s> then xp has limitations on file systems and how big the memory stick or more.  </s>
+<s> your post lacks detail so as it stands it could be the basic issues of xp or if the drive letter shows up and you look at the files with explorer the other big issue but all i can ask is you keep writing.  </s>
+<s> bob  </s>
+<s> system: microsoft windows xp professional version 2002 service pack 3 when i plug in the usb, the icon appears in the taskbar.  </s>
+<s> but its not shown in my computer.  </s>
+<s> and if i want to go and change the drive letter, the pc gets stuck and not responding, which i have to restart it then.  </s>
+<s> what kind of other information do you want to know?  </s>
+<s> and do you recommend me to format the pc?.  </s>
+<s> i don't see make, model, if the drivers are installed and we all know driver update is not to be trusted.  </s>
+<s> we have issues with front usb ports to mention and then after this many posts i don't see anything about the usb sitck details.  </s>
+<s> i do not think i would format the pc. i would like to see every detail.  </s>
+<s> bob  </s>
+<s> maybe this drive is not ready to use?  </s>
+<s> all these posts and i can't find what this usb thing is.  </s>
+<s> it could need preparing for use by deleting any partition on it, create a new partition then formatting it.  </s>
+<s> you bring up a good point here. is this asking a lot of today's users?  </s>
+<s> that is, should products arrive ready to be used?  </s>
+<s> bob  </s>
+<s> all the drivers are installed, i don't see any yellow question mark on any of them.  </s>
+<s> but in ports (com & lpt) section, i see that (com4) has an &quot;x&quot; sign on it.  </s>
+<s> i have two usb, &quot;imation&quot; 4gb and another one i forgot its company with the size of 2gb.  </s>
+<s> yesterday i bought a &quot;sandisk cruzer facet&quot; usb with the size of 32gb. the problem is that the previous two works perfectly, but only with this new one that i'm facing difficulties in accessing it.  </s>
+<s> and i'm guessing they all use the same drive?. but like i said, i can access it fine if i plug it (or my friend's hard disk) before starting the pc. so you recommend to delete every partition (c,d) and then format it?.  </s>
+<s> &quot; the previous two works perfectly &quot; and i'm guessing the other two are also 32gb sandisk cruzers and this stick does not work on other pcs per your words above so it's back to the store to exchange it.  </s>
+<s> xp does not natively support 32gb memory sticks.  </s>
+<s> here's a link about that issue.  </s>
+<s> to gain support for such large drives we need xp to be all updated to sp3 as well install kb955704.  </s>
+<s> sorry for all the posts above but there was some basic information missing.  </s>
+<s> bob  </s>
+<s> the other two usb i have is (imation) 4gb and another one i forgot its company with the size of 2gb.  </s>
+<s> they do work on the pc. as for the new usb (32gb sandisk cruzers), it works only when i plug it in to the pc before starting it.  </s>
+<s> but it works perfectly fine in my laptop.  </s>
+<s> so the problem is definitely from the pc. i read what is in the link, my problem is slightly different, because my pc does read the usb, but i can't access it.  </s>
+<s> i can only access it with the method mentioned above.  </s>
+<s> i'll try your solution and i'll get back to inform you about the results.  </s>
+<s> thanks for your help.  </s>
+<s> the other two are well inside what xp sp3 supports.  </s>
+<s> &quot;my pc is not responding with this new one nor my friend hard disk.  </s>
+<s> &quot; and you state the laptop is fine but my bet is it's not xp. xp has many limitations and arcane issues like this one.  </s>
+<s> bob  </s>
+<s> where did you get this usb flashdrive?  </s>
+<s> there are a lot of counterfeits out there which claim sizes bigger than they are, speeds faster than they are, and some of them may not work at all.  </s>
+<s> please investigate some of these links and stories, see if it may apply to your situation.  </s>
+<s> which one it doesn't work on other pcs?. you mean the new one?. no it works on my laptop as i've said, but like you mentioned, my laptop is windows 7. i updated the windows and installed kb955704, but it's still the same.  </s>
+<s> i think i need to format, as you said, it's something from the windows.  </s>
+<s> again thanks very much.  </s>
+<s> may as well try formatting but 32gb means every aspect of windows xp from service packs to drivers and that kb must be up to date.  </s>
+<s> in other words, you are seeing where xp is running out of steam and support.  </s>
+<s> bob  </s>
+<s> i said i &quot;tried it in my laptop and it works perfectly&quot;.  </s>
+<s> i didn't say other pcs. the problem is only in my pc. anyway, my pc is kind of old, it may becomes very slow if i installed windows 7. i actually was planning to format it two weeks ago.  </s>
+<s> hopes it going to work.  </s>
+<s> but it was a clue there may be an issue with that stick.  </s>
+<s> you wrote &quot;my pc is not responding with this new one nor my friend hard disk.&quot; which is why i thought the stick may be troublesome.  </s>
+<s> i suggest you stay away from big sticks on xp. bob  </s>
+<s> &quot;my pc is not responding with this new one nor my friend hard disk.&quot;, which definitely mean that the problem is absolutely from my pc, because they both worked perfectly fine in my laptop as i mentioned.  </s>
+<s> i think the problem is in my windows xp, and not the sticks, because i can access the usb in my pc if i used the method i mentioned in my previous post (which is plugging it before the pc start-up), but it's not practical.  </s>
+<s> xp does work with my 32gb stick but at the office we know to update drivers (no, the update driver button has not worked for this in over a decade) and check out the rest of the system.  </s>
+<s> -&gt; now imagine this usb stick ran some code on insertion.  </s>
+<s> your posts have been light on details for a long time.  </s>
+<s> i know folk do not want to reveal model numbers but if you had written it was a vtop usb 32gb stick i might look to see if that had some of the titles that create trouble.  </s>
+<s> no one i know is writing their little usb apps for xp today.  </s>
+<s> if it works, that's a bonus but no makers are fretting about writing &quot;windows vista/7/8&quot; on the product sheet.  </s>
+<s> bob  </s>

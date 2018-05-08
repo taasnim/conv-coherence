@@ -1,0 +1,24 @@
+<s> hi, i can't get my head around this one... i have an old dell dimension 2400 (2.8ghz, 512 ram, xp sp3), which i was hoping to modify to allow me to stream video onto the tv (for 4od etc).  </s>
+<s> i bought an nvidia geforce fx5500 pci card, and have attempted to get it working.  </s>
+<s> i know the pc is a bit of a dinosaur, but with the new card, it should be fine for what i want it for.  </s>
+<s> i tried first by uninstalling onboard graphics, turning the pc off, installing the card... but there was no output from the fx5500.  </s>
+<s> if i take out the card, the onboard graphics still works, and onboard graphics sometimes works when the fx5500 is inside (usually after a few minutes of being switched off to allow settings to reset back to onboard video). the bios settings are at 'auto' for video card selection, so this should automatically chose the fx5500 as the primary card (the only alternative to 'auto' in the video options in bios is 'onboard').  </s>
+<s> i have downloaded the latest drivers from nvidia, the nvidia site recognises that i have an fx5500 installed, and shows the latest driver, but i don't think it can install properly for some reason.  </s>
+<s> device manager shows that i have the fx5500 installed, but won't let me update the drivers that way either, even when i specify the location of the drivers.  </s>
+<s> it also shows me an error message saying &quot;the device could not be started (code 10)&quot;.  </s>
+<s> can anyone help?  </s>
+<s> or have i got a faulty card?  </s>
+<s> thanks very much!  </s>
+<s> i gave it away with the warning that no driver save what came with the card worked for me.  </s>
+<s> so given i had (past tense) the fx5500 w/256mb ram all i can offer is &quot;btdt&quot;.  </s>
+<s> i had much better luck with our older fx5700's and the slightly newer fx6200's also, i learned to not bother with uninstalling the onboard video drivers.  </s>
+<s> i just plugged in the new agp card and set it to auto, put the vga cable on the new card and used it that way.  </s>
+<s> be aware that you should encounter code 10 if you tried other than the cd that came with the card or your machine didn't have it's motherboard drivers installed.  </s>
+<s> this is far from automatic and we would never use the udpate driver button in windows for this or any other driver.  </s>
+<s> bob  </s>
+<s> the pc is not assigning required resources to the card.  </s>
+<s> if you have other pci cards, try removing them.  </s>
+<s> if you have a bios setting assign irq to pci, do that.  </s>
+<s> lastly, try asking dell if the fx5500 is compatible.  </s>
+<s> alternative is to use a pc-to-tv converter with the onboard vga.  </s>
+<s> good luck.  </s>

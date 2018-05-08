@@ -1,0 +1,28 @@
+<s> hi, i have 2 (1 old, 1 new) computers (the old one running windows xp professional and the new one running windows xp professional sp2) that are sharing the same cable net connection through a linksys wrt54gc router.  </s>
+<s> this configuration worked for a couple of years but now, only the new computer will connect to the internet.  </s>
+<s> the old computer doesn't connect at all.  </s>
+<s> i have already tried: 1) restarting the computer 2) powercycling the modem and router that didn't fix it.  </s>
+<s> also, i notice that when i restart the old computer, in ipconfig, everything seems correct, but the internet connection doesn't work.  </s>
+<s> here are the settings: connection-specific dns suffix: ok.shawcable.net  </s>
+<s> ip address: 192.168.1.101 subnet mask: 255.255.255.0 default gateway: 192.168.1.1 then, i enter the command ipconfig /release and i get this connection-specific dns suffix: ip address: 0.0.0.0 subnet mask: 0.0.0.0 default gateway: then, i enter ipconfig /renew and i get this error: an error ocurred when renewing interface local area connection : unable to contact your dhcp server.  </s>
+<s> request has timed out.  </s>
+<s> then, i enter the command ipconfig again and i see this configuration: connection-specific dns suffix: autoconfiguration ip address: 169.254.78.32 subnet mask: 255.255.0.0 default gateway: ---------------------------------------------------------------------- i just think its weird how one computer can connect to the net and one cant.  </s>
+<s> thanks in advance  </s>
+<s> is to update the old one to sp2.  </s>
+<s> there are enhanced networking applications in sp2.  </s>
+<s> second thing is to update the router firmware.  </s>
+<s> third - move the ethernet cable to another port on the router.  </s>
+<s> one port may have gone bad.  </s>
+<s> fourth - replace the nic.  </s>
+<s> or just for grins, swap it with the working one, see if the problems moves.  </s>
+<s> that oddball ip address 169.254.78.32 comes up when the nic cannot access the lan.  </s>
+<s> wayne click here to see the cnet faces, learn a little about analog and digital data, internet connections, spyware removal, and download free software.  </s>
+<s> 5 db hot.  </s>
+<s> first of all, i can't update the older one to sp2 because last time i attempted to install sp2 on the computer, the computer locked up in the middle of installation and wouldn't boot and the os had to be reinstalled.  </s>
+<s> i'll try and update the router firmware and see what happens.  </s>
+<s> i'l also try plugging the cable into another port on the router.  </s>
+<s> i really don't want to replace or move the nic.  </s>
+<s> thanx for the help  </s>
+<s> trading connections and see if one works or both.  </s>
+<s> could make your guesswork easier in narrowing down the problem.  </s>
+<s> rick  </s>

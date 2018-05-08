@@ -1,0 +1,18 @@
+<s> i have an internet connection that enters my house using a cat5 cable through rj45 type socket - currently i have a desktop that is connected to the cable - i want to share my internet connection - the desktop should have a cable connection and want to connect a laptop as well which will connect using wireless as well as cable as and when required - i will not be using both computers at all times so do not want to make my desktop a server or the laptop a server - so how do i share the connection - i mean do i use a wireless router, switch or something else ?  </s>
+<s> and then how do i set it up - i have no experience or education in networking so i would really appreciate it if you could tell me in detail.  </s>
+<s> thanks for your help.  </s>
+<s> normally you will connect the router to that source (usually a modem). the router will then do its thing, wired and wireless.  </s>
+<s> after the router is in place you turn on file and printer sharing on each pc, but only if you want to share files and such between the two pcs.  </s>
+<s> no &quot;server&quot; settings are involved.  </s>
+<s> again, the source is important.  </s>
+<s> if you get your service from another router, the above setup can be daunting.  </s>
+<s> okay i checked my wiring and here is how it shows - rj11 wire connects to modem which is a billin modem - the router interface is inaccessible, then from the modem an rj45 cable connects to my computer - evertime i connect to my isp i am first taken to a login page and once i enter the username and password i get an always on connection unless the connection is idle for more than 24 hrs - i get a default gateway and ip address of 124.125.xxx.xxx - not sure if it is a static or a dynamic ip allocatin - i can check for a few days and let you know to be sure - my isp is very forthcoming with the fact that they will not assist in setting up 3rd party routers.  </s>
+<s> they will also not give any info to help with the same - so basically i need a solution that will allow me to share the internet irrespective of modem settings.  </s>
+<s> i receive an always on internet connection from my rj45 cable and i just need help so that the signal can be shared on one wired and then wireless connection.  </s>
+<s> thanks for your help.  </s>
+<s> putting a router between the modem and your pc's should be solution.  </s>
+<s> they come with instruction to set them up.  </s>
+<s> for wired connection all goes automatically.  </s>
+<s> for wireless the usuals are ssid, channel, encryption type and password.  </s>
+<s> you don't need the isp for any of those.  </s>
+<s> kees  </s>

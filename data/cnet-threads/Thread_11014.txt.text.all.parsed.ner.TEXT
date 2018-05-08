@@ -1,0 +1,65 @@
+<s> i am needing a bit of advice on what options may be available to me for recovering my data from a packard bell store & save 3500, 500gb.  </s>
+<s> there is about 40gb of data on it - mainly music, photos and family history documents in tif format. the drive had started clicking when i was in the middle of attempting to back it up, my laptop didn't recognise it all when it was connected and would also not respond if i tried to boot up with it connected.  </s>
+<s> i sent it to a techy friend to see if he could get it to work (trying it in different pcs etc), this failed so he sent it back to me.  </s>
+<s> i then sent it to rapid data recovery following reccomendations.  </s>
+<s> last friday (the 26th) rapid data got back to me and said that their techs had found that the head assembly unit had failed.  </s>
+<s> they told me it would cost 195 + vat to buy and fit the head assembly unit, payable in advance and non-refundable.  </s>
+<s> if this was successful it would then cost 135 + vat to recover the data.  </s>
+<s> i said i would have to discuss it with my partner over the weekend and would get back to them.  </s>
+<s> meanwhile i googled my make of hard drive and discovered my drive was a &quot;seagate st3500630as barracuda 7200.10 500gb 16mb sata ii/300 hard drive&quot; - i discovered there had been firmware problems with some other seagates, namely 7200.11 but a lot of the other models also seemed pretty unstable.  </s>
+<s> anyway we had decided we would go ahead with the recovery from rapid data.  </s>
+<s> on monday 1st march at 15.15 i received an email then a phone call from them to say that they had carried out further diagnostics and had discovered that the head assembly unit was not faulty and that it was a firmware fault and that if i agreed they could put the drive to their partner company (fields data recovery) to update the firmware and attempt recovery but that they were an expensive company.  </s>
+<s> i agreed they could put it to this company to see what they could find.  </s>
+<s> i then received a phone call telling me this had been successful and a list of the files that they could see to recover which i asked them to forward me in an email, which they have done and it is all my files.  </s>
+<s> they told me this will cost me 465 to recover.  </s>
+<s> i told them i would need time to get together the money and not to go ahead with it yet, to give me until friday (i also wanted time to digest this and try and get advice).  </s>
+<s> then yesterday i received a package that contained my hard drive packaging (original box) and all the cables, posted on the 26th, from this fields data recovery company, before i had even agreed it could be sent to this company.  </s>
+<s> i have just this minute received a phone call from rapid data asking if i want to go ahead, despite me saying i would give them an answer on friday, as my data was being held on their servers and would take up space until i give the go ahead.  </s>
+<s> problem is i now feel pressured and i'm now wondering whether this can be done even by myself or someone else who knows what they're as it was something as simple as a firmware fault.  </s>
+<s> what do you think?  </s>
+<s> i would pay the 465 as i really want my data back, i just don't want to do it if there are other options available to me.  </s>
+<s> please don't just reply saying i should have backed my data up, i'm fully aware of that and still beating myself up about it so no help needed there.  </s>
+<s> many thanks in advance.  </s>
+<s> lynn  </s>
+<s> you might be able to do this yourself.  </s>
+<s> here's something i found on the seagate site that might help though it might not contain your exact drive model.  </s>
+<s> i suspect you'd need to pay them something for their services up to this point.  </s>
+<s> if you cannot successfully update the firmware and recover your data, you're back to square #1. it's your choice.  </s>
+<s> good luck  </s>
+<s> therein lies your problem.  </s>
+<s> if the pc cannot complete booting when connected to the drive, you don't have a way to upgrade the firmware.  </s>
+<s> tech shops with circuit board probes providing repair services can do it and they will charge you, probably no less than fdr.  </s>
+<s> it's interesting that fdr copied your data onto their server, then shipped the drive back to you, presumably with its board still having the original firmware or a modified version (they wouldn't have given you good new firmware or else you could just connect to the drive and get the data out yourself!). at this point, don't connect your drive to your pc if you haven't already done so.  </s>
+<s> data in the drive may get erased by whatever fdr did to it.  </s>
+<s> probably not but don't take the risk.  </s>
+<s> most likely, fdr removed the platters from your drive in a clean room, used their fixture to extract the data, then re-installed the platters.  </s>
+<s> without modifying the firmware on the drive.  </s>
+<s> don't try it at home...you will fail.  </s>
+<s> so, what to do?  </s>
+<s> be an amateur repair-person!  </s>
+<s> buy an exact same model seagate drive and use its board as a replacement for the board on your drive.  </s>
+<s> do not open the cover of the drive!  </s>
+<s> just replace the external board.  </s>
+<s> and hope for the best.  </s>
+<s> good luck.  </s>
+<s> fdr did exactly what i recommended, ie. put another board on the drive, extract the data, then replaced your board.  </s>
+<s> since they are in the data recovery business, they must have a gazillion disk controller boards at their disposal in order to work on most brands/models of drives.  </s>
+<s> thank you for your replies steven and samkh.  </s>
+<s> fdr never sent me back the hard drive, just its packaging and cables.  </s>
+<s> i have contacted them and said that due to financial constraints i wouldn't be going ahead and retrieving the data at this point it time.  </s>
+<s> they came back to me offering a 20% discount but i had to do it today as they couldn't say how long the data would be stable for.  </s>
+<s> to be honest they have been on the phone so often trying to get me to go ahead with this that alarm bells have started ringing and i've got them to post the drive back to me.  </s>
+<s> they've told me there is no charge for their services unless i go ahead with recovery.  </s>
+<s> i'll explore the other options suggested and hopefully manage to get somewhere with one of them.  </s>
+<s> many thanks guys.  </s>
+<s> i've prepared myself for the possibility of doing just that- swapping out logic boards, but somewhere- and i can't find the bookmark- i read that i can use my firmware chip on the donor board so a total match in firmware revision isn't critical.  </s>
+<s> since this seems to be a widely 'popular' problem, certain drives are becoming extinct and prohibitively expensive to find an exact match.  </s>
+<s> fields charged me for data recovery but instead they overcharged me for &quot;disk head replacement&quot; and scratched my hard disk in the process, preventing even the manufacturers of the hard drive from performing a successful recovery.  </s>
+<s> the report they sent me was a template which they send out to other people (proof available, just ask).  </s>
+<s> have you seen this website for reporting scams?  </s>
+<s> there are a lot of websites about this company, pity i didn't check them out first because they are an abomination.  </s>
+<s> at a time when people's finances are hard pressed they are behaving like vultures, scum, sub-human scum.  </s>
+<s> what makes it worse is that the authorities don't give a toss, how many 1000s of complaints must they see before they take action.  </s>
+<s> i've never seen so many false claims made on one website.  </s>
+<s> who the hell are fields group and who exactly controls this company, they are not based in pall mall thats for sure, but the very fact that they would try to use that place as a mailing address suggests that they are deliberately trying to mislead people.  </s>
+<s> i found out about this company by reading the review threads, this website was pretty good too i wonder how many court cases they have going, please let me know how your's went, i am considering going through the small claims court to fight these fragments threads  </s>

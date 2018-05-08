@@ -1,0 +1,36 @@
+<s> new member here.  </s>
+<s> i just replaced a hard drive in a compaq desktop, loaded xp home, and now dont have sound, or recognition of the wireless (on board) card that was operating prior to drive replacement.  </s>
+<s> downloaded original drivers for wireless card and sound and mb.. etc, and when i go to install them, error message says that &quot;c&quot; drive has no memory, (&quot;c&quot; drive now shows as a removable drive, and the os is on &quot;h&quot; drive).  </s>
+<s> only have one hard drive.  </s>
+<s> 1.did i make a mistake on original installation of os (drive/partition choice) when installing windows?  </s>
+<s> 2. do i reinstall/format the os and look for the &quot;c&quot; drive?  </s>
+<s> 3. how can i reassign where drivers are installed?  </s>
+<s> (tried to re-name primary drive from h to c, and windows wouldnt let me.  </s>
+<s> 4. is this something i can do in dos?  </s>
+<s> thanks so much for any help!  </s>
+<s> rick:confused:  </s>
+<s> microsoft's os does not have the drivers for all that to work.  </s>
+<s> -&gt; next time use the restore media that came with the machine.  </s>
+<s> bob  </s>
+<s> bob- wouldnt i have had to use the media restore from prior to new install?  </s>
+<s> i do have the old drive still, and an enclosure i can recover old data from the folders.  </s>
+<s> should i copy all drivers and try and paste into the new h drive?  </s>
+<s> what folders do i retrieve?  </s>
+<s> there is no accepted method to copy drivers from an existing windows install.  </s>
+<s> we can clone (copy) a drive, we can copy files but drivers have more than files with registry entries and more.  </s>
+<s> its good you tried but why not clone the drive next time?  </s>
+<s> well, i am not a real trained whiz at this, all of what i know and do is done from trial and error.... and reading a bit. is it still possible to &quot;clone&quot; the old drive if i get it mounted in an enclosure?  </s>
+<s> how do i go about doing that??  </s>
+<s> 1. the hard disk makers give away clone software.  </s>
+<s> 2. it's widely written about on the internet.  </s>
+<s> 3. i use g4u about once a week it seems but some run away from a free software that doesn't have a mouse interface.  </s>
+<s> hi - i am assuming of course that you used your original windows xp cd to install onto the new hard drive - the reason that you would get your os 'seen on the h:drive' is quite possibly because you ran the installation whilst you had an external drive connected via usb to your computer during installation of windows or you had a usb stick or card reader connected - if you have an integrated card reader, please disable it from the bios first - if you have any drives or sticks connected to usb ports, these must be disconnected as well.  </s>
+<s> only have the cd drive and hard drive connected when installing windows.  </s>
+<s> but you still need to re-install windows if you don't wish to clone your original hard drive.  </s>
+<s> a good cloning program is paragon drive copy - you can get a trial version of the internet - many computer magazines offer such programs in a cd/dvd off the shelf for less than 5 - that's also an option.  </s>
+<s> i need to remove my post.  </s>
+<s> i ended up re installing xp, and paid attention to the advanced install part.  </s>
+<s> everything is good now.  </s>
+<s> thanks again!  </s>
+<s> thanks for all the advice.  </s>
+<s> i reinstalled xp again, and it worked right this time.  </s>

@@ -1,0 +1,11 @@
+<s> my friend built my computer with windows me when i go to system information it tells me that my drives have been partitioned into 3drives disk#0 partion#0, disk#0 partion#1(which is my c-drive) and disk#0 partition#2.  </s>
+<s> somebody tell me how i can fix this problem as whenever i load anything it tells me i have no space but yet i have a 40gb hard drive.  </s>
+<s> my computer is a 900 amd athlon with a chaintech socket a nvidia nforce2 motherborad.  </s>
+<s> if the installer of the os didn't answer the large disk support question with yes, you get 2gb on c: and run out of space.  </s>
+<s> fixing this is easy with partition magic, but since it's new, just start over.  </s>
+<s> bob  </s>
+<s> bob, the partition is in linux form that makes it harder to get rid and reloading my windows disk doesnt resolve the problem.  </s>
+<s> they had a thing on c-net called partition magic which was a free version but because it was linux it wouldnt do anything about it.  </s>
+<s> seems quite the experts only setup.  </s>
+<s> you may need the full version of partition magic or research sorry to read the initial setup was flubbed.  </s>
+<s> bob  </s>

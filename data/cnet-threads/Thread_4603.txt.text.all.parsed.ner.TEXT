@@ -1,0 +1,47 @@
+<s> hi. i'm sure you all get this question often, but how do i stop my computer from turning on by itself at night?  </s>
+<s> i have built my own computer, and recently it began turning itself on around two in the morning.  </s>
+<s> i have checked the bios for any &quot;wake on&quot; settings, and they are all off.  </s>
+<s> any help would be greatly appreciated!  </s>
+<s> thanks, brice smith  </s>
+<s> what os are you using?  </s>
+<s> windows 7 has stuff scheduled to run automatically, like disk defragmentation and updates.  </s>
+<s> have a look at task scheduler and see if there are things there scheduled to run in the middle of the night.  </s>
+<s> also, if you open a command prompt to run as administrator and type in powercfg - lastwake it might tell you what woke your computer (mine always says it doesn't know, but theoretically it should tell you) or if you put in powercfg -waketimers it should tell you what is scheduled to wake your computer up.  </s>
+<s> i'm no computer expert, but try googling info about the task scheduler or the powercfg command and it might help you find out what's going on.  </s>
+<s> not taking anything for granted, did you actually do a &quot;shutdown&quot; pressing that button?  </s>
+<s> not sleep or hibernate or log off, do you have a &quot;programmable kybd.? if so, are there any preset(came that way) or settable options that you forgotten about, check and verify.  </s>
+<s> if so, do you have a pet cat, that may walk across such a kybd.. if this kybd. is also a wifi type, maybe your neighbor hits the keys and activates yours because they too have wifi active.  </s>
+<s> last, check for any &quot;timed&quot; action, like defrag., etc., that awaits for that time, especially if it appears to be same time, but the pc is really asleep or never turned off.  </s>
+<s> also, you may want to disable any remote access&quot; feature.  </s>
+<s> if you have hi-speed broadband that's never off that too could send a signal.  </s>
+<s> as for signals any errand sent one by whatever means if yours is suspectable, may surcome to it.  </s>
+<s> check the bios again and be sure that you save upon exit any changes, re-toggle on/off the remote wake-up setting.  </s>
+<s> i suggest, if you like place the pc and main devices on a power strip.  </s>
+<s> once a proper shutdown is done, click-off the strip.  </s>
+<s> that way at least no real power is present top activate the pc. do this if no resolution becomes evident.  </s>
+<s> tada -----willy  </s>
+<s> well, i've had this happen, too, if you're referring to the computer coming out of sleep mode some time during the night.  </s>
+<s> i assume that you're not talking about it actually turning itself on after being powered off, in that case it suggests sleepwalking *smile*.  </s>
+<s> what i've done for the problem of my computer coming out of sleep mode when i didn't do anything to cause it, you've already done some of.  </s>
+<s> when you disabled the &quot;wake on&quot; settings, that's a start.  </s>
+<s> there are also wake-on settings associated with your network driver that are accessible via the device manager, and you also need to disable wakeup via usb devices (mouse and keyboard).  </s>
+<s> you can find these settings, too, if you search for the them.  </s>
+<s> they're also available in the device manager under &quot;mouse&quot; and &quot;keyboard&quot; when running it as admin, in the &quot;power management&quot; tab for those devices.  </s>
+<s> once you've turned off the ability of the network, and keyboard and mouse to wake your computer from sleep, you'll be good.  </s>
+<s> then, in order to wake your computer from sleep, you'll just need a quick press of the power button, and that's the only thing that will wake your computer.  </s>
+<s> that has worked for me with several computers that seemed to like to wake up due to usb hid devices.  </s>
+<s> i fought this for months.  </s>
+<s> i even quit using &quot;sleep&quot; for a time!  </s>
+<s> everything possible was checked, but it still woke up about 1: am. it finally ended up being the microsoft clock (win 7).  </s>
+<s> i changed the &quot;check&quot; time to noon, when i am usually using the system.  </s>
+<s> been fine ever since!  </s>
+<s> hi! may i ask you to tell me, what you mean about &quot;check&quot;, where this trigger i`m can find at?  </s>
+<s> i have the same problem and can`t solve it.  </s>
+<s> my pc turn on by itself since i connected it to lan cable.  </s>
+<s> before i was connect to internet via wi-fi.  </s>
+<s> i checked all properties, everything about power (in bios and lan adapter) is now off.  </s>
+<s> but it still turn on from sleep mode by itself(  </s>
+<s> hey, same exact thing happened to me recently, except for 3 am.  </s>
+<s> there's a really simple solution that you can do with a few clicks from the control panel: look at this link: it's basically update settings.  </s>
+<s> mine was set to check for updates everyday, at 3 am.  </s>
+<s> what i did was change that time to something less disruptive, but you have the option of changing frequency, etc.  </s>

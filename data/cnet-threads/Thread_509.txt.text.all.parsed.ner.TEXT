@@ -1,0 +1,28 @@
+<s> greetings all.  </s>
+<s> second time here to the forums.  </s>
+<s> i posted a question on one of the other forums and i have to say that the help that i received was wonderful, so i thought i'd post this question in the hopes of finding an answer.  </s>
+<s> i'm a newbie with regards to building or upgrading a computer.  </s>
+<s> so please forgive me if my question seems a little dumb.  </s>
+<s> i've decided to upgrade a computer by adding a new hard drive & additional memory.  </s>
+<s> my mobo is an asus p3b-f.  </s>
+<s> it is a pentium ii, 350mhz.  </s>
+<s> my question is this.  </s>
+<s> taking into account that my prossesor speed is 350mhz, does that restrict me in the size of hard drive & rpm's that i choose or in the amount of memory that i add?  </s>
+<s> i'd like to add a 80gb hard drive at 7200rpm's and 256mb of ram.  </s>
+<s> i'm already aware of the capability issues as far as connection-ide etc., but as for the above question i'm a little confused.  </s>
+<s> with thanks  </s>
+<s> the short answer is yes.  </s>
+<s> my bet is that asus has a last hurrah bios upgrade (which is free), that will (i bet!) give you support for up to the 127 gb size or there abouts.  </s>
+<s> as to adding memory, the discussion at missed the real issue. the bx chipset requires double-sided memory and the usual stuff you get from off the rack or shelf is single sided.  </s>
+<s> i'll write what the real electronic issue is and let you digest it. the bx chipset only supplied enough address lines for 128m of ram on a slot using a single chip enable signal.  </s>
+<s> to get 256m support, a second chip enable is used for the other bank of ram on the memory stick.  </s>
+<s> hence, double-sided.  </s>
+<s> one bank of ram verses two.  </s>
+<s> if you get some 256m stick of ram and it works as 128m, then you got the wrong memory.  </s>
+<s> better vendors like crucial will ship you the right part if you look it up and supply that make/model board.  </s>
+<s> i don't see any real show-stopper.  </s>
+<s> bob  </s>
+<s> your system is 5 years old now, and at the end stages of it's useful life, you could start having serious hardware problems with it any time now, so don't overinvest....but if you think you want to extend its life you should really consider getting a faster processor, they are quite cheap and an 800mhz processor would definitely make a bigger difference than 256meg more memory (unless you only only 64meg now).  </s>
+<s> memory for your older system is more expensive than for current systems, costs almost 2 times what it costs for a new system.  </s>
+<s> adding more than 256meg of memory is unlikely to make any noticeable difference , how much do you have now, adding 128meg might make more sense, you probably won't be able to tell the difference unless you only have 64meg now, and in that case adding 256meg more would help if you are running xp, but probably won't help at all if you have win98 or windows me.  </s>
+<s> your motherboard was not originally configured for an 80gb drive, but will support it, you may need a bios update, unless you have updated it since you bought it.  </s>

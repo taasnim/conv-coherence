@@ -1,0 +1,21 @@
+<s> i recently upgraded from 256mb to 1gb of regular ddr ram.  </s>
+<s> both the bios and directx diagnostic say that there is 1gb ram, so it is installed correctly.  </s>
+<s> the thing is, the computer really doesn't seem faster.  </s>
+<s> as far as page filing goes, the system is managing it.  </s>
+<s> it says that the recommended is 1486mb while 1487mb is allocated!  </s>
+<s> why is a gig and a half allocated when i should have more than enough proper ram?  </s>
+<s> my processor speed is something like 1.8ghz and i have gotten rid of all but the required start up programs.  </s>
+<s> it's so annoying when itunes takes 25 seconds to load!  </s>
+<s> arrg!  </s>
+<s> any ideas?  </s>
+<s> alex m  </s>
+<s> one question is what processor do you have?  </s>
+<s> if it is a celeron or sempron then you may have your computer needing more processing power which isn't the same as speed. the idea with more memory is that for memory-intensive tasks things may be done in shorter time.  </s>
+<s> generally i don't think it'll seem that much faster.  </s>
+<s> as for the 1486 mb recommended allocation this is likely due to windows wanting 1.5 times the physical ram which is common.  </s>
+<s> i have 2 gb of ram and windows recommends i have 3069 mb of virtual memory that just seems unnecessary to me so i have it set to 0. regards, jb  </s>
+<s> virtual memory.  </s>
+<s> the 1400 number is simply telling you how much hard drive space is being allocated for virtual memory.  </s>
+<s> as far as normal running of xp not much improvement when one goes above 500 mb.  </s>
+<s> there are some specific areas where a little more will help.  </s>
+<s> high level gamers know what they are.  </s>

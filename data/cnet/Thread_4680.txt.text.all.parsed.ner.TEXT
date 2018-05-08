@@ -1,0 +1,20 @@
+<s> hi i have a 200gb hd in and external enclosure, after months of flawless use...i have had a ton of issues with it today.  </s>
+<s> it started when i was trying to convert a video file that is stored on it....in the middle of the conversion, i got a message that indicated that it could no longer find the external drive...i checked in my system admin tools and found that it no longer had a drive letter (formerly g) assigned to it....this went on a few times, and now....it doesnt seem to be getting enough power and when i turn it on the sounds it makes isnt quite the same as before and it wont mount on the computer..my computer doesnt recognize it....it also doesnt sound like the its spinning inside the enclosure.  </s>
+<s> i have gone through a few enclosures now and they all seem to end up with the same problem....is it my computer?  </s>
+<s> my power supply?  </s>
+<s> a rash of bad enclosures?  </s>
+<s> i really need to get this drive up and running again as there are many important files on it....please help.... thanks brent  </s>
+<s> next stop are places like drivesavers.com which is purely a financial decision/question.  </s>
+<s> are your files worth that much?  </s>
+<s> not to sound bad but so far it appears the files were not worth backing up?  </s>
+<s> bob  </s>
+<s> thanks, it actually does spin up...i was able to see the drive again via the disk managment, however it does assign it a drive letter(example ''g:'')it list it as unallocated and if i try to partition it, it wants to format the drive.  </s>
+<s> i used a few different recovery apps and the files seem to be there, though i dont have enough spare room on any other hd to get them out....but it list the drive as no longer ntfs, but as raw....is there anyway to restore ntfs withour reformatting?  </s>
+<s> it would seem my only 2 options are to bring the hd into work where they can restore it for me and store these files on the network while it gets reformatted (helps to be friendly with the folks in your it dept) or reformat the drive at home and loose everything and just rip the stuff back out of my ipod via copypod or something like that back to the newly formatted hd. my only other question is why this is happening?? this isnt the 1st hd/external enclosure that had these same symptoms....is it somethign wrong usb-wise with my computer?  </s>
+<s> thanks to all brent  </s>
+<s> are your files worth obtaining more disk space?  </s>
+<s> i just saw a new 300gb usb 2.0 wd external for 99 bucks.  </s>
+<s> if your files are not worth this much plus recovery software what is there to be done next?  </s>
+<s> if you are expecting a magic command i don't know of one.  </s>
+<s> there is one test and that's to try it on another machine but the failure mode is common and why we backup what we can't lose.  </s>
+<s> bob  </s>

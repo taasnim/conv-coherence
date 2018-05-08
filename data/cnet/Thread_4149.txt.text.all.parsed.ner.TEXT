@@ -1,0 +1,26 @@
+<s> okay, here's my puzzlement: i had a soyo 6ba+iii mobo sitting around, had a bad eide socket.  </s>
+<s> i saw another 6ba+iii board on ebay with a bad bios flash, so i bought it cheap.  </s>
+<s> it says 6ba+iii on the board, altho it looks somewhat different .  </s>
+<s> . .  </s>
+<s> anyway, i put my old, good 6ba+iii bios chip in the newly purchased board and it booted up, but oh man, is it slow -- like an lx board.  </s>
+<s> takes a good 5-8 seconds to check the 64 kb of memory.  </s>
+<s> also a 650 mhz slot one cpu is only seen as 400 mhz.  </s>
+<s> (this board is rated for 850 mhz) so, is this an lx board incorrectly (or fraudulently) marked as the 6ba+iii ?  </s>
+<s> or is the swapped bios chip causing this speed limitation somehow?  </s>
+<s> was only 3 bucks on ebay-- fj  </s>
+<s> did you update the bios to latest?  </s>
+<s> if not, why not?  </s>
+<s> hint: i do this all the time and never lost a board.  </s>
+<s> must be some thousands by now... bob  </s>
+<s> well there are 3 reasons i didn't update the bios, 1) i was not totally convinced that this bios chip is the right one for this board, even tho it worked 2) the previously owner had a meltdown after doing a flash 3) it is acting so strange, i.e., running like a much older slower board, the speed of the mobo should be what it is, even with an old bios, yes?  </s>
+<s> but i'll do it if you think i should.  </s>
+<s> will a bios update make the basic board speed faster (as seen in the memory check at startup)?  </s>
+<s> - fj  </s>
+<s> this has become a recurring theme.  </s>
+<s> people get boards and do everything but update the bios.  </s>
+<s> my losses for such stand at zero boards in over 10 years.  </s>
+<s> if i'm allowed a few &quot;saves&quot;, then i'm in the negative board losses.  </s>
+<s> there is a method to flash the bios in a hot flashing method.  </s>
+<s> which is how i recovered a few boards when i didn't have access to a device known as a prom programmer... if you want to try it, here's the google to the method.  </s>
+<s> that sounds like fun.  </s>
+<s> i'll let you know how it goes! - fj  </s>

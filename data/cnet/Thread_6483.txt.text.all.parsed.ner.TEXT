@@ -1,0 +1,22 @@
+<s> i have a macbook and i'm trying to use the audio line-in to hear audio from my game system.  </s>
+<s> i use an rca to miniplug adapter and plug it in, i checked the audio preferences and it looks like signal is getting through, but i hear nothing from the speakers.  </s>
+<s> what am i missing?  </s>
+<s> surely you should hook up speakers to the line-out (indicated by the headphone icon) udayan.  </s>
+<s> yes, my speakers are connected correctly through the line out or headphone jack.  </s>
+<s> my problem is with the line-in jack right next to it.  </s>
+<s> i've plugged my game system's audio out to the macbook's line in, and i see signal in the system preferences sound window, but i don't hear any of the audio through the speakers i've plugged in.  </s>
+<s> regular system sounds play just fine, and audio through programs play fine.  </s>
+<s> that you will need another piece of software running to process the incoming sound and push it out through the audio out port.  </s>
+<s> for example: i have a microphone connected to my line in port and speakers connected to the audio out port.  </s>
+<s> following your logic, i should be getting heavy feedback because the microphone is always on, as are the speakers.  </s>
+<s> the mic should be picking up my voice, and all the other sounds in the room, and pushing it out of the speakers, but it doesn't.  </s>
+<s> now, if i launch a sound recording app, and hit record, all the sound from the mic comes out of the speakers.  </s>
+<s> the mac cannot be used as an amplifier for your game system's sound.  </s>
+<s> try putting the sound from your game system into your stereo amplifier and then see what happens.  </s>
+<s> p  </s>
+<s> though i'm not sure that's exactly the case.  </s>
+<s> in the system preferences, i can only choose one input source--the built in microphone, or the line in audio input.  </s>
+<s> i've tried adjusting the input level for the line input in ams, but i don't notice any change, either.  </s>
+<s> however, the amplifier part of it might be more what's going on.  </s>
+<s> i suppose it doesn't exactly work like my pc's sound card line in, hehe, where it would supposedly amplify it.  </s>
+<s> thanks for the help!  </s>

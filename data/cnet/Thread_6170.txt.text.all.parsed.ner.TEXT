@@ -1,0 +1,18 @@
+<s> i have a gateway gt5622 and i am planning on setting up a home network and using the desktop as a file server/media streamer.  </s>
+<s> i have a realtek ethernet attached to the motherboard.  </s>
+<s> according to the specs on the gateway website and on the specs for my motherboard it is 10/100, but in my device manager it says gigabit. how can i tell if i have gigabit or not?  </s>
+<s> would a pci networking card give me better network performance?  </s>
+<s> do you have a gigabit router? is your network going to be all wired with all computers having gigabit nic cards and using cat5e or cat6 wire to network them.  </s>
+<s> if the answer to the above is yes,then there will be a improvement over the 10/100 setup. the gateway website shows your computer as having 10/100, but the pci gagabit cards are pretty cheap and easy to install.  </s>
+<s> everything is going to be wired with a gigabit router. the reason i'm not sure about the computer is that even though the motherboard says it only supports 10/100, in the device manager it says i have &quot;realtek rtl8168b/8111b family pci-e gigabit ethernet nic (ndis 6.0)&quot;.  </s>
+<s> i know that it is built on to the motherboard.  </s>
+<s> just checked my sons hp computer that i know is 10/100 and it too shows gigabit in the device manager.  </s>
+<s> i can go into control panel-network-show status and it shows 100.  </s>
+<s> i can do the same on my dell that i know is gigabit all the way through and it shows 1.0gbps.  </s>
+<s> as i said on my previous post, pci 10/100/1000 nic cards are pretty cheap and are almost plug and play.  </s>
+<s> i would definitely go that route because you will know everything is gigabit and no gray areas.  </s>
+<s> i believe i paid $22.00 or $23.00 for the last one i bought at staples.  </s>
+<s> you can actually get them cheaper online, but have to worry about the shipping cost as well as the time.  </s>
+<s> i just checked the network status and it also shows up 100.  </s>
+<s> that's what i wanted to know.  </s>
+<s> glad your question has been answered and thanks for posting back.  </s>

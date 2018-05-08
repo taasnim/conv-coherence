@@ -1,0 +1,12 @@
+<s> my computer, which i built approx 1 year ago, is suddenly displaying the speed of my amd athlon 1.2ghz as 900mhz.  </s>
+<s> how can this be corrected ?? thanks, bob  </s>
+<s> verify in your bios setting, the proper cpu setting.  </s>
+<s> usually the multipler is off and thus reflects a lower cpu rating, look at the fsb, etc. save it upon exit.  </s>
+<s> you may have to reboot to be 100% it kept the new setting.  </s>
+<s> this is the 1st area to look into.  </s>
+<s> good luck -----willy  </s>
+<s> the multiplier is fixed and even if the mobo offers settings the cpu will simply ignore them.  </s>
+<s> what has likely happened is that you had a &quot;bad&quot; shutdown as interpreted by your mobo logic so it reset the memory bus speed to the lowest setting as a protective measure.  </s>
+<s> you should be able to simply go into the bios and set the memory bus speed back to the desired setting.  </s>
+<s> various bios's have different ways of referring to this setting.  </s>
+<s> some call it fsb, for ddr memory they may memtion the basic speed or the doubled speed [example 133 or 266, for pc 2700 memory].  </s>

@@ -1,0 +1,25 @@
+<s> can i put ddr2 1066 ram into a motherboard that specifies &quot;1200 oc / 800&quot;?  </s>
+<s> or does this just mean i should get 800 and i can overclock it up to 1200... or what?  </s>
+<s> i'm thinkin i can put the 1066's in there because one the reviewers says he did... sorry never built a computer before, still trying to figure this all out.  </s>
+<s> this is the motherboard thanks -hendrik  </s>
+<s> vapcmd  </s>
+<s> you can put faster in but it won't use it.  </s>
+<s> some get miffed about that.  </s>
+<s> also be sure to not exceed the board's size limits per stick.  </s>
+<s> thank you very much for your prompt responses, both were very helpful.  </s>
+<s> i was on the verge of buying a pair of g.skills that wernt listed on the evga supported-ram site &gt;:-| probably woulda caused a major headache im not in need of.  </s>
+<s> at any rate, as i was saying, not new to computers but kinda new to buildin em from scratch.  </s>
+<s> so heres bout what i came up with in my attempt to build a high-end multi-purpose pc on a mid-range budget.  </s>
+<s> please let me know your thoughts!  </s>
+<s> thanks -hendrik nvidia nforce 680i sli atx intel motherboard, intel core 2 quad q6600, cooler master hyper tx2 cpu cooler, g.skill 4gb (2 x 2gb) 240-pin ddr2 sdram ddr2 800 (pc2 6400) pc power & cooling silencer 750 quad, evga 640-p2-n829-ar geforce 8800gts ssc 640mb (probably 2, sooner rather than later...), western digital hd, lite-on 20x dvdr dvd burner.  </s>
+<s> gskill probably would have worked but when a mb has been out as long as the 680i has and that memory, gskill, is not listed...best to stick with something listed as compatible.  </s>
+<s> gskill is good ram in fact i have 4gb of the pc1066 in a gigabyte mb. re the mb...i'd recommend looking for something with a newer chipset.  </s>
+<s> if i recall correctly at one time there were problems with the 680i and the q6600.  </s>
+<s> maybe the 780i re the hdd...take a look at the wd6400aaks...640gb re the pcp psu....you'll like that !  </s>
+<s> vapcmd  </s>
+<s> the 680i line has been very problematic and has had data corruption issues.  </s>
+<s> this 750i would be a better choice if sli is a must: the 8800gts/640mb has been obsolete since late last year.  </s>
+<s> the 9600gt/512mb and the 8800gt/512mb are faster and cheaper ($130-$170). the 9800gtx/512mb is dropping to $200 in the next few days.  </s>
+<s> and the radeon hd 4850 and hd 4870 are generally considered the best choices at $200 and $305.  </s>
+<s> if you won't be using dual cards, then a p45 based mobo would be a better choice than the 750i.  </s>
+<s> if you want dual gpus then drop in a 9800gx2.  </s>

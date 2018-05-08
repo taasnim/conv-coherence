@@ -1,0 +1,25 @@
+<s> to elaborate, is there a feasible way to downclock(?) the gpu in order to still have it &quot;in reserve&quot; for when i need it?  </s>
+<s> basically, i'm looking to know if it's worth getting a gpu only to use some of the time---so if i can't turn it down or otherwise minimize the excessive battery drain, then i will just stick with the intel gma.  </s>
+<s> i don't do too much away from ac power, but having some semblance of battery life is good to have.  </s>
+<s> but here's the rub.  </s>
+<s> even if some engineer made a 10 hour battery time laptop, in production engineering they'll halve that to cut the costs.  </s>
+<s> if you are serious about battery time, hit the reviews and then option for the larger battery.  </s>
+<s> bob  </s>
+<s> that's not a very powerful gpu and doesn't consume much power.  </s>
+<s> if you've got a fast radeon or geforce gpu then they do consume more power.  </s>
+<s> however, you can control their clock speed via their control panel apps.  </s>
+<s> my only experience is with my old sager 8790 with a mobility radeon 9700, in which i only did throttling to reduce heat (i always used it plugged in, but it was a very hot machine), so i'm not familiar with how much power you can cut by throttling a laptop gpu.  </s>
+<s> i have this r3000 laptop that can go from 70 to 40 watts just by the throttle.  </s>
+<s> now i do have to cheat by using speedswitchxp to kick the cpu to high gear instead of dynamic switching.  </s>
+<s> and i can carve another 10 watts by dimming the screen.  </s>
+<s> that's better than 50% difference from full throttle to full power save mode and it's still usable.  </s>
+<s> bob  </s>
+<s> and the kind of result i was hoping for.  </s>
+<s> how do i know those numbers?  </s>
+<s> i bought a few watt meters to find out where and what uses what amount of power around the house.  </s>
+<s> i'm sure i made my 20 bucks back as i found simple things like a cordless phone that was rarely used but drew 3+ watts 24x365 days a year among other bigger discoveries.  </s>
+<s> heck that's only 26,280 watt hours i cut back with a 3 watt device! 1 pound of coal can generate 8,800/9,500 of a kilowatt-hour, or 926 watt-hours.  </s>
+<s> so that single change cut my yearly use by 28 pounds of coal.  </s>
+<s> bob  </s>
+<s> but realized that i didn't want to get in to unplugging my tv and such.  </s>
+<s> but i do unplug all my stuff when i go on vacation and etc.  </s>

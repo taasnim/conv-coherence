@@ -1,0 +1,8 @@
+<s> hello all, looking to upgrade my computer to psudo-gaming quality (enough to run wow) and i want to know if i max out my memory to 2 gb (1 gb per slot) and install a 80 gb hard drive (which is the maximum i can find since it does not have the 48 lba thingy that lets it exceed 137 gb) will i need to upgrade anything else such as my cpu with is currently a intel celeron?  </s>
+<s> here's the specs page for my computer if that helps &gt;&gt;&gt; thanks, -quagmier  </s>
+<s> wow will benefit most from a decent video card.  </s>
+<s> since you have no agp slot, a geforce 6200 is your best alternative.  </s>
+<s> geforce 6200, 256mb, $56:  </s>
+<s> max ram is 1gb video: no agp or pcie slot for video...only pci slot hdd: could bump the hdd to 120gb larger capacity hdd with upgrade bios or pci hdd controller w/bios re cpu: socket 478 for intel p4 williamette and northwood processors, 1.4ghz to 2.8ghz or higher.  </s>
+<s> re max 1 gb ram: you have 256mb ram.... you can have 1gb ram (2 dimms at 512mbs ea per manual) looks like you'll have to pull the existing 256mb dimm and install 2-512mb dimms.  </s>
+<s> vapcmd  </s>

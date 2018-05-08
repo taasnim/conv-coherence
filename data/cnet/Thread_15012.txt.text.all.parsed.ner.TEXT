@@ -1,0 +1,36 @@
+<s> there is always static on my voip phone calls and it is bad. the service provider has not been able to resolve it, and i think it may be something in the wires or in my house.  </s>
+<s> i get the static with the wireless phone and the fax phone.  </s>
+<s> i had the same problem with my land line (long since dropped this service).  </s>
+<s> is there a way to stop this noise?  </s>
+<s> setup: cable modem from motorola (9yrs old) lingo box (that i take around the world with me) panasonic 5.8 gigahertz cordless phone fax modem also connected no land line connected phones not connected to any wired lines.  </s>
+<s> did you try a corded phone with the lingo?  </s>
+<s> the first thing to try as bob pointed out is a corded phone.  </s>
+<s> i assume if you travel with the box you have something to plug into it.  </s>
+<s> if you have the software loaded you could also try to make a call from your pc ... pretty much eliminates everything but your connection and your modem.  </s>
+<s> although if your modem is not a router then both devices have their own ip. noise on voip calls is mostly caused by packet loss but unlike data it cannot retransmit the information.  </s>
+<s> voip also will drop packets that arrive too late ...ie jitter.  </s>
+<s> this is fairly involved to test but if you would ping from your pc to the first address within your isp network you could check your connection.  </s>
+<s> you want to see little or no loss and the the time to be consistent, difference between the numbers is jitter and voice does not like much over 100ms but even 50ms can be heard.  </s>
+<s> if you see a issue maybe you can get your isp to fix it.  </s>
+<s> lingo uses a protocol called 729 to encode the voice this does a good job of compression but is much less tolerant of packet loss than say vontage which uses g711 which send 4 times the data on average.  </s>
+<s> i use skype and it use its own secret encoding which seems to work even on very bad connection.  </s>
+<s> thanks for the reply.  </s>
+<s> i have tried wired phones plugged into the box with no help.  </s>
+<s> skype is crystal clear.  </s>
+<s> i wonder if it is some interference from outside signals.  </s>
+<s> with the corded phone you have eliminated most everything.  </s>
+<s> you have the lingo box itself, your router, your connection to the internet.  </s>
+<s> if it work other places then it is most likely your internet connection.  </s>
+<s> although something could interfere with the circuits inside the lingo box it is unlikely getting your isp to fix it is a issue.  </s>
+<s> they will first deny there is a issue and then try to say they provide no quality of service in their contract.  </s>
+<s> unfortunately the next step will be to do the isp job for them.  </s>
+<s> that would be to use a tool like wireshark and capture the data so you can actually see the jitter.  </s>
+<s> even though wireshark has nice things tools that will let you listen to a captured call it still take a large amount of knowledge of voip to pinpoint a problem.  </s>
+<s> you other problem will be to find a way to capture the data in the first place you need to get between the lingo and the router.  </s>
+<s> i really wish skype would license there their method... but then again i get paid to fix broken voip so maybe not.  </s>
+<s> since you move from place to place with it that means you can dismiss it as your isp issue.  </s>
+<s> however even my standard pots phone has some static.  </s>
+<s> it's not a perfect system.  </s>
+<s> today i'm encountering folk that expect high definition phone connections.  </s>
+<s> skype delivers that!  </s>
+<s> bob  </s>

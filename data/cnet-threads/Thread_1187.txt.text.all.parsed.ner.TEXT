@@ -1,0 +1,10 @@
+<s> i just installed a motherboard, intel desktop board d865perl, that has 2 sata ports and 2 pata ports. the problem i'm having is that my hard drive, ibm desktop s/n a4dbp79f, and secondary optical device is ide/pata and i have installed a new dvd writer that is sata.  </s>
+<s> when i change drive settings in the bios to enhanced and re-boot the system will not see my hard drive.  </s>
+<s> i then changed the drive setting to legacy and chose pata pri/sata sec and the system will re-boot properly but it will not see the secondary optical device.  </s>
+<s> there are multiple pin configurations on the hard drive and i was wondering if the jumpers could possibly be the problem.  </s>
+<s> its set to master now.  </s>
+<s> and why you get to futz around with bios and more till you find a compatible combination that you like. that is, if you enable pata emulation then you may lose a pata port.  </s>
+<s> if you leave the bios in full sata mode, xp will create headaches for the uninitiated or those that didn't research this.  </s>
+<s> and as you discovered the enhanced mode is just trouble.  </s>
+<s> i suggest you leave it in normal modes and install the motherboard and sata drivers for this os. bob  </s>
+<s> thats what i figured..... thanks for the reply.  </s>

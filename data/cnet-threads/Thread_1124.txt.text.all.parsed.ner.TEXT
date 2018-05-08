@@ -1,0 +1,101 @@
+<s> ok, all this stuff was new in nov of 2005.  </s>
+<s> abit an8 ultra mobo, it has 4 s.  </s>
+<s> ata outlets; athlon 64-bit single core 3500+ cpu; antec truepower 450 watt powr suply; w2k pro with a service pack (4 i think) on seagate 7200 s.ata.  </s>
+<s> i got a k ubuntu on a disc, and i want to get another hdd to play with this linux.  </s>
+<s> i favor seagate and like the barracuda line.  </s>
+<s> question: i think 80 gig is all i need, but for very little more $$ i can have 120 or 250 gig.  </s>
+<s> so does that bigger hdd respond slower than the smaller?? and are there factors about that bigger hdd that u might expect a shorter life??  </s>
+<s> thnx  </s>
+<s> just fitted a 300gb 7200 rpm type drive from a common retail store and it was 99 bucks.  </s>
+<s> an 80 on the shelf was 69 bucks.  </s>
+<s> your choice here but there is some urban rumor that big drives have some early failures.  </s>
+<s> i'll disagree and just write that with bigger drives people tend to lose more when a mistake happens.  </s>
+<s> bob  </s>
+<s> thanks for responding.  </s>
+<s> i have read a lot of your stuff on these forums, respect ur opinion.  </s>
+<s> maybe i will go ahead and order a 120.  </s>
+<s> newegg had one on special with shipping free.  </s>
+<s> the way i operate, i don't fill one up very fast.  </s>
+<s> ol rod  </s>
+<s> in general, a larger drive is not any slower assuming all other specs are the same.  </s>
+<s> and i have not really found them any less reliable, however it is difficult to determine because as hard drives have gotten larger, computers in general are accessing the drives more than ever and people are working the drives harder with streaming music, video and constant nightly virus and spyware scans.  </s>
+<s> so in general the failure rate has gone up due to use.  </s>
+<s> as long as you are comparing appples to apples.  </s>
+<s> same rpm and same size cache you should be all set.  </s>
+<s> however, avoid some specific drives that i have found to be unreliable such as the maxtor ata133 80 and 100 gig drives.  </s>
+<s> if 80 gig is all you need and you really want to increase performance you might find a good deal on the western digital raptor 74 gig drives.  </s>
+<s> these 10,000 rpm drives are really fast.  </s>
+<s> good luck  </s>
+<s> although individual experiences vary, let me relate my experiences.  </s>
+<s> i have three pcs, the oldest bought nov 1997, it has two 7,200 rpm scsi drives - still going strong.  </s>
+<s> i have another pc bought june 2001, it had an 18 gbyte 15,000 rpm scsi drive - it failed.  </s>
+<s> i replaced it with a 36 gbyte 15,000 rpm scsi - it failed about a month ago.  </s>
+<s> i replaced it with a 160 gbyte ata drive.  </s>
+<s> my newest pc bought may 2003, has a 36 gbyte 10,000 rpm scsi drive - still running.  </s>
+<s> all pcs are on almost 24/7 it seems, in my case rotation speed is the killer.  </s>
+<s> 1) bigger drives often pack more info per square inch. the closer the info is packed, the less distance the hd heads have to travel to read / write data.  </s>
+<s> this often makes bigger drives faster.  </s>
+<s> 2) bigger drives may be a newer &quot;generation&quot; of drives, which means performance improvements in the new generation are built in.  </s>
+<s> caveat: a bigger drive may be bigger because of multiple platters rather than higher density.  </s>
+<s> in such a case, bigger won't mean faster.  </s>
+<s> regarding reliability: some say the very newest (and highest density) drives are a little less reliable since the bugs aren't worked out.  </s>
+<s> but i've never seen hard data that proves this is true.  </s>
+<s> as a rule of thumb, buy the most gigabytes your budget will allow.  </s>
+<s> you won't regret having &quot;too much space&quot; in a year or two.  </s>
+<s> there may not be hard data to confirm that newer generation drives have problems, but ask anyone over in the planet replay forums about using the early diamondmax 10 & 9 drives in their dvrs.  </s>
+<s> any new generation technology can have unforseen bugs that you can end up being the statistic for.  </s>
+<s> if you really want to play it safe, & have a larger drive, you can always get the extended warantee if it's offered.  </s>
+<s> if you can get a 2 year warantee on a drive, it's likely that by the time just a year or so has gone by, the drive has undergone 2 or 3 revisions in firmware at least.  </s>
+<s> if you have a problem with it & have to send it back (i've had to do this with both maxtor & seagate (sata ii & ultra320 scsi respectively) & the new drives that they replaced them with were either several revisions up from the original (maxtor) or physically a whole new series drive that was the same basic size & model drive (it was the same size cheetah drive, but half as tall physically & a whole lot faster, quieter, & surprisingly cooler running).  </s>
+<s> i usually run my drives 24/7/365, and honestly, i've only really had 2 drives ever fail on me (because i usually end up upgrading before they fail).  </s>
+<s> if i run a drive more than 4 years, it's only because i end up handing it down to someone else in the family.  </s>
+<s> to play it the safest though, look for a drive that's been out for a bit, yet as large as practical for the $. if it's been out for 6 months, & is still selling like crazy, (and you haven't heard big mobs of people having problems with it), it's likely you'll be ok. the thing is, it seems a bit foolish (to me) to buy a drive of say xxx size, when you can have a drive half that again or more for like $20 or $30 more.  </s>
+<s> if computers have shown a trend, it's that operating systems & file sizes, and total files, keep increasing...... so you really can't go too big in that respect.  </s>
+<s> i agree that with the size of disks increasing, people lose more data, and that is influencing their thoughts on bigger drives being unreliable.  </s>
+<s> with a 300gb drive for $99, i say buy 2, an inexpensive raid1 pci card, and consider yourself better protected than 99% of the population.  </s>
+<s> as someone who has had harddrives crash personally as well as helped people with their crashes, i ask: is $100 too much to pay for insurance that you won't lose any data if a crash happens?  </s>
+<s> however, if you delete the files or get a virus, the second drive will not help you.  </s>
+<s> this is not a backup, it is an exact copy down to the smallest bit including all viruses.  </s>
+<s> if you want to additionally do backups, that is another choice altogether.  </s>
+<s> after decades i've found raid 1 to save one person but in all other cases the corruption or accidental file deletion immediately was mirrored on the other drive and the persons lost it all in milliseconds.  </s>
+<s> in all cases save that one lone occurance a simpler backup copy of the drive would have saved them.  </s>
+<s> bob  </s>
+<s> more speed than i got is not my point right now, i just didn't want get somethin that would slow me down.  </s>
+<s> i am retired, just sorta play at computer, i do not game.  </s>
+<s> yes, i considered raptor for a while, decided not worth the premium price to me.  </s>
+<s> since my first post, have already bought 200 gig seagate.  </s>
+<s> i will post more at bottom of page, thank you for gettin in conversation.  </s>
+<s> ol rod  </s>
+<s> thank you all for gettin back to me.  </s>
+<s> i read every post carefully.  </s>
+<s> right after r. proffitt's first reply, i went ahead and ordered a 200 gig seagate barracuda st3200826as from newegg.  </s>
+<s> little brown truck delivered it today, i waited for the delivery to post back.  </s>
+<s> i chose that one because they had free shipping on it.  </s>
+<s> also, this is the last of an older line that they call sata 150 , the newest line does something they call &quot;perpendicular&quot; recording.  </s>
+<s> i was thinking along with the poster that said sometimes the first of the new may not be as dependable as the last of the old.  </s>
+<s> now, i got a new hd and new os to play with and gotta go.  </s>
+<s> thanks, all !! ol rod  </s>
+<s> pclunixos, the big daddy release.  </s>
+<s> bob  </s>
+<s> if you are looking for better disk performance, pay attention to the spindle speed as much as anything else.  </s>
+<s> disks that turn 10,000 rpm are faster (about 2x) than 7,200 rpm drives.  </s>
+<s> yes, they do cost more but if you want a faster disk drive, the metric to pay attention to is not size.  </s>
+<s> it is spindle speed.  </s>
+<s> raid 1 across 4 drives is the fastest typical pc disk configuration.  </s>
+<s> it is substantially faster than a single disk and noticeably faster than a pair.  </s>
+<s> obviously rpms play a much bigger role in drive speed.  </s>
+<s> but density does have an effect on speed.  </s>
+<s> compare drive speeds of higher density drives vs lower density at same rpms.  </s>
+<s> i have to weigh in, we have about 10 newer computers that shipped with sata hard drives about five of the drives have failed within the 1 year warranty period.  </s>
+<s> the older ata 100 drives have been going and going with no failed drives for probably six years.  </s>
+<s> i am not sure that sata is ready or if we just got a bunch over the last year from the same batch of bad quality drives.  </s>
+<s> this may help you decide to go with a more tested and reliable technology but in the specs it is slower spindle speed will not show up to the end users but bus speed may (slower may be faster in the long run if your drive fails).  </s>
+<s> ata 100/133 still makes pretty big drives.  </s>
+<s> check you mother board for compatibility.  </s>
+<s> that's quite a high failure rate.  </s>
+<s> we have installed about thirty of these drive within the last two years and had only one failure.  </s>
+<s> i'd be curious as to which hard drive manufacturer is providing the sata drives ie. maxtor, seagate, etc.  </s>
+<s> i have the choice to buy a samsung 250gb 8mb cache @ 7200rpm or samsung 400gb 16mb cache @ 7200rpm for $50 more.  </s>
+<s> what is the deal with cache does having more make it quicker?  </s>
+<s> what one do you think i should get?  </s>
+<s> thank you in advanced for your response.  </s>

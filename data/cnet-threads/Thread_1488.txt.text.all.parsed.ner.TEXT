@@ -1,0 +1,37 @@
+<s> i have a slightly older laptop that has xp and i'm thinking of upgrading to vista home prem.  </s>
+<s> i ran several tests to see if my laptop is &quot;vista ready&quot; including the one from ms and they said my laptop passes in everything but the nvidia site told me no because of the following: mobile intel 845gm express chipset family (intel gma950) video hw transform & lighting required (don't have) vertex shader ver required 2.0 (my ver is 0.0) i should note that ms upgrade advisor told me it was ok to move to vista home prem which is what i want.  </s>
+<s> based on my intel chipset specs do you think it could run aero i/f?  </s>
+<s> thanks in advance.  </s>
+<s> sorry, i wouldn't count on it.  </s>
+<s> the i945gm chipset uses the gma950 and is the oldest/first intel laptop chipset that supports vista.  </s>
+<s> if you have gma950 graphics, then you can definitely run aero.  </s>
+<s> if the upgrade adviser says you can run aero, then you can definitely run aero.  </s>
+<s> the three tests i took, nvidia, ms, and pcpitstop all told me my laptop was capable of running vista.  </s>
+<s> that wasn't the problem. the problem is none of them told me which version of vista i could use (except ms - see below). the part i'm angling for is support for aero.  </s>
+<s> in my original post that portion was given to me by nvidia's own vista readiness test.  </s>
+<s> i think i had to install some plug in.  </s>
+<s> with nvidia being a graphics company they for sure took a hard look at my graphics chip.  </s>
+<s> if i interpreted their results correctly it meant to me vista ok but just use vista basic.  </s>
+<s> ms upgrade advisor however i think told me i was good for vista home premium.  </s>
+<s> so i'm getting conflicting information.  </s>
+<s> i could of course go to the store and try it out but what if aero doesn't work.  </s>
+<s> i'm stuck with a copy of os i can't give back.  </s>
+<s> finally looking at link a previous responder listed for me it states in there the wddm model is supported with updated drivers but for a certain vista build only.  </s>
+<s> though pixel shader is supported i don't know if this is enough.  </s>
+<s> pretty confused here.  </s>
+<s> help!  </s>
+<s> you don't have nvidia hardware in your laptop.  </s>
+<s> if the micrsoft ugprade advisor says you can run aero, you can run aero.  </s>
+<s> and i'm typing this message on a laptop based on i945gm + gma950 running aero with vista ultimate.  </s>
+<s> download cpu-z and gpu-z if you want to find out precisely what your laptop has.  </s>
+<s> not all owners can find the drivers (for this one i go to intel.com) and a few gma's that should do aero (microsoft said so in the test) failed to ever show it.  </s>
+<s> no one is sure why on those cases but it was early gma hardware that likely needed a motherboard bios change.  </s>
+<s> bob  </s>
+<s> words from you: .  </s>
+<s> slightly older laptop .  </s>
+<s> has xp .  </s>
+<s> upgrading to vista home prem .  </s>
+<s> run aero i/f .  </s>
+<s> what if aero doesn't work is this an academic exercise or are you spending $100 for frustration to prove that if you got it, flaunt it?  </s>
+<s> lots of consumers buying laptops today would give an arm and leg to have xp on it and you are going the other direction?  </s>
+<s> is ms giving a better deal for vista to w7 upgrade than xp to w7 that i don't know about?  </s>

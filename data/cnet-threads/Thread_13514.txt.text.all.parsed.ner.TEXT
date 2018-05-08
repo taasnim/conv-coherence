@@ -1,0 +1,16 @@
+<s> i just purchased this .  </s>
+<s> i need to no what type of cable i need to go from that antenna to my linksys wireless g router &quot;wrt54g&quot; model.  </s>
+<s> thanks in advance  </s>
+<s> nobody ??  </s>
+<s> hawking tech has some cable.  </s>
+<s> i am not sure if you are looking for indoor or outdoor use.  </s>
+<s> keep in mind that the transmitter output power of home wireless equipment such as your linksys router is very low and any gain that your yagi antenna gives you will quickly be lost in long cable lengths.  </s>
+<s> if possible, mount the wireless router as close as possible to the antenna, even if it means that you need to put it in a waterproof box.  </s>
+<s> for power, you could run power over ethernet cable if needed.  </s>
+<s> here is a link to some cable  </s>
+<s> most linksys devices use reverse polarity sma (rpsma).  </s>
+<s> other possible connections are tnc and &quot;n-type&quot;. the picture looks like rpsma but it is hard to tell.  </s>
+<s> if you are lucky the antenna is male and the ap is female.  </s>
+<s> if this is the case, you can connect directly or you buy an extension cable.  </s>
+<s> every cable and connection adds some loss.  </s>
+<s> skrall  </s>

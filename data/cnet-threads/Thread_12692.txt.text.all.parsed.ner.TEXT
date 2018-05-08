@@ -1,0 +1,17 @@
+<s> i am installing a inno3d geforce 6600 on an old p4 pc with 400watts power supply.  </s>
+<s> the machine has 1 cdrom, 1 80 gig hdd and 1gig and 512 ddr 400 ram.  </s>
+<s> when i havent installed the driver for the video card windows will start normally(with sucky display because driver isnt installed yet).  </s>
+<s> but after i install the driver, windows wont start, it will only load up to the windows xp screen with loading bar on the low middle.  </s>
+<s> could it be that the power supply isnt enough or could it be that the video card is broken?  </s>
+<s> it reboots after the windows xp with loading bar screen is done.  </s>
+<s> seems it may be the card andor didn't install correctly.typically  </s>
+<s> you install the driver first before the card goes in.  </s>
+<s> could be some chipset updating needed.  </s>
+<s> if you installed your drivers and card correctly and you still have your onboard video enabled, this can cause a reboot.  </s>
+<s> however, if you disable the onboard and have issues, you may lose your video altogether and your option would be to pull the cmos batter for a reset or fumble around in the dark hoping you remember how to reset the settings without screen.  </s>
+<s> cheers, paul  </s>
+<s> did you clean up any previous drivers?  </s>
+<s> your manualcd manual should tell you in what order the carddrivers go for your card and what to clean up or disable.  </s>
+<s> while most i have installed come drivers first, it's not always the case.  </s>
+<s> after re-reading your post again, something was bugging me, when you install the drivers, everything goes funny so this tells me you need to check a a few things.. disable onboard graphics in bios &lt;but not before your drivers are installed, this would be bad&gt; clean up any graphics drivers that were installed prior, it may be a conflict or both of the above.  </s>
+<s> paul  </s>

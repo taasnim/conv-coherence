@@ -1,0 +1,54 @@
+<s> so i ran into an interesting problem today.  </s>
+<s> i tweaked a couple settings in my registry concerning the wait timeouts during system shut down because my shut down time has been like 8 minutes for a week or so.  </s>
+<s> everything seemed to be fine.  </s>
+<s> i also created a new user profile, gave it admin level authority, and deleted my other three profiles because i was getting internal error 1606 and failed on fixing from several angles.  </s>
+<s> when i rebooted after the update for the new ie9 beta my laptop booted up, did the post and then shut down.  </s>
+<s> odd.  </s>
+<s> so i pushed the power button to start it up again and it acted the same way.  </s>
+<s> it did fine, all the correct and usual sounds, the fans working, and then, just when it should have shown the vista splash, it just shut down.  </s>
+<s> ok. so i had put in the hiren's boot cd because when i deleted those three profiles i wasn't able to delete all of them.  </s>
+<s> so, i was thinking i would just boot from the hbcd and delete those files before booting the os. wrong.  </s>
+<s> i was at a loss.  </s>
+<s> i left it alone for a few minutes and got online with my wife's laptop to google auto shut downs shortly after start-up and came up with a lot of possibilities that i am pretty sure aren't applicable here.  </s>
+<s> maybe i've got a bad cluster in my boot sector?  </s>
+<s> maybe i've got a virus in my bios, ram or boot sector?  </s>
+<s> maybe my hd is about to quit on me?  </s>
+<s> after a few minutes i powered up my laptop again and it went as far as giving me two choices, one was start up repair and the other was something else and i don't remember.  </s>
+<s> anyway, so i chose start up repair or windows start up recovery repair...something like that.  </s>
+<s> they're labeled differently depending on which manufacturer built it.  </s>
+<s> i've got a toshiba sattalite a215, vista home premium, and the amd athlon 64 cpu.  </s>
+<s> so into the recovery it went and it asked me if i wanted to do a system restore, i said yes. i was skeptical because i figure the problem isn't a software conflict but rather one of the three i mentioned above.  </s>
+<s> it took like 30 minutes to do the system restore which really, really, really made me twich.  </s>
+<s> i thought for sure it must be hung and stuck on some bad sector...but it finally finished and rebooted.  </s>
+<s> and i made it all the way into windows without a hitch.  </s>
+<s> so at this point i was hoping it was really just a software conflict after all.  </s>
+<s> but, i still had the issue with those files i need to delete that are taking up several gbs of wasted space on my hd and i have no way of getting rid of them.  </s>
+<s> so, there i went, another attempt to boot the hbcd.  </s>
+<s> failed!!! i managed to boot the hbcd just fine.  </s>
+<s> i ran hd sentinel and it said temp was perfect, but the hd health was 94%.  </s>
+<s> i'm not sure where the health should be and i did but this laptop used from the pawn shop a couple of months ago so i don't know how old it is and what it's been through.  </s>
+<s> if the life span of a typical hd is 6 years then it should take at least 4.5 to 5 years to begin experiencing troublesome noises or intermittent failures, right?  </s>
+<s> so anyway, i finished the hd sentinel and was trying to figure out which program i wanted to run since it's been a while since i ran any of them when all of a sudden my comp just shut down!  </s>
+<s> sigh!  </s>
+<s> so i pushed the power button and attempted it again, this time i made it as far as the menu to choose one of the hd utilities but not far enough to actually run one of them before it shut down again.  </s>
+<s> i made one more attempt, this time i didn't make it as far as even booting the hbcd before it shut down.  </s>
+<s> i then attempted to boot windows again and succeeded.  </s>
+<s> and now, as i am typing, i am still powered up and running on that same boot without it having shut down again yet. is there something wrong with my hd? how do i proceed with troubleshooting this issue and if it is the hd i have a couple of questions about hard drives.  </s>
+<s> my hard drive is a sata/150 but what does the 150 stand for?  </s>
+<s> my hard drive is a 150gb and if my hd is on the fritz i would like to upgrade to the biggest one available.  </s>
+<s> can i install a sata/300?  </s>
+<s> it's a 500gb for only $49 and it would just tickle me pink to have that much hd space available.  </s>
+<s> back to my currect woes.  </s>
+<s> i do not have sufficient system access (even as administrator) to delete the remaining files within those three dead profiles.  </s>
+<s> how can i get around this odd glitch and delete these files from within windows vista?  </s>
+<s> failed c:users&gt;cacls owner c:usersowner &lt;account domain not found&gt;f nt authoritysystem:f builtinadministrators:f &lt;account domain not found&gt;(oi)(ci)(io)f nt authoritysystem:(oi)(ci)(io)f builtinadministrators:(oi)(ci)(io)f &lt;account domain not found&gt;(oi)(ci)r &lt;account domain not found&gt;(oi)(ci)r mattballmatthew:(oi)(ci)r c:users&gt;cacls owner /g matthew:f are you sure (y/n)?y  </s>
+<s> access is denied.  </s>
+<s> c:users&gt; c:users&gt;cacls owner c:usersowner &lt;account domain not found&gt;f nt authoritysystem:f builtinadministrators:f &lt;account domain not found&gt;(oi)(ci)(io)f nt authoritysystem:(oi)(ci)(io)f builtinadministrators:(oi)(ci)(io)f &lt;account domain not found&gt;(oi)(ci)r &lt;account domain not found&gt;(oi)(ci)r mattballmatthew:(oi)(ci)r c:users&gt; to be clear here, there is only one user profile: matthew  </s>
+<s> ok, oddly enough, i had neglected to go to share and grant myselft the full control privilege.  </s>
+<s> i had only granted full control to the group administrators but at the same time had denied my self as a user all but read.  </s>
+<s> ha ha so now that i have deleted the seemingly impossible-to-delete files i have more brain power to dedicate to why my laptop shuts down when i do anything besides normal boot.  </s>
+<s> oh, by the way, it also shuts down in cmos.  </s>
+<s> i can be there for 1 to 2 minutes, no more, and it just shuts down.  </s>
+<s> and as i type i am still up and running.  </s>
+<s> i haven't shut down since booting all the way into windows.  </s>
+<s> odd, very odd  </s>

@@ -1,0 +1,10 @@
+<s> no big problem, but even though my other sounds seems to to working, i am not getting the windows music when i start and shutdown windows xp. i went into sounds on the control panel and the music works when i test it there.  </s>
+<s> i uninstalled my sound card in device manager and then restarted and windows put it back but still no music.  </s>
+<s> i really don't know what your problem might be, but, just for the heck of it, have you tried using different wav files for the startup and/or shutdown sounds?  </s>
+<s> it might help you further diagnose the problem.  </s>
+<s> james  </s>
+<s> hi, i am guessing that you have installed tweakui, and if so, check that the option 'beep on errors' is ticked.  </s>
+<s> for some strange reason unchecking this removes the startup and shutdown sounds.  </s>
+<s> let us know messa  </s>
+<s> auggief hi try this, also anyone else who has the same problem with there startup and shutdown sounds in xp. click start, click run, type regedit and enter.  </s>
+<s> click on hkey_current_user to highlight it, then in the right plain where it says (default) reg_sz value not set right click on (default) click delete and your problem hopefully will be sorted its an easy fix usually happens after a bsod or a faulty download, if your not sure about changing things in your registry than i would recommend you back it up first before doing anything, but like i said before its an easy fix and if you follow what i have said you should be ok.  </s>

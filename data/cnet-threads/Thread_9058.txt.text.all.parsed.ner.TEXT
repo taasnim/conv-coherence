@@ -1,0 +1,42 @@
+<s> the title explains itself.  </s>
+<s> i have had this computer since 2004 and i am surprised how long it has been before i attempted to put an expansion card or look for more ram.  </s>
+<s> i bought an expansion card recently and i don't think it fits.  </s>
+<s> i did not know there were different kinds, so now i need to know which expansion cards will fit into a compaq sr1053wm.  </s>
+<s> and obviously ram chips are not the same type either.  </s>
+<s> what is the name or whatever for the type of ram chip and expansion slot that compaq sr1053wm uses??  </s>
+<s> also, kingston.com  </s>
+<s> exact info you need.  </s>
+<s> if you can't locate the manual...you should be able to locate it online.  </s>
+<s> vapcmd  </s>
+<s> i have figured it out for both issues, but that just gave me even more questions... now that i have the memory chip, how do i install it?? i know it just can't be as easy as inserting it while computer is turned off and unplugged; i am sure there has to be come kind of software configuration or something like that. the expansion slots are called pci.  </s>
+<s> but my computer has some other kind of expansion slot.  </s>
+<s> it has 3 white slots i have identified as pci slots, but there is a mysterious brown colored expansion slot.  </s>
+<s> it is wierd.  </s>
+<s> i was sure that the pci device would not fit...but it fit?? and it is working perfectly!! so i don't think i will have any problems with adding new pci cards.  </s>
+<s> i moved recently and not unpacked yet, but i am sure that online manuals for compaq sr1053wm is not difficult to find...and i might even find the answer of how to install a memory chip.....and also what the name of the brown expansion slot is...  </s>
+<s> today's machines use just that method. it was in the 80s and 90s that you needed to set jumpers.  </s>
+<s> bob  </s>
+<s> i found some phrases that might help: &quot;unbuffered&quot;... &quot;set timings&quot;... after reading about setting timings, it sounds very important but i am even more confused...i found another topic on the message boards about this one person with a completely customized computer and had 2 different types of timings and that resulted in crashes.  </s>
+<s> this new chip will be 2 of 2 chips because that is what my present motherboard has. it only has 2 slots.  </s>
+<s> how do i read what the timings are on my existing chip to make sure they are the same as the additional chip?? which timings are the most recommended...?? i do not know the name of the motherboard.  </s>
+<s> it is just whatever usually came with a sr1053wm machine.  </s>
+<s> this is the link to what i read.  </s>
+<s> that person's motherboard has intel processor.  </s>
+<s> mine is amd.  </s>
+<s> i am not sure, but that part might have been important.  </s>
+<s> this is where you send them to crucial.com or kingston.com  </s>
+<s> since they will get you the right parts.  </s>
+<s> bob  </s>
+<s> that brown colored slot is an agp slot and is used to run a video card. the most current slot is the pcie.  </s>
+<s> if you get a video card you would need to get one that runs in the agp slot not pcie.  </s>
+<s> your compaq specifications say you have a agp 8x slot go back to crucial and run their scan.  </s>
+<s> this will tell you the specifications for the ram you need.  </s>
+<s> you must get ram that meets these specifications.  </s>
+<s> print them out and take them to the store you intend to buy the ram from they will know what you will need.  </s>
+<s> from the specifications from compaq we can find this much information about your ram: pc2700 mb/sec 184 pin, ddr1-333 sdram here is the scan: about your pc hardware:  </s>
+<s> i have added the new chip for about 10 days and it has doubled my memory and i haven't had the problems that i did before.  </s>
+<s> so ...is it running better, noticeably better with the additional ram ?  </s>
+<s> vapcmd  </s>
+<s> it is running better.  </s>
+<s> much better.  </s>
+<s> =] thanks for checking.  </s>

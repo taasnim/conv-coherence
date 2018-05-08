@@ -1,0 +1,93 @@
+<s> hi all, until yesterday, our main pc downstairs had aol dsl (with our wrtg54 linksys router connected) and i used my linksys adapter on my pc upstairs for wireless internet.  </s>
+<s> at times, the connection was fine, but it was mostly inconsistent (and not all that fast at 300-400kpbs).  </s>
+<s> so you can imagine my joy when our optimum online cable modem equipment arrived yesterday.  </s>
+<s> again, the main pc downstairs is the one being set up for this and in the process of setting up the router, we could not get an internet connection - it simply would not work.  </s>
+<s> that computer is still running windows 98se, but we were told that should not be the problem.  </s>
+<s> connecting the stuff directly into the pc isn't an option as we need to use the router so that i can get my internet wirelessly upstairs.  </s>
+<s> so as i sit here writing in from work, we no longer have any working internet access at home.  </s>
+<s> i am determined to get this thing working properly because it should.  </s>
+<s> that's where you guys come in.  </s>
+<s> i really need your help with this.  </s>
+<s> i am not in front of the computer at home right now, obviously, so i'll do my best to answers any questions.  </s>
+<s> if there are any solutions you think may fix the problem, something perhaps i have not thought of, please let me know.  </s>
+<s> i would like to resolve this when i get home tonight.  </s>
+<s> best, jason  </s>
+<s> have you tried cycling your router (turn it off for a few seconds then powering it back on)? it may just need to clear itself out and grab the updated information.  </s>
+<s> you did not indicated if you were able to log into your router to check it's settings.  </s>
+<s> if you have any static addresses in the router, these would have to be changed to use your new connection.  </s>
+<s> most of the time things are left to configure automatically, but with out knowing your setup it is possible you had static information inputed at some point.  </s>
+<s> i think i would need more information to provide any detailed help.  </s>
+<s> so, might you suggest i reset my router settings (not back to factory condition, per se, so as not to lose all of the firmware updates) once everything is hooked up?  </s>
+<s> because once everything was hooked up and we had the router setup cd in telling us no connection could be detected, we just reconnected our old dsl and left it.  </s>
+<s> i didn't check the router setup page (although the setup screen was full screen, so not sure i would have been able to minimize it).  </s>
+<s> let me know as i can try this later.  </s>
+<s> jason  </s>
+<s> so let me sort this out.  </s>
+<s> you had a previous setup that worked.  </s>
+<s> with the dsl that then went into your wireless router, and then you had your win98 machine directly into the router, and your main computer elsewhere using wireless?  </s>
+<s> and then you got a new cable connection (w/ new modem) and that is now plugged into your wireless router with everything else the same as before, but the internet does not work?  </s>
+<s> if this is the situation.  </s>
+<s> then i would first make sure everything is physically setup correctly.  </s>
+<s> your modem should be connected to the &quot;internet&quot; port on your router.  </s>
+<s> and then your other machine should be connected to one of the other ports on the router.  </s>
+<s> i will assume the cable modem/internet works if you plug into the modem directly?  </s>
+<s> if the cable internet works, and you did not change anything else with your setup, then it has to be the link between your router and the cable modem.  </s>
+<s> if your setup worked previously then you should not need to run any setup cd's for your router, so you kind of lost me there.  </s>
+<s> normally you would log into your router via a web browser.  </s>
+<s> usually a 192.168.1.1 address.  </s>
+<s> if you are not aware of any settings you had to change when you originally setup your router, i would first try cycling your router as i described before, and perhaps doing the same to the modem as well.  </s>
+<s> i do mean just to power them on and off.  </s>
+<s> usually you just have to disconnect the power.  </s>
+<s> i would not 'reset' them, as you pointed out you would lose your settings.  </s>
+<s> your isp should have indicated if there was any special settings you needed to use the connection.  </s>
+<s> most use dchp to send you (your router) and ip address automatically.  </s>
+<s> so be sure your router is set to do this, or has the information provided by your isp.  </s>
+<s> i would make sure your pcs are the same as well.  </s>
+<s> you may want to perform an ipconfig /release and then ipconfig /renew from a dos prompt to be sure they have cleared out their settings as well.  </s>
+<s> if it still doesn't work, you will need to get into your router and see what settings there are.  </s>
+<s> after you do that, perhaps you can provide more information and we can be more helpful.  </s>
+<s> josh, allow me to express my gratitude for all your help. it turns out they (being my mother and younger sibling) did not go beyond putting in the router setup cd. as you said, that sounded a bit fishy since everything was set up properly before.  </s>
+<s> i went to the router setup page and noticed the internet connection type was still listed as pppoe (with my mother's aol username still listed as we were previously using aol's dsl service).  </s>
+<s> i changed that to automatic configuration - dhcp and voila!  </s>
+<s> both computers are connected to the internet and it's working like a charm.  </s>
+<s> there is a noticeable increase in speed.  </s>
+<s> i know there are lots of mitigating factors that determine one's connection speed and that it will fluctuate, but are there any settings (perhaps at the router setup page) that can be tweaked to increase my speed even more?  </s>
+<s> i'm happy to be connected at around 1mbps as opposed to 400kpbs, but the service is capable of exceeding 10mpbs and i can't help but feel there is something else i can be doing.  </s>
+<s> in any event, thanks again for helping me with my main problem and with very little info.  </s>
+<s> to go on.  </s>
+<s> jason  </s>
+<s> i am glad i was able to help, although it sounds like you were able to figure most of it out on your own.  </s>
+<s> when you are dealing with wireless connections there are a lot of variables that can cause a slow connection.  </s>
+<s> my guess would be that you are just not getting a real strong signal, which is not that surprising if you computer is in a basement (you mentioned was downstairs) and your router is upstairs.  </s>
+<s> depending on the structure of your house, you can get a lot of interference as it travels through the walls/floors.  </s>
+<s> there could also be other appliances in the house that can interfere such as wireless phones and etc. you can try relocating your router and/or computer a little to try and get a better signal, try different channels, re-position your antennas, or try to upgrade to a higher gain antenna.  </s>
+<s> i probably should back up first though, and ask if the computer connected directly into the router is getting better speed?  </s>
+<s> if it is getting closer to the advertised speed, then you know it is probably being bottle necked by the wireless.  </s>
+<s> if you are not getting very good speed connected directly to the router then there could be something else going on.  </s>
+<s> to answer your question though, there is not really any magic settings to get a lot more speed out of it.  </s>
+<s> but you can tweak a few things as i mentioned above and try to get a little more out of it.  </s>
+<s> thanks, josh.  </s>
+<s> to clarify, the main pc (which is connected directly to the router) is in the living room.  </s>
+<s> my pc (connected via wireless adapter) is up a very small flight of stairs and down a corridor, so the distance between them is not quite *that* dramatic.  </s>
+<s> but i do see your point.  </s>
+<s> right now, it is set on channel 6, so i am wondering is switching over to channel 11 might make a difference?  </s>
+<s> fyi, the speed appears to be pretty much the same on both computers.  </s>
+<s> my bigger concern is the fact that, previously, i have tried to enable wep protection for our network, only to have problems when i would then try to enter the passcode when prompted on my pc. i have yet to try this again since we got the cable internet working, but i am wondering if the same thing might happen?  </s>
+<s> i would like to have *some* level of protection, but it was not allowing me to do so before.  </s>
+<s> you could try switching to a different channel, but if you are getting relatively the same internet speed on both machines then it may not be a problem with the wireless.  </s>
+<s> did you try running your computer straight off the cable modem just to see what the speed was?  </s>
+<s> if you were getting significantly higher speeds straight from the modem, then you can determine it is a problem with the router.  </s>
+<s> it is not uncommon to lose a little speed when you run something trough the router as there is additional overhead, but it should not be that dramatic.  </s>
+<s> if you are still not getting that much speed straight from the modem, then you may want to contact your isp. with the security questions.  </s>
+<s> off the top of my head i do not see any reason why you should not be able to setup wep on your network.  </s>
+<s> if your equipment supports it, i would probably use wpa as it is more secure; wep is relatively easy to crack.  </s>
+<s> to do this, you just have to be sure that they are using the same encryption wep or wpa and that they are both using the same level of encryption, 64 or 128 bit etc. and then make sure you input the key exactly the same on all devices.  </s>
+<s> you can also go one step father and apply a mac filter list, and i would also turn off the broadcasting of your ssid.  </s>
+<s> if you are broadcasting that, it just makes you a target.  </s>
+<s> i would also make sure i changed the default password on my router if you haven't already. the default passwords are posted all over the internet, so make sure you pick something strong.  </s>
+<s> and if you are really worried, you can turn off remote admin of your router as well.  </s>
+<s> so that might be more then you wanted to know.  </s>
+<s> but i would try to at least setup your wep again, and turn off your ssid broadcast.  </s>
+<s> if you try this and get errors, then you could share those, and perhaps we can help trouble shoot the problem.  </s>
+<s> well, i tried the wep again and this time, i wasn't even prompted for a passcode, i was simply unable to use the internet.  </s>
+<s> weird this is that it recognized me as being connected to the network, but i was unable to access the net.  </s>

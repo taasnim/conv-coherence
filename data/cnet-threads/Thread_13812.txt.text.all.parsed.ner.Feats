@@ -1,0 +1,13 @@
+                                     USB 0 0 1 0 0 0 0 0 0
+                                     BOB 0 1 1 0 0 1 0 0 1
+                                COMPUTER 0 1 0 0 0 1 0 1 1
+                                   TIMES 0 1 0 0 0 1 0 1 1
+                                 NETWORK 0 0 0 0 0 1 0 1 1
+                                NETWORKS 0 0 0 0 0 1 0 1 1
+                                    HOME 0 0 0 0 0 1 0 0 0
+                                   ORDER 0 0 0 0 0 1 0 0 0
+                               INTERFACE 0 0 1 0 0 1 0 1 1
+                                    WPA2 0 0 0 0 0 0 0 0 1
+                                     WPA 0 0 0 0 0 0 0 0 0
+                                    RISK 0 0 0 0 0 1 0 1 1
+                              ASSUMPTION 0 0 0 0 0 1 0 1 1

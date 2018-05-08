@@ -1,0 +1,46 @@
+<s> i recently got a nvidia geforce 8400gs pci card and had it installed and working fine in a 4-year old emachines.  </s>
+<s> but i removed the card before swapping it for a nearly new emachines w3650.  </s>
+<s> for some reason, the card doesn't work in the new computer.  </s>
+<s> it's physically installed ok, it's got power; the cooling fins get very warm, the drivers loaded ok, and i disabled the onboard graphics.  </s>
+<s> device manager says it's &quot;working properly&quot;, for what that's worth.  </s>
+<s> when i plug the monitor cable into the card, there's nothing.  </s>
+<s> black screen.  </s>
+<s> am i missing something, or could the card have died somehow?  </s>
+<s> but we all know that 8400 and 8600 chips may have a limited life span.  </s>
+<s> while the big news was all about the mobile 8400m defects, that is being seen in the desktop cards.  </s>
+<s> type 8400 defective on google.  </s>
+<s> sorry to read about your loss.  </s>
+<s> and of course, check your work.  </s>
+<s> power off, re-seat it, etc. bob  </s>
+<s> it was only used for less than 10 hours.  </s>
+<s> what i need to do is try it in another computer.  </s>
+<s> i get them to fix and play with from time to time, as this one is.  </s>
+<s> i'd rather not try it in my &quot;main&quot; computer.  </s>
+<s> it cost less than $40 at newegg.  </s>
+<s> try the reseating and then you have a warranty issue.  </s>
+<s> when you swapped the video card from the old to the new machine did you use the same monitor.  </s>
+<s> if yes then good.  </s>
+<s> have you tried swapping the vga card back to the old machine?  </s>
+<s> did it work?  </s>
+<s> if yes then your card doesn't have any problem.  </s>
+<s> try checking your new machine, do you have other vga cards that is working with the new computer?  </s>
+<s> it is also possible that you need to connect the monitor/lcd into a dvi-connector instead of regular serial/video cable on your vga card.  </s>
+<s> good luck on your pc.  </s>
+<s> the card seats fine, as i've inserted it 3 different times.  </s>
+<s> yes, i'm using the same monitor.  </s>
+<s> i will look around for a dvi cable. the old machine, where it worked, is now in use at my son-in-law's house.  </s>
+<s> no other extra vga card on hand.  </s>
+<s> but one way or another, i'll dig up a piece of hardware so i can prove whether the card is bad or not.  </s>
+<s> i still have mfg.  </s>
+<s> warranty time.  </s>
+<s> thanks for your suggestions.  </s>
+<s> my biggest concern was that it was something i wasn't doing right.  </s>
+<s> have you fixed your problem yet?  </s>
+<s> any progress?  </s>
+<s> it took awhile to determine; i needed the right equipment to try things.  </s>
+<s> it looks like the card is dead.  </s>
+<s> it's a pci graphics card, but i tried a pci-express graphics card, which worked ok. then i needed something to try in the pci slot, so i used a pci-usb card, which worked fine.  </s>
+<s> i haven't had the opportunity to try this pci graphics card in another computer, but if the pci slot works ok, then i'm convinced it's the card that doesn't work.  </s>
+<s> i'm working on rmaing it.  </s>
+<s> you got the root cause of the problem.  </s>
+<s> good for you.  </s>

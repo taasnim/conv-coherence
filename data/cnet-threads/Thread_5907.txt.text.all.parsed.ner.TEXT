@@ -1,0 +1,19 @@
+<s> i recently installed a small network and it worked with no problems for a week or so.  </s>
+<s> after the first week, they noticed a slow down in network bandwidth, only when accessing their database (running on windows xp pro, with all updaters and patches installed).  </s>
+<s> all other network trafic runs fine, and there is no reason that only access to the database is slow.  </s>
+<s> it speeds up if all computers are shut compleatly down and started back up.  </s>
+<s> it will run fine for about a day, then slow back down.  </s>
+<s> their network setup is below. 1 server (dell optiplex gx270, winxp pro, p4 running at 3.00 ghz, 512 mb ram) 4 workstations (3 dell deminsion 2400, winxp pro, p4 running at 2.80 ghz, 256 mb ram; 1 home built, winxp home, athlon xp running at 2500+, 480 mb ram) 1 linksys etherfast cable/dsl router (model #: befsr81, set to run ppoe for sbc/yahoo dls service) if you need more information, please reply and i will post the information you need.  </s>
+<s> thanks  </s>
+<s> are you sure a worm/trojan or spyware hasn't found its way onto the machines?  </s>
+<s> just fyi, some drivers do that slowdown after it goes into standby and back.  </s>
+<s> unless you strongarm the maker, usually you have to disable standby.  </s>
+<s> bob  </s>
+<s> i've ran norton antivirus and the systems came up clean.  </s>
+<s> how would you find out what devices go into standby, and how do you disable that feature?  </s>
+<s> it's in the power control panel applet.  </s>
+<s> there's also that other tweak i apply to all 2000/xp machines worth noting.  </s>
+<s> here's the link -&gt; this notes the directory upsize and the checking for scheduled tasks on the remote machine.  </s>
+<s> check this one and the links at the bottom: as to norton, that's not enough.  </s>
+<s> try a web based scan like housecall and make sure that no parasites are installed with a scan of adaware.  </s>
+<s> bob  </s>

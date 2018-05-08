@@ -1,0 +1,61 @@
+<s> so i am currently running a dell xps 410 desktop with these specs: --intel&#174; core&#8482;2 quad cpu q6600 @ 2.40ghz --4 gb ram --nvidia geforce 7300 le --ocz vertex 2 / 500gb hdd -- everything else is stock.  </s>
+<s> i want to upgrade my video card because it is realllly outdated.  </s>
+<s> i was wondering what is a decent video card that will fit and not break the bank to hard.  </s>
+<s> thanks to anyone who can help.  </s>
+<s> look into a hd5670/6670.  </s>
+<s> either should be a nice bump with no psu upgrade needed.  </s>
+<s> do you have a budget in mind?  </s>
+<s> what games do you want to play?  </s>
+<s> what settings?  </s>
+<s> what resolution monitor?  </s>
+<s> these factors all come into play in selecting a video card.  </s>
+<s> for general help about upgrading, i suggest visiting this site which has lots of helpful information and links: one of its pages specifically addresses the items to consider in choosing a video card: but the other pages should be helpful too.  </s>
+<s> if you are looking for a quick solution, check out the article at thg that lists the best video cards at different budget levels, including a brief characterization of its performance, and links to its reviews: the hd 5670 recommendation by bob b is a good choice in its budget range.  </s>
+<s> note that he is consiedering your psu which is an effective upper limit on how powerful a card your system will handle.  </s>
+<s> with your 375w psu, you can also handle a little more power - and more expensive card - like the gtx 560 - if your budget will handle $175: here is a review that descibes the card and provides benchmarks that will show you its performance.  </s>
+<s> note that the page on power usage shows it - the total system - using 295w for video card based on the standard reference design and 325w when overclocked - which is about all you would want to put on a 375w psu.  </s>
+<s> but answer the above questions and people here can provide more specific advice.  </s>
+<s> i am looking to make sure i can play diablo 3 with good specs whenever it comes out, but still want to be able to play any newer games that come out even if on low specs, until i can afford to upgrade my computer altogether.  </s>
+<s> for a budget i am thinking around $100.  </s>
+<s> there may be a little wiggle room but probably no more than $120.  </s>
+<s> my monitors resolution is 1680 x 1050.  </s>
+<s> thanks by the way.  </s>
+<s> it says on the radeon it needs at least 400w psu and on the gtx 560 it takes a minimum 425w psu.  </s>
+<s> sorry i don't think the forum issues those.  </s>
+<s> a member did report they were running the 5670 on a 300w psu with no problems.  </s>
+<s> your call.  </s>
+<s> since stating a minimum psu never is a good spec i use a 20 buck watt meter.  </s>
+<s> i put the machine up on the watt meter and look at the readings at idle on the windows screen then a few games.  </s>
+<s> then i can figure out if we are in trouble.  </s>
+<s> most psu's are about 80% efficient so we know the watts on the ac is that far off.  </s>
+<s> to see if we are in trouble i use 50% of the psu's rating and don't want the watt meter to exceed that.  </s>
+<s> this gives the psu some head room.  </s>
+<s> one last check is the amperes on the psu rail check.  </s>
+<s> you find the video card's amperes and make sure the psu rails can support that.  </s>
+<s> here's the problem.  </s>
+<s> most techs and owners don't want to do this work.  </s>
+<s> bob  </s>
+<s> most users don't have the tools to do what you've suggested.  </s>
+<s> then, if you consider the common advise and buy a better psu to begin with, money better spend.  </s>
+<s> as techs already know the cure is a better psu, it's passed on to the user.  </s>
+<s> now, it's up to the user.  </s>
+<s> imo, working with budget minded users tends to bog the decision too much on cost alone.  </s>
+<s> but that is where it falls.  </s>
+<s> plus, if the box says, you need x-watts to run the gpu, you need x-watts.  </s>
+<s> tada -----willy  </s>
+<s> i use it a lot to figure out where the power is going.  </s>
+<s> i think i could fit upgrading to a slightly bigger psu and a new video card such as the gtx560 into my budget but then will i have to upgrade the cooling in my computer?  </s>
+<s> i just have the stock fans in there but as of now it stays very cool.  </s>
+<s> also wondering if there is a limit on power supply wattage on the motherboard.  </s>
+<s> thanks guys for the help by the way.  </s>
+<s> for an example you home has some 48 kilowatts available but the 100 watt light bulb still draws what it needs.  </s>
+<s> bob  </s>
+<s> okay so the motherboard can handle any graphics card as long as it is pci 2.0 and 6pin?  </s>
+<s> do you have any idea how upgrading a psu and graphics card would affect the heat of my computer?  </s>
+<s> i have yet to see a 6pin associated with the motherboard.  </s>
+<s> this is usually a power supply lead with a &quot;6pin&quot; power plug.  </s>
+<s> in theory and so far i can put pcie 1.0 into 2.0 slots and vice versa.  </s>
+<s> sorry that they don't explain that well.  </s>
+<s> bob  </s>
+<s> hello, i need an upgrade too and would like to ask, i have old motherboard asua a8n-e pci-e and i was wondering if i can fit that video card hd 5670 on it?  </s>
+<s> cos it says that my motherboard is pci-e 1 and that card requires pci-e 2.0 or 2.1.thanks.  </s>

@@ -1,0 +1,14 @@
+<s> i just bought a dell studio d540 (intel core 2 quad processor q9400 2.66 ghz, 8 gb ram, 64 bit vista) specifically to speed up the data analysis that i'm doing with matlab. the program i wrote involves a lot of fourier transforms etc, it takes about an hour to run on my pc at home, an hp s3500f (amd athlon dual core 5400 2.8 ghz, 6 gb ram, 64 bit vista), but over 2 hours on my dell studio.  </s>
+<s> according to the benchmarks on the cnet reviews the dell should be faster than the hp or at least comparable, it should definitely not take twice as long.  </s>
+<s> there has to be something seriously wrong with this system.  </s>
+<s> as a comparison, the program takes about 1 hour 50 mins to run on an old 2.8 ghz pentium 4 in the lab.  </s>
+<s> i've tried to get help from dell but they said it was a software problem & it's not covered by the warranty.  </s>
+<s> any ideas for why i'm getting this truly abysmal performance would be greatly appreciated.  </s>
+<s> do you remember the old &quot;windows thunking&quot; discussions?  </s>
+<s> you may want to ask for both vista 32 and xp pro (32 bit.) bob  </s>
+<s> my hp system also has 64 bit vista. the matlab program takes about an hour on this system, which seems reasonable, there's a lot of math. the cnet benchmark specs gave these 2 systems comparable performance, although the dell should be faster, all tests were done with 64 bit vista (if i remember correctly). the main difference between the hp & the dell is the processor, but that shouldn't lead to such a vast difference in performance (1 hr on the hp vs 2 hrs on the dell), should it?  </s>
+<s> you may be right.  </s>
+<s> look up cpuz to poke around and see not only the cpu speed but memory timings.  </s>
+<s> one poor guy had a lightning fast cpu but dog slow ram. in answer to your question.  </s>
+<s> yes.  </s>
+<s> bob  </s>

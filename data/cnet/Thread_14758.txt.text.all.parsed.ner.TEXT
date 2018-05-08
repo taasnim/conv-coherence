@@ -1,0 +1,169 @@
+<s> hi. i bought a computer, witha a pcchips 863g mother board.  </s>
+<s> a western digital hard drive, asus video card (geforce 5200). the processor is an amd sempron 2800+, and 512mb of memory (markvision).  </s>
+<s> my problem is, that once the computer is on.  </s>
+<s> it lasts only something like 15 min, or sometimes 5 min, and then it suddenly restarts.  </s>
+<s> this is very annoying.  </s>
+<s> it does it, no matter the aplication i`m running, just restart, even changing de desktop theme.  </s>
+<s> so a lot of friends, say that it could be the memory, that comes bad. it only happens when i`m using the asus video card, because, when i`m using the integrated mother board, video card, everything runs fine (but the bios, only gives to video ram, 32mb).  </s>
+<s> i think that the video vard is ok, because when it restarts, windows xp, tell me, that the problem is with the video, and gives me the solution, of slowing the &quot;hardware aceleration&quot;,but doing that, still happens.  </s>
+<s> so, what do you think?  </s>
+<s> thanks for your help, and sorry for my bad english.  </s>
+<s> :$ bye  </s>
+<s> there are so many things to check here i'm not sure where to start.  </s>
+<s> of course you could have bad memory but i doubt it as you only seem to have the problem with the asus card installed.  </s>
+<s> my guess is that you have something set wrong in the bios.  </s>
+<s> check to see if your first init device is agp.  </s>
+<s> aslo look to see that the appature setting is right for your video card. the fact that your computer will run for a few minutes before rebooting sounds a lot like a heat issue.  </s>
+<s> some systems will reboot or shut down when there is an overheat problem and you can get that problem from running a video card at the wrong settings.  </s>
+<s> as always be sure you have the latest drivers for the asus card and check your mainboard manufacturers website to see if there are any known issues between your board and the asus video card.  </s>
+<s> there are several other things to check but i'm short on time and i want to see what you find out before i go further.  </s>
+<s> try opening the case and finding out what the power supply is rated at for wattage.  </s>
+<s> as well as johns suggestion, itkind of sounds like you not getting enough power to the video card and thus getting reboots.  </s>
+<s> if the poweer supply is under 400 watts then i would suspect this to be the problem.  </s>
+<s> it may be your video card, but i had the same problem with my machine a few weeks ago, and i updated my modem driver, and that fixed it.  </s>
+<s> good luck, don  </s>
+<s> it may be your video card, but i had the same problem with my machine a few weeks ago, and i updated my modem driver, and that fixed it.  </s>
+<s> good luck, don  </s>
+<s> i was having the same problem with my computer.  </s>
+<s> i even had it into the repair shop and they could find nothing wrong with it.  </s>
+<s> this gave me the idea that it must be caused by something that i had connected to the computer.  </s>
+<s> so i disconnected everything and then started plugging them in one at a time.  </s>
+<s> bingo!  </s>
+<s> when i got to the card reader, it started to restart again.  </s>
+<s> this was the culprit and by buying a new card reader, my problem was fixed!  </s>
+<s> franc, all the previous suggestions are valid but before you go nuts, i would suggest going to microsofts update site and check for any and all hardware and software updates.  </s>
+<s> do not use the &quot;express install&quot; or you may miss what you are looking for as it will only give you what they consider critical.  </s>
+<s> pay particular attention to drivers.  </s>
+<s> in many cases minor updates can solve hours of trial and error.  </s>
+<s> good luck, bill  </s>
+<s> so be careful and be sure you have established a restore point you can rollback to.  </s>
+<s> some then have had trouble getting actually rid of the driver updates.  </s>
+<s> i've experienced similar problems in the past.  </s>
+<s> so you have video on the motherboard and you added an agp video card, also?  </s>
+<s> if this is the case, go into bios setup at startup(you will see what key to press during post, usually delete, sometimes f2. ect..)look for intergrated periphials and be sure that your on-board video is not enabled.  </s>
+<s> if it is, disable it.  </s>
+<s> also, are you running a sound card or intergrated sound?  </s>
+<s> if you are using a soundcard, namely any soundblaster w/amd, there would lie your problem.  </s>
+<s> i am running an amd64 3700+.  </s>
+<s> i was experiencing the same exact problem when i had my soundblaster card installed with this processor.  </s>
+<s> the don't play well together.  </s>
+<s> i would just be zooming along and all of the sudden.. poof, reboot.  </s>
+<s> as soon as i removed my blaster card, enabled and started using the onboard soundmax, the problem went away.  </s>
+<s> now my machine is like the energizer bunny...you all know....it keeps going and going.  </s>
+<s> if after this, you are still having problems with your ma-chine, may i suggest a good exorcist.  </s>
+<s> i wish you the best of luck.  </s>
+<s> d-  </s>
+<s> i had a similar problem - very frustrating indeed.  </s>
+<s> it eventually turned out to be a weak power supply.  </s>
+<s> when the voltage dropped my computer acted like it had been hit with a power surge and the asus board's protection kicked in and shut down the machine.  </s>
+<s> a new, more robust power supply solved the problem for me. it took me days for me to zero in on this - hope my experience helps someone.  </s>
+<s> jack cudney  </s>
+<s> u have a virus i had the same thing and had a hard timew getting rid of it  </s>
+<s> franc, it's not neccisarily the memory that's bad.  </s>
+<s> usually bad memory will cause a computer to lock up, or intermittant program errors, but rarely does a faulty module cause random rebooting.  </s>
+<s> if you'd like to verify your memory, there's a free utility called memtest86+ (available from ). simply download and burn a prebuilt iso, and reboot your computer with the cd in the drive. the tests should start automatically (you may have to change the boot order in your bios).  </s>
+<s> more likely, it's your powersupply that's lacking.  </s>
+<s> over time, powersupplies can go bad - but i'm thinking more than likely you're putting too much of a load on it.  </s>
+<s> what wattage is it rated for?  </s>
+<s> modern computers can suck down a lot of juice, sometimes upwards of 400w.  </s>
+<s> an insufficient power supply causes brownouts, which cause your reboots. the fact that this only occurs when the geforce is plugged in reinforces my theory - that 5200 takes a lot of power to run, and i'll wager it's the straw (or in this case, i-beam) that broke the camel's back.  </s>
+<s> if it is the power supply, you'll need to purchase another one.  </s>
+<s> good luck solving your problem! -jeff  </s>
+<s> i agree with the other responses.  </s>
+<s> most new pc's come with the minimal watt ps installed.  </s>
+<s> u add extra cards and need more power. the other problem might be the sasser virus that effects a program called lsass.exe.  </s>
+<s> look on microsofts web site for the fix.  </s>
+<s> good luck, hang in there!!  </s>
+<s> your on-board sound card will actually rob your system of speed to the tune of up to about 10%.  </s>
+<s> it can slow you down during game play and it might even reduce your video cards frames per second.  </s>
+<s> this is because it is using the processors clock cycles and sharing on-board memory.  </s>
+<s> as a gammer there is no way i'd sacrifice precious clock cycles for on-board sound processing.  </s>
+<s> i opt instead for a good add-on sound card like the sound blaster audigy 2. also i'm running the same processor as you and the audigy sound card with no problems at all.  </s>
+<s> in fact i've never heard that the amd 3700+ had issues with sound blaster.  </s>
+<s> if it does it certainly hasn't affected my system.  </s>
+<s> it could be that your mainboard isn't alocating irq's correctly or you have some sort of driver issue.  </s>
+<s> is your mainboard set to auto allocate irq's or did you do that manually?  </s>
+<s> which asus board are you running?  </s>
+<s> i'm using the a8n-sli and you better believe it's power hungry.  </s>
+<s> in fact the mainboard manuel has a graph telling you what wattage you will need with certain cpu's and add-on cards.  </s>
+<s> i'd suggest anyone buying this beast pay close attention to that little graph especially if you are running two video cards in sli mode.  </s>
+<s> you know these guys are all probably on the right track with the power supply theory.  </s>
+<s> though in my experience power supply undervolt reboots happen early and regularly.  </s>
+<s> i've never seen them happen randomly.  </s>
+<s> that is because every device in your system pulls a certain wattage consistantly and if you are overloading the supply you'll know soon after boot up.  </s>
+<s> unless of course you have a cheap no name supply that doesn't have a steady power output to start with.  </s>
+<s> most decent power supplies have a 20% +/- tolerance rating and will push well beyond their limitations before failing.  </s>
+<s> however there are a handful of asian manufacturers that build cheap crap that can't take much of a load at all. the way to find out is to locate the supplies fcc-id number and visit the fcc website to lookup the manufacturer.  </s>
+<s> if you have a cheapo you probably won't find an fcc-id anywhere on the unit.  </s>
+<s> once you know who makes the supply simply do a google search on the supplies make and model number and include the word &quot;review&quot;.  </s>
+<s> you'll soon find out more than you ever wanted to know about your power supply.  </s>
+<s> i've run across 5 or 6 boards in the last couple of years that had flaky hard to diagnose shut-down problems.  </s>
+<s> after ruling out memory with a stand-alone memory tester and finding no obvious software issues i turned to visually inspecting the mainboards.  </s>
+<s> on each of these mainboards i found blown capacitors.  </s>
+<s> they can sometimes be hard to spot but they will usually be bloated and/or have a brown oose or crust on the top or bottom. the brown stuff is electrolytic fluid used within the capacitor.  </s>
+<s> this issue has been more prominent lately because the war for low prices has made a few mainboard manufaturers start buying cheaper componets.  </s>
+<s> another cause of capacitor failure is over volting or power surges.  </s>
+<s> a power surge caused by a lightning strike or power grid burp can do damage to a mainboard instantly or over time.  </s>
+<s> having your computer on a surge protector isn't a garuntee against surges since most lightning strikes will come from phone or network lines rather than power lines.  </s>
+<s> the reason for this is because power lines are grounded at each poll while the phone system is not.  </s>
+<s> if a capacitor receives a jolt beyond it's limitations it may continue to work even though it's damaged.  </s>
+<s> over time it can and most likely will fail. the only way to know for sure is to either visually see that it's blown or test it with a multimeter.  </s>
+<s> i have something else for you to check, if it only reboots when you use the slot video card, it can be heating inside cabinet, why?, your added video card can generate much more hot air inside your computer because it has its own memory & probably it's also working much faster than the integrated one, try using your machine wide open & check if it stays working or if it works more time compared to when i'ts, cabinet closed, if it does you have to make your computer cooler adding fans to it.  </s>
+<s> when i bought this e-machines, it came with a piece of paper that said don't call them about that problem; just get antivirus protection! the &quot;blaster&quot; (actually a worm, not a virus) was new then.  </s>
+<s> --kevinthefixer  </s>
+<s> i had a similar problem and finally figured out that it was due to oveheating.  </s>
+<s> blwoing out the dust helped for a while, and finally i had to replace the power supply.  </s>
+<s> hope this helps.  </s>
+<s> jgh  </s>
+<s> have you monitored your graphics card and cpu temperature?  </s>
+<s> i'm willing to bet that if you did, you would notice that your cooling for either the northbridge, the cpu or the graphics card (although unlikely) is inadequate.  </s>
+<s> if the cpu overheats, it will reset or shutdown the computer.  </s>
+<s> that's a protection built into most motherboards.  </s>
+<s> the fact that it occurs about 15 minutes after starting up the computer also points the overheat situation.  </s>
+<s> memory could be an issue, but failures due to bad memory are usually less predictable than what you are describing.  </s>
+<s> my four month old amd 3000+ emachines was doing the same thing.  </s>
+<s> i took it to best buy and they said it was a bad motherboard and sent it to emachines.  </s>
+<s> i had this restating problem also.  </s>
+<s> first, it started with a ram problem: i had 2 ram chips, and every second or third time, the amount of ram changed, and when i jiggled the chip in its seat, the ram worked.  </s>
+<s> then my computer started restarting always in a memory-intensive situation.  </s>
+<s> so i contacted crucial and sent back their ram chip to be replaced.  </s>
+<s> it came back with a sticker saying &quot;pass&quot;.  </s>
+<s> well, the restart problem got worse, and i began getting blue screens and odd windows error messages, saying important windows files were missing.  </s>
+<s> i kept thinking that it couldn't be the crucial ram chip because they sent me a new one.  </s>
+<s> well, finally i took it into compusa because windows was totally corrupted.  </s>
+<s> they tested the ram chip and said it was the chip that caused the problems.  </s>
+<s> windows couldn't be repaired, and i lost my whole drive's contents.  </s>
+<s> short answer: test your ram on a different computer before discounting it may be the problem.  </s>
+<s> last year i decided to try netscape as my isp at half the cost of my local company.  </s>
+<s> it worked fine.  </s>
+<s> two months ago i finally decided to install ps2 on windowsxp.  </s>
+<s> since then whenever i log into the internet through netscape my system crashes 5 to 15 minutes later.  </s>
+<s> this does not happen when i am on line with the local isp.  </s>
+<s> it also does not happen when i am doing anything off line.  </s>
+<s> boy i am glad to finally find someone else having the same kind of problem i am having.  </s>
+<s> i have read all 24 of the replies so far and have found that i have some things in common with some of you.  </s>
+<s> my system is a emachine t4155 straight out of the box, it is about 2 years old but it started shutting down or should i say partly restarting, it would reboot the computer, the screen and that is it.  </s>
+<s> it would not shut none of the other things such as printer, scanner etc.. down just do a quite reboot to the sign in page.  </s>
+<s> i keep my computer up to date as far as software and hardware both, along with keeping my firewalls, virus scanners and adware programs all up to the minute... my computer can go for weeks on end without shutting down, then other nights it might get me twice in one day.  </s>
+<s> i use cable access, the computer is great except when it shuts down.  </s>
+<s> when it happens sometimes i may have to restart it a couple of times to get it back up and running great.  </s>
+<s> i have had it checked out but it came back with an ok, so i have just been dealing with it.  </s>
+<s> one thing i noticed in the replies i read that kind of match mine is the emachines, motherboards, and power supply's.  </s>
+<s> for some reason i have been leaning toward some kind of power problem, because i do get quite a few spikes even with the protectors.  </s>
+<s> just thought i would add my 2 cents.  </s>
+<s> thanks for the great ideals, keep them coming and i may find my problem yet.. thanks again..  </s>
+<s> ill be brief and hope this helps be sure you have the correct driver for your video card.  </s>
+<s> if you have installed the provided one (from a cd or pre-loaded on the system) then consider going to the vid card manufacturer web site and download their latest one windows will often behave the way u described (sudden restarts) when a driver installed is wrong for the hardware, incompatible with windows, or has a bug -seth s. reeker sir computers sir_computers@hotmail.com  </s>
+<s> i recently bought an abit rx600pro-256 pcie and can't seem to find what power supply is recommended for it.  </s>
+<s> abit's web site, as you can tell from the link above, is worthless in this regard.  </s>
+<s> i put the card in an emachine t6212 which has a 300w power supply.  </s>
+<s> i also added two 1gb sticks of rosewill pc3200 ddr + the 512 mb memory that came with it for a total of 2.5 gb. the processor is an amd 64 3200+.  </s>
+<s> should i update the power supply?  </s>
+<s> (the reason i ask is that twice now while playing halo online, the system rebooted).  </s>
+<s> thanks!  </s>
+<s> well, when all else fails, rtfd.  </s>
+<s> (read the *&^%ing directions).  </s>
+<s> of course, the manual (directions) don't ever state anything about recommended psu.  </s>
+<s> but, i picked up the box the other day and noticed that ''recommended power supply is 300 watts.'' however, i think what was causing my issues was not the power supply, but; 1. a bad memory stick (i've swapped out and isolated - i hope - the one bad stick) 2. i think the fan on the graphics card is going bad. it now makes a grinding noise when i boot up.  </s>
+<s> when i touch the card, the noise subsides for a bit. the noise lasts for about 20-25 seconds.  </s>
+<s> graham  </s>

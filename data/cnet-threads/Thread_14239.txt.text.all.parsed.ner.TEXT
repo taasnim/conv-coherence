@@ -1,0 +1,25 @@
+<s> i recently burned all of my osx and os9.2 split hard drives to cd's as a backup.  </s>
+<s> at the time i did not have an external hard drive.  </s>
+<s> (was in transit.) now, after downloading the entire hard drive disks (after a clean-install) all folders are locked.  </s>
+<s> it has taken me well over two hours to unlock all folders, sub folders and sub-sub folders.  </s>
+<s> wonder why this happened?? any one else had this happen to them before?  </s>
+<s> strange!? -kevin  </s>
+<s> they came from a locked media, cd, or because the ownership of them has changed.  </s>
+<s> you initially told us that you were only the &quot;manager&quot; on your os x server, where the files on the cd were created.  </s>
+<s> now that you are the owner and administrator of the os x machine, things have changed as regards those files on the cd. just drag them onto the hd of your machine, select them all, get info and remove the check mark from the &quot;locked&quot; box.  </s>
+<s> close the window.  </s>
+<s> everything should be alright now.  </s>
+<s> if, on the os x files, you still find yourself unable to read or write to them, drag them to the hd, select them all, get info and then change ownership by changing the read/write status of the owner.  </s>
+<s> read everything in the get info box and you will see this option towards the bottom, on the left hand side.  </s>
+<s> if the options are grayed out, click the padlock and enter your administrators password when prompted.  </s>
+<s> let us know how you get on p  </s>
+<s> thanks pete.  </s>
+<s> really took me a long time to unlock these files and folders.  </s>
+<s> hours.  </s>
+<s> thanks for the heads-up.  </s>
+<s> will let you know later.  </s>
+<s> p.s. off subject: the ales were good in manchester, and heathrow airport especially.  </s>
+<s> irish pub with cream ale.  </s>
+<s> just great! the food looked awesome.  </s>
+<s> should have had some food there instead of on the plane.  </s>
+<s> live and learn. the food on the plane was kind of likewhat is it?? tasted like that also! -kevin  </s>

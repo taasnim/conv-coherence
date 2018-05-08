@@ -1,0 +1,30 @@
+<s> hi, i just built my first computer and it actually works!! the issue i'm having is there is no sound. the motherboard i purchased has a sound jack, so i thought i didn't need a sound/audio card.  </s>
+<s> do i need to add a sound card, install a driver from of the cds that came with motherboard, other??? and yes, i checked the volume level on both the monitor and computer.  </s>
+<s> here's the link to the motherboard i bought.  </s>
+<s> what i find is many of the newer home pc builders are unaware of how windows installations work.  </s>
+<s> that is, it's a very old system that rarely works on its own.  </s>
+<s> bob  </s>
+<s> you do need to install drivers from that.  </s>
+<s> you didn't mention your os but let's assume it's windows.  </s>
+<s> windows won't have all the needed drivers.  </s>
+<s> a trip to &quot;device manager&quot; will probably show you what hardware has been found but not configured.  </s>
+<s> here's where you do this from the cd. you start by installing the chipset drivers and then add the on board devices.  </s>
+<s> the cd might have an autorun feature to help guide you.  </s>
+<s> sorry, i should have mentioned os, it's ubuntu 10.04.  </s>
+<s> i browsed the cd, i don't see a linux driver.  </s>
+<s> not saying it's not there, i'm just looking for the file name that says linux in bold letters with lights flashing etc. any thoughts?  </s>
+<s> also, without a working link or make and model number folk can't look for you.  </s>
+<s> bob  </s>
+<s> 11.01 just recently came out and i loaded it on, but didn't care for it.  </s>
+<s> i'll eventually install it, but until i get my computer up and running like i want, i think i'll stick to an operating system i'm somewhat familiar with.  </s>
+<s> i'm very very new to linux.  </s>
+<s> i'm not sure what happened to the link.  </s>
+<s> here's the make and model and i posted the link again.  </s>
+<s> gigabyte ga-p67a-d3-b3 lga 1155 intel p67 sata 6gb/s usb 3.0 atx intel motherboard  </s>
+<s> does not list a single linux driver.  </s>
+<s> time to ask for these in the ubuntu forums.  </s>
+<s> about 11.01.  </s>
+<s> i see 11.10 at the ubuntu site.  </s>
+<s> since you can run that live without installing you should be able to test the sound there.  </s>
+<s> bob  </s>
+<s> thanks bob!!  </s>

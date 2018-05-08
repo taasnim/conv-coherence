@@ -1,0 +1,19 @@
+<s> hi there, i've downloaded my motherboard- gigabyte 8i875's bio update, after i install it it, am i suppose to run the files that were extracted.  </s>
+<s> the files has extensions of 8i875.f7,  </s>
+<s> autoexec.bat  </s>
+<s> and flash879.exe.if it is, which should i run?  </s>
+<s> coz when i click on the flash and auto one, it turns into a full screen and says: the chipset is not supported, the flash part is not supported, please make sure the flash part isn't protected.  </s>
+<s> in simple words... follow the maker's instructions on how to install.  </s>
+<s> you seem to have not read the instructions.  </s>
+<s> bob  </s>
+<s> follow the directions!  </s>
+<s> bob  </s>
+<s> make *absoluty* sure you have the proper bios update for your model mtrbd.,  </s>
+<s> don't guess be sure!!! once, you've verified and can proceed, most support websites have some helpguide or instructions that give the info you need. in no way, force the install or proceed until you know for sure, otherwise you can turn your system into a brick. the process itself is very straight-foward, have a good bootable floppy with the update and flash pgm., boot to floppy a, run flash pgm., save old bios when requested, then run flash with new update(.bin),  </s>
+<s> allow to finish, reboot only when prompted.  </s>
+<s> don't be in a hurry allow it all the time it needs, usually less than 5min.. or drink coffe, soda, bar-b-que, walk the dog, swim a lap, then check system for status, if finished and prompted, reboot.  </s>
+<s> good luck -----willy  </s>
+<s> thanks for all the help, currently printing out the guide, will try it later!  </s>
+<s> if you've never done it before, my suggestion is to buy the bios chip from someone like biosman.com or biosworld.com.  </s>
+<s> you just take your chip out and plug in the new one.  </s>
+<s> very simple.  </s>

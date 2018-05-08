@@ -1,0 +1,69 @@
+<s> first of all i apologize if this issue has been asked and answer in the past.  </s>
+<s> thank you before hand for any information.  </s>
+<s> i recently purchased a netgear me102 access point wireless router.  </s>
+<s> i downloaded the usb management software and drivers into my laptop and win xp recongized it.  </s>
+<s> my problem is that is afar as i know h ow to go.  </s>
+<s> i don't know how to set tcip protocols, gateways ds etc.etc.  </s>
+<s> and i much less don't know how to set up my wireless network.  </s>
+<s> i have done my research but the information that i find goes right over my head.  </s>
+<s> if i can get any ifnormation or step by step on how to configure my wireless network with my netgear router i would appreciate it  </s>
+<s> wireless nics in the pcs?  </s>
+<s> network interface cards.  </s>
+<s> most wireless routers are wireless ready when you turn them on.  </s>
+<s> no &quot;creative&quot; setup is necessary other than setting up security.  </s>
+<s> tell us more about each pc, what kind of w-nic is involved, cable or dsl (it does make a difference), and are any of the pcs wired?  </s>
+<s> ok well i will try to answer as much as i can, all i have for my network will be my dell inspiron dual amd laptop that comes with a dell wireless wlan 1370 card mini pci card.  </s>
+<s> my pc has no problem recongizing hot spots or wi-fi areas.  </s>
+<s> i do have high speed dsl and when i connect the ethernet cable from the modem to the router, nothing happens.  </s>
+<s> like i said did install the software managemetn for usb configuration and have cnnected my router to pc via usb, that is where i get stuck.  </s>
+<s> i don't know how to set up ip numbers for the router and pc etc.  </s>
+<s> for that exact reason.  </s>
+<s> to use usb you have to install a lot of extra &quot;stuff&quot; for the pc to recognize it.  </s>
+<s> can you connect the pc to the router via ethernet?  </s>
+<s> the wired ethernet port on the pc will recognize the router automatically.  </s>
+<s> nothing to install.  </s>
+<s> once you get connected you can access the router and turn on the wireless.  </s>
+<s> btw, you'll need to configure the router to work with dsl before you can surf.  </s>
+<s> dsl requires ppoe (usually) and you'll need to set up a logon like just connecting to the modem. the router will then mimic the pc and access the net.  </s>
+<s> after you're on line &quot;wired&quot;, turn on the wireless on the router and unplug.  </s>
+<s> you should be good to go wireles.  </s>
+<s> that makes sense, should i uninstall the usb management program?  </s>
+<s> and then just connect the router via ethernet connection?  </s>
+<s> what do i have to do with all the addresses that is required?  </s>
+<s> and you just blew over me again, how do i configure my router to the dsl?  </s>
+<s> hey i appreciate your help if you get me through this i will do anything to repay for your help.  </s>
+<s> the usb stuff.  </s>
+<s> now, connect the router to the modem and the pc to the router.  </s>
+<s> you'll have to read the owner's manual on how to access the router.  </s>
+<s> in essence, you open a browser and type in an ip address.  </s>
+<s> different routers use a different address, but they all will be 192.168.x.x. a browser window will open and the configuration screens are listed.  </s>
+<s> my d-link uses 192.168.0.1.  </s>
+<s> netgear i think uses 192.168.1.1.  </s>
+<s> read the manual. the manual will tell you what screens do what, and how to configure the router for dsl.  </s>
+<s> you then tell the router to turn on the wireless radio.  </s>
+<s> again, all routers have different screens so i can't help you there.  </s>
+<s> after you have turned wireless on you need to turn on encryption.  </s>
+<s> there will be another screen for this. the easiest is wep which is a form of encryption.  </s>
+<s> you'll set a pass code on the router and the same code on the laptop.  </s>
+<s> i use the 10 character version.  </s>
+<s> it is in hex which gives you the numbers 0-9 and letters a-f.  </s>
+<s> make up anything you want but do not forget it!  </s>
+<s> after you have set this up, exit the router by clicking on your home page.  </s>
+<s> if you've done this correctly you'll surf.  </s>
+<s> if you can surf wired, unplug and have the laptop look for a wireless network.  </s>
+<s> it should see yours.  </s>
+<s> since all laptops use different software for their wireless modems and some use windows to manage it and some use the card's software (cisco for one), you'll have to investigate yours.  </s>
+<s> done, and good luck.  </s>
+<s> wayne there are 10 types of people who understand binary; those that do and those that don't.  </s>
+<s> click here to see the cnet faces, learn a little about analog and digital data, internet connections, spyware removal, and download free software.  </s>
+<s> you said to connect router to modem and the pc to the router.  </s>
+<s> this is not possible with my router all i have is the ethernet connection and the usb connection besides the power supply.  </s>
+<s> how do i go around that?  </s>
+<s> have a look on this home wireless network setup tutorial, it's not that difficult to set it up.. wireless network setup tutorial: have fun...  </s>
+<s> i should have looked up the unit.  </s>
+<s> it's not a router.  </s>
+<s> it's just an access point.  </s>
+<s> did you get a user's manual?  </s>
+<s> i'm afraid you'll have to do some digging.  </s>
+<s> i found the owner's manual here scroll down to product manual.  </s>
+<s> sorry, and good luck.  </s>

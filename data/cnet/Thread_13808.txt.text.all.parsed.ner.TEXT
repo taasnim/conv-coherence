@@ -1,0 +1,24 @@
+<s> i recently installed an apple airport express wireless base station to use with my apple ibook g3. i hooked the airport station to my roadrunner cable modem, and it works great.  </s>
+<s> but i can't keep my dell desktop connected to the modem simultaneously.  </s>
+<s> it's either the airport or the dell. the one suggestion that was offered was to purchase a wireless card for the dell and thus access the airport station with both my apple laptop and my dell dimension 2100.  </s>
+<s> can anyone (1) verify this proposed solution, and (2) tell me what kind of wireless card i need to purchase? the dell in question is a dell dimension 2100 desktop pc with an intel celeron running windows me.  </s>
+<s> -put  </s>
+<s> maybe you want to say either ibook or dell... try to configured the airport express and the router... check your ip address and ip address range.. (maybe it only allowed for 1 ip address) try to disabled dhcp on the airport express or try to use manual configuration on the airport express assistant.  </s>
+<s> i assumed that you also have ethernet... try to bridge your wireless and the ethernet... on dell.  </s>
+<s> the airport express has only one ethernet jack on it for input from a source; it is an access point only.  </s>
+<s> thus, the ethernet cable from his cable modem can be connected to his desktop system - which means no wireless to the ibook via the airport express; or that same cable can be connected to the airport express - which leaves the wired dell desktop system out in the cold.  </s>
+<s> although the airport express is a very robust little device in terms of feature set, there isn't much physical connectivity to it.  </s>
+<s> my recommendation: get a simple broadband router w/4-port switch.  </s>
+<s> they can be had for $20-30 these days.  </s>
+<s> put it first after the cable modem.  </s>
+<s> set it to do the necessary dhcp.  </s>
+<s> connect your dell to the broadband router through one of its lan ports.  </s>
+<s> connect the airport express to another of the lan ports on the router.  </s>
+<s> turn off dhcp in the airport express and make it a &quot;dumb&quot; access point only - your ibook will receive its lan ip address from the router, but passed through the wireless link of the airport.  </s>
+<s> be sure to secure the airport so no other passers-by can log into your network.  </s>
+<s> if you want to install a pci wifi card or a usb wifi device in your dell desktop, that would be my distant second choice.  </s>
+<s> i'm partial to the buffalo line of equipment, but others may have different preferences.  </s>
+<s> however, when you have a wireless network and something funky happens, it is nice to have a wired system that you can use to troubleshoot and reconfigure; if all client systems are wireless, nothing will be able to reach the access point to troubleshoot it.  </s>
+<s> imo, if a particular system, such as your dell, is not mobile and being moved around alot, the only reason to go wireless with it is because you can't run a physical wire between your cable modem and the system or are offended by the sight/thought of visible wires in the room.  </s>
+<s> you already have a wire from the cable modem to your system, so presumably you've gotten over the putative ugliness.  </s>
+<s> dw  </s>

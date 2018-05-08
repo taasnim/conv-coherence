@@ -1,0 +1,87 @@
+<s> why can't i map a drive between two pcs on my home network?  </s>
+<s> both ethernet cards are installed properly in device manager on the respective machines, configured with ips on the same subnet.  </s>
+<s> i can ping each machine from the other, so there is connectivity.  </s>
+<s> however whenever i try to map a drive i get the error message that the machine cannot be found on the network.  </s>
+<s> firewalls are down, the drive i want to map to has been shared, yet i can't still seem to map.  </s>
+<s> any ideas?  </s>
+<s> and not only on the pc but some routers have them as well.  </s>
+<s> see this discussion and near the end they found they had to re-share the folder.  </s>
+<s> bob  </s>
+<s> ...the windows firewall is turned off on both machines.  </s>
+<s> the router is not a router, but rather a linksys switch, so no way to set it to dhcp. the ethernet cards are configured with a static ip on the same subnet.  </s>
+<s> again, i can ping each machine from the other, but i can't map a drive.  </s>
+<s> this is extremely frustrating, as i have never had this problem before and i can't seem to figure it out.  </s>
+<s> does anyone have any more ideas.  </s>
+<s> what should be a simple procedure has become a pain in the............ any and all help appreciated!  </s>
+<s> you listed only the firewall, but rather than going over each item with each member i offer the prior discussion so they can check over accounts and that issue with re-sharing.  </s>
+<s> your reply doesn't tell much about the other areas.  </s>
+<s> bob  </s>
+<s> ...and i have been going around and around and around with this problem for about 2 weeks now, and i am still beating my head against the same (fire)wall... the same user account exists on both computers, both with admin priviledges. the drives i want to map to have been fully shared.  </s>
+<s> both ethernet cards are configured with static ips on the same subnet.  </s>
+<s> i can ping each machine from the other. the windows firewall has been turned off on both machines, but i still can't map a freakin' drive!!! &quot;the network resource cannot be found.&quot;  </s>
+<s> can anyone provied a clue as to what might be going on before i take a hammer to both machines?  </s>
+<s> i have been networking various home computers for years and i have never had this problem before, so i am really frustrated and at a loss as to what is going on.  </s>
+<s> could it be a hardware problem of some sort?  </s>
+<s> or some mysterious windoze tweak?  </s>
+<s> help!!!!  </s>
+<s> ouch. expert setup mode.  </s>
+<s> ok, without knowing the setup in detail i'll just write it shouldn't work.  </s>
+<s> not everyone gets it right.  </s>
+<s> also, any use of ics trumps the sharing and may disable this.  </s>
+<s> i'm also sensing this is some homebuilt machine.  </s>
+<s> again the details are missing so i can't guess if you forgot some motherboard driver.  </s>
+<s> bob  </s>
+<s> but once again, both machines are running xp. both have the same user account with admin privileges. the drives i am trying to map to are fully shared with all read, write and change permissions granted to various users.  </s>
+<s> i am now using a netgear vpn router/firewall running dhcp.  </s>
+<s> both ethernet cards in the respective machines are configured to acquire an ip address from the dhcp server (netgear router).  </s>
+<s> once again, i can ping each machine successfully from the other.  </s>
+<s> and when i open a run dialogue box from the start menu and type in the ip address of the other machine, i get an explorer window showing all the shared files and folders on the other machine, which i can manipulate at will.  </s>
+<s> however, whenever i try to map a drive i still get the error message that the network resource cannot be found and i may not have access permissions to connect to that resource.  </s>
+<s> hmmmmmm.... most peculiar.  </s>
+<s> some problem with netbios name resolution???  </s>
+<s> reveal a clue.  </s>
+<s> i've seen that happen when the owner hid the network neighborhood from the desktop.  </s>
+<s> but i'm guessing here. is this &quot;stock&quot; or tweaked?  </s>
+<s> i still see no response about the long discussion where we covered almost all the angles from accounts to firewalls.  </s>
+<s> bob  </s>
+<s> ...i read through the previous discussion again and i see nothing there that i have not already touched on.  </s>
+<s> to reiterate: the same user account is on both machines, with admin privileges.  </s>
+<s> windows firewall is turned off on both machines, zone alarm shut down.  </s>
+<s> both ethernet cards configured to receive an ip address via dhcp from the netgear vpn firewall/router.  </s>
+<s> i can successfully ping each machine from the other.  </s>
+<s> i can type the other machine's ip address at the run command and view all the shares on the other machine.  </s>
+<s> i just can't map a drive!  </s>
+<s> and yes, both machines are heavily tweaked.  </s>
+<s> i am running tweakui and a couple other tweak programs, but my network places is still on the desktop, although i may have removed it at one time.  </s>
+<s> why should this matter?  </s>
+<s> 1. recreating the share after the accounts were made.  </s>
+<s> even if you did so, it's time to recreate it.  </s>
+<s> 2. if the ip address works but the name doesn't then i wonder if someone was tweaking xp services.  </s>
+<s> i can't guess what's different from stock but one service provides name resolution.  </s>
+<s> maybe someone stopped that?  </s>
+<s> sorry, i take these setups on stock xp setups and it works.  </s>
+<s> once we run into tweaked machines it's too much fun to find what it is.  </s>
+<s> bob  </s>
+<s> ...since i bought or built them.  </s>
+<s> and i have been all through the services several times.  </s>
+<s> the only one that i can find which relates to name resolution is tcp/ip netbios helper, which is turned on on both machines.  </s>
+<s> i will try re-creating the shares... thanks for all your help.  </s>
+<s> i believe has the letters dns in it may be needed.  </s>
+<s> check to see which are not in the stock settings.  </s>
+<s> bob  </s>
+<s> ...re-creating the shared drive has made matters worse.  </s>
+<s> now i cannot even connect to the shared drive with the ip address at the run command anymore.  </s>
+<s> all i can connect to is some generic shared folders.  </s>
+<s> i am completely frustrated and at a loss as to why these two machines are unable to connect on my home network.  </s>
+<s> time to get out the sledgehammer...  </s>
+<s> if recreating the share made it worse, it could have been insightful to know the error messages when you connected with the ip address.  </s>
+<s> it certainly reads like the age old issues of name resolution and accounts.  </s>
+<s> bob  </s>
+<s> ...when connecting with the ip address at the run command.  </s>
+<s> the error message appears whenever i try to map a drive in explorer or when i try to map a drive or find the shares in workgroup in my network places. the error states that the network path could not be found, or perhaps i don't have permission to access that resource, and it urges me to contact my network administrator.  </s>
+<s> well...that's me!  </s>
+<s> great advice, microsoft!  </s>
+<s> firewalls or accounts are incorrect.  </s>
+<s> sorry but that's what i find.. too many times.  </s>
+<s> there is one other area besides this and that is the spyware issue. the sixpack i note at the next link usually finds the pest or repairs the winsock.  </s>
+<s> bob  </s>

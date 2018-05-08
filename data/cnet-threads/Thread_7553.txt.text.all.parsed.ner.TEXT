@@ -1,0 +1,55 @@
+<s> i want to build a media server for my home theater.  </s>
+<s> i'm looking at eventually needing several terra bytes of storage.  </s>
+<s> i'd like to start out with four 400gb drives and add more drives as they are needed.  </s>
+<s> is it possible to build a raid array and then expand it without having to backup and restore all the data?  </s>
+<s> for both speed and data security is raid 5 still the best compromise? the array will need to serve at least two 720 x 1280 mpeg video files at the same time.  </s>
+<s> i'm not sure what the transfer rate would be.  </s>
+<s> would either the size of the array(about 3tb)or the transfer rate restrict me from using an ide raid?  </s>
+<s> big ultra-ide drives are relatively cheap these days.  </s>
+<s> in my situation is there any real reason to use the more expensive sata or sata ii drives?  </s>
+<s> terry  </s>
+<s> it was devastating to a would be raid builder that i pointed out his ultrafast raid was not needed since his ethernet was all of 100 megabit.  </s>
+<s> be sure you take that into account.  </s>
+<s> bob  </s>
+<s> i did some estimates and it looks like dvd quality video is around 5mb/s, 720p hd would be 20mb/s, and 1080p hd would be 60mb/s.  </s>
+<s> if this is right even with 4 tvs playing video from the server at the same time it would most likely never need to supply more than 100mb/s.  </s>
+<s> i might still go to gigabit ethernet just for future proofing.  </s>
+<s> if someone can check those numbers for i'd appreciate it.  </s>
+<s> they seem low, since i get jerky video playing dvd video over a wireless connection.  </s>
+<s> my wireless connection usually runs about 30 mb/s.  </s>
+<s> a single non-raid drive will easily keep pace with 100bt.  </s>
+<s> if not raid 5, why do raid?  </s>
+<s> bob  </s>
+<s> i had planned on using raid 5 for data security.  </s>
+<s> we are talking about terabytes of data that i don't want to have to reload from the originals.  </s>
+<s> if i use a string of independent drives i need to have some way to backup several 400-500gb drives.  </s>
+<s> is there a cheaper more reliable solution for this than using a big raid?  </s>
+<s> terry  </s>
+<s> some nas spread it around in another way.  </s>
+<s> but since you have terabytes to backups, you'll want to get that quantum dlt unit.  </s>
+<s> raid 5 still needs backup.  </s>
+<s> it's not funny when the burglar gets in a shop and they didn't have any offsite backup.  </s>
+<s> or other natural disaster.  </s>
+<s> those that argue against backups... usually have not suffered or suffered enough.  </s>
+<s> bob  </s>
+<s> i can see your point about backups.  </s>
+<s> i will be keeping all the original media.  </s>
+<s> that could be considered a form of backup(with one really nasty restore path).  </s>
+<s> a quick search just got me a ball park price of $1100 for a quantum dlt drive , 1.5 tb of media and a scsi controller.  </s>
+<s> that's almost what i figured the first tb of raid would cost me.  </s>
+<s> this is for home use so i may take my chances for a while.  </s>
+<s> in all likelyhood until, as you say, i have suffered enough.  </s>
+<s> everyone seems to be trying to talk me out of a raid. is there something intrinsically bad about raid arrays?  </s>
+<s> my original question was what is the advantage of going to a sata raid as opposed to an ide raid.  </s>
+<s> dose anyone have any input on that?  </s>
+<s> terry  </s>
+<s> want to call in for replacement.  </s>
+<s> my xp cd on my desk is the copy, the original in the firesafe.  </s>
+<s> you can take similar precautions.  </s>
+<s> that's quite a bargain for that much backup.  </s>
+<s> again, those that say not may be fresh to this land.  </s>
+<s> i'm not trying to talk you out of raid, i merely have watched many dive in and come away upset that no speed was gained on their network server.  </s>
+<s> until you get the gigibit lan, you can see that 100bt can't stress the hard disk system. the intrinsic bad thing about raid for some is the lack of redundency in some raid levels and then as you go to 5 and beyond the owner then complains they don't get all 2.0tb out of the 4 or 5 500gb drives.  </s>
+<s> a little more research helps them find out why. in raid 0 the owners get upset that you lose everything when you have a single drive failure.  </s>
+<s> and the final killer is i've seen people change controllers and ... the raid contents are gone.  </s>
+<s> bob  </s>

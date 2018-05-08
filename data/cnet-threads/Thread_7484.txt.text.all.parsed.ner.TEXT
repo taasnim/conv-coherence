@@ -1,0 +1,67 @@
+<s> i have a linksys g router that's worked fine for me for my home network (three or four pcs sharing folders with each other and sharing high speed cable modem internet, three tivos accessing the net) for years.  </s>
+<s> i've started streaming video to my wd live media server and while it works for most of my streams my higher rate streams needing around 29mbps are freezing and failing.  </s>
+<s> since my network adapters for those units are n, i thought i'd just buy an n router (d-link dir-655) and be done with it, as it's also backwards compatible with g (the tivo units cannot use anything other than g adapters).  </s>
+<s> however, i now read that running the n router in &quot;compatibility mode&quot; (i guess mixed mode as opposed to &quot;green&quot; something) essentially eliminates the n speed advantage.  </s>
+<s> okay -- so could i run both routers together?  </s>
+<s> one as a g mode router (for my g devices) and the other in strict n mode (for my media servers).  </s>
+<s> they could be separate networks, i guess (although i'm not sure how to share the cable modem between them) and i could login to the appropriate one from the appropriate device.  </s>
+<s> is this possible?  </s>
+<s> or advisable?  </s>
+<s> or is there something (hopefully easier?) else i could be doing?  </s>
+<s> tia for any assistance.  </s>
+<s> as you have found a router can only run b,g,n at one time.  </s>
+<s> there are what is called dual band routers than can actually run 2 at the same time but i think one of the radio's only runs at 5g so you would need nic cards that were also dual band.  </s>
+<s> from the radio side you will have no issues running 2 routers careful channel selection and ssid etc will make it all fine. the harder part is how you connect both router to internet.  </s>
+<s> you have 2 basic options.  </s>
+<s> in both cases you connect one of your routers to the isp.  </s>
+<s> you then connect the second router to a lan port on the first.  </s>
+<s> most likely you will use the wan port on the second router but it depends on the device.  </s>
+<s> option 1 just attach it and let it learn a address. the second router would then treat the first router as his isp.  </s>
+<s> this is messy because of the double nat that will take place but it is easy to configure.  </s>
+<s> be sure to use a different ip block on the routers or they will get confused.  </s>
+<s> it will be a challenge if you need to have a device on one router talk to a device on the other.  </s>
+<s> option 2 set the second router in bridge mode.  </s>
+<s> this means your first router will treat the second as a dumb accesspoint. the second router will do all the wireless to the device and the first router will do all the ip stuff.  </s>
+<s> this is a little more complex to get going at first since it is a uncommon config for a home router.  </s>
+<s> it should be a little less complex to troubleshoot client problems and place fewer restrictions on the client to client traffic.  </s>
+<s> not the best design but it is cheap and works.  </s>
+<s> i have the dir-655.  </s>
+<s> it works perfectly on g when streaming from my main pc to my media server in another room connected to my 55&quot; sony.  </s>
+<s> you might try changing channels, reorient the antenna, set it to broadcast g only.  </s>
+<s> cory, oh, i'm sure it will work perfectly in g mode -- that isn't the problem. the problem is that g mode isn't fast enough for what i need (my existing linksys works fine in g mode as well -- but i need about double the speed of what g mode can provide).  </s>
+<s> as i said, i'm streaming very high bitrate files (i need at least 29mbps). the lower rate files i stream (anything less than 10gb total size) work fine.  </s>
+<s> i will need to run the dir-655 in n exclusive mode in order to get it to do what i want.  </s>
+<s> bill, thanks for the reply.  </s>
+<s> i don't really need internet access for the n devices, but i do need them to be able to accept a stream from computers that do need internet, if that makes sense.  </s>
+<s> iow, i could leave my present router and computers alone and just connect the new n router to my existing router, but then the computers connected to the old router need to stream data to the devices that would connect to the new one.  </s>
+<s> so i guess what i do want is bridge mode, if i understand you.  </s>
+<s> you say it will be a little more complex to get going -- do you have any ideas on what exact issues i should be looking for?  </s>
+<s> or should i just start looking up &quot;bridge mode&quot; on the net and see what i need to do?  </s>
+<s> i found a site that suggests i need do three things (all of which seem simple to me). 1. connect new router as local device or bridge - if connecting the second router via ethernet cable, plug it into one of the lan ports on the first router (this is easy).  </s>
+<s> 2. check / change ip address of the new router not to conflict and to be in the range served by the old one (ditto -- i already manually manage ip addresses on my net) 3. disable dhcp (also simple, and i assume i disable it on the new router that is acting as a bridge).  </s>
+<s> that's all it says -- is there anything else i need to know?  </s>
+<s> (i'm guessing the new router should have it's own ssid so i can select it via the n devices).  </s>
+<s> n to g vice versa won't cut it.  </s>
+<s> dual band n (if wireless) gigabit hardware (if hardwired) cat 6 cable in lieu of cat 5 and a fast server hook up, fiber if possible.  </s>
+<s> could get a little pricey since hardwired systems will need gigabit nic capability and wireless require n. sounds like a fun project, good luck!  </s>
+<s> when you say &quot;won't cut it&quot; what exactly do you mean? are you saying i can't connect wirelessly to the n router, then hardwired to the g router (which is hardwired to the i7 server) and get the speed i need? because i'm *real* close to the speed i need with the g router wirelessly alone (sometimes, when the atmosphere and moons align, i can actually play those high stream movies -- other times i only get through 10 or 15 minutes before they freeze).  </s>
+<s> hardwired through the g router (with just cat 5) everything works fine, of course, even with the shares on my very slow server (and even with a slow usb external drive).  </s>
+<s> and i *will* go hardwired to the g router if i have to, but i'd like to get wireless if i can.  </s>
+<s> but please elaborate on what you mean, because i'm still trying to learn.  </s>
+<s> n/n g/g if you go to g from n it will then default to g, defeating the purpose of the n, would it work, well yes, in g mode.  </s>
+<s> if you are running a gigabit system (hardwire) 10/100/100 as opposed to 10/100, that is where the cat 6 instead of cat 5 comes in, faster transfer rate, that is also where (hardwired) the gigabit (10/100/1000) hardware comes in, nic cards for desktops more specifically.  </s>
+<s> and again, depending on upload/download rates from server.  </s>
+<s> wireless is another story dual band n gigabit router and n antennae for wireless units, it can go on and on.  </s>
+<s> gaming and streaming wirelessly can be a bit iffy, lots of variables, hardwire is generally a bit more reliable.  </s>
+<s> that was his original point that he need a n router and a g router that he could not run both on the same device.  </s>
+<s> those instructions for the bridge mode are pretty close.  </s>
+<s> in effect you just turn it on bridge mode.  </s>
+<s> you want your n router to do nothing other than convert the wireless signal to ethernet and pass it to your current internet router. the issue i had doing this was it took me a while to figure out how to get back into the router.  </s>
+<s> your n router will learn a management address from your g router over the copper.  </s>
+<s> make sure you set the n router to be able to be managed from the wan port which is normally disabled.  </s>
+<s> they you will need to either dig though the dhcp table on the g router and find the address you assigned to the n router or just guess until you get the address.  </s>
+<s> thanks, bill.  </s>
+<s> i think i'll be able to manage this, so to speak.  </s>
+<s> getting the n router to be managed via the wan port is the only thing that worries me a little, but i assume i'll find this option somewhere.  </s>
+<s> and i'm pretty familiar with the dhcp table on my g router (i use it to see what all the devices i have connected are -- amazing how a little home network can grow until you have 10 or 12 things all attached).  </s>
+<s> once again, i thank you for all the help and wish me luck (my fall back position is to return the n router and just run cable through the attic -- much simpler in practice but not nearly as versatile as i continue to add devices :&gt;)  </s>

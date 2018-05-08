@@ -1,0 +1,24 @@
+<s> i have a laptop 'toshiba m45 s331' that came with xp home.  </s>
+<s> i had to install win 2000 for job purpose.  </s>
+<s> now i cannot find the driver for the ethernet controller (marvell yukon 88e8036 pce-e fast ethernet controller) anywhere.  </s>
+<s> called toshiba and they don't support it for win2k.  </s>
+<s> checked on marvell website and they don't seem to have it either.  </s>
+<s> laptop also has 1394 net adapter which is also without driver.  </s>
+<s> could anyone pleas direct me to the right path...thank you..  </s>
+<s> install a pc-card adapter.  </s>
+<s> i've found such for as little as 5 bucks so you can buy your way out of this one.  </s>
+<s> ignore the 1394 entry as it's not ethernet.  </s>
+<s> bob  </s>
+<s> there is no win2k driver for your nic if the manufacturer does not list one.  </s>
+<s> twhen a new device is developed, they do not always write drivers for older oss.  </s>
+<s> you should be able to find a pcmcia ethernet adapter for which there is a win2k driver -- if you have that slot available.  </s>
+<s> i would expect, however, that a driver could be found for your firewire.  </s>
+<s> after all, that was around when win2k was a pup.  </s>
+<s> hope this helps frank  </s>
+<s> i have the same problem with a toshiba m55-s329.  </s>
+<s> i put an old 3com card in the pcmcia slot and the network came up correctly the first time still using the xp home edition.  </s>
+<s> it took me about 3 hours of searching the net for the driver before finding this formun entry.  </s>
+<s> now if i can only get ghost to work using the 3com card in the pcmcia slot (different problem), i will be happy and can migrate back to w2k.  </s>
+<s> even if i do lose a couple of ports... al  </s>
+<s> so i got myself a pcmcia card and i am in bussiness.  </s>
+<s> great, thats all i needed and thanks for your help...but am very disappointed with toshiba..  </s>

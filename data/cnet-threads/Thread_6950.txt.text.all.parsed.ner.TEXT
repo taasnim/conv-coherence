@@ -1,0 +1,32 @@
+<s> hi guys, i have been using a netgear dg834g wireless adsl router successfully for some years.  </s>
+<s> we have recently moved house and are now in an apartment block.  </s>
+<s> i have never made the router 'secure' as nobody was in range.  </s>
+<s> now they are and i feel performance is now variable, maybe because others are accessing it.  </s>
+<s> how can i make it secure?  </s>
+<s> be gentle with me , i am not very technical!  </s>
+<s> colin  </s>
+<s> - in your web browser's address bar, type in 192.168.0.1 - you will be asked for a login id and password.  </s>
+<s> if not set by your isp to something different, it should be &quot;admin&quot; for login and &quot;password&quot; for the password - on the left side of the screen, go to the setup section and choose &quot;wireless settings&quot; - on the wireless page, you can rename your network (ssid) if you'd like, but to add security choose at minimum wpa, but preferably wpa2 with aes if available.  </s>
+<s> below that, enter your own wireless password.  </s>
+<s> - once you choose &quot;apply&quot;, you will lose access to the router since it you have made it secure.  </s>
+<s> you will need to reconnect all of your wireless devices with the ssid and password that you created.  </s>
+<s> on pc's, you will probably need to remove the existing wireless network name since pcs will try to connect to the same ssid with the old settings, and your connection will fail.  </s>
+<s> thanks for a detailed reply.  </s>
+<s> i havn't done it yet as i need to move phone lines first, then i can hard wire the router to the desktop.  </s>
+<s> but i have another issue with the wireless connection.  </s>
+<s> i connect at 54mbps but it can disappear down to 1mbps.  </s>
+<s> it is currently at 36. is someone hijacking my router?  </s>
+<s> how can i tell if that is happening?  </s>
+<s> thanks guys.  </s>
+<s> colin  </s>
+<s> and with that done you run into channel overlap faster than you can blink an eye.  </s>
+<s> look at the channel overlap at and if you, like others have a 802.11n router that's all of two channels available without overlap.  </s>
+<s> since those spill over, even if you set your router to 802.11g, you still see the problems.  </s>
+<s> best bet is to wire what you can and keep the distances in the 20 foot range in crowded buildings.  </s>
+<s> bob  </s>
+<s> it's very possible that someone is connecting wirelessly to your router and causing issues with your connection.  </s>
+<s> anyone can connect wirelessly if your router is not secured.  </s>
+<s> being in an apartment, you are likely to have several people connecting without your knowledge.  </s>
+<s> you can access the web interface for your router (at 192.168.0.1) to see what devices are connected.  </s>
+<s> it should be under a section labeled &quot;connected devices&quot; or similar.  </s>
+<s> i would strongly urge you to enable wireless security immediately, as it would not be difficult for others to access your devices and do something malicious with your wireless open.  </s>

@@ -1,0 +1,64 @@
+<s> hi, recently i have bought some extra ram for my old packard bell.  </s>
+<s> at current it has 256mb of ram but once i get the ram in the mail an installed it i will have 512mb.  </s>
+<s> going to the next step is replacing the cpu.  </s>
+<s> i don't know if i will but i would like to get some info on it anyway.  </s>
+<s> i have a gigabyte ga-8siml which supports intel socket 478 and 400 fsb. the current processor is an intel celeron 2.1ghz and my chipset is a sis 650.  </s>
+<s> my main questions are: what is the fastest processor that my motherboard supports?  </s>
+<s> where can i buy it?  </s>
+<s> (i live in australia and is ebay ok?) is buying a second hand or used cpu ok? is it worth it?  </s>
+<s> will i need a new cooler?  </s>
+<s> is it as simple as this: -- -- or will i need to change options in the bios or in windows my current temps are around 12-14 degrees celsius and i think the cooler is an avc c7015b12m fan with this heat sink: (i don't know what it is called).  </s>
+<s> so it looks like this: .  </s>
+<s> at this stage i'm not sure if i want to do it but the more involved i get the more i want to do it!  </s>
+<s> if you need any more information i will gladly try and find it for you.  </s>
+<s> thanks.  </s>
+<s> pb about upgrade cpus ?? even though gigabyte made the mb in your system ...they made it for pb who is responsible for supporting it.  </s>
+<s> i was not able to find any reference to that mb on the gigabyte website.  </s>
+<s> until you find out the upper limit of your cpu upgrade choices, the prices and describe the intended use, it's kind of difficult to comment on ...'is it worth it?' vapcmd  </s>
+<s> i read some of the documentation that pb gave me and i found this out.  </s>
+<s> socket mpga 478b.  </s>
+<s> supports intel pentium 4 fc-pga2 processor, 1.4 to 2.2 ghz.  </s>
+<s> 100 mhz (x4 = 400 mhz) data bus speed is supported (quad-bumped technology).  </s>
+<s> does that mean that the best processor i can get is a p4 2.2ghz?  </s>
+<s> this website tells be differently: what information do i beleive?  </s>
+<s> (or is the info on the internet just newer because maybe the higher p4 cpus wern't around when my documentaion was printed) here is the link for my motherboard on gigabyte's site: i cant't find my computer on packard bell's site.  </s>
+<s> i am mainly using my computer for general use like email, internet, light gaming (e.g. age of empires 2), music and storage. the main reason is for shear speed as i am quite tired of waiting 1 or 2 minutes for itunes to load even though i have upgraded my ram (which has greatly increased speed).  </s>
+<s> another main reason i want to do it is to maybe make the computer a media centre computer (with a program like mediaportal).  </s>
+<s> i'd try this link... lots of cpu choices....only question is whether your pc has pb bios or one by gigabyte.  </s>
+<s> was this the mb that in the pc or was it a replacement mb ?  </s>
+<s> let us know.  </s>
+<s> vapcmd  </s>
+<s> thanks for the cpu link.  </s>
+<s> according to the table the best i can get is p4-northwood 2.6 ghz.  </s>
+<s> i am running ami (american megatrends) bios version 3.0b which i am guessing is the pb bios.  </s>
+<s> gigabyte show bios &quot;fe&quot; dated 2002/10/28 and p4 prescott 3.4ghz.  </s>
+<s> your machine will most certainly run better with more ram.  </s>
+<s> keep us posted.  </s>
+<s> vapcmd  </s>
+<s> (i'm quite angry right now because i just finished typing my post then ie froze so thank goodness for safari.  </s>
+<s> but i still have to retype the post!!! waaa) i am quite sure i cannot use the p4 prescott 3.4ghz because on the right hand side of this table: it says it is not avaliable for my motherboard.  </s>
+<s> i am running the original bios and have never upraded it. the main reason for that is i don't know how but hey!, i can ask cnet.  </s>
+<s> so will i have to upgrade by bios to upgrade my cpu?  </s>
+<s> i still sort of want to know where i can buy a cpu.  </s>
+<s> i am in australia not far from sydney but too far to go just for 1 little cpu.  </s>
+<s> there is a computer fair just down the road that that runs every month so i will take a trip down ther when i can. is buying a used cpu alright because i can't get boxed ones any more as intel no longer does this for this cpu an is ebay a good place to buy them?  </s>
+<s> if i do find the northwood cpu would i need a new heatsink/fan and would there be a considerable increase of speed if i did upgrade from the celeron 2.1ghz?  </s>
+<s> i recently search for a pentium d upgrade and there no where to be found.  </s>
+<s> &quot;end of support&quot;.  </s>
+<s> this thread untracked  </s>
+<s> most often what i see is ....a mfg like pb build a system using a mb from a company like gigabyte but often it's not a production mb....it's made specially for pb, hp or gateway, etc., but in this case it appears that pb is using a retail production gigabyte mb and that you could use the gigabyte bios vs the pb bios.  </s>
+<s> there's risk that it might not work or fail however if it works ...it could permit a higher performance prescott cpu. the other option is buy new and at today's prices...that's an attractive option.  </s>
+<s> vapcmd ps...you would have to get a more robust hs fan for the prescott cpu.  </s>
+<s> without advertising .. intel makes hs fans to match the cpu so they're beefier for the higher end units.  </s>
+<s> it should be: this is the link for the same motherboard including the changes pb has made: ok thanks for the information.  </s>
+<s> it is greatly apprieciated.  </s>
+<s> i will buy new if i can and i will buy as soon as i feel i am ready.  </s>
+<s> thnx, jono  </s>
+<s> max cpu would be p4-northwood 2.6g...i was misreading the right hand side of the chart.  </s>
+<s> given the cost of ddr2 and the multitude of cpu options ... you can get a good bang for the buck in today's pcs.  </s>
+<s> vapcmd  </s>
+<s> if i were i would rather purchase a new set of mboards, processors, rams, graphic cards and other interfaces.  </s>
+<s> i recently purchased intel core 2 duo boards and cpu, w/ 160 gig of hdd, a 2 gig of ram, and 512 mb of graphic card and its cost me around 25,000 pesos or if i convert it into dollar i thinks its around 500 usd?  </s>
+<s> yeah its 500 usd and its worth it!  </s>
+<s> i enjoy vista and lot more no crash down no slow boot up and of course a nice gaming environment.. dont take it seriously im just suggesting because if you upgrade yours you wont prevent any errors and malfunctions to occur.  </s>
+<s> thanks and hope tis will you.  </s>

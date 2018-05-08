@@ -1,0 +1,16 @@
+<s> i have photos & whatnot saved into my wd essential external, but i when i try accessing my own photos, i get a pop-up telling me i' don't have &quot;permissions&quot; to open it.  </s>
+<s> i've already switched the &quot;owner&quot; to my 'name&quot; in the permissions & it's still not allowing me access.  </s>
+<s> i &quot;fixed&quot; this once before & have long since forgotten how i even did it.  </s>
+<s> i need to fix it *permanently*.  </s>
+<s> sick of going through with that every time.  </s>
+<s> using windows 7 on an hp laptop.  </s>
+<s> thx!  </s>
+<s> somebody has to know.  </s>
+<s> if changing the permissions doesn't work, you;ve got to take ownership.  </s>
+<s> googling for windows 7 take ownership might tell you what you need to know.  </s>
+<s> otherwise, find a big enough usb-stick, formatted in fat32, and use a linux disk to copy those files to that stick and delete them on the external.  </s>
+<s> and then you're logon with your id in windows to copy it back.  </s>
+<s> kees  </s>
+<s> it *appears* to've worked.  </s>
+<s> i'll get back...  </s>
+<s> worked! thank you!  </s>

@@ -1,0 +1,34 @@
+<s> i have a 2 year old compaq pc with win xp home (sp2 and all updates, a primary internal hd with 92 gbs used of 160 gb. i have accumulated many files,program/applications and utilities.  </s>
+<s> i live in fear of crashes or hd failure and have considered buying an external hd to fully copy the entire primary hd to the external hd. i have looked into the maxtor/seagate line of hds and have posed queries to their prepurchase tech folks and their responses have been less that detailed and have left me confused.  </s>
+<s> they speak of imaging and cloning and explain neither in any understandable way, moreover they refer to software (maxblast, diskwizard, safety drill - apparently all derivitives of acronis)) that can be downloaded from their web site and used selectively with some of their internal and external hds.  </s>
+<s> some apparently also allow creation of a bootable cd in the event of a complete pc crash.  </s>
+<s> i have two principal questions: 1. if i want to create an exact replacement copy of my primary internal hd that i can use to restore or recreate a primary hd or fully restore the pc to its original operation do i need imaging or cloning software?  </s>
+<s> 2. i know that there are a number of commercial imaging and cloning applications on the market, but if the external hd sellers have similar but less robust applications designed for their product(s) there would be a saving to the buyer.  </s>
+<s> has anyone installed an external hd using the maxtor/seagate imaging or cloning software and if so what have been the outcomes.  </s>
+<s> any input, suggestions or insights would be appreciated.  </s>
+<s> frank  </s>
+<s> here's what i use today.  </s>
+<s> it's free and only a little intimidating to the uninitiated.  </s>
+<s> -&gt; yes, it does many wonderful things which i have yet to use.  </s>
+<s> for me i just use it to clone the old to the new drive and that's it.  </s>
+<s> bob  </s>
+<s> do a little more reading in the storage forum and you'll find a multitude of ideas on drive or partition backup including imaging.  </s>
+<s> personally i don't want to spend the time to find all the cds, the key codes, reload the os, reload the drivers, reload the os and download all the updates, register the sw, reload the application software, set the preferences and defaults, reload the data, etc., etc., etc., just ain't gonna happen here so i use drive imaging sw to create images of drive c: (os and apps) and d: (data).  </s>
+<s> i also use a full backup program that does the incremental backups daily.  </s>
+<s> while disk corruption or failure is a pain...it's much less a pain when you've got a quick easy way to get back up and running.  </s>
+<s> good luck vapcmd  </s>
+<s> thanks for the input, vapcmd, i have been reading the forum and find that most folks use the terms imaging and cloning interchangeably, while other draw a distinction - apparently cloning software creates a bootable cd in case pc crashes and won't boot.  </s>
+<s> does the imaging software you use allow you to create a bootable cd or floppy?  </s>
+<s> frank  </s>
+<s> i'm sure there's a tech def however.... i look at cloning as the duplication of one entire drive to another drive without any compression.  </s>
+<s> however when i create an image ... it could be the image of a an entire drive or an image of one of several partitions on the source drive.  </s>
+<s> unlike cloning, images can be compressed to conserve disk space and not bootable.  </s>
+<s> when i restore the image of a bootable partition to a disk (clean or 'as is') the drive has always a booted as it should have.  </s>
+<s> needless to say...i'm a big big fan of imaging and backing up.  </s>
+<s> re imaging from a floppy disk...i've done that with ghost 2003 and drive image 2002 ...don't recall for sure about true image.  </s>
+<s> and to clarify, i've always created (compressed) images to hard drives .. not cds or dvds.  </s>
+<s> and even though the images are spanned over multiple 2gb files, ghost allows you to locate and restore one file or many files from an image.  </s>
+<s> let me know if you hear otherwise.  </s>
+<s> vapcmd  </s>
+<s> thanks vapcmd for the clarification.  </s>
+<s> frank  </s>

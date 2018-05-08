@@ -1,0 +1,12 @@
+<s> hi, the master drive on my wondows 98 pc seems to be physically damaged.  </s>
+<s> fdisk reports the error &quot;error reading fixed disk.&quot; fortunately, i stored all my data on the slave drive.  </s>
+<s> i would like to recover the data from the slave drive and make it the master drive.  </s>
+<s> thanks in advance.  </s>
+<s> rt  </s>
+<s> from the machine (to safeguard from any possible mistakes), then run the drive makers diagnostic utiliy on the failed drive.  </s>
+<s> sometimes a bad drive can be made useable with this technique, but a replacement is usually called for.  </s>
+<s> once a new drive is in place and windows reloaded, the slave drive can go back in.  </s>
+<s> the best way to recover the data would be to boot off an live linux cd with just the slave drive installed.  </s>
+<s> check out to get a free copy of knoppix that you can burn to cd and boot without using a hard drive.  </s>
+<s> once you do that you can just copy any files off the slave to any usb device or through a network share.  </s>
+<s> then when you are done you can install windows right onto that slave drive without a format and you will still have your data there *(if everything goes well this is why you use knoppix to make a backup)*  </s>

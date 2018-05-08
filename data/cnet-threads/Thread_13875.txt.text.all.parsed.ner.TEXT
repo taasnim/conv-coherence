@@ -1,0 +1,67 @@
+<s> my os is window xp media centre edition ver2002 service pack 3 computer amd athlon(tm)64x2 dual core processor4000+ 210ghz,1.87gb  </s>
+<s> of ram physical address extension technician oem install os was installed by a friend of mine who is an it technician he has moved away.  </s>
+<s> i have three hard disc one is full, and causing all sort of problerm with updates etc its titled (c)boot partiton the second one is titled (d)data pertition which is only a quareter full, third one is (e)back-up partition which is empty. is there anyway to resoleve this problem please!!!! thanks alan  </s>
+<s> see about moving programs and my documents to the d-drive.  </s>
+<s> also download ccleaner (free) and use that to clean your c-drive.  </s>
+<s> or did you do that already (you didn't tell).  </s>
+<s> together, this might make a difference, already.  </s>
+<s> then there might be other folders on the c-drive you created yourself, that could just as well be on the d-drive.  </s>
+<s> that's different for everybody, so i can't tell.  </s>
+<s> you can. if the e:-drive is still empty, and you don't use it for backup (let's assume that you have another medium to backup to, which is better), you can: a. leave it empty as long as the c and the d are big enough.  </s>
+<s> b. move data to it (like you move data from c to d) c. find a partition utility to combine d: and e: into one big d: partition.  </s>
+<s> totally your choice.  </s>
+<s> kees  </s>
+<s> you truly need to review just what is on your c drive.  </s>
+<s> if you have installed pgms.  </s>
+<s> to it more than likely any data will also reside there.  </s>
+<s> thus, it all adds up over the long run.  </s>
+<s> at the same time if you save or back-up to it as well to include any restore points.  </s>
+<s> you can if there are no other problems, simply turn off the restore feature for the time being, save that setting and reboot.  </s>
+<s> again, provided there are no problems other than what you mentioned, the restore points and thus all its space used can now be deleted.  </s>
+<s> once done, you can then trun back the restore feature and restart the saving points again.  </s>
+<s> hopefully, that will use less space.  </s>
+<s> using any proper cleaner, like ccleaner or similar run it it and also do the std.  </s>
+<s> cleaning and return the used space back.  </s>
+<s> that's one item, you can also once you saved any data to a peculiar pgm.  </s>
+<s> do a deletion as well.  </s>
+<s> re-install on the d drive.  </s>
+<s> make sure it stores it data there as well.  </s>
+<s> hopefully that returns some space to the c drive. the saved data can be returned and be used as before. the real solution provided the c drive was small to begin with, replace it with a larger one, rather used or new.  </s>
+<s> since you have 3 partitions, it suggest you really have one physical hard drive.  </s>
+<s> alas, since the back-up partition is empty you never actually used it for that purpose -or- have backed-up to yet another partition, most likely c drive.  </s>
+<s> you system info is sparse, so do tell exactly what do you have installed.  </s>
+<s> can't you open the case and check it?  </s>
+<s> you can use the pgm.  </s>
+<s> pc wizard and run it to display the details of your system as well, once space is available to install.  </s>
+<s> tada -----willy  </s>
+<s> thanks guys one thing i forgot to state was that when i go to my computer folder the c drive is colured blue the others are black as normal ,when i open it some prgm are blue as well folders are normal i will try what you suggest again thanks  </s>
+<s> follow what others have said here about moving any installed programs off of your c:boot partition.  </s>
+<s> your pc hard drive was partitioned to left a specific portion free for your os, the c: partition.  </s>
+<s> nothing else should be installed there.  </s>
+<s> what this means is that every time you install a new program, you will have to tell the setup software to choose the d: data partition path to install to.  </s>
+<s> almost all setup programs will automatically choose c: by default, so you must change the path to d: before you install new programs.  </s>
+<s> having a full hard drive partition is very bad because nothing new, such as updates to the os, can be installed.  </s>
+<s> too, there is absolutely no room for a defragmenting program to work.  </s>
+<s> a partition needs at least 10% free space to work properly, and for windows virtual memory to use.  </s>
+<s> you should allow more space if you know you will need to install more data in that partition, such as updates.  </s>
+<s> your e: back-up partition is just that - space set aside to backup your d: data partition.  </s>
+<s> a good backup software program should be used from time to time to do this, unless you have nothing important on your data partition.  </s>
+<s> win7 may come with one built in and might be found somewhere on your c: boot (os) partition.  </s>
+<s> if you use the current norton security suite, there is such a program built in to it for customer use.  </s>
+<s> (comcast isp customers are able to install this great software for free and use on up to 7 pcs.  </s>
+<s> it also has tools for cleaning the registry and deleting temp files not needed any longer, as well anti-virus, anti-malware, and anti-spyware functions.)  </s>
+<s> second paragraph: ...was partitioned to leave a specific portion free...  </s>
+<s> you data is all on the boot drive, under &quot;users&quot;.  </s>
+<s> your pagefile.sys  </s>
+<s> (hidden) should be moved onto all three partitions.  </s>
+<s> boot partition: 512 mb, data: 1024 mb, and the backup partition should let windows decide.  </s>
+<s> don't use windows backup.  </s>
+<s> i use cobian (freeware), but might look at others too.  </s>
+<s> in window, there is a lot of rubbish.  </s>
+<s> get a linux boot-cd, remove adobe (use foxit), games, lanuages you don't use, norton or whatever other firewalls/ anti-virus you have.  </s>
+<s> put your &quot;program files&quot; folder onto drive data, use a good registry/ operating system cleaner (&quot;advanced system care&quot;).  </s>
+<s> get a &quot;chkdsk /f&quot; to remove any partition & disk faults on all your drives.  </s>
+<s> if you can, use ntfs (not fat32) on all your drives; self-healing, less waste space.  </s>
+<s> on my bott drive, i ntfs-compress every folder on the drive.  </s>
+<s> but do not ntfs-compress the files on the boot drive; only the folders.  </s>
+<s> retired (medical) it consultant, australian capital territory  </s>

@@ -1,0 +1,13 @@
+<s> hi everybody, my cousin is having problems with his gateway laptop running vista (yeah i know it sucks) anyways it shows that he is connected to the internet but when he goes to a website his browser gives him the &quot;page cannot be displayed&quot; page.  </s>
+<s> i had him connect the laptop directly to his belkin or linksys router (sorry for lack on information) and it was the same problem.  </s>
+<s> i have not yet went over and looked at the problem, i was kind of hopping someone on here has had a simular problem.  </s>
+<s> (went through basic steps by unplugging router and modem) still no results....  </s>
+<s> -&gt;  </s>
+<s> make sure network discovery is enabled and set to a home network.  </s>
+<s> can he get to the internet directly through the modem?  </s>
+<s> can he get to the internet with no other computers on this router?  </s>
+<s> if you connect another computer tot he router does this one lose its ability to connect to the internet?  </s>
+<s> have you tryed: ipconfig /flushdns & ipconfig /registerdns?  </s>
+<s> what does it say when you go to run &gt; cmd and type ipconfig /all (this is when you connected to the router)  </s>
+<s> when i connected the lap top to the modem i still could not access the internet, and at the time his computer was the only computer on the network, i did try flushing the dns but it gave me a message, i will try it and write everything down and post it for ya later on.  </s>
+<s> it doesn't seem to be if a computer connects he cannot connect, he just cannot connect at all.  </s>

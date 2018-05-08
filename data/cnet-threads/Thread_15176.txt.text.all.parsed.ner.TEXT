@@ -1,0 +1,27 @@
+<s> i don't know what happened to my display settings, but my computer is only running on 16 colors and my icons on my computer are huge.  </s>
+<s> my settings page is only giving me an option for 16 colors.  </s>
+<s> i don't know how2 this happened, but is there any way of restoring my old setting?  </s>
+<s> is your computer running in safe mode?  </s>
+<s> what os do you have?  </s>
+<s> if you use win 98 or 98 se right click on my computer icon top left corner, then click on properties then click on peformance.  </s>
+<s> if your in safe mode it should tell you.  </s>
+<s> if that`s not it try reinstalling your video drivers you might also check in the control panel to see if their is a conflict.  </s>
+<s> left click on my computer,then control panel,then system then device manager,should show a yellow !  </s>
+<s> or a red x if theres a problem.  </s>
+<s> good luck.  </s>
+<s> same problem here.  </s>
+<s> windows me.  </s>
+<s> i lost my display settings the same day (12/17/04) your message was posted.  </s>
+<s> have 16 colors and no more settings seem to be available.  </s>
+<s> tried system restore, didn't work.  </s>
+<s> system information report says: item name value standard pci graphics adapter (vga) adapter type: not available adapter description: (standard display types) adapter ram: not available installed drivers: not available driver version: vga.drv inf file: 4.0 (milldisp.inf  </s>
+<s> section) color planes: vga color table entries: 4 resolution: 16 x 640 x 480 hertz bits/pixel: 0 memory address: 0xa0000-0xaffff memory address: 0xb0000-0xbffff i/o port: 0x03b0-0x03bb i/o port: 0x03c0-0x3df memory address: 0xff000000-0xff7fffff memory address: 0xe7ef0000-0xe7efffff i/o port: 0xcc00=0xcc7f memory adress 0xc0000-0xc7fff driver c:windowssystemvmm32.vxd (, 1,008.75 kb (1,032,956 bytes), not available) can anyone help me?  </s>
+<s> you need to install the drivers for the video card.  </s>
+<s> no, standard pci graphics adapter is not your video card, that's just a generic windows supplied driver for it.  </s>
+<s> when i checked my video drivers on my system it showed that they were operating properly.  </s>
+<s> i was able to ask my system to go to 256 colors but when i restarted my computer, it went back to 16 every time.  </s>
+<s> after talking to our it server guy, i found our box of software and located the cd that had the original video drivers on it.  </s>
+<s> i installed it (it kept asking if i wanted to keep my current files...they were newer...i said yes each time until the process was complete).  </s>
+<s> after the install was complete it automatically restarted my computer and i was set up with 256 colors. the last thing i did was go back into my display and change my screen area to 800x600 pixels.  </s>
+<s> hope this helps.  </s>
+<s> kovicky  </s>

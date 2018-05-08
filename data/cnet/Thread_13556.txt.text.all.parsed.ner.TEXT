@@ -1,0 +1,30 @@
+<s> hello.  </s>
+<s> we recently bought a new hp computer (m9515y)pavilion elite running vista.  </s>
+<s> monitor 1 is an hp wide screen (hp2770w) connected through the vga plug, monitor 2 is a projector and connected through the dvi/vga.  </s>
+<s> i don't always turn on the projector, but all the inital boot info comes up on the projector.  </s>
+<s> in windows and in the nvidia, the hp is monitor 1 and the projector is monitor 2. hp support said this was the generic setup for the projector to come up first, but wouldn't offer any solution to change the hp monitor to come up first.  </s>
+<s> maybe there isn't one but with our old &quot;put together&quot; machine running xp, it was never an issue.  </s>
+<s> i just would like to know if there is anything i can change to make sure all the inital boot info comes up on the moniter so i don't have to turn on the projector and try to debug from there.  </s>
+<s> thanks in advance!! stacy  </s>
+<s> the dvi has precedence in the video card.  </s>
+<s> whatever's connected to it is considered the primary display.  </s>
+<s> if the projectors off, won't the the boot process be shown on the widescreen monitor?  </s>
+<s> and why not just swap the monitor and projector cables?  </s>
+<s> it doesn't matter if the projector is on or off. the reason i know is i turned on the computer, went off to do things, came back and the monitor wasn't up.  </s>
+<s> i turned on the projector, and the computer was waiting for a respond for safe mode.  </s>
+<s> i originally had the monitor connected with a hdmi and the projector with the vga.  </s>
+<s> i thought maybe the vga loaded first and that was why the projector came up first.  </s>
+<s> i changed the monitor to vga and got a dvi/vga adapter for the projector.  </s>
+<s> that didn't change anything either.  </s>
+<s> i have no problem switching the cables and will try that.  </s>
+<s> what is the priority?  </s>
+<s> dvi, vga, hdmi?  </s>
+<s> stacy  </s>
+<s> they go into a standby mode and the pc still detects a monitor is attached to the port.  </s>
+<s> i recommend you boot the pc, delete both monitors in device manager, then shutdown.  </s>
+<s> disconnect the projector cable and move the monitor to the dvi port.  </s>
+<s> now boot up and then shutdown.  </s>
+<s> now add the projector and reboot. the monitor should be your primary display while booting and the primary display in windows.  </s>
+<s> thanks! that was the fix.  </s>
+<s> i really appreciate your help.  </s>
+<s> stacy  </s>

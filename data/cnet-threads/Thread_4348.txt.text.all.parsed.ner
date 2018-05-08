@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP i)) (VP (VBP want) (S (VP (TO to) (VP (VB buy) (NP (DT a) (JJ good) (NN sound) (NN card)) (PP (IN for) (NP (NN gaming) (CC and) (NN music))))))) (. .)) )
+(TOP (NP (DT any) (NNS suggestions) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (VBP dont) (SBAR (S (ADVP (RB really)) (VP (VBP want) (S (VP (TO to) (VP (VB spend) (NP (QP (JJR more) (IN then) (money ($ $) (CD 50))))))))))) (. .)) )
+(TOP (S (NP (DT some) (JJ onboard) (NN sound) (NNS cards)) (VP (AUX are) (VP (VBN upstaged) (PP (ADVP (RB even)) (IN with) (NP (DT a) (money (CD 10) (NN dollar)) (NN card))) (PP (IN from) (NP (NN compgeeks.com))) (S (CC but) (NP (PRP$ my) (CD 3) (JJ favorite) (NNS cards)) (VP (VBP continue) (S (VP (TO to) (VP (AUX be) (VP (VBN ..)))))) (. .)) (NP (ADJP (CD 1.) (CD 10) (NN dollar)) (NNS cards)))) (. .)) )
+(TOP (S (-LRB- -LRB-) (NP (NP (DT any) (NN non-aureal)) (PP (IN with) (S (VP (VBG xp) (NP (NNS drivers)))))) (-RRB- -RRB-) (VP (location (VBZ 2.)) (NP (NN turtle) (NN beach) (NN sound) (NNS cards))) (. .)) )
+(TOP (NP (JJ 3.) (JJ sb) (NN audigy) (PRN (-LRB- -LRB-) (NP (CD 1) (CC or) (CD 2) (: ...)) (-RRB- -RRB-)) (NNP bob)) )
+(TOP (S (NP (PRP i)) (VP (VBP own) (NP (DT a) (JJ onboard) (NN sound) (NN card))) (. .)) )
+(TOP (S (NP (PRP it)) (VP (AUX is) (NP (NP (DT a) (NNP sis) (PRN (-LRB- -LRB-) (NP (date (CD 7012))) (-RRB- -RRB-)) (NN soundcard)) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (NP (NP (DT all)) (SBAR (S (NP (PRP i)) (VP (VBP know))))))))))) )

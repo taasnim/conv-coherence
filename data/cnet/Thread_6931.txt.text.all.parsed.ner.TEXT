@@ -1,0 +1,18 @@
+<s> hi all, i have recently tried to install a new video card into my old computer, the computer was built by me so its not as if i'm just bolting parts to an oem.  </s>
+<s> in any case i installed the new video card (xfx radeon hd 4650, agp) into my pc and it looks like safe mode, i have tried to uninstall and reinstall the drivers multiple times, using the drivers off the install disk, and the newest ones from ati/amd.  </s>
+<s> still get a safe mode-like screen.  </s>
+<s> i put my old card back in it (asus x850 extreme) and it worked.  </s>
+<s> so, i was wondering if there is maximum amount of graphics a mother board could handle?  </s>
+<s> here are my specs: well... i reached the end of the allowed characters... i will post in a reply.  </s>
+<s> motherboard: abit ic7 (8x agp) memory: 1 gig hard drive: baracuda 1tb sata processor: intel p4 3.4ghz ht new video card: xfx radeon hd 4650 1gig old video card: asus x850 extreme 256mb psu... i have no clue right now... have to get home and look.  </s>
+<s> operating system: windows 7 ultimate 32bit  </s>
+<s> the psu is a 500w ultra x-connect  </s>
+<s> the drivers from ati will be for pcie and i didn't read if you found the hot patch versions for agp.  </s>
+<s> but you'll also want to install the latest bios and motherboard drivers for your machine so the agp card would be detected.  </s>
+<s> bob  </s>
+<s> hmm, i'd move off that since the memory mapping could be a problem. the p4 i looked up has the 64 bit support.  </s>
+<s> bob  </s>
+<s> when you say screen looked like safe mode do you just mean that that the resolution got very small, making icons big or were there other indications you were in safe mode such as some devices not working or did it say safe mode?  </s>
+<s> if the former, it might be just the screen resolution setting.  </s>
+<s> did you try to change the screen resolution using the controls for the graphics card?  </s>
+<s> was the asus x850 extreme an agp card?  </s>

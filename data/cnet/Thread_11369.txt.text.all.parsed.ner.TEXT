@@ -1,0 +1,28 @@
+<s> i have 2 desktops connected to one server.  </s>
+<s> all machines are running xp home service pack 3 and we install all relevsnt windows updates.  </s>
+<s> we are using a netgear e104 hub. the data in the server is shared.  </s>
+<s> each pc has direct access to the internet.we  </s>
+<s> are hard wired via an ethernet cable.  </s>
+<s> one pc regularly loses connection to the server for up to 2 minutes while the other continues to stay connected.  </s>
+<s> wondering whether i had a faulty network card or cable i installed a usb wirelees device which successfully connected to the server.  </s>
+<s> but then it also lost connection for a while.  </s>
+<s> i tried to run the repair function for the ethernet connection but it failed to clear the arp cache.  </s>
+<s> i apologise if i have not provided sufficient information, but any asistance would be gratefully appreciated.  </s>
+<s> thank you  </s>
+<s> i read very little about the server.  </s>
+<s> xp home while it can share directory is not a server os. that is, you shouldn't lean on it too hard.  </s>
+<s> thanks, i'll try and be gentle but at times i do want to scream !!!  </s>
+<s> with your reply i am left to guess you are using xp home as a server.  </s>
+<s> now there are now many connections allowed in xp home so you run out of road very quickly.  </s>
+<s> what else is installed like some firewall, torrent program?  </s>
+<s> bob  </s>
+<s> we are running avg internet security on all 3 machines  </s>
+<s> the issue can be the firewall.  </s>
+<s> since it is all too likely your machines are behind a hardware firewall or router, turn the firewall off and re-test.  </s>
+<s> is the server actually a server like the windows home server or the windows server 2003 or 2008?  </s>
+<s> are you simply using an xp home edition to share it's folder to the other two computers.  </s>
+<s> are all these devices connected to a router or just the hub?  </s>
+<s> where is your dhcp or are you using static numbers?  </s>
+<s> need more info please.  </s>
+<s> how are the two computer connected to the internet?  </s>
+<s> unless you are using static numbers, you should have a dhcp running someplace either with the router or your windows home server.  </s>

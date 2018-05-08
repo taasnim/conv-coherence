@@ -1,0 +1,130 @@
+<s> hello every1, my system config- processor - intel e6300 motherboard - intel dg965ry hard disk - 200gb sata ram - transcend 1gb ddr2(533) i want to upgrade my ram.  </s>
+<s> want to buy (2gb each for four slots) ddr2(800) as it is very cheap now.  </s>
+<s> but i am confused whether the ram available in market will be accepted by my motherboard, the instructions in the motherboards manual clearly mentions that only ddr2(800) with 5-5-5 or 6-6-6 timing will work properply.  </s>
+<s> it also mentions that there are many ram's available in market with same timings but their actual timing is not the same, this would degrade the system performance or may not boot.  </s>
+<s> so please help me out on which ram to buy?  </s>
+<s> will transcend ddr2(800) solve this problem, as it is easily available near my place...?  </s>
+<s> if you don't have a 64bit os, you can only use 4gb of ram.  </s>
+<s> also, some motherboards have problems running memory at full speed when all 4 slots are filled.  </s>
+<s> and intel motherboards are very finicky about voltage.  </s>
+<s> so, if you want 4gb i recommend you get a 2x2gb ddr2-800 cl5 1.8v kit like this: for 8gb, stick with 4x2gb ddr2-667 (pc2 5300) cl5 1.8v.  </s>
+<s> in the &quot;memory - maximum supported&quot; row it shows 4gb @ 800mhz... what does this mean?? does it mean that if insert 8gb it will only show 4gb installed???  </s>
+<s> but i shouldn't spend the money, if i were you.  </s>
+<s> possibilities: 1. it won't boot at all.  </s>
+<s> 2. it will boot but only show (and use) 3.2 gb or so, as all 32 bits os'es do.  </s>
+<s> kees  </s>
+<s> huh... i regret buying a intel mobo...  </s>
+<s> i just found out from the intel website that a 2gb stick of ddr2(800 mhz) is not compatible with my mobo(upto ...1gb 800) now i jst plan to add 533mhz ram sticks with the existing 1gb(533)..(total of 3 or 4 gb memory). is there a lot of difference in performance between 533 and 800 mhz ram's??? pls suggest me on this., i just want to make the right move and make the best use of my mobo.  </s>
+<s> thankyou!  </s>
+<s> re ram it says 4 gb at 800 mhz, 8gb at 667/533 mhz system resources and hardware (such as pci and pci express*) require physical memory address locations that can reduce available addressable system memory.  </s>
+<s> this could result in a reduction of as much as 1gb or more of physical addressable memory being available to the operating system and applications, depending on the system configuration and operating system vapcmd  </s>
+<s> page 16 shows the supported memory configurations... it does not mention 2gb @ 800mhz  </s>
+<s> from the link you cited and says same as you indicate.  </s>
+<s> spec indicates you can go 8gb ram at 667/533mhz or 4gb ram with 800 mhz ...assuming you find ram compatible with that mb in that quantity.  </s>
+<s> some mb state they will run with 4 dimms but sometimes do not.  </s>
+<s> check your os limitations before deciding how much ram to install.  </s>
+<s> vapcmd  </s>
+<s> i got windows xp professional sp2.... okay i will not go with 8gb.. shall go max upto 4gb.. which mhz to get??? i already hav 533mhz 1gb.. what to do??? thankyou..  </s>
+<s> try corsair.  </s>
+<s> they will have dominators for your needs.  </s>
+<s> that said, thats a lot of ram.  </s>
+<s> unless your machine has specific need for this much ram.  </s>
+<s> in a bunch of tests i`ve read, some pcs had a small increase in performance with 6gb ram.  </s>
+<s> at 8gb there was no increase.  </s>
+<s> the biggest concern here is the power consumption from 8gb of ram think about it.  </s>
+<s> once you've studied carefully ...then come back and ask any remaining questions.  </s>
+<s> vapcmd note the caveat regarding voltage 1.8v ... ignoring it would be unwise.  </s>
+<s> and pretend for the moment you're buying all new ram so there's no issue re mixing the old ram and the new ram.  </s>
+<s> recession goin on... definitely gotta think abt it.. okay, no confusions-- i want atleast 3gb and max 4gb... should i go for 533mhz or 800mhz(5-5-5 timing)??? this is what i want to know... the thing is if i get 533mhz i can use it with my current 1gb stick, but if you guys recommend me to get 667 or 800mhz for better performance then i will go for it... and ya i will have to get 'transcend' only, as corsair and even kingston is not available near my place...  </s>
+<s> os will use just a little more than 3gb.  </s>
+<s> vapcmd ps...corsair isn't on intel's recommend ram for this motherboard.  </s>
+<s> this is what i have decided.. i am not going to get 800mhz ram... so left with either 533 or 667mhz ram... is there a lot of 'performance difference' between 533 and 667mhz????  </s>
+<s> mind ..... many machines are optimized for ram in matching pairs....same mfg, same speed, same timings and capacity, and some machines do not run well on 4 dimms.  </s>
+<s> if it were my pc...you could get 1 dimm to match the 1 you have, or 2-2gb dimms (usually a kit) and not use the existing 1gb dimm or perhaps 2-2gb kits ...with 4 1 gb dimms.  </s>
+<s> if you really want 4gbs ram...then a 4gb kit consisting of matching 2-2gb dimms total 4gb.  </s>
+<s> that would be the optimum combo and in addition would allow you to use the 800mhz ram vs the 667mhz or 533mhz ram.  </s>
+<s> who wants to go slower ?  </s>
+<s> just make sure you follow the mb mfg specs with regard to the ram voltage (1.8v if i recall correctly).  </s>
+<s> do a little shopping and see what you come up with...try crucial.com and newegg.com  </s>
+<s> too.  </s>
+<s> once you've narrowed it down...post here for final comment.  </s>
+<s> vapcmd ps...you can always sell the 533mhz 1gb dimm or give it to a friend so it's not like you're thowing it away if you don't use hereafter.  </s>
+<s> i tried to find this information everywher, but just couldnt find it... could you please tell me whether my dg965ry mobo will support a 'single' 2gb ram stick of &quot;800mhz&quot; ddr2(yeah 5-5-5 or 6-6-6 timing)... if yes, then no second thoughts, i will be buying it...  </s>
+<s> of ddr2-533 ram as then you'll end up with 3gbs ram running at 533mhz and not dual channel.  </s>
+<s> that's a very very poor choice...any way you look at it.  </s>
+<s> for about $50...you can have 4gb ram (2 dimms @ 2gb each) running dual channel at 800mhz.  </s>
+<s> that said ... here's my best and final recommendation ...4gb in 2 dimms for $45.99 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads chipset: intel g965 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads supported dram types: ddr2 sdram only list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads module types supported: unbuffered only list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads error detection support: non-ecc only list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads graphics support: pci express x16 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads max component density: 1024 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads usb support: 2.x compliant list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads 240-pin ddr2 dimm banking: 4 (2 banks of 2) list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads ddr2 sdram frequencies: pc2-4200, pc2-5300, and pc2-6400 list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads max unbuffered ddr2 sdram: 8192mb list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads maximum memory using pc2-4200 or pc2-5300 is 8192mb.  </s>
+<s> maximum memory using pc2-6400 is 4096mb.although the memory can be installed one module at a time, the best performance comes from using matched pairs of modules.  </s>
+<s> q: will my system recognize the maximum upgrade?  </s>
+<s> a: possibly how much memory your windows os will recognize depends on which version of windows you are running.  </s>
+<s> 32-bit versions of windows will see (and utilize) only 3gb or 3.5gb.  </s>
+<s> to utilize more memory, install a 64-bit version of your os. more information about os memory maximums can be found at .  </s>
+<s> q: what memory goes into my computer, and will a faster speed be backward-compatible? a: ddr2 memory with support for ddr2 pc2-6400,ddr2 pc2-8500,ddr2 pc2-5300 speeds.  </s>
+<s> q: how much memory can my computer handle?  </s>
+<s> a: 8192mb.  </s>
+<s> adding the maximum amount of memory will improve performance and help extend the useful life of your system as you run increasingly demanding software applications in the future.  </s>
+<s> q: do i have to install matching pairs?  </s>
+<s> a: yes.  </s>
+<s> your system requires that you install memory in pairs.  </s>
+<s> q: does my computer support dual-channel memory?  </s>
+<s> a: yes.  </s>
+<s> to benefit from the performance advantages offered by dual-channel systems, you should install memory in identical pairs.  </s>
+<s> installing a kitted pair is the best way to ensure that your modules are identical, right down to the chip count.  </s>
+<s> q: does my computer support ecc memory?  </s>
+<s> a: no. your system does not support ecc. because ecc and non-ecc modules should not be mixed within a system, install the same type of modules that are already in your system.  </s>
+<s> vapcmd  </s>

@@ -1,0 +1,9 @@
+<s> last night i installed a brand new western digital hard drive into my wife's pc. i partitioned it and set it up so window's sees it.  </s>
+<s> problem is, now the system keeps crashing every so often....it will either crash a game being played or completely shut down the computer.  </s>
+<s> the one thing that i noticed right off the bat was that the main hard drive is set to master and this new drive is set to secondary master, but after the computer started up i figured it must be ok. that's the only conflict i can think of that might be screwing things up.  </s>
+<s> any ideas on why it might be crashing?  </s>
+<s> thanks!! amd 3.0 sound blaster audigy two different hard drives windows xp home  </s>
+<s> ideally you want the second hard drive on the primary controller as slave.  </s>
+<s> what is the wattage rating of your power supply unit?  </s>
+<s> your crashes could be coincidental.  </s>
+<s> if possible, use cable select drive settings and place the new drive on the middle connector, not the end.  </s>

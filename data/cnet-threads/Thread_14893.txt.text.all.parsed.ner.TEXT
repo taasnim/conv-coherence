@@ -1,0 +1,34 @@
+<s> i am doing a research project, so don't yell at me for the ungodly amount of ram.  </s>
+<s> would a computer be better with: amd fx-8350 8-core processor at 4.0ghz and 32gb of ram or intel i7-3980x 6-core processor at 3.4/3.5ghz  </s>
+<s> and 64gb of ram? the motherboards would be an asrock fatal1ty 990fx professional and asrock fatal1ty x79 champion respectively  </s>
+<s> &quot;our tests demonstrate fairly little difference between a $225 lga 1155 core i5-2500k and a $1000 lga 2011 core i7-3960x, even when three-way graphics card configurations are involved.  </s>
+<s> it turns out that memory bandwidth and pcie throughput don't hold back the performance of existing sandy bridge-based machines.  </s>
+<s> &quot; without knowing the app and such, how can anyone answer?  </s>
+<s> bob  </s>
+<s> the computer is for gaming and general use.  </s>
+<s> the reason i used the core i7-3960x is because i have an infinite budget and the 8-core wows my less-tech savvy class mates.  </s>
+<s> both motherboards support quad nvidia sli and quad amd crossfire so the computer will have 4 gpus.  </s>
+<s> the i7 wins.  </s>
+<s> the area of feeding gpu is covered so my bet is you'll hit the next speed bump issue with such machines is that it's rare to find someone that can install windows properly.. it's not funny anymore.  </s>
+<s> bob  </s>
+<s> i've been doing research that suggests an amd with hypertransport is twice as fast as an intel with qpi. because the buses are always the slowest part this is an important component to my project.  </s>
+<s> which of the front-side bus replacements would be the best upgrade?  </s>
+<s> also, i've switched to a xeon e5-2690 for the intel build.  </s>
+<s> now both cpus have 8-cores. the question boils down to: intel 8-core w/64gb ram and qpi vs amd 8-core w/32gb ram and ht?  </s>
+<s> that wouldn't be a problem.  </s>
+<s> i've had to install various versions of oss on differnet computers.  </s>
+<s> windows 95, xp, and 7. (skipped vista cuz it sucks.) i don't plan to use windows 8 because of the layout.  </s>
+<s> it's a tablet os in my eyes.  </s>
+<s> plus it's a high school assignment so practicalities are largely overlooked...  </s>
+<s> if you've been around the block a few times you know you can't guess the throughput of a system by looking at one factor like you brought up.  </s>
+<s> bob  </s>
+<s> the difference in ram only is important if the active programs (the game you run or all general use programs together) use more than 32 gb. then the swapping that is necessary might slow down the machine with less ram, even if it has a faster cpu.  </s>
+<s> or not, of course, depending on the exact use.  </s>
+<s> to compare the speed of 2 different x'es (be it cpu, gpu, ram, motherboard, disk) keep all other components (including the benchmark tool) the same.  </s>
+<s> so the question boils down to 'what cpu is faster'.  </s>
+<s> if you look at the cpu-tests at tomshardware.com, you see that that might depend on the task.  </s>
+<s> it's quite imaginable one is faster for video processing, the other faster for a multi-core chess playing program or a doing sql queries on a 10 gb in-core database.  </s>
+<s> so better start benchmarking!  </s>
+<s> kees  </s>
+<s> from all your responses, benchmarks are the way to go while size of ram will have little effect due to the sheer amount of processes needed to utilize the amounts specified.  </s>
+<s> benchmark: decision: xeon e5 2690 thank you all for your help.  </s>

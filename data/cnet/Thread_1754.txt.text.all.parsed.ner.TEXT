@@ -1,0 +1,16 @@
+<s> my host machine is running xp home addition.  </s>
+<s> i just got a cable modem installed so i then bought a wireless router and 2 wireless ethernet cards for 2 98se machines.  </s>
+<s> all was good.  </s>
+<s> all 3 machines are online.  </s>
+<s> i ran the home network wizard on the xp machine and created the network disk for the 2 98se machines.  </s>
+<s> after running the set-up disk on the 98se machines i am at the following point: the 2 98se machines can see each other and access the shared documents folder. the xp machine can see the 2 98se machines and access the shared documents folder.  </s>
+<s> when either of the 98se machines tries to access the xp machine so they can print, i am prompted for a password to access the xp shared documents folder.  </s>
+<s> what do i do?  </s>
+<s> how am i to know what the password is.  </s>
+<s> i was never prompted to create a password.  </s>
+<s> thanks for any help  </s>
+<s> protecting itself from uninvited intrusions.  </s>
+<s> create a user on the xp machine for each of the 98s, add a password, then try to connect.  </s>
+<s> if you don't have password set up in your xp pc, you don't need a password.  </s>
+<s> but you do need to input the username.  </s>
+<s> it should be &lt;domain namecomputer name&gt;, leave password blank.  </s>

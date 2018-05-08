@@ -1,0 +1,33 @@
+<s> hi everyone.. is there a software where i can put two ip adresses and monitor a real time throughput between 2 devices.. thanks in advance meshari..  </s>
+<s> real time monitoring requires hardware in one form or another.  </s>
+<s> you need some device to analyze the data.  </s>
+<s> commercial routers have some ability to provide data but normally you need a add on tool.  </s>
+<s> most these are in a class of tools meant to monitor networks and cost more than most cars.  </s>
+<s> if you are looking for a commercial solution netscout has a lot of nice boxes that do this but priced toward large companies.  </s>
+<s> to do this on the cheap your best bet is to use a free tool called wireshark.  </s>
+<s> if you can load this on one of the end machines you can get some basic reports.  </s>
+<s> if you do not have access the end machines then you will have to have hardware.  </s>
+<s> the minimum you will need is a pc to again run wireshark and a way to tap the circuit. the method to tap the circuit could be as simple as a switch that has the ability to replicate &quot;mirror&quot; data second port up to commercial taps that you clamp onto fiber.  </s>
+<s> now if you control both end devices and want to simulate thought put and test network capacity a very simple free command line tool that has been around for years called iperf works very well.  </s>
+<s> this is a active testing tool and not a monitoring tool.  </s>
+<s> thank you bill for the fast rsponse.. i used &quot;iperf&quot; and as u said it works very well, but the problem with this tool is that it doesn't give u a real time calcualtion.  </s>
+<s> i want u to know that i have full control for both ends.  </s>
+<s> knowing this, will wireshark be able to provide me with a real time throughput calculation?  </s>
+<s> thank u again 4 your help..  </s>
+<s> to a point it will.  </s>
+<s> it has a number of reports that will work against the open collection buffer.  </s>
+<s> simple i/o rate graph seem ok.  </s>
+<s> you can build filters for each address pair and graph i think up to 5 at the same time.  </s>
+<s> if you work at you could graph different protocols as well as ip addresses.  </s>
+<s> the issue with using wireshark as a live protocol analyzer is that it really a packet capture tool designed to look at data after it is captured.  </s>
+<s> the only live data it can look at is in the capture buffer.  </s>
+<s> although the size of this buffer can be made large when you capture on path that has a lot of traffic the buffer will wrap over itself and if you make the buffer too large you will bog the machine down. the method i use is to let it capture for a few minutes to a file and then stop and look at the file.  </s>
+<s> although not real time the more advanced reports are more accurate.  </s>
+<s> the reports that show jitter in voip calls only seem to work on non live data.  </s>
+<s> on paths that are running huge amounts of data i use 2 machines.  </s>
+<s> one to capture the data since it can do little else and another to look at the data.  </s>
+<s> you can set wireshark to write the data to files at a set interval of set byte count.  </s>
+<s> i share the drive it writes to and open the files using another copy of wireshark.  </s>
+<s> not truly live data but only a couple minutes old.  </s>
+<s> is one idea.  </s>
+<s> i will try these two softwares and i'll give you my feedback.. thanks a lot to both of you..  </s>

@@ -1,0 +1,5 @@
+(TOP (SBARQ (WHNP (WP what)) (SQ (AUX do) (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (NP (DT these) (NNS pieces)) (PP (IN of) (NP (NN hardware))))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (VBD got) (NP (DT an) (JJ i7) (CD 920)) (PP (IN at) (NP (NP (JJ micro) (NN center)) (PP (IN for) (NP (money ($ $) (CD 200))))))) (. .)) )
+(TOP (S (SBAR (IN if) (FRAG (ADVP (RB so)))) (, ,) (NP (PRP you)) (VP (MD might) (VP (VB bump) (NP (DT the) (NNP ps) (NN wattage)) (NP (DT a) (NN bit)))) (. .)) )
+(TOP (S (INTJ (UH yeah)) (NP (DT that)) (VP (AUX was) (NP (PRP$ my) (CD one) (NN concern))) (. .)) )
+(TOP (SQ (AUX does) (NP (NN everything)) (ADVP (RB else)) (VP (VB look) (ADJP (JJ alright)) (ADVP (RB though))) (. ?)) )

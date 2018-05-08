@@ -1,0 +1,33 @@
+<s> hi i have just installed a d-link dkt-710 router with dwa-111 wireless adapter on my winxp /pentium 4 machine.  </s>
+<s> the router installed fine and i can get internet via the lan cable.  </s>
+<s> i then proceeded to install the drivers for the wireless adapter....it failed to install correctly.  </s>
+<s> now when ever i try to install the drivers i get the error message &quot;the name is already in use as either a service name or a service display name&quot; the d-link tech guys gave me the following info - thanks for contacting d-link technical support,it looks like the problem &gt; is not with the dwa-111 since it has been tested on numerous occasions on &gt; different computers with different operating system,from the error &gt; message you are getting it looks like you need to delete a couple of files &gt; from the registry,please follow these steps carefully and your prolem &gt; should be solved.  </s>
+<s> &gt; first remove any dlink software installed and restart your computer then &gt; try the following and that should solve the problem: &gt; &gt; clearing upper and lower registry filters : &gt; &gt; 1. unplug all non-essential external plug and play devices, especially the &gt; dlink wireless usb adapter.  </s>
+<s> &gt; 2. click start , and run enter &quot;regedit&quot; and click ok &gt; the registry editor window appears.  </s>
+<s> &gt; &gt; 3.select computer in the main window.  </s>
+<s> &gt; &gt; 4. click file, export, type a filename that is easy for you to remember, &gt; and click save.  </s>
+<s> &gt; a copy of the registry has saved for back-up purposes to the documents &gt; folder.  </s>
+<s> &gt; if problems occur after using these steps, browse to the file and &gt; double-click it to restore the registry.  </s>
+<s> &gt; &gt; 5. click the plus sign ( +) next to the following items in the list: &gt; hkey_local_machine &gt; system &gt; currentcontrolset &gt; control &gt; class &gt; &gt; 6.select 4d36e965-e325-11ce-bfc1-08002be10318.  </s>
+<s> make sure you have selected &gt; this exact key name.  </s>
+<s> &gt; &gt; 7. select lowerfilters value and press the delete key and confirm the &gt; deletion by clicking yes &gt; 8.if an upperfilters value is also listed, select upperfilters in the &gt; right window and press the delete key.  </s>
+<s> &gt; confirm the deletion by clicking yes.  </s>
+<s> &gt; &gt; &gt; 9.delete all other upperfilter and lowerfilter values within the &gt; 4d36e965-e325-11ce-bfc1-08002be10318 key if they exist.  </s>
+<s> &gt; 10.close the registry editor and restart the computer.  </s>
+<s> and proceed with &gt; the installation of the dwa-111.  </s>
+<s> &gt; &gt; &gt; &gt; we hope that this answers your question and that your request is now &gt; resolved.  </s>
+<s> the first time the lower key value was present and i removed it - but it hasnt appeared since.  </s>
+<s> - and the adapter will still not install.  </s>
+<s> can anyone help me ?  </s>
+<s> - i have tried on numerous occasions to install the drivers so i am thinking maybe it has left values somewhere else in the registry ?  </s>
+<s> regards steve  </s>
+<s> recheck my work on installing the os. i might download and install the motherboard chipset drivers and try the network card again.  </s>
+<s> if that fails i return the product as defective and try something else.  </s>
+<s> yes there are other causes but i'm not going to duplicate the answers at since you would have done that already.  </s>
+<s> bob  </s>
+<s> after trying to delete the reg key many times and it still not working i decided to do a system restore to the day before i first tried to install the drivers - bingo it now works fine.  </s>
+<s> only thing is the router is approx 10 ft away and the signal is up and down all the time.  </s>
+<s> there is only a stud wall in between the pc and router.  </s>
+<s> bit disapointed with the performance so far..... thanks for your help bob.  </s>
+<s> is the router firmware up to date?  </s>
+<s> are you using the usual settings of: 1. broadcast ssid 2. wpa bob  </s>

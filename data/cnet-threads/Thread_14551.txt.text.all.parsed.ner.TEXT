@@ -1,0 +1,44 @@
+<s> my emachines desktop with windows xp crashed, due to missing or corrupted ntoskrnl.exe.  </s>
+<s> now every time i turn on the pc, there's just an emachines logo, a black screen and the missing/corrupt message.  </s>
+<s> i have the emachines recovery cd but the pc doesn't read it.  </s>
+<s> i popped it in and out but my pc doesn't seems to recognize the disk.  </s>
+<s> it keeps asking me to re-install a copy of the missing/corrupt file but i can't do so without it reading the recovery cd. it also didn't allow me to type in any commands.  </s>
+<s> when asked to re-install ntoskrnl.exe,  </s>
+<s> if i press any key, the pc would just reboot and then return to the error message.  </s>
+<s> i also tried pressing f11 or r and it activates a recovery program.  </s>
+<s> it gives me 2 options, to either format or back up the whole thing.  </s>
+<s> i can only mouse-click this so again, no command can be typed in.  </s>
+<s> no matter what i choose, the pc would just shut down every 4-5 minutes.  </s>
+<s> i've tried this more than 20 times and every single time, the pc would just shut down in the middle of formatting or backing up.  </s>
+<s> it displayed a blue screen saying that it needs to shut down to prevent damage.  </s>
+<s> there's also a string of number, i forgot to write it down but i think it was 0x00000023.  </s>
+<s> so i have the recovery cd but can't use it to fix the missing/corrupted ntoskrnl.exe.  </s>
+<s> i also have access to the recovery program but can't do much because the computer reboot every 5 minutes.  </s>
+<s> i don't know what wrong or what i should do next.  </s>
+<s> please help!  </s>
+<s> my computer didn't come with a windows xp cd, by the way.  </s>
+<s> and i don't have a floppy disk so i can't download it to floppy disk, either.  </s>
+<s> well that file definitely is necessary on the boot process.  </s>
+<s> you could have different solutions here.  </s>
+<s> here is mine.  </s>
+<s> problem first the corrupted file name is ntoskrnl.exe,  </s>
+<s> which is located in c:windowssystem32ntoskrnl.exe &lt;---- &quot;bad file&quot; windows cannot locate this file or the file is just bad.  </s>
+<s> solution you need to eliminate this file a get a new one.  </s>
+<s> you can do the following if you get a copy of windows xp. i can probably help you with the cd, i'm located in dallas,tx.  </s>
+<s> let me know of your options anyways.  </s>
+<s> 1. insert windows xp cd. 2. reboot the computer, as the computer is starting you should see a message to press any key to boot from the cd. when you see this message press any key. 3. in the windows xp initial menu press the r key to enter the recovery console.  </s>
+<s> 4. inside the console type expand d:i386ntoskrnl.ex_  </s>
+<s> c:windowssystem32 6. you will then be prompted if you wish to overwrite the file type y and press enter to overwrite the file.  </s>
+<s> 7. type exit to reboot the computer.  </s>
+<s> hope this help.  </s>
+<s> solution you need to eliminate this file a get a new one.  </s>
+<s> you can do the following if you get a copy of windows xp 1. insert windows xp cd. 2. reboot the computer, as the computer is starting you should see a message to press any key to boot from the cd. when you see this message press any key. 3. in the windows xp initial menu press the r key to enter the recovery console.  </s>
+<s> 4. type expand d:i386ntoskrnl.ex_  </s>
+<s> c:windowssystem32 6. you will then be prompted if you wish to overwrite the file type y and press enter to overwrite the file.  </s>
+<s> 7. type exit to reboot the computer.  </s>
+<s> hope this help, i can probably help you in getting a copy of windows so you can recover your pc. let me know, i'm located in dallas, tx by the way.  </s>
+<s> ok, i borrowed another windows xp, type in the expand command, so now my pc has the ntoskrnl.exe.  </s>
+<s> now it said &quot;load needed dlls for kernel.&quot;  </s>
+<s> i googled that and found this solution &quot;expand d:i386hal.dl_  </s>
+<s> c:windowssystem32&quot; i typed that in, it said the file is expanded but when i restarted the pc, it would still ask for the dll.  </s>
+<s> what should i do?  </s>

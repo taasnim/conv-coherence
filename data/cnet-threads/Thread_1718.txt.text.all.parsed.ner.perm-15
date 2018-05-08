@@ -1,0 +1,6 @@
+(TOP (SQ (MD could) (NP (EX there)) (VP (VP (AUX be) (NP (CD 2) (NN network) (NNS cards))) (CC and) (ADVP (RB so) (S (S (NP (CD one)) (VP (AUX is) (RB n't) (VP (VBD plugged)))) (CC but) (S (NP (DT the) (JJ other) (CD one)) (VP (AUX is))) (. ?))) (VP (AUX is) (ADVP (RB there)) (NP (NP (DT a) (NNP wireless) (NN network) (NN card)) (VP (AUXG being) (VP (VBN used)))))) (. ?)) )
+(TOP (S (NP (CD hmmm) (RB ..) (. .) (EX there)) (VP (AUX 's) (VP (VBD got) (S (VP (TO to) (VP (AUX be) (NP (DT a) (NNP wireless) (NN card)) (ADVP (RB somewhere))))))) (. .)) )
+(TOP (S (S (NP (PRP i)) (VP (AUX do) (RB not) (VP (AUX have) (ADJP (JJ server) (NP (date (CD 2008))))))) (CC but) (S (PP (IN in) (NP (JJ other) (NNS versions))) (NP (PRP you)) (VP (MD can) (VP (VB turn) (PRT (RP off)) (NP (DT the) (NN notification))))) (. .)) )
+(TOP (FRAG (WHADVP (WRB why)) (VP (VP (VB fix) (NP (DT that))) (CC or) (VP (VB spend) (NP (NP (DT any) (NN time)) (ADVP (IN at) (DT all))) (PP (IN on) (NP (DT this))) (SBAR (IN since) (S (NP (PRP it)) (VP (AUX 's) (VP (VBG working))))))) (. !)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (S (NP (NN network) (NN cable)) (VP (AUX is) (S (VP (VB unplug))))) (CC but) (S (NP (NN internet)) (VP (AUX is) (VP (VBG working) (PP (IN in) (NP (NNS windows)))))) (SBAR (WHNP (QP (RB server) (date (CD 2008))) (WP what)) (S (VP (AUX is) (NP (DT the) (NN solution)))))) )

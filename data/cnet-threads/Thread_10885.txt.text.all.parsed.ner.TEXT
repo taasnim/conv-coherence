@@ -1,0 +1,13 @@
+<s> hello.  </s>
+<s> i want to protect this router with wpa encryption key but i want some help to find one suitable key.  </s>
+<s> thank you.  </s>
+<s> use something you can remember.  </s>
+<s> wpa has a number of improvements over wep, the most significant being the use of temporal key integrity protocol (tkip), which dynamically changes keys as the system is used.  </s>
+<s> this provides greatly improved protection against, and effectively defeats, the well-known key recovery attacks on wep.  </s>
+<s> your question suggests you will be using personal wpa, which utilizes pre-shared key (psk) mode.  </s>
+<s> this is where every allowed computer is given the same passphrase.  </s>
+<s> in psk mode, security depends on the strength and secrecy of the passphrase. the passphrase may be from 8 to 63 printable ascii characters or 64 hexadecimal digits (256 bits).  </s>
+<s> however, the weak passphrases that users typically employ are vulnerable to password cracking attacks.  </s>
+<s> to protect against a brute force attack, a truly random passphrase of at least 20 characters should be used, and 33 characters or more is recommended.  </s>
+<s> in summary the more random your wpa preshared key, the safer it is to use.  </s>
+<s> telindus technical support uk  </s>

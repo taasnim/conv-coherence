@@ -1,0 +1,52 @@
+<s> this is kind of off topic, but pc hardware realated, i do not request that anyone reply, but if you own this particular board or a hp/compaq machine that uses it, please complain to them.  </s>
+<s> basically, from april last year amd have been selling pc's with socket 754 motherboards, known as asustek diablo's, or k8 k8n8x-la pes for athlon 64 processors.  </s>
+<s> hp released a new bios a while ago that allows the board to take a athlon 64 3400+ (original bios only 3200+).  </s>
+<s> i phoned hp today and asked for a 3700+ bios and was told that they were not going to write one ever, and that 3400+ is all the board will ever be able to have, despite the fact that the board is perfectley capable of having a 3700+, so i was put through to customer services department where i registered a complaint about this.  </s>
+<s> i spoke to asus who said that the board was especially designed for hp and that they will not support the board in anyway (it's missing from their website too) and that bios updates e.t.c are all responsibility of hp. machines using this board are rather popular, so if anyone here has one, even if you dont plan to upgrade to 3700+, please complain, in hope that if enough people complain they may actually write one, surley it cant be that hard.  </s>
+<s> this is nothing more than a money making scam, if you dont feel your going fast enough, you have to buy another hp machine.  </s>
+<s> i ask that there are no replies from enthusiasts with customised machines spouting that dell, hp and compaq are crap, and this is what we get for buying them.  </s>
+<s> many people, including myself, buy these machines for their reliability, cheapness and simplness, but would like an upgrade path, and i am sure many people must have machines with this board.  </s>
+<s> also, and this is a huge request, is there anyone out there with experience of writing biose's or anything like that who can modify the bios and unlock the board from the shackles of hp? i know some people write overclocking bioses, so can they be done by home users, who are very knowledgeble in these things?  </s>
+<s> machines. the only way that they can hold costs down and to keep tech support costs to a minimum is to not support every possible upgrade, and then have to create documentation and training material for their tech support.  </s>
+<s> if you have ever worked on military equipment you would realize that, by far, the biggest cost item of the equipment is the documentation, drawings and manuals, so that people can maintain it.  </s>
+<s> you are are correct about someone possibly modifying the bios.  </s>
+<s> in fact if you can get the code for the normal asus mobo of the same bent, the needed code may be found in it and [with some skill] added to the hp bios.  </s>
+<s> they simply purchase the basic bios code and then modify it to their own needs.  </s>
+<s> it may simply change the cpuid number.  </s>
+<s> you can't have both cheap and a versatile, upgradable system.  </s>
+<s> something has to give.  </s>
+<s> btw, just dealt with hp site and tech support.  </s>
+<s> was totally satisfied.  </s>
+<s> yes they are nice people, they registered my complaint without any problems. the board is closest to the asus is the a7v8x-la, which i presume they do offer a bios for, is there anyone ith alot of skill out there that can make this work?  </s>
+<s> but my point is they should not be allowed to restrict hardware, i paid 800 fo a computer with a socket 754 motherboard, which means it can have upto 3700+, and i am going to get it one way or another with hp's help or not.  </s>
+<s> im just begging if there is anyone out there who can write bioses, can they please help poor hp owners?  </s>
+<s> in the subject line.  </s>
+<s> he is a very bright and knowlegeable in these areas.  </s>
+<s> will do when i get a free moment  </s>
+<s> likely assist you much cheaper than you could hope from me.  </s>
+<s> going along with ray's military analogy, another cost factor is the limited production of military specific components--thus a $20.00 bolt for an abrams tank.  </s>
+<s> if they have what you want &quot;in stock&quot; it is as little as $25. if they don't it can be more.  </s>
+<s> well, theyre in my bookmarks list now, while im at it ill think ill throw in some ram dividers and alot of other settings hp seem to hve &quot;forgotten&quot;  </s>
+<s> used to do such things.  </s>
+<s> i haven't checked recently.  </s>
+<s> my parting comment is such machines as &quot;in a box&quot; and there is nothing wrong with hp not offering such.  </s>
+<s> bob  </s>
+<s> there is a good reason hp doesn't bother to upgrade their bios.  </s>
+<s> you are the exception, not the rule. the vast majority of hp/compaq/dell owners never open the cases of their systems, much less upgrade the processors.  </s>
+<s> there is so little demand that they don't have the need to upgrade, it makes no financial sense to them, since most users will keep the systems for 3-5 years and just replace them. the reason you got the bios update you did get was only because the same model board was sold with a faster processor, but the next generation with the faster processor undoubtedly used a different board, so that was the end of the line.  </s>
+<s> you hit the nail on the head when you said, &quot;don't tell me about your upgradable system&quot;. the fact is, people that build their own and are tinkerers are those the upgrade and want upgrades, not the canned system buyers.  </s>
+<s> and i agree that hp is well within their rights to decline investing in any more bios updates.  </s>
+<s> matter of fact they seem to be right in line with most main board suppliers with their &quot;cut off&quot;.  </s>
+<s> yeah, i guess your right, but mr.bios is onto it, so it looks like i might be able to sort this!  </s>
+<s> my understanding is that at least some of the pc's hp is selling with that board have a very meager powersupply (only 250 watts) i don't know if i would trust a 3700+ on such a system (i don't know how hp gets even the 3400+ to work with it unless they are using a custom, mobile or crippled processor)without upgrading the psu as well and while you are at it replace the graphics card and this and that... you would be better off getting a complete new 939 system before making such an upgrade.  </s>
+<s> here is my 2cents on proprietary.  </s>
+<s> my compaq evo w4000 cmt pent.4 workstation with 2-80 gig hard drives & 2- optical drives & a gig of ecc ddr ram 2-90mm case fans 90mm psu fan, & cpu fan.  </s>
+<s> 2-monitor nvidia agp video card.  </s>
+<s> all this is driven by small 250 watt power supply that is odd size(non atx) lasts about 10 months & costs about $300.00 delivered from h-p. also the propietary cpu heat sink fan is like a socket a only smaller.  </s>
+<s> i have went through 3 of them at $70.00 apiece.  </s>
+<s> standard socket 478 is way too wide & no side mounts.  </s>
+<s> only strap down middle like socket a. this is suppose to be heavy duty workstation.  </s>
+<s> cpu always runs hot.  </s>
+<s> am thinking about 60-80mm fan adapter to put on top of this small heatsink.  </s>
+<s> 60mm fan on 2.8 norwood is not enough fan. the price of these weak undersized components is unreal. the psu could have been made standard atx.  </s>
+<s> have you noticed the dates of the thread that you replied to???  </s>

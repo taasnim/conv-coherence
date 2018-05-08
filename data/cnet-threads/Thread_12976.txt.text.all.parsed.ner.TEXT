@@ -1,0 +1,17 @@
+<s> hey, i've just installed a sata hard-drive as a secondary hard drive and it wont recognize it....it's win xp, and the mobo is an asus sli premium...any tips?  </s>
+<s> have you formatted the drive?  </s>
+<s> xp won't see it without the drivers, and a friend found it necessary to also format it [used a win 98 boot floppy].  </s>
+<s> installing the sata as the boot drive using xp original install is a different matter.  </s>
+<s> then you need to create a floppy from the mobo driver cd, hit the f6 key when offered and later insertt the floppy created, so that xp will install the mobo drivers.  </s>
+<s> confusing because it asks the question ere raid or scsi, but that actually includes sata drivers.  </s>
+<s> you may have to activate it.  </s>
+<s> i did.  </s>
+<s> go to my computer.  </s>
+<s> right click.  </s>
+<s> go to manage.  </s>
+<s> you can figure it out from there.  </s>
+<s> pretty straightforward.  </s>
+<s> and life goes on... jack  </s>
+<s> did you activate or turn on the sata controller in the bios ?  </s>
+<s> vapcmd  </s>
+<s> just sayin thanks....i figured it out eventually on my own, and that's all i had to do lol, i kinda feel dumb, but now i know haha  </s>

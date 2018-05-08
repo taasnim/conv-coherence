@@ -1,0 +1,59 @@
+<s> i've read from various articles that if a host on a network wants to talk with another host it must have the destination host's mac address.  </s>
+<s> how come it is not sufficient for the requesting host to just have the destination host's ip address?  </s>
+<s> after all, the ip address itself already uniquely identifies the host on the network, so why is it necessary for the requesting host to know the physical identifier of the destination host to initiate a communication?  </s>
+<s> you need to read all about the osi layers.  </s>
+<s> head to the google and find primers about that.  </s>
+<s> each computer on the network must put data packets inside of &quot;frames&quot; in order to move that data to another system.  </s>
+<s> frames use mac addresses, not ip addresses.  </s>
+<s> lookup arp, address resolution protocol.  </s>
+<s> hi. 1. it is based on a requirement for a larger network.  </s>
+<s> 2. with in a small network ip address would alone be sufficient.  </s>
+<s> 3. however they would not be able to help if the message / data was to be transferred from one network to another, as from your home pc to the internet.  </s>
+<s> 4. example:- computer 1- ip. 1.1.1.1 (mac-11) (lets say, your home pc) router ip1 - connected to computer 1 - 1.1.1.2 (mac-12) router ip2 - connected to computer 2 - 2.1.1.1 (mac-21) (broadband router - it has two connections, just as a modem does) computer 2 - ip. 2.1.1.2 (mac-22) (lets say google.com) if a message were to be sent to 'google.com' from 'home pc' this is how it would go:- step1- at computer1 from ip - 1.1.1.1 (computers ip) from mac - 11 (computers mac) to ip - 2.1.1.2 (googles ip) to mac - 12 (connected routers interface) note - data can be transferred to connected interface only.  </s>
+<s> if destination mac in the above was '22', then the message would have got nowhere as there is no mac-22 connected to 'computer 1' step2 - at the routers first interface the complete rebuild takes place.  </s>
+<s> from ip - 1.1.1.1 (computers ip) from mac - 12 (routers 1st interface) to ip - 2.1.1.2 (googles ip) to mac - 21 ( routers second interface) step3 - at routers second interface.  </s>
+<s> the data is transferred to second interface at the router and address are again modified.  </s>
+<s> from ip - 1.1.1.1 from mac - 21 (routers second interface) to ip - 2.1.1.2 to mac - 22 (googles interface) same process is reversed on sending the data back to 'computer 1'. ip address are required to identify the original originating and destination devices, else the data would be lost in the network.  </s>
+<s> it would be clearer if you drew the diagram on a page. the essential part to remember is that the information required is: 1. senders ip and destination ip 2. senders mac and connected mac.  </s>
+<s> take care.  </s>
+<s> thanks, navneetgaur.  </s>
+<s> you example helped a lot.  </s>
+<s> so the ip address is for identifying the two ends of the communication link (source and destination) while the mac address is for getting the data frames onto the correct &quot;physical device&quot; in the middle of the relay process?  </s>
+<s> arp is used all the way up to the gateway, therefore ip alone is not sufficient to send data within your network.  </s>
+<s> you can't build an ethernet frame without mac address.  </s>
+<s> ethernet frames do not even contain an ip address.  </s>
+<s> size of the network is not an issue either.  </s>
+<s> yep. and for darton fury.  </s>
+<s> roughly data is built and transferred from one computer to another as in stages 1 to 4 and rebuilt 4 to 1. 1. segment - 'tcp + data' 2. packet - 'ip + tcp + data' 3. frame - 'lh + ip + tcp + data + lt' 4. transmit bits.  </s>
+<s> ( stuff/electrical signal transferred over the ethernet cable) tcp = tcp information ip = ip related information (ip addresss) lh = link header lt = link trailer lh and lt refer to data link layer header and trailer (mac info) source of reference - ccna intro by wendell odom - cisco press (ccie no. 1624) page 30.  </s>
+<s> tcp /ip is a very large concept in itself.  </s>
+<s> different components play a different role for supporting and maintaining connectivity.  </s>
+<s> arp is a part of that but not relevant to the question asked.  </s>
+<s> take care.  </s>
+<s> both of you.  </s>
+<s> hi. this post is meant to clarify the concept of arp: 1. arp or address resolution protocol is meant to map the ip address to its interface mac address.  </s>
+<s> period.  </s>
+<s> 2. for example: computer-1 has an ip address 1.1.1.1 and mac address 11 router intface-1 has an ip address 1.1.1.2 and mac address 12 router intface-2 has an ip address 2.1.1.1 and mac address 21 computer-2 has an ip address 2.1.1.2 and mac address 22 arp cache: ip-1.1.1.1 mac-11 ip-1.1.1.2 mac-12 ip-2.1.1.1 mac-21 ip-2.1.1.2 mac-22 3. the process of transmitting data from computer-1 to computer-2 all over again: at computer-1:- stage-1 source-ip 1.1.1.1 source-mac 11 destination-ip 2.1.1.2 destination-mac - ?  </s>
+<s> stage-2 now the computer will check its interface settings to clear up a question where should i send the data packets meant for other networks?  </s>
+<s> the answer is the gateway information set up at the interface.  </s>
+<s> note data packets, as they still do not have required mac information attached, to qualify them as frames next the computer will query the mac address from the arp cache or send an arp request to the gateway ip 1.1.1.2 for its mac address.  </s>
+<s> stage-3 now a frame will be built as follows and forwarded to router interface-1 source-ip 1.1.1.1 source-mac 11 destination-ip 2.1.1.2 destination-mac 12 stage-4 at the router interface-1, a question needs to be answered.  </s>
+<s> where to send the data meant for network 2.0.0.0 ?  </s>
+<s> as the final destination lies in the network 2.0.0.0. the answer will be in the routers routing table which will inform it that the data should be forwarded to ip-2.1.1.1.  </s>
+<s> next question is - what is the mac address of ip-2.1.1.1?  </s>
+<s> this is answered using arp and built into a new frame with the original packet.  </s>
+<s> packet has the ip and tcp information with the data.  </s>
+<s> frame has additional mac information which is stripped and renewed at each passing interface.  </s>
+<s> and so on.  </s>
+<s> 4. for a small network any protocol based on single address scheme would suffice.  </s>
+<s> but that would limit the size of the network to the address available within that protocol. the design of the tcp/ip protocol has been structured so as to support segments of networks and ability to interconnect them with each other using the process known as routing.  </s>
+<s> if the above requirements were redundant, then, theoretically, a small network would definitely function on ip address alone.  </s>
+<s> i hope that it is understood, about the preceding statement, that tcp/ip would have to be redesigned to work without mac address support for such a specific scenario.  </s>
+<s> take care.  </s>
+<s> this may sound very dumb but i think i will just exonerate myself for asking this by claiming that i'm a novice.  </s>
+<s> so routers have actually been programmed to automatically &quot;unwrap&quot; every single data frame that it receives so as to read the ip address &quot;underneath&quot; it (or should i say &quot;above&quot; since the network layer is on top) and then re-encapsulate them and send them away?  </s>
+<s> so i think the reason for the mac address (data link layer) being necessary even though the ip addresses themselves are already unique is because when relaying a message from point a to point b to point c, and that point a and point c are actually not in direct contact (viz cannot communicate node to node) and must go through point b so must use the mac address to make sure the message has gone to the correct middleman/men.  </s>
+<s> i think i've got it!! but maybe if we're deploying ipv6, where every networking hardware can be allocated its unique ip address, then having this mac address may not be really necessary?  </s>
+<s> i mean theoretically we can modify the protocol to something like this: source ip address destination ip address ip address on the next relay &lt;-- this plays the role of mac address but maybe that'd be too much work.  </s>
+<s> you have understood it correctly.  </s>
+<s> quite good site for understanding the basics of osi model,foundation of networking.it has good diagrams to help you understand network model.  </s>

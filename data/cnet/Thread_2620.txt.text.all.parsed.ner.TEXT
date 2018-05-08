@@ -1,0 +1,39 @@
+<s> hello, every so often my connection drops out on my network.  </s>
+<s> i have 3 comps connected through the router.linksys  </s>
+<s> befsr41 firmware version 1.45.7 i just reset the router and it works fine.  </s>
+<s> i am using win xp pro ver 5.1 sp1 and a cable modem.  </s>
+<s> i have no other issues with any of the computers.(win98se  </s>
+<s> on both other comps.) i have checked and my network connection details which look as below... physical address: 00-0c-6b-1a-cc-63 ip address: 192.168.1.100 subnet mask: 255.255.255.0 default gateway: 192.168.1.1 dhcp server: 192.168.1.1 lease obtained: 30/10/2003 5:39:33 pm lease expires: 31/10/2003 5:39:33 pm is it normal for the lease to expire daily like this? has anyone had this type of issue?  </s>
+<s> thanks mike  </s>
+<s> mike--don't know why your connection is dropping.  </s>
+<s> have you called linksys support yet?  </s>
+<s> i have to say that they are extremely helpful over the phone and very willing--no sighs or disdain, just good help. the phone number should be at the back of your booklet or else go to their web site to tech support (if web access is available nearby, ie. town library)  </s>
+<s> the lease is handed out by your isp, not linksys.  </s>
+<s> i have my linksys connect on demand which seems to work fine.  </s>
+<s> bob  </s>
+<s> the lease time you want to adjust is the lan side.  </s>
+<s> you can control that lease time, it on the password page of that router.  </s>
+<s> turn off upnp with in the router, that may stop it from locking up.  </s>
+<s> this router has a bad reputation of locking up.  </s>
+<s> hopefully a new firmware up date will be out soon, as i have 6 of these units in place.  </s>
+<s> when 0 is equal to 1 day... what number should i set..? is it better to leave it on 0 (one day) or should i put a number of minutes?  </s>
+<s> should i enable the 'block wan request' (default is off) thanks  </s>
+<s> i would leave it at 0. i have enabled &quot;block wan requests&quot; on all my routers.  </s>
+<s> i found that this version firmware with this router causes the problem.  </s>
+<s> returned to original version which came with the router and all is well.  </s>
+<s> i should learn to leave well enough alone!!!! mike  </s>
+<s> what version is that?  </s>
+<s> i have version 4 and it sucks.  </s>
+<s> i cant get gunz online to run on more that one pc at the same time in my internet cafe.  </s>
+<s> didnt have that problem before lightning took out my d-link di-704p router.  </s>
+<s> unfortunately, the store only had this crap of a router available,a linksys befsr41.  </s>
+<s> it's been a week, and i still can't get the damn thing to do what i want it to, which is to let gunz online be what it is, an online multiplayer game.  </s>
+<s> another thing wrong with this piece of sh.... is the frequent disconnection problem.  </s>
+<s> what makes it worse is that you cant set the reconnect time to less than 20 seconds!  </s>
+<s> soon as i get my dlink replacement, this junk will get my hammer award.  </s>
+<s> or maybe somebody wanna router cheap?  </s>
+<s> i'll throw in some aspirins...  </s>
+<s> is out of date firmware or possibly a tip from the router maker what firmware to install.  </s>
+<s> many are under the impression that these products come ready to use.  </s>
+<s> surprise!  </s>
+<s> bob  </s>

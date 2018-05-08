@@ -1,0 +1,46 @@
+<s> i recently took out my 2 gtx460's to replace the thermal paste and had my computer working fine afterwords until a crash when playing crysis which made my computer have a hard time booting back up... i then proceeded to take the card out, take the heatsink off and make sure everything was fine, and then reseat it once again... it didnt work at all (no video at boot) so i decided to swap the cards (slot 1 to slot 2 and vice versa) to see if that would work and it did...however the computer couldnt detect the second card for sli so once again i took them out and tried reseating them as well as only having one card in at a time and now neither of them work at all!! no video signal on either on them, so i dont know what to do all i did was reseat the darn things, its not like i cracked them in the process or anything... please help, ive been working on this for hours to no avail...help would be appreciated  </s>
+<s> and countless other posts show these are very power hungry cards.  </s>
+<s> and those that have power supplies with more than one rail could be unlucky in what rail they chose.  </s>
+<s> if this was mine i'd re-examine my power setup, pcie power connection choices and go for getting one card working.  </s>
+<s> bob  </s>
+<s> im considering re assembling my whole pc from the bottom up... its driving me crazy that doing things as small as replacing some thermal paste on a gpu always end up as a nightmare for me... never seemed to have power issues in the past, even with both cards running at the same time, and i get fans spinning and everything in the state its in now is it even possible to have broken both gpus by merely replacing the thermal compound?  </s>
+<s> having neither of them working now makes me start wondering...  </s>
+<s> i guess out of desperation.  </s>
+<s> of course it is possible to break cards.  </s>
+<s> in the shop we pull out the shop card for a test.  </s>
+<s> at home folk may not have this option.  </s>
+<s> but the power requirement is so steep that if it was anywhere near the edge you can see such failures as the removal and work could have scrubbed contacts and sent the startup current higher.  </s>
+<s> then again if the psu was a multiple rail design, using some other combination of connections could have it failing.  </s>
+<s> these are the reasons why i use psus with single rails and about 2x the needed power requirement.  </s>
+<s> bob  </s>
+<s> how old is it ?  </s>
+<s> vapcmd  </s>
+<s> its a 700 watt ocz stealth or something... i brought it into a shop i've been to in the past so they can deal with the frustrations so i don't have the exact model name or anything they have been a good help for me in the past so hopefully they can fix it this time as well...  </s>
+<s> my guess is the psu isn't sufficient to handle two 460s and whatever else you have in the system.  </s>
+<s> what prompted you to remove the gpu heatsinks ...were they really running hot ?  </s>
+<s> vapcmd  </s>
+<s> what happened was i had two different models of the gtx460... an msi cyclone and a pny xlr8 (both 1 gig) the pny one tended to be quite audible vs the msi due to its heatsink design being different, as well as the heat lvls being a little bit higher, so thats why i decided to change the paste.  </s>
+<s> it was absolutely caked on both of them, probably more then 4x more than needed when i removed the sinks so it was definately in my interest to do so especially since i use mx4 paste which is pretty good quality vs what the manufacturers use i'm sure  </s>
+<s> ocz stealthxstream 700w = +12v1@ 18a , +12v2@ 18a , +12v3@ 18a , +12v4@ 18a single gtx460 = +12v = 24 amps like bob mentioned, this is the reason why psus with a single rail design is always preferable for power hungry gpus.  </s>
+<s> as for the thermal paste, only apply a thin layer on top.  </s>
+<s> excess paste is going to yield poor results.  </s>
+<s> i believe that is the model of psu i have.  </s>
+<s> also, my point was that when i took off the heatsinks the first time, there was way too much paste on both of them.  </s>
+<s> it looked like they were trying to ice a cake or something.  </s>
+<s> so thats why i went ahead and replaced it on both of them with much less of a higher quality paste.  </s>
+<s> chances are i just didn't put the heatsinks back on completely perfectly.  </s>
+<s> i should be getting a call tomorrow from the little shop i brought it to so i can pick it up.  </s>
+<s> i will update then as to what the issue turns out to be. in the meantime.  </s>
+<s> i appreciate everybody interest in my issue and for trying to give me a hand!  </s>
+<s> so i got some feedback from the little shop i brought my desktop to, and they think its possibly a corrupted bios/motherboard issue sound like i may be in for another rma )= essentially means i will have to rebuild my computer too... damn  </s>
+<s> i brought the said broken computer home and plugged it in after it was sitting in the cold car for awhile just for kicks... turns out it wanted to start working again just for the heck of it.  </s>
+<s> it froze soon after so i took out the video card and reset the cmos and it would boot but no video... i wasnt gunna let that stop me tho, but after a few tries i decided to smack it on the back about 5x and guess what? it works, its been running for about an hour flawlessly now.  </s>
+<s> posting back.  </s>
+<s> vapcmd  </s>
+<s> i've had it running overnight and it is once again performing great!  </s>
+<s> even tested it on crysis for over an hour and no freezing and then played some portal 2 and space marine without any issues either.  </s>
+<s> thank you to: &quot;vapcmd&quot;, &quot;bob&quot; and &quot;riviversoft&quot; for sticking by me and doing your best to help me out!  </s>
+<s> -shane  </s>
+<s> maybe the power supply has fried some of your hardware?  </s>
+<s> or maybe the power supply got fried.  </s>
+<s> things like these happens.  </s>

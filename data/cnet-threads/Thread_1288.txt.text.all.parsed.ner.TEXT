@@ -1,0 +1,100 @@
+<s> i have emachines desktop t6212, with pre-installed lite-ons sohw-1633s dvd-rw drive.  </s>
+<s> its a duel layer dvd writer.  </s>
+<s> i was using it (read/write) since last six months without any problem.  </s>
+<s> but last week suddenly, it stopped recognizing any dvd (movie, recorded dvd-r) [actually i tried to clean totally unnecessarily its laser lens using philips laser lens cleaner disc but not sure, that created this problem].  </s>
+<s> anyway, i reported this problem to emachines and they shipped me a brand new lite-ons shw-1635s dvd-rw drive that i installed later.  </s>
+<s> but my problem remained same.  </s>
+<s> symptoms of problems are: (1) when a dvd is inserted, windows explorer does not show any file in the drive; in fact, drive never finish reading, it makes noise while trying to read it.  </s>
+<s> (2) when cd is placed, the same dvd-rw drive reads it quickly and displays the typical small window asking to play with media player or open the folder etc; windows explorer shows file within the cd too and it is recognized.  </s>
+<s> (3) when you dont have any disk on the drive and try to click the drive-letter (e: or f: etc) in windows explorer, it typically gives an error message saying please insert a disk in drive.  </s>
+<s> for this faulty dvd drive, such error message does not appear (but other drives in the same pc, gives such message).  </s>
+<s> (4) in device manager, it is rightly recognized and shows working properly.  </s>
+<s> above all symptoms are true for both old and new replaced dvd drives.  </s>
+<s> when i faced the problem with old dvd drive, i tried to change its firmware, with no success.  </s>
+<s> on suggestion, i tried to restore system from the date when my old dvd drive was working fine; again no success.  </s>
+<s> i tried all familiar process of uninstalling the dvd-rw from device manager and then restarting the pc when new hardware got recognized and installed; again no success.  </s>
+<s> i tried the same for new drive too no success again.  </s>
+<s> now emachines is suggesting to do the complete system restore (at the pre-sale status) that is so undesirable and has no guarantee to the resolution.  </s>
+<s> i feel, it may not be any hardware or firmware problem.  </s>
+<s> i dont remember installing any new software since last rightly working dvd drive days.  </s>
+<s> i cleaned up pc from adware or spyware.  </s>
+<s> please help or let me know any site/forum where similar problems were discussed or resolved.  </s>
+<s> syamal  </s>
+<s> i boot my geexbox cd and see if the dvd plays.  </s>
+<s> hint: google.com  </s>
+<s> this lets me find out if there is a hardware or os issue.  </s>
+<s> bob  </s>
+<s> there is a know issue where dvd-rw disks appear to be empty in windows explorer on windows xp service pack 2-based computers. the microsoft article i found says that there is a supported hotfix available. the article adress is: support.microsoft.com/?kbid=899527  </s>
+<s> i haven't gotten the fix yet--i don't want to pay $35.00 for a tech support email.  </s>
+<s> as far as i can tell, windows xp sp1 had a similar problem.  </s>
+<s> i wrote nero developers tech support also, but haven't heard back from them.  </s>
+<s> geeksquad told me to go to the device manager and unintall the dvdrw drive then restart the pc. xp will detect it and install the drivers. the problem i'm having now is it won't detect blank dvds.  </s>
+<s> i burned a blank cd this morning but still won't detect blank dvds.  </s>
+<s> i burned the bios update for the motherboard from emachines.  </s>
+<s> i'm hesitant to use it because they say the update is if you use an invivia card.  </s>
+<s> i have an ati radeon 1300.  </s>
+<s> i have the same problem.  </s>
+<s> i just discovered that the lite-ons sohw-1633s dvd-rw will recognize an install cd for a different type of device but still will not recognize any other audio cd's or dvd's.  </s>
+<s> i'm going to experiment with other disk i have.  </s>
+<s> if i discover any usefull info, i'll post it.  </s>
+<s> tom  </s>
+<s> i'm having a similar problem, however my sohw1633s will recognize dvds and blank dvds, but will not recognize any type of cd. i'll try uninstalling the drive as a previous post suggested, but was wondering if there were any other suggestions out there.  </s>
+<s> andy  </s>
+<s> i have the same piece of crap (t6212 emachine), though in my case i installed an ati radeon 550 video and pumped up the ram to 1gig.  </s>
+<s> my dvd will play dvd's, burn cd's and dvd-rw, but it won't burn dvd-r's anymore.  </s>
+<s> any ideas?  </s>
+<s> dual lasers...one for cd's...one for dvd's..either could be bad.  </s>
+<s> if the dvd laser is gone then no dvd's will appear.  </s>
+<s> if the cd laser is gone then no cd's will appear.  </s>
+<s> the drive mechanism will work but no disk information will be read.  </s>
+<s> i've read that the dvd laser is the one that usually goes.  </s>
+<s> i bought a new dvd burner and had no problem with it.  </s>
+<s> now i have an extra cd rom for my computer.  </s>
+<s> they replaced the dvdrw and the cdrom.  </s>
+<s> i told the teck about my problems and he was like &quot;well, that's wierd&quot;.  </s>
+<s> i have a home built desktop with the lite-ons sohw-1633s dvd-rw drive.  </s>
+<s> symptoms are: 1. wmp can play cds, but it lists them as ''unknown'' 2. my drive can recognize some dvds (matrix reloded for one).  </s>
+<s> 3. for the dvd's it can play, the system either restart, freezes, or begins dumping of physical memory.  </s>
+<s> i would greatly appreciate it if you would tell me the solution to your problem.  </s>
+<s> thank you, ray  </s>
+<s> when you come to *any* cd drive problem, after many attempts to correct, the &quot;best solution&quot; is to replace.  </s>
+<s> if you cleaned it out, cd lens cleaner, did re-install, found(install) latest updates, usually after all that and it still doesn't work, replace.  </s>
+<s> all too often the cd drive after wear&tear or heat damage is kaput.  </s>
+<s> there is nothing else you can do if it always responds, &quot;can't read or find drive&quot;.  </s>
+<s> i exclude any os glitches or similar.  </s>
+<s> really... tada -----willy  </s>
+<s> this is not the problem...i have just swapped dvd burners, brand spankin' new, and i have the same problem.  </s>
+<s> suggestions i have tried with no effect: 1) try difrent media 2) delete from control panels, reboot 3) delete upper and lower filters 4) uninstal nero 5) run nero cleanup 6) reinstal the version 6, not 7 nero 7) try another burner 8) uninstal (phisically) the dvd-rw and reinstall 9) flash burner 10) get new burner 11) get updated bios 12) reinstall windows still same lingering problem, i will also like to add get compleatly new system and do a fresh install to the list as well, as i have done that as well.  </s>
+<s> find the owner didn't install latest bios, firmware, motherboard drivers and all that.  </s>
+<s> given only what's in your post it's either good old bios, firmware, drivers, configuration issues or dead hardware.  </s>
+<s> the trick is to take clues when they show up.  </s>
+<s> even today i still correct ide jumper settings weekly.  </s>
+<s> tech does so hourly it seems.  </s>
+<s> bob  </s>
+<s> i have a t2245 emachines and just yesterday the cd and dvd drive both don't show anything.  </s>
+<s> i go to the properties and the disk says that they are full.  </s>
+<s> when i put a cd in it reads 0 bytes.  </s>
+<s> how can that be?  </s>
+<s> simple!! go to my computer icon right click , properties then hardware and then go to device manager.  </s>
+<s> locate ur dvd drive and click un install.  </s>
+<s> once done scan again for hardware changes.  </s>
+<s> ur drive will be located again.  </s>
+<s> now put in ur dvd it should wrk.  </s>
+<s> my lite-on keeps turning itself into a cd rom i've forgotten where i got the hotfix from last time so i was wondering if you've managed 2 get any further with your dvd problem an i can mayb find sumthin in yr solution 4 me?  </s>
+<s> i do believe it's quite common with lite-on dvd rw's but relatively easy 2 fix if i can jus remember where i found that hotfix  </s>
+<s> hi, i apologise for the scrappy grammar but im real tired an bin up 4 wot seem like weeks and jus cant remember how fixed this last time, sumhow i got a hotfix but cant remember where.  </s>
+<s> my partners daughter plugged her ipod in2 my comp and then booted up, i walked in jus as it went black safe blah blah.  </s>
+<s> i thought the worst(afta all ipods r hdd's now an it looked like it tried bootin frm that but wen i turned off an on it booted normally wiv no prbs.  </s>
+<s> only whilst tinkin i might not actually hav 2 murder my man's eldest i saw i now had a cd drive instead of a dvdr/rw drive.  </s>
+<s> an nothin i can do rollbacks etc will change its mind, its either goin thru identity crisis or its bin completely knocked out of system since i now have no dvd drivers in windows wotsoever only cd ones, lite on site is rubbish since wen u try an get drivers its nowhere to be found (it turns out its called a completely different model and number an i have 2 guess which.  </s>
+<s> i seem 2 remember last time i was searching 4 the solution lots of people saying same thing so i know its fixable and without reinstallin bloody windows, i jus cant remember where i finally found help last time plz help, i built this computer myself and hav been learnin on a need to know basis and ive learned loads cos nowt like takin things apart an puttin back 2gether to c how they work but i didnt save this fix an am in a rut.  </s>
+<s> (xp home edition - sp2 amd athlon xp2800+)  </s>
+<s> how did the geexbox test go?  </s>
+<s> (you did reply to my reply with that answer!) bob  </s>
+<s> soz, not a clue, don know much really bout comps jus wot ive fumbled thru myself, can ya elaborate?  </s>
+<s> plz x  </s>
+<s> you are replying inside someone else's discussion.  </s>
+<s> i noted a tool i use to test with that you can find on google.com.  </s>
+<s> you need to know that i will not duplicate easy to find web content as this isn't a true &quot;support&quot; site but a discussion site.  </s>
+<s> since this is a self help forum you get to do some research on your own.  </s>
+<s> bob  </s>

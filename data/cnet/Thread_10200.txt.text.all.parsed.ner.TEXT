@@ -1,0 +1,24 @@
+<s> just bought myself a new motherboard & amd cpu.  </s>
+<s> while building my new system, some of thermapaste got leaked into the cpu socket placement (i inserted cpu, put the paste on top of cpu and put the heatsink/fank on top.. but i didn't like the placement of my heatsink/cpu so i took it out, and took out the cpu but some of the thermapaste got leaked) i tried to clean it with a paper towel, it wasn't too serious of a leak but now.. nothing will start (my cpu fan won't run) im trying to start from a barebone (just ram, cpu, and powersupply) i checked the placement for pw switch and it is in the right placement.. would a little thermapaste leak cause enough trouble to mess up my cpu & motherboard, or do i need a new power supply?  </s>
+<s> (380 watt power supply.. brand new as well)  </s>
+<s> but the last one i built is a 1ghz athlon, and i never used that thermapaste stuff.  </s>
+<s> its still running fine.  </s>
+<s> i guess it has to do with the new pc's.  </s>
+<s> it sounds as if the board isn't powered.  </s>
+<s> just check all connections, especially power supply to the motherboard.  </s>
+<s> some motherboards have more than one connector.  </s>
+<s> in addition to the 20/24 pin, typical connector, many boards also have a 4 pin connector.  </s>
+<s> mobo only, no cpu, no memory nada.  </s>
+<s> plug the ps 20/24 pin connector into the mobo.  </s>
+<s> plug the ps into a hot outlet and turn the switch on its rear on.  </s>
+<s> [at this point most newer mobos will have a light on the mobo that indicates that the five volt standby voltage is present].  </s>
+<s> rather than the front panel switch simply use a small metal slot screwdriver to momentarily short the two power switch pins together.  </s>
+<s> the supply should start as noted by its fan running, [at this point the 4 pin 12 volt connector need not be present].  </s>
+<s> this test can be made with the mobo laying on a table and the power supply also there just out of the box.  </s>
+<s> always the first step that this writer makes.  </s>
+<s> no use putting defective hardware into the case to find out.  </s>
+<s> also mounting of the mobo improperly can lead to shoted artwork lands preventing operation.  </s>
+<s> to test an atx supply by itself, only plugged into a wall outlet, simply [from the rear of the 20/24 pin connector use something like a paper clip [small on] to jumper the green wire to any of the black [ground/return] leads in the same cable.  </s>
+<s> as long as that jumper is making contact to both pins the power supply will turn on, again as noted by the fan running.  </s>
+<s> [from the mobo it only takes a momentary contact, because the mobo makes the connection between the green wire and ground [logic low].  </s>
+<s> if the thermal compound is conductive, [older arctic silver was, not true any longer] that could cause problems with the cpu.  </s>

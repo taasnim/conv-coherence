@@ -1,0 +1,16 @@
+<s> i ran chkdsk /r on a windows drive that detected a couple bad sectors.  </s>
+<s> (windows was freezing) it notified that it found and fixed all errors successfully.  </s>
+<s> my question is, how long could this fix work for?  </s>
+<s> what are people's success rates with this when all bad sectors are fixed?  </s>
+<s> because my understanding is that bad sectors could spread causing even more drive failure.  </s>
+<s> alternatively could a bad shutdown or power outage cause bad sectors, therefor causing the drive to still be good in all other areas?  </s>
+<s> in which case a chkdsk /r would be a permanent fix.  </s>
+<s> we can't know the future for this drive.  </s>
+<s> today's drives are made to have zero bad sectors as the drives map in spares and more.  </s>
+<s> i must avoid a deeper discussion about how that works but when a drive fails to the point it is showing bad sectors to the os then you know to not trust it.  </s>
+<s> that is, backup now or don't complain later.  </s>
+<s> bob  </s>
+<s> you might consider downloading and running the hd manufacturer's diagnostics utility and do a thorough read/write analysis.  </s>
+<s> if the utility finds errors in media integrity, it may be able to remap the bad allocation units to spares.  </s>
+<s> if any such repairs are needed, it's time to get a replacement hd on hand asap.  </s>
+<s> backup or, better yet, create a full image of the drive on another one while waiting for arrival of the new drive.  </s>

@@ -1,0 +1,21 @@
+<s> i have server 2003 and win xp pro work stations.  </s>
+<s> i've created a policy that i want to enforce on a user that will change the work station for that individual.  </s>
+<s> i created a work station policy but want different user's to have different rights.  </s>
+<s> when i attach the server policy it does'nt restrict the work station as it should.  </s>
+<s> i must be missing something ?  </s>
+<s> can you provide more information as to what it is not doing that it should?  </s>
+<s> have you setup group policies for your users as well?  </s>
+<s> yes i have set up group policy's and when they log-in to the work station its not restricting them.  </s>
+<s> i currently run a vt program in a federal prison.  </s>
+<s> so i have certain inmates i wanna restrict from certain things.  </s>
+<s> i also have tutors which are inmates and want them to have more flexability.  </s>
+<s> when i create a user and attach the group policy to them.  </s>
+<s> when they log in to the work station they are'nt restricted.  </s>
+<s> i can put a work station policy and restict everyone.  </s>
+<s> but i thought a group policy would follow with the inmates account to any computer he would log in on.  </s>
+<s> hope this helps you understand better.  </s>
+<s> to be more secure, and to prevent the &quot;trusted&quot; inmates from forgetting to log off, thereby leaving the system in an exposed state, it would be much better if the &quot;trusted&quot; inmates used the run as command instead.  </s>
+<s> in that way, when they close the current window they are working in, the computer will be automatically returned to the locked down state.  </s>
+<s> but how do i enforce a group policy to the inmates log-in account.  </s>
+<s> well lets see if i can get this right: build 2 groups - one trusted inmates, one regular inmates place all trusted inmates in the new group and assign all permissions necessary build policy and assign to trusted group, all users in group will automatically inherent poilicy if i recall correctly those are the proper steps.  </s>
+<s> come on c.r., don't make me ask ray s. to fix it for you!!!!  </s>

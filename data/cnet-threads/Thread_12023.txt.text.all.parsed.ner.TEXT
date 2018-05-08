@@ -1,0 +1,16 @@
+<s> i have a creative sb audigy 2 zb (wdm) into which i have a microphone plugged in.  </s>
+<s> i am running xp pro in a dell dimension 8400.  </s>
+<s> setting the mic recording output to 100%, i'm having very little output, i tried a different mic with the same results.  </s>
+<s> is there any other setting in the board to increase the output, when i want to use the mic with skype and any other programs i need the mic almost inside my mouth to get some signal output.  </s>
+<s> any help?  </s>
+<s> right click the speaker icon in the taskbar(is it there first?) and choose advanced properties for the microphone in the recording tab.  </s>
+<s> you should see a box you can check to add a 20db gain to the microphone input.  </s>
+<s> i toggled the mic boost on, but i did not get a increase in signal output.  </s>
+<s> to be able to get a normal signal output, i have to put the mic almost against my lips.  </s>
+<s> raul.  </s>
+<s> check to see if the microphone jack is inserted all the way into the proper input on the soundcard.  </s>
+<s> in the recording controls, you're not loooking for microphone output, rather the input level or recording level.  </s>
+<s> wave volume should be near max as well as the recording level.  </s>
+<s> do you have a &quot;what you hear&quot; slider?  </s>
+<s> increase it if you do.  </s>
+<s> are you using a mono microphone and selecting a stereo recording?  </s>

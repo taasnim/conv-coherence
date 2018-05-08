@@ -1,0 +1,20 @@
+<s> i have a 2003 small business server.  </s>
+<s> just last week i had 37g total, 19g free.  </s>
+<s> a few days ago, i had 403 m free.  </s>
+<s> when i check the disk usage total it shows the builtin/administrators account using 35g, but i can't figure out what processes could be using it. the shadow copy service had been running, and that was using 3g, once i disabled it i got it back, but the next day my storage was used up again.  </s>
+<s> any ideas?  </s>
+<s> wow is my first reaction.  </s>
+<s> my second is wow again!  </s>
+<s> i don't think i have ever ran across that but having said that, my guess is a virus can be the cause.  </s>
+<s> you did not mention what type of files are taking up your disk space?  </s>
+<s> also, are you able to remove them?  </s>
+<s> i would check the &quot;services&quot; file under administrative tools very closely and determine any suspicious entries.  </s>
+<s> it took half a day to help fix a friends laptop that was saturated with trojans, spyware, uname it and i found several entries in the services file.  </s>
+<s> these hackers set the recovery of their programs to 4977 times to restart!!!  </s>
+<s> exactly what folder is the data being held in?  </s>
+<s> it does sound like an infection, since that account is the only account that a quota can't be used to keep in check.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads btw shadow copy = good.  </s>
+<s> don't turn it off.  </s>
+<s> leverage its capabilities.  </s>
+<s> just my opinion.  </s>

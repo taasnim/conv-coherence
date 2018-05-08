@@ -1,0 +1,152 @@
+<s> on new build.  </s>
+<s> it's an asus a7n8x deluxe motherboard running a 2800 barton with 512 mb ddr ram.  </s>
+<s> i have installed a 80gb hd as primary driver and a 160gb as secondary drive.  </s>
+<s> both are western digital.  </s>
+<s> i built and tested using windows me.  </s>
+<s> i have a pioneer a7 dvd burner in secondary-1st position.  </s>
+<s> everything is new.  </s>
+<s> i wanted to install windows 2000 pro from a unit that was hit by lightening.  </s>
+<s> i formated the hard drives using dos 6.22.  </s>
+<s> installing windows 2k it partioned into 2 gb partion for c and also 2gb on new d drive.  </s>
+<s> i deleted everything for a clean start.  </s>
+<s> i used sure delte that writes 0's to hard drive.  </s>
+<s> then on boot up the bios could not find the 80 channel data cable for c and d drives.  </s>
+<s> i replaced the data cable.  </s>
+<s> still does not recognize c or d drives.  </s>
+<s> my bios is set for boot from floppy then c and d then e (the pioneer a7 dvd) and f a asus cdrw burner.  </s>
+<s> i suspect the hard drives may need to be low level formated.  </s>
+<s> any ideas?  </s>
+<s> don't want to buy two new hd's even wd cd utility disc that came with the drives doesn't recognize they are there.  </s>
+<s> thanks for any help or suggestions.  </s>
+<s> best to use cable select.  </s>
+<s> otherwise wd drives use no jumper for a master when there is no slave on the same ide cable, but gets jumpered for a master when there is a slave on the same ide cable.  </s>
+<s> don't get cofused by the fact that in order to have a jumper available, they put the jumoer horizontally for the no jumper position simply for storage.  </s>
+<s> you should have the 80 conductor ide cables for those drives.  </s>
+<s> they are wired for cable select, best to use it.  </s>
+<s> your bios must properly see the drives in order for anything to occur.  </s>
+<s> follow rays advice to jumper the in the cs position, then set the bios to boot from your cdrom first.  </s>
+<s> boot from your 2000 cd to properly partition and format the drives.  </s>
+<s> dos should have no role in a 2000 install.  </s>
+<s> dos 6.22 will give you 2 gb partitions.  </s>
+<s> that's how it works.  </s>
+<s> and created furture problems.  </s>
+<s> what web site or instructions are you using?  </s>
+<s> bob  </s>
+<s> thanks, i had 1 checked the jumpers on the hard drives.  </s>
+<s> they were selected by jumpers not the cable.  </s>
+<s> my advice came off a website either bootdisk.com  </s>
+<s> or another boot site i found on google.  </s>
+<s> they recommended the hd be clean for 2k pro and xp. i had already run me while setting up and checking all my settings.  </s>
+<s> everything worked fine on windows me.  </s>
+<s> i had decided to use 2000 pro for the os since i had a computer hit by lightening.  </s>
+<s> i was not sure i wanted all the problems with xp. the operating system came off a cd that was supplied with the burnt system.  </s>
+<s> it was probably an oem disk.  </s>
+<s> could use some sound info on good format software.  </s>
+<s> &quot;they were selected by jumpers not the cable.&quot;  </s>
+<s> this is a problem i solve daily (or tech does).  </s>
+<s> we resetup the jumpers and let the cable select the drives proper.  </s>
+<s> if you can't do this, i must bow out here.  </s>
+<s> as to good format software, with windows 2000 i just use the installer to partition and let the installer format.  </s>
+<s> any other method is up to the person who decides otherwise to figure out.  </s>
+<s> i know that i can't fix that!  </s>
+<s> bob  </s>
+<s> wendell, you may want to try one drive only and see what happens.  </s>
+<s> if this works, try the other drive as the only drive next.  </s>
+<s> this will verify that you can format and install your os on either drive with everything else being the same.  </s>
+<s> i also recommend using the install program from the os cd. it's never a good idea to use dos to prepare a harddisk drive for use with any version of windows above windows 3.1 as dos does thins a little differently.  </s>
+<s> i use power quests partition magic, but this program was designed to be used by power users who know what they are doing.  </s>
+<s> ps: i am not sure what you have been told about windows xp that makes you think that it's a bad choice.  </s>
+<s> i have been using windows xp sp1 for over one year now and i find it the most user friendly and stable version of windows that microsoft has come out with.  </s>
+<s> yeh windows nt (which win2k is one of) may run a little faster and be a little bit more stable, it is also less user friendly and will not let you run as many different software programs as windows xp. if you are moving up from windows me, you might finds that windows 2000 is a little bit more restrictive than you are used to.  </s>
+<s> windows xp combines the best of windows nt/2000 with windows me and i have come to love it.  </s>
+<s> most problems that i have run into with windows xp are due to running poorly written software that's not compatible with windows xp or due to bad patchs that microsoft has put out.  </s>
+<s> by the way, i have found that removing these bad patches is very easy with windows xp and has fixed the problem with out hurting the os. this was always a problems with windows me, 98, and 95. one word of caution though, i have learned that windows xp home ed runs much faster than windows xp pro on the same computer.  </s>
+<s> windows xp home runs almost as fast and windows me or 98. the reason for this is that there is less overhead in the home edition than the professional edition (less things going on in the background).  </s>
+<s> don  </s>
+<s> wendell have followed this post at this time you should have 1. updated ths bios if needed 2. jumpered the drives 3. booted from the cd and followed the prompts for install if you are still having problems with the drives suggest booting with 98 boot disk.  </s>
+<s> fdisk and remove all partitions on both drives.  </s>
+<s> reboot using optical drive and win2000 disk.  </s>
+<s> this will give you a clean start.  </s>
+<s> unlike dos and 9x, win2000 and xp will prepare you primary drive for installation.  </s>
+<s> creating extended partitions can be done in windows itself.  </s>
+<s> bill .  </s>
+<s> thanks bob.  </s>
+<s> i'll try that.  </s>
+<s> i know that wd sent a cable with their 160 gb drive that required setting the jumpers.  </s>
+<s> i don't know why the bios isn't recognizing the drive.  </s>
+<s> it says the data cable is not connected.  </s>
+<s> but it is and i have replaced it with another new one.  </s>
+<s> i can't help but believe the deleting of everything on the hard drive has something to do with it.  </s>
+<s> thanks  </s>
+<s> if the bios doesn't see the 160gb drive then your bios may have the 137gb limitation. is the bios current?  </s>
+<s> bob  </s>
+<s> thanks bill, i'm from the old school.  </s>
+<s> i do work with computers that run xp and windows 2000 pro.  </s>
+<s> i am from the old dos days.  </s>
+<s> i was trying to get a clean start in my install of windows 2k. i deleted all the data with sure delete.  </s>
+<s> it writes 0's to the hard drives.  </s>
+<s> they are no longer recognized by anything as they were before.  </s>
+<s> except when i boot up the bios has all the drives listed properly.  </s>
+<s> the hd lights come on and stay on a short time like the drive is being read.  </s>
+<s> but when i try to do anything to the drives including the cd that came with the wd drives that has the utilites on it, it does nothing.  </s>
+<s> i have tried to boot up with a floppy and run fdisk but the software said it could not find the drive.  </s>
+<s> everything is new, including the drives.  </s>
+<s> i got in a hurry and wanted to check things out with my old me operating system.  </s>
+<s> i should have waited and loaded 2k on the clean drives..... the cd boots up, but does not start the install process.  </s>
+<s> it says there is no drive.  </s>
+<s> i'll go back to square one and check everything.  </s>
+<s> and try as you suggest.  </s>
+<s> i'll see if the other drive can be accessed and installed to.  </s>
+<s> thanks for you help.  </s>
+<s> yes, the bios is current.  </s>
+<s> as you know windows 2000 pro needs sp3 to be installed to access the remainder of the 23gb's.  </s>
+<s> i knew that and was going to download sp3 as my version already has sp2 on it. is there any other reason the software won't recognize the hd's.  </s>
+<s> i hope i haven't killed my hard drives.  </s>
+<s> i don't think so... but.  </s>
+<s> i assume that the 2000 pro install cd is an oem version as the os was already installed when we got that new computer.  </s>
+<s> it was hit by lightening hard.  </s>
+<s> i work in a radio station with towers close by and we get our share of lightening and electrical static a lot.  </s>
+<s> all our computers are protected as much as they can be with upc's.  </s>
+<s> i look after 5 dos computers, 1 windows 3.1, 2 windows 98, 5 windows 2000 pro and 3 windows xp. why do i do it.  </s>
+<s> we're a very small company with about 12 -14 employees that want to get paid.  </s>
+<s> so we have to keep costs low.  </s>
+<s> didn't mean to get carried away.  </s>
+<s> thanks for your help it is appreciated.  </s>
+<s> thank you!  </s>
+<s> don, thanks a millon for the help.  </s>
+<s> yes, i guess i had been listening to all the horrow stories about windows xp. especially the security.  </s>
+<s> i was glad when ms finally came out with sp2.  </s>
+<s> i had considered using xp because of the audio and video we would be editing.  </s>
+<s> we are a broadcast station and do a lot of cable tv programming too.  </s>
+<s> we had decided to not replace the workstation that was hit by lightening because we needed to be able to do more audio and video editing and preparation.  </s>
+<s> hince the rebuild with all new equipment.  </s>
+<s> everything went fine until i cleaned the hard drives.  </s>
+<s> now they think the data cable is not installed.  </s>
+<s> cute huh?  </s>
+<s> i did replace the cable that was in place with a new one.  </s>
+<s> but all my cables are for setting jumpers to identify the drives and not cables to identify the drives as was suggested earlier.  </s>
+<s> i'm going to go back to square one and check everything and reset the bios to recognize the primary cd/dvd burner.  </s>
+<s> then try to install 2000 pro again from the cd. heck, we may just go ahead and get a new xp operating system.  </s>
+<s> the main thing i don't like is the way microsoft has xp produce a code for all your equipment housed in that computer and then it's hard as heck to make changes.  </s>
+<s> even replace a hard drive.  </s>
+<s> i've been there when we lost a drive.  </s>
+<s> thanks for your help.  </s>
+<s> still fishing... if the bios is seeing the drives but windows is not then ,if serial, you must reset the bios.  </s>
+<s> i don't have a serial drive system in front of me... so this is from memory.  </s>
+<s> find and activate the serial drives re-boot to bios set-up.  </s>
+<s> move 80gig drive to first boot.  </s>
+<s> wish i could be clearer.  </s>
+<s> bill .  </s>
+<s> bill... no, they are not.  </s>
+<s> thanks for the info.  </s>
+<s> yes, i'm looking at the bios too!  </s>
+<s> thanks  </s>
+<s> go to asus motherboard site , and search for thier &quot;bios&quot; update for that motherboard.  </s>
+<s> some mother boards need to be updated to recognize the larger hdds.  </s>
+<s> that may eliminate the not found cable popup, and complete the process.  </s>
+<s> thanks, i'm going to do that.  </s>
+<s> it should be the latest and greatest upgrade for bios.  </s>
+<s> but, hay who knows.  </s>
+<s> thanks for your input.  </s>
+<s> will do that.  </s>
+<s> thanks  </s>

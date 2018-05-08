@@ -1,0 +1,16 @@
+<s> i just redistributed the free space on my hard drive for one partition via norton partition magic.  </s>
+<s> switching originally with 130 gb to 250 gb (the size of the drive) because well.... no one really wants to get only half what they pay for.  </s>
+<s> so, merging the unallocated space i combined the two to make one partition.  </s>
+<s> doing this i noticed that boot time took exceptionally long.  </s>
+<s> (8 minutes almost.) so what i' am asking is by me merging the two make windows take forever to boot?  </s>
+<s> thanks, jack hanington  </s>
+<s> lets say your pc came with windows xp. since xp's boot manager didn't support over 127gb in the boot drive, you could have later installed sp2 then expanded it and tripped over this nugget.  </s>
+<s> more at that notes this issue with &quot;windows xp.&quot; sorry if this does not apply to your machine but you didn't tell all the details.  </s>
+<s> bob  </s>
+<s> partitioned and formatted the unused space and moved some of all of the data to d: ?  </s>
+<s> much better that way for me as thereafter you can do pretty much anything you want with c: leaving my data intact on d: ...if the drive dies or fails mechanically, there's no advantage.  </s>
+<s> but if c: becomes corrupt or won't boot ...i can re-image c:, restore or reinstall c: without touching d:. for me, partitioning provides the ounce of separation for broader alternatives solving problems with drive c:. re booting...shouldn't increase booting vapcmd  </s>
+<s> sorry bob, i have a 250 gb drive and the computer was originally installed with xp pro sp2.  </s>
+<s> no problems when it was installed.  </s>
+<s> this might be true on the other versions.  </s>
+<s> you might want to look into it a bit further.  </s>

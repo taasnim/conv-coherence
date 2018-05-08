@@ -1,0 +1,17 @@
+<s> hello, i want to add memory to my p3 computer and my board support sdram memory.  </s>
+<s> i tried to put 2x 512mb pc133 sdram memory, but my bios recognize only 256mb total.  </s>
+<s> i updated to the bios to those details(b1120iag.bin  </s>
+<s> goto and check there for definite answers for ram.  </s>
+<s> enter your data and verify against what you have.  </s>
+<s> i suggest you verify you have similar is not paired ram or maker, hi or low density type, and the timing /speed of each.  </s>
+<s> you may have to play with it and also to delve into the bios to increase voltage level as a final tweek if needed.  </s>
+<s> oldeer systems tend to be picky on how the ram was installed.  </s>
+<s> tada -----willy  </s>
+<s> look at and as you dive into this issue you discover it's just a limit of the old bx chipset. the best sticks for those old machines were 128mb sticks and fill all the slots.  </s>
+<s> bob  </s>
+<s> thank you all for a fast answer, i'm looking for the solution.  </s>
+<s> sorry, was i unclear here?  </s>
+<s> let me try blunt. the memory sticks are incompatible but will register as 128mb sticks and may function as such fine.  </s>
+<s> trying blunt again. the chip and board design doesn't support this memory size.  </s>
+<s> is that clearer?  </s>
+<s> bob  </s>

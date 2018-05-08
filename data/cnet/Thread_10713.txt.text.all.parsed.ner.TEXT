@@ -1,0 +1,18 @@
+<s> i would need help on the following problem: one of these scenarios can happen scenario 1: during boot my hdd is not recognized and the boot sequence finishes with 'ultra100 bios not installed, because there are no drivers attached' scenario 2: however sometimes the hdd is recognised and the pc powers up and starts win2000 as normal.  </s>
+<s> everthing is running fine for a while until suddenly the hdd stops to 'operate' and the pc 'crashes' and subsequently returns to scenario 1. firstly i am puzzled why i get this ultra100 message because no controller ultra100 is actually inserted in one of the pci slots.  </s>
+<s> secondly i wonder why the hdd is sometimes detected and the other time not.  </s>
+<s> during the faulty boot sequence i've also received the message 'check cables' - which i did but with no idea what to do - everything looked fine to me.  </s>
+<s> listening to the hdd it sounds like it sometimes simple stops 'turning' the disk.  </s>
+<s> my motherboard is a asus cubx-e with a primary master / slave and secondary master / slave.  </s>
+<s> please note: i am not a hardware person - but i understand what to do if the answer is not written in techy language.  </s>
+<s> are my bios settings screwed?? (and why what that be - have not made any amendments to hard- or software - problem occured out of the blue).  </s>
+<s> your help is appreciated.  </s>
+<s> are my bios settings screwed?? not unless you changed them.  </s>
+<s> presume this just started happening.  </s>
+<s> look to a power problem and, or possibly controller / drive fault.  </s>
+<s> do the standard things like run an external fan on the open case and see if it runs longer before a fault - could be drive cooling.  </s>
+<s> remove unecessary devices and see if it runs longer (less power consumption) check the connections - both sides - drive and at controller and controller and pci slot.  </s>
+<s> try changing slots if necessary which will require re-installing drivers etc. back everything you need asap  </s>
+<s> thanks a lot for this prompt reply.  </s>
+<s> a lot of ideas - i will start checking what you have suggested in the next couple of days and come back letting you know what the situation is.  </s>
+<s> your support is appreciated.  </s>

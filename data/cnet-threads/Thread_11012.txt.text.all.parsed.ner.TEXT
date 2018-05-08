@@ -1,0 +1,31 @@
+<s> hi all, i have a linksys wrt54gh. the signal strength is extremely poor.  </s>
+<s> 50% after about 1 metre.  </s>
+<s> not visible after about 5-6 metres (direct line of sight).  </s>
+<s> have tried all standard fixes: have updated to the latest firmware, factory reset and power cycled.  </s>
+<s> there are no other wireless networks appliances or devices that would provide interference.  </s>
+<s> have experimented with channels, thresholds, transmit type, encrypted/open, intervals etc (every option available in standard firmware)..no luck.  </s>
+<s> all software and drivers are up to date, and relocating the modem does not help.  </s>
+<s> i've opened the router up and all the internal components look fine.  </s>
+<s> no blown capacitors, scorching or breaks.  </s>
+<s> i suspect the issue is thus due to the signal transmit strength being set low, however this is not something i can check using the standard firmware.  </s>
+<s> the default transmit stringth is about 17mw +- 1.5 so if it's transmitting properly it should have a lot more range.  </s>
+<s> additionally wrt custom firmware is not an option because the flash memory is only 2mb. on the wrt54g, you can parse a linux kernel command through ping to boost signal strength.  </s>
+<s> the same command doesn't work on the wrt54gh however.  </s>
+<s> i'd like to know where i can go from here.  </s>
+<s> cisco forums suggested i post on a 3rd party site which is what i'm doing now.  </s>
+<s> i don't consider buying a new router to be a &quot;solution&quot;. thanks for your help!  </s>
+<s> i assume you have tried multiple pc type devices with the router to show its the router.  </s>
+<s> this sounds like a defective router.  </s>
+<s> i would have guessed you could have gotten a router with the wrong country since some countries do not allow the same transmit power but when you have issues at 1 meter that's not it.  </s>
+<s> most routers that do not have replaceable antenna and are not trying to save power transmit at maximum signal levels and you normally cannot even think to change that.  </s>
+<s> most the time you load the custom firmware to reduce the power not increase it.  </s>
+<s> in their quest to cut costs many new routers have dumbed everything down and only included the most basic features.  </s>
+<s> it is unlikely there are any user accessible commands to change the radio.  </s>
+<s> many of these options if they exist can only be changed by solder in a jtag cable... assuming it has a jtag port in the first place.  </s>
+<s> on a hardware side the only fixable thing would be if somehow the internal antenna was detached from the radio.  </s>
+<s> most these routers had a three year warranty but if you have taken it apart that may not be a option.  </s>
+<s> thanks for responding.  </s>
+<s> finally someone who knows what they're talking about yup tried multiple devices.  </s>
+<s> pcs, blackberries, iphones, laptops. the router is out of warranty so i can hack at it all i like.  </s>
+<s> there's no jtag port unfortunately. the antenna is a caltronics internal antenna, connected directly to the pcb.  </s>
+<s> there doesn't appear to be any break in the circuitry between it and the radio.  </s>

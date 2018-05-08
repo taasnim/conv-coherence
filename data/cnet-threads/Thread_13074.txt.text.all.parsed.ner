@@ -1,0 +1,6 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (VP (VBD lived) (PP (IN in) (NP (NP (NNS areas)) (SBAR (WHADVP (WRB where)) (S (NP (NN power)) (VP (VBD went) (PRT (RP out)) (ADVP (RB frequently))))))) (, ,) (ADVP (RB sometimes) (NP (NP (JJ several) (NNS times)) (NP (DT a) (NN day)))))) (. .)) )
+(TOP (S (NP (PRP it)) (VP (AUX does) (RB n't) (VP (VB seem) (SBAR (IN like) (S (NP (PRP it)) (VP (MD could) (VP (AUX be) (ADJP (JJ good)) (S (VP (TO to) (VP (AUX have) (S (NP (DT the) (NN electricity)) (VP (VBG going) (PRT (RP off)) (ADVP (RB suddenly)) (PP (IN without) (NP (DT the) (JJ usual) (NN system) (NN shutdown)))))))))))))) (. .)) )
+(TOP (NP (NP (DT any) (NNS ideas)) (PP (IN about) (NP (DT this))) (. ?)) )
+(TOP (S (NP (DT the) (JJ previous) (NN message)) (VP (AUX was) (VP (VBN supposed) (S (VP (TO to) (VP (AUX be) (PP (IN for) (NP (NP (DT the) (NN &quot)) (: ;) (NP (NN computer) (NN on/off&quot)) (: ;) (NP (NN debate))))))))) (. .)) )
+(TOP (S (VP (VB buy) (NP (DT a) (JJ good) (JJ backup) (NN power) (NN unit))) (. .)) )
+(TOP (S (VP (VB try) (VP (VBG apc) (NP (JJ backup) (NNS ups)))) (. .)) )

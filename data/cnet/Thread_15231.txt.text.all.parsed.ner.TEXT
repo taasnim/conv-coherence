@@ -1,0 +1,33 @@
+<s> i just bought and installed ati 9800 pro and it works great in xp, but i also use alot of bootable devices - such as floppys, cd-roms, etc...and as soon as the system bios is done, the screen goes blank and i get a 'no signal&quot; message on my monitor.  </s>
+<s> help !!! i have spent 2 days trying to figure this out.  </s>
+<s> xp professional ati 9800 pro 2.8gig mhz 1.5 gig memory dvd cd-rw 160 gig hd 80 gig hd 20&quot; viewsonic monitor  </s>
+<s> bob  </s>
+<s> the system bios is set to agp, i have the 9800 set as default, but i have also turned on and off in testing the bios vga.  </s>
+<s> nothing has changed in this computer except i went from a 9700 to a 9800pro. is there a way to reinstall the 9800 bios? it seems like it's not seeing it - only the operating system is finding it after it boots up.  </s>
+<s> i also reinstalled the software twice.  </s>
+<s> you haven't written much.  </s>
+<s> bob  </s>
+<s> no signal means ...no signal.  </s>
+<s> doesn't matter what i am trying to do - there is no signal - shows on the screen the message no signal.  </s>
+<s> unless i boot to windows - then it is fine.  </s>
+<s> never had any problems with the ati 9700.  </s>
+<s> please go back and read the original message.  </s>
+<s> thank you.  </s>
+<s> if you want to get uppity when i double check an item, then i'll wish you well and not tell you my thoughts.  </s>
+<s> gives us a clue you can try connecting the tv out to see if this tricks the card into 60 hz so you can flash the board's bios back to stock.  </s>
+<s> i can only guess you had tried to overclock the board with that other bios.  </s>
+<s> but that's just me guessing.  </s>
+<s> bob  </s>
+<s> you're right, i am a little upset, but not at you or anyone trying to assist.  </s>
+<s> i am sorry if i sounded harsh in my last posting.  </s>
+<s> it wasn't meant personally.  </s>
+<s> i also understand people getting a little tense.  </s>
+<s> and i'll pitch in where i can. as it stands, this is the only trick i know of so far.  </s>
+<s> bob  </s>
+<s> i am wondering if, because the radeon card has both analog and digital outputs, this might be a factor.  </s>
+<s> also, does your monitor have both analog and digital inputs?  </s>
+<s> if the above are true, i would try some cable swapping and/or input selection from the monitor itself to see if you can get a screen from an alternate boot device.  </s>
+<s> since i just added a new card(ati), this is fresh in my memory.  </s>
+<s> something very simple, but people do forget.  </s>
+<s> you did remove the 9700 in manager before shutting down and changing out the cards.  </s>
+<s> fwiw chuck  </s>

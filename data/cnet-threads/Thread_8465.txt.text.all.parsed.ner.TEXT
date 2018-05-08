@@ -1,0 +1,45 @@
+<s> in one graphics forum i visit, someone had said that if you have a second hard drive in your computer, and you do not install any operating system files on that drive and just put your files on it (my case would be word and excel files, graphics, and an user created game content), that should you get a virus on the main drive, it wouldn't harm your documents on the slave.  </s>
+<s> is this true?  </s>
+<s> i'm curious since office max is having a really good sale on some drives this week and wanted to know if it's worth the drive to the store for a look.  </s>
+<s> thanks in advance  </s>
+<s> today's pests don't stop at drive c. bob  </s>
+<s> i use folder lock on my all my other drives and important folders, but that would not stop a virus or other spyware from getting into my other drives or folders when opened.  </s>
+<s> (folder lock is a very good utility to purchase.) i try to make it a habit to run my security tools on drive c:and shut down my internet service before i open any off the other drives.  </s>
+<s> when i run ad-aware, nortons antivirus, microsoft windows malicious software removal tool, all off them checks all drives.  </s>
+<s> go get that extra drive: good luck wendell h  </s>
+<s> i have several external hard drives, but before i put anything on them from one of my internal hard drives, i disconnect from the internet, run a couple of anti-virus programs & spyware programs before transferring any data to my external hard drives.  </s>
+<s> my external hard drives are only turned on once a month or less often even doing that there is no guarantee that my anti-virus and spyware programs picked up everything.  </s>
+<s> sorry but if you have any files related to a virus it will find it no matter what drive it is on, including and not limited to usb drives.  </s>
+<s> backup all data you wish to keep on cd/dvd and then you will not have to worry about virus infecting your files.  </s>
+<s> a second hard drive won't protect your files.  </s>
+<s> there have been viruses that purposely seek out files with a particular extension such as .doc,  </s>
+<s> .xls,  </s>
+<s> etc. and either infect them or delete them.  </s>
+<s> there was one virus years ago that would seek out .mp3's and delete them (lets just hope the music people don't get their hands on that one). the best protection is a backup to a cd-r/rw or dvd-r/rw.  </s>
+<s> make sure your virus protection and spyware protection is fully updated and you will be fine. the only thing a second hard drive protects you from is the loss of files when the o/s drive either needs to be reloaded or dies completely.  </s>
+<s> i have had to help recover files on many friends computers because they saved their photos and personal files to the c: drive and then the boot partition got corrupted or the drive up and died.  </s>
+<s> after paying my bill many of them added a second drive or external and started doing backups.  </s>
+<s> i say get the second drive but still think about keep backups on a more permanent media.  </s>
+<s> primitive man had it right....backups were carved in stone.  </s>
+<s> i have my backups stored on an external drive which is switched off at normal computering.  </s>
+<s> to me it seems that is a fine firewall to virusses.  </s>
+<s> am i right?  </s>
+<s> max  </s>
+<s> i always had an infected (you wouldn't believe how infected) os but all the files that were put on my d drive are a-ok.  </s>
+<s> i have no antivirus, no firewall, no nothing.  </s>
+<s> anyway, most crap disturb the windows directory and the registery so if i were you i would not worry.  </s>
+<s> some virii can &quot;lurk&quot; in the background, and just wait until other files are available.  </s>
+<s> when you turn on the drive so you can access it, so can the virus!  </s>
+<s> 1) you are asking for troubles by not having an antivirus or a firewall.  </s>
+<s> 2) with no protection available viruses can move around and therefore a 2nd hd is not the guarenty.  </s>
+<s> 3) it happened to me, i have two sata hds, the virus hit my second sata drive 4) the best protection is you, do not let anybody use your computer and if they do, do not ever let them use their own floppies or cds, and check every removable media before you operate it or run it.  </s>
+<s> there are so many things wrong with this that i am not sure where to begin.  </s>
+<s> no av, no firewall??? what system are you running and how is it running?windows  </s>
+<s> os? on a 56k or some sort of broadband connection(god forbid) is your machine one of the zombies that tries to crack mine at least 3or 4 times a day?  </s>
+<s> there is a reason why the rest of us run firewalls, proxies spend huge amounts of time (and money, sometimes...especially in cleaning up the aftermath of a security breach).  </s>
+<s> there is a saying out there, &quot;if you are not part of the solution then you are part of the problem&quot;.  </s>
+<s> as we speak my firewall deflects yet another helkern attack.  </s>
+<s> if i go to my firewall records i can find thirty or forty instances from the past few days, of this same attack, by about 7 or 8 different ip's.several different machines who's owners are probobly blissfully unaware that their machines are being remotely used to try to subvert others out there, along with mine.  </s>
+<s> they might have been just like yourself, criminally irresponsible in leaving the armory (your pc) sitting there wide open and unlocked( no firewall,ids,av)so that joe cyber-terrorist( aka joe script kiddie) can run his programs on your machine every time it connects to the internet and use your processing power, bandwidth and information etc etc to snipe at the rest of us.  </s>
+<s> please, for your own sake and that of any one else out here, protect us all and lock up yer damn gun! as for the fella whose question you were trying to answer, if the file system canbe accessed by the infected computer ( a live connection of any sort) than it can be affected, if the virus/worm/trojan is targeted at that file type.i  </s>
+<s> guess i would have to say that some sort of inert media is your best bet for secure data storage(floppy/cd/etc).  </s>

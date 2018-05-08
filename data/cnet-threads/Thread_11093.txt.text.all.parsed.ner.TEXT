@@ -1,0 +1,37 @@
+<s> right so specs.  </s>
+<s> intel dual core processor 2.7 ghz vdata ram 2x 1gb atx 500w power supply 160gb sata hdd and the bane of it all asus p5kpl am in/gb mother board now the problem.  </s>
+<s> i just baought this mother board and got the processor with it im getting the 1 long 2 short beeps for video error i dont currently have a video card installed im trying to use the internal.  </s>
+<s> im hoping you experts out there can give me a miracle fix so i dont have to replace the mother board i know its relatively cheap but im an unemployed student so replacing really isnt a good option.  </s>
+<s> thanx for your help  </s>
+<s> the operating system&quot; it would really help if we had which o/s you're using; because if i go to the asus support site, it automatically wants to know which o/s you're using.  </s>
+<s> i figure you're probably having issues with a missing (updated) video driver, so here is the link: just input click on 'motherboard', socket, model #, then click on what o/s you're using, this will take you to their 'download' page for everything (including bios, drivers, manuals, etc.)  </s>
+<s> i've not seen this on mbs with an internal device but could imagine such if the internal video is defective or disabled.  </s>
+<s> did you check to see if it's disabled.  </s>
+<s> drivers won't cause beeps as these are hardware failures.  </s>
+<s> do make sure you are correct about the beep codes.  </s>
+<s> bad ram is another common cause of beeps.  </s>
+<s> thank you for your help so far but how would i check if it's desabled ?  </s>
+<s> with asus cards i've seen, you just tap the escape key beginning right after power is applied.  </s>
+<s> but, if it just beeps immediately, you won't get that far.  </s>
+<s> if you can enter the bios, you need to look for the the option regarding on board devices.  </s>
+<s> i can't tell you exactly where they are.  </s>
+<s> if it is the video chip, these have sometimes been known to have solder connections go bad.  </s>
+<s> there isn't much you can do about that unless you can find the bad connections (need magnification) and are very good with your soldering skills.  </s>
+<s> if it is the video chipset, you can just get an add in video card.  </s>
+<s> bad ram or the cpu can cause beep codes but you'd need a listing of those for your bios to narrow down the probable causes.  </s>
+<s> good luck.  </s>
+<s> for asus motherboards (bios)  </s>
+<s> im getting 1 long beep then 2 short it means a video error.  </s>
+<s> so i get nothing on screen at all.  </s>
+<s> i have no soldering skills with computers.  </s>
+<s> if i go and buy a video card do you think that will possibly solve the problem?  </s>
+<s> than trying a video card appears to be your only option.  </s>
+<s> hopefully the store will take it back if this doesn't work out but even a lower end graphics display card will offer video improvements over what you've become accustomed to.  </s>
+<s> just have to go buy a graphics card apparently mine doesnt fit the bard sits to close to the case, any recomendations on a decent video card?  </s>
+<s> &quot; the only that a video error has occurred and the bios cannot initialize the video screen to display any additional information.  </s>
+<s> this beep code consists of a single long beep followed by two short beeps.  </s>
+<s> any other beeps are probably a ram (random access memory) problems.  </s>
+<s> &quot; this quote comes directly from phoenix technologies-post beep codes  </s>
+<s> will getting a card fix this then ?  </s>
+<s> here's the asus link for your motherboard; it tells you what exactly will fit your board, the link is also for any and all downloads-just have to specify what o/s you're using.  </s>
+<s> htis page can take you to whatever you probably need for the board, just have to search on the site a bit.  </s>

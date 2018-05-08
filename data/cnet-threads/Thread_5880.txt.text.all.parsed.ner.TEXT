@@ -1,0 +1,19 @@
+<s> i'm trying to install a ati 9200 pci video card.  </s>
+<s> but whenever i install the card, i have no video, even though there is a on board apg video, and i'm plugged into it.  </s>
+<s> i remove the card and i have video thru the apg again.  </s>
+<s> i've tried using the bios settings to get it to see the pci slot video, but it doesn't seem to matter how the bios settings are configured, card in slot, no video.  </s>
+<s> i've been told i need to update my bios.  </s>
+<s> it's a ami, thru the board manufacturer, pcchips, i got a installer and the updated bio's, but when i try to update, i get a message, &quot;chipset/flash part isn't available.  </s>
+<s> the function will be invalid.&quot;.  </s>
+<s> using bios agent, version 3.45, i get this info, bios date: 07/15/95, bios type: american megatrends, bios id: 62-0707-009999-00101111-071595-000000-m741lmrt, oem sign-on: release 07/07/1996s, chipset: sis 626 rev 2, superio: ite 8661/sis rev 6 found at port 279h, os: windows me version: 4.90.3000,  </s>
+<s> cpu: pentium iii 550 mhz, bios rom in socket: yes, bios rom size: 256k.  </s>
+<s> any idea why i can't update the bios or another reason for the video card problem?? the computer works fine, just wanted to ungrade the video.  </s>
+<s> so right now use the integrated video, go into control panel, system, device manager, video or w/e, and disable it.  </s>
+<s> shut down, install the card, and start it should work.  </s>
+<s> roger  </s>
+<s> i've not only tried to disable, but i've even tried deleting the on board drivers.  </s>
+<s> no video with pci card installed.  </s>
+<s> have you downloaded these?  </s>
+<s> already downloaded and installed, but without the video card in the slot, they are not active.  </s>
+<s> still put video card in slot, no video, and yes i have the monitor plugged into the pci video card or the onboard video (apg) and no video signal, but as soon as i remove the pci video card i get signal over the onboard video (apg).  </s>
+<s> i only have 1 pci slot.  </s>

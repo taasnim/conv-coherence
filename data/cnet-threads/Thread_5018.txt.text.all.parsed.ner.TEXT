@@ -1,0 +1,29 @@
+<s> hi everyone, i would appreciate any help.  </s>
+<s> here is my problem.  </s>
+<s> i have 2 windows accounts.  </s>
+<s> let's name them account a and account b. when i log on to account a the cd and dvd drives work perfectly and when i switch to account b, they don't.  </s>
+<s> i get the following message &quot; drive:is not accessible.  </s>
+<s> access is denied&quot;.  </s>
+<s> if i log on account b they work and then switch to account a, they don't.  </s>
+<s> that means they work only with the first account.  </s>
+<s> they use to work on both accounts.  </s>
+<s> i would grately appreciate any help.  </s>
+<s> thanks a lot  </s>
+<s> if so, look up burnrights.  </s>
+<s> bob  </s>
+<s> hi bob, thanks for you message and sorry for not answering sooner.  </s>
+<s> yes, nero is on the machine.  </s>
+<s> i'll give a try for burnirights and let you know.  </s>
+<s> rafik  </s>
+<s> hi bob, i just tried the burnrights and it didn't work.  </s>
+<s> i still have the same problem the drives.  </s>
+<s> when i double-click on the drives in windows explorer, it still says that the drives are not accessible.  </s>
+<s> so far it sounds like the classic incd issues.  </s>
+<s> look up remove upperfilters lowerfilters on google.com after uninstalling nero.  </s>
+<s> this is pretty proper stuff if there is no cd in the drive (you didn't say.) or the user has no rights.  </s>
+<s> bob  </s>
+<s> hi bob, thanks again for your message.  </s>
+<s> indeed, there was a incd issue, but even if there is a cd/dvd, it does that, but i finnaly found out from where the problem came.  </s>
+<s> some program changed the the rights for the devices.  </s>
+<s> i just gave the rights back and it works!! thanks soo much for your help.  </s>
+<s> have a good one rapheek  </s>

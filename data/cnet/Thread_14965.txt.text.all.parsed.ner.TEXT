@@ -1,0 +1,26 @@
+<s> hi all.  </s>
+<s> im new to this forum and hoping you all can help.  </s>
+<s> i'm gutting my dell optiplex case and replacing it with a dell dimension 8400 mobo, p4 3.4 ghz proc, new power supply, etc.... my problem is this. .  </s>
+<s> . .  </s>
+<s> i carried over my 20gb ide (ata/100) boot drive and my 200gb ide (ata/133) into the new build.  </s>
+<s> my new mobo has 4 sata connections, 2 pata connections, and 1 floppy, 1 ide connection.  </s>
+<s> i bought 3 sata to ide converters so i could connect my ide drives into the sata mobo connections.  </s>
+<s> two of the converters were used for the hds and the other was used for one of my two dvd drives.  </s>
+<s> the other dvd was connected to the ide slot.  </s>
+<s> at system boot, all seemed to go smoothly but my os (win xp pro) never started up.  </s>
+<s> running win setup to try and recover the os, i got an error screen stating that windows detected a potential fatal error if it were to proceed.  </s>
+<s> it cited that my hd either had a virus or there was a problem with the hd controller.  </s>
+<s> i know my hd does not have any viruses.  </s>
+<s> i reverted my system back to what it was before my build and here i am using my system just fine.  </s>
+<s> im wondering if the sata to ide converters are not compatible with my hds.  </s>
+<s> if so, what might you all recommend???? thanks all  </s>
+<s> you said you had &quot;my new mobo has 4 sata connections, 2 pata connections, and 1 floppy, 1 ide connection.  </s>
+<s> &quot; can't you just plug the ata ide drives into the 2 pata connections?  </s>
+<s> i maybe lost here but i thought that ata was the same as pata.  </s>
+<s> &quot;s&quot; in sata is serial and &quot;p&quot; in pata is for parallel, which has been added to ata to keep confusion at bay.  </s>
+<s> i'm lost again.  </s>
+<s> you are totally right.  </s>
+<s> the connections i was referring to were pata connections.  </s>
+<s> so my floppy connections (ide) and my dvd connection (ide) are my pata.  </s>
+<s> sorry for the mix-up  </s>
+<s> more at link.  </s>

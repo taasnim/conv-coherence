@@ -1,0 +1,27 @@
+<s> i have bought an 80 gb hard disk.  </s>
+<s> what file system should i go for fat or ntfs & why?  </s>
+<s> & i also wish to know how many partitions i should go for.i have read somewhere that a hard disk should have several partitions, one for the os (in my case it is windows xp), one for program files, one for my documents, one for music & video files & one for the memory cache created by the os. is it beneficial to have so many partitions?  </s>
+<s> & how much should i allot per partition?  </s>
+<s> if you've got windows xp as os, make it an ntfs disk.  </s>
+<s> it's better for xp. personally, i would be quite happy with 1 partition.  </s>
+<s> but you could decide to make a second one for the really big files like video.  </s>
+<s> they might become less fragmented there (although you won't see any difference in speed), but it will speed up the occasional defrag of your 'normal' partition.  </s>
+<s> but that's all.  </s>
+<s> how much space to allot for this second partition (if you decide to do so) is dependent on how much really big files you want to put onto the machine during the lifetime of this hard disk.  </s>
+<s> if you can't make a reasonable prediction (and you probably can't) don't do it and just have 1 partition.  </s>
+<s> kees  </s>
+<s> partition.  </s>
+<s> i never have figured out why people add partitions.  </s>
+<s> my various drives (5) on three pcs have one partition each.  </s>
+<s> i put my &quot;stuff&quot; in different directories.  </s>
+<s> mine: two maxtor 80gb with 7 partitions.  </s>
+<s> partition e: (ntfs, 20gb) for winxp sp2.  </s>
+<s> partitions c, d: ntfs partitions f, g, h, i: (fat32)  </s>
+<s> reason: 1. ntfs: - file security - stability: one program dies, others still alive - more efficiency disk usages 2. at least 03 partions: - less risk: if windows crack (c), still have a chance to recovery data on other partion (d).  </s>
+<s> - defragment much more easy.  </s>
+<s> - have one drive for other experiment (example drive e to install a dual os - linux, xp media....) also i would make drive c (os system) at least 15-20gb since all your temporary files (internet....) will be stored in c) there are more reasons that should go for ntfs.  </s>
+<s> do google search for more.  </s>
+<s> primary hard drive always has two partitions .... - partition 1 ...for the os and the apps.  </s>
+<s> - partition 2 ...for all data, downloads, updates, etc., the advantage here is partition c could get corrupted or won't boot but you could still reformat c:, install the os and apps and what's on d: should still be there.  </s>
+<s> it's your first step toward isolating and protecting your data in a single hard drive system.  </s>
+<s> not failsafe but better in my opinion than the single partition in the event of drive or os corruption.  </s>

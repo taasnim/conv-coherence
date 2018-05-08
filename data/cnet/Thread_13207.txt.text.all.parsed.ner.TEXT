@@ -1,0 +1,11 @@
+<s> it is a 200gb seagate drive, 200gb ide.  </s>
+<s> i have tried the drive in multiple computers, with the same result: nothing. the bios and windows 7 will not recognize the drive.  </s>
+<s> it was my friends drive and this is his 3rd drive he had die, and he had it full of game data and saves. is it salvageable?  </s>
+<s> at the top are titles to try and then the usual recovery house.  </s>
+<s> bob  </s>
+<s> hey! dear check the storage forum of hardware forums there might be you will get the solution for recovering your data.  </s>
+<s> serious failures can result from numberous faults.  </s>
+<s> when the drive first spins up and the control card imitializes properly, the drive should then try to read the clock track and put the read info in the buffer awaiting the mobo ide interface to initialize and collect that data and insert it into the bios for comparison.  </s>
+<s> a mismatch would give an error message, no drive detected would give a boot device failure.  </s>
+<s> recover services can run very expensive depending on the failure.  </s>
+<s> replacement of the control card or as severe as having the platters removed (in a clean room) and placed in a drive mechanism to recover the data.  </s>

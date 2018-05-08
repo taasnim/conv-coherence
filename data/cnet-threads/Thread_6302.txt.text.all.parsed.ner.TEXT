@@ -1,0 +1,16 @@
+<s> greetings all, i'm new to the forum and i hope someone will be able to offer some advice.  </s>
+<s> sick of onboard &quot;agp&quot; graphics which wouldn't play dvds faster than 10 fps i decided to buy a cheap pci graphics card; a 32mb pine 3d phantom (based on the sis 315e chipset).  </s>
+<s> i installed it into a motherboard from an unknown manufacturer with the via apollo mvp4 chipset. the card refuses to give any output whatsoever despite me changing the &quot;primary vga&quot; in bios to &quot;pci card&quot; from &quot;agp&quot;.  </s>
+<s> also i disabled the onboard agp but there was still no response from the pci card.  </s>
+<s> interestingly enough, with &quot;onboard agp&quot; set to &quot;disabled&quot; the onboard graphics still produces an image.  </s>
+<s> in addition, when i allow the machine to boot up win98se it doesn't detect the card.  </s>
+<s> i've swapped ethernet and modem cards around enough to determine that all the pci slots work.  </s>
+<s> also, when i put the pci graphics card into my shuttle, it boots first time and uses the pci card as the primary vga device.  </s>
+<s> what could possibly be wrong?  </s>
+<s> cheers.  </s>
+<s> you don't tell us the brand/model of the system you are currently using or the motherboard if it is a non branded system.  </s>
+<s> that is really important to know to help.  </s>
+<s> unless i installed a hardware dvd decoder, i never found a software solution to play dvd on even a k6-2-500.  </s>
+<s> it just didn't have the oomph to pull that off.  </s>
+<s> i'll write that's not going to fix it.  </s>
+<s> bob  </s>

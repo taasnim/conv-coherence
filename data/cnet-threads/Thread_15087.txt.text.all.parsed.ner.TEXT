@@ -1,0 +1,19 @@
+<s> i am facing the problem of the power surge on hub port--&quot;usb input device has exceeded the power limits of its hub port&quot;.  </s>
+<s> when this problem occur, my usb keyboard and mouse disconnected, can't use at all.  </s>
+<s> when i restart it again, the window cannot start and every peripherals are disconnected.  </s>
+<s> how exactly to solve it?  </s>
+<s> thx for advance's advices  </s>
+<s> that bothers some there is no exact cure.  </s>
+<s> or how would you define exact.  </s>
+<s> read for solutions i've used. the exact cure may depend on what you demand.  </s>
+<s> most use the common cure, a few took up arms to battle the maker to fix the issue or driver.  </s>
+<s> i can share the later never turned out well.  </s>
+<s> bob  </s>
+<s> under universal serial bus controllers for any that say &quot;unknown device&quot; though the port is empty.  </s>
+<s> i have one of these in mine now after an &quot;event&quot; that has now crippled something in the southbridge.  </s>
+<s> during the event, that chip got very hot and i had no usb functionality at all.  </s>
+<s> after powering down overnight for things to cool and restarting the next day, usb functionality only partially returned.  </s>
+<s> i have one dead port (the one that says unknown device).  </s>
+<s> i can use any of the other ports fine but any second device plugged in elsewhere gets the message suggesting it's running at usb 1.1. the only solution for me was to buy a pci-usb controller.  </s>
+<s> i can live with it.  </s>
+<s> obviously something died.  </s>

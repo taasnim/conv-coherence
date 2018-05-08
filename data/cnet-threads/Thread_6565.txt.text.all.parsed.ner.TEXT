@@ -1,0 +1,40 @@
+<s> trying to rule out power supply and video card , before motherboard.  </s>
+<s> i followed instructions in another thread about measuring voltages with the computer on.  </s>
+<s> the 12v and 5v rail checked out ok. i was not able to find an aux connector.  </s>
+<s> is there a 3v aux with my computer?  </s>
+<s> e machines t6420 athlon 64 3400+ here are the symptoms: on a few occasions, my computer would kick into a mode with the fans racing after i walked away for an hour or two.  </s>
+<s> (had to hold power button in for 10 seconds to turn off) sometimes the screen saver would be frozen also and i detected sounds.  </s>
+<s> i turned off the hibernate mode thinking that might be causing this glitch but it recurred again with the fans racing. the last time this happened i turned the computer back on and the fans stayed in this racing mode and the screen remained black.  </s>
+<s> (won't boot} the video is nvidea geforce 6100 and i assume this is built in as there are no other cards.  </s>
+<s> could this be why i have no monitor (amber light is on) yet monitor works with my other computer?  </s>
+<s> would putting another video card in the open pci slot bypass the built-in video?  </s>
+<s> thank you  </s>
+<s> sounds more like a mobo problem to me.  </s>
+<s> have you tried clearing your cmos and booting from default settings (i doubt if it will help but if its a bad mobo there's not much you can do besides replace it).  </s>
+<s> your fans run on 12v. the 3.3v are for the processor and memory.  </s>
+<s> look for &quot;bleeding&quot; capacitors.  </s>
+<s> you psu is probably not the problem.  </s>
+<s> and neither is your video card.  </s>
+<s> sooooooo.... guess that leaves the mobo.  </s>
+<s> sorry.  </s>
+<s> and life goes on... jack  </s>
+<s> how do i check for 3.3v aux as i don't see a connector like that to test?  </s>
+<s> what exactly am i looking for with a bleeding capacitor.  </s>
+<s> is this a visual check, and what will you see?  </s>
+<s> pictures galore...  </s>
+<s> thanks r. proffitt, i found no leakage or expansion so at least visually they look ok. this board is 1 yr.  </s>
+<s> old though i understand it can happen with new ones too.  </s>
+<s> how do i check for the 3.3v to the cpu as that's the one voltage i haven't been able to check.  </s>
+<s> in another thread, someone posted a link with pictures showing how to check these voltages but it failed to discuss the details about the aux if mine actually has one?  </s>
+<s> there are 2 connectors from the power supply to the board.  </s>
+<s> how would you know if it's the cpu or the motherboard if that is the problem?  </s>
+<s> how would you know if it's the cpu or the motherboard if that is the problem?  </s>
+<s> sadly you need a good board to test the cpu on.  </s>
+<s> power supplies are thankfully plentiful at the shop bench.  </s>
+<s> -&gt; about the other items.  </s>
+<s> be sure to check the cmos battery voltage too.  </s>
+<s> on some boards if it's too low, the board never comes out of reset.  </s>
+<s> bob  </s>
+<s> battery voltage was 3.3 for a cr 2032.  </s>
+<s> after doing this i read you need to write down settings which i didn't do.  </s>
+<s> of course the system is not booting up anyway and the monitor is blank.  </s>

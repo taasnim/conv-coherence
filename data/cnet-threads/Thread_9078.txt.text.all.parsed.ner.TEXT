@@ -1,0 +1,51 @@
+<s> i have a emachines t5212 with a dual pentium (2.66) with an intigrated video card.  </s>
+<s> as of now im thinking about getting the xfx geforce 8600 gts extream, thinking that the xxx may run a little hot from what ive read from people, and i dont know if the 8800 will fit in my case (but im not sure).  </s>
+<s> my question is, which works best with intel nvidia or ati or does it matter.  </s>
+<s> and are my assumptions about the overheating and size correct.  </s>
+<s> thanks!  </s>
+<s> hey dude.  </s>
+<s> you are absolutely right about the size and overheating.  </s>
+<s> now i have seen the 8800 gtx with my own 2 eyes.  </s>
+<s> it measures exactly 10.5 inches in length.  </s>
+<s> i measured it because i'm planning to have one in my new system.  </s>
+<s> so i would suggest you measure the distance from your available pci-express slot (the one u want to use) to whatever the graphics card may touch.  </s>
+<s> if it is less than 11 inches, you probably can't put the gtx in there.  </s>
+<s> also, since the gtx is power hungry, it requires two 6-pin pci-e power connections from the power supply.  </s>
+<s> make sure your power supply has these connections.  </s>
+<s> and, how many watts does your psu output ?  </s>
+<s> i would want at least about 700w if i'm planning to have a gtx.  </s>
+<s> finally, what kind of cooling does your case have.  </s>
+<s> make sure it has good air flow and ventilation, or perhaps you may think about water cooling.  </s>
+<s> bottom line is this (for 8800 gtx): about 11 inches clearance, two 6-pin pci-e power connections from the power supply, at least 700w power output, and good cooling.  </s>
+<s> about nvida vs ati, i'd go with nvidia.  </s>
+<s> i believe its more popular and widely used than ati.  </s>
+<s> but go with whatever works best for you.  </s>
+<s> hope this helps.  </s>
+<s> good lookin out.  </s>
+<s> i just bought this power supply on ebay .  </s>
+<s> it doesnt say it has any 6 pin pci-e connection.  </s>
+<s> i hope this will work with an 8600/8800 card or i just threw away 30 bucks.  </s>
+<s> do i need to worry about the height or just the length is what can be a concern.  </s>
+<s> i hope the prices go down once ati releases their dx10 cards.  </s>
+<s> but the psu you bought does not have any pci-e power connections.  </s>
+<s> it's not gonna work with your 8600 or 8800.  </s>
+<s> keep in mind the 8600s need one 6-pin pci-e, while the 8800s need two 6-pin pci-es.  </s>
+<s> considering the height, there is one concern: your card (if it is an 8800) is going to block the adjacent pci (or pci express) slot because it is pretty thick and covers 2 slots instead of 1. this is not a hazard or anything. it just means that the slot below (with the case upright) your 8800 card will become useless.  </s>
+<s> if you need a good power supply which will supply enough power to your graphics card (and everything else), i recommend the thermaltake w0106ru atx 12v 2.2 700w power supply.  </s>
+<s> you can get it on this page: .as  </s>
+<s> you'll see, it has 2 pci-e power connections just for your graphics card(s).  </s>
+<s> it has modular cabling so you don't have unused cables lying around in your case blocking the flow of air.  </s>
+<s> and, it has really good reviews (about 91% positive 4star/5star reviews).  </s>
+<s> i know its a bit expensive but you need it or something like it for your graphics card.  </s>
+<s> hope this helps  </s>
+<s> thanks.  </s>
+<s> i was reading more into the power supply issue for the conection to my card and found that they make a adaptor which takes 2-4pin connections and converts them into a 6pin if i understand this corrcetly.  </s>
+<s> i think most cards come with this adaptor.  </s>
+<s> im thinking of going with the pny 8800 gts (640mb).  </s>
+<s> thanks for your help  </s>
+<s> this is what i would need correct??  </s>
+<s> running on my dell with stock 305w psu.  </s>
+<s> card minimum is 300w.  </s>
+<s> dell underrates their psu's.  </s>
+<s> card just fits in slot with no additional power connections needed.  </s>
+<s> if you go to a 8600gts one is needed.  </s>

@@ -1,0 +1,78 @@
+<s> hi. i need help looking for a compatible hard drive.  </s>
+<s> i have 1.6 gighrz pentium 4 intel, 512 mb ram, only 13 gig hard drive (maxtor), dvd rom, cd rom, cd-rw.  </s>
+<s> i would like to upgrade the 13 gig hard drive to a 40 gig hard drive.  </s>
+<s> (i really don't need anymore than a 40).  </s>
+<s> what kind/type of hard drive should i purchase.  </s>
+<s> any coments will be appreciated.  </s>
+<s> thanks!  </s>
+<s> hello, depending on the connection of your computer---either ide or sata, there are many hd's available.  </s>
+<s> i recently purchased a 250gb drive for what a 40gb would have cost about 18 months ago.  </s>
+<s> i have used maxtor and western digital and have had good luck with both brands.  </s>
+<s> maxtor may be somewhat cheaper in cost.  </s>
+<s> i would suggest that you buy one with a 7200 rotation speed and with the largest capacity you can afford.  </s>
+<s> drive space fills rapidly.  </s>
+<s> frank  </s>
+<s> laptop or desktop ?  </s>
+<s> might there br room to use both hdds ?  </s>
+<s> how are you backing up this system ?  </s>
+<s> is the bios up to date ?  </s>
+<s> what is your computer make & model?  </s>
+<s> what operating system are you running?  </s>
+<s> windows xp? xp(sp1)?  </s>
+<s> xp(sp2)?  </s>
+<s> other? it is very likely that a computer with those specifications can only take a pata drive and not a sata drive (without adding a pci controller card).  </s>
+<s> so you need to get an ata/100 or ata/133 drive. the lowest capacity drives today are usually 80gb.  </s>
+<s> you will find some 40gb drives, but there is little price difference between them and the 80gb models.  </s>
+<s> check your local store websites for the rebate special hd of the week.  </s>
+<s> you can get over 100gb for less than $50 usd.  </s>
+<s> note that there is a bios and operating system support issue for drives over 127gb and 138gb.  </s>
+<s> see .  </s>
+<s> so you should be safe with a 120gb or smaller pata drive.  </s>
+<s> more information on size issues:  </s>
+<s> if you find a 40gb, great, but usually all too often 80gb and larger are being sold at sale prices quite often.  </s>
+<s> any 40gb may not be new(be sure) as rebuilds or refurb units are being sold in that capacity.  </s>
+<s> i feel you may be better served buying a 80gb or better hd and feel your system can support it.  </s>
+<s> if 80gb+, you can partition it into 2-40gb (virtual) 40gb hds to suit even further your 40gb needs.  </s>
+<s> in most cases, when buying a new hd buy the *hd kit*, that way you get all the goodies for a new hd install.  </s>
+<s> so-called oem or whitebox hds usually lack the small goodies that make a new hd harder to install.  </s>
+<s> though you can get the same s/w via the hd support website but not the little h/w. the cost is worth it and in a sale is a real plus.  </s>
+<s> last, take my advice once the data or required data is transfered to new hd, remove the old hd and store it.  </s>
+<s> lessen any chance that dual hds will put excessive power demands on your old system.  </s>
+<s> another reason to get a more than 40gb+ hd as you really don't need those 13gb no matter how attached to it, the 40gb+ will fill all your needs.  </s>
+<s> tada -----willy  </s>
+<s> oem drives by seagate at newegg fo 20 gb, 40 gb and up and the seagates all have a 5 year warranty.  </s>
+<s> here' a link  </s>
+<s> if this is a desktop, i would look at a larger hard drive just for the benefit to virtual memory.  </s>
+<s> if this is for a laptop, i would look at the travelstar hard drives.  </s>
+<s> they are an excellant value.  </s>
+<s> i would look on new egg to find great deals and reliable service.  </s>
+<s> thanks everyone for all your help. it seems that everybody does agree that i would be happier with a larger hard drive than 40.  </s>
+<s> i think thats a better idea too since the prices are not much different.  </s>
+<s> and thanks for the new egg!  </s>
+<s> lots to compare and shop for at good prices!  </s>
+<s> several years ago pc mag was soliciting ideas for software programs that would be valuable for users.  </s>
+<s> i suggested they write a program to help users know what's the largest hhd their system would take with the current bios and without using adding a controller with an onboard bios or perish the thought ...using dynamic disk overlay ?  </s>
+<s> their reply was pathetic at best and suggested it was easy 'just go into the bios' ...and i said could you be more specific to which they never responded.  </s>
+<s> too bad they whimped out on producing software that could have helped so many.  </s>
+<s> considering you can get a 250gb hdd for about a $100 limiting the choices to a 40gb would have been a shame provided the system would have taken larger.  </s>
+<s> anyway...thanks for sharing the refs.  </s>
+<s> was trying to help the lady and reuse the old hdd as a backup and you're telling it'll overwhelm the system ... sheeeesh.  </s>
+<s> i'll be sure to remind her it was your advice that left her with no backup when her system hiccups or dies and she has no backup.  </s>
+<s> you can do the counseling and consoling.  </s>
+<s> vapcmd  </s>
+<s> in addition, i can't stand slow and noisy.  </s>
+<s> i'd upgrade a 13gb 5400rpm 512k cache drive (or similar) to a 7200rpm 8mb cache drive for those reasons alone.  </s>
+<s> i'd scrap/ebay the 13gb in favor of cd/dvd backup.  </s>
+<s> you're in luck.  </s>
+<s> just today i purchased a new 100gb maxtor sata 8mb 7200rpm hdd for only $39.99 after rebates and instant savings at compusa! this sale is good through this week, and i'd recommend it. the only thing i had to do was to install a serial ata interface card, and that cost me $29.99.  </s>
+<s> i was restricted to only 80gb by my current configuration, and the stores were selling 80gb hdd's for $69.99 as far as the eye could see.  </s>
+<s> if you're wanting to spend another $20, you can get a 200gb instead.  </s>
+<s> the installation was a breeze in xp, and it only took 15 minutes.  </s>
+<s> now i have to do the rest of the stuff such as formatting and partitioning, but the &quot;inside the case&quot; work is done.  </s>
+<s> now i have this 100gb and the original 20gb, with a tiny slave 8gb.  </s>
+<s> as my new drive is much quicker, i'm considering making it my boot drive and putting the os on a partition there.  </s>
+<s> here's a question from me, what's a good plan for partitioning this new 100gb?  </s>
+<s> i will probably ditch the little 8gb at some point unless i can come up with a silly excuse to keep it, but as for the other 2, i'm really unsure of the best way to divy it up.  </s>
+<s> anyone have a good set plan for this?  </s>
+<s> i don't want to waste my space, but at the same time, i hate to make the xp partition too small, for instance, and have my os outgrow it.  </s>
+<s> i appreciate anything to offer, and thanks in advance.  </s>

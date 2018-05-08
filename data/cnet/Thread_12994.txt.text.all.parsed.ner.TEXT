@@ -1,0 +1,55 @@
+<s> in 2003, my wife bought me a sony vaio pc for christmas.  </s>
+<s> 3 1/2 years later, i have unsuccessfully attempted to upgrade my video card.  </s>
+<s> first, i tried a radeon 9600.  </s>
+<s> didn't work.  </s>
+<s> then, i tried a geforce 6200.  </s>
+<s> didn't work.  </s>
+<s> both cards were unstable.  </s>
+<s> finally, although this is hardly an upgrade, i installed a geforce fx 5500. the original card was a radeon 9200.  </s>
+<s> i am getting ready to attempt my final upgrade - a radeon x1300 pro.  </s>
+<s> i know the simple solution would be to buy a new power supply.  </s>
+<s> however, sony vaio power supplies are proprietary - a standard atx psu will not fit the case (tried that too).  </s>
+<s> another solution is to build a new system.  </s>
+<s> i plan to do this early next year.  </s>
+<s> i have read other threads that discuss power supply overloading issues when installing a video card in a system with an under performing psu.  </s>
+<s> my solution is the following: i have disconnected the second internal hard drive.  </s>
+<s> i disconnected the second dvd rom drive.  </s>
+<s> disconnected the floppy drive.  </s>
+<s> my goal is to create more power for the x1300 pro.  </s>
+<s> does anyone think this will work?  </s>
+<s> has anyone successfully installed an x1300 pro or similar card with an underperforming psu.  </s>
+<s> does anyone have any additional advice?  </s>
+<s> system specs: 300w psu pentium 4 2.8 cpu 2 gb ddr 2700 ram geforce fx 5500 gpu seagate 500 gb hard drive dual boot xp pro - vista tv tuner (possible power hog) thanks, michael  </s>
+<s> now this is a celeron socket 775 3.06 ghz, 256 mb ram (1 stick) no hard disk, no cd/dvd drive and radeon x1300 pcie but the result was a power up and the system would reset when the video started.  </s>
+<s> i upped the box power supply to 480 watts and now with the hard disk and cd/dvd it works fine.  </s>
+<s> i also have recently hacked a sony.  </s>
+<s> we used a stock atx supply but bolted it externally.  </s>
+<s> a short power extended was needed but it worked and they haven't changed it yet.  </s>
+<s> bob  </s>
+<s> you know, i have wondered if an external solution would be possible.  </s>
+<s> would you be willing to provide details of how you successfully completed this modification?  </s>
+<s> thanks for the reply.  </s>
+<s> michael  </s>
+<s> there are many such for all such cables if you don't make your own.  </s>
+<s> bob  </s>
+<s> i understand the cable extention.  </s>
+<s> how did you externally mount the psu?  </s>
+<s> we drilled a few holes and screwed it on top of the pc case externally.  </s>
+<s> i think the other method could involve duck tape.  </s>
+<s> bob  </s>
+<s> ...i think i'll skip on the duct tape.  </s>
+<s> mounting the psu on top of the case may be my only option; if i truly want to force power into this old thing!  </s>
+<s> thanks bob.  </s>
+<s> -michael  </s>
+<s> hey..glad your lady got your system man.  </s>
+<s> my thoughts are that since you are bumping up your power supply; you should at least get a 450w one?  </s>
+<s> ...i'm working on it.  </s>
+<s> i'm not sure if an upgrade on this pc is practical.  </s>
+<s> i would like at least 500w, however.  </s>
+<s> as a novice enthusiast, i began to become more and more frustrated with trying to upgrade/mod my oem sony vaio pc. a couple weeks ago, after a &quot;few&quot; drinks, i hit the newegg website, and ordered the parts for my first custom machine.  </s>
+<s> here it is: evga nforce 680i sli mainboard q6600 @ 3.15 ghz zalman 9700 led 2gb corsair dominator @ 1166 mhz 2x evga geforce 8800 gtx 2x 160gb wd raptor (raid 0) 1tb hitachi deskstar quad silencer 750w psu antec nine hundred case windows vista ultimate this machine is a beast! the build went flawlessly, although it took several hours to put everything together.  </s>
+<s> the antec nine hundred is great, however, i will probably move everthing into a full tower case in a couple months - very little room to work with.  </s>
+<s> overclocking the cpu and memory was a breeze.  </s>
+<s> unfortunately, the q6600 (b3 stepping) started blowing chunks above 3.2 ghz.  </s>
+<s> from what i've read, every processor overclocks differently, and i'm satisfied with the results.  </s>
+<s> as for the sony, it's attached to my home network and being used for miscellaneous backups and file transfers.  </s>

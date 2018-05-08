@@ -1,0 +1,22 @@
+<s> i want to know if my system performance will be maximized by having: 2 gb of ddr pc3200 ddr400 2.6v 128meg x 64 or 3 gb of ddr pc2700 ddr333 2.5v 128meg x 72 ?  </s>
+<s> would like to make the right upgrade decision for my system (copu is amd athlon 64 3400+ at 2.2 ghz on msi k8t neo motherboard (model ms-6702 atx mainboard) kevin byrnes  </s>
+<s> unless you edit very large images/videos or use this pc as a server, 2gb should be more than adequate.  </s>
+<s> your motherboard supports dual channel operation so you should always use 2 or 4 dimms for best performance.  </s>
+<s> a pair of ddr-333 dimms in dual channel mode will outperform a single ddr-400 dimm.  </s>
+<s> some motherboards slow down to ddr-333 if all 4 slots are populated.  </s>
+<s> if you've 512mb (or less) using 2 ddr-333 dimmis, replace both and get 2 1gb ddr-400 dimms.  </s>
+<s> if you have one or more 512mb ddr-333 dimms, get additional 512mb ddr-333 dimms to reach 2gb.  </s>
+<s> 2gb of pc3200 (ddr400) ram in dual channel mode wins.  </s>
+<s> that's two 1gb modules.  </s>
+<s> why?  </s>
+<s> 400mhz is faster than 333mhz and not very many windows xp users ever use more than 2gb.  </s>
+<s> make sure you check with the motherboard specs or crucial.com to make sure you are selecting the right ram (the pc2700 looks like ecc ram and that's not necessary).  </s>
+<s> not only is the 400 faster, but if you ever decide to upgrade from there, you'll already be running the faster ram.  </s>
+<s> i always install the fastest ram the motherboard will support  </s>
+<s> just to agree with all.  </s>
+<s> allways get the fastest mem mb will support.  </s>
+<s> adding one more gig of ram may help very specific graphics software if you are editing large photos or videos especially.  </s>
+<s> other than that save up for 2 more of the faster chips  </s>
+<s> it depends on your needs.  </s>
+<s> i don't think you will se difference between 2 and 3gb or ram in windows if you are not working with large real-time video or smth like that.  </s>
+<s> if i had to choose, a take 2gb of faster ram.  </s>

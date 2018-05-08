@@ -1,0 +1,30 @@
+<s> hello, in our networking class, we have the following equipment: dell server running server 2008 enterprise, hosting active directory dell server running server 2003 enterprise, part of active directory dell optiplex gx620 running windows 7 dell optiplex gx620 running windows xp two sonicwall tz100 routers one cisco switch our goal is to have both servers on one router, and both desktops on the other router to be connected via the switch.  </s>
+<s> we have a third switch so we can simulate having two outgoing connections to the internet when we really only have one.  </s>
+<s> we need to be able to connect both servers and both desktops to the internet, as well as share specified files via the network as well.  </s>
+<s> we are able to log in with our domain usernames and passwords on all pcs on the domain, but only the desktops are able to see each other. the servers cannot see each other and the desktops are unable to see the servers, and the servers are unable to see the desktops.  </s>
+<s> the folder we are trying to share is on the server running server 2003.  </s>
+<s> advice?  </s>
+<s> &quot;both desktops on the other router to be connected via the switch.&quot; that &quot;seeing&quot; or seeing items in the network neighborhood only extends to your lan.  </s>
+<s> since you have servers outside your lan, there is no reason to see such.  </s>
+<s> you say this is a class.  </s>
+<s> how could they have missed such a basic thing?  </s>
+<s> bob  </s>
+<s> clarification: the servers are not outside our lan; the switch, routers, servers and desktops are all on the same lan, we are just using one outside/internet line.  </s>
+<s> in this post you state &quot;on the other router&quot; so those are not on the same lan.  </s>
+<s> case closed.  </s>
+<s> bob  </s>
+<s> by &quot;third switch&quot; i meant second, my mistake.  </s>
+<s> both routers are connected to the same switch, so doesn't that make it a lan?  </s>
+<s> and it needs to be on a vpn!  </s>
+<s> both routers are connected to the same switch, so doesn't that make it a lan?  </s>
+<s> no. since the usual setup is to plug the routers wan port to the other lan, network address translation and more is in play.  </s>
+<s> so no, not supposed to work.  </s>
+<s> -&gt; what sort of class is this that doesn't cover how to determine what a lan is?  </s>
+<s> have class content and quality sunk so low that they don't cover a basic item like this? i know the issue of microsoft shares outside a lan is a stumper for the newbies but they catch on fast.  </s>
+<s> bob  </s>
+<s> [img] [/img] that's what we need!  </s>
+<s> i read this is some class.  </s>
+<s> as presented this is one bad class.  </s>
+<s> maybe there's more to this than what you gave but it's not supposed to work as connected and as presented in your first post.  </s>
+<s> if you want to change the setup, start a new discussion with the new setup.  </s>
+<s> bob  </s>

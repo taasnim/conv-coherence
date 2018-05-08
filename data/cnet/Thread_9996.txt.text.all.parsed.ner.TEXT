@@ -1,0 +1,22 @@
+<s> in my device manager under storage controllers, i have an ide controller listed with error message 39 (windows cannot load the device driver for this hardware.  </s>
+<s> the driver may be corrupted or missing.) i've tried running the driver update but a driver can't be located.  </s>
+<s> here's the weird part; i tried uninstalling &amp; reinstalling (by scanning for new hardware in device manager) the controller and when it reinstalled, the name of the hardware was completely different from the first time i uninstalled it.  </s>
+<s> for example; before uninstall it'll be something like aqxfhyw2 ide controller &amp; after reinstall it'll be a completely different series of random numbers &amp; letters.  </s>
+<s> in the properties of the controller, the driver provider, date, version etc. are all unknown.  </s>
+<s> anyone ever hear of anything like this? thanks in advance for any help here are my system specs hp pavilion dv5t 1000 cto intel pro core duo 2 2ghz 4gb ram nvidia geforce 9200m gs graphics card windows vista home premium 32bt service pack 2  </s>
+<s> but driver update is the last tool i suggest using.  </s>
+<s> if you keep at this you learn to find the driver from the maker first.  </s>
+<s> also, code 39 is one of the well discussed failures.  </s>
+<s> if it's working don't fix this.  </s>
+<s> also 4gb on 32 bit oses tend to do this a lot.  </s>
+<s> chalk it up to bad choices made years ago.  </s>
+<s> bob  </s>
+<s> this is actually a manufacturer replacement for the the first computer i ever owned (that was an older pavilion series).  </s>
+<s> that one kept crapping out so they finally replaced it with this, &amp; everything, including the ram, was installed by hp. i haven't upgraded it @ all.  </s>
+<s> that aside, how do i fix this?  </s>
+<s> what will this problem effect?  </s>
+<s> can i just disable it &amp; forget about it?  </s>
+<s> there is another device listed under storage controllers: microsoft iscsi initator &amp; it's working fine.  </s>
+<s> but a few owners go looking at the device manager and find things like this even if the machine is working fine.  </s>
+<s> in those cases my advice is to ignore it.  </s>
+<s> bob  </s>

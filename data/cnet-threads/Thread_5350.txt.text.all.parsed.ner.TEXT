@@ -1,0 +1,20 @@
+<s> hello, is it possible in any way for someone who is using a web-based form to enter & submit data to have a user defined ip address each time the user is logging in and out?  </s>
+<s> e.g: i have a form1 which has to use ip 122.230.255.255 and lets say form 2 to use another ip 123.230.255.255 thanking you in advance for any positive help provided.  </s>
+<s> for information, i am on a network where the ip addresses are assigned automatically by my isp and i dont want to use this ip, i want to use the specific ones which has been provided.  </s>
+<s> best rgds, coolhans82  </s>
+<s> back to the basics i guess.  </s>
+<s> 255 would be a broadcast address and not what we use for an address.  </s>
+<s> here's more about that.  </s>
+<s> &quot; the value of 255 is never used as an address for any part of the ip address.  </s>
+<s> it is reserved for broadcast addressing.  </s>
+<s> please remember, this is exclusive of cidr.  </s>
+<s> when using cidr, all bits of the address can never be all ones.  </s>
+<s> &quot;  </s>
+<s> thanks for the reply.  </s>
+<s> i picked a wrong sample address i guess but my question still remains valid.  </s>
+<s> ip1: 122.2.120.0 ip2: 122.4.109.2 rgds, coolhans82  </s>
+<s> and many other discussions abound.  </s>
+<s> i have serious doubts you will be getting far with such basic ip address issues.  </s>
+<s> your question sounds as if you need some basic courses on web servers and how a log in works.  </s>
+<s> i've yet to find anyone use the ip address.  </s>
+<s> bob  </s>

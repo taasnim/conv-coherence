@@ -1,0 +1,24 @@
+<s> i have had absolutely no problem connecting with my friends' wireless networks in the past on my toshiba sattelite a135 laptop till recently.  </s>
+<s> this past wednesday i was at a friend's house and connected to his network, surfing the internet without incident.  </s>
+<s> however, i shut down to take the back cover off so i could show him where the ram was located (he had new ram coming in the mail the following day and had never installed it before).  </s>
+<s> although we did remove my ram a couple of times, i doubt it has anything to do with the problem because i'm not having any problems at home with my own wireles network connectivity.  </s>
+<s> but at his house, once i rebooted i could never reconnect to his network.  </s>
+<s> today i had the identical problem at another friend's house.  </s>
+<s> in each case their network was listed with a strong signal, but when i tried to connect received an error saying the signal was weak.  </s>
+<s> i have tried what little i knew to fix the problem, but got no where.  </s>
+<s> wireless is something where my knowledge is very limited, so any help would be greatly appreciated.  </s>
+<s> to repair the connection.  </s>
+<s> right click the wireless connection in the system tray and click repair.  </s>
+<s> this will flush the ip address, restart the wireless card, and acquire a new ip address.  </s>
+<s> yes, i actually tried that several times and it didn't fix the problem.  </s>
+<s> the other network was not setup per our forum sticky.  </s>
+<s> that is something like ssid not broadcasting and the next connect fails.  </s>
+<s> i can't explain why this doesn't always work since you can imagine the number of times this comes up in the forum.  </s>
+<s> so here's my advice.  </s>
+<s> read the forum sticky on what we have found to work in most cases.  </s>
+<s> bob  </s>
+<s> this may seem like a dumb question, but where is the forum sticky?  </s>
+<s> i'm not seeing it (probably looking right at it)  </s>
+<s> it's currently the first post in this forum.  </s>
+<s> if you had shared the setup details i may not have started with the forum sticky and thought of something else, but those details are not here (settings, router make, model, version, firmware version, if the laptop works at a free wifi hotspot.) bob  </s>
+<s> was under the same cover and you accidentally disconnected an antenna lead?  </s>

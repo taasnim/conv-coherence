@@ -1,0 +1,20 @@
+<s> i'm looking for a expansion slot expander card.  </s>
+<s> for example: 1 pci express to 2 pci (i know these exist but i dont know where to buy one) or 1 sata to 2 satas etc any ideas??  </s>
+<s> on the pci buss each slot has it's own interrupt to the pci chipset controller.  </s>
+<s> a slot expander can't add this needed signal.  </s>
+<s> similar issues for pci express.  </s>
+<s> as to sata, you might look at adding drives on usb 2.0.  </s>
+<s> not as fast but pretty fast.  </s>
+<s> bob  </s>
+<s> in the dell gx260 desktop there is a card that splits a pci express to 2 pcis.  </s>
+<s> i know they work, exist etc, b/c i've used both at once.  </s>
+<s> i dont know how, believe me i thought a/b exactly what you said, then i put an ethernet card and a firewire card in the slots and used them simultaneously.  </s>
+<s> so i know they work...just dont know how or where to get one.  </s>
+<s> the maker of the machine has to design both pieces.  </s>
+<s> this is not something in the basic intel design.  </s>
+<s> i can see where people may think it's a standard.  </s>
+<s> as to getting the part, you just revealed where.  </s>
+<s> dell.  </s>
+<s> call and order it.  </s>
+<s> will it work?  </s>
+<s> bob  </s>

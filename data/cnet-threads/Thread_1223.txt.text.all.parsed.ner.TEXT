@@ -1,0 +1,98 @@
+<s> back in feb my compaq presario 7599 hard drive crashed.  </s>
+<s> i was running windows 98 and bought the computer in 2001.  </s>
+<s> i got the blue screen of death.  </s>
+<s> when i tried to boot off the floppy, it went into a diagnostics and there was a problem with the fat32 file (or something like that). the only solution was to reformat the hard drive.  </s>
+<s> since the computer was from 01, i decided to postpone the issue and buy a new pc.  </s>
+<s> so i bought an hp media center pc m470n running windows xp. recently i put the old compaq hard drive into the hp to see if i could read the file system and salvage my old files. the hp ran a diagnostics and fixed the problem with the old hd. i was successful in copying my old files onto my new pc.  </s>
+<s> i wanted to have a 2nd pc so i put the hard drive back into the compaq.  </s>
+<s> now when i turn on the compaq, it doesn't boot up.  </s>
+<s> i can hear the hard drive engage, but the monitor is drak and the keyboard is unresponsive.  </s>
+<s> i tried booting off the cd and the floppy, but with no luck.  </s>
+<s> i double checked and the hard drive still works in the new hp.  </s>
+<s> any suggestions to get the hard drive working in the compaq again?  </s>
+<s> thanks, bruce  </s>
+<s> when you put in into the other machine, xp may mark the drive as nonbootable.  </s>
+<s> since you have nothing to lose, i'd use... fdisk /mbr from your dos boot diskette to rewrite the mbr as well as fdisk to make sure the partition is active.  </s>
+<s> bob  </s>
+<s> i was thinking along the lines you suggested, but i get no response from the pc when i've tried booting from the win98 start-up disk i made.  </s>
+<s> i put the monitor on another pc so i know the monitor works.  </s>
+<s> like you said, i have nothing to lose so any other suggestions?  </s>
+<s> bruce  </s>
+<s> i followed the previous advice (kind of) the pc would not boot from the floppy (it didn't seem to get power) or cd, so i put the hard drive into another computer.  </s>
+<s> i reformatted the hard drive and then loaded windows xp on it.  </s>
+<s> however, when i put the hard drive back into the compaq, the pc would still not boot up.  </s>
+<s> i hear the machine go through the power up of the cd drives and the hard drive, but then nothing. the monitor stays dark.  </s>
+<s> i used the monitor and keyboard with the other computer during the loading of xp so i know they work.  </s>
+<s> i tried different connectors to the mother board.  </s>
+<s> and i tried changing the power cables around.  </s>
+<s> could it be the mother board?  </s>
+<s> is this something i could fix myself or do i need to go to a repair shop?  </s>
+<s> thanks, bruce  </s>
+<s> if it can't boot the diskette or cd, then it's unlikely the hard disk boot will work either.  </s>
+<s> but the method you used will not work.  </s>
+<s> here's why.  </s>
+<s> xp picks different drivers to match the machine it is installed on.  </s>
+<s> move the drive to another machine and it will not boot.  </s>
+<s> but your post seems to describe a machine that is dead.  </s>
+<s> with the price of machines going so low, repair costs are too often exceeding a new machine that exceeds the specs of the machine that needs repair... bob  </s>
+<s> thanks for you help!  </s>
+<s> bruce  </s>
+<s> i have a presario 7598 and i am having a hell of a time.  </s>
+<s> yes, i have a different computer, newer that i use but i have the presario 7598 networked.  </s>
+<s> i think my kid got into it, he denies, because i locked him out of the kids computer.  </s>
+<s> it all started when i wanted to burn a cd and noticed the cd write drive wouldn't power on.  </s>
+<s> i usually watch tv on this pc and store stuff.  </s>
+<s> i went to do a factory restore as i found a nasty on the system save.  </s>
+<s> i used nortons trial version of antivirus because my mcafee was getting stubborn about reinstalling.  </s>
+<s> my first factory restore was from the system save.  </s>
+<s> guess, i didn't want to believe my cd/rw drive was kaput.  </s>
+<s> i did all kinds of things unplugged the cdrom and cd/rw and replugged from inside.  </s>
+<s> i like this computer because i never put the screws back in the case.  </s>
+<s> i have added a video card and a tv tuner and ethernet.  </s>
+<s> i also, noticed on hp's site the updates are all different like alot of them not there.  </s>
+<s> anyway, cd/rw still not working and cd rom not recognized in bios.  </s>
+<s> i have 2 restore cd's.  </s>
+<s> i unplugged the cd/rw drive power and ide.  </s>
+<s> great now bios boots from cd. i decide i want to install mandrake linux, with partion windows 98se.  </s>
+<s> ok, i figure my intial factory install was corrupt because i found sulfnbk.exe, crude icon in the system save command file.  </s>
+<s> i had also copied the contents of the restore cd's earlier when it wouldn't boot from cd rom.  </s>
+<s> ok, i go to put the system restore cd's in computer to do a complete factory restore.  </s>
+<s> bango!  </s>
+<s> i get error #29. then i go and unplug hard drive and boot it up and power down and then replug it.  </s>
+<s> i have been in email chat with compaq.  </s>
+<s> they say nortons nav file locked the drive.  </s>
+<s> i have been going nuts.  </s>
+<s> loading old win 98 floppy to boot up.  </s>
+<s> it isn't finding my hard drive.  </s>
+<s> i even tried to load linux but i didn't understand about paraport something.  </s>
+<s> so now i think i should look and see if the hard drive is securely plugged in.  </s>
+<s> i have typed all kinds of things fdisk.exe format, even loaded a system restore from compaq floppy but with an error.  </s>
+<s> i need to reformat drive.  </s>
+<s> operating system not found.  </s>
+<s> if you try and boot an xp hard disk that has been marked bad (xp seems to do this) it also for some unknown reason seems to mark the floppy, (or the bios) so that you cannot boot from the floppy.  </s>
+<s> this has happen on three machines, including my test machine.  </s>
+<s> i remove the floppy power connector, try to boot the machine, the machine informs me of floppy failure, i reconnect the floppy, boot the machine and it will then boot from the floppy.  </s>
+<s> norm  </s>
+<s> i have done so much to this machine win98se, and i have tried to install suse and mandrake linux, and even my xp software from another computer=it fails any installation of operating system.  </s>
+<s> i have partitioned and formatted and over and over.  </s>
+<s> i had win98 dos on the c drive but since i tried to install xp, can't even get dos now.  </s>
+<s> made an xp boot disc and that won't bring up fdisk, i can get to the bios and it is fine.  </s>
+<s> otherwise i now have nothing.  </s>
+<s> something is locking the drive or preventing complete install.  </s>
+<s> how to unlock the drive?  </s>
+<s> i did run dps ide in bios and it came up fine.  </s>
+<s> don't know what to do now.  </s>
+<s> take the hd out of the chain of events by either the bios or removing the power from the drive.  </s>
+<s> this in effect says you can only boot from your floppy.  </s>
+<s> test the floppy by using a boot disk (98 bootdisk?) this will indicate the hd is inoperative because the volumn serial no. (vsn) has indicated to the operating system that something is wrong with the installation.  </s>
+<s> the vsn is one of the ten or so items that if change can cause the disk not to boot and i suspect that it locks all other boot paths (just my hunch). the vsn is recorded on the hd's first sector or boot sector. the only way around this is to rewrite the exact information that was recorded in the windows installation back to the first sector.  </s>
+<s> this is why i make an exact clone of my disk(two hds) and remove it and place it on standby in case i get a virus or any other disaster that will alter this boot disk information (this essentially is what happens when you try and take one hd from one machine to another machine along with ten or more other secret recorded footprints.  </s>
+<s> i am also having problems with my compaq presario 7598, but i can not find my restore cds. is there anyone out there willing to part with their cd or have any other suggestions?  </s>
+<s> thanks.  </s>
+<s> the sources for the restore cds are... compaq(hp), ebay and someone that will let you borrow them... bob  </s>
+<s> i have the restore disks.  </s>
+<s> i have left two messages on your other posts.  </s>
+<s> i dont understand you not responding to all these posts by others and myself.  </s>
+<s> if you want a copy of the restore disks, i will do so for a fee.  </s>
+<s> my address is ae4se@aol.com  </s>
+<s> all the best  </s>

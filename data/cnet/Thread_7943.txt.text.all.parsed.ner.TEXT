@@ -1,0 +1,15 @@
+<s> i have an hp compaq dc7800 small form factor computer with a built in intel q35.  </s>
+<s> i'm trying to install an asus eah4350 silent graphics card.  </s>
+<s> without the card in, the computer boots up completely fine, running windows vista with 2gigs of ram. the asus card uses a pci express slot, but once the card's plugged in, and i power up the computer, it will beep 6 times in sequence with a red light flashing on the front, stop for a second, then start beeping again. the start up hp screen won't run either.  </s>
+<s> any idea on how to install it with it working?  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> that box looks to have a very small power supply.  </s>
+<s> ask hp and asus if the power supply is big enough.  </s>
+<s> my thought is it's power related.  </s>
+<s> bob  </s>
+<s> here is a list of the intel beep codes, scroll down to where it explains the '6 beeps'  </s>
+<s> is there a way besides a psu calculator to figure out how much extra power i have or would be needed to run this card?  </s>
+<s> as in an actual application in windows or something? the entire reason i want to in include this card is because while playing the sims 3, the screen will go black, but comes back darker than before.  </s>
+<s> when the sims is minimized, a warning triangle will appear in the notification area saying that the display driver crashed but has successfully recovered (or something or the sort) so i figured that a new graphics card would be the solution.  </s>
+<s> other manufacturers websites suggest a minimum 300 watt power supply for their hd4350's, you also have to take in consideration that your pc is a 'small form factor', so write down the measurements of your power supply, and compare that to the size of new ones.  </s>
+<s> docuument page discussing installing various graphic cards and what to do.  </s>

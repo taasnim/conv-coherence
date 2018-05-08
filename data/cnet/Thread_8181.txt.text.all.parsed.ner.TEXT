@@ -1,0 +1,136 @@
+<s> i apologize if this is the wrong forum to post this and if anyone can direct me to the proper forum if any, but here goes.  </s>
+<s> i found this site in some searching and i searched the forums.  </s>
+<s> so i thought maybe i could use your expertise for some help.  </s>
+<s> heres the problem i am having.  </s>
+<s> i am trying to fix some issues with my media server through my lg smart tv. i use verizon fios and my lg tv is able to go and connect to the internet access youtube, and netflix etc etc just fine.  </s>
+<s> i have had fios for 3 months.  </s>
+<s> for the first 2 months it worked fine.  </s>
+<s> under the input on the lg tv i would go to dlna network and there it will show all the available choices, the first one was always verizon fios stb (set top box), and then it would show up with my pcs name, and then my pc's name and (insert name of media server) so usually since i use tversity it would show up verizon fios stb james c-pc james c-pc tversity media server i could select the tversity one and access my library and stream through my tv just fine.  </s>
+<s> but 3 weeks ago it stopped working and it would only show up with verizon fios stb.  </s>
+<s> now i have been trying to fix this issue for 3 weeks and 2 days.  </s>
+<s> but yesterday after 23 days i went on verizon fios livechat support and asked them to reset the username and password of my fios router as i was unable to login into it.  </s>
+<s> when the representative took control of my screen and he took me to the router login i reset my password and logged into the router.  </s>
+<s> i didnt make any changes and if i clicked anything it was just basic reduction of security to try and &quot;open things up a bit&quot; and out of nowhere magically it started working again.  </s>
+<s> my tv was now showing dlna network with all the media servers i have running on my pc. since this issue started i tried downloading and installing several since i was thinking the problem was with tversity an not my internet.  </s>
+<s> but when it started working again yesterday it showed on the dlna network input of the tv all of them and tversity, playon, plex, all were working as well as it still showed up the james c-pc and the verizon fios stb.  </s>
+<s> well now here i am 24 hours later.  </s>
+<s> its wednesday morning and i used it 5 hours ago and watched a movie through it this morning, it worked fine.  </s>
+<s> then i had some errands to run and come back 3 hours later, now its not working again... only this time the dlna network under input is completely greyed out and its not even showing up with the verizon fios stb option anymore.  </s>
+<s> i have spent 24 days now with this issue, i have tried all the suggested things i can find through extensive search with google, and any tech support i can try.  </s>
+<s> i have spent hours on the phone with verizon fios tech support, i have spent time on the phone with lg and theyare sending a local technician to come look at my tv this friday .  </s>
+<s> i am wondering if you have any insight into this and anything you can recommend too me to try and get this working.  </s>
+<s> of course verizon says this is not there problem and they cant fix it and i need to contact lg. and i only spoke to 1 out 4 techs at verizon who even knew what dlna meant.  </s>
+<s> and lg is completely clueless, noone is taking responsibility and i dont know how to fix it.  </s>
+<s> i am not tech savvy enough to know much ways of configuring my router and in looking up ways to fix it i have read things about setting up port forwarding or something but i dont understand that at all either.  </s>
+<s> please if you have any ideas i would greatly appreciate them as i am at my wits end with this but i am absolutely miserable not being able to use my media server.  </s>
+<s> thanks very much in advance for any advice you may offer me.  </s>
+<s> i am using windows 7, with an lg lx5500 3d smarttv.  </s>
+<s> feel free to email me at jamesyboi84@gmail.com or respond here if you can offer me any advice, thanks now the technician has called me back too tell me they aree going to bring a new mother board for my tv. this tv is less than 1 year old and fully covered in warranty and i dont think this problem is going to be fixed this way, seeing as i had it up and running less then 24 hours ago.  </s>
+<s> this problem is obviously software based or a router/network configuration problem i feel and i dont think they are going to fix it by installing a new motherboard.  </s>
+<s> i have deleted your other two duplicate posts.  </s>
+<s> there is no need to duplicate posts in these forums.  </s>
+<s> good luck.  </s>
+<s> mark  </s>
+<s> and this is a public forum so folk can see the replies and comment if they have other ideas.  </s>
+<s> lg does not run your home network so they can never help.  </s>
+<s> in fact i've asked here what people think about this issue.  </s>
+<s> consumers may want the hdtv maker to support the home network but will the consumer pay?  </s>
+<s> ok, my first thought is the firewall in the router.  </s>
+<s> i can't take responsibility for any action you take either.  </s>
+<s> bob  </s>
+<s> you say you need to post the same in 3 different forums.  </s>
+<s> sorry but that isn't how these forums work.  </s>
+<s> posting once will get any help that is available from those who help out in all of these forums.  </s>
+<s> but posting more than once with the same problem will confuse the issue as different helpers offer different advice not knowing you have posted elsewhere, and may miss further important information you provide in one discussion but not the others.  </s>
+<s> it doesn't triple the chances, it just causes confusion and time wasting.  </s>
+<s> sorry but posting again elsewhere in these forums and forum policy kicks in.  </s>
+<s> mark  </s>
+<s> i have disabled the firewall in the router and on windows and it changes nothing.  </s>
+<s> i appreciate the input though it was definetely the first thing that everyone suggested everywhere in every post and thing i have found in every place i have looked to try and fix this though.  </s>
+<s> i figure as much of what you say thats why i am completely bugged out about it since lg doesnt run the home network i figure they wont be able to help.  </s>
+<s> i am having a really hard time accepting that its not a network or configuration issue.  </s>
+<s> although since today the dlna input has stopped working completely i am trying to convince myself this is possible.  </s>
+<s> after spending all this time with them today and having lg decide to schedule the local technician to come out i am hoping the guy who comes will know but they called and said they are going to replace the motherboard on the tv so they pushed back the time of coming until they get the part.  </s>
+<s> it was working in the past day though this says too me it has to be a configuration issue, and it worked fine for years before i switched to verizon fios and it worked fine for 2 months until that day 24 days ago when it just randomly stopped.  </s>
+<s> now that i have access to my router i have triied to really favor the device and open up anything i can on it.  </s>
+<s> i figured out which one of them is the tv through the ip address and when looking in my router i can now see it and it does say its active: new-host: connection type: wireless access shared files website blocking block internet services port forwarding view device details rename this device ip address: 192.168.1.3 ip address allocation: dhcp mac address: e8:5b:5b:4c:d7:b8 ethernet: 1 device(s) coax: 4 device(s) wireless: 2 device(s) pc name: new-host connection type: wireless ip address: 192.168.1.3 status: active and as i am typing this the tv is connected to the internet through the proper access point the ip address is 1.1 of my pc though and the tv is 1.3 and i am also certain that my media server(s) are up and running i have 4 oft them up and running and they were all viewable this morning when everything was working until i came back from running errands and they just disappeared again.  </s>
+<s> remember though this time (today) the dlna input is completely greyed out and instead of showing itself lit up and allowing me to click it and access just the verizon fios stb and the rest of the list where my pc name and the media server name would populate since today only the dlna input is gone entirely and doesnt even have the option to go to it for the verizon fios stb (set top box)  </s>
+<s> and in the cnet networking forum we have a lot of fixes collected.  </s>
+<s> the firewall always comes up first.  </s>
+<s> then we look at changing the dns to a google dns (google google dns) but the clue is not in your posts. it could be there is no dlna server to be found.  </s>
+<s> or a windows/antivirus update blocked the server on the pc. the clues are not here. is a long technical reading but the bottomline is this is not consumer friendly today.  </s>
+<s> bob  </s>
+<s> i agree that its possible that there isnt a dlna server to be found, and also that it could be due to a windows update.  </s>
+<s> i am making sure not to use any antivirus due to the complications.  </s>
+<s> there was a definitions update in the last day but i am hoping that just because of that it doesnt remove my dlna server.  </s>
+<s> how about the weird thing where it was working just fine then stopped out of nowhere, but still showed up with the verizon fios stb in the input but now since yesterday when the router was logged into and it started working again but i came home today and it was off and now doesnt even show up with the verizon fios stb in the list.  </s>
+<s> when i came home today to find that dlna network was gone from my tv i noticed that the wifi adapter that comes with the tv and plugs into usb to give me wireless internet on the tv was not lit up either.  </s>
+<s> usually when its plugged in there is a blue light showing its in and active.  </s>
+<s> when i looked at it there was no blue light, i had to remove it and plug it in again to get it to turn back on.  </s>
+<s> but still not even the fios box is showing up there.  </s>
+<s> i did nothing, changed nothing i didnt even turn off the pc let alone change anything or any setting when this started happening.  </s>
+<s> now i did try to reset the router again by restoring it to factory settings since it seemed that fixed it but i am only going backwards here since i cant even see the verizon fios stb on there.  </s>
+<s> just fiugred i would add this too see if anything clicked, but i dont know what else i can add to try and put the clues there to fix it.  </s>
+<s> thanks for trying if you think of anything else i will surely be checking back here.  </s>
+<s> take care thanks  </s>
+<s> -&gt; i can't see your network setup.  </s>
+<s> we know that the fios modem+router+wap can be reconfigured by &quot;them&quot; so what happens if you are on your own lan.  </s>
+<s> no wifi!  </s>
+<s> just ethernet cables to some switched hub and the uplink port of the hub to the fios box.  </s>
+<s> bob  </s>
+<s> its like your on to something and i vaguely understand what you mean.  </s>
+<s> but i dont understand enough to comment or make any actions other than this... i have thought about the idea that something just isnt set up and the way my home network is feels really spread out and its like i have to just reset and refresh and overwrite to fix things.  </s>
+<s> its like were all so used to plug and play that something like this happens and its really hard to figure out why or how.  </s>
+<s> i dont want them to come and replace the motherboard of my tv if this is infact just a configuration issue.  </s>
+<s> but thats what is going to happen on tuesday coming up if i dont solve this and cancel it.  </s>
+<s> i may or may not have elaborated on this but ok its day 25 of this problem on day 23 when they took control of my screen and got me into the router to reset the username and password doing so made everything work again and it showed up all the media servers and i was able to use it fine from day 23-24 morning.  </s>
+<s> i used it yesterday morning (day 24) and then 3-4 hours later when i came home i noticed it wasnt showing dlna network again on the tv. i had not unplugged the tv, or router, or my main pc thats running the media servers.  </s>
+<s> i noticed that the usb adapter that gives my tv internet was not lit up in the back where it was plugged into.  </s>
+<s> so i had to take it out and plug it back in and i got the blue light on and reconnected my internet access point to the tv so i was back in business for internet and i got netflix up to make sure i was connected.  </s>
+<s> but since then (yesterday, day 24) i dont see any dlna network on the input of the tv, i dont even see the verizon fios stb (which has been available too select under dlna network input of the tv this entire first 23 days even when i had no access too my media servers with my library) and thats where i stand now still..no dlna server found at all instead of the dlna network menu being selectablle when i press input and try to change too it on the tv. so this worked for a day and then went literally backwards because of the fact that i cant even see the verizon fios stb now... here is a look at my home network if it helps... pc name: android_9bafc311e72bc366 connection type: wireless ip address: 192.168.1.2 status: inactive pc name: jamesc-pc connection type: ethernet ip address: 192.168.1.6 status: active device name: ip-stb1 connection type: coax ip address: 192.168.1.100 status: active remote access: enabled device name: ip-stb3 connection type: coax ip address: 192.168.1.102 status: active remote access: enabled device name: ip-stb2 connection type: coax ip address: 192.168.1.104 status: active remote access: enabled device name: ip-stb4 connection type: coax ip address: 192.168.1.106 status: active remote access: enabled pc name: new-host connection type: wireless ip address: 192.168.1.3 status: active device name: ip-stb5 connection type: coax ip address: 192.168.1.107 status: active device name: ip-stb6 connection type: coax ip address: 192.168.1.101 status: active device name: ip-stb7 connection type: coax ip address: 192.168.1.103 status: active device name: ip-stb8 connection type: coax ip address: 192.168.1.105 status: active pc name: home-f4c8d501e7 connection type: wireless ip address: 192.168.1.4 status: inactive pc name: geoff-pc connection type: wireless ip address: 192.168.1.5 status: inactive see security hazard verizon.com  </s>
+<s> verizon central verizon business center verizon surround ethernet: 1 device(s) coax: 8 device(s) wireless: 4 device(s) -------------------------------------------------------------------------------- thanks for trying to help and sorry for the run on sentences or what not.  </s>
+<s> i just copy and paste this info from the router login. the tv is listed on the list and is active.  </s>
+<s> the tv is : pc name: new-host connection type: wireless ip address: 192.168.1.3 status: active i have tried to ping it and test connectivity and it works just fine.  </s>
+<s> once again i don't entirely know that i understand what you wrote, or at least i dont know what to make of it to try and fix this.  </s>
+<s> but i do feel like its possible that i have internet but my tv isnt accessing the right network too access my media servers?  </s>
+<s> i have thought about this for weeks since it made no sense too me that i could still access the internet but not my media servers.  </s>
+<s> when i go into my computer i see the following as up and running: james c-pc is under computers .  </s>
+<s> i have 5 media servers up and running and they all say they are running on network 2 and this is where my computer is connected too that gives me internet access &quot;network 2&quot; and under network infrastructure it says actiontec &quot;wireless broadband router&quot; and it says network location network 2 any more idea's?  </s>
+<s> i hope this helps, but if there is any other information i should collect to show you then please just tell me what to check and i will put it in for you too see.  </s>
+<s> thanks again  </s>
+<s> sorry but that's quite off the charts.  </s>
+<s> i don't think i can help you.  </s>
+<s> bob  </s>
+<s> i am able to shed some new liht on this which may or may not be able to fix it heres the thing i found... my problem started when i switched from an actiontec 9100em what happens is basically i can not stream anything from wireless to wired connections or vice versa.  </s>
+<s> i am able to temporarily fix this by going into setup-advanced-yes-ip address distribution and change it from dhcp server to one of the other options and then change it back and all works, until the connection resets i have tried every setting i can think of, and was thinking maybe i need to reflash the firmware to fix it?  </s>
+<s> any help would be appreciated .... report inappropriate content message 1 of 12 (359 views) ....reply ... ....... ... i can duplicate this fix and get all the access too all the media servers and all my libararies too stream on my ps3 or my tv. but when i do it disconnects me from the internet on my tv and on my ps3 so obviou8sly this is progress, but its not the solution i need.  </s>
+<s> in order to regain internet on my tv, and my ps3 i have to reset my router to factory settings.  </s>
+<s> obviously i need to be able to keep my internet on my tv, ps3, and have access too all my media servers.  </s>
+<s> maybe this clue will help u be able to solve this?  </s>
+<s> i dunno what to do next.  </s>
+<s> they came and replaced the motehrboard of the tv so its obviously somethoing to do with the routers&gt; advanced setting&gt; ip address distribution... because if i change it from dhcp server to dhcp relay or disabled all media servers then show up but i cant use the internet on the tv or ps3.  </s>
+<s> any ideas please?  </s>
+<s> install an average run of the mill wifi router and turn off the firewall in the router.  </s>
+<s> your last story reminds me of client isolation but with all these modem/router/wifi makers calling firewalls by various names i can't tell what they did.  </s>
+<s> since the verizon box is under their control i'd remove that from my list for awhile.  </s>
+<s> bob  </s>
+<s> i tried to connect my cisco router to back of verizon router and use it in addition as i was suggested too when i was on the phone with verizon trch support but it would not get past &quot; waiting for dhcp leash &quot; or something like that.  </s>
+<s> but ya i will try it without the actiontex fios router at all and let u know the result.  </s>
+<s> thanks for checking back on this even though u did not think u could help.  </s>
+<s> you sir are most appreciated.  </s>
+<s> thanks  </s>
+<s> painful.  </s>
+<s> that's why i suggest folk google this next: &quot;how to use a router as a wap?&quot; with that i can get 3 more ethernet ports and wifi under my control and rules!  </s>
+<s> bob  </s>
+<s> this has been driving me crazy.  </s>
+<s> all of my pcs and media devices (except 1 - windows 7 x64 connected by coax through nim100) could see each other. the windows 7 x64 box could see network devices but could not see media devices.  </s>
+<s> upnp, dlna, ipv6, ssdp, etc were not routing properly to/from this device.  </s>
+<s> i have been uninstalling updates and software for 2 weeks.  </s>
+<s> i've changed all of my firewall settings, disabled av's, rebooted the router, changed pc name, changed ip, ran wireshark - everything.  </s>
+<s> nothing was fixing this.  </s>
+<s> now up to the last month or so, everything had been fine for a year.  </s>
+<s> i finally came across this article and changed my dhcp type and back again.  </s>
+<s> now everything is visible again!  </s>
+<s> for how long, though... sidenote: my router shows firmware version 20.20.0 - this shouldn't be from all the sites i went to.  </s>
+<s> i never changed it either.... thank you for the workaround!  </s>
+<s> kalvinski  </s>

@@ -1,0 +1,12 @@
+<s> hi there, i have tried to install my cx3200 on my vista laptop with the drivers cd that came with the printer - but it didn't work.  </s>
+<s> now i have read on the epson website &quot;do not use the cd that came with your printer!&quot; but they don't explain what to do if you have done this! anyone know how i can remove the old drivers and install the correct ones?  </s>
+<s> thanks in advance martin  </s>
+<s> 1. unplug the printer and in the printer control panel right click and remove, delete, uninstall (pick what shows up.) 2. now i boot safe mode, check that again and in the device manager and remove it if found.  </s>
+<s> finally with the printer unplugged i install the new drivers per epson's notes.  </s>
+<s> bob  </s>
+<s> trouble is epson say &quot;plug the printer in and let the wizard automatically install from the internet&quot; but it never mentions the internet but just tries to reinstall the drivers that were previously installed!! cheers  </s>
+<s> has the 21mb download and other things.  </s>
+<s> as i say, it just wouldn't take the drivers for some reason  </s>
+<s> now share the error message when you run the installer for your printer from that download.  </s>
+<s> remember we can't see or know all you did.  </s>
+<s> bob  </s>

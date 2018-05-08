@@ -1,0 +1,82 @@
+<s> i'm trying to select a service (can't afford t1) from which to serve my site.  </s>
+<s> i can only afford business class dsl or cable with 1 or more fixed ip. right now dsl is the front runner because the sales pitch for dsl stated that cable won't let me run my own mail server for whatever reason.  </s>
+<s> in terms of speed the two services tell the same lies on one another.  </s>
+<s> cable says dsl is slow during peak hours due to bandwidth sharing and dsl says the same is true for cable. the truth is that both methods share bandwith and are susceptible to performance degradation during peak internet traffic at some point.  </s>
+<s> dls seems more geared toward my budget but there isn't that much of a difference between the two in terms of price.  </s>
+<s> that is to say: if one can offer a (real) performance gain over the other, then i definitley prefer the performance.  </s>
+<s> i plan to host a website and an smtp server from my connection.  </s>
+<s> i'm also leaving the option of adding my own pop3 server open.  </s>
+<s> my main concern is this. is it a fact that the mail servers can't be hosted over a cable connection as the dsl companies claim.  </s>
+<s> or is this just sales propaganda.  </s>
+<s> i've spoken to the cable companies but could not get a straight answer.  </s>
+<s> this is why you can't trust salespeople.  </s>
+<s> can i trust what they are telling me.  </s>
+<s> both seem to be purposely telling little white lies to get my business. the ability to run the e-mail servers may end up being the deciding factor between the two for me.  </s>
+<s> ps: i know about the companies blocking certain ports that limit the services that i can run.  </s>
+<s> i was hoping that purchasing the right kind of package would prevent this inconvenience.  </s>
+<s> &quot;actual speed will vary&quot;.  </s>
+<s> this is a direct quote from cox communications, who provides cable-based internet in my city (wichita, ks).  </s>
+<s> i graduated from college with a degree in computer science, including (of course not limited to) courses in a+ (hardware/software), n+ (networking), and windows 2000 professional/advanced server.  </s>
+<s> broadband was covered in n+ extensively and also some in 2000 pro/server.  </s>
+<s> you have one statement yourself that is &quot;bogus&quot;.  </s>
+<s> &quot;both methods share bandwidth&quot; is not true.  </s>
+<s> cable does, dsl doesn't.  </s>
+<s> that is why cox says &quot;actual speed may vary&quot;, they can't guarantee any speed (call your cable provider, tell them you want guaranteed speeds, and see how hard they laugh.  </s>
+<s> go ahead, it will make their day).  </s>
+<s> with dsl, you buy a package of a given guaranteed speed for a certain price.  </s>
+<s> here's why cable can't guarantee speed; they put you into a network with (in my town) around fifty other subscribers.  </s>
+<s> you share your bandwidth with all of them.  </s>
+<s> if nobody else in your &quot;network&quot; is online, you will get the maximum speed (around 3 or 4 mbps).  </s>
+<s> but woe if you all get online at once!! it will be slower than dial-up.  </s>
+<s> that's why cox gives no speed guarantees, and all cable companies operate the same way.  </s>
+<s> dsl is different in that my bandwidth is my bandwidth.  </s>
+<s> if my neighbor is using dsl and is online at the same time, it will not slow my connection or download speed one bit. the only way dsl &quot;shares bandwidth&quot; is the way we are all sharing bandwidth right now.  </s>
+<s> as i am on the internet using the server that keeps the internet operating, i am &quot;sharing&quot; bandwidth will all other internet users.  </s>
+<s> but no, dsl's structure (i would get &quot;geek&quot; all over you if i went into detail about it) keeps one's bandwidth from fluctuating just because other people are using the same isp.  </s>
+<s> if a bunch of people either from one isp or from all isp's are accessing the same website, or something like that, then the speed will go down.  </s>
+<s> but you still aren't sharing your bandwidth.  </s>
+<s> as far as hosting a website, you are now talking about having static ip addresses.  </s>
+<s> one guy in networking class was talking about setting up a website to sell stuff, instead of using e-bay.  </s>
+<s> he checked with cox, and the price for static ip's were too much (i don't remember the exact price, but like $100 a month more).  </s>
+<s> he ended up getting dsl, and received 5 ip's for less than what cox wanted for one.  </s>
+<s> that may be what the deal is with cable not allowing you to run a mail server as well (some cable companies won't even give static ip's). the one's that do allow it may force you to pay extra for it, too.  </s>
+<s> what it all boils down to is do you want &quot;blazing fast sometimes/slow as a turtle other times&quot; speed, or do you want fast speed consistently within a 200-300 kbps range?  </s>
+<s> me?  </s>
+<s> i am running basic dsl, which is 384 kbps guaranteed.  </s>
+<s> i frequently check my speed at and am coming up with speeds 1200-1300 kbps because i am only about six blocks from the telco's central office.  </s>
+<s> my downloads at most sites usually download around 1.4 mbps, so i'm happy.  </s>
+<s> btw, i have had dsl for five years now.  </s>
+<s> out of the fourteen guys in networking class and pro/server(including the instructor, who already had dsl), all but two had switched to dsl by the end of class, including four that switched from cable (the other two lived too far from town to get anything other than satellite--don't do that, it totally sucks due to inconsistent speeds). the books didn't do anything but give the structure and design of the two, and let us decide for ourselves what the best is.what  </s>
+<s> do conclusion do you think we came up with?  </s>
+<s> i guess it shows, huh?  </s>
+<s> before, you read this long reply let me sum it up in this initial paragraph.  </s>
+<s> most of what both types of providers says can be taken as truth.  </s>
+<s> however, both types of technology have various dependencies that affect your overall bandwidth.  </s>
+<s> you will find just as many people with positive &quot;opinions&quot; about each technology.  </s>
+<s> some of these opinions are based on theory and some based on hands on experience.  </s>
+<s> in the real world you will get balanced performance from each type of technology, but you are more than likely going to get less than satisfactory performance out of dsl, than cable.  </s>
+<s> it would prob be best to make your decision based on what your local providers can provide you and the cost.  </s>
+<s> a better question might be, &quot;which of your providers is the best to go with?&quot; ereedks is totally correct. the cable companies' claim is totally based on a broader view of dsl structure.  </s>
+<s> cable says that dsl shares bandwidth because in a broader sense it does.  </s>
+<s> with dsl, the bandwidth that you pay for is the bandwidth that you are allocated to use.  </s>
+<s> what other users pay for is what they are allocated to use. the overall bandwidth that each person in a an area is given, does come from the same place.  </s>
+<s> this is what allows cable companies to claim that the bandwidth is shared.  </s>
+<s> i must say, however, do not be fooled by the phrase &quot;uses an always-on dedicate connection.&quot;  </s>
+<s> dsl does have a couple of dependencies that will make your bandwidth vary.  </s>
+<s> before your information gets to or comes from the internet connection it passes through a device called a dsl access multiplexer(simple device but, i'll not go into details).  </s>
+<s> it basically provides a link for multiple users to a main line(usually a t1) that connects to the internet.  </s>
+<s> the more connections there are to this dslam, the more likely your connection will vary. the second noticeable dependency is distance from the dslam. the further away from the dslam that you are, the more your bandwidth will be affected.  </s>
+<s> the distance factor is not a reason not to choose dsl but it may affect the choice of the provider and the cost of the service.  </s>
+<s> as ereedks stated, he does not live far for the telcom's headquarters.  </s>
+<s> that alone may promise a good connection for him/her. the same may not be true for you.  </s>
+<s> i am currently using a cable connection, and it is very stable and the speed fast.  </s>
+<s> however some issues did arise when i approached my cable company about getting a static ip address to host a site.  </s>
+<s> also, i must admit that i am disappoint that the d/l bandwidth rarely reaches the max bandwidth allotted my service.  </s>
+<s> however, i haven't seen any better performance out of dsl.  </s>
+<s> a major deciding factor might be the overall price of dsl. the initially costs of dsl(including installation) are much higher than cable.  </s>
+<s> and the long-term benefits may not be any better than cable which usually costs less for the same &quot;real world&quot; performance.  </s>
+<s> theoretically dsl is a better performer than cable but in the real world, this better performance usually isn't seen, but the potential of the technology keeps the price comparative to or higher than those of cable.  </s>
+<s> and a very important note, wireless lans usually are less stable on dsl. the best way to really decide is, to call your local providers, both cable and dsl, and get details on exactly what they provide and how much it costs.  </s>
+<s> you do not have to have cable tv, just in case you didn't know already.  </s>
+<s> i am a computer science student, i have never had dsl installed in my own home, but i have a lot of hand-on experience using it.  </s>
+<s> some friends and a few family members use it in their homes.  </s>

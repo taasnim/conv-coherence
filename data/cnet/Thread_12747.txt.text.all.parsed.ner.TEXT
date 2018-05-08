@@ -1,0 +1,35 @@
+<s> i have an intel 915gev motherboard that appears to be operating normally.  </s>
+<s> it detects some cards just fine, but not my linksys pci wireless network adapter.  </s>
+<s> at first i thought the linksys card was dead, so i returned it and got a new one.  </s>
+<s> well this one doesn't work either.  </s>
+<s> i've tried it in multiple pci slots (including one that i know works for another card), and i get nothing. the card does not show up in the device manager, even when i tell it to search for new hardware.  </s>
+<s> the install software won't run without the card detected.  </s>
+<s> a) is there any sort of known problem with these newer intel boards and linksys cards?  </s>
+<s> b) what are the odds that i got two defective cards in a row?? c) is there any sort of manual way to force this thing to work without relying on the autodetect?  </s>
+<s> odds of 2 bad cards, very low.  </s>
+<s> you did use static protection didn't you?  </s>
+<s> if not, then you could have blown the boards, admittedly unlikely, but still possible - especially in winter when the humidity is lower, and less likely to &quot;bleed off&quot; the static buildup.  </s>
+<s> check for bios updates for your motherboard, plug and play may not recognize the board if it came out after the bios (for configuration purposes).  </s>
+<s> however, i'm reasonably certain that it should show up in the pci scan that flashes by late in the boot sequence.  </s>
+<s> there can be voltage compatibility problems in the pci bus.  </s>
+<s> older pci boards used +5 volts, newer ones use +3.3v.  </s>
+<s> (some will auto sense, and use either) there is a slot key that prevents plugging in the &quot;wrong&quot; board, but since it was a late breaking add-on i'm believe that it won't prevent all cases of incorrect installation.  </s>
+<s> likewise for the 66mhz key.  </s>
+<s> interesting ideas.  </s>
+<s> i tried updating the bios.  </s>
+<s> didn't help, but probably good thing to have done anyway. the card wants 3.3v, but i can't find a spec on what voltage the pci bus is trying to source.  </s>
+<s> how can i tell?  </s>
+<s> i went through intel's web site and literature with no luck ... can you tell by looking at the board????  </s>
+<s> i'm afraid my concern about voltages was a red herring in this case.  </s>
+<s> it's a new motherboard, so it certainly should provide 3.3v, and you said thats what the card wants, therefore voltage is probably not the problem.  </s>
+<s> of course, if all your other pci boards used +5... but i wouldn't chase it very hard.  </s>
+<s> sorry, but i'm out of ideas.  </s>
+<s> you don't have another system to try it in do you?  </s>
+<s> ok ya know whats crazy?  </s>
+<s> i'm having the same problem... i have an old aptiva though pii 350 512megs of ram, 40 gig running windows xp pro.  </s>
+<s> i've installed regular nic's no problem, but i actully have 4 different kinds of wireless nic's (i'm a pc tech) and the pc/winxp won't detect any of them! it picks up all the regular nic's no problem, but when it comes to the wireless... forget about it!  </s>
+<s> i'm lost... i'm updating bios now, if that doesn't work i'm out of idea's!  </s>
+<s> i quit.  </s>
+<s> i returned the card to the retailer (thanks again dell for your forgiving return policy!). i'm planning on taking it into my local pc repair joint and make them put in a card.  </s>
+<s> i tried updating bios, by the way.  </s>
+<s> i got nuthin.  </s>

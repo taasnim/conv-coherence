@@ -1,0 +1,7 @@
+(TOP (S (S (NP (PRP i)) (VP (AUX have) (NP (DT a) (NN gateway2000)))) (CC and) (S (NP (PRP i)) (VP (AUX need) (NP (DT the) (JJ bootup) (NN disk)))) (. .)) )
+(TOP (SQ (AUX do) (NP (NN anyone)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (PRP i)) (VP (MD can) (VP (VB find) (NP (NN one))))))) (. ?)) )
+(TOP (S (VP (MD will) (VP (VB serve) (PRT (RP up)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (AUX need) (RB ....) (VP (VB choose) (NP (NP (DT the) (JJ right) (NN disk)) (PP (IN for) (NP (NP (DT the) (NN version) (NNS windows)) (SBAR (S (NP (PRP you)) (VP (AUX have) (VP (VBN installed)))))))))))))) (. .)) )
+(TOP (S (RB then) (VP (VBD put) (NP (DT a) (JJ clean) (JJ floppy) (NN disk)) (PP (IN in) (NP (DT the) (NN drive))) (, ,) (S (VP (NN click) (NP (DT the) (NN .exe)))))) )
+(TOP (S (S (VP (VB file) (S (NP (PRP you)) (ADJP (JJ downloaded))))) (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB create) (NP (NP (DT the) (NN bootdisk)) (PP (IN for) (NP (PRP you)))) (PP (IN in) (NP (IN about) (CD ten) (NNS minutes)))))) (. .)) )
+(TOP (NP (NNP toni)) )
+(TOP (SQ (AUX do) (NP (PRP i)) (VP (VB download) (NP (PRP it)) (PP (TO to) (NP (DT a) (NN disk)))) (. ?)) )

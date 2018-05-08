@@ -1,0 +1,40 @@
+<s> hi, in games such as half life 2, rome total war etc i usually get slowdowns if i turn up the graphics beyond medium level (without anti aliasing - anti aliasing would murder my poor computer).  </s>
+<s> i was thinking of upgrading my computer to combat this.  </s>
+<s> i'm not looking for a full upgrade, i want to find out what the slowest part of my computer is.  </s>
+<s> hardware: radeon 9600 pro - thinking of upgrading to 6600gt agp 512mb ddr ram athlon xp 2600+.  </s>
+<s> what do you think is causing the slowdown, or do i need to do a full upgrade?  </s>
+<s> i was hoping for a fix to get me through until 64 bit cpus and pci express cards are cheaper.  </s>
+<s> the 9600pro is the main 'weak point'.  </s>
+<s> next, upgrade to 1gb to give the games more ram. the cpu is ok for the titles you've mentioned but by the end of this year, even entry level cpus will surpass it.  </s>
+<s> less than $350 would get you a new pci express mobo (nforce 4 chipset - $70), a better video card (nvidia geforce 7600gt - $170; or ati radeon x1800gto - $185), and a gig of ram (2 512mb ddr-400 - $80).  </s>
+<s> this upgrade would last longer than just a geforce 6600gt agp ($145) or a radeon x1600pro agp ($120).  </s>
+<s> for a gamer, you're definitely light on ram.  </s>
+<s> one gig would be your sweet spot.  </s>
+<s> (that's just double what you've got now.) next, you never did mention the biggest performance hog in your system.....the hard drive.  </s>
+<s> you can pile on ram till your mobo just won't take any more and windows will still use the hard drive for many operations.  </s>
+<s> like reading from the kernal.  </s>
+<s> geting the kernal off of the hard drive is the first step in eliminating that bottleneck.  </s>
+<s> that's nothing but a registry tweak and won't cost you a penny.  </s>
+<s> then there's a few more tweaks that will increase performance for you.  </s>
+<s> like shutting down all those totally redundant services that run in the background all the time.  </s>
+<s> cleaning up your hd and defragging it regularly will keep it running at peak performance.  </s>
+<s> most of what you need to do everything i've mentioned here is listed on my website at: besides the ram, one huge thing you can do for your pc is add a sata hard drive.  </s>
+<s> sata is many times faster than ide.  </s>
+<s> (by a factor of around 10x) if your mobo doesn't support a sata drive, there are pci add-on cards that will.  </s>
+<s> i've used them and they work great.  </s>
+<s> you can also run your old ide drive off of a sata controller card by using a ide to sata dongle on the back of your ide drive and plug it into the sata controller card, with a sata data cable.  </s>
+<s> i've done this too, and my old ide (60gig maxtor) runs almost as fast as my 160gig maxtor sata drive.  </s>
+<s> it's all in the data transfer protocol.  </s>
+<s> sata is just a lot faster than ide.  </s>
+<s> well, that should keep you busy for a while anyway.  </s>
+<s> lol good luck, the doctor  </s>
+<s> thanks for the help guys.  </s>
+<s> i know a place that's selling a 6600 gt for 180$ nzd (roughly 100 usd), and i mar be able to get hold of an athlon 3000+ but i'm not counting on it.  </s>
+<s> 512mb ram isn't really expensive nowadays either.  </s>
+<s> how do you tell if your hard drive is ide or sata?  </s>
+<s> check your mobo manual (or website) and see if it supports sata.  </s>
+<s> you can also use a system info utility such as everest: or its predecessor, aida32: sata drives are not 10x faster than ide (ata) drives.  </s>
+<s> manufacturers fit the same drives with both ata and sata interfaces so their performance is very similar.  </s>
+<s> sata-2's burst (interface) speed is much higher than ata (300mb/sec vs. 133mb/sec) but the sustained transfer rate and seek times of ata/sata drives with the same platters will be less than 2% apart.  </s>
+<s> take a look at these benchmarks which highlight western digital 320gb ata and sata drives: even wd raptors (the fastest non-scsi drives) don't exceed 90mb/sec so they 'fit' inside the ata performance envelope.  </s>
+<s> next year's drives with perpendicular recording may finally exceed ata's 133mb/sec limit.  </s>

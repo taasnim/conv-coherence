@@ -1,0 +1,45 @@
+<s> i ran spinrite 6 to test the hard drive and do any maintenance as needed.  </s>
+<s> i didn't totally understand the different levels and used level 4 as suggested.  </s>
+<s> i have two hard drives attached.  </s>
+<s> they are a 40 gig and 120 gig, both ide. it took 18 hours to do both drives.  </s>
+<s> this seems like a long time.  </s>
+<s> can anything be done to speed this up?  </s>
+<s> i have an amd 1.8 processor with 512 mg ram.  </s>
+<s> also at the end i tried to read the results but the computer rebooted.  </s>
+<s> are they saved in a file somewhere?  </s>
+<s> thanks for your help.  </s>
+<s> why spinrite is a pita.  </s>
+<s> may i ask why you use it?  </s>
+<s> spinrite is a great program ...i've been using it since it first came out.  </s>
+<s> it runs at various levels to make minimal hdd checks and repairs, level 1, through thorough scrubs and recovery... level 4. spinrite is not something you normally need to run very often...perhaps every year or two.  </s>
+<s> it's often helpful in putting a hard disk drive back to optimal condition to read and write to the disk in it's current condition...as opposed to how it was when it was brand new.  </s>
+<s> as years go by...the original electronic markings on the disk platters begin to weaken and eventually the disk data will become unreadable.  </s>
+<s> spinrite takes the disk 'as is' and starts reading the data to memory, checking surface where the data was written.  </s>
+<s> it reformats the area and if the disk surface is ok...the data is written back to that location ...and spinrite goes on to the next location.  </s>
+<s> if the spinrite reads the data but cannot correct and restore the corresponding disk location ...the cluster is marked bad and the data written to another disk area. the file allocatio table is corrected to show the new data location.  </s>
+<s> i've never had it fail or corrupt data on any disk i've used it on.  </s>
+<s> as always...backup, backup and backup.  </s>
+<s> when spinrite first came out ...it took no time at all to run on 10-20mb hard disk.  </s>
+<s> but now with hdds at 200, 300, 400 and 500gbs...it takes a long time to run spinrite at level 4. hope this helps.  </s>
+<s> vapcmd  </s>
+<s> so i take it 18 hours isn't unusual at level 4. could you explain the different levels?  </s>
+<s> could a different one than 4 run faster for maintenance purposes?  </s>
+<s> to coryphaeus i bought it because many posts said that it can maintain and restore hard drives.  </s>
+<s> from the ver 5.0 manual level 1 - examine the surfaces - this level reads the drive's surface reporting the readability of the partition's data.  </s>
+<s> it is a very quick readonly test which never alters the data on the disk drive.  </s>
+<s> level 2 - recover unreadable data - this level adds recovery to level one.  </s>
+<s> if any region of the drive is unreadable, level 2 will employ the full strength of dynastat data recovery to read the data.  </s>
+<s> once the data has been read, spinrite's deepest level of surface analysis will be called into service to determine whether the recovered data can be safely rewritten to its original location or whether it should be relocated to another safer area.  </s>
+<s> if a defect is detected under the troubled data, that location will be marked bad to prevent future use.  </s>
+<s> level 3 - refresh the surfaces - this level adds a complete read and rewrite operation to level 2. every sector of the drive is read and rewritten to refresh and electronically realign the data underneath the drive's read/write heads.  </s>
+<s> level 4 - defect analysis - this is spinrite's deep surface analysis and defect scrubbing level.  </s>
+<s> it performs full data recovery and analyzes the drive's entire surface to certify its data storage integrity.  </s>
+<s> vapcmd  </s>
+<s> depending on the level used, it tests and checks and then repairs what it finds.  </s>
+<s> however, its heyday was long ago.  </s>
+<s> repairing modern hds while still needed if you need to do that and is showing some &quot;hard error&quot; you're not going to recover or remain recovered for long.  </s>
+<s> spinrite best feature is repairing &quot;soft errors&quot; or those where it can &quot;lock-out&quot; known bad sectors of a hds. the bigger the hd the longer it takes as its doing a through job.  </s>
+<s> i don't use it no more as the realtively low price of hds basically is the cure for a known bad hd. spinrite should be the proof that a hd is bad, thus best used by pros or users with a lot of hds.  </s>
+<s> again if bad pcb on hds or real crashed hd, spinrite isn't going to help.  </s>
+<s> besides, vendor supplied test diags are very good to use, through they don't offer recovery.  </s>
+<s> tada -----willy  </s>

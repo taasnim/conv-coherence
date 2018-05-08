@@ -1,0 +1,46 @@
+<s> hi there!  </s>
+<s> i'm not a newbie by all means, however i'm curious if anyone has any constructive advice?  </s>
+<s> a friend of mine has a p4 mdg-built, intel motherboard pc which now cannot power on.  </s>
+<s> it was in this condition at my arrival at the scene of the crime.  </s>
+<s> an inexeperienced individual has been fiddling around with the corrections, and after finishing, the computer allegedly never powered on afterwards.  </s>
+<s> i reconnected all of the loose and missing cables to their correct places, and tested the power supply (using a paperclip to connect green to black wires on the power supply's 24-pin connector).  </s>
+<s> when i plug the 24-pin connector back into the motherboard, the led on the motherboard and the front of the computer lights up.  </s>
+<s> however when i attempt to power the computer up, nothing happens.  </s>
+<s> anyone have any ideas?  </s>
+<s> i'm out... either the mobo is busted and needs to be replaced/fixed, or i missed some connectors?  </s>
+<s> could it be that the power supply is only half-busted?  </s>
+<s> it could be that the button is not plugged into the right spot (doubtful), but i've tried manually connecting the two pins with a knife, etc. any suggestions would be greatly appreciated, sorry for the long message.  </s>
+<s> tia  </s>
+<s> 1) do all the fans work?  </s>
+<s> 2) does the light on the motherboard light up?  </s>
+<s> 3) take the battery out and put it back, to set to default.  </s>
+<s> 4) if the above is negative start with power supply diagnostic.  </s>
+<s> try shuffling the ram around to different slots.  </s>
+<s> sometimes there is a bad slot on the motherboard, sometimes the memory won't work in certain slots, sometimes it will stop working where it has worked before.  </s>
+<s> if that doesn't work, consider that the only components you need to have connected in order to post (not boot into windows) the board are: power supply cpu ram video card that's it.  </s>
+<s> unplug absolutely everything else and use the knife to short the the power pins.  </s>
+<s> if this doesn't work, unplug all the ram and try it again.  </s>
+<s> sometimes you have to make the connections between the pins for a couple of seconds.  </s>
+<s> does the system beep at you when it didn't before?  </s>
+<s> you probably have bad ram.  </s>
+<s> if it doesn't beep, try putting the ram back in and taking the video card out, etc. try a different power supply.  </s>
+<s> try a different cpu.  </s>
+<s> ood luck  </s>
+<s> sounds like somethings not right...so look for these problems in no particular order 1 loose memory in slot 2 loose video card in slot 3 motherboard has switch plugs.  </s>
+<s> they need to be right backwards won't work on some boards.  </s>
+<s> i don't think it's a bad motherboard if the fans spin sometimes clear cmos either by jumper or remove battery....  </s>
+<s> the only way i can get anything to change from pure dead state is by connecting the connectors on the power-supply 24-pin cable.  </s>
+<s> at this point, the hd, cdrom, floppy, and only the powersupply-fan begins to work.  </s>
+<s> i can't get to see the screen run because this way, the motherboard isn't connected, therefor no video card.  </s>
+<s> could ram or cpu really be the problem?  </s>
+<s> surely i would get some sort of response from trying to power on even without it?  </s>
+<s> thanks again.  </s>
+<s> be tested with a mobo with no components installed laying on a piece of cardboard or any insulated surface.  </s>
+<s> plug the power supply into the ac outlet [switch on rear on].  </s>
+<s> no components mounted to mobo, no cpu, no memory, no nuttin.  </s>
+<s> with the 24 pin power supply cable connected, simply use the tip of a small flat screwdriver to momentarily [very momentary] short the two front power switch pins on the mobo together.  </s>
+<s> the supply should turn on [its fan rotates] and stay on.  </s>
+<s> you can turn it off by shorting the pins again, possibly need to hold for 4 to five seconds to shut it off.  </s>
+<s> if the supply does not turn on the mobo is bad.  </s>
+<s> one should do this test when first removing the mobo from the box and before mounting anything.  </s>
+<s> if the supply doesn't turn on at this point things ain't going to get any better.  </s>

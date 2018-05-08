@@ -1,0 +1,32 @@
+<s> i have a compaq presario desktop that won't start-up.  </s>
+<s> when you push the power button the lights come on and the monitor stays in the sleep mode.  </s>
+<s> i was told that the motherboard or processor were bad.  </s>
+<s> so, i purchased a new abit va-10 motherboard and athlon xp processor.  </s>
+<s> i installed both items, and the computer still has the same problem.  </s>
+<s> please help!! what else could be wrong with the computer?  </s>
+<s> in a situation as this, i might try to boot the computer with only the power supply, motherboard, cpu/hsf and the speaker.  </s>
+<s> if you get no beep, one or more of these are bad.  </s>
+<s> strip the machine of all but essentials needed to boot.  </s>
+<s> this means power supply mb, processor, ram, and video display card.  </s>
+<s> make sure everything is properly seated.  </s>
+<s> you might put your old mb back as, if the symptoms are identical, it probably is not your problem.  </s>
+<s> now, switch it on and observe if all fans come on and stay on.  </s>
+<s> do you hear any beeps?  </s>
+<s> typically you will get only 1. if fans twitch and then stop, your power supply has shut down because of a load problem and you need to find it.  </s>
+<s> if the fans run but the machine will not enter post or you get beep codes, you are dealing with a problem with one of the few devices connected.  </s>
+<s> add in cards, drives, etc. can load the power supply.  </s>
+<s> it can also be the entire problem but first you need to narrow it down to these possiblilities.  </s>
+<s> i find more often than not that the compaq power supply is kaput.  </s>
+<s> even if it twitches, not all voltages are present or stable.  </s>
+<s> compaq supplies some pretty wimpy p/s units, so swap it out. the real bad news, even though you swapped out the mtrbds.  </s>
+<s> if the p/s unit was the cause and *if* it was bad-bad-bad componet it may take out new replacement componets as well due to bad power, keep that it might if you seem to be chasing your tail or multiple problems.  </s>
+<s> borrow a known good p/s unit and just test it with minmium system, fd, video, and ram, any beeps, etc. the other posters suggestions can take over from here.  </s>
+<s> don't take anything for granted, test it.  </s>
+<s> good luck -----willy  </s>
+<s> circa 2013 just moved and the desktop had not been used for quite some time.  </s>
+<s> green light on the back goes on but goes off when i push the on button in front.  </s>
+<s> light stays off unless i switch to 230 volts and back to 110 on the back of the unit and unploug and replug the unit.  </s>
+<s> no other lights or fans or beeps occur during these processes.  </s>
+<s> time for a new desktop? the unit is a compaq presario sr5010nx desktop very slightly used as i have laptops and tablets i use more often.  </s>
+<s> this thread is more than 3228 days old. it is very likely that it does not need any further discussion and replying to it will serve no purpose.  </s>
+<s> however, if you feel it is necessary to make a new reply, you can still do so.  </s>

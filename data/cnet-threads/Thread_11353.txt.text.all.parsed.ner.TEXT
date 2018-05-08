@@ -1,0 +1,19 @@
+<s> we have a small download limit every month and keep ramming into only days into our billing period.  </s>
+<s> i am trying to identify the culprit but need to find a way to log the traffic of individual ip address (which are all static) on the network to figure out where all the bandwidth is going.  </s>
+<s> does anyone now a (preferably free) application that will allow me to monitor this?  </s>
+<s> network infrastructure: modem connected to netgear n2000 (older model) router 192.168.0.1 family desktop - 0.2 (ethernet) my desktop - 0.3 (powerline ethernet) brothers laptop - 0.5 (wireless) my ps3 - .0.30 (wireless) ipods - (wireless) router only tells me when someone is on and can track total network traffic usage not individual hardware.  </s>
+<s> any help will be much appreciated.  </s>
+<s> where the op mentioned a program networkx to install on the pc to measure it.  </s>
+<s> seems useful for you indeed.  </s>
+<s> kees  </s>
+<s> there are many tools like the one mentioned above but it must run on each pc.  </s>
+<s> what you need is a device that can monitor all the pc. the only common point you have is the router or the connection to the isp.  </s>
+<s> you could buy what is called a tap and place it on the cable between the isp and the router.  </s>
+<s> you would then run wireshark and capture the traffic.  </s>
+<s> wireshark has good reporting but can be tricky since it has many option.  </s>
+<s> although simple to setup it is not a cheap way to do this. the method i would recommend even though it too is not free.  </s>
+<s> replace your router with a router that can run the open firmware called dd-wrt, mostly linksys.  </s>
+<s> then run the tool called rflow collector.  </s>
+<s> this is very similar to a feature called netflow used in commercial routers.  </s>
+<s> there are good instructions on how to set this up but it is still fairly complex.  </s>
+<s> it is fairly easy to get instantaneous data and some router/firewall will display open sessions to get historic type data you need to store the information and routers cannot do that.  </s>

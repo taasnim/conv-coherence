@@ -1,0 +1,45 @@
+<s> i have recently bought a sharp lc20b6e lcd tv with pc input.  </s>
+<s> i have no problems using it with my pc but whenever i try to play a game just as it loads up the screen goes blank and the message &quot;please check pc input&quot; appears.  </s>
+<s> i have tried changing resolutions but this has no effect and i know there can be problems playing pc games on a lcd tv, but is there any way round this?  </s>
+<s> thanks for an help or suggestions!  </s>
+<s> maybe you use windows, but it's not evident.  </s>
+<s> try this if you do.  </s>
+<s> run dxdiag.  </s>
+<s> on the rightmost tab, click it then in the override setting change it to 60. best of luck, bob  </s>
+<s> i tried that but didn't work.  </s>
+<s> i have read in the manual for the tv that you may have to switch to external output on the pc to view certain images.  </s>
+<s> could this be the problem?  </s>
+<s> how would you do it?  </s>
+<s> not a word about your pc. not even a confirmation it runs windows.  </s>
+<s> why so few words?  </s>
+<s> bob  </s>
+<s> sorry yes i run on windows xp, did not think that it was important, what else do you need to know?  </s>
+<s> also when am in the direct x diagnostic tool (dxdiag) and test direct draw and direct 3d they work apart from when it tests it full screen then the screen goes blank with check pc input signal  </s>
+<s> i was being as subtle as i could to ask for additional clues.  </s>
+<s> but sorry to hear it can't be told.  </s>
+<s> with every post you make the following is asked so i don't have to.  </s>
+<s> note: if you're asking for technical help, please be sure to include all your system info, including operating system, model number, and any other specifics related to the problem.  </s>
+<s> my bet is the video mode called up by the game is beyond the capability of the display, but without details i can't offer any help.  </s>
+<s> cheers, bob  </s>
+<s> thanks bob but maybe i will have to get help somewhere else.  </s>
+<s> why do you need to know my system info. the computer plays the games fine but it is the screen which has the problem with any type of game.  </s>
+<s> what they are to work on.  </s>
+<s> if you blindfold me, i can't see what i'm working on.  </s>
+<s> hey, that's your choice but be prepared to get flames on some boards if you try that.  </s>
+<s> &quot;why do you need to know my system info. the computer plays the games fine but it is the screen which has the problem with any type of game.&quot; for example some video cards have tools to limit video modes, some games have settings you need to tinker with.  </s>
+<s> -&gt; your discussion has many replies now but you didn't reveal the details and the discussion is now about why the details are needed.  </s>
+<s> best of luck, bob  </s>
+<s> i have the same problem, i have a 47&quot; philips lcd tv as my computer monitor.  </s>
+<s> computer make: dell model: dimension 3100 os: windows xp home basic service pack 1 processor: intel(r) pentium(r)cpu 2.80ghz.  </s>
+<s> ram: 3.00 gb ram.  </s>
+<s> video card: nvidia geforce 8400 gs hard drive: 9.00 gb free of 74.4gb if you need more info, let me know.  </s>
+<s> windows vista home basic service pack one  </s>
+<s> run dxdiag.  </s>
+<s> on the rightmost tab, click it then in the override setting change it to 60. best of luck, also tell about the game title.  </s>
+<s> some have settings to tinker with.  </s>
+<s> bob  </s>
+<s> i ran dxdiag and clicked to last tab which is input for me.  </s>
+<s> there was no override found.  </s>
+<s> this is windows.  </s>
+<s> &quot;find the cheese.&quot;  </s>
+<s> thanks for posting help  </s>

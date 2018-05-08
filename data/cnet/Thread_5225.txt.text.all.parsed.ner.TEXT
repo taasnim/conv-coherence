@@ -1,0 +1,45 @@
+<s> condition(s): 1 lan/network (5 pc's) with cable internet connection, using cable modem and a router (dhcp enabled, with router ip: 192.168.1.1) 1 lan/network (7 pc's) with adsl internet connection, using adsl modem and a router (dhcp enabled, with router ip: 192.168.2.1) note: both lan/network located in the &quot;same&quot; building/house.  </s>
+<s> problems or goal: to make both lan/network can share data/files.  </s>
+<s> question: how to setup the connection of both lan/network together, so it can share data/files?  </s>
+<s> thank you for any help.  </s>
+<s> the simplist solution is to just drop dhcp and hardcode the ip address all around.  </s>
+<s> use the same ip, gateway, dns entries and change the netmask to 255.255.0.0 and it will work fine with internet traffic still going to each respective dsl and cable box.  </s>
+<s> if this isn't a solution for you, then you will have loads of fun with net route commands and another (real) router.  </s>
+<s> but i won't be doing that because it's too much for this small space.  </s>
+<s> bob  </s>
+<s> the word &quot;same&quot; (ip, gateway, dns entries and netmask to 255.255.0.0), confused me a little.  </s>
+<s> currently both lan/network are separated physically.  </s>
+<s> can i just plug in both modem (cable and adsl) in one switch (cable + adsl modem -&gt; switch --&gt; pc's) and make the ip, gateway, dns entries and netmask to 255.255.0.0, configuration as you suggested?  </s>
+<s> if i understand it correctly then: for the cable modem i set the ip: 192.168.1.1 for the adsl modem i set the ip: 192.168.1.2 disable dhcp set dns (as per isp (cable/adsl requirement?) set gateway (192.168.1.1 and 192.168.1.2) set netmask (255.255.0.0 on both modem?) for the pc's, i configure each pc's accordingly.  </s>
+<s> does it matter if they use different workgroup name?  </s>
+<s> please advice, thank you  </s>
+<s> it should be: cable modem --&gt; router --&gt; switch adsl modem/router --&gt; switch (same switch), then from the switch to the pc's.  </s>
+<s> no changes were needed on the modems. the cable/dsl routers might need one tweak.  </s>
+<s> turn off dhcp.  </s>
+<s> then you set all the ip, dns, gateway on each client, but all the systems use the netmask value of 255.255.0.0 done.  </s>
+<s> bob  </s>
+<s> after more coffee, it occurred to me that only 1/2 or less of the client machines and just one dsl/cable needs work.  </s>
+<s> 1. select which router has the most users or which one you want to set to dhcp.  </s>
+<s> 2. disable dhcp in the router that you will not want dhcp.  </s>
+<s> 3. alter the router that remains a dhcp server to hand out the netmask 255.255.0.0 4. on the lan with no dhcp, change all the clients to static ip addressing using what they got as a template and change the netmask to 255.255.0.0 5. connect the two lans.  </s>
+<s> bob  </s>
+<s> both modem/router have a default ip 192.168.1.1 is this default only valid with dhcp enabled?  </s>
+<s> if both have that same ip.. and connected to the same switch, aren't they conflicting?  </s>
+<s> anyway i will try it on monday, before that, please help with this details: cable modem-router, dhcp enabled, with ip address 192.168.1.1, netmask 255.255.0.0 no changes on the pc's adsl modem/router, dhcp disabled, with ip??, netmask 255.255.0.0 on the pc's, ip 192.168.?.?, netmask 255.255.0.0, gateway ???? others?? thank you  </s>
+<s> in short, that was not in your first post.  </s>
+<s> so you would alter the nat/router of choice before you start so you can do this with some ease.  </s>
+<s> bob  </s>
+<s> cable modem router, dhcp enabled, ip: 192.168.1.1, netmask 255.255.255.0 -- client pc's are automatic ip.. (with an ip range 192.168.1.100 -&gt; 140) adsl modem/router, dhcp disabled, ip: 192.168.1.2, netmask 255.255.255.0 -- client pc's ip: 192.168.1.2xx, gateway 192.168.1.2, dns: as isp required.  </s>
+<s> it seems to works... but did i do it correctly?  </s>
+<s> why you stressed out the netmask of 255.255.0.0?  </s>
+<s> tried to use fix ip under 192.168.1.140.. on adsl modem/router, but then i concern with conflicting ip when the pc's are started.. (thats the reason of ip above 200) tried using different ip on each modem/router (i.e cable ip: 192.168.1.1 and adsl ip: 192.168.2.1), it didn't work for lan(file/data share) if i could make it better or fix something, please advice.. thank you  </s>
+<s> it can work, but i was concerned that the nat/routers may not know how to handle the packet bound for the other lan.  </s>
+<s> good to see it works.  </s>
+<s> &quot;it seems to works... but did i do it correctly?&quot; the file sharing and route to/from each lan may fail.  </s>
+<s> if so, you change the netmask so that both lans are in the same lan.  </s>
+<s> bob  </s>
+<s> thank you for your help, i guess i have to stay with the working configuration.  </s>
+<s> but then i have another question regarding the 'fixed ip' on a couple of laptop involved in the lan.  </s>
+<s> those laptop are configured to use the adsl with fix ip address.  </s>
+<s> what should be done to make it 'mobile' from one lan/network environment to another (i.e. from the adsl modem lan/network to cable modem lan/network -- or from office to home lan/network) thank you again for the help  </s>
+<s> &quot;what should be done to make it 'mobile' from one lan/network environment to another (i.e. from the adsl modem lan/network to cable modem lan/network -- or from office to home lan/network)&quot; i would use netswitcher from at the price of good help, this one is cheap, works... bob  </s>

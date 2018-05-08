@@ -1,0 +1,53 @@
+<s> presario 5000 desktop, purchased in late 2000.  </s>
+<s> 1 gb processor, 128 mb ram,40 gb hard drive running windows 2000 professional.  </s>
+<s> floppy/cd/cd-dvd drives.  </s>
+<s> it came from compaq with windows me which was unstable at best - i had assumed most of my locking issues were tied to me, so i upgraded to windows 2000.  </s>
+<s> 1. the computer will randomly not boot properly - it will ping the cd and dvd, miss the floppy, start the hard drive and then stall leaving a blank screen even though the hard drive led is illuminates green, starts, then goes out.  </s>
+<s> if i start it repeatedly by turning the power button on, it will eventually boot up, or stall in the process.  </s>
+<s> 2. once operating after a succesful boot, the computer will lock randomly even when sitting idle at the desktop screen with no programs open.  </s>
+<s> it also locks randomly with open programs.  </s>
+<s> 3. i notice that sometimes when it locks, the fan whine seems to slow and then come back up to speed.  </s>
+<s> 4. i have to manually power it down by holding power button in, and restart with power button, only to experience problem number 1, intermittent boot success. is there a known issue out there with the presario desktops - could it be the power supply or cmos battery, or is it likely software related?  </s>
+<s> help!  </s>
+<s> 3.  </s>
+<s> in loading w2k, did you also go to compaq (ne.  </s>
+<s> hp) and download the latest drivers, especially bios for w2k.  </s>
+<s> if the w2k was not supplied by compaq, you cannot rely on microsoft alone to support your system.  </s>
+<s> just loading w2k and driver updates will not always do the trick.  </s>
+<s> my experience with compaq workstations, armad laptops and a presario or two.  </s>
+<s> i use w2k and have almost always had to get something from the compaq/hp driver/software downloads.  </s>
+<s> remove the case cover and see if the cooler air helps.  </s>
+<s> what they didn't tell you is that fans blow air onto the heatsink and not unlike the lint basket on a clothes dryer, it can build up an insulating blanket which causes the cpu to overheat.  </s>
+<s> or the cpu fan has failed?  </s>
+<s> you need to look.  </s>
+<s> bob  </s>
+<s> fans are operating.  </s>
+<s> case cover on or off - no difference in performance.  </s>
+<s> processor, fan and heat sink are clean - removed lint and cleaned when the problem started.  </s>
+<s> it can change the response to ask to look in another direction.  </s>
+<s> for instance, tell what you do about parasites.  </s>
+<s> light reading at bob  </s>
+<s> thanks bob - parasites are certainly a possibility and i did read the info you provided to another post.  </s>
+<s> i was experiencing hijacks on the web, etc. but thought i had cleaned them well enough and protected my machine.  </s>
+<s> i now use stopzilla as a pop up blocker which seems to work very well.  </s>
+<s> could a parasite be causing random locks and improper boots repeatedly - and why would the machine boot properly one time and not the next on power up?  </s>
+<s> could it be that simple - blasted parasites and hijack code?  </s>
+<s> great idea - where do i find the updated bios on the site?  </s>
+<s> i have been to compaq.com and the download files are very limited.  </s>
+<s> can you point me in the right direction?  </s>
+<s> it's a common issue, but many don't like that we have to scan and remove the pests with some 5 tools.  </s>
+<s> some want a single piece of software to fix it.  </s>
+<s> sorry, we don't have that technology yet (unless it's linux?) the short list is: adaware, spybot, cwshredder, housecall and bhodemon.  </s>
+<s> bhodemon appeared a short while ago and i've found it usefull to list the bhos and to remove the ones i don't want.  </s>
+<s> another issue is internet explorer.  </s>
+<s> doxdesk explains it's danger.  </s>
+<s> it's such an issue that i advise to use any other non-ie browser when possible.  </s>
+<s> bob  </s>
+<s> thanks again - i will clean the machine again using the suggested tools and see if it makes a difference.  </s>
+<s> any direct known issues with aol instant messenger and spyware/corrupting files?  </s>
+<s> to avoid the aim issues, look up gaim.  </s>
+<s> open source, free and without the ads.  </s>
+<s> bob  </s>
+<s> start here and step down until you get to support and drivers.  </s>
+<s> it should list by category, including bios updates.  </s>
+<s> good luck  </s>

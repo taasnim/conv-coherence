@@ -1,0 +1,86 @@
+<s> i'm using windows xp sp2.  </s>
+<s> heres my problem.  </s>
+<s> my usb ports suddenly stopped working.  </s>
+<s> i had not installed any new programs, just one day i went plugged in my ipod, it charged perfectly but my pc did not know anything was there.  </s>
+<s> same thing with my printer, when i turn it on pc doenst know anything is there.  </s>
+<s> i've tried uninsalling the usb drivers in device manager and reinstalling, but that didn't work.  </s>
+<s> if anyone has any way to figure out what's wrong with them other than formating and reinstalling windows.  </s>
+<s> thanks  </s>
+<s> go to device manager and remove all usb ports, root hubs, etc. reboot and see if windows redetects them.  </s>
+<s> if it does, the drivers should be automatically reinstalled.  </s>
+<s> now, you did not mention whether these usb ports were on an add in card or on the mb. if on the mb, you will have some fixed to the rear edge and maybe some cabled to the front.  </s>
+<s> front ports which are plugged in and not fixed to the mb can have the connectors come loose.  </s>
+<s> hope this gives a starting point.  </s>
+<s> i did what you said uninstalled the usb things in device mananger, rebooted and they reinstalled themselves.  </s>
+<s> my pc has 2 usb ports connected to mb, and another 2 in front of case that are connected by wire.  </s>
+<s> i checked make sure the wire was firmly put in, which it was. it still won't recognize any devices i put in usb .  </s>
+<s> device manager say they are enabled and working?  </s>
+<s> have you checked all the ports. the two on the front most likely are a separate root hub than the two on the back.  </s>
+<s> doesn't sound like software unless you added something else creating a conflict (irq).  </s>
+<s> worst case scenario, get an inexpensive pci card with a couple ports and has a connector for the front of your case.  </s>
+<s> less than $12 and disable the motherboard usb.  </s>
+<s> yeah, they all say this device is working properly so i have no idea.  </s>
+<s> ill try getting a pci card with one, recomment any kind?  </s>
+<s> i usually buy these from places like fry's, best buy and comp usa because they are inexpensive, good selection in terms of number of ports with and without ieee-1394b firewire and i can get one the same day.  </s>
+<s> look for one that has a matching connector on the card for your front panel usb port cable(s).  </s>
+<s> past that newegg & tigerdirect are good online sources.  </s>
+<s> once it works, then go into setup and disable the onboard usb chipset.  </s>
+<s> yeah i got a nice 5 port pci from some local pc store for 20$, they work so that's good enough.  </s>
+<s> thanks for the idea  </s>
+<s> windows had released a driver update that somehow negated all of my usb ports once windows popped up. .  </s>
+<s> .  </s>
+<s> but i noticed that my keyboard worked as it was booting up before windows booted up, so i knew there was power going to it.  </s>
+<s> you may have the same problem here.  </s>
+<s> try reverting your computer back to before your most recent windows update, reboot and see if it works after that.  </s>
+<s> if it doesn't, then sorry i wasted your time. .  </s>
+<s> .  </s>
+<s> but you could just always reinstall the windows update later :-d but that's what worked for me. .  </s>
+<s> .  </s>
+<s> windows screwed up the update somehow, and after i backtracked and restored the computer to before that update, it was fine.  </s>
+<s> then windows searched for new updates, and that update was now taken off the list and replaced with another update that went through just fine.  </s>
+<s> hopefully this will be your solution as well!  </s>
+<s> 1.)control panel 2.)system 3.)hardware 4.)device manger 5.)ouble click usb controllers 6.)right click on usb root hub 7.)click properties 8.)power mangement tab 9.)make sure the allow computer to turn of this device is not checked.  </s>
+<s> on my mom's computer and discovered that the usb ports were disabled in the bios, i have no idea how that happened mind you, it was just spontaneous.  </s>
+<s> you'll need to open the tower to get the motherboard model number off it.  </s>
+<s> if you down load this software it might give you the name of the manufacturer: esupport also has a free driver scanner to see if your drivers are up to date.  </s>
+<s> do the scan, if there &quot;not up to date&quot; you can search them out for yourself or pay for there service to do it for you.  </s>
+<s> cnet now has a service like this but the name escapes me at the moment.  </s>
+<s> here's esupports link: esupport is also a major bios supplier for hp. are your bios current?  </s>
+<s> this might also be the problem.  </s>
+<s> if the drivers don't work for you then i think your board is shot.  </s>
+<s> no, link here is an ad. that's all i have for you.  </s>
+<s> this thread untracked.  </s>
+<s> if you don't want to open up the computer, go to belarc.com and get belarc advisor - it tells you (almost) everything you'll ever want to know about the insides of your computer.  </s>
+<s> clean out your registry, sounds like you got a conflict from another prog.  </s>
+<s> my kingston 2 gb usn hard drive have a problem.when  </s>
+<s> i plug in,it reads but when i tried to open it,it will keep saying this drive is not formated.when  </s>
+<s> i tried to format,it says it is write protected.i  </s>
+<s> check the properties,the device function well.i  </s>
+<s> tried rollback also cant and i realize,if plug it,then i restart my computer,my computer will stuck when booting device.after  </s>
+<s> i pull it out,my computer runs boot back normally.whats the problem actually?  </s>
+<s> i see two choices here if the pen drive is doing that.  </s>
+<s> 1. try a format but use this -&gt; 2. get a new pendrive.  </s>
+<s> bob  </s>
+<s> i tried it all.  </s>
+<s> then i listened to an npr radio show taliking about all the malware out there.  </s>
+<s> i have kaspesky full virus protection and ran a scan of &quot;riskware&quot;. it told me that i had outdated and dangerous old versions of adobe reader and java.  </s>
+<s> i went to &quot;add/remove programs&quot; on &quot;my computer&quot; and deleted all of the above.  </s>
+<s> then, i added the newest versions of each and turned of my computer.  </s>
+<s> now i'm back up and running on all usb's and my computer is working faster.  </s>
+<s> play iy safe.  </s>
+<s> get a good v protection no matter what it cost's and scan frequently.  </s>
+<s> get updates on all programs and make sure the old versions are gone.  </s>
+<s> i hope this works for you.  </s>
+<s> i tried everything else!  </s>
+<s> have you got kaspersky i/s product,try:- i have had usb failure for several weeks and was told by the motherboard suppler that it was broken, i got a s/h one and installed it, usb still not working.  </s>
+<s> all fixed now use kaspersky special tool to completely remove kis, delete all your usb and reinstall kis  </s>
+<s> i got a usb stick a while ago, and when i was copying stuff to it, it froze up, so i pulled it out of the computer.  </s>
+<s> now i can't see it in computer (vista business 32-bit) and the only way i can see it is in computer manager, in libraries.  </s>
+<s> plese help!  </s>
+<s> i had all my usb ports fail tried everything (including usb card) short of reformatting, motherboard manufacture said the the board must be faulty, bought new motherboard, still no usb,eventually discovered on kaspersky forum that kaspersky internet security was to blame,just needed to uninstall and reinstall it, all fine now, except time and expense.  </s>
+<s> your instructions totally worked for me.  </s>
+<s> every one of them was set to power off.  </s>
+<s> i think this is due to a recent driver update that i installed relating to a power management app.  </s>
+<s> has to be, because it didn't power down the ports before that.  </s>
+<s> thanks for the tip.  </s>
+<s> dear sir when i plug my usb flash drive to my computer in my computer the usb detcts but when i open the usb drive the mesage shows insert the disk in to drive please solve this problem  </s>

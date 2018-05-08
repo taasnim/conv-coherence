@@ -1,0 +1,18 @@
+<s> i keep having a problem where i turn on my computer but have nothing display on the screen.  </s>
+<s> i can hear that windows is starting up but the monitor will show &quot;no signal&quot; (or something of the sort).  </s>
+<s> ive found that holding the button in till it turns of and then turning it back on usually, eventually, will allow it to start normally but obviously this is not something i wish to continue.  </s>
+<s> i know that it is not the monitor as i have recently changed it and the problem was still there with my old monitor.  </s>
+<s> i assume that it may be the graphics, however i only purchased the graphics card this year and i can remember that it did used to happen sometimes with my old graphics card.  </s>
+<s> any help with this problem would be greatly appreciated.  </s>
+<s> specs cpu: amd athlon 64 3000+ ram: 2 gb gfx: nvidia geforce 6800 gs 256mb psu: 480 watts vdu: philips 17&quot; lcd 170c6fs thanks again with any help  </s>
+<s> when i went onto the graphics to check drivers i saw that one had a little exclamation mark in a yellow circle, this was next to &quot;nvidia vdm video capture (universal).  </s>
+<s> has this anything to do with it at all?  </s>
+<s> thanks  </s>
+<s> ok, by your own history this problem has appear with old and new monitors (so it's not those) old and new graphics cards (so it's not those) what remains is the answer.  </s>
+<s> try a different graphics lead first, as this is easiest to change and check.  </s>
+<s> after that you get into the more problematic to pinpoint possibilities.  </s>
+<s> it may be that your power supply is not up to the task.  </s>
+<s> as graphics cards advance they also tend to need more power, it might be an indicator that your old graphics only suffered minor &quot;no display&quot; problems, but your new more power hungry one suffers greatly.  </s>
+<s> as a test, with power off, unplug as many devices (such as cd-rom drives, and case fans, which with the case off aren't really needed for testing) as possible, to give as much start up juice to the graphics card as possible, and see if this tips it over to indicate a lack of power to be the culprit.  </s>
+<s> after that, plug all those drives and case fans (never ever unplug the cpu fan!) back in, and then consider further options.  </s>
+<s> good luck, geebee.  </s>

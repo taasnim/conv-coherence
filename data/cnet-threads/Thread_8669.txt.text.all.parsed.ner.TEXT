@@ -1,0 +1,34 @@
+<s> hi all, i'm having problems accessing my network attached storage drive (a western digital mybook world edition) from my computer.  </s>
+<s> i cannot access any of the content beyond the first couple of layers of the folder tree, and am unable to play any of the media stored on there on my pc. i'm totally stumped as to why, so i'm hoping some of you might have some ideas that can help me out!  </s>
+<s> here are the symptoms of the problem: fragments list.s.cnet pre_process.sh  </s>
+<s> threads this problem has only arisen since moving into a new home, and joining a new wireless network.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads my computer cannot access the files on the drive, but others on the network can.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads the drive can be successfully pinged from cmd.exe by both ip address, and machine name.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads the drive can share music via an itunes share.  </s>
+<s> it's share name can be seen in itunes on my pc, but the drive's tracks do not load when the share is selected fragments list.s.cnet pre_process.sh  </s>
+<s> threads the drive can be seen on the network in windows explorer under the &quot;network&quot; heading fragments list.s.cnet pre_process.sh  </s>
+<s> threads when browsing the drive through windows 7 explorer the folders which contain a large number of files or folders cannot be accessed - it just takes a long time trying to load it, and then comes up with the following error message: &quot;\drivenamepublicshared videostv is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions the specified network name is no longer available&quot; or &quot;error 0x80070035, the network path was not found&quot; fragments list.s.cnet pre_process.sh  </s>
+<s> threads the drive is not found by the wd discovery tool that comes with it (software that finds networked drives).  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads entering the drive's ip address in a browser does not take you to the configuration pages for the drive (nothing at all loads).  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads i have tried switching off the firewall fragments list.s.cnet pre_process.sh  </s>
+<s> threads i have tried installing and using the latest version of the wd discovery tool fragments list.s.cnet pre_process.sh  </s>
+<s> threads resetting the mybook drive, the wireless router, and the pc does not resolve the issue some notes on hardware etc: fragments list.s.cnet pre_process.sh  </s>
+<s> threads the drive is a wd mybook world edition 1tb drive - white light (latest iteration) fragments list.s.cnet pre_process.sh  </s>
+<s> threads the drive is connected to the router by a wired ethernet connection fragments list.s.cnet pre_process.sh  </s>
+<s> threads the router is an o2 wireless box i (which is a thompson speedtouch 780wl) fragments list.s.cnet pre_process.sh  </s>
+<s> threads the pc is a custom desktop computer running windows 7 home premium, and is connected to the network wirelessly fragments list.s.cnet pre_process.sh  </s>
+<s> threads firmware for the drive and router, and drivers for the wireless adapter on the pc are all up to date fragments list.s.cnet pre_process.sh  </s>
+<s> threads there are no problems with internet connectivity from this pc (also handled by the o2 wireless box)  </s>
+<s> your windows 7 pc do you logon with a user name and password?  </s>
+<s> if not, try it.  </s>
+<s> yep, logging on is already done with a username and password.  </s>
+<s> thanks for the reply btw.  </s>
+<s> i am totally stumped by this one; it's bizarre that my pc can see, and navigate the first couple of layers of the drive, but fails to access any further than that.  </s>
+<s> i do not personally believe its a problem with access permission, but am open to *all* suggestions!  </s>

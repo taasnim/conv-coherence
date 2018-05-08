@@ -1,0 +1,56 @@
+<s> as the title implies, i am interested in setting up a wireless home network using a westell 6100 modem (verizon dsl...pppoe), a linksys wrt54g router/switch and several laptops (all windows xp os).  </s>
+<s> i have tried setting this up a few times and have looked around other forums for answers but am still having problems.  </s>
+<s> my questions then are.... 1) which is preferable - have the westell modem take care of the routing and let the linksys serve as a simple access point?  </s>
+<s> or, bridge the modem and let the linksys do most of the work?  </s>
+<s> are there in inherent advantages to pursuing one option over the other?  </s>
+<s> 2) pending the answer to my previous question, how would i go about executing (fill in the preferred choice from question #1)?  </s>
+<s> keep in mind please that i have either tried both ways with little success or, simply misunderstood directions.  </s>
+<s> in attempting to follow verizon's directions for bridging the modem and setting the linksys up to rout, i was successful until one of the very last steps.  </s>
+<s> after setting the linksys to pppoe i clicked connected and received a message stating that i could not get an ip address from the pppoe server.  </s>
+<s> i think i may have missed cloning the mac address (but which one do i clone.....the westell or the linksys and how do i do that?) i attemped to turn of the linksys routing to use it as a wireless access point (a la this suggestion - linksys customerhelp but i seem to be missing something.  </s>
+<s> i disabled dhcp and am not sure what to set the static ip as...i'm not quite clear what they were saying about setting it on your subnet while making sure it is unique, outside your dchp server ip scope.  </s>
+<s> thanks in advance for any assistance as well as for your patience if i've left anything off.  </s>
+<s> best, alex message was edited by: admin to edit url  </s>
+<s> i just went with ... dsl modem/router -&gt; wifi router -&gt; pcs.  </s>
+<s> this is what is known as a double nat and as long as your ip plan was good it works without all the headache.  </s>
+<s> bob ps. in closing, read our forum sticky to save yourself time.  </s>
+<s> well i'm not quite sure what you mean when you say that my &quot;ip plan&quot; needs to be good.  </s>
+<s> i have read so many forum posts and tried most all of them i think at this point and i know i'm probably just doing one little silly thing wrong.  </s>
+<s> trouble is, so many of the posts (even with the same hardware and isp) give different account.  </s>
+<s> i'm not able to single out a pattern and thus where i'm going wrong.  </s>
+<s> i looked at the sticky as well and it didn't help me much.  </s>
+<s> this is where i am. i reset the modem and router, powered down everything and am now sitting with a xp laptop connected directly to the westell 6100 set in pppoe configuration and i have a connection.  </s>
+<s> now then, what's my next move?  </s>
+<s> some have said change to bridge protocol with &quot;routed bridge&quot;, set to private lan and disable all dchp on the modem.  </s>
+<s> next i was told to fire up the linksys (wrt54g v2 with the latest firmware) and set it to dchp, letting it automatically assign ip addresses (i assume).  </s>
+<s> still nothing.  </s>
+<s> when i run ipconfig/release and then /renew i get the gateway as 192.168.1.1 with the ip being 192.168.1.15 (the ip i instructed it to begin with).  </s>
+<s> so based on all of this i gather that its only looking at the lan and not getting anything from the wan (and by extension, the modem).  </s>
+<s> after this i try changing the (linksys) router to pppoe mode but when i try to connect it tells me the pppoe server cannot assign an ip. i know you are without a doubt a busy person who takes a great deal of what i can only assume is your personal time to respond to strangers' forum queries.  </s>
+<s> i thank you for that as well as any assistance you can offer me in resolving my troubles.  </s>
+<s> best, alex  </s>
+<s> i took the easy way. the ip plan i wrote about is that the first lan should be something like 192.168.1.x and the lan on the other side of the wrt54g must be something like 192.168.2.x. why would i do all that rough setup when this just works?  </s>
+<s> again, once you get that out of the way be sure to check our stick post.  </s>
+<s> bob  </s>
+<s> since you said that you hit the reset button and hold it for 30 seconds.  </s>
+<s> it will go back to factory settings.  </s>
+<s> wall &gt; westell 6100 &gt; linksys wrt54g v2 &gt; wired/wireless plug the ethernet cable into the linksys.  </s>
+<s> log into the linksys router.  </s>
+<s> i do not use pppoe.  </s>
+<s> my settings are for dchp for the wireless router.  </s>
+<s> it will assign the ip addresses for the computers.  </s>
+<s> you my have to change the lan setting for the wireless router. the westell 6100 modem/router uses the ip address of 192.168.1.1 might be the same as you linksys router.  </s>
+<s> i had that trouble with my netgear router and changed the lan settings to 192.168.7.1, it's your choice.  </s>
+<s> i then updated the firmware broadcast ssid use wpa security use nothing else.  </s>
+<s> have not had any problems staying connected except, we had a cordless phone 2.4gh that had to go, since they use the same frequency as the router.  </s>
+<s> rick  </s>
+<s> pudgy, i already have the latest firmware.  </s>
+<s> are you suggesting i update it again?  </s>
+<s> also, i have tried changing the router's lan ip (using 192.168.3.1) and setting it to automatic dchp (both with the modem bridged and with the modem at factory default).  </s>
+<s> -alex  </s>
+<s> i use the stock cables (no crossovers) and from a client port on the dsl modem router to the wan port of the next wifi router.  </s>
+<s> details matter.  </s>
+<s> tell exactly your setup.  </s>
+<s> bob  </s>
+<s> the way i have my set up is, i have a verizon 6100 modem and there is this yellow ethernet cable going from that to a 5 port linksys where i have 2 other ethernet cables one hooks to my computer and the other hooks to ps3.  </s>
+<s> so please help i do not know why the internet to the ps3 is not working...  </s>

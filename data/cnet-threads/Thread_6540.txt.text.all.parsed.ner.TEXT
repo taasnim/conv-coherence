@@ -1,0 +1,29 @@
+<s> ok, i need to know what kinda server i would build if i just wanted to run 2 simple sites on it.  </s>
+<s> any recommendations as far as parts or software would be nice.  </s>
+<s> thanx  </s>
+<s> is your goal to learn how to build a pc or to run a web page?  </s>
+<s> example.  </s>
+<s> our web server for close to 10 years was some pentium 100mhz with 64mb ram running an older nt windows.  </s>
+<s> it had an 8.4gb hard disk and served up the web pages just fine.  </s>
+<s> are you sure of your goals?  </s>
+<s> as to the software, today i want a lamp based distro.  </s>
+<s> read (software_bundle) bob  </s>
+<s> nah, i've built several pc's i just thought that servers had to be more powerful to keep a site up.  </s>
+<s> obviously not!!! i am hoping to learn to run a web page though.  </s>
+<s> is lamp totally free?  </s>
+<s> i didn't see where you said &quot;i want a lamp based distro&quot;.  </s>
+<s> i guess if it was free you'd already have it!  </s>
+<s> do you know of any setup that is totally free?  </s>
+<s> yes, i have a few lamp servers.  </s>
+<s> but since web serving takes so little oomph we look for low watt systems.  </s>
+<s> today my favorite are those 20 watt geode cpu's. the current web server at the office is drawing under 60 watts at peak use now.  </s>
+<s> your goals are still unclear here.  </s>
+<s> web site or building a pc? bob  </s>
+<s> ok, #1 is building a server any different from building a pc? #2 if it isn't what is different?  </s>
+<s> #3 is there anything that is free(software) that i can use to keep a site up?  </s>
+<s> just layin it out straight so there's no confusion.  </s>
+<s> #1 trick question?  </s>
+<s> a pc can be a server, as r. proffit stated, but dedicated servers have multiple, powerful processors, lots of ram, numerous fast hard disks often in a raid 5 array, and very fast nics.  </s>
+<s> #2 see above.  </s>
+<s> #3 apache is a free web server.  </s>
+<s> ok, thanks.  </s>

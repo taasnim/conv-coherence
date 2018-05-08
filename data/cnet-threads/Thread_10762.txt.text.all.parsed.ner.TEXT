@@ -1,0 +1,41 @@
+<s> hi, i am trying to install an old hard drive into my pc and every time i do the computer acts funny, it caused the battery in the motherboard to fail, and it stops other hard drives from working.  </s>
+<s> but when i uninstall it the computer returns to normal.  </s>
+<s> this hard drive has data on it that belongs to my dad, so i want to return it to him, but don't want to cause serious damage to his pc. the drive was put into an enclosure a while back, but it got damaged.  </s>
+<s> what i have tried i have changed the jumper settings to &quot;cable select&quot; which stopped the drive from interfering with my hard drive.  </s>
+<s> but this caused the battery on the motherboard to fail.  </s>
+<s> i tried changing the jumpers to &quot;slave&quot; but the same issue continued.  </s>
+<s> the hard drive is a pata drive, and the details for the drive are as follows: manufacturer: excelstor model: t880 i found details on the manufacturers website which advised on how to change the settings to the above stated.  </s>
+<s> as my dad wants the drive back and i can't currently afford a new enclosure i'm hoping someone can give me some advice on what to try. an important thing i forgot to mention is the drive had been installed in my old pc of which my dad now owns, the drive was set as master but it wasn't set to boot as it's just for storage not for the operating system.  </s>
+<s> some never work with other drives.  </s>
+<s> since you can't afford an enclosure then why not use the second channel on the motherboard and forget about the cd/dvd drive until you get the files out?  </s>
+<s> hi, thanks for that great idea, but unfortunately it didn't work, instead a screen came up telling me about what hardware is installed in my pc and the system halts.  </s>
+<s> could there be a possibility that this issue is down to my pc rather than the drive, just like ram working in one machine but not another?  </s>
+<s> thanks  </s>
+<s> from the motherboard and try the drive in question by itself...jumper as cable select.  </s>
+<s> you are using 80 wire 40 pin cable ...right ? is your cmos battery fresh or is it old ?  </s>
+<s> vapcmd  </s>
+<s> sorry but i only have the details you gave.  </s>
+<s> another idea.  </s>
+<s> put the drive back into the machine where it works and copy the files over your network.  </s>
+<s> bob  </s>
+<s> since you state the enclosure that this hd was installed in was damaged, then it suggest the hd could be damaged as well.  </s>
+<s> not knowing what damage, you maybe seeing the result, causing other working pc to not be proper with it installed.  </s>
+<s> you know its doing something negative here.  </s>
+<s> i use ad-2020 adapter setup(or others) in order to test various drives w/o an enclose and if it doesn't work, then i know any further attempts usually aren't going to be fruitful.  </s>
+<s> it appears your old hd is a goner or close to it provided everything is setup correctly.  </s>
+<s> checkout: what happens when that hd is installed alone, then use the ubuntu bootable linux disc to then access it?  </s>
+<s> get the ubuntu s/w .iso  </s>
+<s> file to make a bootable disc to test with.  </s>
+<s> this allows the cd drive to boot the current pc and then access the now &quot;solo trouble hd&quot; if at all possible.  </s>
+<s> if it does't boot or finding the hd didn't mount, suggest serious issues.  </s>
+<s> tada ------willy  </s>
+<s> as to old pc install: re-reading the post, i caught the last line of post. the hd is &quot;master&quot; on what ide ch.? plus, how can this boot as under normal setup, master is the boot device expected on primary ch.. if on secondary ch. that too rises a ?, if it never was cleared of the os, then the pc sees possibility 2 oses installed, it maybe trying or already changed the &quot;boot menu&quot; and when installed elsewhere causing an issue.  </s>
+<s> all this on top of what i already posted plus what others have will pin-point the cause of problem(s) or fault.  </s>
+<s> -----willy  </s>
+<s> the above file should provide info on all or general info of 3.5 int.  </s>
+<s> pata(ata) drives, eide type.  </s>
+<s> fyi- this was abit harder to narrow support for, and its not as popular for int.  </s>
+<s> drives alone.  </s>
+<s> in other words, this maybe a pita to fix or resolve.  </s>
+<s> you may want to cut losses short.  </s>
+<s> ------willy  </s>

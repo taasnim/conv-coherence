@@ -1,0 +1,25 @@
+<s> hi , i have a desktop pc with intel dual core 2.8 ghz processor , a motherboard with ati xpress 200 chipset . the computer has 2 gb of ddr2 667 memory.  </s>
+<s> i want to add a graphic card to the configuration .  </s>
+<s> now my question is if i add a graphic card of the nvida 2 series like the 240 , will the graphic card confict with the configuration because of the ati xpress 200 chipset ? is it best to stick with the ati brand of gpus ?  </s>
+<s> actually a few years ago , we were assembling a pc with core 2 duo e6600 processor , intel motherboard with 965 chipset , 4 gb of ddr2 ram and a 8400 gt graphic card .  </s>
+<s> there was a conflict between the graphic card and the intel 965 chipset motherboard . the motherboard and the graphic card was sent to their respective support centers , but it was said they were working fine ( we suspected that either mobo or g-card was having a problem ) .  </s>
+<s> finally the problem was sorted out by swapping the intel 965 mobo with a xfx nforce chipset mobo , and till date the configuration works like a charm .  </s>
+<s> so my question is , will i be facing any compatibility issues if i pair a nvidia gpc card with a ati xpress chipset motherboard ?  </s>
+<s> or is it is best to stick to a ati gpu card with a ati xpress 200 chipset ?  </s>
+<s> thanks for reading sam  </s>
+<s> but the 8400 was a problem unit.  </s>
+<s> it was subject of many issues and recalls.  </s>
+<s> i would dismiss any 8400 troubles and move forward.  </s>
+<s> then again i have a friend that tries to overclock and constantly has issues.  </s>
+<s> go figure.  </s>
+<s> bob  </s>
+<s> thanks for your time and efforts , but the issue with nvidia 8400 and intel 965 is history .  </s>
+<s> i want to know if you have encountered any issues with the nvidia 240 gpu and ati xpress 200 chipset .  </s>
+<s> i have configured pcs with intel g31 and g41 chipsets as well as the x58 chipset ( intel x58bp server board ) with nvidia gpus cards ; no issues at all .  </s>
+<s> i am just asking because i have no experience with the ati xpress 200 chipset .  </s>
+<s> thanks sam  </s>
+<s> and the nvidia card with the 240 which i have has never given me any sign of trouble but it's on some intel chipset.  </s>
+<s> i guess you can google it but keep in mind i can bet somewhere someone had trouble.  </s>
+<s> and then with each card, someone somewhere reported trouble.  </s>
+<s> my card has (keeping it to my hardware) been in the hp d4999t and d5000t without issue.  </s>
+<s> bob  </s>

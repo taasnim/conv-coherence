@@ -1,0 +1,37 @@
+<s> hi, i got a new sapphire radeon hd5670 1gb gddr5 but it won't work.  </s>
+<s> i wanted to upgrade my old graphic card to hd5670 but there must be some compatibility problem with my motherboard (conroe945g-dvi, pcie x16).  </s>
+<s> would you have any advise how to solve this problem ?  </s>
+<s> do i have to change some settings in bios or something? the card seems to be ok as when the dvi cabel is connected the massage on the screen is changing from &quot;no dvi cable connected&quot; to &quot;power saving mode&quot;( something like &quot;stanby&quot; mode).  </s>
+<s> nevertheless when the system starts nothing is happening, the screen stays black.the  </s>
+<s> fan on the card is moving as well.  </s>
+<s> maybe it is not possible to use my old motherboard with this new card.  </s>
+<s> my system spec: motherboard: conroe945g-dvi precessor: intel 6600@ 2.40ghz memory: 4gb ddr ii 667 psu : 400w please help.  </s>
+<s> thanks a lot  </s>
+<s> this makes me wonder if the power supply watts or rail came up short on amperes.  </s>
+<s> did you (a) connect that power lead?  </s>
+<s> (b) see if all rails had enough amperes?  </s>
+<s> thanks proffitt, could you please tell me how can i check if the rails had enough ampers?  </s>
+<s> copy here and post the numbers you find on the side of the power supply.  </s>
+<s> there is a table: ------------------------------------------------------------ +3.3v | +5v | +12v | -5v | -12v | +5vsb ------------------------------------------------------------ 20a | 30a | 20a | 0.5a | 0,8a | 2.5a ------------------------------------------------------------ 400w  </s>
+<s> hi i have tried 2 new psu, first one colors 500w: didn't make any different. the second one corsair 400w: has made significant change to my system! the gxf still doesn't display anything on the screen but now, the windows xp doesn't starts at all!! when it gets to the point where the windows xp logo appears it restarting the system again.  </s>
+<s> when i've came back to the old psu and the old gfx the situation is the same it gets to the point where the windows xp logo appears and it restarting the system again.  </s>
+<s> do you know what is wrong now??  </s>
+<s> goto and use their calculator to figure what they recommend.  </s>
+<s> you needn't buy from them but get an idea of what you need.  </s>
+<s> offhand, if the video card needs 100w and you install a 400w psu, don't you think among all those power demands, that its weak.  </s>
+<s> you're installing a high-end card which wants more than a typical psu is outputting, so get what it needs.  </s>
+<s> i can't stress how a decent psu is vital to a stable system for now and later.  </s>
+<s> imho, you have an unbalanced power system.  </s>
+<s> while wattage is a good indicator of psu rating, in your case, its the raw amps that are needed check the specs.  </s>
+<s> tada -----willy  </s>
+<s> &quot;radeon hd 5670 (single gpu) fragments list.s.cnet pre_process.sh  </s>
+<s> threads the card requires you to have a 450 watt power supply unit at minimum if you use it in a high-end system.  </s>
+<s> that power supply needs to have (in total accumulated) at least 35~40 amps available on the +12 volts rails.  </s>
+<s> &quot; your psu is listed at 20 amps so it missed it by about half.  </s>
+<s> if your card is bad or there is a missing cable even a proper power supply won't fix this.  </s>
+<s> but where are you shopping and why are they not pointing this out?  </s>
+<s> bob  </s>
+<s> i just installed a sapphire radeon hd 5670 1gb ddr5 hdmi in my pc: zt sysytems 7391mi intel i7 processor 870 (2.93ghz) 8gb ddr3ram sataii 1.5tb hdd ati 4350 video card 350watt (400watts peak) delta psu windows 7 64bit home edition.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads specs from psu voltage current frequency 115/230 10a/5a 50-60mhz +3.3 +5 12v1 12v2 18a 25a 16a 2.5 139 watts max 18a max fragments list.s.cnet pre_process.sh  </s>
+<s> threads 3d business graphics and gaming graphics score increased from 3.9 to 7.0. the power calculator at extreme power supply calculator lite v2.5 estimate's the pc is using about 239watts and recommends a psu of 289watts.  </s>

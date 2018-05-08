@@ -1,0 +1,14 @@
+<s> i have an asus mb with a promise pci raid controller connected to two wd1200 using raid 1. the bios on the raid controller is fasttrack tx2000.  </s>
+<s> when i use a windows xp setup cd to boot, it loads a bunch of drivers and invites me to install windows xp. then it says that it can't find a hard drive and invites me to reboot.  </s>
+<s> what should i try?  </s>
+<s> microsoft doesn't have the needed drivers on their cd. i'd recheck the install instructions from promise to see if you need to press a f6 or other key during install to slip in some diskette with drivers.  </s>
+<s> you'll also run into this with non-intel chipsets.  </s>
+<s> again an expert's only type install with drivers on diskettes at the right steps.  </s>
+<s> just fyi.  </s>
+<s> there is no step by step instructions that match your hardware (unless you are very lucky.) i only find guides.  </s>
+<s> in closing, another issue is you have only &quot;xp&quot;.  </s>
+<s> xp without the integrated sp1 or sp2 does have disk size limits that could also be at issue.  </s>
+<s> bob  </s>
+<s> i have many promise hdd/raid controllers, including the fasttrack tx2000.  </s>
+<s> r. proffitt is correct: you have to install the driver early in the xp installation process.  </s>
+<s> before you copy the drivers to a floppy, don't forget to extract the files form the zipped archive after you download them.  </s>

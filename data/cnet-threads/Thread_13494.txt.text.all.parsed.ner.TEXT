@@ -1,0 +1,19 @@
+<s> i have a weird display problem.  </s>
+<s> i'm using a gateway fpd1500 flat panel monitor, which has only a digital input, connected to my hp desktop running xp home edition sp2.  </s>
+<s> works great, with 2 exceptions: 1) monitor stays in standby mode until windows loads, so i can't see boot messages or access safe mode.  </s>
+<s> 2) if monitor is unplugged when windows boots, it won't come out of standby when plugged in.  </s>
+<s> oddly, if the monitor is plugged in but switched off during boot up it comes on immediately once the power button is pressed. the second issue is only a minor annoyance, but i mentioned it in case the two are somehow related.  </s>
+<s> when i tried borrowing a crt monitor and hooking it up to the analog video card output it worked normally, so it seems like the issue is that the default 'universal' vga driver that windows uses isn't able to run the digital monitor.  </s>
+<s> i also tested this by using the 'enable vga mode' option in the boot.ini  </s>
+<s> file, resulting in no monitor support in windows.  </s>
+<s> unfortunately, the monitor has no external controls, so i can't monkey with the display settings.  </s>
+<s> anybody else out there seen this kind of problem (and hopefully found a solution)?  </s>
+<s> it turned out the host pc had onboard video and the bios and boot info was on that.  </s>
+<s> when windows got going, then the video card they added was enabled and used.  </s>
+<s> in some cases but not all the bios has a setting as to which to use for the boot information.  </s>
+<s> unless a link to said bios screens is shared i must stop here.  </s>
+<s> bob  </s>
+<s> thanks for the reply bob.  </s>
+<s> i did upgrade the video card a while back, but don't recall if there was onboard video.  </s>
+<s> sounds worth checking out.  </s>
+<s> problem is, i can't access the bios info until i get hold of an analog display.  </s>

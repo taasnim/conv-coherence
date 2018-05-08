@@ -1,0 +1,76 @@
+<s> i have a d-link and linksys router.  </s>
+<s> i am wanting to manage them threw network mapping software.  </s>
+<s> i am having trouble finding a freely available one.  </s>
+<s> i have looked at download.com and freewarefiles.com.  </s>
+<s> i am also new to networking so some of the terms i am not 100% familiar with.  </s>
+<s> any ideas of what i can use?  </s>
+<s> read so &quot;there you go.&quot;  </s>
+<s> i want a visual way of monitoring my routers with out having to memorize all there ip addresses.  </s>
+<s> the address is right then in plain sight.  </s>
+<s> i also have other methods but as you can tell there are open source solutions but this seems like using a sledge hammer to kill a fly.  </s>
+<s> bob  </s>
+<s> i know the ip of one router but i also have a modem and a second router i would like to manage or how about companies with multiple routers?  </s>
+<s> i offered the post 17 where we do a little magic with multiple wifi routers.  </s>
+<s> your choice here but your last post ended with a flip to the manual to show where the setting was.  </s>
+<s> how is this software going to help if they won't use the manuals?  </s>
+<s> i do use the manuals but none of the information given has been helpful. the link was a search of google which i already have done.  </s>
+<s> i did like network magic but it's not all free and i still have trouble connecting to me second router threw it or vista (vista doesn't even see it.)  </s>
+<s> but in if that's not you, sorry.  </s>
+<s> there are open source solutions here.  </s>
+<s> but as presented it's still a sledge hammer solution to kill a fly.  </s>
+<s> bob  </s>
+<s> managing multiple routers is different then turning of wifi.  </s>
+<s> they are two different posts.  </s>
+<s> i got that fixed over a day ago.  </s>
+<s> i turned the wifi off on my t-mobile router and now i can't configure it.  </s>
+<s> i do not want to have 2 wireless going.  </s>
+<s> i have my d-link working just fine just can't see the linksys.  </s>
+<s> and never use anything more than the web interfaces.  </s>
+<s> i see we've hit the end here and good luck with your software trials.  </s>
+<s> bob  </s>
+<s> how can i use web interface when i only know the ip of my d-link.  </s>
+<s> how do i find my linksys router?  </s>
+<s> then we look at our machine's ip configuration and we see that ip there.  </s>
+<s> i know the system ip.  </s>
+<s> i also know the default gateway.  </s>
+<s> those are not the ip address for the secound router.  </s>
+<s> changeing the ip info for this system has nothing to do with my dhcp routers other then the default gateway, but i am talking about the router that's connected to the default gateway.  </s>
+<s> &quot;i know the system ip.  </s>
+<s> i also know the default gateway.  </s>
+<s> those are not the ip address for the secound router.  </s>
+<s> changeing the ip info for this system has nothing to do with my dhcp routers other then the default gateway, but i am talking about the router that's connected to the default gateway.&quot; in post 17 i note how to setup dual routers.  </s>
+<s> your choice here but once you assign the ip you label the router so you know.  </s>
+<s> good luck, bob  </s>
+<s> what do you mean by post 17? can you give a link?  </s>
+<s> top of the discussions in this forum.  </s>
+<s> post 17 is for router setup not dual routers.  </s>
+<s> i already have both routers setup.  </s>
+<s> i have the first one as 192.168.1.2 and secound as default ip. the modem is 192.168.0.1. the 1.2 is the one broadcasting the signal that i canect threw.  </s>
+<s> how do i connect to the other modem?  </s>
+<s> i think you need some basics of networking classes.  </s>
+<s> you could have used my post 17 as a primer on how to setup a dual router system.  </s>
+<s> it appears you are not going to do this or connect a machine to the second router to find and configure it.  </s>
+<s> at this point it appears you need on site support, classes and maybe more.  </s>
+<s> i am not your tech support but can point to links and guides on how to get it done.  </s>
+<s> since you don't want to apply yourself and get this done i am electing to unsubscribe from this discussion.  </s>
+<s> feel free to vent about that but look at your posts. the signs you need direct support are all there. the signs you do not want to work at this are all here.  </s>
+<s> i wish you the best of luck, bob  </s>
+<s> i know how to setup seprate routers.  </s>
+<s> i know i can connect to the secound router wired to make the changes.  </s>
+<s> that is not what i asked.  </s>
+<s> i know how networking works.  </s>
+<s> look at the dhcp table to get what ip addresses were handed out and enable the management from the wan on the second router?  </s>
+<s> hint? the ip address is there and you must configure the router before this will work.  </s>
+<s> it appears you want tech support and not a guide or discussion.  </s>
+<s> bob  </s>
+<s> how do i find the dhcp table?  </s>
+<s> this is a sure sign you do not want to apply yourself to read the manual.  </s>
+<s> i supplied that earlier.  </s>
+<s> can you share why you don't want to work a little at this? bob  </s>
+<s> i know how to use my d-link trouter which is what the link was for.  </s>
+<s> how has that to do with my t mobile one?  </s>
+<s> since simple answers do not work for you such as looking at your dlink's router table and enabling the other router's remote management, it's time for me to call this discussion closed.  </s>
+<s> -&gt; i'm going to be blunt here.  </s>
+<s> you need tech support on your location and sitting with you.  </s>
+<s> be sure to tell them you need someone that has taught networking as well.  </s>
+<s> bob  </s>

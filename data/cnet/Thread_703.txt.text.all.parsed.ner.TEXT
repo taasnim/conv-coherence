@@ -1,0 +1,11 @@
+<s> i bought a seagate 40gb hard disk.when  </s>
+<s> i installed in my computer and later started to create partitions of 2 drives of 20gb each but it said that i have maximum availability of 5%.please assist me what could be the problem in the hard disk?  </s>
+<s> first, is this going to be a master/boot drive or is it going to be a slave to one that already exists?  </s>
+<s> what disk are you using to create the partitions?  </s>
+<s> one that came with the harddrive from seagate or a windows bootdisk?  </s>
+<s> what version windows is the bootdisk for and does it match with what you plan to install on the drive or already is installed on another drive?  </s>
+<s> if you are using this drive as a slave, are you accidently working with the boot drive and don't realize it?  </s>
+<s> toni  </s>
+<s> it is the masterboot drive and i tried to create the partitions using windows bootable floppy disk which i created from win 98.  </s>
+<s> the &quot;later&quot; makes me wonder if you hadn't put something on the drive before trying to partition it.  </s>
+<s> have????? there was a time when 2 gb was the limit in the bios.  </s>

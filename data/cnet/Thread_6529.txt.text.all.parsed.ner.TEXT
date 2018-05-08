@@ -1,0 +1,106 @@
+<s> hey everyone.  </s>
+<s> first off, i know some tech stuff, but not much.  </s>
+<s> please forgive me if im wrong about anything.  </s>
+<s> well, my computer just died.  </s>
+<s> i had a friend check it, he said the power supply was shot (only certain things getting power).  </s>
+<s> when i turn the computer on only the floppy drive turns on and nothing else.  </s>
+<s> its an hp pavilion 743c and almost 4 years old.  </s>
+<s> i think a storm/lightning strike nearby caused this problem.  </s>
+<s> do you think its worth it to try to fix the computer?  </s>
+<s> or should i just wait and get a new one?  </s>
+<s> if i dont fix it i was hoping to be able to put the hard drive on this computer (this is my parents computer).  </s>
+<s> as a second hard drive.  </s>
+<s> can i do this?  </s>
+<s> what would it be like?  </s>
+<s> could i make it like it was two different computers (like logging on to our seperate hard drives)?  </s>
+<s> i have attached the hard drive to this computer (replacing the hard drives) and it acted like it was going to boot up, but on the screen it said something about something missing.  </s>
+<s> i know i need to configure it somehow.  </s>
+<s> but i want to do it as a second drive.  </s>
+<s> can anyone explain how to do this or point me in the right direction on instructions and information?  </s>
+<s> i just didnt know where to start looking.  </s>
+<s> sorry thats so long and jumbled up.  </s>
+<s> thank you for your time!  </s>
+<s> tiffanie  </s>
+<s> tiffanie you can attach the drive from your computer as a secondary drive to your parents computer.  </s>
+<s> does the ribbon cable that attaches the drive have a second connector?  </s>
+<s> that is where you would attach it.  </s>
+<s> you also have to attach the white connector with four wires like on the other drive, but you probably know that because you already attached it.  </s>
+<s> that is the power cable.  </s>
+<s> there may be a tiny connector with now wires near the power connector that allows you to set it to slave or master.  </s>
+<s> you should set it to slave. the setting for this should be shown on the hard drive near the little connector (called a dip jumper).  </s>
+<s> when you install it as the secondary drive you will be able to acces your files, but not the programs that you installed on your computer.  </s>
+<s> you will be able to find mp3's, pictures, word documents, and other files in d:documents and settings(yourusername)my documents folder where d is the drive letter the computer assigns you.  </s>
+<s> good luck and remember you can always do a search for the file you are looking for.  </s>
+<s> the first is that power supplies are pretty inexpensive (under $50) and relatively easy to replace....the most complicated part being which pins on the motherboard to attach the front panel connectors (power, reset, spkrs, etc). the easiest way to do that is to remove one connector at a time with a small drawing next to you that you can mark what they are so you can attach the new power supply the same way.  </s>
+<s> a total of about ten pins near the bottom right corner of the motherboard and one or two may or may not stay 'naked' with no connector attached.  </s>
+<s> i personally would start there to see if it's the power supply and not the motherboard itself that got fried.  </s>
+<s> as for hooking your harddrive to your parents' computer...the reason it said something was missing when you hooked it up, is probably because you still had your drive jumpered as a master and it was trying to boot from it rather than see the drive as just an extra slave for storage purposes and drivers, etc. didn't match up since it still has your operating system (windows) on it and has the hp drivers still in residence in the registry.  </s>
+<s> in order to hook it up as a slave instead, make sure the jumper in between the power supply and the cable connector on the back of the drive is either jumpered as a slave and your parents' harddrive jumpered as a master or master with slave or jumper them both as cs (cable select) and hook the end of the cable to your parents' harddrive and the middle connector to yours. the cable will then sort out which is which and boot correctly.  </s>
+<s> there will be some kind of etching in the drive itself right above the pins or a diagram on the label attached to the drive to show you the proper pin settings for the jumper. the only problem you might run into will be if your parents are using w98 and you have xp on your harddrive because xp usually is formatted for ntfs whereas w98 is fat32 and fat32 drives can't see data on an ntfs drive.  </s>
+<s> if the situation is reversed, and you have w98 and your parents have xp, there's no problem because xp will be able to see a fat32 drive easily.  </s>
+<s> toni  </s>
+<s> tiffanie, sorry to hear of your troubles.  </s>
+<s> power supplies are fairly easy to replace & relatively inexpensive.  </s>
+<s> but first lets test it & see if we can narrow things down.  </s>
+<s> follow this link & you will learn how to ''hotwire'' the ps. whatever you do, do not disassemble the power supply.  </s>
+<s> if it fails the test, follow this link to replace the ps. from the description you give, i doubt that it is the power supply.  </s>
+<s> does the cpu cooler fan spin?  </s>
+<s> any beeps?  </s>
+<s> explain further about what you did with the hd. you got a message to display that you were missing the os, or non system disk?  </s>
+<s> if you got a message, that means that you got the system to boot & your ps is ok. give us more details & good luck.  </s>
+<s> bd  </s>
+<s> adding a second hard drive to a computer is easy.  </s>
+<s> follow this link .  </s>
+<s> make sure to set the jumper on the drive to &quot;slave&quot; .  </s>
+<s> i suspect that you may have a hard drive problem.  </s>
+<s> you need to give us some more information.  </s>
+<s> let us know what you find out & we will try to help as much as possible.  </s>
+<s> yes, the ribbon has a second connector.  </s>
+<s> thank you for the instructions.  </s>
+<s> i havent done it yet but those were very clear, i appreciate it!  </s>
+<s> would i be able to access the files of the programs and stransfer them onto this computer so then i could use the programs?  </s>
+<s> that was mostly the reason i wanted to attach the hd to this computer.  </s>
+<s> thanks again!  </s>
+<s> thank you for the information on the power supply!  </s>
+<s> im a little timid to spend the money replacing it, to find out thats not the problem, you know?  </s>
+<s> fifty dollars is a lot to a teen with no job (yet).  </s>
+<s> your right about hooking up the hd to this computer.  </s>
+<s> i thought of that, so i figured.  </s>
+<s> i was just testing to see if my hd was still working, to see if that was the problem.  </s>
+<s> thank you for the info too on hooking up a slave drive.  </s>
+<s> no problem with the os, its the same on both computers.  </s>
+<s> thanks again for your reply and information!  </s>
+<s> i really appreciate the help.  </s>
+<s> thanks so much for the links and the info!  </s>
+<s> i really appreciate it.  </s>
+<s> no, when i try to boot up my computer, nothing happens with the fans, and no beeps. the only thing that happens is the floppy drive turns on, and i can here it a little bit, and the power button lights up green, and the light below it is amber, and then turns off.  </s>
+<s> i had hooked up my hard drive to another (this) computer, just to see if it was the problem or not.  </s>
+<s> but it spun, and of course was not configured to this computer.  </s>
+<s> so no problems there.  </s>
+<s> thanks again!  </s>
+<s> ok, so the computer is not completely dead.  </s>
+<s> the computer will start up, but then shuts down.  </s>
+<s> right?  </s>
+<s> 1st thing you should do is configure the hard drive as a slave & install it in the second pc. back up all your critical files.  </s>
+<s> then, breath a deep sigh of relief that you didn't loose all your data.  </s>
+<s> now back to your pc. does the monitor display anything during the short time that the computer tries to start? the only thing you need for the pc to boot is: motherboard, cpu, memory, video card & power supply.  </s>
+<s> so the next step is to disconnect or remove anything else.  </s>
+<s> i'm not familiar with your exact computer, so these will be general instructions.  </s>
+<s> unplug everything from the computer, except power cord, monitor, keyboard & mouse.  </s>
+<s> make sure that you remove any usb devices, jump drives, etc. try to boot.  </s>
+<s> yes/no?  </s>
+<s> if no, unplug kb & mouse & try again.  </s>
+<s> if no, continue on... unplug the floppy & ide cables from the motherboard.  </s>
+<s> be sure to note where they came from, so that you can reassemble them later.  </s>
+<s> next, remove all expansion cards, except the video card.  </s>
+<s> these may include a modem, nic, sound card, etc. so, now you should have a mothreboard, cpu, memory, video card & power supply.  </s>
+<s> leave the small wires connected for all the fans & the front panel switches & lights, etc. now, fire it up & let us know exactly what happens.  </s>
+<s> what do you see on the monitor?  </s>
+<s> what fans turn?  </s>
+<s> what beeps do you hear?  </s>
+<s> what lights come on?  </s>
+<s> how long do these items stay on?  </s>
+<s> anything & everything.  </s>
+<s> details, details, details.  </s>
+<s> get back to us & we will go from there.  </s>
+<s> good luck - darren  </s>

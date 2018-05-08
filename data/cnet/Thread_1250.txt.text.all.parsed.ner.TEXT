@@ -1,0 +1,25 @@
+<s> hi i have a very strange problem and cannot work out what is causing it.  </s>
+<s> so i really need some help.  </s>
+<s> we have a wifi network @ our school where 7 wifi access points are via cat5 cable connected to a 8 port switch and then to a wifi adsl modem.  </s>
+<s> every now and then we loose all connections for no reason at all.  </s>
+<s> 3to4 times a week.  </s>
+<s> all other times it works perfectly.  </s>
+<s> each wifi ap has its own fixed ip addr and i have no problem connecting to the ap but the ap cannot ping the modem.  </s>
+<s> nor can i ping the modem if i connect directly to the wifi modem.  </s>
+<s> i have to reboot the adsl modem and all the wifi ap from the switch, turn of all ap's and wait for the modem to reboot.  </s>
+<s> now i have to connect each cable one by one back into the switch and one by one turn the ap back on.  </s>
+<s> then all is fine again.  </s>
+<s> i have replaced the switch but no difference.  </s>
+<s> please please help  </s>
+<s> what is the make and model of the modem?  </s>
+<s> this sounds like a periodic failure of the modem.  </s>
+<s> does it have a built-in router?  </s>
+<s> have you tried replacing it?  </s>
+<s> it is a tp-link wireless 4 port adsl modem.  </s>
+<s> its only 3 month old and is protected by a ups.  </s>
+<s> without the model number, i can only guess that it has a router built in since you describe it as having 4 ports.  </s>
+<s> this still sounds like a possible problem with this modem/router.  </s>
+<s> have you checked for firmware updates for the modem?  </s>
+<s> are the ap addresses outside of the range of dhcp?  </s>
+<s> do you get any specific network errors on client pcs?  </s>
+<s> if the network ip addresses are configured properly and firmware is updated with no resolution, you may want to pursue a replacement modem of a different make and model.  </s>

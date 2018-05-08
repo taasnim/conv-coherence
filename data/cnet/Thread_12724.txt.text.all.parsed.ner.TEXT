@@ -1,0 +1,27 @@
+<s> i am having a problem with my computer after i return from standby.  </s>
+<s> i have an hp pavilion ze5185 notebook computer with 2.1 ghz pentium 4 processor, 512 mb ram, 60 gb hard disk drive, and the networking is built into the board.  </s>
+<s> i am using wired networking.  </s>
+<s> i am running windows xp home edition with sp2. the router is a dlink di 604.  </s>
+<s> when i put my computer in standby mode and come back a few minutes or couple of hours later, networking isn't working.  </s>
+<s> i can't make a connection to the internet.  </s>
+<s> i have to log off and log back on to restore access to my network or the internet.  </s>
+<s> and, i usually run the computer in a limited account for security reasons, so i can't disable the network connection and re-enable it, or repair it, because i don't have admin access.  </s>
+<s> if anyone knows what the problem is, i would appreciate knowing what to do. is there a program that can help me with these connectivity problems and re-establishing network/internet connectivity when having these problems?  </s>
+<s> thanks  </s>
+<s> on desktop... even on stand alone pc. turning off the pc is much better than using standby or hibernate...  </s>
+<s> gakada is correct--on some systems, there are problems with returning from standby and hibernate.  </s>
+<s> sometimes a motherboard bios update that fixes this is available.  </s>
+<s> i did run into a wireless-g network adapter that exhibited this behaviour and was able to fix it by installing a newer firmware version.  </s>
+<s> note that not all adapters have upgradable firmware.  </s>
+<s> check to see if there is newer driver to download for the adapter.  </s>
+<s> sometimes there is a network adapter setting that allows the computer to turn off the device to save power.  </s>
+<s> try turning this feature off.  </s>
+<s> . sat - 13-may-06 - from: jwa - .  </s>
+<s> i use standby all the time - except for restarting once a week or so - i close the notebook cover and it goes in to standby.  </s>
+<s> open it, and it is back on - quickly. .  </s>
+<s> i used to use hibernate, but standby leaves the electronics warm - better than cooling down and heating up frequently. the hard drive is off (maybe good, maybe not so good.) and, it comes back to life very quickly. .  </s>
+<s> i think that hibernate makes much more use of the harddrive, and i know that it takes much longer to re-start. .  </s>
+<s> does anyone know of good reasons not to use standby regularly ?? .  </s>
+<s> {note: win-xp-home, toshiba notebook, celeron 2.4; 512mb; 45 to 55 applications open at once almost always.  </s>
+<s> } .  </s>
+<s> -eom- .  </s>

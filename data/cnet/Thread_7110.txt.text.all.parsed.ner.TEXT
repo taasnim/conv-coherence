@@ -1,0 +1,32 @@
+<s> hi, i'm thinking of installing a relatively simple hard-wired home network.  </s>
+<s> i plan to run cat6 (or maybe cat6a?) from various outlets in my home to a central point where i can locate a switch, router and my cable modem.  </s>
+<s> i plan to terminate the cable runs at both ends with cat6 keystone connectors.  </s>
+<s> i plan to use a netgear gs724t switch and probably a netgear fvs318g firewall, both of which incorporate &quot;auto uplink&quot; capability. the only problem is that i'm not sure whether this approach will work or not.  </s>
+<s> so i guess my initial question is; if i simply terminate the cat6 cable runs with cat6 keystone connectors and then use cat6 patch cables to directly connect the keystones to the components, will this work?  </s>
+<s> or do i need to use a &quot;punch-down&quot; 110 patch panel?  </s>
+<s> i suspect that i have confused myself by thinking about mdi / mdix issues and crossover cables.  </s>
+<s> can someone please shine a little light in to my darkness?  </s>
+<s> many thanks.  </s>
+<s> i never run crossover connections any more.  </s>
+<s> haven't in over a decade.  </s>
+<s> all runs are straight pairs according to the standards.  </s>
+<s> but i will never tell an installer which standard to use.  </s>
+<s> that's their choice.  </s>
+<s> bob  </s>
+<s> there's no hard rules about how to connect all the cables, as long as the wire colors match end-to-end.  </s>
+<s> as previously stated, crossover configured cables are largely unnecessary.  </s>
+<s> personally, i would put rj45 plugs on the ends of the cables instead of keystone connectors.  </s>
+<s> putting plugs on the cables is about as easy as using the keystone connectors. the plugs would make the patch cables unnecessary.  </s>
+<s> a patch panel also wouldn't be necessary if you put the switch at the central cable point.  </s>
+<s> plugs would make your installation much neater with less clutter than the keystone connectors.  </s>
+<s> if you need to lengthen any of the cables after the plugs are installed, you can use simple female-to-female rj45 adapters.  </s>
+<s> again, take care to match wire colors on each end.  </s>
+<s> i'd recommend purchasing an inexpensive network cable tester to check your work.  </s>
+<s> i've lost count of electrically fine twisted pair runs but they used the incorrect pairs. the pairing is not 1,2 3,4, 5,6 and 7,8.  </s>
+<s> it's well documented so go with one of the standards.  </s>
+<s> bob  </s>
+<s> thanks to you both for those thoughts and observations.  </s>
+<s> so to confirm, i think that you are suggesting that my proposed approach should work and i can stop worrying about crossover cables.  </s>
+<s> sunwatcher, terminating the cable runs with rj45 plugs and connecting directly to the hardware is definitely an option to consider.  </s>
+<s> i had planned on color coding the keystone connectors to identify the outlets origin but of course i could equally use that approach with the plugs.  </s>
+<s> thanks again guys.  </s>

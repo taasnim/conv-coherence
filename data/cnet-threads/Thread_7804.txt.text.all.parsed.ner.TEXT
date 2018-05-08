@@ -1,0 +1,71 @@
+<s> hi, my 1st time on these forums, and my 1st time building a pc i need help!! i have beeb around looking for good parts, im using a website other then newegg cuz they do not ship internatioinaly im using this one =&gt; compuvest dot com so far i have came up with this list.. case = thermaltake spedo vi90001w2z w/ window full tower gaming case cpu = intel core i7 processor i7-920 2.66ghz 8mb lga1366 cpu oem at80601000741aa fan = dynatron g555 2u cpu fan for intel xeon 5500 series lga1366 cpu motherboard = gigabyte motherboard core i7 intel x58 ddr3 crossfirex & 3-way sli avg gbe atx gaex58ud5 ram = 6gb (3x2gb) ddr3 pc3-10600 1333mhz 240pin cl8 triple channel memory kit wa133ux6g8 videocard = 2gb visiontek radeon hd 4870 x2 video card gddr5 pci express 2.0 x16 crossfirex ready (dual link) dual dvi hdtv 900250 thats it, not planning to buy a hard drive and a dvd writer cuz i already have them, i also have a bfg 800w power supply, im looking to build a gaming pc that will last and can be upgraded in the future, i want to also try and build it myself so i can learn more about computers anyone can help this virgin?  </s>
+<s> thx  </s>
+<s> if you're going to buy a 32 bit os (like windows vista) there's no need to have more that 4 gb ram, because any more isn't being used at all.  </s>
+<s> it's just sitting there.  </s>
+<s> only a 64 bit os (like windows vista 64 bit) can use more than 4 gb.  </s>
+<s> but support with drivers and games for 64 bit os'es is a little bit lacking, so i doubt if that's a good move.  </s>
+<s> kees  </s>
+<s> either stick with the stock cooler or get a different cooler. the g555 is intended for server use in a low profile chassis in a heavily air-conditioned environment and will not cool as effectively as the stock cooler.  </s>
+<s> also, check out these articles:  </s>
+<s> case = thermaltake spedo vi90001w2z w/ window full tower gaming case (black) motherboard = gigabyte motherboard core i7 intel x58 ddr3 crossfirex & 3-way sli avg gbe atx gaex58ud5 cpu = intel core i7 processor i7-920 2.66ghz 8mb lga1366 cpu oem at80601000741aa didnt find a 3rd party fan on the website im buying from so ill just use the fan that comes with the cpu ram = 6gb (3x2gb) ddr3 pc3-10600 1333mhz 240pin cl8 triple channel memory kit wa133ux6g8 video card = 2gb visiontek radeon hd 4870 x2 video card gddr5 pci express 2.0 x16 crossfirex ready (dual link) dual dvi hdtv 900250 and like i said before im not buying hard drive and a dvd writer cuz i already got them, and i also have bfg 800w power supply [...] 009273.jpg  </s>
+<s> [...] 009270.jpg  </s>
+<s> well here it is i have yet to install all the cables and all that and the power supply too (bfg 800w), does it look like i attached everything right so far?  </s>
+<s> but there is a problem, i thought they would inclued the intel fan but they didnt :cry: now i have no cpu fan, i looked everywhere in my country and didnt find any at all now i have this powerful machine and cant use... unless... :bounce: i have a thermaltake fan from my older pc [...] 009275.jpg  </s>
+<s> i cant attache it to the motherboard cuz (what do you call it?  </s>
+<s> screws?) doesnt reach all the way, just barley!!, but the buttom of the fan fit perfectly on top of the cpu, its a big fan and worked well in the past, but i guess even if it didnt fit all of the surfece it will still work ok cuz the intel fan never did, and im not an overclock person anyways :p so any crazy ideas?  </s>
+<s> don't try to cobble together a cooler from parts intended for socket lga775.  </s>
+<s> you just paid over $1000usd for those components so don't risk the cpu and mobo by not spending another $60usd for a proper cooler.  </s>
+<s> yeah... i wish i could do that but can't :p your right no reason to go crazy do you know any website like newegg that ship internationally? the place i bought from compuvest didn't have a cooler for core i7 thanks  </s>
+<s> it is useless buying more than 2 gigabytes since you have the 2 gig video card hogging up half of your 4 gig max for 32 bit  </s>
+<s> alright found a website that ship to my country frozencpu, i got the thermalright ultra-120 extreme  </s>
+<s> ok everything lights up and all, but the screen goes black, does that mean my card is dead?  </s>
+<s> or i missed something plz help  </s>
+<s> ok heres whats going on, my videocard has 6 pin and 8 pin for power, i thought that my card was bust, but then i removed the 8 pin and connected the 6 pin i got something on screen, a message in red saying not enough power for the videocard if my motherboard lights are all up and the cpu fan is spining, and i if i got that message then i dont think my parts are busted, there must be something i missed help me out?  </s>
+<s> use both the 6 pin and 8 pin pci-e connectors.  </s>
+<s> also make sure you're using the proper 8 pin cpu power connectors.  </s>
+<s> whenever trouble shooting, start with the bare minimum: 1 stick of ram, only connect the cpu cooler's fan, and only connect one dvd drive.  </s>
+<s> double-check your front-panel connections (power, reset, hdd led, etc.) if you've got a cheap pci-express card, use it instead of the 4870x2.  </s>
+<s> stick a low end card into the system, see if it works the 4870x2 consumes more power than just about any video card out there other than the oc'd version of the 4870x2.  </s>
+<s> even you're 800watt psu might not give enough power, i7's are also a power hungry chips.  </s>
+<s> i did use my older video card the geforce 8800 gtx and everything works great i again switched to the 4870x2 and nothing just a black screen, it all works find if placed both cards, only that the geforce 8800 gtx is the primary, the fan of the 4870x2 is working but no sweat graphics could it be my card is dead? the strange thing was that red words saying not enough power for the video card when i connect a 6 pin in place of the 8 pin really strange, if it could show atleast just that then.... i dont know  </s>
+<s> did your card come with a double molex to 8pin plug?  </s>
+<s> does your power supply have a real pci-e 8pin plug?  </s>
+<s> (some 8pin plugs aren't designed for pci-e usage.) which plug are you using?  </s>
+<s> if you're using the molex adapter then use molex plugs on two power supply leads (instead of two plugs on one lead).  </s>
+<s> if that fails, then you should get a new sli certified powersupply in the 700w range.  </s>
+<s> 2.4 teraflops gpu power!  </s>
+<s> 1600 stream processors!  </s>
+<s> directx 10.1.  </s>
+<s> and on and on.  </s>
+<s> the saphire hd4870x2 is pretty much the king of the hill in gpu`s now.  </s>
+<s> another fellow techy here on cnet is building a pc, but with the q9550 cpu.  </s>
+<s> i suggested he go to the core i7 920 with mobo.  </s>
+<s> i believe that it`s a bit better for future proofing.  </s>
+<s> not to mention overclocking and performance.  </s>
+<s> i`ve been researching fo a while here and looking at the specs i think you should up the psu.  </s>
+<s> 650w is the minimum for this gpu, but it`s better to heve a good bit of headroom so the psu is never stressed.  </s>
+<s> which can hurt your performance or worse.  </s>
+<s> i would realy like to here from you when your done.  </s>
+<s> then i can compare your build to the other cnet member.  </s>
+<s> have fun and good luck.  </s>
+<s> i am new to the forum and decided to build off of this thread considering his situation seems to be resolved and i am seeking the same kind of information.  </s>
+<s> i am going to build myself a gaming pc in the 1500 dollar area and, seeing as how i'm a newb at this stuff, i was looking for some critiques and recommendations from some hardcore techies. the rig i am currently considering is this: evga 01g-p3-n891-rx geforce 9800 gx2 1gb (512mb per gpu) 512-bit (256-bit per gpu) gddr3 pci express 2.0 x16 hdcp ready sli supported video card xfx mbn790iul9 lga 775 nvidia nforce 790i ultra sli atx intel motherboard intel core 2 quad q9550 yorkfield 2.83ghz 12mb l2 cache lga 775 95w quad-core processor cooler master rc-690-kkn1-gp black secc/ abs atx mid tower computer case cooler master ucp rs700-aaaaa3 700w atx12v / eps12v sli certified crossfire ready 80 plus silver certified power supply western digital caviar black wd1001fals 1tb 7200 rpm 32mb cache sata 3.0gb/s hard drive 2 x mushkin 4gb (2 x 2gb) 240-pin ddr3 sdram ddr3 1333 (pc3 10666) dual channel kit desktop memory (equaling 8gb total) windows vista ultimate 64-bit edition and a cheapo functional optical drive.  </s>
+<s> i was looking for some recommendations as far as bang for my buck alternatives either hardware or retailer, and compatability issues.  </s>
+<s> i saw it posted that the video card memory can consume some of the memory cap. is this true, because if so i would go for a 6bg memory setup since i intend on getting another of the same video card in the future and running them in sli mode.  </s>
+<s> finally, would there be a power supply issue if i were to attempt running two of these video cards in sli?  </s>
+<s> cost mb...that's one of the lower buyer ratings i've seen.  </s>
+<s> and while we're at it...i'd focus on psus by pcpowerandcooling, seasonic, corsair, etc., over coolermaster.  </s>
+<s> vapcmd  </s>
+<s> the king of da hill is the gtx295, i am assuming that ati will get ther performance crown back soon though  </s>
+<s> hi. good choice with the core i7 cpu.  </s>
+<s> i also did some research on the wd black 1tb, vs seagate baracuda 1.5tb.  </s>
+<s> in the specs that matter, such as data transfer, the baracuda wins.  </s>
+<s> i installed one in my blackbird and i`m happy with it.  </s>
+<s> also; i use dual 9800gts` in sli mode. the graphics in crysis are great.  </s>
+<s> even on my 32&quot; monitor.  </s>
+<s> however, after reading about ati`s radeon saphire series, i`m really thinking of going for these bad boys.  </s>
+<s> but for the price, its hard to beat dual 9800gts.  </s>
+<s> why are you *planning* on an obsolete video card?  </s>
+<s> a radeon hd 4870x2 or gtx 285 is faster in most games.  </s>
+<s> a good p45 based mobo (like this gigabyte ) will perform as well or better than the xfx you linked to for half the price. the coolermaster's not a bad power supply but definitely overpriced compared to this corsair: although ddr3 has fallen in price, there's no reason to get 8gb just for gaming (especially if it makes you skimp on your video card).  </s>
+<s> here's a fast 4gb kit: add another 4gb when you need it or when it's only $50.  </s>

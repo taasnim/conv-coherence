@@ -1,0 +1,23 @@
+<s> ok, i have a western digital 80 gb hard drive.  </s>
+<s> i have it hooked up as a slave right now and am attempting to format the drive with partition magic.  </s>
+<s> i can read from and write to the drive just fine in winxp pro, though windows says it only has about 36 gb (i previously had a partition on the drive splitting it in half, so i'm guessing that is where this is coming from, but it no longer shows any partitions, just the one small drive).  </s>
+<s> partition magic shows the drive as &quot;bad&quot; and produces an error when attempting to format (bad parameter/argument).  </s>
+<s> pm also reports that the drive has a bad mbr (master boot record).  </s>
+<s> in windows i can format to ntfs just fine, but nothing changes in pm. i want my other 40gigs back and to partition the drive again. is there any software or special jumper setting that can get it right?  </s>
+<s> just use xp's disk management tool and move forward.  </s>
+<s> the 36gb could be proper if you selected fat32 for the partition.  </s>
+<s> try ntfs and go native.  </s>
+<s> in closing, reveal the version of pm and what size the drive is being reported as in the bios.  </s>
+<s> bob  </s>
+<s> to robert's always sound advice, i would consider downloading western digital's diagnostic tool set and check out the drive.  </s>
+<s> a utility is included to do a low level format (write &quot;0&quot;s to the drive) and this should make things almost squeeky clean if the drive is in reasonable condition.  </s>
+<s> i am not sure about the wds but some drive utilities can, when bad sectors are found, reallocate the space to spare areas of the drive.  </s>
+<s> of course bad sectors are not a happy finding and could mean the drive is failing.  </s>
+<s> anyway, this will remove any partition information and you should be able to partition and format the drive to the limits of your bios recognition of it.  </s>
+<s> good luck.  </s>
+<s> did you realize that xp can't create a fat 32 partition larger than 32gb?  </s>
+<s> you could create one by booting with a win98 boot floppy and running fdisk, but xp can't handle it.  </s>
+<s> if you use ntfs and get all 80gb then the job is done, what more do you have to prove?  </s>
+<s> hey, i downloaded wd's utility and it worked!  </s>
+<s> i ran both the quick and long tests and neither found any errors, but when i wrote all zeros it worked!  </s>
+<s> thanks for the advice, everyone; i learned some things!  </s>

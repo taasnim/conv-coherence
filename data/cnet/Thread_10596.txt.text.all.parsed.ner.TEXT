@@ -1,0 +1,9 @@
+<s> i'm planning to upgrade my current graphics card, an 7300le to a 8800gt.  </s>
+<s> thing is, i'm not really sure whether the card would be able to fit into my case as the heatsink is kinda big.  </s>
+<s> please advice thanks in advance  </s>
+<s> and unless somebody answers who owns what you have, has already added the gpu in question and reads this message answers ....you're research and calculations will be as good as any.  </s>
+<s> my recommendation ... measure the space inside the case, compare it to the dimensions (length, height and width) of specific units (gpus) now available, check the psu requirement (your current psu may be inadequate) and make your decision.  </s>
+<s> vapcmd  </s>
+<s> you'll need a good 450w unit or better. the e520 only has a 305w ps. the e520 comes with integrated intel x3000 graphics.  </s>
+<s> if you upgraded that to a 7300le *card* the 8800gt should pose no problem since it is a single slot card also. the 8800gt cards run hot so be sure your case fans are working properly.  </s>
+<s> a power supply with 2 fans (one intake and one exhaust) would be helpful as well as a graphics exhaust fan like this:  </s>

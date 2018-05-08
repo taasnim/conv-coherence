@@ -1,0 +1,127 @@
+<s> hey folks, i've got a slight problem here.  </s>
+<s> i normally use my mbp for most of daily computer tasks and projects.  </s>
+<s> but i also have an old imac g4 that i just love. the problems start with: no airport card, old system, classic stuff, and basically the entire hd is a mess.  </s>
+<s> i know that in the one thread i started regarding the console, i made some comment about my laptop being messy.  </s>
+<s> i take that back.  </s>
+<s> this machine has that definition.  </s>
+<s> about the imac: it's a 17 inch flat panel 1ghz ppc model with 768mb of ram and a 80gb hd. apparently, it is running 10.4.9, but i think it was running an older version of tiger, considering that it has not been connected to the internet in many, many months.  </s>
+<s> it's running lots of apps that are now currently outdated, and software update may be one of my few solutions.  </s>
+<s> but with no airport card, i'm out-of-luck.  </s>
+<s> i've been trying to connect it to my mbp with an ethernet cable in attempt to get it wireless, but that has not worked so far.  </s>
+<s> i may need a walkthrough.  </s>
+<s> i don't want to plug it into my router, but this may be the only thing i can do until i get an airport card.  </s>
+<s> so i guess i have that fixed for now.  </s>
+<s> my real problem is this: the hd is a mess and there are mulitple files and folders that i have problems moving/maintaining, etc. many months ago, when i bought the imac, i got it through a friend who recently purchased a top-of-the-line 24 inch imac.  </s>
+<s> all i got was the isight camera, the keyboard and mouse, several and several apps and programs loaded up on it, and itself.  </s>
+<s> i created a new user for myself and moved over some of the programs i needed to use to the new profile, but the hd is so unorganized and the previous owner had left quite a few apps that no longer work.  </s>
+<s> i want to reinstall tiger on it and clean it up, but i only have the install disks for my mbp, which has a newer intel cpu.  </s>
+<s> i don't think apple recommends using them on a different machine, and plus, i don't know if the disks i have will run on ppc models.  </s>
+<s> what do i do? the machine is great and runs okay for the most part, but it's just to messed up.  </s>
+<s> ownerships and permissions on different files are screwed, old ppc apps can't be used on it anymore... hopefully you get the idea.  </s>
+<s> should i try reinstalling tiger on it with my mbp's install disks?  </s>
+<s> i have separate install disks for some of the apps that i have had myself.  </s>
+<s> i really need to fix it up.  </s>
+<s> thanks, -bmf  </s>
+<s> when you create a new account on a mac running os x there is no need to move any of the applications anywhere.  </s>
+<s> if the applications are installed in the applications folder, as they are by default, they are available to all users.  </s>
+<s> only those applications that are installed in the applications folder of a user, and you have to work to do that, need to be moved elsewhere.  </s>
+<s> they invariably have problems working after the move because their stuff is in the library of that user.  </s>
+<s> delete the apps that do not work, run disk warrior on the directory, onyx on the rest of it and resist the temptation to participate in &quot;moving/maintaining&quot; there really isn't anything that needs to be moved and maintaining is done &quot;in place&quot; as you do not have an install disk for tiger, you will have to put up with what you have.  </s>
+<s> i would not attempt to install the intel version of os x onto that machine, even if the installer does run.  </s>
+<s> plug it directly into your router, via ethernet, and bring it up to date.  </s>
+<s> sharing a wireless connection is not the best way to go.  </s>
+<s> p  </s>
+<s> i don't have disk warrior, but i'll download onyx to it once it finishes backing up to my external.  </s>
+<s> i started backing it up hours ago, but i guess i expected too much of a ppc processor due to the fact that i'm used to dual-cores.  </s>
+<s> with about 12gb to go as i type this, it's going to take another 4 hours... some apps work, some don't because the registartion codes and what-not were removed, and some only work with .mac. some things on it are completely junk.  </s>
+<s> but here's what gets me.  </s>
+<s> i did not delete the original admin account, and instead, i created a second one when i got this machine.  </s>
+<s> when i go to the users folder now, it has the original admin's folder with a red sign and the permissions and ownerships change when i try to reset them to the original.  </s>
+<s> of course now, the folder fixed itself... and i also figured out that if i attempt to change my short name to something else, i get a folder that keeps popping back in the users folder.  </s>
+<s> so i stopped that.  </s>
+<s> you say intel version of os x. however, apple only offers one version that works for both, so it's curious that they would put just the intel version on a set of install disks.  </s>
+<s> but, i can understand that since they came with an intel machine.  </s>
+<s> i think it's worth a try because many of the ilife apps are ancient, or appear to be.  </s>
+<s> i think it's ilife '05 but it needs an overhaul.  </s>
+<s> but the license agreement with the disk prohibits me from having more copies of it so i'm not going to.  </s>
+<s> i'll wait for leopard.  </s>
+<s> well, if it's safe to just delete all the unwanted/non-functional software, i'll get rid of it.  </s>
+<s> i'll also delete the extra admin, as it is no longer used.  </s>
+<s> for some reason, it had imovie hd on it but with a ?  </s>
+<s> mark in the dock when i purchased a while ago.  </s>
+<s> nowhere on it was imovie hd, so i wonder why the previous owner may have had it on there and took it off... oh well.  </s>
+<s> thanks.  </s>
+<s> by the way, is there some way that i can erase both users and have a brand new one, and reset it without disks?  </s>
+<s> i doubt it, but that would really help me out.  </s>
+<s> thanks again, -bmf  </s>
+<s> you can do a bunch of stuff.  </s>
+<s> one of the things that you cannot do is change your short name.  </s>
+<s> you found that out.  </s>
+<s> you already know that you can create another admin account and you can do a lot of stuff with it.  </s>
+<s> resetting passwords and reinstall both require an os x installation disk.  </s>
+<s> to remove any account from os x, you must go to the accounts pane and do it from there.  </s>
+<s> just select and hit the minus sign.  </s>
+<s> there is a procedure to follow which makes sure that everything is done correctly.  </s>
+<s> do not just trash that users home folder, you will be in a world of hurt if you do that.  </s>
+<s> unlike ms, apple does not produce multiple versions of it's os. the current retail versions of os x are universal binary and the installer sorts out what code you need.  </s>
+<s> however it kinda makes sense, if you are only shipping intel macs, to have the version that ships with a new machine, (the restore disks) to be only intel.  </s>
+<s> i did not find any information as to whether apple actually does that or not, but i do know that some of those restore disks do not work on machines that they did not ship with.  </s>
+<s> on the subject of the time it takes to transfer data to your external. the speed of this is not dependent on your processors.  </s>
+<s> firewire transfers are dealt with by the firewire controller and really don't involve the processors at all.  </s>
+<s> if you have some form of processor indicator installed, showing real time processor load, you will note that the processor(s) stay down in the single digits during the transfer.  </s>
+<s> this is one of the reasons that firewire is preferred over usb for transfers.  </s>
+<s> although usb has a higher stated throughput, it is only attainable in bursts.  </s>
+<s> firewire supplies a constant stream.  </s>
+<s> of course, depending on the version of your 1ghz imac, and if your external is usb, your speed problem would be directly related to the usb 1.1 ports.  </s>
+<s> (s l o w ) a later version of the 1ghz had usb 2.0 ports.  </s>
+<s> p p  </s>
+<s> there's a bug with my prefs.  </s>
+<s> i can go to accounts but if i click on another account whether it be a standard or an admin, system preferences crashes and quits.  </s>
+<s> it's impossible for me to do this normally, and it happens with all the accounts, not just mine.  </s>
+<s> i have the original admin pass, but it hasn't done my any good since that user's stuff had been cleaned out.  </s>
+<s> i already deleted their folders, but they just pop back up when i login as them.  </s>
+<s> usb 1.1 is probably the problem with the slow transfers. the imac quit backing up anyway after it finished the apps, so i just backed those up instead of the whole system.  </s>
+<s> i don't know how to fix the system prefs.  </s>
+<s> if you know, i'd appreciate it if you post it.  </s>
+<s> thanks, -bmf  </s>
+<s> that you can delete them and they come back as soon as you launch that application again.  </s>
+<s> try deleting the finders preferences but before you do, try the disk permissions thing.  </s>
+<s> p  </s>
+<s> ... all knotted up into one big mess.  </s>
+<s> i did a quick google... and clicked on this particular link first... it looks good.  </s>
+<s> maybe it can help twenty steps to help diagnose and fix system issues while it's good that we know approximately where the problem is, unfortunately there's a lot of stuff in the user account to pick through.  </s>
+<s> and now you will have to do some serious troubleshooting.  </s>
+<s> oftentimes, this will be a preferences file in ~/library/preferences/. if you can pinpoint that one bad file, you're done.  </s>
+<s> if you have no idea what's going on you can try the laborious process of keeping that new account you made, and bringing over the files one by one until you find the one that was the problem.  </s>
+<s> even easier is to ask an expert if it's a frequently seen problem, first letting them know that it was a problem in your user account.  </s>
+<s> course, this may not be what you want.  </s>
+<s> good luck grim  </s>
+<s> a giant wad of gum that's attached to everything to a point where you can't get it off... lol.  </s>
+<s> i ran disk utility and it found a whole lot of stuff on applescript, printers that i have never used, and a few things regarding users.  </s>
+<s> there were also a few things with flash plugins that i haven't even used.  </s>
+<s> i have started the repair sequence as i type this... and i'm waiting... dang, there's a bunch of stuff.  </s>
+<s> but while it's finishing, i can say that everything else seems to be in working order.  </s>
+<s> i backed up all of the apps that it originally had, then deleted the unwanted ones or non-functional ones off of the main hd, and reorganized the apps.  </s>
+<s> i didn't delete all of the apps since some were apparently purchased and it would be a waste to delete them even if i don't need them.  </s>
+<s> appleworks and a few other old things were there, and i'm actually glad about that.  </s>
+<s> i could really put those to use.  </s>
+<s> okay, everything's been repaired... and it's still crashing... i checked the preferences and preferences pane folders in both the system and library and still no solution... well... i'm out of plans.  </s>
+<s> i think that when leopard comes out, i'll just upgrade my laptop, completely erase the imac and put a fresh install on it.  </s>
+<s> that may be my only answer.  </s>
+<s> thanks for your help guys.  </s>
+<s> i wish it could have fixed it.  </s>
+<s> -bmf  </s>
+<s> like mrmacfixit said before, connecting the g4 via ethernet would be much more practical and better to do.  </s>
+<s> well, knowing that some of its software was outdated, i figured i might as well update it to 10.4.10 and configure to all the right specifications i needed.  </s>
+<s> here's what i have come to think: that whatever bug it had in 10.4.9, it had something to do with the system preferences, and this &quot;users&quot; issue had been resolved with the 10.4.10 combo update.  </s>
+<s> i succesfully deleted the other users and now i have just mine and all the stuff i had for it.  </s>
+<s> very good for me.  </s>
+<s> i think it's safe to say that it will function with great performance now that it has been cleaned up, updated, and optimized for ppc greatness lol.  </s>
+<s> i read some intel hater letter on lowendmac.com and when he said amd and ppc are the better proccesors and not intel.  </s>
+<s> i can say that i have had no trouble with ppc processors, but i've never heard of good experiences with amd.  </s>
+<s> but if the old cnet prizefight between amd and intel from '05 is still good, amd has some serious advantages.  </s>
+<s> but this was during the pentium period, and i just detest pentium processors, though i use them so often... lol.  </s>
+<s> thanks again for your help.  </s>
+<s> problems solved... (for now... this is where the ominous music plays lol).  </s>
+<s> -bmf leopard will rule over all the os-es!  </s>
+<s> and on my imac g4.  </s>

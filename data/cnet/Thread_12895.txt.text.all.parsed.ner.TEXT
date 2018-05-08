@@ -1,0 +1,65 @@
+<s> hello,all... well, first, here's my system info: laptop pc: -dell inpiron 9300 laptop, winxp media edition vers.  </s>
+<s> 2002 serv pack 2, pent.  </s>
+<s> m proc.  </s>
+<s> 1.86 ghz, 1.00 gb ram, 51.1 gb hdd, built-in tsstcorp ts-l532b dual-layer dvd+-rw drive.  </s>
+<s> built-in wifi & bluetooth ----------------- okay with that out of the way; online, i ordered a liteon 16x super allwrite dvd/cd writer & rewriter w/ lightscribe (model # shm-165h6s), and decided i want to mount it inside an airlink 101 usb 2.0, 5.25&quot; enclosure box (model # aen-u55).  </s>
+<s> here's what is happening: i've checked and rechecked my connections inside the enclosure.  </s>
+<s> and when i flip it's swich with the usb plugged in, i get a brief flash of one side of the built-in fancy blue lights, the fan begins to whirr, and after roughly 1 minute, both sets of lights come on and stay lit.  </s>
+<s> i can even get the dvd drawer to eject and go back in.  </s>
+<s> however, even though the usb cable is connected into my laptop i get nothing...not a &quot;bing-bong&quot; or anything.  </s>
+<s> it's like windows xp is not &quot;recognizing a new device&quot; like it normally does.  </s>
+<s> i'm at a loss; i don't even see it in device manager or &quot;my computer&quot; i've even switched a couple usbs just to make sure it wasn't a cable thats faulty.  </s>
+<s> by the way, the enclosure came with one of those &quot;mini-cd drivers&quot; but it's not compatible with xp, only win98. the litghtscribe dvd burner came with nero oem, powerdvd 5, and a couple sample media.  </s>
+<s> - if anyone out there has a clue, please let me know.  </s>
+<s> thank you.  </s>
+<s> tony  </s>
+<s> the problem could just be that the enclosure isn't compatible with the drive.  </s>
+<s> another thing, that i noticed you didn't put down, was that you used the driver cd that came with the drive on your laptop.  </s>
+<s> that might be your problem.  </s>
+<s> windows xp might not have the driver in it's driver library, so you will have to use the installation cd that came with the drive to install the correct driver, then plug in the enclosure.  </s>
+<s> that's why my best bet would be, it is not recognizing that the drive is there, because it doesn't even recognize the dvd-rw drive as being a drive, since it is so new.  </s>
+<s> spend the extra thirty dollars and get the version actually made by hp. it works really well, have one my self..the lite on ones work for about a month if you get them to work at all  </s>
+<s> i dont think you can call a drive crap just because you think another one is better, the market is full of drives all designed to do a job of work and mostly they do, sometimes it's the people who operate them that are crap, your word not mine, i've been using lite-on for years and have no trouble at all.  </s>
+<s> first of all, i'm going to reply to all three (3) responses seperately, b/c everyone had some valid points regarding my dilemma.  </s>
+<s> once again, i totally appreciate your advice.  </s>
+<s> (thumbs up!) here's what i did to get the dvd/cd drive working: - i took it out of the case, started re-examining the connections... suddenly!  </s>
+<s> (don't laugh ;-d ) i thought of actually reading the dvd/cd drive's manual!  </s>
+<s> (hmpf!  </s>
+<s> imagine that!) (ok, go ahead and laugh!  </s>
+<s> i am!) - what i kind of realized/discovered by both examining the rear of the unit and reading (there's that word again...lol!) was that by default it was set as as ''slave'' drive from the manufacturer: lite-on!  </s>
+<s> - now, with a quick removal and re-placement of the ''jumper'' to the master side, and closing back up the enclosure unit, plugging it all in, suddenly all lights were instantly on on the enclosure housing, and almost immediately after that, windows xp ''found new hardware'' and (check this out) installed it, but without any hesitation! - so, as you see leria, its only that little thing called: ''consulting one's owners manual first'' that i should have done in the first place.  </s>
+<s> this one seriously has egg on my face! - thank you for your reply though.  </s>
+<s> it is well appreciated.  </s>
+<s> take care, leria!  </s>
+<s> btw, why don't you update your profile?  </s>
+<s> just wondering... l8ter... tony  </s>
+<s> in all honesty, you could be right about liteon, (and if you are, i'll be the first to send you an email to attest to it in about 30 days.  </s>
+<s> - my thing, is that since i am fairly new to the ''lightscribe'' thang, i can't see spending about a ''c-note'' on one, and risking even hp giving me crap.  </s>
+<s> (i don't think there is one manufacturer out there who doesn't have any probs, am i right?  </s>
+<s> - i mean, yes, hp did indeed make /invent the lightscribe, but thank god for competition, so all these ''big biznessez'' (spelled wrong on purpose) can't monopolize on new technology.  </s>
+<s> - if you read my reply to this issue above, you'll see that it was indeed my fault as to not being able to run it in the enclosure box.  </s>
+<s> - i did a ''test'' lightscribe ''burn'' with a picture from the movie ''maid in manhattan'', and quite honestly, it's pretty freekin' good, man!  </s>
+<s> :-d - i recently learned that liteon is a mitsubishi co. which does make some quality tech!  </s>
+<s> (i've owned a 36'' stereo tv by mga/mitsubishi for about 8 years!  </s>
+<s> it has multiple connections for surround / theatre sound, and...still has bomb-ass picture and sound quality!) - (i'll probably still get that ''vertically-standing'' black unit by hp because i do wish to compare quality!  </s>
+<s> and i think hp is american-made!  </s>
+<s> least i hope so!  </s>
+<s> :-d ) - as i said, you may be right, blazer... we'll both know soon, right?  </s>
+<s> - take care dude!  </s>
+<s> (two thumbs way up!) - thanks again for your reply post!  </s>
+<s> i appreciate it!  </s>
+<s> - one!  </s>
+<s> ~tony~  </s>
+<s> yep! sometimes, it's like the &quot;luck of the draw&quot; with almost anything!  </s>
+<s> pcs, hdds, dvd/cd drives, media...you name it! - as you can see from my replies to both above responses, it was my bad that i was not initially able to use the liteon dvd/cd lightscribe in the enclosure box.  </s>
+<s> i can, and have admitted to it.  </s>
+<s> - subsequently, i have got it going fine now.  </s>
+<s> - as a fellow consumer of liteon products, you and person's like us, are who i should get the advice from because you have and do use their items.  </s>
+<s> - true enough, as i said, from time to time, there are manufacturer's defects, but in all areas, right?  </s>
+<s> - yet, like you said...some times it is indeed the people (like me) who fail to read the manuals/booklets or to seek info in forum/posts like here at cnet, then end up complaining to the big company, when all it takes is a bit of research on the issues.  </s>
+<s> am i right?  </s>
+<s> - i appreciate you defending liteon, vikpaul!  </s>
+<s> i haven't used their products for long, and i'm new to lightscribe also, but i have heard some pretty positive things about liteon!  </s>
+<s> (and recently hearing that its a mitsubishi co. makes me happier as well!  </s>
+<s> (please read my reply to blazerdude20 for my reasons why i like mitsubishi, ok?) - that said, thank you again for your reply...and your defence!  </s>
+<s> :-d - i'm out... ~ tony ~  </s>

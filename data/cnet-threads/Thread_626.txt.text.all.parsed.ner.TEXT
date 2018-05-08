@@ -1,0 +1,33 @@
+<s> i have a home network with three computers.  </s>
+<s> my desktop (windows xp home) and my laptop (windows me) work ok.  </s>
+<s> my wife's desktop (windows 2000) does not participate although it has no difficulty getting to the internet via the same connection.  </s>
+<s> i have heard that windows 2000 needs help to share files on a windows network.  </s>
+<s> what can you suggest?  </s>
+<s> thanks.  </s>
+<s> i wonder what made someone write that?  </s>
+<s> anyhow it's now different than xp as far as the workgroup name, share a directory and be sure to not firewall the needed machine or ports.  </s>
+<s> works great here and at the office we must have done this a few thousand times without adding some &quot;helper.&quot;  </s>
+<s> bob  </s>
+<s> perhaps a little more detail would help.  </s>
+<s> my windows xp computer and my windows me computer share files effectively.  </s>
+<s> neither can access files on the windows 2000 computer although that computer does appear on the network.  </s>
+<s> the xp computer displays a message that says: the windows 2000 desktop is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permission. the network path was not found.&quot; the windows me computer displays a similar message.  </s>
+<s> however, the windows 2000 computer can read shared files from the other two computers and displays all its own shared folders under my network places/ entire network/ microsoft windows network where the shared folders from the other computers are also displayed.  </s>
+<s> any help would be much appreciated.  </s>
+<s> on the xp box i'm logged in as opie but on the windows 2000 box i have no account.  </s>
+<s> that is, opie needs an account on both machines.  </s>
+<s> did you take care of that?  </s>
+<s> also, there are firewalls that would do that.  </s>
+<s> bob  </s>
+<s> well that was a good idea.  </s>
+<s> unfortunately, when i put myself in as a user on the windows 2000 computer, nothing changed on the windows xp end or the windows me end.  </s>
+<s> i noticed another anomaly. the windows 2000 computer shows up on the network even if it is powered down.  </s>
+<s> neither of the others shows up when powered down.  </s>
+<s> it's just one of the fun things that make it so loveable.  </s>
+<s> i prefer the net view command.  </s>
+<s> in the next link a member goes around and around the issues but in the end it was a firewall.  </s>
+<s> in fact they had two.  </s>
+<s> check what they did so you don't repeat it.  </s>
+<s> bob  </s>

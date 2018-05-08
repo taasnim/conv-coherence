@@ -1,0 +1,62 @@
+<s> hello, i am currently attempting to build a media center server/pc.  </s>
+<s> about 4 years ago i knew my way around a computer and i could easily pick out hardware and put a computer together but now i am a little out of the loop, so any advise would be very helpful.  </s>
+<s> i am looking to build a system with 4-6 terabytes of storage (i have a lot of dvds and i only want to rip them once so i intend to use raid to back it up).  </s>
+<s> i am going to hook this system up to my tv and i would like to have to ability to play games if i want.  </s>
+<s> i also am planning on using windows vista home premium with media center.  </s>
+<s> i have spent lots of time finding the right add-ons and making it work just the way i want it to.  </s>
+<s> so..... if you have any suggestions on the hardware i should use to build my server i would be very grateful.  </s>
+<s> buy a machine with vista home premium so you don't have to guess if all your parts work together.  </s>
+<s> for storage (not backup!) go get a drobo and put in 1tb drives.  </s>
+<s> change to 2tb drives later or get another drobo.  </s>
+<s> done.  </s>
+<s> bob  </s>
+<s> i have read a lot of complaints that those drobo's don't transfer the data fast enough and the movies skip.  </s>
+<s> i am looking for a system that can keep up with the demands.  </s>
+<s> do you know of what that will.  </s>
+<s> i already have a computer with vista on it that i could attach a drobo to.  </s>
+<s> it's unlikely anything will work right today.  </s>
+<s> sorry, i've seen this working and never a skip.  </s>
+<s> then again, it is windows and after some owners download warez or moviez all bets are off.  </s>
+<s> bob  </s>
+<s> i will do some more checking into this.  </s>
+<s> in the mean time, if i where to decide to go ahead and build a server would you have any suggestions.  </s>
+<s> thank you very much for all your help.  </s>
+<s> to cut the wattage go with a nas over 1gb ethernet and then someone's ready to use vista machine.  </s>
+<s> integrating xp media center was bad and they only made it worse in vista.  </s>
+<s> if you truly must build your own, set aside time to call in about driver bugs and more time as you rma parts.  </s>
+<s> remember i can't be sure of your goal here.  </s>
+<s> old timers loved to build things.  </s>
+<s> today they have taken a lot of the fun out by narrowing the list of what works.  </s>
+<s> bob  </s>
+<s> i guess the problem that i see is when i search nas with 4tb of storage its about $3000 and i can build one hell of a server/pc for that much money.  </s>
+<s> there is however a 4tb server that hp sells but i worry that its a really slow system because its so cheep.  </s>
+<s> and hard disks are what hard disks are.  </s>
+<s> your price is the same for server or not.  </s>
+<s> i see vista media center laptops for not much over 1k so we won't have a gaming system but once we hit gaming systems we almost must have an unlimited budget since even the nosebleed 10k buck system still drags when you run crysis at full glory settings.  </s>
+<s> the good thing about a drobo is it keeps the owners fingers out of the file system.  </s>
+<s> i have stories... bob  </s>
+<s> &quot;to test the ability to access data during a drive failure, we started a video from drobo and proceeded to extract one of the hard drives and replace it with another (a 400gb hitachi deskstar).  </s>
+<s> we didn't see any hiccups in the video (or any of the other files we accessed), and the formatting of the new disk and the rewriting of the data progressed in the background.&quot;  </s>
+<s> sounds good to me.  </s>
+<s> i am willing to spend the money i just want to make sure i am getting the most out of every dollar spent.  </s>
+<s> i am not the type to go out and buy a 3k system because its easier to set up i would rather go the extra mile and spend the same 3k for a system that runs better and has more storage.  </s>
+<s> if you need to squeeze every dime from the setup then you need to start the usual trials of building your own.  </s>
+<s> i had hoped to share that the media center versions are the most treacherous.  </s>
+<s> happy building.  </s>
+<s> bob  </s>
+<s> don't forget to include a two-way cable card.  </s>
+<s> although, i am not sure that they are yet available.  </s>
+<s> i'm currently maybe one step ahead of you in building of my first htpc.  </s>
+<s> it started out with spare parts from my closet and as the research and testing went on, it has gotten to be a nice little system.  </s>
+<s> for suggestions on parts i used this forum to base my understanding of the htpc end of it.  </s>
+<s> in many cases i used underpowered gear and got very satisfactory results (but that's a personal preference).  </s>
+<s> for me this a 'beta' and real money will go to an end system that is silent and powerful if i like the end results results of this one.  </s>
+<s> as for storage.. a nas would probably be best on a gigabit network.  </s>
+<s> i'm not a fan of pre-built anything, if you don't know how it works and why, then you're at the mercy of retail pricing and other limitations.  </s>
+<s> and my understanding so far is a nice cheap nas can be built with mostly cheap parts (asides from the hdd's) in raid 5 ( ) using one several linux based os's.  </s>
+<s> i'm probably going to use a full distro instead of a strict server based one so that i can implement it as a cheap and powerful firewall for my home network as well.  </s>
+<s> there are plenty of sites and explanations of it on the net.  </s>
+<s> i'm no linux pro so its not that hard to figure out, just takes patience.  </s>
+<s> one thing i'm disappointed with is the difficulty i'm having with the video capture card aspect of it.  </s>
+<s> getting it to work like a 'tivo' is definitely a challenge in vista64 wmc.  </s>
+<s> i might have been better off with another os, but i still hold hope for controlling the whole thing in the end with a remote control and that it will look and behave like any other audio/video component you might have in your living room.  </s>

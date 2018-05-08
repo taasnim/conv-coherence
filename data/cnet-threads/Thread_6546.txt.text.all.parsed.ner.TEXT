@@ -1,0 +1,36 @@
+<s> hi all-- i have a dell dimension e520 that came with card readers and a dvd and one hd. i've added a second hard drive on sata port 4 and the original hd is sata0. the two are not raid enabled and i'd like them to be because i understand it would improve performance (which is why i added the second drive).  </s>
+<s> i haven't been able to find instructions for enabling raid.  </s>
+<s> can anyone give me step-by-step instructions, please?  </s>
+<s> i think that the two drives need to be side-by-side ... sata4 and sata5 probably.  </s>
+<s> many thanks!  </s>
+<s> terabyte888  </s>
+<s> you'll have to follow the directions they give you but i thought it best to let you know to do this you will be wiping out what's on both drives to get this working. the short version (and as detailed as i'll do here0 is to... 1. make the sata raid via the maker's instructions.  </s>
+<s> this is not done in windows but in some bios setup screen.  </s>
+<s> at this point you have no booting os on the drives because they are blank.  </s>
+<s> 2. now you boot your xp install cd and use the f6 key to feed that all important xp raid driver diskette (from dell) so windows can install to your raided drives from step one. 3. now you finish the xp install by using the dell second cd for all those drivers.  </s>
+<s> so there it is.  </s>
+<s> only 3 steps but for most about a weeks worth of work.  </s>
+<s> bob  </s>
+<s> and how do you plan to back up your data ?  </s>
+<s> vapcmd  </s>
+<s> i'd no idea it meant wiping the disks!  </s>
+<s> i've got my c: backed up on an external, but the os is vista home premium.  </s>
+<s> it claims to be backing up my programs, settings, files, updates, etc. i wonder now if this is really worth doing.  </s>
+<s> i use photoshop and really wanted the performance to be top notch, hence, adding the second drive to use as a scratch disk.  </s>
+<s> thanks for the warning!  </s>
+<s> tera888  </s>
+<s> now you have a second hard disk you may find it best just to use it is as storage for those photoshop files, etc. i have a raid setup myself specifically for increased speed but i now wish i hadn't. the raid setup i have is raid 0 where i have two disks, and data is written to each disk alternately, making read and write faster.  </s>
+<s> perhaps it does speed things up but i suspect that the speed gain i achieve is marginal, eg in the fractions of a second, because even at it's fastest reading to and writing from a hard disk is a slow process compared to processor speed and ram access.  </s>
+<s> but i find the major drawback is safety.  </s>
+<s> whereas with a raid 1 setup the two disks back each other up because the same data is written to both disk at the same time, with raid 0 each disk only has half the data.  </s>
+<s> if one disk fails on a raid 1 setup you have the other disk as backup and the system barely blinks.  </s>
+<s> with my raid 0 system, if one disk fails my whole system fails.  </s>
+<s> i backup often!  </s>
+<s> mark  </s>
+<s> i'm sure glad i asked!  </s>
+<s> i'm thinking i might be better off just upgrading to a 64-bit os, instead.  </s>
+<s> i have my graphics on the 500gb sata4 and keep the 320gb sata0 for programs and documents.  </s>
+<s> my email and entertainment is on my old ddr system.  </s>
+<s> still, i find that saving png files on the new ddr2 system takes minutes if they are large posters.  </s>
+<s> thanks for your help!  </s>
+<s> tera888  </s>

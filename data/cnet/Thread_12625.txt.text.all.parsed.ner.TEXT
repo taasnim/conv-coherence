@@ -1,0 +1,20 @@
+<s> a new sb eax 5.1 surround sound card installed on intel pentium iii using d:/win xp but multiboot c:/win98se can't read the installation cd-rom reporting no drivers found at g:/cd-rom drive.  </s>
+<s> d:/win xp shows the disk as formatted using cdfs (cdfs not equal to ntfs?). xp has integrated sis 7018 audio/video driver as central controller; if uninstall driver then no video?  </s>
+<s> there are other codecs also present on hdd device manager and these were reported to 'creative labs' with registration of product e-mail.  </s>
+<s> i have no sound and even if driverguide.com has a download in the right format i think system sounds will be absent.  </s>
+<s> any replies from the senate please forum members?  </s>
+<s> cdfs is short for compact disc file system.  </s>
+<s> but please take my advice and save the simpler questions for google.com.  </s>
+<s> this way you save the rest of us to give you help on areas that you can't figure out on your own.  </s>
+<s> this is not tech support but people helping people.  </s>
+<s> &quot;c:/win98se can't read the installation cd-rom reporting no drivers found at g:/cd-rom drive&quot; that's proper.  </s>
+<s> but means you need to install the dos drivers for the machine's motherboard (most of the time.) since you didn't follow the forum note: about what to put in your post we lose the opportunity to offer what driver and where it is in this response.  </s>
+<s> the same issue about the other drivers.  </s>
+<s> with some million boards out there and no generic drivers you have to tell us what you have.  </s>
+<s> bob  </s>
+<s> i don't know if anybody else has any idea about multiboot systems but mine is c:/98se vs d:/winxp.  </s>
+<s> these o/s' run on an ibm system, a netvista all-in-one destop with onboard stereo (a 217952a) x40i. the available site support drivers are in place and do not fully configure the sound card, so before the multiple o/s there was no sound.  </s>
+<s> i now have sound through the daughterboard pci using headphones, but have no onboard stereo.  </s>
+<s> it's rediculous to require uninstalling an intergrated driver (ie:sis 7018) to get my new hardware to be able to output system sounds onboard.  </s>
+<s> i shouldn't need the new hardware in the first place, the old hardware's in perfectly good order, it just needs the right software.  </s>
+<s> if the big guys up there could trust each other maybe we little guys would actually get what we pay for, it's driving me crazy.  </s>

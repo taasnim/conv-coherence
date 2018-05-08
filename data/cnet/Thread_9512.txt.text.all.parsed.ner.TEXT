@@ -1,0 +1,48 @@
+<s> drives in 2 different computers.  </s>
+<s> both less than 1 year old and still under warranty.  </s>
+<s> main info in ''profile''.  </s>
+<s> mostly need to have translation of error reports.  </s>
+<s> are these hardware problems needing replacing of the drives under warranty (while i still can)?  </s>
+<s> comp #1: p4 intel desktop/xppro/dvdrom +cd-rw.  </s>
+<s> from event viewer: source: cd-rom event: 7 properties reveal: ''devicecd-rom1 has a bad block !'' help & support says: has bad block of memory which windows attempted to read.  </s>
+<s> data might be missing or corrupted.the  </s>
+<s> dvd-rom is listed in sys info as scsi target 1. is this the''cd-rom 1'' mentioned by event viewer?  </s>
+<s> also nearby error: source:atapi event: 9 properties reveal: ''the deviceldeldeport1 did not respond within timeout period.(could  </s>
+<s> be ide not lde)(my eyes can't tell for sure).  </s>
+<s> both errors appear multiple times on same day.  </s>
+<s> cdrom 12 +atapi 3. all disks (removable games, programs etc) are kept clean in exceptional like new condition in hard cases.  </s>
+<s> dvdrom only 6 mos.  </s>
+<s> old.  </s>
+<s> computer #2 :hp laptop/celeron/xphomesp2/dvd+rw from event viewer: source: &quot;disk &quot; event: 7 properties reveal: the devicehard disk od has a bad block.  </s>
+<s> my daughter reports she saw this same message on her last computer several times with in a month of her hard drive dying.  </s>
+<s> this comp.  </s>
+<s> 3 months old.  </s>
+<s> translation/advice/directions please??? thanks for your time as i only speak english & some spanish and basically even less m s !!  </s>
+<s> bad cables, bad motherboard drivers (or no one installed such) or too much heat in the case or out of date firmware in the drives... given that the media is never perfect, i'd clear the logs and ignore them if the machine works fine.  </s>
+<s> again, if you only get this in the logs, i would not fix it.  </s>
+<s> bob  </s>
+<s> other problems involving sudden memory dumps an what appears to be corruption of programs.  </s>
+<s> the programs that seem to cause the problems are ones that were installed from cds via dvd-rom.  </s>
+<s> thats why i'm suspicious of it after the error reports.  </s>
+<s> suspecting oem ps was too small (325watts) given 4 optical drives plus removable thumb drive, scanner, camera, i had a 450 watt ps &quot;dual fan suitable for always on applications&quot; installed about 1 month ago.  </s>
+<s> the air being blown out is cool to the skin of my hand. the motherboard & chips are intel as are the drivers and the extreme 2 on board graphics & drivers.  </s>
+<s> mb is intel 865gbf and drivers are a version released in feb/05 for that mb. given this additional info does it suggest another idea?  </s>
+<s> &quot;out of date firmware&quot;: not sure what that means: 6 months old standard dvd-rom is too old by type?  </s>
+<s> or : may be worn out already and need replacement?  </s>
+<s> thanks again for your thoughts.  </s>
+<s> its like telling a doctor the test results and not saying why such tests were performed.  </s>
+<s> i'd start over and at least honor the forum note you see with each post.  </s>
+<s> (the words in red) -&gt; you have things to try, so try them.  </s>
+<s> bob  </s>
+<s> after much google searching for &quot;toshiba sd-r2002 the device, devicecdrom0, has a bad block&quot; i found: &quot;you will need to go to the device manager and open the 'dvdcd-rom drives' listing.  </s>
+<s> you will right click on the &quot;sd-r5002 dvd-rom drive&quot; and select 'un-install' from the drop down menu.  </s>
+<s> do this for all listed drives.  </s>
+<s> do not re-boot on this step.  </s>
+<s> next you will need to open the &quot;ide ataatapi controllers&quot; listing.  </s>
+<s> you will need to right click on the bus master ide controller and select 'un-install' from the drop down menu.  </s>
+<s> you will be prompted to re-boot, so do so. it will need to re-detect the devices and will take longer to boot.  </s>
+<s> once it finishes it will prompt for a second re-boot.  </s>
+<s> after that finishes, try the drive again.&quot;  </s>
+<s> my event viewer showed the error &quot;the device, devicecdrom0, has a bad block&quot; which led to the above search and apparent fix for an older compaq presario laptop.  </s>
+<s> it all started when i tried to run acronis true image and it failed.  </s>
+<s> the problem has probably existed for several years because i could never &quot;burn&quot; a cd at faster than 2x.  </s>

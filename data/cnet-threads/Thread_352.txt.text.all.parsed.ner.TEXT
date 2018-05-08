@@ -1,0 +1,30 @@
+<s> i upgraded the memory on my pc. i had forgotten that it was in hibernate mode when i put the new memory chips in.  </s>
+<s> when i booted it up, it went to the point where it said windows was resuming and then stopped.  </s>
+<s> i turned it off.  </s>
+<s> waited 10 seconds and tried booting it again.  </s>
+<s> it appeared the system was loading until an error message which said the last shut down was not right and gave me two choices; one was to delete the data and resume with the restoration; the other was just to resume with the boot up.  </s>
+<s> i was not able to pick either choice.  </s>
+<s> there was no response from the keyboard.the  </s>
+<s> only time the keyboard worked is when i pressed the f12 or f9 keys.  </s>
+<s> for f12 it went to the bios menu but i could not use the arrow keys to move up or down.  </s>
+<s> so i can't change the bootup to the dvd/cd or other location.  </s>
+<s> i put back the original memory and got the same thing described above.  </s>
+<s> i removed the cmos battery, tried different combinations of the old and new memory chips.  </s>
+<s> any suggestions on how i can get this working again?  </s>
+<s> i'm surprised it even responded to booting and had a display.  </s>
+<s> in other words, there is now a bad part or pc. it's either the new ram or the mtrbd.  </s>
+<s> at ram slot that is controlling it all.  </s>
+<s> it has been hosed beyond any repair.  </s>
+<s> you seemed to done the obvious fixes, i would try yet an entirely different set of ram or test the ram else to prove they do work.  </s>
+<s> if test good elsewhere, there is a h/w fault present.  </s>
+<s> while you may think it's s/w corruption, then try a bootable &quot;live version&quot; of ubuntu, burn a disc and how it boots or presents itself.  </s>
+<s> you can try any bootable disc for that matter and see how it proceeds.  </s>
+<s> make sure the bios has the cd/dvd drive as 1st bootable device. the fact you can't change anything in bios or kybd.  </s>
+<s> isn't responding maybe again a mtrbd, problem now. the plain fact is you had &quot;true power present&quot; even in hibernate mode and you fiddled with removing parts. the result is as you find it and again to have anything displayed at this point.  </s>
+<s> try the above and come back with your results.  </s>
+<s> i don't see anything around this until you test.  </s>
+<s> tada -----willy  </s>
+<s> first rule of thumb, never remove/install components in a live system.  </s>
+<s> there should have been indicators, lights etc., even in hibernate.  </s>
+<s> generally, shut down, remove a/c power link (cable)...then work on the system.  </s>
+<s> do you know how to fix it?  </s>

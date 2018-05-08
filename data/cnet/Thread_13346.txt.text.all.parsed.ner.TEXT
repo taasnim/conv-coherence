@@ -1,0 +1,28 @@
+<s> i noticed that when i played music on my computer, the sound would slow down and then speed back up to the proper speed.  </s>
+<s> then it would do it again and again until it would almost be locked into the slow speed.  </s>
+<s> i checked to make sure everything was working properly (speakers, all sound applications such as itunes, media player, system sounds) and then went to work on the sound card drivers.  </s>
+<s> i have a soundblaster card.  </s>
+<s> i contacted creative and they told me to &quot;clean sweep&quot; my soundblaster live.  </s>
+<s> i followed the instructions that they gave me.  </s>
+<s> everytime i reinstalled everything, the problem persisted.  </s>
+<s> my lastest attempt has rendered the speakers completely inactive.  </s>
+<s> the only sounds that i have are the computer's beeps.  </s>
+<s> device manager says that the soundcard in there and working properly.  </s>
+<s> but, i cannot play any sounds and the rest of the computer shows that a sound card has not been installed.  </s>
+<s> help!  </s>
+<s> i am pulling my hair out.  </s>
+<s> thanks  </s>
+<s> goto the device mgr.  </s>
+<s> and check for red/yellow flags are present for sound.  </s>
+<s> if none, then i suggest further to &quot;de-install&quot; the card, power-off, and remove the card.  </s>
+<s> power-on and then allow system to finish booting and once done, shutdown.  </s>
+<s> re-insatll the card(try another slot) and check connections, etc. and power-on once done.  </s>
+<s> it should see new h/w and allow it to install itself or direct it to the drivers source(make dir/source of latest drivers).  </s>
+<s> it should work or attempt at a better rate.  </s>
+<s> if it doesn't work, either you have a stuffed h/w system or a s/w conflict.  </s>
+<s> also, too many resources being used by the system, clean/reduce them or try that before any de-install steps above.  </s>
+<s> you may want to check the system services and determine what you really need.  </s>
+<s> check at for hints/tips on services.  </s>
+<s> hope this helps... good luck -----willy  </s>
+<s> thanks willy.  </s>
+<s> looks like i now have plans for the weekend!  </s>

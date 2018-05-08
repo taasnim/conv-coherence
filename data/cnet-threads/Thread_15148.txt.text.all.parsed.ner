@@ -1,0 +1,7 @@
+(TOP (S (VP (AUX need) (NP (NP (DT a) (NN recommendation)) (PP (IN for) (NP (DT an) (JJ external) (JJ hard) (NN drive)))) (SBAR (IN so) (S (NP (PRP i)) (VP (MD can) (VP (VB download) (NP (PRP$ my) (NN computer) (NNS info)) (PP (IN for) (NP (NN backup))) (SBAR (IN in) (NN case) (S (NP (PRP$ my) (JJ hard) (NN drive)) (VP (VBZ goes))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (RB about) (NN 750mb)) (ADVP (RB already)) (PP (IN on) (NP (PRP$ my) (JJ hard) (NN drive))) (SBAR (IN so) (S (NP (PRP i)) (VP (AUX need) (NP (NP (QP (IN at) (JJS least) (CD 1tb))) (PP (IN of) (NP (NN storage)))))))) (. .)) )
+(TOP (S (CC so) (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (PP (IN from) (NP (NP (DT a) (JJ hard) (NN drive)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB fail) (PP (TO to) (NP (NP (DT a) (JJ hard) (NN drive)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB fail))))))))))))))))) (. ?)) )
+(TOP (S (VP (VB think) (PP (IN about) (NP (PRP it)))) (. .)) )
+(TOP (SBAR (ADVP (RB then)) (WHNP (WP what)) (SQ (AUX do) (NP (PRP you)) (VP (VBP suggest) (SBAR (S (NP (PRP i)) (VP (VBP use) (S (VP (TO to) (VP (NN backup) (NP (NP (PRP$ my) (NN computer) (NNS files)) (, ,) (NP (NNS photos)) (, ,) (CC and) (NP (NN music)))))))))))) )
+(TOP (S (VP (VB store) (PP (IN about) (NP (CD 40g)))) (. .)) )
+(TOP (FRAG (SBAR (WHNP (WDT which)) (S (NP (PRP i)) (VP (VBP think) (SBAR (S (VP (MD should) (VP (AUX be) (ADJP (NP (DT a) (JJ little)) (RBR more) (JJ reliable))))))))) (. .)) )

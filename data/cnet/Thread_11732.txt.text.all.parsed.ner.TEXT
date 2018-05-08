@@ -1,0 +1,17 @@
+<s> i have an internal dsl modem that has internet connection sharing enabled and a network switch connecting it to the other computers in the house, and my xbox.  </s>
+<s> however, i can't get my xbox live to work.  </s>
+<s> i input the dns server values that my isp gave me.  </s>
+<s> every time i try to connect it comes up with an error that says &quot;network services (dhcp or ppoe) were not found&quot; i know that i do not have a ppoe dsl connection.  </s>
+<s> help me please.  </s>
+<s> tell the make/model of the router.  </s>
+<s> bob  </s>
+<s> it is actually not a router it is a network switch, here is the info: it is a belkin 5 port switch  </s>
+<s> a switch will not work unless you pay up for a second ip address from your isp.  </s>
+<s> it's about 30 to 50 bucks a month so most go get the router.  </s>
+<s> bob  </s>
+<s> why can i access the internet from the other computers connected to the switch without paying for the extra ip's?  </s>
+<s> also how would i use a router if i have an internal dsl modem that cannot be connected directly to a router?  </s>
+<s> thanks so much for your help.  </s>
+<s> you are likely pilfering some addresses and they will shut you down if they find out.  </s>
+<s> best of luck figuring it out.  </s>
+<s> bob  </s>

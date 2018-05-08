@@ -1,0 +1,145 @@
+<s> hi, i was reading some of the other issues involved with the maxtor but none of them seemd to be mine.  </s>
+<s> i've had it a good 3 yrs now with no trouble.  </s>
+<s> i use xp pro and the norton host of security and tools.  </s>
+<s> for about amonth now i was noticing that my system has been slower than usual, it seemed to be &quot;doing&quot; something at start up. the desktop was there, all icons etc. but it wouldn't open anything until it was done whatever it was doing,i could hear it working.  </s>
+<s> i'm not sure if any of that is related mind you.  </s>
+<s> now, for the last four days i have lost my h drive (my maxtor 3000le) first, it would power down during start up,i was getting a black screen after my go back had loaded up, then the windows logo screen ,then black.  </s>
+<s> and at that point i would hear my maxtor running down and finally stopping.  </s>
+<s> at first, i just rebooted and it worked a couple of times.  </s>
+<s> then i unplugged the usb and it zinged back to life again.  </s>
+<s> meanwhile, i had been given this blue screen saying something was wrong and had to do with file goback2k.sys.  </s>
+<s> i would go into device manager and it would not show my hd. then once i had to answer the phone, and when i came back it had powered up by itself and all was fine again.  </s>
+<s> now it isn't.  </s>
+<s> i totally removed goback from my system (and am nervous as hell about it!) but all that did was keep me from getting the blue screen ( i had go back for years without problem as well before this) if i use device manager to check the maxtor, it says the device is working fine, even though i can hear that it is not spinning adn the drive does not show in &quot;my computer&quot; anymore.  </s>
+<s> when i disable it, it powers up again.  </s>
+<s> if i uninstall it, it powers up again.  </s>
+<s> but as soon as the system finds it again and re-installs it, after a few seconds it powers down to a stop again!  </s>
+<s> meanwhile, device manager is still tellling me that it's &quot;fine&quot;.  </s>
+<s> i'm lost, i called maxtor and am glad i didn't have to pay for the call because it was totally fruitless.  </s>
+<s> i can't run chkdsk on it since my system doesn't think it exists at the moment.  </s>
+<s> i tried to be slick about it and plug it back in just before clicking on the chkdsk to go, but apparently it's slicker than i am stupid thing is that i hadn't made any changes or installed anything before all this happened, it just seems to have started out of nothing. the go back thing too.  </s>
+<s> though as i said,i'm not sure if they connect somehow.  </s>
+<s> if anyone has an idea of how to fix this please help.  </s>
+<s> i can't bring it in anywhere i just don't have the money.  </s>
+<s> i need the files on the drive and even have files on there that my kids need for school.  </s>
+<s> thanks in advance for any and all help!  </s>
+<s> that involved changing many things.  </s>
+<s> but in your case i'm suspecting motherboard drivers.  </s>
+<s> tell about your machine and specifically what version motherboard drivers you installed.  </s>
+<s> bob  </s>
+<s> hi, and thanks for replying so fast!  </s>
+<s> forgive my newness to this but i'm not exactly sure how to find this page 2 you mentioned.  </s>
+<s> and unfortunately i'm not entirely sure how to find the motherboard driver info you asked for.  </s>
+<s> i have dell dimension 4300 if that helps.  </s>
+<s> or if you can tell me where to look for the info you need i'll do it as soon as i get the message.  </s>
+<s> it's a p4 cpu 1.60ghz with 512 mb of ram.  </s>
+<s> i'll try and find the page 2 you mention in the meantime.  </s>
+<s> thank you again for replying so quickly  </s>
+<s> sorry, brain is going buggy after reading these all day.  </s>
+<s> i had actually started on that string through a google search for help. the reason i started my own is because the problems didn't seem to match what i had.  </s>
+<s> maybe it's a matter of wording, i didn't consider my computer as having a recognition problem so much as having a problem with the ext.hd starting up.  </s>
+<s> i used some of the tips with no luck, though i haven't tried that pc inspector one since again it did not seem to match my problem.  </s>
+<s> plus, everytime i connect the hard drive it powers down which makes it innacessable to pretty much everything as far as i can see.  </s>
+<s> it's only a 37.2 g by the way, no where near the size of some of those mentioned in the other strings.  </s>
+<s> and i have sp1, i didn't get the sp2, i vaguely remember having read that it would mess with a program i was using and so opted to pass it up.  </s>
+<s> i still am not sure where to find the info on my motherboard though, i was in device manager and checked out system devices, i found two marked &quot;system board&quot; the first said &quot;location microsoft acpi-compliant system&quot; and said that no drivers were installed.  </s>
+<s> the second said location was on intel(r) 82801ba lpc interface controller - 2440, adn again said that no drivers were installed.  </s>
+<s> this might not be the rigth place at all, but i'm just tinkering around trying to find the info.  </s>
+<s> that's about all i have so far on my own.  </s>
+<s> at this point i have disabled the maxtor through device manager.  </s>
+<s> it shows up as a &quot; mass storage device&quot;.  </s>
+<s> even when i enable it, it shows up and is said to be working properly, even though it powers down right after being enabled.  </s>
+<s> i'm going crosseyed.  </s>
+<s> that was enough to find intel's latest.  </s>
+<s> here's the link to the usb and chipset drivers.  </s>
+<s> also, be sure to plug the drive in the rear of the machine rather than the front ports.  </s>
+<s> it's the i815 chipset noted at but continue to ... bob  </s>
+<s> i'm almost afraid to et excited about this, but i am anyways!  </s>
+<s> thank you so much, i'm downloading it right now.i do have to ask one more thing though, i was reading the read me file on the download and it mentions the os's that the file should be put on.  </s>
+<s> mine isn't on there, the xp pro it mentions is xp pro x64 edition, which i have never heard of.  </s>
+<s> mine is xp pro, version 2002 service pack 1. it mentions xp with service pack 2. but doesn't say if it's , home or pro.  </s>
+<s> i just don't want to muck this up, especially since i uninstalled my go back recently due to a different problem.  </s>
+<s> i probably sound paranoid, and please forgive me if &quot;x64&quot; edition is the one i have but i just didn't know it.  </s>
+<s> i just want to make sure the info i gave you was good enough or if i may have left something out that you need.  </s>
+<s> thank you so much ,,again even this splurge of hope before doing anything is a welcome change from what i've been feeling for the last few days!  </s>
+<s> you need to know that at the office and home we had issues with windows xp sp1 and usb connected hard disks.  </s>
+<s> we could not run chkdsk on said drives.  </s>
+<s> after sp2 (for xp) was applied we could.  </s>
+<s> microsoft's documentation on sp2 didn't say much about this.  </s>
+<s> but it's an issue worth noting.  </s>
+<s> as to what os, the link writes: &quot;os:windows server* 2003, windows server* 2003 enterprise x64 edition, windows server* 2003 standard edition, windows server* 2003 standard x64 edition, windows* 2000, windows* xp home edition, windows* xp media center edition, windows* xp professional , windows* xp professional x64 edition&quot; so this appears to be for the os in question.  </s>
+<s> i see another possible issue.  </s>
+<s> i'm unsure if said usb ports are usb 2.0.  </s>
+<s> it's fairly well known that some usb drives are marked as usb 1.1 and usb 2.0 but fail on usb 1.1 connections.  </s>
+<s> this confused some but i take it as an error on the package.  </s>
+<s> bob  </s>
+<s> i figured i should put mor einfo in as to my os once they started mentioning versions.  </s>
+<s> i get caught thinking in simpler terms and forget i'm dealing with the computer world of ever evolving everything!  </s>
+<s> on a couple of occasions during this , and before it was to the point of powering down everytime it connected.  </s>
+<s> a note had popped up mentioning a high speed device in a low speed port.  </s>
+<s> it gave me suggestions on where to plug the said device in and quoted a hub that as far as i know doesn't even exist.  </s>
+<s> i had it plugged into the back, the ports that came with it, but i had installed a high speed port a while back that i wasn'tusing so i plugged it in there.  </s>
+<s> that seemed to please it and the pop up went away.  </s>
+<s> of course, since then we end up here.  </s>
+<s> should i get the sp2?  </s>
+<s> if not, what's the worst that could happen by installing the new drivers on an os that may not be what they recommend?  </s>
+<s> should i perhaps re install go back 4.0 and then try out the new drivers i downloaded?  </s>
+<s> oh, my brain hurts.  </s>
+<s> thank you so much for all the help you're sending.  </s>
+<s> 1. i install the latest motherboard drivers without fail.  </s>
+<s> i see no risk on this one.  </s>
+<s> 2. we can't do without sp2 at the office due to the issue i noted plus other items not discussed here.  </s>
+<s> however sp2 can be risky to a persons machine if said machine has some spyware or pests installed.  </s>
+<s> this is the most common reason for sp2 headaches.  </s>
+<s> i usually can clean up the machine with ewido and housecall (both free and found with google.com) after that cleanup i have yet to have any real sp2 issues.  </s>
+<s> 3. about goback.  </s>
+<s> a few years ago it failed on me and others so i've done without since.  </s>
+<s> i'm unsure if the developers are focused on their product today.  </s>
+<s> bob  </s>
+<s> ok, i'll give those steps a go.  </s>
+<s> too bad about the go back, it had saved me on a few occasions and i will miss the peace of mind it had given me.  </s>
+<s> i haven't re enabled the os's &quot;system restore&quot; should i? as far as i have been able to gather, it's a limited way of safetying your machine and no where as complete as go back was.  </s>
+<s> oh well.  </s>
+<s> here i go! thank you again, cross your fingers!  </s>
+<s> it works!!!! my drive is back online, humming away adn everything is just as i left it!  </s>
+<s> i installed the driver you suggested to download and at first it still wasn't working, when i looked in device manager, it likes to tell me that i have 12 usb spots.in  </s>
+<s> reality i only have 10, that is to say i have two on the back located on a card that i installed, 2 on the back that came with the system, two on the front (with system) and in one of the rear ones i have a hub hooked up which has four.  </s>
+<s> so needless to say finding out where these phantom ones were was making me buggy.  </s>
+<s> i thought i hsould change a few around and see if that helped and so i unplugged the hub which was in one of the &quot;with system&quot; rear ports adn plugged the hd in there, it buzzed to life!  </s>
+<s> i plugged the hub into the one previously occupied by the hd and it did not light up, i also got a high speed device in a low speed port notice.  </s>
+<s> though i had really thought it was a high speed port for the longest time, it said that on the papers?  </s>
+<s> ohwell.  </s>
+<s> i unplugged it and plugged it into the open port onthe rear (with system one) beside the hd port and lights!  </s>
+<s> now everything is up and running beutifully! the install ws quick and painless and i am just so happy i can barely type!!! i wish i could somehow repay your kindness and time, you may never know how much you've helped out three people in need (me and my two boys) thank you so much for everything, and for showing me there are still people out there who care even when they don't recieve anything in return but a very sincere thank you! kristina  </s>
+<s> as to repayment, just a kind deed for someone else is the best idea i have.  </s>
+<s> hopefully all that i offered helped but i see i'm going to have to ask people to tell me about that area of device management.  </s>
+<s> i'll try to remember to ask that next time.  </s>
+<s> be safe, bob  </s>
+<s> hey there, kinda fell off the &quot;online&quot; planet there. the disk stuff, still working, still thrilled about it.  </s>
+<s> unfortunately, i think that in my travells to find a solution, i got &quot;virused&quot; , all my anti virus adn anti spyware, and trojan killer ware (?) has been working overtime the last two days.  </s>
+<s> i suppose i should be thankful, i've never had more than about two or three in my whole &quot;computing&quot; life thus far which is several yrs.  </s>
+<s> but wow, all these things all at once.  </s>
+<s> it's just nuts!  </s>
+<s> something keeps sending my browser to some site that never ends up loading, i'm getting these pop ups, on my desktop without even having a browser on, i get .dll errors for files that i try and google that don't seem to even exsist.  </s>
+<s> i'm having &quot;issues&quot; with windows explorer having to shut down onme then reboot up , then all my quickstart icons are gone.  </s>
+<s> when i reinstate the qs icons, they've all been shuffled up and the main three are somewhere else in the list.  </s>
+<s> arghhh!!! i'ts keeping me (and my virus killing software) very busy.  </s>
+<s> i've been offline alot because the minute i go on, something connects and starts doing things behind my back!  </s>
+<s> eeeksss!! i may be back on here ina few days looking for help on this stuff at this rate!  </s>
+<s> ohwell, my son's b-day tomorrow...funner stuff to think about! thanks again!! kristina  </s>
+<s> well, it had worked witht eh new driver then died again, then i found a whack of viruses.  </s>
+<s> i got rid of the viruses and still had no power on my drive, so i took it apart!  </s>
+<s> yup, got the handy screwdirver and pulled the suckers insides out.  </s>
+<s> then installed it as a slave inside my pc and tadahhhh!!! it worked, i ony lost a few music files that weren't all that important anyway and the rest was in perfect shape.  </s>
+<s> it's been over two weeks adn still going fine! if your external is dying thismay be the right and only solution for you.  </s>
+<s> make sure you follow the specs on slave and mastering the hd's and you should be laughing.  </s>
+<s> i am having a similar problem with my new maxtor drive.  </s>
+<s> it does not work on two identical dell dimension 2400s.  </s>
+<s> they are both pentium 4 machines running xp pro 2002 sp2.  </s>
+<s> when i power-up the drive on either machine, the usb ''new device'' message appears, but i soon get a blue screen with an error message indicating that goback2k.sys has caused a problem.  </s>
+<s> i've disabled norton goback, but that does not help.  </s>
+<s> am i likely having the same problem?  </s>
+<s> will the motherboard driver mentioned in this thread work on my system?  </s>
+<s> thanks in advance for any help!  </s>
+<s> ken  </s>
+<s> the actual error value is: page_fault_in_nonpaged_area the error address is: f7440f40 base at f743c000 datestamp 434177fd thanks again for any help!  </s>

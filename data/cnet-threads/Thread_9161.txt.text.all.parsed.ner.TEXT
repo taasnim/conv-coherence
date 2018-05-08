@@ -1,0 +1,19 @@
+<s> my church was donated an hpdeskjet 990cxi printer with the drivers on a homemade cd. i cannot install the printer because when i try to install a new printer, the program does not recognize the files on the cd. i ran windows explorer to see if anything was in the folder and sure enough, the files are there.  </s>
+<s> can anyone help me?  </s>
+<s> i went to the hp website and got no help there.  </s>
+<s> go to the hp web site and download the drivers.  </s>
+<s> an old system may not be able to read a burned cd, a common problem, you could try restoring the cd on a new system on the network and then copy the files to the system with the printer and install them.  </s>
+<s> you didn't mention the true nature of files on the cd, are they compressed or as they're needed, uncompressed.  </s>
+<s> regardless, see if you made a new dir.  </s>
+<s> on your system and &quot;copy&quot; them to that dir.. manually, install the printer and point to either the cd or new dir.  </s>
+<s> you made.  </s>
+<s> if it fails on both attempts, then you probably have compressed files.  </s>
+<s> get an &quot;uncompesser pgm&quot;, usually called that either a .zip  </s>
+<s> .jar  </s>
+<s> .arc,  </s>
+<s> etc. if that what the files maybe compressed as by using winrar, winzip, etc. similar for such usage.  </s>
+<s> also, older install pgms.  </s>
+<s> may ask for disk1, disk2, check to see if such is present.  </s>
+<s> if none of this makes sense, then just get the install(driver) files from the hp support website for that model printer.  </s>
+<s> here is a link to start that process... select the os you need it for and follow prompts.  </s>
+<s> good luck -----willy  </s>

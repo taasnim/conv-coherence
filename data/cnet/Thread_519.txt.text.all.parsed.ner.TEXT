@@ -1,0 +1,73 @@
+<s> i am having the same problem as dinadozer in the ''cannot view computer in workgroup'' and also have tried disableing zone alarm and have logical drives setup for file/print sharing.  </s>
+<s> my network has been functional for 2 to3 years, loss of networking has become only a very recent problem.  </s>
+<s> i have checked for viruses, spyware, and have kept zone alarm, avg av, ad-aware, microsoft's anti spyware, spy-bot up to date.  </s>
+<s> i've also checked for rootkits.  </s>
+<s> it doesn't matter which pair of 3 computers i have networked, 2 win2k computers or 1 win2k and 1 xp the target computer can not be seen in network places.  </s>
+<s> i have tried windows help and the last step said that microsoft had done all it could to resolve the problem. the last step in windows networking troubleshooter deals with the tracert command.  </s>
+<s> my network contains a satellite server, one print server, and two computers.  </s>
+<s> the satellite has a required address of 192.168.0.1 and the print server has a required address of 192.168.0.10.  </s>
+<s> my ''computerties'' computer has an address of 192.168.0.3, my ''soyodragon'' computer has an address of 192.168.0.4.  </s>
+<s> (in the text below i have left out the ''documents and settings....etc'' in the command line to save typing) (also trace completes after the first entry are understood) all these are distrubuted through a d-link 5 port switcher.  </s>
+<s> from the soyodragon: c:&gt; tracert 192.168.0.1 tracing route to 192.168.0.1 over a maximum of 30 hops 1 6ms 5 ms 4 ms 192.168.0.1 trace complete c:&gt; tracert 192.168.0.3 tracing route to 192.168.0.3 over a maximum of 30 hops 1 &lt;10ms &lt;10 ms &lt;10 ms 192.168.0.3 c:&gt; tracert 192.168.0.4 tracing route to 192.168.0.4 over a maximum of 30 hops 1 &lt;10ms &lt;10 ms &lt;10 ms soyodragon [192.168.0.4] c:&gt; tracert 192.168.0.10 tracing route to 192.168.0.10 over a maximum of 30 hops 1 1 ms 10 ms 1 ms 192.168.0.10 from the computerties c:&gt; tracert 192.168.0.1 tracing route to 192.168.0.1 over a maximum of 30 hops 1 5 ms 5 ms 4 ms 192.168.0.1 c:&gt; tracert 192.168.0.3 tracing route to 192.168.0.3 over a maximum of 30 hops 1 &lt;10ms &lt;10 ms &lt;10 ms computerties [192.168.0.3] c:&gt; tracert 192.168.0.4 tracing route to 192.168.0.4 over a maximum of 30 hops 1 &lt;10ms &lt;10 ms &lt;10 ms 192.168.0.4 c:&gt; tracert 192.168.0.10 tracing route to 192.168.0.10 over a maximum of 30 hops 1 1 ms 10 ms 1 ms 192.168.0.10 i googled tracert and from suggested related commands tried pathping with the following results: ~...&gt;pathping 192.168.0.3 tracing route to 192.168.0.3 over a maximum of 30 hops 0 soyodragon [192.168.0.4] 1 192.168.0.3 computing statistics for 25 seconds ... source to here this node/link hop rit lost/sent = pct lost/sent = pct address 0 soyodragon [192.168.0.4] 0/ 100 = 0% : 1 0ms 0/ 100 = 0% 0/ 100 = 0% 192.168.0.3 trace complete i have read ms's treatise on pathping but admit that i do not understand it as applies to the results shown above.  </s>
+<s> what else can i try/do to re-establish network communications?  </s>
+<s> thank you.  </s>
+<s> added comment: in the start &gt; run &gt; box, i have tried and my direcway home page opens.  </s>
+<s> opens my print server, however, ''unable to connect'' ~...firefox can not eatablish a connection to 192.168.0.3.  </s>
+<s> after entering ''administrator'' opens windows 2000 home page  </s>
+<s> your other computer in network place...?  </s>
+<s> since your machines are not in some dns (server) pathping can't resolve the names.  </s>
+<s> no failure in my book.  </s>
+<s> -&gt; the network neighborhood is full of issues.  </s>
+<s> no fix is forthcoming and if you want to spend the money on the phone with support, so be it.  </s>
+<s> however if i want to look at shares and machines i use the command line.  </s>
+<s> such as... net view and the other net commands.  </s>
+<s> feel free to rant that the network neighborhood needs work.  </s>
+<s> bob  </s>
+<s> i had to go into the firewall section and put my home network range in the trusted zones and then it worked perfectly.  </s>
+<s> opening network places from the soyo computer shows 2 icons, 1 for the print server ps-429735-p1 and soyodragon.  </s>
+<s> from the computerties computer shows 2 icons, 1 for the print server ps-429735-p1 and the computerties computer.  </s>
+<s> as far as pinging the whole network from either computer that has been covered in the original post.  </s>
+<s> thanks for taking the time to ask the question.  </s>
+<s> net view from computer #1 reads: \ps-429735 \soyodragon the command completed successfully net view from computer #2 reads: \computerties \ps-429735 the command completed successfully as to pathping, i had never heard of the command until this afternoon and personally have no idea what it is supposed to tell me?.  </s>
+<s> zone alarm firewall zones include one for 192.168.0.0/255.255.255.0 and a firewall zone network range of 192.168.0.1 - 192.168.0.254.  </s>
+<s> that i have had during the times that the network was functional.  </s>
+<s> i have also tried temp killing zone alarm, also my av. to be internet safe, i did this with the satellite server de-powered.  </s>
+<s> thanks for the suggestion, though.  </s>
+<s> one thing that i forgot to mention to bob was this problem first showed up after sony had me reatore the sony xp to its factory state.  </s>
+<s> when i broached this subject to a sony 2nd tier rep, he gave up and said that networking was not their expertise and that i sould hire a local &quot;networking specialist&quot; to aid me.  </s>
+<s> frankly the last 2 &quot;specialists&quot; created more problems that they solved.  </s>
+<s> well, i shall keep my fingers crossed and keep trying.  </s>
+<s> thanks again..charles  </s>
+<s> as a rule i don't duplicate web content.  </s>
+<s> these are volunteer forums so i leave you to read about this.  </s>
+<s> bob  </s>
+<s> i have made some progress.  </s>
+<s> i checked the local area connection properties on both computers and the soyo had netbeui protocol.  </s>
+<s> the other one did not so i added that to the other computer.  </s>
+<s> from the ''computerties'' computer, i can now see the soyo computer.  </s>
+<s> when i open workgroup, i get a msg that the soyo computer is not accessible &gt; password has expired.  </s>
+<s> i don't use passwords, so what do i do now?  </s>
+<s> have resolved the network issue from the soyodragon computer.  </s>
+<s> opened sharing for c & d drives on both computers and removed the share names of c$ and d$ and replaced them with c-drive and d-drive and the soyodragon is now seeing and opening files and drives on the other computer and copying files.  </s>
+<s> so one computer is fine now.  </s>
+<s> password error still not resolved as mentioned above.  </s>
+<s> clicking properties in workgroup of the soyodragon computer icon (in computerties windows explorer) returns the msg that i do not have proper access rights.  </s>
+<s> contact administrator.  </s>
+<s> which is i.  </s>
+<s> you might need a same username in the win2k computer.  </s>
+<s> if your pc have a username a, then you need to have a user name (a) in your win2k computer.  </s>
+<s> just for testing, make a username (let's say a) in all the computer.  </s>
+<s> (when you ask for username/password, in the network plcace, use that name)  </s>
+<s> i need a little clarification here. the pair of computers that i am trying to network right now are both win2k, which i will ''rename'' old and new (for this discussion) . the new computer sees, opens, and transfers files to the old. the old sees,but can not open the network because of the error of expired password (?). are you suggesting that i rename each computer the same name so that one computer is named ''old'' and the other computer is named ''old'' also?? i will retain the different urls, though.  </s>
+<s> a trial won't take long and if i've got you wrong then let me know.  </s>
+<s> thanks  </s>
+<s> does have its passwords expire.  </s>
+<s> fix?  </s>
+<s> logon as admin.. and set the password to never expire if that's your choice.  </s>
+<s> bob  </s>
+<s> its only password expired.  </s>
+<s> what i mean by having a same name.. i mean you need to have a same user name on the computer .. not the computer name.  </s>
+<s> user name has been the same though most of the time i simply log in as administrator.  </s>
+<s> changing the password took care of the problem.  </s>
+<s> thanks to all.  </s>
+<s> charles  </s>

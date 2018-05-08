@@ -1,0 +1,38 @@
+<s> hi i'm really just looking for something better than what i have and not insanely pricey, but i am looking for something good. the graphics card that i have now is a sapphire radeon x1550 64-bit 256m and something better, i just don't know what would be good.  </s>
+<s> i basically use 3d art design software like daz 3d and photoshop, also i watch a good amount of video.  </s>
+<s> not much gaming involved but it can happen.  </s>
+<s> if you have any advice on how i can make my pc better please let me know.  </s>
+<s> computer specs: motherboard name  </s>
+<s> i'm just a consumer, not a computer geek.  </s>
+<s> you can have a look at the benchmark test results which will tell you what cards are &quot;better&quot;.  </s>
+<s> whether getting a more powerful card would be noticeably better for you, i'm not sure.  </s>
+<s> i've got computers with old hardware and computers with &quot;good&quot; graphics.  </s>
+<s> i'm sure there is a difference &quot;under the hood&quot; but for everyday things, i can't really tell the difference.  </s>
+<s> hopefully, it would make a difference for your photoshop and art design. the extent of the improvement might be impacted by your processor.  </s>
+<s> also, what type of monitor do you have?  </s>
+<s> a mediocre monitor might not give you the results you want from a better video card.  </s>
+<s> i'd start with the cards available at your local computer shop at a price you like the look of, then check it on the benchmarks ranking and then google some reviews and see what the reviewers have to say.  </s>
+<s> you might also be better off looking for a secondhand card.  </s>
+<s> w7 and 1gb of ram might not play nice.  </s>
+<s> perhaps a little help in that area.  </s>
+<s> video.  </s>
+<s> here's a little chart....you can see where you are and what's better.  </s>
+<s> as though your system has integrated video.  </s>
+<s> that means it uses some of your system ram (only 1gb) for video.  </s>
+<s> so bottom line ....you've only got 1gb of system ram (too little in my opinion) and some of it perhaps up to 256mb is being used for video.  </s>
+<s> my suggestion ... try adding system ram to bring your system up to a total of at least 2gb or budget permitting, 4gb.  </s>
+<s> if you want more speed, then look at some of the video options offered....just keep in mind you system psu must provide enough power, watts and amps, for the video card you select.  </s>
+<s> let us know how it turns out.  </s>
+<s> vapcmd  </s>
+<s> thanks to all of you, and also my monitor is a viewsonic va930m [19&quot; lcd] screen, oh and uh maybe i sound a little stupid but, im not sure if system ram is what i've been adding or not.  </s>
+<s> see originally the computer came with 512 mgb's, but i added in two more 256mb memory cards, and since i see no other slots im guessing that its the system ram, but i had no idea memory cards costed so much, i can get them cheap for 10 bucks a gig.  </s>
+<s> and i'm possibly getting 3 one gigabyte cards so maybe if i can get that my system will run better.  </s>
+<s> also i've downloaded directx 11.0 to my system so i'm thinking it should make a difference.  </s>
+<s> and to vapcmd : if i add the memory, will it automatically upgrade the amount of memory used for video?  </s>
+<s> another problem, maybe the reason i can't run daz 3d on my pc is because i'm missing the multimedia controller and the multimedia video controller, but i can't find out where to download them free  </s>
+<s> permits.  </s>
+<s> adding 2 1gb dimms in place the 2-256mb dimms would help considerably but will not add to your video ram unless it can be allocated to video ram thru the system bios.  </s>
+<s> your system cannot run efficiently on 768mbs of ram (1024 mbs - 256mbs for video ram) as you're currently running.  </s>
+<s> see how that does first and then if a separate video card (gpu) is still needed, then explore those options as recommended above at tomshardware.com. the only caution is to make sure your power supply (psu) is powerful enough to support the new video card as the higher end cards are power hungry too.  </s>
+<s> let us know how it works out.  </s>
+<s> vapcmd  </s>

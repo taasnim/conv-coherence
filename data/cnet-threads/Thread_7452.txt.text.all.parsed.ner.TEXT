@@ -1,0 +1,36 @@
+<s> i have an aopen cd burner(crw1632) that i want to put in my computer-it is a vision pc-model p6stp-fl,intel celeron processor-1.00ghz-376mb of ram.how do i go about installing it,do i need other cables?it is an older computer(2001)any help would be appreciated  </s>
+<s> the vision website wasn't very helpful.  </s>
+<s> but this shouldn't be too much of a problem.  </s>
+<s> i do need more info before i can give you the proper instruction.  </s>
+<s> expecially if you aren't used to getting into your machine.  </s>
+<s> i need to know how many harddrives and cdroms are installed on your system.  </s>
+<s> also, tell me a little bit about your experience in taking apart systems.  </s>
+<s> let me know.  </s>
+<s> and life goes on... jack  </s>
+<s> hi,thanks for the reply.i  </s>
+<s> am a relatively capable installer.i  </s>
+<s> have installed memory,and can take the side off the computer easily.it  </s>
+<s> has one cd rom(52x max),one harddrive (i guess)  </s>
+<s> ok. take the side cover off the system and lay it on its side with the motherboard on the bottom.  </s>
+<s> if there is only one ribbon (flat) cable leading to the motherboard, determine that there is a &quot;secondary&quot; ide connector on the motherboard.  </s>
+<s> earlier motherboards place these connectors side-by-side.  </s>
+<s> if only one ribbon cable is used: obtain another ribbon cable and install it with the new drive in an empty bay.  </s>
+<s> either put the jumpers located in the rear of the drive at &quot;master&quot; or &quot;cable select (cs)&quot;.  </s>
+<s> power up the system.  </s>
+<s> install the cd that came with the drive, using the other cdrom.  </s>
+<s> reboot and your new drive should be ready to go.  </s>
+<s> if two ribbon cables are used: you should connect the new drive on the same cable as the current cdrom.  </s>
+<s> determine how the old drive is set by the jumpers.  </s>
+<s> you have a choice here.  </s>
+<s> either make them both cs or one master and the other slave.  </s>
+<s> do not make one cs and the other master/slave.  </s>
+<s> windows doesn't like that.  </s>
+<s> always make sure the system is unplugged when you do anything with the motherboard.  </s>
+<s> hope this helps and let me know if you are confused about anything! and life goes on... jack  </s>
+<s> hi,me again.i  </s>
+<s> put a memorex forty maxx in my computer,and am lost as to what to do.i  </s>
+<s> think i have it all hooked up correctly,but i do not have an installation cd with this device.any  </s>
+<s> suggestions.thanks  </s>
+<s> memorex.com and download the driver software and install it.  </s>
+<s> that should get the drive working.  </s>
+<s> and life goes on... jack  </s>

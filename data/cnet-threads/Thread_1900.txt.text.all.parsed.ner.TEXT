@@ -1,0 +1,18 @@
+<s> i am removing fujitsu hd currently labeled &quot;d & f&quot;.  </s>
+<s> i want to move 40 gig wd hd currently labeled &quot;c & e&quot; to &quot;d & f&quot;.  </s>
+<s> can i remove ribbon from fujitsu drive and plug ribbon into 40 gig wd hard drive without changing bios?  </s>
+<s> then install new 80 gig wd hard drive, format & partition new drive as &quot;c & e&quot; , then install xp, using ribbon from 40 gig hd? again without changing bios?  </s>
+<s> here are the stats on my computer... windows xp home edition service pack 2 (build 2600) ltd km266-8235 micro-star international co., 1.33 gigahertz amd athlon 1024 megabytes installed memory 128 kilobyte primary memory cache 256 kilobyte secondary memory cache board: micro-star international co., ltd ms-6738 bus clock: 133 megahertz bios: phoenix technologies, ltd 6.00 pg 04/18/2003 drives memory modules c,d 48.43 gigabytes usable hard drive capacity 14.74 gigabytes hard drive free space c: (fat32 on drive 0) d: (fat32 on drive 1) e: (fat32 on drive 0) f: (fat32 on drive 1) fujitsu mpd3084at [hard drive] (8.46 gb) -- drive 1, s/n 01163748, rev dd-03-47, smart status: healthy wdc wd400bb-00dea0 [hard drive] (40.02 gb) -- drive 0, s/n wd-wmad1a363970, rev 05.03e05, smart status: healthy thanks ben  </s>
+<s> drive letters are not a bios's job.  </s>
+<s> so nothing to do there.  </s>
+<s> xp may sniff out the old drive letters, so if this was mine i would install the new drive on it's own, install the os then boot it up, complete the install that microsoft doesn't do for us (drivers and more) and when i like it, add the old drive back in.  </s>
+<s> have fun, bob  </s>
+<s> if the poster wants a dual boot situation for w98 on original drive and xp on the new, it's not gonna happen....he may or may not be able to edit the boot.ini  </s>
+<s> file to do it, but it won't be automatic.  </s>
+<s> but he will end up with access to that original boot drive the way you mentioned and maybe that's all he wants while he moves/copies files over to the new and then format the old again to empty it out.  </s>
+<s> toni  </s>
+<s> don't want to do dual boot, just save files on old c & e drive.  </s>
+<s> put newer drive for boot drive, old hd over a year old.  </s>
+<s> ok bob, i will remove 40 gig wd hd, install 80 gig hd, partiton, format and install xp. after i get windows running again, i will remove the other drive and put the 40 gig hd in its place.  </s>
+<s> that sound ok. thanks to both, bob and toni.  </s>
+<s> ben  </s>

@@ -1,0 +1,13 @@
+<s> does anyone know how to restore a file after emptying the recycle bin (not how to restore one that's currently in the bin)?  </s>
+<s> i accidently deleted something and didn't realize my mistake until after i had emptied my recycle bin.  </s>
+<s> i know that windows doesn't actually erase the data until something else needs the space (or something like that), so i stll have hope.  </s>
+<s> there is a prog called directory snooper (dirsnooper.exe) that can do this.  </s>
+<s> but it is not freeware, but will be useful during the trial period.  </s>
+<s> used to have a demo so you could tell if you wanted it.  </s>
+<s> bob  </s>
+<s> if you are using xp, excutive software sells a program called undelete.  </s>
+<s> their website is .  </s>
+<s> you are correct in assuming that windows does not delete a file when you have deleted it from your system. the first character of the filename is changed to a ?  </s>
+<s> and windows no longer recognizes that the program exists.  </s>
+<s> if you have not written or deleted anything to your hard drive, you may be able to recover it using a program called win hex and change the ?  </s>
+<s> back to the original first character.  </s>

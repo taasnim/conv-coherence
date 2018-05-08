@@ -1,0 +1,19 @@
+<s> i have finally got a hold of the mobo that i ordered from newegg.com.  </s>
+<s> it was quite easy to put in, thanks to ray's heads up regarding the jumpers.  </s>
+<s> but i have problems already. the new mb is a pc chips' product, and its model # is m811lu.  </s>
+<s> i have put in everything onto the mb and into the new case without any problem.  </s>
+<s> and the mb recognizes every components quite easily.  </s>
+<s> but then problem came up, when i plug the ethernet cord into the rj 45 jack, the screen went to the good old &quot;white text with blue background&quot; telling me either the hardware does not have the latest driver or it's not installed properly.  </s>
+<s> though every card in the pci slots were found and installed properly, and i am certain they all have the newest driver.  </s>
+<s> i have double checked over and over again, still no luck.  </s>
+<s> at first i thought it's just the on board lan's not acting correctly, therefore, i disabled it and put in my own nic.  </s>
+<s> still, same blue screen with white text appeared when i plugged in the ethernet cable.  </s>
+<s> can someone please help me verify and solve the problem, it'd be greatly appreciated.  </s>
+<s> sincerely, joe  </s>
+<s> but can only guess you moved some hard disk with an installed os onto this new machine and &quot;windows&quot; needs to be installed.  </s>
+<s> bob  </s>
+<s> what's at the other end of the ethernet cable?  </s>
+<s> i had enough of it, therefore, i formatted everything and reinstall what i had one by one.  </s>
+<s> and that's when i found out it was my kerio firewall was playing tricks on me.  </s>
+<s> anyway, my problem is fixed now, and the mb is pretty decent as of now.  </s>
+<s> thanks, joe  </s>

@@ -1,0 +1,17 @@
+<s> hello, ive tried numerous things to revive my buffalo 120 gb external hd. i have tried from recovery programs, such as ontrack's easy recovery and actives undelete, and yet i am still getting nothing back the problem started about 8 months back when everything was going great, and i forgot to &quot;safely remove hardware&quot; or hit the little green arrow before unplugging.  </s>
+<s> so now the drive is not recognized, it is a raw drive, and i cant even convert it in command prompt.  </s>
+<s> every time i try to access the drive it says would you like to format now?  </s>
+<s> and i always click no, because i think there might be a way to get everything back but theres a question, if i format it to be ntfs or whatever, is it possible to do a format recovery using recovermyfiles?  </s>
+<s> it would mean so much if somebody could just give a great solution to this annoying and time-wasting problem.  </s>
+<s> thanks eitan  </s>
+<s> sometimes that works to let you get your files out.  </s>
+<s> read bob  </s>
+<s> eitan, call buffalo tech support... your drive is less than a yr. old so they should talk to you.  </s>
+<s> i can't imagine them not having a recovery procedure for this type of failure.  </s>
+<s> regards, jack  </s>
+<s> thanks for the suggestion, but im not exactly sure what a knoppix cd is, if u can explain wat to do, or how i do it that would be of great help, and if this doesnt work i will just call buffalo and see if i can recover it, which was another great suggestion thanks eitan  </s>
+<s> you didn't read the supplied link.  </s>
+<s> it showed what knoppix can do for you and how they used it to access files and more.  </s>
+<s> best of luck, bob  </s>
+<s> the knoppix cd is downloading now, im not sure if i downloaded the right thing tho i also tried a program called testdisk, which was the closest ive gotten, but i got confused with what to do next, because it said everything was ok so i will now try the knoppix cd thanks again eitan  </s>
+<s> thanks everybody for all of your suggestions i finally was able to recover my drive, and it was soooo simple, i feel so stupid i downloaded a shareware program called partition table doctor, i ran fixboot, which rewrote my boot sector, and after one second, i was able to open my drive i highly recommend this program, considering it was done in no time, i am going to go celebrate, thanks again eitan  </s>

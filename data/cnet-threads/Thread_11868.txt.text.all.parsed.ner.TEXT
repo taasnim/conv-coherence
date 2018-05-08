@@ -1,0 +1,22 @@
+<s> i recently installed network magic on my pc and on another in a home network.  </s>
+<s> since the install, about 6 gbs of space has mysteriously disappeared from my hard drive.  </s>
+<s> i have installed no other programs.  </s>
+<s> i've already looked at the obvious culprits, such as fragmented files, clearing out the various caches, defragging, etc., and i'm stumped.  </s>
+<s> network magic is a very small program (less than 50 mbs), so i'm not sure whether its installation and the disk space disappearance are purely coincidental, or whether there's truly a correlation.  </s>
+<s> does anyone have any ideas of what could be going on?  </s>
+<s> the changes to get the network going likely caused more restore points.  </s>
+<s> if all is well, the usual cure is to disable then re-enable system restore.  </s>
+<s> (how is told in the start, help pages.) bob  </s>
+<s> system restore was the issue.  </s>
+<s> when i cleared out the restore points (many from eons ago, i'm sure), the system restored 11 gbs of hard drive space!  </s>
+<s> thanks again and happy new year!  </s>
+<s> go look up crap cleaner.  </s>
+<s> be sure to read what it does since some will clean everything and wonder why menus are now unsorted, etc. bob  </s>
+<s> if so, i've been using it for some time on all my pcs.  </s>
+<s> excellent product!  </s>
+<s> i've never had it do anything unsightly to any of them, from file cleanups to registry cleanups.  </s>
+<s> in fact, i'd already used it to see if it would make a dent in the 6 gbs of space before i did your fix.  </s>
+<s> again; thanks for the help.  </s>
+<s> you've already done the ccleaner.  </s>
+<s> i found 2 items to toss with this decra____.  </s>
+<s> see bob  </s>

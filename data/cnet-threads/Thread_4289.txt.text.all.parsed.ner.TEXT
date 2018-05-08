@@ -1,0 +1,18 @@
+<s> i've set up the following dc's on virtual machines: on dc1 you set the ipv4 settings are: ip: blank gateway: blank primary dns: 127.0.0.1 secondary dns: 192.168.0.1 (broadband router) what ipv4 settings settings do i enter on dc2 so as it points at dc1? ip: gateway: primary dns: secondary dns: any help would be greatly appreciated?  </s>
+<s> that seems odd unless the host is also running some dns (server) it's also odd to have a router do the dns work.  </s>
+<s> didn't you discover that had other issues.  </s>
+<s> i won't list them all but here's an old favorite.  </s>
+<s> -&gt; the industry seems to have fixed that but other issues we bumped into had me use the real dns instead of the routers.  </s>
+<s> bob  </s>
+<s> just figured out that the ip settings above may be for my laptop, if so what ip settings should i use on dc1?  </s>
+<s> btw, i hope you avoid using acronyms since my guess might be wrong as i look over running a domain controller in a vm is interesting but there is no one correct answer as what we are trying to do can change the answer.  </s>
+<s> bob  </s>
+<s> yes i mean domain controller in a virtual test environment.  </s>
+<s> what about my ip settings.  </s>
+<s> could do with an answer on that as its driving me nuts.  </s>
+<s> was without known why we are putting a domain controller in a vm we can't know what to do with it.  </s>
+<s> since it would not be to fielded as a dc then you can use the host's ip assignments.  </s>
+<s> that is, i installed w2008 in virtual box and never changed from what the host dhcp'd.  </s>
+<s> bob  </s>
+<s> change known to knowing.  </s>
+<s> -&gt; there is no single correct answer here. the staffer gets to design and implement this according to the client's desire.  </s>

@@ -1,0 +1,16 @@
+<s> so whenever i put my desktop to sleep and then turn it back on, i cannot connect to the internet.  </s>
+<s> my laptops are fine and can connect to the internet w/ the wireless however.  </s>
+<s> when i have windows diagnostic run a troubleshoot and repair, it tells me it can't communicate w/ the primary dns server and that resetting the local area connection will fix it (and it does).  </s>
+<s> if i restart the computer, it seems to fix this problem as well.  </s>
+<s> here's a pic: i don't get why it can't communicate w/ the dns and that i have to manually reset the lac everytime i turn on the computer from sleep mode... if it helps: i got a vista xp desktop, a netgear n600 wireless router, and an arris touchstone telephony modem tm402g i'm a bit of a computer newb/average, so please don't get too complex  </s>
+<s> &quot;i put my desktop to sleep and then turn it back on, i cannot connect to the internet.&quot;  </s>
+<s> that's the driver problems about 99.99% of the time on that desktop.  </s>
+<s> most common reason is the user updated the driver with driver finders or that update button.  </s>
+<s> return to the driver that came with the card/machine.  </s>
+<s> bob  </s>
+<s> i'm also having this issue for the very first time in the nearly 3 years i've had my dell laptop.  </s>
+<s> i'm running winvista and have not intentionally updated any drivers.  </s>
+<s> other devices work fine (phone, tablet).  </s>
+<s> how can i tell if my drivers were updated and how do i get them back?  </s>
+<s> did you turn off that vista broadcast flag?  </s>
+<s> (see google.)  </s>

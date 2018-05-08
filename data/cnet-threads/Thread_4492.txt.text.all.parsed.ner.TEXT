@@ -1,0 +1,172 @@
+<s> hi, i bought all the parts to build a new pc, including the antec hcp 750 watt, the palit 2gb gtx 670 gfx and the asus maximus v gene motherboard.  </s>
+<s> whenever i played games, asus anti-surge would trigger.  </s>
+<s> after checking that everything was in place properly and reading through all the manuals again, a technician looked at my pc and found the psu to be faulty. the retailer replaced it, but then after fitting it, my pc would show no video output.  </s>
+<s> i used an old nvidia 9600 gt, and it worked. the technician came back and said that the psu hnd damaged the gtx 670; the retailer then refunded me.  </s>
+<s> i bought the palit 2gb gtx 670 jetstream this time, and when i fitted it in the top slot (16x), there was no video output.  </s>
+<s> it did, however work in the bottom one (8x), even though in the manual it says it needs 16x.  </s>
+<s> when i launched a game and loaded a level, it cut off saying that asus anti-surge was triggered.  </s>
+<s> when the technician disabled the anti-surge, the psu cut out!  </s>
+<s> i tried an old corsair vx450w and it worked without cutting off. the technician thinks it's another faulty psu, but do you have any idea what the issue is?  </s>
+<s> i've ordered the corsair ax750 watt to see if it will work and asked for a refund for the antec hcp 750 watt.  </s>
+<s> each time he came, the technician tested the voltage on the psu and graphics card, which appeared normal.  </s>
+<s> temperatures and fans speeds were also normal, and appeared normal in ai suite ii and the bios too.  </s>
+<s> updating the bios had no effect; all windows and hardware drivers are up to date.  </s>
+<s> do you think this issue might happen again and is there any risk to my parts and do you have any idea what the issue is?  </s>
+<s> also, why won't the graphics card work in the top slot?  </s>
+<s> full pc specs: &#8226; intel core i5-3570k 3.4ghz cpu &#8226; asus maximus v gene mobo &#8226; corsair vengence 8gb 1,600mhz cl9 ddr3 ram &#8226; palit geforce gtx 670 2gb jetstream &#8226; antec high current pro hcp-750 psu &#8226; arctic freezer i30 cooler &#8226; corsair carbide 500r case &#8226; seagate 2tb 7200 rpm 64mb cache hhd &#8226; crucial 120gb m4 ssd thanks.  </s>
+<s> if they can't deliver a working system, get your money back and go where they can deliver.  </s>
+<s> you should not be troubleshooting for them.  </s>
+<s> bob  </s>
+<s> if a part truly fails, it may take out other devices/items/buss as part of the overall problem.  </s>
+<s> thus, when you replace the primary cause, it doesn't address the secondary ones.  </s>
+<s> it becomes a shotgun approach to fix things.  </s>
+<s> though, in the final fix usually far more is replaced to resolve the problem(s).  </s>
+<s> also, these 2ndary problems can return or fault the primary problem to return.  </s>
+<s> it becomes nightmare until a whole rebuild is done using *all new* parts again.  </s>
+<s> alas, the actual power demands maybe simply outstripping the capabilities until it settles down.  </s>
+<s> as it seems your safety features kick-in suggest either a power leg is being over-drawn or is never really meant.  </s>
+<s> i find that 16x video slot troubling and only the mtrbd., being replaced should help narrow it down.  </s>
+<s> if possible reduce the system to its basics, lowest level and then retry to boot, etc.. otherwise, you may have a bad combo or still yet bad parts or return of bad action if all the bad parts aren't removed.  </s>
+<s> i would sort out the power connections to best spread out the load as well.  </s>
+<s> tada -----willy  </s>
+<s> thanks for the replies, i'm going to insist that they replace all the parts.  </s>
+<s> however, i the problem is i bought half from one site and the other half from another.  </s>
+<s> willy, what do you mean by &quot;the actual power demands maybe simply outstripping the capabilities until it settles down&quot; and &quot;mtrbd&quot;?  </s>
+<s> all the parts were recommended by bit-tech who stated that they're all compatible.  </s>
+<s> both graphics cards work in the 8x slot, but only the older one works in the 16x. is this because the old 450 watt psu can't give enough power in 16x to the new graphics card, or is the motherboard damaged?  </s>
+<s> it looks like it is, and i'm going to have to start all over again!  </s>
+<s> shows it has 4 40a rails.  </s>
+<s> usually i like to see a single rail but gives me some relief that we might be fine.  </s>
+<s> who designed this system?  </s>
+<s> talk to them about why these parts and choices.  </s>
+<s> bob  </s>
+<s> i'm not sure what you mean about the rails.  </s>
+<s> all the parts were recommended by bit-tech who stated that they're all compatible.  </s>
+<s> i strongly suggest the designer answer any and all questions.  </s>
+<s> you put your trust in them so they deserve the questions.  </s>
+<s> here i have my reasons for finding the total amperes and getting a single rail psu.  </s>
+<s> but this is not my design so let's hear from bit-tech.  </s>
+<s> bob  </s>
+<s> i've already posted a help thread on the forums, so hopefully they'll read it.  </s>
+<s> sorry i forgot that it also didn't work with the 750 watt psu in the 16x slot, so it's probably not the 450 watt psu.  </s>
+<s> it's strange how it works in the 8x, when it says it should be in the 16x slot.  </s>
+<s> i can't be sure of much given the story so far but if i saw this and all was good hardware the x16 slot can tap the psu just a little harder and cause a psu to fault or drop out.  </s>
+<s> but this is just speculation and nothing more since i can't see the machine.  </s>
+<s> the builder of the machine if they are seasoned may mention such to you.  </s>
+<s> bob  </s>
+<s> but the gtx 670 was cutting out in the 8x slot too.  </s>
+<s> if what you speculated is the case, is the the fault of the gfx card, psu or motherboard, and would there be any way of fixing it?  </s>
+<s> if this is true, then that would probably mean that neither of the psu's were faulty.  </s>
+<s> ignore the last line above that starts with &quot;if this is true&quot;, i meant to remove it but can't edit anything!  </s>
+<s> sorry i would not pick that board.  </s>
+<s> who needs that?  </s>
+<s> those reviews are pretty bad.  </s>
+<s> what should i do about it all?  </s>
+<s> at the very least call it in and get it exchanged.  </s>
+<s> what do you mean the maker is responding?  </s>
+<s> if i bought half of the parts from scan and the other half from dabs, but the antec psu's from scan damaged the parts, how am i going to get a refund for all of the parts?  </s>
+<s> also, if i plan to overclock and sli later, will i need more than a 750 watt psu?  </s>
+<s> i'm afraid their terms of sale exclude liability for those other parts.  </s>
+<s> did you check?  </s>
+<s> and what do they say if you ask? kees  </s>
+<s> had a reply from asus support: &quot;it seems to be a vga card in compbale issue.  </s>
+<s> please check the bios is the latest.&quot;  </s>
+<s> total rubbish.  </s>
+<s> who's terms of sale?  </s>
+<s> i've asked both scan and dabs.  </s>
+<s> it should be scan - i'm not going to stop emailing them until they do and if they refuse then i'll take further action.  </s>
+<s> it is their faulty psu that damaged it.  </s>
+<s> best of luck with your 'further action'.  </s>
+<s> it might involve a lawyer and it could be difficult to prove that it was their faulty cpu causing the damage.  </s>
+<s> kees  </s>
+<s> can't reply to your message kees_b so i'm replying to this one.  </s>
+<s> i have an independent report from a technician.  </s>
+<s> i thought that it definitely was their responsibly, but dabs stated that they might just refer me to the manufacture.  </s>
+<s> how is it any more their fault?  </s>
+<s> does this mean that i'm left with broken, brand new parts that are still under warranty, due to no fault of my own?  </s>
+<s> as i see, nothing never got to work as supplied.  </s>
+<s> it's not uncommon for them to ship parts that were returned and thus restocked maybe after simple testing.  </s>
+<s> such practices are done to allow actual use of returned parts rather than jump immediately into the new stock or its used when parts aren't readily available.  </s>
+<s> you never got this to work as intended.  </s>
+<s> considering the time passed, it maybe better to return the whole items and start fresh elsewhere.  </s>
+<s> which is why i mentioned, nothing may resolve the problem(s) if you remain with any old part as only totally new(brand new). the conflicting results just confuse the matters which as a tech, i would start from the beginning all over again.  </s>
+<s> you're proving that this setup doesn't work so for, thus bit-tech recommendation is not working well.  </s>
+<s> psus(750w) also have the &quot;split rail&quot; design intended to spread the load around.  </s>
+<s> if any device exceeds one rail, it overloads it, even though the total of power is capable, its that power leg that got zapped.  </s>
+<s> again, i mentioned, spread the load, by plugging from various connections and/or. the video card uses 195w at peak and recommends you use at least 500w.  </s>
+<s> i'm sure you're old 450w is single rail design and is pushing its limits but all you did was power it up.  </s>
+<s> if you it going, i'm sure later it would falter.  </s>
+<s> the 750w has 4-rails of 12v/40w(from specs) and based on that alone may not be a good match.  </s>
+<s> i suggest you get all the specs of all devices/components and then add it all up and compare to see what you really need.  </s>
+<s> at this stage of the game and what you intend to do, you're in the more demanding mode of power levels just to get things going and sustained use isn't going to help due to heat stress.  </s>
+<s> goto: and use their power calculator, etc. and get and match there.  </s>
+<s> you can query them as well.  </s>
+<s> you'll find what top $ buys too.  </s>
+<s> read the advise they provide, its good reading.  </s>
+<s> imho, i think you're building a very demanding top-end pc that so far hasn't all the matched parts required.  </s>
+<s> tada -----willy  </s>
+<s> i mentioned &quot;return the parts&quot; as time involved got to be too much.  </s>
+<s> once you pass a certain mark with the selling vendor they refer to the maker.  </s>
+<s> it's all explained in the fine print once you have nothing better to read.  </s>
+<s> i don't fool around when i have bad parts or things just don't go right.  </s>
+<s> i immediately start return process and also use the ccard to help resolve issues if they start to protect themselves.  </s>
+<s> i assume this has already gone on for than that 15 days, a magic warranty period for vendors.  </s>
+<s> tada -----willy  </s>
+<s> i sent back the first psu as soon as the technician said it was faulty.  </s>
+<s> now i've emailed scan and they replied stating that they would look into replacing parts that were damaged by the psu that i bought from them, but not from dabs.  </s>
+<s> they suggested that i contact the manufacturer, antec, about the other parts.  </s>
+<s> i really hope antec will replace the parts that their psu ruined, because it was their fault and it's caused a huge inconvenience.  </s>
+<s> dabs said that they wouldn't be able to replace any parts, but i've asked if it might be possible to rma them if antec refuse to help.  </s>
+<s> unfortunately, the motherboard was from dabs. the technician did try spreading out the load connected to the graphics card, but it didn't make a difference.  </s>
+<s> this truly was a terrible recommendation by bit-tech.  </s>
+<s> didn't they realise that it would overload with the gtx 670?  </s>
+<s> obviously asus anti-surge wasn't fast enough to protect the components.  </s>
+<s> i was thinking of building the same pc but with a gigabyte motherboard and the corsair 750w psu (would this be enough for future sli and overlclocking?). but i'm not really sure if they're even good parts; i don't really trust bit-tech very much right now.  </s>
+<s> things always change yet they don't.  </s>
+<s> basically, while some things have gotten complex they do try to simply the guesswork and here it always doesn't go right.  </s>
+<s> i'll use the example of &quot;jumpers&quot;. if you read the manual you need to jumper this way and that and then apply power.  </s>
+<s> now, its gotten to be all s/w based or interactive.  </s>
+<s> that might be good for the basic system, but too often users then try to maximize the setting, yada, yada and get into trouble.  </s>
+<s> as for a psu, it used to be a simple wattage applied.  </s>
+<s> now, not only wattage and amps, but all the dang connections, rails, safety and cooling.  </s>
+<s> so, you see it gets more complex yet we're still dealing with the same bedrock components.  </s>
+<s> i'm sorry for your problems, but i'll have to see it in person to get anything more out of it.  </s>
+<s> i leave you for now.  </s>
+<s> again, i suggest you review all the specs and how they compare to each other for a good pc build.  </s>
+<s> take your time on your repair build and assure all is going as it suppose to be.  </s>
+<s> -----willy  </s>
+<s> as the motherboard appears to have suffered partial damage but otherwise works, how can i be sure that all the other parts aren't damaged or weekend?  </s>
+<s> how can i get them replaced if this is the case?  </s>
+<s> edit: as the motherboard appears to have suffered partial damage from the psu (graphics card doesn't work in top slot; hissing sound with graphics are displayed) but otherwise works, how can i be sure that all the other parts aren't damaged or weekend?  </s>
+<s> how can i get them replaced if this is the case?  </s>
+<s> scan don't even believe the psu surged anything, when the tech said it did.  </s>
+<s> ask for a refund.  </s>
+<s> go elsewhere.  </s>
+<s> a refund for what parts and from the manufacturer?  </s>
+<s> because scan refuse to help.  </s>
+<s> they might replace it but look at the receipt for the machine and that is the company you want a refund from.  </s>
+<s> i see this as the usual failed self built machine.  </s>
+<s> when you go done that road you are the builder and you will be very upset to learn there is no warranty on the finished product.  </s>
+<s> some want to debate that but let's let the results speak for themselves.  </s>
+<s> my advice is to return what you can and consider a ready to use machine.  </s>
+<s> bob  </s>
+<s> you're suggesting the build failed because of me?  </s>
+<s> there is no &quot;receipt for the machine&quot;.  </s>
+<s> i can't return the parts if they appear to be working, that's why i was asking if the parts could be partly damaged or weekend.  </s>
+<s> how can i get them replaced, like the hard drive? the retailer won't help and i doubt the manufacturer will either.  </s>
+<s> plus prebuild is a few hundred more expensive.  </s>
+<s> all the vendors i know take back working parts with some restock fee.  </s>
+<s> i feel for you about all this but this is how it goes for those that build their own.  </s>
+<s> they must assume the risks and be prepared for these catastrophes because they are the builder, designer and more.  </s>
+<s> as to your comment about the prebuild being more.  </s>
+<s> sure but your adventure into building your own looks like it will cost the same when you buy new parts to get it working.  </s>
+<s> that's why i suggest getting out of building your own as soon as possible.  </s>
+<s> i don't want to upset you but by now you've learned a great deal about the risks.  </s>
+<s> bob  </s>
+<s> scan seem to be the exception.  </s>
+<s> they refuse to take back my parts unless they test and find them to be faulty - they won't stress that enough.  </s>
+<s> plus their support was less than friendly, ignoring the content of my emails and speaking rudely on the phone.  </s>
+<s> in this case, bit-tech designed the build.  </s>
+<s> the motherboard breaking seems to be a hardware fault.  </s>
+<s> apart from these issues, putting the build together went well, and that should be enough as faults are supposed to be rare.  </s>
+<s> when i get my money back from the parts or replacements, it shouldn't cost me more.  </s>

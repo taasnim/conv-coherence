@@ -1,0 +1,25 @@
+<s> my husband's cousin came over and messed with our netgear wireless router's settings, and to make a long story short, now our dell laptop cannot connect to the wireless network.  </s>
+<s> he doesn't remember what he did, so now we are stuck.  </s>
+<s> before we call netgear and pay per minute for service, is there anything we can try? the wireless network shows up when you view the network connections, but we are unable to successfully connect to it.  </s>
+<s> can anyone help?  </s>
+<s> thanks in advance, jen  </s>
+<s> log into the netgear router and use the settings like the forum sticky suggests.  </s>
+<s> make sure not to use mac address filtering with those settings.  </s>
+<s> rick  </s>
+<s> 1. find the router's manual specific to your router model.  </s>
+<s> if you can't find it, here a site that might give you general help... 2. reset the router to it's default factory setting.  </s>
+<s> one the back of the router, there should be a pinhole size hole.  </s>
+<s> take a paper clip and press the default button for about 20 seconds while it's on.  </s>
+<s> 3. go to the laptop's control panel, local area network connection, details and check to make sure the ipv4 is 196.168.1.? (some number other than 1) and that the ipv4 dhcp server is 196.168.1.1.  </s>
+<s> if you feel comfortable using the cmd window, type ipconfig /all and it should give you the same thing.  </s>
+<s> 4. open the utility page for you laptop network adapter and find the network associated with your router whose ssid is probably &quot;netgear&quot;.  </s>
+<s> there should be nothing on the security settings.  </s>
+<s> connect to that network.  </s>
+<s> 5. once you're connected to the network, go to the router's configuration page.  </s>
+<s> on your browser's address bar, type 192.168.1.1 or &quot;routerlogin.com&quot; or &quot;routerlogin.net&quot;.  </s>
+<s> type the username: admin, and the password: password.  </s>
+<s> 6. configure the router's security setup and do likewise to the laptop's wireless utility page.  </s>
+<s> but you will have to read the manual for this because there are a number of options.  </s>
+<s> steps 1-5 gets your laptop talking to the router and should give you internet access.  </s>
+<s> go slow and get familiar with the router's config page and the wireless utility page.  </s>
+<s> good luck!  </s>

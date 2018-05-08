@@ -1,0 +1,72 @@
+<s> i'm currently thinking about getting the macbook black.is  </s>
+<s> mac capatible with everything that windows is compatible with? is it hard to switch from windows to mac.  </s>
+<s> thanks  </s>
+<s> that's about as &quot;compatible&quot; as it gets.  </s>
+<s> keep in mind that when you run windows on apple macintosh hardware you will also be &quot;compatible&quot; all the viruses, hacks, trojans, worms and malware that the windows operating systems and associated applications (including internet explorer and office, among others) that environment contends with.  </s>
+<s> it is a windows environment, just like running windows and office and ie on a dell, hp, acer, toshiba, sony or home-grown brand or other windows-only machines.  </s>
+<s> if you don't want to deal with all that baggage that windows and windows apps bring to the table then stay in the macintosh operating system (osx) unix-based, superior gui, environment - where microsoft office osx has more features than its windows counterpart... where safari and firefox (browsers) don't get infected... where buying a third party antivirus application is unnecessary and the built-in firewall actually provides protection.  </s>
+<s> but, if you must run windows on a mac, you can.  </s>
+<s> very nicely and quickly and natively in an intel coreduo hardware environment... is it hard to switch? it depends what you use the machine for.  </s>
+<s> nearly all mainstream applications have equivalents or counterparts.  </s>
+<s> microsoft office is available in windows and mac osx versions.  </s>
+<s> the ilife bundle of applications (imovie, idvd, itune, iphoto and garageband) is fun to work with and they all work together seamlessly - personally, windv is a very distant &quot;also ran&quot; in my opinion.  </s>
+<s> connecting to various preipherals has always been easy - i use an hp laser printer and canon inkjet printer on my home network of a g4 tower and g5 flatpanel and hp/compaq laptop... 100baset ethernet and 802.11g (belkin router) and tcp/ip and file sharing... and a host of other services and applications... since you have a windows machine now, do you have to get rid of it?  </s>
+<s> why not keep it and get the mac and do both?  </s>
+<s> boya, i believe he is asking does os x work with as much software/hardware as windows.  </s>
+<s> now to answer his question, yes.  </s>
+<s> actually os x & macintosh computers are probably more compatible with hardware than windows.  </s>
+<s> most of the devices that i have with mac, are fully functional without software install.  </s>
+<s> example, syncing my nokia cell phone, attaching a usb hard drive.  </s>
+<s> however both those devices required software for use on my pc. now that doesn't apply to all devices but from my personal experience i have found that mac's are way better at handling hardware.  </s>
+<s> on the software side you can pretty much find all the mainstream popular software on os x, as you would on windows.  </s>
+<s> microsoft fully supports os x, and actually, office is more up-to-date on mac, than it is on windows.  </s>
+<s> i have had no problem sending files to pc users, sharing folders across networks with pc users, and connecting to wireless access points.  </s>
+<s> you must remember that mac is also a computer, just like dell, hp, and lenovo.  </s>
+<s> it's operating system is the same &quot;thing&quot; as windows, just a different type.  </s>
+<s> with out getting into details, this is just some generic information that you can use.  </s>
+<s> if you have any other questions, drop them here.  </s>
+<s> i'll be happy to answer your mac compatibility questions!  </s>
+<s> thanks, -m  </s>
+<s> i forgot to include this nifty little link:  </s>
+<s> three people read the same post and arrive at a different view of what the poster is actually asking.  </s>
+<s> here's my take: i think he is asking whether his existing windows software will be compatible with his new macbook.  </s>
+<s> disregarding the fact that he could run windows on his new machine, the answer has to be no, it is not. the windows software will not run under os x. however, as pointed out, it will run when the macbook boots into windows.  </s>
+<s> hardly making the switch from windows to mac.  </s>
+<s> if he is asking whether his mac will be able to do the same things as his winbox, then the answer is a resounding yes, but with different software and better!  </s>
+<s> and more!. web surfing, email, instant messaging and the like, happens on a mac as well.  </s>
+<s> we all surf the same internet, it does not belong to microsoft, no matter how hard they try.  </s>
+<s> so, just another take on the same question.  </s>
+<s> hopefully jchau will find whatever he is looking for in the different answers p  </s>
+<s> yes that was what i was talking about if mac was compatible with all the programs that windows is capatible with.  </s>
+<s> apple makes macintosh hardware - the computers... and software - osx operating system and a bunch of applications.  </s>
+<s> microsoft makes windows - the operating system - and a bunch of applications, but does not manufacture hardware on which windows operating system runs (that is, you cannot buy a microsoft branded computer - you buy dell or hp or acer or some other manufacturer's hardware on which to run windows.  </s>
+<s> will windows - the operating system - run on current apple macintosh hardware?  </s>
+<s> yes.  </s>
+<s> does this mean existing windows applications will run on windows operating system running on apple macintosh hardware?  </s>
+<s> yes.  </s>
+<s> will apple macintosh osx - the operating system - run on apple macintosh hardware?  </s>
+<s> yes.  </s>
+<s> does this mean existing apple applications will run on apple macintosh osx running on apple macintosh hardware?  </s>
+<s> yes.  </s>
+<s> will windows applications run on apple macintosh osx operating system?  </s>
+<s> no. the basis of apple's osx operating systen is unix. the basis of microsoft's windows operating system is not unix. the application needs to be written to run on an operating system - and many times ported - sometimes totally re-written - to the other operating system.  </s>
+<s> i have been told that i cannot connect to my office server (which is windows) even if i was running windows on my mac because of a 'hardware compatability issue&quot;.  </s>
+<s> is this true and if so is there a way to get around it?  </s>
+<s> there are many company's that run a mixed platform shop.  </s>
+<s> there may be &quot;software&quot; issues but there should not be hardware problems, unless your company is using some form of hardware authentication (smart card) to authenticate to your server.  </s>
+<s> mac's connect to windows servers and desktops quite easily, it's part of the os. if your office is running active directory, there is a piece of software called admit mac, by thursby, that will allow the mac to interact with active directory.  </s>
+<s> you need whoever told you that you cannot connect, to be more specific about what they perceive to be the problem.  </s>
+<s> p  </s>
+<s> beyond active directory such as remote screen viewing.  </s>
+<s> we use a version of vnc and there is no hardware issue here.  </s>
+<s> bob  </s>
+<s> sometimes there are hardware issues - like if your it department makes you use some sort of odd dongle to get into an application.  </s>
+<s> there are other hard ware specific things.  </s>
+<s> sometimes, though, it is the ignorance of the it staff.  </s>
+<s> i am no longer in it - i have a lot more fun in sales... but our it department does not support macs.  </s>
+<s> i am able to connect my mac to our exchange server using the tools the it folks provided for the windows people to get their email and calendar information using a browser.  </s>
+<s> i have helped several other employees do the same thing.  </s>
+<s> sometimes (not always), it will say something is not supported because (1) &quot;it has not been tested&quot;, and (2) they don't want to (or can't) take support calls from people who have problems with non-standard stuff.  </s>
+<s> so... if you are willing to be self supporting, then you really cannot break anything by trying.  </s>
+<s> but keep in mind that it means you cannot call it when you have an issue - you are on your own.  </s>
+<s> also, keep in mind that you may be in violation of your company's it rules - so you should be familiar with them before you start doing &quot;different&quot; stuff.  </s>

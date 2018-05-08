@@ -1,0 +1,16 @@
+<s> hello guys, my hard drive is a 500 gb seagate hdd i ran long generic test and it reported te following error message in the log file can anyone tell me what it means  </s>
+<s> how about finishing your post by telling the error message?  </s>
+<s> kees  </s>
+<s> sense key: 0x03 sense code: 0x00 sense qual: 0x00 fru: 0x00  </s>
+<s> and not just some logging?  </s>
+<s> can you post a bigger part of the logfile?  </s>
+<s> kees  </s>
+<s> long generic - started 11/18/2010 2:33:10 pm long generic - fail 11/18/2010 2:51:48 pm sense key: 0x03 sense code: 0x00 sense qual: 0x00 fru: 0x00 seatools test code: a7aed3d2  </s>
+<s> to anybody who knows the program and the output.  </s>
+<s> and, sorry, that's not me.  </s>
+<s> maybe some member knows and can help you know.  </s>
+<s> i think we managed to get all necessary information here.  </s>
+<s> kees  </s>
+<s> i read that and wonder if you got this result: &quot;if you run the seatools in dos mode and run the long grneric test, at the end it will give you the option to repair all error's.  </s>
+<s> &quot; sounds like something i'd try.  </s>
+<s> bob  </s>

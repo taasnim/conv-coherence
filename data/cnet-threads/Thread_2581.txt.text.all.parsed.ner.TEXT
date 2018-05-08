@@ -1,0 +1,13 @@
+<s> i have a laptop and desktop both using winxp pro sp2 connected together by ethernet cards using cat5 crossover cable.desktop  </s>
+<s> connected to dsl via another enthernet card and all working great for file sharing and access to internet from the desktop.wondering  </s>
+<s> if there is a way to access internet from the laptop thur the desktop or do i need a router setup.  </s>
+<s> bob  </s>
+<s> windows internet connection sharing (ics) will do it.  </s>
+<s> just run the windows network setup wizard.  </s>
+<s> however... i highly recommend purchasing a broadband router.  </s>
+<s> it adds an extra layer of security (firewall, filtering, etc.) between your computers and the dsl modem.  </s>
+<s> also, a router will allow your laptop to use the dsl internet connection without having to turn on your desktop, as ics requires.  </s>
+<s> i recommend purchasing a wireless-g broadband router.  </s>
+<s> most allow you to make 4 wired connections and multiple wireless connections at the same time.  </s>
+<s> just the info i needed.  </s>
+<s> bob  </s>

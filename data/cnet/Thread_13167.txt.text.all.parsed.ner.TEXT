@@ -1,0 +1,25 @@
+<s> my friend bought me a wireless router as a christmas present, and i set it up in my house so everyone in the household can get access to the internet anywhere in the house.  </s>
+<s> but since my son can access the internet anywhere in the house, i want to monitor what sites he had been to.  </s>
+<s> please help me on that issue  </s>
+<s> some routers have a snmp reporting tool.  </s>
+<s> as it stands you get to find it.  </s>
+<s> bob  </s>
+<s> i have netgear wgt624.  </s>
+<s> do they have snmp reporting tool?  </s>
+<s> &quot;&gt;how we will programmatically get the information of the bandwidth of &gt;an access point.  </s>
+<s> &gt;otherwards how we will keep track of the bandwidth strength of an &gt;access point.  </s>
+<s> if the access point supports snmp, then mrtg, rrdtool, or a wide variety of snmp based utilities will draw nice looking graphs.  </s>
+<s> however, if your access point does not support snmp, then you can build a scripting tool that will extract the same information from a web page.  </s>
+<s> for example, this java program will extract the numbers from a wgt624.  </s>
+<s> as always, it would be nice to know what you are trying to accomplish and what you have to work with.  </s>
+<s> -- jeff liebermann &quot;  </s>
+<s> but what do you mean by access point?  </s>
+<s> my router?  </s>
+<s> (i don't konw if my router supports snmp or not) i went to both website that you told me and download the software from that site, but i have absolutely no idea how to work them out (since there is not a single exe file within the archive).  </s>
+<s> all i wanted to do was to monitor what sites that my son had gone to.  </s>
+<s> thank you!  </s>
+<s> as you can tell, no ready to use application is ready for your make/model.  </s>
+<s> since this is true, then you have to use the noted software i linked to.  </s>
+<s> if you were looking for a &quot;click here to use&quot; application, i didn't find it.  </s>
+<s> however i have seen mtrg working and it would satisfy your question.  </s>
+<s> bob  </s>

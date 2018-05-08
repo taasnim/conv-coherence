@@ -1,0 +1,6 @@
+(TOP (SQ (AUX is) (NP (EX there)) (NP (NP (PDT such) (DT a) (NN thing)) (PP (IN as) (NP (NP (DT a) (JJ full) (NN size) (JJ portable) (JJ flat) (NN bead) (NN scanner)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB function) (NP (NP (NNS w/o)) (VP (VBG connecting) (PP (TO to) (NP (DT a) (NN pc)))))))))))) (. ?)) )
+(TOP (S (NP (PRP$ your) (NN research)) (VP (MD can) (VP (VB begin) (ADVP (RB here)))) (. .)) )
+(TOP (NP (NNP rick)) )
+(TOP (S (S (NP (EX there)) (VP (AUX were) (NP (JJ such) (NNS things)))) (CC but) (S (NP (PRP they)) (VP (VBD cost) (NP (NP (JJR more)) (PP (IN than) (NP (NP (DT a) (NN scanner)) (CC and) (NP (DT the) (NN laptop))))))) (. .)) )
+(TOP (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (NP (JJS best) (NN shopping) (NNS results)) (PP (IN for) (NP (NP (JJ flat) (NN bed) (NN scanner) (NNS w/o)) (VP (VBG connecting) (PP (TO to) (NP (NP (DT a) (NN pc.)) (SBAR (S (NP (PRP it)) (VP (MD might) (VP (AUX be) (ADJP (RB little) (RBR more) (JJ costly)) (PP (IN than) (NP (DT a) (NN scanner))))))))))))))) (. .)) )
+(TOP (S (CC but) (ADVP (RB nowadays)) (NP (PRP it)) (VP (AUX is) (ADJP (RB highly) (JJ recommended)) (PP (IN for) (S (VP (VBG scanning) (NP (NNS photos) (CC and) (NNS books)))))) (. .)) )

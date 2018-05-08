@@ -1,0 +1,15 @@
+<s> hi, just upgraded my motherboard with a newer abit mother board with sis chipset, memory, cpu and box.  </s>
+<s> intel 2.4mh, 512 meg, 350watt power. the computer boots to dos or xp boot cd. the old motherboard was 2x450 via chipset.  </s>
+<s> the new system will not boot from the old hd. it posts and the bios see everythink alright.  </s>
+<s> somebody told me it was because there were too many new devices to deal with, as the lan, vga, sound and other devices are integrated.  </s>
+<s> any comments or places to go for help?  </s>
+<s> did you install the os once you installed the new motherboard?  </s>
+<s> why such a small power supply?  </s>
+<s> here's some articles about changing motherboards with xp -&gt; bob  </s>
+<s> i had a similar experience but my system locked into a continuous restarting of the os after coming to the startup options menu.  </s>
+<s> this is normal behaviour with massive hardware changes at one time.  </s>
+<s> i needed to boot to the xp cd and do an installation repair followed by a reactivation of the os. it was relatively painless and i was expecting this and came prepared.  </s>
+<s> the system worked fine after all new drivers were in place.  </s>
+<s> i'd try the installation repair method.  </s>
+<s> if you can make a full copy of the old drive first or an image of it, you can try multiple times if mistakes occur.  </s>
+<s> good luck.  </s>

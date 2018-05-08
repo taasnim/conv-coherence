@@ -1,0 +1,17 @@
+<s> hello forum, my isp, alice, provided me with a turbolink iad modem/router.  </s>
+<s> however it just wont allow me to access the internet using my desktop computer ( hewlett packard k725).i can connect with no problems on my laptop.  </s>
+<s> both my pc and laptop have the same operating system, xp pro sp2.  </s>
+<s> i have looked at and tried many changes but nothing seems to work. the settings on both machines are identical i.e. tcp/ip setttings etc. but i cant seem to figure out way it would work on the laptop and not the desktop pc. i have tried winsockfix, ipconfig and netsh winsock reset to try and resolve the problem with no success.  </s>
+<s> i get a limited or no connection error on my lan but i am aware that this is a bug in winxp.  </s>
+<s> also my lan gives me the following message- server could not assign ip address for this computer i have tried doing a repair on this but after a few minutes it fails.  </s>
+<s> from what i can gather this is something to do with the computer not receiving dhcp services from the router.  </s>
+<s> beyond this i,m at a loss.  </s>
+<s> im starting to think this problem might be a hp and router hardware issue.  </s>
+<s> can anyone shed any light on this problem.  </s>
+<s> thanks  </s>
+<s> go to your pc bios and see that your modem is inabled if not inable it.i  </s>
+<s> think this will solve your problem.  </s>
+<s> thanks madangoo, have enabled it now.  </s>
+<s> however now when i boot up it runs a pxe and attempts to acquire dhcp after about 30 seconds or so it comes back with no dchp or proxydhcp.  </s>
+<s> ive tried to logon to the internet but no luck.  </s>
+<s> do you know if there are upgrades for the pxe or something!  </s>

@@ -1,0 +1,21 @@
+<s> unable to burn cds with dvd burner.  </s>
+<s> did the following things: -tried different brands of media -tried burning at different speeds -turned dma on for secondary ide channel (preset was pio) -re-install secondary ide channel -tried both 'manual' and 'automatic' settings for imapi cd burning com service end results still the same: unable to burn cds successfully.  </s>
+<s> any help would be greatly appreciated!  </s>
+<s> thanks!!! laptop: asus a600km os: winxp home edition sp2 processor: amd turion 64 mt-32 704 mhz ram: 512mb nero log as follows: windows xp 5.1 ia32 winaspi: - ahead winaspi: file 'c:program filesaheadnerownaspi32.dll': ver=2.0.1.74, size=164112 bytes, created 02/11/2004 12:54:32 nt-spti used nero version: 6.6.1.4 internal version: 6, 6, 1, 4d (nero express) recorder: &lt;tsstcorp cd/dvdw ts-l632c&gt;version: as07 - ha 1 ta 0 - 6.6.1.4 adapter driver: &lt;ide&gt; ha 1 drive buffer : 2048kb bus type : default (0) -&gt; atapi, detected: ?  </s>
+<s> cd-rom: &lt;tsstcorp cd/dvdw ts-l632c&gt;version: as07 - ha 1 ta 0 - 6.6.1.4 adapter driver: &lt;ide&gt; ha 1 === scsi-device-map === diskperipheral : st960812a atapi port 0 id 0 dma: on cdromperipheral : tsstcorp cd/dvdw ts-l632c atapi port 1 id 0 dma: on === cdrom-device-map === tsstcorp cd/dvdw ts-l632c e: cdrom0 ======================= autorun : 1 excluded drive ids: writebuffersize: 74448896 (0) byte showdrvbufstat : 0 bufe : 0 physical memory : 511mb (523632kb) free physical memory: 94mb (96580kb) memory in use : 81 % uncached pfiles: 0x0 use inquiry : 1 global bus type: default (0) check supported media : disabled (0) 10.1.2007 audio cd 20:28:32  </s>
+<s> nothing in your post tells where the issue is so make the call to see if they'll fix your laptop under warranty.  </s>
+<s> bob  </s>
+<s> wow! that's a very very fast reply!  </s>
+<s> thanks for your advice.  </s>
+<s> i will do just that and get it repair/replace under warranty.  </s>
+<s> by the way, what does &quot;bus type : default (0) -&gt; atapi, detected: ?&quot;  </s>
+<s> means?  </s>
+<s> the interface to the device.  </s>
+<s> here's a short reading about that.  </s>
+<s> all the message means is &quot;i found this.&quot; the ?  </s>
+<s> mark may mean it didn't understand it.  </s>
+<s> this is common if your version of nero doesn't support said drive.  </s>
+<s> -&gt; try this.  </s>
+<s> cdburnerxp (google.com)  </s>
+<s> it's free and supports more drives than most.  </s>
+<s> bob  </s>

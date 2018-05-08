@@ -1,0 +1,7 @@
+(TOP (S (NP (PRP i)) (VP (VBP believe) (SBAR (S (NP (PRP i)) (VP (MD can) (VP (VB work) (PRT (RP off)) (NP (PRP$ my) (NN game) (NN card)) (SBAR (IN if) (S (NP (NN someone)) (VP (MD could) (VP (VB tell) (NP (PRP me)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB change) (NP (DT the) (NNS bios)) (PP (IN in) (NP (PRP$ my) (NN system)))))))))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX do) (RB n't) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB access) (NP (PRP it)))))))) (. .)) )
+(TOP (S (PP (IN for) (NP (PRP$ my) (NNP compaq))) (, ,) (NP (PRP i)) (VP (VBP push) (NP (organization (NNS f2))) (S (VP (TO to) (VP (VB enter) (NP (NN setup)))))) (. .)) )
+(TOP (S (ADVP (RB however)) (, ,) (SBAR (IN if) (S (S (NP (DT the) (NNS machines)) (VP (AUX is) (ADJP (JJ old) (, ,) (RB just) (JJ disable)) (NP (DT the) (JJ old) (NNS graphics) (NN card)) (PP (IN in) (NP (NN device) (NN manager))))) (CC and) (S (NP (DT the) (JJ new) (NN one)) (VP (MD should) (ADVP (RB already)) (VP (AUX be) (ADVP (RB there)) (PP (IN in) (NP (NN display) (NNS adapters)))))))) (, ,) (NP (NP (DT no) (JJ further) (NN intervention)) (PP (IN in) (NP (NNP thr) (NNS bios)))) (VP (MD would) (VP (AUX be) (ADJP (JJ necessary)))) (. .)) )
+(TOP (NP (NNP roger)) )
+(TOP (SINV (ADVP (RB here)) (VP (AUX is)) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NP (DT the) (NNS bootkeys)) (PP (IN for) (NP (NP (DT each) (NN model)) (PP (IN of) (NP (NN computer)))))))) (. .)) )
+(TOP (S (NP (VB hope) (DT this)) (VP (VP (VBZ helps)) (, ,) (NP (NNP john)))) )

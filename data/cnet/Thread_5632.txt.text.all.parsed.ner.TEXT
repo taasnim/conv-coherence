@@ -1,0 +1,38 @@
+<s> these are the parts for a computer i built saturday.  </s>
+<s> 2.26 p4 533mhz fsb abit ai7 motherboard 1gb (2 x kingston value ram 512mb) antec sonata case sony dru-540a western digital 80 gb hard drive.  </s>
+<s> im having a problem with my internet service.  </s>
+<s> my isp is verizon.  </s>
+<s> whenevr i connect to the internet in network connections in the control panel.  </s>
+<s> my service starts of slow, sometimes fast but will eventually go off.  </s>
+<s> when i contacted verizon they say there is nothing wrong with my line.  </s>
+<s> i have downloaded and installed all bios, driver, and chipset updates for the motherboard.  </s>
+<s> does anybody have suggestions.  </s>
+<s> how are you connecting to the internet?  </s>
+<s> cable?  </s>
+<s> dsl?  </s>
+<s> dial-up?  </s>
+<s> i know verizon is primarily a phone carrier, but in some parts of the country they offer internet connectivity.  </s>
+<s> (since it's verizon, i'm assuming it's not cable).  </s>
+<s> if it is cable, you may have to register your mac address with verizon.  </s>
+<s> i did for my internet provider.  </s>
+<s> check your ethernet card.  </s>
+<s> make sure it's seated properly.  </s>
+<s> make sure you've got a &quot;green light&quot;.  </s>
+<s> if it's dsl, make sure you're using the phone filters provided by either verizon or the dsl cable modem manufacturer.  </s>
+<s> if it's dial-up, make sure you've got the phone line plugged into the computer correctly.  </s>
+<s> (i can't tell you how many times i've seen someone plug a phone line (rj-11) into a cable jack (rj-45)).  </s>
+<s> right-click the icon and do a &quot;repair&quot; on the network connection.  </s>
+<s> are you using a router or connecting straight to your connection?  </s>
+<s> any other pc's able to connect?  </s>
+<s> good luck!  </s>
+<s> its a dsl connection.  </s>
+<s> all my lights on the modem are solid.  </s>
+<s> my card is securely seated.  </s>
+<s> i did not mention something before.  </s>
+<s> after a while if i open up firefox i click on a link or type an address nothing will happen.  </s>
+<s> sometimes after clicking a link several times it might go.  </s>
+<s> people are telling me that this could be a problem with verizon not the motherboard.  </s>
+<s> they say if it was the motherboard it would not work at all.  </s>
+<s> ...sounds like maybe your ip address needs to be refreshed.  </s>
+<s> from the dos prompt try the following; type &quot;ipconfig/renew&quot; (without the quotes) see if getting a new ip address helps also, try unplugging the modem, wait for about 30 seconds and then replugging the modem and rebooting.  </s>
+<s> are you using a router, by the way?  </s>

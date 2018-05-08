@@ -1,0 +1,16 @@
+<s> i have a ga-p67a-ud3-b3 + intel i5 2500k + ati saphire 6950 1gb + 2x4gb g.skill ripjaws series + psu coolermaster gx650w. the computer boots just fine, i get the &quot;one beep&quot; on post, and i can get into the os (w7 or ubuntu 11.04 with dual boot).  </s>
+<s> but after a while of using it i get a strange beep code, i couldn't identify what kind of beep code is it, and couldn't find any info online or even asking gigabyte support, i uploaded the beep code here so you can listen to it: or here i tough it may be a temp or fan failure alarm, since it appears inside the os and not on boot like normal beep codes, but i tried disabling all the alarms on the bios and the beep still appears, also i monitored the temperature while the beep code appears and it doesn't look too hot: hardware sensors monitor 4.5 shows: mainboard: 25c cpu1: 44c cpu0: 46c hdd: 37c chassis fan speed: 1950rpm voltages: +12v : +12.04v +5v: +5.07v +3.3v: +3.38v core: 1.33v aux: 1.02v speedfan show temps: core0 : 44c core1: 45c core1: 42c core3: 46c hd0: 39c temp1:42c temp2: 25c temp3: 36c fan speed: 1929rpm and from the bios (pc health status section) just after the beeps: system temp: 45c cpu temp: 48c cpu fan speed: 2327rpm vcore: 1.212v ddr15v: 1.536v +12v: 12.073v vcc3: 3.383v vcc: 5.083v vtt: 1.088v does someone knows what could be causing this beep code?  </s>
+<s> the ram ?  </s>
+<s> vapcmd  </s>
+<s> i used memtest bootable usb from memtest.org, and didn't find any error, could it still be ram?  </s>
+<s> failure'.  </s>
+<s> (ami bios) that said if you've run memtest or something like it without error, then i'd eliminate that as a possible cause.  </s>
+<s> it's disappointing to hear that gigabyte has not been more helpful.  </s>
+<s> keep us posted vapcmd  </s>
+<s> take the side panel off.  </s>
+<s> get a small fan and point it at the innards......test.  </s>
+<s> memtest.  </s>
+<s> with 8gb of ram that can take some time to test.  </s>
+<s> i hope you let it run for 10/12 hrs.  </s>
+<s> maybe try it one stick of ram at a time.  </s>
+<s> see if the symptoms change.  </s>

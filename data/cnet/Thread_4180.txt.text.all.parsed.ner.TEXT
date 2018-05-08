@@ -1,0 +1,35 @@
+<s> i am using a dell 46000 computer (4-5 years old) with windows xp professional.  </s>
+<s> my graphics card is an nvidia ge force fx 5200.  </s>
+<s> several days ago i bought a new monitor - an lg w2061tq, 16:9 monitor.  </s>
+<s> i set the resolution in my control panel&gt;display&gt;settings to 1600x900, the highest setting available there. the problem: as soon as i boot my computer, instead of the typical, initial screen appearing (typically for a few seconds) which shows the keys to press to enter the bios, and other preliminary screens then appearing, a little error message box appears with the following: &quot;digital out of range - 74.3khz/60hz.&quot; then the windows &quot;welcome&quot; screen appears and looks fine.  </s>
+<s> once my computer finishes booting, my desktop screen also looks fine.  </s>
+<s> 1) what does this error message mean and what can i do to eliminate it?  </s>
+<s> 2) even with this error message appearing when the bootup process starts, do i still have access to the bios if i press the correct keys to access it when the bootup process starts?  </s>
+<s> thanks.  </s>
+<s> richard  </s>
+<s> i have an old machine with the fx500 which is close enough to that 5200 to discuss.  </s>
+<s> it doesn't produce the right video output for my new big screen and i see that message and others when i try.  </s>
+<s> to fix this i've ordered up a newer card.  </s>
+<s> i bet there are some that will think some driver will help.  </s>
+<s> bob  </s>
+<s> fyi- more than likely its the monitor generating that message rather than the video card.  </s>
+<s> so nothing you can do if the fx5200 is just too old or can't provide a matching setting for best performance.  </s>
+<s> if it continues to display the message but yet works, then be happy.  </s>
+<s> because, the only real solution is to replace the video card to a later model.  </s>
+<s> tada ====willy  </s>
+<s> even with this error message appearing when the bootup process starts, should i still have access to the bios if i press the correct keys to access it when the bootup process starts?  </s>
+<s> i wanted to ask before i try it and potentially screw something up.  </s>
+<s> thanks.  </s>
+<s> i lucked out and a 25 buck ati 9600 card has cured this old machine.  </s>
+<s> and the new card kicks the old card's gas.  </s>
+<s> bob  </s>
+<s> with the system-off, power-on the monitor it may generate a message like &quot;no signal detected&quot; or similar.  </s>
+<s> that's why i mentioned the monitor generates some messages.  </s>
+<s> now, when you access the bios that will be a basic video setting/level which any video card will be capable of handling.  </s>
+<s> if for some reason, it can't display the bios display then you have other issues.  </s>
+<s> you should then check the monitor int.  </s>
+<s> setting(on-screen diags.) and see what's being done.  </s>
+<s> if all this gets too involved or becomes such a hassle, again the best course is to replace the video card to newer one.  </s>
+<s> fyi- if you monitor came with a install cd, read the manual.  </s>
+<s> any s/w, install it for a possible better marriage of video port and monitor.  </s>
+<s> tada -----willy  </s>

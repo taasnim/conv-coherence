@@ -1,0 +1,45 @@
+<s> i have a sony vaio desktop (rcx5550) computer running windows xp with an internal cd drive and an internal cdr drive.yesterday  </s>
+<s> i went to open the cdr and it wouldn't open.  </s>
+<s> i then clicked on my computer to open it that way and it didn't exist anymore under the drives listed.  </s>
+<s> what could have happened that deleted it from the system? the cd drive is fine(e:)but the cdr is nowhere to be found.  </s>
+<s> i had system restore turned off so i can't try that method.  </s>
+<s> any ideas ?  </s>
+<s> open case and with power-off, reseat the cables to that drive.  </s>
+<s> reseat several times, including the power cable.  </s>
+<s> restart system and check results.  </s>
+<s> if it works, great, you had minor problem.  </s>
+<s> upon boot-up does the bios report it?  </s>
+<s> if not, then more than likely the cd drive is dead or done in, replace.  </s>
+<s> while there can be s/w glithces, more often than not, h/w failure is the cause, nothing can be repaired, just replace.  </s>
+<s> if you were having some difficlties prior to this, that's a good reason to replace.  </s>
+<s> you can try cleaning the drive out, but that's alast gasp effort.  </s>
+<s> i leave any other possible cause to other posters.  </s>
+<s> i found so many cd drive problems are resolved by replacement and thier cost is very reasonable.  </s>
+<s> tada -----willy  </s>
+<s> could i have deleted it by mistake?  </s>
+<s> i was trying to delete some files due to the fact i started getting a low memory message.if  </s>
+<s> i did, how could i re-install it.  </s>
+<s> also how do you access thebios.  </s>
+<s> i know each computer is different but what are some of the ways to check that?  </s>
+<s> works for me.  </s>
+<s> your recovery/restore cd should have the files you need.  </s>
+<s> depending the nature of that cd you *may* directly select the drivers for the cd drive in question.  </s>
+<s> you thus re-install that way or if you know the product find the driver directly from the sony support website or the cd drive maker support website, get related driver.  </s>
+<s> yeah, you could have made an error in wiping out some files that supported that cd drive, but at least it should have reported being present though not active.  </s>
+<s> check, the h/w device manager and see what it states about that drive, there too can re-install drivers needed at that time.  </s>
+<s> as for the bios, you manual should give a clear method to access or upon boot-up any key sequence to eneter the bios.  </s>
+<s> i suggest for now hitting eiother f1 or f2 key if so stated, otherwise find what your manual states.  </s>
+<s> this info should also be repeated at the sony support website as well.  </s>
+<s> tada -----willy  </s>
+<s> i tried removing the upper and lower filters from the registry but i only showed the lower filters which i removed and it didn't do anything.  </s>
+<s> thanks anyway.  </s>
+<s> windows installed the drive because the bios reports it as there.  </s>
+<s> if the bios does not report the drive, windows won't display it.  </s>
+<s> follow the previous poster's advice.  </s>
+<s> with a can of air and the power off, open the computer and blow it out.  </s>
+<s> carefull reseat all the cables.  </s>
+<s> watch the screen when you power up.  </s>
+<s> note if the bios detects both optical drives.  </s>
+<s> if it does, most likely windows will show your drive.  </s>
+<s> (note that it never uninstalled the problem drive in the first place.) if it does not show up in the bios, you will probably have to replace the drive.  </s>
+<s> gwee  </s>

@@ -1,0 +1,14 @@
+<s> just bought my new a8n-sli deluxe.  </s>
+<s> just before windows xp starts up, i get the blue screen of death, giving me the speil about a.)possibly having a virus, and b.) having a corrupt harddrive.  </s>
+<s> i switched out my hd with an older one that i know works, and still got the same problem.  </s>
+<s> booting in safe mode does not help. the exact error message: ***stop: 0x0000007b (0xf78a2640, 0x0000034, 0x00000000, 0x00000000) system- amd athlon 64 3000+ a8n-sli deluxe mobo xfx nvidia geforce 7600 gt  </s>
+<s> read this article.  </s>
+<s> hint: take your pick.  </s>
+<s> bob  </s>
+<s> is the graphics card new to your system ?  </s>
+<s> if so, take it out and run the onboard graphics.  </s>
+<s> nvidia drivers have to be loaded correctly, check nvidia website.  </s>
+<s> if you have not set your bios correctly, it will give you this result so take some time and check it very thoroughly.  </s>
+<s> there are a lot of things that could cause this problem, try booting to your cdrom drive or a: drive with a system disk to see if your motherboard can access your hard drive.  </s>
+<s> you will need to set your bios to boot from d: or a: with correct settings including seek in your bios.  </s>
+<s> if all else fails, asus provides great tech support 24/7  </s>

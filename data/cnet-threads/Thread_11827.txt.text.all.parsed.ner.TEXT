@@ -1,0 +1,17 @@
+<s> one week ago i set up the belkin 54mbps wireless router as per the instuctions to my home office lan. it worked perfectly for 3 days, routing both the wired lan and wirless access to my two laptops - ibm t42 and sony viao 505. then after 3 days both laptops ceased to be able to access wirelessly [while the wired network continues to work fine].  </s>
+<s> both laptops recognize the wireless network - they just can't connect to it. the ibm says the signal is too weak - even when i put it right next to the router. the sony does not give a reason.  </s>
+<s> i have: 1. replaced the router with a new one from the store and reinstalled it - no help.  </s>
+<s> 2. turned off the ibm automatic access software - no help.  </s>
+<s> 3. tried to reconnect everyway i can think of.  </s>
+<s> i am completely stimied.  </s>
+<s> thanks for reading this.  </s>
+<s> any ideas?  </s>
+<s> firmware on the makers site.  </s>
+<s> in combination with a call to the makers helpline i was able to access the firmware directly on the router and reset the channel.  </s>
+<s> i never had a clue that there were different broadcast channels [like a phone] and of course this makes sense. it fixed the problem so i can connect from my ibm laptop, but my sony still does not work - it shows the network and connects automatically then disconnects about 2 seconds later.  </s>
+<s> it flips back anf forth, connected -- diconnected every couple of seconds.  </s>
+<s> any ideas?  </s>
+<s> 1.) upgrade 'firmware' in router if you haven't already and if sony notebook has 'card' or internal wireless upgrade it's 'firmware' also!  </s>
+<s> 2.) is the sony located in the vicinity of a telephone that uses 2.4ghz carrier?  </s>
+<s> i experienced a similar intermittent operation and it was fixed by removing the phone completely.  </s>
+<s> 3.) in 'network connections', 'wireless network connections properties'(get to via right click), 'wireless networks' be sure &quot;use windows to configure my wireless netowrk settings&quot; is checked!!!gb  </s>

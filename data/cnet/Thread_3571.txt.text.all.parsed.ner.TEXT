@@ -1,0 +1,46 @@
+<s> i'm hoping some networking gurus around here might be able to help me out.  </s>
+<s> i read that if you're using coax to connect your fibetv boxes (iptv stb/pbr) up then you can plug an ethernet cable into the fibetv stb to get internet connectivity.  </s>
+<s> i tried it with my ps3 and yes indeed i can. that saves me running a separate ethernet to my bedroom.  </s>
+<s> while i can access the internet from my ps3 connected this way, i can't access my home's internal network.  </s>
+<s> i would like to access my home's internal network to stream my video collection to my ps3.  </s>
+<s> a little background to how the fibetv modem (bell modem alcatel lucent 7130 5vza2001) is setup in relation to my home network.  </s>
+<s> i have the outside bell wire coming into the fibe cellpipe modem/router (i have the bell router disabled) and its connected into the wan port of my dlink dgl-4500 router which serves my internal home network. the cellpipe is 192.168.2.1 while my dlink router is 192.168.0.1 - is it because they are separate that i can't talk to each other? the dlink is a better router than the fibe cellpipe at routing and wifi, so i only use the cellpipe as a modem out.  </s>
+<s> i can't actually access the cellpipe 192.168.2.1 setup page from within my home network ether, i have to physically plug an ethernet wire into the cellpipe modem to access its setup page. is there a way to get these two routers to talk to each other?  </s>
+<s> i'd like to be able to access the cellpipe modem (192.168.2.1) setup page from within my internal home network which is connected to my dlink router (192.168.0.1) and allow devices physically connected to my cellpipe modem to access my internal home network.  </s>
+<s> do i increase the ip range or port forward something?  </s>
+<s> i'm just not that savy with networking - but i'm willing to learn!  </s>
+<s> thanks,  </s>
+<s> because you are using the wan port on the dlink, you are putting your home network devices on a separate subnet from the ps3 and stbs.  </s>
+<s> you'll need to use only the switch function on the dlink by using the lan ports only and disabling dhcp.  </s>
+<s> ips should be served from the cellpipe.  </s>
+<s> i don't believe the lan port on the stb is designed to allow you to attach devices in this manner, but if you are able to get the ps3 working this way, great!  </s>
+<s> thanks so much!  </s>
+<s> but my dlink is such a better router and at wifi than the cellpipe - can i turn it the other way around and change the cellpipe internal subnet address to one that is within the dlink router's subnet?  </s>
+<s> use the switch capablility of the dlink.  </s>
+<s> you'll still be able to use the wifi of your dlink, but you'll need to keep the cellpipe's routing functions enabled for your stbs.  </s>
+<s> your cellpipe needs to be in front of the dlink in order for everything to work properly.  </s>
+<s> thanks so much, i did as you say, i disabled dchp on the dlink and is now hooked into one of the 4 ports of the cellpipe into one of the 4 ports of the dlink.  </s>
+<s> it seems to be working fine now - all my computers have switched over to the new subnet of 192.168.2.xx however, i can get access to the original dlink router setup page (presumably left at 192.168.0.1) - how do i get access back into the original dlink router?  </s>
+<s> it doesn't show up in my cellpipe device table - what's its setup page?  </s>
+<s> i tried just connecting one computer to the dlink by itself to see if i can re-set the setup page to something in the 192.168.2.xx range, but the old 192.168.0.1 setup page isn't responding - is it because i disabled dchp on the dlink that it won't accept new connections?  </s>
+<s> currently everything is working and my old wifi settings from the dlink still seems to be working, but i would like access to the setup page in case i need to change a wifi setting sometime in the future.  </s>
+<s> thanks  </s>
+<s> try the tracert command from the command prompt on one of your computers.  </s>
+<s> type: tracert 192.168.2.1 the first device listed should be the dlink. the ip address of the dlink should be 192.168.2.x. that will be the address used to access the web interface.  </s>
+<s> tracert may not show the dlink.  </s>
+<s> if it doesn't, check the cellpipe interface again.  </s>
+<s> there should be a section that lists all attached clients with their ip addresses.  </s>
+<s> you may need to disconnect the dlink from your network, then try to access with the original ip by connecting directly to the dlink.  </s>
+<s> you would then set the lan side of the dlink for a manual address outside the dhcp range of the cellpipe.  </s>
+<s> it actually has the same ip as it did before even though it is connected to the new network.  </s>
+<s> you will not be able to even detect it on your other equipment.  </s>
+<s> the device is completely transparent at a ip level when you are using only the lan ports.  </s>
+<s> although you could mess around and run both networks using a secondary ip it is easier to change the ip of the dlink.  </s>
+<s> what you need to do is change your pc back to 192.168.0.2 manually.  </s>
+<s> go into the dlink and change the ip to say 192.168.2.200.  </s>
+<s> you will then of course get disconnected.  </s>
+<s> you should then be able to change your pc back to dhcp.  </s>
+<s> your pc should then get a address in the 192.168.2.xx range.  </s>
+<s> you should then be able to access the dlink via 192.168.2.200.  </s>
+<s> type carefully , changing the ip you are using to configure the router is like sawing the branch off you are sitting on.  </s>
+<s> if you make a mistake you many times will end up doing a factory reset.  </s>

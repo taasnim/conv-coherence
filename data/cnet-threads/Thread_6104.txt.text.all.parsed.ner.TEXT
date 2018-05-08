@@ -1,0 +1,22 @@
+<s> got a memup xdrivelll portable harddrive/card reader with 40gb capacity.  </s>
+<s> when connected to computer and after deleting all contents 'properties' tab on computer shows indeed 39,8gb free space for the drive.  </s>
+<s> however, display on portable drive itself only shows 21,5 gb free space.  </s>
+<s> what is blocking the rest and how can i get the whole drive clear?  </s>
+<s> my xdrive required a fat32 format which in windows xp is limited in size.  </s>
+<s> not a bug and took some reading to understand the limit and issue.  </s>
+<s> didn't the xdrive documents note this?  </s>
+<s> (yes, they did but who reads them?) q. what is blocking the rest and how can i get the whole drive clear?  </s>
+<s> a. as above.  </s>
+<s> i was able to use my entire 40gb after i booted up in linux and used it's disk partition software to create a full size fat32 volume.  </s>
+<s> i decline to detail the exact steps.  </s>
+<s> bob  </s>
+<s> thanks for the suggestion, bob.  </s>
+<s> but i have done no formatting on this drive.  </s>
+<s> it's well beyond my capability.  </s>
+<s> drive came already formatted in fat32.  </s>
+<s> worked perfectly well for a year or so to full 40gb capacity.  </s>
+<s> all i've ever done is to move data onto and off the drive.  </s>
+<s> need to learn how to partition and format it again.  </s>
+<s> if it's just file space that's gone missing the two user friendly items would be to run chkdsk on the drive and use some file space explorer tool.  </s>
+<s> as an example.  </s>
+<s> bob  </s>

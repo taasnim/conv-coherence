@@ -1,0 +1,22 @@
+<s> i recenty bought a 120g hd for my imac and unfortunately the internal rom drive on my imac is broken i only had an external(usb) rom drive.  </s>
+<s> i cannot install osx from external source.  </s>
+<s> so, is possible to transferz data from my old hd through the new one via ide cable??  </s>
+<s> no! you will need to have your internal cdrom fixed or get a firewire/usb cdrom that is bootable.  </s>
+<s> you need to boot from the cd to install os x. os x has thousands of invisible files that do not move when you copy the drive.  </s>
+<s> there are programs that will do it though, carbon copy cloner being one, but you will still have to boot from something other than the drive being cloned.  </s>
+<s> the cd-rom drive in your imac is ide, if you theoretically were to unplug the cd-roms ide and power cable and they were long enough to reach the hd then you could format and mount the new hd. it might take a little tinkering but it is possible... maurice  </s>
+<s> you don't mention which imac you have nor which operation system you are using, and both are vital to a good answer to your question.  </s>
+<s> i'm not clear whether you intend to replace the internal hd with new one or put it in a external case.  </s>
+<s> however, since i must guess, i would recommend that you download carbon copy cloner (donation ware) from versiontracker.com  </s>
+<s> onto your internal drive.  </s>
+<s> then buy or borrow an external hd case and place your new hd in that.  </s>
+<s> they come in usb, firewire or both.  </s>
+<s> use firewire if your imac has it.  </s>
+<s> then use that software to clone your entire internal hd to your new hd. then you can replace your internal hd with the new one if you like, or just leave it connected as an external one.  </s>
+<s> imacs do not have a ide connection for a second hd as do powermacs, so transfering data via ide cable is either very difficult or impossible.  </s>
+<s> good luck  </s>
+<s> you are right in saying that the cdrom is an ide device but, the device inside the imac has a special connector which supplies power and data transfer and is a different size than a regular ide cable. the ide cable on an imac is exactly the correct length and will not reach the top of the cdrom let alone another hd. no power cable either.  </s>
+<s> the guy needs to purchase a replacement cdrom and all this will go away.  </s>
+<s> sooner or later he will have to install something that is on a cd. the external firewire/usb option and carbon copy cloner are also a possibility.  </s>
+<s> he will still need to replace the cdrom though.  </s>
+<s> a machine with two drives and no cdrom is a little handicapped.  </s>

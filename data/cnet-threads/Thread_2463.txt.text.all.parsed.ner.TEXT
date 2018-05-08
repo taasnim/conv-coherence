@@ -1,0 +1,23 @@
+<s> i have both ir and rf devices that i want to control with my ipad using it as a remote control.  </s>
+<s> i have been able to replace my ir remotes but now want to be able to do away with my rf remotes as well.  </s>
+<s> can someone tell me how to take the rf signals from my various remotes , and be able to channel through some device and then through my ipad then to the appliance?  </s>
+<s> is it possible?  </s>
+<s> but you may have to create and build the last interface with some boards and software.  </s>
+<s> unlike the ir controls which is a pure bit on software kit, this requires much more work.  </s>
+<s> i find many are not ready for this work but as i have done this in the past i do have solid ideas on how to create it.  </s>
+<s> however there appears to be no off the shelf system to note yet.  </s>
+<s> if there is something made it would be specific to what you would control.  </s>
+<s> bob  </s>
+<s> thanks bob .  </s>
+<s> that is a relief.  </s>
+<s> i have a home theatre where i want to operate the curtains, screen and blinds that have rf remotes.  </s>
+<s> can you tell me how to do it or where i can go to have it done?  </s>
+<s> i don't know your electronics design background but if i was to build this i would cheat big time.  </s>
+<s> i'd get something like a ip controlled relay box like now i can wire up those relays to that curtain or even the rf control device.  </s>
+<s> like i said, this is not for a consumer to do but for those that create stuff.  </s>
+<s> bob  </s>
+<s> bob that ius a big help .  </s>
+<s> ill see if anyone here can take it further.  </s>
+<s> cheers  </s>
+<s> there are more boards like this but the root of this system is to get from the ipad to anything that i can make to press those buttons or to power that curtain.  </s>
+<s> bob  </s>

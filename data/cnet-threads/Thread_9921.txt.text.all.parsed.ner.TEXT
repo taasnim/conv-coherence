@@ -1,0 +1,22 @@
+<s> i just assembled a new computer (my first self-build) with an asus p5gd1 motherboard, in a thermaltake sviking case.  </s>
+<s> i'm using an intel pentium 4 530 3.0ghz cpu, socket lga775.  </s>
+<s> my ambient case temp, as detected by the case's internal sensor, is about 32-35 deg c. my motherboard temp hovers around 40 c. however, my cpu temp doesn't go below 65, and frequently spikes above 70 when i'm opening programs, installing software, booting up, etc. when i first booted up it was around 87 c, but it settled.  </s>
+<s> when i installed the hsf (heatsink fan) one of the pegs wouldn't *click* into the motherboard, so i lifted it up, rotated it 90 degrees, and placed it again.  </s>
+<s> it worked.  </s>
+<s> however, i noticed that after i took it off one corner of the thermal pad was slightly smudged.  </s>
+<s> don't know if this has anything to do with my heat problem.  </s>
+<s> i'm running an asus en6600/td 256mb graphics card, and i've been told that the geforce chips have a driver problem that causes excessive heat.  </s>
+<s> however, since my case ambient temperature and motherboard temperature are about normal, i don't think this is the problem.  </s>
+<s> what do *you* think?  </s>
+<s> help appreciated.  </s>
+<s> different positions by 90 degrees.  </s>
+<s> i feel quite certain that you do not have the hsf mounted properly.  </s>
+<s> my experience is that there is only one proper orientation.  </s>
+<s> those cpu temps are terrible, although they may not be valid reasons. the intel cpus should have shut down if it hit 70 c internally, it should have throttled back before that. the cpu is normally not in the center of the hsf assembly, thus giving only one proper mounting position.  </s>
+<s> windows auto shut down at around 75 degrees.  </s>
+<s> what heatsink do u have?  </s>
+<s> i think it is not properly seated.  </s>
+<s> and with those temperatures, the life of the cpu is gonna shorten and if u dont fix it probably gonna fry within a year.  </s>
+<s> pentium 4s generally run around 50 degrees.  </s>
+<s> how r u getting ur readings?  </s>
+<s> could it be ur program is wrong?  </s>

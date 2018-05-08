@@ -1,0 +1,25 @@
+<s> i have had this pent iv two years.  </s>
+<s> the generic cd-rw will read but will not burn a cd after working before.  </s>
+<s> i have uninstalled and installed.  </s>
+<s> i have tried using nero and microsoft burners.  </s>
+<s> nero creates a virtual image while media player just says it cant burn file.  </s>
+<s> i disconnected and reconnected cables.  </s>
+<s> any suggestions or has the burner gone bad after two years?  </s>
+<s> have you used the burner much??? i've had one for over 2 years and it still works knock on wood but i only use it on occasion.  </s>
+<s> i used it to make a few music cd and to back up my system monthly.  </s>
+<s> a replacement isn't expensive but i want to make sure it is a hardware problem before i replace it.  </s>
+<s> i boot a knoppix cd on the other drive, then use k3b to test the cdrw.  </s>
+<s> bob  </s>
+<s> please explain what a knoppix cd is and what k3b is.  </s>
+<s> when using nero to try to do a copy disk nero still doesn't see the burner and creates an image on my hard drive.  </s>
+<s> -&gt; finds knoppix and pages about knoppix in no time at all.  </s>
+<s> plus said pages will tell you about knoppix in many ways.  </s>
+<s> i can't guess which method works for you and as such will not write much about knoppix except to share it's how i test a cdrw before i replace the drive.  </s>
+<s> k3b is the cd recording software included in the knoppix cd and ... very easy to use.  </s>
+<s> again, with all the documention on k3b plus it's help pages, i see no need to repeat that content except to share it's the tool i use.  </s>
+<s> hope this helps, if you didn't write that your nero is something bundled with another drive then you are trying to use if with a newer cdrw, then that's your loss.  </s>
+<s> that results in the scenario you have presented.  </s>
+<s> just so you can burn cdr/w media the nice software from is free and may help you get by until you fix your issue.  </s>
+<s> bob  </s>
+<s> would be systemrescuecd you can place it on a shirt pocket size mini cd-r (only 110 meg) and perform just about anything knoppix or mepis does except office production work using openoffice which is absent.  </s>
+<s> very handy.  </s>

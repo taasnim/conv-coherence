@@ -1,0 +1,8 @@
+<s> i have a dlink dir-615 connected to my modem, my main computer and my second computer (all wired) i have a wire that gos into my basement and i need a router (switch) down there, i have a dlink di-624 that i want to use but i need to configure it so it works with my existing router.  </s>
+<s> hook up a lan port on both devices.  </s>
+<s> you may need to use a cross cable but try a straight first.  </s>
+<s> this will make your 624 a switch, you want to disable dhcp on the 624.  </s>
+<s> you may have to give it a static address in the range the 615 uses so you can manage it.  </s>
+<s> sorry, im a little new to this stuff, i disabled the dhcp on the 624 and i still didnt have internet acsees so i changed my wan settings from dynamic ip to static but i need a ip, subnet mask.  </s>
+<s> isp gateway, dns.  </s>
+<s> do i get these from the 615 or in ipconfig?  </s>

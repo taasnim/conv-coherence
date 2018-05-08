@@ -1,0 +1,10 @@
+<s> i'm running windows xp and i just bought a wireless g pci network adapter, i have disabled the linksys software and am using windows xp to manage my connections.  </s>
+<s> so i was wondering if there was a way to get the linksys software off of my computer and still be able to use the adapter.  </s>
+<s> there are no options to close the icon when right clicked, nor is there a menu to block it from .  </s>
+<s> i tried uninstalling the software but that uninstalled the hardware as well, is there any other way that i can get this annoying software off my taskbar?  </s>
+<s> installing the drivers from the linksys disk without installing their software?  </s>
+<s> no, how would i go about doing that?  </s>
+<s> would i just explore the cd with explorer and then open the drivers folder?  </s>
+<s> you can do that.  </s>
+<s> when you install hardware and it asks you if you have a disk, click yes and point it to the .inf  </s>
+<s> file.  </s>

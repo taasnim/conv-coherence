@@ -1,0 +1,32 @@
+<s> i've decided to take an old desktop and turn it into a media center pc. it is running xp, 768 ram, 1.8 gig processor, and i'm planning on running xbmc on it.  </s>
+<s> i bought a new graphics card, radeon 9250, because it previously only had a vga output.  </s>
+<s> i'm using the dvi port on it, with a dvi to hdmi coupler, to an hdmi to hdmi cord, into the tv. i'm having a few issues here.  </s>
+<s> first, the picture quality is not good. it flashes on and off, and when it is there, the colors are off and it is very grainy.  </s>
+<s> i have the resolution at 1268x1080 (or whatever the 1080hd is, checked that already) refreshing at 60hz (changed that many times as well, no luck).  </s>
+<s> if i start the pc with both the vga output hooked up to the monitor and the dvi hooked up to the tv, the only one that works is the tv, and not very well.  </s>
+<s> if i pull the dvi and start up, it works fine on the old monitor.  </s>
+<s> i've also tried to mirror the desktop, and extended the desktop, neither works all that well as far as picture quality goes.  </s>
+<s> does anyone have any other ideas?  </s>
+<s> the 9250 is very low on the totem pole.  </s>
+<s> but it doesn't need to be that great. it has a dvi port, that's pretty much all i need.  </s>
+<s> i just want the picture on the tv to he good, and it is plenty for that.  </s>
+<s> i was hoping there would be some settings that i could look into changing.  </s>
+<s> i think i'd change that out first.  </s>
+<s> if you want, try other drivers but this one was not good enough for our htpc.  </s>
+<s> i loaned it out a few times with same results.  </s>
+<s> bob  </s>
+<s> which one did you go with?  </s>
+<s> i had a better one that had an hdmi out, but it was pci based.  </s>
+<s> since this is an old machine, i don't have a pci slot, only agp, which is why i went with the 9250.  </s>
+<s> really i just need one with a dvi out, though hdmi would be easier.  </s>
+<s> i played around with it a little more last night.  </s>
+<s> i was actually getting close to presentable, but some of the black pixels were coming in red. the flashing issues seemed to have taken care of itself somehow.  </s>
+<s> i didn't know there was a pci limitation here.  </s>
+<s> i did last year use a pci with the nvidia 9500gt and 1gb ram which was fanless.  </s>
+<s> these are getting harder to find or more pricey.  </s>
+<s> bob  </s>
+<s> i was thinking this morning of taking it back in favor of another, and on a lark decided to try the s video port.  </s>
+<s> it worked, though at s video resolution.  </s>
+<s> shut everything down, plugged the dvi port in again, and blammo, everything works perfect in full hd. i have no idea why or how, but i'll take it.  </s>
+<s> thanks and i'll have to try that if i ever run into this again.  </s>
+<s> makes you wonder if you found a new trick!  </s>

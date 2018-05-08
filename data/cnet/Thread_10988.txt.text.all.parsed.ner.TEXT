@@ -1,0 +1,21 @@
+<s> i was given a custom built computer with xp pro. it has no plugs for keyboard or mouse only 3 usb plugs in back and 2 in front.  </s>
+<s> i have tried plugging in a usb keyboard and a usb mouse in all but at boot in cmos it says &quot;no keyboard detected&quot; then &quot;no mouse detected&quot;.  </s>
+<s> it then proceeds to the windows sign on screen wanting a password.  </s>
+<s> i know the password but unable to enter or by pass the screen because keyboard and mouse are not recognized.  </s>
+<s> any ideas?  </s>
+<s> they must have had a working k and m to install so ask them what works.  </s>
+<s> bob i did your suggestion first.unable  </s>
+<s> to find the origional builder, that's why it was given to me.  </s>
+<s> would installing a pci usb card work or do i need to get past the sign on screen first?  </s>
+<s> try some ps2 keyboard and in the bios set the usb keyboard support to enabled.  </s>
+<s> bob! as i stated this machine was custom built without any ps/2 connectors.  </s>
+<s> i can't very well plug in a ps/2 keyboard without a place to plug it in.  </s>
+<s> or has some dell board (you have to reveal details like that.) you might consider recycling parts into a new machine that works.  </s>
+<s> who's to say that all the usb ports are blown?  </s>
+<s> and no, an usb pci card rarely works in this sort of blown board issue.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> i appreciate you expert opinion.  </s>
+<s> 1. reset the cmos with that jumper, etc. 2. beg, borrow a dell usb keyboard.  </s>
+<s> 3. just the usb keyboard.  </s>
+<s> no other devices.  </s>

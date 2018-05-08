@@ -1,0 +1,45 @@
+<s> i just upgraded to an ati x700 pro and can't figure out the bios menu (i can get to the bios - i just don't understand it).  </s>
+<s> there's no specific mention of on-board video that i can see (just a bunch of bios acronyms).  </s>
+<s> obviously, i'm no computer expert and would appreciate if someone could tell me exactly how to disable the on-board video on this machine.  </s>
+<s> it's a stock machine from circuit city, so all stock system information applies.  </s>
+<s> thanks, in advance!  </s>
+<s> first off dont put in the card yet.  </s>
+<s> boot to ur desktop then go to control panel.  </s>
+<s> go to system and hardware then device manager.  </s>
+<s> go to display adapter and right click on whatever is there and click disable.  </s>
+<s> once uve done dis...shut down.  </s>
+<s> open ur case then install the new gfx card.  </s>
+<s> then follow instructions from card manufacturer.  </s>
+<s> also just out of curiosity, y did u go with an ati x700 when a nvidia 6600gt performs better and is cheaper.  </s>
+<s> you mentioned why he was using an x700 vs an nvidia 6600gt.  </s>
+<s> both emachines and the mobo manufacturer, msi, strongly recommend that any video card installed should be ati based and not nvidia!  </s>
+<s> i already put the x700 in.  </s>
+<s> what should i do now?  </s>
+<s> i believe you can still disable it using nerdyboy's instructions.  </s>
+<s> worst case may be having to reinstall the x700:)  </s>
+<s> &quot;you mentioned why he was using an x700 vs an nvidia 6600gt.  </s>
+<s> both emachines and the mobo manufacturer, msi, strongly recommend that any video card installed should be ati based and not nvidia!&quot; all manufacturers will recommend you not to install a nvidia card in a machine with ati graphics (integrated/card), and the reverse.  </s>
+<s> someone has already installed a 6600gt in the emachines t6212 without a problem on this forum.  </s>
+<s> there's no problem with using a nvidia card in a ati chipset/reverse.  </s>
+<s> roger  </s>
+<s> should also be noted a slight bias since the mobo msi rs480m2-il (7093) has the ati radeon integrated (on board) graphics, so naturally puts in the box (as other have indicated) a discount coupon for an ati pcie graphics card. the mobo has a pci-express x16 graphics slot and can accept a nvidia pci-express card which should perform without any problems.  </s>
+<s> john robie, i respect your posts here.  </s>
+<s> you always prove to be well researched.  </s>
+<s> however, i will never post a suggestion that goes against a manufacturers recommendations while it is still under warranty.  </s>
+<s> the ati x700 is a very good card and for the marginal difference between it and the nvidia, why go against manufacturer recommendations?  </s>
+<s> i own a recently purchased t6212, the same as mentioned in the &quot;disable onboard graphics&quot; question and have added 1 gig of corsair dual channel memory and an ati based abit rx600pro.  </s>
+<s> i have not tried to o/clock and i have yet to find something the video can't do and my card is one step below the x700!  </s>
+<s> i watch streaming video and do video editing and the x600pro is perfect. the x700 goes one better.  </s>
+<s> keith.  </s>
+<s> have indicated several times the t6212 is a good buy for the $ and was one of the first to recommed it on these cnet forums. the ati x600pro and x700 video cards are fine cards and beats the heck out of the ati 300 cards that dell was giving as standard for some of their computers.  </s>
+<s> i personally would not argue that the 6600gt is a better card than the x700.  </s>
+<s> it is natural that a recommendation for a ati card would be made because of the motherboard having ati integrated (on board) graphics.  </s>
+<s> the majority of integrated graphics on modern computers are intel and i have never heard of those pc's recommending nvidia cards.  </s>
+<s> you do, however have a good point concerning the warranty, and would be something to check out with emachine.  </s>
+<s> one of my older computers is a emachine that i have never had trouble with.  </s>
+<s> i took one of best buy's lowest cost add on warranties at the time of purchase, and had one of their 'geek' guys install upgrades inside before i took the pc home for the wife.  </s>
+<s> control panel&gt; add remove programs&gt; uninstall ati software utility.  </s>
+<s> after i did this, everything was gone.  </s>
+<s> i have the gateway 827gm which has the same mother board.  </s>
+<s> i contemplated with installing a nvidia card but opted against it and installed the x700 pro.  </s>
+<s> no complaints and no headaches so far.  </s>

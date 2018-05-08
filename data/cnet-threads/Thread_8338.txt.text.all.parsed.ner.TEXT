@@ -1,0 +1,15 @@
+<s> hi,i've had a problem several times in the past where i'm trying to move or save files to my freecom ext hard drive and i get the message &quot;disc full&quot;.when  </s>
+<s> checking this i find i have in fact still got 32gb of free space.  </s>
+<s> can anyone help me shed some light on this please,thanks-john  </s>
+<s> if so, the top directory can be full.  </s>
+<s> fix?  </s>
+<s> use subdirectories.  </s>
+<s> also, a fat32 drive can't hold a file over 4gb in size.  </s>
+<s> no fix is planned.  </s>
+<s> bob  </s>
+<s> thanks for the reply bob,no its ntfs,though i dont really understand that.  </s>
+<s> what i did in the end was to transfer everything on that drive to another then format the drive in question and now it seems to hold whatever i put in(up to its capacity of course) it really puzzles me that this should happen so thanks for any input--john  </s>
+<s> even though ntfs sidesteps that number, some applications can't handle too many files in the root or top directory.  </s>
+<s> but it looks like it was corrupted somehow.  </s>
+<s> did you try chdksk on it?  </s>
+<s> bob  </s>

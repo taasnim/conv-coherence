@@ -1,0 +1,18 @@
+<s> we purchased a buffalo technology 500gb linkstation live bth hsdh500gl and want to set it up with our linksys wrt54g v8 router.  </s>
+<s> however, there have been numerous problems setting up the buffalo drive, the latest being that there is no indication the router even &quot;knows&quot; it is connected.  </s>
+<s> does anyone have any suggestions?  </s>
+<s> &quot;setup: plug into a power supply and connect to the router using an ethernet cable, and the box is up and running. the installation software failed to find the device but after manual setup it now correctly reports host name (user defined name for nas device), workgroup, ip address, subnet mask, mac address, firmware version and how much space is being used on the device.  </s>
+<s> there is a download to correct this problem on the buffalotech website.  </s>
+<s> &quot; seems as-is it's not ready for the market.  </s>
+<s> why do companies continue to ship carp?  </s>
+<s> the previous respondent seems to be referring to a different buffalo drive, possibly the one cnet recently reviewed?  </s>
+<s> we got the help we needed from linksys after several back-and-forth emails.  </s>
+<s> basically, linksys walked us through logging in to the router's setup page online (type in the router's ip address in a browser's address bar) and how to locate the attached drives' ip addresses (go to the status page and click on the &quot;local network&quot; tab, then click on &quot;dhcp client table&quot; at the bottom).  </s>
+<s> if there is more than one ip address in addition to the router's, which linksys provides, first ping the ip address from a command prompt, and then type in the ip address in a browser address bar.  </s>
+<s> you should get a login screen for the device in question.  </s>
+<s> we are now waiting for buffalo to help us with their product.  </s>
+<s> if and when we hear from them, we will post the information here.  </s>
+<s> i didn't note the source since it was a cnet or affiliate web site.  </s>
+<s> but it was about a linkstation live so i just shared it as fodder or incentive to call them and ask for a fix.  </s>
+<s> -&gt; your reply seems to note this product is still not ready for the market and they have no ready cure.  </s>
+<s> bob  </s>

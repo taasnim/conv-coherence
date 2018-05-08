@@ -1,0 +1,14 @@
+<s> sometimes when the games are running for long , or while using dvd, pc just restarts.  </s>
+<s> computer works with single hard drive ,i tried using 2 hard drives, but computer didn't start, or sometimes starts and gives delayed write failed error.  </s>
+<s> my current specs processor : core 2 duo e4400 ram : 3 gb ddr2 motherboard : gigabyte s series : 945 hard disk (2) : 1000 gb sata 160 gb sata (currently disconnected) gpu : nvidia 8800 gt (512 mb) dvd :- 1 read/write lan card.  </s>
+<s> : 1 psu : 400 w.  </s>
+<s> os - windows 7. everything was fine when i had a a single 160 gb hard disk & 1gb ram with windows xp. i checked a few psu calculator sites but i don't quite get the idea.  </s>
+<s> what problem could it be?  </s>
+<s> thanks for you valuable suggestions and help.  </s>
+<s> exactly which 400w psu do you have ?  </s>
+<s> vapcmd  </s>
+<s> the 8800 line is all over the map for power draw. the one thing you learn is when there is any chance of not enough power you do not hesitate to bump up the psu by 100 or 200 watts.  </s>
+<s> bob  </s>
+<s> that was definitely the psu.  </s>
+<s> i had it replaced with a 600w one & it worked.  </s>
+<s> looks like the 1tb hard disk wasn't getting sufficient power from it.  </s>

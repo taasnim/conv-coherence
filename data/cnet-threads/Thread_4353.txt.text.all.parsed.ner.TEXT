@@ -1,0 +1,37 @@
+<s> i am using this lenovo pc for some 2 years now.  </s>
+<s> the specs are as follows: intel celeron cpu speed 2.66 ghz ram 1.27 gb ms os sp2 bios type phoenix-award v6.00pg bios updated on 11/10/06 bios id grantsdale 6a 79dfkjc-00 at times when i boot up the pc, i would hear 2 beeps and cmos checksum error appears.  </s>
+<s> then i have to press f1 and reset the date/time and press f10 when i am done. the pc then boots up normally. the next time when i boot up again after switching on the power, the same thing happens. the date goes back to 1/1/2003 and time is 0:0:0.  </s>
+<s> i have to reset this again.  </s>
+<s> i have tried changing to a new cpu battery but the problem still remains.  </s>
+<s> i have not install any new hardware expect increasing the ram by another 1gb.  </s>
+<s> i have also tried removing the new ram card and conducted an anti-virus scan.  </s>
+<s> problem still not solved.  </s>
+<s> and the thing that frustrates me is that this happens intermittently.  </s>
+<s> i have not try the jumpers yet, cause i do not know how or where the jumpers are. is it necessary to do so?  </s>
+<s> what would be the pros and cons to adjust the jumpers?  </s>
+<s> thanks and pls help!!!! sk  </s>
+<s> other causes i've found for this issue.  </s>
+<s> 1. type &quot;bad caps&quot; at google.com 2. i fixed a few by putting in a new power supply.  </s>
+<s> there is some cmos reset or pwd reset jumpers on boards, which i will not write at length about.  </s>
+<s> i use those to reset the cmos values and then setup the values again.  </s>
+<s> rarely fixes the issue.  </s>
+<s> worse case issue? the motherboard has failed in some odd way.  </s>
+<s> bob  </s>
+<s> hi bob, thanks for the advise.  </s>
+<s> i have tried replacing the power supply box but now the pc just wouldn't boot up. the hdd led light just kept on flashing but nothing happened.  </s>
+<s> so i hooked back the old power supply box and back to my old problem (cmos checksum error).  </s>
+<s> i have also did an &quot;eye-ball&quot; check on the caps like you said, all seems ok. no bulgging or leaking caps.  </s>
+<s> any suggestions with regards to the power box replacement?  </s>
+<s> thanks sk  </s>
+<s> missing a connection.  </s>
+<s> many owners don't change them often and can't get the connections on proper.  </s>
+<s> others will omit an atx12v connection.  </s>
+<s> sadly if a new cmos battery doesn't cure it and you measured that battery with a volt meter to be sure it's good then the board looks to have failed.  </s>
+<s> bob  </s>
+<s> ya bob i thick the mobo has failed me.  </s>
+<s> well that goes to show that lenovo has failed me too.  </s>
+<s> just less then 2 years usage.  </s>
+<s> my other older acer is already 5 years and my son is still happily playing his online games and does his homework on it.  </s>
+<s> well i guess i will get a new cpu and this time i will make sure its not a lenovo.  </s>
+<s> thanks bod for all your quick responds by the way i think this forum is cool.  </s>
+<s> cheers james  </s>

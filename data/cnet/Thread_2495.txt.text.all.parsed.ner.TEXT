@@ -1,0 +1,21 @@
+<s> i am attampting to fix a friend's win 98se pc (ibm aptiva model). the pc previously was on a network and had internet access through the nic.  </s>
+<s> presently it is a stand alone unit and we were attempting to gain internet access (aol) via the modem.  </s>
+<s> i could not even get windows to acknowledge that the pc had a modem.  </s>
+<s> i purchased a new one (internal card), installed it, and now windows sees it but i get a port error message - can't open port when attempting to use it.  </s>
+<s> i have tried the modem in two different slots (com2 and com3), but get the port message in both instances. the com2 port/slot was where the original modem was.  </s>
+<s> how can i determine what might be conflicting with the new modem on these ports / slots?  </s>
+<s> what can i do to get around this?  </s>
+<s> love to comment, but nothing about if this was an isa modem or if you loaded &quot;drivers&quot; for the modem.  </s>
+<s> one thing that gets many is that the dial up connectoid (hint, use google.com for that word) may need to be deleted and recreated.  </s>
+<s> but that's a software issue you can take up in the os forum.  </s>
+<s> as to com 2, you'll want an isa card set to irq 3 and any other serial port at this address disabled.  </s>
+<s> i don't suggest com3 or 4. bob  </s>
+<s> yes, it is an isa modem and yes, drivers were loaded from the disk that came with the modem card.  </s>
+<s> i am not familiar on how to change irq's or how to disable any other serial post at the com2 address.  </s>
+<s> help?  </s>
+<s> &quot;i am not familiar on how to change irq's or how to disable any other serial post at the com2 address.&quot;  </s>
+<s> such information comes with the modem.  </s>
+<s> i don't have your modem manual so i can only use the general statements.  </s>
+<s> isa will be very tough on end users.  </s>
+<s> many to the point of getting a new machine.  </s>
+<s> bob  </s>

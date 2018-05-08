@@ -1,0 +1,29 @@
+<s> my iomega ldhd-up2, 2tb, external hard drive works fine when i plug it in and the files (mainly videos) run properly.  </s>
+<s> i have divided my 2tb into two partitions (let's say u drive &amp; me drive), nearly 1tb each.  </s>
+<s> both the partition is formatted as ntfs. the problem is that the me drive that has all videos, about 10gb, does not copy files properly anymore.  </s>
+<s> any file size over 500mb will start copying and eventually the copying speed rate decreases dramatically, most of the times from 100mb/s to 2mb/s, and just stops without moving any further when it's about 10 - 20 sec left to complete the transfer of data (videos).  </s>
+<s> i have tried waiting for the completion of data transfer for more than 5 hours for just 1.5gb file. the light on the external hard drive blinks very fast and stops blinking randomly when the transfer stops/ freezes.  </s>
+<s> to fix this problem i have tried defragmentation of the me drive, tried usb update, tired error-checking, virus scan for both the drives (u &amp; me) and also recently copied all my 10gb worth or data on to my desktop, formatted the me drive again with ntfs and copied back all the files.  </s>
+<s> it was working fine until i copied all the files but then soon after a day passed by the same problem occurred in the me drive.  </s>
+<s> since the transfer of data stops, i try to cancel the transfer, its loads for 2+ hours and does not close/ cancel.  </s>
+<s> this leads me to unplug the usb from my computer without ejecting the drive.  </s>
+<s> meanwhile the u drive with just about 5gb of data works perfectly fine when copying big media files is it because of the space used?  </s>
+<s> even then i have about 980gb of free space on my me drive!  </s>
+<s> my computer configuration: windows 7 home premium 64-bit 650 intel core i5 processor 8gb ddr3 nvidia geforce gt320 1024mb so please if anyone had any solutions or suggestions for my problems i'll be so thankful for you...  </s>
+<s> i'd run chkdsk and let it check for and attempt repair of bad sectors.  </s>
+<s> good luck.  </s>
+<s> add a note about backup before that step.  </s>
+<s> as the drive may have an issue, chkdsk may push it over the cliff before they had a chance to save their files.  </s>
+<s> bob  </s>
+<s> just now i finished with the checking disk and also defragmentation, but the problem still occurs.  </s>
+<s> it copies to a certain limit and it freezes, light on the hdd blinking very fast, the &quot;time remaining&quot; says &quot;calculating...&quot; and the &quot;speed&quot; stays as 135mb/sec without any change.  </s>
+<s> from seagate or western digital.  </s>
+<s> they have some good ones.  </s>
+<s> if you should buy another external hard drive, i'd recommend one of those two brands.  </s>
+<s> good luck.  </s>
+<s> we know there are limits to the file count in the root directory.  </s>
+<s> we also know that as you put more and more files in a folder the speed steps down every 250 or 500 files.  </s>
+<s> there's a lesson there.  </s>
+<s> an old one.  </s>
+<s> do the disk test after you have your files safe.  </s>
+<s> bob  </s>

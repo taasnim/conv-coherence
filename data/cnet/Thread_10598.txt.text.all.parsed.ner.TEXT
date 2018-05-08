@@ -1,0 +1,30 @@
+<s> i have a dell desktop pc. it's a celeron 2.4ghz, with 768mb ram, windows xp home.  </s>
+<s> i've installed a cicero pci firewire card into one of the 3 pci slots.  </s>
+<s> upon bootup, the drivers seem to install but under device manager, it simply says under the card that &quot;the device could not start.&quot;  </s>
+<s> i thought that maybe the card was sharing the same irq as something else, so i swapped it positions with the adjacent ethernet card.  </s>
+<s> same problem still occurs, yet the ethernet card works fine in both slots. the card is fairly old and i can't find specific drivers for it, though i've read that it works with standard texas instruments drivers, which is what i already have installed.  </s>
+<s> is there any other course of action i should try taking before i smash this card with a hammer?  </s>
+<s> you wouldn't be the first to have issues with it.  </s>
+<s> blaisadam: im at dell headquarters in austin, texas and i just came across the thread.  </s>
+<s> i'm sorry to hear you're having trouble with this. if you're certain the slot is good and you cant get it to work with the latest bios and any of the drivers you come across i would give up and pursue returning the card.  </s>
+<s> if you have any questions feel free to contact me.  </s>
+<s> neil dell, inc.  </s>
+<s> neil@dell.com  </s>
+<s> well, i bought a brand new pci firewire card today (an ngear) and it's giving me the same problem!!! i did some more searching and i've discovered that the problem is windows xp sp2. the new sp2 drivers somehow don't work.  </s>
+<s> i tried a workaround that i found somewhere that uses the sp1 drivers instead.  </s>
+<s> doing this, the card shows up fine now in the device manager (no more &quot;device will not start&quot;) but there's still one problem... the card won't work! i plugged in my camera and nothing happened, tried to add the camera through the control panel, it didn't detect it... there has to be some type of workaround for this.  </s>
+<s> i will keep trying, but any help would be appreciated.  </s>
+<s> i don't see which system you have so i can't suggest which i'd install.  </s>
+<s> why did you leave out the details?  </s>
+<s> (you don't have to answer that...) bob  </s>
+<s> the computer's hard drive hasn't been formatted since we got it.  </s>
+<s> would dell really ship something with missing drivers?  </s>
+<s> oh wait... maybe they would...  </s>
+<s> someone accepts a driver from windows update.  </s>
+<s> too bad you didn't tell the model number so i could share the driver(s) i would use.  </s>
+<s> so while it may ship with drivers, these can be replaced or &quot;old&quot;.  </s>
+<s> bob  </s>
+<s> well, after 2 and 1/2 hours on the phone with dell tech support (canada), the problem is finally solved.  </s>
+<s> it wasn't working because of the way the devices were installed in the pci slots. the initial (bad) setup was: slot 1 ---&gt; d-link wifi card slot 2 ---&gt; firewire card slot 3 ---&gt; 56k modem after some mixing and matching, the configuration that finally worked was: slot 1 ---&gt; firewire card slot 2 ---&gt; empty slot 3 ---&gt; d-link wifi card i never use the 56k modem (who does?) so we got rid of that.  </s>
+<s> we figure the modem had some kind of conflict with something else.  </s>
+<s> before doing this, we updated the bios, chipset drivers and installed a patch from microsoft that had to with enabling 1394 enumeration. the system is a dell dimension 2400.  </s>

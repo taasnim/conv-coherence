@@ -1,0 +1,21 @@
+<s> i'm curious if a gigabyte ga-ep45-ud3p lga 775 intel p45 atx intel motherboard would be compatible with an intel xeon x3370 yorkfield 3.0ghz 12mb l2 cache lga 775 95w quad-core server processor.  </s>
+<s> i have researched their fsbs and they can run at a frequency of 1333mhz. the motherboard has others it can at it's max is 1333mhz and is the same rate as the xeons frequency, also the motherboard can run quad-core chip sets. the lga is the same as already indicated.  </s>
+<s> i'm positive even though the cpu is a server cpu type that it will fit and run on a desktop motherboard.  </s>
+<s> i'm i correct or is this impossible?  </s>
+<s> the only difference between a xeon and core2quad is the xeon has a bit of microcode that allows it be used in a dual socket mobo.  </s>
+<s> otherwise the x3370 is the same chip as the q9650.  </s>
+<s> your gigabyte mobo will handle that xeon fine.  </s>
+<s> thanks man.  </s>
+<s> it not being on the list of the manufacture pages cpu support info made me a little skeptical about it.  </s>
+<s> so that difference in the electrode is not critical it will work fine.  </s>
+<s> that's good!  </s>
+<s> i posted on other forums as well about this to get input and website references.  </s>
+<s> i heard the xeon is considered a core2 quad on yahoo answers by a person that replied.  </s>
+<s> i mean microcode.  </s>
+<s> whoops i had the word electrode in my head for some reason while typing.  </s>
+<s> so i can guarantee it works.  </s>
+<s> hmm.. then i shouldn't have an issue with it then at all.  </s>
+<s> but the difference between the xeon x3370 and the core2 q9650 are not very different at all.  </s>
+<s> so in benchmarks for handling 3d applications like maya must be talking about the more workstation xeons for server boards that hardcore 3d animators use for their renderfarms.  </s>
+<s> thanks again, i think i may consider the q9650 over the xeon, the only difference is the microcode and l1 and l2 cache speeds.  </s>
+<s> other than that i believe they are the same.  </s>

@@ -1,0 +1,29 @@
+<s> hello, i just recently purchased a new samsung 80 gig hard drive and did a clean win 2000 install on it, however once i was done and checked in my computer and looked at the c: drive it says it only has a capactiy of 7.82 gigs, also when i did the install i chose to use ntfs but it says im using fat file system, is this a reason for the missing size? the computer is an hp x86 with 32 kb ram.  </s>
+<s> your using the old fat 16 format.  </s>
+<s> you must choose to use the large file system.  </s>
+<s> which will be fat32 or ntfs.  </s>
+<s> also, 2000 requires at least 128 megs of ram.  </s>
+<s> your using the fat 16 file system.  </s>
+<s> you must choose to use large file system in the beginning.  </s>
+<s> which would be fat32 or ntfs.  </s>
+<s> you also need at least 128 megs of ram for 2000.  </s>
+<s> is there a way to change this now or do i have to do a complete reinstall?  </s>
+<s> btw i didi choose to use ntfs so i have no clue to what happened  </s>
+<s> is to start over.  </s>
+<s> did you use a disk to format your drive besides 2000?  </s>
+<s> you should of recieved another disk with your new drive.  </s>
+<s> you can also use a old 98 or me startup disk and boot to dos and type fdisk.  </s>
+<s> choose large disk format, delete partition then make new.  </s>
+<s> you would need to go into your bios first and change to floppy boot first.  </s>
+<s> file system issue: fat16 has a hard limit of 2gb in 9x and 4 gb in nt based oses.  </s>
+<s> it is not fat 16. probably fat32.  </s>
+<s> from a run line type &quot;convert c:&quot;(or d: or whatever)&quot; /fs:ntfs&quot; to convert to ntfs.  </s>
+<s> size: is it 7.82 or 78.2 ?  </s>
+<s> computers think in a base 2 system, so where we think 1000 mbs to a gb they think 1024.  </s>
+<s> so reporting is usally off because that.  </s>
+<s> after i make new partition what do i do, i trie to format from dos but couldnt so i used win 98 cd because i do not have enough memory to run win 2000 and the hard drive still only came up showing 7.82 gig's.  </s>
+<s> btw the option i was to choose when it was time to make new partition was make primary dos partition correct?  </s>
+<s> ok i have figured out the formatting and partitioning issues...(thx for the help) but no matter what i do and i chose large disk support and everything as instructed but it still is only showing as it's an 8 gig hard ddrive instead of 80, im at wits end and dont know what to do to get it to use all of my disk space  </s>
+<s> from what i can tell you have a many year old machine with a bios that may not understand large drives.  </s>
+<s> you'll want to try some 32gb drive, then under 64gb drive to see where its limit is.  </s>
+<s> bob  </s>

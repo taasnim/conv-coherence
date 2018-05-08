@@ -1,0 +1,9 @@
+<s> what is the difference between quad core and dual core?  </s>
+<s> i would think a pentium d quad core processor would be better than an intel core 2 duo but it seems like it isn't?  </s>
+<s> how is that?  </s>
+<s> quad cores have 4 cpus; dual cores have 2 cpus.  </s>
+<s> pentium ds are dual core versions of the pentium 4; there is no pentium d quad core. the core2 cpu is a different design than a p4 and has more compute performance at a lower clock speed.  </s>
+<s> so a 2ghz core2 cpu can outperform a 3ghz p4 in most applications.  </s>
+<s> core2 is available as dual core and quad core chips.  </s>
+<s> quad core cpus have four physical cores, while dual core cpus have two physical cores, both comprise a single cpu.  </s>
+<s> as has been said, pentium d is the dual core rendition of the pentium 4, using the smithfield and presler cores, while core 2 duo and core 2 quad are p6 derived and much more efficient in terms of fp performance and memory efficiency, which increases overall performance. the advantage to multi-core cpus is the ability for the cpu to do more than one thing at a time, which increases system performance (it is not 2.0x, or anywhere near 2.0x), and allows more complex calculations to be completed, which means a quad core can do more than a dual core, however this ability to do more won't usually manifest performance increases in situations where it can't be utilized (just because you have a ferrari doesn't mean your daily drive is any shorter).  </s>

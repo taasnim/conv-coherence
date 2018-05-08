@@ -1,0 +1,16 @@
+                                    TIME 1 1 0 0 0 1 0 0 1
+                                     ONE 0 0 0 0 0 1 0 2 1
+                                  VAPCMD 0 0 1 0 0 0 0 0 1
+                                    MOBO 0 0 0 0 0 0 0 1 1
+                               EXPANSION 0 0 0 0 0 1 0 0 1
+                                    FACT 1 0 0 0 0 1 0 0 1
+                                    RATE 0 1 0 0 0 1 0 1 1
+                                HEATSINK 0 0 0 0 0 0 0 1 1
+                                   METAL 0 0 0 0 0 1 0 0 0
+                                ALUMINUM 0 0 0 0 0 0 0 0 0
+                                   SCREW 0 0 0 0 0 1 0 1 1
+                                   STEEL 0 0 1 0 0 1 0 0 1
+                                  GARAGE 0 0 0 0 0 0 0 1 1
+                                    END. 0 0 0 0 0 0 0 1 1
+                               ALLUMINUM 0 0 0 0 0 0 0 0 0
+                              DIFFERANCE 0 0 0 0 0 0 0 1 1

@@ -1,0 +1,8 @@
+(TOP (S (S (NP (PRP i)) (VP (AUX have) (NP (NP (NP (DT a) (NN maxtor) (CD one) (NN touch)) (NP (NNP ii) (JJ 300gb) (JJ usb) (JJ external) (NNS drive.))) (SBAR (S (NP (DT the) (NN drive)) (VP (VBZ turns) (PRT (RP on)))))))) (CC and) (S (NP (PRP i)) (VP (MD can) (VP (VB feel) (S (NP (DT the) (NN disk)) (ADJP (JJ spinning))) (PP (IN in) (NP (DT the) (NN case)))))) (, ,) (CC but) (S (NP (NNS windows)) (VP (AUX does) (RB not) (VP (VB recognize) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ exists))))))) (. .)) )
+(TOP (NP (NP (DT any) (NNS suggestions)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (AUX do)))))) (. ?)) )
+(TOP (S (VP (VB read) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP you)) (VP (MD 'll) (VP (VB find) (NP (RB almost) (PDT all) (DT the) (NNS suggestions))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (PRP you)) (VP (AUX did) (RB n't) (VP (VP (NN detail) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (AUX did))))) (CC or) (VP (VB tell) (SBAR (IN if) (S (NP (PRP$ your) (NN xp)) (VP (AUX has) (NP (NP (NNS sp1)) (SBAR (WHNP (WDT which)) (S (VP (AUX is) (VP (VBN needed) (PP (IN for) (NP (NP (JJ such)) (SBAR (S (VP (TO to) (VP (VB show)))))))))))))))))) (. .)) )
+(TOP (NP (NP (NN -&gt)) (: ;) (S (ADVP (RB sorry)) (, ,) (CC but) (S (NP (NP (DT this)) (CC and) (NP (DT the) (JJ other) (JJ fine) (NNS suggestions))) (VP (AUX do) (VP (VB apply) (PP (TO to) (NP (DT this) (NN issue))))))) (. .)) )
+(TOP (S (NP (PRP$ your) (NNS posts)) (VP (AUX do) (RB n't) (VP (VB reveal) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (PRP$ your) (NN issue)) (VP (NNS lies)))) (CC or) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (AUX 've) (VP (AUX done)))))))) (. .)) )
+(TOP (NP (NNP bob)) )

@@ -1,0 +1,26 @@
+<s> hi everybody, i hope someone can help me with this problem,i bought the above hdd sometime ago on ebay.  </s>
+<s> if stats are checked on this drive it should be 20gb capacity,but i have tried everthing i know (and all it reads in bios/or win98se is 10gb capacity. the things i have tried are 1.changed from auto to user setting in bios and put in all drive data,but wont accept it.  </s>
+<s> 2.used seagate tools and zero filled drive..then repartitioned(fdisk)and formatted drive to largest size and even seagate(manager)only sees drive as 10gb.  </s>
+<s> as above drive is a (oem version)which i think was for compaq as it has a label on it saying(replace with compaq spare 192058 - 001)...i am beginning to wonder if it is possible the drive has somehow been altered, either by seagate themselves for compaq or compaq to 10gb.  </s>
+<s> i would grateful to hear some of your opinions on the above,as i have found it impossible to get drive back to its original capacity of 20gb?? just for the record i got the drive for less than half price from ebay seller when i complained about it as he was selling as a 20gb.  </s>
+<s> cheers, crowngreen2  </s>
+<s> compaq needs to have spares that install and work just like the old drives.  </s>
+<s> as such, compaq may ask seagate to install a firmware on the drive to make it look, act, respond just like the old model.  </s>
+<s> finds it's a 10g so you have a true compaq spare.  </s>
+<s> no. there is no known way to undo the change.  </s>
+<s> bob  </s>
+<s> hi bob, it was just as i thought but but i am grateful for the confirmation.  </s>
+<s> as you said it has been altered by seagate for compaq from 20gb to 10gb and i now know its a compaq spare.  </s>
+<s> but as it is a good drive and works perfectly i cant comlain to much as i got for 10 after bartering and i only use it as a spare anyway.  </s>
+<s> do you think it would be dodgy if i eventually tried to sell it as a 10gb,(bearing in mind buyers would know drive has been altered?)as it is in perfect condition.  </s>
+<s> anyway thanks for all your help it was appreciated.  </s>
+<s> tom  </s>
+<s> this area of spares can be confusing to the uninitiated.  </s>
+<s> but as long as you sell it as a 10gb compaq spare with that part number, i don't see any issue.  </s>
+<s> bob  </s>
+<s> i've got the same drive with the same compaq replacement number on it.  </s>
+<s> you are right in that the drive is an oem manufacure for compaq as entering the serial number in the seagate support site says it is an oem disk and support is provided by the oem (compaq in this case). the compaq definition of part number 192058-001 seems to be a 10gb ata66 ultraquiet drive and they (compaq)seem to have had an alteration made to the drive to make it behave like a 10gb disk.  </s>
+<s> (very wasteful in my opinion making a 20gb drive act like a 10gb drive).  </s>
+<s> i have gone a little further in trying to get it reset to 20gb but without sucess so far.  </s>
+<s> i have tried upgrading the disk's firmware to the latest version and performing a low level format using seagate's sgatfmt4 utility. the format fails when it tries to access areas of the disk that lie outside of 10gb.  </s>
+<s> anyone else got any ideas?  </s>

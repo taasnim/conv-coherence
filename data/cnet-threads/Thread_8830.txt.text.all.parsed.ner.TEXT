@@ -1,0 +1,10 @@
+<s> hi i recently got a tl-r470t+ i got it running with one modem with a dd-wrt router hooked up with it.  </s>
+<s> i'm trying to get my pepwave on the go to help speed up the internet a bit my neighbor let me use his wifi .  </s>
+<s> so i'm trying to hook up both to work and i can't seem to get it to work. the pepwave and the modem work well by them selves but i cant get both of them to work.  </s>
+<s> can i get some help please.  </s>
+<s> it's not clear from your post.  </s>
+<s> hard to answer generic problems like this. the short answer is you have to read the manual and configure you r470.  </s>
+<s> there is no standard solution for load balancing, each vendor does it their own way.  </s>
+<s> i suspect you need to make sure your ip addresses blocks are not overlapping.  </s>
+<s> as general comment...internet speed will not increase just because you use this. the only thing it can fix is if you were at 100% utilization of your primary link and you were going to offload traffic to the neighbors.  </s>
+<s> you cannot combine the circuits to increase the bandwidth just by placing a box on one end.  </s>

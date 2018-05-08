@@ -1,0 +1,56 @@
+<s> right now i have my spare hdd in an enclosure plugged into my laptop, and easiest way to say it is the wheel's spinning but the hamster is dead.  </s>
+<s> my laptop is picking up the usb connection, but i'm not able to access the drive itself.  </s>
+<s> i hear a disk spinning but it use to spin up and stop a lot before, now its just steady.  </s>
+<s> i think this might have been caused by a premature power off.  </s>
+<s> i was hibernating my laptop for the night, and just hit the power switch on the drive as well.  </s>
+<s> there shouldn't have been any transmitting activity but i might have missed something.  </s>
+<s> checking the other threads it seems like there's little to be done.  </s>
+<s> i have no access to an actual desktop at the moment, so i can't check if the disk is really dead or its just the enclosure not working.  </s>
+<s> honestly i might have to just invest in a server box or something at this rate.  </s>
+<s> in other words, you hear the default tone?  </s>
+<s> i'd check in disk manager to see if the drive shows there as unpartitioned space.  </s>
+<s> if so, that could account for it's disappearance in explorer because it would have no drive letter.  </s>
+<s> if not, and you have a pc available, you can remove the drive and connect it to a motherboard port to see if it shows there.  </s>
+<s> if you care to go one step further and know the drive's manufacturer, you can try to download their diagnostic utility to see if it can find and test the drive.  </s>
+<s> alright.  </s>
+<s> i don't have a desktop on me, so where can i find disk manager?  </s>
+<s> i remember it from somewhere, but its been a while.  </s>
+<s> if you don't know who the manufacturer is, you need to remove it from the enclosure to look. it should have the model as well.  </s>
+<s> you need to go to that manufacturer's web site and look for their diagnostics disk.  </s>
+<s> it may take some searching.  </s>
+<s> if you have difficulty and can post the brand and model here, i'm sure someone here can dig up a link for you.  </s>
+<s> these generally download as an executable that can create a bootable floppy or cd rom disk.  </s>
+<s> you boot this disk with the suspect hd attached.  </s>
+<s> if the utility detects a controller that it can deal with, it will display it.  </s>
+<s> there should be a variety of testing options available but, since each manufacturer has their own utility, i can't direct you specifically as to what these are.  </s>
+<s> i know that wd, seagate, and hitachi have fairly good utilities but there are some that are limited...i think toshiba might be one of these.  </s>
+<s> as well, if your drive is such as an old maxtor or quantum, these have been taken over by other manufacturers and some utilities are no longer readily available.  </s>
+<s> pull the drive from the enclosure and check its label.  </s>
+<s> good luck.  </s>
+<s> wd600bb.  </s>
+<s> found the downloads on the wd site.  </s>
+<s> got a trial version of partition manager off cnet as well.  </s>
+<s> it sees the drive, and seems to be able to format it.  </s>
+<s> haven't tried since i want to see if i can save this data.  </s>
+<s> well the diagnostic can see the drive, and seems to be able to check it properly.  </s>
+<s> pass the quick scan.  </s>
+<s> running through the extended one right now.  </s>
+<s> now looking at this it might just be a vista thing.  </s>
+<s> which doesn't help since i have nothing else to work off of.  </s>
+<s> so i guess this means the drive works, and the enclosure works to some degree.  </s>
+<s> so i guess what's left is test this on another computer, probably at least with a mobo.  </s>
+<s> you might experiment with the jumpers.  </s>
+<s> since there's only one possible connection, i've seen these get confused if set to master or slave.  </s>
+<s> try cs if you've not done so already.  </s>
+<s> well i'm under the impression that if the jumper is set to anything not listed under the choices, it defaults to cs. i think i'll try it without the jumper.  </s>
+<s> just plugged the external w/ usb to another laptop, still being detected alright but still no drive.  </s>
+<s> so it looks like it might be something wrong when i turned it off last time.  </s>
+<s> i'm guessing formatting it through the diag would probably be the only solution at this rate as well?  </s>
+<s> jumper setting was set at just cable select.  </s>
+<s> removing it set it as single.  </s>
+<s> which still didn't work, but misinformed right there.  </s>
+<s> might as well try the other two.  </s>
+<s> okay, after finding out where disk management was (stupid vista), i probably could've learned that the disk was &quot;not initialized.&quot;  </s>
+<s> might've fixed my problem before i decided to use the wd diag to write zeros to the entire disk.  </s>
+<s> course, that is if initializing didn't force you to reformat the drive anyway.  </s>
+<s> just my luck.  </s>

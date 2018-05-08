@@ -1,0 +1,21 @@
+<s> hello, as in my title.  </s>
+<s> i've just built a new windows 7 64bit home prem.  </s>
+<s> machine for use as an htpc, the problems i am having are as follow:- firstly, i should mention that one of the sticks of ram i put in the pc was corrupted which caused all sorts of issues but on removing that a lot cleared up but i am still left with the following issues.  </s>
+<s> (windows memory diagnostic also confirmed this stick has errors).  </s>
+<s> also with the bad stick of ram out i have run the hload (heavy load) stress testing program for in excess of 4 hours with no problems.  </s>
+<s> also when i first powered on the system i had an old copy of windows xp on the hdd which started to load up, could this have somehow corrupted the motherboard as it is specifically designed for win7/vista?  </s>
+<s> problems remaining:- 1. powering on the system from a cold start results in a blank screen (no bios/post screen) then on powering down and trying again it works and proceeds to load windows.  </s>
+<s> 2. when returning from sleep i get similar issues as above, the system hangs before the post screen, but sometimes it works.  </s>
+<s> 3. using windows reset or the motherboard reset button also makes it hang before the post screen 50% of the time. the system specification is as follows:- cpu intel e7500 core2duo 2.93 ghz mobo asus p5g41t-m lx ram ocz gold 4gb (2x2gb) ddr3 pc3-10666c9 1333mhz (of which i am only using one stick as one is faulty according to windows memory diagnostic) graphics card evga geforce gt 430 1024mb gddr3 pci-express tv card hauppauge hvr1700 pci-e hdd western digital 2500ys 250gb sata psu antec 350watt atx dvd drive pioneer oem writer this looks to be a hardware fault, although i could be wrong.  </s>
+<s> my question is, which piece of hardware is it, could it be a bad motherboard or psu, or would doing somthing like reflashing the bios work, or reformatting windows?  </s>
+<s> thankyou for reading my post and any advice you can give!  </s>
+<s> tom.  </s>
+<s> i'd start with the power supply but first i'd ask if it was new or old.  </s>
+<s> at 350 watts you do ok with p3 and some p4 systems that are minimally configured and the ps is in decent shape.  </s>
+<s> the psu is indeed second hand, and from help from someone on another forum i have found that the graphics card needs a 22a 12v rail and this one only has around 17amps.  </s>
+<s> so looks like its a mistake on my part.  </s>
+<s> now i am thinking its the psu it does seem like the symptoms i am describeing are to do with lack of power.  </s>
+<s> thanks for your help steven!  </s>
+<s> i'll keep this forum posted on my progress, i am looking at ordering a 22amp 12vrail 500watt psu now.  </s>
+<s> tom.  </s>
+<s> the 550w psu (link below) comes in at 41a vapcmd  </s>

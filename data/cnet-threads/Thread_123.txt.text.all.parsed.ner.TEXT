@@ -1,0 +1,67 @@
+<s> i want to add an 80g western digital hard drive to my dell, which has a 20g right now.  </s>
+<s> i don't want to replace the 20g...i'm keeping it.  </s>
+<s> so....i'm running xp, and i don't know what the heck they are talking about with the &quot;bios&quot; thing. is this going to be beyond my capabilities? the directions seem fairly straightforward, other than that bios thing.  </s>
+<s> tell me if i'm nuts, and should just pay somebody to do it.  </s>
+<s> i got a great deal on the drive, and was hoping to be self-sufficient, if i could.  </s>
+<s> :-p thanks for your help~ sharon  </s>
+<s> first, is there an available bay in the pc? next, will the mb bios support an 80 gig drive.  </s>
+<s> if &quot;yes&quot; to both, you should be fine in doing it yourself.  </s>
+<s> there is a potential of a power supply issue but 2 drives aren't usually a problem.  </s>
+<s> go for it and good luck.  </s>
+<s> &quot;wd raptor retail hard drive kits western digitals desktop hard drives are available in retail kits that include the hardware, software and step-by-step illustrated instructions needed to quickly and easily install the hard drive.  </s>
+<s> kits over 137 gb also come with a free ultra ata controller card.&quot; - usually, people do just fine.  </s>
+<s> bob  </s>
+<s> thanks s and bob.  </s>
+<s> apparently s didn't read about my ignorance as to the &quot;bios&quot;.  </s>
+<s> i don't even know what that is, much less how to check if my motherboard can handle this.  </s>
+<s> can you guys help me there?  </s>
+<s> how would i check to find out if it can support the new 80g?  </s>
+<s> good point on checking for a slot for the new drive, s. duh...i just assumed it would fit.  </s>
+<s> i swear, sometimes i feel like an idiot.  </s>
+<s> i just assumed there would be room in there...it's a big tower...lol.  </s>
+<s> it's really quite simple.  </s>
+<s> you shouldn't have to change anything in the bios.  </s>
+<s> i had a dell with a 40gb hard drive and i added a 120gb with no problem. the only thing to watch is how you actually connect the second drive.  </s>
+<s> on my drive, the jumper pins were set for the &quot;cable select&quot; method.  </s>
+<s> in fact, i don't think i even had to change the pins on the new drive since most use the cable select method now.  </s>
+<s> unless this machine is very old, the bios issue rarely pops up.  </s>
+<s> being able to run xp or if it came with xp is why i didn't write a word about this issue.  </s>
+<s> bob  </s>
+<s> ahhh...you guys are feeding my confidence now. the machine is only 3 yrs old...that's not too old, right?  </s>
+<s> xp runs great on it, and the new hard drive did say the pins will be set at that cable select setting.  </s>
+<s> so...if i leave the jumper there, the jumper on the 20g should also be set at &quot;cable select&quot;, right?  </s>
+<s> oh, and should i be worrying about my 20g crashing for any reason?  </s>
+<s> i have yet to get my cd-rw up and running again after it died on me...that's another story...ugh...so i don't really have a way to back up the original hard drive.  </s>
+<s> is that too scary?  </s>
+<s> i'd say there's a good chance the old drive will also be cable select.  </s>
+<s> just to make sure, there's a chart at this site: as far as the old drive crashing, unless you've been having trouble with it, i don't see why it would.  </s>
+<s> after you install the second drive, you'll need to format it and then you'll be able to use it as extra storage.  </s>
+<s> thanks for the link and the info, mike.  </s>
+<s> i'm feeling pretty good about trying this now.  </s>
+<s> it should be a fun way to spend a saturday afternoon, right?  </s>
+<s> i appreciate the input from all of you.  </s>
+<s> i love this board!  </s>
+<s> i'll come back and let you know how i do.  </s>
+<s> have a great weekend!  </s>
+<s> sharon  </s>
+<s> there are about 50 step by step articles on how to do it.  </s>
+<s> also take the moderator's advice and go to the western digital site and download their instructions, they are very good on how to physically install and set the jumpers etc. if your drive is different go to the manufacturer's site and get the same.  </s>
+<s> it is easy if you take your time. the bios is firmware/software installed on your motherboard that includes a setup module which you can usually enable by hitting delete or another key (read your manual) during the initial power-on sequence.  </s>
+<s> it is where you tell the system about new devices or it tells you it has recognized new devices (or hasn't) when you add/change key hardware like drives, cdrom, etc.. it has many other functions and you should read your computer manual and learn about them.  </s>
+<s> you should take a moment and consider how you're going to make these drives line up so the cables can reach them.  </s>
+<s> i usually do this: from the top of the case down: master c drive, cd rom, and second hard drive.  </s>
+<s> a lot of cd roms like to be set as master, so i put the primary eide cable to the c: drive, then i put the end of the secondary eide cable to the cd rom and the middle connector to the second hard drive.  </s>
+<s> if all are set to cable select, this will make the cd rom a secondary master and the new drive a secondary slave.  </s>
+<s> i also try to calculate the location of the drives to leave as much space as possible between them for cooling purposes.  </s>
+<s> i say, don't mess with the bios unless absolutely necessary.  </s>
+<s> keep touching the case throughout the procedure to avoid a static electric spark that could kill everything.  </s>
+<s> and unplug it.  </s>
+<s> --fj  </s>
+<s> i have 2 additional hard drives on my computer and suggest the following : 1. my internal hard drive is 160 gb 2. i have an external 60 gb hard drive which is contained in a 5 1/4 &quot;drive enclosure.  </s>
+<s> 3. i also have an additional 27 gb external hard drive that i took out from an old compoter when i installed a new system.  </s>
+<s> a drive enclosure is valuable, as you can install cd-r writers or dvd writers.  </s>
+<s> it is also practical as you do not have to open your cpu and play around with switches, etc. once you have an external hard drive you can move files from the internal to the external with great ease.  </s>
+<s> i hope that i helped you resolve a problem and should you need fyrther assistance, just let me know.  </s>
+<s> if you want to istall a second hard drive you have to set the jumpers on it as slave and then go to the dos prompt and select fdisk.  </s>
+<s> go to number 5 and selrect partition disk.  </s>
+<s> when you reboot there will be a new drive letter.  </s>

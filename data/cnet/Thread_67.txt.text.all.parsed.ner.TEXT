@@ -1,0 +1,14 @@
+<s> isn't all the router speed is measure by bit? for example, router advertises their speed like 11mbps, 54mbps, 128mpbs are they all in bit?  </s>
+<s> also in lan card, they put 10/100 mbps, arent they also in bit?  </s>
+<s> m = mega = 1 million m = milli = 0.001 8 bits = 1 byte mbps = mega bits per second mbps = mega bytes per second the stated speeds of networking equipment are typically in mbps.  </s>
+<s> it's also not uncommon to see gigabit networks (giga = 1 billion).  </s>
+<s> so they are using bits for measure unit because i feel confused that some people are saying megabyte and some megabits.  </s>
+<s> bits is used for transmission speed, bytes is used for connect speed.  </s>
+<s> since all analog data; dial-up, dsl, and cable use an analog signal, yes virginia, these are analog signals, their connect speed is measured in bytes.  </s>
+<s> reason being is that for analog data there is no timing signal for synchronization.  </s>
+<s> each 8 bit byte will have a start bit and a stop bit designating the beginning and end of a word/byte.  </s>
+<s> this is called asynchronous data transmission - no timing sdignal.  </s>
+<s> this gives a total of 10 bits per byte.  </s>
+<s> fully digital data signals have a timing clock running at 1.544 mhz or multiples thereof.  </s>
+<s> thus it will have only 8 bits per byte.  </s>
+<s> wayne wrinkles only go where smiles have been - jb click here to see the cnet faces, learn a little about telephones, internet connections, spyware removal, and download free software.  </s>

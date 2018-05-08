@@ -1,0 +1,15 @@
+<s> i just got a new firm ware update for my wireless router the dlink di 624 and it has wpa and wpa2 but my brother has a netgear pci card wg311 and i dont know if i can have this kind of security my question is does the pci card have firmware or will i just have to use wep  </s>
+<s> is the place to look.  </s>
+<s> as far as security, each network has it's own needs.  </s>
+<s> an apartment environment may need the beefier security of wpa, while a private country estate may need mac filtering at best. the choice is yours.  </s>
+<s> my question is that does the pci card have the other security to use wpa and do pci's have firms ware  </s>
+<s> on page 3-10.  </s>
+<s> any change to the cards security function would come through a software program update, not firmware.  </s>
+<s> as this is an older card, i would guess netgear is leaving this one alone and hoping you will buy a newer card.  </s>
+<s> comes under the heading of &quot;use the internet to its fullest advantage.&quot;  </s>
+<s> d-link isn't the only manufacturer that has figured out how to provide useful information.  </s>
+<s> netgear has information on their website too.  </s>
+<s> a cursory look reveals that there are 3 different versions of the wg311 card, but you have to look at the serial number of yours to determine which it is.  </s>
+<s> one of them has a new driver that will support wpa, the others apparently won't.  </s>
+<s> enough hints from us, you know where to look for the rest.  </s>
+<s> dw  </s>

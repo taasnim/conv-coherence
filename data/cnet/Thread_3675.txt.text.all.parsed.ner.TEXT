@@ -1,0 +1,42 @@
+<s> every morning i have this trouble turning on my pc. i turn on my avr, then push the power button on cpu case.  </s>
+<s> what happened, the power led only blink and the pc don't open/power on.  </s>
+<s> the first time this happen, i opened my case and look for the suspected culprit.  </s>
+<s> i detached my psu and have it check by qualified technician to see if it is bad or damaged.  </s>
+<s> it wasn't (use tester, it's good; did some switching on pins and got no problem!). so i put back psu, and for other suspected culprit, this time: check the wires connecting my sw to power button.  </s>
+<s> i pull and replugged the pins/connector thinking it just need some &quot;refreshing&quot; and it will be good again.  </s>
+<s> then, i turn on my pc again pushing the power button on the case.  </s>
+<s> it start my pc! but the next morning, the same fate happened.  </s>
+<s> i've gone again to the same ordeal, repeating what i did the past day... and these have been my practice every morning since then.. until, i got tired of doing it over and over again.  </s>
+<s> so, while my avr is turn on i just let it sit there (perhaps 3-5 minutes) and out of disgust i pushed on the power and my pc start again!  </s>
+<s> so every morning, i let my avr turn on for several minutes (5 minutes) or even more before pushing my power button.  </s>
+<s> sometimes, successful sometimes not.  </s>
+<s> i also observed that during cool temperature (e.g when rain down poured the past night) i have this problem, but not on a hot temperature (e.g. no rain the past night).  </s>
+<s> i don't know what's exactly the culprit.  </s>
+<s> please help me on this.  </s>
+<s> suggestions would be greatly appreciated.  </s>
+<s> here's my pc's specs: pentium 4, 3.06ghz mobo: foxconn 865g7mf series total physical memory (ram): 1,024.00 mb os: ms windows xp pro, version 5.1.2600  </s>
+<s> sp3 build 2600 hdd: 2 (hitachi, 80g; fujitsu 6g) optical: cdrom generic fdd: generic psu: 600watts generic avr: 500watts generic thanks in advance guys!  </s>
+<s> type bad caps into google.com and what you find is one of the side effects is the machines won't start when cold.  </s>
+<s> as robert stated, &quot;bad caps&quot; can be a fault.  </s>
+<s> google for images to verify yours.  </s>
+<s> its a known problem.  </s>
+<s> next, while the psu was tested, i believe it was simple voltage &quot;leds&quot; on small tester rather than a full-blown power test.  </s>
+<s> some psus can appear ok on the little tester but fail as when a real power demand is required not just the presence as the &quot;pumff&quot; to get things going isn't there.  </s>
+<s> they too suffer from bad caps as well as caps are everywhere in electronics.  </s>
+<s> if your system case isn't well cooled, a psu can falter over time on that alone.  </s>
+<s> switches are tricky, they can work and not if of cheap make-up or faulty, period.  </s>
+<s> though, switches are rarely a cause of problems, simple as they, only an ohm meter can verify that.  </s>
+<s> tada -----willy  </s>
+<s> i've read the link you suggested re: bad caps.  </s>
+<s> one more info, power outage is a regular occurrence in my place.  </s>
+<s> i believe this can damage electronic equipment, but i'm still not that aware of which equipment will be easily affected by this power outage.  </s>
+<s> thank you robert and willy!  </s>
+<s> i'll go check my capacitors.  </s>
+<s> if you experience re-occurring ac outages and the returning surges can cause havoc on any electronics, pcs being very prone.  </s>
+<s> i suggest besides a simple surge protector(a good one), the likes of a decent ups(orderly shutdown) plus a &quot;line conditioner&quot;.  </s>
+<s> this all costs, but it can be worth the value if it reduces or eliminates much of ac problems which in turn can cause pc issues.  </s>
+<s> fyi- i use solo ac surge protectors for each line and placed on a surge protected strip which in turn in plugged-in to a surge outlet socket at wall.  </s>
+<s> sensitive devices are routed to a line conditioner which is also plugged-in to a surge protected outlet.  </s>
+<s> why, all this protection, because i live in a wooded area where &quot;lighting hits&quot; are common.  </s>
+<s> i do unplug everything when things get hairy when home. i've been saved more than once just replace the surge protection that got hit.  </s>
+<s> tada -----willy  </s>

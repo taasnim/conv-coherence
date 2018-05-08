@@ -1,0 +1,49 @@
+<s> hi all, i'm looking at purchasing the parts and building a computer designed as a control center for a home theater.  </s>
+<s> i currently have a 62&quot; dlp rear projection tv and want to be able to use my computer to play games, watch movies, act as a dvr etc. currently i don't know much about digital signals or converters or anything else.  </s>
+<s> does anyone have any advice as to what sort of set up i would need to play high end computer games and watch movies on my tv? currently i am thinking: dual tv tuner (don't know which one) 256 mb video card (don't know which one) 5.1 or 7.1 soundcard (don't know which one&quot;) 1gb of ram fast cpu (don't know which one&quot;) any advice/help would be appreciated.  </s>
+<s> please keep in mind i am mostly a noob at this, and while i have the help of a computer tech to build the machine, neither of us knows what sorts of specs/signals we need to make it work.  </s>
+<s> thanks  </s>
+<s> your going into a home theater amplifier?  </s>
+<s> and if so your using optical inputs?  </s>
+<s> (just checking, it affects the soundcard choice, if you answer yes, do not buy creative labs' cards, as they are known to have issues with this, otherwise go creative, if you do answer yes though, i'll suggest some equivalent cards that shouldn't give you problems) as for a cpu i'd suggest an intel pentium d 820 as it will be easily fast enough for any sort of audio/video (ripping/rendering/editing/playing) operation and it's very competent at multi-tasking, which is something you'd want in an ht pc i'd also suggest a raid 1 array with a pair of 400gb disks (you'll have 400gb of storage, and a 2nd 400gb drive that automatically backs up everything w/o you having to do anything, so if a drive fails you have all your media right there, and you just deal with it then, but you still have all the media) in addition to that i'm going to say that 256mb for a video card doesn't make it good, it just means it has 256mb of ram (128mb is fine, 256mb isn't bad, the gpu matters a lot more) i'd suggest looking at the following: geforce 6600 geforce 6600gt geforce 6800 geforce 6800gt in addition i'd suggest considering 2gb of ddr (my reasoning on this, in addition to the dual core cpu, is to remove any issues with having too much open as this will serve as your tv reciever, so you want to make it almost limitless in terms of what it can do as far as multi-tasking) i'd suggest either a hauppage or ati tv wonder elite card (hauppage idk what model, but from ati it'd be the tv wonder elite (considered one of the best)) if you just want to make all this super simple you could just grab an ati aiw card but it won't have sm3.0 which makes gaming in the future nearly impossible (it's a feature that is starting to appear in games, and w/o it you can/will run into issues)  </s>
+<s> do you live in an area that has ota hdtv broadcasts ??? if so the the ati dhtv wonder is good card has both analog and hd tuners on it.  </s>
+<s> comes with pvr software.  </s>
+<s> it seems to be easier to setup with an ati video card.  </s>
+<s> m-audio makes some very good sound cards.  </s>
+<s> john  </s>
+<s> hello, first i would like to say that all this information is coming from lots of benchmark tests, research and experience for a ebook i am about finished with titled, &quot;how to build a home theater pc&quot;, which goes into more detail than the many books and magazines i have purchased hoping to find the information i needed for my own htpc and for my customers.  </s>
+<s> hope this helps.  </s>
+<s> i would suggest the following configuration.  </s>
+<s> - a dual processor motherboard with amd cpu support (you could look at the dual core processors if your budget allows for it) any cpu that is 1.6 ghz processor will be fine.  </s>
+<s> again you are utilizing two cpu's and winxp pro is a hyperthreading capable os. - the motherboard should have a minimum of two pci-e slots, this will allow for the possibility of using nvidia sli video cards.  </s>
+<s> two cards acting as one card.  </s>
+<s> this is an awsome setup for gamers especially - windows xp pro - 1gb ram - min 256 mb agp or pci-e video card with dvi out - min 200 gb hard drive.  </s>
+<s> sata drives are your best bet in this area.  </s>
+<s> i would not recommend raiding your drives for anything other than gaming.  </s>
+<s> just a side not.  </s>
+<s> - i would highly suggest winfast tv 2000 series video capture card if hd is not high priority.  </s>
+<s> otherwise i would suggest ati's hdtv tuner card.  </s>
+<s> (i have had technical issues with the tv wonder pro and audigy 2 software working together, that neither ati or creative after months of working through the issues could not resolve.) this is why i suggest leadtek's winfast line.  </s>
+<s> easy to setup and get going with no issues.  </s>
+<s> - creative's audigy 2 value card for 5.1-7.1 surround sound.  </s>
+<s> i wouldn't worry about the more expensive audigy cards at this time.  </s>
+<s> dvds, games and tv broadcasts have yet to truely utilize the 6.1 or above surround sound. the value card will fit all your needs and allow for dvd-audio playback.  </s>
+<s> also comes with great audio calibration tools.  </s>
+<s> - you will need powerdvd for dvd playback.  </s>
+<s> i know there are several other programs out there (i have reviewed them for my book), but i feel this is one of the better programs with the most features for your money.  </s>
+<s> - you will need ati remote wonder for controlling your computer with rf signals.  </s>
+<s> - speakers.  </s>
+<s> there are lots of great speakers available from creative, klipsch and altec lansing.  </s>
+<s> you will have to check them out on your own.  </s>
+<s> i like creatives 7.1 inspire t7700.  </s>
+<s> if you want the power and boom of the home theater speakers you hear in the store, then you will need to get a av receiver to power your speakers. the av receiver will simply be a conduit from your computer to the ht speakers.  </s>
+<s> - you may also want to look at the talisman desktop replacement software as a frontend for the computer for viewing on the tv. - you will want to utilize media player 10 for your video playback of recorded programs.  </s>
+<s> - for storing your cd collection, use musicmatch for ripping your cds to mp3 or other formats if you are interested in this.  </s>
+<s> - for storing your dvd collection, use dvd decrypter.  </s>
+<s> it is a free program and will rip your dvd's perfectly to your hd while saving the surround sound format and all of your dvd menus.  </s>
+<s> i think this covers the basics of a system.  </s>
+<s> if you have any other questions, feel free to contact me.  </s>
+<s> take care, shawn mosqueda wiresmart llc shawn@wiresmart.com  </s>
+<s> how to build a home theater pc ebook coming soon!  </s>
+<s> includes 2 years of free 6 month revised editions.  </s>
+<s> visit  </s>

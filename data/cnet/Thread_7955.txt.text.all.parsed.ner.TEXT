@@ -1,0 +1,30 @@
+<s> i'm building a new computer to fix the things i didn't know about when i built my first computer (should of waited a lil for am3, should of gotten ddr3 ram, shouldn't of gotten ocz brand ram, should of gotten a modular power supply, the video card i won't even start on how much i messed up on that, but at the time i knew nothing about how to pick a good video card.).  </s>
+<s> this time i'm wanting to have a raid but before i click checkout on newegg i'm wondering a few things.  </s>
+<s> first is can you have two raid 0 partitions on only two hard drives?  </s>
+<s> i want 100gib from each hard drive to make a 200gib raid 0 for windows 7 to be installed on, then the rest, about 400gib on each drive, made into a ~800gib raid 0 for all my media.  </s>
+<s> can that be done or would i need two seperate hard drives for each raid?  </s>
+<s> and yes i know that raid 0 isn't good for storing important files it's meant only for speed, i have nothing so important that if my hard drive lost everything i'd be any more then mad, all my music and pictures are backed up and my ps3 holds all my movies so if that ever happened and i lost everything i'd just be like &quot;finally a good enough reason to get rid of all that crap i've collected over the years!&quot; (lol).  </s>
+<s> second is is it a big noticable diffrence having a raid 0 then just having one hard drive?  </s>
+<s> third question was going to be asking if i could also install ubuntu next to windows 7 on the raid, but found out i could but it wouldn't be reliable and would be very hard so never mind about that if i do ever install ubuntu again i'll just pull my old 40gib drive out of the closet and use that.  </s>
+<s> -i'm building.  </s>
+<s> motherboard: cpu: os: ram: hdds: case: psu: sata cables: cd/dvd drive:  </s>
+<s> you can have multiple partitions on a raid 0 array just as you can on any single drive.  </s>
+<s> your array is seen as one drive anyway.  </s>
+<s> as for noticeable difference, i presume you mean speed.  </s>
+<s> raid 0 will afford marginally quicker disk access but you don't double your speed by any measure.  </s>
+<s> i won't get into the hardware side but you're going to need to be careful about hd selection when creating a raid array by making sure that the disks you buy are approved by the manufacturer for that use.  </s>
+<s> otherwise, you raid array is more likely to break.  </s>
+<s> also would it be better to use the raid controller on the motherboard or software raid in windows 7? i'm assuming since i want to have windows 7 and ubuntu installed in a dual boot it be better/i have no choice but to use the hardware raid controller?  </s>
+<s> you obviously cannot enable and configure a raid array and use the hardware raid with one os and software with the other.  </s>
+<s> i don't know ubuntu or whether a software solution is available.  </s>
+<s> one thing that would bother me about both being software raid, if possible, is wondering if any interaction of either os with the other partition might break it.  </s>
+<s> i gave up on raid a couple years ago so am not the best to ask about current technology.  </s>
+<s> do i have to defrag the raid?  </s>
+<s> and if so do i need a special program for it or just use anything?  </s>
+<s> (i prefer ultimate defrag) obviously i have no experience at all with raid's, as i said in the original post the only time i've made a raid is on a mac and that was as simple as &quot;click and drag the hard drives you want to be in the raid to this box.&quot; and i was done.  </s>
+<s> lol.  </s>
+<s> i just don't want this to be like when i bought a video card completely clueless and ended up with a &quot;cheap&quot; $120 card.  </s>
+<s> many will say it's not necessary at all or at least not frequently.  </s>
+<s> i've never used other than the windows utility and only if windows advises the need.  </s>
+<s> raid 0 is fragile so you're going to not take too many risks.  </s>
+<s> make sure you have a good backup plan.  </s>

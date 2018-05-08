@@ -1,0 +1,34 @@
+<s> i am building a computer for the first time.  </s>
+<s> so far have decided: os:windows xp cpu:intel core 2 duo e6700 do i need to decide on chipsets now before choosing the motherboard?  </s>
+<s> do i need to know what ram first?  </s>
+<s> (i think 2gb ddr2 but don't know more yet, would also like to add more later) hdd will be either wd or seagate sata 250-500gb dependent on $ (not sure if you need to know this) would like to add another hdd later (do i need raid?) will need pcie for sound card this is not for gaming just music production/sound engineering so basic graphics ok. will not be used on internet or lan.  </s>
+<s> asus p5k seems popular but there are many different varieties.  </s>
+<s> which one? thankyou, anna  </s>
+<s> e6750 is about $205usd compared to $300usd for e6700: go with 2gb right off the bat since it's so inexpensive.  </s>
+<s> ocz gold ddr2-800, 2gb kit, $90 before $30 rebate: the asus p5k motherboard series is a good choice as is the gigabyte ga-p35-ds series.  </s>
+<s> both have mobos in the $125-$150 range depending on features.  </s>
+<s> but if you don't need advanced 3d graphics, this gigabyte ga-g33m-s2 has the latest intel chipset, onboard graphics, the features that most people actually use, and is only $118: hard drive wise, 320gb and 500gb are the 'sweet spots': 250gb: $67 320gb: $75 ($8 for additional 70gb) 400gb: $100 500gb: $108 ($8 for additional 100gb) raid is a matter of preference.  </s>
+<s> if you are talking production, i believe you want to invest in raid so you do not lose the music you produced because of disk failure that can happen just from random bad luck or heat.  </s>
+<s> writing steady streams of digitized music, and read/write of large chunks of digitized music during audio editing can heat up a drive fast.  </s>
+<s> everything you are buying is for creating the music.  </s>
+<s> it's the only valuable stuff.  </s>
+<s> raid-5 starts with 3 hdds; raid-10 starts with 4. gets expensive!  </s>
+<s> however, i just read about the data robotics drobo that provides the same protection as raid-5 but starts with only two hdds.  </s>
+<s> you can read about it on this pc world link.. cost of this box is pretty competitive.  </s>
+<s> check it out.  </s>
+<s> thankyou for the suggestions drobo does sound really great and simple actually, and reliability is the biggest concern for me. is there anything stopping me just getting say a 320gb internal hdd now, then buying a drobo a bit later on and another hdd and transferring the first one to the drobo (when i have the $, and when prices down a bit)?  </s>
+<s> i am in nz and am having trouble even finding a nz price/seller for drobo, and not sure whether it would be any cheaper to order things from us after shipping and tax included.  </s>
+<s> also, if did do as i mentioned above (say use one hdd for a few months) would the kind of setup we are talking about be at much risk of overheating problems if in a regular sized box (mid-tower?)? would moving to the drobo setup eliminate a lot of heating issues?  </s>
+<s> thankyou again for your help, it is greatly appreciated!  </s>
+<s> anna  </s>
+<s> just checked out pricing, and will definitely choose the e6750 thankyou ramarc.  </s>
+<s> also the gigabyte ga-g33m-s2 is matx - which i am thinking means it is smaller than regular atx?  </s>
+<s> why not just atx? would it make a difference in terms of heat?  </s>
+<s> thankyou, anna  </s>
+<s> matx is microatx.  </s>
+<s> bigger boards are usually more expensive to manufacture so many desktop boards are now microatx.  </s>
+<s> microatx mobos still have the features that most people use (8 usb, firewire, 4 sata ports, 8 channel sound, etc)... full size atx boards usually add things like on-board wi-fi, additional sata/ide ports, dual ethernet nics, dual graphics slots, etc. if you're interested in raid, the ga-g33m-ds2r (the next step up) has raid support built-in.  </s>
+<s> all you need is add a second hard drive.  </s>
+<s> the ds2r uses intel matrix raid which allows you mix raid levels without only 2 drives.  </s>
+<s> so for $210 (dual 500gb drives) you could have a mirrored (raid-1) 200gb boot drive to store the os and important files (e.g. final masters), and striped (raid-0) 550gb to house the pagefile, temp/scratch areas, and work-in-progress.  </s>
+<s> ga-g33m-ds2r, $142:  </s>

@@ -1,0 +1,36 @@
+<s> after a system crash, i decided i better get serious about backing up my computer (and my wife's, too).  </s>
+<s> i have a pavillion a1210n with a 200gb sata-150 h/d and found that my motherboard had two sata-150 ports.  </s>
+<s> but after buying a new internal h/d for backup, i realized i'd bought a sata ii drive (i.e., not compatible with the sata-150 motherboard ports) and i read on hp's website that my computer could only accommodate one internal h/d, not two (despite the two motherboard h/d ports).  </s>
+<s> so i thought about buying a drive enclosure with a usb connection but i've heard that can be very slow, even for periodic backups.  </s>
+<s> then i read about esata which is offered on some enclosures but you need a sata ii pci-express card (or a sata ii motherboard slot which i don't have).  </s>
+<s> one enclosure offers both esata and usb so i could use it to back up my computer with esata and then use the usb for my wife's computer; she has less data so the slower connection wouldn't be a problem.  </s>
+<s> i also found that apparently some of the sata ii pci cards limit transfer rates to far less than the 300mbps offered by my new drive.  </s>
+<s> here are my questions: 1. is there any possibility of connecting the new sata ii drive inside my computer, despite the hp's owner's manual statement?  </s>
+<s> and if i did, would i be able to use the second drive to back up my wife's computer over our network connection?  </s>
+<s> 2. if i instead buy a drive enclosure and a pci card, what should i look for in the product specs that will ensure that i get the fastest connection for backup?  </s>
+<s> any specific product recommendations?  </s>
+<s> and i see pci card prices that vary from $30 to $500...what's up with that?  </s>
+<s> thanks for any help or suggestions you can offer.  </s>
+<s> bob  </s>
+<s> sata ii (or 300) drives should have jumper pins on the back that allow you to place a jumper cap to force the drive to act as an sata 150 drive.  </s>
+<s> check the hard drive maker's website for details on this. if the two sata motherboard ports are functional, then it may very well be possible to attach a second sata hd to the motherboard.  </s>
+<s> you just have to find a place in the case to mount it.  </s>
+<s> you may have to resort to placing the drive in an empty 3.5&quot; external bay or use a bracket to mount it in an empty 5.25&quot; bay.  </s>
+<s> you will want to make sure that the hd has proper airflow to cool it--maybe install an external bay cooling fan.  </s>
+<s> i found a vantec drive enclosure that supports usb and esata connections.  </s>
+<s> it also includes a bracket that would allow me to connect it to the motherboard port, assuming that the sata ii drive will work on a sata-150 port.  </s>
+<s> by using it as an external drive, i wouldn't have to worry about heat problems, where to mount it or power supply compatibility. the seagate owner's manual says that the jumpers on the drive can be used to allow the drive to work with sata-150 but what would that mean in terms of speed?  </s>
+<s> would connecting through the motherboard be significantly faster than using the usb connection?  </s>
+<s> i'm sacrificing the drive's higher speed potential for easier connectivity and maybe that's the best i can do under the circumstances.  </s>
+<s> bob  </s>
+<s> if you want speed from an external hd, the enclosure with the external sata or esata connector is the way to go.  </s>
+<s> note that sata and esata use different connector plugs.  </s>
+<s> sata 150 or sata 300 would not really an issue for me--both are faster usb 2.0.  </s>
+<s> check out performance differences here: (don't just look at &quot;interface performance&quot;)  </s>
+<s> i've bought the vantec enclosure, on sale at newegg for only $29.99. it included a bracket with a sata-to-esata connection which should allow me to plug the enclosure's esata plug into the bracket on the back of the computer and then plug the bracket's sata plug into the open sata port on the motherboard.  </s>
+<s> and because the closure also has a usb-2.0 cable, i can carry the drive over to my wife's computer and back that up through the usb connection.  </s>
+<s> i thought this was going to be more expensive to fix when i discovered my problem but it looks like everything's going to work out fine.  </s>
+<s> thanks again, linkit.  </s>
+<s> bob  </s>
+<s> another option, which will allow support for two internal sata hard drives, is to buy a card with two internal sata ports, such as this cheap one: another issue is that while windows xp media center edition can support raid 0, i don't think it supports raid 1 (for a mirrored back-up hard drive).  </s>
+<s> so you need a hardware solution to run raid 1, and the sata raid cards will also provide this feature.  </s>

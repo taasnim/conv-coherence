@@ -1,0 +1,30 @@
+<s> i recently (about 3 or 4 weeks ago) purchased a lexmark x4975 all-in-one wireless printer and installed it without too much difficulty.  </s>
+<s> however, since i set it up, something occurred that has caused it not to work, either wirelessly or via usb.  </s>
+<s> when hooked up via usb, i get the usual recognition of the printer, everything looks fine, it shows up in the printer list, but when i try to print, it claims that it isn't communicating.  </s>
+<s> when trying to print wirelessly, the printer progress window pops up, shows 5 or 10% progress then it stalls.  </s>
+<s> i have a feeling that it may be the installation of service pack 3. (i have a compaq v6000 laptop running xp pro).  </s>
+<s> in my household, there are two other laptops that can print wirelessly just fine.  </s>
+<s> they both have xp home ( i am unsure whether they have sp3 yet) lexmark tech support is stumped at the moment.  </s>
+<s> i can't recall exactly when i upgraded to sp3. is there a log by which i can find out when that was installed on my computer?  </s>
+<s> beyond that, does anybody have any other theories?  </s>
+<s> thanks  </s>
+<s> what fw software are you running? the theory of it being sp 3 is not an option as works with other people and lexmark printers.  </s>
+<s> have you been giving a sr number?  </s>
+<s> if so please post it.  </s>
+<s> i am running the standard windows firewall.  </s>
+<s> i will need you to explain what an sr number is and how it applies to this issue.  </s>
+<s> and just so i am clear, sp3 does not work with lexmark printers?  </s>
+<s> thanks  </s>
+<s> no sp 3 does work with lexmark printers, i was stating that that would not be the cause of your issue.  </s>
+<s> an sr number is something that the agent would give you at the end of your call so if you call back it can be looked at.  </s>
+<s> i was wondering what troubleshooting they have done. the printer you have is one of lexmarks newest printers.  </s>
+<s> have you tried updating the firmware which is located below.  </s>
+<s> ftp://ftp.lexmark.com/driver/inkjet_drivers/4900/firmware/4900seriesfirmwareupdate.exe  </s>
+<s> i just got a call back from lexmark and they ran me through the fix.  </s>
+<s> apparently, the lxdr_device service was disabled so i just had to go into services.msc  </s>
+<s> to enable it to start automatically.  </s>
+<s> all told, a very simple fix, but it took a lot of wrangling to get it fixed.  </s>
+<s> ah, well.  </s>
+<s> life is good again now that i can print again!  </s>
+<s> from my other searching on the net regarding sp3 and lexmark printers, this is a common problem with sp3 disabling this service.  </s>
+<s> thanks for your help and input.  </s>

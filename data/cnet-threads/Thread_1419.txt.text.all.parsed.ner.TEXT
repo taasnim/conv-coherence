@@ -1,0 +1,36 @@
+<s> stupid me, i pulled my heat sink/fan assembly off my processor (p4 2.0ghz) to clean the heat sink.  </s>
+<s> after pulling it off, i realized i had to reattach it to the pc. i cleaned off the old thermopaste, i think it was a pad that had been tapped onto the hs. i cleaned the processor too.  </s>
+<s> i applied some arctic silver brand paste and reassembled.  </s>
+<s> i turned the pc on, it fired up then shut down after about 15 seconds.  </s>
+<s> now, i turn it on and only the drives (2 hdds and 2 cds) and the processor fan fires up. the pc does not actually boot or generate any type of post messages or video.  </s>
+<s> i removed the hs again to check it and found the paste had covered about 90% of the top of the processor.  </s>
+<s> did i fry it?  </s>
+<s> i pulled the processor off and looked at it, didn't see or smell anything unusual.  </s>
+<s> i've tried the pulling the cmos with no change in problems.  </s>
+<s> any ideas?  </s>
+<s> here's the video -&gt; bingo the first cpu is a p4 at 2.0 ghz.  </s>
+<s> didn't even crash.  </s>
+<s> look for other issues like bad caps (see google.com) bob  </s>
+<s> remove the heatsink again and clean the paste from the processor and heatsink, i use alcohol or acetone to clean with.reseat the processor in the socket and replace the heatsink remembering that using too much paste is as bad as not using any because it then acts as an insulator.  </s>
+<s> make sure all power connections are secure and boot it and see what happens.  </s>
+<s> you applied the paste correctly... it's not supposed to ooze out onto the processor base but only just cover the core.  </s>
+<s> as for your power problem, you probably disconnected the 4pin cpu power plug on the mobo (near the cpu socket).  </s>
+<s> see this photo for a typical example.  </s>
+<s> i had already removed, cleaned, and reattached the heatsink twice with the same results.  </s>
+<s> as far as power, i was in the process of replacing the power supply with a new one.  </s>
+<s> i checked and rechecked all the connections, but saw no problems.  </s>
+<s> i put the old power supply back and still had the same problems.  </s>
+<s> the old psu used to power up the pc, but the cooling fan didn't work and would overheat after a while.  </s>
+<s> i'm now thinking that my new psu (turbolink brand) may have done something bad to the mobo.  </s>
+<s> i did check the caps and they looked fine.  </s>
+<s> my last mobo had the cap problem so i've seen them before.  </s>
+<s> i decided to drop off the pc at my local shop that had originally built it, then rebuilt it after the bad caps.  </s>
+<s> i'll see what they say.  </s>
+<s> pc is now running fine.  </s>
+<s> no damaged parts.  </s>
+<s> i'm still not sure what i did wrong, but it booted up fine for the pc shop.  </s>
+<s> since i've been going there for several years, they gave me a break on the diagnostic fee and said forget about it.  </s>
+<s> i told them i would be back anyways in the near future to look at some upgrades for it.  </s>
+<s> thank you to all of the quick suggestions.  </s>
+<s> i tried several times to check and recheck the connections, but somehow i missed something.  </s>
+<s> thanks again to all.  </s>

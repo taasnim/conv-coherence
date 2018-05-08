@@ -1,0 +1,18 @@
+<s> i have att dsl.  </s>
+<s> i am 14300 feet from the dslam.  </s>
+<s> my numbers are as follows: to modem to internet max allowed speed (kbps) 1984 512 sn margin (db) 11.0 16.0 line attenuation (db) 51.0 31.0 loss of signal 0 68 loss of frame 0 0 crc errors 735 3 i am currently on a temporary cap to allow my connection to stabilize.  </s>
+<s> my normal max throughput would be 3008/512 the att techs have been out five times now.  </s>
+<s> they have replaced several things downstairs.  </s>
+<s> they have also done some work at the box, and in the &quot;pit&quot; as they said.  </s>
+<s> they also did something called a port cut.  </s>
+<s> they believed the problem was in my building wiring, but i have ruled that out using a 100 foot rj14 twisted pair cable i bought from radio shack, which i ran directly from the box to my dsl modem.  </s>
+<s> i was still getting hundreds of crc errors every five minutes or so.  </s>
+<s> when my line is stable, which happens intermittently my max attn dr is usually in the 4500 - 4800 range, which should give me enough bandwidth to run my 3008 with no issues.  </s>
+<s> i have never seen any problems on the tx side of it.  </s>
+<s> just rx. ideas to try?  </s>
+<s> i would also add that due to the crc errors, my connection is dropping every 15-30 minutes or so, especially during peak times.  </s>
+<s> at nearly 3 miles you are the edge of service.  </s>
+<s> it might have been better that you denied you a connection? 3 miles is 15840 feet so it's not much to say there is 3 miles of trouble to look at.  </s>
+<s> shame really.  </s>
+<s> but it's time to bail out of that service for another.  </s>
+<s> bob  </s>

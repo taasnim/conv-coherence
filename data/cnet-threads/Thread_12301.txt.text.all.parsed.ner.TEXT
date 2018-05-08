@@ -1,0 +1,27 @@
+<s> computer specification: 40gigs, pentuim 4, 2.8gh, windows xp pro.  </s>
+<s> when i turn on computer the message &quot;check signal cable' appears than computer operates normally.  </s>
+<s> i upgraded from win 2000 to xp pro and it took almost 12 hours to complete upgrading.  </s>
+<s> now the start up of the computer takes about 5 minutes (very slow unlike before)to star up.  </s>
+<s> can any body explain what could have caused this to happen.  </s>
+<s> ta.  </s>
+<s> it appears you get the signal because the monitor is ready before the system actually &quot;finished&quot; loading the os. more than likely because you &quot;upgraded&quot; the os from w2k to xp, you left alot of old baggage and xp must waddle through all that before it oks the boot-up processes and finishes it.  </s>
+<s> your best bet is to try to use some decent &quot;registry cleaner&quot; and let it go at it.  </s>
+<s> accept the fixes and proceed foward.  </s>
+<s> be darn sure you backed-up any important data beforehand.  </s>
+<s> what you should have done if you hadn't is to do a &quot;clean os install&quot;.  </s>
+<s> not an upgrade with the old os intact, that way you leave behind old and cumbersome s/w links, etc.. 12hr.  </s>
+<s> upgrade isn't normal, imho.  </s>
+<s> further, you should have all cds, floppies, etc. to finish the install process and even get the latest drivers of your componets as well, if you go this route.  </s>
+<s> otherwise expect this slow system to manage but only a snail pace.  </s>
+<s> tada -----willy  </s>
+<s> i backed up my required data and reformatted the hard disk and did a clean install of win xp. it may be the screen as you say.  </s>
+<s> sould i try new install after reformatting the hard disk agin?  </s>
+<s> if you did a clean install of xp, why reformat again?  </s>
+<s> you got lost me here.  </s>
+<s> just finish the os install and then add the drivers as required.  </s>
+<s> then proceed to the ms windows update website and get the latest os updates, etc.. once all that is done, then add(install!) your pgms.  </s>
+<s> and swap your saved data to the required folders.  </s>
+<s> don't just place folders and try swapping data that way, it won't work at least for many of the more complex pgms.  </s>
+<s> just re-install them.  </s>
+<s> make sense?  </s>
+<s> adios -----willy  </s>

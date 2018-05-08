@@ -1,0 +1,11 @@
+                                 MONITOR 0 0 0 0 0 0 0 1 1
+                                      PC 0 0 0 0 0 1 0 1 1
+                                    HELP 0 0 0 0 0 1 0 1 1
+                                   VIDEO 0 1 0 0 0 1 0 0 0
+                                    CARD 0 1 0 0 0 1 0 0 0
+                                      TV 0 0 0 0 0 1 0 1 1
+                                       U 0 0 1 0 0 0 0 0 1
+                                    PROS 0 0 0 0 0 1 0 0 0
+                                  REVIEW 0 0 0 0 0 1 0 0 1
+                                    CONS 0 0 0 0 0 0 0 1 1
+LEO.COM/CAN_I_USE_MY_TV_AS_A_SECOND_MONITOR.HTML 0 0 1 0 0 0 0 0 1

@@ -1,0 +1,14 @@
+<s> hello! i'm having a bit of a problem.  </s>
+<s> work gave me an old dinosaur of a laptop running windows 2000 and no in-built wireless!  </s>
+<s> i got hold of a belkin f5d7001 usb stick and installed it onto the pc. the drivers have installed fine, when i plug in the usb it detects perfectly and i can see it in in my devices and as lan 2 in the network connections.  </s>
+<s> problem is that the belkin wireless utility doesn't want to load.  </s>
+<s> it wasn't present in the taskbar as i would have expected, so when trying to double click the icon on the desktop... nothing!  </s>
+<s> as the drivers appear to be loaded fine... is there any generic wireless utility i can use to detect available networks and connect?  </s>
+<s> (like windows xp does?) thanks!  </s>
+<s> riad  </s>
+<s> i found the laptop didn't have all it's drivers installed proper. the person who set it up forgot a few drivers such as the motherboard.  </s>
+<s> this caused issues just like yours.  </s>
+<s> and no to the question you asked.  </s>
+<s> it's a bare bones no-brainer and no other utility can do it without windows services in the background anyway.  </s>
+<s> my (admittedly somewhat limited) experience is that, unless you absolutely need all the additional features that come with some of these wireless configuration packages just pull out the drivers and let windows handle the rest.  </s>
+<s> why put boeing 757 controls and navigation equipment on a bicycle?  </s>

@@ -1,0 +1,23 @@
+<s> i have set up a shared wireless internet connection between my 2 computers and can't figure out what i exactly need to share files, printer/scanner.  </s>
+<s> here are the facts: 1. my dsl modem is also a router, with only 1 ethernet port.  </s>
+<s> it's this one: 2 my main computer is a pc with windows 98se, and i installed a pci card + cable to be able to hook it up to the modem.  </s>
+<s> 3. my other computer is a notebook windows xp. the internert wireless connection works great.  </s>
+<s> so how do i go about setting up a home network?  </s>
+<s> get a small router with 4 ports, and hook it up to the modem, scanner, printer?  </s>
+<s> any advice is highly appreciated !! aude-noelle  </s>
+<s> is already up and running if both the wired pc and the wireless one can access the internet.  </s>
+<s> the rest is: 1) workgroup name the same 2) file and print sharing enabled 3) firewalls disabled until the network is established 4) some folders are set to be shared.  </s>
+<s> 5) additional pcs can be added wirelessly or wired with a switch.  </s>
+<s> scanners do not usually share.  </s>
+<s> all the stuff mike posted is true the easiest way to start is by running the &quot;network setup wizard&quot; on your notebook.  </s>
+<s> xp will walk you through most of it.  </s>
+<s> it will then give you directions on how to do the same for your pc because you are running 98se you will need to follow the direction from xp (because of different file formats)so the machines can share information.  </s>
+<s> once that is done it will let you set up each device to share with the each other.  </s>
+<s> you can always decide what you want to share by right clicking the device and select sharing(after you set the network up)  </s>
+<s> great info, thanks to both of you, however, the notebook is not the computer linked to the modem/router, so i cannot use xp to set up the rest of the network.  </s>
+<s> since i'll be switching my old pc desktop to a mac soon (i'm a graphic designer, that's why !), i can figure it out then.  </s>
+<s> best, aude  </s>
+<s> as i understand home networks, there is no main unit.  </s>
+<s> just because your desktop is next to your router doesn't make it the main unit.  </s>
+<s> while our network now is 3 computers running xp, a short time ago we had windows 98se, windows me and windows xp computers all connected.  </s>
+<s> on your laptop, when you run the xp disk to setup your network, it will offer you a chance to create a network setup disk to run on your &quot;main&quot; unit running windows 98. i think it even offers you a choice of using your xp cd to setup your network software on your other computer(s).  </s>

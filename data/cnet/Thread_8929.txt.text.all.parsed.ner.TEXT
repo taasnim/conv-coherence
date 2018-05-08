@@ -1,0 +1,28 @@
+<s> hi. i have a dell inspiron 5100 notebook with dell truemobile 1450 a/b/g minipci card.  </s>
+<s> i'm thinking of buying another wireless card, and &quot;join&quot; the 2 wireless cards together, so that when combined, they can provide a better throughput.  </s>
+<s> i remember in the past, during the days of windows 98, there is such a feature in windows 98. is there such a feature in windows xp too?  </s>
+<s> and is this practice recommended?  </s>
+<s> thank you very much.  </s>
+<s> .  </s>
+<s> buying 2 wireless cards wouldn't do anything for you because wifi splits your bandwith equally to all devices on your network.  </s>
+<s> so if you have a 54mbps router and you have 1 device connected to it, that device gets 54 mbps.  </s>
+<s> if you connect another card each car will be getting 27 mbps.  </s>
+<s> if you wanted to get crazy you could consider setting up 2 wifi networks and run 1 at on channel 1 and the other on channel 11 but i dont know if theres any software that would let you take advantage of that.  </s>
+<s> so basically ... no  </s>
+<s> there is some overhead to each added machine so 2 machines get about 98% of the total... bob  </s>
+<s> hi. thanks for your replies.  </s>
+<s> what about if the router is not fully utilised by me?  </s>
+<s> for example, the router is connected to 20 people, so i'd get 1/20 of the bandwith.  </s>
+<s> if i were to add another card, then i would get 2/21 of the bandwith.  </s>
+<s> isn't it so?  </s>
+<s> it's still quite a big increase.  </s>
+<s> but even if this is so, there is also one problem: it seems that only one of the wireless device is working. the other is connected, but there doesn't seem to be any data sent or received.  </s>
+<s> all data seems to go through one of them.  </s>
+<s> just for the sake of curiosity, is it that windows xp does not support dividing them up, unlike for dialup connections?  </s>
+<s> thanks.  </s>
+<s> &quot;what about if the router is not fully utilised by me?  </s>
+<s> for example, the router is connected to 20 people, so i'd get 1/20 of the bandwith.&quot;  </s>
+<s> you get a portion of the unused bandwidth.  </s>
+<s> if no one is using the internet, you get 100% of that.  </s>
+<s> it appears you are very new at this and need to get out there and watch what happens.  </s>
+<s> bob  </s>

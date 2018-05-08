@@ -1,0 +1,46 @@
+<s> good day folks, ok, i am working on a pc that delays in powering up. the system is a gigabyte ga-8ik1100 & p4 running on xp pro.  </s>
+<s> there is a g force 5900 video card that is failing. the fans do not function and the temperature gets overheated.  </s>
+<s> my multimeter also measured the voltage a little above 5 and 12 volts.  </s>
+<s> the card takes 12 volts and a power error message also displays during the os boot up.  </s>
+<s> i advised the client to buy a power supply of 480 w. i installed it and other areas of performance improved.  </s>
+<s> i eliminated the main components as the problems.  </s>
+<s> i also changed the battery for cmos.  </s>
+<s> i took out the video card and put in mine and it worked instantly, but the problem still persisted after a couple of boot ups.  </s>
+<s> that problem?  </s>
+<s> a delay in booting up. the case wires work, but it could be a short in electricity from the front case to the motherboard.  </s>
+<s> i cannot get into that part of the case itself.  </s>
+<s> ok, your turn folks.......  </s>
+<s> do you mean that it takes too long for the post to complete or does this part function ok but windows isn't starting?  </s>
+<s> if it's windows, the number of variables grows significantly.  </s>
+<s> where exactly does it hang.  </s>
+<s> &quot;do you mean that it takes too long for the post to complete or does this part function ok but windows isn't starting?  </s>
+<s> if it's windows, the number of variables grows significantly.  </s>
+<s> where exactly does it hang.&quot; no. the ps aspect is the issue or if a hardware component is causing the power to delay in booting.  </s>
+<s> post was a good guess.  </s>
+<s> you asked what could be causing the power to delay in booting. the total boot process i am referring to is from the time power is applied until the os is ready to use. the system could hang during the post or afterwards while loading windows. is it during one of these processes?  </s>
+<s> what i am reading is that you might be turning the pc on but but seeing a delay in when power is actually applied.  </s>
+<s> this can only be determined by monitoring the ps voltages as they sequence up.  </s>
+<s> once present, the post should begin.  </s>
+<s> if you use a crt monitor, you may not see evidence of such but maybe hear a beep from the speaker.  </s>
+<s> during the post, hardware detection is made and compared against what's been stored in the setup.  </s>
+<s> discrepancies can cause delays.  </s>
+<s> other delays can be due to waiting for hard drives to spin up...especially if the system is set to automatically configure the drives at each restart.  </s>
+<s> memory testing takes time.  </s>
+<s> a change in the battery might set the mb to defaults.  </s>
+<s> one of these defaults might be to do the longer memory check.  </s>
+<s> sorry if i'm misunderstanding your question but still getting no vision of the sequence of events you are witnessing.  </s>
+<s> unplug usb things.  </s>
+<s> hi again, thanks for the input.  </s>
+<s> i understand the post and what is being checked. the delay i refer is when the power button is pushed in about 5-6 times before actual power.  </s>
+<s> i have to push the power button for 5-6 times before it comes on after i take away the cord.  </s>
+<s> once the power is on, it reboots in the normal time.  </s>
+<s> i tried to determine if the video card (which can make a system not function properly) is the cause by changing video cards.  </s>
+<s> i saw a difference but it still took 5-6 times of pushing in the power button before the system could began the post.  </s>
+<s> once the system loads the post is fine.  </s>
+<s> i have tried to adjust the bios ram and temperature to see.  </s>
+<s> try pressing and holding the button for a short if you're just giving it a quick push.  </s>
+<s> there are bios options as to how to respond to that button.  </s>
+<s> check them.  </s>
+<s> that's a momentary switch that's just supposed to latch the power supply.  </s>
+<s> they do go bad.  </s>
+<s> you can probably find the mb connector for that switch and test it from there. it will be one of the front panel connections usually all grouped together.  </s>

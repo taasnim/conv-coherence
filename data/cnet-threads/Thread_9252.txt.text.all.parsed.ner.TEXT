@@ -1,0 +1,86 @@
+<s> sorry - aware that several previous discussions have tried to deal with similar issues....but the issues vary every time it seems!  </s>
+<s> i have a fujitsu (i think - nothing to tell me, and it was given to me new by another person) mobile disk external data storage usb device, 40 gb.  </s>
+<s> several days ago my computer (with xp sp2)said it did not recognise it.  </s>
+<s> previously it did.  </s>
+<s> i have tried the device on another computer and it installs immediately and functions, so there is nothing wrong with the device, which powers from the computer directly.  </s>
+<s> it powers up on mine, and everything indicates that the usb port is ok since i can plug in other devices (eg flash).  </s>
+<s> basic question - how does one resolve this kind of problem?  </s>
+<s> i only have a recovery disk for the computer, not a separate set of xp cds, and i hesitate to go all the way back to scratch!  </s>
+<s> if i am correct, this is not a driver issue.  </s>
+<s> then what kind of isse is it?  </s>
+<s> would going back to a restore point succeed?  </s>
+<s> i tend to think not.  </s>
+<s> so.....?  </s>
+<s> usb devices can be flaky and there's no end to stories like yours.  </s>
+<s> i've had a couple, however, that were resolved by simply going into the hardware screen, removing the device, restarting the machine and letting windows redetect it.  </s>
+<s> it should have retained the driver and will reload it.  </s>
+<s> now, it does sound as if your device needs more power than most.  </s>
+<s> such could be the root cause of your issues.  </s>
+<s> what xp will detect is the controller for the drive and the controller will then configure the drive itself.  </s>
+<s> at this time, windows should see the drive.  </s>
+<s> can you tell if controller is seen but not the drive?  </s>
+<s> these devices need a bit more current than most others and the lack of power from the 5v to the usb header might be a clue.  </s>
+<s> thanks for quick response.  </s>
+<s> minor joy but only because we are on the right track i think.  </s>
+<s> but i hope we can still take further steps, because....after doing what you suggested, the rebooted machine initially said it saw an unrecognised device, went through the motions to tell me it was installed then seconds later gave me the old message again.  </s>
+<s> my asus computer has 6 usb ports - a mouse in one and the hd device in another.  </s>
+<s> nothing else attached.  </s>
+<s> i presumed it might be the mouse it was recognising on the reboot.  </s>
+<s> i tried removing the two unrecognised usb devices (that's what the device manager said) from the machine and going through the same process.  </s>
+<s> but while the mouse has no problem finding it's way back, the other still does.  </s>
+<s> i think, in answer to your question that the controller is seen but windows doesn't see the drive and i'm told anyway the device is unrecognised.  </s>
+<s> a minor annoyance is that my machine speaks italian (so do i, but i have to think what the actual terms are in english, so if my descriptions are not precise that will be the reason). the quickest way to arrive at the device manager seems to be to double-click the balloon which tells me about an unrecognised device.  </s>
+<s> that brings up the device manager immediately, showing the items under the usb root hub (6 ports) and highlighting one of them in bold.  </s>
+<s> double-clicking that produces the general properties and driver tabs, the first telling me that no driver is installed for this device (if i am translating that accurately). the driver tab gives me a range of options including uninstall - which i did.  </s>
+<s> i hope that process was all correct.  </s>
+<s> an option ot update the driver appears to be no help - where would i get it from?  </s>
+<s> so that's where i'm at, at the moment.  </s>
+<s> still without the use of the protable hd. if power is an issue, it wasn't previously - the item worked perfectly on this same computer.  </s>
+<s> here'w why.  </s>
+<s> if you mean that driver update button in windows, that is nothing more than a demo from my experiences.  </s>
+<s> better than 1/2 the time it results in degraded operations or failures.  </s>
+<s> microsoft does not produce your pc and can't get this one right.  </s>
+<s> -&gt; use the drivers from your pc's maker.  </s>
+<s> please.  </s>
+<s> bob  </s>
+<s> the cd that comes with the hd device seems to be only appropriate for anything under windows xp - in other words it does not seem to install the device for me, or put another way, the end result is still an unrecognised device!  </s>
+<s> and is the driver the problem?  </s>
+<s> 1. update the driver.  </s>
+<s> i visit the motherboard maker's web site for motherboard drivers.  </s>
+<s> 2. test the device.  </s>
+<s> i try it on another good machine.  </s>
+<s> hope this helps you narrow it down.  </s>
+<s> bob  </s>
+<s> in case others out there are still struggling with this vexing and msot annoying problem, the solution appears to be simple.  </s>
+<s> in the first instance, though, it has to be said that after googling my around the net for several days in search of help, it appears the problem with usb recognition being occasionally flakey is widespread.  </s>
+<s> 2nd observation is that people try to be helpful but none of the solutions (aand some are dire and dramatic like reformatting disks) seem to work----except one.  </s>
+<s> close everything down, remove all peripherals andm importantly, remove the power supply.  </s>
+<s> leave the computer for about 30 minutes so that all residual electricity goes out, then reboot.  </s>
+<s> attach usb devices and other devices one by one - xp has been forced to restore all its drivers and away you go! well, it worked for me, and i've read three other cases where it worked similarly (which is where i got the idea from).  </s>
+<s> so why not try it?  </s>
+<s> i have been trying for 2 weeks to fix my problem of the usb.  </s>
+<s> you have solved it for me.  </s>
+<s> thanx heaps  </s>
+<s> thanks for sharing your solution and i certainly agree that some of the usb stuff just isn't ready for prime time.  </s>
+<s> re your statement 'remove all peripherals andm importantly, remove the power supply.' do you mean disconnect (vice physically remove) peripherals as in internal and external drives (data and power) and remove any cards from the mb, etc.? physically remove ps or just discomnnect it from mb and or remove the ac power cord ?  </s>
+<s> do you get a lot of question about getting into the case on getting everything back together ?  </s>
+<s> vapcmd  </s>
+<s> had the exact same problem, suddenly the computer would not recognise any mass storage device - mp3 player, psp, ect.  </s>
+<s> i just unplugged everything from the back of the computer and left it over night.  </s>
+<s> no need to mess around inside the system, just took out all the leads.  </s>
+<s> hey presto, all back to normal in the morning!  </s>
+<s> thanks heaps !!!!  </s>
+<s> had the exact same problem, suddenly the computer would not recognize any mass storage device - freeagent, sandisk, scanner, etc. i also unplugged everything from the back of the computer and left it for a few hours.  </s>
+<s> after startup i replaced the usb connections one by one - problem solved.  </s>
+<s> hp 6110 all in one running on xpsp2 suddenly showed up as a non recognized usb device thought it was because i tripped over the cable and knocked out the usb cable from the machine and might have damaged the port.  </s>
+<s> but it wasnt.  </s>
+<s> as stated, deleted the hp from hardware.  </s>
+<s> rebooted laptop, printer automatically showed back up.  </s>
+<s> thank you! mg in la  </s>
+<s> thank you we need to give this solution some more google juice it took me forever to find it.  </s>
+<s> i purchased a 4gb pny flash drive about three months ago.  </s>
+<s> up until last week, it functioned ok even though it would constantly open when i carried it in my pocket.  </s>
+<s> last week, it got bent while in our laptop computer's usb port. the plug will still snap closed, but i sometimes have to pry it out of the enclosure.  </s>
+<s> and for about four days now, when i plug it in the usb port of our laptop (windows 7), i hear the sound that indicates the computer recognizes the device, but the device doesn't appear in the list of removable media.  </s>
+<s> when i plug it into the desktop pc (winxp), i see the removable drive in the list of drives, but when i click on it, i get the message &quot;please insert a disk into drive [letter]:&quot; any way to recover what's on this disk?  </s>
+<s> wanted to let you know this worked for me as well  </s>

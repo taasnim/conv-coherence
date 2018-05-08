@@ -1,0 +1,28 @@
+<s> well, i'm back looking for more help.  </s>
+<s> my original problem is detailed in the thread referenced here - after finally getting the system working right, my daughter used the drive as a cd-rom for several days and everything seemed fine.  </s>
+<s> then, she tried to burn a cd to play on her cd player.  </s>
+<s> using nero, the process seemed to go well.  </s>
+<s> however, when she tried to play the cd on her cd player, it would not work.  </s>
+<s> i told her that she probably didn't finalize the disk and to do so or just burn another one and be sure that finalize is selected.  </s>
+<s> instead of doing that, she tried to burn with windows media player. the pc got hung up and when she rebooted, the problem of the missing drive returned!  </s>
+<s> i've tried deleting the upperfilters and lowerfilters in the registry.  </s>
+<s> no effect.  </s>
+<s> the drive does show in bios, but not in my computer, windows explorer, etc. any help would be appreciated.  </s>
+<s> by the way, also can't boot into safe mode.  </s>
+<s> i've looked at the forums a little and this too seems to be associated with nero software.  </s>
+<s> is it possible that i should delete all nero software and use something else?  </s>
+<s> since the drive shows in bios, go to device manager check the status there.  </s>
+<s> if it shows there, uninstall the drive, reboot and let windows reinstall.  </s>
+<s> i've had similar experience with a micro advantage cdrw drive.  </s>
+<s> i had to install about six times, but finally got it.  </s>
+<s> it's been working for two years now without problems.  </s>
+<s> best of luck  </s>
+<s> neglected to mention that it does not show up in the device manager either.  </s>
+<s> bios is the only place that there is any evidence of a drive.  </s>
+<s> i would go back to the beginning to retrace the steps taken, including bob's post of deleting filters from the registry.  </s>
+<s> also double check or reset the jumper settings.  </s>
+<s> if it were me, i would try the cable select setting.  </s>
+<s> it can't hurt anything.  </s>
+<s> if all fails, i suspect the drive is bad.  </s>
+<s> install it in another machine to see how it reacts.  </s>
+<s> best of luck  </s>

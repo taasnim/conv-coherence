@@ -1,0 +1,31 @@
+<s> hallo,i've got a hp xw6600 and i'm having a problem to start the system after win 7 installation.it  </s>
+<s> goes to the windows logo and shuts down.i had the same problem win xp pro and vista business every time i've installed graphichs driver it did hang at the log in screen and hibernates after that.i've tried it with nvidia quadro nvs 285 128mb,sapphire radeon 5450 1gb and evga geforce gtx 560 2gb.i have the same issue with xw6400.  </s>
+<s> no start up repair or fresh install helped.i'm  </s>
+<s> at the end of my knowledge.  </s>
+<s> could anybody help thanks  </s>
+<s> but i'm finding folk mis-diagnose the hibernate issue.  </s>
+<s> that is, some are looking at the monitor that is displaying a sleep message and thinking the pc is sleeping or hibernating which is not the case at all.  </s>
+<s> i find that a boot to safe mode and setting a compatible resolution can help if there are no other hardware issues.  </s>
+<s> that step is not in your post so maybe it's the usual.  </s>
+<s> bob  </s>
+<s> hallo,but the xw6400 has been working fine before with the quadro nvs285 on full resolution  </s>
+<s> now, it isn't working.  </s>
+<s> it maybe a buss/pcie-16 issue as in the slot can' take it or related chipset. the video loading gets to a point where its drivers are too much for whatever reason.  </s>
+<s> it maybe a bridge chipset or cpu level failing.  </s>
+<s> if it works in safe mode but not in higher final mode, that's suggests some h/w issue or failure.  </s>
+<s> basically, you need a mtrbd.  </s>
+<s> replacement to test further.  </s>
+<s> it hibernates because it never got what it needed, so it times out to hibernate mode.  </s>
+<s> since this is also hp type workstation, it may have a narrower support range other than its own products or similar.  </s>
+<s> if this ever worked(does currently too) go back to that h/w setup and see if a bios update helps at all(last resort).  </s>
+<s> you may want to try hiren's cd, google for it and play with the many pgms.  </s>
+<s> to see if it can boot to that.  </s>
+<s> also, using the bootable ubuntu &quot;live version&quot; cd, if it can load those hi-end video drivers, it offers yet another clue, if not, then the h/w fault is really there.  </s>
+<s> clean the video slot as another area to check.  </s>
+<s> tada -----willy  </s>
+<s> it worked before means it worked before.  </s>
+<s> hardware does fail or degrade.  </s>
+<s> it's also known that folk will install drivers from msft and my advice is never do that.  </s>
+<s> again, try safe mode and set a lower resolution.  </s>
+<s> only a very new pc owner or tech won't do this.  </s>
+<s> bob  </s>

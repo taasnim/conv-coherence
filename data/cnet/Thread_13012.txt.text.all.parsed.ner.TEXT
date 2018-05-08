@@ -1,0 +1,19 @@
+<s> i have a d-link dir-450 wireless router that i am using to &quot;attempt&quot; to set up a wireless network in my home.  </s>
+<s> i have a desktop that is hooked up with a cat-5 cable and am having no issues there.  </s>
+<s> the verizon broadband card is a little slow, but hey, that's verizon for you. the issue is with the laptop... i am trying to set it up wireless, but can only seem to be able to do this without any encryption. the second i try to secure the router, the gateway mx6453 laptop is permanently &quot;acquiring network address.&quot;  </s>
+<s> i have made sure i am using the correct passphrase, wep key, etc. no kind of encryption will work.  </s>
+<s> this does not put the warm fuzzies in my tummy... the wireless card in the laptop is a broadcon802.11g  </s>
+<s> network adapter.  </s>
+<s> help.  </s>
+<s> steve  </s>
+<s> and tell us about your setup of the router.  </s>
+<s> what would you like to know?  </s>
+<s> i am relatively new at this, so plese bear with me.  </s>
+<s> right now, no encryption, i have a valid ssid, channel scan enabled, super g disabled (tried different configs here, to no effect), hidden wireless is disabled.  </s>
+<s> i have dhcp enabled with the proper mac address and name of the laptop setup in the router.  </s>
+<s> i did nothing to &quot;virtual server,&quot; &quot;port forwarding,&quot; &quot;application rules,&quot; or &quot;network filter.&quot;  </s>
+<s> i am confused...  </s>
+<s> could norton have something to do with this?  </s>
+<s> &quot;right now, no encryption, i have a valid ssid, channel scan enabled&quot; when the router is setup like that and you change the laptop to wpa then it shouldn't connect.  </s>
+<s> in short, the two must match.  </s>
+<s> bob  </s>

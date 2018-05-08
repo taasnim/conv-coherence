@@ -1,0 +1,35 @@
+<s> i was given a computer with various components installed.  </s>
+<s> i was told if i could get it to work i could keep it. the main issue is that it has an ibm 15gb hd that accesses only 2gb. the os is windows melenium.  </s>
+<s> i have checked cable connections,jumper settings, and bios settings all to manufacture's reccomendations with no luck. the bios chs settings do not match the reccomended ones and when attempting to change them manually they revert back upon rebooting.  </s>
+<s> system info under- storage/disks reports size as 14.32gb and yet i still receive &quot;low disk space&quot; error msgs.  </s>
+<s> it would appear that the drive was partitioned to not support large hard drives.  </s>
+<s> if you can reinstall a 9x os, i would fdisk and choose large disk support.  </s>
+<s> thanks for the info.  </s>
+<s> i am relatively new to computers but seem to have gained enough knowledge to be dangerous.  </s>
+<s> reguarding your answer, 9x os what specifically would that translate to?  </s>
+<s> also, using fdisk would mean that i will lose all data, right?  </s>
+<s> 9x systems = 95, 98, 98se, me.  </s>
+<s> also, using fdisk would mean that i will lose all data, right?  </s>
+<s> yes and no. first you back up to an external source what you do not want to lose then you build anew.  </s>
+<s> try booting your machine, then pressing f8 before the machine boots into windows.  </s>
+<s> choose the option &quot;start in ms-dos mode&quot;, then type in the letters &quot;fdisk&quot;.  </s>
+<s> use that program to find if there is any space left (which there should be).  </s>
+<s> make sure to enable &quot;large hard disk supoort.  </s>
+<s> make new partitions to fill up the space, if need be.  </s>
+<s> first you have to lose all your data if you want the full size of your hd (hard-drive) if you can get your hands on a 98se start-up disk, start your computer with it.  </s>
+<s> when it comes up with the a&gt; propmpt type in fdisk and select large partition.  </s>
+<s> when you get inside fdisk you have to delete all existing partition by press &quot;3&quot;.  </s>
+<s> when it asks what kind of partition say primary.  </s>
+<s> go back to the beginning of fdisk by pressing the escape key and choose &quot;1&quot; and then &quot;1&quot; again and your computer should show all of the hd. e-mail me with questions.  </s>
+<s> never mind what the bios sees.  </s>
+<s> there is a known bug for some ibm travelstar hard drives where they report the wrong size to the bios.  </s>
+<s> if that is what this is there is a firmware update at the ibm site that can correct the problem, but that will not have any real impact on drive space.  </s>
+<s> and what about 'd' drive?  </s>
+<s> if this is a laptop (or configured like one)... many laptops have a 2gb 'c' drive and the rest of the hard drive is 'd' since hibernation software requires fat16 (limited to 2gb).  </s>
+<s> if that is how this computer was originally configured you will end up with the same thing when you 'restore'.  </s>
+<s> if you do not have an &quot;genuine windows cd&quot; and only a 'restore' cd chances are your windows install files are sitting in c:windowsoptionscabs .  </s>
+<s> you will not be able to change your configuration and reinstall windows unless you burn them to a bootable cd before doing anything else. also make an &quot;ebd&quot; (emergency boot disk) and them extract the files from the ebd.cab and copy them back to the floppy.  </s>
+<s> they will usually fit.  </s>
+<s> check to see if you have a 'd' drive.  </s>
+<s> if so, then you need to move your c:my documents folders to d:my documents along with any other disk hog data files such as music/video etc. anytime you install new software it should be installed to 'd:'.  </s>
+<s> 'c' should only be used for the operating system and bundled software.  </s>

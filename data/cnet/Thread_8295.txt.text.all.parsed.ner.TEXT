@@ -1,0 +1,38 @@
+<s> hello, i am attempting to network my desktop and laptop.  </s>
+<s> both connect to the internet (desktop via a lan cable and the lappy wirelessly).  </s>
+<s> having run the winxp network wizard a couple of times has not corrected my problem.  </s>
+<s> when using the desktop, i can see all the shared folders on both computers and more importantly i can use the files in those folders.  </s>
+<s> when using the lappy, i can see all the shared folders but whenever i try to open a folder it hangs.  </s>
+<s> windoze tells me that it's not responding.  </s>
+<s> so i ran a little experiment to see if this was a wireless issue and hooked the lappy up to the router with a lan cable and ran the wizard again.  </s>
+<s> same result.  </s>
+<s> also i can not print via the network (the printer is hooked up to the desktop via usb), i can print from the desktop no problem but not from the lappy equipment being used; liksys g wireless router rogers cable modem desktop - athlonxp 2500+, 1gb of ram, 280gb of hd space lappy - acer 5024 - amd 64 ml34 1gb of ram, 100gb hd both have file sharing turned on, nothing different was done on the lappy from the desktop.  </s>
+<s> why can i only access files one way but not the other, and how do i fix this.  </s>
+<s> any ideas or suggestions would be greatly appreciated.  </s>
+<s> mark  </s>
+<s> shared a folder on the desktop?  </s>
+<s> configured desktop firewall to allow access from network computers?  </s>
+<s> what firewall does the desktop have running?  </s>
+<s> try connecting to the desktop with the desktop firewall turned off.  </s>
+<s> does it work?  </s>
+<s> file and print sharing is checked off on both puters in windowz firewall.  </s>
+<s> as for turning the firewall off and on to network my desktop (in the basement) and the laptop (upstairs) is not only inconvenient to do each and every time i want to share files, but counterproductive to the firewall itself i think.  </s>
+<s> so to answer your questions, no, i haven't tried that yet, but just out of curiosity i will.  </s>
+<s> i did read another discussion about something similar, computer1 could see the shared folders on computer2 but not vice versa.  </s>
+<s> i can see them on both but can only actually access the lappy from the desktop. the laptop is new (bought about 2 months ago) and i did have to use the recovery disk that came with it once, right at the begining when i had issues with nav05.  </s>
+<s> i could see some of the networking settings being lost but like i said, i can see the files just not access them.  </s>
+<s> &quot;my network places&quot; window stops responding for a min or so, then without actually opening up the folder i clicked on, it begins to respond again, where i am free to click on a shared folder again only to have it freeze again.  </s>
+<s> forgot to mention but both systems are running xp home.  </s>
+<s> now i have restored the default settings under &quot;advanced&quot; in windows firewall and deleted all existing networks found in &quot;my network places&quot;.  </s>
+<s> i have also deleted all the printers i could see that the laptop has.  </s>
+<s> adding a printer and allowing windows to search the network for a printer has fixed this problem (for the time being), i am now able to print from the lappy via the network.  </s>
+<s> also, i ran the wireless networking wizard on both puters (i used an sd card to transfer all the settings as i don't have a floppy on the lapptop nor do i have a memory stick), this seems to work fine.  </s>
+<s> one thing i was not able to do is to connect the sd card to the router, which it seems to suggest in the instructions.  </s>
+<s> i then ran the &quot;network setup wizard&quot; also on both computers as instructed by the &quot;help&quot; feature in winxp.  </s>
+<s> all that seems to have worked well and i have selected print and file sharing under the windows firewall settings.  </s>
+<s> but now instead of hanging like before, i get a new messg.  </s>
+<s> when i attempting to access the shared folders from either the desktop or the laptop; &quot;x folder is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions.  </s>
+<s> not enough server storage is available to process this comand&quot;.  </s>
+<s> any help at all would be appreciated.  </s>

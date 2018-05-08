@@ -1,0 +1,279 @@
+<s> i've just successfully installed a new linksys router and connected two computers.  </s>
+<s> i also have a notebook computer that will use wireless to connect to the internet.  </s>
+<s> how secure are my wireless connections to my router via the notebook and what keeps someone else (like a neighbor) from connecting to my router? is there a way to exclude unauthorized users?  </s>
+<s> what do i need to do?  </s>
+<s> thanks!  </s>
+<s> use wep, wpa and or mac filtering to do what you can. it no longer is enough since i could have kismac and walk past the usual wep/wpa/leap in minutes.  </s>
+<s> link to video -&gt; bob ps. there are more tools out there but i'll just note one.  </s>
+<s> well i would change the wireless setting meaning you ssid name to something other than what the default name of the router is.  </s>
+<s> then you need to change the password and just my suggestion because it is known to work and there is less holes in the encryption is to use wep 128 bit encryption and change the password from admin to whatever you want.  </s>
+<s> i would do all this by consoling into the wireless router by typing the ip addess into the web browser.make  </s>
+<s> sure you are hard wired into the wireless router into the internet port once you have connected your isp modem to the router.  </s>
+<s> for linksys i know it is 192.168.1.1 and that will take you into the router.  </s>
+<s> you also need to setup the drivers and so forth.  </s>
+<s> anyway i hope that helps and if not let me know if this did not make sense.  </s>
+<s> zerochaos  </s>
+<s> enable the wap security feature and mac access list as a second measure.  </s>
+<s> as for security wifi is not secure if youre neighbor has the time and skills then you may be out of luck but those features should delay it.  </s>
+<s> check it out now a days you can get step by step instructions on how to hack wifi networks.  </s>
+<s> do a search on google videos for wep cracking and see for your self  </s>
+<s> yes, made perfect sense.  </s>
+<s> i understand about generating the wep key, but then it gets foggy.  </s>
+<s> i assume when i try to connect via my notebook that it lets me input the wep key.  </s>
+<s> don't know much about mac addresses.  </s>
+<s> i've determined not to do any secure browsing on my notebook, but i don't know how to determine its address.  </s>
+<s> i see the numerical entry spaces to enter them, but how does one determine a notebook's mac address?  </s>
+<s> again, thanks all.  </s>
+<s> seems like wap security is a bit of a oxymoron.  </s>
+<s> i finally was able to watch the video, but had problems seeing the screen.  </s>
+<s> as a rundown, just what did the hacking tool do?  </s>
+<s> what kind of a threat would it be to my notebook and would it pose any sort of security threat to my desktops?  </s>
+<s> thanks.  </s>
+<s> john  </s>
+<s> the supplied security is only going to stop the ones that don't want to connect and use your wap. the threat is only there if you did something like share a folder.  </s>
+<s> bob  </s>
+<s> during the setup of your linksys, the setup software should have generated an alpha-numeric code for you to either write down or print.  </s>
+<s> you would then have needed this code to connect your wireless hardware to the router.  </s>
+<s> otherwise, the router will not let you connect.  </s>
+<s> if this never took place, or you bypassed it in some way, then your network is unsecured.  </s>
+<s> anyone outside your home or in a home nearby would be able to log in.  </s>
+<s> but if you went through setup properly, and got the generated code from the router, you have nothing to worry about.  </s>
+<s> if you want to see the mac address of any nic device, wireless or pci, go to start&gt;run&gt; type cmd click ok, at the command prompt, type without quotes &quot;ipconfig /all&quot; you'll see an entry that says physical address and a hex address following that.  </s>
+<s> that's your mac address.  </s>
+<s> it is also on the nic's themselves unless it's integrated with the motherboard.  </s>
+<s> in addition to changing the default ssid to a name of your choice, you should disable your router from broadcasting the ssid.  </s>
+<s> of course you should also enable the other security measures such as encryption and mac address filtering.  </s>
+<s> agree with all the foregoing replies.  </s>
+<s> nobody seems to have mentioned to disable broadcasting your ssid, so that your wireless network is invisible to the casual drive-by.  </s>
+<s> routers and access points are normally set to broadcast the ssid because it makes it easier to set up but once set up, you should change the ssid to something other than the default value and stop broadcasting it - all on your router control panel.  </s>
+<s> you then enter your new ssid in your notebook's settings and the wireless card/chip will seek out that ssid but nobody else will see it.  </s>
+<s> as others have said, enable wep/wap at the highest bit setting your router supports and enable mac filtering.  </s>
+<s> i'm running into hardware that does not work when we do this.  </s>
+<s> this advice is well meaning but it's causing support calls.  </s>
+<s> bob  </s>
+<s> while no wireless security is yet unbreakable, wpa offers you significant advantages over wep: iv length is twice as long and iv values are not replayed wpa does not directly use master keys message integrity checking is far improved wpa includes secure key management so if your router and network card offer it, i would strongly suggest enabling wpa-psk (pre-shared key) over wep.  </s>
+<s> it's at least more secure than wep (which as you saw in the video, isn't saying (too) much.  </s>
+<s> but it is the precursor to 802.11i, which will be even better than wpa.  </s>
+<s> as you all correctly indicated, wep/wpa, much like locked doors, are only designed to keep honest people out.  </s>
+<s> anyone who truly intends to break in to your wireless network will indeed do so.  </s>
+<s> what you should aim to do is make it hard enough to do that the casual hacker won't be able to do it in 10 minutes like the guy in the video.  </s>
+<s> wpa will provide that level of security.  </s>
+<s> you also talked about being afraid to do secure transactions over your wireless connection.  </s>
+<s> if the site you are working with is secure (i.e. you see in the address bar, or you see the lock icon on the bottom of the browser window), the data is encrypted end to end from your browser, over your network, to the host computer.  </s>
+<s> this includes the transit between your computer and the wireless router.  </s>
+<s> in short, as long as you're on a secure site, there is not an issue regarding someone seeing your secure-type traffic over the wireless.  </s>
+<s> for instance my palmone t|x didn't work with this off.  </s>
+<s> how do we fix this and other hardware such as repeaters, game adapters?  </s>
+<s> bob  </s>
+<s> &quot;two networkworldfusion writers pointed out last month kismacs ability in a great overview of wpas weakness and the justification for adopting 802.1x plus wpa.&quot; there is a lot of marketing going on in the wireless world.  </s>
+<s> don't fall for it.  </s>
+<s> it's broken.  </s>
+<s> not secure as they want you to believe.  </s>
+<s> bob  </s>
+<s> how about a vpn?  </s>
+<s> finds research in 2005 and 2006 about vpn security issues.  </s>
+<s> what's not good news is that most vpn systems i've used are from 2000 and older.  </s>
+<s> bob  </s>
+<s> how secure is a d-link di-624 high-speed wireless router?  </s>
+<s> thanks.  </s>
+<s> one word, hacking.  </s>
+<s> wireless networks increase the chances you will be hacked.  </s>
+<s> internal networks are not accessable from the outside, wireless networks are accessable within 'the zone'.  </s>
+<s> i have wanted to use this link for quite a while now what you should ask is why someone would want to hack your net. the answer is simple, simply obserbing over the air transmissions can allow a person to gain access to sensitive infromation (such as your name, credit card, and possibly your ssn).  </s>
+<s> this, of course, would be infromation gathered though your daily use of the net.  </s>
+<s> most people have their names associated with their accounts, many people shop online, and some people use online bill paying.  </s>
+<s> now before you go proclaiming that it is remember that this guy is not hacking the webserver but just listining in to what you are broadcasting.  </s>
+<s> now the real issue is the chances that a person would be skilled enough or care enough to try hacking your network would try hacking your network.  </s>
+<s> i guess that it would better depend on where you live... personally, i say that the chances are negligable, identity theft may be common, but getting a wireless network sniffer working and learning how to filter the infromation out takes time.  </s>
+<s> lots of time... eventually people may start making a practice of it, but when can not be said for certain.  </s>
+<s> yes https will encrypt data, but even if your browser encrypts the data it is by far less then what the server encryption is.  </s>
+<s> basically, if your browser does encrypt the data that means it must recieve a encryption key or generate one.  </s>
+<s> both of these can be caught durring the transmission.  </s>
+<s> if the encryption key is generated via algorithm and you are sent the algorithm then all you need is to procure the algorithm and inplement the propper variables.  </s>
+<s> only if a person does not attempt to hack it.  </s>
+<s> i can not say for certain what protocol linksys employs but the sad fact is that wireless protocols are flawed.  </s>
+<s> it can be beat even if it is automatically set up.  </s>
+<s> basically, if you want security it depends on the features, and that is only minimal security at that.  </s>
+<s> a) wep or wpa protection is the primary defense b) limiting mac address's.  </s>
+<s> takes very little time to bypass but it is a 'little more' protection c) some routers will allow you to set ip ranges.  </s>
+<s> (basically the amount of 'ports' allowed) i am not certain of the weakness' here except that if an additinal person needs to access your network you need to add an extra port.  </s>
+<s> d) disabling ssid broadcast note, d can cause issues with older hardware.  </s>
+<s> i know it isn't much of an answer, but it is true that some devices need that ssid broadcast.  </s>
+<s> now given that you are using a palm you may beable to find a software hack that with patch it.  </s>
+<s> i am not certain if it is purly software or hardware causing the limitation, but it may be worth a try.  </s>
+<s> thank for note d. in addition, wireless extenders, game wifi adapters (zero config ones especially), wifi cameras and more fail spectacularly without ssid broadcasts.  </s>
+<s> it's not much of a security leak issue so i only disable it when asked to do so.  </s>
+<s> also some drivers (even new ones) on some wifi cards fail without it.  </s>
+<s> this advice in my view has made money for my tech friends as they roll out to fix it.  </s>
+<s> bob  </s>
+<s> go figure why. it could be many reasons but it's worth it for it to work for me to leave ssid enabled.  </s>
+<s> bob  </s>
+<s> for most run-of-the-mill routers these days, if they support it, choose wpa/aes.  </s>
+<s> better yet, if you can, choose wpa2/aes (although wpa/aes is about the same). the links proclaiming wpa is cracked all seem to say the wpa machines which were wpa/psk, and were cracked by using a dictionary-type of crack on passcodes that were short words from the dictionary.  </s>
+<s> so if you use a long password full of gobblety-**** characters, you are still very safe.  </s>
+<s> something like: a3k58f8wey53di238skd3i2201w1 or whatever number of characters you can put in for a max.  </s>
+<s> links about it:  </s>
+<s> disabling your ssid causes more trouble than it's worth.  </s>
+<s> for one, any hacker that wants to see you can easily do so with just about any hacking program.  </s>
+<s> heck, my stupid little $40 wifi-finder finds hidden ssid's now. the only advantage to hiding your ssid is to keep free-wifi hopefuls from finding you easily and stealing your bandwidth.  </s>
+<s> and if you have any form of security on, these types of people won't want to waste the time trying to hack your wifi -- they'll just move on and try to find another open wifi signal somewhere down the street.  </s>
+<s> don't waste your time with it.  </s>
+<s> but i see wpa/aes is not an option in my wifi card and driver.  </s>
+<s> how to fix that?  </s>
+<s> bob  </s>
+<s> install the following: 1. a firewall better than microsofts (too buggy and unsecure) zomealarm or norton security are two.  </s>
+<s> 2, anti-virus software: zone alarm suite or norton anti-virus 3. to have a utility program look for norton systemworks (comes with an antivirus (keyword: free) or system mechanic professional.  </s>
+<s> (also has a firewall an antivirus ad pop-up blocker) good luck.  </s>
+<s> then i'd say you might want to consider an upgrade, if you're truly concerned about security.  </s>
+<s> i think with wpa/psk and a long, jumbled-up code, you're more than fine until we hear different.  </s>
+<s> in my experiance, most people can't use search engines to their maximum efficency.  </s>
+<s> if you are looking for a 'how-to-hack' guide you need to look past simple blog sites.  </s>
+<s> first, i am no expert in the matter but the fact is that with wireless networks may be.  </s>
+<s> a) encrypted, meaning that to gain access to the data in the stream you need a decryption code and/or algorithm b) protected, to procure your own stream you need to meet certain requirements and send it to the router.  </s>
+<s> encryptions is just a matter of procuring or generating an algorithm, and protected is just a matter of sniffing out the key.  </s>
+<s> there is no 'safe' wireless network protocol because they all involve the transpher of infromation in the open.  </s>
+<s> getting an encyption algorithm probally is much harder then simply breaking a protection seal, but it is not impossible.  </s>
+<s> pgp is so good that the us gov keep dragging its author to court and other places but thankfully it survives to this day.  </s>
+<s> research pgp and how it works to see there is hope.  </s>
+<s> bob  </s>
+<s> while firewalls, anti-virus, and spyware tools are essential to protecting the computer, they do not address the topic, nor do they prevent a network breach.  </s>
+<s> wireless communication is inherently insecure as evidenced by the articles presented earlier in the topic by several contributors.  </s>
+<s> the key issues to understand are: 1.) am i susceptable to an attack?  </s>
+<s> if you are using wireless then the answer is unfortunately yes.  </s>
+<s> 2.) will i suffer from an attack?  </s>
+<s> that depends on where the wireless is being used.  </s>
+<s> for a typical home network, the prevalent answer is probably not.  </s>
+<s> with basic precautions - wpa/psk and mac filtering, the odds are quiet small as the time required to break the key involves days of hacking.  </s>
+<s> most of us would be observant enough to notice a strange vehicle or person sitting within 100-200 feet of our house, using a computer, to attempt to hack there way through the authentication process. the hacker would simply look for the ''unsuspecting'' user who isn't using any, or very little, protection.  </s>
+<s> also, lets be honest here, the odds of an interception of critical information, at the exact time of transmission, are rather remote. the more important issue is leaving confidential data vulnerable should a network breach occur.  </s>
+<s> by instituting strict firewall rules, eliminating shared folders, and encrypting sensitive data (credit card numbers, password files, etc.) you present a profile that the neighborhood hacker will avoid.  </s>
+<s> a dedicated hacker will always get through eventually, but the average home user just doesn't have data ''worth'' the time and effort required.  </s>
+<s> parking lot attacks on businesses are a much more attractive target for these hackers.  </s>
+<s> while security should always be a concern, it should be tempered with common sense.  </s>
+<s> as i mentioned above, and provided links for, wpa/psk has only been broken in a case where a simple word key was used -- one that could be found in the dictionary -- and a &quot;dictionary flood attack&quot; was used.  </s>
+<s> many routers will sense a flood attack and block it these days.  </s>
+<s> but that's just the start of it.  </s>
+<s> wpa/psk has not been broken in any other circumstances, such as where the password was something like a38fnn38aeaj38ayu322adeo. if it has, please provide us with a link.  </s>
+<s> and wpa/aes is even stronger.  </s>
+<s> comment?  </s>
+<s> mine is this.  </s>
+<s> how do you know you have yours patched up?  </s>
+<s> bob  </s>
+<s> nice try, but if you watch the video, you will realize that the dell computer was an access point created for the demonstration. the mac computer had to be connected to that access point.  </s>
+<s> any wifi dummy knows that you shouldn't connect to a random open access point belonging to some unknown individual and expect to be fully secure.  </s>
+<s> it doesn't matter if you are running all of the security in the world, if you connect to a foreign machine, you have to know that you are taking a risk.  </s>
+<s> this was not a demonstration on someone using their laptop to grab a signal from a random company's wifi access point out in the field, and then hacking into it via device drivers.  </s>
+<s> this is a demonstration of a 3rd party computer hooking into their access point, then they were able to do damage to the other computer.  </s>
+<s> i also saw absolutely no mention of whether wpa or even wep was employed.  </s>
+<s> that wouldn't matter much anyway, if you connected to a 3rd party ap that wasn't part of your own system.  </s>
+<s> patches. the attack employed said extra ap as part of the attack.  </s>
+<s> it was a great idea but the extra ap was not the target of the attack.  </s>
+<s> you seem to think this stuff is secure.  </s>
+<s> it's not.  </s>
+<s> i don't want to keep tossing out more and more exploits but to share that we should be asking for something as secure as say pgp. now that would be impressive.  </s>
+<s> bob  </s>
+<s> dfichtner, my point was not about the strength, or lack of strength, of the wpa/psk scheme of security.  </s>
+<s> i agree, with all bits being utilized, with random numbers and letters, it has not been proven to be broken, based on your criteria.  </s>
+<s> by the same token, my point was that the average hacker will/can not make themselves vulnerable by sitting within 100-200 feet of your house, trying to break your key for hours at a time without being noticed. the average home user doesn't have data valuable enough to warrant that type of attack, and if they did, they wouldn't be using wireless, they would be using an ethernet cable, ipsec encrytion, and l2tp at the bare minimum.  </s>
+<s> i just want people to use a little common sense along with there security.  </s>
+<s> that's all i was trying to say.  </s>
+<s> people don't make their homes into fort knox to protect their wife's $114.95 walmart gold charm.  </s>
+<s> i still don't see their test working unless the attacking machine is an ap that the attacked machine hooks up to.  </s>
+<s> they have not demonstrated how they can &quot;sniff out&quot; a signal from another laptop and just hack into it.  </s>
+<s> i really am bummed that they used a 3rd party card with a mac.  </s>
+<s> actually, i am very suspect because they never told us the card's brand name.  </s>
+<s> it's as if they tried to keep it as annocuous as possible so they wouldn't get sued and have to prove it all or something.  </s>
+<s> with that said, i can't disagree with you that eventually, just about anything seems to be compromised eventually.  </s>
+<s> people can be pretty creative in figuring out ways to hack stuff. the more technology there is, sometimes, it seems like the more holes develop.  </s>
+<s> for now, though, i think wpa is pretty safe.  </s>
+<s> especially for the average home user.  </s>
+<s> i never saw any mention of a firewall in use during that video, or a good live virus scanner.  </s>
+<s> have to watch that one again.  </s>
+<s> let's remind ourselves that in public key encryption, the encryption keys are never exchanged directly between the parties. the keys are generated with a combination of information that is indeed exchanged plus information that is generated locally and kept secret by each party.  </s>
+<s> so even if a &quot;man in the middle&quot; attack sniffs out the info that is traded between the two parties, the keys still cannot be guessed because the eavesdropper cannot determine what info is being held back in secret.  </s>
+<s> that's the miraculous part of the whole affair: that locally-held secret info, together with the info exchanged, can still generate identical keys.  </s>
+<s> of course if someone hacks your machine and installs a keystroke sniffer, then you're in trouble.  </s>
+<s> but let's not forget how public-key encryption works: that's the standard for secure browsing.  </s>
+<s> the jury still's out on this one.  </s>
+<s> bob  </s>
+<s> the victim machine in the demo was not previously connected to the access point, as you seem to imply.  </s>
+<s> at the start of the video, the guy clearly says that the victim machine does not have to be previously associated with the access point or authenticated in any way.  </s>
+<s> you're missing the point when you tell us not to randomly connect to an unknown ap. that's not the issue here at all.  </s>
+<s> first let me apologise.  </s>
+<s> there are so many exploits i've been shown and there are more that i'll mess up a reply now and then.  </s>
+<s> sorry about that.  </s>
+<s> but about random connections.  </s>
+<s> some machines are set to automatically connect to nearby aps.  </s>
+<s> maybe this is a feature that must go away since it can be part of the exploit?  </s>
+<s> or should we be more demanding?  </s>
+<s> bob  </s>
+<s> hi bob, i am confused by your response.  </s>
+<s> to be absolutely sure, is this statement correct: you also talked about being afraid to do secure transactions over your wireless connection.  </s>
+<s> if the site you are working with is secure (i.e. you see in the address bar, or you see the lock icon on the bottom of the browser window), the data is encrypted end to end from your browser, over your network, to the host computer.  </s>
+<s> this includes the transit between your computer and the wireless router.  </s>
+<s> in short, as long as you're on a secure site, there is not an issue regarding someone seeing your secure-type traffic over the wireless.  </s>
+<s> is it a sure thing.  </s>
+<s> this is very important.  </s>
+<s> if not, please explain.  </s>
+<s> thanks, bob  </s>
+<s> how to exploit wifi.  </s>
+<s> you may be the &quot;show me&quot; type and i'd have to offer exploit with proof for every setup.  </s>
+<s> if one did post all the exploits in one place then that's the cookbook page.  </s>
+<s> you are right that is great but how to get around the evil twin issue?  </s>
+<s> that one is a stumper.  </s>
+<s> in closing, i hope you understand that wifi needs a rock solid security solution but various governments don't want it to be that secure.  </s>
+<s> i know this because i was on a team doing 2 way wireless paging.  </s>
+<s> bob  </s>
+<s> hi bob, actually, all i really needed was a yes or no answer.  </s>
+<s> i'm not a ''show me'' person.  </s>
+<s> i've always found your answers, to my posts, to be correct and insightful.  </s>
+<s> i'm assuming it's a no. i know of but not about the evil twin.  </s>
+<s> time for some in-depth research.  </s>
+<s> thanks for pointing me in the right direction! the original statement gave me a false sense of security.  </s>
+<s> i apprecite the background material though.  </s>
+<s> thanks bob  </s>
+<s> yes. for most the provided security is good enough.  </s>
+<s> no. the current wifi security is not good enough for me to do business over any other than my wifi router.  </s>
+<s> bob  </s>
+<s> hi bob, thanks, bob  </s>
+<s> btw, the information provided on this post has been enlightening, especially for some one that is only a novice.  </s>
+<s> based on what has been discussed (security issues), it probably would not be prudent for me to install wireless ip cameras, unless it is connected to the wireless router via an ethernet connection. is this correct?  </s>
+<s> i'm looking at the linsys wvc54g model, only because i have a linsys wireless cable router (wcg200).  </s>
+<s> also, can someone recommend another brand of camera that will work with my current router because based on reviews, this model is some what difficult to set-up, especially for a novice - like me.  </s>
+<s> thanks.  </s>
+<s> is that you don't want others to see the camera video?  </s>
+<s> but beware that i've found most wifi cameras to fail a simple test.  </s>
+<s> here it is.  </s>
+<s> set it all up, get the video going.  </s>
+<s> now drop power to the camera.  </s>
+<s> count to 20 and then turn the camera power back on.  </s>
+<s> every single wifi camera system so far never recovers.  </s>
+<s> -&gt; this means this system would never make a good surveillance solution.  </s>
+<s> too unreliable.  </s>
+<s> bob  </s>
+<s> or is that because they are connected to a dvr/computer, the entire system gets reset...  </s>
+<s> it's the surveillance software that is at fault.  </s>
+<s> it's not robust.  </s>
+<s> on your average wired cctv the dvr does not care if video vanished.  </s>
+<s> it may sound an alarm but it doesn't hang the system.  </s>
+<s> bob  </s>
+<s> i,m new and want to hook up a wirless network and like everybdy concerned about security.  </s>
+<s> i,m told to get a router with vpn as a firewall.  </s>
+<s> is this better  </s>
+<s> i have a linksys-g adsl home gateway and are looking for a way to secure it ie lock it could someone help me.  </s>
+<s> daveieboy  </s>
+<s> i guess i'll weigh in on how secure wpa/wpa2 is.  </s>
+<s> at present the only effective attack against wpa/wpa2, is an offline dictionary attack.  </s>
+<s> if you use a paasphrase for your psk that consists of a word found in the dictionary, then you are extremely vulnerable.  </s>
+<s> in one demonstation the word sausages was used.  </s>
+<s> i took a little over 3 minutes to retrieve the psk.  </s>
+<s> when precomputed hashes were used it took only 0.2 seconds.  </s>
+<s> to mitigate this threat, complex random psk's must be used.  </s>
+<s> ideally, you want to use a 64 digit hexidecimal.  </s>
+<s> using a hex of this size negates the offline dictionary attack, since a hex is not going to be in a dictionary file, and a 64 digit hex is used as the pairwise master key, avoiding the hashing procces that creates the vulnerability.  </s>
+<s> this leaves an attacker with one optio, a good old fashion brute force attack.  </s>
+<s> if a 64 digit hex is use then each of the 2^256 possibilities must be check.  </s>
+<s> that comes out to 1.1579208923731619542357098500869x10^77 possibilities.  </s>
+<s> if you could produce a device that could check a billion billion possibilities (no such device exists at present), then it would take you 3.671x10^51 years to check each possibility.  </s>
+<s> needless to say, this make the brute force method computationally infeasable.  </s>
+<s> if you do not have a tool to produce such a value, simply go to: while there is no such thing as forever secure, (once upon a time it was computationally infeasable to brute force des) with a little effort you can make wpa/wpa2 reasonably secure.  </s>

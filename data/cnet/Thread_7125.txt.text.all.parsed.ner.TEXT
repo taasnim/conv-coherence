@@ -1,0 +1,23 @@
+<s> i got strange problem with my p4 intel genuine processor 2.4ghz/512/533 ... that processor my windows and my pc read it ''2.4ghz ~ 1.6ghz'' !!! in that pictures u can c what i got !!! so, anybody have idea why that happend?!?! i updated my bios and nothing happend... no jumpers in my gigabyte 8ig1000 motherboard to change... so, what is it?!!!  </s>
+<s> i have a 2.4ghz cpu and the multiplier is 18. you'll have to try your bios defaults and if not, get a newer board.  </s>
+<s> bob  </s>
+<s> first: what's the multiplier?!?!! second: what is the bios defaults??! do u mean &quot;load fail safe defaults&quot; in the setup menu?!!  </s>
+<s> i see the multiplier is 12 and should read 18. as to the rest... do check your motherboard manual.  </s>
+<s> i don't have a copy and you didn't give the link to it.  </s>
+<s> bob  </s>
+<s> hes right, it is the multiplier.  </s>
+<s> konny  </s>
+<s> i didn find anything to change the multiplier... all i did that i found a way to increase the frequancy of the processor from 133 to 200 and when i start now it gives me 200x12=2.4ghz  </s>
+<s> instead of 133x12=16ghz so, anyway to make the (12) -&gt; (18)?? or that's it?!!  </s>
+<s> you can't change the multiplier on an intel.  </s>
+<s> no motherboard that supports intel cpus gives you the option to change it because it's locked on most intels.  </s>
+<s> i have heard of a few motherboards giving you the option *and even then you can only change it if it's one of the rare unlocked intels* but i don't remember what they were.  </s>
+<s> multipliers are locked on all cpus except for amd's mobile cpus.  </s>
+<s> it sounds like intel gave you a faulty cpu, making the multiplier too low.  </s>
+<s> it may be still under warranty, so try to get a replacement.  </s>
+<s> if you can't and wish to keep your motherboard, this one will give you almost the same performance:  </s>
+<s> if it is, there are plenty of people that would pay $$$ to get their hands on it.  </s>
+<s> if i were you, i would determine if it was a developer's chip first before rmaing it.  </s>
+<s> if it was, i would sell it to the highest bidder, lol.  </s>
+<s> why all that??!! is mine best than multiplier 18 ?!!  </s>
+<s> your fsb was set wrong... 12x200 is giving you 2.4 it's an 800 fsb pentium 4 unless you have a document from intel that proves otherwise, i'm telling you the fsb has been set to low set it at 200 fsb and go with it also, on multiplier locking: intel has super locked the multiplier on all of their chips with the exception of the es chips (engineering sample) and they sell for $900+ regularly on ebay using multipliers to oc is the way most people think it should be done as people are affraid of running the fsb and screwing up the hdd and os due to the lack of an agp/pci lock waht they don't realize is that 90% of newer boards have the agp/pci lock (depends on the chipset) and what even less people realize is that running an intel at fsb 250 and doing 4ghz is actually going to be a lot more powerful than doing fsb 200 and 4ghz the bandwidth helps the chip too ya know running it at 200 is fine if it's stable, even if it's not the correct fsb, if it's stable and your temperatures aren't going over the top it should be fine also, check that vcore that's wicked high no p4 has ever run a stock vcore over 1.75, those are willamettes, and those are very old presscott is in the 1.3-1.4 range northwood iirc is in the 1.5 range you may wanna lower that (and if it needs to run with that high of a vcore/low clock to be stable, you got some serious issues) 2.1 is outrageous, no chip has used that @ stock for 3-4+ years as for multi-locking on amd chips athlonxp-m and athlon64 fx chips are the only unlocked chips sold athlon64 and athlonxp cpu's are super locked just like intel chips athlonxp's from way long ago (pre-week 39 2003) are also not super locked, and you can pin mod them to unlock them  </s>

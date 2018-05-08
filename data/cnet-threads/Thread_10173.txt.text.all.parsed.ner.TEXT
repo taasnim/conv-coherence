@@ -1,0 +1,16 @@
+<s> i have been using my hp dvd740b for several months without any problem.  </s>
+<s> last time i used it was last week and i had no problem at all with it.  </s>
+<s> i have not made any changes to my computer settings nor have i installed new programs but now it is not working.  </s>
+<s> i am using nero and roxio and neither will get passed 3%.  </s>
+<s> this is the error message i get.  </s>
+<s> 5c80001080000000005666878691 windows xp 5.1 ia32 winaspi: file 'wnaspi32.dll':  </s>
+<s> ver=4.57 (1008), size=48128 bytes, created 12/22/1997 5:23:24 pm ahead winaspi: file 'c:program filesneronero 7corewnaspi32.dll': ver=2.0.1.74, size=164112 bytes, created 11/2/2004 1:54:32 pm nt-spti used nero version: 7.0.0.0 recorder: &lt;hp dvd writer 740b&gt; version: dc24 - ha 1 ta 0 - 7.0.0.0 adapter driver: &lt;ide&gt; ha 1 drive buffer : 2048kb bus type : default (0) -&gt; atapi, detected: ?  </s>
+<s> cd-rom: &lt;hp dvd writer 740b &gt;version: dc24 - ha 1 ta 0 - 7.0.0.0 adapter driver: &lt;ide&gt; ha 1 === scsi-device-map === cdromperipheral : hp dvd writer 740b atapi port 0 id 0 dma: on cdromperipheral : hl-dt-st cd-rom gcr-8483b atapi port 0 id 1 dma: off diskperipheral : wdc wd1600jd-00fyb0 atapi port 1 id 0 dma: on diskperipheral : wdc wd400jd-75hka1 atapi port 2 id 0 dma: on === cdrom-device-map === hp dvd writer 740b e: cdrom0 hl-dt-st cd-rom gcr-8483b f: cdrom1 ======================= autorun : 1 excluded drive ids: writebuffersize: 73400320 (0) byte showdrvbufstat : 0 bufe : 0 physical memory : 502mb (514140kb) free physical memory: 127mb (130648kb) memory in use : 74 % uncached pfiles: 0x0 use inquiry : 1 global bus type: default (0) check supported media : disabled (0) 25.4.2006  </s>
+<s> udf/iso compilation 5:40:34 pm  </s>
+<s> try using another new &quot;namebrand&quot; media to burn to.  </s>
+<s> if it fails, then reset burning speed to a lower level on yet another new media disk.  </s>
+<s> fyi - its not good to have both nero and roxio on the same system, pick one and stick with it.  </s>
+<s> tada -----willy  </s>
+<s> i thought i could consider verbatium or imation pretty name brands when it comes to dvd's. the thing is, these are dvd's that have always worked on this burner until this week.  </s>
+<s> i will uninstall roxio since i never use it anyway, its just a backup system incase something doesnt work, plus it was there before i bought nero.  </s>
+<s> i will try this and update if i still have problems.  </s>

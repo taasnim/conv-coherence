@@ -1,0 +1,42 @@
+<s> i need help with this file and printer sharing stuff.  </s>
+<s> i have two computers. 1 running xp home.  </s>
+<s> another running xp pro.  </s>
+<s> they are connected (wire) to a d-link airplus xtreme g wireless router.  </s>
+<s> that is connected to a surfboard cable modem connected to roadrunner.  </s>
+<s> i finally got them both to connect to the nternet, but how do i get them to share files on each other. the main computer (we'll call it &quot;home1&quot;) has the printer connected to it. it also has 2 hd (1 has 8 partitions).  </s>
+<s> the second computer home2 is basically my kids computer (just the essentials).  </s>
+<s> i ran the home networking wizard on both, but i still can't see either one from the other.  </s>
+<s> i thought this would be easier than this......:-(  </s>
+<s> 1) anything set to share?  </s>
+<s> 2) workgroup name the same?  </s>
+<s> 3) try searching for the computers using the search tool 4) what does net view show?  </s>
+<s> 5) try pinging each computer.  </s>
+<s> .  </s>
+<s> i have set a few folders to sharing, and it seems to be set properly on home2.  </s>
+<s> however, i still can not see home1 from home2 and vice-versa.  </s>
+<s> when i ran the home networking wizard on home2, everything went fine.  </s>
+<s> when i ran it on home1, it gave me an error and said something abuot how this &quot;setup&quot; was not secure and it would enable icf.  </s>
+<s> i have both computers connected directly to the router.  </s>
+<s> this example is not shown in the home networking wizard. the closest one is the one under: &quot;this computer connects to the internet directly or through a network hub.  </s>
+<s> other computers on my network also connect to the internet directly or through a hub.&quot; as far as i know, there is no firewall enabled on the router.  </s>
+<s> my primary intention was to be able to share files and be able to print files from home2 to the printer connected to home1.  </s>
+<s> i consider myself more knowledgeable than the average-joe-computer-user, but this has me stumped.... &gt;:(  </s>
+<s> 1) both computers are on the same workgroup name 2) disable icf or any other firewall programs 3) check the ip addresses of each nic, they should be in the 192.168.1.xxx range with subnets of 255.255.255.0.  </s>
+<s> set there ips to be obtained automatically, if the router is set to act as a dhcp server.  </s>
+<s> 4) try to ping each computers ip from the other, without a successful response you will never have a working lan.  </s>
+<s> checklist - 1) both computers are listed for the same workgroup: mshome 2) disabled icf in windows (both computers).  </s>
+<s> i have norton internet security, norton antivirus and zonealarm pro active on comp&quot;a&quot;.  </s>
+<s> comp&quot;b&quot; has no antivirus or firewall programs yet.  </s>
+<s> 3) ip addresses are 192.168.0.1 for comp&quot;a&quot; and 192.168.0.101 for comp&quot;b&quot; subnets 255.255.255.0 and both are set to accept ips automatically.  </s>
+<s> 4) using the command prompt, i am able to ping each computer from the other.  </s>
+<s> okay, just this afternoon, from comp&quot;b&quot;, i checked my network places, clicked on view workgroup computers and i can now see both computers.  </s>
+<s> i can click on the comp&quot;b&quot; and see the shared files and such.  </s>
+<s> i click on comp&quot;a&quot; and get this message: \compb is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions. the network path was not found.  </s>
+<s> i went back to comp&quot;a&quot; and disabled zonealarm and nis and i still get this error.  </s>
+<s> on comp&quot;a&quot; when i click view workgroup computers, i takes about 30-45 seconds and then i get an error saying it's not available (or something to that effect).  </s>
+<s> below.  </s>
+<s> za while set to off is often times not truly off.  </s>
+<s> try an experiment by uninstalling za then try the network.  </s>
+<s> after the net is up and running reinstall za.  </s>

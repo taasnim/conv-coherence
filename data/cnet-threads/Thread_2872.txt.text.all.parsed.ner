@@ -1,0 +1,4 @@
+(TOP (SBARQ (WHNP (WP what)) (SQ (VP (AUX is) (NP (NP (DT the) (JJS best) (NNS graphics) (NN card)) (SBAR (WHNP (WDT that)) (S (VP (VBZ fits) (NP (DT a) (money (ADJP ($ $) (CD 250)) (NN budget))))))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (NP (DT no) (NN preference)) (PP (IN between) (NP (NNS ati) (CC or) (NNS nvidia)))) (SBAR (RB just) (IN so) (S (NP (JJ long) (NN performance)) (VP (AUX is) (VP (VBN given) (NP (JJ top) (NN priority))))))) (. .)) )
+(TOP (FRAG (CC or) (ADVP (RB 6600gt)) (. .)) )
+(TOP (S (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (NP (DT a) (NN x800pro)) (PP (IN on) (NP (NN newegg)))) (PP (IN for) (NP (CD 250)))))) (: ...) (CC and) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (DT a) (VBN refurbished) (NN 6800gt)) (PP (IN for) (NP (CD 255))) (PP (IN at) (NP (NN newegg))) (ADVP (RB as) (RB well))))) (. .)) )

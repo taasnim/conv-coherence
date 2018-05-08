@@ -1,0 +1,20 @@
+<s> hi folks, i am thinking of connecting two different wifi connections in my college.  </s>
+<s> its like there are two hostels with there wifi connection can i connect these two networks by any means.  </s>
+<s> thanks  </s>
+<s> sorry but it's quite vague what you want to do.  </s>
+<s> some want to connect to both wifi connections at the same time and hope this is possible to speed up downloads.  </s>
+<s> sadly this would take not only a second chunk of hardware for the wifi client but an os that could bond the two channels.  </s>
+<s> this is not a trick for windows today.  </s>
+<s> bob  </s>
+<s> bridges are there to connect two or more subnetworks to form a network but everything is wired now if there are two wifi networks can i connect them as a single network by any hardware?  </s>
+<s> since all i have to work with is your words and i don't see a plan of the network i'll pick your words as follows.  </s>
+<s> &quot;everything is wired now if there are two wifi networks can i connect them as a single network by any hardware?&quot;  </s>
+<s> let's disict this.  </s>
+<s> if so we have a lan (that's the wired part) and on 2 locations we have a wap.  </s>
+<s> ipso facto these waps on on the same lan and as such don't need any additional hardware.  </s>
+<s> bob  </s>
+<s> see i take a case two big hostels named a and b, they have wifi connection of there own there is no big wifi connection in whole campus now these two hostels are some distance apart ok so for makin them as single network like we do in wired lan by help of bridge can i connect them?  </s>
+<s> do that.  </s>
+<s> sorry but this is not something i can tell you a step by step since your posts are so light in the details needed.  </s>
+<s> and since this is all volunteer i won't conduct a long interview where you could just craft a complete post.  </s>
+<s> bob  </s>

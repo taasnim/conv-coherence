@@ -1,0 +1,27 @@
+<s> my pc is suddenly not automatically playing cd's or dvd discs when i insert it in the drive.  </s>
+<s> it use to come up (autoplay) whenever i inserted a disc. the only way it will autoplay now is if i boot up the pc with a disc already in the dvd drive.  </s>
+<s> i have already tried to update the driver in windows xp (home edition) and i even checked the registry to see if the drive is set to autoplay. the drive itself is a pioneer dvd 16x slot drive.  </s>
+<s> my dvd drive is set to secondary slave, and i have a cd burner (tdk 40x) is set to secondary master.  </s>
+<s> if i am forgetting any information, just let me know, and i will post it.  </s>
+<s> thanks for any info you can provide.  </s>
+<s> same here.  </s>
+<s> almost identical situation.  </s>
+<s> did you upgrade the driver for your amd motherboard recently?  </s>
+<s> that's the only thing i've done, and i wonder if i screwed something up there.  </s>
+<s> i hope someone can help us out.  </s>
+<s> i just remembered, i just upgraded the agp driver for the motherboard, and i'm pretty sure that wouldn't cause the problem you and i are having.  </s>
+<s> someone help us!  </s>
+<s> i have since resolved the dvd and cd burner drives not autoplaying, but i probably did it the hard way no thanks to this forum.  </s>
+<s> i finally ended up reformating my hard drive and reinstalling windows xp. i noticed in my windows xp, in the device manager under ide ata/atapi controllers that the primary and secondary channels under my properties that xp was missing the advance settings tab which has dma settings for the drives.  </s>
+<s> i have a asus p4pe motherboard which is a intel based.  </s>
+<s> if i were you, i would try uninstalling the motherboard drivers and reinstalling them first.  </s>
+<s> if that doesn't work, you may have to do it like i did.  </s>
+<s> hope this helps you out.  </s>
+<s> oh, another possible solution for you might be to try system restore if you have xp like i do.  </s>
+<s> it didn't work for me because my windows xp was totally shot!  </s>
+<s> fresh windows xp install seemed to be my only option.  </s>
+<s> my autoplay problem is solved.  </s>
+<s> download &quot;enable cd autoplay for pro&quot; (tweak # 10).  </s>
+<s> i had to disable my anti-virus software to do it.  </s>
+<s> (i didn't have any security issues resulting from this.) that fixed it!  </s>
+<s> good luck!  </s>

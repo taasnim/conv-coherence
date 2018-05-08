@@ -1,0 +1,6 @@
+(TOP (S (NP (PRP i)) (VP (VP (AUX am) (VP (VBG looking) (PP (IN at) (S (VP (VBG buying) (NP (DT a) (JJ new) (NN monitor))))))) (CC and) (VP (AUX am) (VP (VBG wondering) (SBAR (IN whether) (S (VP (TO to) (VP (VB get) (NP (DT a) (NN crt) (CC or) (NN lcd) (NN monitor))))))))) (. .)) )
+(TOP (S (AUX is) (NP (NP (DT a) (NNS professors) (NN view)) (PP (IN on) (NP (DT the) (NN issue)))) (VP (VBZ contains) (SBAR (S (NP (JJ great) (NN information)) (VP (AUX is) (SBAR (S (NP (NP (DT a) (NN discussion)) (PP (IN on) (NP (DT the) (NN subject)))) (VP (AUX is) (NP (NP (RB just) (DT an) (NN advice)) (SBAR (S (NP (NP (DT all)) (PP (IN of) (NP (DT this)))) (VP (VBZ comes) (PP (IN from) (NP (NP (DT a) (JJ google) (NN search)) (PP (IN for) (NP (NN crt) (CC versus) (NN lcd) (CC or) (NN crt) (CC versus) (NN lcd) (NN -tv))))) (S (VP (TO to) (VP (VB exclude) (NP (NP (NN information)) (PP (IN on) (NP (NN tv) (POS 's)))))))))))))))))) (. .)) )
+(TOP (S (ADVP (NNS thanks)) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (VBD helped)) (. .)) )
+(TOP (INTJ (JJ happy) (NN reading) (. !)) )
+(TOP (NP (NNPS kees)) )
+(TOP (FRAG (SBAR (WHNP (WDT which)) (S (VP (VP (AUX is) (ADJP (RBR more) (JJ reliable) (, ,) (JJ recommeneded))) (, ,) (CC or) (VP (AUX is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB last) (NP (DT the) (JJS longest)))))))))) (. ?)) )

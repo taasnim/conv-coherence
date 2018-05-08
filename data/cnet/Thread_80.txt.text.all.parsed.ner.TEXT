@@ -1,0 +1,51 @@
+<s> i'm not sure if this is the right forum, but bear with me, i'm new here.  </s>
+<s> that said, here is my problem: i want to find a wiring diagram for a laptop lcd/tft screen so i can make an adapter to plug it into my graphics card and have a secondary monitor.  </s>
+<s> where would i find info on this?  </s>
+<s> thanks for any help in advance!  </s>
+<s> see if helps, but its been over a decade and i've yet to see anyone do this.  </s>
+<s> best of luck!  </s>
+<s> bob  </s>
+<s> no luck on the previous post, but i do thank you for your input!  </s>
+<s> anyone have any more suggestions?  </s>
+<s> i'm sure you have checked but most laptops i have seen lately have a vga output built in and a connector for the cable in the back.  </s>
+<s> this does not necessarily add the ability to run two monitors at a time.  </s>
+<s> this takes special circuitry and not just parallel wiring.  </s>
+<s> quote from steven haninger &quot; i'm sure you have checked but most laptops i have seen lately have a vga output built in...&quot; this is true, but i am looking for an input.  </s>
+<s> i don't need to display from the lcd, but to it.  </s>
+<s> i have been searching endlessly and found that at least two people have used the vesa connector on their graphics cards to connect a laptop lcd to their desktops.  </s>
+<s> but the best quality of color they have gotten is 16 colors.  </s>
+<s> i am looking for at least 16 bit and a resolution of at least 1024x768.  </s>
+<s> this is why i thought that maybe with the pinouts of my graphics card, and the pinout of an lcd, i would be able to have a primary (or secondary) monitor.  </s>
+<s> thank you for the input steven, but i'm afraid i sitll haven't gotten the answer i'm looking for.  </s>
+<s> i'm still open for suggestions for anyone that has them!  </s>
+<s> thanks again!  </s>
+<s> it's like we watch you struggle at the end of a rope.  </s>
+<s> someday it will dawn on you that such a &quot;adapter&quot; or &quot;rewiring&quot; doesn't work.  </s>
+<s> how can i shorten the time it takes you to realize that laptop lcd's are not vga displays in disguise?  </s>
+<s> you don't want to know the truth so you may struggle trying to do this for weeks and months.  </s>
+<s> here's hoping you will realize that this may never work.  </s>
+<s> if it did, you'd find articles aplenty on the web.  </s>
+<s> bob  </s>
+<s> would a shared desktop suit your purposes?  </s>
+<s> this is easy with a network connection and ms netmeeting.  </s>
+<s> ok, here's what is happening: vga is analog - i know.  </s>
+<s> i said dvi or vesa, both of which are digital.  </s>
+<s> now, maybe it is you &quot;struggling at the end of your rope&quot;....i don't know, nor do i care.  </s>
+<s> but this has been done.  </s>
+<s> there is a website ( ) but is in german.  </s>
+<s> use babelfish to translate the site, you shouldn't have to &quot;struggle&quot; too much with it.  </s>
+<s> now, before anyone else tells me it hasn't or can't be done, take a look at that site to be proven wrong! it is possible, and it is somewhat what i'm looking for, but the person on that site has only been able to get a max resolution of 640x480 and 16 colors.  </s>
+<s> i want a minimum resloution of 1024x768 and at least 16 bit color.  </s>
+<s> but thank you for letting me see that you don't know what you're talking about....made me laugh!!!!!!!!!!!!!!!!!!!!  </s>
+<s> nope, i'm going to fiberglass a bezel and a wall mount for an lcd, or 2 (minus the rest of the laptop) and i want it connected to my desktop.  </s>
+<s> as an electronics design engineer, i know it is possible but it's not a simple wiring issue and your laptop doesn't have to use vga signals to the display.  </s>
+<s> since you were so nice, i leave to learn about all this.  </s>
+<s> bob  </s>
+<s> to make a long story short, contact the supplier or vendor of the laptop.  </s>
+<s> -or- have a friend in the business get the manuals for the product in question. the repair maunals have the specs and such, but prepare to pay.  </s>
+<s> if you find some sams listing on just laptops, don't expect to match entirely the end product just a generalization at best or get lucky.  </s>
+<s> in the longrun, you maybe making an &quot;interface&quot; adapter not just a wiring adapter for a simple pin1-2 whcih should be part of the overall solution.  </s>
+<s> put it this way, its a long way until completed and yes you'll need the specs.  </s>
+<s> manual and of course understand the engineering involved as you've seen the basic output wasn't what you desired, you duplicating the laptop interface for a more hands-on connection.  </s>
+<s> fyi - laptops are such a pita, i readily pass it on to the authorized centers if a quick fix can't be made.  </s>
+<s> good luck -----willy 2-cents spent  </s>

@@ -1,0 +1,38 @@
+<s> hey everyone, i have quite the problem here.  </s>
+<s> i just finished building my new gaming rig and i am having a weird problem getting past post.  </s>
+<s> here are the specs of the things that might be causing my problem: mobo - abit fatality an8 (not sli version) videocard - ati radeon x1800xt (pcie) harddrive - x2 hitachi sata 160gb deskstar cpu - amd fx-55 the motherboard has a post code thing built into it and whenever i boot up my system it stops at post code 25 which the manual describes as... &quot;early pci initialization -enumerate pci bus number -assign memory & i/o resource -search for a valid vga device & vga bios, and put it into c000:0&quot; i was thinking that my video card could be doa but it powers up and all (the fan turns on)... i am not sure what to do, any ideas guys?  </s>
+<s> also, i doubt it has anything to do with my monitor because that works fine with other computers.  </s>
+<s> i am using a crt, so i use an adapter for the dvi.  </s>
+<s> heres some more info if its relevant: the ram i use is a gig of corsair xms that can be found here - the powersupply is like 2-3 years old and i grabbed it my old gaming rig, but i thought it would still be able to perform fine.  </s>
+<s> it is an antec true550 550 watt psu.  </s>
+<s> i was unable to pull the newegg product link from my old invoice assuming they dont sell it anymore and all the links on the antec site are for the newer models.  </s>
+<s> it has the 2x10 main power cord and the 2x2 cord for the motherboard so i assumed it was a 2.0 version psu.  </s>
+<s> however, the motherboard has more than 2x10 slots for the powercord on the motherboard, its like 2x15, but near the cpu there is also a 2x2 connection.  </s>
+<s> i read the manual and it said connect the 2x10 connection into the motherboard and then the 2x2 connection aswell so i thought it was not a big deal.  </s>
+<s> power connector.  </s>
+<s> one can buy an adapter cable.  </s>
+<s> all the 4 extra wires do is to add one 12 volt lead, one 5 volt lead, one 3.3 volt lead and one commonn [ground lead.  </s>
+<s> in some cases you can plug the 20 pin into the 24 but the pin one end must be the common end.  </s>
+<s> [orange 3.3 v leads.  </s>
+<s> pin 1 and 11 for 20 pin, pin 1 and 13 for 14 pin. 1 to 11 is the same on both.  </s>
+<s> 11 to 20 and 13 to 22 are that same for each.  </s>
+<s> last line first para.  </s>
+<s> &quot;one 3.3 volt lead and one common [ground] lead.&quot; last line second para should be: orange 3.3 v leads].  </s>
+<s> pin 1 and 11 for 20 pin, pin 1 and 13 for 24 pin.  </s>
+<s> ok, well the manual says ''connect the 2x10 atx cord to the main atx connection on the mobo then connect the 2x2 atx cord to the 12v connection near the cpu'' so, doesnt this mean i dont need that adapter?  </s>
+<s> the new mobo??? have you checked the rev of the mobo and at the mobo mfr's website?  </s>
+<s> possibly they went to the 24 pin mobo connector as a rev and didn't bother to update the manual [not unusual].  </s>
+<s> if the mobo artwork runs the new lines sparately it could be a problem, however i would think that they all get joined and the purpose of the addition was to get more copper in the artwork for the power to reduce the voltage drop and not risk the mobo artwork from melting or separating from the fiberglas.. also helps to have more copper in the insulated wires from the ps. as already stated, the proper mating must have pin 1 and pin 11 of the 20 pin connector mated to pin 1 and pin 13 of the 24 pin.  </s>
+<s> in both cables they are 3.3 volt, orange.  </s>
+<s> [yes there is another 3.3 volt at the other end of the 24 pin, but you will not be directly connected to it [except via the mobo artwork].  </s>
+<s> require an additional power connection?? is this a socket 939.  </s>
+<s> all that i see at newegg seem to have the 24 pin connector.  </s>
+<s> possibly go to the abit site ans check with their tech support.  </s>
+<s> my experience has been that abit manuals usually are somewhat better than the others.  </s>
+<s> yes the card requires extra power but that is not a physical issue.  </s>
+<s> the mobo is socket 939.  </s>
+<s> i do not think it requires the 24v connection though.  </s>
+<s> i will try and pick up an adapter just in case.  </s>
+<s> i decided to rma the videocard.  </s>
+<s> i will try and pick up a pci videocard to test to see if its the mobo before i actually send the pcie card back.  </s>
+<s> if its actually the mobo then i'll just rma that.  </s>

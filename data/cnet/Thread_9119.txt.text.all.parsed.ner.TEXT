@@ -1,0 +1,44 @@
+<s> i have 3 machines.  </s>
+<s> 1 desktop with vista. 1 desktop with xp 1 laptop with xp. the two xp'x are wireless.  </s>
+<s> i can see and transfer files from the vista pc to the xp machines.  </s>
+<s> however, i can not see nor transfer files from the xp machines to the vista pc. the vista pc is my main pc. with the router attached.  </s>
+<s> steve  </s>
+<s> the issues are usually firewalls in the os, the router, accounts, and shares.  </s>
+<s> i don't see where you addressed all these areas in your post.  </s>
+<s> bob  </s>
+<s> the firewall on the vista pc is off. the router not sure what i would be looking for.  </s>
+<s> since i can get files to the xp pc's.  </s>
+<s> plus i can get to the internet from the xp's.  </s>
+<s> accounts, what involment do they have in this.. sharing of files. the following is what i see: network discovery is on.  </s>
+<s> file sharing shows custom.  </s>
+<s> under which i see, turn on file sharing which i can click.  </s>
+<s> turn off file sharing is grayed out.  </s>
+<s> i have clicked turn on .  </s>
+<s> but when i relook it still show custom and the turn on button is not clicked. the turn off is grayed.  </s>
+<s> under public folder sharing it show off. the turn off sharing button is click.  </s>
+<s> when i click on of the other buttons is get &quot;the rpc is unavailable.  </s>
+<s> printer sharee is on password protected sharing is off media sharing is on.  </s>
+<s> steve  </s>
+<s> type in... net view press return.  </s>
+<s> what happens?  </s>
+<s> microsoft windows [version 6.0.6000] copyright (c) 2006 microsoft corporation.  </s>
+<s> all rights reserved.  </s>
+<s> c:userssteve&gt;net view server name remark ------------------------------------------------------------------------------- \christofer1 christofer1 \steven-avakj44b steve the command completed successfully.  </s>
+<s> c:userssteve&gt;  </s>
+<s> net view \christofer1 and net view \steven-avakj44b there is a lesson about machine names.  </s>
+<s> keep them simple, nothing but letters and numbers and 14 or less characters.  </s>
+<s> sure you can dismiss this nugget but it's a lesson i've learned.  </s>
+<s> also, are those the machines you want to see in network neighborhood?  </s>
+<s> bob  </s>
+<s> microsoft windows [version 6.0.6000] copyright (c) 2006 microsoft corporation.  </s>
+<s> all rights reserved.  </s>
+<s> these are the ones.  </s>
+<s> christofer1 is a desktop.  </s>
+<s> sharon is the laptop. the other one steve is old and will not be on the network.  </s>
+<s> c:userssteve&gt;net view server name remark ------------------------------------------------------------------------------- \christofer1 christofer1 \sharon sharon the command completed successfully.  </s>
+<s> c:userssteve&gt;  </s>
+<s> tried the command net view \christofer1 and changed the machine name to something short with alphabetic only characters.  </s>
+<s> be sure to try network magic too.  </s>
+<s> bob  </s>
+<s> network magic worked.  </s>
+<s> thanks  </s>

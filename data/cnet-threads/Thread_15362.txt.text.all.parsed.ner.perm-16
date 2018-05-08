@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP it)) (VP (AUX 's) (VP (VBG getting) (ADJP (JJR better)) (S (S (NP (PRP i)) (VP (AUX have) (S (NP (DT the) (NN camera)) (VP (VBG working) (ADVP (RB hardwired)))))) (CC but) (S (NP (PRP i)) (VP (MD can) (RB n't) (VP (VB get) (S (NP (PRP it)) (VP (TO to) (VP (VB work) (NP (NNP wireless)))))))))))) )
+(TOP (S (NP (PRP you)) (VP (AUX need) (S (VP (TO to) (VP (NN setup) (NP (DT the) (NN camera)) (ADVP (RB again)))))) (. .)) )
+(TOP (S (NP (PRP i)) (ADVP (RB just)) (VP (VBD purchased) (NP (NP (DT a) (JJ new) (JJ netgear) (JJ rangemax) (NNP wireless) (NN router)) (VP (VBG wnr834b) (ADVP (RB now)) (SBAR (S (NP (PRP i)) (VP (MD can) (RB n't) (VP (VB get) (S (NP (PRP$ my) (JJ d-link) (NN dsc) (NNS 2100+)) (VP (TO to) (VP (VB connect))))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX had) (S (VP (TO to) (VP (VB use) (NP (NP (NN wpa)) (, ,) (NP (JJ ssid) (NN broadcasting)) (, ,) (NP (NP (NNS dhcp)) (PP (IN in) (NP (DT the) (NN camera)))) (, ,) (FW etc.)) (S (NP (PRP i)) (VP (MD can) (RB n't) (VP (VB tell) (SBAR (WHNP (WDT what) (NN setup)) (S (NP (PRP you)) (VP (AUX are) (VP (VBG trying)))))))))))) (. .)) )
+(TOP (S (S (VP (VB hardwired) (NP (PRP it)))) (CC and) (S (NP (NN nothing)) (VP (VBZ shows) (PRT (RP up))))) )
+(TOP (S (NP (DT any) (NNS ideas)) (VP (VBD ???)) (. ?)) )
+(TOP (S (SBAR (WHADVP (WRB when)) (S (NP (PRP i)) (VP (NN search) (PP (IN for) (NP (DT the) (NN camera) (NN nothing)))))) (VP (VBZ shows) (PRT (RP up))) (. .)) )
+(TOP (S (NP (JJ last) (NN time)) (NP (PRP it)) (ADVP (RB also)) (VP (VBD involved) (SBAR (S (NP (PRP it)) (VP (AUX 's) (UCP (NP (JJ reset) (NN button)) (, ,) (NP (CD 20) (NNS seconds)) (CC and) (VP (VBG reading) (NP (DT the) (NN manual)) (ADVP (RB again)))))))) (. .)) )

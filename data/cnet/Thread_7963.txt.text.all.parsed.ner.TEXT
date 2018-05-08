@@ -1,0 +1,64 @@
+<s> i recently bought a canon mp180 all-in-one printer, and i'm using it with my computer which has both vista home premium and xp mce on it.  </s>
+<s> however, when i tried to install drivers for vista, when i came to the screen that tells me to plug in my printer and turn on the power, the vista add hardware thing pops up, as it is supposed to, and installs all the drivers - except one, the printer driver.  </s>
+<s> it will always give the error message &quot;windows found driver software for your device but encountered a problem while attempting to install it. the specified path is invalid.&quot;  </s>
+<s> i then proceeded to try every solution that i knew of to solve the problem.  </s>
+<s> i downloaded the newest drivers from canon's website, i reinstalled drivers from cd, i uninstalled, restarted, reinstalled everything, deleted the printer from device manager, manually specified driver paths, etc., but nevertheless the driver failed to install, persistently giving the same error message as above.  </s>
+<s> amazingly, the scanner part works like a charm.  </s>
+<s> in fact, vista even recognises the printer model and is able to automatically select the right drivers when i manually install.  </s>
+<s> i know that nothing is wrong with my printer because i have managed to successfully install and use it when i booted into my xp mce installation.  </s>
+<s> however, attempting to install the printer in an xp virtual machine (vmware) running under vista failed.  </s>
+<s> when i checked the driver installation log (at &quot;c:windowsinfsetupapi.dev.log&quot;), it registers the invalid path error (error 161) and recorded the details as &quot;error setting registry value hklm\systemcurrentcontrolsetcontrolprintmonitorsmpusbmondriver&quot;.  </s>
+<s> now, i was quite confident that the double slash is an invalid registry path, and i checked every other driver installation to ascertain that, indeed, no one else specifies the path the way canon does.  </s>
+<s> it turns out that the faulty path reference was located in &quot;c:windowssystem32driverstorefilerepositorycjmmp180.inf_4d0681b0cjmmp180.inf&quot;, but when i compared my version of this file to the one extracted from the canon drivers and to the version stored on driver repository sites, i found them to be exactly the same.  </s>
+<s> thus, i am absolutely confounded as to how the invalid path thing persistently pops up on my computer whereas i have heard of no other such complaints from any other canon customer, even after googling a wide variety of keywords.  </s>
+<s> after having no luck at correcting that, i then tried to force vista to install the drivers for the canon mp150 (which are built-in) in lieu of the mp180 drivers, but i keep getting an error saying that the digital signature is invalid (although present).  </s>
+<s> this happens no matter which canon printer driver i select from those that ship with vista.  </s>
+<s> having tried all this, and knowing that the mp180 is vista-certified (i've double-checked that from canon's website), i feel really frustrated that the canon drivers are of such low quality and having received such poor testing.  </s>
+<s> as there have been almost no other cases similar to mine, i'm at a loss as to what to do, short of calling in tech support, which will have to do a site visit since they couldn't solve the problem over the phone.  </s>
+<s> thus, i would be really grateful if anyone could shed some light on this mystery.  </s>
+<s> sorry for the long list of details, but i wanted to make sure that i didn't miss out anything.  </s>
+<s> thanks.  </s>
+<s> by the way, my computer is an intel core 2 duo-based self-built desktop dual-booting vista/xp and running vmware under vista.  </s>
+<s> i have already tried to install microsoft's hotfix to the invalid path thingy (hotfix 937187), but it makes no difference.  </s>
+<s> i have also tried deleting the infcache.1  </s>
+<s> file from &quot;c:windowsinf&quot; to force a rebuild, but no luck there, same error appears.  </s>
+<s> &quot;c:windowssystem32driverstorefilerepositorycjmmp180.inf_4d0681b0cjmmp180.inf&quot;  </s>
+<s> seems to be essential for drivers to be recognised too, because when i tried taking ownership and removing the file windows then couldn't find any drivers at all when i connected my printer.  </s>
+<s> when it's defective like that and they don't offer support or a fix i pack the unit back in the box and ask for a full refund.  </s>
+<s> restocking charges are denied too since the product was not ready.  </s>
+<s> bob  </s>
+<s> why fight it, it seems you've done all you can. it flatly doesn't want to work under vista.  </s>
+<s> return it under warranty, etc. for a refund or replacement. the sooner you do this the better the outcome.  </s>
+<s> fyi - this usually has happened under xp when it first came out, many times the fixes were slow in coming if at all. the end result some printers were dropped for any support under xp and drivers, fixes and such became only for popular models or expensive ones.  </s>
+<s> so, don't hold your breath.  </s>
+<s> tada -----willy  </s>
+<s> well, that is an option, though i'm not sure if the canon warranty allows refund/exchange at all.  </s>
+<s> in any case, the printer is not defective since it works in xp, so chances are any replacement would have the same problem.  </s>
+<s> also, i don't live in the states, and over here the store that i got the printer from (harvey norman) has no policy of refunding sold items, so it's going to be hard to get anything from there.  </s>
+<s> an exchange would likely have the same problems.  </s>
+<s> nevertheless, thanks everyone for your prompt replies.  </s>
+<s> all those scanners that stopped working when people moved to windows me or xp. sorry, it's a defect.  </s>
+<s> whether it be software or hardware.  </s>
+<s> bob  </s>
+<s> i've been chatting withhp support and they told me that they no longer support the all-in-one range in vista. the drivers for printing are installed in vista but scanning and the &quot;hp image director&quot; software are no longer functioning.  </s>
+<s> i'm trying to raise the issue to a new level... please find below a copy of the e-mail that i sent to the exec.  </s>
+<s> vice chairman, todd bradley (todd.bradley@hp.com)... hello todd, can you please explain to me why your company has rendered so many of your products obsolete by not providing windows vista support.  </s>
+<s> i am refering specifically to the psc1200 series.  </s>
+<s> due to your lack of support this series cannot no longer be used with your own hp phot and imaging director.  </s>
+<s> a copy of the online conversation with your tech.  </s>
+<s> team member, stefan is available for you to review.  </s>
+<s> i await your reply  </s>
+<s> i know why.  </s>
+<s> it's simply a matter of dollars and cents.  </s>
+<s> the people who write such software command quite a good salary plus you pay for development labs and more.  </s>
+<s> -&gt; fast forward to now.  </s>
+<s> not yesterday but right now.  </s>
+<s> printers are at an all time low price for what you get in the box.  </s>
+<s> part of this low price is to halt driver work on any product that is not in production.  </s>
+<s> with cut throat pricing from other companies you have to pull the plug and put your development dollars on revenue generating products and severe the funding to old non-revenue producing products.  </s>
+<s> hopefully i've painted the picture in enough detail for you to see the issue.  </s>
+<s> i know that some won't like it but this is now and it's best we understand that what we buy didn't come with any assurance it would fully work on the next os.  </s>
+<s> bob  </s>
+<s> here in the states, if the product doesn't do its intended purpose you can return, etc.. now, i can't recall but if that box shows a &quot;vista ready&quot; logo then it better work and all the more to have a full refund.  </s>
+<s> just be sure to check your local laws on this matter if now you have a semi-useless canon product.  </s>
+<s> tada -----willy  </s>

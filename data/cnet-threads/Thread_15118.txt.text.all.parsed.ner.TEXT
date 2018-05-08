@@ -1,0 +1,47 @@
+<s> here is my layout: cable modem to switch switch to both windows server 2003 and wireless router wireless router to all intranet clients at my location (it uses dhcp to assign ip addresses to the intranet clients) this puts my server in front of the firewall for access to the world and all of my other clients behind the wireless routers firewall.  </s>
+<s> here is my question: when i connect to my server from my intranet clients, the connections go out to the world and back again to my server.  </s>
+<s> i thought a switch was supposed to be smart enough to see the destination and route traffic directly down to the server.  </s>
+<s> what i'm after is a way to transfer large files to/from my server at my local network speed (not routing trough my cable modem).  </s>
+<s> is there a way to do this without moving my server behind the wireless router's firewall?  </s>
+<s> tia....  </s>
+<s> it might work if you paid for another ip address but it should not work.  </s>
+<s> just asking.  </s>
+<s> why not put said server into the dmz?  </s>
+<s> bob  </s>
+<s> all depends on the ip addresses and the subnet masks.  </s>
+<s> very technically it is the devices themselves that know they are on the same subnet and talk to each other directly using the mac address rather than the ip, the switch just carries the traffic.  </s>
+<s> to a point it is surprising this works.  </s>
+<s> most cable companies will only allow a single device behind the modem.  </s>
+<s> if both machines are on the same subnet it should work as is you need to check the arp entries so ensure they are mapped.  </s>
+<s> if you can get into the switch you should also be able see what mac is learned on what port. if they are on different subnets you can sometimes trick device into talking to each other by putting static arp entries in to map the ip to the mac.  </s>
+<s> some router think they are smarter than you and give errors but many work.  </s>
+<s> just a huge guess if it is working as you say i would say the cable company is running ppp.  </s>
+<s> this is a point to point protocol and assumes that all addresses are inside this ppp virtual interface and not on the real interface.  </s>
+<s> this means that even if the devices are on the same subnet the switch will not see the arp messages because they are encapsulated inside of ppp.  </s>
+<s> my cable company allows multiple ip's (don't ask me why - they just do - and i don't wanna rock the boat and ask them &quot;why&quot;) so both the server and the wireless router are assigned separate ip numbers by the cable company.  </s>
+<s> the ip's for the 2 devices have the same first 3 bytes (e.g. xxx.xxx.xxx.yyy - the &quot;xxx&quot;'s are the same for each) - so that should but them on the same subnet.  </s>
+<s> fyi - i'm not a networking expert - but not a noob either.  </s>
+<s> somewhere in the middle.  </s>
+<s> i don't know about ppp, but i'll read up on that and see if perhaps this could be the culprit.  </s>
+<s> you can't affect the routing without a lot more work and maybe some wifi router with some linux installed.  </s>
+<s> this is why i'd skip all that by moving to the usual setup and place said server into the dmz.  </s>
+<s> bob  </s>
+<s> replace the switch with a router. the router will allows dmz on one machine, and will route all traffic between your machines.  </s>
+<s> mine with my web site server, two desktops, three laptops, all work behind my d-link dir-655 gigabit/wireless n router.  </s>
+<s> hi. here is what is happening.  </s>
+<s> intranet = network 1 - n1 - 192.168.1.x access point + router + isp = network 2 - n2 - 172.16.1.x 1. your intranet is a separate network.  </s>
+<s> lets say - 192.168.1.x. 2. it can access all other networks by connecting to the access points interface that is directly within this network - access points first ip - 192.168.1.1 3. to access all other networks and gain access to them, the packets have to go through the access points second interface - 172.16.1.x. 4. problem - access point, acting as a router, will allow only common ports to transfer data from one interface to another.  </s>
+<s> common ports 80, 21* etc. 5. now my question is - how are you transferring files?  </s>
+<s> if you are using ftp then this problem seems queer.  </s>
+<s> do you use ftp and try to connect to server using the ip address or the name?  </s>
+<s> if you are using default file sharing, this might happen as ports used for file sharing are 135 to 139 and are blocked by default - rerouted through isp.  </s>
+<s> 6. so i need this information: a. method used by you to transfer files.  </s>
+<s> b. direction of file access - server to clients or clients to server?  </s>
+<s> c. function of the server.  </s>
+<s> if it is a server on the internet, then all that you have said makes sense.  </s>
+<s> please elaborate.  </s>
+<s> navneet.  </s>
+<s> hi. i want to add further information.  </s>
+<s> 1. please try to disconnect isps cable and see if you are able to proceed with file transfer.  </s>
+<s> 2. dns addressing may also be part of the problem here.  </s>
+<s> navneet.  </s>

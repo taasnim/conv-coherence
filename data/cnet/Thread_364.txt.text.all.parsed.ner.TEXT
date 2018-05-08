@@ -1,0 +1,35 @@
+<s> hi, i am using intel chipset i845 based motherboard, celeron 1.7 processor, 256 ram and win98 os i have a fairly new system and when installed first it properly detected my 'hp 610 c' printer and installed it.  </s>
+<s> than something happen after some time and i tried to uninstall and reinstall the printer.  </s>
+<s> but now my pc don't even detect the printer under plug and play.  </s>
+<s> all settings same.  </s>
+<s> plug and play enable under bios.  </s>
+<s> all plugs and socket tight enough.  </s>
+<s> installing the printer without plug and play don t work.  </s>
+<s> it starts printing than stop after few buzzes and give message 'unable to communicate with port lpt 1' that is my printer port.  </s>
+<s> would reinstalling window would be any help?  </s>
+<s> i suspect the sockets of my mother board 'port lpt 1 ' could be loose.  </s>
+<s> kindly help.  </s>
+<s> thanks.  </s>
+<s> aron  </s>
+<s> try a post in one forum, wait a bit before cross-posting.  </s>
+<s> bob  </s>
+<s> since you can start printing, and then it stops, your subject seems incorrect, the printer is detected or it would not start printing, does it actually get something on the paper, your description is quite unclear about this. it is most likely to be a hardware problem with the printer or the cable, not the computer in this case....though a bad parallel port could do this, it is extremely rare, a bad printer is the most likely culprit.  </s>
+<s> a loose parallel connector should be screwed down tightly, but if that were really the problem it should not even start printing.  </s>
+<s> excuse me proffitt and thanks jmarchi, i was really desperate.  </s>
+<s> i hope you understand.  </s>
+<s> i would be careful in future.  </s>
+<s> after posting my message and i immediately reinstalled win 98 after reformatting c: and the printer was visible to os under plug and play after that [before i tried uninstalling the printer but os would nt see it.] but once again when i start printing, printing starts but after printing half a inch of 'test page' it stops.  </s>
+<s> message i get is unable to comm- unicate with printer port lpt1.  </s>
+<s> i now try other options as suggested by you and report back if something positive comes out.  </s>
+<s> i have one more apprehension that it might have something to do with ink refill in my black ink cartridges.  </s>
+<s> color is empty.  </s>
+<s> i should nt ve gone for refills thanks for your help.  </s>
+<s> aron.  </s>
+<s> here's what i've always done regardless of the problem on hps and others.  </s>
+<s> you need to clean the ink carts &quot;contacts&quot; as well as the carriage contact nibs with a damp clean cloth and then dry wipe.  </s>
+<s> re-install them and then check results.  </s>
+<s> sometimes the &quot;timing fence&quot; the thin plastic strip that runs untouched through carraige, it has black tick marks all along its length.  </s>
+<s> use the clean damp cloth to wipe down, left to right, repeat as necessary and use gentle/deft care while doing this, just clean it up abit, (use no solvent!!!) just water or alcohol.  </s>
+<s> try that and check results.  </s>
+<s> if it still fails, then use a *new* ink cart usually resolves 30-40% of problems doing that alone.  </s>
+<s> good luck -----willy  </s>

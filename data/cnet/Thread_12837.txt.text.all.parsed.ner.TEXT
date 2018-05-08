@@ -1,0 +1,17 @@
+<s> i have a windows me computer, a windows xp computer, and an hp6840 printer on a wired network through a linksys router. the ip addresses change from day to day (i don't know why this happens), and i think this is interfering with the xp's ability to print to the printer, since it is unable to do so. the me prints through the network just fine. the horrible tech service people at hp had indicated the need to have a static ip address for the 2 computers and the printer, but everytime i talk to them, i get someone who wants to start the whole trouble-shooting process all over from the beginning.  </s>
+<s> bottom line: how do i set my ip addresses for the 2 computers and the printer as static ip's?  </s>
+<s> thanks!  </s>
+<s> joe  </s>
+<s> directly to a computer and then set to be shared, static ip addressing is not needed.  </s>
+<s> put the printer on a print server device, and then static addressing is necessary.  </s>
+<s> basically your router is dhcp enabled and is handing out ip addresses as each computer comes on line.  </s>
+<s> this system will work fine for network printing if the printer is attached locally (to a pc).  </s>
+<s> there a few items to be aware of.  </s>
+<s> dhcp is designed to never change your ip address as long as the device never turns off.  </s>
+<s> it all tied to the ip lease time. the easiest way to fix all the issues would be (if you can) set the lease to very very long interval, like 30 days.  </s>
+<s> thats not the best way.  </s>
+<s> i didn't look up the router( though i did look up the printer...nice)so i don't kow if you can do tjis with it, but there may aslo be an ip reservation setting were you look at the current ips installed and then tell the dhpc server that those ips are tied to the mac addresses of those devices and to always give them those ips.  </s>
+<s> i am big fan of reserved leases since you leverage both the strength of static ips with the versitility of a single point of management via dhcp.  </s>
+<s> now for static.  </s>
+<s> ***use a private ip adress range, usually 192.168.x**** to set your printer up with a staic ip addres see this article.  </s>
+<s> to set a windows pc static  </s>

@@ -1,0 +1,10 @@
+<s> how do i install a secondary internal ide hdd into my desktop?  </s>
+<s> my primary drive (40gb) is working fine on the master connection and i've tried mounting my secondary (20 gig)and connecting it to the slave plug (with jumpers set right), but no detection of second drive or extra space has been reported.  </s>
+<s> it's a used drive, but, while i once temporarily connected it as the only drive, i've already formatted it.  </s>
+<s> and i have since changed the jumper from primary to secondary (and moved it from master to slave on the ribbon), but neither new space nor new drive is yet reported.  </s>
+<s> --david  </s>
+<s> if the drives are not too old you might try setting both drives to the cable select jumper position and use a new 80 wire ide cable.  </s>
+<s> the make and model of the drive would help finding a solution in stand alone you had it as primary master, in secondary, is it secondary master or slave?  </s>
+<s> secondary usualy ties to the second ide plug on the motherboard for a second cable which is usualy used for 4 devices hard drives or cd, dvd etc.  </s>
+<s> maybe you should check the bios setup to make sure all the ide drives (primary mast / slave and secondary mast / slave) are set to auto.  </s>
+<s> since you have not mentioned the os and if it's a dos based one like win9x, then on bootup you should see a quick flash of the pheripherals detected - fdd's, hdd's, etc. hope this helps.....  </s>

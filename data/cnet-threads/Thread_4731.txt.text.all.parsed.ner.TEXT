@@ -1,0 +1,30 @@
+<s> hi, i'm running a wireless network using a belking g router, with wpa2-psk authentication and aes encription.  </s>
+<s> i'd like to wirelessly connect my new macbook pro running xp to this network.  </s>
+<s> the properties box says the mac has an atheros ar5006x wireless network adapter.  </s>
+<s> it currently runs the default windows wireless utility, which has only wpa-psk, *not* wpa2-psk.  </s>
+<s> my installed atheros driver is ver.  </s>
+<s> 4.2.2.27 from 17/07/2006. is there a specific atheros configuration utility i can use?  </s>
+<s> is there a generic (open-source) one?  </s>
+<s> i've searched the web and haven't been able to find one.  </s>
+<s> i found some atheros drivers that may contain such a utility, but they're older than the driver i have.  </s>
+<s> failing that, how can i use the windows utility to configure the mac to use wpa2?  </s>
+<s> thanx, nir  </s>
+<s> the drivers are from apple.com and they hold all the keys here.  </s>
+<s> just change your router to one of the supported encryptions and it works.  </s>
+<s> not good enough?  </s>
+<s> call apple.  </s>
+<s> bob  </s>
+<s> hmmm... where do i find these drivers?  </s>
+<s> how can i find out if/when apple (or anyone else) publishes updated drivers?  </s>
+<s> what about the configuration utility?  </s>
+<s> can i use any utility other than the default windows one?  </s>
+<s> am i dependant on apple for this as well?  </s>
+<s> thanx, nir  </s>
+<s> they have their updater.  </s>
+<s> if you feel you have found a bug, do report it.  </s>
+<s> i bet the issue is elsewhere.  </s>
+<s> bob  </s>
+<s> ??? i'm not sure what i could consider a bug.  </s>
+<s> my question was where to find the latest drivers, or more importantly, an alternate configuration utility.  </s>
+<s> am i always limited to the hardware manufacturer's drivers and utility?  </s>
+<s> thanx  </s>

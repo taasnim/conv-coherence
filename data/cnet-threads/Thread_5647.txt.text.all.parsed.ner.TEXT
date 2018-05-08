@@ -1,0 +1,17 @@
+<s> i purchased 4 dell optiplex 960 desktops.  </s>
+<s> all are identical duo core 3.33 processors with 4 gig of ram.  </s>
+<s> none of these computers will play a youtube video without stuttering at random points in the video.  </s>
+<s> i have a 100 meg dsl line and the download line in the video literally runs away from the play marker so buffering is not an issue.  </s>
+<s> in fact if you replay the video after it's completely downloaded the stuttering is still evident. the performance monitor graph under task mgr shows no spiking during the stuttering delay. the networking monitor graph is just as clean.  </s>
+<s> if i go to administrative tools-performance and watch the graph as a video plays,the graph bar stops as the stuttering occurs.  </s>
+<s> i've reformatted the hard drive, i've upgraded the bios to version a03 (yes these computers are less than a month old) i've read multiple posts from only optiplex 755 and optiplex 960 owners in the adobe flash forum: i'm usually good at this as run a shop with over 50 dell's but this one has me stumped  </s>
+<s> the onboard video driver was &quot;not so good&quot; and no sign of a new version.  </s>
+<s> i popped some 20 buck video card in and all is well.  </s>
+<s> bob  </s>
+<s> this this out to see if the stutter will go away.  </s>
+<s> reboot the system and enter system setup by pressing f2 at the dell boot screen.  </s>
+<s> expand the performance section on the left, then select the &quot;c state control.&quot;  </s>
+<s> uncheck the &quot;c states control&quot; box, save the changes and reboot the system.  </s>
+<s> good work timdell !  </s>
+<s> unchecking c staes in the bios has solved the problem for me.  </s>
+<s> thanks a lot !  </s>

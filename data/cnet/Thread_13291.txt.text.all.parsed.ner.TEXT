@@ -1,0 +1,13 @@
+<s> hi. i am having a problem maintaining connectivity with my network printer.  </s>
+<s> i have a wireless network (internet access only) & recently purchased a new color laser printer (konica minolta 5430 dl).  </s>
+<s> router is netgear.  </s>
+<s> printer has network capability & is shared among 2 laptops & one desktop.  </s>
+<s> no issues wth desktop, but both laptops seem to have a problem accessing the printer, getting a &quot;printer offfline&quot; message every so often.  </s>
+<s> printer is hooked to wireless router using ethernet cable that is wired to dsl modem.  </s>
+<s> desktop is hardwired to modem so i'm not sure how the desktop accesses printer, but it seems to have no problems. the only way to re-establish connection on laptops is to re-boot modem, router &/or printer.  </s>
+<s> any suggestions or advice on how to maintain connection with all three computers would be greatly appreciated.  </s>
+<s> &quot;desktop is hardwired to modem so i'm not sure how the desktop accesses printer,&quot; why connect to the modem when a perfectly good router is available.  </s>
+<s> your network configuration is suspect.  </s>
+<s> plug modem output to wan input on wireless router.  </s>
+<s> plug computer 1 and printer into four port switch on router.  </s>
+<s> establish wireless connectivity to computers 2 and 3. the computer 1 and printer are connected to the switch ports and the other two are connected to the wireless ap of the router which is just like plugging them into the switch ports putting them on the same network.  </s>

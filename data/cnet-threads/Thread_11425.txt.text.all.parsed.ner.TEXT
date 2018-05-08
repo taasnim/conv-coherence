@@ -1,0 +1,15 @@
+<s> i just installed a new graphics card (ati radeon 9800 pro) and for some reason it seems to be causing me problems.  </s>
+<s> my computer shuts down randomly or crashes when i play games. the most recent error report i received was error message: stop 0x000000ea thread_stuck_in_device_driver (q293078) can anyone help me?  </s>
+<s> i have all the latest drivers.  </s>
+<s> im thinking maybe an update of the bios?  </s>
+<s> &quot;tip: if you are asking for help to troubleshoot a computer-related problem, please be sure to include all the necessary information (ie: operating system, model number, hardware, software, etc) that will help others identify your problem for a speedy resolution.&quot;  </s>
+<s> you didn't write much about the os, the host machine such as power supply wattage or if removing the cover (heat issue) helps.  </s>
+<s> tell a bit more?  </s>
+<s> bob  </s>
+<s> writes: &quot;resolution to resolve this issue, obtain and install the most current driver for your video adapter or replace your video card.  </s>
+<s> workaround to work around this issue: 1. click start, click control panel, and then double-click display.  </s>
+<s> 2. on the settings tab, click advanced, and then click the troubleshoot tab.  </s>
+<s> 3. move the hardware acceleration slider to none, and then click to clear the enable write combining check box.  </s>
+<s> 4. click ok, and then click ok. note: this procedure prevents the display driver from programming the hardware incorrectly, but results in a loss of some display functionality and performance.  </s>
+<s> although you can increase the hardware acceleration settings to a point above none to regain functionality and performance, this increases the chances of the issue reoccurring.  </s>
+<s> for maximum stability, ...&quot; bob  </s>

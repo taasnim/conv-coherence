@@ -1,0 +1,14 @@
+<s> using lacie external: when draging music to itunes the music is copied to itunes and a copy of song stays in my folder using wd external: when dragging music to itunes it does not copy, it diappears from my folder that is located in wd hardrive and gone for good! it does make it to itunes but gone from my origianl folder why?!  </s>
+<s> please reveal what file system is in use on those two drives.  </s>
+<s> lacie- fat 32 wd- ntfs  </s>
+<s> make them read-only before you move.  </s>
+<s> then it's more difficult for whatever wants to delete them to do that.  </s>
+<s> kees  </s>
+<s> but i will refrain from explain bugs in windows.  </s>
+<s> be sure to hold down the control key while dragging files to tell explorer (that's the shell software that windows is using for the drag and drop) to copy rather than move.  </s>
+<s> again, you have revealed how the drives are different but for now, windows has annoyances like this.  </s>
+<s> bob  </s>
+<s> tried all these ways and it still delete from my external hardrive  </s>
+<s> since everywhere i go on some hundred plus machines (we have offices and more) this works fine.  </s>
+<s> this means something terrible is wrong with your machine or os. maybe it got a bug, virus or worse, cleaned with one of those tune up utilities.  </s>
+<s> bob  </s>

@@ -1,0 +1,14 @@
+<s> i have dlink dsl modem belkin pre n router 1 wired desktop and three wireless laptops all working just fine.  </s>
+<s> i have 1 wireless desktop when it boots up is ok after 1 min it can not get internet access with ie or im. if i ping google it comes back ok, any help would be fantastic.  </s>
+<s> all pc win xp pro.  </s>
+<s> belkin router has dhcp turned on.  </s>
+<s> outline here: you likely have some bugs crawling around.  </s>
+<s> i might install firefox by mozilla as an alternative to ie.  </s>
+<s> i had the same problem but with different hardware.  </s>
+<s> after reading through various posts it was clear that the 'secured' network was the issue.  </s>
+<s> i disabled security and enabled mac filtering.  </s>
+<s> never had a problem since.  </s>
+<s> try it, it might work for you.  </s>
+<s> i used the tools and found a virus called mouse.exe  </s>
+<s> once deleted the pc found the web.  </s>
+<s> thanks for your help  </s>

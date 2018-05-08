@@ -1,0 +1,24 @@
+<s> i have this hp laserjet iip plus w/o any add-on cartrigdes. the problem is that the printer spits out 15 pages with one line of ascii looking text at the top of each sheet.  </s>
+<s> the printers built in self test page prints fine.  </s>
+<s> this problem has been replicated on 2 computers running xp, one running fedora core 3 linux, and one running mandrake 10.1, dual boot.  </s>
+<s> both have athlon 2600 s one with a via kt400 chipset and the other a km400.  </s>
+<s> we have tried changing cables and we bought a brand new one too. the printer does not seem to auto detect under xp. we have added the built-in drivers with windows xp manually.  </s>
+<s> i believe that this problem is related to the parallel port settings in the bios.  </s>
+<s> i have tried setting it to &quot;normal&quot; and &quot;ecp spp&quot;.  </s>
+<s> i have not found any specific instructions for this model.  </s>
+<s> if anyone can help i would appreciate it.  </s>
+<s> ps: this is some output from the self test page printing menu: mp size letter copies 1 font src i (internal) font num 0 job size letter orient p (portrait) lines of txt 60 man feed off sym set roman-8 configuration menu: autocont off i/o paralel ram size: 512kb page count: 20094 firmware datacode: 19910530 internal font datacode: 19890213 font cartridge installed: no installed options: none below this is a font check it shows three rows of text. the top is abcd... the next looks like foreign caracters and the last looks like old dos or acsii caracters... i hope this helps anyone who reads this post.  </s>
+<s> thank you!  </s>
+<s> in short, i know this issue.  </s>
+<s> today's printer port speeds may be too fast for this old printers.  </s>
+<s> the timing of the printer port was increased years ago and some printers just don't like it.  </s>
+<s> fixes are: 1. get a new shiny ieee printer cable.  </s>
+<s> some get uppity about such and insist the old cable is fine.  </s>
+<s> i'm not here to debate this, just share my fixes.  </s>
+<s> 2. if the cable doesn't cure it, then we put in a pci printer port card.  </s>
+<s> this works since most (in fact all) that i've used have the old centronic's timing.  </s>
+<s> if this does not cure it, then it's time to get a new printer.  </s>
+<s> bob  </s>
+<s> have a laserjet iii here with amd xp 2600, port is set at ecp with the port settings under propertities set &quot;never use interupt&quot;.  </s>
+<s> uses the standard xp home drivers that i upgraded to from 98se.  </s>
+<s> also uses dma 03. hope this helps with your settings.  </s>

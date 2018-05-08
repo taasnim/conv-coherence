@@ -1,0 +1,32 @@
+<s> hi, i have a e-machines t5016 desktop which just died recently.  </s>
+<s> it is less than a year and a half old.  </s>
+<s> i had it checked and it was not the power system or switch.  </s>
+<s> it was suggested it might be the motherboard.  </s>
+<s> does this sound right and how do i make sure?  </s>
+<s> should i use e-machines replacement parts or something else?  </s>
+<s> i have installed extra memory before so would i be able to replace the motherboard myself or is it a technical job?  </s>
+<s> don  </s>
+<s> here's what i found interesting.  </s>
+<s> &quot;# do not replace motherboard using original bestec atx250-12e power supply # the above power supply is known to damage motherboard upon failure&quot; bob  </s>
+<s> with power-off, disconnect all devices inside the case and remove memory.  </s>
+<s> now.  </s>
+<s> power-on and if it beeps, the mtrbd.  </s>
+<s> maybe ok or good.  </s>
+<s> return ram into slots after powering off.  </s>
+<s> repower system and it should beep again, if not possible bad ram.  </s>
+<s> add only the hd on next try and see how far it goes, etc. on other devices one at a time and each time make sure power is off before attaching.  </s>
+<s> if nothing seems to work from the beginning, i tend to replace the psu if only because its a known good one and the mtrbd.  </s>
+<s> may be good and respond, plus a mtrbd.  </s>
+<s> can take little hits but not major ones, its usually the 2nd compomnet to fail rather than first.  </s>
+<s> you should though visually inspect the mtrbd.  </s>
+<s> for any obvious damage and/or distorted or leaking caps.  </s>
+<s> don&quot;t take anything for granted, prove it.  </s>
+<s> next, even if the mtrbd.  </s>
+<s> is bad and you can replace it don't expect the emachine oem os to work as it will balk as to not finding the emachine system mtrbd.  </s>
+<s> or the hidden bios tag for emachine.  </s>
+<s> you decide -----willy  </s>
+<s> tell you the brand.  </s>
+<s> my e machines has an msi board for instance.  </s>
+<s> so then i would go to tigerdirect or newegg and match your board with what they are selling.  </s>
+<s> its quite possible to find an exact match.  </s>
+<s> it would be cheaper by far than using e machines replacement parts.  </s>

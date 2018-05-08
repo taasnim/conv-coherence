@@ -1,0 +1,19 @@
+<s> i am having a problem installing a geforce fx5500 agp card in a compaq presario sr1420uk.  </s>
+<s> the machine is an amd 3000, 512mb ram with onboard graphics.  </s>
+<s> i have selected agp/onboard as the primary graphics in the bios but still no joy.  </s>
+<s> with the monitor plugged into the card when i switch on the monitor works while its going through its post, when it starts to load up windows (xp) the screen goes black.  </s>
+<s> anyone any ideas from here?  </s>
+<s> windows looks to be using the drivers for the old graphics.  </s>
+<s> install the new drivers.  </s>
+<s> simple enough to move the vga connector to the other connection for that.  </s>
+<s> bob  </s>
+<s> problem there is when i plug the card in there is no output at all from the onboard socket.  </s>
+<s> it just goes completely dead.  </s>
+<s> can i still install drivers if the card is not in place?  </s>
+<s> i tried and it came up saying it couldn't find any hardware to match.  </s>
+<s> as i said, on the new card everything seems ok up until the windows xp screen.  </s>
+<s> when it disappears and you expect to see windows loading up, the screen goes black and the &quot;no signal&quot; box comes up on the monitor.  </s>
+<s> windows continues to load as you can hear its little jingle.  </s>
+<s> now boot safe mode and try installing the drivers that way.  </s>
+<s> no go?  </s>
+<s> read  </s>

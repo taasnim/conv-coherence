@@ -1,0 +1,57 @@
+<s> help, i am desperate!! i am looking for specific instructions on how to remedy the problem of random packet loss.  </s>
+<s> i've had comcast dig up my yard, spent countless hours w/tech supp.  </s>
+<s> for linksys & dell with no results.  </s>
+<s> finally someone mentioned 'packet loss and random disconnect' - this is me!! i have 2 new dell laptops & 1 new dell desktop all with vista 64 bit.  </s>
+<s> my router is linksys wrt160n.  </s>
+<s> please tell me **how** to fix this problem.  </s>
+<s> i need specific detailed instructions.  </s>
+<s> i am not a pc newbie, yet not an expert either.  </s>
+<s> i have reviewed the other threads only to see coloquial commentary responses.  </s>
+<s> feel free to e-mail me directly @ razzzberryl@yahoo.com regards, zippygirl  </s>
+<s> if so there is no known cure since it's an open air connection.  </s>
+<s> there can be interfering signals that you must accept the occasional drop.  </s>
+<s> if there must be no drop, get wired.  </s>
+<s> also, do not use a router.  </s>
+<s> connect directly to comcast's cable modem.  </s>
+<s> bob  </s>
+<s> my desktop is hardwired to the router and the laptops are on my wireless network.  </s>
+<s> the desktop is the one i fight with the most losing the signal.  </s>
+<s> it will be ok for a while then it just drops off. the irony is that when the desktop drops off i have a good connection on the laptops & xbox.  </s>
+<s> and when the wireless laptops & xbox lose connection the desktop is good. it doesn't make any sense! as i mentioned i have spent hours to figure it out.  </s>
+<s> i have: reset every modem, router, reset & reconfigured the router, the mac address, secured the network, ipconfig/release, ipconfig/renew, ipconfig/flushdns, repaired the connection thru control panel - and nothing works.  </s>
+<s> can you find a substitute for your router?  </s>
+<s> buy a wireless router and see if it behaves the same way.  </s>
+<s> it could be the nat component of your router.  </s>
+<s> use default settings--dchp, ipv4-obtain ip auto.  </s>
+<s> borrow a friend's router or buy from an electronic store that allows 100% return.  </s>
+<s> be sure there are no torrents or such running.  </s>
+<s> but as it stands you can only try it without the router for a test run.  </s>
+<s> forgive me , but what are &quot;torrents&quot; and how do i check to see if they are running?  </s>
+<s> is nat component basically configuration?  </s>
+<s> i will double check the router settings again to make sure: use default settings--dchp, ipv4-obtain ip auto.  </s>
+<s> wish me luck!  </s>
+<s> in your experience firsthand or thru networking, what electronic devices and/or equipment would throw an interference signal?  </s>
+<s> what's left is a deeper description of the problem.  </s>
+<s> -&gt; some call it &quot;packet loss&quot; when an online video buffers.  </s>
+<s> what are you calling packet loss?  </s>
+<s> bob  </s>
+<s> as an electronics designer i lived in labs where we would design wireless gear.  </s>
+<s> what i must do is to avoid all the tech language and share that 2.4ghz cordless phones, microwave ovens and other things can cause a wifi signal to drop.  </s>
+<s> but let's hear what you call &quot;packet loss.&quot;  </s>
+<s> bob  </s>
+<s> i am so excited to share this post.  </s>
+<s> all along i thought my problem was something other than the router because i had repalced it with a new one (same model wrt160n).  </s>
+<s> therein lied my problem the same crappy linksys.  </s>
+<s> i bought a netgear rangemax wireless-n gigabit wnr3500 and the problem disappeared immediately.  </s>
+<s> my network is lightening fast!  </s>
+<s> all along they were telling me it was my isp followed by someone else's theory of 'packet loss'.  </s>
+<s> spread the word of an outstanding product netgear as well as my tale of woe with linksys.  </s>
+<s> i kindly thank you all for your time & feedback.  </s>
+<s> zippygirl  </s>
+<s> substitution is a great way to troubleshoot something you suspect is a problem.  </s>
+<s> happy for you  </s>
+<s> i recently built a new desktop running windows 7 ultimate 64bit which is hard wired to my linksys wrt160n.  </s>
+<s> i kept getting dropped connections and limited connectivity and thought it was my isp.  </s>
+<s> i jumped on my macbook and noticed the wireless was perfectly fine, and so was my xbox 360 connection, so it wasn't my isp. then i thought it had something to do with some software i installed on my new rig, so i did some troubleshooting with that for about a week with no luck.  </s>
+<s> finally, i narrowed it down to the router.  </s>
+<s> i had no connection issues with my last pc connected to the router (win7 32bit), so i figured it must be a compatibility issue with the router and the new 64bit version of windows running on my pc. problem solved: went to the linksys website and grabbed the new firmware version: v2.0.03, updated, and haven't had a problem since.  </s>

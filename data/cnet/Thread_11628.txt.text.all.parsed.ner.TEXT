@@ -1,0 +1,28 @@
+<s> i have a 64gb microsd.  </s>
+<s> i try to transfer folders from my pc to the sd card, and it does.  </s>
+<s> however, when i open a folder, there are no files inside.  </s>
+<s> i formatted my sd card to fat32.  </s>
+<s> many pc card readers are only good to 2gb, then 32gb and beyond that it gets to be a support headache.  </s>
+<s> notes the other big issue.  </s>
+<s> bob  </s>
+<s> i already formatted my micro sd from exfat to fat32.  </s>
+<s> i'll transfer folders to my sd card and from there the majority of files in the folder is not there.  </s>
+<s> in your first post you write &quot;however, when i open a folder, there are no files inside.&quot;  </s>
+<s> now you write &quot; the majority of files in the folder is not there.&quot; fat32 on 64gb cards is not a good idea.  </s>
+<s> you may be repeating what others have learned.  </s>
+<s> my example link is where they didn't tell why they did that.  </s>
+<s> bob  </s>
+<s> okay well i re-formatted my micro sd to exfat.  </s>
+<s> i'm trying to add about 20gb worth of data onto my sd card.  </s>
+<s> it'll transfer about 4.10gb but the rest won't get transferred.  </s>
+<s> i've done chkdsk, and it tells me that nothing is wrong with my card.  </s>
+<s> i've run into this with deep folders, too many files in the root folder and the old fat vs ntfs file name issue.  </s>
+<s> now that we are back to exfat that should remove the filename issue.  </s>
+<s> reference as it stands it should work baring issues with permissions on the source.  </s>
+<s> try sycnback to copy instead.  </s>
+<s> it will report what failed to copy and maybe why.  </s>
+<s> -&gt; example.  </s>
+<s> a new user tried to copy c: (all files) to an external.  </s>
+<s> they were perplexed at the missing files.  </s>
+<s> for that copy, yes, there is going to be a lot of missing files.  </s>
+<s> bob  </s>

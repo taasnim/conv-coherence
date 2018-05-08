@@ -1,0 +1,32 @@
+<s> i've just installed a new western digital internal sata harddrive on my dell e520,which is running xp. the problem is the computer doesn't seem to recognize it.  </s>
+<s> when i right click on my computer, then click on manage, then click on disk management in the left hand pane, a listing of all my drives opens.  </s>
+<s> my c and a partition, d are there as well as my external g, and my cd and dvd drives, e and f. i have two card readers listed as drives h and i. no where does the new internal show up.  </s>
+<s> when i installed the new drive, i connected it to the spare power plug from the existing internal harddrive.  </s>
+<s> i had to purchase a new sata cable which was plugged into the new harddrive on one end, and the socket on the motherboard on the other end.  </s>
+<s> since it's a sata drive, i assumed the installation would be easy with no jumpers to contend with ; no decisions as to which would be the master and which would be the slave.  </s>
+<s> i'm kinda at a loss.  </s>
+<s> do any of you more gifted, brilliant folks out there have any ideas for me?  </s>
+<s> not only that but the motherboard sata chipset is not supported by xp. you should have been buried in complaints and ideas if you researched this but there are dangers here for some.  </s>
+<s> for example if you install drivers and this is just xp, boom.  </s>
+<s> xp crashes.  </s>
+<s> if you had installed sp2 or later, the right motherboard drivers might give you access to the space but folk panic when the drive goes missing on a xp reinstall.  </s>
+<s> lesson?  </s>
+<s> know your machine and os. and keep a backup. the other fix was to enable ide mode for the sata in the bios.  </s>
+<s> not all do that and i will read a manual if you supply it to see if this is support however there is an issue the the sata could take priority over ide and you won't be able to boot the old xp. some panic at this and start trying recovery software which is like struggling in quick sand.  </s>
+<s> lesson?  </s>
+<s> undo that bios setting.  </s>
+<s> that's all for the primer but all is as it should be.  </s>
+<s> bob  </s>
+<s> if you haven't already make sure you are running the latest xp sp(patches) noticeably up to sp3.  </s>
+<s> once all that is done, do you have the disc that came with the new hd? if yes, load whatever maybe needed, hopefully the sata driver or required s/w.  </s>
+<s> as posted to you, you may need to reset the bios to accept sata drives, it maybe listed as sata, legacy or eide ext,.  </s>
+<s> mode or something similar.  </s>
+<s> check the bios 1st to see how it reacts to the new setup.  </s>
+<s> of course all this is better explained at the wd support website for xp installs.  </s>
+<s> also, you didn't state what capacity the new hd is, if its one of the 2tb or better, you should definitively review the manual or instructions on the xp capacity topic.  </s>
+<s> if the total storage space of your pc exceeds 3tbs, you have os issues, again review the specs on the topic.  </s>
+<s> also, you should install the to the 1st sata port, labeled either 0 or 1, depends on how ld'ed.  </s>
+<s> alas, i suggest you verify what if any bios updates maybe needed.  </s>
+<s> if yours is low, like a05, and a08 is current, update.  </s>
+<s> follow instructions and take your time, allow the pc to update using all the time it needs, don't rush it, it can be slow.  </s>
+<s> tada -----willy  </s>

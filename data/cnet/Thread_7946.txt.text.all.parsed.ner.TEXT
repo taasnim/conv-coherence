@@ -1,0 +1,39 @@
+<s> specs : upgraded memory to 2 gb and added slave i had the same problem a year ago, crashes, freezes, windows wouldn't load after restart.  </s>
+<s> i tried reloading xp and it didn't solve the problem.  </s>
+<s> i ended up replacing the hd and it worked well until about a month ago.  </s>
+<s> freezes,crashes and so far, xp is still loading, but it looks like it may be getting to the fail point again. the computer is not used for gaming or anything like that. the hp &quot;help&quot; database suggests because i added the extra hd, it is causing more heat.  </s>
+<s> is the heat the likely problem?  </s>
+<s> what else could be causing this?  </s>
+<s> i have had the side panel of the computer off for about three months, the room is on the cool side, there is no dust. is the hd really damaged or can it be fixed?  </s>
+<s> many a small case is prone to cooling problems.  </s>
+<s> even with proper fan placement, the addition of added devices and their disruptive &quot;air flow&quot; will defeat some system cooling.  </s>
+<s> in other words, it works great then you add a new device which adds extra heat and is stuffed next to another device which in turn causing the air flow pattern to change.  </s>
+<s> so, either add an extra case fan or make extra exhaust hole(s), fan or leave case cover off.  </s>
+<s> with everything giving a certain amount of heat build-up when added exceeds the current cooling applied.  </s>
+<s> take into account that heat stress will lessen the stability of the psu outputs, which in turn causes stress to installed devices.  </s>
+<s> once the stress reaches a certain level its becomes damaged but may work but is too close to a failure level and is easily tripped causing endless troubleshooting and really only device replacement narrows it down.  </s>
+<s> i usually replace the psu with a dual-fan setup and above the current psu wattage rating.  </s>
+<s> next, i try to cool better with more fans and of course clean it out.  </s>
+<s> since, you already have cover off, its very possible some device is already damaged and needs replacement, again or another one.  </s>
+<s> sorry, too often parts swap is quick and easy for the fix.  </s>
+<s> if the hd is damaged, try using the maker's diags for demanding tests and if not good, use the warranty if still available.  </s>
+<s> tada -----willy  </s>
+<s> make sure ps is adequate to accept more devices.  </s>
+<s> these packages tend to be thin in that department. the info also says sata drive.  </s>
+<s> i presume you put in another sata drive.  </s>
+<s> i've found these cables and connections to be awkward and fragile.  </s>
+<s> a poorly seated cable....even if just a little stressed to one side or another....can cause the drive to temporarily disappear and windows will pause.  </s>
+<s> as an experiment, you can disconnect the second drive and see if windows behaves better.  </s>
+<s> if it does not, that rules out the drive.  </s>
+<s> if problems cease, it's something about the drive.  </s>
+<s> it could be extra current drain or a poor connection.  </s>
+<s> as well, as a cpu heats, it will slow down in an attempt to further heat up and damage itself.  </s>
+<s> the problem is the second hd,is it likly that its removal would solve the problem?  </s>
+<s> during use, check by touching the hd, if it is really, really hot and uncomfortable to touch, you got heat and a pending hd failure.  </s>
+<s> but, hds do get warm.  </s>
+<s> physical relocate the hd outside(safety route) of the case but still connected and test away or operate that way, if problems lessen or gone, you have a heat issue.  </s>
+<s> but!, understand, if the problem is &quot;iffy&quot; from heat it just doesn't fail diags or only comes under intense usage, the problem has arisen and the hd is at fault.  </s>
+<s> as known from the other poster, reseat the hd connects as well several times, sata cables do cause problems, use another to test.  </s>
+<s> as to replacing the hd outright, that's up to you, if no testing or continued tips/hints/clues seem to help.  </s>
+<s> remember, the problem has come back, thus all the previous info should be applied to keep the &quot;new hd&quot; up and running.  </s>
+<s> tada -----willy  </s>

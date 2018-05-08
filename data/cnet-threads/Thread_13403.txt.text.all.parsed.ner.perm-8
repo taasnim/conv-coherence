@@ -1,0 +1,7 @@
+(TOP (S (NP (NP (NNP smart)) (: :) (NP (NP (JJ self-monitoring) (NN analysis)) (, ,) (CC and) (NP (NN reporting) (NN technology))) (: ;)) (VP (VBD built) (PP (IN into) (NP (JJ many) (JJ hard) (NNS drives))) (PP (IN as) (NP (NP (DT a) (JJ self-analytical) (NN tool)) (PP (IN for) (NP (NN disk) (NN condition)))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBP know) (SBAR (S (NP (DT that)) (VP (AUX 's) (NP (NN cheating) (CC but) (NN time) (CC and) (NN time)) (SBAR (RB again) (S (S (NP (PRP i)) (ADVP (RB just)) (VP (VB put) (NP (NP (DT the) (NN drive) (POS 's)) (NN model) (NN number)) (PP (IN into) (NP (NN google))))) (CC and) (S (NP (PRP i)) (VP (VBP find) (NP (DT the) (NN answer)) (PP (IN in) (NP (NP (JJR less)) (PP (IN than) (S (VP (VBG 5.) (NP (NNP bob)))))))))))))))) )
+(TOP (S (IN if) (NP (DT the) (NN drive)) (VP (AUX has) (NP (NP (PRP it)) (CC and) (NP (DT the) (NN status)))) (. .)) )
+(TOP (SBARQ (WHADVP (WRB how)) (SQ (AUX does) (NP (PRP one)) (VP (VB know) (SBAR (IN if) (S (NP (DT a) (VBN given) (JJ hard) (NN drive)) (VP (AUX has) (ADVP (JJ smart)) (VP (VBN built) (PRT (RP in)))))))) (. ?)) )
+(TOP (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN that) (S (NP (NP (DT neither)) (PP (IN of) (NP (PRP$ my) (JJ hard) (NNS drives)))) (VP (AUX have) (ADJP (JJ smart)))))) (. .)) )
+(TOP (FRAG (: ...) (SBAR (IN that) (S (NP (PRP i)) (VP (AUX have) (S (VP (TO to) (ADVP (RB actually)) (VP (VB read) (NP (NN something)))))))) (. ?)) )
+(TOP (NP (NP (NNS thanks)) (: -) (S (NP (PRP i)) (VP (VBD found) (NP (DT the) (NNS answers)) (PP (IN on) (NP (NN google))))) (. .)) )

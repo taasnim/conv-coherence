@@ -1,0 +1,132 @@
+<s> hi, 2 days ago i was using my computer as normal when all of a sudden it turned off and won't turn on any more.  </s>
+<s> pressing the power button does absolutley nothing.  </s>
+<s> no fans, no hdd, no nothing.  </s>
+<s> i thought it's most likley the psu or motherboard but im not sure which.  </s>
+<s> through further investigation i have discovered that: 1. the lan lights are allways on at the back of the computer, but its no longer detected by my router (it usually is, even when off) 2. upon unplugging the pc from the mains and plugging it back in again, my webcam (which is usb powered) makes it's 'i have power' noise.  </s>
+<s> 3. upon unplugging the pc from the mains and pluggin it back in again, my memory (which has led lights to show the load) light up for a few seconds).  </s>
+<s> these 3 facts make me lean towards a mobo issue.  </s>
+<s> i've tried removing everything non essential from the pc and botting up again but still nothing at all.  </s>
+<s> i've also reset the cmos but no joy there either.  </s>
+<s> can you help with the problem?  </s>
+<s> spec: msi 875p neo fis2r intel pentium 4 3ghz 2* 512mb corsair 3200 xms pro nvidia geforce fx 5900 u enermax 550w psu maxtor 160gb  </s>
+<s> when faced with no power on... i first use a screwdriver or metal pen tip to tap the power on pins rather than rely on the power on switch.  </s>
+<s> it it comes up, then the push button switch died.  </s>
+<s> next i strip the machine down to just motherboard and power supply.  </s>
+<s> if it doesn't power up, then i'm looking at the two possibly bad parts.  </s>
+<s> bob  </s>
+<s> open the case and find out what the p/s unit wattage is, it better be 350w or better.  </s>
+<s> when a p/s goes, it does so w/o warning, it just does.  </s>
+<s> replace it and install at least 400w+, 500w is becoming common and you can find a cheap one, but look for a namebrand like enermax or antec and pay the $$$.  </s>
+<s> even if see some led on that suggests only that voltage is present, all voltages at stable and required levels are needed, don't fuss, just replace.  </s>
+<s> it's good insurance too even if not the problem and allows room to grow on.  </s>
+<s> if a bad mtrbd., check for damaged capacitors or obivious damage, inspect closely.  </s>
+<s> find some, replace if not, reseat componets, etc. to try a reboot.  </s>
+<s> mimimize the system to basic componets and try again.  </s>
+<s> keep notes if need be, but if nothing seems to work, consider the p/s went bad and then took out the mtrbd.  </s>
+<s> in the process.  </s>
+<s> yeah, not good news, but beware, replacing one and not the other may cause the new componet(s) to fail too.  </s>
+<s> i would change the p/s and have a basic system and start anew, add componets and expand system until finished.  </s>
+<s> don't rush the process don't take anything for granted, otherwise pay someone to fix it.  </s>
+<s> good luck -----willy  </s>
+<s> hi r proffit, ok, i've tested the switch, thats fine.  </s>
+<s> then i took mobo and psu out of case and tested it with just ram and cpu.  </s>
+<s> this resulted in nothing, the fans would like rotate 2cm. then i removed everything so it was literally psu and motherboard.  </s>
+<s> and just tested them on their own.  </s>
+<s> still would not power up. the fans would spin for about a second and then i could smell a bad smell, but i could not identify it.  </s>
+<s> i guess this narrows it down the motherboard or psu now.  </s>
+<s> what do you think?  </s>
+<s> and ideas?  </s>
+<s> hi willy, my current psu is an enermax 550w.  </s>
+<s> i have tested everything like you and r proffit suggested.  </s>
+<s> if taken down the the bar minimum of psu and motherboard, connected outside of case then i maybe get a second of power to the fans.  </s>
+<s> but then nothing apart from a bad smell.  </s>
+<s> i guess the next step is to try a differant power supply with the motherboard.  </s>
+<s> what do you think?  </s>
+<s> here's why.  </s>
+<s> just the motherboard would draw very few watts so almost any working supply will help you narrow it down.  </s>
+<s> bob  </s>
+<s> or vice versa.  </s>
+<s> whichever is easier.  </s>
+<s> a multimeter would be nice to test the voltage on the psu.  </s>
+<s> chauncey  </s>
+<s> if you're truly smelling something bad, its possible a capacitor has blown or or componet burned up. the p/s unit and/or mtrbd.  </s>
+<s> could well be effected.  </s>
+<s> if i didn't mention, i will now, you can't take anything for granted. the smell is a clue as quite frankly it shouldn't smell other than maybe being &quot;warm&quot;.  </s>
+<s> inspect the mtrbd.  </s>
+<s> for blown, bulging, leaky or distorted caps for that cause.  </s>
+<s> also, the p/s unit can't really be trusted, it just simpler to swap out and try another one but still keep it at a bare minium system.  </s>
+<s> good luck -----willy  </s>
+<s> first do you have a fan on the processor and second does it or did it work.  </s>
+<s> your problem is most likely a burned out cpu especially if you could smell burnt component.  </s>
+<s> what type of cpu do you have a socket 7 or socket 370 or slot type pentium.  </s>
+<s> a bad cpu will cause exactly the symptoms you are having or a bios that has been corrupted either by a power surge or brown out.  </s>
+<s> could also be due to moisture build-up on the bios, cpu, or ram sticks.  </s>
+<s> try switching the power supply or using a different processor and also try using known good ram sticks.  </s>
+<s> three basic components are needed for receiving a boot ok message or the one or two beep signals that a system will make if all post boot bios functions are ok. 1. a keyboard 2. good ram 3. a good cpu.  </s>
+<s> turn on the power a listen for beebs if no beeps bad cpu or voltage levels from power supply not regulated or set correctly.  </s>
+<s> if beebs do occure, count how many there are, this will tell you what is wrong a boot up.  </s>
+<s> you will need to refer to a tech pocket book on what the beeps mean by how many you hear during boot.  </s>
+<s> did you already try to replace the power supply?  </s>
+<s> it is possible that one of the condensators inside is melted or exploded; the electricity goes somehow trough but the real power doesn't.  </s>
+<s> try this: unplug the power wire from the power supply.  </s>
+<s> press and hold the power button in for 3-4 seconds.  </s>
+<s> replace the power wire and attempt to restart.  </s>
+<s> i'm in agreement with willy, you definitely should not smell anything funny.  </s>
+<s> very possibly a burned capacitor or even just a resitor.  </s>
+<s> power supplies can be very dangerous to work on.  </s>
+<s> capacitors essentially store electricity and even though the p/s is unplugged, it could still have a charge on it that could at the least give you a shock or burn you.  </s>
+<s> economy says to replace the cheapest component first.  </s>
+<s> it would be safest to simply replace the power supply and test the motherboard without any cards, ram, hd's, cdroms, or even the cpu connected.  </s>
+<s> if it powers up, add the components and retest.  </s>
+<s> if the initial p/s to mobo test doesnt work, replace the motherboard and try again.  </s>
+<s> don't just plug in a new power supply; if the old supply went bad, it may have damaged other components in the process.  </s>
+<s> inspect everything with a magnifying glass and your nose, looking and smelling for anything out of the ordinary.  </s>
+<s> if and only if items look and smell okay, start out with the bare minimum (power supply, mobo, memory, and video card if not already on the mobo).  </s>
+<s> you can always add the peripherals later after inspecting them as well.  </s>
+<s> powering up a system with any blown devices can destroy just about anything else connected to the system.  </s>
+<s> this might be a long shot but you might try replacing your power supply on the inside of your computer.  </s>
+<s> if your computer is a fairly older model, it is possible to go out, though it doesnt happen very often.usually it would take a good lightning strike to affect it or extreme heat.  </s>
+<s> age is also a possibility...i dont think they are really expensive but when you troubleshoot you have to think about cost..good luck  </s>
+<s> on the cheapest component idea, check the battery on the motherboard.  </s>
+<s> i had a system that would not start earlier this week.  </s>
+<s> even tried a different power supply and removing cards.  </s>
+<s> finally replaced the cr2032 battery and everything worked fine.  </s>
+<s> i had the same problem recently, it turned out i had plugged in the cpu fan to the wrong connector on the motherboard (after enabling the cpu fan alarm in the bios).  </s>
+<s> try substituting another power supply, also have your cpu and ram checked for function.  </s>
+<s> gl, tom  </s>
+<s> i've had this problem.. usb devices powering, lan lights showing all good, but no power. the problem was i bought a flashy &quot;mod&quot; case for my computer.. it came with a 420 watt power supply and was a good deal at the time until the no power incident.  </s>
+<s> i verified i had a full 110 volts from the wall.  </s>
+<s> then i outboarded an old 200 watt psu to the mb and turned it on.  </s>
+<s> all systems powered up.  </s>
+<s> i removed the power supply that was included in the case and opened it up for a visual inspection.  </s>
+<s> i was looking for loose wires/components and burned fuses.  </s>
+<s> that was what i found.. a blown fuse.  </s>
+<s> but for some reason the mfgr of the psu soldered the fuses directly to the circuit board so it was not replacable.  </s>
+<s> i trashed the old psu and replaced it with a thermaltake that has fuse holders.  </s>
+<s> this might help you.  </s>
+<s> i hope its not your mb...  </s>
+<s> hi, no fans running at all, then switch the psu switch on back to off {0} now unplugg the power cord to the psu and finally the atx power plug to the mobo.  </s>
+<s> now plug the atx power plug into the mobo, then power cord, then switch on the psu.  </s>
+<s> if still no fans booting try another psu you know is working.  </s>
+<s> it's more common for a psu to die rather than a mobo and seeing how no fans are running, its most likely your psu.  </s>
+<s> also, you may want to invest in a uniterruptible power supply like an apc you can pick one up from bestbuy for $40. if you have a 19&quot; or 21&quot; crt monitor then you will the $60- $70 model for the extra power.  </s>
+<s> apc's come with an auto shutdown feature in case of a long power outage.  </s>
+<s> hope this helps.  </s>
+<s> this happened to me last week.  </s>
+<s> and i had to get a new power supply.  </s>
+<s> totally fixed and on the go again!  </s>
+<s> had same prob,so changed psu... now got power and psu fan and cpu fan turn on, it first makes beepin sound, and then i get no display... took out cmos battery and reinserted, out of ideas.... if any one got any advice please let me know fujitsu seimens os ms xp home edition celeron 1.3  </s>
+<s> i had same problem, replaced memory and worked fine.  </s>
+<s> try changing ram slots and see if that helps.  </s>
+<s> if you have more than one stick try just using one and see if it boots.  </s>
+<s> if it does you have a dodgy stick.  </s>
+<s> that may sound harsh but i have exactly the same board and something similar has just happened to me.  </s>
+<s> for no reason cant turn machine on.  </s>
+<s> personally i have had nothing but trouble with it from start.  </s>
+<s> only advise i can give is fork out and get new motherboard, not msi.  </s>
+<s> you have a partial motherboard componet failure or you have lost a power supply rail voltage on 5 volt or maybe 12 and the bad news is you need test equipment to see what voltage your power supply is putting out or where the failure is it could be as simple as a capictor or resister but there again you need to be a tech like me to be able to figure it out if you can not turn pc on buy shorting pins as bob suggested (if it wont post you have hardware failure or corruption)but if it wont boot buy shorting pins it is a (motherboard) b (powersupply) c (bios failure or corruption) d(cpu went buy buy) e (all of the mentioned) 33t  </s>
+<s> hi, my names matthew.  </s>
+<s> i know what your problem is, it's that your power supply is giving out to much power wich means you need a new power supply.  </s>
+<s> now go to a computer store and say i need a new power supply for my computer and bring the ald one.  </s>
+<s> give him/her the power supply and they'll give you the one that that maches your computer.  </s>
+<s> matthew  </s>

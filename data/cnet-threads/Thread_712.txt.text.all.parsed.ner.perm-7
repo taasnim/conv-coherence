@@ -1,0 +1,8 @@
+(TOP (S (NP (NP (NNS thanks)) (PP (IN in) (NP (NN advance)))) (VP (VBD ..)) (. .)) )
+(TOP (S (NP (PRP you)) (VP (MD 'd) (ADVP (RB better)) (VP (VB try) (NP (DT some) (NN software)) (ADVP (RB first)) (, ,) (PP (IN for) (NP (NP (NN example)) (, ,) (NP (NN data) (NN recovery) (NNP wizard)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (AUX is) (ADJP (JJ powerful) (CC and) (JJ valuable))))))))) (. .)) )
+(TOP (S (NP (NNP board) (NNS swaps)) (ADVP (RB only)) (VP (VBD worked) (PP (IN for) (NP (PRP me))) (SBAR (WHADVP (WRB when)) (S (NP (DT all) (NNS numbers)) (VP (VBN matched) (PP (VBG including) (NP (NP (JJ firmware) (NNS versions)) (PP (IN on) (NP (DT the) (NNS boards))))))))) (. .)) )
+(TOP (S (INTJ (UH yes)) (, ,) (NP (NN board) (NNS swaps)) (VP (ADVP (RB only)) (VBN worked) (SBAR (WHADVP (WRB when)) (S (NP (DT all) (NNS numbers)) (VP (VBN matched) (PP (VBG including) (NP (JJ firmware) (NNS versions))))))) (. .)) )
+(TOP (SQ (MD can) (NP (NP (DT the) (NN circuit) (NN board)) (PP (IN from) (NP (DT a) (JJ model) (NN 90845d4)))) (VP (AUX be) (VP (VBN used) (PP (IN in) (NP (DT a) (JJ model) (NN 86480d6))))) (. ?)) )
+(TOP (S (NP (DT this)) (VP (AUX is) (RB not) (NP (NP (DT a) (JJ good) (NN choice)) (PP (IN for) (S (VP (VBG recovering) (NP (NNS files))))))) (. .)) )
+(TOP (X (CC but) (VP (VBN faced) (PP (IN with) (NP (JJ total) (NN loss))) (FRAG (WHADVP (WRB why)) (RB not) (VP (VB try)))) (. ?)) )
+(TOP (S (NP (PRP they)) (VP (AUX have) (VP (VBN spammed) (NP (DT the) (NNS forums)) (SBAR (IN so) (S (NP (DT that)) (VP (AUX 's) (RB not) (ADJP (JJ good))))))) (. .)) )

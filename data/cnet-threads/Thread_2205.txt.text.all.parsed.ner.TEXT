@@ -1,0 +1,12 @@
+<s> last week i convinced my friend to get a wireless router, i recomended either the netgear wpn824 or the smc networks wbr14-g2.  </s>
+<s> he purchased the smc. the router worked great for a couple days after it was setup(wpa passphrase, firewall on, all settings configured for his laptop) but after that the internet access has been dropping out, the laptop can see the network, connect to it(wirelessly,dhcp address assignment)but cannot access the internet.  </s>
+<s> if you connect it to the wired port(s) on the router it works fine.  </s>
+<s> iv'e tried resetting the router to defaults, giving the laptop a static ip but it still drops out randomly, the only thing i can thinkof is the encryption.  </s>
+<s> please help, or he's going to abandon wireless forever.  </s>
+<s> 1. out of date firmware.  </s>
+<s> 2. interference or out of range.  </s>
+<s> a. change the rf channel (try 1, 5, 11) b. move closer.  </s>
+<s> bob  </s>
+<s> there is no &quot;updateable&quot; firmware, teh laptop is usually 8 ft away in the same room(my friend likes to play online games on his couch), but, yes it may be the channel number, because it is on ch6 but they dont have any cordless phones and their kitchen is a rf deadzone( where the microwave is) ill try changing the chan.  </s>
+<s> # to 11 thanks.  </s>
+<s> ill tell you if it works or not.  </s>

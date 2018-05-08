@@ -1,0 +1,16 @@
+<s> hey everyone!  </s>
+<s> i'll get the specs out of the way first.  </s>
+<s> i have an hp dv9000 (2007) and a macbook pro (2009).  </s>
+<s> for the longest time i've backed up my pc on my simpletech 250gb external hard drive, which is usb powered (plugs into two ports) i recently installed xp on my mac so i formatted the external drive and backed up my mac with time machine on the it.  </s>
+<s> anyways, now i want to sync it back with my pc. i connected it, and i could hear the drive attached noise, and it also shows the 'safely remove drive' option, however it isn't listed under my computer.  </s>
+<s> in the device manager, i can see it under disk drives as 'hitachi hts.... usb device'.  </s>
+<s> i checked to update drivers and it said everything was up to date and it claimed that it was working properly.  </s>
+<s> any ideas on how to format it so that my pc will list it under my computer?! thanks in advance!!!  </s>
+<s> now go research disk management and how to use that.  </s>
+<s> i got it to work.  </s>
+<s> device manager won't let you actually do anything to it, thanks though.  </s>
+<s> a pc doesn't know what to do with a mac drive, so after searching around, i just had to use my mac to format it to fat32.  </s>
+<s> it's impossible to do anything to it (without third party software) on a pc without doing so, not even in disk manager.  </s>
+<s> next time, gparted.  </s>
+<s> gparted will touch that drive and we have the sticky post in this forum with the lacie miracle that some claim lets us use the mac formatted drives.  </s>
+<s> bob  </s>

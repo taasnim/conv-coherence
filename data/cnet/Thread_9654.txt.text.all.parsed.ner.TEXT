@@ -1,0 +1,36 @@
+<s> i originally had a western digital hard drive specs are: 750 gb 7200 rpm 16mb cache the drive i purchased to install with it was a western digital caviar black specs are: 640 gb 7200rpm 64mb cache my problem is that once i received the new drive i wiped my computer and proceeded to install both drives everything installed fine.  </s>
+<s> i used the newer drive that has better specs for the c: drive partition and the old drive that is a little bigger as a d drive.  </s>
+<s> i'm only going to have the two partitions and i was going to use the d for just installing games, for instance my steam games which i have a lot of.  </s>
+<s> everything installed great.  </s>
+<s> didn't really have a problem.  </s>
+<s> seemed like the new drive was a little slow at some points but still worked out.  </s>
+<s> after i installed everything i've noticed that when i go to access or just load up steam or navigate on it i get the loading cursor for a few seconds, i'm not an impatient person but i mean it brings this up every few seconds for the simplest things.. like clicking on a particular game to view the page or initializing a game to install.  </s>
+<s> i was told that this could be that the old drive that i'm putting just my games on (d drive) doesn't have a paging file for it and that if it did this might clear it up but then i read somewhere that putting a paging file on a drive you will only see if a difference if the drive you put it on is faster than the other.  </s>
+<s> i'm kind of confused about the whole thing can you put a paging file on two drives?  </s>
+<s> or can it just go on one?  </s>
+<s> i just don't really have any knowledge on this topic at all and was wondering if someone could up my understanding of this, and also if this would even make a difference and if so how do i do it?  </s>
+<s> thank you very much for any help.  </s>
+<s> that's not it.  </s>
+<s> never has been.  </s>
+<s> what os is this?  </s>
+<s> xp for example has issues with the new 4k sectors.  </s>
+<s> bob  </s>
+<s> i'm running on vista home basic 64bit  </s>
+<s> but the missing details don't help here.  </s>
+<s> i can't find the make, model of the system or hdd.  </s>
+<s> if you want to speed up discussions, don't spare the details.  </s>
+<s> and please read the member started off with asking for overclocking but with a little digging we found the cause for the slow machine.  </s>
+<s> and no amount of overclocking would have helped!  </s>
+<s> bob  </s>
+<s> sorry for not listing in the first place, wasn't sure what kind of a response i would get if any.  </s>
+<s> probably should of listed regardless.  </s>
+<s> my apologies.  </s>
+<s> my comp is a custom build i'll give you the hdds first.  </s>
+<s> western digital caviar black wd6402aaex 640gb 7200 rpm 64mb cache sata 6.0gb/s 3.5&quot; internal hard drive - this is the new one i just recently purchased.  </s>
+<s> here's a link to it on newegg.  </s>
+<s> western digital re2 wd7500ayys 750gb 7200 rpm 16mb cache sata 3.0gb/s 3.5&quot; hard drive -bare drive - this is the old one i've had about 3 years.  </s>
+<s> the link from new doesn't work since it's deactivated.  </s>
+<s> here is the rest of my comp build.  </s>
+<s> vista home basic 64bit for system builders oem asus p5e lga 775 intel x38 atx intel motherboard xfx hd-687a-znfc radeon hd 6870 1gb corsair hx series cmpsu-620hx 620w g.skill 4gb (2 x 2gb) 240-pin ddr2 sdram ddr2 1000 (pc2 8000) dual channel kit desktop memory model f2-8000cl5d-4gbpq ( i have 8gig of this running) intel core 2 quad q6600 kentsfield 2.4ghz lga 775 quad-core  </s>
+<s> i can't tell if the entire drive is formatted for windows.  </s>
+<s> some not sluggish performance with foreign file systems i'd consider a test run with the phy jumper noted at bob  </s>

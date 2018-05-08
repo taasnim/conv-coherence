@@ -1,0 +1,19 @@
+<s> i have a 320gb 7200rpm sata-hdd already running off sata port #1 on my mobo, and my dvd/cdrw running off of the single ide channel.  </s>
+<s> i have a 40gb 5300rpm ide-hdd lying around and i was thinking of running it on the ide port as master with the dvd as slave. the plan is, i was going to just use the 40gb drive for storage only , just for keeping stuff that sits on the faster drive taking up space (documents, images, etc).  </s>
+<s> i've seen comments on a few other forums that if i do this, it could cause problems for normal operation, even though it's on the ide channel instead of the sata where the 'main' drive is.  </s>
+<s> i realize that there would be problems if i'm using the dvd and the ide-drive simultaneously, but i doubt that the situation would arise very often, if ever. the way that i envision it, the sata and ide are separate channels, and that there would be no conflict between the two of them.  </s>
+<s> however, i may be wrong.  </s>
+<s> any thoughts?  </s>
+<s> cheers!  </s>
+<s> you can always go back if setup gets to be too much.  </s>
+<s> one piece of advice.  </s>
+<s> use the shiny new 80 conductor ide cable and the cs jumper if you can.  </s>
+<s> bob  </s>
+<s> unless, you left something out, you should be able to use the 40gb hd on the ide channel.  </s>
+<s> while, imho you really don't gain that much other more storage.  </s>
+<s> what *may* happen and what becomes a problem is thre old hd will slow things down when accessed and/or become a bottleneck area if used alot.  </s>
+<s> what you can do, if you like is mount it in an ext.  </s>
+<s> usb case and use it that way.  </s>
+<s> robert also offered using the newer 80-connector ide cable as well plus cs setting.  </s>
+<s> of course, once you set this up, you're &quot;real world&quot; usage will decide for you.  </s>
+<s> tada -----willy  </s>

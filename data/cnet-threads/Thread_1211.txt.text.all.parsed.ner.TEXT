@@ -1,0 +1,19 @@
+<s> i just extended an existing lan by plugging an ethernet cable into a wireless router.  </s>
+<s> generally it works fine.  </s>
+<s> however the internet connection through the router is much slower then through the ethernet cable.  </s>
+<s> i' ve been using the same router at home before and did not notice any difference in connection speed between etherenet and wireless there.  </s>
+<s> however at home i only had 2 machines attached to the network.  </s>
+<s> looking at the router configuration utility under &quot;attached devices&quot;, i can now see 6 further machines attached to the router.  </s>
+<s> these are from the existing lan. are the possibly using up the bandwidth?  </s>
+<s> is that normal, since these machines are connected through ethernet cables, not wireless.  </s>
+<s> thanks for help, gleb  </s>
+<s> wifi is also half duplex from what i've seen.  </s>
+<s> even at 11 megabits per second, web pages are fine.  </s>
+<s> it's when you copy a file the speed feels pinched.  </s>
+<s> bob  </s>
+<s> that's what i figure, 11 megabits should not be the bottle neck for the internet access.  </s>
+<s> but i can see the difference between the wired / wireless  </s>
+<s> as i noted, it's not full duplex and the delays can add up as some interference can knock a packet out and its resent.  </s>
+<s> i think the wifi industry is overselling this product.  </s>
+<s> it's good, but they don't want to talk much about such things.  </s>
+<s> bob  </s>

@@ -1,0 +1,52 @@
+<s> i've got 2 winxp desktops which have been directly networked through cabling.  </s>
+<s> one comp has an adsl connection so it's shared thru the network.  </s>
+<s> now i've got a centrino laptop which i want to bring in, and since the wiring slots on the desktops are taken up im thinking of going wireless.  </s>
+<s> my laptop supports 802.11b/a.  </s>
+<s> i want to hook up my laptop so that i can share the net connection especially, and also share my files and printer.  </s>
+<s> whats my best option?? what hardware do i need to get?? any recommendations?? router?? access point?? about routers, something i dont understand is, my adsl modem is a usb device, does it hook up direct to the router or thru a comp?  </s>
+<s> (any hardware independant of a comp?) also im concerned abt compatibility and performance.  </s>
+<s> get a router.  </s>
+<s> connect the router to the adsl modem.  </s>
+<s> connect each pc to the router.  </s>
+<s> most routers offer wireless.  </s>
+<s> avoid mixing brands.  </s>
+<s> my setup is all d-link.  </s>
+<s> cable modem, router (wireless for my laptop), three desktops wired, d-link nics in the desktops , d-link wireless card in the laptop.  </s>
+<s> with this type of setup the d-link equipment discovers each piece and since they know each other, configuration is painless.  </s>
+<s> good luck, telephony facts, analog/digital explained.  </s>
+<s> see the cnet faces behind the posts.  </s>
+<s> i think computer viruses should count as life.  </s>
+<s> i think it says something about human nature that the only form of life we have created so far is purely destructive.  </s>
+<s> we've created life in our own image.  </s>
+<s> - - stephen w. hawking  </s>
+<s> so the adsl modem can run independantly, without a comp, if i get a router??  </s>
+<s> you didn't say much about it except that it is currently connected to one of your computers via usb.  </s>
+<s> do you know if it could be connected via an ethernet cable?  </s>
+<s> if you don't know, perhaps you could tell us the brand and model and who your adsl provider is - a we can look up the specs.  </s>
+<s> my concern is this - there are a few cable modems/ dsl modems/ satellite receivers that connect to the user's computer via usb only.  </s>
+<s> others with usb capability also have an ethernet output (but must be used either/or, not both ports). the problem is that there aren't any mainstream wireless broadband routers that accept a usb input; they all require ethernet input from the broadband modem.  </s>
+<s> if your adsl modem is in the first category i mentioned - usb only - then you will need to &quot;negotiate&quot; with your dsl service provider for a new modem that has an ethernet output.  </s>
+<s> if your current modem is an either/or (but you just happen to be using the usb side so that you could share the internet the other computer via internet connection sharing on the main computer and a simple crossover cable to the second computer) then you are good to go.  </s>
+<s> get a wireless router, connect it to the modem via ethernet cable, connect the wired computers to it via more ethernet cables, set up the wireless configuration on the laptop, and use the usb cable for something else.  </s>
+<s> regarding the adsl modem being able to operate without a computer - yes, they all can operate without a computer.  </s>
+<s> the issue that you may be thinking of is pppoe authentication and login.  </s>
+<s> if your service is pppoe-based, then there must be a pppoe client somewhere immediately upstream from the modem.  </s>
+<s> in a single computer setup, the client would be a software utility that loads and logs on when you boot.  </s>
+<s> in a multi-computer setup with a router, the router itself has the client built into its firmware.  </s>
+<s> when you set up the router, you enable the pppoe client in a checkbox on the setup screen, put in your account id and password, and from now on the router does it all.  </s>
+<s> you then have to uninstall/disable the old pppoe client on the main system (as you can't have both clients trying to open a connection).  </s>
+<s> hth, dw  </s>
+<s> i searched on the web, this looks like my adsl modem its a prolink no it doesnt have any ethernet connectors, this is only the adsl modem.  </s>
+<s> and yes i think it is pppoe, remember that from the software setup.  </s>
+<s> hmm so now my only option is to get a router and place it instead of the crossover cable and connect the laptop thru that rite?  </s>
+<s> (or get an adsl modem with router?)  </s>
+<s> ahh, yes that does limit the options as i feared.  </s>
+<s> for starters, your best bet is to change out that modem.  </s>
+<s> however, a significant consideration for this is the specific technical details of your adsl service.  </s>
+<s> there are several different methodologies for adsl delivery and the modem has to be set exactly for what's coming up the line from the central office.  </s>
+<s> you can often get a newer model that's appropriate from your service provider just by asking.  </s>
+<s> so give them a call and see what they say.  </s>
+<s> if they flat out refuse to work with you on it, let us know who they are so we can research the details of their transmission protocols and determine what alternate modems could work.  </s>
+<s> (and we can also put out the word to the rest of the world not to do business with them... but, honestly, i'll be very surprised if they won't work with you on this.) otherwise, you going to have to leave the first pc in place to do the pppoe and make the conversion from usb. it would have to be running anytime you wanted another computer to access the internet - which is kinda stupid to have to put up with that.  </s>
+<s> as you surmised, the wireless router would be next in the chain.  </s>
+<s> dw  </s>

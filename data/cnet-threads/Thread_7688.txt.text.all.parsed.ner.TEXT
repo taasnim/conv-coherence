@@ -1,0 +1,19 @@
+<s> i'm trying to install hot dog pro 7.0 on my computer and i always get the following message and the installation aborts.  </s>
+<s> fatal error : d7530h;f002a3c memory buffer underrun has anyone had this problem and how did you slove it?  </s>
+<s> thanks.... robert.  </s>
+<s> use the little search bar in cnet forums for hotdog pro.  </s>
+<s> use google search for hotdog pro memory error.  </s>
+<s> turn off unneeded stuff with task manager to free up ram and also see if you have some unwanted programs running that shouldn't, or you don't need (spyware, malware).  </s>
+<s> asor, if you have more than one memory chip installed they may be incompatable.  </s>
+<s> hot dog pro 7.0 may be trying to install in a memory location that is taken.  </s>
+<s> hot dog pro 7.0 is what type of application?  </s>
+<s> bill .  </s>
+<s> thanks bill, hot dog pro 7.0 is a tool used for creating websites.  </s>
+<s> thanks again for your insight... robert  </s>
+<s> i had the same problem even after multiple intalls with hotdog pro 7.03 under winxp.  </s>
+<s> since hotdog pro won't run under winxp right mouse click on the hotdog icon and choose properties.  </s>
+<s> under the compatability tab choose win98/me.  </s>
+<s> haven't had any problems yet.  </s>
+<s> re: change compatibility mode to win 98/me - this fix works immediately!  </s>
+<s> i had the same prob with hd 7.03 in xp rpro even after cleaning the reg manually to remove all entries left behind by add/remove (lots of them & only 1 shared which didn't seem to affect anything else when removed).  </s>
+<s> thanks for the original post on the fix !!! -- yakkityakk  </s>

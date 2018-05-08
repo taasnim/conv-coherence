@@ -1,0 +1,39 @@
+<s> this may be a common problem so hopefully there is some advice out there for me.  </s>
+<s> i recently bought a seagate 40gb 2.0 usb external hard drive to use on my laptop for saving audio files.  </s>
+<s> it says that it is plug and play and does not require anything but xp to find the driver.  </s>
+<s> my setup is not top notch but will do.  </s>
+<s> piii, 512mb ram, and i added a pcmcia usb 2.0 cardbus to upgrade from the 1.1 in the back of the laptop.  </s>
+<s> when i first plugged the ext.  </s>
+<s> drive in i got a &quot;this device is not working properly&quot; meassge but it recognized it.  </s>
+<s> then when i went to investigate in the device manager it was there with the yellow exclamation point and said that the drivers weren't installed.  </s>
+<s> so i updated the drivers but the ones installed were the best for the device.  </s>
+<s> when i went back a page to the properties it said &quot;this device cannot start - code 10&quot;.  </s>
+<s> so that was/is(?) the problem to be solved.  </s>
+<s> i tried to restart and try again. the drive won't even be recognized now unless i put it in the slow 1.1 usb and not the 2.0.  </s>
+<s> i still get the same messages when i look at the properties in the device manager too. the 2.0 still won't recognize it as it did the first time i plugged it in.  </s>
+<s> i don't think it's a power problem. the pcmcia is powered to 5vdc like it should be and it comes with a power cord to plug it in the 1.1 slot for extra juice if you need it and according to the hard drive i do not.  </s>
+<s> i also tried plugging it into the wall using another power cord.  </s>
+<s> no luck.  </s>
+<s> also tried it on another computer that only had the 1.1 an it recognized it but same device properties.  </s>
+<s> sorry for the manifesto but i'd really like to get this fixed.  </s>
+<s> any advice?  </s>
+<s> todd  </s>
+<s> it's likely defective.  </s>
+<s> bob  </s>
+<s> i installed an updated usb driver for the xp sp one that i have installed and it now recognizes the drive but still have the &quot;code 10&quot;.  </s>
+<s> if the drive doesn't work in any machine then it's either blank or defective.  </s>
+<s> so far your story points to defective.  </s>
+<s> bob  </s>
+<s> you may be right about it being defective but blank is what i want.  </s>
+<s> i bought it new.  </s>
+<s> maybe it needs formatting but a) i can't access it to do so (even though it comes up as &quot;usb mass storage device&quot;) and b) it's supposed to be plug and play.  </s>
+<s> i really appreciate your help.  </s>
+<s> i'll give it a little more tweaking before i return it.  </s>
+<s> if you only use it on xp machines, be sure to format it as ntfs.  </s>
+<s> hope this helps.  </s>
+<s> kees  </s>
+<s> so i can't format it.  </s>
+<s> i can't get to it.  </s>
+<s> i will say that i optimized the laptop for audio recording and may have turned something off?  </s>
+<s> not sure what (was following a list of things to do).  </s>
+<s> if there's something that must be on and i turned it off to save cpu power, maybe that's it.  </s>

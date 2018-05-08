@@ -1,0 +1,9 @@
+<s> i can't seem to be able to get my new graphics card, which is a evga e-geforce 6200 8x agp 256mb ddr, to work on my dell dimension 4600.  </s>
+<s> if anyone can help me( every time i plug in the card into the agp slot and turn on the computer, even when the cable is connected, the screen stays black).  </s>
+<s> they system came with an integrated intel extreme 2 graphics card, if it is possible to disable this, it might help.  </s>
+<s> if you have integrated graphics, try putting the monitor cable back on the original connector.  </s>
+<s> if it is still on the original connector, put it on the video card connector.  </s>
+<s> that will tell which card is working.  </s>
+<s> also, check the bios setting to disable the on board graphics (although dell hints it may be automatic) see here:  </s>
+<s> do i need to have the drivers already on the computer, because every time i try to do that it doesn't let me install them.  </s>
+<s> also i would like to know if the dell dimension 4600 motherboards are somehow not compatible with this card.  </s>

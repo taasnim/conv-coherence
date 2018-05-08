@@ -1,0 +1,16 @@
+<s> this is the strangest problem ive had with a computer.  </s>
+<s> my father in law bought us a new harddrive to go in a computer, he bought a western digital 320gb eide (enhanced ide) harddrive.  </s>
+<s> the problem with it is, it will only work on the slave side of the cable.  </s>
+<s> i have the jumper on the hard drive set to master, and planed on using the old hardriver that was in this pc as the slave.  </s>
+<s> if i put the new western digital on the master part of the cable, it will say something like invalad boot disk or something like that.  </s>
+<s> i forget what it says.  </s>
+<s> but when i put it back on the slave part of the cable, it will boot up like it suppose too.  </s>
+<s> has anyone ever heard of that kind of problem with a hardrive?  </s>
+<s> oh, my pc is a hp pavilion 533w , i have 1gb of memory in it.  </s>
+<s> is it 80 conductor and is anything else connected?  </s>
+<s> you should be using an 80 conductor cable. the default for these is the blue end goes to the mb, the black to the master and gray to the slave device.  </s>
+<s> but, what you do is set all connected devices to &quot;cable select&quot; or cs. you don't set master/slave when using these.  </s>
+<s> change to cs and, if you're using an 80 conductor cable, it should work with either black or gray.  </s>
+<s> the days of setting it with master and slave passed about a decade ago with the arrival of 80 conductor cables.  </s>
+<s> try the new method of cable select or cs and the end of the cable is master and the center is slave.  </s>
+<s> bob  </s>

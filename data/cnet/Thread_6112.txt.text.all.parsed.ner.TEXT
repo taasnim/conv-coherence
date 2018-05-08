@@ -1,0 +1,13 @@
+<s> i have 2 desktops running xp home.  </s>
+<s> computer(a)has a 80gb with operating system, and personal files on it.  </s>
+<s> i just installed a new 400gb drive and did a fresh install of windows xp home.  </s>
+<s> i was gonna put it aside and save it for an emergency backup.  </s>
+<s> i decided i'd rather have that 80gb harddrive as a secondary drive in computer(b).  </s>
+<s> can i just install it as though it were a new (slave)drive and be able to access the files that are already on it?  </s>
+<s> or will having the windows operating system on it mess up the master drive?  </s>
+<s> i'd appreciate all advice on this.  </s>
+<s> yup....assuming it isn't encrypted.  </s>
+<s> you should just be able to plug in the second drive as a 'slave' (you probably will not actually need to change the jumpers on the drive, just leave both the drives on the cable select setting).  </s>
+<s> when you boot up windows it should see it as e: or f: drive.  </s>
+<s> thanks.  </s>
+<s> does it need to be connected to the middle connector of the cable?  </s>

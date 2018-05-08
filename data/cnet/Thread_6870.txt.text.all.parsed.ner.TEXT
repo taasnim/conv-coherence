@@ -1,0 +1,45 @@
+<s> my computer has pretty much died and wont power up.  </s>
+<s> a bit of troubleshooting (and part replacement) still hasnt gotten it to start up.  </s>
+<s> ive replaced the hard drive first, since there was a clicking noise coming from the front.  </s>
+<s> nothing.  </s>
+<s> turns out the noise was actually the floppy, but i unplugged that.  </s>
+<s> replaced the power supply next. the ps fan actually started in the new one which it didnt do with the old so i thought good sign.  </s>
+<s> but it still wont start up.  </s>
+<s> looked at the cooling fan on the motherboard, and although it smelled like it was burnt up, it is ok. (geeksquad guys at best buy checked it i didnt replace that part).  </s>
+<s> im not sure what to troubleshoot next or what else could be preventing my computer from powering up.  </s>
+<s> motherboard?? ram?? any suggestions?? specs: emachines t2682 with intel celeron 2.6 ghz, 265mb ram, windows xp home edition  </s>
+<s> do any of the components turn on when you press the power button?  </s>
+<s> if not, then the motherboard could be fried or it could be the power button.  </s>
+<s> if something turns on and there is no display on the screen, it could possibly be the ram.  </s>
+<s> did you call or contact emachines yet?  </s>
+<s> when the power is turned on, the light at the front of the tower goes on. the cooling fan on the motherboard jumps for a second, but doesn't really start up.  </s>
+<s> also, there is a faint noise at one of the drives (i couldn't isolate which one last night).  </s>
+<s> i haven't contacted emachines yet, but will probably try replacing the ram since that's pretty easy to pull out.  </s>
+<s> you said that the fan on the motherboard smelled like it was &quot;burnt&quot; but the fan worked ok? maybe so, but the processor may have 'burnt' up.  </s>
+<s> this would prevent a 'full' power-up.  </s>
+<s> i wouldn't remove it.  </s>
+<s> it may void the warranty.  </s>
+<s> time to send it back.  </s>
+<s> and life goes on... jack  </s>
+<s> i figured since i bought the computer over two, maybe three years ago the one year warranty wouldn't be valid.  </s>
+<s> i guess i have to call emachines and check.  </s>
+<s> thanks.  </s>
+<s> well, i installed a new motherboard and &quot;poof&quot; it powered up right away.  </s>
+<s> (yeah!) i hit &quot;del&quot; to look at the cmos & bios and didn't really have to change anything there, it recognized most of it.  </s>
+<s> it then rolled into giving me the option of how to start windows xp, last known good config, safe mode, normally, ect.  </s>
+<s> regardless of which i choose, it rolled me back into the same screen.  </s>
+<s> all i have is the &quot;restore cd&quot; from emachines and when that is in i have the option of erasing my hard drive to re-install xp (didn't want to do that!!) or another option that didn't get any results.  </s>
+<s> ??  </s>
+<s> i have the exact same problem with my emachine t2682 with the same specs.  </s>
+<s> the motherboard is the problem.  </s>
+<s> i changed out the motherboard and it powered right up. the next glitch was that it wouldn't boot off of the hd or even a new one i had.  </s>
+<s> i brought the computer over to one of my computer junkie friends and had him stumped.  </s>
+<s> he replaced swapped out the ram before it would boot up properly.  </s>
+<s> so almost every part in that computer was replaced.  </s>
+<s> when i get a new computer....it won't be an emachines!  </s>
+<s> this is normal.... xp does not accept this type off hwd change.  </s>
+<s> the real problem is that e-machine uses ghost to create the recovery disk, an exact copy of your old hwd and at this point they are worthless.... slave your existing install to another system and back-up your existing files.  </s>
+<s> purchase a copy of xp upgrade, boot from the disk.  </s>
+<s> follow the prompts to delete the existing partition and re-install xp. any drivers that you will need can be found on -machines web site.  </s>
+<s> do not format the existing copy of xp as the upgrade disk will not work.  </s>
+<s> luck bill  </s>

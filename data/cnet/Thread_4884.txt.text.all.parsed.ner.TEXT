@@ -1,0 +1,30 @@
+<s> i have an 1100a with the attached scanner.  </s>
+<s> worked fine on my old pc (400mhz p-2, w2k).  </s>
+<s> moved to a newer pc (3ghz p-4, w2k) and the scanner doesn't work.  </s>
+<s> gives error: &quot;!  </s>
+<s> unable to locate scanner unable to start a scan session.  </s>
+<s> device is disconnected.&quot;  </s>
+<s> tried to query hp support, no reply, probably because 1100a is no longer supported.  </s>
+<s> bought a cd which i hoped would be a newer driver but when installed, fails in the same way.  </s>
+<s> and it was the same 4.3.2.50 release even though the part number on the cd was different.  </s>
+<s> i installed the software on my laptop (500mhz p-3, w2k) and it works fine although if i unplug the parallel port cable i get the same error message.  </s>
+<s> any suggestions would be appreciated.  </s>
+<s> these tend to not work on new machines (port speed changed) or the os isn't installed proper (motherboard drivers).  </s>
+<s> you didn't share the gritty details.  </s>
+<s> if you supplied just what you did in your post above, hp and others may just write you off.  </s>
+<s> bob  </s>
+<s> its on a parallel port (tried lpt1 & lpt2) and except that some of the older ones were not bidirectional am not aware of any settings it can do.  </s>
+<s> of course it could be flakeyness in the mb/bios as i have found other glitches in this mb (ecs 848p-a) and i am considering scrapping it and putting in a better one.  </s>
+<s> i selected it because it was on sale together with the p-4.  </s>
+<s> what would i look for in the bios?  </s>
+<s> rich  </s>
+<s> the new screamer machines are just too fast on the parallel ports.  </s>
+<s> i did have a few clients that would never say die and the fix was to install a pci lpt card. the timing appears to be the older centronics speed then.  </s>
+<s> but it cost as much as a new usb scanner!  </s>
+<s> bob  </s>
+<s> sorry for the delay getting back to you bob. as a matter of fact i have already done that with a pci card from siig with identical results.  </s>
+<s> i already have another scanner, not a usb but on a parallel port (shared with another printer).  </s>
+<s> it works fine on lpt1 (haven't tried it on the siig card (lpt2)).  </s>
+<s> what i like about this scanner (and i suspect that any new scanner would be different) is that its a sheet feed, which scans a page in seconds and i am able to feed additional sheets in which is especially handy when i am sending a multi-page fax. the flatbed scanner takes several minutes per page and can only do one page at a time.  </s>
+<s> a multi-page fax takes too long and must be saved as multiple winfax attachments to send as a fax.  </s>
+<s> rich  </s>

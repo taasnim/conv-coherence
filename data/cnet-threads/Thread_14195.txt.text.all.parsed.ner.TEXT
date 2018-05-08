@@ -1,0 +1,68 @@
+<s> the first time happened when i was using my windows formatted external (fat32 i believe) hard drive on my friend's mac computer.  </s>
+<s> i'm not sure what happen because it was working fine but when i took it home it didnt recognize the drive.  </s>
+<s> windows was asking me to reformat the hard drive!  </s>
+<s> so i skimmed the internet, but i didnt even know how the problem occured.  </s>
+<s> i had no hope left so i boxed the 160 gig hard drive for storage in case one day i might be able to save my thousands of photos and music.  </s>
+<s> i bought a new hard drive and decided to forget the past and start fresh.  </s>
+<s> this time i bought a 200 gig hard drive and again, i chose seagate. the secound time happen a few days ago, i bought a new mac book pro and wanted to transfer what ever i had on my windows xp desktop to my new mac.  </s>
+<s> i was transfering some mp3 and pictures but then i stoped.  </s>
+<s> i pushed the button down on the front of the seagate and an alert signal poped up telling me that i incorrectly disconnected the external hard drive.  </s>
+<s> i then pushed ok and immediatly tried to reconnect the hard drive.  </s>
+<s> now every time i do so i a pop up tells me that &quot;the disk you inserted was not readable by this computer&quot; and i can either initialize, ignore, or eject.  </s>
+<s> i tried to load the hard drive on a windows and it shows up blank and asks me to reformat it.  </s>
+<s> ..... not again!!! gah! is there any way of saving my files with the file names!  </s>
+<s> i looked at disk warrior and it seems to only help mac formatted hard drive.  </s>
+<s> data rescue ii would get my files, but i wan't my file names as well.  </s>
+<s> is there a way of just restoring the directory.. or something so that i can return it to the way it was?  </s>
+<s> help!  </s>
+<s> here i'm just copying files from a command line or sometimes explorer.  </s>
+<s> what's with that button?  </s>
+<s> also, i wonder if the drive's housing has an issue.  </s>
+<s> some overheat or have other issues.  </s>
+<s> try a better case.  </s>
+<s> -&gt; in closing, fat32 is going to mess up.  </s>
+<s> it doesn't have any fault tolerance but it's your only choice if you want a mac to write to it.  </s>
+<s> just remember it's a timebomb of a filesystem.  </s>
+<s> no fix is planned.  </s>
+<s> bob  </s>
+<s> the button...?the button is to turn the external hard drive off and on.  </s>
+<s> i dont think heat is in issue, im in an air conditioned room and on the box, the seagate claims that it was designed for cooling.  </s>
+<s> i wasn't writing anything to the hard drive, just coping files to my mac.  </s>
+<s> unless something going on undetected... i was planning to take everything off the external and then reformat it immediately.  </s>
+<s> i know seagate in the booklet says that sharing files between a mac and pc is not recommened but i didn't think this would happen.. well at least happen again.  </s>
+<s> you must eject the drive or shutdown windows before removing the power.  </s>
+<s> fat32's lack of resiliency is a big factor here.  </s>
+<s> consider using that power switch as a bad idea if windows is still running.  </s>
+<s> bob  </s>
+<s> you keep saying fat32 [sucks] but can anyone at least tell me clearly wether it is fixable.  </s>
+<s> i don't know, i saw disk warrior can repair directories but only mac directories i disconnected the hard drive on a mac (you push and hold down the button till it beeps and the hard drive spins down).  </s>
+<s> usually its fine when you perform it on a windows but when you disconnect this way on a mac it becomes unusable.  </s>
+<s> i really need helpful replies please bob, your kinda helping but i already realized that i have to disconnect first for the second time (second failed hard drive).  </s>
+<s> can you at least tell if there is any hope of restoring the drive or is my best bet to retrieve the data, such as using data rescue.  </s>
+<s> i know data rescue ii works but it doesn't come with the file names, i have thousands of pictures each organized, and thousand of (legal) mp3 rips from my cds.  </s>
+<s> i don't want to spend thousands of hours relabeling them.  </s>
+<s> i'm in college and i don't have that kind of time for a while but i want some of the data now.  </s>
+<s> thanks  </s>
+<s> i only am sharing that fat32 is fragile.  </s>
+<s> use of that old file system on usb drives will be exciting.  </s>
+<s> have you tried zero assumption recovery on that drive?  </s>
+<s> also, why are files on such a drive that you can't lose?  </s>
+<s> i've shared that fat32 is fragile and you may have revealed you are attempting to use a fragile file system for &quot;storage&quot; or even worse &quot;backup.&quot;  </s>
+<s> there's a lesson here.  </s>
+<s> i find some will not want to learn it any other way but firsthand.  </s>
+<s> bob  </s>
+<s> i know you are wanting to have some shared portable drive from mac to pc and fat32 is one shareable file system.  </s>
+<s> but the lesson i learned was this.  </s>
+<s> to connect such a drive i do this.  </s>
+<s> mac?  </s>
+<s> connect with firewire.  </s>
+<s> pc? connect with usb.  </s>
+<s> while both should work on either the operative word in this is &quot;should&quot;.  </s>
+<s> i'm sharing my free lesson so you can use it if you can.  </s>
+<s> maybe it will help, maybe not.  </s>
+<s> for now we just use those usb memory keys and networks to fling files around.  </s>
+<s> bob  </s>
+<s> well i knew seagate couldnt help me (says so in the warrenty that they take no responsibility for data loss) but i called them anyways, to see if they had a suggestion -they at least told me that it was probably a corrupt partitioning table but thats all he could tell me, and just told me to search google i was thankfull for that but anyone know of a data recovery program that will recover the filenames too?  </s>
+<s> or a program that will fix a corrupt partitioning table?  </s>
+<s> it seems this happens too often.  </s>
+<s> if you didn't believe in backups... bob  </s>

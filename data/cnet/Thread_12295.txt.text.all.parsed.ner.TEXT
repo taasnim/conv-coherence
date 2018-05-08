@@ -1,0 +1,37 @@
+<s> i just gave up on a 5 year-old thinkpad and need to retrieve the data on the hard drive.  </s>
+<s> the laptop itself won't boot (even from linux on a cd).  </s>
+<s> so, if i get an external enclosure, is there anything i need to know?  </s>
+<s> i've read that you need to format drives to get them to recognise, but as this is 'recovery mission', that obviously isn't an option.  </s>
+<s> any help/advice as to the type of enclosure or the process itself would be greatly appreciated.  </s>
+<s> -nav  </s>
+<s> 1. the drive's interface.  </s>
+<s> it's a safe bet it's pata.  </s>
+<s> 2. the drive's height.  </s>
+<s> usually it's 9.5 mm but while i'd say that i'd bet on it the odds are not as good as item 1. 3. if the drive can't be read in your new machine, notable names to look up are: pc file inspector getdataback zero assumption recovery 4. also, do a little research ahead of the move with these words in google.com  </s>
+<s> xp take ownership bob  </s>
+<s> if the drive fits into the enclosure, (pata drive for pata enclosure, sata drive for sata enclosure.)you  </s>
+<s> should be able to access your data, after &quot;taking poscession&quot;, if necessary.  </s>
+<s> as for formating the drive, your old drive with data should have already been formated.  </s>
+<s> the &quot;formating&quot; you referred to concerns a brand new drive fitted into the enclosure.  </s>
+<s> take out the hard drive from the unbootable computer and put in enclosure.  </s>
+<s> connect enclosure to another computer.  </s>
+<s> access data, copy...tranfer to new computer or new hd.  </s>
+<s> it's definitely 9.5mm, but i'm not sure about pata.  </s>
+<s> it's definitely way too early to be sata though.  </s>
+<s> i think i recall it being eide - is that of any help at all?  </s>
+<s> -nav  </s>
+<s> it seems you have the usual drive so it's just a matter of getting a case now.. bob  </s>
+<s> thanks for the help.  </s>
+<s> did get an enclosure, but the interface is wrong.  </s>
+<s> my drive (an ibm travelstar) has a wider interface than the enlcosure, with two layers of ~20 pins. the enclousure (a dynex) has only one layer.  </s>
+<s> did i get a sata interface for a pata drive?  </s>
+<s> as usual, the help is sincerely appreciated.  </s>
+<s> -nav  </s>
+<s> try photobucket.com  </s>
+<s> if need be.  </s>
+<s> google.com and it's images can help you identify connections.  </s>
+<s> bob  </s>
+<s> mine is definitely pata.  </s>
+<s> this enclosure must be sata.  </s>
+<s> good thing it's returnable.  </s>
+<s> -nav  </s>

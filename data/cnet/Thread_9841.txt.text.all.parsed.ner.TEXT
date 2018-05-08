@@ -1,0 +1,11 @@
+<s> my friend has a western digital 500 gb external hard drive.  </s>
+<s> disk has 2 firewire ports and 1 usb port.  </s>
+<s> i want to connect this hard drive 2 pc at the same time.  </s>
+<s> is it possible?  </s>
+<s> there was some work done with linux to do that but if you have the common windows machine just use a network share.  </s>
+<s> bob  </s>
+<s> what you're trying to do is make a nas setup and that won't happen with a non-nas ext.  </s>
+<s> hd. you are going to need a small network setup where the hd is attached to one system and the under the network become a &quot;shared resource&quot; for that network.  </s>
+<s> if you plan to use multiple ports from that ext.  </s>
+<s> hd to attach to separate systems, no workee or expect problems.  </s>
+<s> tada -----willy  </s>

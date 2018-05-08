@@ -1,0 +1,19 @@
+<s> guys, i have a question, can a hdd hard disk designed for windows 98 be compatible to a windows 7 pc?  </s>
+<s> i will put this hd hard disk as secondary hard drive is it ok?  </s>
+<s> hdd interface.  </s>
+<s> vapcmd  </s>
+<s> i don't know of any hard disk that was designed for windows 98. are you wanting to put a hard disk with win 98 installed on the same pc as one with win 7? well, win 7 would be able to see and read from it but you'd probably not be able to run win 98 on the same machine.  </s>
+<s> the primary reason is that the amount of ram needed to run win 7 would choke win 98. are we close to answering you here?  </s>
+<s> all hds will work provided there is no fault present.  </s>
+<s> further, understand small older hds may not be desired not because of os format but rather it needs juice from psu by being present.  </s>
+<s> thus, i won't install an old hd that's smaller than 20gb in size to be practical, imho.  </s>
+<s> if you want to use a smaller hd like say 10gb, etc. mount it in the proper ext.  </s>
+<s> case and use it as ext.  </s>
+<s> hd. seriously consider that you think using a &quot;flash drive&quot; as these are very capable and come easily in 4-16gb capacity.  </s>
+<s> of course, you have to prepare any old hd for use and in most cases that fat32 or ntsf.  </s>
+<s> this is a generic answer and you didn't state what size old hd you're inquiring about.  </s>
+<s> tada -----willy  </s>
+<s> first a hd is not designed for an os.....it's just a storage device and could not give a hoot what os or data you put on it. the maybe part.  </s>
+<s> hd's from the w98 era were pata.  </s>
+<s> hd's from the win7 era are sata. the cables and plugs are different.  </s>
+<s> so a quick eye-ball of the old hd connectors and the connectors available in the machine might be of value.  </s>

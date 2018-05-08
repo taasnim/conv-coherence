@@ -1,0 +1,69 @@
+<s> i have a 40gb dell inspiron 5100 laptop.  </s>
+<s> i surf the net on a home wireless network, linksys.  </s>
+<s> i also have a seldom used six year old 30gb desktop.  </s>
+<s> my wife and others connect to the wirless network with their laptops.  </s>
+<s> all pcs run xp.  </s>
+<s> i want to rip 800+ cds to lossless, probably flak.  </s>
+<s> evenutally, i'll use the lossless files to stream directly to my home stereo.  </s>
+<s> i'll load my ipod with aac versions of the same songs.  </s>
+<s> i also want to backup the photos and files on my laptop.  </s>
+<s> here is my idea for a solution... 1. i will attach a 500gb mybook world edition to my wireless network.  </s>
+<s> 2. i will attach a 500gb seagate freeagent pro to my laptop.  </s>
+<s> i intend to connect the seagate via a sata adapter, for increased speed.  </s>
+<s> 3. i'll save lossless and aac files to the seagate with automatic backup [for the lossless files] to the network attached mybook.  </s>
+<s> 4. i hope to stream music from the mybook to my stereo.  </s>
+<s> 5. normal laptop backup will be to the seagate with auto backup to the mybook as well.  </s>
+<s> so... a. does this make sense?  </s>
+<s> b. what type of performance can i expect when i'm backing up to the mybook via a wireless connection?  </s>
+<s> c. if i already have a wireless network and router do i need to by the world edition or would any, less expensive, hard drive do the trick?  </s>
+<s> d. also open to advice on best places to buy external drives.  </s>
+<s> a. does this make sense?  </s>
+<s> yup.  </s>
+<s> b. what type of performance can i expect when i'm backing up to the mybook via a wireless connection?  </s>
+<s> most find such &quot;sluggish&quot; compared to usb 2.0 or firewire connected drives.  </s>
+<s> let's use the 10x slower than for a ballpark number.  </s>
+<s> c. if i already have a wireless network and router do i need to by the world edition or would any, less expensive, hard drive do the trick?  </s>
+<s> never saw that one so no comment.  </s>
+<s> d. also open to advice on best places to buy external drives what country?  </s>
+<s> here i pick up drives from sales at stores, newegg.com and geeks.com.  </s>
+<s> you might not be able to get such but at less than 150 for that 500gb usb 2.0 drive it's very tempting.  </s>
+<s> -&gt; let me share my solution.  </s>
+<s> i didn't bother with flac since i couldn't hear any difference from the pods or over headphones.  </s>
+<s> so on the pc i ran cdex and took the defaults.  </s>
+<s> i'm done and a audiogeek i know is still ripping months later.  </s>
+<s> bob  </s>
+<s> so, you approve of my idea of saving to &quot;local&quot; external drive from my laptop and then backing that up to another, remotely located external via wireless.  </s>
+<s> speed issues not withstanding.  </s>
+<s> my thinking is that the remotely located drive will be safer than the day-to-day drive i'll use for ripping and backing up my laptop.  </s>
+<s> just a few weeks ago, i had a drive tumble off of my desk mid-rip. the drive and 100+ ripped cds went poof! curious...if i connect an esata external to my laptop via a pcmcia sata adapter will i get the sata speed advantages or is such just a &quot;dumb&quot; adapter, in which case i'd probably be better off with usb 2.0.  </s>
+<s> to my question, part c, above, about the need for a world edition [or any other nas drive]... i'm wondering if i can attach a regular, non-nas external drive to my seldom used desktop and then, since it is connected to the wireless network, save and retrieve files from the external via the built in windows file and printer sharing feature.  </s>
+<s> i'd also intend to stream lossless files from the same.  </s>
+<s> sounds like a nas solution to me, but something tells me it's not that simple.  </s>
+<s> on the lossless issue.  </s>
+<s> call me paranoid, but i really want to save pristine versions of all of my cds [approx 800].  </s>
+<s> i figure these will serve as a) a great archive; and b) an excellent base from which to convert into whichever lossy format is in fashion 2, 3, or 5 years from now.  </s>
+<s> btw, i'm in the us.  </s>
+<s> looking at newegg, buy.com, or j&r for the purchases.  </s>
+<s> just today [5/25], buy.com has issued a 7% off coupon, so that might tilt the scales in their favor.  </s>
+<s> &quot;so, you approve of my idea of saving to &quot;local&quot; external drive from my laptop and then backing that up to another, remotely located external via wireless.  </s>
+<s> speed issues not withstanding.&quot; if that was supposed to be a backup system it fails on some points but since you have the cds it's going to be just fine.  </s>
+<s> &quot;my thinking is that the remotely located drive will be safer than the day-to-day drive i'll use for ripping and backing up my laptop.  </s>
+<s> just a few weeks ago, i had a drive tumble off of my desk mid-rip. the drive and 100+ ripped cds went poof!&quot; they only went poof because of a failed design.  </s>
+<s> that is, the backup system you used was faulty or non-existent.  </s>
+<s> hard disks fail for backup since i can't find the write protect switch.  </s>
+<s> &quot;curious...if i connect an esata external to my laptop via a pcmcia sata adapter will i get the sata speed advantages or is such just a &quot;dumb&quot; adapter, in which case i'd probably be better off with usb 2.0.&quot; moving right along... &quot;to my question, part c, above, about the need for a world edition [or any other nas drive]...&quot; i have a nas, the workplace has nas and servers. the 10 to 100 megabit link speed is 10x slower than directly connected drives but who cares when you need one file?  </s>
+<s> &quot;i'm wondering if i can attach a regular, non-nas external drive to my seldom used desktop and then, since it is connected to the wireless network, save and retrieve files from the external via the built in windows file and printer sharing feature.  </s>
+<s> i'd also intend to stream lossless files from the same.&quot;  </s>
+<s> that's a question of a person's capability and not a limitation of the hardware.  </s>
+<s> &quot;sounds like a nas solution to me, but something tells me it's not that simple.&quot; once you rip the cover off a nas box you discover it's some cpu with ethernet and a hard disk.  </s>
+<s> go figure.  </s>
+<s> &quot;on the lossless issue.  </s>
+<s> call me paranoid, but i really want to save pristine versions of all of my cds [approx 800].  </s>
+<s> i figure these will serve as a) a great archive; and b) an excellent base from which to convert into whichever lossy format is in fashion 2, 3, or 5 years from now.&quot; no question here, just you sharing more.  </s>
+<s> &quot;btw, i'm in the us.  </s>
+<s> looking at newegg, buy.com, or j&r for the purchases.  </s>
+<s> just today [5/25], buy.com has issued a 7% off coupon, so that might tilt the scales in their favor.  </s>
+<s> post 3 of 3 | &quot; geeks.com has the 99 buck 500gb drive.  </s>
+<s> a drive case is 20 bucks.  </s>
+<s> while i'd modify the case to have more airflow why would i pay more?  </s>
+<s> bob  </s>

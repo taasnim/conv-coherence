@@ -1,0 +1,20 @@
+<s> today i installed my new ati radeon x1600 pro agp 512mb into my dell dimension 4600 to replace my old radeon 9550 agp.  </s>
+<s> everything is okay except for two things.  </s>
+<s> number one on my load up screen the dell logo seems glitches, the words dell are pink and green but are supposed to be blue.  </s>
+<s> number two, after i start my computer or close a full screen app (eg.  </s>
+<s> a game) the screen flashes for a second.  </s>
+<s> i have used the ati uninstaller with my old catalyst drivers to uninstall all previous ati apps.  </s>
+<s> i then installed catalyst 6.8.  </s>
+<s> i am using windows xp home w/ sp2. is there a setting i can tweak or is the card defective?  </s>
+<s> any input would be appreciated, thanks.  </s>
+<s> that the power supply has a 12v25amp rating generally.  </s>
+<s> they say that can vary a little based on the type of cpu and number of things being powered, but thats what they suggest to begin with.  </s>
+<s> even though your card is an ati, if you asked sapphire tech support thats the first thing they would tell you on an x1600 - check your power supply specs.  </s>
+<s> that could be an issue for you.  </s>
+<s> dont know otherwise.  </s>
+<s> direction.  </s>
+<s> dont know much about all this but look at:  </s>
+<s> well i know for sure that my psu is powerful enough because it is 500w.  </s>
+<s> i have no problems besides the dell loading screen being corupt and the odd flashes after closing a full screen app. it works fine in games and everything else.  </s>
+<s> ill look into updating the bios.  </s>
+<s> im thinking of also checking the harddrive through chkdsk to see if it finds anything.  </s>

@@ -1,0 +1,49 @@
+<s> i have just purchased a power sentry 2200va ups with a rs-232 cable interface.  </s>
+<s> i connected it all up but when i turned everything on, xp did not find any new hardware.  </s>
+<s> i went to &quot;power options&quot; then ups tab and set up the ups as generic using com1 as the connection as per my mother board diagram but i can't seem to get any communication between my pc and the ups.  </s>
+<s> when i unplug my ups from the wall socket and my pc starts running on battery power i can go into the ups tab again under power options and it still tells me that i'm running off ac. does anyone know how to get the ups to communicate this the pc when using the rs-232 interface?  </s>
+<s> is there some special software that is required?  </s>
+<s> thanks mtree ms windows xp professional v2002 sp 3 amd64x2 dual core  </s>
+<s> it comes from the ups maker.  </s>
+<s> that is the problem.  </s>
+<s> there is no contact info. the manual just says &quot;contact your sales reprsentative&quot; another statement it makes is &quot;some computers may need special ups monitoring software.  </s>
+<s> contact your dealer for details on the various interface kits&quot;.  </s>
+<s> i bought this new from a discount store and was wondering if anyone here had any knowledge on this model of ups.  </s>
+<s> i have see quite a few on sale.  </s>
+<s> power sentry 2200va with an rs-232 interface.  </s>
+<s> thanks mtree  </s>
+<s> i've seen such land in the fire or discount sales places because drivers and software were never developed.  </s>
+<s> keep in mind i didn't look for this software.  </s>
+<s> you could do that on your own with google, etc. bob  </s>
+<s> tried google.  </s>
+<s> i have been in this position before and google has always come through for me.  </s>
+<s> not this time however, which i find surprising considering how many places seem to be selling this product.  </s>
+<s> m  </s>
+<s> a company crashes.  </s>
+<s> this isn't the first time for such.  </s>
+<s> maybe it's good enough to just have an ups?  </s>
+<s> the fact that it uses rs-232 connection suggest this is an older model and/or discontinued one.  </s>
+<s> most newer ups that have links to the system for s/w control are usb based.  </s>
+<s> if you google and find such s/w available, it needn't be directly provided for that brand name.  </s>
+<s> it *may* work as a generic type setup, it just needs a ups to work.  </s>
+<s> so, if you find a newer s/w it *may* work also using a rs-232 to usb adapter then again, once you get into deviated manufacturer setup, it could falter as well.  </s>
+<s> tada -----willy  </s>
+<s> ok i'm getting somewhere now.  </s>
+<s> it seems that powercom makes these upss.  </s>
+<s> could be one of those cases where they produce a bunch of them and then relabeled them for some reason (maybe quality or age). the whole thing is crazy.  </s>
+<s> it came in a philips box, was labeled power sentry, but was manufactured by powercom.  </s>
+<s> powercom america inc.  </s>
+<s> headquarters tel:714-525-8889 fax:714-525-8881 toll-free:800-666-8931 service hot-line:714-526-5888 address: 623 s. state college blvd., fullerton, ca 92831-5115 email: contact@powercom-usa.com  </s>
+<s> there is some s/w but it states for &quot;registered users&quot;, if you haven't and it stops you, you need to register.  </s>
+<s> contacting them seems like a good idea is all else fails or if you take too long, return product for refund.  </s>
+<s> etc.. tada -----willy  </s>
+<s> i sent them an email and got the correct version of the software.  </s>
+<s> just a version of upsmon which i already had from one of my old upss.  </s>
+<s> still did not interface with my main pc as it would not connect using com1,2,3,4.  </s>
+<s> had to go in the bios and switch the addresses to auto for com1 & 2. connects now and everything to work.  </s>
+<s> man what a headache all that was.  </s>
+<s> m  </s>
+<s> ah! a serial device address problem. the same issue for many yrs.  </s>
+<s> using modems and printers, etc. when serial/rs232 was popular.  </s>
+<s> glad you got it sorted out.  </s>
+<s> -----willy  </s>

@@ -1,0 +1,94 @@
+<s> i need to find a graphics card that is 200.00$ or less. the card can be agp or pci. the card must run autodesk inventor 11 perfectly.  </s>
+<s> autodesk lists all certified graphics cards on their website and i must have one that is 100% green on the list. the other requirement is that the card must be a killer gaming card.  </s>
+<s> i want to run games like oblivion and age of empires 3 on the maximum settings with all of the shading and smoke and everything.  </s>
+<s> so i ask you... can it be done?  </s>
+<s> what card should i buy?  </s>
+<s> if you know of one that is more than 200$ please mention it anyway.  </s>
+<s> perhaps i can find a used one.  </s>
+<s> $200 for a *fast* agp card is going to be tough.  </s>
+<s> agp is obsolete, so the fastest video cards use pci express and those that are agp based are more expensive than their pci express versions.  </s>
+<s> consumer nvidia based cards perform very well with cad packages (because of their excellent opengl implementation) and are fully compatible with inventor. the fastest agp card is a geforce 7800gs and is about $290. the only other option is a geforce 7600gs for about $150 but it's not a 'killer gaming card'.  </s>
+<s> but $600+ have trouble running obilivion on high settings.  </s>
+<s> i'm not kidding, once you step outdoors, major lag.  </s>
+<s> trying to get a card under $200 with that kind of performance is impossible.  </s>
+<s> i looked at the compatible cards and none will provide a great gaming performance and with 100% green. the ai x800 is good, but it has two yellows. the best card you can get is the nvidia 6600, which will not get you all the highest settings, many of them must be set at medium or low.  </s>
+<s> it does, however, get all greens.  </s>
+<s> ~ibrahim~  </s>
+<s> autodesk inventor does not list the 7 series in the compatible list, at all.  </s>
+<s> ~ibrahim~  </s>
+<s> the 7800gs and 7600gs are fully compatible with inventor.  </s>
+<s> autodesk inventor requirements are simply &quot;128+ mb directx or opengl capable graphics card&quot;.  </s>
+<s> all geforce 7xxx are fully backward compatible with geforce 6xxx.  </s>
+<s> video card manufacturers typically don't spend the money to certify consumer cards for professional cad use since they sell professional cad cards based on the same gpus.  </s>
+<s> the 7600gs is faster than a 6600gt in practically all benchmarks including oblivion.  </s>
+<s> oblivion generally plays better on ati cards, but ati only offers an x1600pro in agp. the x1600pro is slower than the 7600gs even in oblivion.  </s>
+<s> sorry, your needs are at the opposite ends of the spectum.  </s>
+<s> basically, it boils down to these two factors, speed and stability.  </s>
+<s> a gaming card usually promotes speed at any cost and certainly some stability along with it.  </s>
+<s> on the other hand a cad graphics card wants stability and useability above all else, hey this is business, thus it has to produce.  </s>
+<s> you will notice why autodesk offers its list of cards in order to run its s/w to be at the best operational demands and that means stability and &quot;proven&quot; output.  </s>
+<s> pay the extra $ and get what it takes as anything will certainly be compromised if not part of the autodesk listing.  </s>
+<s> as for gaming, check those websites that offer hints/tips/clues for waht works best at a certain $ outlay and then pick and choose.  </s>
+<s> while you may find a card suitable for both s/w needs, its a hard cookie to come-up with, you'll be better off building another system and deciate it solely for either games or cad.  </s>
+<s> tada -----willy  </s>
+<s> autodesk does not test specific cards from manufacturers but instead a representative card of the gpu family with certain driver sets.  </s>
+<s> also, autodesk does not test every new card/gpu; only those submitted for testing. the geforce 4 (ancient) with nvidia whql drivers passed certification.  </s>
+<s> both the geforce 6200tc (ultra low-end) and 6600 (low end) are also certified.  </s>
+<s> do you really think that a 7600gs/7800gs are going to be inferior or riskier to use than a geforce2 gts?  </s>
+<s> i know an architect and a mech engineer who both have autodesk products (autocad 2005/2006 and inventor) and run them on their home pcs without complaint.  </s>
+<s> the architect prefers his home pc with a 6800gt to his work setup.  </s>
+<s> the me has a toshiba laptop with geforce go 6600 graphics and he seems satisfied.  </s>
+<s> (p.s.: with its tv tuner and widescreen, that is one sweet laptop!  </s>
+<s> but i digress...) the main issue with autodesk products running with consumer cards is the opengl driver.  </s>
+<s> nvidia supplies a professional opengl driver with their quadro cards *and* provides support for that driver.  </s>
+<s> but nvidia's consumer opengl driver is very good (much better than ati's).  </s>
+<s> their consumer cards are perfect for the home office cad user who's balancing work and play and can live with the necessary compromises.  </s>
+<s> if you reread my post, you will notice, i mentioned the &quot;autodesk listing&quot;, no prculiar chipset or type, etc.. autodesk is a business s/w that people depend on to make real products.  </s>
+<s> while certainly graphic cards have gotten better, i wouldn't depend on just any card when the manufacturuer of said s/w implies what is needed and if on the list, great if not, move on.  </s>
+<s> people in business don't need to play around, they want results.  </s>
+<s> gamers on the other hand look for special needs of speed and again while graphic cards are better than past, they too aren't all cut out to be great gamer cards.  </s>
+<s> i didn't recommend any card but i did refer what one is getting into.  </s>
+<s> i haven't found too many gamers that are ever for long on any given system that couldn't be tweeked some more on this or that was tried. the complete opposite of a cad system, which from day one has to deliver the goods, thus it needs to be &quot;stable&quot;.  </s>
+<s> tsk -----willy  </s>
+<s> the original poster asks for a single card for both cad and gaming.  </s>
+<s> since he/she wants to play games, i assume this is not for a dedicated cad workstation, but a home/dual purpose pc. i also assume the poster knows the compromises between a consumer and pro cad card.  </s>
+<s> so rather than question their stated goal, i offered suggestions to met that goal.  </s>
+<s> suppose someone says &quot;i want a really fast car with room for 6 people&quot;.  </s>
+<s> rather than point out that the fastest sports cards typically have only two seats, i would suggest a cayenne, caddy srx, or infiniti fx-45.  </s>
+<s> i simply try to give folks what they ask for.  </s>
+<s> as for the specific card suggestion, because a gpu/driver combo hasn't been tested doesn't mean it won't pass certification. the point i was making is that even low-end nvidia cards can pass certification so it's highly likely that a 7600/7800 will pass also.  </s>
+<s> likewise, the experience of folks who use autodesk products for their livelihood further indicates that consumer nvidia based graphics cards are ok (not perfect, not best, but quite acceptable) for home use with autodesk products.  </s>
+<s> so - i was originaly asking for a cad/gaming card which is still what i want.  </s>
+<s> i'm really loving the info so far too and thank you all.  </s>
+<s> what do you think of the nvidia quadro4 900 xgs?  </s>
+<s> would this card play games like oblivion or aoe3 or could it only do inventor11?  </s>
+<s> it is a fully certified autodesk inventor card.  </s>
+<s> i also know that inventor 11 added opengl compatabilty which may open the doors for newer cards... what do you think?  </s>
+<s> alternately what if i built a dual card system?  </s>
+<s> i have pci and agp open on my asus motherboard.  </s>
+<s> the quadro4 900xgl card is circa 2002 and can't be expected to handle any games mentioned.  </s>
+<s> the only pci based quadro that i can find is a quadro4 nvs280 but it only has 64mb of ram and can't handle 30+ windows.  </s>
+<s> it too can't handle any modern games since it only has 64mb of ram.  </s>
+<s> 3dfuzion made a pci geforce 6200 and that gpu passes the autodesk certification tests.  </s>
+<s> the 3dfuzion card is drying up and pretty hard to find -- here's a new one for $55 from ebay: the geforce 6200 can't handle those games either.  </s>
+<s> but since its pci, it can coexist with one of the gaming cards that i mentioned earlier.  </s>
+<s> if you combine the pci 6200 with the agp 7600gs, you'll be right at your $200 budget.  </s>
+<s> i built some pcs specifically for autodesk inventor, requested by a design engineer.  </s>
+<s> he brought me the inventor software to insure that it would run it..the only card that in my opinion will do the job would be 7900 gt nvidia geforce.  </s>
+<s> for the cad thats not top of the line but it will perform.  </s>
+<s> to be honest i would realy like to know your system better.  </s>
+<s> it all plays an important part.  </s>
+<s> maybe spend a little more and get pci express motherboard.  </s>
+<s> they recommend a quadro card with 512mb for graphics workstations due to the extreme high res and multiple monitors.  </s>
+<s> i have inventor on p4 ht 3200 with 1gig mem and geforce 7900 gt pci express and i rotate complex 3d assemblies, not just single parts and they flow like realtime at 1280 x 1024.  </s>
+<s> at higher res i dont think that would be the case. the quadro cards cost upwards of 2500.00 for the really nice 1 gig model.  </s>
+<s> some are as much as 6700.oo just for the video card.  </s>
+<s> but the state that they are vista ready.  </s>
+<s> which 7900 do i get? the pny? the asus? the nvidia? is there a difference?  </s>
+<s> also i read reviews that said the 7900 wasn't very good for games and not good for future games.  </s>
+<s> is that true?  </s>
+<s> ok... after much review i think i should buy the geforce 6800 ultra.  </s>
+<s> i'm not sure if this card would be compatible with inventor but i think it might be.  </s>
+<s> i would like to find a 6800 ultra with 512 mb oof ram but i can't find one anywhere.  </s>
+<s> in fact i can't find any 6800 ultras anywhere!  </s>
+<s> anyone have any idea if this is a good card for inventor and games and if so where i can get one??  </s>

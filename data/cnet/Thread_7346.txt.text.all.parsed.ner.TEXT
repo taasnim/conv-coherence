@@ -1,0 +1,32 @@
+<s> hi, i have a few computers over a small business network and i was wondering is it possible to boot a computer over the network from nas or do i have to go into servers which i would like to be informed about.  </s>
+<s> i am running xp but i can also run linux if needs be thankyou  </s>
+<s> to boot from a nas would mean it would have to be running some piece of software that would send out a &quot;magic packet&quot; or some such thing.  </s>
+<s> nas devices tend to be rather passive.  </s>
+<s> booting over the network is usually done by &quot;wake on lan&quot; (wol) through the network interface device.  </s>
+<s> it's done by broadcasting the &quot;magic packet&quot; to specified mac addresses that you want to start.  </s>
+<s> i don't think a nas can do that, but i could be wrong.  </s>
+<s> good post above.  </s>
+<s> what you are looking for is what is called pxe(&quot;pixie&quot;)-booting.  </s>
+<s> this is more than just the protocols on typically consumer nas devices.  </s>
+<s> it is possible to do, but you better have a good background in it and ready to spend a good bit of money for products that aren't commonly sold in consumer applications.  </s>
+<s> good luck!  </s>
+<s> would it be easier with a server and what is tha basic principal of a server as i have very little knowledge about them  </s>
+<s> they can be used to store and retrieve files.  </s>
+<s> a nas does that as it's basic function.  </s>
+<s> they can be used to run programs from in a server/client environment which eliminates the need to install some programs on every pc on a network that will use them.  </s>
+<s> they can be used to keep databases.  </s>
+<s> there are web servers, proxy servers and the list goes on.  </s>
+<s> your original question was about use of a nas.  </s>
+<s> these generally run services but not applications.  </s>
+<s> they work well as file servers but can have some limited ability to keep databases.  </s>
+<s> it sounds as if you're looking for ways to start up pcs remotely.  </s>
+<s> it would not require a server to do this. it would require the remote pcs to have certain hardware capabilities.  </s>
+<s> you'd broadcast a wake up signal from any pc on the network.  </s>
+<s> that signal would address the pcs you wanted to turn on but it would be by hardware address or &quot;mac&quot;.  </s>
+<s> remote or timed shutdown can also be accomplished.  </s>
+<s> hope that helps.  </s>
+<s> u said could could run programs from servers with no installation if i understood you correctly. is there a certain function that the server has to have for this to be available or do generally most servers have this ?  </s>
+<s> you purchase network server versions of the application and client licenses to run from terminals.  </s>
+<s> these client licenses are generally packaged by a specific number of remote terminals/pcs that can access the application.  </s>
+<s> a company might by a server version and 50 client licenses.  </s>
+<s> i don't know how popular this is anymore but was useful with networks that used &quot;dumb&quot; terminals....types without hard drives, etc. as such, you cannot buy just any piece of software and run it from any other pc on the network as a workaround to buying more copies of the application.  </s>

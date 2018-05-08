@@ -1,0 +1,42 @@
+<s> i want to know what is best for me, and my family.  </s>
+<s> generally we have three people on the wifi at once, being online research, socializing (skype, ect.), and gaming.  </s>
+<s> i want the best for everyone, and ive had a netgear router and still do, but its like wearing out.  </s>
+<s> its off and on functioning.  </s>
+<s> i havent had a linksys so i have no base for those.  </s>
+<s> we have windows8 and windows7 and an apple ipad on at once, generally.  </s>
+<s> im not sure if these routers are windows8 compatible.. so whats best for me?  </s>
+<s> if there is an issue with windows 8 and routers this would be a first.  </s>
+<s> here's the thing.  </s>
+<s> all the networking is done with ip networking and for wifi other standards that have nothing to do with the os in question. the os must only talk the protocol and we're done.  </s>
+<s> because of this, that's probably why some folk can't answer your question about windows 8. bob  </s>
+<s> i have had a netgear r6300 for about a year now.  </s>
+<s> there have been 8 to 10 devices attached at one given time with no lapse or drops in performance.  </s>
+<s> i use a setting that will not allow other devices attach without permission.  </s>
+<s> the band i use is on a 5ghz frequency which has less traffic and no wireless overlap.  </s>
+<s> i also have the advantage of being close to my provider within the coverage area.  </s>
+<s> if you router allows for the 2.4ghz and 5ghz selection, you may want to opt for the 5ghz less traffic setting.  </s>
+<s> also make sure your firmware is up to date.  </s>
+<s> netgear has a windows 8 beta driver you may want to get for the windows 8 os.  </s>
+<s> i hope this helps.  </s>
+<s> joseam22@hotmail.com  </s>
+<s> what if i'm in some wifi hot spot?  </s>
+<s> do we need drivers for the router used there?  </s>
+<s> bob  </s>
+<s> any hardware if not recognized by the os requires a driver.  </s>
+<s> a driver is just a handler for the os in identifying a particular hardware you want to attach to your pc. it has nothing to do with a hotspot.  </s>
+<s> a provider asigns hotspots so you can access their services beyond your home connection.  </s>
+<s> think of a hotspot as a relay station keeping you going from one point to another.  </s>
+<s> i have not installed a driver for a router yet. is there something different about this router?  </s>
+<s> sounds like a model to avoid?  </s>
+<s> bob  </s>
+<s> i never mentioned you needed a driver for a router.  </s>
+<s> however, it is my understanding, like most other external hardware, such as dvd drives and firewire, firmware is needed for the external hardware to communicate with or without the presence of a pc or os. in the case of a router, firware supports the presence of the communication between a service providers protocol and the hardware itself.  </s>
+<s> it branches the communication of the of the provider which then allows the hardware (router) to open a communication link to the internet.  </s>
+<s> think of the router as a doorway to your destination.  </s>
+<s> other hardware, such as a modem, play an important part in address handling which enables the router to open the correct door. the r6300 was the first router to offer stated speeds above 1700 mbps (450+1300) and a connection for the proposed new draft for the next generation of wifi which will be ieee 802.11 a/n/ac @ 5ghz as well as the current ieee 802.11 b/g/n @ 2.4 ghz and 5ghz.  </s>
+<s> for me, it has a proven trac record for handling multiple devices regardless of the os. also, there is no problem with connecting to a wireless adapter or tv on another floor or any other part of the house.  </s>
+<s> i hope this helps somewhat!  </s>
+<s> but above i can read this: &quot;netgear has a windows 8 beta driver you may want to get for the windows 8 os.&quot; i read that and wanted to clarify that statement.  </s>
+<s> it's ok if that was in error but once in a while i encounter folk that think a driver is needed to use a specific router.  </s>
+<s> i hope we never see that.  </s>
+<s> bob  </s>

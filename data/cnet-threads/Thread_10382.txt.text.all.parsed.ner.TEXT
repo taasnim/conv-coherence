@@ -1,0 +1,47 @@
+<s> i have about 5 computers throughout the house and is all hooked up to my router through cat5 cables or wireless.  </s>
+<s> how do i setup so i can share a folder through my lan?  </s>
+<s> turn off any firewalls on all pcs for the local network.  </s>
+<s> make sure printer and file sharing for ms networks is enabled in your network device settings.  </s>
+<s> decide on what you want to share or create a share on each pc.  </s>
+<s> generally this will be a folder or other folders with or without subfolders.  </s>
+<s> turn sharing on for these.  </s>
+<s> make sure each user that will have access to the shares has an account defined on each pc.  </s>
+<s> give that account the same username/password on each.  </s>
+<s> these steps will get you started but i can't guarantee more tweaking won't be needed.  </s>
+<s> you didn't provide the os and version.  </s>
+<s> xp pro and home will have some differences that could cause connection issues but these can be worked out.  </s>
+<s> start here and post back with progress if you need more help.  </s>
+<s> okay. im using windows xp home.  </s>
+<s> i got all the shared stuff done so im okay.  </s>
+<s> im wondering if under the my network.  </s>
+<s> is the shared folder suppose to be under internet or local network?  </s>
+<s> mine is under internet.  </s>
+<s> and whats the dealie with teh username and password?  </s>
+<s> it should show under my network places/entire network/microsoft windows network.  </s>
+<s> i believe the default name is &quot;home&quot; but you can change that.  </s>
+<s> i did forget to mention that each pc needs to have a unique name to identify it on the network.  </s>
+<s> when xp is installed, if you don't give it a name, it generates a nonsense one.  </s>
+<s> anyway, give each pc a name you will recognize.  </s>
+<s> then, when you click on the local network name, all the pcs should appear.  </s>
+<s> i'll also recommend that drag the local network icon to your desktop to save a couple of steps each time you access it.  </s>
+<s> as for username/password, authentication works better if all pcs have a common user.  </s>
+<s> this doesn't mean other users need to be defined on all but xp. often &quot;access denied&quot; messages are traceable to authentication issues.  </s>
+<s> much is determined by how permissions are set up.  </s>
+<s> i must admit to being more familiar with pro than home.  </s>
+<s> home might be less restrictive in its default settings.  </s>
+<s> i'd suggest you first work on getting the entire network to present itself on all pcs and have the shares visible.  </s>
+<s> other details can be worked out after you get to that point.  </s>
+<s> okay now i have a laptop but take it to my dorm and at home.  </s>
+<s> when im at home i want the sharing but when im at the dorms i dont want to share.  </s>
+<s> im using vista premium.  </s>
+<s> am i able to make it share only when it connects to a certain network...for example my network is called guard(its private).  </s>
+<s> am i able to have it only enable when it connect to guard?  </s>
+<s> so vista will add a new twist.  </s>
+<s> sorry but don't know vista myself but this shouldn't be too difficult.  </s>
+<s> the first thing i would do is run this by your college help desk folks.  </s>
+<s> it should be their job to control network traffic on that system.  </s>
+<s> secondly, you need to set up permissions anyway.  </s>
+<s> just don't set them up to allow everyone full access.  </s>
+<s> use defined users that require a password for access.  </s>
+<s> it's also possible to set up different user profiles for the home and away.  </s>
+<s> while you cannot eliminate hacking attempts, you can make it not worth the effort.  </s>

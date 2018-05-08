@@ -1,0 +1,6 @@
+(TOP (FRAG (INTJ (UH hello)) (, ,) (SBAR (WHNP (WP what) (RB exactly)) (S (VP (AUX is) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (JJ optical) (CC and) (NN laser) (NNS mice))))))) (. ?)) )
+(TOP (NP (NP (NN peace)) (, ,)) )
+(TOP (INTJ (UH /thanks) (. .)) )
+(TOP (SINV (PP (IN on) (NP (DT a) (NN glass))) (VP (VBD topped)) (NP (NN desk)) (. .)) )
+(TOP (S (NP (DT the) (NN laser) (NN mouse)) (VP (VBZ tracks) (PP (IN over) (NP (NP (JJR more) (NNS surfaces)) (PP (IN than) (NP (DT the) (JJ first) (NNS generations) (NNS opticals)))))) (. .)) )
+(TOP (NP (NNP bob)) )

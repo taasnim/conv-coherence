@@ -1,0 +1,21 @@
+<s> m4 motherboard w/ 8x agp and 800mhz bus p4 3.06ghz 800mhz 2 x 512 ddr266 sapphire radeon 256mb 9600xt 480w thermaltech silent power after pretty much rebuilding my comp, i notice that for some reason that whenever the computer is doing any sort of action, the fans sort of slow down and then go back... i didn't pay much attention to it until i tested my system w/ 3d mark 03... it really chugged at some points (ie, cpu testing) , and i ended up getting only around 3000 marks.  </s>
+<s> i checked out a similar system in the database yet with only half the ram scored 5000+. is there something wrong with the processor, and if so how can i fix it?  </s>
+<s> the typical fan is run from the +12v supply line.  </s>
+<s> in the pc design, this is a &quot;bulk&quot; power supply and will vary more than a few percent. the human perception level of change is about 2 percent.  </s>
+<s> when the +12v current draw increases the fans may spin down some rpms since the bulk power supply voltage can drop.  </s>
+<s> this is by design and not a performance consideration.  </s>
+<s> but new designs are going to have to be made since such variences cause support calls.  </s>
+<s> in closing, the fan variences are not to be fixed.  </s>
+<s> bob  </s>
+<s> but why is it scoring so low?  </s>
+<s> i'm pretty sure it should be much faster and smoother than what i've seen so far.  </s>
+<s> i'm a very solid hardware sort of person.  </s>
+<s> i do embedded electronics and use pcs to do some test and control.  </s>
+<s> i read your post and can't see any item to stick out like a sore thumb.  </s>
+<s> but how about the usual?  </s>
+<s> 1. is the machine free from all parasites?  </s>
+<s> 2. can you detail what's in the machine?  </s>
+<s> 3. is the bios current?  </s>
+<s> bob  </s>
+<s> i don't know a whole bunch about this sort of thing but could it just be a bunch of those annoying programs that you pick up from the web(i forgot the single word name but those programs like wildtangent) or could you have a virus that is running on the computer and pulling down your performance.  </s>
+<s> i dont know just speaking my mind  </s>

@@ -1,0 +1,27 @@
+<s> hello.  </s>
+<s> currently i have a network with internet access on 4 computers via a router.  </s>
+<s> recently i aquired a twisted network cable, and am now in the process of making a network between a fifth computer with one of the computers in the normal network.  </s>
+<s> i have managed to find the other computers on this fifth one, but i have no internet access on it. the fifth computer is connected to its host with a manual ip config on both computers, this makes it find the network, but can i somehow then make this computer find the internet via its host somehow?  </s>
+<s> i also want the computers on the normal network to find this fifth computer, but not even the host finds it.  </s>
+<s> both computers use windows xp home and have the same network card: ia pci 10/100mb fast ethernet adapter.  </s>
+<s> also, the fifth computer is newly reformated, so it might possibly be missing any program/update.  </s>
+<s> thankful for any help.  </s>
+<s> /eric  </s>
+<s> you have to install ics and all the issues and setup nuttiness that comes with it. the real cheap fix is to add a switched hub to your router to add more ports.  </s>
+<s> bob  </s>
+<s> thank you for the answer.  </s>
+<s> it does sound quite complicated and i have spent enough time trying to fix it now.  </s>
+<s> i will stop attempting to get internet on it, and go with my original plan to just set it up so it can be reached from the network, and be used as a file storage/backup center.  </s>
+<s> one question about this, i don't seem to find it from the other network.  </s>
+<s> and now i can only find and access the host computer from it. is there any particular settings that is needed to be done?  </s>
+<s> i have the pc to pc network setup as static ip, and the router network as dynamic ip, can these two networks stil find each other?  </s>
+<s> it's not easy to setup and in fact so rough that i will not offer any how-to's in the forum.  </s>
+<s> adding the hub is the real answer unless you have a lot of hair to spare.  </s>
+<s> bob  </s>
+<s> i really should have looked up how this would work before i started with it, but due to lack of time, and having done a simple network with coiled cable before, i thought it the best solution.  </s>
+<s> anyway, i will find some guides and see how it goes.  </s>
+<s> if it goes bad, i will just have to kick myself a few times and go get a bigger router or something.  </s>
+<s> thanks again for the answers, it has saved me a lot of time and i now know what to look for.  </s>
+<s> the &quot;switched hub&quot; is all that's needed to add more ports.  </s>
+<s> how cheap can it be?  </s>
+<s> under 10 bucks at read  </s>

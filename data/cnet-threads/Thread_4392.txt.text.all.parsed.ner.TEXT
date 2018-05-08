@@ -1,0 +1,34 @@
+<s> hi, i'm trying to install this pci adapter on windows xp pro and am experiencing difficulty.  </s>
+<s> i have made several attempts at installing and will document them.  </s>
+<s> 1st attempt: -installed pci card -started computer -installed cd software/drivers before using add hardware wizard -tried to use add hardware wizard, was unable to find the driver using the automatic and advanced options (the d-link driver was not even listed in the list of drivers) -downloaded driver off the internet from the d-link support site to no effect, add hardware wizard still did not work *after all this, i decided that i should try fresh and try installing the cd software first before the pci card, so i uninstalled all the d-link software on my computer, deleted the pci device from device manager and did a system restore to before i installed the pci adapter in the first place.  </s>
+<s> 2nd attempt: -installed cd software -shut down computer -installed pci adapter -booted up and instantly used the add hardware wizard -the automatic and advanced options both yielded the same results again. the error was that it could not find software on the computer or the installation cd which matched the pci device.  </s>
+<s> so, i have exhausted all the options i can think of, does anyone have any suggestions?  </s>
+<s> please advise!  </s>
+<s> you need to start here locate your model and go to support.  </s>
+<s> i would have done it for you but there are several revisions of that device.  </s>
+<s> in the xp forum, i think i noted the methods written here didn't match the ones in the manual.  </s>
+<s> who reads that?  </s>
+<s> bob  </s>
+<s> sometimes the install cd will be separated by os versions.  </s>
+<s> i have a dlink wireless card for my laptop and i had to browse to the path.  </s>
+<s> they had os install folders for 98, 2000, me, xp on the installation disk.  </s>
+<s> it wouldn't automatically check each folder and install the correlating drivers/software.  </s>
+<s> i would like to know if you resolved this issue since i am having the same problem.  </s>
+<s> i have tried to install the card (h/w rev b2) in an xp sp2 machine and none of the drivers can be found (tried the original cd and 3 downloaded drivers from d-link).  </s>
+<s> i thought it was related to the sp2 upgrade.  </s>
+<s> this card was working fine in a win98 machine.  </s>
+<s> not only much the card drivers be correct but many systems i find never had the bios updated or the motherboard drivers updated.  </s>
+<s> some install firewalls and that closes off the networking and they flail about trying numerous fixes.  </s>
+<s> you post didn't tell much.  </s>
+<s> bob  </s>
+<s> you asked if i have resolved the problem.  </s>
+<s> not even close.  </s>
+<s> i still think it is something to do with microsoft's operating system.  </s>
+<s> but just try to get someone to answer a question.  </s>
+<s> show me your money first.  </s>
+<s> sarbug  </s>
+<s> i see some model but you didn't answer.  </s>
+<s> best of luck, bob  </s>
+<s> if your motherboard pci slots are not 2.2 compatible, it's not going to work.  </s>
+<s> in other words: if your mb is old, then your pci slots are 2.1 and the adapter will not work.  </s>
+<s> what mb do you have?  </s>

@@ -1,0 +1,51 @@
+<s> my computer: gateway gt5648e amd 64x2 6000+ 3gb ddr2 geforce 6150se 300 watt power supply i know this is not much of a gaming computer, which is fine because i am not a hard core gamer.  </s>
+<s> i just like to play the occasional flight sim and am wondering if i can upgrade this computer slightly.  </s>
+<s> as it is, il-2 still plays a little choppy.  </s>
+<s> i don't need to run the sims at their maximum settings - just above average settings would be fine for me.  </s>
+<s> am i right that i can still install an external card along with the 6150se?  </s>
+<s> i would rather not bother with a stronger power supply if i don't have to, but i will consider it.  </s>
+<s> i don't want to spend more than $200 total.  </s>
+<s> any suggestions?  </s>
+<s> thanks.  </s>
+<s> on this same subject ?  </s>
+<s> have you read you product docs to identify what your options are for installing a gpu card internally ?  </s>
+<s> vapcmd ps...looks like a recent purchase...did you overlook this requirement when you bought this ?  </s>
+<s> i did look through the others, but i couldn't find one that applied to my situation.  </s>
+<s> haven't been able to find anything in my documentation either.  </s>
+<s> i bought this computer knowing that the 6150se is not intended for high-end gaming.  </s>
+<s> that's fine, because i don't play many games and when i do, they are usually not the graphic-intensive variety.  </s>
+<s> it's just that occasionally i like to fire up a flight sim and am wondering if i can get a little bit better performance out of this computer.  </s>
+<s> i assume that means a graphics card, but if there are other ways to do it, i'm all ears.  </s>
+<s> you might try shutting down some of your background task before running your game....test.  </s>
+<s> int vid works well for non-gamers and light gaming.  </s>
+<s> if you try to push this... things can get a little slow and choppy. the int vid does not have the horse-power to process all that data.  </s>
+<s> your machine seems to have a pci-e vid slot.  </s>
+<s> if you decide to use this you might open a can of worms....power+cooling.  </s>
+<s> just be aware.  </s>
+<s> you'll find links to a list of cards and a note about your power supply.  </s>
+<s> please re-use recent discussions.  </s>
+<s> bob  </s>
+<s> specs in &lt;30 seconds on the web...you have the product docs, access to the web, access to gateway tech support and access to all the similar posts here.  </s>
+<s> re the psu...you need to pick a gpu before you can decide if a larger psu is required.  </s>
+<s> i'm still at a loss to understand why you recently bought a new pc with a decent processor, 3gbs ram and onboard video and want to run flight simulator or any other gpu intensive software.  </s>
+<s> vapcmd  </s>
+<s> radeon 2600xt, $85: geforce 8600gt, $104 (before $20 rebate): either will work with your existing power supply.  </s>
+<s> hello rob.  </s>
+<s> i recently bought two of the same pc that you have, and let me say i love it.  </s>
+<s> just to answer the question of the video card, yes you can install in internal video card.  </s>
+<s> i bought the 8800 gt for both of my systems ($279), and upgraded the power supply as well, but that was just for safe measure.  </s>
+<s> i just tracked down a card that would work perfectly for you.  </s>
+<s> since the onboard graphics are nvidia, i would stay with a nvidia card as well.  </s>
+<s> here's the link for the card you might want to toss in a power supply as well.  </s>
+<s> the card doesn't need one, buy a 400w supply would make your system more stable.  </s>
+<s> and here's a link for the supply i would recommend.  </s>
+<s> like i said, don't need the power supply, but it would definatly help.  </s>
+<s> i hope this helps.  </s>
+<s> yah i just built an system with evga 8600 gts and its good.  </s>
+<s> but on the card i would go evga or xfx.  </s>
+<s> they usually make good cards.  </s>
+<s> if your willing to look used then go to ebay.  </s>
+<s> i got my card for $90 bucks.  </s>
+<s> good luck  </s>
+<s> gaming had you equipped it with a suitable video card and psu.  </s>
+<s> vapcmd  </s>

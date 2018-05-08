@@ -1,0 +1,6 @@
+<s> hi i just ordered a new computer, and was curious if i would be able to add my old video card to the system and have both cards work together.  </s>
+<s> i have found a fair amount of conflicting information about it and am not clever enough to know of my own intuition. the new system comes with a nvidia geforce 9800 gt over-clocked video card that i believe fits into a pci-e x16 slot. the older card is a pny xlr8 geforce 8800 gt 512mb, and made for just a normal pci-e slot. is it possible to make these two work together, or am i wasting my time on a foolish pursuit?  </s>
+<s> you can only run dual pci-express x16 cards in a motherboard with dual x16 slots.  </s>
+<s> and for sli, you'd need two nvidia cards of the same type.  </s>
+<s> since your cards are different, it won't work regardless of if your mobo supports sli.  </s>
+<s> i think sli'ing gpu's is similar to ram, it needs to be in pairs and you need an sli motherboard.  </s>

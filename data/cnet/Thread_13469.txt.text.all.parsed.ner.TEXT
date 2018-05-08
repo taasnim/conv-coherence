@@ -1,0 +1,43 @@
+<s> this might be an old topic, and couldn't find any after searching the topics, so how can i end the processes i want without activating the 1 minute shutdown sequence.  </s>
+<s> if i can't solve this, i'll go back to sp1.  </s>
+<s> please help!!  </s>
+<s> what processes?  </s>
+<s> explorer for instance would be one that could result in logout or reboot.  </s>
+<s> given only your post you're headed back to sp1.  </s>
+<s> bob  </s>
+<s> when i want to close something like svchost.exe which is a local service, or alg.exe another local service, or when ie gets frozen, and i want to quit it using the processes tab, the warning tab appears.  </s>
+<s> svhost.exe is a helper app which is called up by some other application.  </s>
+<s> since killing svchost is incorrect from the gitgo, it would be proper for all versions of xp to logout or reboot if you killed it.  </s>
+<s> do a deeper inspection with the command line tool called tasklist (i won't write deeply about this since you can research with google.com.) next look at the output of tasklist /svc to see what called svchost.  </s>
+<s> nothing appears amiss here that a little more knowledge can't cure.  </s>
+<s> bob  </s>
+<s> thanks for the suggestion, but there are always other non-system processes running that i'd like to close, like ipodservice.exe, launchapplication.exe, and others.  </s>
+<s> in sp1, when i close those network or local services, no rebooting or anything occurs.  </s>
+<s> a process kill is not a clean way to close an app and should be done only if the app is not responding to regular close requests.  </s>
+<s> if you have to resort to task manager to close apps, something is wrong with your os or apps.  </s>
+<s> if you want to stop services, use the net stop command or the computer management applet of administrative tools.  </s>
+<s> why i'm doing this is trying to free up the commit charge, because when it hits say 350, the pc slows down and becomes sluggish, so i try to keep it as low as possible (max. is 1233)  </s>
+<s> even on windows 2000 sp4 and xp sp1 i can't kill that one so my bet is you'll have to stop them from starting.  </s>
+<s> bob  </s>
+<s> services can show up as such and end task would not be proper.  </s>
+<s> bob  </s>
+<s> the commit charge is how much memory your computer is using and so it may be that if commits enough then it has to do some swapping and the like.  </s>
+<s> aside from the net stop, another idea is to see what is configured to run at startup and possibly stop some of those from starting in the first place.  </s>
+<s> regards, jb  </s>
+<s> if you're trying to improve performance in low memory situations, try cacheman.  </s>
+<s> it's free/$10 and does a great job of optimizing your ram. if you really like it, get cachemanxp for $25... its more sophisticated and has a great process viewer.  </s>
+<s> it appears to be a waste of money.  </s>
+<s> just my results.  </s>
+<s> bob  </s>
+<s> they are the program that run internet and other important processes if you stop them the computer shuts down to protact you.  </s>
+<s> if you wanna stop unneeded processes contact me walktohere@blueyonder.co.uk  </s>
+<s> in the era of 1gb pc's it's not really needed anymore, but it does make a big difference with 256mb machines.  </s>
+<s> much less swapping and it gives a simple interface to tweak the cache behavior (instead of regedit fiddling).  </s>
+<s> windows loves caching everything even if its to the detriment of new/on-demand memory needs.  </s>
+<s> with the default parameters, the system cache can eat up all free ram, causing any mem allocations (like for the menu item you just opened or the new program you just launched) to cause pagefile access.  </s>
+<s> since it's &quot;free&quot; you (and the poster) have nothing to lose.  </s>
+<s> launch times for word would increase.  </s>
+<s> i could only guess that cacheman was freeing up the memory and word would have to reload from disk.  </s>
+<s> same story for 1gb machines.  </s>
+<s> again, only my experience that it's a miss.  </s>
+<s> bob  </s>

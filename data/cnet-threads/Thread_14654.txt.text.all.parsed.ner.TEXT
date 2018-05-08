@@ -1,0 +1,29 @@
+<s> hello.  </s>
+<s> i'm pretty good with computers and have built quite a few.  </s>
+<s> but i can't afford to replace many more parts on this thing so i'm trying to figure out the most likely problem.  </s>
+<s> it's a emachine t6420. the problem is sometimes when you press the power button, it turns on for a very brief moment, and shuts off.  </s>
+<s> and if you press it again, it turns on, but nothing shows on the screen.  </s>
+<s> all the fans and hard drives are on.  </s>
+<s> and after playing with it for a while, it eventually turns on and boots to windows.  </s>
+<s> but when i turn it off, same thing.  </s>
+<s> at first i thought bad ram because of the brief shutdown.  </s>
+<s> tested ram and it works.  </s>
+<s> then i thought overheating.  </s>
+<s> applied new arctic silver and the heat readings were normal.  </s>
+<s> so then i thought maybe it's the power supply.  </s>
+<s> i bought a new power supply and replaced the power switch to no avail.  </s>
+<s> so now it's either the motherboard, or a processor.  </s>
+<s> i doubt, very much doubt it's the processor.  </s>
+<s> maybe i missed something, maybe it's stupid.  </s>
+<s> who knows.  </s>
+<s> that's why i'm here. the power button blinks when it shuts off after the brief shutdown.  </s>
+<s> any help would be great.  </s>
+<s> thanks if it helps, sometimes the light blinks on the  </s>
+<s> bad ram and other hardware failures tend to generate beep codes.  </s>
+<s> but, a power supply can fail to start...or remain started...due to an overload.  </s>
+<s> while i've not seen this personally, there was an issue with bad capacitors that's known to cause such.  </s>
+<s> you'd check mb for capacitors that bulge or show leakage.  </s>
+<s> bad caps now look at the pictures online to see tilters, leakers, swollen and other signs of this issue. the symptom you wrote about are typical of bad caps as well as a power supply that needs replacement.  </s>
+<s> -&gt; when you inspect the machine the bad news is that bad caps can be in the power supply which is hard to inspect and even on cards that some forget to check. the capacitors must be perfect.  </s>
+<s> i've found some tell me &quot;it's only a little deformed&quot; and that's a failure.  </s>
+<s> bob  </s>

@@ -1,0 +1,51 @@
+<s> ok first of all let me say, i am fairly computer savvy and this is the weirdest problem i have ever seen.  </s>
+<s> here is the problem and what i have tried so far.  </s>
+<s> problem: inserting a burned backup dvd movie plays the sound of the movie automatically when inserted into my dvd drive.  </s>
+<s> now before you get any ideas like, that is auto insert dumb dumb and is normal.  </s>
+<s> get this, no program is running to play it at all.  </s>
+<s> there is no video, no stop ability or anything, no windows or anything different in task manager.  </s>
+<s> in order to get the movie or sound rather, to stop playing i have to eject the dvd.  </s>
+<s> if i start a program like vlc or any other dvd movie playing software it doesn't reset it or stop it from &quot;playing&quot; if you want to call it that.  </s>
+<s> things i have tried so far and checked.  </s>
+<s> any burned &quot;backup&quot; of a commercial dvd that i make on my computer does this.  </s>
+<s> however, home made videos burned to disc do not auto play like this. they don't do anything, until i tell it to.  </s>
+<s> i then start up a dvd player program and watch it as usual.  </s>
+<s> 1. i checked the autoplay settings under cd rom properties and click it to &quot;take no action&quot;.  </s>
+<s> 2. bios has the ability to do instant music without the computer being on, through the dvd/cd drive, this has been disabled.  </s>
+<s> here are the system specs and what the media is etc. drive specs: nec 3550 w 1.y6 firmware from the media is tdk dvd-r 8x, it was burned using nero version 7 ultra recode to image recorder on the hard drive and then burned to dvd-r book type was set to dvd-rom using nero ultra 7. i am not sure if it is the drive firmware, windows burning method or just a freak of nature.  </s>
+<s> but this is quite frankly the weirdest problem ever.  </s>
+<s> __________________ amd 64 x2 3800+ oc @ 2.470 ghz s939 antec cooler 2gb corsair xms 3200c2/2-3-3-6@207mhz asus a8n-sli evga nvidia 7900gt reloaded!  </s>
+<s> oc@581 core/1661 memory w/ zalman vf900 nec-3550 dvd antec truepower 2.0 430w creative audigy 2 nero 7 ultra & roxio 8 windows xp pro w/sp2 seagate 7200.8 250gb __________________ amd 64 x2 3800+ oc @ 2.470 ghz s939 antec cooler 2gb corsair xms 3200c2/2-3-3-6@207mhz asus a8n-sli evga nvidia 7900gt reloaded!  </s>
+<s> oc@581 core/1661 memory w/ zalman vf900 nec-3550 dvd antec truepower 2.0 430w creative audigy 2 nero 7 ultra & roxio 8 windows xp pro w/sp2 seagate 7200.8 250gb  </s>
+<s> i have this same problem.  </s>
+<s> it is extremely annoying.  </s>
+<s> the problem is that windows media player is starting to play the dvd invisibly for an unknown reason.  </s>
+<s> pop in your dvd, wait for the sound to play, and then open up wmp.  </s>
+<s> you'll see it is playing in there and you can stop it.  </s>
+<s> i would very much like to know how to stop wmp from doing this annoying, counterintuitive (playing a dvd invisibly?!) behavior, but so far i've been unsuccessful.  </s>
+<s> please let me know if you figure out how to prevent wmp from doing this.  </s>
+<s> hopefully being able to stop the movie will be a benefit, though.  </s>
+<s> haha, the last place i would have looked.  </s>
+<s> but the first place i should of.  </s>
+<s> i have never had this problem before, i am surprised someone else has.  </s>
+<s> i am not at home right now to try to test that.  </s>
+<s> i mean i could undersatnd if media player is the default under autoplay to play dvd's but i have the take no action selected.  </s>
+<s> thats microsoft tying everything to the os benefits at work for you.  </s>
+<s> if i can't get that fixed fairly quickly i am going to just reinstall the os from scratch. it is about time i do that anyway as i have gone through several hardware upgrades and driver revisions.  </s>
+<s> so it might be good to start from scratch anyway.  </s>
+<s> but i am going to definetely try to figure it out and post what i find.  </s>
+<s> thanks for the idea of where the problem could be!  </s>
+<s> yeah that was the problem.  </s>
+<s> i couldn't figure out what is causing it.  </s>
+<s> i mean isn't media player supposed to not be running in the back round without any mention of itself.  </s>
+<s> i mean it's not like it autoplays because of a setting then pops up and starts playing automatically.  </s>
+<s> it just starts palying in the back round, as in all you hear is sound, but no playing is visable, its not even minimized on the task bar as if it started and just minimized itself.  </s>
+<s> it just starts playing, you have to start up media player by clicking on its icon, then you see the dvd playing in windows media player after it loads up.  </s>
+<s> it doesn't restart it justs keeps playing the dvd as if it was doing what it was supposed to.  </s>
+<s> i guess it's obvious media player is in fact running int he back round.  </s>
+<s> i have the do nothing option selected under autoplay settings on the dvd drive.  </s>
+<s> so who knows, this seems to be a rare problem.  </s>
+<s> it may have something to do with a piece of softwre like nero or roxio, or maybe a compataability of the two.  </s>
+<s> it could also just be the microsoft has once again, figured out a way to screw up the os by tying software to it, crappy software at that, all for a monopoly advantage.  </s>
+<s> i mean why can't i uninstall media player?  </s>
+<s> well i imagine ms would say something like, well if we remove it then it would break the os, it would break media player for sure, as being erased off of the hard drive would for sure render it unusable.  </s>

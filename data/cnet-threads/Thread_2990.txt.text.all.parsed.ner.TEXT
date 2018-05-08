@@ -1,0 +1,15 @@
+<s> after upgrading to itunes 8, my cd drive (teac dw-224e-b) has stopped recognizing cds. the drive is showing up on &quot;my computer&quot;, where it seems to be working properly and is showing up on device manager, where, there are no errors.  </s>
+<s> uninstalling and reinstalling itunes has not helped.  </s>
+<s> itunes was giving an error message, which said that registry values for importing and burning cds are missing and that itunes needs to be reinstalled.  </s>
+<s> however, that message went away when i changed the upperfilters value to gearaspiwdm (with carriage return).  </s>
+<s> cd drive drivers seem to be working.  </s>
+<s> i also tried booting the computer in safe mode.  </s>
+<s> once again the drive showed up in my computer, but failed to recognize cds.  </s>
+<s> as the computer boots, it tries to access the cd drive, fails, and gives up after a while.  </s>
+<s> could someone help me fix the problem?  </s>
+<s> system info: fujitsu s6231, windows xp sp 3.  </s>
+<s> check to see if the imapi and helper service has been stopped also, try a less bloated alternative to itunes- it's called songbird (has a look and feel of ituned) and is compatible with ipod syncing  </s>
+<s> thanks for your suggestion.  </s>
+<s> i think i have a faulty drive.  </s>
+<s> i tried booting with an xp installation cd, and the drive failed to locate it.  </s>
+<s> that should mean that the drive is not working even outside windows.  </s>

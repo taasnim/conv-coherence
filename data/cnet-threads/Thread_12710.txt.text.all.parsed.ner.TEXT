@@ -1,0 +1,31 @@
+<s> a: drive has gone missing from mycomputer and when i enter a: at the dos command prompt i get the message &quot;the system cannot find the drive specified&quot;.  </s>
+<s> i have tried all the usual things in troubleshooter and device manager and the floppy disk drive appears to be working except that it is not there! an internet search reveals nothing of immediate use, anybody know how to get the floppy disk drive back on screen?  </s>
+<s> thanks peter a  </s>
+<s> doesn't appear to be, based on your wordes.  </s>
+<s> did this drive work properly and suddenly stop?? how about a little history as to how you got to this point.  </s>
+<s> tell us about the light on the drive, also what is in the first page of the bios re the floppy.  </s>
+<s> peter, i happened to be in a secondhand (recycle) shop last saturday, and there lay a pile of diskette drives, $ (euro in fact, but that's no big difference) 1.50 each.  </s>
+<s> it might be a good investment.  </s>
+<s> but a new one isn't very expensive either.  </s>
+<s> however, first open the case (you need to open it anyway if you buy a replacement) and check if the cable is well inserted.  </s>
+<s> kees  </s>
+<s> when the pc first boots bios and shows hardware inventory; which means u may have to disable &quot;quiet boot&quot; in bios, also &quot;report all errors&quot; or &quot;check for floppy at boot&quot; so u get an error message if floppy isn't detected.  </s>
+<s> it also will power up the little led on the floppy briefly in test.  </s>
+<s> once in a while, i have to unplug the floppy and power cable and replug them because floppy wasn't found.  </s>
+<s> as said, get a cheap used floppy drive for quick replacement test and keep for backup.  </s>
+<s> according to the device manager troubleshooter the floppy disk drive is working ok. however, thanks for the question about the light on the drive itself.  </s>
+<s> i don't recall seeing the usual operating light so i guess it's the drive at fault.  </s>
+<s> i won't have access to this pc for a while.  </s>
+<s> however, i'm surprised windows xp troubleshooter did not tell me it's the diskette drive at fault if indeed that is the case.next  </s>
+<s> time i get to this pc, i'll check out the bios settings.  </s>
+<s> thanks  </s>
+<s> i have the exact same problem.  </s>
+<s> nobody seems to have any answers.  </s>
+<s> i can boot the system with a dos floppy disk just fine.  </s>
+<s> but once i'm in xp (home edition), i get &quot;the system cannot find the drive specified&quot;.  </s>
+<s> i have tried *everything* (except doing a complete re-format and re-install of the os, which i don't want to do).  </s>
+<s> i'm at service pack 2, but this problem started a couple months before i installed sp2.  </s>
+<s> refers to a: drive missing in my computer and a registry fix for it.  </s>
+<s> does it show in safe mode?  </s>
+<s> if so, it can be a problem with some application that starts with xp. you turn apps back on at start with msconfig and see when it disappears.  </s>
+<s> we assume you have up to date spyware cleaner and have used it.  </s>

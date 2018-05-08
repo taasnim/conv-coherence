@@ -1,0 +1,51 @@
+<s> hi, iwent ahead and replaced my linksys router with the dsl g604t .set it up and found it detecting the inbuilt wireless in my notebook and viceversa but cannot connect to the internet at all.  </s>
+<s> i read your faqs and tried the option on but no luck.  </s>
+<s> when i go into configuartion, i get a setup wizard which doesnt appear in the user manual at all.  </s>
+<s> i kind of checked all the other options and dont know what additional ones i need to check .  </s>
+<s> do i need to put in the primary and secondary dns specifically ? the guide doesnt say.  </s>
+<s> the one thing i found odd was the wan refuses to onnect (see below) on the default option of pvc0 or on any of the others.  </s>
+<s> do i need to download another firmware upgrade ?  </s>
+<s> firmware version : v1.00b02t02.sg.20041110 lan mac address 00:11:95:948:79 ip address 192.168.1.1 subnet mask 255.255.255.0 dhcp server enabled nat enabled wan virtual circuit pvc0 status disconnected connection type pppoe ip address n/a subnet mask n/a default gateway n/a dns server n/a also, do i need to activate the foll.  </s>
+<s> option ? the manual doesnt say : upnp to enable upnp, check enable upnp and then select a connection.  </s>
+<s> i then checked the ipconfig and this is what comes up and thats where there seems to be aproblem.  </s>
+<s> i have powered off both the notebook (which has inbuilt wireless) and the router several times for upto 10 mins but no luck.  </s>
+<s> please advise.  </s>
+<s> i have even reset the router to factory settings but no luck.  </s>
+<s> windows ip configuration ethernet adapter local area connection: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.1.3 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : fe80::20e:7fff:feeb:6fcb%5 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.1.1 ethernet adapter wireless network connection: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : fe80::290:4bff:fe4a:3135%7 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : tunnel adapter teredo tunneling pseudo-interface: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : fe80::5445:5245:444f%6 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : tunnel adapter automatic tunneling pseudo-interface: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : fe80::5efe:192.168.1.3%2 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : any and all advise welcome !  </s>
+<s> s  </s>
+<s> 1. ask if there is newer firmware.  </s>
+<s> 2. since this has the adsl modem, you'll likely be calling your isp to see how to make it work with their system.  </s>
+<s> bob  </s>
+<s> have you try to change the pvc?  </s>
+<s> hi, i had to change the properties both in network connections and the router settings under to wep i dont know what it triggered but the modem connected and i was logged onto the net the mysteries of technology continue to surprise !  </s>
+<s> thanks to both of you who responded.  </s>
+<s> s  </s>

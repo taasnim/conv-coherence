@@ -1,0 +1,10 @@
+<s> i am looking for a network monitor for a network between a router(ut-300r2u)and 2 computers,because the 2 computers are not in the same room and i want to control,or,if not possible,at least see the bandwidth used by that computer.the  </s>
+<s> computers are not connected directly one to each other,each of them is connected at the router(one by ethernet and one by usb).  </s>
+<s> open the performance console -system monitor should be default display.  </s>
+<s> r-click the system monitor screen and select &quot;add counters.&quot;  </s>
+<s> select, &quot;select counters from computer&quot; and specify the computer you want to monitor.  </s>
+<s> choose the performance object (network interface) and counters (current bandwidth) you want to use.  </s>
+<s> after you add it, you can right click and select properties to change the display color.  </s>
+<s> it doesn't work because my computers are not directly connected(i can't see the other one in my network places,network connections,etc.).they are just using the same router...anyone got another idea?  </s>
+<s> sharing the same router, i would enable file and printer sharing via the network setup wizard.  </s>
+<s> then you will be able to accomplish what you want.  </s>

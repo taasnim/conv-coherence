@@ -1,0 +1,20 @@
+<s> i just finished building a system with an ultra tower case, an intel d975xbx mobo, a pentium d processor, and an msi radeon 1300 video card.  </s>
+<s> everything works fine, except for the audio.  </s>
+<s> i cannot get any sound our of the back panel ports.  </s>
+<s> aditionally, the front panel audio cables that came with the case are seven cables independently labeled mic power, mic in, ear r, ear r, ear l, ear l, and gnd.  </s>
+<s> because they are inidvidual cables, i don't know how they would map onto the motherboard's audio headers, which are label differently: (pin 1) port1l, (2) gnd, (3)port1r, (4)presence#, (5) port2r, (6) sense1_ret, (7) sense_send, (8) key (no pin), (9) port2l and (10) sense2_ret.  </s>
+<s> no help from either ultra or intel, can someone help?  </s>
+<s> thank you.  </s>
+<s> see page 65  </s>
+<s> pin 1 = port1l = mic in/mic2 pin 2 = ground = ground/agnd pin 3 = port1r = micpower/mic1 pin 4 = presence# = not used pin 5 = port2r = right output/speaker pin 6 = sense1_ret = right output/speaker/jumper ---------------------------together w/pin5 pin 7 = sense_send = not used no pin 8 pin 9 = portl = left output/speaker pin 10= sense2_ret = left output/speaker/ jumper ---------------------------together w/pin9  </s>
+<s> thank you very much.  </s>
+<s> this is just the info i was looking for.  </s>
+<s> right on the money!  </s>
+<s> does your microphone work ok? typically i have used a boom mic placed on the desktop.  </s>
+<s> with this mobo i had to hold the boom mic next to my lips to get any pick up at all.  </s>
+<s> tried switching to headset and attached microphone and still can only just get faint pickup.  </s>
+<s> same problem with front panel and rear panel connectors.  </s>
+<s> adjusted everything than i can see and can make it no better.  </s>
+<s> machines is multi boot with xp pro and xp pro x64.  </s>
+<s> same problems on both.  </s>
+<s> wonder if it is some issue with the intel supplied audio software but there is no way to uninstall that i can find so short of re-installing whoile os that can't be done - close to doing that as i am a skype user and this machine cannot be used for that the way it is any ideas?  </s>

@@ -1,0 +1,61 @@
+<s> hi all.  </s>
+<s> not sure if this is in the right forum.  </s>
+<s> feel free to move it.  </s>
+<s> my computer (win 7) is behind a proxy server at work.  </s>
+<s> they have disabled the ping service.  </s>
+<s> they told me it is disabled for security reasons, and everytime i try to ping a host, the connection times out.  </s>
+<s> however i normally use ping as a good diagnostic to check if i have an internet connection or not.  </s>
+<s> we experience frequent network problems, and i'd like to be able to at least narrow down the problem each time.  </s>
+<s> are there any other diagnostic tools/utilities i can use to test internet access?  </s>
+<s> when i lose my internet connection, i'd like to be able to test if it is because my computer has lost its connecton to the proxy server, or if the proxy server has lost connection to the outside world.  </s>
+<s> thanks in advance  </s>
+<s> assuming you could narrow down the problem by pinging, could you solve it also?  </s>
+<s> if the it-staff (you call &quot;they&quot;) is the only one who can solve it, then let &quot;them&quot; diagnose it also.  </s>
+<s> just call the helpdesk if there are connection problems and they will research the cause.  </s>
+<s> maybe, if you call 10 times a day, they come to the conclusion that they prefer you calling 6 times a day with an issue about the proxy server and 4 times with an issue about the outside connection.  </s>
+<s> did you try tracert?  </s>
+<s> kees  </s>
+<s> first issue is if the proxy runs in transparent mode or not.  </s>
+<s> if your browser settings are set to no proxy but you know you run via a proxy then it is transparent and as the name implies you will not be able to easily detect it.  </s>
+<s> assuming it is not transparent about all you can do as a user is see if you can ping the proxy itself.  </s>
+<s> if it pings then you know it is not your machine or your connection to the proxy.  </s>
+<s> when it comes to internet in a large corporate environment most installations are impossible to troubleshoot from the user side.  </s>
+<s> since most large companies have multiple internet connections the first challenge is to even find the ip of the proxy.  </s>
+<s> this is done via the proxy pac setting in the browser.  </s>
+<s> so after you get the proxy from that you now have a ip but that does not really mean it is the proxy.  </s>
+<s> normally you place a load balancer on that ip and place multiple proxy behind it for performance and redundancy.  </s>
+<s> then you come into the issue that some traffic will not even run though a proxy so there are multiple devices depending on the protocol.  </s>
+<s> so ping may work and it means nothing.  </s>
+<s> you could be pinging a load balancer or your ping traffic could go via a firewall and the web traffic go via a proxy.  </s>
+<s> of course the easiest way to see if it is your machine or the network is to ask you co workers if they too have a issue.  </s>
+<s> &gt;&gt; assuming you could narrow down the problem by pinging, could you solve it also?  </s>
+<s> maybe.  </s>
+<s> i obviously can't answer that question until i determine the problem.  </s>
+<s> i could at least help solve it.  </s>
+<s> &gt;&gt; if the it-staff (you call &quot;they&quot;) is the only one who can solve it, then let &quot;them&quot; diagnose it also they're not the only ones who can solve it.  </s>
+<s> i have not tried tracert.  </s>
+<s> i will give that a shot next time i'm in the office.  </s>
+<s> my proxy is not transparent.  </s>
+<s> i have to enable proxy settings in my browser.  </s>
+<s> furthermore, i know *an* ip name and address of my proxy server (not necessarily *the* name and address).  </s>
+<s> &gt;&gt; all you can do as a user is see if you can ping the proxy itself this is my reason for writing though.  </s>
+<s> ping is disabled.  </s>
+<s> whenever i ping a host, i get a timeout.  </s>
+<s> this occurs even when i ping the proxy server and the network is working fine.  </s>
+<s> i'm wondering if there are any other little diagnostic tests like ping i can try.  </s>
+<s> first even if the proxy would respond to a ping it means little.  </s>
+<s> our proxys will respond to a ping on the inside even if you unplug the cables that go to the internet routers.  </s>
+<s> most this depends on your skill level and understanding of protocols.  </s>
+<s> i will stay at a high level and leave it to you to google.  </s>
+<s> what you will see in a normal connection is a three way tcp handshake followed by a http get for the url you are trying to reach.  </s>
+<s> if your machine sends out syn packets and gets nothing back you may suspect a network issue.  </s>
+<s> if it gets a response even if it is a rst you know your machine can talk to the proxy.  </s>
+<s> past this point it gets very hard to tell if the proxy server itself is messed up or the internet is broken when it does not work.  </s>
+<s> proxy vary in how they handle no response to a request.  </s>
+<s> some give you a page saying the host did not respond and some just reset the session.  </s>
+<s> a broken proxy will many times do the same.  </s>
+<s> only way to learn this stuff is to get a copy of wireshark and watch good packet captures and compare them to captures when it does not work.  </s>
+<s> definitely over my head, but i enjoy learning about these things so i'll do some googling and see what i can dig up.  </s>
+<s> maybe i'll start by playing with wireshark.  </s>
+<s> i'll post separate questions as i run into them.  </s>
+<s> thanks all.  </s>

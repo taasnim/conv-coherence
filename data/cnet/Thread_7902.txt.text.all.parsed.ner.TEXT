@@ -1,0 +1,118 @@
+<s> hello all.  </s>
+<s> i do a lot of graphic design using photoshop and illustrator cs3 and lately my computer is crawllllling when i try to use it.  </s>
+<s> i know i need more ram but i was wondering if you all could look at my configuarion and let me know what i should upgrade or change to get better performance as related to graphic design?  </s>
+<s> i know only a little about hardware so i could really use your help.  </s>
+<s> thank you so much in advance!  </s>
+<s> shadoe here's the info i could gather from the computer, some you may need or some you may not but i wasn't sure, if you need more please let me know where to find it and i will!! thank you so much.  </s>
+<s> dell precision t3400 intel core 2 quad cpu q9550 @ 2.83 ghz 1.00 gb ram ntfs xp pro v2002 sp3 nvidia quadro nvs 290 256mb integrated ramdac intel ich8r/ich9r sata raid pci slot 10 pci bus 1 dev 0 fct 0 drive has 54.5gb used 94.3bg free  </s>
+<s> go directly to your favorite vendor and get yourself a good 4gb ram kits consisting of 2-2gb dimms.  </s>
+<s> having 1gb ram is that system is like running a hot rod on a two-barrel carb.  </s>
+<s> a serious mismatch for your pc, crucial gives the following info: each memory slot can hold ddr2 pc2-5300, ddr2 pc2-6400, ddr2 pc2-8500 with a maximum of 4gb per slot.*  </s>
+<s> *not to exceed manufacturer supported memory once you've successfully installed the ram and have a good sense of the new performance, then see what other options may be consistent with the need.  </s>
+<s> if you're a serious ....your next addition might a good, fast 500gb to 1tb hard drive.  </s>
+<s> again more speed, more free disk space and a place to save copies of your work product.  </s>
+<s> think you'll very pleased with ram upgrade.  </s>
+<s> let us know how it goes.  </s>
+<s> vapcmd  </s>
+<s> thanks very much, i thought the system itself was a pretty good start point, don't know why my tech guy (my brother, first mistake) configured it with only 1gb ram! even novice i know that wasn't enough.  </s>
+<s> it is v e r y frustrating to use this computer, even opening a menu is slow.  </s>
+<s> so if i go and get the ram upgraded to the one you suggested, and get the hard drive done as well, i should be pretty good to get started right? the only places i know of are like best buy or pc club.  </s>
+<s> i'm in torrance, the la area, can you recommend a place where i can go get this taken care of?  </s>
+<s> i'm not comfortable enough to install these things myself.  </s>
+<s> i'd appreciate any leads.  </s>
+<s> thanks very much!  </s>
+<s> shadoe  </s>
+<s> installing ram inside the machine, is it as easy as pulling the old ram and installing the new one?  </s>
+<s> or adding the second one?  </s>
+<s> if that's all i need to do i can do that myself.  </s>
+<s> i have pulled cards and replaced them before so i can do at least that!  </s>
+<s> please advise before i order the ram.  </s>
+<s> newbie girl in la  </s>
+<s> if i purchase the above kit would that be appropriate?  </s>
+<s> it is aa 4gb kit (2gbx2), 240-pin dimm, ddr2 pc2-8500 memory module. the others are pc2-5300 or pc2-6400, i don't know what that means but assumed that the higher number was better, and it still didn't exceed the recommended max.  </s>
+<s> if i did purchase this memory, would i remove the one 1gb installed and install this 2 pc into slots 1 and 2? please forgive my ignorance, i would rather learn how to do it myself than go have someone else do it.  </s>
+<s> thanks again!  </s>
+<s> i'm sure you're tired of my posts now, but i wanted to say thank you for linking me to that site.  </s>
+<s> i have learned so much about memory!  </s>
+<s> i used the system scan tool and it showed that i have 512 installed ea in slots 1 and 2 and it gave me the recommended upgrades.  </s>
+<s> i cannot thank you enough for your help.  </s>
+<s> any further suggestions you have would be appreciated.  </s>
+<s> now onto upgrading the hard drive!  </s>
+<s> i didn't realize they had speeds.  </s>
+<s> i know, rookie mistake.  </s>
+<s> how do i know which one is right for me?  </s>
+<s> i know i'm annoying... but i'm cute.  </s>
+<s> shadoe  </s>
+<s> pretty easy.  </s>
+<s> whatever you do .... unplug the ac power cord from the pc before you start the installation as even though you turn off the pc...it still has power coming to the motherboard.  </s>
+<s> there are instruction videos on the web and i'm sure crucial has installation instruction too.  </s>
+<s> dell also includes instruction for adding ram to their systems docs...also available on the web.  </s>
+<s> if i recall you're running winxp (32 bit ?) the system will only use 3.2-3.5gb  </s>
+<s> of ram so i'd remove the old ram and leave it out until you have an os that can use more than 4gb.  </s>
+<s> keep us posted.  </s>
+<s> vapcmd  </s>
+<s> hi guys, so i got the recommended memory from crucial, installed it with the current memory and error message cannot mix ecc and non-ecc.  </s>
+<s> apparently this pc was set up originally to be a server so the existing is ecc.  </s>
+<s> so i took out the current and installed just the new and got error beeps and won't boot. the system is set up to recognize only the ecc.  </s>
+<s> so the support people told me to change the system to recognize the non-ecc and i should be fine.  </s>
+<s> but they aren't allowed to tell me how to change it.  </s>
+<s> can someone help me configure the system to recognize the non-ecc ram so i can install my increased memory?  </s>
+<s> i would appreciate it, thank you!!! shadoe  </s>
+<s> see how the system runs without the ecc... vapcmd  </s>
+<s> check your docs for how to make the bios setting change.  </s>
+<s> i can't figure out how to change the settings.  </s>
+<s> can't find information in the docs or online, i'm very frustrated. the system won't boot with the non-ecc memory installed and i don't know how to enable/disable the setting.  </s>
+<s> so i open the setup and access the bios settings and it shows that it is set to ecc but there is nowhere that i can find to change it.  </s>
+<s> ok heres an update.  </s>
+<s> i called dell to find out how to change the setting and it turns out that that was not the issue. the ram i ordered is too fast for the system, it is 1066 and can only handle ecc at 667 or 800, non-ecc at 667.  </s>
+<s> so i will return the ram to crucial and exchange for the proper speed of the same ram.  </s>
+<s> once i get that back i will install it and update you all.  </s>
+<s> i greatly appreciate your help with this, thank you again.  </s>
+<s> shadoe  </s>
+<s> type 667-mhz ecc and non-ecc and 800-mhz ecc ddr2 sdram note: ensure that you do not mix ecc and non-ecc memory.  </s>
+<s> note: your computer does not support registered or buffered memory.  </s>
+<s> memory connectors four memory capacities 512 mb, 1 gb, or 2 gb minimum memory 1 gb maximum memory 4 gb for 32-bit operating systems 8 gb for 64-bit operating systems bios address f0000h get the ram working before thinking too hard about the hard drive.  </s>
+<s> vapcmd  </s>
+<s> hi shadoegray, i'm a graphic designer and use adobe premium suite cs4.  </s>
+<s> my old system was just crawling along even though i had 4 gb of ram, but it was because i was using an old pentium hyperthreading processor.  </s>
+<s> i've just upgraded my computer to the following specs.  </s>
+<s> intel core 2 quad 2.8ghz cpu 8gb ram 2tb sata ii 7,200rpm hdd (but in hindsight should have got western digital raptor 10,000rpm drives.  </s>
+<s> 1gb nvidia dedicated ram 24&quot; lg full hd led display windows 7 64bit operating system.  </s>
+<s> my tip is for you to consider upgrading to windows 7 64 bit version.  </s>
+<s> windows 7 is much faster and better at controlling the hardware than xp. why did i go for 64bit version?  </s>
+<s> well, the standard version of windows is 32bit and can only access up to 3.25gb of ram.  </s>
+<s> i put in 8gb of ram and because i use win 7 64bit version, it utilises all the ram. it goes like a bullet train... dazza.  </s>
+<s> yes i looked all those specs up and the ones i was reading specifically said that the t3400 could use the ddr2-1066 but when i called dell they had a different story.  </s>
+<s> i'm exchanging the ram at crucial for the ecc ddr2-800.  </s>
+<s> they said non-ecc can be 667 only, ecc 677 or 800 so i went with that. the windows xp i'm using is the 32 bit, if i upgrade to xp 64 bit or windows 7, should i expect the computer to run faster?  </s>
+<s> what do you recommend?  </s>
+<s> thanks guys!  </s>
+<s> shadoe  </s>
+<s> thank you dazza that was very helpful!  </s>
+<s> i'm getting the ram situation worked out and need to upgrade the os. you see my configuration and my processor, would you recommend windows 7 64 bit over xp 64? the xp 32 is like a snail.  </s>
+<s> maybe what i should do is upgrade the hard drive and have the os installed there so its clean?  </s>
+<s> doesn't make sense to upgrade the os on this drive then upgrade the drive and reinstall it.  </s>
+<s> lol suggestions?  </s>
+<s> thanks dazza!  </s>
+<s> shadoe  </s>
+<s> 64bit is the only way to go and if it's between win xp-64bit and win 7-64bit, it's win7 64bit.  </s>
+<s> vapcmd disclaimer: i have both win xp64 pro and win7 64 pro and my main pc is an intel i860 with 8gbs ram running win7 pro 64bit.  </s>
+<s> thanks vap, since i plan to update the hard drive, should i do that first? it doesn't make sense to update the os on this drive then buy a bigger faster one and have to reinstall it!  </s>
+<s> can you give me a recommendation on a good, fast harddrive?  </s>
+<s> i'm definitely leaning toward windows 7 64bit, as long as i don't ever have to use vista i will be happy!  </s>
+<s> one more thing... it seems like i'm starting with a decent box and with the ram, harddrive and updated os i should be fine for a while.  </s>
+<s> should i be considering a new computer instead of these upgrades?  </s>
+<s> i simply cannot stand waiting for this computer to catch up to me any longer, i work so much faster than it does!  </s>
+<s> thanks.  </s>
+<s> shadoe  </s>
+<s> ram, you don't need to upgrade the os yet.  </s>
+<s> so my suggestion, get the sense of the ram increase....i think you'll be very pleased with the additional performance and ease of operation.  </s>
+<s> in the interim, you can explore hard drive options and post your proposed choices for comment.  </s>
+<s> that's my best suggestion.  </s>
+<s> vapcmd  </s>
+<s> yes, i would agree that upgrading to windows 7 64 bit would be better.  </s>
+<s> windows 7 handles hardware, particularly ram better than xp. maybe invest in a high speed hard disk.  </s>
+<s> western digital make the raptor which is a 10,000rpm sata ii drive.  </s>
+<s> it's a favorite with gamers for high performance and reasonably priced.  </s>
+<s> have fun and enjoy your upgrade.  </s>
+<s> dazza.  </s>

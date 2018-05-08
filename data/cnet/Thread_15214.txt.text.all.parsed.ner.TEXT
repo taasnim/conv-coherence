@@ -1,0 +1,36 @@
+<s> dell inspiron 2200 laptop - windows xp - i had no problem connecting to internet until a couple of weeks ago, that the computer hybernate and that was it... i could no connect to the internet anymore... - at the internet connection window everythings seems to be ok (everything in &quot;automatic&quot; -ip address and so on...) - i also went to services.msc and made sure that the ip , the dhcp, the gateway default, everything were in automatic.... - &quot;everything&quot; seems to be fine... at least upto my knowledge goes... - but i have no connection to the internet!  </s>
+<s> i can not browse the internet... - when i access the cmd .... and i ping the ip address, ok!!, but if i ping the default gateway, the dhcp or the dns they all fail!!!! - when i put ipconfig/all it shows that : windows ip configuration ip routing enabled ...... no wins proxy enabled.......no tunnel adapter teredo tunneling pseudo-interface: dhcp enabled......... no (should be enabled, right?  </s>
+<s> ) how can i do it???? netbios over tcpip .....disabled!  </s>
+<s> (should be enabled, right?  </s>
+<s> ) how can i do it???? tunnel adapter 6 to 4 tunneling pseudo-interface: default gateway : ........ (blank) (???????????????) netbios over tcpip .....disabled!  </s>
+<s> tunnel adapter automatic tunneling pseudo-interface: dhcp enabled......... no default gateway : ........ (blank) (???????????????) netbios over tcpip .....disabled!  </s>
+<s> help please!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! maria  </s>
+<s> i am guessing you are a dsl user.  </s>
+<s> dsl usually uses pppoe software (ppp over ethernet).  </s>
+<s> this gives you a login prompt using ppp.  </s>
+<s> pppoe is considered a tunnel protocol.  </s>
+<s> you seem to have multiple virtual adapters when you should only have 1. try to uninstall your the software your isp gave you and delete all of those virtual adapters.  </s>
+<s> then reboot the computer and reinstall the software.  </s>
+<s> or, buy a router for $50 and let it do the pppoe for you.  </s>
+<s> you will benefit with a small performance increase and some security.  </s>
+<s> worms and hackers will be probing the router instead of your pc. if you buy a router you will not need the isp software any more.  </s>
+<s> skrall  </s>
+<s> thanks skrall a lot!! sorry... i was not very specific... yes i have dsl and i do have a router!!! actually we have 2 computers... and the other one that is connected &quot;with wire (lan cable)&quot; to the router, has no problems at all... mine was connected wireless... and had no problems at all too!! now i disconnected the other pc and i trying to make the laptop work &quot;with wire (lan cable)&quot;.  </s>
+<s> (at the beginning i thought it might be the wireless card, even though the computer receives perfect signal!!!) i don-t know.... anyway... i think my isp didn-t give me any software, could that be? the sw i installed was the one of the router... lynksys... thanks again!! please let me know if you thinks is something else!!! ps. why i have virtually adapters??  </s>
+<s> i had kind of the same problem and somebody told me to check if my connection was bridged.  </s>
+<s> it was.  </s>
+<s> so i unbridged the connection and voila!  </s>
+<s> i hope it helps.  </s>
+<s> by the way,i don't know anything about computers, i'm just &quot;brave&quot; and try to fix them.  </s>
+<s> hi!! thanks for the tip... but what is that the connection is bridged?? how can i &quot;unbrigdged&quot;? thanks a lot!! maria  </s>
+<s> go to show all my connections.  </s>
+<s> look to see if the connection that you are using to connect to the internet is bridged.  </s>
+<s> normally it will say the name of the connection, the next line will tell you if is connected or not, followed for the word &quot;bridged&quot; or &quot;firewalled.&quot; if you see the word &quot;bridge&quot;, right click and look for &quot;unbridge connection.&quot;  </s>
+<s> click on it and the connection should unbridged by itself.  </s>
+<s> good luck!  </s>
+<s> well i have a westell wirespeed b9036r516 dsl modem thats in bridge mode and i need it &quot;unbridged&quot; can ya tell me how this might be done?  </s>
+<s> emachine t5086 os:windows vista 32bit memory 1012mb hard drive(s)primary 250gb secondary:320gb ethernet card: intel(r) pro/100 ve intel motherboard dsl modem:westell wirespeed (b9036r516) my modem is in bridged mode i have a voip phone adapter that is not working any more because iof this setting.....can any one help me unbridge my modem....my tcp/ip settings are wrong also ....i cannot even log into 192.168.2.1 it sends me to a search page .....please help  </s>
+<s> the part number you supplied may be the same.  </s>
+<s> i can't help here due to lack of detail.  </s>
+<s> i wonder if the have the old version.  </s>
+<s> bob  </s>

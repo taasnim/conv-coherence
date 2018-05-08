@@ -1,0 +1,35 @@
+<s> i have charter internet and i have been losing internet connectivity so i decided to go with bellsouth dsl thinking it was charters problem.  </s>
+<s> well when i was ordering bellsouth dsl online they have a tool to see if your computer meets the requirements.  </s>
+<s> my computer passed everything except networking.  </s>
+<s> i got this message (malfunctioning nic found.) what does this mean? is this why i am having internet trouble?  </s>
+<s> it is a gateway computer running windows xp service pack 2. the computer is about 2 years old.  </s>
+<s> why not replace it? is 4 bucks.  </s>
+<s> i see them on the shelf at not much more.  </s>
+<s> finding out why will likely take a few hundred buck trip to a repair counter.  </s>
+<s> bob  </s>
+<s> i like to add to what robert mentioned, if you have a build-in nic, buy a nic card then install it.  </s>
+<s> just disable the build-in nic before so.  </s>
+<s> it's easier to replace and as it was called a bad unit, it pretty much suggests what problem you had before as that's your link to the outside world.  </s>
+<s> rerun the test after the install and check results.  </s>
+<s> tada -----willy  </s>
+<s> the technician said in order to replace the nic the motherboard has to be replaced!  </s>
+<s> they told me to back up anything i don't want to lose and they said i will most likely have to reinstall the operating system.  </s>
+<s> how do i do all of this? they are coming tuesday and i can't figure out how to backup anything!  </s>
+<s> as for reinstalling the operating system, are they talking about the recovery disks you make when you first run your new computer?  </s>
+<s> that is all i have, recovery disks.  </s>
+<s> i have a gateway 5310s  </s>
+<s> for the 4 dollar fix you get into the bios, disable the onboard nic, install the new nic and drivers.  </s>
+<s> no one i know replaces a motherboard due to a bad nic.  </s>
+<s> bob  </s>
+<s> look at these:  </s>
+<s> it's the one with the 4 buck cards at the top.  </s>
+<s> i thought i was posting a link with the lowest price listed first, but now i realize that my browser cookie was determining that and not the search criteria i used.  </s>
+<s> thanks, bob!  </s>
+<s> inexpensive and a relatively easy install.  </s>
+<s> hard to beat that fix.  </s>
+<s> i know this is a late reply, but needed to as for the &quot;tech response&quot; you got.  </s>
+<s> unless, there's some magical nic involved(i don't think so), that tech is way off on replacing nic via the mtrbd.. in most cases you can disable the onboard nic, install a new nic and go from there.  </s>
+<s> as for recovery or any back-up it just worth the money to buy a decent back-up s/w and proceed to do so.  </s>
+<s> visit any local or online vendor and buy one.  </s>
+<s> good s/w will back-up to just about any media, like cd, dvd, tape, and/or other hd or nas drive(if applicable). the recovery itself usually refers to the os re-install disks, sometimes called restore disks.  </s>
+<s> tada -----willy  </s>

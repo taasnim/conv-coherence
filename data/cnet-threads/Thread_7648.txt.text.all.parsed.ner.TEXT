@@ -1,0 +1,12 @@
+<s> hi, i'm using a hp dv2315nr laptop and even though my laptop passes minimum and sometimes recommended requirements, my friends' laptops with older video cards and cpus can still play games well over 30fps unlike mine.  </s>
+<s> i'm running windows vista home premium with an amd 64 x2 turion that runs at 1.6ghz.  </s>
+<s> i have one gig of ddr2 ram, and a nvidia geforce go 6150 (uma).  </s>
+<s> i've tried running simple games like hl2, the sims 2, star wars battlefront 2, heck even age of mythology and world of warcraft refuse to run at a decent speed.  </s>
+<s> i know i can change my geforce's vram by changing the amount from 64mb to 128 in the bios, and that runs off my general ram, but i usually see little to no improvement.  </s>
+<s> please, might someone have some insight to this problem.  </s>
+<s> help, joe  </s>
+<s> disable aero.  </s>
+<s> tried that only a slight performance increase  </s>
+<s> and since you only have 1gb of ram, vista will be running with less than 768mb.  </s>
+<s> add another gig of ram and let the games auto-detect the best visual settings for your configuration but don't expect a tremendous speed up.  </s>
+<s> and about all that we can expect from this chipset.  </s>

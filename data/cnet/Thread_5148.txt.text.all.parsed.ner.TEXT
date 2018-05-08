@@ -1,0 +1,43 @@
+<s> hello everyone.  </s>
+<s> i have a wireless router problem and have spent hours on customer service with dell, linksys, and at&t.  </s>
+<s> i am desperate for help.  </s>
+<s> i have a dell desktop and dell xps 1530 laptop, and dsl service through at&t.  </s>
+<s> i recently purchased a linksys wrt310n router and could not get it running with help from all 3 customer service reps. it was determined that the router was bad and i returned it in exchange for a linksys wrt160n.  </s>
+<s> i have set the router up.  </s>
+<s> my laptop says it is connected (local and ineternet), but every time i open ie it says webpage cannot be displayed.  </s>
+<s> when i run the check for problem it displays &quot;cannot communicate with dsn server 192.168.1.254&quot; the desktop is connected via the dsl modem and router and can access the internet fine.  </s>
+<s> any help or advice would be greatly appreciated.  </s>
+<s> thanks.  </s>
+<s> can you connect using the wired ethernet port?  </s>
+<s> do you know where the mentioned ip address comes from?  </s>
+<s> modem or router?  </s>
+<s> it looks a bit suspicious.  </s>
+<s> as for connection settings, are you doing these manually or automatically?  </s>
+<s> hello! i have read the same problem on the supportrix forum and you may try this and see if this help solve your problem.  </s>
+<s> make sure your computer is directly connected to the router step 1: shutdown the computer.  </s>
+<s> step 2: reset the router while power on then unplug the routers power cable.  </s>
+<s> step 3: unplug the broadband modems power cable and wait for 30 seconds.  </s>
+<s> step 4: plug in the broadband modems power cable and wait for its lights to appear stable.  </s>
+<s> step 5: plug in the router's power cable once the modems lights appear stable.  </s>
+<s> step 6: power on the computer on and check internet connection.  </s>
+<s> if you still have no internet connection, access the router setup page and configure the router settings; change the router lan ip address to 192.168.2.1, set the connection type to pppoe and manually type yoour att username (in email format) and password, save settings.  </s>
+<s> go to the router setup page and click on the connect button step 7: test the internet connection once the status indicates connected and ip address show up if this still didnot work, upgrade the firmware of your router and repeat the same steps.  </s>
+<s> note: configuring the router settings will depends who is your provider.  </s>
+<s> if your isp is dsl you need to configure your isp username (email address format) and password on the router.  </s>
+<s> if your router is a cable no need to change any settings on the router.  </s>
+<s> it should automatically work  </s>
+<s> then click start, run or hit the windows key and the r key at the same time.  </s>
+<s> this will bring up run.  </s>
+<s> type cmd hit enter type ipconfig /all (space between the g and /) hit enter look for the default gateway.  </s>
+<s> put that number in the address bar.  </s>
+<s> log into the linksys router.  </s>
+<s> broadcast ssid use wpa-psk(tkip) security mixed b and g mode(n if available) use channels 1, 6 or 11. most wireless devices work best on these channels.  </s>
+<s> save and exit.  </s>
+<s> power everything off for 30 seconds.  </s>
+<s> now power everything back on.  </s>
+<s> try and connect.  </s>
+<s> rick  </s>
+<s> thanks for the help.  </s>
+<s> i really appreciate it.  </s>
+<s> i will give this a try and see if works.  </s>
+<s> i will post and let you know what the outcome is.  </s>

@@ -1,0 +1,4 @@
+(TOP (SBARQ (WHNP (WP what)) (SQ (VP (AUX 's) (NP (DT the) (NN difference)))) (. ?)) )
+(TOP (NP (NN anyone) (. ?)) )
+(TOP (FRAG (X (NP (NP (JJ general) (NN term)) (PP (IN for) (NP (DT the) (NN technology)))) (: :) (S (NP (NN sata)) (VP (SYM =) (NP (JJ serial) (NNS ata)) (SBAR (IN while) (S (NP (RB not) (ADJP (RB technically) (JJ accurate)) (, ,) (JJ many) (NNS manufacturers)) (VP (VBP use) (NP (DT the) (JJ following) (NN terminology))))))) (: :) (NP (NN sata)) (SYM =)) (NP (NNP sata) (CD 1.0)) (X (SYM =)) (NP (NNP sata) (CD 150)) (X (X (SYM =)) (NP (JJ serial) (CD ata150) (NNS sata))) (NP (NNP ii)) (X (SYM =)) (NP (NNP sata) (CD 300)) (X (SYM =)) (NP (JJ serial) (CD ata300)) (SBAR (S (NP (DT the) (NN following)) (VP (VBZ gives) (NP (DT a) (ADJP (RB pretty) (JJ good)) (NN explanation))))) (: :) (NP (JJ sata-io) (NN organization) (NNS faq)) (: :)) )
+(TOP (S (VP (VB appreciate) (NP (DT the) (NN reply)) (CC and) (NP (DT the) (NNS links))) (. .)) )

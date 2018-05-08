@@ -1,0 +1,27 @@
+<s> got a new dell dimension 4600 with 512 mb ram, 2.8 mhz pentium 4, winxp.  </s>
+<s> have a verizon dsl line running nominally at 1.5 mbps.  </s>
+<s> internet acces is slow, much slower than my old 533mhz celeron hp pavilion running win98.  </s>
+<s> slower than my inspiron 1100 laptop running winme.  </s>
+<s> all three using the exact same ethernet connection.  </s>
+<s> slower than my 1.2 mhz petium running winxp at work.  </s>
+<s> ran norton av and then spybot.  </s>
+<s> seemed to help a little, but not much.  </s>
+<s> called dell support, and was walked through the start-up menu; turned almost everything in autostart to off.  </s>
+<s> that seemed also to help a little, but not much.  </s>
+<s> and why would that be a problem?  </s>
+<s> my celeron machine has a pile of autostart programs and it doesn't clog up.  </s>
+<s> i ran an online dsl diagnostic, and my 1.5 mbps line may be a little slow; one test consistently shows a download speed in the 600 mbps range with the laptop, whereas the new dell tends to show a speed in the 300's, and i have seen as low as 192.  </s>
+<s> what are some possible explanations and fixes for this internet slowdown?  </s>
+<s> how likely is an actual hardware defect?  </s>
+<s> tb  </s>
+<s> i assume you are using some type of internet sharing device to have this many machines running at once.  </s>
+<s> if so try the slow-poke on another port.  </s>
+<s> then another cable and finally try another nic.  </s>
+<s> i have three different computers, but i do not run them at the same time.  </s>
+<s> actually, i used to be able to run the old desktop off the usb connection off the dsl modem and the laptop off the ethernet connector, and both ran at the same time at an acceptable speed.  </s>
+<s> but the new dell doesn't run off the usb connection (i don't know why not--is that perhaps a clue?), so i can only run one machine at a time.  </s>
+<s> i should get a router to run multiple machines, but that isn't relevant to the problem at hand.  </s>
+<s> any other ideas?  </s>
+<s> simplfy things by getting a multiported router.  </s>
+<s> your setup is confounding in that your isp should not allow more then one connection at a time to the modem direct.  </s>
+<s> this is where the router becomes a boon.  </s>

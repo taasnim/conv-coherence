@@ -1,0 +1,121 @@
+<s> i've had the system for three years and haven't had trouble before.  </s>
+<s> i run windows xp, if that helps.  </s>
+<s> was working online tonight when suddenly the &quot;green&quot; light on the monitor (signifying it's in active mode) went to orange (stand-by) and the screen was blank. the pc then began to make a warning sound, like a warning buzzer that was two short sounds each time.  </s>
+<s> this buzzer sound stopped after about ten seconds.  </s>
+<s> i looked in the back of the computer and there was a green light inside that was illuminated - not sure if that means anything.  </s>
+<s> on the front of the computer, the 3 and 4 numbers were lit up.  </s>
+<s> i turned it off, tried to turn it on again, same thing.  </s>
+<s> i waited ten minutes, tried again.  </s>
+<s> it booted up and worked for about five minutes before it kicked again.  </s>
+<s> when i push the menu screen on the monitor, i get the message: 2. digital input in power save mode.  </s>
+<s> press any key on keyboard or move mouse.  </s>
+<s> i try both, nothing works.  </s>
+<s> i tried different outlets, different power strips and it's always the same result.  </s>
+<s> it's almost like it has overheated and goes into power save mode to not overheat.  </s>
+<s> but the green light on the monitor won't stay green - it always goes to orange.  </s>
+<s> not sure how to proceed here.  </s>
+<s> does anyone have any ideas?  </s>
+<s> thank you for your help.  </s>
+<s> jb1323, this message, &quot;digital input in power save mode.  </s>
+<s> press any key on keyboard or move mouse&quot;, means the monitor is no longer recieving a signal from the video card.  </s>
+<s> diagnostic lights 3 and 4 mean the memory modules are detected, but a memory failure has occurred.  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads power the pc off list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads unplug the power cord from the rear of the pc list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads lay the pc on its left side list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads remove the cover list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads remove and reseat all of the memory in their sockets list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads reinsert the power cord list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads turn the pc on if you still get diagnostic lights 3 and 4, then either one or all of the memory is bad.  </s>
+<s> you can start the process of elimination by removing the memory from the black sockets, power on.  </s>
+<s> then replace those and remove the memory from the white sockets, power on.  </s>
+<s> you get the idea.  </s>
+<s> once you ascertain what memory is bad, you can then replace it.  </s>
+<s> dell-chris m dell community desktop liaison  </s>
+<s> thanks, chris.  </s>
+<s> i spoke to some other people who said that it could be a problem with the internal fan - perhaps dust was collecting on the fan and its performance has been compromised.  </s>
+<s> the cpu, they theorized, was getting too hot as a result, so the computer shut down like that to keep from overheating. the suggestion i got was to look at the fan and make sure it was clean and if needed, to replace it.  </s>
+<s> two questions for you: 1) what do you think of that theory?  </s>
+<s> 2) why does the computer make that buzzing noise when the screen goes blank? it sounds like a warning buzzer that stops after ten seconds or so?  </s>
+<s> what you outlined, if that's what needs to be done, is this something i can do on my own, or should i contact someone to do it for me?  </s>
+<s> thanks for your help.  </s>
+<s> the diagnostic lights were for the memory: warning sound?  </s>
+<s> does it match any of these: after 3 years, it would be a good idea to open the case and use compressed air to blow out the dust.  </s>
+<s> i would do this in the garage.  </s>
+<s> you will be surprised at how much will come out.  </s>
+<s> while it is open i would reseat all memory, cables, cords and connectors.  </s>
+<s> just use those instructions in the link below to open the case and reseat stuff.  </s>
+<s> hmmm...not sure about the beeping pattern.  </s>
+<s> but i'll open it up, reseat the memory and see how it goes.  </s>
+<s> thanks for your help, i really appreciate it.  </s>
+<s> one more question - if i figure out what memory cards are faulty - what's the best place to get them replaced?  </s>
+<s> do i have to deal with dell directly or can i go to best buy, for example, and get?  </s>
+<s> thanks again.  </s>
+<s> if your under warranty, we will replace them.  </s>
+<s> if not, you can go to best buy or get it here:  </s>
+<s> thanks, chris.  </s>
+<s> i don't think it's under warranty, since it's 3+ years old.  </s>
+<s> based on the configurations you sent, does each memory piece act as its own unit, or do two make up one?  </s>
+<s> in other words, if i figure out that one is bad, does that mean its complimentary piece has to be replaced as well? the diagram you sent has the memory divided up into dmm1 and dmm2, with white and black clips.  </s>
+<s> if one of the dmm1s, for example, is bad, do both have to be replaced?  </s>
+<s> also, if they act independently, can i operate my computer with just three memory cards or do i need all four?  </s>
+<s> if the 3 memory sticks are the same speed, yes, could run them in a single-channel mode.  </s>
+<s> i would just isolate the bad one and then try to boot with the others.  </s>
+<s> dell-chris m  </s>
+<s> chris: i reseated the memory and it seems to have done the trick.  </s>
+<s> however, when i opened the computer, i discovered i only have two sticks of memory, each of which is located in the white tabs.  </s>
+<s> i thought, based on the links you sent me, that the memory would be in the black tabs, if anywhere.  </s>
+<s> i haven't added memory to it before, so i guess two sticks is the default for the xps?  </s>
+<s> my question is, if i buy two more memory sticks and seat them in the black tabs, will it make much of a difference in the computer's performance?  </s>
+<s> i don't have a lot on it, aside from music files, and it seems to be working well now.  </s>
+<s> but if additional memory will make it faster, i'm all for it.  </s>
+<s> what do you think?  </s>
+<s> thanks again for the reseating suggestion - it saved me some money.  </s>
+<s> i appreciate it.  </s>
+<s> how much ram is in there now (512mb, 1gb, etc)?  </s>
+<s> don't know.  </s>
+<s> not at home pc now.  </s>
+<s> how do i check?  </s>
+<s> how much ram is recommended?  </s>
+<s> when i reseated, the memory stick didn't simply go down and click in.  </s>
+<s> i had to click one side, then push down on the other side and click it in.  </s>
+<s> based on the instructions, i thought it would just click in.  </s>
+<s> i made sure the notch was lined up, but it still wouldn't click in just by applying equal pressure to each side.  </s>
+<s> unusual or common?  </s>
+<s> you just have to apply equal pressure with both thumbs.  </s>
+<s> kind of tricky.  </s>
+<s> turn it on and go into the bios.  </s>
+<s> it will tell you how much memory is installed.  </s>
+<s> for xp, i would go with 2gbs.  </s>
+<s> i don't know much about computers - how do i access the bios?  </s>
+<s> press f2 at the startup screen (the black one, not the windows screen)  </s>
+<s> can i also look at &quot;properties&quot; under my computer?  </s>
+<s> mabey it is a warning if it feels like its running hot cause mine dose as well make sure ur cooling fans are clear of dust n debree becareful though there a little difficult to get to  </s>

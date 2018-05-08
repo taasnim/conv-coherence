@@ -1,0 +1,19 @@
+<s> hello, i previously had dsl with my own combo modem/wireless router.  </s>
+<s> i cancelled dsl and got cable broadband instead.  </s>
+<s> i've already unplugged my dsl modem/router and have my cable modem hooked up, all is running well.  </s>
+<s> i bought a new netgear n600 wireless router that i want to set up.  </s>
+<s> my question is....do i have to uninstall any software or files from my previous dsl modem/router before installing my new cable router?  </s>
+<s> when you change from dsl to cable broadband, you just change the router, there are no software changes on your computer required (or on the router, your question is not clear).  </s>
+<s> now that you have your computer working directly on your cable modem you just need to record your computer's mac address, and set that as the mac address in your new cable router.  </s>
+<s> other than that, you shouldn't have any problems.  </s>
+<s> i've done this a couple of times, and just walked through the web configuration pages for the new cable router, and it just works (assuming that you transfer mac addresses).  </s>
+<s> no software to change.  </s>
+<s> thanks for the reply!  </s>
+<s> i had thought there might be some software because the routers come with an installation disc.  </s>
+<s> i wasn't sure if the discs install some sort of program that could cause a conflict if a new or different router was installed.  </s>
+<s> i checked through my program files and couldn't find any sort of executable program, though, so i just wanted to double check.  </s>
+<s> anything accompanying software can help you with is something you can do through your browser.  </s>
+<s> you access the devices web interface via (device ip).  </s>
+<s> you really don't need to bother with mac addresses either unless using mac filtering for wireless....and that's not much added security anyway.  </s>
+<s> if you wish, you can uninstall the old stuff dsl stuff...and i'd never install my isp's custom package if they offer one.  </s>
+<s> good luck.  </s>

@@ -1,0 +1,7 @@
+(TOP (S (NP (PRP i)) (VP (VP (AUX have) (NP (CD two) (NNP wireless) (NN router) (NN cnet))) (CC and) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB make) (S (NP (PRP one)) (NP (NP (NP (DT a) (NN gateway)) (PP (IN for) (NP (PRP$ my) (NN lan)))) (CC and) (NP (NP (DT the) (JJ other) (NNS remains)) (NP (DT a) (NN router))))))))))) (. .)) )
+(TOP (X (SBARQ (WHADVP (WRB how)) (SQ (MD can) (NP (PRP i)) (VP (VB make) (S (NP (PRP them)) (VP (NN talk) (PP (TO to) (NP (DT each) (JJ other)))))))) (. ?) (PP (IN as))) )
+(TOP (S (VP (AUX be) (DT a) (ADJP (JJ able) (S (VP (TO to) (VP (VB ping) (NP (DT the) (NN gateway)) (PP (IN from) (NP (DT the) (NN router))))))))) )
+(TOP (S (S (VP (TO to) (VP (VB define) (NP (NP (PRP$ your) (NNS terms)) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ your) (NN purpose)))))) (, ,) (VP (VB try) (NP (DT this))) (: :)) )
+(TOP (S (NP (JJ great) (JJ new) (NN firmware)) (VP (AUX does) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ tricks.) (NNS is))) (SBAR (WHADVP (WRB where)) (S (NP (PRP i)) (VP (VBD noted) (NP (DT this))))))) (. .)) )
+(TOP (S (NP (DT this)) (VP (AUX is) (RB not) (NP (DT an) (NN offer) (S (VP (TO to) (VP (VB teach) (NP (VBG routing) (QP (CC and) (JJR more)))))))) (. .)) )
+(TOP (NP (NNP bob)) )

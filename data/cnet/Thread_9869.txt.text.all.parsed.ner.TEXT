@@ -1,0 +1,54 @@
+<s> hello, i just wired each room with 3 cat5e cables (2 for internet and the other cat5e cable to wire 2 telephone lines), 2 rg6 cables.  </s>
+<s> all this wire terminates in one location in the basement where i am going to make all my connections.  </s>
+<s> i thought i would wire all my cat5e connections to a patch panel, but that does not seems to be all that i need to make all the connections work.  </s>
+<s> do i need a switch?  </s>
+<s> i take my connection out of the modem an run it into the switch?  </s>
+<s> managed/unmanaged switch...i assume unmannaged.  </s>
+<s> i will be connection to comcast internet...something else i need?  </s>
+<s> for cable, i just run my source signal into a splitter and then make all my connections to the other end of the splitter?  </s>
+<s> something else i should consider?  </s>
+<s> a router and maybe a switch.  </s>
+<s> your modem connects to a router. the router has two basic functions.  </s>
+<s> one is that it acts as a hardware firewall and the other is that it can pass out ip addresses to connected devices.  </s>
+<s> if you have more devices than your router has ports, you connect a switch to the router. the switch can usually be of the un-managed type unless you have a special need such as to dedicate a certain amount of bandwidth to some device each device must connect to it's own port.  </s>
+<s> you cannot wire any of them together if that's what you mean by a splitter.  </s>
+<s> no splitting allowed.  </s>
+<s> you did say something about telephone lines.  </s>
+<s> are these standard telephones or do you have bundled phone service on your cable?  </s>
+<s> otherwise, these have nothing to do with your network.  </s>
+<s> as for a patch panel, you really don't need one unless you're using the stiffer interior wall type ethernet cable for the house wiring.  </s>
+<s> hope this helps but feel free to post more about your objective.  </s>
+<s> hey thanks... ok if i connect a switch to a router, is that connected with a crossover cable or just a standard cable?  </s>
+<s> same with the punch panel to the switch...standard or crossover cable? the splitters will be used for rg6 cable splitting and i was asking is this the way to route the cable the signal.  </s>
+<s> i have no telephone service yet, and not sure i will, but i was going to use 4 wires of one cat5 cable to wire one phone connection and the other 4 wires of the cat5 cable for the other phone line.  </s>
+<s> similarly i was going to use a 66 panel to wire all the phone lines.  </s>
+<s> since most gear today is auto-mdx i rarely use a cross over.  </s>
+<s> get straight cables for now.  </s>
+<s> bob  </s>
+<s> i'm thinking that cat5 isn't going to fit your 66 panel as the wire may be too thin. it may be to small a gauge.  </s>
+<s> i'd think you'd need a 110 punch block or will need to use proper phone cable.  </s>
+<s> i've never mixed them.  </s>
+<s> i did my own home with 66 block but i have pots service.  </s>
+<s> as for your cable splitter, i presume you're considering voice, data and tv signals.  </s>
+<s> i'll leave this question to the cable company.  </s>
+<s> bob gave the answer about crossover cables.  </s>
+<s> if your stuff is fairly new, it will detect and configure the up/down link.  </s>
+<s> you'll know fairly quickly if something isn't right.  </s>
+<s> good luck.  </s>
+<s> well, i read that you could use cat5 cable for phone wire, but i guess that maybe there are complications with using, i guess i will have to find out.  </s>
+<s> one last question.  </s>
+<s> i wanted to place the router (wireless) between the upstairs and the downstairs.  </s>
+<s> this is before i learned that i needed a router and a switch.  </s>
+<s> can i connect a wireless router somewhere in the house in addition to the router that i would have with my switch down in the basement?  </s>
+<s> seems that the basement is not the best of places to have the wireless positioned.  </s>
+<s> or maybe i should run a wire from from the wireless router to the basement to connect to the switch and all my other connections.  </s>
+<s> some other options?  </s>
+<s> put the router upstairs and just run a wire to it from the modem.  </s>
+<s> don't put a switch between the modem and router. the switch is only to add additional ports beyond what the router provides.  </s>
+<s> if you need more wireless signal coverage you ad an additional access point (ap) which can actually be a router with the dhcp disabled.  </s>
+<s> you don't want two routers trying to hand out addresses.  </s>
+<s> there is information about that in the forum sticky thread.  </s>
+<s> just a small comment, unless you really need all those jacks active in each room you can use a data jack as a phone jack. the phone cables which use a small 6 pin connector will work just fine in the 8 pin data jacks.  </s>
+<s> you of course must connect the other end to a phone cable also.  </s>
+<s> only the center 4 pin line up 3,4,5,6 line up with 2,3,4,5.  </s>
+<s> this is the standard phone cable where the outer 2 pins are not used.  </s>

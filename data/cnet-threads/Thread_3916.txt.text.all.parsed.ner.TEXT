@@ -1,0 +1,19 @@
+<s> i have a computer which supports dual channel memory.  </s>
+<s> i have 4 slots.  </s>
+<s> 2 orane and 2 yellow can i put 1 stick of kingston 1gb and 1 stick of kingston 2gb together in the same color slots to allow dual channel memory or is it better to put them in seperate color slots.  </s>
+<s> and how can i find out the speed of each ram stick without removing it from my pc?  </s>
+<s> you cannot mix ram sizes in the paired slots.  </s>
+<s> ideally, this should be done with factory matched sets but i've had no problem using ram with identical part numbers.  </s>
+<s> i've also found that if i have 2 matched pairs but each pair of a different size, they'll run in dual channel mode but speed is reduced.  </s>
+<s> by this i mean that if i use two 1gb sticks in the first channel and 1/2 gb sticks in the second channel, my reported speed will drop.  </s>
+<s> during post, you should see on your screen if dual channel mode has been achieved and at what speed but you've got to pay attention when it pops up.  </s>
+<s> hope this helps.  </s>
+<s> google if you like for a better ddr2 explanation, but here goes.... to benefit fully in ddr2 mode, you need similar or matched pairs of ram to mount in the ram slots, which are also known as &quot;banks&quot;.  </s>
+<s> having matched ram pairs allows the ddr2 to work in your favor and is &quot;automatic&quot; you need not set anything(in most cases).  </s>
+<s> any other setup will defeat ddr2 mode and/or get less than desired results and again, this is all automatic.  </s>
+<s> while, you can install mixed or mismatched pairs of ram, besides not getting full ddr2 advantage that may also cause other ram issues.  </s>
+<s> so, its best to follow the correct procedure.  </s>
+<s> as for id'ing the current ram, get your hands on pc wizard 2010(yr.  </s>
+<s> changes?) and google for it, it will id ram maker and specs provided the ram itself has that embedded info.  </s>
+<s> generic or unlabeled ram tend to show only basic info, but even that should be enough.  </s>
+<s> tada -----willy  </s>

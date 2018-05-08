@@ -1,0 +1,7 @@
+(TOP (S (S (NP (PRP i)) (VP (VBD spent) (NP (DT a) (JJ huge) (NN effort)) (S (VP (VBG looking) (PP (IN for) (NP (CD one))))))) (CC but) (S (NP (PRP i)) (VP (MD can) (RB n't) (VP (VB find) (NP (NN one))))) (. .)) )
+(TOP (S (INTJ (WRB why) (. ?)) (NP (PRP$ my) (NN guess)) (VP (AUX is) (SBAR (IN that) (S (NP (JJ economic) (CD 101)) (VP (VBP spoil) (NP (DT the) (NN fun)))))) (. .)) )
+(TOP (SBARQ (WHNP (WRB how) (JJ much)) (SQ (AUX are) (NP (PRP you)) (VP (VBG welling) (S (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (NP (CD one)) (PRN (-LRB- -LRB-) (INTJ (UH say) (UH 1000gb)) (-RRB- -RRB-))))))) (CC and) (SBARQ (WHNP (WP what)) (SQ (AUX do) (NP (PRP you)) (VP (VBP plan) (VP (VBG doing) (PP (IN with) (NP (PRP it)))))))))) (. ?)) )
+(TOP (FRAG (ADJP (RB just) (JJ curious)) (. .)) )
+(TOP (FRAG (SBAR (WHADJP (WRB how) (JJ hard)) (S (NP (PRP you)) (VP (VBD looked)))) (. .)) )
+(TOP (S (ADVP (RB however)) (, ,) (NP (JJ holographic) (NNS drives)) (VP (AUX are) (VP (VBN projected) (S (VP (TO to) (ADVP (RB initially)) (VP (VB cost) (PP (IN around) (NP (PRP us))) (NP ($ $) (CD 15,000))))))) (, ,)) )
+(TOP (S (NP (PRP they)) (VP (AUX 've) (ADVP (RB never)) (VP (VBD made) (NP (PRP it)) (PP (IN past) (NP (DT the) (NN prototype) (NN stage))))) (. .)) )

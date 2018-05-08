@@ -1,0 +1,33 @@
+<s> hi - i am looking to run a cat6 cable from one office to another two via a server cupboard and storage area, a large chunk (30-40m) of this cabling will be outside (in conduit pipes running alongside 240v mains cabling).  </s>
+<s> here is a picture of what i propose to do, please ask if anything is unclear.  </s>
+<s> i am sure something here must be wrong - i need you to tell me what!  </s>
+<s> thanks in advance  </s>
+<s> since ethernet in cat 5 or 6 is good for 100 meters, nothing looks too long a run.  </s>
+<s> however there is one strange looking connection on the server on the left to what may be a switched hub.  </s>
+<s> hope someone can tell you why that's odd.  </s>
+<s> bob  </s>
+<s> by that, do you mean the circle to square rj45 to rj11 connection?  </s>
+<s> thi will be used to link the server to the phone line to ue it a a fax server - only for sending faxes, the fax machine will recieve them.  </s>
+<s> there are no switched hubs on the network, currently there is 1 wireless modem router serving all of the connections, which travelling to the far office is very patchy and almost always not working, hence the reason for going wired.  </s>
+<s> router(2) is a belkin wireless modem router - i'm hoping it will work, but if not then i will have to try another one, i wouldn't be too surpried if it didn't work to be honest.  </s>
+<s> i don't need it wireless a there is the main router jut metre away.  </s>
+<s> router (3) is a linksys 1-port access point that i am fairly sure will work without hassle, although it may need upgrading should more data ports be required.  </s>
+<s> can someone also tell me - there is one rj45 port with both data and voice signals in it - would it damage either a phone or a computer if it was connected, or should the data cables only have pins 1,2,3,6 and voice only have pins 4,5 connected?  </s>
+<s> thanks for getting back to me.  </s>
+<s> there are definitely 2 connections to the server in that diagram.  </s>
+<s> as to no switched hubs, i can see where newer owners can say that but there is a switched hub in your common multiple ethernet port router so i'm at a loss as to how to nicely put this.  </s>
+<s> my apology if i presented it and hurt anyone's feelings.  </s>
+<s> bob  </s>
+<s> yes - there are 2 connections, one for data and one for voice (fax).  </s>
+<s> i don't know what you're trying to say about the routers - but if the cabling is ok then i know how to configure the routers to work.  </s>
+<s> is that today's router is a collection of items we used to have boxes for.  </s>
+<s> we would have a router, then a switched hub but today the switched hub is inside the common router.  </s>
+<s> apology in advance as i don't expect everyone to remember all that or what stuff is made of or how things work.  </s>
+<s> bob  </s>
+<s> so i already have a switched hub built into the routers?  </s>
+<s> does that mean everything is ok or because there are more than one of them will i have troubles?  </s>
+<s> the only item that looked odd was the two connection on the server.  </s>
+<s> since what a router is, what a hub is and what each does is on the internet i don't duplicate that here.  </s>
+<s> at the top of this forum is a sticky note about how to use more than one router.  </s>
+<s> as to multiple hubs, that's been done for years with little more than plug in the cables.  </s>
+<s> bob  </s>

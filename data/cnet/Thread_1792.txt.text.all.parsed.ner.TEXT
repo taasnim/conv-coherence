@@ -1,0 +1,27 @@
+<s> i am trying to reinstall the operating system on my computer, hp pavilion 520n, i insert the windows cd and go through the proccess of creating the partition, formatting, and copying the files but after it does that it will not boot up to the c drive and finish the installation instead it boots back up to the cd. i tried setting it to boot to the c drive first but it won't it will boot to the cd! anybody have any ideas why?  </s>
+<s> thank you!  </s>
+<s> ...you remove the cd from the drive and reboot?  </s>
+<s> it should boot up to the hard drive and start or finish the installation of the operating system!  </s>
+<s> such as what os are you trying to install.  </s>
+<s> if other than came with the pc originally, you might encounter hardware problems.  </s>
+<s> if xp, this is not uncommon.  </s>
+<s> some things that cause xp not to install are insufficient or bad ram and unsupported hardware.  </s>
+<s> any clues here?  </s>
+<s> it already had xp on it and was working ok until it got some virus and had to reinstall the operating system!  </s>
+<s> you could try to boot to a bootable floppy and fdisk it to ensure that the virus is still not residing somewhere on the partition this could happen if u tried to install over the top of the old os also are you using a manufacture's copy of xp or a licensed copy or ??? also for a while hp had a recovery consol added as a 2nd partition on the hard drive unless you deleted this partition it should still be there getting to this partition might be tricky as it is normaly accesed using f8 durring boot up but im not sure if it will work i would contact / look on hp's website for an alternate meathod for accessing the recovery consol if it even exists worst case senario: the virus made your hard drive useless by corrupting the mbr in wich case all you can do (to my knowledge) is replace the hard drive keep us updated  </s>
+<s> it was the harddrive!  </s>
+<s> i used a bootable floopy and when i tried to fdisk it could not find a fixed drive.  </s>
+<s> so i installed a new harddrive and was able to install the operating system!  </s>
+<s> the computer is a hp pavilion 8756c. the operating system is windows me.  </s>
+<s> i am using the recovery cds that came with the computer.  </s>
+<s> the hard disk was erased by my son using software he bought off the shelf.  </s>
+<s> (i don't know the software title, but could get it if that's important.) when i booted the computer, it asked if i wanted to install f disk w/o partitioning the hard drive.  </s>
+<s> i said yes. i think this resulted in installation of dos on the system from bios/cmos.  </s>
+<s> i then inserted the first of three cds from the recovery set.  </s>
+<s> it recognized the recovery cd but said it was not for this hp pavilion computer.  </s>
+<s> i went into set up and asked it to enable the identification of the processor, thinking that the recovery cd was looking for some identification of this specific computer.  </s>
+<s> this did not help.  </s>
+<s> i then used the f5 default to reset the bios to default values.  </s>
+<s> this also didn't help.  </s>
+<s> i noticed that i got the same error message when i powered on the computer with no cd in the drive.  </s>
+<s> it just didn't go through the original set of messages saying it was starting the reinstall routine.  </s>

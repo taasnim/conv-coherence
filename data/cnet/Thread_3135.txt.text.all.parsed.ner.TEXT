@@ -1,0 +1,85 @@
+<s> my emachine t2682 desktop's motherboard recently died.  </s>
+<s> i replaced the motherboard with a biostar p4m80-m4 from tigerdirect.  </s>
+<s> even though it is my first time, i believe i have replaced the motherboard properly and all the wires are firmly connected but when i tried to turn on my computer, no display turned up on my monitor and the lights on my keyboard wouldn't turn on.  </s>
+<s> however,a usb device receives power when plugged in, the fan inside the computer still spins, the lights on the hard drive and power button still turn on and the computer sounds as though it is turning on like it did before the motherboard was replaced.  </s>
+<s> i don't understand why there is no display on my monitor as i have tested it 2 different monitors.  </s>
+<s> any help would be appreciated.  </s>
+<s> if you're running xp, the system os sees that too much has changed or it appears so, thus the os will not run/boot.  </s>
+<s> you need to re-install the os, but that invalidates the os as it was supplied, read the eula.  </s>
+<s> you need a retail version of the os, as the oem version won't allow to install or be 100%.  </s>
+<s> google away but the answer lies as i explained it, any other solution is outside your eula provided.  </s>
+<s> tada -----willy  </s>
+<s> i appreciate the help willy but that is not my problem.  </s>
+<s> when i turn on my computer i get no display at all.  </s>
+<s> i am running windows xp but i cannot see the bios or boot a linux live cd.  </s>
+<s> os or software.  </s>
+<s> it is true that the computer will not like to boot up when you do a major change like the mobo but you should at least get to a point where you get error messages that new hardware is found etc. what was the problem that occurred to make the mobo change?  </s>
+<s> it could be that it is something else. was the cpu changed also?  </s>
+<s> how about ram.  </s>
+<s> when you boot up unplug all except the hdd,mouse,keyboard and one optical drive.  </s>
+<s> post back.  </s>
+<s> unplug everything from the motherboard including the cpu.  </s>
+<s> now reinstall the cpu, its fan, and 1 stick of ram.  </s>
+<s> now connect the power supply to the motherboard; be sure to connect the secondary cpu power lead if required (a step lots of folks forget).  </s>
+<s> if your mobo doesn't have built-in video, install your video card.  </s>
+<s> now, connect your monitor and power up the pc. if you still don't get any video, there's a hardware problem with either your video card, the monitor, or the motherboard.  </s>
+<s> did you set the first display in the bios to pci card ?  </s>
+<s> this thells the motherboard that you have a card in instead of the onboard graphics.  </s>
+<s> i have the same board from mach speed at tiger direct and it works just fine.  </s>
+<s> tests as the fastest with fresh devices cpu benchmarks i am running a intel celeron d 3.33 gh and this board flies, can't wait to try a dual core in it  </s>
+<s> i thought that the motherboard had built-in video but i guess i was wrong.  </s>
+<s> i'll go buy a video card and that should solve my problems.  </s>
+<s> thanks for all your help you guys!  </s>
+<s> i have the same problem with the same motherboard.  </s>
+<s> i replaced the blown mb in my emachines t1742 with the biostar and now the cpu fan spins, but i don't get any post beeps or display.  </s>
+<s> i sent the first mb back and got a replacement, same thing.  </s>
+<s> i replaced the memory dimm, same thing.  </s>
+<s> the board has built-in vga, lan, etc and nothing shows on my monitor when i power up.  </s>
+<s> i have double checked all the wiring and it's ok.  </s>
+<s> i sent biostar an email asking for some tech support.  </s>
+<s> i re-seated the cpu and even tried another of the same cpu i have here and still nothing.  </s>
+<s> i've run out of ideas.  </s>
+<s> most t1742's came with a 1.7 celeron processor.  </s>
+<s> this motherboard does not work with a 1.7 celeron.  </s>
+<s> that processor is based on the wiilamette core and is not supported.  </s>
+<s> check your manual for cpu support. the original poster in this thread has a t2682.  </s>
+<s> most of those had a 2.6 celeron.  </s>
+<s> it's probably too late to help him, as his last post was 4 days ago and he was heading out to buy a video card.  </s>
+<s> if a board has a port to plug in a monitor, then it has onboard video.  </s>
+<s> that is not your problem.  </s>
+<s> your cpu may have been damaged when the motherboard died. the only way to find out is do what the previous answers said.  </s>
+<s> plug in just the motherboard, cpu, keyboard, mouse, ram, and monitor.  </s>
+<s> if you don't even get a bios screen, then you'll know it's a hardware problem, and nothing to do with windows, because you don't have a hard drive plugged in yet.  </s>
+<s> i'm working on a friend's box.  </s>
+<s> having the same problem with the same model motherboard during a replacement.  </s>
+<s> i double checked, and the cpu is a northstar.  </s>
+<s> i don't have any spare socket 478 cpus here, so i'll have to take the box home to work on.  </s>
+<s> still, it's striking me odd that this particular model is showing up as much as it is on the search engines.  </s>
+<s> anyone else?  </s>
+<s> in such cases where nothing seems to work as stated before by a previous poster, i reduce the system to minmium.  </s>
+<s> i remove the mtrbd.  </s>
+<s> and place in on cardboard or any &quot;non-conductive&quot; surface.  </s>
+<s> attach only the kybd., psu, ram, speaker, and video.  </s>
+<s> you don't even need the cpu, power it up and check results and see if the psu fan remains on and if beeps at all.  </s>
+<s> if it does beep like crazy, then add the cpu(it supports) and see if beeps goes away.  </s>
+<s> of course add cpu with power-off.  </s>
+<s> attach more as things progress.  </s>
+<s> if problem remains at the beginning, then the psu is kaput.  </s>
+<s> there's a chance the mtrbd.  </s>
+<s> maybe at fault, you can't do much if you can't get the bios at least to display.  </s>
+<s> it suggests something power or the mtrbd.  </s>
+<s> itself.  </s>
+<s> that's about as basic it gets.  </s>
+<s> i certainly would look at any possible jumpers, or sws. it may need to be set and review the manual, etc. to verify all that.  </s>
+<s> but, if a user intriduced mistake is at fault from the begiing it may have taken the mtrbd.  </s>
+<s> down, especially if the real problem is a bad psu.  </s>
+<s> you just won't know that unless you have a spare psu to check things out.  </s>
+<s> and if the psu took out the mtrbd.  </s>
+<s> it may reproduce the same symptoms as bad psu, it won't display.  </s>
+<s> in other words you have dual problems at least.  </s>
+<s> tada -----willy the mtrbd.  </s>
+<s> is now kaput due to bad psu.  </s>
+<s> the t2682 system supports pc2100 ram, while the biostar model supports ddr400/333, the ddr333 is th same as pc2700.  </s>
+<s> biostar may not like the slower pc2100 ram if it expects at least pc2700 and can't be changed if no bios display if possible to accept slower ram.  </s>
+<s> just fyi.  </s>
+<s> -----willy  </s>

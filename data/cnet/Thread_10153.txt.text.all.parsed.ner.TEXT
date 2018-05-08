@@ -1,0 +1,18 @@
+<s> i'm using a western digital my passport essentials se 1tb hdd and right now it's formatted in fat32.  </s>
+<s> before it was formatted in ntfs.  </s>
+<s> both types of formatting didn't work when i plugged it into my 360. the portable usb just stays gray and acts like it doesn't even see my hard drive.  </s>
+<s> my buddy has the exact same hdd but it's formatted for mac and my xbox sees his right away. is it my hard drive?  </s>
+<s> maybe i formatted it wrong?  </s>
+<s> any ideas would be helpful.  </s>
+<s> remove all the partitions from it and then create one new fat32 partition and format it fat32.  </s>
+<s> it's possible there was some remnant left over from the ntfs system.  </s>
+<s> bob  </s>
+<s> profit.  </s>
+<s> thank you so much.  </s>
+<s> i don't know why i didn't think to completely wipe the hard drive.  </s>
+<s> i had just kept reformatting it.  </s>
+<s> works great now.  </s>
+<s> thank you.  </s>
+<s> and you have to wonder why the industry is still in the dark ages about this.  </s>
+<s> after a few decades you would think this stuff would be easy on the consumers.  </s>
+<s> bob  </s>

@@ -1,0 +1,27 @@
+<s> i have a few network cables that transmit at a very slow rate.  </s>
+<s> if i replace the cables with other ones the network goes fast.  </s>
+<s> could it be... the slow cables are not in the 568-b nor in the 568-a order.  </s>
+<s> they are crimped the same on both ends though.  </s>
+<s> example.  </s>
+<s> orange white/orange green white/green brown white/brown blue white/blue the reason i came to this conclusion is the &quot;pairs&quot; are twisted, and if if the network has to transmit along the wrong pair could the be interferance of something?  </s>
+<s> can anyone explain.  </s>
+<s> that's not proper.  </s>
+<s> here's a link about what's wrong.  </s>
+<s> hint, pins 3,4,5,6 are wrong.  </s>
+<s> bob  </s>
+<s> it doesn't matter if the cables conform to any wiring standard as long as they are the same on both ends.  </s>
+<s> this would still be a straight through cable.  </s>
+<s> examine the printing on the cable to determine the rated bandwidth/speed.  </s>
+<s> cat.3, cat.5, cat.5e, cat.6?  </s>
+<s> the signal would not be on pairs so you get the effect above.  </s>
+<s> please do a little more research.  </s>
+<s> bob  </s>
+<s> you're right bob.  </s>
+<s> i leapt before i looked.  </s>
+<s> his wiring scheme on 1,2,3,6 would be org, wht/org, grn, wht/blue.  </s>
+<s> consider me busted too!  </s>
+<s> but thanks for the heads up.  </s>
+<s> such cable errors is one reason our tech was able to buy his new hybrid.  </s>
+<s> the first reason is spyware.  </s>
+<s> thank you all spyware authors?  </s>
+<s> bob  </s>

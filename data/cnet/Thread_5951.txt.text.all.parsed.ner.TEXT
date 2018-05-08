@@ -1,0 +1,22 @@
+<s> perhaps you recall the startrek show that featured aliens called 'the borg'.  </s>
+<s> each alien member on the spaceship was connected to a network in a way that their brains combined to make something superpowered.  </s>
+<s> let's say you have a small lan of 50-100 pc workstations and each of these pc's has a 1tb sata hard disk.  </s>
+<s> let's also assume that users only use about 25% of that 1tb disk for applications and data on the local pc.  </s>
+<s> so a 100 pc lan has 75tb of unused disk space.  </s>
+<s> is there any software that would allow one to take unused disk space from each pc and add that capacity to a pool of storage space?  </s>
+<s> it would seem you could even use striping and mirroring of data over multiple pc's for performance and reliability.  </s>
+<s> in other words, could each pc contribute unused storage space to a big pool that a designated server could treat as one big storage space, as in a storage area network?  </s>
+<s> is this that old idea that is new again?  </s>
+<s> google microsoft dfs and see. the problems are such that anyone that wanted to do this would just do it.  </s>
+<s> those that can't deal with it, won't.  </s>
+<s> bob  </s>
+<s> from what i understand of dfs it cannot utilize all the unused storage space that lives on windows 7 or windows xp workstations.  </s>
+<s> it can only distrubute/replicate data between windows server 2003, 2008, 2012.  </s>
+<s> i would like to utilize all that unused storage space on all those workstations.  </s>
+<s> it appears dfs can't do that.  </s>
+<s> your post sounded as if you were going to write code, drivers to make this all happen.  </s>
+<s> at no point was windows listed in your top post so i thought, hey, that old idea.  </s>
+<s> these ideas were kicked around for years but as disk space costs dropped, the idea went with it.  </s>
+<s> you seem to want to try it again so why not?  </s>
+<s> in other words, you'll have to create it.  </s>
+<s> bob  </s>

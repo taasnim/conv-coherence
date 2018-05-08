@@ -1,0 +1,100 @@
+<s> hi all!  </s>
+<s> first, so people will know when they look, this is what i am dealing with: 5 computers on 1 network - 4 computers run on xp - 1 computer on windows 2000 all computers are on a single router govern by 1 linksys wrt350 n router.  </s>
+<s> 4 of the computers are wireless and 1 is physically connected to the router via your every day networking cable.  </s>
+<s> - 2 computers use linksys g wrt54 pci cards - 2 computers use whatever they came with since they are laptops (some sort of intel if i am not mistaken) all computers have ran the network setup wizard and are set to share files.  </s>
+<s> all computers are set to have their workgroup as the ever so traditional mshome.  </s>
+<s> now, for the issue.  </s>
+<s> depending on which computer that you use, whenever they are all on, they show up under mshome.  </s>
+<s> on some of the computers though, you try to access mshome, and it will not pull up at all and say that mshome is unaccessible. the thing that all the computers have in common though is that (of course this will not work if you cannot access the workgroup to being with) when i try to click on a computer to get pull up files or whatever from that computer, it gives me the message that the computer is unaccessible.  </s>
+<s> this never seems to be a problem in the morning when the computers are first turned on.  </s>
+<s> i can access and exchange information between the computers just fine, but when it gets to be about afternoon or so, they stop working.  </s>
+<s> any ideas what could be causing this?  </s>
+<s> i would love any help.  </s>
+<s> i have got to have these things operating the whole time.  </s>
+<s> the latest update killed my home network.  </s>
+<s> the firewall.  </s>
+<s> it also could be that the computers are sleeping and disconnecting from the network.  </s>
+<s> rick  </s>
+<s> if it was the firewall i'd expect issues in the morning.  </s>
+<s> the network neighborhood (nn) is not real time so we can't rely on that.  </s>
+<s> here's how to see which machines are alive.  </s>
+<s> click start, run, cmd and press enter.  </s>
+<s> now try... net view this should show which machines are up.  </s>
+<s> this is not going to match the nn so don't be lulled into thinking the nn is right.  </s>
+<s> i must decline explaining why this is.  </s>
+<s> bob  </s>
+<s> sorry about the wait guys.  </s>
+<s> i still got my day job to worry about .  </s>
+<s> this morning, my computers actually made a lair out of me.  </s>
+<s> i pulled everything up to find that they were not on the network this morning (not even under the net view).  </s>
+<s> -coryphaeus i am indeed running zone alarm on all the computers except one.  </s>
+<s> i disabled them (and will continue while trouble shooting), but it only seemed to help for only a moment on only one of the computers.  </s>
+<s> -rick most of the computers i intentionally do not set to sleep, but after your suggestion, i did go and recheck all of them.  </s>
+<s> there was only 1 computer that was set to go into sleep mode; i fixed it to where it would not do it.  </s>
+<s> -bob from the looks of it, none of the computers are on the network most of the time.  </s>
+<s> i have tried this over and over again, but keep getting this message (using the net view command): &quot;system error 53 has occurred the network path was not found&quot; it will indeed show most of the computers when they are all on the network, but there is one computer that will pull up all the others when you are on it, but it does not appear on the network at all to the other ones (when the network is working of course).  </s>
+<s> i was able to get the network up and going for a few minutes this evening messing with it, but when i tried the same stuff again, it did not work.  </s>
+<s> this whole thing appears to be completely random now.  </s>
+<s> something interesting of note, the back up hard drive that is hooked up to the router is always visible from my computer (one of the computers on the network).  </s>
+<s> another thing is that on the router, all the computers and their names are visible when i pull up the dhcp chart.  </s>
+<s> anyhow, hope this helps you help me .  </s>
+<s> thanks to all for continuing to help me.  </s>
+<s> that item is not real time and in this case doesn't help diagnose the issue. the net view results could point to a possible issue in the name of the workgroup or the other usuals of firewalls, sleep, etc. bob  </s>
+<s> tomorrow evening (cannot do it this evening), i will unplug the modem for my isp (btw, my connection is a sat.  </s>
+<s> connection, and the modem is supposed to act as a router itself, do not know if that could cause an issue or not) from the router and disable all the firewalls on all the computers to make absolutely sure that the firewalls are not causing this.  </s>
+<s> lets hope nobody wants to put a logic bomb in before it take it off .  </s>
+<s> as far as the naming issue, should i try making up a new workgroup to put all the computers under?  </s>
+<s> without the router to hand out ip addresses the machines may revert to self assigned addresses.  </s>
+<s> even hard assignment of addresses can fail since there is no dns to resolve what's what.  </s>
+<s> bob  </s>
+<s> what i meant was that i was going to unplug the modem (which as i understand is supposed to act like a router itself, as well as a modem, but it is not the main router for the network), and leave my wifi router plugged in.  </s>
+<s> that way i can take off my firewalls, because there will not be an internet connection, but leave the network intact.  </s>
+<s> i did not get a chance to work on it last night as i thought i would.  </s>
+<s> i will try and see if i can get it done sometime today.  </s>
+<s> what i meant was that i was going to unplug the modem (which as i understand is supposed to act like a router itself, as well as a modem, but it is not the main router for the network), and leave my wifi router plugged in.  </s>
+<s> that way i can take off my firewalls, because there will not be an internet connection, but leave the network intact.  </s>
+<s> i did not get a chance to work on it last night as i thought i would.  </s>
+<s> i will try and see if i can get it done sometime today.  </s>
+<s> well, i finally was able to get to it.  </s>
+<s> i unhooked the modem from router and disabled all the firewalls on all the computers (windows firewalls as well). the computers still showed to be connected to the router, but when i tried the new view, it still gave me the message that there was no list.  </s>
+<s> i also tried just using 2 computers on the network and got nothing.  </s>
+<s> do you have any other suggestions?  </s>
+<s> thanks raymon  </s>
+<s> takes time.  </s>
+<s> microsoft wrote a knowledge base article which pegs this time from a few minutes to weeks.  </s>
+<s> i expected this to fail since there was no dns and even with your change you can't expect instant results since there is still no dns and until microsoft's code runs for awhile to elect a master browser as well as all the machines to do their queries i can see where this should fail at first.  </s>
+<s> firewalls in the norton and mcafee products are well known to keep working even when disabled so the only fix for that is to toss them out.  </s>
+<s> i have yet to see these makers address this issue.  </s>
+<s> bob  </s>
+<s> here is my ignorance talking, but is there a way to manualy set the master browser?  </s>
+<s> my personal computer that is on the network is usually the first one to be turned on in the morning and off at night.  </s>
+<s> if i can set that, it would be perfect for it.  </s>
+<s> if not, is there anything else that i can do?  </s>
+<s> i really, really do *need* this network set up and running.  </s>
+<s> raymon  </s>
+<s> your goals appear to be mixed.  </s>
+<s> i take it that mcafee is still installed so as long as it's there why should this ever work?  </s>
+<s> i am not offering any fix for defective products here.  </s>
+<s> how could i? there is also the use of the hosts file when you don't want to implement a dns and you have no time for the master browser elections to take place.  </s>
+<s> articles about this are next: is only the beginning... finds the articles about the hosts file.  </s>
+<s> i wonder if you want this to just work?  </s>
+<s> if so why not proceed to setups that are known to work (sans norton and mcafee products?) this is your choice and your time here.  </s>
+<s> i don't like to futz with such so i just move forward to make it work.  </s>
+<s> if i have a client that insists on mcafee or norton then i show the issue with test software and ask them to call the makers for a fix.  </s>
+<s> i ask them to schedule a new appointment when they get that done.  </s>
+<s> another fine tool is over at for those that don't want to futz with shares and accounts.  </s>
+<s> bob  </s>
+<s> sorry, for a few days life went from being hetic to staying up until 3:00 am to get my work done.  </s>
+<s> i did find the time to download network magic, and it looks promising, but one of the computers have now started acting up on me and i must reformate it.  </s>
+<s> so, i will try it later.  </s>
+<s> thanks for all your help.  </s>
+<s> i am going to look over what you sent me and see what else i can do.  </s>
+<s> raymon  </s>
+<s> first windows is retarded.  </s>
+<s> the easiest way to fix a network problen on windows is reset.  </s>
+<s> double click my network places, double click network setup wizard, follow instructions acorrding to your machine and configuration.  </s>
+<s> repeat for all computers.  </s>
+<s> problem fixed.  </s>
+<s> windows has a tendencie to forget what is told to do.  </s>
+<s> it has alzheimers.  </s>
+<s> you just need to refresh its memory  </s>

@@ -1,0 +1,16 @@
+<s> situation: fresh install of windows 7 ultimate 64 bit new hardware: (cpu, motherboard, ram, gpu and psu) so i'm getting these squares (5mm x 5mm) scratchy looking artifacts on the desktop, sometimes they blink sometimes they dont.  </s>
+<s> they vanish when i click around.  </s>
+<s> weird, i can only get a screenshot when it happens to the desktop screen, when other apps are open and they come out and then &quot;print screen&quot;, they dont show up on paint.  </s>
+<s> i then disabled the video card and use the mobo's integrated gpu instead.  </s>
+<s> after obseving, the artifacts dont show up anymore.  </s>
+<s> so i was certain i got a defective video card, and yes i managed to get it replaced by the vendor.  </s>
+<s> after another session of formatting and reinstalling of win 7 and the new video card, they showed up again.  </s>
+<s> so it wasnt video card after all.  </s>
+<s> my new theory is that the video card (pcie) slot in the mobo is defective.  </s>
+<s> is this possible.  </s>
+<s> help me diagnose this.  </s>
+<s> thanks  </s>
+<s> i first noticed the artifacts on the fresh install of win7, no graphics driver installed yet i then installed the driver that is included in the package of the gpu, artifacts show up i then installed latest driver, still artifacts show-up last test, i downloaded a trial version of win 7, still they show up.  </s>
+<s> i'm at my wits end.  </s>
+<s> i did have this happen on a failing video card, however.  </s>
+<s> the card had bad caps but even that could have been due to dragging down the ps. tell more about your hardware including the video card and ps wattage.  </s>

@@ -1,0 +1,98 @@
+<s> hi, apologies if this is obvious.  </s>
+<s> i was going to use windows 'disc defragmenter' but it said i only have 2% free space.  </s>
+<s> i'm getting a message now when i log on telling me to free up some disc space but there really is nothing else to get rid of.  </s>
+<s> all temporary internet files are gone and there are no more programs i can get rid of.  </s>
+<s> i'm wondering if its because windows (xp) has been installed on here a few times and whether there is anything i can do about it.  </s>
+<s> it says its 9.30 gb but that its all but used.  </s>
+<s> do you think re-installing windows would work?  </s>
+<s> i've never downloaded any music or video so i cant understand it.  </s>
+<s> i've downloaded and run treesize professional.  </s>
+<s> if anyone can help me make sense of the results...... it shows scan results for... 129.8 mb local disc (c:) 56.4 mb documents and settings (43.5%) 28.0 mb system volume information (21.6%) 25.9 mb windows (20%) 18.9 mb program files (14.5%) the taskbar shows c: as having a size of 10,660.7 mb with 9,193.3 allocated and 129.8 mb wasted i dont get it, bear in mind that i'm not sure what the difference between (c:) and c: is.  </s>
+<s> i'm running windows xp on fujitsu siemens p3.  </s>
+<s> you can run a program such as this to help delete all the temporary and junk files from the system.  </s>
+<s> they hide in many different places.  </s>
+<s> you can back up any data, photos, music, etc. to cdr., then delete it from your drive.  </s>
+<s> if you have a number of audio files in .wav  </s>
+<s> format, convert them to mp3.  </s>
+<s> this will free up space on the drive. the next option is to install a larger hard drive.  </s>
+<s> i saw a 80 gb at best buy last week for $39.99 after rebate.  </s>
+<s> click start, programs, accessories,system tools, diskclean up.  </s>
+<s> run diskcleanup and delete all the old junk.  </s>
+<s> if you now have over 15% free space you can defrag.  </s>
+<s> xp takes up over 1.4 gb of hd space.  </s>
+<s> it may be time for a larger hd. john  </s>
+<s> try doing a scandisk in dos sometimes it is just showing the wrong information and this could help if not try making a host drive that way you can store your information in one and free up a little space.  </s>
+<s> i had done this on my old computer and it worked quit well.or  </s>
+<s> just remove any unnecessary programs and just make links to certain windows that way you still have access to things without having to store it on your pc. just a thought to try.  </s>
+<s> buy a nice 36 gig drive and use small older drive as backup  </s>
+<s> as stated above, try diskcleanup.  </s>
+<s> if this does not work and you really need to defrag might i suggest turning off sysstem restore, reboot, and then attempt to run defrag again.  </s>
+<s> looking at your numbers, i see docs and settings at 43% but the numbers don't add up.  </s>
+<s> for all of those ms worshipers out there, it won't hurt to turn disk restore off for a bit.  </s>
+<s> it's a virus haven anyways.  </s>
+<s> c ?? maybe you have something hidden that perhaps you didn't put there.  </s>
+<s> use a tool that shows file size graphically to give you an idea what's soaking up the gigabytes.  </s>
+<s> i like freeware like scanner, sc-disk info or sequoia to find those space hogs.  </s>
+<s> i'd also use every freeware spybot search tool (they don't catch the same infections) and virus scan.  </s>
+<s> make sure you can see hidden files in the file explorer, and uncheck &quot;hide extensions for known file types&quot; which has hidden many a virus.txt.exe.  </s>
+<s> remember back to when the pc was new, and see if you can account for the excess space usage with the programs and data you've added.  </s>
+<s> if it all adds up to that 9 gigs...time for a new drive.  </s>
+<s> if it's a desktop, you can pop one in and move your data files to it without the headache of reinstalling any programs.  </s>
+<s> if you still can't account for the extra space, and you have original install disks and backups for everything, wiping it and reinstalling will bring you back to original condition and disk space, but it could take you a long time to restore everything to the way you like it.  </s>
+<s> especially those things you forgot to back up!  </s>
+<s> hello,i have known people that have put xp on and then reinstalled it and later reinstalled it again,only to find that it did not take the first install off so the drive was full.the only thing was to download all that he wanted on to cds and then format the drive and get rid of all that was not wanted.then  </s>
+<s> install xp and this did clear the drive.  </s>
+<s> regards yohan.  </s>
+<s> scan disk requires 15% free drive space for it to work.  </s>
+<s> that's after the hd allocates what it needs for its own use, so for example, an 80gb is down to 74.5gb, after winxp is installed, roughly 2gb.  </s>
+<s> so you'd need at least 15% of 76gb to defrag that drive.  </s>
+<s> for some, turning off system restore and clearing temp internet files helps, but for most, it's simply not enough.  </s>
+<s> try looking for large files like music and video clips and either deleting them or backing them up on cd-rs or external hd. alternatively, you can purchase a 2nd ide hd. preferrably &gt;80gb, or however large your motherboard will accept i know a shareware defragger, perfectdisk only requires 5% free disk space.  </s>
+<s> that may be another option to consider as well.  </s>
+<s> else consider doing a fresh install of windows after backing up all your stuff.  </s>
+<s> this 'll save you time of defragging while making your whole drive anew. 2 birds with one stone.  </s>
+<s> my advice is to do a clean install of xp, assuming: 1) you have all your data files backed up.  </s>
+<s> 2) your system is new enough to recognize and boot with the cd only.  </s>
+<s> 3) you have a broadband connection so you can perform all the necessary updates after installing a fresh operating system.  </s>
+<s> using dialup to fetch updates will take hours!!!! downloading sp2 with dialup is an overnight job (266mb).  </s>
+<s> when you install xp, you have the option to do a &quot;clean install&quot; or a re-install which leaves all the drivers, programs and data.  </s>
+<s> delete all partitions and create a new partition for your c drive.  </s>
+<s> this can all be done right from your xp disc, no extra software is needed.  </s>
+<s> with sp1 and sp2, the space taken should be less than 3.5 gb.  </s>
+<s> first off, i concur with the recommendations to upgrade the size of your hard disk.  </s>
+<s> even if you free up some space now to allow the defragmentation utility to run, you're going to keep running into the size ceiling over and over until you're ready to tear your hair out by the roots.  </s>
+<s> some things to try in the meantime: 1. decrease the amount of reserved space used for temporary internet files.  </s>
+<s> even if you clear your temp internet files, this space is reserved by the system and will always take up the room specified by this setting.  </s>
+<s> go to tools, internet options, general tab, temporary internet files, settings.  </s>
+<s> move the slider or use the arrows to change the amount of reserved space.  </s>
+<s> while you're there, change the number of days to keep history from the default of 20 down to somewhere between zero and five.  </s>
+<s> 2. check the size of your system cache (virtual memory).  </s>
+<s> you may have too much space reserved in the system managed minimum and maximum settings.  </s>
+<s> caution: do not disable virtual memory or set it to zero!  </s>
+<s> right-click on my computer, select properties, advanced, performance settings, advanced, virtual memory, change.  </s>
+<s> look toward the bottom to see how much is recommended, minimum, and currently allocated.  </s>
+<s> changes you make here can prevent your computer from being able to start up, so if you're not sure of what you're doing or you're not comfortable with changing anything here, don't do it.  </s>
+<s> if you do make a change here, you will be prompted to reboot for the changes to take effect.  </s>
+<s> 3. go to the control panel, add-remove programs and delete any programs you no longer need.  </s>
+<s> same goes for installed windows compononts.  </s>
+<s> 4. do a search for all files called *.tmp, *.~*, and *.$*.  </s>
+<s> you can safely delete 90% of these.  </s>
+<s> to bypass the recycle bin, hold down the shift key when you press delete.  </s>
+<s> 5. buy a larger hard drive!  </s>
+<s> good luck!  </s>
+<s> whenever i have a defrag problem, i have found that by booting into safe mode and runningthe defrag from there works.  </s>
+<s> i agree that you should get rid of the .tmp  </s>
+<s> files, those will clutter up a system like ants at a picnic, and it will give you more room to work in.  </s>
+<s> so see what temp files you an get rid of, there may be some help files that aren't needed also.  </s>
+<s> reboot into safe mode, run scandsk first and then run the defrag.  </s>
+<s> by doing it from the safe mode, you don't have all of the drivers loaded into memory that will cut down on how much ram you can use.  </s>
+<s> ed  </s>
+<s> internet explorer may be using too much space.  </s>
+<s> try this: click on &quot;tools&quot; in internet explorer then click on &quot;internet options&quot; then click on &quot;delete files&quot; after this click on &quot;settings&quot; and then reduce the space explorer uses to 50mb this is the recomended size  </s>
+<s> i use hibernate option and find that this adds a file hiberfil.sys  </s>
+<s> to the root directory.  </s>
+<s> the size is that of the system ram (1 gbyte in my case).  </s>
+<s> when i defrag i turn off hiberate and delete this file.  </s>
+<s> i wonder from your data if the hard disk is partitioned? the data you report seems to be only for the root partition.  </s>
+<s> if so move some of the data to another partition.  </s>
+<s> good luck.  </s>

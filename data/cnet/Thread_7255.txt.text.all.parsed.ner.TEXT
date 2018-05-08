@@ -1,0 +1,11 @@
+<s> i`m getting a new hard drive today, a 500gb wd cavaire sata.  </s>
+<s> i`m thinking of transfering the data from my 120gb hd i have now then restoring that one back to xp mce to put back in the computer i used to frankestine my computer i using now.  </s>
+<s> i`ve built my computer but i wouldn`t exactly call myself an expert so i was wondering if anyone out there could help me go about this the right way. the hard drive is an oem part so i dont know whats in the box as far as software.  </s>
+<s> put the new drive in as a secondary drive.  </s>
+<s> you will get a cd with it that will allow you to copy one drive to another (digital lifeguard tools).  </s>
+<s> once that is done, swap the drives out and boot up with the new sata drive.  </s>
+<s> make sure everything works!  </s>
+<s> be sure you setup the sata as the boot drive in setup first.  </s>
+<s> put your old drive into the other hardware and run a recovery disk or fresh install to restore the other xp. this assumes your current working hardware with the 120gb drive supports sata.  </s>
+<s> the 120g is iede or whatever the 500g is sata  </s>
+<s> i`ve installed the drive and when i booted up its not listed in my computer but its on the hardware list and the safely remove hardware tray icon is up with my hd being the hardware safely remove  </s>

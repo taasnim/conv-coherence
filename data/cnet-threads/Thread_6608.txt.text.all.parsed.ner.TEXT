@@ -1,0 +1,42 @@
+<s> wow....what a struggle with linksys.  </s>
+<s> i have the wrt300n wireless router in my basement and i get a very weak signal upstairs on my laptops and xbox 360.  </s>
+<s> so i got online with the linksys chat and they said i needed to purchase a wap54g access point.  </s>
+<s> got it home and could not get it to work, went back online in chat with linksys and they said &quot;oh no sir that is not compatible with your router&quot; and that i needed to purchase the wre54g range expander.  </s>
+<s> once i again i got back home with the new equipment, low and behold it would not work!!!. for the 3rd time now i got back online with linksys and spent about 1.5 hours chatting with somebody trying to get it to work.....nothing!! and on top of that the person from linksys i was chatting with suddenly gave up and would no longer talk to me. the next day i decided that i would not go online but would call directly to the linksys support.  </s>
+<s> after i gave them my name and info i explained to them my problem and the first thing they said is &quot;oh no sir, the equipment you have is not compatible, but, i might be able to help you configure it so it will work.&quot;  </s>
+<s> and this is how it went....!! first of all the computer or laptop must be hardwired to the router.  </s>
+<s> second, the wre54g must also be hard wired to the router.  </s>
+<s> then, reset the wre54gn by pressing the reset button for at least 30 seconds.  </s>
+<s> (you probably get a blue and red steady light....that is fine).  </s>
+<s> hopefully, if all goes right, this will allow you to now communicate with the wre54g.  </s>
+<s> (auto configuration is not possible).  </s>
+<s> now to test this: go into your start menu and click on &quot;run&quot; and type in the comannd &quot;cmd&quot;....this will give you a dos prompt window.  </s>
+<s> now type in &quot;ping 192.168.1.240&quot; (this is the preset ip address of the wre54g.) at this point you will get several lines of numbers and stuff...ignore everything except at the bottom where it say's &quot;packets: sent = 4, recieved = 4, lost = 0 &lt;0% loss&gt;.  </s>
+<s> if this is the case then you are looking good!  </s>
+<s> now, open a web browser and type in 192.168.1.240 and wait for the linksys page to come up from your wre54g.....when/if this does come up then you have won the battle!  </s>
+<s> next, and this is also very important.  </s>
+<s> in the configuration of your wre54g the ssid must be the same as your router!!!! otherwise they will not communicate with each other.  </s>
+<s> also the channels should be the same.  </s>
+<s> now click on &quot;save setting&quot;, and it this time or shortly there after you should have 2 blue lights on your wre54g.  </s>
+<s> at this time you can unplug it and place it anywhere in your house!!! please note: at the time of all this configuration my security on my router was disabled and later also on my expander.  </s>
+<s> my signal now upstairs is now &quot;excellant&quot; and the signal is maxed out on my xbox 360.....now i have to figure out how to enable my security and at the same time not loose connection to my wre54g.  </s>
+<s> i hope this was of some help to somebody out there and i appologize for this being so lengthy..... michael if you have any questions or helpful tips for me then please drop me a line..... mjdecker0922@yahoo.com  </s>
+<s> thanks!  </s>
+<s> hi santana0922; what if you try to disable the ssid broadcast in youor router?  </s>
+<s> at lease no one can connect unless he know the ssid.  </s>
+<s> am i right ?  </s>
+<s> can you try it and feed us back please ?  </s>
+<s> thanks for your effort.  </s>
+<s> update the firmware in your linksys router broadcast ssid(change the name this time to make connecting easier) use wpa security mixed b and g mode, there may be some setting to also include n use channels 1, 6 or 11. devices work better on these channels.  </s>
+<s> might i also suggest moving the router from the basement.  </s>
+<s> a basement os no place to get good reception.  </s>
+<s> find a nice place in the middle of the house or an upper floor.  </s>
+<s> you'll be ok. rick  </s>
+<s> there is no linksys repeater for n wifi that i know of. it is working with the g broadcast from your n router.  </s>
+<s> just wanted to clear that up.  </s>
+<s> with wep, do not use the installation wizard.  </s>
+<s> simply follow the manual set up instructions in chapter 6 in the manual.  </s>
+<s> no problem at all.  </s>
+<s> ur instructions are like 100 times better than chatting with the online support who simply said: &quot;sorry its not compatible&quot; it worked!  </s>
+<s> basement is all wirelessly &quot;hooked&quot; up.  </s>
+<s> ps3!! whoooooo thank you.  </s>

@@ -1,0 +1,6 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (VP (AUX been) (VP (VBG tring) (S (VP (TO to) (VP (VB play) (NP (DT a) (NN game)) (PP (IN on) (NP (NN pogo))))))))) (. .)) )
+(TOP (FRAG (NP (NN com)) (, ,) (CC but) (S (NP (PRP i)) (VP (AUX have) (NP (NP (DT a) (ADJP (JJ pop) (PRT (RP up))) (NN blocker)) (VP (VBG blocking) (NP (DT the) (NN game)) (PP (IN from) (S (VP (VBG popping) (PRT (RP up))))))))) (. .)) )
+(TOP (SBARQ (WHADVP (WRB how)) (SQ (AUX do) (NP (PRP i)) (VP (VP (VB find) (NP (PRP it))) (CC and) (VP (VB turn) (NP (PRP it)) (ADVP (RB off))))) (. ?)) )
+(TOP (S (NP (JJS most) (JJ pop-up) (NNS blockers)) (VP (AUX have) (NP (NP (DT a) (JJ key) (NN stroke)) (SBAR (S (VP (TO to) (VP (VB override) (NP (DT the) (VBG blocking)))))))) (. .)) )
+(TOP (S (VP (VB try) (VP (VBG holding) (PRT (RP down)) (NP (NN ctrl)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (NN click) (PP (IN on) (NP (NP (DT the) (NN link)) (PP (IN for) (NP (DT the) (NN game)))))))))) (. .)) )
+(TOP (S (ADVP (RB also)) (SBAR (IN if) (S (NP (PRP you)) (VP (AUX are) (VP (VBG running) (NP (JJ xp) (NNS sp2)))))) (, ,) (NP (PRP you)) (VP (AUX have) (PP (IN in) (NP (CD ie))) (PP (IN under) (NP (NP (NN &quot)) (: ;) (NP (NN tools&quot)) (: ;) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB control) (SBAR (WHNP (WDT which) (NNS sites)) (S (VP (VBP allow) (NP (NN pop) (NNS ups))))))))))))) )

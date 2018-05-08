@@ -1,0 +1,57 @@
+<s> hello, inexperienced person here, but wanting to learn and thankful for this forum!  </s>
+<s> ok, what i am trying to do is help a friend.  </s>
+<s> because i have done a little web design for him he has come to me with a networking problem.  </s>
+<s> however, i know little to nil about networking.  </s>
+<s> -he owns restaurant.  </s>
+<s> -wants to run pandora on outside dining area for patrons through a blue-ray to a tv. -wants it wired.  </s>
+<s> -have not been there yet to (try to) troubleshoot myself.  </s>
+<s> but i have a feeling i'll end up here anyway.  </s>
+<s> -the pos (machine they take orders on) (windows xp os) connects to 2wire modem/router provided by dsl company.  </s>
+<s> -then runs to what he says is a netgear ethernet switch through drop ceiling.  </s>
+<s> -then runs to the sony blue-ray, connected to tv. -says it detects the connection but no internet.  </s>
+<s> -what could be the most common cause that i might try.  </s>
+<s> says network diagnostics function on blue-ray menu does say make sure dhcp is enabled.  </s>
+<s> my best diagnostic is to take my laptop to that sony and unplug the ethernet and try it on my laptop.  </s>
+<s> my bet is the laptop can't use that ethernet connection.  </s>
+<s> why is not in the clues provided so i'll share my testing method.  </s>
+<s> bob  </s>
+<s> hey r, thanks for your help man!  </s>
+<s> he tried his laptop at where the sony blue-ray is and the laptop did not work.  </s>
+<s> so, you were right, as anticipated!  </s>
+<s> &quot;why is not in the clues provided so i'll share my testing method.&quot; please do sir.  </s>
+<s> what should i do from here?  </s>
+<s> btw he did send me a picture of the labels affixed to the devices... the 2 wire model is: 2701hg-b the netgear switch is: fs605na  </s>
+<s> go back to the other end of that cable and see if the port there works.  </s>
+<s> if not, dead port.  </s>
+<s> if working i hope you see it's the cable.  </s>
+<s> follow the rabbit down the hole so to speak.  </s>
+<s> bob  </s>
+<s> could it be something other than a dead port or cable?  </s>
+<s> some other configuration problem?  </s>
+<s> also, the blue-ray did recognize the connection from the netgear ethernet switch.  </s>
+<s> it was however unable to connect to the internet.  </s>
+<s> he has sent me a picture of the label on the devices: the 2 wire model is: 2701hg-b the netgear switch is: fs605na  </s>
+<s> you've found that this end doesn't work so you take the laptop to the other end and connect to the port with another cable to test that point.  </s>
+<s> i don't want to upset you but i hope the usual answers help.  </s>
+<s> bob  </s>
+<s> ok will try directly at the ethernet switch with another cable and get back to you bob.  </s>
+<s> thanks!  </s>
+<s> - the cable is good from 2wire to netgear - he tried to plug laptop in directly to netgear switch, did not work.  </s>
+<s> - nothing else connect (at this moment) other than the blue-ray.  </s>
+<s> driving me crazy.  </s>
+<s> i don't know what the fix is. the netgear switch is brand new.  </s>
+<s> i wanted to just test by bringing my regular ol' router from my house and replace the netgear switch with it, then the thought occurred to me that there will be two routers connected and that won't work.. or, at least i don't know how to configure two wireless routers on one network.  </s>
+<s> is the answer somewhere in the dhcp settings of the 2wire modem/router?  </s>
+<s> if so, what settings need to be changed?  </s>
+<s> help  </s>
+<s> this doesn't mean the cable is good but now you know it's back at the switch.  </s>
+<s> but you didn't reveal if all ports were dead as well as if they network is valid or not.  </s>
+<s> for example without a router in the dsl box you would get one machine to connect and that's it.  </s>
+<s> but we are this many posts and the dsl 2-wire settings are eluding me.  </s>
+<s> -&gt; but you are right.  </s>
+<s> the second router should not work but for another reason.  </s>
+<s> it's not the 2 router issue since we do that all the time.  </s>
+<s> it's the dead port issue.  </s>
+<s> next test is to use the connection from the dsl 2 wire directly.  </s>
+<s> if that fails you call the dsl folk in.  </s>
+<s> bob  </s>

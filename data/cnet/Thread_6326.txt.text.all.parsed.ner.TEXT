@@ -1,0 +1,9 @@
+<s> im looking for the knowledge of cache system organization on i7 processors.  </s>
+<s> if anybody can help me i should like to know: the type of organization of the different levels of cache, i.e., if they are associative, direct mapped or n set associative. the answer in clock cycles of a cache reading.  </s>
+<s> i suppose that level 1 will be read in 1 clock cycle.  </s>
+<s> and what about cache level 2 and level 3? is the memory interface which generates the wait state if there is a cache miss on level 1 or is level 1 by itself?  </s>
+<s> are the different levels of cache inclusive or exclusive? the policy of writing is write through or write back?  </s>
+<s> you'll want to collect the related documents listed in  </s>
+<s> i thank you for your sugestion, but i couldn't find any topic related to what i'm looking for.  </s>
+<s> just break down and call intel and ask for them to tell you exactly which document you need.  </s>
+<s> bob  </s>

@@ -1,0 +1,25 @@
+<s> hi all, i have a old, 2000, gateway desktop with no usb 2.0 ports.  </s>
+<s> i have bought a ali 6 port usb 2.0 pci card hoping that it would be easy peasy but no way... the ports are showing in my hardware device but every thing i connect to the pci card ports wont be recognized or work properly... if i connect to the mainboard usb 1.1 ports everything is fine... installed sp2 windoes xp professional, upgraded my bios, did everything i could but the pci card, though showing the ports, wont recognize external hdd's, cameras etc... any help id much appreciated.  </s>
+<s> cheers fernando  </s>
+<s> sometimes it's the motherboard drivers.  </s>
+<s> but your post didn't reveal what motherboard chipset you have, the exact model of the machine and .. details.  </s>
+<s> review and hope you find it.  </s>
+<s> bob  </s>
+<s> those are two things to consider.  </s>
+<s> if there's a way for you to test that card in another pc- that would eliminate one variable.  </s>
+<s> another possibility would be a conflict with another device.  </s>
+<s> go into device manager & see what irq is assigned by going to view&gt;devices by resource.  </s>
+<s> sometimes changing slots or even removing the one pci device that's sharing the irq, installing your card, then reinstalling the first device- can get it recognized properly (shutting down & restarting for each).  </s>
+<s> tracy  </s>
+<s> any question mark or yellow exclaimation point?  </s>
+<s> do you see enhance 2.0 usb there?  </s>
+<s> have you checked to see if the usb card manufacturer has updated drivers available for it?  </s>
+<s> i installed a compusa usb card a while back and was having some weird problems with it at first.  </s>
+<s> i d/l'ed and installed some new drivers for it from a compusa web site and since then it seems to be working better (although i don't use the usb ports that much, so the apparent increased stability could just be coincidence or luck).  </s>
+<s> worth a look.  </s>
+<s> also, you might consider disabling the built-in usb ports if you can.  </s>
+<s> i mean disable them in the bios, not in windows (or at least, not just in windows.  </s>
+<s> i'm not sure if disabling them just in windows would help).  </s>
+<s> disabling them in the bios should free up some resources (most notably, one or more irq's), which should then be available for the usb card to use.  </s>
+<s> if your problem is due to irq sharing or is in some other way related to a lack of resources, that may solve the problem.  </s>
+<s> james  </s>

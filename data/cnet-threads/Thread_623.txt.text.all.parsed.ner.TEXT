@@ -1,0 +1,47 @@
+<s> my parents have told me they'd like to help me with getting my hard drives backed up.  </s>
+<s> i think the best solution would be to get a hard drive in an external enclosure, and clone the drives and partitions.  </s>
+<s> right now i have an 80gb hdd (which has a ~37gb xp partition with &lt;13gb free, a ~28gb w7 beta partition with &lt;20gb free, and the rest is ubuntu linux, which i can't see the capacity remaining from in windows), a 250gb hdd with ~10gb free, and a 750gb hdd (with a 509gb partition with ~65gb free, a 127gb partition with ~66gb free, and a ~61gb partition with &lt;5gb free). the 61gb partition on the 750g drive is a backup made a couple months ago at my parents' request of the 127gb partition (and squeezed down so it didn't take more space on the drive than needed), so i probably don't need to back that up, unless you all think i should.  </s>
+<s> also, i'm probably going to be needing to purchase a new hard drive (but i'll be paying for that myself) for main data storage in the not-too-distant future, as i'm starting to run a bit low on space on the drives i have.  </s>
+<s> (when i do, i'll want to retire the 80gb drive, and move all its partitions onto the 250gb drive (and juggle other things around as necessary).  </s>
+<s> in the meantime, i'm hoping that a 1tb drive would be sufficient to back up the drives i now have (which is actually 1.08tb, but there's more than .08tb of available space).  </s>
+<s> one thing though, while i'm willing to shrink partitions on the backup media as necessary, i'd rather not have to do that.  </s>
+<s> so.. after that long-winded rambling... what would you recommend for a backup solution?  </s>
+<s> a drobo is not an option, due to being several times over our price range.  </s>
+<s> personally, i'd prefer to get an internal 1tb drive that's good quality (looking at the $90-110 price range) and mount it in a good quality external enclosure (would like to get one under $30).  </s>
+<s> or, would i be better off just getting an external drive that is sold as such, and if so, will i be able to swap out the drive for a larger one later as needed without voiding the warranty (assuming i do the swapping out myself, not taking it to someone else to do it)?  </s>
+<s> as for the interface, my computer has usb 2.0 and firewire ports (mobo is a gigabyte ga-ma69g-s3h), and i would consider adding an esata card.  </s>
+<s> i really would like to keep the total price as low as is reasonably possible, but i don't want to get junk.  </s>
+<s> (if the total price is $85, i'd be worried, but if it is upwards of $150, i think my parents would balk at buying it for me.) as far as where to buy, i like newegg (yes i have to pay sales tax, but one of their distribution facilities is within 120 miles of here), but if you can recommend another vendor i'd be willing to consider it.  </s>
+<s> buy your own and put it into an enclosure of your choice.  </s>
+<s> what are your plans when this drive crashes?  </s>
+<s> that's what i was thinking - enclosure + hdd.  </s>
+<s> what do you mean by when the drive crashes - you referring to one of my existing drives, or this drive (which will be used as backups)?  </s>
+<s> i'm looking at getting a 1tb drive - don't want to pay more than $100-110 for the drive itself.  </s>
+<s> as for the enclosure, i'd like to keep it down below $30, but could go a little higher if necessary to get something that's good quality.  </s>
+<s> what should i look for in an enclosure?  </s>
+<s> i'd like esata support, but if it's not worth the price premium i won't worry about it (although i will require usb 2.0.) my mobo supports firewire as well, but preliminary research has revealed that 1394 support has a significant price premium.  </s>
+<s> also, what would be good for making sure it doesn't run too hot?  </s>
+<s> should i go with an aluminum enclosure, one with a fan, one with vents on the case, or combo or what?  </s>
+<s> also a few i've seen on newegg come with backup software, and a few that have esata support come with sata to esata brackets (which would use one of the 4 sata ports on my mobo.  </s>
+<s> (i have 1 sata drive in there right now, and hope to purchase a 2nd (separate from this backup solution) (1.5tb or 2tb) internal sata drive (plus another of equal size to back that up) within the next few months or so.) if it didn't come with an esata bracket, then i'd have to either use usb (or 1394 if it supported it but those are a bit pricey i think), or spend $15-25 on an add-on card with an esata port.  </s>
+<s> some of the products i'm looking at: internal hdds - 1 tb (1-2) enclosures: (1) , (2) , (3) , (4 - reg $49.99, $20 off w/promo code through 4-29) , (5) , (6) , (7-10) (if necessary - i.e. if i get an esata enclosure that doesn't come with an esata bracket): esata brackets: (1-4) , (5-6) add-on controllers in each above category, i'd only buy one item, and don't want to buy more than i need (for example if an enclosure comes with an esata bracket, i won't be buying a separate add-on bracket or card).  </s>
+<s> most of the enclosures say they support up to 1 tb, or up to 1.5 tb. was that only because that was the largest hard drives available at the time they tested it, or will it actually not support hdds larger than that?  </s>
+<s> i don't want to have to get a new enclosure later when it comes time to get a 2tb, 2.5tb, 3tb, etc hdd.  </s>
+<s> i've narrowed down my choice of enclosures to this one .  </s>
+<s> it's a usb 2.0 & esata enclosure with good ventilation, a fan, and is on sale until wednesday (4-29) for $30 (normally $50).  </s>
+<s> if i miss out on that deal, i'd be looking at either these two esata + usb 2.0 or this usb 2.0 enclosure.  </s>
+<s> as for the two with esata, they don't come with the esata bracket, so i'd be looking at getting one of these or these .  </s>
+<s> i've decided not to get a separate add-on controller card at this time, as it appears that my mobo supports hot swap sata.  </s>
+<s> as for the hard drive itself... i'm thinking that this western digital wd1001fals - $105 would be fine, or do you think this wd wd10eads - $95 is good enough?  </s>
+<s> just find a case that will support the drive you want.  </s>
+<s> my preference is seagate because of their pmr technology.  </s>
+<s> perpendicular magnetic recording takes up less space on the platter making data access faster.  </s>
+<s> i have at least 8 drives between my pcs, and my nas and they are all seagate pmr.  </s>
+<s> i can tell you this, for a fact, they are faster than standard lmr drives.  </s>
+<s> i've heard that some people have had issues with the 1.5tb (and possibly 1tb) seagate drives, but that the western digital ones are good.  </s>
+<s> i've had excellent experience with western digital myself - i have an 80gb wd800jb that i bought probably back sometime between 2002 and 2004 or so, and have had absolutely no problems with it.  </s>
+<s> (when i get another 1.5 or 2 tb (or higher capacity if it's available and the price/gb ratio is favorable relative to the curve) internal hdd sometime this year to expand capacity, i plan to retire the 80gb, and move everything onto the 250gb wd2500jb, or possibly onto the 750gb wd7500aaks.  </s>
+<s> (if i get a 2tb or higher capacity drive, i'll probably retire both the 80 and 250 gb drives.) do you think this rosewill rx-358-s enclosure is a good one? it looks like it has good ventilation, has a fan, aluminum case (for heat dissipation), supports usb 2.0 and esata (and comes with an esata bracket), and is on sale for $30 (with promo code) through tomorrow.  </s>
+<s> as for the drive, i'm mainly looking at the 2 drives in my post above yours, but if i go a bit cheaper there's a seagate (that's only rated 3/5 - the more expensive of the wds i linked is rated 5/5, and i really don't want to go under 4/5), samsung (not rated) and hitachi (4/5 rating).  </s>
+<s> would any of those be ok, or in this case would it be best to go with the $105 western digital?  </s>
+<s> reliability is extremely important to me - i expect this drive to last at least as long as my 80gb drive has lasted, if not longer.  </s>

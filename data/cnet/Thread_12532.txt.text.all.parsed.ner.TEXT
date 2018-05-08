@@ -1,0 +1,71 @@
+<s> i'm planning on building a amd 64 3200+ comp... aspire blue voice active cold cathode flourescence lamp aspire x-dreamer ii(black)case w/350w 6x 80mm fans asus &quot;k8v se deluxe&quot; k8t800 chipset motherboard sapphire ati radeon 9800xt video card, 256mb ddr, 256-bit amd athlon 64 3200+, 1mb l2 cache corsair xms 184 pin 512mb registered ddr pc-3200 western digital raptor 36.7gb 10,000rpm sata hdd samsung black 52x32x52 cd-rw drive samsung black 16x dvd-rom drive i'm not sure if the 350 watt power supply is enough, was going to upgrade to a 500 watt ps, but some ppl are telling me that the 350 is big enough please tell me what you think.  </s>
+<s> also let me know what you think of the computer... i plan to use it mostly for games and only a few games at any given time, (thats why the hdd is so small, but considering moving up to the 74 gig) i also have a 80 gb external usb 2.0 hd that will be hooked up too.  </s>
+<s> while the machine may work fine for months, eventually the &quot;just big enough&quot; power supply starts to age and the symptom is one like yours.  </s>
+<s> i'll supply an article about how to select the size and then another about how they lie about the rated size.  </s>
+<s> bob  </s>
+<s> hi, i got the same system with a radeon 9800 pro and a wd 160 gb. only one problem: hd is switched off at end of bios setup, then boots properly the xp system.  </s>
+<s> dont know the reason for the switch off at begin of session (350 w power supply should be enough but if not it could cause the problem).  </s>
+<s> i will post when the issue is solved.  </s>
+<s> anyone has an idea?  </s>
+<s> i will test a 400 w psu.  </s>
+<s> regs ralfonso  </s>
+<s> from 350 to 400 is not a big step to assure a move away from that possible issue.  </s>
+<s> i supplied articles why i add 100 watts more than the system requires.  </s>
+<s> bob  </s>
+<s> get an antec 430w psu.  </s>
+<s> right in the middle.  </s>
+<s> also , instead of the 9800 xt you should consider getting a nvidia 6800 or 6800 gt. the 9800 xt is still a great card though.  </s>
+<s> personally, i would go with st least a 400w power supply just to make sure i had enough.  </s>
+<s> if you shop around for the best price it doesn't cost that much to upgrade to more than enough power handling capacity.  </s>
+<s> also, i would probably skip the 10,000rpm drive and get a much larger 7200 for less money, then put my savings into loading up on ram.  </s>
+<s> i don't do much gaming, but i do video editing which is about equally resource intensive.  </s>
+<s> it has been my experience that maxing out processor and ram makes the most difference.  </s>
+<s> i have three 7200rpm drives totalling 480gb internal storage - and another 360gb external storage.  </s>
+<s> with an athlon 64 and 1.5gb ram i have had no problems with my hard drives being fast enough.  </s>
+<s> also, i installed a dual layer dvd burner which also handles cds plenty fast enough.  </s>
+<s> i also find that there is little difference between &quot;no name&quot; and brand name drives other than a (usually) major price difference - and i saved a drive slot by only using one drive.  </s>
+<s> of course, these are just my opinions based on my experiences - so do with them as you wish.  </s>
+<s> good luck.  </s>
+<s> as big as you cna get is best!  </s>
+<s> for a system like this i wouldn't go for less than 400w and if i couldn't afford this i would make concessions in the form of the dvd-rw to egt a larger power suply then buy this later.  </s>
+<s> if you can afford it, go for the 500w, i wouldn't think 350 is enough but it's really a matter of judgement.  </s>
+<s> not having enough power can cause your computer to turn itself off which is extrmly annoying ( not least becuase you losoe al unsaved work)  </s>
+<s> with what you're running, a 350-watt psu is more than sufficient... however, if you plan to overclock your components and upgrade in the future, then go for at least a 400-watt psu.  </s>
+<s> a good deal would be an antec neopower 470-watt psu.  </s>
+<s> if you wanna save some cash but still get a good deal on a very powerful power supply from the previous generation (late 2002-2003), try gunning for the antec trupower 550-watt psu.  </s>
+<s> since i'm commenting, i should add that your choice of registered memory is not the wisest one... it's expensive and limits your choices... only servers use registered ram, apart from the athlon64 fx-51.  </s>
+<s> unbuffered ram is definitely better and cheaper.  </s>
+<s> your 3200+ has a 1mb l2 cache... meaning that its a clawhammer from the 754 socket generation.  </s>
+<s> it's not a good upgrade path and may be phased out after the nforce 4/k8t890 boards are released.  </s>
+<s> furthermore, it uses a single channel memory controller instead of the 939's dual channel controller.  </s>
+<s> thus, it's performance isn't nearly as good as the 939 socket processors.  </s>
+<s> i also agree that you shouldn't bother with 10,000rpm drive... its cost isnt worth the small performance difference.  </s>
+<s> you'd definitely be better off with a larger capacity 7,200rpm drive.  </s>
+<s> i have been custom building my own pc's for about 6 years.  </s>
+<s> considering the vid card your using needs a minimum 300w ps i would want a little more than 350.  </s>
+<s> i would reccomend the antec true power 550 it's what i use.  </s>
+<s> a very solid ps good value and gives you a lot more upgrade abilty w/o a new ps.  </s>
+<s> try to always be forward looking.  </s>
+<s> good luck.  </s>
+<s> those links you posted were awesome, bob.  </s>
+<s> thg is a great resource i'd never seen before.  </s>
+<s> i'm sure i'll be using it a lot now.  </s>
+<s> thanks for the tip!  </s>
+<s> when i built my comp i wasn't sure what i would finish up with so i bought a q-tec 550w dual fan gold, which was on offer anyway.  </s>
+<s> i now have an athlon 2600+ on an abit nf7 s board with a fx5200 8x 128mb ddr graphics card.  </s>
+<s> i have 2 floppy drives, dvd rom and a dual dvd burner.  </s>
+<s> two hitachi desk star hard drives 120gb and 160gb, i have a canon s530d printer with a built in card reader and i have a front panel with 4 card readers.  </s>
+<s> iv put in 8 fans and it sounds like concord and runs like a dream with xp pro sp2.  </s>
+<s> ken  </s>
+<s> i forgot to mention i have 1536mbs ddr ram.  </s>
+<s> ken  </s>
+<s> bigger is better if you plan to add very many usb or firewire cards or one of the faster video or sound cards.  </s>
+<s> they eat a lot of power.  </s>
+<s> my custom build w/soyo dragon plus mother board started with a cheap 350 watt supply.  </s>
+<s> after adding way more extras than it could handle it went south.  </s>
+<s> a 420 watt was the largest one i could get locally on short notice, but if i could have found a 500w or 600w one i would have gone for the biggest one.  </s>
+<s> kylemad, good advice!  </s>
+<s> how noisy are the antec psu's you mentioned?  </s>
+<s> thanks, bill v  </s>
+<s> i had a query like this and i dropped the guys at psu a line and they sorted it out for me.  </s>
+<s> hope this helps  </s>

@@ -1,0 +1,18 @@
+<s> hi my pc seems to have a odd problem.when  </s>
+<s> i boot my pc, it shows the window xp desktop screen and then immediately shuts down(does not reboots).  </s>
+<s> but if i start the system, and go into the bios setup ,remain there for about 10 min and exit without saving, then it functions normally. is this due to weak cmos battery or something else.  </s>
+<s> pls help thanks  </s>
+<s> i had a similar problem, because some of the cables to the power button were loose.  </s>
+<s> and this caused the reset function to keep tripping.  </s>
+<s> just an idea  </s>
+<s> a virus(although i wouldn't suspect so) your power supply or bad hard drive.  </s>
+<s> i usually (in power related issues) say not to start the pc and have the power supply tested first. the reason?  </s>
+<s> if it stops your fans from working, you can get overheating issues, shutdowns, restarts and eventually lead to extreme enternal damage like a fried cpu and motherboard.  </s>
+<s> cheers, paul  </s>
+<s> in fact spinning when starting the pc. paul  </s>
+<s> yes, me too facing same problem.  </s>
+<s> if switched to bios, pc runs continuously.  </s>
+<s> have anybody a solution for this ?  </s>
+<s> regards,  </s>
+<s> i have recently scrounged together parts for a desktop i am building quit cool looking i might add but i find the same problem except my pc doesn't have windows installed on it yet and if i boot it up immediately it only turns on for a few seconds the longer i let it sit the longer it goes on for any help especially if someone is in geek squad or sommething like that  </s>
+<s> make sure if your power supply is over 2 years old it is time for a new one and if your cosmo battery is the same age replace it too if this doesnt work then you may need to reformat your os to a fresh copy as it could be a bad entry in your boot cfg file this could be caused buy several things so try these frist if they fail write back i will answer soon 33x1 ps use the defualt system setup option in your boot menu in the bios use it and save before reboot if you update the bios you will need to do this any way to load the new bio's  </s>

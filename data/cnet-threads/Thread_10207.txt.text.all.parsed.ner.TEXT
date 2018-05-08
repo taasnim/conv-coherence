@@ -1,0 +1,20 @@
+<s> hello, i recently tried to do a drag & drop from win explorer to burn a data cd.  </s>
+<s> it resulted in a major crash, where my computer couldn't even find my hard drive!  </s>
+<s> after a couple of reboots, everything was back to normal, but since then i haven't been able to burn anything.  </s>
+<s> when i start nero and select the files to burn, it starts normally then hangs about 10% into the process and crashes to a black screen that says windows experienced an unexpected bla bla bla. the message doesn't stay on the screen long enough for me to read the error number. the cd is garbage i don't want to do anything stupid or useless (like updating the firmware).  </s>
+<s> but i figure if the problem happened while doing a regular operation, there should be a simple enough cure for my problem... i just can't figure out what! i run win xp on a p4 1.6mhz 20g hd (generic) and the writer is an lg gce-8523b (not oem).  </s>
+<s> thank you for your time!  </s>
+<s> swan  </s>
+<s> my first thought would be to uninstall nero, reboot, and reinstall it clean as it sounds as if perhaps something in its files got trashed during your crash and burn.  </s>
+<s> toni  </s>
+<s> hi thanks for the reply.  </s>
+<s> at the time of the crash i was using nero express that came with the first cdrw i had on the computer.  </s>
+<s> i was just updating it from time to time.  </s>
+<s> i was thinking the same thing about nero.  </s>
+<s> so i uninstalled and bought the whole package, nero burn.  </s>
+<s> no changes, it still crashes... boy-o-boy... swan  </s>
+<s> actually seeing the burner device correctly?  </s>
+<s> i would go to nero's website to see if there are any device updates for your burner program......ezcd creator, which is what i use, has downloads available at their site that actually adds newer cdrw/dvdrw devices to the program's database so it will see the newer devices correctly.  </s>
+<s> i check that site like a second religion when i replace my burner device as they die.  </s>
+<s> there should be a setting somewhere within the nero program where you choose the source or destination drive (source is where the file is located that you want to burn.....destination is the drive device itself that will be doing the burning and that's what you want to check to make sure nero sees it right).  </s>
+<s> toni  </s>

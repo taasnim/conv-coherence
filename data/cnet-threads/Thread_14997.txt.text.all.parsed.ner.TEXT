@@ -1,0 +1,12 @@
+<s> thank you to anyone who reads this, i know reading about computer problems and trying to solve them for someone else can be frustrating.  </s>
+<s> anyways, recently my computer has been freezing, blue screening, and randomly shutting off completely.  </s>
+<s> whenever i go to turn it back on, i get &quot;bootmgr file is corrupt.  </s>
+<s> system cannot boot up.&quot; or a screen with the words &quot;detecting arrays...&quot; and that never goes anywhere.  </s>
+<s> if anyone has run across these problems, and know whether a certain part is going bad, or if i have a virus (which i doubt) i would be much appreciative.  </s>
+<s> thanks!  </s>
+<s> is interesting but may not apply.  </s>
+<s> that detecting arrays could mean that some custom raid was used and now you are feeling the pains of trying to fix a machine not ready for self support.  </s>
+<s> hope helps.  </s>
+<s> bob  </s>
+<s> to completely remove any errors reinstall windows with only 1 drive connected unless you are using raid then all drives have to be connected.  </s>
+<s> in all cases a clean install will erase your boot manager problems.  </s>

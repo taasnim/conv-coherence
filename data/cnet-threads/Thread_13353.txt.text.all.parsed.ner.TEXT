@@ -1,0 +1,78 @@
+<s> good afternoon, everyone.  </s>
+<s> i'm having some issues with my usb ports not functioning. the issue began after i turned off my desktop in order to install a new memory card.  </s>
+<s> after i installed the memory card and reconnected everything i went ahead and turned on my desktop as usual this is when i noticed my mouse and keyboard weren't functioning.  </s>
+<s> i've turned off my pc for several minutes, left it on for several minutes and tried all 12 usb ports and not a single one is working.  </s>
+<s> at this point i'm not sure what else i could do as every other remedy i've found online involves actually being able to use my keyboard and mouse.  </s>
+<s> if anybody has any suggestions i'd really appreciate it.  </s>
+<s> try a generic reset.  </s>
+<s> unplug everything from the pc desktop.  </s>
+<s> everything.  </s>
+<s> press and hold the power button for one minute, release and then plug in only what's needed.  </s>
+<s> see if it comes back.  </s>
+<s> bob  </s>
+<s> thanks for the reply bob.  </s>
+<s> yeah i tried that as well i unplugged everything from my pc and reset it, i've actually reset it a few times.  </s>
+<s> when i plug in my optical mouse for example the red light on the bottom of the mouse will blink very quickly and turn back off.  </s>
+<s> however, if i plug it into the usb port about half way the light fully turns on and then flashes on and off every three seconds or so. it just seems to strange that every usb port was working perfectly fine and all of a sudden all 12 aren't working.  </s>
+<s> again, remove all external things and power then try the usual open the case and gently but firmly unplug and plug all cables and cards back in.  </s>
+<s> i you find a dust convention, it may be time to get outside and use a few shots of canned air. the dust control will not fix this but i've reseated far too many cables and cards to write more than i always try that.  </s>
+<s> again, so little is told about the machine that i can't comment about power supply ratings, bad caps or much else.  </s>
+<s> bob  </s>
+<s> yeah i've done that as well, opened the case dusted it gently with pressurized air can etc the machine itself is running windows 7 on an i7 core 16gigs ram it has a 550 psu.  </s>
+<s> anything else that i could provide you with?  </s>
+<s> at the moment i have it turned on with just the keyboard and mouse plugged in.  </s>
+<s> i've also hear that it could be that the computer isnt recognizing the usb devices plugged in and so it's not feeding them power is that correct?  </s>
+<s> but given such slim details i can't make any good guesses.  </s>
+<s> 550 watts may be very slim for a gamer computer, that is if it has one of those video cards.  </s>
+<s> but look at the details.  </s>
+<s> no make, model, etc. but let's try something.  </s>
+<s> did you install a new pci usb 2.0 card and see if that works?  </s>
+<s> bob  </s>
+<s> let me look up the details and i'll get back to you on that one.  </s>
+<s> i was thinking the same thing in regards to the power unit, i'll probably be replacing it sooner than later as i do use it for gaming.  </s>
+<s> i also unplugged the front facing usb ports from within the pc itself and that didn't work either.  </s>
+<s> i was also thinking of simply replacing the front facing ports those do connect via a pci bus as opposed to the back ones which are connected directly to the mb correct?  </s>
+<s> device manager to see if there's any evidence of usb port issues there.  </s>
+<s> i've had usb port failures related to the southbridge component.  </s>
+<s> what i was able to note physically was that it got uncomfortably hot to the touch.  </s>
+<s> that shouldn't happen.  </s>
+<s> it did seem to occur while either inserting or withdrawing a usb device.  </s>
+<s> i decided to blame it on esd for lack of a better reason.  </s>
+<s> i was able to buy an add in card to gain usb function but the mb failed entirely within the next couple of months.  </s>
+<s> check device manager for usb problems.  </s>
+<s> well that's the problem since i can't use the keyboard and mouse there's really no way for me to do anything else other than what i've already done.  </s>
+<s> tried again this morning and it's still not working.  </s>
+<s> i think i'm going to have to pay my local tiger direct a visit.  </s>
+<s> when i see this issue i usually boot up a live cd called ubuntu to test the machine.  </s>
+<s> that lets me know if this is a hardware issue without installing any os. bob  </s>
+<s> you could borrow ps2 kb and try that.  </s>
+<s> the single ps2 port which it has is also fried.  </s>
+<s> i ended up replacing the front facing usb ports and they're now working, however now the dvi connectors aren't working which leads me to either the graphics card or the mb. i'm trying to find a mother board online so i could replace it however i'm unable to find the exact one my pc has.  </s>
+<s> it's equipped with an msi ms 7673 mb. i'm also trying to find another compatible mb in any case however i'm not having any luck on that front either.  </s>
+<s> maybe this is some hp and you are worried about the &quot;tattoo&quot; but i don't see anything special about this motherboard.  </s>
+<s> bob  </s>
+<s> i think i've found a motherboard that would work through the msi website.  </s>
+<s> still not 100% sure since this is the first time i'm attempting to do this.  </s>
+<s> all that usually happens is the os will need to be reloaded along with drivers.  </s>
+<s> remember that i never found the make/model of this pc. it would be a shame to find how this is a hp or other machine because we could head off a common headache.  </s>
+<s> bob  </s>
+<s> here's the specifics on the computer.  </s>
+<s> model # syx p67a c43 serial # 107478106.  </s>
+<s> i'm left to guess this is some home/shop made pc. the only possible gotcha is the os. oem versions may fail when the motherboard is replaced.  </s>
+<s> worst case is you buy another copy.  </s>
+<s> bob  </s>
+<s> should i try and find the exact same mb as the current one or simply find one that is compatible?  </s>
+<s> this is actually the exact pc i have.  </s>
+<s> i just found the exact same mb that my pc has through tiger direct for $120.  </s>
+<s> so i replaced the mother board and everything is working now.  </s>
+<s> however, when i'm trying to reinstall the os i'm getting an error that the hdd isn't installed.  </s>
+<s> the computer has a 1tb seagate barracuda, it has three different plus however only one of cables fits, the other 2 ports i don't have a cable for.  </s>
+<s> any suggestions?  </s>
+<s> i've seen that when the sata ports are set to raid in the bios.  </s>
+<s> it's a custom install where we feed drivers and maybe more.  </s>
+<s> i strongly suggest folk not do this if they are not deeply familiar with pcs and windows.  </s>
+<s> bob  </s>
+<s> win7 should work but i'll presume you have xp and it doesn't recognize sata drives with bios set to &quot;enhanced&quot; or &quot;achi&quot; modes.  </s>
+<s> you either set the bios to ide mode (which might be called pata or &quot;legacy&quot;) or you have the motherboard's 3rd party driver handy while pressing f6 when asked during the installation.  </s>
+<s> xp installs only accept floppy disks for these drivers.  </s>
+<s> you'd have to rely on your motherboard driver package to have this disk or for the cd rom to have the &quot;makedisk&quot; utility which can create a floppy for the enhanced mode drivers.  </s>

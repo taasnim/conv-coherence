@@ -1,0 +1,12 @@
+<s> i have a generic usb hub which installs correctly, but when i attatch certain devices to it (my usb tv tuner or cruzer micro flash drive), device manager no longer recognizes the hub, says it's an unknown device.  </s>
+<s> however, the hub works fine with other devices, like my logitech mouse and gamepad.  </s>
+<s> if i unplug the hub from my laptop and the devices that screw it up from the hub and then plug just the hub back in, it works fine again, but sometimes has to reinstall the driver.  </s>
+<s> so why does the hub work with some devices and not others?  </s>
+<s> it has enough power and all devices work on my onboard usb ports... (hp pavillion laptop, vista)  </s>
+<s> i think it's power related since when i slide in the powered hub, all is well.  </s>
+<s> if it's a non-external powered hub (aka you don't plug it into an electrical wall outlet as well as your computer), some items like a tv tuner and some flash drives draw too much power from the usb port on your computer, and the computer can only provide so much.  </s>
+<s> the hub gets to have such a low power output after those devices are plugged in, it can't even communicate with the computer.  </s>
+<s> buy one with an external power connection or just don't use devices on it that make it fail.  </s>
+<s> that would make sense, but why wouldn't it work with my flash drive?  </s>
+<s> that doesn't use nearly the power availiable?  </s>
+<s> (the tv tuner uses 500 of 500 availiable/port, maybe it's not really providing the full 500)  </s>

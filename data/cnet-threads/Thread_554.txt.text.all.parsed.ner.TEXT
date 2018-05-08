@@ -1,0 +1,10 @@
+<s> i recently purchased an ati video card strictly because of the tv out feature (i play online poker and it would be very nice to be able to play in my recliner) the card i bought with tv out is a pci card. the video card that came with my computer is built in to my motherboard.  </s>
+<s> whenever i try and boot up with my new card, the computer will freeze shortly after it boots.  </s>
+<s> i have disabled and uninstalled the first video card with the device manager but it continues to freeze.  </s>
+<s> i believe that it is a conflict with the 2 cards but how do i get the computer to just forget about my first card since i cant take it out..... any help would be much appreciated.... thank you!  </s>
+<s> sounds like you must go into the bios, by booting without the new video card, and look for an option to disable the on board video.  </s>
+<s> some systems will automatically detect a video card has been added so the other will work, but yours apparently is not capable of this.  </s>
+<s> you will find out that tv out is pretty low quality on a tv, it is extremely grainy and only acceptable at 640x480 resolution.  </s>
+<s> you have to go into bios by hitting delete at the beginning of the boot and then somewhere in there you can disable the onboard video card.  </s>
+<s> with some systems you hit delete.  </s>
+<s> with others you hit f1 or f2 or f10 or other combinations.  </s>

@@ -1,0 +1,26 @@
+<s> okay, it's not all that often that i cannot resolve my own computer problems with a little time and energy searching the internet, but i thought i would just ask if anyone else is having similar issues.  </s>
+<s> with both the august and september versions of the ati catalyst software suite and drivers, my system experiences extreme slowdown to the point where i can barely even open the task manager.  </s>
+<s> when it does open, i find the explorer.exe  </s>
+<s> process using nearly 100% of the cpu, and the cpu is never released for other processes.  </s>
+<s> the september version actually caused my system to lock up--sometimes immediately after typing my password to log into windows.  </s>
+<s> after about 2 1/2 hours, i was finally able to fully pull all traces of the new drivers out of my system (using revo uninstaller) and install the july catalyst version, which seems to work perfectly.  </s>
+<s> i'm posting my system specs below for comparison, but i was wondering if anyone else has been having this type of issue with newer catalyst releases.  </s>
+<s> i have one more question, which i'll get to after the specs.  </s>
+<s> abit kv-85 motherboard amd sempron 2800+ 1 gb of pc3200 ddr sdram windows xp sp 3 with all current updates ati radeon x1650 pro, 512 mb ram (no onboard video on the motherboard) soundblaster live!  </s>
+<s> 24-bit sound card these are the critical internal components, but if you think i need to post the rest of the hardware, let me know.  </s>
+<s> my other question concerns removal of the catalyst suite.  </s>
+<s> after the running the built-in uninstaller and rebooting, if i open revo uninstaller, it will still show a number of different components associated with the catalyst control center, such as core blending, graphics full existing, graphics full new, et al. in order to uninstall them using revo, you have to uninstall each one of them manually; even the most advanced scan won't remove all of them simultaneously, and there are about 10 or so such components total.  </s>
+<s> so, is there a reliable way to ensure that all traces of these drivers are removed through one uninstaller?  </s>
+<s> just for the record, last night, i also downloaded a tool from ati's site that is supposed to do that, but even it didn't work.  </s>
+<s> i think that's because it's such an old utility, and i couldn't find a more modern one.  </s>
+<s> i appreciate any information.  </s>
+<s> i can get by with the july release of the drivers as they work just fine; i'm mainly trying to determine if i'm having some kind of system issue or if ati/amd is just getting really sloppy with its driver releases.  </s>
+<s> thanks again.  </s>
+<s> and there's no need to update drivers since they're only going to concentrate on the latest two generations (hd 4000/3000).  </s>
+<s> stick with what works unless a driver promises to cure so specific issue you're experiencing.  </s>
+<s> p.s.: i have no issues with my hd 4850 and the 8.8 (august) drivers and won't be upgrading to 8.9 (september).  </s>
+<s> well, that's interesting to know.  </s>
+<s> i'm really having no issues with the july driver, so i guess i'll stick with it for now.  </s>
+<s> i just think it's interesting that the release notes (i read those before downloading any video driver update) claim to support this particular card, and yet the drivers essentially crash my computer.  </s>
+<s> false advertising, anyone?  </s>
+<s> anyway, thanks again for the information.  </s>

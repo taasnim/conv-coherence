@@ -1,0 +1,17 @@
+<s> i am running an asus p4p800s-x motherboard with a p4 3.0ghz cpu, 1gb of ddr ram consisting of two 512 chips, and an asus radeon 9550se vga card.  </s>
+<s> recently i started having problems on boot-up where during the boot sequence the computer would freeze when it reached the nvram check. the screen will say: ddr frequency 400 mhz checking nvram.. and then it stops booting up.  </s>
+<s> if i turn off the power and reboot it then gets past that part on the second boot sequence and shows the following message instead: overclocking failed!  </s>
+<s> please enter setup to re-configure your system.  </s>
+<s> then i press f1 to enter the bios setup, exit the bios without changing anything, and the computer boots up fine thereafter.  </s>
+<s> this problem now happens every time i boot my pc from having been in a powered off state.  </s>
+<s> at first i thought maybe the ram chips were loose so i took them out and swapped the ram slots just in case, but that didnt help to get rid of the problem.  </s>
+<s> now i am thinking it may be a bios setting, but i am not sure what i would need to reset in the bios to fix the problem.  </s>
+<s> any ideas would be kindly appreciated.  </s>
+<s> did you accidentally set the jumpers for the cpu to settings that would overclock it?  </s>
+<s> or did you try overclocking accidentally (chaning a setting thinking it was something else?) another idea would be to contact asus or just download the newest bios from asus for your board  </s>
+<s> thank you ozos.  </s>
+<s> i have not changed any jumper or any other settings on the bios as far as i know.  </s>
+<s> &lt;p&gt; the only recent change to the pc was the addition of one of those optical mouses with all kinds of lights inside.  </s>
+<s> maybe the extra power demand is causing a problem?  </s>
+<s> &lt;p&gt; flashing the bios is a good sugesstion though.  </s>
+<s> i will start there by checking to see if there is an update available from asus.  </s>

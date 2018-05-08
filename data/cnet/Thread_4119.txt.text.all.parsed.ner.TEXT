@@ -1,0 +1,560 @@
+<s> question: video card performance deteriorated in a short period of time, please help!  </s>
+<s> several months ago i installed an ati radeon sapphire hd3850 agp graphics card in my aging windows xp machine to give it more gaming oomph. the card features 512mb of ddr3. the performance improved immediately.  </s>
+<s> i was able to play bioshock and call of duty 4 at 1,440x900 pixel resolution without a hiccup. the graphics were smooth with no lag or jerkiness.  </s>
+<s> suddenly, now the games don't run well at all. the motion is choppy and the response to mouse or keyboard commands lags.  </s>
+<s> i tried adjusting the game settings to lower resolution and shutting off some of the shadowing etc., but the problem persists.  </s>
+<s> i am running an intel p4 3.0 ghz processor with 3 gigs of ram. the video driver is up to date.  </s>
+<s> any suggestions would be greatly appreciated.  </s>
+<s> im tired of pulling out my hair on this.  </s>
+<s> (i have very little left anyway .  </s>
+<s> thank you in advance for your attention and consideration.  </s>
+<s> --submitted by robert f. here are some featured member answers to get you started, but please read through all the member advice and suggestions within the discussion thread.  </s>
+<s> roll back the driver --submitted by gr8tdane_10 video card performance deteriorated... --submitted by brechan likely software problem --submitted by glen271 one word - sapphire... --submitted by darrenforster99 more info required --submitted by sound-byte stab in the dark --submitted by flatworm a few suggestions --submitted by warpete read all member contributions to this topic thanks to all who contributed! if you have any advice or recommendation for robert, please click on the reply link below and post it.  </s>
+<s> please be as detailed as possible when providing a solution.  </s>
+<s> thanks!  </s>
+<s> now this is a very wild stab, but check the capacitors on the board.  </s>
+<s> i had a video card go bad, pulled it, and as i understand, there were a bad set of caps imported that went onto several boards.  </s>
+<s> the slit top on them literally looked like a jiffy pop top after cooking. the fix was less than $8.00 to get replacements and solder them in.  </s>
+<s> works like a charm again.  </s>
+<s> good luck.  </s>
+<s> as i said, this is a wild stab.  </s>
+<s> i had a similar problem with the same card, turned out it was the fan on the card was bad.  </s>
+<s> in the beginning it did whar your did, then the fan totally died.  </s>
+<s> had to rma the board.  </s>
+<s> my experience leans towards a heat issue somewhere in the system.  </s>
+<s> first place i would look is the card.  </s>
+<s> i have opened the side a put a big fan on it to see if it solves the problem.  </s>
+<s> buy an xbox 360 and play call of dookie there!  </s>
+<s> try reinstalling the card and all drivers and other software in came in.  </s>
+<s> get rid of everything, even settings (if that's possible).  </s>
+<s> after reinstalling, if the problem persists, then you got a hardware problem.  </s>
+<s> my experience in that area is not large so try what other people suggest.  </s>
+<s> *not really an answer but may help a bit* does the os run fine?  </s>
+<s> i had a similar issue with my pc but it was affecting the os at times also.  </s>
+<s> i found that parts of it where over heating, mainly my fsb chip.  </s>
+<s> i placed a 3 pin fan on top of video card blowing air on my fsb heat sink and problem goes away for a few hours.  </s>
+<s> i have a compaq presario mdl:sr1303wm, p4 2.8,i gig of ram.  </s>
+<s> ati:8250, 256 ram.  </s>
+<s> mine is doing the same thing for 2 mos.  </s>
+<s> now.  </s>
+<s> i haven't figured it out either.  </s>
+<s> i tend to agree with several other posters that the video card is most likely bad.  </s>
+<s> i've had three bad video cards in the last 4 years--2 of three were ati based.  </s>
+<s> if you have access to another video card or on-board graphics, i recommend you pull the card to see if your system stabilizes.  </s>
+<s> hopefully, that will isolate the problem to either your video card or pc. good luck.  </s>
+<s> perhaps your card overheated, or that your computer's power supply somehow stopped giving your card power, resulting in your computer reverting back to onboard graphics.  </s>
+<s> did you install any drivers for integrated graphics by any chance? it might force your computer to use integrated graphics again which may be the cause of your problem.  </s>
+<s> try rolling back the driver.  </s>
+<s> sometimes updated drivers aren't always best for your particular computer.  </s>
+<s> sometimes the bugs that are fixed in the new driver version create new problems.  </s>
+<s> i would also consider just downloading and reinstalling your new driver.  </s>
+<s> it is possible that the driver has somehow become corrupted.  </s>
+<s> lastly, check the operating temperature of your cpu and graphics card.  </s>
+<s> check that the fans are all working properly, and that there isn't a build up of dust on them.  </s>
+<s> to the best of my knowledge it could be a few different things.  </s>
+<s> first i want to say check your video game options for video settings.  </s>
+<s> then the settings in the video card's control panel, like performance and quality settings(antialiasing,anistropic filtering)make sure these are set to application controlled.  </s>
+<s> then check software options(screen saver, automatic wallpaper changer)if your running a skin changing program like style xp. also open up the pc and just take the video card out and reinstall it, the teeth could be misaligned somewhere or it could be defective product.  </s>
+<s> other than that i'd just reset the video options to default if everything else is to no avail.  </s>
+<s> you've introduced a newer high performance card into a system and haven't given any indication of your existing cooling setup...if you're using stock heatsinks and just have the power supply extracting air, then you can realistically expect other heavily used gaming components like the cpu and northbridge to be overheating...thermal throttling on the cpu (automatic speed cutback) can cause symptoms like what you have described.  </s>
+<s> intel stock heatsinks can do ok or normal use, but they need to be pretty clean for gaming use...you might want to look at puting a more capable heatsink on that 3ghz room heater, might turn out to be quieter too.  </s>
+<s> having a system that i had do the same thing, i found out that the processes that are running in the background should not exceed a certain amout.  </s>
+<s> xp runs an enormous amount of background processes, most are unneccessary and bloated at best.  </s>
+<s> my system could not have over 26 processes for the card to perform best, but as time and new programs installed, the processes increased and the video card performance lagged terribly.  </s>
+<s> so, i suggest that you seek information on the absolute least amount of proccesses you need and rid yourself of the bloat and all should be fine.  </s>
+<s> you can see the processes in the task manager of xp and using certain reputable websites, you can determine which are not needed and get to the point of good gaming.  </s>
+<s> i hope this helps.  </s>
+<s> let me know...  </s>
+<s> the updated software from ati has problem with agp.  </s>
+<s> there is a fix at ati site for download.  </s>
+<s> during the past three months, a couple of times my computer has paused and rebooted itself.  </s>
+<s> hopefully, ati will correct the problem in their next update.  </s>
+<s> pray for peace, and a have a wonderful christmas  </s>
+<s> sounds like automatic updates is running in the background.  </s>
+<s> i always turn off automatic updates for this reason.  </s>
+<s> from my experiences, i always check the following: 1)check any and all power connections; whether its a cable running from your psu to your mobo, or your psu to a hard-drive, one unseated cable can cause problems.  </s>
+<s> 2)as others have stated; check the fans inside your computer, not just the one on the videocard, but the other fans as well.  </s>
+<s> an overheated computer can cause problems within your whole system.  </s>
+<s> 3)try uninstalling the latest drivers from ati; if your card worked fine with the drivers from the install disc, then use them (it's not written in stone that you have to use the latest drivers from ati or nvidia).  </s>
+<s> 4)being a gamer myself; i know from my online experiences that background processes do in fact play a role in 'game lag'.  </s>
+<s> ati has a small program that will temporarily shut down certain background processes, until you stop the program.  </s>
+<s> it's called ati's fusion for gaming, you can check it out here: 5)some older intel boards require that you disable the onboard graphics within the bios in order for the stand-alone videocard to work properly.  </s>
+<s> 6)lastly,if all the advice you get from here fails; then it may be that the card you have is doa, then don't hesitate to rma the card back to the manufacturer.  </s>
+<s> it is problems like this one that keeps me playing games on my computer rather than going out and buying a console; if i run into this kind of problem on a console, i'm sol.  </s>
+<s> if i run into this kind of problem on my pc, then i can spend a few hours and quite possibly figure out (and correct) the problem.  </s>
+<s> even if i can't remedy this particular problem (and have to rma the part), i've still learned a thing or 2 in the process(es) of elimination.  </s>
+<s> this is just a guess, but a well educated one. the deterioration in video performance is probably a symptom; the cause may have nothing to do with the video card.  </s>
+<s> there isn't much that can happen to the card itself of it's software (although if the card came with diagnostics, by all means run them).  </s>
+<s> what i am guessing may be going on is some other task running in the background that is using a lot of cpu resource.  </s>
+<s> i can't be sure of that, but bring up task manager and see what else is running that you can identify that may be using resources (note, also, this could be a virus or malware).  </s>
+<s> this sounds a lot like something else eating up your cpu, not a problem with the videocard.  </s>
+<s> have you installed new programs that might be running in the background?  </s>
+<s> are you trying to run additional programs while you run your game? what about the possibility of an infection- is you anti-crapware running and up-to-date?  </s>
+<s> these are the first things that i would look for, especially since it's program response and not just video performance that seems to be suffering.  </s>
+<s> try running the task manager to see what all is running while your computer is acting up.  </s>
+<s> toss that ati card!  </s>
+<s> get an nvidia card.  </s>
+<s> i recently had an nvidia card go south on my machine.  </s>
+<s> symptoms were much as you describe - video was choppy and the entire machine seemed to slow down, including slow keyboard and mouse. the video card itself was getting very hot, especially when trying to run graphics programs, to the point of occasionally shutting the machine down.  </s>
+<s> colors were rendering badly, and i would sometimes get a set of yellow vertical stripes on my monitor.  </s>
+<s> when a video card starts getting errors, any program has to retry and retry the commands.  </s>
+<s> this soaks up main cpu cycles, so everything slows down.  </s>
+<s> first, try removing and re-seating the card.  </s>
+<s> it might just be a loose connection.  </s>
+<s> if that doesn't help, you'll probably have to replace the card.  </s>
+<s> i hope it's still under warranty!  </s>
+<s> my first thought is what a lot of people will respond- your problem sounds like the result of malware, some virus or spyware that is taking up system resources, or perhaps the malware has damaged a windows component.  </s>
+<s> my previous xp pc got malware on it, and though anti-malware programs appeared to clean it successfully, nothing ran quite as well as before.  </s>
+<s> after i wiped the hard drive and reinstalled windows, games and everything else ran much better.  </s>
+<s> since you describe only the problem, here are some questions: do you use a risky download program such as limewire?  </s>
+<s> (this program can easily let a virus onto the pc... torrent downloads are generally safe, but not limewire- it opens a door for viruses.) are there any other signs of malware, especially slow performance? is the poor performance limited to games?  </s>
+<s> if you're confident that the problem is not a virus, then some other questions would be: how many processes does your pc have running in the background?  </s>
+<s> has anything new besides games been installed since this problem began?  </s>
+<s> (try reducing the unnecessary processes running in the background by using msconfig or another program.) try uninstalling the driver for your video card and reinstalling it.  </s>
+<s> do you use the ati catalyst control center?  </s>
+<s> if so, set it so that the application controls the graphics quality.  </s>
+<s> also try closing out the ati ccc, to see if that would make a difference- you can end its process from the task manager.  </s>
+<s> has there been anything else installed such as a sound card?  </s>
+<s> if so, try disabling this device.  </s>
+<s> if hardware failure is causing this problem, that would be rare and more difficult to diagnose.  </s>
+<s> does the fan on the card run any louder since the problem began?  </s>
+<s> if so, that would again be a sign that something in the background is taking up processing power, forcing it to work harder.  </s>
+<s> hope this helps, glen  </s>
+<s> heat is a killer with electrinics.  </s>
+<s> you said you have an &quot;older&quot; machine.  </s>
+<s> how are the fans working?  </s>
+<s> does the card have a fan or a heat sink.  </s>
+<s> i would look at the cooling aspect of your pc.  </s>
+<s> i've had about 3 sapphire cards that i've used in mine, my sisters and my mums computer, i also seen cards in other peoples machines that have failed too.  </s>
+<s> i thought it was a good idea to get them at the time as they were a lot more cheaper than the other manufacturers graphics cards.  </s>
+<s> however the age old saying here applies - you get what you pay for.  </s>
+<s> all three graphics cards ended up mainly with &quot;overheating&quot; issues.  </s>
+<s> overheating issues are normally noticeable when you start playing a game after a few seconds you notice your graphics performance go really slow and then you start getting what appears to be like a &quot;snow effect&quot; on the screen (some random white dots appearing on screen), and eventually leading to a full game lock up.  </s>
+<s> firstly check your graphics card, take the cover off your pc and ensure things like the fans are going round (remember look but don't touch when the pc is on - and when it's off touch the case first before touching anything else to remove static!). sapphire's cooling system on their graphics card certainly isn't the best in the world and i found on a lot of them either the fans are prone to failure, or sometimes sapphire decide not to even install a fan! the ones i had in my computer never had any fan on them, just a heatsink.  </s>
+<s> i did think that was slightly odd, seeing as how hot they'd get and the previous card had got fans on and that was slower than the new sapphire one, but i guessed sapphire must know what they're doing.  </s>
+<s> quite clearly not.  </s>
+<s> if your graphics card hasn't got a fan on it or you can see that the fan isn't spinning this is most probably your problem.  </s>
+<s> your graphics card is overheating. the cards we had worked fine for a few weeks, until they overheated.  </s>
+<s> once overheated though you'll be lucky to ever keep them cool again, as they will have been seriously damaged.  </s>
+<s> it might be time to get a new gpu and if it's only a few weeks old take it back to the shop and see if you can get a refund, although most shops wont cover it on overheating as it's your problem for not checking there was adequate cooling in the pc, especially if you bought it at an oem store.  </s>
+<s> i'd highly recommend getting a gigabyte card as these have plenty of cooling on them and aren't as poor quality as the sapphires.  </s>
+<s> i had a gigabyte before the sapphire, and then after all 3 sapphires failed i went straight back to gigabyte, and have not had any problems with overheating since and that was about 2 years ago now.  </s>
+<s> i had a same problem, but with nvidia 9400gt after installing the third party xp transformation pack..if you have installed any third party xp transformation pack uninstall it.. uninstall the graphics driver, restart your system and install the driver provided in the cd. then check for any update available for your graphics card.. just for safety reason, perform a virus scan...  </s>
+<s> i just noticed one other bit i missed in the post which could also be an issue... your running xp. look in the right hand corner of the screen (where the clock and programs thing is) and recently a new magnifying glass icon will have appeared there.  </s>
+<s> this is part of microsoft's new search indexing system, and it was included in a recent update on xp. the only major problem with it is that it virtually kills a system running xp. right click on it and exit it, you should see your system running a lot more faster now.  </s>
+<s> it restarts every time you start windows.  </s>
+<s> it's a nuisance and very bad decision by microsoft to install it on xp systems.  </s>
+<s> it's supposed to be very similar to the way it works on vista and 7 but on vista and 7 it works a lot more faster and doesn't take up as much system resources.  </s>
+<s> one other way to tell if you have this update is to right click on a folder and click search, if &quot;search companion&quot; comes up (the one with the dog that actually works!) then you don't have the update installed, but if &quot;windows search&quot; comes up and has a button at the bottom giving you the option to use &quot;windows search companion&quot; then you have the update installed.  </s>
+<s> if you know what you are doing you can tell the indexing program to not index any files on your computer and this will stop it from attempting to index the entire computer every time it starts up and slowing the machine right down.  </s>
+<s> what this program does is it opens every single document file on your computer and creates a database of the contents, it's designed so that if you want to search for text in a document it just goes off to the database and quickly finds documents with that text in them, unlike &quot;search companion&quot; that goes through every single document every time looking for that text.  </s>
+<s> although whilst building this index it does slow the computer down a lot.  </s>
+<s> have you applied the 8.10 hotfix from sapphire (not ati)?  </s>
+<s> 1. check your system properties and make sure all your ram is available.  </s>
+<s> had the same problem and found one of my ram not making proper contact.  </s>
+<s> 2. download cc cleaner and iobit system optimizer and run both.  </s>
+<s> you can get both at download.com.  </s>
+<s> 3. i have 1.5 gig of ram, 2,26 processor and nvidia 7300 gt graphics and can play virtually any game at full specs without problem.  </s>
+<s> busy with fallout 3 at the mo. iobit also have a add-on called gamebooster that works extremely well.  </s>
+<s> just remember to go back to normal mode when u are finished  </s>
+<s> robt says that his machine is an aging xp setup.  </s>
+<s> he doesn't tell us which p4 he is using.  </s>
+<s> there is a huge difference between a 478 pin and core 2 duo p4. he also says that he has 3 gig of ram.  </s>
+<s> hopefully he is using xp pro as home can't use that much ram even though it will load with it.  </s>
+<s> he also says that two particular games ran well then suddenly they didn't.  </s>
+<s> how long did they run well?  </s>
+<s> did robt load some other app that took away free ram? the vid card has onboard ram but that in itself is not sufficient to run the apps.  </s>
+<s> robt.  </s>
+<s> has to isolate the computer from secondary programs that are using system resources.  </s>
+<s> the situation is not much different than the complaint &quot;my system is running slow&quot;.  </s>
+<s> you have to remove all variables and find out why the games would run when the card first was installed then suddenly ran poorly.  </s>
+<s> other than equipment failure, something in the time period between good and bad changed, perhaps even a virus.  </s>
+<s> either the machine is crapping out or there is something that changed the machines available resources.  </s>
+<s> it has to be one or the other as computers either work or they don't.  </s>
+<s> in the old days we would create boot environments to play games.  </s>
+<s> i think that robt has to start his machine with minimal apps and processes running and see if the games run well.  </s>
+<s> he also has to look back to see if he has also added any new hardware other than the vid card.  </s>
+<s> these can cause resource conflicts as well.  </s>
+<s> if the games do run well, then you have to add back in, one at a time, all of the apps and processes.  </s>
+<s> that way you can find the offending application.  </s>
+<s> when the games crap out the app is found.  </s>
+<s> if it is new hardware added then you have to evaluate the need for the hardware or if it is defective.  </s>
+<s> regardless, all of this is based upon the basic premise that the games ran well for a reasonable time. the problem seems to be a basic diagnostic problem.  </s>
+<s> i found my performance dropping and opened the tower to find that the card's own fan was caked with dust.  </s>
+<s> i cleaned it out and it worked fine once again.  </s>
+<s> it seems to attract dust at a greater rate than the other fans in the tower so now clean it every few weeks.  </s>
+<s> i use dust off to blow out the dust being careful to blow down on top of the fan while holding it to prevent it from spinning.  </s>
+<s> i have found in the past that if you blow up on a fan you risk driving the dust up into the fan's interior shaft.  </s>
+<s> preventing the fan from spinning prevents damage from it spinning too fast.  </s>
+<s> hth  </s>
+<s> agree with sound-byte.  </s>
+<s> just do what i suggested and try that out first.  </s>
+<s> iobit will show all the problems that u might have.  </s>
+<s> my p4 is an old one {like me} still using single cpu socket 478 and i have no problems  </s>
+<s> have you considered the possibility that the problem may not be with the video card but with the computer itself?  </s>
+<s> if you're using an old p4 then i presume that your computer is... (how shall i put this?) mature.  </s>
+<s> in recent weeks i have seen a problem that i did not expect on two xp computers that came to me for repair.  </s>
+<s> both users were online gamers.  </s>
+<s> on both computers, everything checked out on every diagnostic test i could run.  </s>
+<s> although some of the drivers and firmware were older versions, none of that should have caused any problem. it turned out that both were infected by unknown viruses, and both viruses successfully evaded the anti-virus applications that were installed on the machines (freeware avira in one case and rather expensive norton 360 on the other, both fully up to date).  </s>
+<s> both computers had slowed significantly and none of the usual fixes (av scans, spyware removal, disk and system area defrags using perfectdisk, registry cleaning and optimization, free space wiping) sped them up appreciably.  </s>
+<s> rootkit scanning using various tools did not reveal any problem.  </s>
+<s> my fix worked nicely, but it was a very drastic, last-resort fix -- a complete wipe of the disk and reload of the o/s and all latest drivers, including flashing the bios with the latest version.  </s>
+<s> now they run like (actually better than) new, but restoring all the data and applications (except the garbage stuff) took a couple of days in each instance.  </s>
+<s> sometimes computers are affected by hardware problems, but these problems almost always manifest themselves more drastically than mere performance slowdowns.  </s>
+<s> they more usually cause problems like crashes, endless reboot cycles, or refusal to boot at all.  </s>
+<s> i would look to a software issue, and that is not necessarily good news for you.  </s>
+<s> do a systems restore to the point when you loaded in the graphic's card  </s>
+<s> i've had this problem a couple of times, and both times it was the fan.  </s>
+<s> if that goes, so does the video card.  </s>
+<s> you can try replacing the fan, though this is a good way to buy a fan that can't be made to fit.  </s>
+<s> my advice: buy a card that doesn't use a fan.  </s>
+<s> first, some technical things - you didn't tell what mb you are on,it may have nvidia support that would benefit a different video card. is it sli ready? the biggest boost i've ever seen to graphics was the day i installed 2 nvidia card with sli enabled!  </s>
+<s> whew!  </s>
+<s> secondly, i have some suspicions (though unfounded) that cod runs better under nvidia than radeon.  </s>
+<s> i have used both cards and much prefer nvidia.  </s>
+<s> now my second suggestion/idea is that you may have some hefty background cpu hogging stuff going on - anti-virus, anti-spyware, ms's own indexing and mail checking software, a bunch of svhosts refusing to let go of memory, background defragging, programs checking for auotupdates, etc. and on and on.  </s>
+<s> here's a suggestion that may solve it - iobit.com makes a game booster - it's free and it works.  </s>
+<s> it figures out what's running and what's able to be safely suspended during gameplay - it then shuts them all off while you play and then turns them back on when you're done - well, you have to remember to tell the program to turn them back on, but it works in xp and in win7 and win7 in xpmode.  </s>
+<s> plus, it will also attempt to optimize your game directory!  </s>
+<s> did i mention 'free'?  </s>
+<s> at least check your task manager and see what there is running and what if any you can turn off during game play.  </s>
+<s> (oh yeah; i'm pretty sure that 3gig in an xp system is 1 gig of unused memory - i think it only supports 2 gig.) last idea is to check your virtual memory settings - right click on my computer/advanced/advanced and you'll find it - check what size it is and where it is - then check the drive it is on and how much space is left and maybe increase the size of the virtmem file, or move the file to another drive with more room on it.  </s>
+<s> also run a cleanup on your drive to free up space; that may give the program more room to flex its gaming muscles, and be sure to empty out your recycle bin and temp files at the very least.  </s>
+<s> finally - i'm sure you've done this, but make sure your video drivers are the latest and greatest.  </s>
+<s> good luck, cod4 is a great game, if overly short in single player mode - multiplayer mode will frustrate you until you find the right server to play on - there are a plethora of cheaters and beaters out there that suck the fun out of a great multiplayer game; i've played a lot and finally 'retired' - they're just too good for me to beat.  </s>
+<s> please,clean registry and defrag frequently(checkdisk due to frequent use of gaming modes .2ndly,set  </s>
+<s> page file to match and/or increase amount of memoryram to max limits.check  </s>
+<s> compatibility of games played and graphic card capabilities!winxp=3-4gb pagefile divided between harddrives seen by winxp.also;win7=4-8gb  </s>
+<s> pagefile divided evenly between harddrives seen by win7.when cost of memory ram is impossible,a pagefile will undoubtedly save the gamers day:}.for more help check out : ,alotta gamers help!!!  </s>
+<s> {warning:this is only if you have no warranty contact the manufacturer} if you no have warranty then try this but do research read all about taking apart this produts.  </s>
+<s> at times by simply reinstalling a fresh driver could helps at times driver could go bad try this.2nd option get some latex gloves,anti static wrist band, a surface made of wood preferably.  </s>
+<s> but googgle how to take apart that perticular gpu,p.s. gloves are from not letting the natural oils in hand come in contact with any circuits and creat a short circuit i highly reccomend this, my experince is extensive.  </s>
+<s> if you have tech knowledge take gpu apart and have this at hand thermal compound for main gpu proccessor,thermal tape it must be thermal tape for small chips those would be the memory then take apart clean all dust, then put back togheter.use  </s>
+<s> at own risk if you have tech knowledge this might be a good solution cnet is not responsable for any of this material is merely a suggestion if need more help i have subscribe to this tread.pce.  </s>
+<s> robert, have you checked to see if any other programs are running in the background that might be hogging the system either by using memory or the cpu or both?  </s>
+<s> also, click ctrl-alt_del and click the services tab.  </s>
+<s> click the cpu tab twice to bring the running services to the top and see if any unwanted or unnecessary services are running.  </s>
+<s> i don't think it is the card but i am not sure.  </s>
+<s> first, it would be helpful to know if your pc is running normally when you are not gaming, but let's assume it is.  </s>
+<s> heat is always an issue when gaming and you can check the temp of your video card in the catalyst control center under &quot;ati overdrive&quot;.  </s>
+<s> you can also create profiles associated with &quot;hotkeys&quot;. in other words, if your video card fan normally runs at 20%, you can create a profile that will up the fan speed to 50% (or whatever) and assign that profile to the &quot;alt + g&quot; keys (for example).  </s>
+<s> now, before you start a game, you can press &quot;alt + g&quot; and your fan will speed up to 50%.  </s>
+<s> a low fan speed while gaming may be the source of your problems.  </s>
+<s> next, a rather unique program exists that will prepare your system to play a game--and after you are finished playing, undo the gaming settings.  </s>
+<s> it's free and called &quot;game booster&quot;.  </s>
+<s> just google for it and download and install.  </s>
+<s> game booster shuts down many unnecessary background processes that can really cause problems with gaming.  </s>
+<s> next, it is definitely a good idea to reinstall the latest video card drivers but you must do it properly.  </s>
+<s> your problem sounds like you updated your drivers without uninstalling the old ones first.  </s>
+<s> believe me, that can cause a bad situation!  </s>
+<s> it's no longer a good idea to use &quot;driver sweeper&quot; or any other uninstaller that looks for and deletes all leftover files it can find. the best way is to use the built in uninstaller in windows control panel-&quot;add or remove programs&quot;.  </s>
+<s> recently, many people have run into problems using special uninstallers because they uninstall too much.  </s>
+<s> download and install the latest drivers for your card and see if that helps.  </s>
+<s> i personally doubt that your card is bad if you haven't noticed any other problems (such as in watching videos etc.) it is more likely a heat or driver issue----or both.  </s>
+<s> as always, scan for virus's and malware before you do anything else.  </s>
+<s> the games you are playing require a good deal of hard drive and cpu activity.  </s>
+<s> run a disk cleanup and defrag the hard drive.  </s>
+<s> also delete your prefetch file (start/search/type prefetch and search in the c drive) delete this file when found.  </s>
+<s> make sure you are running the most recent driver and catalyst.  </s>
+<s> you may want to reinstall the driver and catalyst in addition.  </s>
+<s> let me know if this resolves your issue.  </s>
+<s> i don't know what is wrong with your video card, but there are 3 things i'd consider; 1. some windows or other update that breaks the drivers you are currently running.  </s>
+<s> ati constantly updates the drivers for their recent cards and you may wish to try that.  </s>
+<s> 2. a new piece of hardware doesn't like your ati card.  </s>
+<s> i've seen ethernet cards die when a sata controller is installed.  </s>
+<s> or the same sata card barely worked when an old soundblaster card was enabled.  </s>
+<s> 3. i had an ati 7500 aiw die on me some years ago.  </s>
+<s> it did it in stages.  </s>
+<s> i replaced it and the replacement worked for years.  </s>
+<s> you could just have a defective card.  </s>
+<s> ron  </s>
+<s> i have had similar problems with my computer with video built into motherboard. the choppy video was cured when i subscribed to higher speed internet.  </s>
+<s> the slow response was cured when i obtained a new modem from my internet provider.  </s>
+<s> i noticed that the activity light on my old modem would stop flashing when there was no response to my mouse clicks.  </s>
+<s> i have had similar experiences using an ati radeon graphics card and hhve had to increase my cooling fan output (a simple upgrade to a slightly larger cooling fan) and dumping my cache every so often, including deleting saved game play from previous levels.  </s>
+<s> i also found that increasing page file size helped a lot.  </s>
+<s> do check your graphics card for bad caps and low/no performing fan.  </s>
+<s> please do remember that there is only so much you can do with an older system.  </s>
+<s> some food for thought... merry christmas!  </s>
+<s> have you checked what the load on the system is when this happens?  </s>
+<s> more than likely this deterioration is caused by the new windows indexing utility.  </s>
+<s> go into the services panel under administrative tools and disable this.  </s>
+<s> this utility is constantly polling the drive(s) to index directories & files and seems to suck up a lot of the system resources.  </s>
+<s> unless you really need an indexing utility of this depth, disable it - most folks don't need it.  </s>
+<s> better yet, uninstall it and the next time this utility pops up in an update, uncheck it.  </s>
+<s> like i said, most people have no real use for it.  </s>
+<s> few things that can cause such problems are 1. if your system is infected with virus.  </s>
+<s> 2. if the programme your running is corrupted 3. if the card you bought though with a warranty has failed or has manufacturing defect.  </s>
+<s> ist step is use another card to test the software, then if the problem persists, know that the software is corrupt or you can re-run/reinstall the software 1st before taking the other option of the card.  </s>
+<s> hope it works for you.  </s>
+<s> kene okafor  </s>
+<s> try a rollback to a date earlier than the problem.  </s>
+<s> if things are slowed down, unless its a hardware issue, some software or evilware is using your clock cycles.  </s>
+<s> reseating the board is a first step for hardware.  </s>
+<s> also... check that all fans are spinning and have free airflow.  </s>
+<s> had the same problem on my nvidia 9400 graphics card.  </s>
+<s> found out that the fan had stopped working and card was overheating.  </s>
+<s> i would suggest you to install the software bundled with the graphics card to monitor card temperatures, you will find out if overheating is the problem.  </s>
+<s> although i would not suggest it, this is what i did. got the processor cooling fan from an old intel motherboard, cut the wires from the graphic card power supply and replaced the fan with the intel one.  </s>
+<s> works a-ok since then.the  </s>
+<s> core temperatures never rise above the low temp range.....  </s>
+<s> fly by visitor i think hit it right on the button.  </s>
+<s> i did'nt have this problem until i switched from charter (which kicked me of line 5 times a hour or more) thats enought to po anybody, they refuse to replace the line to my house from the early 80's when cable first came out.  </s>
+<s> now i have at&t-dsl, i don't get kicked off, but my you tube or any other video's i try to watch is choppy or froze.  </s>
+<s> i removed my ati 9250/512 mb. video card and installed geforce mx440 same problem.  </s>
+<s> in which tells me it's not computer but my dsl to my basement with not enought bandwith to go 60 ft.with cat5.  </s>
+<s> my wife upstairs and my daughter have no problem.  </s>
+<s> i have 1 ea. 3 ft.  </s>
+<s> and 1 ea. 4 ft. of parallel and 3 intersections @ 120v.  </s>
+<s> power line.  </s>
+<s> either my parallel is to close to the 120v.  </s>
+<s> to reflect a magnetizem field or i got a poor service that can't bump the mb. service.  </s>
+<s> tomorrow i&quot;m calling at&t and find out wusup!  </s>
+<s> how much they can they do for me to keep me as a loyal customer.  </s>
+<s> listen up everybody &quot;if you got money(cash)&quot; it walks and talks.  </s>
+<s> you have &quot;with cash&quot; the upper hand.  </s>
+<s> you have the bargin power, they can't sell they don't eat.  </s>
+<s> my dad's proverbs from the 30's and that's almost where we are at.  </s>
+<s> ron  </s>
+<s> do not pull out your hair!!!! send the thing back.  </s>
+<s> i have a new hp pavilion, i tried a new card too. the problem is you do not have enough power!! that's right, this %$*#* does not have enough power for a newer video card.  </s>
+<s> hp say's it's got lots of power as it is but 300 watt's is the norm here.  </s>
+<s> if you check your machine you will find the power supply is not high enough to push the card properly.  </s>
+<s> most new cards need 150 to 200 watts power, that's on top of what your computer needs.  </s>
+<s> anything less and it works until you push it then it craps out.  </s>
+<s> yea my new computer does not come with enough power to blow it's nose. the booklet say's &quot;easy to upgrade&quot; it does not tell you that it only has enough power to work it's base line and the first upgrade you need is a new power supply.  </s>
+<s> the video card is $100, the power supply is $150+s so return the card or buy a new power supply.  </s>
+<s> that's about it.  </s>
+<s> ps do not buy hp, you will be sorry.  </s>
+<s> a few things to check and no one has mentioned it in any posts.  </s>
+<s> this card has two - 4 pin power connections on it.  </s>
+<s> check to see if both are seated properly or for bad connect.  </s>
+<s> these 4 pin connectors must be from a seperate bank or outlet from power supply.  </s>
+<s> you cannot use a line splitter to run it.  </s>
+<s> this card , when in gaming mode, uses an enormous amount of power hence the 2 4 pin power connectors.  </s>
+<s> check the power supply.  </s>
+<s> i believe the recommened wattage is 500 watts output.  </s>
+<s> this card is a two stage card.  </s>
+<s> when it is not doing much graphics it is in low power mode and uses little power but when it has extended graphics such as games it kicks into high power mode or high stage .  </s>
+<s> lots of heat is then generated.  </s>
+<s> now if you use a splitter or there is a bad connection or the power supply is too small the card will not go into high mode and you will have slow graphics.  </s>
+<s> if it detects low power in high mode it will immediately slow down and switch to low mode.  </s>
+<s> am not sure but i think if it detects too much heat it will also go to low mode.  </s>
+<s> you need to check out this as well as the heat related posts.  </s>
+<s> also a bad driver can cause the card not to ramp up to high mode.  </s>
+<s> or the card is defect and simplely will not go to the high output mode.  </s>
+<s> hope this post helps  </s>
+<s> these are direct quotes from the sapphire website in regards to recommended psu's and such: -450 watt or greater power supply with 30amps on 12 volt with 2x4 power connector recommanded.  </s>
+<s> -certified power supplies are recommended.  </s>
+<s> refer to for a list of certified products -1gb or greater system memory for better performance.  </s>
+<s> i've just read a similar post on a dealers' website; the poster had almost the same problems as yourself robert, turns out the power supply was both inexpensive (and cheaply constructed), and more than just a little under-powered.  </s>
+<s> i'd forgotten about the power needs of newer video cards.  </s>
+<s> i had to replace a failing psu in an hp762c and it took a while to find one - but the new one had a lot more power then the original.  </s>
+<s> and it had newer power connectors for things like sata.  </s>
+<s> i finally found a decent video card (but not a gamers card)which i knew i had enoug power for, and i later added a wd caviar green hd (they use less power)  </s>
+<s> the intel p4 chips generates a lot of heat and with the new graphics card the temperature inside the case might be too high.  </s>
+<s> check the airflow and see if the ventilation inside the case is unobstructed.  </s>
+<s> seeing that the performance used to be up to par perhaps the case was moved or something placed next to it.  </s>
+<s> there has been some reports of p4 machines starting fires due to obstructed air flow  </s>
+<s> windows live search is only installed as an add-on to xp if you let automatic updates install it.  </s>
+<s> i agree that it's a horrible update for xp and would add that it's a great example of why windows users should never let updates install automatically and always use the so-called &quot;advanced&quot; settings (a bit of a joke, imo) so that you'll know exactly what's included.  </s>
+<s> i tried this out and uninstalled it within one day.  </s>
+<s> i've had problems with some graphics cards like the original poster is having, turned out to be the sound drivers, put the sound driver to desktop stereo then run the game hope it works for you  </s>
+<s> i agree with this poster regarding windows search hogging all the system resources.  </s>
+<s> it may not be your video card or anything else but windows indexing your computer which could take days. the best and only way to disable windows search is to right click on 'my computer' and select 'manage'.  </s>
+<s> select 'services' on the left side of the dialogue.  </s>
+<s> on the right side lists all the active services.  </s>
+<s> find one called 'windows search' or 'wsearch', it may also go by 'mssearch'.  </s>
+<s> right click on the service, select 'properties'.  </s>
+<s> under 'startup type' select 'disabled' and make sure to 'stop' the process.  </s>
+<s> additionally i would check your power supply.  </s>
+<s> by adding a discrete video card like the one you did, it will consume more power and therefore could slowly beat up the one that came with your computer.  </s>
+<s> you should have around a 700 watt power supply to run such a video card.  </s>
+<s> some people will argue and say that a 450 watt should do the trick, but you are not talking about a big difference in cost and the 700 will run just about anything you put on it.  </s>
+<s> if you notice the computer freezing or just rebooting on its own, replace the power supply.  </s>
+<s> good luck.  </s>
+<s> sounds like your video card is over heating.  </s>
+<s> i bought a high end nvidia card and had the same problem.  </s>
+<s> should get more cooling fans or just open the case and put it in a well ventilated area.  </s>
+<s> towers under a desk don't get the needed airflow.  </s>
+<s> i just had that exact same problem and come to find out the fan on the video card was not working and was causing the video card to heat up tremendously.  </s>
+<s> i am not sure if they have improved it lately, but ati generally use to have issues with their catalyst drivers and its compatibility with agp graphics cards (i had problems with an x800 gto and later catalyst drivers, and the problem was the card was agp) .  </s>
+<s> possibly re-install the driver set that should have come on cd with the card.  </s>
+<s> hope this helps.  </s>
+<s> what i found out was my video card was over heating.  </s>
+<s> i used a program from techpower gpu-z link: this app is free and shows a lot of info about your card.  </s>
+<s> hope this will help you.  </s>
+<s> a number of things could be causing the slow down in performance and they need to be looked at one at a time. the first would be the additin of other programs that are using up precious machine cycles when running in the background, seperate from the game itself.  </s>
+<s> working with the task manager you can track down most of those.  </s>
+<s> checking that the fan is running at the proper speed and is clean and free of dirt and dust would be the next step.  </s>
+<s> finally, insuring that the board is fully seated and has the extra connector directly from the power supply is properly connected.  </s>
+<s> y=the final step would require disassembly and removal of the motherboard for inspection of the power supply traces at the connectors from the power supply and the board edge connector for the card slot.  </s>
+<s> a cold solder joint or burned trace can create an increasing current usage that will eventually burn the trace or melt the solder and cause a complete failure.  </s>
+<s> solution 1. if the card is new then remove the current video drivers being used.  </s>
+<s> next install the drivers from the cd that came with the card.  </s>
+<s> solution 2. if video card is old then perhaps dust is on the card.  </s>
+<s> consider dusting the entire inside of the pc. solution 3. possible future heat damage.  </s>
+<s> if you want to go into the extreme in keeping your hardware cool then i suggest you get the antec 300 or 900 pc case.  </s>
+<s> i got the 900 and kissed all my heat issues away.  </s>
+<s> solution 4. may not be your video card..... your hard drive might be the bottle neck and or sound card.  </s>
+<s> onboard sound and video are normally not that good.  </s>
+<s> solution 5. when was the last time you defragged your pc? solution 6. a coworker i met also had the same issues of slow frame rates on her laptop.  </s>
+<s> it turned out she installed so many toolbars and programs that run at boot time.  </s>
+<s> she had over 6 server services running,ftp,telnet, server etc etc etc. so if you have more than 3 things loading at boot time then you need to consider what to remove.  </s>
+<s> i have read many of the posts to your problem, many very good suggestions.  </s>
+<s> have you tried contacting ati tech support.  </s>
+<s> i know it seams fashionable to try to blue sky answers to problems, i started in the 1950's.  </s>
+<s> when you call them ask for an rma right away.  </s>
+<s> don  </s>
+<s> a problem there could cause all three problems your discussing 'motion is choppy and the response to mouse or keyboard commands lags&quot; choppiness is a frame rate problem.  </s>
+<s> lag in keyboard and mouse is slow i/o data.  </s>
+<s> do all three of these.  </s>
+<s> unplug all your wires wait thirty seconds, plug them back in again.  </s>
+<s> ( to repair poorly fitting connections.  </s>
+<s> this a quality issue in the design (tolerances) of the connections.) reset the modem.  </s>
+<s> check for new driver for modem.  </s>
+<s> if your gaming use a wired not a wireless connection.  </s>
+<s> still not fixed then .............. ?  </s>
+<s> ddr3?  </s>
+<s> (we need a make and model number on your pc to begin with.) you did say this was an older pc right?  </s>
+<s> i'd stick with the ddr of the ram.  </s>
+<s> this could cause a problem in the over performance of the motherboard, a compatibility problem with the processor and the northbridge (see link below) but to be sure you will need to speak with ati about it.  </s>
+<s> see this: processor compatibility guides and this: graphics compatibility guides e-mail them from here: when dealing with hardware the devil is often in the retails.  </s>
+<s> not: northbridge (computing)  </s>
+<s> check for new driver for your ethernet adapter.  </s>
+<s> well i'd have to agree that the cpu and graphics card temperatures are worth checking.  </s>
+<s> i find speedfan an invaluable tool for this.  </s>
+<s> cpu might have become unseated, fan failed or dust has clogged the vains. the latter caused me severe game lag before.  </s>
+<s> similarly if the gpu fan is not working or clogged with dust.  </s>
+<s> speedfan should be able to probe and report the temperature of each.  </s>
+<s> assuming that's ok what else is running on the pc in terms of processes, av, adware etc. some of these programs can have a pretty heavy cpu load, maybe reschedule them to run at other times ?  </s>
+<s> worth running tak manager and sorting by cpu idle and see what are the big cpu hitters.  </s>
+<s> also how many processes are running and do you need them all.  </s>
+<s> finally check the health of your hard drives.  </s>
+<s> look in the system event log for any red errors regarding bad block/disks. is the device running at full speed ?  </s>
+<s> if you really want to be sure i'd download and burn a copy of ultimate boot cd (google ubcd).  </s>
+<s> it's a bootable cd which contains all the manufacturers test tools including all the hard drives.  </s>
+<s> you can boot from the cd and run a full read test on the hard drive.  </s>
+<s> if it passes then it's ok, but the windows disk checker alone is not always right imho.  </s>
+<s> three full read scans with no erroros with ubcd is a pretty certain way of telling the disk is fine.  </s>
+<s> speedfan can also interrogate the smart data from the disk (assuming it's enabled in the bios) to see if any thresholds have been exceeded and reports the general health.  </s>
+<s> windows will throttle back ide performance if the disk is beginning to fail.  </s>
+<s> this can have the symptoms of slowing everything down, for example how long it takes to boot.  </s>
+<s> some of this is covered in more detail in my blog , as i have had similar experiences.  </s>
+<s> the first question you need to ask yourself is : q - what changed(no matter how seemingly minor) after i(you) installed the driver initially and it was working fine?? typically it will be here that you will find the answer to the issue.  </s>
+<s> my first area of interest would be the fixes(enhancements) you installed from microsoft.  </s>
+<s> have you - subsequent to installing the agp card - installed/updated the xp 'miniport' driver.  </s>
+<s> or ........ did you install the fix ms09-65: vulnerabilities in windows kernel-mode drivers....etc.. if so there is a statement here : now although the statement only mentions hd 2400 series this does not mean that it is only this series which is affected.  </s>
+<s> it merely means that this is the only series they have looked into.  </s>
+<s> all ati/radeon 'hd' cards could quite possibly be similarly affected/vulnerable. it is fairly common that if a microsoft update disrupts one or more of your drivers 'post' an update, and you attempt to correct the issue, by updating to a newer driver/package(in your case the hd3850) will not resolve the problem.  </s>
+<s> often the only course of action is to remove the whole product(via 'add/remove programmes), and re-installing.  </s>
+<s> got a virus ? is the whole pc slowed down or only while gaming ?  </s>
+<s> driver version may also impact the permomances, but i'm in doubt it can have as much impact as you experience  </s>
+<s> excellent advice, i even picked up some.  </s>
+<s> haha thank you.  </s>
+<s> i've had experience with similar symptoms such as the ones you have described both personally and professionally.  </s>
+<s> from what i can tell is that 80% of the time, degredation in performance from what was originally working flawlessly turned out to be something so simple and basic!  </s>
+<s> defrag and scandisk.  </s>
+<s> then use msconfig to shave off the excess bloatware loading at startup as well as non-microsoft services.  </s>
+<s> speaking from experience working in tech support for a major video game company, video cards usually display symptoms of eminent failure with graphical corruption or no function at all.  </s>
+<s> i'll have to also agree with my peers regarding physical check up and diagnostics on the card itself.  </s>
+<s> finally, there's always the option to contact the card manufacturer's customer support.  </s>
+<s> i had symptoms - twice - like those described.  </s>
+<s> after a lot of noodling around the first time, i took the bitter pill of wiping and reinstalling windows and everything else. it didn't work.  </s>
+<s> but that act alone gave me new data which helped me realize that the vid card had lost its 3-d handling only and it had reverted to vga, which still worked.  </s>
+<s> my card was under warranty and easily replaced.  </s>
+<s> a few years later i saw the same behavior.  </s>
+<s> armed with my experience, i bought a replacement card for my now rather elderly pc and immediately all was restored.  </s>
+<s> the important take-away here is that the vid card would still run, but when it tried to do 3-d gaming it became a slide show and colors etc. varied from what i expected.  </s>
+<s> other commentators have focused on things you might have done to create your problem.  </s>
+<s> i think if you had done something and it seemed to cause the change, you would have told us.  </s>
+<s> i think it was nothing you did - just a partial hardware failure.  </s>
+<s> anything that scans your computer like viruses,defragmentation, etc that is left on automatically can interfere with your computer performance especially if you are playing games at same time.  </s>
+<s> also, make sure that your graphic card is inserted snugly in the slot and the 12 volt is plugged snugly, too.  </s>
+<s> make sure your monitor connections is snugly connected.  </s>
+<s> use a surge protection device, too.  </s>
+<s> dont let microsoft download its updated drivers for your graphic card.  </s>
+<s> stick to the driver that comes in your cd rom despite warnings that it is not compatible and that your computer may not run properly when installed wtih your cd rom.  </s>
+<s> many pc periphal manufacturers are too lazy or stingy to get compability approval from microsoft probably because they think microsoft should pay for the approval testings since it is so profitable.  </s>
+<s> that is why many goes for apple macs lately.  </s>
+<s> too many pc component makers doesnt cooperate with microsoft quality controls and compabilities, just to save a few bucks.  </s>
+<s> it creates unnecessary conflicts and lousy pc experiences for almost all users!  </s>
+<s> as a rule of thunmb, i always try to keep the same company making the product to be installed; &quot;together&quot;. for example, i would put an nvidia video card along together with an nvidia motherboard.  </s>
+<s> this helps with compliances the design engineers try to keep with their company.  </s>
+<s> i remembered my computer came up the nvidia corporation folder containing nvidia physx properties in the start menu after i installed call of duty 4, as you said it might force my computer to use integrated graphics.  </s>
+<s> i think it may be the cause of gaming lag.  </s>
+<s> an ati 3850 does not use much power but it does have power requirements that must be met.  </s>
+<s> i have a 4550 by sapphire.  </s>
+<s> it requires a minimum of 350 which is all i can supply with he stock from an antec minuet case.  </s>
+<s> so start with the power is it stable is it enough?  </s>
+<s> you can goto antec.com and use a power calculator an roughly figure out what you need.  </s>
+<s> other possible reasons are various from virus to simply overheating.  </s>
+<s> scan for virus to start with try different programs the common thinking that the old &quot;one shot cure&quot; fixes everything is not always true.  </s>
+<s> if this is good then try installing a small fan just underneath the card if you have room to do so i recommend a pci slot fan that exhausts air as close to the card as you can get.  </s>
+<s> although really any low speed fan will do as long as the heatsinks are being cooled.  </s>
+<s> if these do not fix the problem it may very well be that the damage is already done and heat has killed the chipset.  </s>
+<s> as for buying a card without a fan thats just plain nonsense.  </s>
+<s> heat is the number one killer of computer components.  </s>
+<s> a cheap quiet fan costs about 10 bucks what did that card cost ya???? so lets see here 3 possibles, virus, overheated, underpowered.  </s>
+<s> but its not limited to those 3. a last one i just thought of is the edid coding on your monitor is gone and the card can no longer read this information (this is not recoverable to the monitor) however this would primarily apply if you are plugged into the dvi port.  </s>
+<s> to check this goto system devices and check monitors if it says something like this.&quot;generic non_plug and play monitor&quot; then you edid is gone.  </s>
+<s> this would also cause monitor to stop functioning all together.  </s>
+<s> perhaps there is nothing wrong with your video card at all.  </s>
+<s> something could be running in the background eating up your memory and cpu cycles such as a hung application or malware.  </s>
+<s> do a complete malware/virus scan with a good scanner as well as a complete junk file removal.  </s>
+<s> defrag your hard drive and give it another whirl.  </s>
+<s> i am not familiar with those two game.  </s>
+<s> i am actually not familiar with many games.  </s>
+<s> i was called to look into a $10,000.00 alienware computer which seemed sluggish.  </s>
+<s> the owner was a wow nut.  </s>
+<s> i went through and the computer seemed fine all except when in the game.  </s>
+<s> i did an on-line speed test (speedtest.net)and  </s>
+<s> found it was downloading at 1 mbps through a cable modem.  </s>
+<s> i noticed that as well as the pci nic card ( a very expensive gaming one ) there was also a mobo on-board nic.  </s>
+<s> i connected through it and tested speed again.  </s>
+<s> 32 mbps woa ..... i assumed that the expensive nic card was faulty.  </s>
+<s> with help from alienware i found that there had been a recent driver update and the owner probably rushed through some options which changed the setting on the nic card, limiting download speeds to 1 mbps, and simply unchecked that box. when i changed back to the pci nic it tested at about 35 mbps now he is gaming at full capabilities if you are running world of warcraft or other on line games.  </s>
+<s> be sure that you are communicating at a reasonable speed.  </s>
+<s> i had a very similar experience with sapphire gfx cards, starting with a radeon 9800 pro in my old 32-bit athlon xp3000 rig; initially the whole system was on water cooling because of the t'bred's habit of getting very hot very quickly.  </s>
+<s> when i built the first a64 system (msi 7049) i used the 'old' 9800 gfx card, but reverted to aircooling, as the a64 cpu's didn't warrant the use of water; however very shortly after the build it became apparent that the gpu was in trouble - temps up to 75 - 80 deg c, even with an auxiliary side fan blowing directly onto the card. the display showed exactly the same characteristics that darren has described, and after a few hours' use failed altogether in a most bizarre fashion.  </s>
+<s> i've since had a pci-e (hd2600 pro) card go exactly the same way, but a 2800pro made by asus has no such problems, and nor has the multimedia 3850 card made by gigabyte, so i can only assume that the cheaper cards are marginal at best.  </s>
+<s> jb.  </s>
+<s> choopy performance in games is sometimes attributed to network speed/ping/bandwidth issues if you have a cable modem for instance, i have seen where i have gone from 20 mbit download 1mbit upload to half that- for reasons only the internet service provider can explain, inotice sometimes the ping seems ok- but when i run speakeasy.net/speedtest  </s>
+<s> what i originally got is half, the only way i resoplved issue was to unplug the cable modem and wait a minute and replug in, this in turn gave me a new ip my thought was they crimped my speed during a busy time.  </s>
+<s> this in gaming first person shooters looks and appears laggy and screen jumps, it may look like a graphics issue but in fact your bandwidth may be crimped that the packets coming in are to slow for u[pdating your game and thus jerky.  </s>
+<s> just a thought.  </s>
+<s> in addition, i used a radeon/saaphire version 1950xt at one time was great- but issues then only in 3d gaming wiered graphics during gaming- but analyzzing the heat temperature with the catylist showed whenever i reach 64 deg c it would crap out- so i just replaced video card, you could use this analogy by looking at temp- doing other apps other than gaming monitoring temps, then in 3d gaming look at temps, but i would guess this is a bandwidth/net speed / ping issue  </s>
+<s> i own a small computer store in which i build, sell, upgrade and repair computers.  </s>
+<s> i have installed many sapphire cards in the computers that i have sold in the last 4 years and have had only one that i had to replace for a customer.  </s>
+<s> i am currently running 2 sapphire hd 4870 cards crossfirex in one of the computers that i game on and also have them moderately overclocked and for the last 18 months they have given me great service with no sign of failing.  </s>
+<s> i am using stock cooling on these cards.  </s>
+<s> under load, playing crysis at the highest settings, the temps have never gotten over mid 60c.  </s>
+<s> sound like just the bad luck of getting 3 defective ones.  </s>
+<s> oh, and the type of case that they are in and the cooling characteristics of the case will have a bearing on the heat generated.  </s>
+<s> i think it could be anything because you haven't mentioned required info about the problem so, i'll suggest a list of things u need to check 1) the slot which hoses the graphic card might have some problem get the slots checked 2) try rolling back the drivers to when they were originally working in good condition 3) check ur ram and the slots that hose the rams.  </s>
+<s> occasionally rams get burnt out due to excess heating, try changing the slot memory module from a to b or vice versa 4) in the worst case ur graphics card capacitors might have been damaged, which is not a big issue .  </s>
+<s> u can get it repaired, it's quite cheap too.  </s>
+<s> others have given expert and very detailed solutions.  </s>
+<s> my point is simple.  </s>
+<s> 1.did you download the driver using some download accelerator and not the xp's default downloader?  </s>
+<s> 2. while installing the latest driver, were any programs running, especially, the antivirus, anti-malware type applications?  </s>
+<s> if the answer to any of the above is yes, you know what to do.  </s>
+<s> hope it helps you.  </s>
+<s> i went through the posts with all good suggestions rather fast but still haven't seen full system spec.  </s>
+<s> agp system requirements are different than that of pci-e systems where the power supply is concerned.  </s>
+<s> since the system ran fine for some time then started having hiccups, i would check the power supply first.  </s>
+<s> either using a millimeter or the hardware monitor in the cmos setup utility (bios) check the output of the +3.3v rail, if it is any lower than 3.14v, that is where the problem is; agp cards do use the +3.3v rail, for instance, the 9800 gtx agp, draws 16.5a from the +3.3v rail without going in to the additional large molex as well as other rails providing juice directly from the agp socket!  </s>
+<s> most newer power supplies are designed for pci-e systems with +3.3v rail with a max out put of 20a, if we had you full system spec, we could recommend a power supply to use in your current system and still be able to move it to a pci-e system when you upgrade.  </s>
+<s> ocz stealth xstream 600w is what i am using with my a7n8x-e deluxe, barton 3200+ and your exact card which is more hungry then the 9800 gtx agp.  </s>
+<s> this ocz has 36a on the +3.3v rail as well as 4 +12v rails with one dedicated to the pci-e plug #1 then the 4 +12v rails yellow wires are distinguished with a different color strip that make power distribution easy.  </s>
+<s> if your +3.3v rail has fallen bellow 3.14v and/ or you have exceeded the max output of your +12v rail /s and/ or the max combined output of the (+3.3v & +5.0) + (+12v) rails, there is your issue right there.  </s>
+<s> a new proper power supply carefully selected as per each rail's output and not by wattage, would most certainly bring some life back in to your system even if there has been minor damage to the board's capacitors and/ or regulators.  </s>
+<s> after all the hard ware check, we could concentrate on the state of your os, updates, patches drivers and such.  </s>
+<s> few points to consider in case you do not post your full system spec including the make and model of your power supply including the readings for max out put in amps per rail.  </s>
+<s> most newer drivers are designed for pci-e systems, newer chipsets and so on; an older driver might work better with your chipset and setup.  </s>
+<s> after considering all suggestions for cooling and all, ensure that the first pci slot after the agp slot is not used, i believe this vid card covers it any way.  </s>
+<s> if using any sound card, try using the 2nd pci slot if possible.  </s>
+<s> check all capacitors for bulging and/ or leaking.  </s>
+<s> for a p4 agp based system, consider a power supply with around 30a on the +12v rail, around 25a for the +5.0v rail and at least 30a on the +3.3v rail.  </s>
+<s> happy computing  </s>

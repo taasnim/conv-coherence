@@ -1,0 +1,45 @@
+<s> hi, my girlfriend has a garage apartment about 35 yards outside the house.  </s>
+<s> she has a wireless modem, with time warner roadrunner, as a wireless network in about a 3000 square foot house.  </s>
+<s> i can find out what specific modem she has if need be.  </s>
+<s> what would we need to get the wireless internet out to the apartment?  </s>
+<s> i want to setup some computers and she also wants to be able to offer internet to her prospective tenants.  </s>
+<s> thanks for you help!  </s>
+<s> why not try it?  </s>
+<s> watch the video about the windsurfer at the 2 minute mark.  </s>
+<s> laugh it you will.  </s>
+<s> bob  </s>
+<s> you want to avoid a amplifier.  </s>
+<s> they tend to increase the noise and the signal.  </s>
+<s> sometime it will actually work worse.  </s>
+<s> the cheapest route if you can do it is to replace the antennas on the router.  </s>
+<s> it will help a small amount but you will still have the small antenna on the user side in most cases.  </s>
+<s> there are devices called wireless extenders that will take the signal from the router and rebuild and retransmit it as opposed to a amplifier than just increases the power.  </s>
+<s> these to a point work but you now have 2 radio links that can get interference.  </s>
+<s> with all the isp installing wireless in everyones house lately it is very hard to get any distance because everyone is stomping on each other.  </s>
+<s> ok, thank you.  </s>
+<s> thought maybe there is an antennae that we could purchase and mount on the apartment to get a better signal or something.  </s>
+<s> you best bet is a wireless extender.  </s>
+<s> still you must have a usable signal someplace in the apartment.  </s>
+<s> all it really does is allow you to not sit at that one place it works.  </s>
+<s> needless to say the signal will never be any better that that location so if it does not work well there the extender will not improve it.  </s>
+<s> now if you can't get a good signal inside the apartment you will have to go with some form of external antenna.  </s>
+<s> this gets very complex very fast.  </s>
+<s> one of the simpler ways i have seen are the antenna that contain access points or routers.  </s>
+<s> this is one example and this company most likely has what you need but you may need to dig to find something that will work for you and you can afford.  </s>
+<s> i use an access point and usb antenna on the receiving computer from engenius sold by keenen systems.  </s>
+<s> for under $150.  </s>
+<s> this can be very simple or very complex - many factors will dictate which in your case, such as what the construction of the buildings is (clue: metal frames are a disaster!), what lies between the main building and the apaertment (clue: trees and metal fences are not good news) and how many of your neighbours have wifi networks, which may interfere due to channel saturation.  </s>
+<s> you may be lucky - i can see my neighbour's network at about 50% signal strength and our houses are a good 50 metres apart - but then they are wood framed, with nothing in between and only one other network in the vicinity.  </s>
+<s> experimentation is the best way to find out - does your local pc kit shop offer sale or return deals?  </s>
+<s> you will want an 802.11n1+ wireless router, which will give you better range, a won't reach and b will be and g may be unreliable over that range.  </s>
+<s> locate the router on the appartment side of the house to avoid as many obstacles within the construction of the house and not near the kitchen or a cordless phone.  </s>
+<s> see if you can pick up the signal in the apartment on a laptop or whatever.  </s>
+<s> i'd be inclined to use a wireless adaptor (n1+) with free standing aerials, rather than a usb dongle.  </s>
+<s> you may need to use an access point (n1+) in the apartment on the house side, again away from the kitchen or any cordless phones to receive and forward the signal to the apartment.  </s>
+<s> if you are getting a lot of noise or signal drops and reconnections, try using alternate wifi channels to try to find less congested ones - most people will just use the factory default, which can result in congestion interference.  </s>
+<s> your router manual will explain how.  </s>
+<s> if you are still having problems, you can try alternate antenae (congratulations on being a latin scholar!) - maybe a directional one rather than the standard omnidirectional one or a high gain antena.  </s>
+<s> as another poster mentioned signal amplifiers tend to amplify noise as well as signal and i've never had much success with them.  </s>
+<s> do remember to enable all the security features on your router, wpa2 encryption, change your ssid and don't broadcast it and use mac filtering.  </s>
+<s> finally, if all else fails and both the house and the apartment are on your property, you could try a wired connection, cat7 or fibre, in a conduit from your router to an access point in the apartment!  </s>
+<s> lots of fun and games to be had, i think!  </s>

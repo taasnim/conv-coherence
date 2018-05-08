@@ -1,0 +1,50 @@
+<s> how do i troubleshoot a linksys router?  </s>
+<s> there is no manual available.  </s>
+<s> my dsl connection is good for my main computer, but neither of the other computers is getting a signal.  </s>
+<s> one is wired, the other is connected by wireless across the parking lot.  </s>
+<s> one linksys device is a 10/100 workgroup switch. the green power light in the lower left is steady.  </s>
+<s> there are three rows of lights to the right, and five columns in each row, numbered 1-5 left to right. the topmost row is labeled &quot;link/act&quot; and light #5 is a steady green.  </s>
+<s> 1-4 are dark. the second row says &quot;100&quot;. light #5 is steady green.  </s>
+<s> lights 1 and 2 blink steadily, a pulse each three or four seconds.  </s>
+<s> 3 and 4 are dark. the lowest row says &quot;full/col&quot;. light 5 is a steady amber; the rest are dark.  </s>
+<s> is this device operating normally or not? the other linksys device is a 2.4 ghz broadband router with one row of green lights. the power light is steady.  </s>
+<s> &quot;wireless-b&quot; is steady.  </s>
+<s> numbers 1-4 (surrounded by an oval) show: 1-steady 2-dark 3-steady 4-dark.  </s>
+<s> &quot;internet&quot; is steady.  </s>
+<s> all cable connections between the units, the dsl modem, and the computer appear to be proper.  </s>
+<s> any suggestions?  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads  </s>
+<s> if you can get me the model numbers (generally found on the stickers on the bottoms of the equipment, or sometimes on the faceplate), i can get you links to the manuals. the model number is generally 3-5 letters followed by 1-3 numbers, sometimes followed by another letter... examples are befsr41, wap54g, and the like.  </s>
+<s> with regards to the other computer trying to connect via wireless, you say &quot;across the parking lot&quot;.  </s>
+<s> have you confirmed that this computer can actually establish a signal with the wireless access point?  </s>
+<s> through walls and such, i've found that the maximum operable distance for 802.11b/g is around 75-100 feet or so (especially if there are other access points in the area creating interference).  </s>
+<s> the model number on the workgroup switch is almost microscopic.  </s>
+<s> i think it might be ezx555w ver. 3 the router might be befw11sr ver. 4 range is not a problem.  </s>
+<s> everything's been working fine for nearly two years.  </s>
+<s> thanks.  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads  </s>
+<s> the dark link/act lights on the switch (ports 1-4) would suggest that nothing is connected to them, though the blinking in the ''100'' row is disconcerting at best. the manual for your router can be found at the link below.  </s>
+<s> i'd suggest removing the switch entirely from your network layout, plugging everything directly into your befw11s4 router.  </s>
+<s> if the wired computer that is currently having issues is then able to connect, then that would suggest the switch might be a problem.  </s>
+<s> i'd hazard a guess that the problem with your wireless computer is something unrelated.  </s>
+<s> try logging into the router's configuration page to see if the router sees any devices connected.  </s>
+<s> if it doesn't, check the wireless computer's wireless configuration and make sure it can see the router; also make sure it has the appropriate wep/wpa key set if you're using either security method.  </s>
+<s> i'm a bit out of it right now so those are the only things i can think of at the moment, but hopefully that will get you started... perhaps someone else here can help you along further if you're unable to solve the issues.  </s>
+<s> (sorry the url is so long... blame linksys)  </s>
+<s> i'll check those things out and see what happens.  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads  </s>

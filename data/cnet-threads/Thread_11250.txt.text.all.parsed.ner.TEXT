@@ -1,0 +1,29 @@
+<s> is there anyway to share a printer when one computer is dialed into a vpn network and the other one is not (outside of swapping the usb cable back and forth).  </s>
+<s> i have a work computer and a personal computer at home that share the monitor/keyboard/mouse and would also like it if they could share the printer.  </s>
+<s> both systems run win xp pro and access the internet via a netgear router(wireless but both are hardwired).  </s>
+<s> my work computer has wireless but my personal does not.  </s>
+<s> if i added a print server could my work computer access it via wireless(while still on vpn) while my personal used usb?  </s>
+<s> thanks for any help.  </s>
+<s> if you allowed such, vpn would have a security hole.  </s>
+<s> think it over and over and over and you'll understand why a vpn drops other network connections.  </s>
+<s> but you can plug the printer directly to the vpn'd machine and print.  </s>
+<s> nothing broken... bob  </s>
+<s> what about a usb hub, splitter, or something so that i could plug both computers into 1 printer?  </s>
+<s> thanks for the help.  </s>
+<s> such usb sharing ports, splitters and such cost just as much as some printers.  </s>
+<s> try justifying this with a little math.  </s>
+<s> bob  </s>
+<s> a bluetooth printer.  </s>
+<s> sadly this is not cheap.  </s>
+<s> could be more than another printer.  </s>
+<s> how would bluetooth be any different then adding on a wireless print server?  </s>
+<s> not that money is no object but for the convenience i wouldn't have a problem spending $100.  </s>
+<s> as such, vpn would not block its use.  </s>
+<s> bob  </s>
+<s> found a usb share switch that pretty much does the trick.  </s>
+<s> allows you to connect 1 device to several pc's.  </s>
+<s> does not switch automatically when needed but provides a hot key that makes it pretty easy.  </s>
+<s> if you have two computers running win xp pro on the same router, all you need to do is enable file/print sharing on both computers (use the network setup wizard) and as long as the computer with the printer on it is on, the other will have access to it.  </s>
+<s> that would work if i was not connected to my vpn.  </s>
+<s> that's why i started this thread.  </s>
+<s> without the vpn its easy.  </s>

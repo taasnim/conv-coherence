@@ -1,0 +1,6 @@
+(TOP (S (NP (NNP hey)) (VP (VB please) (VP (VB give) (NP (PRP me)) (NP (NN advice.is))))) )
+(TOP (FRAG (NP (DT this) (NN system)) (ADJP (JJ good) (PP (IN for) (NP (PRP$ its) (NN price)))) (. ?) (. ?) (S (NP (PRP i)) (VP (AUX need) (NP (NP (JJ immediate) (NN advice/help)) (PP (IN about) (NP (PRP it))) (NP (NP (NN sound) (NN quality)) (CC and) (NP (PRP$ its) (NN bass)))))) (. ?)) )
+(TOP (SINV (PP (IN because) (NP (PRP$ my) (NN vs4121))) (VP (AUX is)) (NP (QP (SYM f) (CD *****) (CD *)) (JJ distorted)) (. .)) )
+(TOP (S (S (VP (VB check) (PRT (RP out)) (NP (PRP$ my) (JJ objective) (NNS reviews)) (PP (IN at)))) (: :) (S (NP (PRP i)) (VP (MD 'll) (VP (AUX be) (VP (VBG posting) (NP (JJR more) (NNS reviews)) (ADVP (RB soon)))))) (. .)) )
+(TOP (S (S (NP (PRP i)) (VP (VBD followed) (NP (NP (DT the) (NN link)) (PP (IN for) (NP (PRP$ your) (NNS speakers)))))) (, ,) (RB then) (S (NP (PRP i)) (VP (VBD checked) (PRT (RP out)) (NP (NP (DT a) (JJ related) (NN link)) (PRN (-LRB- -LRB-) (NP (JJ same) (NN site)) (-RRB- -RRB-)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ states) (NP (NP (DT the) (JJ obvious)) (PP (IN in) (NP (VBZ regards)))) (PP (TO to) (NP (NN pc) (NN audio))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBP thank) (NP (JJ harmonics) (NN review)) (PP (IN for) (NP (DT an) (JJ informative) (NN read)))) (. .)) )

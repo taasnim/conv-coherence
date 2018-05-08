@@ -1,0 +1,7 @@
+<s> hi all, i need to use an ericsson 4425 voip phone over a cisco switched network.  </s>
+<s> the switch i'm presently testing with is a catalyst 3550.  </s>
+<s> i have created an access and a voice vlan for data and voice respectively... on the switch access port.  </s>
+<s> although the traffic from the voip phone could have straightaway gone into the voice vlan in case of cisco phone ... with ericsson , it doesn't seem to be happening that way. the voip phone still takes an ip from the access vlan dhcp.  </s>
+<s> pls suggest the ideal way to segreggate traffic into voice and access vlans at the ingress switchport.  </s>
+<s> i have the same problem help, plis!  </s>
+<s> changing the port that the new phone is in to the vlan for voice may help.  </s>

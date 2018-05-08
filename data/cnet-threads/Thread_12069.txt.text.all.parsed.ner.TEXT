@@ -1,0 +1,90 @@
+<s> my computer has an esata port, not the esatap port though, so most modern external hard drives will not work with it.  </s>
+<s> i had to find myself an external hard drive case that had esata and an independent power source.  </s>
+<s> i found it in this case. the reviews are good, it's nice and shiny, and it can support up to 3 terabytes.  </s>
+<s> i got myself a caviar black, 2 terabyte western digital internal sata drive to put in it, and the drive just arrived today.  </s>
+<s> this is the first time i've done this so i was extremely careful throughout the entire process.  </s>
+<s> i grounded myself, i didn't touch any of the green circuit board surfaces, i didn't force the screws, and i followed every step to the letter.  </s>
+<s> i've now reached the step where i have to plug the complete drive into the esata port on my computer and... nothing is happening.  </s>
+<s> it's plugged into the wall, the switch is on the on position, i can even hear the drive spinning, but... the drive will not appear in my computer.  </s>
+<s> the drive case also came with a usb 3.0 cable, so even though my computer doesn't have any usb 3.0 i tried to plug it in, just to see if it works.  </s>
+<s> that one does give me a reaction, the computer tells me it has detected a new device.  </s>
+<s> it installed the drivers for about 2 seconds, and then it did... nothing else.  </s>
+<s> i still can't see anything in my computer.  </s>
+<s> i tried to reboot, carefully unplug and replug the connections.  </s>
+<s> the only thing i haven't tried yet is re-opening the whole thing and checking to make sure all the connections are good (which i'm sure they are, i triple checked them before screwing it shut.  </s>
+<s> please please please, help me.  </s>
+<s> with taxes and shipping and handling this kit has cost me 270$, i do not want it to all go to waste.  </s>
+<s> i can't understand what's wrong, and both the manual i received and the one from zalman's website offer no help at all.  </s>
+<s> if the drive isn't partioned it doesn't show in my computer.  </s>
+<s> if it's partitioned, but the file system is corrupted somehow, it doesn't show up either.  </s>
+<s> so the question is: does disc management see it?  </s>
+<s> and what does it tell about it.  </s>
+<s> kees  </s>
+<s> i'd like to go on record first stating that the manual stated nothing about disc management, so if this is how one usually goes about installing a new drive, that manual is seriously lacking... also thank you for the quick response time.  </s>
+<s> i ran the disk management program from the start search bar (i'm on windows 7 home 64-bit), and a window popped open that is called &quot;initialize disc&quot; &quot;you must initialize a disk before logical disk manager can access it.  </s>
+<s> select disk: (and here it shows only &quot;disk 3&quot;) use the following partition style for the selected disks.&quot;  </s>
+<s> there are two options, &quot;mbr (master boot record)&quot; and &quot;gpt (guid partition table)&quot;.  </s>
+<s> then it adds, &quot;note: the gpt partition style is not recognized by all previous versions of windows.  </s>
+<s> it is recommended for disks larger than 2tb, or disks used on ltanium-based computers.&quot;  </s>
+<s> wow, so much technobabble...  </s>
+<s> i got super impatient and decided to go for the mbr option.  </s>
+<s> disc 3 popped up in the list of drives in the manager, along with disc 0 (my main c: drive inside the computer), and disc 1 and disc 2 which both seem to be... not present.  </s>
+<s> those 2 might be my external portable drives i have somewhere.  </s>
+<s> so yeah, the drive said something like &quot;unallocated&quot;, so i right clicked and asked him to... initiallize, i think (i should have taken better notes).  </s>
+<s> he then asked me if i wanted my drive to be ntfs or exfat, and i have to say i have no godly idea what those mean, i did a quick search and got the vague idea that ntfs is more common, and picked that one.  </s>
+<s> so after a brief bit of panic and a wizard installation, it works.  </s>
+<s> so... yeah, if anyone still wants to explain how it works, perticularly what the difference between ntfs and exfat is, for future purposes, please feel free to post.  </s>
+<s> ummmm... something's gone wrong.  </s>
+<s> not sure what it is yet.  </s>
+<s> i started transfering movies to the new drive, while simultaneously browsing on chrome, and chatting on msn.  </s>
+<s> since i've upgraded the ram to 7 gb this kind of simple multitasking has never been a problem.  </s>
+<s> but... while i was transfering it started these huge bouts of lag, each one lasting over 5 seconds, spaced about a minute apart.  </s>
+<s> i tried to shut off msn and chrome, but my entire computer locked up, i had to force shut down using the power button and unplugged the new drive.  </s>
+<s> now i'm scared to plug it back in again.  </s>
+<s> any idea what the hell just happened?  </s>
+<s> to avoid all the overhead of copying with explorer i have for years used the command line since it avoids explorer looking at each file and building thumbnails and more.  </s>
+<s> not much new going on.  </s>
+<s> bob  </s>
+<s> so what do you think i should do to help avoid these bugs?  </s>
+<s> did i do something wrong when i initialized it?  </s>
+<s> or do you think they are inherent bugs with the setup?  </s>
+<s> because none of the reviews mentioned anything like this... of course it could also be a failing on my cheap-skate computer itself.  </s>
+<s> bad news if this is the case, i will need to get a new comp sooner than later.  </s>
+<s> good news, the drive itself should be fine, and when i do get a new comp it should run perfectly.  </s>
+<s> remember that since i can use the command line i don't need an app like:  </s>
+<s> so if i don't know how to use the command line, that app would be of use to me?  </s>
+<s> make the drive less buggy?  </s>
+<s> i've read in my browsing the issue that i might be able to upgrade the bios of my motherboard to better support 2tb hard drives.  </s>
+<s> can anyone confirm or deny this? and if it is true, is upgrading the bios difficult?  </s>
+<s> i found something on my computer's spec sheet: under &quot;storage&quot; it shows (from what i can gather) that it can indeed support 2 tb drives, but only ones that run at 5400 rpm (for some reason).  </s>
+<s> it can support 160/250/320/500/640/750/1000 gb drives at 7200 rpm, but over 1 tb... it needs it to slow down.  </s>
+<s> and wouldn't you know it, i got myself a 7200 rpm 2 tb... i honestly don't know if that's something you can change with bios updates, it sounds frustratingly final.  </s>
+<s> if you don't know how to use the command line processor in your os (bob and i have grown up using ms-dos and know about commands like cd, copy and xcopy and what paths and wildcards are), then use explorer and accept that the machine is more or less unusable while copying files to it.  </s>
+<s> ntfs is a good choice, by the way.  </s>
+<s> kees  </s>
+<s> it's not something one would teach or learn in a forum setting for many reasons.  </s>
+<s> one is that there is the web.  </s>
+<s> &quot;that app&quot; is one that tackles the issues that explorer exposes.  </s>
+<s> using the command line is preferred by me since it solves it without having to install another app.  </s>
+<s> besides how would i do this on other machines?  </s>
+<s> as to the drive being buggy.  </s>
+<s> if false then it's the usual windows is too busy to respond to you.  </s>
+<s> if true then you have a warranty issue and ask the makers of machine, os and drives to fix it.  </s>
+<s> my bet is the usual &quot;windows explorer is too busy issue.&quot;  </s>
+<s> a parting thought is to check the hard drive maker's web page on the drive and see if they issued new firmware.  </s>
+<s> it's pretty rare but does happen that a drive needs updated firmware.  </s>
+<s> yes, it happened to me.  </s>
+<s> bob  </s>
+<s> as i mentioned above, i think it has to do with the rpms.  </s>
+<s> my computer can handle 7200 rpm drives just fine, so long as they are 1 tb or less.  </s>
+<s> above 1 tb it can only handle 5400 rpm.  </s>
+<s> i didn't realize this when i bought the 2 tb 7200 rpm drive.  </s>
+<s> i remember when i was &quot;allocating&quot; the drive that it asked me what rpms i wanted, and i kept them at the default 7200 rpm because i thought it would just help response time.  </s>
+<s> but now i can't seem to find that allocation button in disc management...  </s>
+<s> i can't guess where such misinformation comes from.  </s>
+<s> i think it's from acer's site.  </s>
+<s> though maybe i'm just missunderstanding it.  </s>
+<s> indeed. that specification is about what they offer as an internal hard disk when you buy the machine.  </s>
+<s> either &lt;= 1gb and faster (7200 rpm) or &gt;= 1 gb and slower (5400 rpm), depending on the model.  </s>
+<s> that has nothing to do with your external esata disk.  </s>
+<s> kees  </s>

@@ -1,0 +1,20 @@
+<s> hi ppl well i recently rebuilt a pc and now my onboard sound seems to be buggered.  </s>
+<s> in the control panel it says the sound has a problem.  </s>
+<s> its definately not a software problem as it happened with the previous hdd as well which worked fine b4. does this mean the sound is probably just broken and a new sound card is needed? the system--- antec slk2600 350w asus a7v8x-x athlon xp2800+ 'barton' 512mb twinmos pc2700 ddr ati radeon 9800se @ stock maxtor 80gb 7,200rpm 8mb eide dvd-rom/cdrw winxp pro sp2 cheers chris  </s>
+<s> chris sound drivers installed?  </s>
+<s> what does device manager indicate?  </s>
+<s> bill .  </s>
+<s> hi bill sound drivers are installed, but nothing.  </s>
+<s> can't remember what device manager said exactly was a few days ago but it definately said their was a problem (something like 'this device is not working') and had an exclamation mark by the multimedia or sound stuff.  </s>
+<s> standard approach, if onboard audio, make sure it is enabled in bios if a card, try uninstalling the software and the hardware, then reinstalling both be sure to use most recent driver, even if creative online wizard exam says you don't need it stupid stuff, like reseating the card and make sure you have speakers/headphone in the right jack! - fj  </s>
+<s> also make sure your volume isn't turned down in the various mixers.  </s>
+<s> --fj  </s>
+<s> in addition to the above suggestions, look in device manager.  </s>
+<s> locate the sound device in the list, open the propertyies card (right click, select properties) on the general tab at, check at bottom to see if the device is enabled.  </s>
+<s> it should say something like (use this device, enable)  </s>
+<s> ok ill try and answer all suggestions.  </s>
+<s> it is onboard sound.  </s>
+<s> well to start with the drivers, i installed the drivers on the rebuild and it didnt work, so i decided putting the old hdd back with the original drivers and data and that also didnt work.  </s>
+<s> in the bios everything seems to be enabled that needs to be (is possible that i might have missed something, wot should i look for?). also volume is up and all connections are correct.  </s>
+<s> in device manager the sound device is enabled but mentions that the device is not working properly.  </s>
+<s> seems that i may have damaged the onboard sound on the mobo while rebuilding.  </s>

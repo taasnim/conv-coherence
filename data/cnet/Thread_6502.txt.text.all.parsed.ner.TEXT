@@ -1,0 +1,49 @@
+<s> hello - my wife's graphite clamshell g3, 466mhz, 512mb ram, 10 gig hd [7.1 free], panther 10.3.9, started running very slowly a week ago.  </s>
+<s> she's using the firefox browser, we're on wifi at home, and accustomed to great performance from this wonderful old computer.  </s>
+<s> i had thought to do a clean install of the panther os thinking that might help, but disk #1 would not 'initiate' in the computer and now is 'stuck' in the computer, recycling constantly through its attempts while 'quit installer', 'restart' have no effect.  </s>
+<s> and, during this process, somehow, upon startup, the computer shows a small picture of the world, changing to a blinking folder showing a question mark on it.  </s>
+<s> i don't have the original install disks that came with it, having bought it used some years ago.  </s>
+<s> i did find an apple download for the aht one could make by burning a cd of it through disk utility and using firewire through my powerbook g4 to 'boot' into aht.  </s>
+<s> but i'm unable to complete this process.  </s>
+<s> i can see the hd of the g3, and the aht disk on the g4 finder, but i'm unable to do anything with it.  </s>
+<s> thanks much for your help; hoping this little computer can be saved.  </s>
+<s> i find i had to replace cd/dvd drives, get new media and more.  </s>
+<s> while the machine may be saved some don't want to replace a few parts.  </s>
+<s> bob  </s>
+<s> press, and hold down, the power button until the computer shuts off.  </s>
+<s> once it's off, press the power button again and hold down the mouse button.  </s>
+<s> keep it held down until the disk pops out. the &quot;world&quot; icon indicates that the ibook is trying to find a startup volume on the network.  </s>
+<s> if it continues, and you are unable to complete the boot process, shut down the computer again and when you restart, hold down the option key.  </s>
+<s> keep it down until you see a choice of startup volumes.  </s>
+<s> choose the internal hd and continue the boot.  </s>
+<s> once booted, go to the &quot;startup disk&quot; control panel and set the startup to the internal hd.  </s>
+<s> you could then try repairing the permissions, not always a cure all but worth doing.  </s>
+<s> as bob mentioned, things wear out over time.  </s>
+<s> do you have an external firewire hd you could use?  </s>
+<s> p  </s>
+<s> panther disk released from captivity.  </s>
+<s> holding down the 'option' key brings up a blue screen with the choices of a reversed arrow, and a 'continue' straight arrow button.  </s>
+<s> neither would 'fire' a response.  </s>
+<s> in the meantime i found a g3 'boot from 'c' install disk', may not have been the correct one, but it started and disk utility gave the hd a clean bill of health.  </s>
+<s> i also found the manner to do the aht from the burned disk i'd made from an apple download.  </s>
+<s> it ran three times, clearing all, mass storage, ram, and logic board.  </s>
+<s> either of these tests could be wrong of course.  </s>
+<s> i also tried zapping the 'pram'.  </s>
+<s> but i'm determined, is there a next step?  </s>
+<s> thanks much for your help.  </s>
+<s> the blue screen is normal but you should have had an icon or two on the screen.  </s>
+<s> the icons represent the choices of boot disk that are available to the computer.  </s>
+<s> selecting one of the icons and then pressing the &quot;straight&quot; arrow should start the boot sequence from the selected source.  </s>
+<s> i don't know what you mean by &quot;boot from &quot;c&quot; install disk&quot;. is this a os x installation disk?  </s>
+<s> if the machine boots correctly from its hard drive, and you have not said if it does or not, is it still slow?  </s>
+<s> if the answer is yes, then it may be time to do an &quot;archive and install&quot; of the os. this is quite easy but does require that you have a working installation disk for os x (10.3.x) when you find one, let us know p  </s>
+<s> well, i don't know why this simple operation won't work for me, but holding down the 'option' key reveals only the 'post-selection' arrows, not the choices of boot disks which would get me to where progress is possible.  </s>
+<s> i have it at that state now, and perhaps will just leave it for awhile to see if anything better developes.  </s>
+<s> i'm doubting that without these choices being available a solution here is coming?  </s>
+<s> thanks again.  </s>
+<s> will not be forthcoming unless you have the working os x installation disks or the computer boots correctly from the hard drive p  </s>
+<s> i may not have had the original install osx disks, but those i had worked!  </s>
+<s> all's fine on it now, except it's running 10.2.8, housecat?,  </s>
+<s> instead of panther 10.3.9. eventually i'll buy the panther disks again, but for now it's fine.  </s>
+<s> i can now see that the ram is 320mb; what would be the max ram, and would there be any real benefit to going there?  </s>
+<s> thanks again very much for your help.  </s>

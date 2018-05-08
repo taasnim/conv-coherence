@@ -1,0 +1,49 @@
+<s> just as the title says.  </s>
+<s> here are my problems: 1) usb devices: my computer won't boot if there's a usb device plugged in.  </s>
+<s> it just stays frozen at the post stage.  </s>
+<s> i can't reboot with ctrl-alt-delete; i need to turn it off using the power button.  </s>
+<s> also, if i plug a usb device (ipod nano) in after windoze loads, i get a message in the taskbar saying that &quot;this device can perform faster&quot; if i had a usb 2.0 port.  </s>
+<s> this is strange because all my usb ports, on the back of my motherboard, and on the side of the case, are usb 2.0.  </s>
+<s> 2) hard drive: my sata150 hard drive is being recognized as an ata133 drive in the bios.  </s>
+<s> also, in my taskbar i have the safely remove hardware icon.  </s>
+<s> when i click on it, it gives me the option to safely remove the c drive.  </s>
+<s> i don't know if this could be called a problem; it's just a little worrying to have the option to &quot;safely remove&quot; my hard drive.  </s>
+<s> 3) dvd: when i try to play a dvd using windows media player, i get a message saying, &quot;windows media player cannot play the dvd because a compatible dvd decoder is not installed on your computer.&quot;  </s>
+<s> here are my system specs: dfi nf4-dagf motherboard athlon 64 3700+ socket 939 2*512mb generic ddr400 asus x600 western digital 250gb sata dvd drive dvd-r burner thermaltake tr2 430 watt power supply cooler master cavalier case windows xp home thanks in advance for any help that anyone can provide.  </s>
+<s> and reinstalled xp. what else are you not telling us?  </s>
+<s> 1.) typical behavior if the usb-2 drivers have not been installed.  </s>
+<s> 2.) same on the hard drive drivers.  </s>
+<s> have you reinstalled all the motherboard drivers?  </s>
+<s> 3.) wmp does not come with codecs for dvds.  </s>
+<s> you need dvd player software.  </s>
+<s> ...about 2 weeks ago and i reinstalled windows. the first thing that i did after windows insatlled was to install the usb, chipset, and network drivers that came with the motherboard.  </s>
+<s> hard drive drivers?  </s>
+<s> i thought that windows xp had a built-in hard drive driver?  </s>
+<s> anyway, my hard drive is an oem drive; it didn't come with any cds or anything like that.  </s>
+<s> installing windows is not easy.  </s>
+<s> but you had it proper before.  </s>
+<s> just repeat what you did the first time or check the install directions for your system.  </s>
+<s> bob  </s>
+<s> ...it asked me if i need to install a 3rd party ssci or raid driver, which i did not.  </s>
+<s> the only drivers that came with the motherboard are an sata raid driver and drivers for the chipset, usb and onboard lan.  </s>
+<s> all of these problems started happening after i installed this motherboard and cpu; before i was using a p4 and an hp motherboard.  </s>
+<s> my pc was originally an hp, and that's why i don't have any documentation or anything for the hard drive.  </s>
+<s> and maybe i should mention that i'm using xp home with sp2 and all the latest updates.  </s>
+<s> usb: have you installed the latest nforce4 adm drivers?  </s>
+<s> also, make sure bios-&gt;integrated peripherals-&gt;onchip usb is set to v1.1+v2.0.  </s>
+<s> hd: sata drives are typically exposed as ata devices by the mobo unless you turn on raid.  </s>
+<s> as for your c: being removable, make sure its write policy is &quot;optimized for performance.&quot;  </s>
+<s> i'll do some more checking to see how to tell windows its not removable.  </s>
+<s> dvd: xp doesn't come with a dvd decoder.  </s>
+<s> you need a third party product like nero (full version), powerdvd, windvd, etc. in order to watch dvds.  </s>
+<s> there's probably a decoder on your hp software cds but with the new hardware, it may not think it's an hp pc.  </s>
+<s> ...it was the first thing i did after i installed windows.  </s>
+<s> i don't have any cds that originally came with the computer; it was a refurb.  </s>
+<s> i'll download powerdvd later today and tell what happens.  </s>
+<s> are you using front or rear usb ports?  </s>
+<s> if it still complains about faster operation with the rear ports, something's wrong with the setup.  </s>
+<s> if it only complains with front ports, then they may not be usb 2.0 compliant.  </s>
+<s> (don't know what the diff is but my front's only work at 1.1).  </s>
+<s> the usb ports on the back of the motherboard are usb 2.0, along with the ports on the side of the case.  </s>
+<s> i get the same message if i plug the device into either port.  </s>
+<s> btw, the difference between usb 1.1 and 2.0 is the speed; i can't remember them off-hand, but usb 2.0 is a lot faster than 1.1.  </s>

@@ -1,0 +1,41 @@
+<s> i have 3 western digital hard drives.  </s>
+<s> two wd-2500ks (250 gigs) and a wd-2000jd (200 gig), all sata.  </s>
+<s> i use one of the 250's for my os and the other two for additional storage.  </s>
+<s> i also have a 250 gig mybook for backups.  </s>
+<s> i have two problems.  </s>
+<s> i'm going to reinstall windows xp next week, and i know that as soon as i plug in the mybook it will recognize it.  </s>
+<s> how do i get it that my internal storage drives can be recognized without having to format them and clear off all the data?  </s>
+<s> i don't mind formatting the 200 because there's nothing on it that's not backed up.  </s>
+<s> but the 250 has all my tivo's videos in it and it won't fit in my almost full mybook, so i'd really like to keep it the way it is.  </s>
+<s> my other is that windows isn't recognizing all the space.  </s>
+<s> it takes 12 gigs off.  </s>
+<s> it says the 250's are 232 and the 200 is 186. is this normal for service pack 2? also, the 200 gig is an older one that i haven't used much and the 250's are only about 6 months old. is there any freeware out there that can tell me which drive is healthier so i can install the os on the healthier drive?  </s>
+<s> and  </s>
+<s> 1. there are two kinds of gb. one is 1 billion bytes, the other is 2**30 bytes. the last one is bigger, so there fit less on a disk. the maker advertizes the smaller version (of which there are more), windows reports the larger version (of which there are less).  </s>
+<s> take your calculator and you'll see you've got no problem at all.  </s>
+<s> 2. windows xp setup has the option - in principle - to only delete the windows folder and the program files folder and leave the rest as it is.  </s>
+<s> still, if i were you, i'd buy a second external hard disk to backup the 200 gb to.  </s>
+<s> it's a good idea to have a backup of everything, including your tivo's you don't want to lose.  </s>
+<s> and you might need the driver diskette (press f6 when asked if you've got such) or setup won't recognize the sata disk at all (unless it's a recent version of xp media center, i'm being told).  </s>
+<s> if you've got more question on the setup, the xp forum is a better place.  </s>
+<s> hope this helps, kees  </s>
+<s> yeah, i should probably buy another mybook, they're always on sale at my local best buy. the weird thing that i don't understand is that windows won't recognize a new or blank hard drive until it's formated by western digital's data lifeguard, but it will if windows is on the drive. the 2nd 250 used to have my os, but i installed windows on the other one and stopped using the old one for a while.  </s>
+<s> when i plugged it back in a few days ago it was recognized by windows without any formatting.  </s>
+<s> was it because windows was still on the drive?  </s>
+<s> in that case, would it be a good idea for now to install windows on the other 250, leaving the files intact, then installing windows on the 200 and formatting the one i'm using right now. then copy all the files from the os 250 to the blank one, then reformat the os one, so i'd have the os on the 200, and both 250's would be additional storage.  </s>
+<s> i hope that's not too confusing.  </s>
+<s> oh and another question, is it better to have my os on the smaller drive and the bigger ones as storage?  </s>
+<s> thanks for all the help with this.  </s>
+<s> it doesn't matter at all what's on a disk.  </s>
+<s> it's recognized by my computer or windows explorer as soon as it is has a properly formatted partition.  </s>
+<s> it's recognized by disk management even if not partitioned at all (it will report unallocated space).  </s>
+<s> saying that windows doesn't recognize the disk is senseless, as long as you don't tell what part of windows (either my computer/windows explorer or disk management). the partition has to be formatted to have windows on it, of course.  </s>
+<s> that's the only relation that's reasonable. the best drive for the os is the fastest one.  </s>
+<s> size is unimportant as long as it's more than 10 gb (which allows for windows, program files, swap space, spool space and other minor uses).  </s>
+<s> kees  </s>
+<s> **what i meant was windows explorer/my computer.  </s>
+<s> when i re-instll the os, will it recognize my other drives that are currently partitioned with data on them?  </s>
+<s> windows xp will have difficulty with any drive over 127gb until you install sp1.  </s>
+<s> windows xp sp2 will be fine as soon as the motherboard drivers are installed on most machines.  </s>
+<s> minor differences like that mean the answer changes with what you have.  </s>
+<s> bob  </s>

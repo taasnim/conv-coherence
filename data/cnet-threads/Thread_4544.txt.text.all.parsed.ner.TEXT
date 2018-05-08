@@ -1,0 +1,27 @@
+<s> my dad just got a linksys wirless-g 2.4 ghz broadband router and i cant get his or my computer to sign on the internet.  </s>
+<s> my dad has a sony pcg-4e1l labtop with a built in wireless card running windows xp professional version 2002 service pack 2 and i have a systemax built to order running windows xp home edition version 2002 service pach 2. we have verison dsl.  </s>
+<s> for the devices... did you install the router correctly (read the manual) did you have a wireless adaptor on each of your laptop?  </s>
+<s> did you update the firmware, for the router and your wireless adaptor.  </s>
+<s> did you turn on or enabled any security (disable it, then enable after everything are working) did you try connecting it using rj45 cable (wired/cable) etc.  </s>
+<s> i just did what the linksys cd told me to do.  </s>
+<s> i got a connection but can't sign on either computer.  </s>
+<s> the dsl runs to the linksys and then i got a ethernet cord going back to my desktop computer.  </s>
+<s> i get a connection but cant sighn on.  </s>
+<s> my dad's labtop is the one that uses the wirless connection and it has a excellent connection but again can't sign on.  </s>
+<s> ''the dsl runs to the linksys and then i got a ethernet cord going back to my desktop computer.  </s>
+<s> i get a connection but cant sighn on.'' using hardwired.. what do you mean can not sign on?? did you connect them on the correct port?  </s>
+<s> (dsl go to wan port of the router, and the pc on the lan port) what ip did you get? - did you get the ip automatically (dhcp enabled) or you put in manually?  </s>
+<s> can you ping the router?  </s>
+<s> this is what you should have for dsl.  </s>
+<s> [dsl modem]-----[router]----(pc) wan port lan ports 192.168.0.1 pppoe?  </s>
+<s> dhcp server 192.168.0.x public ip as soon as you plug your pc into the lan, you should get an ip address.  </s>
+<s> check using ipconfig in a dos window.  </s>
+<s> if you have an ip, then you can log into the router with the web browser.  </s>
+<s> put the &quot;default gateway&quot; ip address from ipconfig above in the url section of the browser.  </s>
+<s> you should get prompted for a user name and password.  </s>
+<s> you should already know these.  </s>
+<s> now check the status page on the router. the wan port should have an ip address and mask and dns info.  </s>
+<s> if it does not you probably need to configure the wan port.  </s>
+<s> if the isp uses pppoe, you need to enter the username and the password and set the connection method to pppoe.  </s>
+<s> if your isp uses dhcp to assign addresses then it should be working.  </s>
+<s> skrall  </s>

@@ -1,0 +1,41 @@
+<s> so i was playing with my bios rom and adding a custom pic of jonna dark leaning on a perfect dark logo with some program called my pic.  </s>
+<s> after i flashed the new bios, it was dead.  </s>
+<s> i thought, oh yeah, gotta reset the jp1 jumper to clear the bios settings so it will boot.  </s>
+<s> well i did that and it still will not boot.  </s>
+<s> then i though ooo yeah, i got that top hat thingy, so i can just pop that over my old bios and good as old.  </s>
+<s> i can redo my bios after that and everything will be ok! well when i put the top hat chip on, i got long beeps over and over and since its award bios.  </s>
+<s> that means nothing!  </s>
+<s> so wtf is a fella to do?  </s>
+<s> fyi, its a $150 mobo.  </s>
+<s> replacement not really an option.  </s>
+<s> sells bios and will cross-ship.  </s>
+<s> your motherboard manufacturer may sell bios's also.  </s>
+<s> if you have a friend with the same motherboard, check the electronics parts supply stores in your area.  </s>
+<s> they may be able to reprogram your chip from your friend's.  </s>
+<s> last ditch, very dangerous, not recommended option: if you've got a spare motherboard, you can boot it to dos, pull that bios chip and replace it with yours while the pc is on, and try running the bios upgrade for your motherboard.  </s>
+<s> i've used this service from and have done ok. check it out and pricing is explained and alot less than new mtrbd.  </s>
+<s> also, i suggest and see if your system has a &quot;boot strap&quot; feature to possibility recover, check your mtrbd.  </s>
+<s> cd and look for it or that topic.  </s>
+<s> tada -----willy  </s>
+<s> can do.  </s>
+<s> i am also looking into the possiblilty of flashing my top hat with an old component that it would fit over... hmmm... buy buy buy huh?  </s>
+<s> well some people dint have money to waste.  </s>
+<s> j/k  </s>
+<s> ok this top hat thing is interesting.  </s>
+<s> can i put this on another device that has one and do a flash of it?  </s>
+<s> if &quot;top hat&quot; means &quot;hot flashing&quot; placing one ic over another, then you're on your own. it may work it may not on its own merits.  </s>
+<s> further, having successfully done it, you still need *very similar* mtrbd.  </s>
+<s> bios otherwise, features will get hosed or simply place a corrupted bios(to org.  </s>
+<s> mtrbd.) from new source and get flaky even if boots-up which alone is good but not 100% as you may find out.  </s>
+<s> if it gets this far, you can then try reflashing again to the corrupted bios from org.  </s>
+<s> bios file to rebuild it to its &quot;proper bios level&quot; or any working revision now current.  </s>
+<s> tada -----willy  </s>
+<s> what i meant was, to boot up a working motherboard.  </s>
+<s> then while the power was still on, add the tophat and use a program called winflash which flashes the rom while xp is running, to reflash the tophat.  </s>
+<s> once that is completed i would then add the updated top hat to my broken bios mobo and try to boot.  </s>
+<s> but i dont have another mobo in the house with the tophat and xp... so i was thinking of trying this with a component such as a lan card or maybe a video card.  </s>
+<s> unforunatly this doesnt work since firmware updates are much simpler on thoose and only require a program to be run.  </s>
+<s> on the other hand it should be able to be done.  </s>
+<s> i think a great project would be to try to figure out how to make one of these devices.  </s>
+<s> later willy.  </s>
+<s> had a 20$ off cupon, if they fail then i will just rma.  </s>

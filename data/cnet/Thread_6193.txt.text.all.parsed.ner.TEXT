@@ -1,0 +1,14 @@
+<s> we just upgraded from our old belkin g-class router to a new cisco linksys e4200 router.  </s>
+<s> it's a very fast router, but whenever i try to use upnp to stream an hd video (and by hd i mean real hd - think a blu-ray in its full 30-40 mbps glory) from my windows media player library on my pc to my google tv, it pauses to buffer more than i would like.  </s>
+<s> can i correct this, or am i simply biting off more than i can chew with the whole &quot;blu-ray hd&quot; thing?  </s>
+<s> also, is there any way i can use upnp without having to have the videos i want to stream in my wmp library?  </s>
+<s> windows media player has always been a pain for me, from my videos not showing up in the library when i know they're there to not being able to switch audio streams in a video.  </s>
+<s> (if vlc media player or itunes had a upnp library, i would be happy... )  </s>
+<s> that over wifi some forget that if we have a wifi &quot;file server&quot; and a wifi &quot;player or client&quot; that the wifi speed drops to half or quarter speed as the info is sent from the server to the router and then again from the router to the player or client.  </s>
+<s> this is often forgotten by today's users.  </s>
+<s> easy to fix by getting all parts wired.  </s>
+<s> bob  </s>
+<s> turns out all i had to do was soft-reset the router, and the problem is completely solved.  </s>
+<s> wouldn't have thought that i would need to do that to a router that was just out of the box, but then again, with today's technology you never know what you have to do to get things working... hopefully my new router will work fine from here on out.  </s>
+<s> does anyone know how to operate the upnp server without using wmp?  </s>
+<s> if anyone knows the answer to the above question please put your answer on this thread too so i'll see it:  </s>

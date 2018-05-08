@@ -1,0 +1,38 @@
+<s> i'm sorry if my question may be redundant.  </s>
+<s> i'm just short of time to study every thread in forums.i'm  </s>
+<s> a soldier currently deployed in iraq.  </s>
+<s> i've been able to get internet access through one of the contractors here for some of our soldiers.  </s>
+<s> we have a couple of ip addresses.  </s>
+<s> we have the main line coming from the contractor going into a router with lines going to a couple of computers and one line going to linksys router.  </s>
+<s> i have one of the ip addresses in the linksys router(model befsr41 v2), so we could connect up some more computers.  </s>
+<s> most of the laptops hooked to the linksys work fine by just setting the tcp/ip to obtain ip and obtain dns automatically.  </s>
+<s> i have a couple of computers that get the error message limited or no connectivity, when hooked to the linksys.  </s>
+<s> i can hook these same computers on the lines where we just assign static ip's and they work fine.  </s>
+<s> i've tried setting these up with the appropriate ips given in the owners manual but that hasn't worked either.  </s>
+<s> i also have another computer that will work if i give it a static ip address but if i go through any router to obtain ip automatically it just sits and displays acquiring network address.  </s>
+<s> i've read in some stuff that xp sp2 causes problems, and some winsock stuff, but i'm not sure if that applies since these will connect using a static ip and not through a router.  </s>
+<s> any help would be greatly appreciated and this problem is not just with a linksys routers because i've been asked to help out with a couple of computers in our personel office, but they just get the acquiring nework address bug, while they have other pc's that work fine.  </s>
+<s> sorry about the length, but i tried to explain the best i could.  </s>
+<s> thanks in advance.  </s>
+<s> mb  </s>
+<s> set the linksys to hand out more ip addresses?  </s>
+<s> you didn't say what number of dhcp items you have it set to.  </s>
+<s> i have the router set to hand out 10 ip addresses.  </s>
+<s> the most computers i have hooked up at a time is 3 because we have only 3 cables.  </s>
+<s> as for the problems our personel office is having, it could be that they don't have enough ip's set in the router they are coming off of. the computers they can't get to connect always gets acquiring network address.  </s>
+<s> thanks i'll look into that for them.  </s>
+<s> do you suggest anything else it could be.  </s>
+<s> mb  </s>
+<s> intermittent swapping of a few cables around amongst many client systems on the network can cause exactly the problem you are seeing.  </s>
+<s> unfortunately, it's not quite as easy as sharing an electric outlet - you plug your shaver in and shave for a bit and then after you're done i plug mine in.  </s>
+<s> when a modestly intelligent router is turned on, it polls all the ports to learn who is out there and where.  </s>
+<s> it builds a little table in its memory of the mac addresses (serial numbers) of the client adapters it finds, assigns an ip address to a port through its dhcp server, and then uses that information to send data out the appropriate port as needed.  </s>
+<s> when a client system is shutdown normally, it will release from the network and the router will remove it from the routing table.  </s>
+<s> however, if you just unplug the cable from one and connect it to another, the router won't recognize the new connection; it still is expecting the old client mac address at that port.  </s>
+<s> when you rearrange the physical layout of the network, you will have to at least go through a full shutdown of the exiting system, change the cable to a powered down system, and then boot the new client system normally so that it registers itself with the router.  </s>
+<s> in an extreme situation you may even need to reboot the switch.  </s>
+<s> that means everybody goes down for a few minutes while one cable is swapped and then everybody comes back up together with the one new partner in the dance.  </s>
+<s> dw  </s>
+<s> thanks, that helps with what problems we have been having.  </s>
+<s> i appreciate it.  </s>
+<s> mb  </s>

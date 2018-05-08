@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (NP (DT a) (NN friend)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB like) (S (S (VP (TO to) (VP (VB use) (NP (DT a) (JJ dial-up) (NN connection)) (PP (IN over) (NP (PRP$ their) (JJ wifi) (NN network)))))) (, ,) (CC but) (S (NP (PRP i)) (VP (AUX do) (RB n't) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (AUX do) (ADVP (RB this.)) (VP (AUX is) (S (NP (PRP it)) (ADJP (JJ possible)) (S (VP (TO to) (VP (VB share) (NP (NN dial-up)) (PP (IN over) (NP (NP (DT any) (NN kind)) (PP (IN of) (NP (NN network)))))))))) (, ,) (CC but) (VP (VB wifi) (ADVP (RB specifically))))))))))))))))) (. ?)) )
+(TOP (S (VP (VBZ lets) (S (NP (PRP you)) (VP (AUX do) (NP (DT this))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (ADVP (RB actually)) (, ,) (NP (PRP i)) (VP (VBD answered) (NP (PRP$ my) (JJ own) (NN question))) (. .)) )
+(TOP (S (ADVP (RB just)) (VP (VB share) (NP (DT the) (JJ dial-up) (NN connection)) (PP (IN in) (NP (NP (DT the) (NN internet) (NNS properties)) (PP (IN of) (NP (DT the) (NN control) (NN panel)))))) (. .)) )
+(TOP (FRAG (CC but) (NNS thanks) (, ,) (ADVP (RB though)) (. .)) )
+(TOP (SINV (ADVP (RB here)) (VP (AUX is)) (NP (NP (DT a) (NN link)) (PP (TO to) (NP (NP (DT a) (NN page)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (MD may) (VP (AUX have) (NP (NP (DT the) (NN solution)) (PP (TO to) (NP (PRP$ your) (NN question))))))))))) (. .)) )
+(TOP (S (VP (VBP hope) (SBAR (S (NP (PRP it)) (VP (VBZ helps))))) (. !)) )

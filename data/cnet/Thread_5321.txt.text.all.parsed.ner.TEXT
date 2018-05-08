@@ -1,0 +1,22 @@
+<s> hi, i have a desktop (costom built) and i was just wondering if i should get an ssd? is it worth it to replace my 7200rpm 2tb hard drive with an ssd or should i just stick with the hard drive i have??? specs: 2tb7200rpm hdd, 12gb ram, gtx 650ti(2gb), win7(64bit), and an intel core i7 2700k  </s>
+<s> the immediate effect of having a ssd is speed. the response is going to be noticed.  </s>
+<s> there is however the negative effect over time that usage causes some degradation due to the nature of data storage as r/w wear isn't so easily gotten rid of.  </s>
+<s> this all depends on the maker's quality of product and how they deal with it. it shouldn't be that different from one maker to another but cheaper models aren't going last long.  </s>
+<s> take what you want from this but overall your 2tb is already providing use that at about the best traditional hd offer.  </s>
+<s> it's best advantage is they are cheaper for the amount of storage media provided compared to ssd.  </s>
+<s> since, you already have the 2tb, use it then you can add a ssd later as time passes.  </s>
+<s> you may want to make the ssd the boot drive for quick boots.  </s>
+<s> you may want to look at &quot;hyreid drives&quot;.  </s>
+<s> tada -----willy  </s>
+<s> i'll give the nod to &quot;drive accelerators.&quot;  </s>
+<s> i'll stop here and add that on the laptops we are using the hybrid drives since we want the boost without the restrictions.  </s>
+<s> bob  </s>
+<s> in fairness to willy, i'd agree that speed is the main advantge of ssd drives - access times are a tenth of the best of traditional hdd's, but the other big advantage is that of heat - specificlly, lack of it.  </s>
+<s> another one is the relatively small current needed to run an ssd drive; five years ago i built a webserver with five sata2 drives, one carried the os and programs/drivers etc., and the other four were storage drives.  </s>
+<s> when fully booted, that rig was marginal on a 550-watt psu with 2xopteron 275's and a watercooling system on the chip, cpu's and gpu.  </s>
+<s> my main server now runs two 500gb ssd's, one x6 phenom with no secondary drives and just two 120mm fans.  </s>
+<s> three cloud providers host over seven hundred gig of data on the web, and even doing it that way, it's still 30% faster than the big bomber i started with.  </s>
+<s> as far as longevity is concerned, well i can't really comment; all data on the server is backed up to &quot;conventional&quot; hdd's on the old server, which only lights itself up when changes are made.  </s>
+<s> all in all, the ssd setup has saved me over &#163;200 a month, so it's already paid for itself.  </s>
+<s> that came with my system and moved it to a second bay. it was when my system was new and after i installed the apps i needed and then i cloned it.  </s>
+<s> i moved the ssd to bay 1 and the hd to bay 2.  </s>

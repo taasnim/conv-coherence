@@ -1,0 +1,28 @@
+<s> i was looking at motherboards featuring the intel 965 chipset.  </s>
+<s> i have heard of problems with this chipset working well with ddr2 memory above 2.0v is there any truth to this? i wouldn't want to decrease my memory voltage, but run it at the voltage the manufacture specifies in order to keep the performance that i am paying for.  </s>
+<s> some but not all mtrbd.  </s>
+<s> makers list ram modules known to work with thier mtrbd.. once, you find the mtrbd.  </s>
+<s> you plan to buy verify or check the support website, beforehand.  </s>
+<s> it should be the last bit or noted info on memory tested.  </s>
+<s> beware of cheap ram also, as its wide level of sub-performance can be found in demanding mtrbds.,  </s>
+<s> i can only say, if its cheap, expect cheap output overtime.  </s>
+<s> tada -----willy  </s>
+<s> and use mb mfgs ram/qvl support list to pick one they say works with their mb. some mbs.. usually inexpensive ones, just don't have the range of bios options to support ram voltage greater than 1.x ... ergo the reason it's best to follow the mb mfgs recommendations re ram.  </s>
+<s> bottmline you just can't install ram requiring 2.0v when the board can only deliver 1.8v (and no bios option to bump it up) you could also go with a ram mfg who guarantees their ram to work on your mb. crucial, corsair, kingston , etc,.  </s>
+<s> all have ram selectors that usually cite ram that's more or less guaranteed to work in your mb/pc.  </s>
+<s> read carefully and good luck.  </s>
+<s> vapcmd  </s>
+<s> i haven't found to my knowledge, ram voltage to be a common issue.  </s>
+<s> while its very important to have stable voltage coming from the psu, ram voltage isn't that demanding.  </s>
+<s> from memory, ddr is 2.5v, ddr2 is 1.8v and when it comes ddr3 will be 1.2v to 1.5v. the only time you have a problem with ram voltage is in *overclocking* where more voltage is needed to help stabilze ram and even that's in .1 increments.  </s>
+<s> unless the intel965 chipset is some freaky varmit, at least i haven't heard of any bad press.  </s>
+<s> tada -----willy  </s>
+<s> thanks for all the comments and advice everyone.  </s>
+<s> it's mainly the mid to lower end intel boards that restrict you to 1.8v.  </s>
+<s> this is because the bios doesn't allow you to optimize memory voltages (as you would prefer) and even the user define modes leave you very restricted memory timing options.  </s>
+<s> more flexible and user friendly boards that feature the 965 are made by abit and asus.  </s>
+<s> i'm currently using an abit aw9d with an e6300 that i have set at 2233mhz by default.  </s>
+<s> it offers considerable voltage range adjustments.  </s>
+<s> i have 1.8v crucial currently running at 1.95v. the abit ab9 pro and the asus p5b lines would be worth looking into.  </s>
+<s> if you just want some range and not a dragster, the abit aw9d and max are worth considering.  </s>
+<s> you wouldn't regret either one.  </s>

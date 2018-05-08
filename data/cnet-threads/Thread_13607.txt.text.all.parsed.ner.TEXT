@@ -1,0 +1,36 @@
+<s> where do i start... i am fairly new to pc building and have a couple of questions.  </s>
+<s> mission: building a desktop based on intel viiv technology to future proof for multi-streaming of digital content.  </s>
+<s> problem: i have identified a motheboard that seems impresive for the price but it does not have all the required drivers to qaulify for viiv compatability.  </s>
+<s> these drives seem to be avialable on intels site for free, is it as easy as buying the boards, getting the drivers and installing the drivers or does the motherboard have to have some sort of hardware before i can install the drivers.  </s>
+<s> i am not very knowledgeble about drivers. the motherboard i have found cipset is intel p965 socket775, has high defination audio 7.1 channels,and can accept dual-core processors.  </s>
+<s> the mobo model?? anyway, the 965 chipset is considered to be a better set than the 975, so it should be fine.  </s>
+<s> nice if you mentioned what specific drivers you want to install.  </s>
+<s> probably all will be fine if you have the equipment that the driver might require.  </s>
+<s> if it is an intel mobo don't be surprised if it does not have any pata ports.  </s>
+<s> check carefully.  </s>
+<s> intel seems to be forcing everything to go sata. the nvidia 600 series chipsets, still provide a pata port [two drives}.  </s>
+<s> the drivers i will like to install are : intels quick resume thechnology and intel matrix storage technology more background info about why i want these drivers(viiv requirements): the thing is i do not know if the motherborad i want to get has what is required for these drivers.  </s>
+<s> i would guess so because according to intel it is a property the p965 chipset. the motherboard i have found is: wots a mobo model?  </s>
+<s> i dont mind sata but i suppose p atawill be faster since it is parallel data transmission am i right?  </s>
+<s> thanks ray.  </s>
+<s> most of the answers by your own research.  </s>
+<s> at your first link, near the bottom, the three driver items can be clicked on and then gives a thorough explanation.  </s>
+<s> one appears to require using a raid array [multiple hard drives therefore]. the sata for ncq is native command queing.  </s>
+<s> only way to be sure of that is go to the website of the hard drive(s) you plan to buy to check if the specific drive has/supports ncq.  </s>
+<s> can't go by such as sata ii. that is a spec that gives about 5 special features (one is ncq] that a sata drive can have, however it makes no requirement for a drive to have any of them [seems stupid, but it is a specification, not a product].  </s>
+<s> thus saying a drive is sata ii is meaningless and i see very little use of the term lately.  </s>
+<s> don't get this confused with sata 3, some say sata2 drives which are simply those that support the 300 mbytes/second speed [sata 1 was 150 mbytes/second].  </s>
+<s> many sata drives include ncq [but not all].  </s>
+<s> i'll post this and then read about what's needed for the audio.  </s>
+<s> just got finished baby sitting a siberian husky named jazzy blue because of her blue eyes.  </s>
+<s> because you will have the p695express chipset.  </s>
+<s> appears that any cpu will serve, but i hope that you buy core 2 duo using the conroe core.  </s>
+<s> pentiums and d's run much hotter and do not perform nearly as well.  </s>
+<s> no sata is faster, however if you plan to use your old pata atapi [cd drives etc] you would have to buy sata versions of them.  </s>
+<s> somewhere in these forums robert proffitt had said something about xp having problems handling sata atapi [optical,burners, or call them anything that you want, drives].  </s>
+<s> believe it or not over the years the performanc speed of serial busses has passed the parallel, due to noise problems with parallel wiring at higher speeds.  </s>
+<s> seems funny when you find that pci express use a bidirectional serial bus [2 lanes per] and the x 16 has 32 lanes [in parallel?? don't ask me.  </s>
+<s> lol].  </s>
+<s> these busses use self clocking which also eliminates the clocking problem of bits in 32 wires next to each other.  </s>
+<s> just be sure to check whether your mobo has any pata ports and if it doesn't will you still be happy.  </s>
+<s> i guess that without one you can buy a pci card with two ports [4 drives].  </s>

@@ -1,0 +1,37 @@
+<s> we are hopefuly going to be getting high-speed dsl within the month from embarq, our phone company.  </s>
+<s> they use a 2wire home portal gateway router which they charge $149.00 for, then give you $100.00 off, so basically theyll chargeme $49.  </s>
+<s> however, they do charge big-time for the computer network adapters.  </s>
+<s> they sell linksys pci network adapter cards for about $50.  </s>
+<s> i know i can find my own way cheaper.  </s>
+<s> we have two desktops in the house that will be using the router.  </s>
+<s> mine will be hard-wired using a pci card and my brother's upstairs will have to use a wireless pci card.  </s>
+<s> question 1.) to match up with their 2wire device do we have to use linksys pci devices?  </s>
+<s> intel, trendnet, d-link, intel and msi all make pci network adapter cards also.  </s>
+<s> i was leaning towards perhhaps a d-link or intel, but they use bus = &quot;32-bit pci 2.2&quot; or &quot;32-bit 2.3&quot; i don't think my computer has pci 2.2.  </s>
+<s> my everest utility lists (2) pci, (1) pci-e x 1 and (1) pci-e x 16. it does not list a &quot;pci 2.2&quot; i tried reading about pci and it's designations, but other than &quot;express&quot; (a wholeother animal) i'm not cclear about pci differencs.  </s>
+<s> however, i don't want cards that won't fit, not fit, but won't operate.  </s>
+<s> question 2.) should i just go with the more expensive linksys?  </s>
+<s> it's just plain &quot;32-bit pci&quot;?  </s>
+<s> i want them to be compatible with the phone company's device.  </s>
+<s> question 3.) what cable do i need to purchase for my hard-wired connection? is any one better than another?  </s>
+<s> note: both desktops are about 2 years old.  </s>
+<s> both amd athlon 64 2.0 ghz & 2.2ghz.  </s>
+<s> both have pci dial-up modems that we will replace with network cards.  </s>
+<s> i just want to get the correct ones so we're ready as soon as the 2wire router box is in the house  </s>
+<s> network capability with an ethernet port onboard.  </s>
+<s> it's rare to find a 2 year old system without.  </s>
+<s> maybe if you could supply some make and model numbers for those computers we can look for you.  </s>
+<s> 1.) aspire ast-180 amd athlon 64 x2 dual-core processors.  </s>
+<s> windows xp media center sp-2 network card removed and replaced with pci dial-up modem.  </s>
+<s> that &quot;upstairs&quot; computer needs a &quot;wireless&quot; pci network adapter card.  </s>
+<s> 1.) abs awesome amd athlon 64 2.0 gb 3200 windows xp media center sp-2.  </s>
+<s> never had a network card...just a pci dial-up modem.  </s>
+<s> add a wireless pci card to one and a wired nic to the other.  </s>
+<s> plug and play.  </s>
+<s> since network adapters are an industry standard, use the one you wish.  </s>
+<s> i'm partial to d-link.  </s>
+<s> of the two mentioned above, only the wireless will need to have it's software installed.  </s>
+<s> you don't need to stick with their brandname.  </s>
+<s> and same for the other, install the make and model you can get cheap.  </s>
+<s> i'd supply a link to the models in question.  </s>
+<s> onboard lan was common 2 years ago.  </s>

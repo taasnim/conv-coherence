@@ -1,0 +1,40 @@
+<s> on our jobsite we have a gsm broadband router with wifi. it also has 4 wired ports.  </s>
+<s> due to the location of the gsm router some users cannot establish a wifi connection to the router so i have installed a linksys router which is cabled to the gsm router.  </s>
+<s> 5 users are directly cabled via cat5, and 3 users connect via wifi.  </s>
+<s> here is the breakdown: user 1 connects via wifi directly to the gsm router.  </s>
+<s> user 2 and 3 connect via wifi to the linksys router which passes data through to the gsm router via a cat5 patch cable.  </s>
+<s> user 4,5,6 are connected via cat5 cables to the gsm router user 7 and 8 are connected via cat5 cable to the linksys router.  </s>
+<s> a few days ago 4 of my &quot;wired users&quot; and 1 of my wireless users lost the ability to load webpages.  </s>
+<s> they all have active connections, skype and other voip and messaging applications work fine.  </s>
+<s> dns is working properly, i can perform dns lookups from the command line, traceroutes and can access pop3 server via telnet connection from the command line.  </s>
+<s> webpages will not load in any browser (ie, chrome, firefox or safari), even if i enter a valid ip address instead of a hostname.  </s>
+<s> the users are mixed on both routers.  </s>
+<s> my laptop connected to their wired connections works fine, my laptop connected via wifi to either router works fine.  </s>
+<s> all pc's are running xp pro sp3 with all current updates.  </s>
+<s> here is where it gets strange, if i connect one of the problem pc's to the internet using a dialup connection, it loads pages just fine, only on the broadband connection does it fail.  </s>
+<s> i've tried disabling the firewall, i've booted in safe mode with networking, i've done a clean boot, and i've done a system restore to a date when it was working.  </s>
+<s> on these pc's if the lan connection and the dialup connection are both active it loads the pages through the dialup connection.  </s>
+<s> all firewall and security settings appear to be identical on both connections.  </s>
+<s> it seems like a tcp port issue with specific ports only, namely port 80, however without different firewall settings for the two connections it doesn't make sense that port 80 works on dialup and not on lan connection.  </s>
+<s> i don't even have to close the browser to get the page the load, just connect the dialup connection and refresh then voila'. the huawei gsm router and linksys router have been operational for 7 months.  </s>
+<s> i installed and configured the network and i'm the only one with access to them, there have been no changes to either router.  </s>
+<s> as stated the 4 wired users work fine on dialup but not on lan, the 1 wireless user that's having the same problem works fine on a wired connection (lan) but cannot load pages on his wireless connection (skype works though)as do msn messenger.  </s>
+<s> dns is also working on this machine.  </s>
+<s> the problem started on all 5 machines simultaneously this past saturday.  </s>
+<s> all pc's show a system restore point with a single entry &quot;software distribution service 3.0&quot; none of the unaffected pc's have this entry.  </s>
+<s> all 5 pc's have (had) automatic updates on, the unaffected pc's did not.  </s>
+<s> restoring to a date prior to the entry does not fix the problem.  </s>
+<s> any ideas???  </s>
+<s> the usual connection is wep or no security.  </s>
+<s> change this to wpa and hope that helps.  </s>
+<s> bob  </s>
+<s> still sounds like a firewall setting, it could be using a different firewall setting for the different connections.  </s>
+<s> does it only block 80 or is 443 blocked also (ie can you open the management web page on the routers from these pc? used to be very easy to rule out the browse before microsoft decided we couldn't trust ourselves. the simple way to test if you can see a server is with the telnet command.  </s>
+<s> for example telnet 80 get you should see some garbage when you type in get.  </s>
+<s> now vista and 7 have disabled telnet by default you have to go into the control panel and turn the feature on.  </s>
+<s> basically if you get a response from telnet then the browser is the issue if you do not then something more fundamental is blocking the port.  </s>
+<s> although unlikely i would check for firewall settings in one of the routers.  </s>
+<s> since it works for some users it is unlikely.  </s>
+<s> there should be log entries for any traffic that is blocked.  </s>
+<s> this is not a easy one since it would be hard to intentionally configure it to operate as you say it does.  </s>
+<s> i still bet its the software firewall on the client but then i have had so many issues with it i use a hardware firewall and disable the software one on my pc's  </s>

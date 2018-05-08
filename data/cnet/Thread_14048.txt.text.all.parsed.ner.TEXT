@@ -1,0 +1,64 @@
+<s> hi all!  </s>
+<s> i recently had my wireless network go down and haven't been able to get it back up in several days, so i'm hoping someone might have some suggestions here.  </s>
+<s> two things happened around the time the problem seemed to occur: 1) downloaded and installed an audioscrobbler plugin for foobar2000. the network went down very shortly after the first successful scrobble.  </s>
+<s> this might be coincidence.  </s>
+<s> 2) several windows updates were applied.  </s>
+<s> my setup is: cable service provider &gt; cable modem &gt; linksys wireless-b broadband router (befw11s4) one windows xp home machine is connected via ethernet cable.  </s>
+<s> two windows xp home machines are connected via linksys wireless usb network adapter (wusb11).  </s>
+<s> the wusb11 nics seemed to be working ok, as i can see other local wireless networks (five of them).  </s>
+<s> i can also connect to my neighbours network and access the internet via that.  </s>
+<s> wired connection also works fine. the router is broadcasting our custom ssid, has dhcp enabled (i was previously using static ip addresses with no problems), currently has security disabled (wep is all that it supports and we were using that before with no problems) and i'm not using mac filters (again, i was using this before and had no problems).  </s>
+<s> all other setting are at the defaults.  </s>
+<s> the router has the latest firmware and both wirelessly connected machines have the latest drivers for the nic.  </s>
+<s> when the wireless went down, both wirelessly connected machines lost internet, so it's difficult to pin down to one particular machine - i'm assuming it was my machine due to the two things mentioned above that happened at about the right time.  </s>
+<s> i've since uninstalled foobar2000 and the audioscrobbler plugin and the last few windows updates, but this made no difference.  </s>
+<s> running 'ipconfig /all' previously resulted in a 'media disconnected' message in relation to the wireless nic.  </s>
+<s> i applied the 'disabledhcpmediasense' registry fix mentioned in a microsoft knowledge base article, and now 'ipconfig /all' results in: windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : deadbox primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : unknown ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter linksys: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : instant wireless usb network adapter ver.2.6 #4 physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-06-25-19-06-ba dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 0.0.0.0 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 0.0.0.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : dhcp server .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.255 these ip addresses certainly don't match those i used when configuring the machines with static ip addresses.  </s>
+<s> the router has been reset twice in the last few days, i've tried the winsockxpfix download, and spent several days googling similar problems with no success.  </s>
+<s> i'm completely out of ideas on how to fix this situation, and also puzzled as to why this would affect two computers if the problem is only with one of them.  </s>
+<s> i've tried to provide as much info as i can, but i'm not terribly knowledgable about networking stuff, so if you need more info please ask  </s>
+<s> bumping this because i'm still stuck  </s>
+<s> the reason i asked is my dad's befw11s4 died so i sent him mine.  </s>
+<s> that was over 3 years ago.  </s>
+<s> since then i visited and we went to the office store to get another router.  </s>
+<s> he told me he gifted out the two befw11s4's and given the age, maybe it's time for a new router.  </s>
+<s> bob  </s>
+<s> hi bob, the router is definitely getting on a bit now - maybe 6 or 7 years old.  </s>
+<s> i can still access it from the wired pc and it seems to be working ok for the most part.  </s>
+<s> i realise i probably need to upgrade now anyway - i was just hoping to get maybe another year out of it... i'm thinking that the fact that there are so many other networks in the neighbourhood is a strong contender for the problem.  </s>
+<s> i see lot of wpa and wpa2 networks floating around, which means their gear is a lot newer than ours and therefore (?) probably stronger signal... it just seems a weird coincidence that everything went pear-shaped at around the time of the two items mentioned in my first post happened...  </s>
+<s> the old router stopped doing wifi so he went hardline.  </s>
+<s> later that failed and he was lucky mine still worked which saved him from learning a new router setup.  </s>
+<s> bob  </s>
+<s> sounds like it's time to retire the hardware then... just wanted to make sure i wasn't missing anything obvious before i did, but the more i look into it and cross potential problems off the list, the more i realise i'm probably trying to save something not really worth saving... thanks for the replies  </s>

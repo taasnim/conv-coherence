@@ -1,0 +1,16 @@
+<s> what would i need for one?  </s>
+<s> i want to be able to share my net connection to a laptop and a desktop pc thanks anthony  </s>
+<s> you need to go out and buy a wireless switch/router such as netgear or linksys and also you need to buy a wireless pcmcia card for the laptop and either a wireless pci card for the desktop or a usb wireless connector , personally i would stay away from the usb devices , they are shakey at best .  </s>
+<s> cheers thank you that has helped no end  </s>
+<s> vipergg's suggestions will work (and i especially agree with the recommendation that you not use the usb devices, as usb networking is a real kludge, developed back in the days when nearly all new computers had usb ports for printers, but only corporate-class machines had ethernet ports; now, nearly all computers have ethernet ports, so usb for networking is unnecessary), however i would suggest that at least one system on your network should be wired to the router rather than an entire wireless network.  </s>
+<s> when you first set up the router, it will default to no security, no encryption, and default identification and password.  </s>
+<s> this will be fine at first.  </s>
+<s> your wireless client devices will automatically find the nearest access point and connect.  </s>
+<s> however, once you start locking down the security (and you absolutely must do this, it is not an option), you introduce the opportunity for minor errors in typing the encryption key or client mac addresses, and boom, you are locked out of the router because the client has the wrong key.  </s>
+<s> if you have one system that is wired, you can log into the router and straighten things out so both ends of the transmission are on the same wavelength (pun intended...).  </s>
+<s> furthermore, some routers will allow you to disable wireless access to the configuration screens to prevent a war-driving hacker who happens to find your access point from being able to break in to it and change any settings from afar.  </s>
+<s> in your initial question, you didn't say whether the desktop system and the router would be located near each other.  </s>
+<s> if they are close, i'd skip the pci card wireless client and keep it wired to the router.  </s>
+<s> if your arrangement doesn't allow for that, then you should temporarily use your laptop wired via ethernet cable to the router for setup while you configure the desktop in wireless mode, and then learn how your laptop would flip back and forth between wired and wireless mode.  </s>
+<s> now you can move the laptop away and configure it for wireless, but still be able to quickly connect by wire should you need to.  </s>
+<s> just some ideas to consider... dw  </s>

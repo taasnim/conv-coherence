@@ -1,0 +1,68 @@
+<s> i have a dell dimension 2400, running xp, with 512kb of memory and an 80 gig hard drive.  </s>
+<s> i added a second hard drive (160 gig) as the slave on the primary ide channel.  </s>
+<s> it works fine in every respect except speed -- which i discovered when trying to record and play back .avi  </s>
+<s> files, which are badly fractured in both sound and vision.  </s>
+<s> thanks to help elsewhere on these forums, i think i've identified the problem: although the device is set to &quot;ultra dma where possible&quot; it sticks to pio mode. the other three devices (main hard drive and two cd-rom drives) are all operating in ultra dma mode with no problems.  </s>
+<s> i don't think there's anything more i can do through device manager, and it appears that bios is the next step.  </s>
+<s> i'm way out of my depth there without any advice.....so i'd welcome some.  </s>
+<s> thanks.  </s>
+<s> fyi, here's the earlier post  </s>
+<s> there are many items you didn't tell in your post.  </s>
+<s> such as what jumper setting you used, the cable type, why you didn't have dell walk you through the bios update, what xp service pack is installed and most important if you followed microsoft's instructions to set it to pio, ok your way out and then go set it back to dma if available.  </s>
+<s> why?  </s>
+<s> because it's broken.  </s>
+<s> read and read carefully how microsoft tells you to flip it to pio then back.  </s>
+<s> i repeat... it's busted.  </s>
+<s> bob  </s>
+<s> bob (m) i read your response carefully several times, and decided i don't need help badly enough to get it from you.  </s>
+<s> i think you need to go and lie down.  </s>
+<s> why?  </s>
+<s> because if anything's busted, it's one of your blood vessels.  </s>
+<s> i can only point it out, many will just look at the settings and miss the clue that microsoft wrote to set it to pio, ok it and then go back to change it again.  </s>
+<s> i'm more than willing to help, but i've found it necessary to pressure people to read the note because when i didn't, then just looked at the setting.  </s>
+<s> bob  </s>
+<s> i appreciate your attempt to help, and i'm sure that technique works well with some people. it doesn't with me, and neither, regrettably, did microsoft's change-ok-change directions.  </s>
+<s> when i boot this machine (not a dell) in one of the post screens that flash by i get a display of the bios settings for the ide ports.  </s>
+<s> if your machine does the same that might give you a way to determine if the bios has this port set to pio.  </s>
+<s> it's still important to know what jumper setting and other items i asked about.  </s>
+<s> here's why.  </s>
+<s> while it may &quot;work&quot; for some drives to be set to slave on an 80 conductor ide cable, some systems will balk and do as you note until its set to cable select and repeat the microsoft procedure.  </s>
+<s> the service pack of xp is important since over 127gb support is only in sp1 and later.  </s>
+<s> the machine's motherboard drivers are necessary since microsoft doesn't update such for us.  </s>
+<s> i really can't read minds so i can't tell what works for you but i know the issue.  </s>
+<s> you can deal with it or just ignore me.  </s>
+<s> bob  </s>
+<s> steelfixer, if you have via chipsets in your motherboard then try downloading the latest via hyperion 4-in-1 drivers for example from this site .  </s>
+<s> maybe there's a later version to it, but you could do a search.  </s>
+<s> then install the drivers and click enable dma in one of the questions, then reboot your pc. swisse  </s>
+<s> i had the very same problem a few months ago with a seagate drive.  </s>
+<s> their support told me over and over again that this was a &quot;system problem.&quot;  </s>
+<s> i tried everything, finally returned the drive for an exchange, and the new one worked perfectly out of the box. the moral is, it's quite possible that the hardware is just plain busted.  </s>
+<s> might not be, but, .  </s>
+<s> . .  </s>
+<s> --fj  </s>
+<s> i'm sorry -- i took your &quot;best of luck&quot; heading as a sign-off.  </s>
+<s> -- i have service pack 2. -- i'm using the second plug on the ide cable already connected to the factory installed hard drive.  </s>
+<s> -- jumper setting is per the drive manufacturer's instruction manual for a slave.  </s>
+<s> -- i checked for an updated driver for the disk, but there's no newer one available.  </s>
+<s> let me know if you need more.  </s>
+<s> thanks for your help.  </s>
+<s> thanks for the suggestion -- i'll wait to see if there's a non-bios fix suggested, but it may be where i end up.  </s>
+<s> thanks -- how can i check if i have via drivers?  </s>
+<s> hmmm.......entirely possible, especially since mine is a seagate, too....  </s>
+<s> &quot;jumper setting is per the drive manufacturer's instruction manual for a slave.&quot;  </s>
+<s> i'd use cable select.  </s>
+<s> these 80 conductor cables set that for us and right or wrong some machines get odd when we use the slave or master on 80 conductor cables.  </s>
+<s> it's a safe thing to change, then i'd triple check that my motherboard drivers are current (no microsoft tools for this one i fear) and then i'd do the dma to pio and back to dma again... here's hoping.  </s>
+<s> bob  </s>
+<s> thanks -- i'm not familiar with cable select, nor how to check the motherboard drivers (via device manager, i assume, but what might the motherboard be called?).  </s>
+<s> click start, right-click my computer, then click properties.  </s>
+<s> once in system properties click hardware, then click device manager.  </s>
+<s> once in device manager double-click the entry system devices.  </s>
+<s> if via drivers are installed in your system it should be listed there.  </s>
+<s> then you could download the latest hyperion drivers, otherwise if via drivers are not installed then other chipsets are installed.  </s>
+<s> swisse  </s>
+<s> thanks for the tip, but no such luck -- no via drivers listed there.  </s>
+<s> ...thanks to a friend.  </s>
+<s> in bcase anyone else has the same problem: it was pretty straightforward, as it turned out -- perhaps something i missed in the seagate instruction manual.  </s>
+<s> - went into the bios - went into drive configuration - selected primary slave - reset from off to auto - rebooted - drive was now set to ultra dma thanks to everyone who offered help.  </s>

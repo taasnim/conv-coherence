@@ -1,0 +1,84 @@
+<s> given the intel family of processors for desktops, which processor is the highest performer (more on this)?  </s>
+<s> in advance pls forgive any confusion on my part i am new to the processor arena.  </s>
+<s> - extreme processors - core 2 quad e - core 2 quad qx (is this extreme proc?) - penryn (which one is this?) - xe processors (such a thing?) - xeon - itanium also if you're going to get high end wouldn't it make more sense to pair them with ddr3 instead of ddr2?  </s>
+<s> finally what is meant by &quot;better&quot;?  </s>
+<s> more fp ops per sec, best rendering, faster fetch perform cycle?  </s>
+<s> what is the yardstick?  </s>
+<s> i know some basic things such as quad will beat a dual anyday.  </s>
+<s> 45nm technology is superior (faster, cooler) than 65nm.  </s>
+<s> help!  </s>
+<s> for instance a company web service for a staff of 4 wouldn't need the quad core xeon in any situation i've seen.  </s>
+<s> and you should do a little more research since you listed a cpu that never made it to the market.  </s>
+<s> &quot;more fp ops per sec, best rendering, faster fetch perform cycle?  </s>
+<s> what is the yardstick?&quot;  </s>
+<s> this is where many fail in their quest.  </s>
+<s> they forget to benchmark it with what they will be using it for.  </s>
+<s> bob  </s>
+<s> i also saw at a computer store a pc with the intel pxxx processor.  </s>
+<s> is this the penryn?  </s>
+<s> i asked the sales lady but she didn't have a clue.  </s>
+<s> furthermore, i am aware that most of these processors exist.  </s>
+<s> for exmaple, extreme.  </s>
+<s> qx, the quad q9xxx series, the quad e8xxx series, xeon.  </s>
+<s> etc. if someone can point out which ones don't exist i would like to be aware of these.  </s>
+<s> also, where does itanium fit in?  </s>
+<s> one question i still have is if you're going to use any of these top of the line processors, to make full use of them wouldn't it make more sense to couple them with ddr3 than ddr2?  </s>
+<s> if one reads all the pc magazines and their reviews, they perform overall benchmarks, such as photoshop applications, burning dvds, real time movie editing, watching true hd video, gaming, corporate servers especially for large enterprise.  </s>
+<s> so as one can see the benchmarks are all encompassing.  </s>
+<s> if anyone can shed some light this is greatly appreciated/needed.  </s>
+<s> mobile chips: t8000/9000, and p8000/9000 are penryns.  </s>
+<s> t series penryns have 35w tdp while p series penryns have 25w tdp (cooler running).  </s>
+<s> desktop chips: e9000, q9000, and e7000 series desktop chips are penryns (45nm).  </s>
+<s> itanium is used in high end business servers.  </s>
+<s> ddr3 has no performance advantages over ddr2 at the same speed.  </s>
+<s> you'd have to run ddr3-1600+ to get a measureable advantage over ddr2-1066 and even then it wouldn't be noticeable in any hardly any application.  </s>
+<s> there we go.  </s>
+<s> look for the core 2 duo &quot;penryn&quot; and for photoshop on an average 2+ ghz machine with 2 or 3gb ram you'll be sitting pretty.  </s>
+<s> there are photoshop benchmarks.  </s>
+<s> from your posting it looks like you are looking at a laptop so we can dismiss all the other processors.  </s>
+<s> bob  </s>
+<s> even though the question started out as ranking of intel's top of the line proc's, it inevitably leads i believe into the top of the technology line in memory.  </s>
+<s> from the research i've done ddr3 gives you 16000mtps & 25600mbps over a puny ddr2.  </s>
+<s> so my question then is, if i am going with the top of the top of the intel line (looks like xeon so far) especially in a quad config.  </s>
+<s> wouldn't it just make more sense to marry these to ddr3 to give you the top perf?  </s>
+<s> am i correct on this?  </s>
+<s> pls clarify anyone on this.  </s>
+<s> sorry if i didn't make myself clear but i am looking into desktops but a top of the line high performing laptop too catches my eye.  </s>
+<s> non gaming please!  </s>
+<s> i know that toshiba has an extreme quad core notebooks and some australian company was going to come out with quad core laptops.  </s>
+<s> so really i am just looking into high end perf for desktops and laptops i guess i will have to wait till quad becomes standard issue with at last 160gb sdd.  </s>
+<s> choosing just by cpu is an odd way to start on this. also i have no kind words for no-name laptops.  </s>
+<s> after a few thousand passing through the shops with no hope of spare parts even for minor things we're giving them no pass, no kind words.  </s>
+<s> also since you are in aus, narrow your choices to machines there.  </s>
+<s> bob  </s>
+<s> xeons are inteded for server use.  </s>
+<s> serious server motherboards support at least 2 cpu sockets (dual xeons).  </s>
+<s> no dual socket server motherboard even supports ddr3.  </s>
+<s> if you're not going to use dual cpus, the desktop penryn chips are virtually identical. the fastest quad core xeon is the 3.2ghz/12mb/1600fsb xeon x5482 at which is the same speed/cache/fsb as the core2extreme qx9775.  </s>
+<s> price-wise, they're about the same.  </s>
+<s> but a xeon chip needs a motherboard that can support the chip in its bios.  </s>
+<s> most single socket workstation motherboards cost more than their desktop counterparts and usually the only distinguishing factor is support for registered/ecc memory and pci-x or pci-64 slots.  </s>
+<s> performance-wise, there's no difference between a workstation board and a mid-to-high-end desktop board.  </s>
+<s> and as i said before, there is zero performance improvement between ddr2 and ddr3 at the same speed.  </s>
+<s> ddr3-1333's boost is barely noticeable but 4gb ddr3-1333 is still twice as expensive as ddr2-1066.  </s>
+<s> ddr3-1600 has tangible performance improvements (2-4% depending on app) but that's the top end of the official ddr3 spec.  </s>
+<s> anything higher than that is overclocking and is not guaranteed to work with all motherboard and memory combinations.  </s>
+<s> my current laptops are a toshiba satellite with dual-core t2370 my other laptop is a gateway mxxxx something or other with intel dual core mobile processor tsomething (i forget the exact model) so they're pretty comparable.  </s>
+<s> my desktop is a hp pavilion with intel quad core q6600.  </s>
+<s> because it's quad, it rocks!  </s>
+<s> currently my focus on was high end desktops.  </s>
+<s> i was looking at gaming desktops simply for their sheer capacity.  </s>
+<s> i am not a gamer. the only game i ever play on my pc is solitaire.  </s>
+<s> true.  </s>
+<s> but lately the apple mac pro caught my eye with its brutal force of 8 xeon processors (2 quads) which everyone has told me makes the extremes and penryns look like children's toys even in their quad configs. is this true?  </s>
+<s> where the memory part came in, is if the apple has this bone crunching cpu power, and it currently only supports ddr2, i thought that apple giving it ddr3 for that platform would be the king of kings for desktops overshadowing even the blackbird, alienware, falcon etc. correct on that one?  </s>
+<s> two other clarifications, one thing that is luring me to the dark side (mac) is the fact that i can partition the drive and load windows in one partition and i can swing both ways.  </s>
+<s> finally i am not in aus.  </s>
+<s> i'm in the us.  </s>
+<s> any further guidance is appreciated.  </s>
+<s> you are in the top percentile of what most have.  </s>
+<s> to go beyond this you'll have to look at the mac pro and toss the most number cpus offered at the highest clock rates.  </s>
+<s> the motherboard chipset .  </s>
+<s> proper balance of all components to use will create, for the dollars spent, a top performing system.  </s>
+<s> this balance is achieved by looking at web sites that benchmark and rate motherboards using different configurations and applications.  </s>
+<s> luck with your search bill  </s>

@@ -1,0 +1,40 @@
+<s> hello.  </s>
+<s> i need guide with my motherboard.  </s>
+<s> my spec is motherboard model-intel pg35ec processor-lga 775 intel core 2 duo 3.0 ghz gfx-nvidia geforce fx8500gt 256 ram i just bought this new intel pg35ec motherboard.i  </s>
+<s> used to install 4gb ram(ddr 800mhz,1gb for each slot,the motherboard have 4 slot for ram) on my old motherboard.  </s>
+<s> my new motherboard can support up to 8gb ram(ddr 800/1066,4slot for ram) but when i installed these old rams,it did not boot up.  </s>
+<s> my pc only boot when i installed 2 ram(1gb each) on 2 different slot.  </s>
+<s> it's quite a waste for the other ram.can anyone help me how can i fix this?  </s>
+<s> are all of your ram sticks the same voltage/speed/timings?  </s>
+<s> boot into your bios with 2 sticks and manually configure the ram to run at ddr2-667 (or use fail-safe settings).  </s>
+<s> save those settings and shutdown the pc. install the additional 2 sticks and try to boot.  </s>
+<s> if it boots fine, then manually set the timings for ddr2-800 at cl 5-5-5-18 and try again.  </s>
+<s> if it still only boots with 2 sticks at ddr2-667, then you probably have a compatibility issue and would need to replace the other two sticks.  </s>
+<s> give us the precise info mfg., series and model number.  </s>
+<s> intel motherboards have been known to be sensitive to ram voltage and mbs in general can be sensitive to running 4 dimms (4@1-4gb) vs 2dimms (2@2gb).  </s>
+<s> vapcmd  </s>
+<s> it is ocz technology.it's  </s>
+<s> gold edition xtc and it's pn no is ocz2g8001g.there's also number 5-5-5 written on it's casing,ut i don't what it means.  </s>
+<s> these is the details of the ram i've obtained from hwinfo32 dimm type-regular unbuffered(udimm) memory speed-400mhz(pc6400) manufacturer-ocz module number-ocz2g8001g module width-64 bits module voltage-sstl 1.8v supported cas latency-3.0(3.75ns @ 266.7 mhz), 4.0(3.0ns  </s>
+<s> @ 333.3 mhz) hope u or somebody can help.  </s>
+<s> now that you used that to get items such as &quot;module voltage-sstl 1.8v&quot; did you check the maker's web site to see if that matched then head to the bios to see if you set the bios to match?  </s>
+<s> build your own pcs have taken a turn to more complexity as i find build after build with incorrect bios settings.  </s>
+<s> people seem to think this is automagic.  </s>
+<s> bob  </s>
+<s> but there is dc35ec and dp35dp.  </s>
+<s> vapcmd  </s>
+<s> will *any* combination of sticks work as a pair or is it only a certain combination of sticks that work as a pair?  </s>
+<s> did you set the memory timings to ddr2-667 and try all 4?  </s>
+<s> it is dg35ec.i'm  </s>
+<s> sorry.i've  </s>
+<s> confirmed this.i've went to bios and changed from 800mhz to 667 and 553.but after i turn off my pc and add the other ram,it did not boot up.i  </s>
+<s> almost want to giving up and just buy another 2gb ram,but i'm afraid it will not compatible with the other 2 ram of 1gb.  </s>
+<s> i've changed the settings in bios.to  </s>
+<s> 667 and 553.nope.it's  </s>
+<s> not working man.thanx  </s>
+<s> anyway.  </s>
+<s> and will the pc run on the new dimms if installed without the old dimms ?  </s>
+<s> vapcmd  </s>
+<s> i'm really sorry.but i'm not used to some of detail about hardware.what is dimms actually?  </s>
+<s> that's an acronym for dual in-line memory module, as shown by it's just the memory card you click into the motherboard.  </s>
+<s> kees  </s>

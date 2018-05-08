@@ -1,0 +1,47 @@
+<s> sometimes when i am loading a game or certain programs i hear a clicking noise come from my computer(inside the case).  </s>
+<s> what the heck could that be?!!? jordan  </s>
+<s> i just upgraded from a geforce 3 ti200 to a radeon 9700 pro.  </s>
+<s> i uninstalled the nvidia stuff and then installed the card and new ati drivers.  </s>
+<s> but for some reason my computer locks up with this new card installed and makes that click noise b4 it locks up!! threads jordan  </s>
+<s> do you have a big enough power supply for that new vid card?  </s>
+<s> are there fans on the vid card?  </s>
+<s> and if so is there a cable maybe blocking the fan?  </s>
+<s> check all your connections.  </s>
+<s> i have a 450 watt psu.  </s>
+<s> yea theres a fan on the 9700 and there isnt anything blocking the fans.  </s>
+<s> jordan  </s>
+<s> 450 should be enough(as long as it doesnt have any problems).  </s>
+<s> as to the clicking i am not sure, but for the locking up-- have you tried reinstalling the software/drivers and checked the website for any new downloads(patches, drivers, etc.)?  </s>
+<s> tyler  </s>
+<s> i had a geforce ti 200 before i installed the 9700 and i uninstalled the nvidia stuff first b4 i installed the new card.  </s>
+<s> i installed the new drivers off of the ati site.  </s>
+<s> i hope there isnt any remaining nividia drivers that might be conflicting with the ati stuff. the geforce ran fine with the 450w psu.  </s>
+<s> should i uninstall all of the ati drivers with there uninstaller then reinstall them?  </s>
+<s> -jordan  </s>
+<s> physically check the video card's fan is working.  </s>
+<s> it should rotate very freely not feel binded.  </s>
+<s> also, that no objects are too close to the fan, like wires, harness, etc.. but, if not the fan... also, when the system gets very bogged down or just before it craps out, the system while trying to work causes &quot;noise&quot; because of mouse movement, it just can't keep up and that's not normal.  </s>
+<s> i see this with system so clogged with malware like adware, popware or trojans, etc. that a system can't go forward, clean your system with spyware scanner and/or use your updated av pgm.  </s>
+<s> now and try an online scan, if you can.  </s>
+<s> make sure to inspect what you've granted from your firewall(check access list) and see what shouldn't be there or unkown to you.  </s>
+<s> you do have a firewall?  </s>
+<s> those areas, i would look in.  </s>
+<s> good luck -----willy  </s>
+<s> and you're maybe blaming the video card because the timing was so close, but this is a simple test to try... western digital drives.  </s>
+<s> if you hear that clicking noise when the drive's flat data cable is disconnected from the drive and the drive is only connected to its power cable, then i'm afraid your drive is unable to put itself &quot;online&quot; and is completely inaccessible from the outside world.  </s>
+<s> this &quot;power cable only&quot; test is what the western digital technical support people had us perform in order to diagnose a dead drive ... and it's conclusive.  </s>
+<s> if, however, this clicking happens later on, after the drive is up and running and you're only trying to read a particular file -- then the great majority of your data probably is recoverable.  </s>
+<s> toni  </s>
+<s> this actually is not the hard drives at all. the noise is from the video card i think cuz when i used regular windows xp vga drivers it didnt make any clicking sounds.  </s>
+<s> but when i installed the ati ones it clicks then locks up.  </s>
+<s> i bought it off ebay and the guy said its dell oem video card.  </s>
+<s> -jordan  </s>
+<s> strange sound during encoding when copying or getting ready to burn a movie........it never locked up though.  </s>
+<s> the sound if i remember correctly was a very subtle low click, too, or it was an obscure beep that didn't appear to be coming from the bios itself, now that i'm remembering this.  </s>
+<s> curious now to find out what types of things you are working on when you actually hear this going on as ati tech support never did figure it out....however, i found some of these things during my trouble-shooting on my own and i can't recall if any of this stopped it since i have since replaced the card (using it in another system now that doesn't do movie intense graphics stuff and it's just fine there).  </s>
+<s> ati 9700 pro aiw trouble-shooting i was getting audible either clicks or beeps occasionally while copying or getting ready to burn movies, and i believe it was due to encoding that was going on in the background.  </s>
+<s> ati tech support was not able to figure out what was going on and suggested a few of these as possible fixes.  </s>
+<s> i don't believe all of them were able to be done (such as the monitor issue until i got a different monitor) but somewhere along the line the problem stopped, and i honestly don't remember now which of these 'tips' did it.  </s>
+<s> increase the agp voltage in the bios +0.1 at a time and reboot each time.  </s>
+<s> default for me was 1.5 and go no higher than 1.7 for the setting.  </s>
+<s> i reached 1.6 and it was ok. change the agp in the smartgart area of the card to 4x turn off fast write in smartgart disable smartgart by going to start/run and type smartgart and press enter set the monitor to optimal instead of the default install ich5 (this was for my motherboard, i'm pretty sure and i had to get this from the motherboard site) in troubleshooting of the video card, uncheck 'enable write combining' disable hyper-threading (this might be in the bios) toni  </s>

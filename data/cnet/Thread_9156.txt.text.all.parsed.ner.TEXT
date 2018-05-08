@@ -1,0 +1,27 @@
+<s> i have just established a home network between my old pc, running windows me, and my new one, running windows xp, using a d-link router.  </s>
+<s> internet is working fine in both computers, as well as file sharing, but i have problems with printer sharing: i can print from xp to the hp deskjet printer hooked at lpt1 port of me, but failed at adding the lexmark printer hooked at usb port of xp as a network printer for me.  </s>
+<s> after using the ''add printer wizard'' in me, and installing the proper drivers, i get this message from lexmark wizard installer saying installation failed because the printer is not correctly connected (''check all the printer cables'').  </s>
+<s> this lexmark works fine as a local printer for xp, so cables cannot be the real problem.  </s>
+<s> maybe it has something to do with the fact that this lexmark uses an usb port?  </s>
+<s> i'd would be grateful if i can get some help from more knowledgeable people.  </s>
+<s> thanks in advance.  </s>
+<s> jeyce  </s>
+<s> here's why.  </s>
+<s> some printers do not support being shared over your lan.  </s>
+<s> it's annoying when you find one, but save yourself time and ask.  </s>
+<s> bob  </s>
+<s> thanks a lot for your early reply.  </s>
+<s> today i phoned lexmark technical service and was told that the problem is sharing between 2 different os. it looked like a quick answer; the guy wasn't interested in digging any further.  </s>
+<s> on my part, i do think that sharing between different computers (and consequently different os) is of the essence of networking, and optimistically guess there should be a way.  </s>
+<s> jeyce  </s>
+<s> that don't support such sharing.  </s>
+<s> if it was going to share, you would share it and then try to find it with the add new printer tool on the client.  </s>
+<s> but this one looks doa.  </s>
+<s> try and best of luck, bob  </s>
+<s> technical support... looks like they are there just to take your call and get your info instead of solving your problem. it was hard to believe you couldn't share a printer on a network using tcp/ip, because the very reason to be of this protocol is the possibility of sharing resources between different computers and platforms.  </s>
+<s> that's why internet exists as we know it today.  </s>
+<s> i finally was able to print to lexmark hooked at xp from my old pc using winme after some rather primitive procedure.  </s>
+<s> i physically disconnected this lexmark printer from xp and hooked it up to an usb port at me, installing it like a local printer.  </s>
+<s> i was able then to successfully finish with the lexmark wizard, install drivers and all.  </s>
+<s> after removing this connection and hooking this printer back to xp, where it belongs, i opened this printer properties at me, and in details added a new port, located at \xplexmark (\serverprinter), and that made it! moral of this case: sometimes trust your instinct over technical support.  </s>
+<s> thanks for your interest, jeyce  </s>

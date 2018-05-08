@@ -1,0 +1,23 @@
+<s> i am having trouble connecting to my desktop pc (running windows xp sp2) from other laptop pcs on my local network.  </s>
+<s> i have set up folder sharing on all the xp pcs but i am not able to &quot;see&quot; folders on the desktop pc. i try to open any folder on my xp sp3 pc from a laptop, and i get: &quot;\jeff-amdjeff-amd documents is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions.  </s>
+<s> not enough server storage is available to process this command.  </s>
+<s> so, i would appreciate any help you could give me to allow me to access files on the desktop pc from the client laptop.  </s>
+<s> when i go the other way, i can open directories on the laptops from the desktop pc no problem.  </s>
+<s> so i don't think it's a router/firewall problem.  </s>
+<s> - jeff schallenberg mont saint-hilaire, qubec  </s>
+<s> 1. you log on as jeff on the other machine.  </s>
+<s> 2. you also can log on as jeff on the machine sharing the folder.  </s>
+<s> i do so an issue that i always avoid.  </s>
+<s> i never allow such an user name.  </s>
+<s> take the dash out.  </s>
+<s> bob  </s>
+<s> @r. proffitt: jeff-amd is the name of the desktop pc, and jeff-amd documents is the name of the share.  </s>
+<s> my user name is jeff on both machines.  </s>
+<s> thanks for your reply.  </s>
+<s> i'm still looking for a solution to allow access to my desktop pc from my network... - jeff  </s>
+<s> firewalls.  </s>
+<s> i've lost count of how many times it's this.  </s>
+<s> many don't understand that norton and others continue to work in spite of us setting them to disabled.  </s>
+<s> some don't have control of the firewall in the router.  </s>

@@ -1,0 +1,20 @@
+<s> i have a seagate goflex network drive (connected to router w/ ethernet cable) that i store all my pictures, movies, and files on.  </s>
+<s> it is connected to every computer in the house and is constantly being changed.  </s>
+<s> i was just thinking the other day that if this drive goes down, we're pretty much screwed, so i got a backup drive, a seagate goflex desk (works through usb, which is also connected to router).  </s>
+<s> after the initial copy paste of files from one to the other, how can i set these two up so that if you copy files to one, it will also automatically be copied to the other?? thanks in advance!  </s>
+<s> -i work on both mac and pc  </s>
+<s> but i've used syncback and goodsync to do this.  </s>
+<s> bob  </s>
+<s> synctoy (developed microsoft, free) can sync folders including shared folders in different computers.  </s>
+<s> more safer methods are: 1. establish raid(such as raid 5) with multiple hard drives in your network attached storage, so one hard drive failure of all hard drives won't destory your data.  </s>
+<s> 2. scheduly backup your important data to another location.  </s>
+<s> i use total backup & recovery( ) to do this job.  </s>
+<s> i've yet to see that save the day.  </s>
+<s> katrina taught us again that if we don't backup to off site then raid won't help for the usual fire, wind, flood and lightning strikes.  </s>
+<s> bob  </s>
+<s> yes, you are right.  </s>
+<s> total recovery pro( ) has a function called offsite copy can help you avoid disasters of local site.  </s>
+<s> the function uses ftp to upload your backup images to remote ftp site; so you can get back your data from that site.  </s>
+<s> another way is using online backup.  </s>
+<s> online backup will backup files/folders to internet, but it may take you some money by calculating the data size.  </s>
+<s> what i use can do this already.  </s>

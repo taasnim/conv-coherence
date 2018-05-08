@@ -1,0 +1,43 @@
+<s> i'm trying to rebuild a 486dx4/100.  </s>
+<s> it was working in it's old case, but the power supply fan had stopped, plus the case was huge & ugly. the power supply looked like a big job to swap over, as it is soldered to the switches etc... (i have another 486 for parts) so i decided to carefully put the working one into the other case with the functional (and newer) power supply.  </s>
+<s> all seemed to go well untill i booted up, ... the drives spin up but that's all.  </s>
+<s> nothing !  </s>
+<s> not even 'post' or any beeps.  </s>
+<s> i've re-checked the ribbon cables, tried other cables, re-checked plug/socket connection .... what have i missed it is a 'no name' motherboard with an intel dx40dpr100 (overdrive) cpu, & ali m1487b1 & m1489a1 chips.  </s>
+<s> 16mb fast page ram, 4 pci slots (one with the video card) and two hard drives.  </s>
+<s> all is as it was when it was working in the old case, apart from the power supply (old one was 150 watt/ new one 200 watt) any ideas out there ?  </s>
+<s> disconnect the harddrives/cdrom/floppy disk from the motherboard (just pull off the cable) and remove the power connectors from those devices.  </s>
+<s> now remove any pci cards (sound and modem, but leave the video if it's not 'onboard type).  </s>
+<s> disconnect the mouse and the keyboard for now as well.  </s>
+<s> this way you only have the power supply, the ram, the cpu/hsf and the video card to mess with for troubleshooting purposes.  </s>
+<s> the fewer players in the game the easier it is to figure out where the problem lies. the fact that you get no beeps may not mean much...i've personally had two motherboards (one was from an older 486-dx4-100 system) that never beeped in its life.  </s>
+<s> now......check the power switch connector that goes from the front button to the motherboard to make sure you have it connected correctly (assuming it is already or it wouldn't turn on, but i usually start there).  </s>
+<s> if the now check the fans.....the powersupply is running? the hsf on top of the cpu is running?  </s>
+<s> does the power supply you are using now have separate fan pins that connect to the motherboard that you may have forgotten to plug in?  </s>
+<s> how about the hsf...is it plugged into the motherboard or does it use a power connector that connects to the power supply?  </s>
+<s> if the fans are running, now check the ram to make sure it's seated properly and in the right slot/bank.  </s>
+<s> if it's in the right bank, try moving it back one bank in case the first bank has gone south on you....if ram is edo and in pairs, you will probably have to move the ram back two slots/banks to get the read correct.  </s>
+<s> almost last.....the cpu.....if it's getting too hot, the system will normally shut itself off to protect it (this is true of newer motherboards and not necessarily the older ones like you have though).  </s>
+<s> if the cpu isn't in the proper pin alignment or isn't locked down with the small arm, nothing will happen with regard to being able to post the bios information.  </s>
+<s> check for seating (look for the triangle notched corner where the pins go into the holes and make sure you have it lined up right).  </s>
+<s> check for thermal paste between the cpu and the hsf on top of it.....if there isn't any or the sticky thermal tape is crapped out, overheating will happen in a matter of about two seconds flat.  </s>
+<s> last....recheck your mounting posts for the motherboard.  </s>
+<s> one may not be correct and the board is shorting itself out.  </s>
+<s> ok.....that's it for right now....post back and let us know what you've found.  </s>
+<s> the older dx4-100 boards can be a bear at times, but once they are up and running, they were the workhorse of the motherboards and we should be so lucky that they build boards like that again (with today's goodies, of course).  </s>
+<s> toni  </s>
+<s> thanks toni power switch is connected , goes direct from front panel to power supply, so was never touched.  </s>
+<s> power supply fan is running / no fan on cpu, only heat sink.  </s>
+<s> ram is front page, and in same position as when it was functioning.  </s>
+<s> there is power to the m/board ( i checked by plugging an led into power connection pins i found) mounting posts are ok, not shorting.  </s>
+<s> i pulled out ram and disconnected ide cables and floppy drive, booted again but stil no 'post' and there won't be any system beep because i found the speaker is not wired.  </s>
+<s> so please do not take this wrong.  </s>
+<s> the power connectors to the mobo for an at system can be plugged in backwards.  </s>
+<s> they get plugged in so that the black wires in each half are adjacent to each other.  </s>
+<s> can't think of anything else. the wires from the supply to the front switch are actually the 120 volt ac power to the switch [if 4 wires it includes the neutrals [returns].  </s>
+<s> thus the power supply can be truned on independent of correct wiring of anything else.  </s>
+<s> no offence taken, ... the black wires are together.  </s>
+<s> the front panel wires, hdd led,turbo led,reset led, turbo switch, reset switch, are not connected ... will this make a difference?  </s>
+<s> if so i don't know where to put them.  </s>
+<s> i need to know what motherboard i have(it's not on it)and without a bios code at boot, can't think how to id it.  </s>
+<s> thanks for your help anyway, it's just a proccess of elimination i guess.  </s>

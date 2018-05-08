@@ -1,0 +1,8 @@
+(TOP (S (S (NP (PRP i)) (ADVP (RB recently)) (VP (VBD installed) (NP (NP (DT a) (JJ new) (NN video) (NN card)) (CC and) (NP (JJ re-installed) (NNS windows))) (PP (ADVP (RB xp.)) (IN after) (NP (DT the) (NNS windows) (NN re-intsallation))))) (, ,) (NP (PRP i)) (VP (VBP notice) (SBAR (IN that) (S (S (NP (PRP$ my) (NN sound)) (VP (AUX is) (VP (VBG skipping) (NP (RB quite) (DT a) (NN bit))))) (CC and) (S (NP (JJ other) (NNS things)) (VP (VBP sputter) (NP (DT a) (NN bit)) (, ,) (ADVP (RB as) (RB well))))))) (. .)) )
+(TOP (NP (NP (JJ such)) (PP (IN as) (NP (NN mouse) (CC and) (NN page) (NN movement))) (. .)) )
+(TOP (S (NP (NNP sound)) (VP (AUX is) (ADJP (RBS most) (JJ noticable)) (, ,) (ADVP (RB though))) (. .)) )
+(TOP (NP (DT any) (NNS suggestions) (. ?)) )
+(TOP (NP (NNP clint)) )
+(TOP (S (PP (IN after) (NP (NP (DT a) (NN reinstall)) (PP (IN of) (NP (DT the) (NN os))))) (, ,) (NP (DT the) (JJ next) (NN step)) (VP (AUX is) (S (VP (TO to) (VP (VB load) (NP (NP (DT any) (JJ motherboard/chipset) (NNS drivers)) (, ,) (VP (ADVP (RB then)) (VBN updated) (PP (IN for) (NP (JJ xp) (JJ sound/video/modem/nic) (NN etc) (NNS drivers))))))))) (. .)) )
+(TOP (S (VP (AUX do) (RB n't) (VP (VB forget) (NP (NNS windows) (NNS updates)))) (. .)) )
+(TOP (S (VP (VB drop) (NP (PRP$ your) (NN hardware) (NN acceleration)) (NP (CD one) (NN notch)) (PP (IN at) (NP (DT a) (NN time))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ plays) (ADVP (RB correctly)))))) (. .)) )

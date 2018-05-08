@@ -1,0 +1,103 @@
+<s> today i left my computer on when i went to school.  </s>
+<s> we are trying to sell our house and had a showing, so my mom yanks the power cord out of the wall to hide it.  </s>
+<s> now, my secondary internal 1 tb drive doesn't show up anywhere.  </s>
+<s> not in my computer.  </s>
+<s> not in device manager.  </s>
+<s> it is just gone. it was working perfectly until this happened.  </s>
+<s> please help.  </s>
+<s> i need the data on this hard drive.  </s>
+<s> computer is a widows 7 desktop.  </s>
+<s> next check is the bios.  </s>
+<s> if it doesn't show there try an external cable like this one -&gt; if the drive does not work on said cable, get a quote from -&gt; in parting i didn't write about power off, remove cover, push in the cables and try again.  </s>
+<s> bob  </s>
+<s> in the bios it says device id: unknown.  </s>
+<s> so apparently it can tell that something is there, but can't communicate with the drive?  </s>
+<s> i may try the external cable today, since i have to head to down to best buy anyways.  </s>
+<s> also, powering off and removing all the cables didn't do anything.  </s>
+<s> for the record, the drive is a seagate barracuda 1tb  </s>
+<s> data you 'need' (or, better said, you don't want to lose) should be on a backup medium.  </s>
+<s> not including it on a backup proves you don't mind losing it.  </s>
+<s> kees  </s>
+<s> i've seen sata cables do that.  </s>
+<s> a. try another sata cable.  </s>
+<s> b. be sure the drive is spinning.  </s>
+<s> sorry if i shortchange you with all the details about power off to the pc, static straps and all the gory details of pc repair.  </s>
+<s> bob  </s>
+<s> this sounds like write caching is turned on.  </s>
+<s> if power cuts before all updates have been saved the data is gone as the large warning states under drive properties.  </s>
+<s> while that shouldn't cause whole drive to disappear but bigger and faster has never meant safer and/or mom proof. is the drive the only anomaly?  </s>
+<s> if not the battery on mobo may be dead and needs replacing.  </s>
+<s> finally, if a name brand, store bought box that you have not modified, regardless of how long you've owned it, complain!  </s>
+<s> if an e-machine good luck.  </s>
+<s> you should check the registry to see if the hard drive's id is still listed there.  </s>
+<s> (follow this path: run/regedit/hkey_local-machine/hardware/devicemap).if the drive's id is not there, then it is possible that your registry was corrupted when the computer was improperly shut down.  </s>
+<s> in this case, you have two choices of how to fix the problem.  </s>
+<s> either you can use the recovery console from the windows 7 disc to repair the registry or simply uninstall the os and reinstall it again.  </s>
+<s> to ch33zer, thanks for starting this thread which invited some interesting replies to-say-the-least and to put it mildly almost like some sort of comedic small multi-train wreck with psychological profiles running tangent all over the place but nevertheless managing to somehow vaguely intercept just enough to enable calling this an actually thread.  </s>
+<s> im so sorry about your computer problem because unfortunately i heard it fits under the description of one of the worse case scenarios due to sudden power loss without having had a power backup system therefore it would seem the physical damage actually took place when the computer was re-plugged back into the wall socket when the computer was re-turned back on again for the first time following moms intended well-meaning, thats when your computer couldnt handle the power surge since it hadnt previously shutdown properly and im guessing electricity arced somewhere and physically fried something out, however its still up to you to decide whether or not to hire a data recovery expert.  </s>
+<s> several months ago i had inadvertently done a slew of consecutive mistakes although kind of on accidentally on purpose so-to-speak and the first 2 consecutive mistakes somehow wiped out my one and only hard drive before i had gotten around to making a routine cd backup. the first mistake i did was pulling the plug in the middle of testing a partition application because i was too impatient to wait for it to finish then eventually resorted to doing a partial system-restore-which-includes-backup so that way i wouldnt lose any data but afterwards i was shocked to learn it had instead done a full-complete-restore and so then i next tried a wide range of recovery applications but all to no avail and finally called an expert, but after explaining everything i had done wrong he advised the hard drive probably had too much damage to warrant any recovery attempt.  </s>
+<s> im guessing some other honest data recovery services may also likely offer free consultation before helping you to decide on whether or not any recovery attempt sounds hopeless for you or if worth giving recovery a try?  </s>
+<s> ive also heard of a newer website which says it charges a flat rate fee unlike other recover services who charges by the hour but the flat rate website also boasts theres no-charge if no recovery is made except i dont know if it could be a misleading advertisement especially what if only 1 or 2 percent of useless garbled data gets recovered or in other words i suspect data is usually recoverable especially for software problems and in some hardware problems but whether the data is useable or if its useless garbled data remains to be seen.  </s>
+<s> im not the expert but im guessing any losses of data which stems from physical hardware damage has the highest incidences of zero data recovered.  </s>
+<s> although if money was only a small problem then id probably opt for trying a new cable like r. proffitt suggested just to see if maybe its only the cable that got fried from the power surge?  </s>
+<s> if money is no problem at all then id probably choose some other recovery service that offers serious prior-consultation but who also charges by the hour as opposed to the flat rate fee website, but thats just me?  </s>
+<s> on the other hand if i had no money to afford handing the hard drive over to an expert, and aside from the obvious attempts of trying one or more system restore points, then id probably try something like partition magic or other equivalent applications out of curiosity to see if your secondary internal hard drive happens to luckily show up in any of the new applications although for crying out loud what in the world is anyone in their right mind doing with a humongous secondary 1 terabyte hard drive versus my 80mb single-only-hard-drive, ...shame on you!? are you nuts, and im afraid to ask how big yo main primary hard drive must be? and so if i understand things correctly your computer is equipped with an unbelievable amount of a secondary internal backup hard drive but which wasnt used as a backup hard drive plus of which no external backups werent made in time before the mishap occurred and worse of all your case file involves a sudden power outage followed by a power surge which means chances are you have a hardware problem which no amount of software can ever fix but then again the less you fiddled with it then the better the chances for experts to recovery any useable data from your so-called missing hard drive.  </s>
+<s> which now brings to mind kees bakkers multi-funny statement as if kees was secretly talking about people exactly like me as well as bakkers own self or else how could bakker learn of such true wisdom except through repeated experience over and over and over?  </s>
+<s> but the coolest part of this thread was how ferretkeeper immediately rushed to defend on behalf of our poor innocent underdog ch33zer.  </s>
+<s> ch33zer, i wish you well towards recovering any data but if you don't then by all means welcome to the club except im not club president.  </s>
+<s> tsark out.  </s>
+<s> if you don't then by all means welcome to the club except im not club president.' .  </s>
+<s> . .  </s>
+<s> nor will you be its last member.  </s>
+<s> vapcmd  </s>
+<s> this is a perfect example of what a sudden power failure can do.  </s>
+<s> i can never understand why more people do not invest in ups power supplies (although this would have not prevented your mom from unplugging it too).  </s>
+<s> usp systems have become so inexpensive that every desktop computer should have them built-in.  </s>
+<s> unfortunately, drive damage due to a power failure is just a matter of luck. it all depends on exactly what the computer is doing or not doing at the time or the failure.  </s>
+<s> it the computer was idle, hibernating or in standby mode then there is a good chance that nothing bad will happen.  </s>
+<s> but if the computer just happens to be doing something like performing a virus scan, downloading windows updates or installing new virus definitions at the exact time of the power outage then there is a high likelihood of a major catastrophe.  </s>
+<s> usually, the damage is in the form of drive corruption and some data can be recovered with tools like getbackdata.  </s>
+<s> in the end, if the data is really important to you, then you may need to send the drive out for recovery which is not going to be cheap.  </s>
+<s> &gt; in the bios it says device id: unknown.  </s>
+<s> so apparently it can tell that something &gt; is there, but can't communicate with the drive?  </s>
+<s> maybe.  </s>
+<s> maybe not.  </s>
+<s> first all those references to the operating system were not useful.  </s>
+<s> however, your drive could have had problems long ago.  </s>
+<s> operating systems work around problems so that you never know of the problem.  </s>
+<s> and log that problem in the system (event) logs so that the problem can be solved when convenient. you cannot do that.  </s>
+<s> event logs are on that drive.  </s>
+<s> too late.  </s>
+<s> this is why all better computer manufacturers provide comprehensive hardware diagnostics for free.  </s>
+<s> if your manufacturer is not as responsible, then you must get the diagnostic from the drive manufacturer.  </s>
+<s> either from their web site or from the boot cd provided by ultimate boot cd. you can try this and try that on speculation.  </s>
+<s> or you can first have facts from diagnostic so that your first solution actually solves a problem.  </s>
+<s> appreciate what disk drives are constructive.  </s>
+<s> your computer talks to a computer on the drive.  </s>
+<s> then the drive's computer does all the disk drive magic.  </s>
+<s> if you bios does not talk to the drive's computer, well, why.  </s>
+<s> first answer starts without complications from the bios.  </s>
+<s> if the drive computer cannot talk, then we know where a solution resides.  </s>
+<s> for example, how to rescue data.  </s>
+<s> but first learn what facts are using the manufacturer's comprehensive hardware diagnostics or from the disk drive manufacturer's diagnostics.  </s>
+<s> suddenly power loss did not create that failure.  </s>
+<s> using wild speculation, many will deny it.  </s>
+<s> a problem existed or was on the verge of occurring.  </s>
+<s> for example, a problem created when a tiny static electric discharge occurred when you were connecting the drive many months ago.  </s>
+<s> or a manufacturing defect aggraved by too many hours of opeartion - leaving it on.  </s>
+<s> you could also try plugging it in as a secondary drive into another computer if you have access to one, preferably with different cables.  </s>
+<s> &gt; this is a perfect example of what a sudden power failure can do.  </s>
+<s> i can never understand &gt; why more people do not invest in ups power supplies explain what happened. when power was suddenly removed, then the disk drive's computer immediately started erasing data on the disk platter?  </s>
+<s> that is what waytron has posted.  </s>
+<s> same myths invented elsewhere to promote ups sales.  </s>
+<s> ntfs (and other equivalent filesystems) are designed to no lose data when power is removed.  </s>
+<s> only unsaved data is lost meaning a previous copy on the drive becomes the current copy. the op describes symptoms of a hardware failure.  </s>
+<s> his symptoms do not even imply data deletions.  </s>
+<s> anyone can wildly speculate using myths about &quot;data deletion by power off&quot;.  </s>
+<s> or one can learn from those who know how hardware works.  </s>
+<s> &quot;follow the evidence&quot;.  </s>
+<s> which means executing the computer manufacturer's comprehensive hardware diagnostics.  </s>
+<s> or executing the disk drive manufacturer's hardware diagnostics.  </s>
+<s> only then can those who actually know hardware at the semiconductor level then provide a useful answer - without myths based in wild speculation.  </s>
+<s> solutions posted without doubt or speculation if information from those diagnostics is posted.  </s>
+<s> have you considered the on-board back battery for bios?  </s>

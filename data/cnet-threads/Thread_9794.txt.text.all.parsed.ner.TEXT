@@ -1,0 +1,66 @@
+<s> hi, i have 2 desktop that both have windows xp. i would like to know if i can use both desktop with linksys wireless router as my laptop has to be sent in once again?  </s>
+<s> if i can i need to know the steps as how to do that?  </s>
+<s> thanks, renee  </s>
+<s> has wired ports as well.  </s>
+<s> if it has wired ports and your other pcs have network interface cards, you're good to go.  </s>
+<s> if the router doesn't have wired ports, your pcs need wireless adapters.  </s>
+<s> if you can check the router and clarify what hardware your pcs have, this would help as only one set of instructions would be needed.  </s>
+<s> right now i have my one desktop going to the cable modem so that i can get internet access.  </s>
+<s> for some reason my internet stopped working going through the wireless.  </s>
+<s> after reading your what you said i am now thinking that there is something wrong with my router.  </s>
+<s> since i hooked my desktop to the modem i can not also print anymore from my printer. the printer was going to the router.  </s>
+<s> i have an officejet 6310 printer and my desktop that i have hooked up is an hp pavilion model 744v, amd athlon xp, 2.133ghz, 512 mb, 60gb32mb sd ddr sdram. the other desktop which i have not hooked up is a dell dimension 4300s, pentium 4, windows xp and that is all it says.  </s>
+<s> how can i tell if there is something wrong with my wireless router?  </s>
+<s> i don't know how to do that.  </s>
+<s> thanks for all your help.  </s>
+<s> renee  </s>
+<s> you've tried multiple known good devices to attempt a connection.  </s>
+<s> you'd also need to get into the router's web interface and check its settings as far as ip addressing, its address and security settings.  </s>
+<s> you'd start by using the &quot;no brainer&quot; dhcp function and disabling any security.  </s>
+<s> you'd do the same with a laptop/desktop.  </s>
+<s> if all goes well, they should connect automatically and you can watch the process.  </s>
+<s> there are other things you can check in pcs such as running &quot;ipconfig&quot; to check your address and make sure it matches the range of the routers.  </s>
+<s> you can attempt to &quot;ping&quot; other devices on the network and see if you get a reply.  </s>
+<s> i won't get into the details of this yet but it's a fairly simple troubleshooting method to get things started.  </s>
+<s> i went to start, run and typed in config and hit enter. the black box opens and closes as fast as the blink of the eye.  </s>
+<s> it did the same thing when i did start, run and typed in ping.  </s>
+<s> what does this mean?  </s>
+<s> i know this means something because that box should open and give me the information i'm asking for not open and close in a split second.  </s>
+<s> thanks again, renee  </s>
+<s> you must first bring up the &quot;command&quot; window by typing &quot;command&quot; (without quotes).  </s>
+<s> you will need to be at administrator level to do this, i believe.  </s>
+<s> anyway, the black window will pop up with the current path which will be within your personal user folder.  </s>
+<s> from there type ipconfig.  </s>
+<s> you should get a listing which includes your ip address, subnet mask and gateway.  </s>
+<s> there are other ipconfig switches but this is the basic and what to start with.  </s>
+<s> your ip address should be either one that was manually configured or given by a dhcp server.  </s>
+<s> your router is such a server.  </s>
+<s> if you are connected to the router, you should see the gateway.  </s>
+<s> that is the router's address.  </s>
+<s> this tells you only that you are connected to the router and not much more.  </s>
+<s> knowing the gateway address, you can get into the router's web interface if you know the username and password to do so.  </s>
+<s> but, first off, see if you are connected to the router.  </s>
+<s> i was able to get to router (linksys) site but it wants a username and password and what i had wrote down won't work.  </s>
+<s> i tried to use admin as both and even as just password but still won't work. the only way i can get internet access is to have my cablem modem going to the computer.  </s>
+<s> i did what you suggested by going to command then ipconfig and was able to get the address that i needed.  </s>
+<s> do you have any other suggestions?  </s>
+<s> i'm at a loss as to why the router won't work with my cable modem.  </s>
+<s> thanks again, renee  </s>
+<s> to see how it's set up, troubleshooting becomes extremely difficult.  </s>
+<s> can you see if the router has a way to reset it to defaults.  </s>
+<s> i don't know that router so can't guide you but the user manual you have or can get on the web should tell you if this is possible and how to do it.  </s>
+<s> generally, by default, all security is disabled and dhcp is enabled.  </s>
+<s> this makes it very close to plug and play if your pc is also set to dhcp.  </s>
+<s> of course this could mean your laptop won't connect when you get it back if it's been configured for that specific router.  </s>
+<s> i tried what you said and that still didn't work.  </s>
+<s> i called and talked with hp and they couldn't get it to work either so then i called at&t my dsl service and they still couldn't get it to work so my last phone call yesterday was to linksys and they said that my router is faulty because none of the troubleshooting steps we did worked.  </s>
+<s> they said i need to buy a new router.  </s>
+<s> i don't know much about routers.  </s>
+<s> can anyone please give me some suggestions on which routers i should consider?  </s>
+<s> i want to make sure i get a router that will work with my laptop, desktop (both have windows xp if you need to know that) and my hp officejet 6310 all-in-one printer.  </s>
+<s> let me know if there is anything else you need to know.  </s>
+<s> i use both computers for work at home.  </s>
+<s> i look forward to hearing the suggestions on routers that i should look into.  </s>
+<s> thanks, renee  </s>
+<s> so far, any of the models i find at retails outlets work fine for me if they are the names such as linkysys, dlink, cisco, netgear. the models change so quickly that i no longer share any model number.  </s>
+<s> again, all of them work for me.  </s>

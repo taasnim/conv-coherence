@@ -1,0 +1,28 @@
+<s> i'm teaching a friend how to use his computer.  </s>
+<s> he is using windows xp and internet explorer 8. i have installed au.yahoo as the homepage.  </s>
+<s> however, the news on this homepage is now a couple of months old.  </s>
+<s> each time i open a new browser window, it shows today's date but the news headlines are 28th february 2010 - the date i installed the home page.  </s>
+<s> i suggested to my friend that he temporarily change his homepage to 'the age' (newspaper) - so that he can read up-to-date news.  </s>
+<s> but the same thing has happened with this page!  </s>
+<s> i changed it on the 31st march, and each day when he opens this page, the current date is shown, but the news items remain those of the 31st march!  </s>
+<s> so this homepage news is frozen too!  </s>
+<s> a link to view the day's paper works ok, but the news items on the home page don't change.  </s>
+<s> i emailed yahoo to report this problem, and they gave me some ideas to try - clearing the cache disabling internet browser add-ons / plug-ins temporarily disabling anti-virus/anti-spy and firewall products (and starting a new browser each time).  </s>
+<s> i did all these but there was no change.  </s>
+<s> next they asked me for the source code which i gave them - &lt;!-- p6. compressed/chunked sun feb 28 17:50:08 est 2010 --&gt; they replied on the 8th april (2 weeks ago) that they have passed the matter on to their engineering team for further investigation.  </s>
+<s> has anyone ever had this problem and if so, what can i do to fix it?  </s>
+<s> 1. press control+f5 to refresh.  </s>
+<s> 2. go into tools =&gt; internet options; on the general tab, click on &quot;settings&quot; and then click the &quot;every visit to the page&quot; option.  </s>
+<s> good luck.  </s>
+<s> and sorry, i just use firefox, chrome, or &quot;other than ie.&quot; bob  </s>
+<s> hi bob, your second idea was the solution!! i can't believe this but his setting was 'never'!! i have no idea why it was set up that way.  </s>
+<s> no wonder it was never refreshing!  </s>
+<s> any setting on his computer is inherited from the family member who gave it to him, but i don't know why anyone would not want a homepage (or any other webpage) to refresh each time.  </s>
+<s> such a simple solution but i hadn't thought of it myself, so thank you very much!! helen  </s>
+<s> sometimes it's better to just ask and hope someone has a few ideas.  </s>
+<s> i'm sure this is not the only cause but with 127 settings in these browsers i bet i have one wrong.  </s>
+<s> bob  </s>
+<s> i checked my own setting and it's on 'automatic' which i imagine has much the same effect as 'every visit'.  </s>
+<s> i think i'll write to yahoo tech support and increase their knowledge base - they seem to be still thinking about it!  </s>
+<s> lol thanks again bob....much appreciated!  </s>
+<s> helen  </s>

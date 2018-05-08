@@ -1,0 +1,7 @@
+<s> i have two lan connections from two different service providers, and obviously with different conncetivity settings.  </s>
+<s> the pc is currently having one ethernet connector.  </s>
+<s> how can i configure my pc to run both lans at the same time but with different settings?  </s>
+<s> it sounds like you have 2 isp's, in which case you need to just take the faster of the two if you have a in-house/in-office lan + your internet and want to connect to the web + have the lan you need to get a router, and feed it into the switch or hub that your using for the office so it can provide the internet to everybody/thing configuration of 2 lan's on a single pc is possible if you have 2 nic's  </s>
+<s> we do have an in-house lan sort of a thing but recently our boss decided to get another isp running in case te first one bogs down.  </s>
+<s> i did installed another nic in addition to the built-in ethernet connector.  </s>
+<s> but how will i configure ie6 with two opposite settings?  </s>

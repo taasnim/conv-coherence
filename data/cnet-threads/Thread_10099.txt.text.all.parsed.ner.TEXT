@@ -1,0 +1,47 @@
+<s> we've 3 desktop pcs and two laptops all with xp though one desktop is xp home.  </s>
+<s> i built the desktops and configured them.  </s>
+<s> all share two networked printers and the network performance has been good.  </s>
+<s> i've got one nagging problem between my desktop and the wifes t40 thinkpad.  </s>
+<s> i don't have similar users defined on each.  </s>
+<s> i do have simple file sharing off and have shares on both systems.  </s>
+<s> each does at least one share allowing &quot;everyone&quot; at least read access.  </s>
+<s> all pcs are part of the same network.  </s>
+<s> here's the issue.  </s>
+<s> when i attempt to access the laptop from my desktop, i am presented with a login screen and can enter my wife's username/password.  </s>
+<s> but, if i attempt to access my pc from her laptop, i get the message that i don't have proper permissions.  </s>
+<s> actually, this is what i'd expect from both as neither the administrator or user accounts share the same password.  </s>
+<s> i know i could just duplicate an account to make this go away but something is different between the two.  </s>
+<s> i'm not understanding why i get the login screen accessing the laptop from my desktop and not visa versa. is this a service or local policy issue i'm missing on one these?  </s>
+<s> btw, hers is generally connected wirelessly but using the wired connection makes no difference.  </s>
+<s> everyone with an account.  </s>
+<s> sometimes you find people who thought &quot;everyone&quot; meany &quot;anyone.&quot;  </s>
+<s> does that help?  </s>
+<s> blasted typos and english.  </s>
+<s> i'll monkey with it more.  </s>
+<s> this has been the case for a long time an isn't disastrous.  </s>
+<s> the other desktop pcs have similar user accounts/passwords on them so connecting and sharing is a no-brainer.  </s>
+<s> interestingly, i can connect to my company provided laptop which is in a domain.  </s>
+<s> i am presented with a login screen and must provide the necessary domain information.  </s>
+<s> i don't have a similar account on this laptop as my desktop either.  </s>
+<s> still, i can connect to a share i created to move files back and forth.  </s>
+<s> as for understanding the difference between &quot;everyone&quot; and &quot;anyone&quot;, yes, i certainly am aware of that. the puzzle to me is why, without similar accounts on these two devices, i can connect from one but not the other. the other desktops have an account with her username/password and so they connect readily.  </s>
+<s> certainly i can create an account on either my desktop or her laptop that matches an existing one and it will work as expected.  </s>
+<s> that's not supported well.  </s>
+<s> sorry but that didn't appear in your first post or i would have warned you off.  </s>
+<s> good luck, bob  </s>
+<s> my wife's laptop is not in a domain.  </s>
+<s> it shares the same workgroup name as the other pcs.  </s>
+<s> curiously i am currently setting up another lenovo laptop to replace her aging one and i am encountering the same issue with this one.  </s>
+<s> attempted access from my desktop (wired or wireless) is greeted with a logon window.  </s>
+<s> attempted access from the laptop to my desktop gets the (station name) not accessible message.  </s>
+<s> &quot;you might not have permission...etc.&quot; i will figure this out.  </s>
+<s> thanks for the reply.  </s>
+<s> just so you can dismiss them.  </s>
+<s> a. the firewall.  </s>
+<s> b. the firewall in the router.  </s>
+<s> c. a mismatch or missing account on the machine you are on and the machine you are trying to connect to.  </s>
+<s> d. the permissions on the share do not include the account you are using.  </s>
+<s> item d can confound most.  </s>
+<s> tip: create the share after you create accounts.  </s>
+<s> windows may not always add that new user to the share.  </s>
+<s> bob  </s>

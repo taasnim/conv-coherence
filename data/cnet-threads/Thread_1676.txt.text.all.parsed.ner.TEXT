@@ -1,0 +1,40 @@
+<s> let me say in advance, i thank you for any advice you may have for me.  </s>
+<s> i currently have compaq sr1910nx that has an asus a8n-la (nagami2l) motherboard with 2 gb of ram.  </s>
+<s> i am having trouble multitasking so i did a little research online.  </s>
+<s> i have learned from multiple sites that the a8n-la motherboard will support an amd athlon 64x2 cpu.  </s>
+<s> i would like to know if this is in fact true and if i would gain any noticeable difference in my computer with the swap.  </s>
+<s> i am confident in my ability to swap the cpu's however i am concerned that i will need to alter the bios settings.  </s>
+<s> can anyone point me in the right direction?  </s>
+<s> again, thank you for your advice.  </s>
+<s> i neglected to include in the original question that i currently have an amd sempron 3200+ cpu (socket 939)  </s>
+<s> i have an asus a8n-sli deluxe with an amd64 x2 4800+ a new cpu will drop into the socket but may not work at all, may work partially but not ever show the correct cpu info or may work as it should in any pc with a correct bios.  </s>
+<s> see if you can find if compaq made a version of your system with an athlon cpu and check for the bios updates.  </s>
+<s> vapcmd  </s>
+<s> i'm actually getting ready to do a very similar upgrade.  </s>
+<s> it should work.  </s>
+<s> just ensure that you have the latest bios flashed onto the motherboard.  </s>
+<s> problem with 939s is that you really don't have far up to go.  </s>
+<s> you might be able to go dual-core or 64-bit, but will your software take advantage of it?  </s>
+<s> for the longest time, i just clocked my sempron up a bit. the only reason i'm even doing my upgrade is because i'm using windows 7 64-bit and doing lots of audio and video encoding.  </s>
+<s> before you even consider a major hardware refresh, do the following.  </s>
+<s> 1. ensure you are running a clean and organized system.  </s>
+<s> a p4 system full of malware will run substantially slower than a clean p3 system.  </s>
+<s> registry errors, unnecessary services, and disk fragmentation will do the same thing.  </s>
+<s> 2. ensure that the cpu is the bottleneck.  </s>
+<s> watch your task manager closely.  </s>
+<s> check the resource monitor.  </s>
+<s> are you sure the bottleneck isn't the hard drive? is readyboost a viable option?  </s>
+<s> 3. try overclocking what you've got.  </s>
+<s> if you rarely push the hardware and you have decent cooling, you can get up to 20% gains.  </s>
+<s> the pc i'm posting from runs at 100% most of the time (due to grid computing software), and i clocked the sempron 3200+ up to 2.2 ghz (from 1.9 ghz).  </s>
+<s> 4. ensure that your software would take advantage of a better chip.  </s>
+<s> windows previous to vista really didn't, especially multi-core.  </s>
+<s> 64-bit will generally just limit your hardware support.  </s>
+<s> if you really need an upgrade and really feel that this is what you want, grab the latest bios from hp and take it for a spin.  </s>
+<s> what do you have to lose?  </s>
+<s> are there really any expensive socket 939 chips out any more, anyway?  </s>
+<s> you should be good to go.  </s>
+<s> see here on your motherboard: it lists the amd athlon 64 x2 as supported.  </s>
+<s> good luck finding one, though.  </s>
+<s> try ebay.  </s>
+<s> you will see quite a difference in performance from what you now have.  </s>

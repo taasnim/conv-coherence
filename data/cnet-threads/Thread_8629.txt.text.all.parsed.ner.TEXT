@@ -1,0 +1,61 @@
+<s> hi, i have an external wd passport with 120gb of storage, formatted as fat32.  </s>
+<s> somewhere on this forum i heard that fat32 storage is bad because it can break more easily then ntfs.  </s>
+<s> should i reformat the wd passport as ntfs, what exactly is the difference.  </s>
+<s> to do this i'm guessing you right click --&gt; format --&gt;ok?  </s>
+<s> thanks  </s>
+<s> you can use disk managment to convert fat32 to ntfs, (it does not work in reverse!) apart from being more reliable, if my old memory serves me correctly, fat32 uses 32kb clusters and ntfs uses 4kb.  </s>
+<s> what that means to you is, if you have a file in fat32 1kb in size it actually uses 32kb of hdd space, whereas an ntfs file of the same size would only use 4kb.  </s>
+<s> if the above is not correct, no doubt bob or someone else will give the correct figures.  </s>
+<s> in advance, i claim old age for my memory deficiancies.  </s>
+<s> the only advantage of fat32 is the disk can be moved between systems easier.  </s>
+<s> sometimes ntfs volumes have to be imported (they're considered foreign).  </s>
+<s> a fat32 disk can be moved to practically any pc or os without issue.  </s>
+<s> and it seems to caution against ntfs because: list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads data cannot easily be recovered list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads file system structure cannot be manually checked and repaired list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads malware cannot be scanned for and cleaned  </s>
+<s> every week i have someone at the office show up with a corrupted fat32 volume.  </s>
+<s> it's too prone to damage.  </s>
+<s> just do this.  </s>
+<s> copy a file to it and then yank the usb cord.  </s>
+<s> our ntfs volumes survive and i can kill the fat32 volumes on demand.  </s>
+<s> yes we can format them and start over but where's the fun in that?  </s>
+<s> bob  </s>
+<s> formatting have an effect on how stable the data is?  </s>
+<s> is this just your experience or is this because of the new technology of ntfs?  </s>
+<s> i leave it to you to research file systems but let's highlight the basic issue.  </s>
+<s> ntfs is damage resistant (not damage proof.) fat32 is very compatible but suffers from not having any resiliency to most damage.  </s>
+<s> hey, it's your choice here.  </s>
+<s> i will not spend 20 posts telling you all the reasons and duplicating web pages.  </s>
+<s> how important is your data and your time?  </s>
+<s> bob  </s>
+<s> i plan on reformating the drive as ntfs, the problem is that i need to transfer the data temporarily to another drive, and the other external drive looks like it is failing, so i am just going to buy another external hd and use that as a dual backup.  </s>
+<s> also people on this forum have convinced me that backing up to a dvd is also a good idea.  </s>
+<s> you can convert to ntfs on-the-fly.  </s>
+<s> how to convert a fat16 volume or a fat32 volume to an ntfs file system in windows xp  </s>
+<s> i deleted your post.  </s>
+<s> sorry, no advertising in these forums.  </s>
+<s> mark  </s>
+<s> is it true that a hard drive formatted in fat32 can only hold files that are 4gb or less?  </s>
+<s> i've experienced this in the past when transferring videos and have changed my external drives to ntfs.  </s>
+<s> that is correct. the fat32 filesystem only supports files 4gb or smaller (4gb less 2 bytes if you want to be technical).  </s>
+<s> why do they make it so that the new tvs pretty much have to use hdd in fat32 or wont load sometimes / freeze etc... when i want to play saved dvd, blue-ray, and personally recorded game vids that trump the file size ... is there some better way i am suppose to go about this or suffer without a, larger files or b, not being able to get to data 1/4 the time...?  </s>
+<s> there are two hurdles to get support for such file systems.  </s>
+<s> 1. microsoft licensing and fees.  </s>
+<s> it's not cheap, and may not be easy.  </s>
+<s> 2. microsoft has been pretty tip lipped about ntfs over the years.  </s>
+<s> most of what was created in linux was done via reverse engineering.  </s>
+<s> and while the other file systems do exist, if you used them on the tv the users would blow up at you for using them.  </s>
+<s> bob  </s>

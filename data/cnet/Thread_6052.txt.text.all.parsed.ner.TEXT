@@ -1,0 +1,38 @@
+<s> i have the following cables on my case, i need to know where each one goes specifically on the 8vm533m-rz /8vm533m-rz-c: hpout-r hpout r +p led -p led +hdd led -hdd led power sw mic in mic power mic grd vcc- usb1- usb1+ gnd gnd vcc usb2- usb2+ gnd i have posted the same message on giga-bytes technical zone and got the answer &quot; use the manual for for the front panel usb and power&quot; this was as helpful as mud in a washing machine.  </s>
+<s> thank you for your quick response mark e. burkhardt, mcp cio, trans-atlantic creations  </s>
+<s> what does have to do with wiring your board?  </s>
+<s> i take it that you are just trying to post your link rather than look for help.  </s>
+<s> this is a form of spam on the boards we don't appreciate.  </s>
+<s> as to wiring, they are right.  </s>
+<s> you read the manual to find out where to put the power sw, then you do the same for each connection.  </s>
+<s> it may seem like there is a better answer but thousands have wired it with just that information.  </s>
+<s> bob  </s>
+<s> excuse me, if you are the cio of a tech company and cannot read a tech manual.  </s>
+<s> imo--you should be fired!!!!!!!  </s>
+<s> i just downloaded a copy. the connections for the leds and power are shown clearly on page 15. typically the usb connections are as shown on page 16. each port is in the row ow pins on one side of the &quot;connector&quot;.  </s>
+<s> they go vcc then some letter followed by a minus, then the same letter followed by a plus and then the gnd.  </s>
+<s> what letters they use can vary, just be sure that the minus and the plus in the row use the same letter or letters.  </s>
+<s> note that there are four pins in one row and five pins in the other. the fifth pin is for the ground for the overall shield of the cable.  </s>
+<s> there are some instances where connecting this ground can cause things to not work.  </s>
+<s> on my soyo mobo i had to cut that wire off the cable. the connections for the audio are shown clearly on page 16, they are the mic, the hpout minus r and r. r = right minus is the return nominus sign is the &quot;hot&quot; even though audio is ac thus no real hot lead, just a signal and its return.  </s>
+<s> [takes two wires to tango in electricity].  </s>
+<s> it is not unusual for systems to use a common return for audio stereo lines.[often  </s>
+<s> shown as ground] rather than a minus l [left] and a minus r [right]. the case mfr has no idea what mobo you will use thus it takes a little interpretation of the terminology that each uses.. i agree with robert with that title you have you asking such a simple question makes one wonder if i would use your company.  </s>
+<s> seems best to leave it off.  </s>
+<s> i have a copy of the manual and have studied and memorized it; however,i have found that most cases have cables that are labled completely different than what is on the motherboard.  </s>
+<s> that is what is confusing about the question that i had asked.  </s>
+<s> the various possible names/terms for things it can be confusing.  </s>
+<s> we tend to think that everyone knows that the audio will have a mic, have a left and right channel and each channel may have an independent return or a common return.  </s>
+<s> the common return can be called gnd [ground].  </s>
+<s> there can be many gnd's, but for audio use the gnd in the audio bundle of wires, not just any gnd. the usb has been confusing, however the 10 pin two &quot;connector&quot; [one pin omitted has become standard].  </s>
+<s> that supports two usb channels one channel along each one of the rows.  </s>
+<s> first pin in each row is vcc [voltage], then the - [minus], then the + [plus], then the gnd. the confusing thing is that the plus and the minus pins may have one two or three leeters/characters or anything else that suits their fancy. the key is to be certain that in a given row the plus and the minus both have the same combination of characters.  </s>
+<s> don't waste time trying to figure what the letters stand for. the mic connections can be a little confusing because there are different types of microphoness and some do not need the mic power connection. the leds require being connected with the correct polarity, however if you connect them in reverse it won't damage them so just reverse the leads if the led doesn't light when it should. the power switch and reset switch are not polarity dependent.  </s>
+<s> let us know if you get it all working properly.  </s>
+<s> if you combine the info in motherboard manual with the case manual, you usually can figure everything out by process of elimination.  </s>
+<s> i find the following tutorials helpful: audio: usb: front panel: click the links at the bottom of that linked webpage for info on other motherboard connections.  </s>
+<s> you memorized a motherboard manual?! eeeeuuuww!  </s>
+<s> i prefer to memorize general concepts.  </s>
+<s> more transferrable.  </s>
+<s> where do you put the rest of the useless details you get during the day?  </s>
+<s> different strokes...i guess.  </s>

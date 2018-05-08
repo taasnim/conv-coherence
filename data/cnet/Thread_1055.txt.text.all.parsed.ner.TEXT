@@ -1,0 +1,213 @@
+<s> for about two years now, i have been struggling with nat and dsl problems with my at&t service.  </s>
+<s> some issues have been more or less resolved or dealt with, but nevertheless, some have persisted despite all of my working against them.  </s>
+<s> for the longest time, i can recall having severe nat problems with devices such as my pair of xbox 360 consoles when connecting to online services such as xbox live.  </s>
+<s> ever since i replaced both my modem and my router a year ago, i assumed that all the networking gear was fully functional and that the dsl line was the cause of any problems, but if my technician is correct, this is now no longer the case.  </s>
+<s> yesterday, he confirmed that after all of the work he did the last time he visited, the line is supposedly clean and up to speed.  </s>
+<s> but, my gaming devices continued to report strict nats across the board.  </s>
+<s> a week or two ago, in order to accommodate some new speakers i had, i spent an entire night rearranging my computer desk.  </s>
+<s> i had to move all of my hard drives and both my 2wire gateway and my belkin n wireless router, requiring me to disconnect all of my cables and power adapters.  </s>
+<s> clearly, everything had to be powered off in order to be moved about.  </s>
+<s> this took place after all repairs had been made to my internet service.  </s>
+<s> alright?  </s>
+<s> everything had been rebooted, or power-cycled.  </s>
+<s> after reconnecting and setting up everything, i still noticed no change in nat settings, not that i was looking for any problems specifically, but rather, because i was used to their presence.  </s>
+<s> my router has upnp enabled, nat enabled, and the proper trio of ports opened for xbox live, etc., so there is no apparent reason as to why the nat readings did not register as open to begin with.  </s>
+<s> this happened with the d-link router i used to use many moons ago as well (it no longer works, so i can't test it).  </s>
+<s> this past week, i noticed that my wired xbox was having more trouble connecting to parties, games, and the live service entirely.  </s>
+<s> i know live was taken down completely on tuesday for maintenance, but that did little to help me at all.  </s>
+<s> yesterday, the xbox i have connected to my hdtv in a separate media room began to disconnect frequently from the internet, but not from my wireless network.  </s>
+<s> the live profile we use on it failed to sign in online, an then both consoles repeatedly reported a strict nat setting. the wired xbox continued to function throughout all of this.  </s>
+<s> since i ran out of options long ago, i decided to just try what the machine told me to do (although i know i have tried some of the steps before with no luck). the first step on microsoft's suggested path was to restart either your modem or router.  </s>
+<s> i did both, powering off my router and then the modem a few seconds after.  </s>
+<s> i waited around 30 seconds or so before reconnecting the power on the router first, and the modem last just as before.  </s>
+<s> i ran the nat test on both machines, once they were fully functional, and lo and behold!, they reported no errors .  </s>
+<s> open nat.  </s>
+<s> i was a bit surprised, but excited nonetheless.  </s>
+<s> knowing that the test has ignored the strict nat in the past, i retested the connections several times.  </s>
+<s> no problems.  </s>
+<s> i signed in on both machines, and no problems.  </s>
+<s> i watched the online performance and i saw no nat problems.  </s>
+<s> all day, no problems.  </s>
+<s> if i popped in halo 3, no longer did i get a message in the game about a closed nat.  </s>
+<s> i was thrilled.  </s>
+<s> i will still check my results in order to further validate them in the meantime, of course.  </s>
+<s> so that was mostly the story for now, and i am hoping i relayed it clearly.  </s>
+<s> but, i am still having some issues in which i could really use any help at all, so i hope i am able to explain myself well enough.  </s>
+<s> now for some questions: 1. i don't truly understand why this power-cycling worked.  </s>
+<s> maybe the xbox nat test somehow configured the router for it?  </s>
+<s> i can't tell how/if that's what transpired. the networking gear was off for a longer period of time when i rearranged the room, and as i mentioned, was still after the repairs made to my line some time ago.  </s>
+<s> unless at&t did something to my line since then or when i called my technician, i don't see how this simple power-cycling alleviated my long standing nat/firewall problem.  </s>
+<s> i had not modified any modem or router settings.  </s>
+<s> what could have happened?  </s>
+<s> now on a more general, less related note: 2. lately my router's coverage and signal strength has been noticeably diminishing.  </s>
+<s> my macbook pro can establish a connection of 130 megabits per second while in the same room as the router.  </s>
+<s> i have a sony vaio fw vista notebook in the kitchen on the opposite of the house, no more than a couple of dozen feet.  </s>
+<s> it reports a 36 megabits per second link.  </s>
+<s> both read a strong signal and are using 802.11n.  </s>
+<s> in contrast, the hp, quad-core elite desktop i have in the media room down the hall (same room as the wireless xbox), registers a 135 megabits per second link with an excellent signal.  </s>
+<s> there are more walls between the media room and my so called office than between the kitchen with the vaio, and yet the desktop is getting the quickest link.  </s>
+<s> some specs: these three computers are using 802.11n and report excellent signals.  </s>
+<s> the macbook pro is a 2007 model with a 2.4ghz core 2 duo processor while the sony vaio is a model from last year and features a slower, 2.0ghz chip.  </s>
+<s> both have 4gb of ram. the mac has the latest version of os x leopard (10.5.7), the vaio has vista home premium sp2. the quad-core hp runs at 2.66ghz, has 6gb of ram, and runs vista ultimate.  </s>
+<s> it is getting the fastest connection while being the farthest away from the router.  </s>
+<s> this could either be because of different wireless card manufacturers, but i think not.  </s>
+<s> every mobile, handheld device i own reports weak signals in the same room as the router.  </s>
+<s> my iphone 3g can't pick up the network if i ventured outside, next to my kitchen and my first-generation ipod touch registers a single bar in the same room as the router. the iphone is on os 3.0 as of this week, but i have yet to upgrade the touch from os 2.2.1.  </s>
+<s> i recently tried scanning for networks on my old sony psp device, using its latest firmware, and in the same room as the router (this does get repetitive), it registered a signal strength of 14% while the neighbors across the streets had a signal of over 50% entering my home.  </s>
+<s> now i think that portable gaming device only uses 802.11b, but my router is set up to allow b, g, and n traffic.  </s>
+<s> what other tests can i run or perform in order to correct this poor signal and coverage problem?  </s>
+<s> i tried using ap grapher on my mac, but it has been crashing continuously and hasn't provided me with any useful information yet.  </s>
+<s> this is very bothersome.  </s>
+<s> i think these observations, at the very least, do show how poor the coverage of my belkin router is.  </s>
+<s> this appears to be the official product page for it .  </s>
+<s> i think it should have better penetration around the house.  </s>
+<s> my neighbors have an older netgear or linksys router that may only run up to 802.11g, and yet it spreads out much further.  </s>
+<s> i know that some routers are just better overall when handling coverage and throughput, but this looks abnormal.  </s>
+<s> i have already thought of using a range booster, but considering that i am getting very mixed results in the same room as the router, that may not help me so much.  </s>
+<s> thoughts on that?  </s>
+<s> 3. i know this is very long, but please, bear with me.  </s>
+<s> as i have posted in previous threads before in the macintosh-related forums, my macbook pro has reported errors in regards to wpa encryption on my wireless network.  </s>
+<s> it only occurs with my macbook in my house.  </s>
+<s> when i have taken it with me to visit others, their wpa networks operated absolutely fine.  </s>
+<s> according to this apple discussion thread you can see that some others have seen similar problems, but have believed that these errors in os x's network utility are merely showing that some packets are being retransmitted and lost.  </s>
+<s> i mean, the network can operate on wpa of course, but give it a little bit, and the errors both sent and received by the macbook increase more than exponentially.  </s>
+<s> even if this is harmless as i have been told before here, on this link i have, and from some observations, i would like it to stop.  </s>
+<s> considering that my nat problem is absent for the moment, i want to knock all of these issues out of the park for good.  </s>
+<s> how can i go about fixing this?  </s>
+<s> --- now, i am considering replacing the belkin router with a new airport extreme base station and possibly adding in an airport express unit for good measure this weekend.  </s>
+<s> i also intend to replace all of my networking cables, for new gigabit ethernet wires just to be safe.  </s>
+<s> if i see no major improvements, there's a good chance i'll return the apple networking gear (if i can make it to an apple store with all of this iphone madness going around).  </s>
+<s> if that fails, i will once again investigate settings on my 2wire gateway, which is one thing that is a very time consuming task over here.  </s>
+<s> it is currently bridged to disable its routing functions since the belkin should be faster with is 802.11n capabilities.  </s>
+<s> so its firewall should be off and should have no effect on anything, but you never know... i hate working with it as it has two separate interfaces, one only accessible when it's functioning as a router.  </s>
+<s> to get out of bridge mode, i have to reset the entire thing and set it up as if i just got it out of the box.  </s>
+<s> getting into bridge mode, according to a dslreports guide, is much easier for me.  </s>
+<s> i think i've done that properly.  </s>
+<s> but since i have had so many nat problems, i wonder: if i restored my 2wire's routing capabilities, disabled its wifi, and connected the belkin, what results would i get?  </s>
+<s> i did this before long ago, but i was getting double nat interference.  </s>
+<s> my mac noticed this and didn't agree with it at all.  </s>
+<s> but, if i disable the firewall on the belkin while still using it as an external router, will my network still function?  </s>
+<s> more importantly, is this safe? the belkin would then broadcast a signal, but it would not provide any protection save that from the firewall on the 2wire, the separate device.  </s>
+<s> this could work, but i have yet to try it out.  </s>
+<s> i think i already tried the reverse at one point, but decided it was not working any better than bride mode.  </s>
+<s> i'll have to see.  </s>
+<s> sounds simple enough, but i never seem to have enough time to dedicate to work on any of this thoroughly.  </s>
+<s> plus, i always worry about breaking something in the 2wire's functionality.  </s>
+<s> it's not easy to work with.  </s>
+<s> please, any suggestions or feedback would really help me.  </s>
+<s> again, if anyone could provide some counsel or references that i could work with, i would really appreciate it.  </s>
+<s> i'm making this my weekend project, and i intend to succeed.  </s>
+<s> i am prepared to either troubleshoot or replace the entire modem and/or router.  </s>
+<s> if i need to clarify any other details, i can and i will if asked.  </s>
+<s> many, many thanks.  </s>
+<s> -bmf  </s>
+<s> i tested it again this morning and the strict nat/firewall setting is back.  </s>
+<s> didn't think the open setting would last.  </s>
+<s> again, any help would be appreciated.  </s>
+<s> -bmf  </s>
+<s> and it works very well.  </s>
+<s> firewall problems appear to be nonexistent, speed is good, and now the only thing bothering me is that i have realized i may need a new range booster.  </s>
+<s> it appears the belkin and the apple router are not able to boost each other on a single network.  </s>
+<s> still, if anyone has any knowledge regarding some of the things i mentioned before, i'd be happy to hear them.  </s>
+<s> -bmf  </s>
+<s> you could just get a better antenna and place it on the router.  </s>
+<s> keep antenna away from any magnetic devices.  </s>
+<s> the belkin uses 2 antennas while the apple has no external ones.  </s>
+<s> if i could link them together, then getting new ones would make sense, but that doesn't look like it's going to happen.  </s>
+<s> -bmf  </s>
+<s> you usually only need one router in a residential lan.  </s>
+<s> you should not have to daisy chain routers to get the configuration you want.  </s>
+<s> can all your devices connect to one router?  </s>
+<s> deal with one problem at a time.  </s>
+<s> i'm trying to get high coverage all over the house.  </s>
+<s> after many observations, i'm thinking the walls around the house are too thick for the coverage i could normally get with either router.  </s>
+<s> plus, i've got wireless phones and satellite equipment for my tvs all around the place.  </s>
+<s> generally speaking, all of my devices can connect to just one router, but say i want to hop on the wifi with my iphone or ipod when i'm out by the pool or when i'm just beginning to pull in the driveway.  </s>
+<s> the network doesn't extend over there, although that may be a result of the new satellite dish i had installed for my directv service.  </s>
+<s> couldn't get hd channels without it.  </s>
+<s> i checked over at the apple discussion boards, and they confirmed that i could only extend a network with the apple router so long as the other hardware was apple-based as well.  </s>
+<s> it won't work with third-party devices, unfortunately.  </s>
+<s> so i'd have to either get a range booster such as an airport express or try something else entirely.  </s>
+<s> my neighbors across the street, who as i mentioned in my original post, have a very strong network signal in my area, actually use two different routers.  </s>
+<s> my neighbor works in networking/telecommunications, so when told me last night he can't get full coverage around his house without using a pair of linksys routers, i took his word for it.  </s>
+<s> he knows what he's talking about.  </s>
+<s> i've seen some of the computers he has built recently, and i've been a beta tester for his iphone programs, one of which has yet to be completed and utilizes a new method of push technology.  </s>
+<s> i've seen his work in action, and it's amazing.  </s>
+<s> he's definitely qualified in this area.  </s>
+<s> now, he runs ethernet cables over and through some walls to connect his routers, as i recall, but that's not really an option for me.  </s>
+<s> plus, his house is a bit smaller than mine.  </s>
+<s> i could use the extra range and coverage.  </s>
+<s> either way, none of these ideas seem too complicated.  </s>
+<s> all i need is a large, unified network.  </s>
+<s> since i can't reuse my older belkin, i'll have to get something else.  </s>
+<s> -bmf  </s>
+<s> can you draw a diagram that shows the layout of your lan.  </s>
+<s> just a simple lan diagram.  </s>
+<s> use mspaint to draw it in.  </s>
+<s> what's the square footage of your house? is it a single or two floors?  </s>
+<s> how many walls between the router and the farthest wireless you will be using?  </s>
+<s> do a second diagram with floor plan so i have a good understanding of your layout.  </s>
+<s> just a quick drawing, nothing fancy.  </s>
+<s> email it to me at philbernie@yahoo.com.  </s>
+<s> i would love to help you out.  </s>
+<s> you are using 2 routers either to isolate 2 networks or to extend the reach of your wireless network.  </s>
+<s> which one is true for you?  </s>
+<s> here are two sites you may want to read:  </s>
+<s> the problem is, the (dual-band) airport extreme base station is only capable of extending wireless network managed by other apple base stations.  </s>
+<s> i've tried to connect it to the belkin over wifi, and it fails. the belkin n router that i have is a decent router, but it does not have a &quot;client mode&quot;, according to the second link you have there.  </s>
+<s> with these software limitations, i can't do anything without using ethernet, which is not a practical solution for me.  </s>
+<s> literally, i would have to run at least 50 feet of cable through some walls, if i planned to place the second router down the hall opposite from the first.  </s>
+<s> ideally, to completely saturate the house, i would want to put the second router in the kitchen, which is opposite diagonally from my office room, but then running cable would not be possible at all.  </s>
+<s> can't run that through the living room, the largest room in the house.  </s>
+<s> so basically, i can't seem to do what i'd like to with my current crop of hardware.  </s>
+<s> if i got an airport express, i could use that and my problem would be solved. the two routers i have now just won't talk to each other without using cables, which is something i can't do.  </s>
+<s> that's where i am right now, since my firewall problems and my wpa problems are less severe for the time being.  </s>
+<s> where are you going with this?  </s>
+<s> i have a decent understanding of what i need to do, i just don't have the range booster to do it.  </s>
+<s> i appreciate the help that you're offering though.  </s>
+<s> let me know what else i should clarify.  </s>
+<s> -bmf  </s>
+<s> you can't have two routers talk to each other wirelessly, unless one of them becomes a client acting as an access point.  </s>
+<s> you can have a router wired to another router in a daisy chain which is probably what your neighbor has set up.  </s>
+<s> however, you have to get off the idea that you need two routers to make your lan work effectively.  </s>
+<s> if the apple stuff works and does what you want, then stick with it.  </s>
+<s> if you want to set up a non-apple router, get at least a wireless-g or -n and a signal boaster or a range extender which basically boast the signal so that it can reach your wireless devices.  </s>
+<s> wireless router--&gt; boaster/extender --&gt;wireless device.  </s>
+<s> check out fry's signal boasters and extenders.  </s>
+<s> it's best if you stick with the same brand for these devices.  </s>
+<s> you can also boost your signal by using a high-gain antenna.  </s>
+<s> two routers aren't necessarily the answer to your dilemma.  </s>
+<s> good luck.  </s>
+<s> on some routers, you can enable the &quot;extended range mode&quot;.  </s>
+<s> that will help some.  </s>
+<s> i had the belkin router for almost a year and half, since the router i had before it broke when i tried to upgrade its firmware.  </s>
+<s> since i've had so many problems with my at&t dsl service, i also got a new modem around the same time as the belkin.  </s>
+<s> now, i configured the 2wire gateway in its bridge mode as its routing capabilities were limited to what they like to call &quot;hyper g&quot;. the belkin that i already was using had 802.11n, so i used the 2wire solely as a modem.  </s>
+<s> more recently, the nat and firewall problems i've always had were becoming more problematic and were completely blocking out different services that i use online, such as xbox live.  </s>
+<s> i got the new apple router as a temporary replacement, and i planned on returning it if it didn't do the job any better. the apple router doesn't seem to pan out as much as the belkin, but it's noticeably faster from the looks of it.  </s>
+<s> after i restarted my routing gear, before i got the new router this past weekend, the firewall problem appeared to disappear almost entirely, a good sign indeed.  </s>
+<s> now with the faster router in place, i have a network that's been practically rebuilt, and it seems to show.  </s>
+<s> i had the belkin router left over.  </s>
+<s> it's still functional and offers decent speeds considering it's last year's technology.  </s>
+<s> i wanted to try to repurpose it and extend the range of the network with it, if possible.  </s>
+<s> i have tried a couple of methods, and as i've said before, with no luck.  </s>
+<s> i will have to get a dedicated range booster instead.  </s>
+<s> i already know using two routers together would create a problem; as you wrote, i would have had to turn it into an access point, which was basically the plan.  </s>
+<s> problem was the belkin doesn't seem to support bridging between routers.  </s>
+<s> if i couldn't do it wirelessly, then it was a lost cause.  </s>
+<s> that's it.  </s>
+<s> thanks for the help though.  </s>
+<s> i appreciate that you took the time to try to work this through with me, as i've had a plethora of network problems that are now in the past.  </s>
+<s> hopefully, the new gear will work well for a very, very long time.  </s>
+<s> i don't want to or plan on having to buy a new router any time in the foreseeable future.  </s>
+<s> thanks.  </s>
+<s> -bmf  </s>
+<s> there's nothing wrong with experimenting with your local network.  </s>
+<s> wireless networking offers a special challenge because two wireless devices have to be able to sucessfully communicate.  </s>
+<s> if you want to experiment with network layouts and network devices such as routers, switches, hubs, repeaters, etc., then it's best to work with hardwire between those devices.  </s>
+<s> wireless networking follow the same rules of topology and layout with the added difficulty of trying to get two devices to talk wirelessly.  </s>
+<s> if you can't connect two devices wired, then you probably can't do it wirelessly.  </s>
+<s> keep on experimenting with your network layout.  </s>
+<s> don't be afraid to use wires 'cuz they still offer a better method for two nodes to communicate.  </s>
+<s> you can hide the wires up in the attic.  </s>
+<s> keep your network simple enough as long as it does what you want it to do-- good luck to you  </s>

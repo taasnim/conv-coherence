@@ -1,0 +1,17 @@
+<s> i've got the notice from windows 7 that the hard drive i'm on is failing.  </s>
+<s> i'm considering getting a program that will copy the image over to a new hard drive.  </s>
+<s> two questions: 1. will copying the exact image / sectors / etc whatever - will that also copy the problems onto my new hard drive, or will the problems that i have on the existing hard drive create issues with the image copy to the new hard drive?  </s>
+<s> 2. the new hard drive is significantly larger than the old one, will this be a problem in any way - i assume the partition isn't copied over in the transfer, but haven't done this in several years so just want to make sure.  </s>
+<s> one is clonezilla and later if i need to resize partitions gparted.  </s>
+<s> i'll stop here about their use since there is plenty of web pages about these free apps. the copy will not copy bad sectors to the new drive. the data will move if possible but you won't create bad sectors by copy a drive.  </s>
+<s> bob  </s>
+<s> if the hd is &quot;physically&quot; failing then getting any copy transfer will be to the degree the damage is done.  </s>
+<s> if you're trying to get away from some s/w issue then it *may* copy provided all s/w is cloned(image) over.  </s>
+<s> you will soon know afterwards if the same issues crop-up due to corrupted or malware problems.  </s>
+<s> since, you gave no idea what the true damage is from, but a bad hd. if you simply install new hd and using the oem restore/recovery discs, you prepare the system for re-use.  </s>
+<s> then you can access the old hd and copy critical data over that way.  </s>
+<s> though you will need to install the pgms.  </s>
+<s> prior before moving data over.  </s>
+<s> does your hd provide any s/w for data transfer?  </s>
+<s> if not, check thier support website, it may provide it that way.  </s>
+<s> tada -----willy  </s>

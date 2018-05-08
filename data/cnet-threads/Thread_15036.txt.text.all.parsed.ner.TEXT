@@ -1,0 +1,13 @@
+<s> hey networking geeks i have trouble connecting my pc to my laptop.  </s>
+<s> here are the equipments i have: 1) an adsl router ut- starcom model :ut-300r2u supplied with my isp (bsnl).  </s>
+<s> 2) destop pc running windows xp sp2 professional 3) d-link wireless adapter model : dwl-g510 4) hp 520 notebook running windows vista business here are some images to assist you ::::: adsl router properties :::::: accessible when i type &quot;192.168.1.1&quot; in my address bar 1. wan properties [img] [/img] 2. lan properties [img] [/img] 3. dhcp properties [img] [/img] 4. dns properties [img] [/img] ::::: network connection in my desktop ::::: 1. lan properties [img] sharma.com/nw_images/network_connections_local_area_cnxn.jpg[/img] 2. wireless connection properties [img] [/img] i need to connect to my laptop using wi fi. please help..  </s>
+<s> 1. your starcom is at 2. you are missing the ubiquitous wifi router.  </s>
+<s> 3. add that like this: starcom -&gt; wifi router -&gt; pcs.  </s>
+<s> that works!  </s>
+<s> bob  </s>
+<s> hey bob, thnx for your reply, but somebody told me that i can skip the wi fi router (thats the last option for me) but do tell me how can i disable the dhcp server as wireless connection auto assigns an address... there are three things which are conflicting my routers dhcp server my windows dhcp server my dlink's dhcp server so i need a setup to do something about these conflicts moreover if i disable my dhcp server, windows does not read my external ip address and set it on local area connection as provided my router everything is so confusing to me please help !  </s>
+<s> i'm going to share an article where the wifi router was not used.  </s>
+<s> however it's so flighty and many have no grasp of networking so i must decline doing anything more than noting the article.  </s>
+<s> here a router can be found for 20 bucks.  </s>
+<s> so it's a personal choice if your time is worth that.  </s>
+<s> -&gt; read good luck, bob  </s>

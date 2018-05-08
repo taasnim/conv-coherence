@@ -1,0 +1,60 @@
+<s> i don't have much experience with networking and usually find this very frustrating.  </s>
+<s> there's no simple &quot;on&quot; setting.  </s>
+<s> i don't even know where to begin.  </s>
+<s> anyone want to help walk me through?  </s>
+<s> since i don't research devices, the question would be, does the modem incorporate a router?  </s>
+<s> and does this router contain a wireless radio?  </s>
+<s> if the answer is no to the router, you need to purchase a wireless router to attach to the modem.  </s>
+<s> connect thus: modem -&gt; router -&gt; pc. please answer the first two questions.  </s>
+<s> yes. the modem incorporates a 802.11g wireless router and broadcasts a signal that can allow 255 users to receive.  </s>
+<s> but like i mentioned above, there's no &quot;on&quot; setting, there's a whole lot of settings that weren't in any of my previous modems.  </s>
+<s> is there such?  </s>
+<s> installation cd? more settings because the modem contains the router.  </s>
+<s> in general you access the router (wired), you'll need to find the documentation for the specific ip address used.  </s>
+<s> generally it will be 192.168.x.x. after you enter the router setup you navigate to the wireless settings.  </s>
+<s> wireless on should be the default setting.  </s>
+<s> does your pc have wireless capability?  </s>
+<s> if so have you searched for wireless networks?  </s>
+<s> i'm really not prepared to give the full tutoral for your specific modem/router.  </s>
+<s> it should come with the setup instructions.  </s>
+<s> not that i don't want to help, but i decline to duplicate any existing documentation.  </s>
+<s> the cd that came with the modem/gateway contains the installation manual.  </s>
+<s> it is an amazing 41 pages long and, i think, personally written by the techs at 3btech.  </s>
+<s> i followed all the instructions.  </s>
+<s> (((yes my laptop has built in wifi and a switch on the front to enable/disable. the switch is enabled and i can usually see 2-4 other networks.)))  </s>
+<s> my laptop is a toshiba satallite a215, amd athlon 64 x2 dual-core tk-57 1.9 ghz, 2 gb ram, vista home sp2.  </s>
+<s> and before i go further, i will say that i am a computer expert with very little knowledge of networking but a tad bit of experience with it...trial and error type stuff mostly.  </s>
+<s> when i go to &quot;192.168.1.1&quot; i am redirected to &quot; and there i log into my modem.  </s>
+<s> i find myself at the home page.  </s>
+<s> across the top are tabs labeled home, wizard, setup, advanced, wireless, tools, status, and help.  </s>
+<s> i have played around with some settings under most of these to try and &quot;turn on&quot; the wireless and haven't gotten anywhere.  </s>
+<s> the home tab displays basic status information.  </s>
+<s> for this post i will qoute what i currently see.  </s>
+<s> system uptime: 09 hours 58 minutes dsl status: connected dsl speed: 512/3008kbps wireless rf: disabled ethernet: connected software version: 3.6.0c_2n00  </s>
+<s> ssid: asusmatt at the bottom there is two buttons &quot;log out&quot; and &quot;refresh&quot; per the instructions in the included manual and of my isp's (at&t) particular settings, i went to wizard.  </s>
+<s> at the top, under the tabs is the heading: ppoe connection setup protocal: pppoe vpi: 0 vci: 35 username: fragments list.s.cnet pre_process.sh  </s>
+<s> threads password: fragments list.s.cnet pre_process.sh  </s>
+<s> threads on demand: (not selected) idle timeout: (greyed out and not an option) under this is another section/heading labeled wireless setup ssid: asusmatt channel b/g: 7 at the bottom are the options to &quot;log out&quot; or &quot;next&quot; when i click &quot;next&quot; the new screen is the warning that i am about to make permanent changes to the system and that if i continue it will be restarted.  </s>
+<s> obviously, i saved and restarted and was online in seconds through ethernet.  </s>
+<s> the next tab is setup where i have: (heading) lan setup lan configuration ethernet switch (heading) wan setup new connection modem (followed by a green light) wizard gamer log out the first thing i did was go to new connection because there wasn't clear instructions concerning the wireless feature in the manual.  </s>
+<s> ...i will continue in a minute...  </s>
+<s> ...okay, i'm continuing now... the connection &quot;wizard&quot; at the top is the heading pppoe connection setup name:wizard type: pppoe options: nat (checked) firewall (checked) ppp settings username: fragments list.s.cnet pre_process.sh  </s>
+<s> threads password: fragments list.s.cnet pre_process.sh  </s>
+<s> threads idle timeout: (grayed out, not an option) keep alive: 9999 min authentication: auto (other options are chap and pap) mtu: 1492 bytes on demand: not checked default gateway: checked enforce mtu: checked debug: not checked ppp unnumbered: not checked lan: (default and grayed out) lan group 1 pvc settings vpi: grayed out vci: grayed out qos: grayed out pcr: grayed out scr: grayed out mbs: grayed out cdvt: grayed out options: connect, disconnect, apply, delete, cancel under the tab status, and the option to see connection status there are two connections listed: description: wizard type: ppoe ip: 99.120.187.215 state: connected online: 6hr 6min 58sec disconnect reason: n/a  </s>
+<s> i just read your post and noticed the &quot;wireless rf: disabled&quot;.  </s>
+<s> and one of the options you state at the top is wireless.  </s>
+<s> all you need to do is enable wireless.  </s>
+<s> if this modem/router is supplied by your isp they can walk you through the setup.  </s>
+<s> does wireless rf: disabled at the home page mean that my wireless is turned off and not transmitting?  </s>
+<s> go to the wireless option at the top of the page.  </s>
+<s> nope, the modem is a 3rd party buy.  </s>
+<s> i got it for like $20 instead of at&t's $70 option.  </s>
+<s> in hindsight, maybe next time i'll use there's.  </s>
+<s> if it's the 2wire like i had a couple of years ago, it's so easy to use it's pathetic.  </s>
+<s> lol.  </s>
+<s> yeah. i wondered about that.  </s>
+<s> i can't figure out how it's disabled or how to turn it on.  </s>
+<s> there's no simple &quot;on&quot; button.  </s>
+<s> that link is to my zipped microsoft word document containing all the screen shots from every tab and option.  </s>
+<s> please review it and let me know what i missed.  </s>
+<s> thanks guys!  </s>

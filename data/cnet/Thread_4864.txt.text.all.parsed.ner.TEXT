@@ -1,0 +1,23 @@
+<s> i mean to leave a pc (xp pro) unattended for weeks, collecting data from meteorological instruments for a moment every hour or so. the site has a 30w solar panel and lead-acid batteries with about 100 amp-hours available before the charge controller turns off the load for low battery voltage.  </s>
+<s> days could pass before the sun comes out enough to charge the batteries, so i want to reduce the power requirement of the pc as much as possible.  </s>
+<s> it has solid state ide storage, video disabled and an external 12v power supply, and needs about 20w when active. that load would use up the batteries in less than three days of no sun.  </s>
+<s> i'm thinking that if the pc could download the met data and go into standby until the next data is available, the power use could be reduced by a factor of ten or so. the sun and batteries could easily keep up with that.  </s>
+<s> i'd set the no-activity interval to 5 minutes to get the pc to go into standby.  </s>
+<s> how to wake it up again?  </s>
+<s> after the met data logger has accumulated 175 datasets, it sends them to the pc on a serial port so maybe i could use activity on a serial line to activate the usb-wakeup function of the pc. i would be grateful for comments on this idea and suggestions for better approaches, that solve the basic problem that i need more power or less consumption.  </s>
+<s> i have this netbook i put on the watt meter and it draws 9 watts when running and the screen has shut off.  </s>
+<s> for reference the make and model is the emachines 250-1162.  </s>
+<s> i've used both bluetooth and usb to serial converters with it along with apps i've written.  </s>
+<s> for even lower power i've used windows mobile phones with the apps in c# and the serial connection via bluetooth serial ports.  </s>
+<s> as to your method, you may have to try it.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> i wish i'd known about the emachines 250-1162 before i got so far down the road i'm on.  </s>
+<s> as to waking up, it could be just a matter of the bios set to wake on usb activity.  </s>
+<s> or you researching the use of the windows scheduler.  </s>
+<s> from memory, the current versions of windows 7 can wake from sleep when scheduled. this is not an offer to write the app but to chat about how to research it further.  </s>
+<s> and to share that apps on windows mobile up to 6.5 is fairly easy with visual studio pro 2008.  </s>
+<s> i demo &quot;your first app in 5 minutes&quot; on that so it can't be more than a few days for your average programmer to have their first wm apps out and running.  </s>
+<s> i think my pharos m619 tops out at 2 watts with everything going (gps, cell phone, wifi and bluetooth.) so it makes for a fine little data collector.  </s>
+<s> and with the cell phone it can email home the data.  </s>
+<s> bob  </s>

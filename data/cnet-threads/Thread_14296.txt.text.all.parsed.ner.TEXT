@@ -1,0 +1,10 @@
+<s> i have an asus p5vd1-x motherboard rev 1.xx bus clock: 200 megahertz bios: american megatrends inc.  </s>
+<s> 080012 12/06/2005 i would like to add another hard drive or two.  </s>
+<s> i already have 2 hard drives, a dvd burner, and a cd burner installed, thus using up all the ide channels on the board.  </s>
+<s> i don't want to buy a pci slot ide controller in order to add more drives unless i have to.  </s>
+<s> so i am wondering if i can make use of the sata controllers on the board at the same time as the ide primary and secondary channels.  </s>
+<s> not a problem.  </s>
+<s> sata doesn't get bios from cmos so you might have to load a driver though.  </s>
+<s> do you have a sufficient power supply?  </s>
+<s> i have a 430w psu, nvidia 6200 agp graphics card, which doesn't require a separate power cord from the psu, dvd burner, cd burner, soundblaster live sound card, 80 gb maxtor hd and a 20 gb maxtor hd installed.  </s>
+<s> i would think the psu could handle another drive but i don't know anything about the power requirements of a sata drive verses an ide drive.  </s>

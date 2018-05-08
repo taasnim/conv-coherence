@@ -1,0 +1,114 @@
+<s> i've recently put up a new computer on a wireless network, and i'm having some problems.  </s>
+<s> i'm a complete ignoramus when it comes to this stuff, so i need all the help you can give me!  </s>
+<s> here's some info for starters: there are two computers on the network, one is an xp computer which is wired directly to the internet, it's on an intel pro/100 network adapter (forget exactly which model, can check if it's important).  </s>
+<s> i've seen this computer get download speeds of up to 1500 kb/s from megaupload. the router i'm using is a netgear wpn824 (with a firewall built into it, i *think*), and we're on a cable broadband isp. the network is secured with a password.  </s>
+<s> the other computer is on vista and is connected wirelessly, it's using a broadcom 802.11g card.  </s>
+<s> trend micro pc-cillin is installed and the firewall is turned on (set to &quot;wireless mode&quot;) and windows firewall is turned on as well.  </s>
+<s> if there's anything else that needs to be said i can find out, that's all that comes to mind as relevant atm however.  </s>
+<s> here are the problems i'm having: #1: internet connection is slow, slow, slow!  </s>
+<s> i understand wireless will always be somewhat slower, but download speeds from the internet are never more than 10 kb/s.  </s>
+<s> usually about 5 kb/s (hundreds of times slower than the wired one).  </s>
+<s> i would hope this is not normal and can be fixed.  </s>
+<s> the weird thing is that it doesn't seem to be a problem of signal strength.  </s>
+<s> when i go to the network and sharing center, it lists the signal strength as excellent (all five bars green) and speed as 18.0 mbps.  </s>
+<s> again, i don't expect it to be as fast as wiring it directly to the modem, but this is just unbearable.  </s>
+<s> #2: getting the xp computer to show up on the network from the vista computer.  </s>
+<s> i have gotten it to show up a few times (by downloading what was recommended in the sticky) but then it will stop showing up again.  </s>
+<s> sometimes it shows up, sometimes it doesn't.  </s>
+<s> #3: getting file transfers to work, even when it does show up.  </s>
+<s> i have been able to transfer one file of about 3 mb from the xp to the vista, but larger files will give me a &quot;preparing to copy&quot; message which stays up for about 15 minutes with no progress before giving me a message which says something like &quot;copy failed, make sure you're connected to the network&quot; (even though the connection hasn't failed).  </s>
+<s> any info to help with any of the problems would be most welcome, but the internet speed has to be top priority.  </s>
+<s> also, i would prefer some solution that doesn't require i buy anything else, but if that just isn't possible at all, i'd like to know about those other solutions as well...  </s>
+<s> does anyone at least know where i might go where someone else could help me?  </s>
+<s> try that first and tell at least what's asked for by those words in red.  </s>
+<s> i read the sticky.  </s>
+<s> switched to wpa-2 security, no real noticeable change in speed (though it may help with disconnects-who knows).  </s>
+<s> installed the patch from microsoft support, the xp computer still doesn't show up.  </s>
+<s> (am i supposed to install it on both computers?  </s>
+<s> as of now it's only on the xp.) as for the info, i gave operating system, model number, the model of my router, my wireless card, what else do you need?  </s>
+<s> i will give whatever info's required, but i'm not sure what else list.cnet.remains  </s>
+<s> required.  </s>
+<s> sorry if the forum sticky was unclear.  </s>
+<s> i'd try it our way which is not wpa2.  </s>
+<s> this is all volunteer and not tech support so all we can do is hope you can try it one more time.  </s>
+<s> i read your post a third time and it's tough to dissect just the details out.  </s>
+<s> i could not find the wpn824 version or firmware version.  </s>
+<s> some think it's not important... bob  </s>
+<s> sorry, the wpn824 is version 1 and the firmware is newly updated.  </s>
+<s> i agree the post is a little long, here's a hopefully somewhat clearer version: netgear wpn824 router, version 1, newest firmware.  </s>
+<s> windows xp computer with the patch that's supposed to get it to show up on vista network screen installed.  </s>
+<s> it has an intel pro/100 network adapter, unsure on the exact details of this but i can find out if need be.  </s>
+<s> this computer's wired and has no problems with internet.  </s>
+<s> windows vista computer with a broadcom 802.11g network adapter.  </s>
+<s> this computer gets constantly disconnected, has absolutely terrible internet speed, problems getting the xp computer to show up on the network map, and terrible transfer speeds even on the times it does decide to show up.  </s>
+<s> i will try again everything i can find in the sticky, but here are the questions: is the hardware i have okay?  </s>
+<s> i mean, is the problem likely to be compatibility issues between any of the parts of the network?  </s>
+<s> how much of an issue is it that the xp computer is a bit old and relatively slow, and that it's the one connected to the modem and router?  </s>
+<s> will upgrading any of the equipment be likely to help?  </s>
+<s> i understand nobody's paying you for this and i think what you're doing is great.  </s>
+<s> i don't expect you to completely solve it for me but i have no idea where to even start.  </s>
+<s> nothing i try makes any dent and it's a bit frustrating...  </s>
+<s> &quot;speed as 18.0 mbps.&quot; that's odd but i'm unsure of your settings.  </s>
+<s> my netgear wpnt834 has a rather nice wifi channel feature where it will find the most open wifi channel. is yours set to use that?  </s>
+<s> also, a little detail about that vista machine may help.  </s>
+<s> did it come with vista and does it have the patch we note in the forum sticky?  </s>
+<s> sorry to sound like i'm prying but the picture is a little murky... -&gt; be sure to try the laptop at a free wifi hotspot to sniff out if there is a problem with it or the router.  </s>
+<s> bob  </s>
+<s> about the channel---i'm pretty sure my router is &quot;stuck&quot; to channel 6---there is no way to change it.  </s>
+<s> i do think there are quite a few other people running wireless networks in the area too (there are always two or three other options in the connect to a network menu besides our network).  </s>
+<s> do you think it's a problem with interference, and if so, could getting a router that could change channels help?  </s>
+<s> btw, the speed is *now* shown as 11.0 mbps (actually, it fluctuates between that and about 36).  </s>
+<s> but the 'signal strength' bar is showing up all five bars constantly.  </s>
+<s> i'm not sure what the difference is between the two readings, what each means.  </s>
+<s> and about the vista machine---please do pry!  </s>
+<s> i'm glad to tell anything that may help us make some progress.  </s>
+<s> yes, it came with vista (it's new) and no, it doesn't have the patch--i installed that on the xp machine (i take it that was the wrong move), but i will do that now and let you know if that solves the problem with the network map.  </s>
+<s> by the way, they are both desktops, i guess i should have mentioned that.  </s>
+<s> so i can't do the free hotspot thing  </s>
+<s> 1. that stuck channel is a good clue. the manual from notes a good issue to know about on page 148.  </s>
+<s> you really need to try channel 1 or 11. i take it you are running version 2.0.120 may.  </s>
+<s> 23, 2007 of the firmware.  </s>
+<s> i can't find which you have but you did note you have v1 of the router.  </s>
+<s> 2. page d-16 notes something i've run into.  </s>
+<s> one owner had a mixture of client authentications.  </s>
+<s> no it did not work well.  </s>
+<s> 3. to recap.  </s>
+<s> ssid is a nice short 8 alpha character name (i couldn't find it in these posts), it's broadcasting, there are no mac or filters being used, there are no other settings tinkered with from stock.  </s>
+<s> 4. there are no p2p software in use since some routers do degrade with such use.  </s>
+<s> bob  </s>
+<s> i will post up links to a bunch of screenshots of settings once i can get them uploaded somewhere.  </s>
+<s> i figure that will be easier for both of us... btw, i went back to the page for that patch and it said it was for xp only.  </s>
+<s> should i put it on the vista machine anyway?  </s>
+<s> and yes, you are right about the firmware, that is the version i'm running.  </s>
+<s> also, there are no p2p programs in use atm on either machine, but there has been some use in the past on the xp machine.  </s>
+<s> would it still be a problem?  </s>
+<s> i'm using photobucket.com  </s>
+<s> when i need to share screen shots.  </s>
+<s> bob  </s>
+<s> i found a few in basements.  </s>
+<s> not good and most manuals note not to put them there.  </s>
+<s> thank you, it turns out that channel thing was the culprit after all.  </s>
+<s> i was looking at the settings, and changing another setting allowed me to change the channel.  </s>
+<s> i am now getting very nice speed...  </s>
+<s> good to see you kept at it. the reason for the channel change helping is that all the routers of that make or model arrive on that channel.  </s>
+<s> gets a little crowded fast.  </s>
+<s> bob  </s>
+<s> okay, good to know.  </s>
+<s> one more question though: the connection is nice and stable now, and i'm able to do transfers and downloads well.  </s>
+<s> like i said, it is much better now.  </s>
+<s> as it is, i can definitely live with it.  </s>
+<s> but it's still not nearly as fast as the wired computer---download speeds are varying wildly between 10-200ish kb/s, unfortunately being usually more towards the low end (as opposed to a pretty constant 500+ for the one wired to the modem).  </s>
+<s> i understand, again, that this is to be expected to some degree, but how much of a difference should i be seeing?  </s>
+<s> and should it really be fluctuating that much?  </s>
+<s> also, is it unrealistic to expect that i will be able to get decent latencies (say, to game servers---the idea was that hopefully this computer would be useable for gaming) on any wireless connection, or is it just a peculiarity of my setup?  </s>
+<s> just wondering if this is normal.  </s>
+<s> okay, the router is not in the basement but it is one floor lower than the wireless computer.  </s>
+<s> do you think that moving the router upstairs (and having the downstairs computer be connected wirelessly) would have any chance of helping, or would it just switch the problem from one computer to the other?  </s>
+<s> also, i noticed in the manual that it says that the lights on the side of the router should turn off about 10 seconds after it starts up (the blue ones)---they don't.  </s>
+<s> they stay on permanently, and resetting the settings didn't help.  </s>
+<s> it says that in that case i may have a &quot;hardware problem&quot;---would this possibly be something that could affect performance?  </s>
+<s> they are out of sync when new firmware comes out.  </s>
+<s> i find better performance from my second floor than the first so try it.  </s>
+<s> wired is full duplex and not shared bandwidth so expect about 1/4 the speed of wired even with a full 54 megabit link.  </s>
+<s> glad it's working now.  </s>
+<s> bob  </s>

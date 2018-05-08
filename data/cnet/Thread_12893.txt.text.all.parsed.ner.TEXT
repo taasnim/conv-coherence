@@ -1,0 +1,27 @@
+<s> we recently upgraded from a linksys wireless b router to the linksys wrt54gs wireless g router with speedbooster, and everything was working fine; our old linksys b adapters and our new wireless g laptop, but my netgear wireless b adapter doesnt work anymore, but it used to on the old router.  </s>
+<s> i have windows xp and tried using the windows wireless configuration tool and the one that came with the adapter.  </s>
+<s> i also tried using it on our other xp desktops and tried enabling and disabling wep and nothing has worked.  </s>
+<s> any ideas?  </s>
+<s> thanks!  </s>
+<s> on your wrt54gs and especially your netgear b adapter.  </s>
+<s> but, please be aware that, different brand compatibility do exist..  </s>
+<s> please define &quot;does not work&quot;.  </s>
+<s> can your wireless even see the network?  </s>
+<s> can you associate but not get an ip address?  </s>
+<s> when in doubt, reset to factory defaults on the router.  </s>
+<s> test if you have connectivity in an open environment.  </s>
+<s> then add wep or wpa-psk.  </s>
+<s> most routers these days have the ability to support only g clients for preformance reasons.  </s>
+<s> skrall  </s>
+<s> so i have two linksys adapters and one netgear.  </s>
+<s> all three can see the network, but only one linksys one will connect.  </s>
+<s> i tried resetting the router and it still doesnt work.  </s>
+<s> according to cnet, this router has great backwords compatibility, which was why we bought it.  </s>
+<s> so when i try to connect to the network, it says 'waiting for network to be ready' for like 30 seconds, then it stops trying, so it doesnt even get an ip address.  </s>
+<s> however, the one linksys adapter that works connects almost instantly.  </s>
+<s> does that help?  </s>
+<s> thanks!  </s>
+<s> set router's wireless network mode to &quot;mixed&quot;.  </s>
+<s> not &quot;g-only&quot; or &quot;b-only&quot;.  </s>
+<s> yeah it is in mixed mode...i have my two linksys b adapters working and so my only problem is that the netgear one wont work.  </s>
+<s> i think at this point im just going to upgrade.  </s>

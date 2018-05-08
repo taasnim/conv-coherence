@@ -1,0 +1,12 @@
+<s> my granddaughter has a older compaq 7000 computer and has lost the use of both the cd and dvd drives.  </s>
+<s> i went into devise manager and they both have the yellow exclamation sign.  </s>
+<s> i uninstalled both of them and added them again in add new equipment that didn't work.  </s>
+<s> i removed them and did a restart that didn't help.  </s>
+<s> i took the side off and checked to make sure the ide cable wasn't loose all is well there.  </s>
+<s> i removed the drives and installed a couple i had from a old computer along with a new cable and get the same thing.  </s>
+<s> i changed the jumpers to cs, slave/master and that doesn't do any good. it shows all the drives in bios when i use detect drives and exit command.  </s>
+<s> any help would be very much appreciated.  </s>
+<s> thanks wayne  </s>
+<s> .  </s>
+<s> that did the trick and the drives are working.  </s>
+<s> thanks again wayne  </s>

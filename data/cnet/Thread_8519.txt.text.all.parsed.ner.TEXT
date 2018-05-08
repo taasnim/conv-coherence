@@ -1,0 +1,12 @@
+<s> ello, i have a solid performing computer, but i'm not sure if 500 watts was enough to power the computer, which surprised me at first.  </s>
+<s> hardware: intel e6750 2.66 clocked at 3.28 ghz and aiming for 3.6.  </s>
+<s> 2gb g.skill ram ~800 mhz clocked at 820 mhz 8800 gts 512 oc at core clock: 800, shader clock: 2000, memory clock at 1013 500 gb harddrive dvd burner vista ultimate 32 bit forton 500 watt psu i was worried because once i clocked the gpu that high, i began receiving nlvddmkm errors and recoveries.  </s>
+<s> having a good and stable psu is a plus for any system.  </s>
+<s> when oc'ing that isn't a real problem as any added wattage is minor as the same demands pretty much stay the same. the real concern is cooling, thus the system must be cooled to handle all the added heat output and stress placed on the system.  </s>
+<s> so your real problem is you oc and thus address that.  </s>
+<s> find the stable oc level you can maintain and be happy, otherwise, you will find the weakest link and it isn't necessary the psu.  </s>
+<s> once into extreme demands, then all componets must be rated or able to handle the extra demands placed on them, to include ram, video, and cpu being they are good devices&componets you find the level it can sustain.  </s>
+<s> good luck -----willy  </s>
+<s> you either have heat issues (hard to tell since the 8800gts/512 runs hot to begin with) or you're oc'ing beyond the capabilities of the gpu/ram.  </s>
+<s> go back to the original settings and burn in with an hour of 3dmark06.  </s>
+<s> if that passes, start twiddling with core, shader, and memory clocks.  </s>

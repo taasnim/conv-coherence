@@ -1,0 +1,29 @@
+<s> i'm working with a self built pc from about 8 years ago.  </s>
+<s> it has a 3.2 ghz p4 ht processor that, according to the internal sensor is running at about 70-80 degrees c normally. the sensors may be a bit off i suppose, but the heatsink is hot to the touch and i have been having problems with random restarts for years.  </s>
+<s> building this pc was the last thing i did with hardware other than routine maintanance on it, so i'm a bit rusty. the pc has been degrading in performance steadily for the past 3 or 4 years, even when used on software of its era, so i think overheating may be the problem.  </s>
+<s> diagnostic software such as everest and hirens find no problems in anything of my comp much to my dismay of not having an easy fix. is there a way to reduce the cpu temp or is damage from running at high temp for so long permenant.  </s>
+<s> my heatsink fan is stuck at 5000 + rpms, which i previously thought would discourage overheat so i didn't attempt to fix it, but is this causing a problem itself?  </s>
+<s> i could try and reseat the heatsink, but wanted to get some opinions before i do anything that could make the situation worse, as i definitely cannot afford to buy another processor right now. it has been about 7 years since this particular heatsink was added so could i need to take it off and apply more thermal paste perhaps?  </s>
+<s> any input would be much appriciated.  </s>
+<s> it means the heat from the cpu is getting to the heat sink.  </s>
+<s> at 8 years that's clearly when we started to see bad caps.  </s>
+<s> google bad caps to learn about and how to inspect for that.  </s>
+<s> bob  </s>
+<s> i agree that a hot heat sink is good thing in as far as it's clearly dissipating heat from the cpu but personally i would be more than a little concered running an eight year old processor at those kind of temperatures for prolonged periods of time.  </s>
+<s> if you manage to repair your mainboard i would seriously consider spending a little cash on some better cooling solutions.  </s>
+<s> mike  </s>
+<s> since the last time applied was 7yrs.  </s>
+<s> ago, it wouldn't hurt to remove and clean cpu itself and reapply thermo paste.  </s>
+<s> now, only a little bit goes a long way.  </s>
+<s> inspect the fan be sure it 100% clean and dust free itself or replace with similar fan. then assure proper remount of fan(hsf) onto the cpu.  </s>
+<s> while you're at it, clean out the entire pc case.  </s>
+<s> check!!! the frt.  </s>
+<s> cover vents, as many users don't remove it and clean that out.  </s>
+<s> its usually the air inlet to the case.  </s>
+<s> i find that alone can an undisclosed area to check.  </s>
+<s> check also all the replies you had here as they all make sense.  </s>
+<s> excluding any damage to cpu, it should work better than before, if not, then maybe another is at fault or the cpu is cooked.  </s>
+<s> intel cpus will run at lower speeds if too hot and then start shutdown when hi-temp reached.  </s>
+<s> there are other cpu monitoring s/w, freebie that work great and can report the status as well, like cpuid and my favorite, pcwizard 2010(entire system report), but google for others.  </s>
+<s> to check for proper thermo paste application, google &quot;artic silver&quot; and follow instructions.  </s>
+<s> tada -----willy  </s>

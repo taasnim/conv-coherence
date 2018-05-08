@@ -1,0 +1,20 @@
+<s> i am running an ibm 300pl 450mhz piii with 256megs of ram with winxp and i am interested in the multiple monitors setup.  </s>
+<s> my current graphics card is an s3 trident onboard vga.  </s>
+<s> i've attempted to include the onboad output with a pci card for the setup and also 2 pci cards.  </s>
+<s> each card when individually in use works fine, but when i attempt to use them in a multiple monitor setup, the computer says one is a [code 10: the device does not work.]  </s>
+<s> my only explanation is that the bios wont let me have the setup cause the second card does not show up when i boot it. the bios dates to 2001.  </s>
+<s> any help would be great.  </s>
+<s> thanx  </s>
+<s> &quot;my current graphics card is an s3 trident onboard vga.&quot; and that's about all we know about your hardware for the video.  </s>
+<s> have you tried a dual output pci card like a matrox or a pair of things that others have seen working?  </s>
+<s> it's not a bios issue.  </s>
+<s> bob  </s>
+<s> no, i have not tried a dual output, i've only tried a combination of pci cards and i thought this should work because i know others who have used a setup like what im trying to create... are you sure its not a bios issue?  </s>
+<s> &quot;i've only tried a combination of pci cards and i thought this should work because i know others who have used a setup like what im trying to create... are you sure its not a bios issue?&quot;  </s>
+<s> yes.  </s>
+<s> i did have a few dual pci card setups.  </s>
+<s> all were combos like a pair of ati cards that had the needed dual display capable drivers or a pair of matrox millenium cards.  </s>
+<s> been there, done that.  </s>
+<s> it's all in the cards and drivers.  </s>
+<s> bob  </s>
+<s> thanx, i'll work on it.  </s>

@@ -1,0 +1,43 @@
+<s> i am thinking of changing my normal 17&quot; lcd monitor to a wide screen lcd.  </s>
+<s> however, i am concerned about distortion of images, e.g. a spherical shape will be &quot;falttened&quot; at the top and borrom ?  </s>
+<s> people becomes &quot;fatter&quot;... will there be problems with photo editing, e.g. photoshop ?  </s>
+<s> comments, please.  </s>
+<s> thanks.  </s>
+<s> christy  </s>
+<s> set your graphics card to the native resolution of the monitor.  </s>
+<s> ...for the information.  </s>
+<s> so the graphics card must be compatible, otherwise, have it changed ?  </s>
+<s> haven't thought of that !  </s>
+<s> thanks.  </s>
+<s> christy  </s>
+<s> not only must we install the graphics card driver but the monitor.inf  </s>
+<s> file for that monitor in a lot of cases to inform the graphics card driver what video modes to offer the owner.  </s>
+<s> this area is a little confusing at first.  </s>
+<s> bob  </s>
+<s> just bought a 22&quot; 1680x1050 samsung monitor to replace old 19&quot; 1280x1024 crt. the new monitor works but the highest i'm offered in display settings is 1280x1024, even though my pc clearly recognisies the new monitor and i've installed its driver.  </s>
+<s> i've been told that any graphics card should be able to handle a higher resolution with ease (my graphic card was bought 2003)so any ideas why i can't get the right res for the new monitor?  </s>
+<s> many thanks hajr12  </s>
+<s> make, model of display, display card, driver versions of the video card and a link to the monitor.inf for your monitor.  </s>
+<s> without such i can't offer much.  </s>
+<s> bob  </s>
+<s> apologies monitor = samsung 2232bw driver installed.  </s>
+<s> info at: graphics card = s3 graphics prosavageddr bought with pc (xp, athlon 2400) almost four years ago.  </s>
+<s> driver is the latest available i believe = s3gnb.dll  </s>
+<s> 6.14.10.0033,  </s>
+<s> date 13/08/04.  </s>
+<s> i'm sorry i'm not sure what monitor.inf is, but will supply if you kindly advise.  </s>
+<s> thanks for your swift response.  </s>
+<s> hajr  </s>
+<s> read and repeat the steps they did to fix it.  </s>
+<s> if you can't find the latest drivers for any of the items, call the place you got it and ask for them or ask for an exchange.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> unfortunately the link you gave appears to be down at present. is it possible my current graphics card is too old/unsupported in terms of drivers to handle a widescreen monitor?  </s>
+<s> bottom line: is this a problem i could solve simply by buying a more up to date graphics card?  </s>
+<s> regards hajr  </s>
+<s> [h]ard|forum go back [h]ard|forum &gt; [h]ard|ware &gt; displays reload this page new samsung 2232bw driver problem user name remember me?  </s>
+<s> password register faq [h]ard|ocp today's posts search search forums show threads show posts advanced search go to page... reply  </s>
+<s> at my college the techs in charge ain't the brightest bulb in the box, and as well as a load of other caveats (logging us all in as administrator accounts...) the widescreen displays are all defaulted at 1024x768...  </s>
+<s> thanks for all your help.  </s>
+<s> turned out my motherboard was a grand-motherboard and wouldn't support a graphics card sufficient to power the monitor at the native res - or something.  </s>
+<s> cheers hajr12  </s>

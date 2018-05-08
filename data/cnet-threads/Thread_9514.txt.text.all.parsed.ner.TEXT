@@ -1,0 +1,55 @@
+<s> is there a program to do this?  </s>
+<s> if so can sombody give me a link please?  </s>
+<s> make certain you have an amount above the minimum requirements.  </s>
+<s> doubling the minimum ram is not a bad idea.  </s>
+<s> next, identify what programs/services are loading at startup.  </s>
+<s> determine which ones are necessary and disable the rest i can't provide specifics here.  </s>
+<s> you also did not provide your pcs specifications or os. that would help.  </s>
+<s> if your pc has on board video, you may be able to scale the shared ram to free some for applications.  </s>
+<s> yes, there are many memory management programs out there.  </s>
+<s> some are free and some cost money.  </s>
+<s> these tend to add their own overhead as far as ram use.  </s>
+<s> hope this helps.  </s>
+<s> they are of little or no use.  </s>
+<s> one tip i have tried with relative success is set the page file minimum and maximum as the same value, 2x ram value.  </s>
+<s> good luck.  </s>
+<s> unless you run dos, the best for windows is to use every scrap of ram at all times.  </s>
+<s> well discussed.  </s>
+<s> bob  </s>
+<s> is cachemanxp.(google it, its a free download btw) it tells you how much ram your using, how much page filing your using, and tells your what process' are running and the amount of memory their using.  </s>
+<s> also go to task manager, click processes, click user name, and close out any under owner, but not explorer.exe or taskmanager, this can free a lot of ram, i heard this as a gaming tip and is even printed in some of them to increase your amount of ram(free ram i mean) and it should give you, well on mine, over 10mb more ram.  </s>
+<s> hope this helps konny  </s>
+<s> you may want to install more ram but imo any program claiming to free ram is of very little value.  </s>
+<s> hello, i'm scott and i am having a problem with my ram space as well, so if anyone could help or give some tips i'd be very grateful, heres my problem: after downloading some programs over a period of time, when in the start-up menu i may have left the box ticked which means alot of the programs will try and start-up all at once when my computer is switched on.  </s>
+<s> this is what is causing my pc to take a while to turn on i believe, so searched for a program which might help and i downloaded: freeram xp pro 1.50 this is in the toolbar showing me what my ram is at that moment in time, i try to free ram using this but it does its best but does not seem to free alot of space and after a while that seems to drop down low again.  </s>
+<s> after reading those replies i noticed steven said: &quot;doubling the minimum ram is not a bad idea.  </s>
+<s> next, identify what programs/services are loading at startup.  </s>
+<s> determine which ones are necessary and disable the rest i can't provide specifics here.&quot;  </s>
+<s> i think this may help to my problem with the programs but i have no idea of how to get to where i see what programs are set to load up on start-upso if steven or anybody could direct me to this list i may be able to disable some programs which i don't need at start-up.  </s>
+<s> (btw my pc is a packard bell, the system is microsoft windows xp media center edition and its has a 512mb ram ) thank you scott  </s>
+<s> hi scott, first, if you hit start, run, then type msconfig &quot;enter&quot; you will get a screen whose last tab (startup) lists most (not all) apps that start with windows.  </s>
+<s> do not remove anything you aren't sure you don't need, but remove what you can.  </s>
+<s> i have found a utility that allows you to proscribe the sequecnce of apps that start, and how much delay between.  </s>
+<s> it is &quot;startup faster&quot; and i believe i got it from c/net's download site.  </s>
+<s> i found that being logical, like starting wi-fi before starting apps that go out on the internet speeds things up dramatically.  </s>
+<s> hope this helps, paul  </s>
+<s> start by removing the program you installed, and stop downloading free software from the internet that is not from a reputable website like cnet.  </s>
+<s> free software + internet = (generally) too good to be true.  </s>
+<s> this is a little ironic for me because i offer some.  </s>
+<s> however, it has been independently tested and verified to be virus and spyware free.  </s>
+<s> a large number of virus and spyware enters your system through free software.  </s>
+<s> make sure your virus definitions are up to date and use a spyware program like counterspy.  </s>
+<s> ok - done with my gripe.  </s>
+<s> now, look at your taskbar on the bottom right.  </s>
+<s> a lot of resources are used by items in the system tray in the bottom right.  </s>
+<s> if it is something in the tray is important like anti-virus or anti-spyware, leave it.  </s>
+<s> all that other cute stuff, select each one with the pointer, and write down the names.  </s>
+<s> you can right click them disable or exit them usually.  </s>
+<s> this does not get rid of them.  </s>
+<s> next, look in your programs menu for items that you either never use anymore, or don't even know what they are.  </s>
+<s> write those down.  </s>
+<s> while you are in the menu, look at your startup items.  </s>
+<s> see what you do not recognize in there.  </s>
+<s> things like the acrobat or office quickstart can also be removed.  </s>
+<s> now go into the control panel, and use the add/remove programs to remove the stuff on your list.  </s>
+<s> this should be a good start.  </s>

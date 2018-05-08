@@ -1,0 +1,14 @@
+<s> hi, got hp pavilion a1510m desktop, came with 1 gb (2x512) ram, wanted to add ram, ordered two compatible (pc 3200, non ecc, 184 pin, 400hz) 1 gb ram, now adding all the rams together it doesnt show one slot (slot 3) ,even in the bios two blue slots (primary ones, call them a and b) two black (x and z) put 512 a -- 512 b -- x and z empty : showed 1 gb =========================== 1 gb a -- 1 gb b -- x and z empty : showed 2gb =========================== 512 a-- 512 b -- 1 g x -- 1 z : showed 2 gb (showed slot 3 empty) =========================== 1 gb a -- 1 gb b -- 512 x -- 512 z : showed 2.5 gb (showed slot 3 empty) =========================== 1 gb a -- 1 gb b -- 512 x -- z is empty : showed 2.5 gb (showed slot 3 is empty) =========================== 1 gb a -- 1 gb b -- x is empty -- 512 z : showed 2.5 gb (showed slot 3 empty )!!!!!!!!! in all the attempts i did take out and reset the bios battery, really confused, your help is deeply appreciated, (my target is getting all the memory 3 gb getting to work ) thanks  </s>
+<s> will that machine handle three gig?  </s>
+<s> some machines want the larger stick in a specific slot.  </s>
+<s> why do you need three gig?  </s>
+<s> anything over two is overkill and 99% of the time is not used.  </s>
+<s> yes it does support up to 4 gb (1 gb each slot), hm, so you think 2 in enough ?  </s>
+<s> since my upgrade vista is on the way (sent by post) , the funny thing is although in different attempts i changed their places (rams) and in each attempt left different slot empty, but , it always showed :&quot;slot 3 is empty &quot;!  </s>
+<s> that is funny!  </s>
+<s> have only so many chip select lines to the memory sockets.  </s>
+<s> this is the technical reason why you see an issue like this.  </s>
+<s> what works is to use the memory sticks verified by the machine's maker or to use memory sticks verified by companies like crucial.com let me be clear that unless you get lucky and there is a bios update to give more memory stick support it's likely you have found sticks that don't work.  </s>
+<s> not all sticks are created equal or work in all machines.  </s>
+<s> fix?  </s>
+<s> try all your memory sticks sourced from crucial.com bob  </s>

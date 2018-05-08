@@ -1,0 +1,6 @@
+(TOP (S (S (NP (NNP im)) (VP (VBG trying) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (SBAR (IN so) (S (NP (PRP i)) (VP (AUX am) (ADJP (JJ able) (S (VP (TO to) (VP (VB connect) (PP (TO to) (NP (PRP$ my) (NN home) (NN computer))) (PP (IN at) (NP (NN school))))))))))))))) (, ,) (CC but) (ADVP (RB unfortunately)) (, ,) (NP (PRP i)) (VP (AUX am) (RB kinda) (ADJP (JJ new) (PP (TO to) (NP (DT this) (NN stuff))))) (. .)) )
+(TOP (SQ (MD can) (NP (NN someone)) (VP (VB please) (VP (VB tell) (NP (PRP me)) (SBAR (WHADVP (WRB how)) (S (NP (PRP i)) (VP (MD can) (VP (VB make) (S (NP (DT this)) (ADJP (JJ possible))))))))) (. ?)) )
+(TOP (S (NP (PRP you)) (ADVP (RB best)) (ADVP (RB bet)) (VP (MD would) (VP (AUX be) (S (VP (VB ask) (NP (PRP$ your) (NN school) (NN computer) (NN department)) (PP (IN for) (NP (NP (DT the) (JJ correct) (NNS settings)) (PP (IN for) (NP (PRP$ their) (JJ particular) (NN network))))))))) (. .)) )
+(TOP (S (NP (EX there)) (VP (AUX are) (NP (NP (DT no) (JJ standard) (JJ always-works) (NNS settings)) (PP (IN for) (NP (NP (JJ large) (NNS networks)) (PP (JJ such) (IN as) (SQ (MD would) (VP (AUX be) (VP (VBN found) (PP (IN in) (NP (DT a) (NN school))))))))))) (. .)) )
+(TOP (NP (NNP dw)) )
+(TOP (S (ADVP (NNS thanks)) (, ,) (NP (PRP i)) (VP (MD 'll) (VP (VB try) (NP (DT that)))) (. .)) )

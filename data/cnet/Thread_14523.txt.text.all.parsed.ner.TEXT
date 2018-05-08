@@ -1,0 +1,21 @@
+<s> windows 7 64-bit hp desktop 3 gb ram 290 gb hard drive hello, i'm looking to purchase an internal hard drive for backup purposes only.  </s>
+<s> somebody mentioned that it was cheaper to buy a used internal hard drive, adapt an external enclosure, and use it as an external hard drive.  </s>
+<s> taking that into consideration, i would only assume that ide drives are going for a lot cheaper than sata drives due to age, speed, and technology right?. just how big is the difference between ide, sata, 7200 rpm, 5400 rpm, for backup purposes only.  </s>
+<s> both ide and sata are faster than the usb (even usb-3) you use to connect the external to.  </s>
+<s> so it makes no difference.  </s>
+<s> kees  </s>
+<s> an internal hard drive is much faster.  </s>
+<s> but it's less safe as a backup, because: - you can't store it at another location (to protect against fire, and theft of the pc) - it's much too easy to delete or files from it by accident - there is a risk that viruses or power outage or peaks damage or erase the internal hard disk - it can be infected with malware easier so maybe you want an internal hard disk for a fast backup, done regularly (a few times a week an incremental backup = only new and changed files) and an external one to use less often.  </s>
+<s> your backup strategy is totally your choice.  </s>
+<s> kees  </s>
+<s> if you buy an ext.  </s>
+<s> case, get one that *maybe* optional for either eide or sata use.  </s>
+<s> while it's still connected to the pc via the usb port, it's usually the way to go. the only other option is use of sata-e provided you have or install a sata-e port on your pc. you then need an ext.  </s>
+<s> hd case that offers sata-e as well.  </s>
+<s> this is faster than plain usb, but generally isn't widely accepted.  </s>
+<s> your last option if you care to be more open to it, is an ext.  </s>
+<s> adapter setup.  </s>
+<s> these accept various connections and even devices that require those ports.  </s>
+<s> google ada-2020 or similar adapters that use usb ports.  </s>
+<s> thus, you get your hands on whatever hd is available.  </s>
+<s> tada -----willy  </s>

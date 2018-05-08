@@ -1,0 +1,9 @@
+<s> i am using amd k6 2/400 cpu p5 ss-me mainboard, recently i bought a new 40 g harddisk try to replace with the defeat one ( which is only 6 g ) and it couldn't detact even if i put the jumper on master or slave, and it can be detacted only when i put the jumper in cs ( cable select ) , and the motherboard can only reconized it in &quot; slave &quot; mode, the data cable was correct, jumper was correct, is it because it cannot detect more than 40 g since it was only amd k6 ? is there anything i can do ?  </s>
+<s> you should be using an 80 conductor ide cable which means cs is the right jumper.  </s>
+<s> master is determined by what connector you plug it into.  </s>
+<s> bob  </s>
+<s> you didn't mention if you replaced the c:drive or a secondary drive.  </s>
+<s> assuming that you replaced the second drive.. check to see what the c: drive jumpers are set at. here is the proper way to set drives: if your c:(boot)drive is set at cs (cable select) then the second drive has to be set at cs also.  </s>
+<s> if the boot drive is set at master then the second drive must be set as the slave. the master drive should be plugged into the end connector of the data cable with the slave plugged into the middle cable.  </s>
+<s> also, make sure no pins are bent and that the cable is properly seated to the drive.  </s>
+<s> good luck jack  </s>

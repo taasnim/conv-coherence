@@ -1,0 +1,26 @@
+<s> what is the scoop on the several levels of security: wep, 128 bit, 63 bit, others, in wireless networking?  </s>
+<s> in wireless terms, i am having trouble connecting my notebook to the network.  </s>
+<s> if i disable encryption, everything connects fine.  </s>
+<s> if i enable encryption, the laptop can see the network, but can't connect.  </s>
+<s> system notes: xp pro w/sp2 on my desktop (wired connection) and linksys wireless g router/access point, xp pro w/sp2 on the laptop, and also for the laptop -- matching linksys usb network adapter, instantwireless 802.11b pcm card. the usb adapter works with no encryption, but enabling encryption shuts it out. the pcm card does not hook up period.  </s>
+<s> any insight will be appreciated.  </s>
+<s> thanks in advance, rw  </s>
+<s> but if you are doing it all correctly and it's failing try: 1. latest router firmware.  </s>
+<s> 2. latest drivers.  </s>
+<s> 3. if no wep/wpa, then look into mac filters.  </s>
+<s> bob  </s>
+<s> i'm not the one to give you the answer to the various security levels, but i have the same hardware as you and did have the same problem.  </s>
+<s> i disabled security and used mac filtering and have had no problems since.  </s>
+<s> mine is a home network and there were only to other networks in my area and both were 'secure'.  </s>
+<s> i figure that mac filtering will stop the guy with a laptop driving down my street looking for unsecured networks.  </s>
+<s> sf  </s>
+<s> question: what are the model names of your router, usb wireless adapter, and pc-card wireless adapter?  </s>
+<s> try this: 1. update the firmware on the router.  </s>
+<s> make sure your router is broadcasting in b/g and not just b or g. 2. update the drivers for your both wireless adapters.  </s>
+<s> if you are using linksys wireless network monitor to connect to the network, try switching to windows wireless network configuration.  </s>
+<s> do this by rt-clicking on the linksys wireless network monitor icon (next to your clock) and selecting use windows wireless coufiguration.  </s>
+<s> in the windows ''wireless network connection'' window that shows available networks, look to the left and click on ''change the order of preferred networks.'' under the list of ''preferred networks,'' remove them all.  </s>
+<s> this will get rid of old network passwords and settings that may not match any changes you have made to the network details.  </s>
+<s> next, click the view wireless networks button.  </s>
+<s> now try to connect to a wireless network from that window.  </s>
+<s> if the network is encrypted, you will then be prompted to enter your password.  </s>

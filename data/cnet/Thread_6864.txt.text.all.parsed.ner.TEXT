@@ -1,0 +1,61 @@
+<s> to make a long story short i recently recovered a 40 gig hdd that i stupidly tried to download linux mandrake to a dos partition.  </s>
+<s> i tried to fix it in dos but it created a 3rd partition and dos fdisk didn't want no part of that.  </s>
+<s> so, i thought the drive was dead.  </s>
+<s> thanks to a recent purchase of partition magic 8 i was able to delete the partitions and work from there.  </s>
+<s> i also found out i could of done this with xp's disk.  </s>
+<s> my problem now is i disconnected my 60 gig maxter to protect it, and inserted my new recovered 40 gig western digital as master and loaded a dual boot of xp and linux mandrake.  </s>
+<s> after i finally got everything running right i hooked up my maxtor as master, which read secondary master and the west.  </s>
+<s> dig.  </s>
+<s> as slave which read as secondary slave.  </s>
+<s> i booted up in hdd-o through my firmware or bios and right away went to check all the drives and it showed my drives mixed up.  </s>
+<s> so i ran partition magic and found out my storage drive of 20 gigs of saved stuff,programs,music movies and documents, the drive read unallocated.  </s>
+<s> my heart raced and i about died because about 5 years worth of important stuff had been lost.  </s>
+<s> so i ran partition magic and thankfully i was able to recover the drive.  </s>
+<s> i tried to do a backup then and it read 7 days and 14hrs.  </s>
+<s> to backup.  </s>
+<s> i didn't have the time or that many disks so i went to reboot and went into my bios and swithed to hdd-1 and checked out my xp/linux dual boot and everything was fine so went back to hdd-0 and tried to bood and it said i had a corrupted boot file.  </s>
+<s> something like system32.dll  </s>
+<s> boot file has been deleted or corrupt.  </s>
+<s> please reinstall the file.  </s>
+<s> yeah right!  </s>
+<s> so i unhooked hdd-1 and reloaded xp and everything is fine on that drive.  </s>
+<s> what did i do wrong?  </s>
+<s> this sequence worked before until i loaded mandrake on the dos partition.  </s>
+<s> i read in an earliar discussion that involved proffitt about master/slave vs. cable select.  </s>
+<s> what should i do and how can i tell if i have a cable select ribbon cable?  </s>
+<s> also my west.  </s>
+<s> dig.  </s>
+<s> 40 gig hdd reads as 57,500mb the same as my 60 gig maxtor.  </s>
+<s> is there a way to fix that?  </s>
+<s> sorry this wasn't so short!  </s>
+<s> skip  </s>
+<s> many fight this tooth and nail and lose their data.  </s>
+<s> it sounds like you should identify if your cable is 80 conductor and set it proper.  </s>
+<s> some will try master and slave on 80 conductor cables, but i don't.  </s>
+<s> bob  </s>
+<s> i'm not sure what 80 conductor is either.  </s>
+<s> i have many cables in a box.  </s>
+<s> some never used.  </s>
+<s> i will read your link and hope it tells me.  </s>
+<s> thanks once again bob.  </s>
+<s> your great!  </s>
+<s> skip  </s>
+<s> what a bunch of tricky crap!  </s>
+<s> so this means i need to check if #28 pin is missing in the middle for a 80 conductor cable, right?  </s>
+<s> and if not i need to set my master drive in the middle and slave at the end?  </s>
+<s> right?  </s>
+<s> skip  </s>
+<s> the issue of master slave jumpers changed years ago (about 5) but to make it live on, the 40 conductor cables are still out there on the second ide channels.  </s>
+<s> here's a picture comparing each cable type... specifically ... bob  </s>
+<s> hi skippy333, there is a bit more to add to your story yet! the cable select bit is probably a bit of a red herring (if you carefully read this article you may get it) cables supplied with most m-boards don't use cable select , but high-speed cables (with 80 instead of 40 wires) do support it.  </s>
+<s> but there is another problem you ran into - this is with disk partitioning!  </s>
+<s> basicly, microsoft fdisk stinks! it is better on xp than in earlier windows (if you partitioned a disk with win98 fdisk, you got a different result from win nt4 fdisk - and they couldn't read each others partitions).  </s>
+<s> but dos and windows only allow 4 partitions on a drive and have strict rules as to how they are read, depending on which version of windows you boot up in.  </s>
+<s> if you have two drives with a bootable partition on each, dos/windows insists that the first bootable partition on the 2nd drive must be drive d: which means that connecting a 2nd drive will often give new letters to all your original partitions!  </s>
+<s> so how come i was able to partition drives into 10 parts in the early 80s!! i used a better partitioning utility!  </s>
+<s> fdisk and dos didn't exist then and i could put 4 or 5 different operating systems on a drive.  </s>
+<s> for mere info, read the articles at (but beware that ranish partition manager is not easy to use).  </s>
+<s> another problem is partition magic, as it produces 'non-standard' partitions - some other partition managers do not understand them!  </s>
+<s> linux is not so limited - it understands the peculiarities of dos/windows and will usually add it's own partitions to an existing drive without upsetting things.  </s>
+<s> but don't expect fdisk to understand what has happened afterwards - it is safer to stick with the linux partition manager after using it once - and life can still get complicated when you have two hard drives (i run fedora on a 2nd drive).  </s>
+<s> nick law  </s>

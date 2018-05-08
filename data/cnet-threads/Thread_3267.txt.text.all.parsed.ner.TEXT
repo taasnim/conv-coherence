@@ -1,0 +1,75 @@
+<s> my son is into composing and editing music.  </s>
+<s> he is planning on building his own computer, using the best suitable motherboard and other components.  </s>
+<s> looking for suggestions for best mb and cpu if price is no object.  </s>
+<s> looking for suggestions for second best mb and cpu if there is vast price difference between #1 and #2 recommended mb & cpu.  </s>
+<s> for the money, is amd better than intel?  </s>
+<s> what other components are recommended?  </s>
+<s> sound card... etc... i know there are a lot of knowledgeable people on this forum so i am hoping for some valuable help.  </s>
+<s> thanks ben  </s>
+<s> he's much better off picking the right sound card, and i mean a pro-level sound card like roland stuff, not the creative labs stuff. the cpu and mainbord wouldn't matter much for music editing.  </s>
+<s> but then, the term &quot;editing music&quot; can vary slightly.  </s>
+<s> does he mean he want to do midi, or is he more into sound editing, like mod tracking, wav editing and so on?  </s>
+<s> hi ben!  </s>
+<s> good question!  </s>
+<s> i've been researching this quite a bit myself lately.  </s>
+<s> as far as what you need for music editing, the sound card is definitely the most important component.  </s>
+<s> if, however, your son plans on doing other things on his computer, the motherboard and cpu definitely have a lot to do with the overall performance.  </s>
+<s> because of this, i'm going to tell you what i would get as a whole system to maximize the performance of his music making.  </s>
+<s> you can then decide whether you need the things i suggest.  </s>
+<s> happy reading!  </s>
+<s> first, may i recommend him waiting until windows vista comes out at the end of this year.  </s>
+<s> the operating system (os) will contain vast improvements on everything, including the way the os handles sound.  </s>
+<s> it is slated to come out in december.  </s>
+<s> when that comes out, the parts which will be required to run it will be less expensive (the whole time difference thing).  </s>
+<s> if your son is planning to build the computer in the near future, you are definitely going to want to make sure it has the right hardware so that he can utilize vista when it does come out.  </s>
+<s> your son will most likely be happiest with a 64-bit processor.  </s>
+<s> the lower end processors today are 32-bit.  </s>
+<s> while the difference isn't that noticeable now, in the near future (i'm guessing he'll want to keep it for a few years), systems with 64 bit processors are going to seem like lightning compared to their 32-bit counterparts.  </s>
+<s> that could mean the difference between waiting five minutes to compile a song and waiting one and a half.  </s>
+<s> one of the best processors lines out there today is the amd athlon 64 xs 4400+.  </s>
+<s> this dual core processor is priced around $500, but it beats intels pentium 840 xtreme in performance tests, which is priced at around $1,000.  </s>
+<s> (for more information on the amd vs intel battle check out ) the processor you buy is also going to dictate the motherboard that you buy, as each motherboard is configured to use either amd or intel.  </s>
+<s> they are not interchangeable.  </s>
+<s> your son should make sure that he has at least one pci-e slot for a good graphics card.  </s>
+<s> while graphics cards are used more for 3d gaming today than anything else, in the future they will be used to power the windows vista interface called aero ( ). while he won't need the top of the line graphics card if he doesn't want to do 3d gaming as well, a mid line graphics card would be good to help take advantage of those features.  </s>
+<s> the geforce 6k series would be a good choice. the geforce 6800 will play todays games on the best settings and should last you for a few years to come (the computer that i'm working on has a geforce mx 440 which is 4 years old; i just now have to upgrade it!). it is also relatively inexpensive.  </s>
+<s> here is a link to it ( ) in order to choose what motherboard you want to have, you also have to choose what ram speed you want.  </s>
+<s> i would tend to choose ddr 3200.  </s>
+<s> it is the fastest ram available for an amd motherboard.  </s>
+<s> it is also relatively inexpensive.  </s>
+<s> in all honesty, i don't know much about sound cards, so perhaps someone else will be able to help you with that, but you should know that the sound card is the most important part of the system for you if you are going to be making music.  </s>
+<s> they mostly require pci slots, which most motherboards come with. the hard drive is also an important part of the system if you plan to be creating music, which i expect you will want to keep safe.  </s>
+<s> because of this, i would recommend you set up a raid 1 drive within your computer.  </s>
+<s> raid 1 allows information to be simultaneously copied to two different hard drives.  </s>
+<s> that way, if one gets infected, you can always get the information from the other.  </s>
+<s> you can also set it up so that one hard drive is simply a backup hard drive, and so that windows cannot access it (therefore viruses won't be as much of a problem).  </s>
+<s> i'm not quite sure how exactly you can do this, but there is a handy guide i found ( ). for a person who is creating music, the larger the hard drive the better.  </s>
+<s> while it may not seem like you need 250 gb today, in a few years, you will be glad that you have it.  </s>
+<s> while in 2001 i didn't think i would need a 60gb hard drive, i have it almost completely filled today.  </s>
+<s> the number of hard drives and their capacity will depend on whether or not you want a raid set up, and what size you want that setup to be. another thing to consider is the hard drive speed, which means the faster the better.  </s>
+<s> 7,200 rpm is the common, although you can go all the way up to 10,000 rpm if you want.  </s>
+<s> finally, the motherboard depends on all these things that i've just discussed.  </s>
+<s> to recap, you will want a motherboard with; 1. a pci-e slot for the graphics card, and a decent graphics card to go with it.  </s>
+<s> 2. at least 3 pci slots for other cards (especially sound card).  </s>
+<s> 3. several ports including usb 2 and firewire (which many external sound devices use) 4. an amd processor (64-bit) 5. sata (stands for serial ata which is what most hard drives use in order to connect) or raid 1 (or even raid 1/0/0+1/5 which you will learn about if you read that guide).  </s>
+<s> 6. at least 512 mb of ram (although 1gb is better).  </s>
+<s> 7. a great sound card. the final things that you will need to complete your computer, is, of course, a place to house all these things, a power supply to power them, and an operating system to run them.  </s>
+<s> you can find many different models of cases on any computer buying site you visit.  </s>
+<s> just look for atx, which is what most motherboards are today.  </s>
+<s> the power supply will depend on what you have and how much power you need.  </s>
+<s> i plan on going with a 500w power supply, as the price isn't that different, and its always a bummer to find out you don't have enough power to upgrade. the operating system is important, and while i recommend waiting for windows vista, windows xp is a fine operating system (and you can always upgrade later!). that said, here is a link my favorite website for buying computer parts ( they have great service all around and you can specify just the components you want.  </s>
+<s> when deciding what to get, i would recommend starting with the processor type you want, then the ram, then the hard drive, then the graphics card, then the sound card, then the motherboard (tailored to what you need), then the power supply, then the case.  </s>
+<s> it works better that way.  </s>
+<s> good luck and i hope this helped!  </s>
+<s> god bless!  </s>
+<s> if you have any further questions, please feel free to email me at coruscate17540@yahoo.com rob  </s>
+<s> thanks kschang & rob, what my son has in mind is writing and editing music to make commercial recordings.  </s>
+<s> so he is willing to go for pretty much top of the line.  </s>
+<s> btw, rob your reply did not word wrap, sentences about 3 screens wide.  </s>
+<s> copied to wordpad to read it.  </s>
+<s> great informative reply though.  </s>
+<s> my opinion is that amd has the better value for the money, and was looking for confirmation on that part.  </s>
+<s> recommendations for sound cards and other peripherals appreciated thanks ben  </s>
+<s> a new 64bit comptuer will not handle studio 9 video editing software.  </s>
+<s> found out that it is not compatible with 64 bit. is it possible to adjust my computer so the software will run?  </s>
+<s> like go from 64 to 32? terence  </s>

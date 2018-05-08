@@ -1,0 +1,22 @@
+<s> why can't i get internet?!? i'm living in a dorm, and i'm trying to use my roommates internet (we're sharing the cost).  </s>
+<s> anyway, my vista computer shows that it is connected to the router (and i can see other computer's on the network sometimes).  </s>
+<s> however, i can't get internet, but my roommate can get internet both wirelessly and not.  </s>
+<s> even when he's not connected to the internet at all, i still don't get internet.  </s>
+<s> yet when i connect to the router via a cable, i do get internet.  </s>
+<s> what is wrong?  </s>
+<s> here is some information on the wireless network connection status: ipv4 connectivity: local ipv6 connectivity: limited media state: enabled ssid: trev dsl i'm pretty sure i have everything enabled on my computer that needs to be, because i can get internet on a different router.  </s>
+<s> if you could help me, that would be really nice (currently, i'm stealing one bar of signal from an unknown neighbor and it's really inconvenient...).  </s>
+<s> again, this is a vista computer (yea, i know...) so try to use instructions for the vista operating system, not xp. p.s. i've made the network private, so it doesn't really have to do with anything like that i think... but i don't really know.  </s>
+<s> also, i would have just called the company, but the warranty has expired... so, i'm stuck  </s>
+<s> just sharing.  </s>
+<s> i've run across a few instances where the owner choose &quot;maximum security&quot; on the firewall.  </s>
+<s> yup.  </s>
+<s> no internet.  </s>
+<s> you write &quot;yet when i connect to the router via a cable, i do get internet.  </s>
+<s> what is wrong?&quot;  </s>
+<s> i can't tell.  </s>
+<s> maybe you need to setup the router per our forum sticky but i see nothing about your router make, model, firmware version etc. there were some out of date routers that didn't hand out the dns proper to new machines but the lack of detail in your post can't have me say that's the issue.  </s>
+<s> bob  </s>
+<s> go to the ipconfig /all in a dos prompt, what ipv4 address are you getting, also is the dns address listed here correct?  </s>
+<s> after a long discussion, another member had set &quot;ap isolation&quot; and maybe this is another way of writing &quot;made my network private.&quot;  </s>
+<s> please share what you did.  </s>

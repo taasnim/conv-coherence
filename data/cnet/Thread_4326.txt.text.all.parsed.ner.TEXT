@@ -1,0 +1,35 @@
+<s> so last month i had brought a new seagate hard disk, prepared it and transferred all the data from my old samsung hard disk (about 4 years old) to it. the reason for buying a new disk was, while working on my pc (old hard disk) sometimes i would hear a faint ticking noise and the the system used to freeze and then restart after a long time.  </s>
+<s> once restarted no hard disk used to be detected and i also used to get disk boot failure error on the second screen after restart.  </s>
+<s> but after power off and on, the system used to start working again.  </s>
+<s> this problem troubled me for almost more than a year.  </s>
+<s> most people i talked to advised me that the hard disk was going bad and so finally i brought a new disk.  </s>
+<s> right now after transferring the all the data to the new drive i ran a hard disk diagnostic tool called &quot;hutil&quot; from the samsung website on my old samsung sp0802n disk.  </s>
+<s> after completing the complete diagnostic test i got about 8 errors and the tool advised to run &quot;erase hdd&quot;.  </s>
+<s> i then ran the &quot;low level format&quot; option in the tool.  </s>
+<s> it gave me some error in the end but i think the process got completed.  </s>
+<s> here is a screenshot of current disk management in windows.  </s>
+<s> [code] [/code] then i ran the diagnostic test again in &quot;hutil&quot; as these were the results.. --- test loop number 1/1 read dma : testing... error: sector error check m.c : testing... pass!  </s>
+<s> check s.m.a.r.t : testing... error: s.m.a.r.t threshold exceeded.  </s>
+<s> spin down/up : testing... pass!  </s>
+<s> simple read/write : testing... pass!  </s>
+<s> simple surface scan : testing... pass!  </s>
+<s> write verify : testing... pass!  </s>
+<s> average seek time : testing... pass!  </s>
+<s> maximum seek time : testing... pass!  </s>
+<s> random surface scan : testing... pass!  </s>
+<s> read surface scan : testing... c:1039 h:0 s:962 error: ecc error c:1040 h:0 s:797 error: ecc error c:1580 h:0 s:1037 error: ecc error c:7354 h:0 s: 965 error: ecc error error : this drive has some defects.  </s>
+<s> --- thats two less read surface scan errors than last time i think. the disk is no longer under warranty so no point contacting any service centers.  </s>
+<s> now although my old disk is not very healthy, it is still usable and i was thinking of using it as a single partition storage drive.  </s>
+<s> is there anything more i could do to the disk to remove those errors and make it more healthy.  </s>
+<s> or should i just prepare/ntfs-format the drive and start using it.  </s>
+<s> this is a drive with issues.  </s>
+<s> i can't count how many try to keep using such and call it proof that they can keep using it.  </s>
+<s> it's like a bald tire.  </s>
+<s> it works but is out of spec and you never know when...  </s>
+<s> so can nothing be done about these errors.. read dma : testing... error: sector error check s.m.a.r.t : testing... error: s.m.a.r.t threshold exceeded.  </s>
+<s> read surface scan : testing... c:1039 h:0 s:962 error: ecc error c:1040 h:0 s:797 error: ecc error c:1580 h:0 s:1037 error: ecc error c:7354 h:0 s: 965 error: ecc error in the &quot;hutil&quot; hdd diagnostic tool apart from &quot;low level format&quot; option there was an &quot;erase mbr&quot; option too which i haven't run till now since i don't know what it means.  </s>
+<s> do you thin running it might help.  </s>
+<s> or anything else..  </s>
+<s> but just like rebuilding a bald tire it takes specialized gear, a new platter or head assembly.  </s>
+<s> at today's costs a drive is cheaper to replace than fix.  </s>
+<s> bob  </s>

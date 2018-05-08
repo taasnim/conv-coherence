@@ -1,0 +1,21 @@
+<s> have just finished putting together my new pc!!! 4.3g 2g ram 300g hdd 512mb graphics!!! 2x 19&quot;widescreen tfts, 1x dvd rom 1x dvd writer drives, 520w case btw! last night all was fine (had yet to install dvd writer and fdd) new moniters running sweet!  </s>
+<s> popped the lid and connected dvdrw, fdd.  </s>
+<s> booted her up and it loads up went to my comp no cd drives (drong'go me hadnt set new drive to slave) did that whilst i was in there i also connected the silly temp probes from the cast up to the cpu hdd graphics, turned it on and 1st screen fine 2nd screen...1/2 way thru, power gone, turned its self off!  </s>
+<s> tried agen turned of slightly differnt place.  </s>
+<s> first i tried disconnecting dvd (both) fdd case fans etc to cut down on power - result, same next i had my nas box 2xmoniters and comp on a 4 socket extention so i put the comp on its own - result, same i have also tried to disconnect everything the reconnect - result, same  </s>
+<s> and do not reconnect.  </s>
+<s> make the minimum possible assembly, check that it works and then add one item. the best minimumm is with the mobo on a sheet of cardboard, but likely you won't go back to that.  </s>
+<s> you either have a hardware problem or the cpu is getting too hot.  </s>
+<s> be advised that the mobo's power control circuit works even if the is no cpu/hsf, no memory etc. thus stip all things external to the mobo, keep the front panel connections to the mobo.  </s>
+<s> hit the front panel power switch and see if the power supply stays on as noted by seeing that its fan keeps rotating [assuming that the cpu/hsf is not plugged in.  </s>
+<s> can't get past this point don't waste time trying to add anything, it won't help.  </s>
+<s> solve this problem first.  </s>
+<s> be aware that an atx power supply puts the 5 volt standby voltage on the mobo any time that the supply is plugged into a hot ac plug [if switch on rear of supply is on].  </s>
+<s> this power is what allows the mobo's power control circuit to work sans anything else.  </s>
+<s> cheers i will give this a try.  </s>
+<s> i have a sneaking suspicion it is the psu ist self which will mean after i have added x many things it will trip any way lol  </s>
+<s> in advance, often leads to poor troubleshooting technique, thus missing key info.  </s>
+<s> best of luck..  </s>
+<s> yeah i know this is the reason why i have asked the question on afew forums.  </s>
+<s> any problems in windows etc i can pretty much solve (spent 2hours reconfiging the gpos in server 2003 on fri lol).  </s>
+<s> but am rusty with messing arround with hardware cheers  </s>

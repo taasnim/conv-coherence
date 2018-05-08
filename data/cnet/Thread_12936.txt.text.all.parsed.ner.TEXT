@@ -1,0 +1,51 @@
+<s> first...the specs: laptop pc: - dell inpiron 9300 laptop, winxp media centered.  </s>
+<s> 2005 serv pack 2, pent.  </s>
+<s> m proc.  </s>
+<s> 1.86 ghz, 2gb ram, 160gb hitachi hdd, ts-l532b dual-layer dvd+/-rw drive.  </s>
+<s> built-in wifi & bluetooth.  </s>
+<s> - the laptop came installed with a 50(+) gb hdd... i had used acronis true image to &quot;mirror&quot; it to the 160gb hdd which was mounted inside an external 2.5&quot; enclosure via usb.  </s>
+<s> i then swapped the two (2) drives; whereas the 160gb hdd booted up with no problems.  </s>
+<s> - after formatting the 50gb hdd inside the external enclosure using window's computer management, i am quite certain that i mistakenly deleted/formatted over the boot portion of the hdd.  </s>
+<s> (when i first received the laptop from dell, the hdd space was 51.1gb...i now have a healthy 55.83gb w/ 55 mb as fat eisa configuration.) when i mounted it back in the laptop, booted from cd-drive with windows xp professional, the screen simply gave a response of &quot;ntldr is missing.  </s>
+<s> press ctrl+alt+del to restart.&quot; - can anyone give me any ideas on how i can get what i need back onto the 50+ gb hdd (preferably via external usb enclosure so i can install winxp pro...just in case i ever tire of win xp media center?  </s>
+<s> thanks in advance!  </s>
+<s> tony  </s>
+<s> the first thing i would do is make sure that you are booting from the cd. if you get the ntldr error, you are probably attempting to boot from the drive.  </s>
+<s> if you press f2 (usually) during the bios post, you can enter the setup menu and make sure that the cd-rom is the first boot device.  </s>
+<s> then when you restart, you should be able to boot from the cd - make sure you watch - there should be a &quot;press any key to boot from cd&quot; message.  </s>
+<s> once you get into the xp setup, delete the existing partition and let xp re-format using ntfs, then install xp.  </s>
+<s> i'll give it another try, though i thought i had tried to boot from the cd before.  </s>
+<s> i'm writing you this on my laptop now, but as soon as i can, i'll swap out this 160 gigger for the 50+ gigger 'n' try it again.  </s>
+<s> - i'll probably use my brother's laptop to bring up your posting and view the steps side-by-each.  </s>
+<s> ;-d - thank you again, and i'll let you know my progress!  </s>
+<s> tony  </s>
+<s> ok... i've changed the boot sequence to: 1. cd/dvd/cd-dr drive 2. diskette drive (though there isn't one) 3. internal hdd 4. usb storage device (there are also two (2) other non-highlighted options: cardbus nic and onboard nic) - yet, with the winxp pro disk in the drive, it pauses with a ''0 active'' in the upper leftt-hand corner and a blinking cursor beneath.  </s>
+<s> if any key is touched, it ''beep-beeps'' once and says: ''no bootable devices - strike f1 to retry or f2 for setup utility.'' - i've tried even changing around these sequences with no results occuring.  </s>
+<s> btw, the winxp pro disk is legit.  </s>
+<s> i even put it in my desktop pc and it works just fine.  </s>
+<s> - any further help is greatly appreciated.  </s>
+<s> thanks again.  </s>
+<s> tony  </s>
+<s> did you press &quot;enter&quot; when the option to boot from cd appeared on the screen?  </s>
+<s> if not, it will bypass the cd drive and attempt to boot from the hard drive.  </s>
+<s> even after getting mildly frustrated and turning off the laptop, i later turned it back on, checked again the boot sequence, and it does indeed show that the cd drive is the first priority... but still the same issues.  </s>
+<s> - i'll be awaiting any further advice.  </s>
+<s> tony  </s>
+<s> try another cd that you know is bootable in the laptop drive.  </s>
+<s> it is possible that the drive no longer will accept a bootable disk.  </s>
+<s> btw can you still see the info on the winxp disk from the laptop when it is booted from the new hd?  </s>
+<s> first, i re-mounted the 55+ hdd (which is actually a 60gb according to the info on the hdd's label, so i'll call it that.  </s>
+<s> , back into the mini-external case, then, i put the 160hdd back in my laptop.  </s>
+<s> turned both on.  </s>
+<s> (of course lol!) then, i went to computer management, found it and compared partitions with what i have already running (the 160hdd) to the 60hdd (in the ext.  </s>
+<s> case).  </s>
+<s> apparently, and i'm betting this is the answer, the 60hdd's &quot;healthy&quot; partition of 55.83 gigs needs to be &quot;marked as &quot;active&quot;.  </s>
+<s> i found this out by right-clicking the larger healthy partition, and &quot;mark as active&quot; was in bold.  </s>
+<s> on the 160gb hdd inside my laptop, the healthy partition's &quot;mark as active&quot; isn't clickable idicating that it is already active.  </s>
+<s> - by the way lacsr?, i did indeed attempt to boot other cd-roms to that drive (when it was in the laptop of course and yes as well, with the new 160dd in my laptop, everything shows/boots nicely.  </s>
+<s> you'd mentioned that it is possible taht it may no longer accept a bootable disk...as i'd writen in my original post, i think i may have deleted and/or formatted over the boot portion of the 60gb hdd.  </s>
+<s> (see next paragraph for more upcoming info)... thank you so much for your suggestions.  </s>
+<s> i appreciate your assistace! - now, back to the issue @ hand.  </s>
+<s> i think i'll &quot;mark as active&quot; the 60gb hdd while i still have it inside the ext.  </s>
+<s> case... h-o-p-e-f-u-l-l-y it will then enable me boot to it and even install a different o.s. to it (i.e., windows xp pro, or a linux o.s.) - thanks again to all who have assisted me, or may even have any further comments/ questions to this post.  </s>
+<s> - later, tony  </s>

@@ -1,0 +1,45 @@
+<s> we are getting this message - more often on mondays, but we got it today (wed) on a system when trying to access a network resource.  </s>
+<s> we have 5 computers, 1 of which sits idle and acts as a &quot;server.&quot;  </s>
+<s> some client computers get turned off at night, others do not.  </s>
+<s> all are running both zonealarm and nav.  </s>
+<s> we are using a dsl modem, netgear switch and linksys router.  </s>
+<s> about 3 weeks ago, we found that we were getting the above message when trying to access shared folders on the server.  </s>
+<s> not all computers misbehave - the problem occurs on different ones on different mornings.  </s>
+<s> when a system does have the problem, it can still access other shared resources (on other client computers) with no problem.  </s>
+<s> it can also ping the &quot;server&quot; with no problem. the clients which fail are both xp and w2k systems.  </s>
+<s> the only way we have found to get these connections restored is to reboot the server system.  </s>
+<s> rebooting the problem clients does nothing.  </s>
+<s> i've read that this may have something to do with &quot;renewing ip addresses&quot;.  </s>
+<s> any suggestions (in plain english)?  </s>
+<s> thanks a ton in advance, john  </s>
+<s> if the server is the one handing out the dhcp information, rebooting it may be a sign the server needs attention.  </s>
+<s> nothing in your post tells any other clue.  </s>
+<s> i'd look at what is the dhcp server.  </s>
+<s> but as lightwieght your post is, all i can write is where the issue appears to be and nothing more.  </s>
+<s> bob  </s>
+<s> sorry for the lack of tech info.  </s>
+<s> our router is the one acting as the dhcp server.  </s>
+<s> that linksys was replaced with a new, wireless linksys and that didn't solve a thing.  </s>
+<s> a new product doesn't mean the device has the latest firmware.  </s>
+<s> and something else... for example, i picked up a new dlink.  </s>
+<s> it would not connect to the isp or hand out wifi dhcp information.  </s>
+<s> at first i thought &quot;what a piece of junk&quot;.  </s>
+<s> but then i remembered to check the firmware and sure enough there was new firmware.  </s>
+<s> said device is now just fine all around.  </s>
+<s> next, since you are using the linksys as the dhcp server, is it on the ups so you know it's not subject to brownouts and odd power outages?  </s>
+<s> in closing, if some other dhcp server is on the network, then you could have a design issue to deal.  </s>
+<s> and finally, when i see this, i take a laptop to the linksys (or other) and jack right into it's ports to see if i can get a dhcp linkup.  </s>
+<s> if not, i power cycle the linksys to see if that was the issue.  </s>
+<s> so far only one replacement due to that.  </s>
+<s> bob  </s>
+<s> bob, thanks for the suggestions.  </s>
+<s> unfortunately, none of these issues is of concern (they have all already been addressed).  </s>
+<s> since it is only this one computer that is inaccessible at times, i lean towards something having changed on it - like a windows update or zonealarm update which is aggravating things.  </s>
+<s> pain in the butt.  </s>
+<s> j  </s>
+<s> in that case, look to see if they let windows update install a driver.  </s>
+<s> if so, you've found it.  </s>
+<s> as to zone alarm, you are on your own.  </s>
+<s> i have to remove it and use the native nt/2000/xp/2003 firewall when i see such.  </s>
+<s> zonelabs had support for such.  </s>
+<s> bob  </s>

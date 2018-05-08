@@ -1,0 +1,26 @@
+<s> hi, i'm having a issue with nat settings and was hoping you guys could help.  </s>
+<s> i have a linksys e3000 wireless n router.  </s>
+<s> i have two xboxes connected to the router, one wired, and one wireless.  </s>
+<s> i'm trying to get both of the xboxes to have an open nat, but i haven't had any luck.  </s>
+<s> i spoke with a cisco tech, and they had me do &quot;port range triggering&quot; for 80 and 3074, change mtu to 1364, uncheck &quot;filter anonymous requests&quot;, and disable &quot;upnp&quot;. the best it would ever do is make the wired xbox open, and the wireless one moderate.  </s>
+<s> but it seemed intermittent, and sometimes the wireless xbox would change to strict.  </s>
+<s> could you guys maybe give me a hand?  </s>
+<s> thanks!  </s>
+<s> cnet's review wrote &quot;the included desktop application can't be used together with the router's web interface, and neither provides the complete control over the router's features and functions.&quot; between that and the failed support i'd return this for a router that is knows to work with xbox live.  </s>
+<s> bob  </s>
+<s> which router would you recommend for 2 xboxes (wired and wireless), a ps3, a wii, and multiple other devices (iphones, laptops).  </s>
+<s> i'd like to stick with an n router, and my primary use for it is gaming.  </s>
+<s> dual band is also nice.  </s>
+<s> i like the idea of using the 5ghz frequency.  </s>
+<s> thanks!  </s>
+<s> i meant &quot;known.&quot;  </s>
+<s> we know that much so even i would not offer anything here.  </s>
+<s> while our home uses the simple netgear it may not work for those that are fascinated by dual band or other than basic router use.  </s>
+<s> there are some that claim it drops but it never has here.  </s>
+<s> however you may guess it's set up exactly as noted in this forum's sticky.  </s>
+<s> i eat my own dog food in other words.  </s>
+<s> sadly the model you noted failed not once but twice so if the maker is having you play with mtu and more, it is not ready for the field.  </s>
+<s> bob  </s>
+<s> yes the multiple xbox issue is simple,, udate you frimware to newest version.  </s>
+<s> and dissbale the spi firewall,, the spi firewall is essentially a nat firewall.  </s>
+<s> linksys e3000  </s>

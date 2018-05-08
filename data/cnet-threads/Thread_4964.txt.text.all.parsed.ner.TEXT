@@ -1,0 +1,33 @@
+<s> i am adding a second hard drive to keep some records on.  </s>
+<s> the one i am adding has xp pro on it already and i want to wipe it clean.  </s>
+<s> my main hd that i am using now also has xp pro on it.  </s>
+<s> here is the problem i am having.  </s>
+<s> i connected my main drive to the end of the cable and my slave drive to the middle part.  </s>
+<s> when i boot up it ask which operating system i want to use and then begins to load the slave drive.  </s>
+<s> i want it to load my main drive so i can get into the slave to reformat it.  </s>
+<s> i have my jumpers set correct as for as i can tell.  </s>
+<s> any ideas what i am doing wrong?  </s>
+<s> connect the drive you want to erase only.  </s>
+<s> boot from a floppy or cd with a utility to wipe it clean of all data and partitions.  </s>
+<s> personally, i prefer the drive manufacturer's utility that does so as part of a destructive testing procedure.  </s>
+<s> these also test the drive hardware and the integrity of the media.  </s>
+<s> every manufacturer has their own name.  </s>
+<s> seagate's is &quot;seatools&quot;. wd, hitachi and others offer such.  </s>
+<s> steve's suggestion ... connect only the drive you want to wipe or clear.  </s>
+<s> that eliminates the risk of inadvertently wiping the wrong drive and once it's wiped, it won't have an os to boot from.  </s>
+<s> if you have an old ide 40 wire cable vs. an 80 wire cable, the master or bootable drive is usually placed on the middle connector.  </s>
+<s> (see link for more detail ) vapcmd  </s>
+<s> i got it going.  </s>
+<s> in my bios it was booting from hd1 instead of hd0.  </s>
+<s> once i figured that out all went perfectly.  </s>
+<s> i did try using the utility that came with the hd but for some reason my a drive only reads some of the disk but not all.  </s>
+<s> it would not read this one.  </s>
+<s> it says the disk needed to be reformatted.  </s>
+<s> i have bunches of floppies with pictures on them but when i went from 98 to xp i have not been able to view them.  </s>
+<s> i even changed the a dive thinking it was bad but i get the same thing.  </s>
+<s> but that is another story.  </s>
+<s> i did get it wiped clean and reformatted.  </s>
+<s> i have been moving my stuff to it already and all seems to be working well.  </s>
+<s> thanks for the help.  </s>
+<s> back up what you don't want (or can't afford) to lose.  </s>
+<s> vapcmd  </s>

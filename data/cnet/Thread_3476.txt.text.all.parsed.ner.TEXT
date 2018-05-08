@@ -1,0 +1,11 @@
+<s> ihave 8 computers, if i'm using only 2 computers it's just fine.  </s>
+<s> but when i added a hub compose of 6 computers i can't connect anymore.  </s>
+<s> need help here  </s>
+<s> what operating systems on the computers?  </s>
+<s> what router model number?  </s>
+<s> what &quot;hub&quot; model number?  </s>
+<s> wired or wireless network adapters?  </s>
+<s> please elaborete on what &quot;i can't connect anymore&quot; means?  </s>
+<s> anytime you use a hub to connect devices, each device connected to the hub diminishes the bandwidth from the source (in this case your internet connection coming from your pc).  </s>
+<s> i would suggest you get a switch instead and plug all 8 machines into it along with the incoming internet connection.  </s>
+<s> everytime something is plugged into a hub, it cuts the original bandwidth or transfer speed in half.  </s>

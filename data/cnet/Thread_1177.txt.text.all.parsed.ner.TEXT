@@ -1,0 +1,44 @@
+<s> hi all just about to purchase my first laptop and it will come with 802.11agn.  </s>
+<s> i have a desktop pc also, but plan on connecting this directly to the router and so it is just the laptop that will be wireless at the moment.  </s>
+<s> house is single storey (2000 square feet), but construction is concrete walls.  </s>
+<s> what router would you recommend and why?  </s>
+<s> thanks  </s>
+<s> that's a killer on this one.  </s>
+<s> there is no known router that will penetrate such.  </s>
+<s> you'll have to design a solution with some central router and wire waps back to it to create your wifi &quot;zones.&quot;  </s>
+<s> i decline to provide a free course in network design but it's a well known problem with a simple solution.  </s>
+<s> bob  </s>
+<s> thanks bob so how come in my father-in-laws house which is a 2 storey concrete structure he has wifi working?  </s>
+<s> + my cordless phones work fine  </s>
+<s> design done.  </s>
+<s> -&gt; let me be very blunt here.  </s>
+<s> no maker will give you assurance it will work through concrete walls.  </s>
+<s> just call them.  </s>
+<s> i can tell you how i solved it but you want a solid solution and not something iffy.  </s>
+<s> bob  </s>
+<s> ok so i am right in thinking this is what you are saying.  </s>
+<s> connect the router to the cable modem connect pc to router then for the rooms where i would like wifi - run wired waps back to the router how expensive are wap's if i go this route then should i get a 802.11n router or 802.11g?  </s>
+<s> thanks as always  </s>
+<s> for most of us the n speed only helps when we copy a file from pc to pc. for internet use, no payoff.  </s>
+<s> as to waps, i don't use a wap anymore since most wifi routers can be configured as a wap.  </s>
+<s> and any router that can be programmed with openwrt (they have a list of them) can be turned into a wap.  </s>
+<s> so the cost is the same as a router.  </s>
+<s> bob ps. why not duplicate what you know works?  </s>
+<s> because thinking about it there house deisgn is different.  </s>
+<s> i suppose i could get a router and give it ago.  </s>
+<s> then if it's a bust, then look into adding wired wap.  </s>
+<s> excuse the basic ?'s if i have very good cordless phone reception from reciever base to other rooms (where i would need wifi access) - would this not suggest that the wifi router might work?  </s>
+<s> if i had to go wired.  </s>
+<s> i would need to buy a couple of extra routers + cable and then configure these as access points - is this simple to do?  </s>
+<s> cheers  </s>
+<s> those cordless phones are not the same thing with differences i decline to list since i would have to write quite a few paragraphs.  </s>
+<s> i'm an electronics designer with designs in two way paging systems so to express why would result in many paragraphs. the try it and find out is the usual route.  </s>
+<s> simple?  </s>
+<s> for me yes.  </s>
+<s> for others?  </s>
+<s> maybe.  </s>
+<s> if you used routers that could be configured as a wap or waps or that you could install openwrt that supports turning such into a wap but then i would be repeating what i wrote above... bob  </s>
+<s> thanks for your help  </s>
+<s> get a wrt54g from linksys, install dd-wrt and then get a higher dbi antenna for it.  </s>
+<s> or make a cantenna if you like the &quot;adventure&quot;.  </s>
+<s> that should do you good.  </s>

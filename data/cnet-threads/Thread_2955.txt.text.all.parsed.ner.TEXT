@@ -1,0 +1,19 @@
+<s> iam looking at a dell dimension xps,model mm8,pii...when i turn it on it beeps...i pulled slot boards-cleaned connections -reinstalled...tried again ...sounds like 1p111p111p1 (p=pause)...also the monitor dosent activate.  </s>
+<s> this unit also has wires (2) coming fron a key lock and plugs into circuit board..whats this setup for ...and if the lock is on does it limit what i can do?  </s>
+<s> it's not turned on ...on this unit..but i have another problem child that im not sure of  </s>
+<s> if i could make two guesses, i would say likely culprits are video card or memory.  </s>
+<s> a missing or defective video card will do such as will defective memory.  </s>
+<s> if you have more than one memory module, you can insert them one at a time into the first slot (usually slot &quot;0&quot;) and see if you can make it work.  </s>
+<s> another common one i have seen with agp video cards is they are not quite seated properly even though they seem to be.  </s>
+<s> check this closely.  </s>
+<s> as for the key lock, these are sort of outdated but were used to disable the keyboard...sort of a cheap and ineffective security device.  </s>
+<s> hope this helps.  </s>
+<s> dumb question probly...but the video card ...is that the slot card that the monitors serial connector mates to?...i did notice someone had pulled all the ram sticks out...i had a couple so i put 2 in ....but then i dont know if their good...question about the keyboard locks..i think i had a chassis that had a keyboard error...if i pull the wires from their conn.  </s>
+<s> would that disable it's function or would i have to install a jumper on the connection?  </s>
+<s> if the connector goes to a standard keyboard lock on the front panel of the pc, removing the connector from the mb only disables your ability to lock the keyboard.  </s>
+<s> a jumper would just lock it again so leave it disconnected.  </s>
+<s> if the ram has been removed and not properly reinstalled, you will get beeps, especially if in slot &quot;0&quot;.  </s>
+<s> i recall something about the first 64k as being mandatory.  </s>
+<s> there is no beep code standard for mb manufacturers so, if you can, i would check for a support site for yours.  </s>
+<s> most likely the bios chips are from ami or pheonix.  </s>
+<s> okay, so i did what i was suppose to do...count the beeps an research....i think i got it now...i told ya i'am not a computer wiz ...i had 2 sticks of memory i inserted in the ram slots 0&1...same problem...beeps...so after a cooling off period...i thot maybe those were bad...so i pulled them out an put another stick ....guess what ...it loads up ...yep, no beeps...i think i just stuck the wrong type of ram sticks in...not that i understand the difference between sdimm or dramm or whatever.. i guess the motto is...dont get frustrated..step away for a while..oh and that just because they fit the slot ...dosent mean there right.  </s>

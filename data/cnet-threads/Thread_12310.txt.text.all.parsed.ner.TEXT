@@ -1,0 +1,225 @@
+<s> hi, i am about to scream because i don't know what to do.  </s>
+<s> i have dell laptop with a intel pro wireless 2200bg internal adapter.  </s>
+<s> i am a bellsouth adsl customer and was sent a westell versalink 327 wireless router/modem.  </s>
+<s> in fact i have went through 3 of these thinking that the westell's were just pieces of junk.  </s>
+<s> however, i just purchased a belkin pre-n router, i did not purchase their card yet.  </s>
+<s> i turned off the wireless feature of the westell and am using it as the modem and connected the belkin to it as the wireless router.  </s>
+<s> guess what, same issues i've been having with the westell's for over an year.  </s>
+<s> however, i must mention that in the last couple of weeks i have almost been totally unable to get on the internet with the westell's.  </s>
+<s> at least before it would go out intermittently, but now it is basically 99% unusable - same story with the bellkin.  </s>
+<s> so now i know the issue is not the westell or the belkin.  </s>
+<s> what is the problem?  </s>
+<s> could my internal adapter be corrupted?  </s>
+<s> could their be interference in my apartment.  </s>
+<s> i have a 2.4 ghz phone in seperate room than the router.  </s>
+<s> i notice their are about five available wireless connections available in my apartment complex - don't know if that interferes.  </s>
+<s> my belkin is on auto channel currently using channel 1. i have tried everything i can think of.  </s>
+<s> i have set the wireless adapter channel to 1 to match the belkin.  </s>
+<s> i tried setting the belkin connection to ppoe since i have dsl, and it says connected, but when i go to the internet i am unable to display pages.  </s>
+<s> so i went back and set it to dynamic and i can get on the internet off and on all the while it say excellent connection at 54mbps, but obviously something is terribly wrong.  </s>
+<s> i don't know what to do.  </s>
+<s> i made ssid invisible because i figured maybe someone was stealing my bandwidth, but doing this still did not improve.  </s>
+<s> what else can i try?  </s>
+<s> please give me options and i will let you know if i tried it already.  </s>
+<s> thanks!  </s>
+<s> oh when i am hardwired to the belkin or westell, i browse just fine.  </s>
+<s> just fyi, most of the available networks in my complex are secured accept for one. the one that is unsecured, i can get on from time to time even if it is very slow.  </s>
+<s> why can i get on that one and not even the one in my apartment.  </s>
+<s> my indicator for my router allways says excellent signal and 54mbps speed.  </s>
+<s> ugh!!!!!!!!!!!! i will love your responses.  </s>
+<s> thank you  </s>
+<s> right or wrong, that step seems to make too many wifi setups unstable or unusable.  </s>
+<s> in fact my palm tx will not play with the home wifi setup unless ssid is visible.  </s>
+<s> i will not discuss why this is so.  </s>
+<s> however i will note that by using the other security items such as mac filtering and wep or wpa i haven't found a smart enough cracker to leech a free ride.  </s>
+<s> hope this helps, bob  </s>
+<s> connect directly with a cat 5 ethernet cable to the modem and verify that you internet connection is reliable to rule out any non-wireless, dsl related problems.  </s>
+<s> if that is good then do some wireless troubleshooting next.  </s>
+<s> start with a default wireless setup and do not enable security or make ssid invisible (basically take the out-of-the-box) settings and see if you still have problems connecting reliably via wireless.  </s>
+<s> if you can connect reliably then it is related to your security setup or changes to the config which you need to make sure your wireless adapter in you dell is setup to handle.  </s>
+<s> if you can't connect reliably with default settings, then you may want to check that you have the most up-to-date firmware for your wireless modem/router.  </s>
+<s> for trouble free and performant wireless network capability i have found it very beneficial to keep the modem/router firmware up-to-date.  </s>
+<s> you say you can connect to another signal in your complex, so your wireless card is probably working fine.  </s>
+<s> if firmware is up-to-date try changing the transmission channel and see if that clears it up.  </s>
+<s> once you get connected reliably without security, add in security and continue verifying reliable connectivity.  </s>
+<s> good luck and last resort is troubleshooting with tech support for the given modem/router company.  </s>
+<s> steve  </s>
+<s> i have been connected successfully with a cat 5 cable.  </s>
+<s> when i took the router out of the box it did not have any security and shortly thereafter i still was having problems.  </s>
+<s> i checked my adapter and it does have the latest driver 9.0.4.17.  </s>
+<s> what about firmware? is that the same as driver?  </s>
+<s> if not, how can i check to see if my adapter has the latest firmware?  </s>
+<s> my router is set on auto channel and typically stays on channel one.  </s>
+<s> however i seem to have problems on every channel regardless.  </s>
+<s> firmware is not the same as driver.  </s>
+<s> firmware is embedded software that is part of a hardware device like your modem/router.  </s>
+<s> usually you can visit the modem/router vendor's website and under support check to see if there is an update to the firmware for the given hardware device.  </s>
+<s> most modem/router vendors provide a mechanism either through their web administration front-ends or a separate program to install the latest version of firmware for the hardware device.  </s>
+<s> your web administration should also show you what version of firmware that is currently running on the device so you can verify that you are either behind latest or up-to-date.  </s>
+<s> i would check your firmware and get that up-to-date and then reply back if you still are having problems.  </s>
+<s> you may also want to search the support knowledgebase of the modem/router vendors website to see if other users of their devices have had similar symptoms as you.  </s>
+<s> they may have advice there that can help.  </s>
+<s> steve  </s>
+<s> yes i checked and the firmware on my modem and router are up to date.  </s>
+<s> i have another question since nothing i have done has worked.  </s>
+<s> the problem is not the belkin router or the westell routers (i tried 3 of thes) but yet i have the same problems with all 4 routers, so all routers can't be bad.  </s>
+<s> i did all the troubleshooting i know how to do including starting with no security and then working it in.  </s>
+<s> i still get a bad connection 90% of the time. the times it works, i don't know why but trust me it doesn't last long.  </s>
+<s> as stated previously, i am sometiems able to connect to an unsecured network in my complex.  </s>
+<s> could there be interference in my apartment that i have no control over or is my card bad?  </s>
+<s> how would i know if my card is bad?  </s>
+<s> i have the belkin pre-n router and was going to get the pre-n card but of course my laptop won't take that card so i need a usb adapter.  </s>
+<s> i am considering getting the netgear wg111u 108mpbs.  </s>
+<s> do you think this will speed me up or is it worthless to give it a try?  </s>
+<s> i am frustrated.  </s>
+<s> i thought i should mention one thing.  </s>
+<s> when i was using the westell as a router, it was set as pppoe i believe.  </s>
+<s> as stated previously i still had a bad connection.  </s>
+<s> usually dsl should be pppoe connection and cable should be dynamic.  </s>
+<s> with the belkin router when i set as pppoe it says connected but when i try to go online it says page not displayed.  </s>
+<s> i can't do anything.  </s>
+<s> when i change it to dynamic it works even though the connection still sucks.  </s>
+<s> could the fact that i have the belkin on dynamic be affecting my connection at all or can dsl work off of an dynamic connection.  </s>
+<s> shows fixes in sp2 that some don't know about.  </s>
+<s> frankly this is starting to sound like an owner that didn't try the &quot;as delivered&quot; router settings (i start there and with the only settings needed by the isp).  </s>
+<s> after i see if work i move to secure the network.  </s>
+<s> there are also those pests and p2p issues.  </s>
+<s> i can't help most p2p users since they can't kick the habit but pests often hijack the windows tcpip stack.  </s>
+<s> for that we scan with ewido, housecall, rootkit revealer then once the pests are gone i run winsockfixxp from bob  </s>
+<s> when i got my westell routers - i didn't start changing anything until it did not work anyway.  </s>
+<s> the same with the belkin.  </s>
+<s> literally as soon as the belkin was installed it did not work except hard wired.  </s>
+<s> both routers come with no encryption or security and that is they way that they were run and they still didn't work.  </s>
+<s> now i did go ahead and put wep on because i feel like an idiot having an open connection out there. the wep didn't make the connection any better or worse.  </s>
+<s> trust me i did not change anything on the router until it started giving problems.  </s>
+<s> i reset to defualt several times and still. the routers are not the problem.  </s>
+<s> it has to be something else.  </s>
+<s> my card, possibly a setting on my computer that i don't know about or some type of interference.  </s>
+<s> after dealing with a few hundred setups, you have a defect somewhere.  </s>
+<s> it's not evident exactly where but i notice you didn't reply about p2p use and scans/repairs.  </s>
+<s> that is a common problem area.  </s>
+<s> what is &quot;it&quot;?  </s>
+<s> sorry, the clues aren't here in these posts.  </s>
+<s> but it's likely to be what's common to all the setups.  </s>
+<s> here's a test i use.  </s>
+<s> i take a balky laptop to a local free hotspot and try it there.  </s>
+<s> sometimes it reveals there is an issue with the laptop.  </s>
+<s> sometimes i find a &quot;duh&quot; item like the laptop maker didn't plug in the antenna.  </s>
+<s> bob  </s>
+<s> hi bob, thanks for those links.  </s>
+<s> i will try it.  </s>
+<s> what do i have to lose.  </s>
+<s> i also have this link, should i try this as well: also, i set my router to default again last night and worked on a open network.  </s>
+<s> it was working good for an hour or two, so i assumed it was something with the security settings.  </s>
+<s> well i spoke to soon, it began to act up again even with no security.  </s>
+<s> and i think you are going to try the scans and repair.  </s>
+<s> if it doesn't have any effect then try the trip to a hotspot.  </s>
+<s> bob  </s>
+<s> lol. i didn't reply about the p2p because i didn't know how to reply.  </s>
+<s> i haven't even read that link yet.  </s>
+<s> i don't really know what that is.  </s>
+<s> so i guess i should take my laptop out and see if it connects to other wireless networks and how strong the connection.  </s>
+<s> it has to be my card or inteference in my apartment.  </s>
+<s> how would you know if the manufacturer did not plug in the antenna?  </s>
+<s> it's not likely to be a factor or concern.  </s>
+<s> pests still are.  </s>
+<s> ewido and housecall usually get those identified and can remove most.  </s>
+<s> bob  </s>
+<s> oh yes i have used limewire.  </s>
+<s> my connection was bad before limewire though, but i will mention that it did get even worse afterwards, that is not to say limewire was a factor but it may have been.  </s>
+<s> i will mention that at one point i used kazaa.  </s>
+<s> it installed all types of junk and i immediately took it off.  </s>
+<s> but i will admit limewire has become a bad habit of mine although not lately because i can't get online.  </s>
+<s> so i will try all of the scans first correct and then god forbid if those don't work i will move on to those microsoft help files that you sent me.  </s>
+<s> i will try all the troubleshooting steps you gave me before i purchase the netgear usb adapter - maybe i can get my connection working again.  </s>
+<s> sounds promising.  </s>
+<s> for kazaa i used kazaabegone to toss it all out.  </s>
+<s> it is very important to have winsockfixxp handy since tossing out kazaa's tweaks can kill an internet connection.  </s>
+<s> at this point you are squarely in the usual p2p user issues area.  </s>
+<s> i'm no longer surprised but please don't take that wrong.  </s>
+<s> you might cure it yet.  </s>
+<s> bob  </s>
+<s> i hope you are on this board for a long time.  </s>
+<s> you're very helpful, no one else had offered me this type of information.  </s>
+<s> i had no clue.  </s>
+<s> yeah kazaa was a bear as soon as i installed it my adware alerts and mcafee started popping up all sorts of alarms.  </s>
+<s> it was amazing.  </s>
+<s> who knows that may be when my problems really started but i would never have known to suspect that.  </s>
+<s> just seems like it's been going on forever.  </s>
+<s> can't wait to get home so i can do some troubleshooting.  </s>
+<s> you're making me smarter.  </s>
+<s> you are in an environment with many signals coming from neighbors.  </s>
+<s> try the following: 1. reset your router to factory settings and establish that you have rock solid wired connectivity from the computer through to isp, ie. leave computer on for 24hrs and check connectivity occasionally.  </s>
+<s> if you are patient enough, try it with the router's radio on and off for 24hrs each.  </s>
+<s> 2. test for wireless signal: change the router ssid to a unique name different from factory setting or neighboring ssids.  </s>
+<s> enable ssid broadcast.  </s>
+<s> turn on router radio and disconnect the ethernet cable to laptop.  </s>
+<s> can your laptop detect your router's wireless signal?  </s>
+<s> never mind if you can't get an ip yet.  </s>
+<s> make sure there is no conflict between the laptop's wireless software utility, if it exists, and xp's wireless zero configuration (wzc).  </s>
+<s> disable one or the other when testing. some mfr's wireless software conflict with wzc but recent wireless adapter chips & utilities are cooperative.  </s>
+<s> 3. after detecting your wireless signal, select your ssid to connection to.  </s>
+<s> if you then get an ip but lose it after a while, try changing the channel.  </s>
+<s> 4. if you still lose ip after trying different channels, turn on the mac filter in your router and enable only your laptop's mac.  </s>
+<s> this should prevent neighboring signals from connecting to your router. 5. make sure your ssid on your laptop is the uppermost in priority if you are also receiving neighboring ssids.  </s>
+<s> 6. if you still lose ip, the dhcp server in your router is probably flaking out when there is interference from neighboing wireless signals.  </s>
+<s> try the router in another location with isp service (friend's house?) that is away from your complex to see if it makes any difference.  </s>
+<s> if you still lose ip at your complex but not elsewhere, buy and try different wireless routers.  </s>
+<s> btw, pre-n is not good enough yet; better to use mimo or plain 54g with dual antennas.  </s>
+<s> good luck.  </s>
+<s> look deeper and you find other issues.  </s>
+<s> nice ideas.  </s>
+<s> bob  </s>
+<s> i ran evido and housecall.  </s>
+<s> almost immediately my connection jumped up to blazing speed.  </s>
+<s> i ran rootkit and a lot was found, but i am not sure how to read that, so i saved the findings and printed it out so i can research the findings.  </s>
+<s> after that i ran winsock and restarted my pc. no problems, it is perfect. the kicker is to see if it is still going strong today or if it was a coincidence that it ran well last night after the fixes.  </s>
+<s> also, there was one grayware or malware that housecall could not delete.  </s>
+<s> i will have to look into that too.  </s>
+<s> i'm wondering if i should still run kazaa be gone since everything is fine.  </s>
+<s> shouldn't hurt right?  </s>
+<s> as long as i run winsock afterward?  </s>
+<s> i tried all of those things already.  </s>
+<s> yesterday i ran some software to get rid of pests and i think that fixed the problem.  </s>
+<s> i hope i am not speaking to fast.  </s>
+<s> and winsockfix is quite normal after we remove pests.  </s>
+<s> bob  </s>
+<s> hello, i appreciate everyone's help with my problem.  </s>
+<s> i just wanted to send an update on my progress.  </s>
+<s> i thought i was good last week when i followed bob's steps but i think it was just a coincidence.  </s>
+<s> i kept losing my wireless connection yesterday even though it said connected with excellent signal.  </s>
+<s> so i decided to look at my modem (not router)remotely and each time i lost my wireless signal it was because dsl was not syncing and the internet was down.  </s>
+<s> so now i am convinced i never had a problem with wireless, but with the modem itself.  </s>
+<s> if you have a poor dsl connection, wireless will be that much worse i assume.  </s>
+<s> anyhow i know the modem is not defective because this is the third one dsl has sent me.  </s>
+<s> before i started connecting wireless i used to have problems with dsl but it didn't seem this bad.  </s>
+<s> i would disconnect once maybe twice a day and would have to restart router or restart machine.  </s>
+<s> i am beginning to think the problems may be with the lines in my apartment.  </s>
+<s> i live in an older apartment, 1980's, and they have not been kept up that well.  </s>
+<s> if the lines are not bad then i really don't know what is going on.  </s>
+<s> any ideas?  </s>
+<s> charter cable is coming by on saturday, so i am hoping for the best.  </s>
+<s> i hope it works. the first time they came out, it was really bad and i disconnected and went to dsl.  </s>
+<s> charter told me the cable line in that particular location was bad, so i will have them hook it up in another room this time.  </s>
+<s> i cannot live without the internet.  </s>
+<s> i don't know any other options if the cable won't work.  </s>
+<s> hello, i appreciate everyone's help with my problem.  </s>
+<s> i just wanted to send an update on my progress.  </s>
+<s> i thought i was good last week when i followed bob's steps but i think it was just a coincidence.  </s>
+<s> i kept losing my wireless connection yesterday even though it said connected with excellent signal.  </s>
+<s> so i decided to look at my modem (not router)remotely and each time i lost my wireless signal it was because dsl was not syncing and the internet was down.  </s>
+<s> so now i am convinced i never had a problem with wireless, but with the modem itself.  </s>
+<s> if you have a poor dsl connection, wireless will be that much worse i assume.  </s>
+<s> anyhow i know the modem is not defective because this is the third one dsl has sent me.  </s>
+<s> before i started connecting wireless i used to have problems with dsl but it didn't seem this bad.  </s>
+<s> i would disconnect once maybe twice a day and would have to restart router or restart machine.  </s>
+<s> i am beginning to think the problems may be with the lines in my apartment.  </s>
+<s> i live in an older apartment, 1980's, and they have not been kept up that well.  </s>
+<s> if the lines are not bad then i really don't know what is going on.  </s>
+<s> any ideas?  </s>
+<s> charter cable is coming by on saturday, so i am hoping for the best.  </s>
+<s> i hope it works. the first time they came out, it was really bad and i disconnected and went to dsl.  </s>
+<s> charter told me the cable line in that particular location was bad, so i will have them hook it up in another room this time.  </s>
+<s> i cannot live without the internet.  </s>
+<s> i don't know any other options if the cable won't work.  </s>
+<s> dish network, or move?  </s>

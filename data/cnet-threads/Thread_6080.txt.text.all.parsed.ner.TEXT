@@ -1,0 +1,47 @@
+<s> i own the following 500gb external hard drive, attached constantly to my windows xp pc, saving the bulk of my non-exe or program files (docs, pics, etc) effectively on a constant backup.  </s>
+<s> i've owned it for about two years and never had any problems with it until now. the drive is formatted to fat32 - got it that way and just never reformatted it.  </s>
+<s> now, with just 107gb of its space used up, i try to save one image file today to my very large (over 19,000 files not counting subdirectories) image folder and this happens.  </s>
+<s> over and over. the drive seems to hate saving files *with a long filename*, which i gather is a complaint of some external hard drives.  </s>
+<s> but the problem is: why is it complaining about this now?  </s>
+<s> up until now i've been able to save any file whatsoever onto there with any filename i wanted.  </s>
+<s> there are files on there with names like '00711385595004928.jpg', really.  </s>
+<s> so why does this cause error now? the actual size of the picture doesn't seem to make any difference, just the filename!  </s>
+<s> if the name is short, images do save onto there.  </s>
+<s> 1. is there any way i can get this drive to accept long filenames once again?  </s>
+<s> 2. would reformatting to ntfs help?  </s>
+<s> would it involve deleting or corrupting anything?  </s>
+<s> 3. would using more subdirectories help?  </s>
+<s> thanks in advance!  </s>
+<s> try a new folder.  </s>
+<s> stuffing many files into one folder is frankly, dangerous.  </s>
+<s> even more on fat32 volumes.  </s>
+<s> yes we can usually convert to ntfs with no loss but the moderators all know &quot;we only lose what we didn't backup.&quot;  </s>
+<s> so before i go one step further, could you tell where the backup copies are?  </s>
+<s> bob  </s>
+<s> 1. atm, the external hard drive has no backups (&lt;_&lt;; &gt;_&gt;;).  </s>
+<s> all files stored on there are just there; it's where my main collected files are kept.  </s>
+<s> if it comes to that i can easily copy all/most/some of them over to my internal c: drive, however it take up like 75% of the free space, so i'd prefer to do it sparingly.  </s>
+<s> it would take some hours, but i have some hours free.  </s>
+<s> 2. i could also use more subdividing my image folder, which is indeed far too stuffed.  </s>
+<s> it already has about 30 subs.  </s>
+<s> if i use either of these methods, would i be able to save files freely once again?  </s>
+<s> i could do both, but is it going to be necessary to also backup?  </s>
+<s> again, would reformatting to ntfs solve my problem, or help is some way?  </s>
+<s> (btw, my c: drive is ntfs)  </s>
+<s> i know better than to convert it to ntfs.  </s>
+<s> yes it should fix it but since there is no backup the conversion while it works 99.99% of the time is it worth the risk of no backup?  </s>
+<s> only you can answer that.  </s>
+<s> since i know the risk i won't tell you how to convert.  </s>
+<s> but you can find out with a google like &quot;windows xp how to convert to ntfs?&quot; sorry to hear another no backup story.  </s>
+<s> these rarely end well.  </s>
+<s> need evidence?  </s>
+<s> look at entries in this very forum.  </s>
+<s> bob  </s>
+<s> well, as i've said, i can easily back it up - i just need to copy the files over to c. that's a backup, yes?  </s>
+<s> i don't want/need to reformat c, it's ntfs already.  </s>
+<s> so really i'm not taking any risks.  </s>
+<s> i'll certainly make a backup before messing around with my external.  </s>
+<s> ok? thankyou for your advice.  </s>
+<s> you are right about my irresponsibility regarding the drive.  </s>
+<s> for not beating me up over the repeating comments about you know what.  </s>
+<s> hope it all turns out great!  </s>

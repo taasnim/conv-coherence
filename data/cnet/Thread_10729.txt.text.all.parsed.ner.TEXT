@@ -1,0 +1,22 @@
+<s> forum users, we have a small workroom being shared by approximately 10 people that has a hp printer located in the room that we all have to walk over to and hook up via a usb port and i was wondering that equipment or configuration i need to set the printer up to be wireless for everyone in the room.  </s>
+<s> the room is approximately 25ft x 25ft and the printer is currently not a wireless enabled printer.  </s>
+<s> so i'm looking for some device that i can connect to the printer via it's network port and then broadcast an ip address or something that everyone in the room can connect to and print.  </s>
+<s> i'm not sure if a print server solution works with this volume of resources (10) trying to connect and print concurrently or otherwise.  </s>
+<s> appreciate everyones response, j.c.  </s>
+<s> to set it up we have some dozen choices so where we go depends on how techy you and they are.  </s>
+<s> i think bluetooth may have the easy edge here.  </s>
+<s> get a printer with that.  </s>
+<s> next up is wifi but this requires a wap, some printer server or if some other non-wap solution the troubles of ad-hoc wifi may mean you spend more time showing dozens of folk how to setup wifi ad-hoc and would be a non-solution.  </s>
+<s> so, what's the skill level and how thick is the it staffer's skin?  </s>
+<s> bob  </s>
+<s> bob, all of us in the room are fairly techie.  </s>
+<s> so we can generally handle anything techie in nature. the challenge is taking the standalone printer that is not wireless, in essence converting it to a wireless device and then having the capability to have 10 people connect and print to it.  </s>
+<s> so my assumption is if we due a bluetooth solution, then we are forced into buying some number if not 10 slave pc usb bluetooth devices for each individual in the room.  </s>
+<s> so while capabable, i assume this may be expensive?  </s>
+<s> so my assumption is that it would have to be something like a wifi or other solution to reduce the individual pc/user cost element?  </s>
+<s> thanks again, j.c.  </s>
+<s> example at and has been spotted for 3 bucks.  </s>
+<s> let's see if there is a wifi ad-hoc print server?  </s>
+<s> page 19 of shows it supports ad-hoc mode so this can be used outside of your normal wap or infrastructure mode.  </s>
+<s> that runs about 30ish around the web.  </s>
+<s> bob  </s>

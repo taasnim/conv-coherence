@@ -1,0 +1,53 @@
+<s> i have a dell inspiron 2650 previously running on 256mb of memory with two dimms 128mb each.  </s>
+<s> after a while, i decided to upgrade my computer to 384mb by combining an old 128mb stick with a 256mb stick.  </s>
+<s> now a problem arised after about 5 months - my computer would not start. the power light would turn on, but the harddrive access light would not blink as it normally would.  </s>
+<s> i called dell tech support and informed me it must be the issue of combining different sizes of ram.  </s>
+<s> so, i got another 256mb stick to make a combination of 512mb.  </s>
+<s> yet again, the computer will start and then just lock up after about 30 or so minutes of usage.  </s>
+<s> after shutting the computer down, my notebook will not boot back up again.  </s>
+<s> i have to reinstall the ram in order for my computer to boot up.  </s>
+<s> i'd really would like to get the performance boost of 512mb, but something in my computer is not letting me.  </s>
+<s> please help!!!  </s>
+<s> a clue about possible failed fans or clogged heatsinks.  </s>
+<s> even laptops need those clean and free from clogs.  </s>
+<s> here's some articles about this -&gt; bob  </s>
+<s> i took apart my notebook and cleaned the heatsink.  </s>
+<s> the problem still resumes. the computer simply locked up except much less than 30 minutes.  </s>
+<s> one thing i noticed was that even though windows was unresponsive - i was still able to change screen brightness by pressing fn and the up button.  </s>
+<s> does this mean that the motherboard is still functioning despite the crashing?  </s>
+<s> i can boot linux from usb or cd and see if it runs fine.  </s>
+<s> your post is light about use of antivirus or antispyware or what browser you use.  </s>
+<s> here's an online scan.  </s>
+<s> share what it finds -&gt; bob  </s>
+<s> thank you mr. proffitt.  </s>
+<s> i believe you have been the only one to reply to my posts - and numerous times as well.  </s>
+<s> i run ad-aware and windows defender for antispyware.  </s>
+<s> for antivirus i use norton systemscan from the google pack.  </s>
+<s> i will try to run ubuntu as soon as possible and report back.  </s>
+<s> takes a different approach and has hit paydirt at times.  </s>
+<s> bob  </s>
+<s> ram speed and compatibility. is it matched to the laptop?  </s>
+<s> as far as my knowledge goes, the ram is correct for my notebook.  </s>
+<s> pc2100s-25330-a0.  </s>
+<s> both my 128 and 256 pairs are made by samsung.  </s>
+<s> completed the scan with no infections.  </s>
+<s> after another one of my crashes, i inserted my ubuntu live cd before forcing a shut down. the computer would not access the harddrive and the dell splash screen announcing hit f2 to enter set up would not show up on the monitor.  </s>
+<s> although i did hear the cd drive beginning to spin, but eventually just stopped.  </s>
+<s> when running ubuntu without a prior crash, it will still freeze after a prolonged period.  </s>
+<s> more information: only certain combinations of ram make the computer crash.  </s>
+<s> 256 & 256 - crash 256 & 128 - crash 256 - stable 128 & 128 -stable at this point, i'm completely perplexed as to what the problem could be.  </s>
+<s> would cnet users just recommend sticking with the 256 (total) combinations?  </s>
+<s> is this memory &quot;generic&quot; or from a place like crucial.com that will get you the right stuff?  </s>
+<s> bob  </s>
+<s> all of the pieces of memory are made by samsung.  </s>
+<s> since you didn't answer my question here's my new answer.  </s>
+<s> go get some sticks from crucial.com and see if they work.  </s>
+<s> bob  </s>
+<s> 128 and 128 is not working anymore.  </s>
+<s> so i'm back to running my notebook with just one 256.  </s>
+<s> this really does not make sense as i have been running 128 and 128 for nearly 4 years.  </s>
+<s> i was trying to think of all possible causes for this problem and came up with a power or driver related issue?  </s>
+<s> i scanned my computer using driveragent and according to them, these drivers are out of date: display adapter ide ata/atapi controllers 3com 3c920 integrated fast ethernet controller (3c905c-tx compatible) pcmcia adapters universal serial bus controllers as for the power issue, there are two power adapters for my computer (inspiron 2650).  </s>
+<s> one is rated at 3.5a and the other 4.5a in terms of output.  </s>
+<s> input is the same at 1.5a.  </s>
+<s> so, any recommendations at this point?  </s>

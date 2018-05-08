@@ -1,0 +1,17 @@
+<s> i have a question.  </s>
+<s> my building has wireless access via a hotspot from a non-for- profit agency that registered the ssid.  </s>
+<s> an electric block occurred and for a second thursday morning, knocking out the lights and forcing my pc to re boot.  </s>
+<s> after that i havent been able to connect toward the net.  </s>
+<s> my connection tells me its acquiring for an ip address.  </s>
+<s> i tried to put non valid ip's... it showed a connection but the ip addresses wasnt valid given they wasnt from the routers dhcp.  </s>
+<s> given the router for the building isnt within my range so how do i configure this problem?  </s>
+<s> do, i talk to the manager about re booting the router or configuring it so the dhcp can send an ip. how do explain this situation to someone who is a newbie toward all things wireless.  </s>
+<s> remember i dont have access to the router nor the aps.  </s>
+<s> so, im limited in what i can do on my own and trust me, i tried numerous situations.  </s>
+<s> any information is appreciated.  </s>
+<s> make sure you're within range and try opening a command prompt and type, ipconfig /release and hit enter.  </s>
+<s> then type ipconfig /renew and hit enter.  </s>
+<s> thanks for responding sir.  </s>
+<s> i tried ipconfig.  </s>
+<s> didn't work.  </s>
+<s> i think its a matter soley on the router then my setup.  </s>

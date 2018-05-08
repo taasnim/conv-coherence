@@ -1,0 +1,96 @@
+<s> i just bought an external hard drive which is larger and faster than my internal hard drive.  </s>
+<s> i want to take advantage of the additional speed by making my new external hard drive the boot drive where my os (win xp) runs.  </s>
+<s> i have been told that i should make my new external hard drive the internal hard drive and my current internal hd the external drive.  </s>
+<s> what is the best way to do this?  </s>
+<s> should i copy win xp onto my new drive while it is in the external mode, and what about transferring all the all the other software (eg.  </s>
+<s> office/msie, et) so i can run these from the new faster drive.  </s>
+<s> and is there something i need to do in the bios?  </s>
+<s> thanks.  </s>
+<s> if you are asking for help to troubleshoot a computer-related problem, please be sure to include all the necessary information (ie: operating system, model number, hardware, software, etc) that will help others identify your problem for a speedy resolution.  </s>
+<s> more info on hd size and os please.  </s>
+<s> makeing the externial hd the boot is not a good idea. the concept behind an external hd is for backup of data files when your main hd crashes or the os gets wiped out.  </s>
+<s> john  </s>
+<s> there are usually hard drive setup tools located at the manufactures websites that can be used to copy an old hard drive to a new one.  </s>
+<s> i have used both the seagate and maxtor tools and they both do a decent job.  </s>
+<s> some programs don't always transfer completely, especially ones that require some sort of activation (realplayer, microsoft office, etc.).  </s>
+<s> these tools can be run from within windows and there are tutorials for what you want to transfer, i.e. if you just want to transfer all the files from one hard drive to the other, or just certain ones, or if you want to make a copy of the hard drive.  </s>
+<s> the problem with making an external hard drive the boot device comes from the nature of an external drive.  </s>
+<s> their main purpose is to act as a backup for any other drives connected to your computer.  </s>
+<s> it all comes down to how the hard drive is connected to your computer.  </s>
+<s> if its a usb connection, depending on your motherboards capabilities, you may not be able to boot from the external drive.  </s>
+<s> if its a serial connection, its possible but you may have problems in getting the configuration right.  </s>
+<s> i would suggest, if its possible with your new drive, to install it internally (connect it using ide), then you should have no problem.  </s>
+<s> such as powerquest's (now symantec owned) drive copy will do as you wish but it will cost a few $$. it will allow you to resize it's partition to fit a smaller or larger drive (within certain limits).  </s>
+<s> it does not copy file by file but sector by sector, thus, creating a mirror image.  </s>
+<s> xp will recognize the drive as new hardware and reactivation might be needed.  </s>
+<s> the process will require that you physically connect both drives to channels on the mb that are accessible through the bios.  </s>
+<s> so, if these are ide drives, you either connect one to each port or as master/slave.  </s>
+<s> i believe norton ghost can do similar but i have no familiarity with this product.  </s>
+<s> don't move your os around like that cuz ya gona run into problems later.  </s>
+<s> keep your os in the original install drive.  </s>
+<s> if speed is what you want, then try these steps: use a good wiping program (evidence eliminator) to free-up junk files in places where you don't need them.  </s>
+<s> then, defragment your drive.  </s>
+<s> when your done, go to view system information, then click system restore and reduce disk space usage to 10%.  </s>
+<s> then go to my computer/properties/disk cleanup/more options/system restore, and press clean up to remove all but the most recent restore point.  </s>
+<s> next, you should disable any startup services you don't really need (make sure you don't need them).  </s>
+<s> last, go to the system properties area: my computer/view system information/advanced/visual effects, and select adjust for best performance.  </s>
+<s> keep your external drive exactly what it is, an external drive.  </s>
+<s> trust me.  </s>
+<s> i don't recommend this.  </s>
+<s> as said earlier external hard drives are ment to be used for mirrors; backups; and extended library function.  </s>
+<s> i highly recommend you to get a new internal hard drive same configuration; same transfer speed but larger.  </s>
+<s> you can pickup 160 gb hard drives now for less than 100$ you will save yourself a lot of heartache by keeping the boot disk ide.  </s>
+<s> if you go the route of using external hd your computer will have errors and you will have a lot of problems on your hand.  </s>
+<s> also do you have recovery disks or a recovery partition?  </s>
+<s> you especially don't want to go external if you recovery is on the hd.  </s>
+<s> the major thrust for externals, i always thought, was that you could backup all your data and just transfer to another pc when your primary went down.  </s>
+<s> i've lost about 5 hds in the last few years but it never slowed me down much.  </s>
+<s> i have 5 pcs and a laptop, all with usb2.  </s>
+<s> i have 3 externals with some data replicated on all 3, in addition to the internals.  </s>
+<s> i lost an external a while back and decided hds, external and internal, just weren't dependable enough for critical data, unless quite redundant.  </s>
+<s> i thought that's what raid was all about.  </s>
+<s> if your os gets corrupted, you'll need another hd with the os on it anyhow to pull the files off ( unless you're lucky enough to get system restore to really work - mine always look like an ms patch-job, too little, too late ) i always have a formatted hd lying around to reinstall xp pro on for emergencies.  </s>
+<s> anything short of a format seems to leave all sorts of artifacts that ms wants as evidence of your criminal activities.  </s>
+<s> i can always be back on the air in a few hours, with access to most of my apps, although complete reinstall with the thousands of registry entries so dear to the hearts of the lower level programmers takes a full day.  </s>
+<s> i tried that way and was sorry.  </s>
+<s> i have 3 networked computers here now and solved all my problems in this manner: i installed (2) removeable mobile racks in each case and got (2) identical hard drives for each case.i  </s>
+<s> set both drives to cable select.  </s>
+<s> i do a total backup (manually) when ever i want.  </s>
+<s> i use norton ghost which makes an exact mirror image drive of your original that you can just slide into the mobile rack in seconds and be up and running with no problems.  </s>
+<s> i always do a routine first,such as empty browser cache, temp files, delete prefetch files,check disks for errors or spyware and viruses.most of all i run diskeeper as it will defrag the mft that norton or windows defrag will not do.  </s>
+<s> my reason for not scheduling a backup or using &quot;raid&quot; is..i don't want to save &quot;errors or spyware or viruses&quot;.  </s>
+<s> soo,starting out with a &quot;clean&quot; source drive, i manually back it up with norton ghost whem i'm ready from a boot disc and when it's done,slide the backup drive tray out of the mobile rack and put it away.  </s>
+<s> depending on your system, ram,etc...i can back up my 200gb western digital hard drive in about 25 minutes.  </s>
+<s> i heard good things about casper xp also,but have not tried it as norton ghost is doing just what i want it to do.  </s>
+<s> simple as pie and never one problem.  </s>
+<s> has saved my butt many times over.  </s>
+<s> hope this helps.good  </s>
+<s> luck...;&gt;)  </s>
+<s> one should respond to your question with another, and one that cannot really be summarised here!  </s>
+<s> what speed gain do you expect to achieve?  </s>
+<s> as we all know there is more to getting speed out of a computer than a faster hd, processor etc on its own.  </s>
+<s> by changing to the faster hd you may find the speed increase was not worth the effort involved in the changeover.  </s>
+<s> of course the extra storage space is always useful.  </s>
+<s> but if you are not using the current internal drive to its max capacity you may want to consider using the larger external drive for backups, with loads of capacity you have the option to keep 'dated' backups (more than just the current!) if you do want to use the newer drive i suggest you make this the internal drive, (moving the existing eventually as the external).  </s>
+<s> issues: does you bios support the size of the newer drive?  </s>
+<s> do you know about jumper settings?  </s>
+<s> to move win xp you will need to use sysprep as you cannot just 'copy' win xp. (best used with both drives 'in' the pc).  </s>
+<s> if done correctly then everything will (should) work.  </s>
+<s> (in practice i often find passwords for email etc are not migrated even though set to do it, so make sure you know all these before hand).  </s>
+<s> i also suggest you do not use 3rd party software for creating or changing partition sizes as i have found these can create their own challenges when things go wrong.  </s>
+<s> wlays use the drive manufacturers utility or windows.  </s>
+<s> hope this helps you in some way  </s>
+<s> yes, you must swap internal to external.  </s>
+<s> download freeware xxcopy, i've used several times it and works great.  </s>
+<s> instructions to use it included in download readme.  </s>
+<s> i've moved windows, programs & data files several times from drive to drive without having any problem, i've used xxcopy just read instuctions carefully, to avoid problems, mmmm and it's freeeeeee.  </s>
+<s> norton ghost is a good alternative, but it's not free.  </s>
+<s> more, xxcopy clones totally any disk without partition size limitations.  </s>
+<s> thanks for the info on this freeware and the swapping tips.  </s>
+<s> i'll be trying xxcopy after i install my new hard drive and remove the old to an external usb case.  </s>
+<s> i am currently trying to move xp to another larger hard drive and i have already used xxcopy and copied the files over the other hd.  </s>
+<s> i also must mention that i am changing from ide to sata. the only problem is my computer wont reconize my new hd as the c drive.  </s>
+<s> even when i take out my old hd the computer will not boot. is there another step i must take such as using a floppy for something?  </s>
+<s> when we do that you have to either do the xp repair install or if your motherboard supports it, set the sata to emulate ide.  </s>
+<s> you didn't give enough details (see words in red) for me to tell which method is preferred or would be the answer.  </s>
+<s> bob  </s>

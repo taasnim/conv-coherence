@@ -1,0 +1,22 @@
+<s> i have a computer i am trying to fix, and have run across something ive never seen before.  </s>
+<s> according to the customer, she was trying to check to see if a disk was bootable, so for some reason she went into the bios and disabled the hard drive in the boot menu.  </s>
+<s> now, i can get it to start with a bootable cd in it, but not without, as it is not reading the drive.  </s>
+<s> and it will not let me into the bios no matter what i do. is there a quick fix for this?  </s>
+<s> but without a make/model, i can't offer much more than to research that.  </s>
+<s> bob  </s>
+<s> how about a manual reset of the bios by moving the cmos reset jumper or remove the cmos battery for an hour or two.  </s>
+<s> hades3o13: the below method works for a few machines.  </s>
+<s> 1: make an &quot;a&quot; boot disk, one that you can use to boot your machine into the c: prompt 2: at the c: prompt type , debug and the machine shifts into the debug program and presents a - prompt with the blinking cursor.  </s>
+<s> 3: opposite the -, type o (&quot;oh&quot; not zero), a space, then 70 (7+zero), a space, then 2e so that it looks -o 70 2e 4: hit enter to go to a new line with a - and type o (&quot;oh&quot; not zero), space, 71, space 0 (zero), hit enter.  </s>
+<s> 5: a new - shows up, so you type q and hit enter, which dismisses debug and brings back your c:windows prompt.  </s>
+<s> when you look back you have a little typed program that looks like: -o 70 2e -o 71 0 -q norm  </s>
+<s> what it does: the cmos contains the setup of your hardware and also a memory location that contains a password , if you have set it active.  </s>
+<s> (you have written a password in the area).  </s>
+<s> since the password area may be different from bios to bios and different from motherboard to motherboard, it is difficult to access the memory area for that password information, and decipher the binary code listed there.  </s>
+<s> in ami and award and others, when you make a change to the cmos, a check sum is computed, by adding up all the zeros and ones, and that check sum is stored at memory location 2eh.  </s>
+<s> by zeroing out this check sum, a check sum error is created, forcing the cmos to revert to the factory settings.  </s>
+<s> this is just like the cmos battery failing and producing the same error because the stored check sum is forgotten. the program &quot;debug&quot; allows you to write over that 2eh area with a zero one time, just as if you had shorted the jumpers.  </s>
+<s> note that all settings go back to their factory settings, so you should have a written document showing your present settings.  </s>
+<s> note: some of the proprietary cmos code does not stick to this convention and may not work, such as compaq, nec, or older packard bells, but most of the ami and award bios still use this storage location for zeroing out the set bios code, and restoring factory settings just like the jumper shorting does.  </s>
+<s> please remember that you will have to go through your bios settings and manually restore any settings that were used to peak your machine.  </s>
+<s> norm  </s>

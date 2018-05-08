@@ -1,0 +1,20 @@
+<s> i have an e machine desktop thats about 6yrs old.  </s>
+<s> i have an internal seagate 100gb hdd ata 100.  </s>
+<s> so i assum it's a eide or pata.  </s>
+<s> cpu specs: intel celeron d 352, 3.20ghz/533mhz fsb, nvidia 8400 gs 512mb video card, 2gb ram, dvd rom/cd r+w, 10/100 ethernet 512kb l2cache.  </s>
+<s> i had installed a wd 320gb, worked for a while but kept going in and out.  </s>
+<s> i put ubuntu on it and it recogzied the 320gb but couldn't play any our of pc games.  </s>
+<s> i have been looking for a seagate 500gb to put in but can't find one.  </s>
+<s> when i tried to install the wd, it said no hard drive found.  </s>
+<s> so i thought maybe it was a compatibilty issue between manufactuers.  </s>
+<s> anyone have any suggestions.  </s>
+<s> thanks  </s>
+<s> did you learn about drive jumpers and the differences of 40 and 80 conductor cables?  </s>
+<s> i find most folk try to avoid learning such and end up at repair counters.  </s>
+<s> be sure to tell all about these two items and my hint is to use the newer 80 conductor cable next time.  </s>
+<s> bob  </s>
+<s> i tried all the wd jumper setting according to the manual and now my present hdd is on the middle connector of the cable which is gray.  </s>
+<s> my cable does have a red stripe on one side of it.  </s>
+<s> then you would know that on cs and if you can't accept cs then only the slave setting is acceptable on the middle connector on 80 conductor ide.  </s>
+<s> but then again i'm duplicating the web on that.  </s>
+<s> bob  </s>

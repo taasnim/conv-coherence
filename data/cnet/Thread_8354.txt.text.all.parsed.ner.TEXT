@@ -1,0 +1,40 @@
+<s> my laptop connects to the internet via my wireless router using wifi.  </s>
+<s> i have shared that connection via my ethernet port to an 8-port switch, which my desktop computer is plugged into.  </s>
+<s> problem is, the internet stops working on the laptop as soon as the ethernet cable is plugged into the laptop. the internet starts working again as soon as the ethernet cable is unplugged or if the ethernet port is disabled.  </s>
+<s> any ideas why this is happening?  </s>
+<s> i've tried disabling the firewall on all devices but doesn't seem to make any difference.  </s>
+<s> basically i want to distribute internet to the desktop using ics.  </s>
+<s> i'm using xp and i've already tried following the instructions on the ms website.  </s>
+<s> is the problem here.  </s>
+<s> disable it.  </s>
+<s> your router will share the internet connection with all machines.  </s>
+<s> thanks for your post darton fury.  </s>
+<s> if i disable the ics on the laptop, how will the laptop know to share the wireless connection it receives from the router, to the 8-port switch?  </s>
+<s> on non-wireless devices.  </s>
+<s> wirelessly connect your laptop to the router, right?  </s>
+<s> that laptop is not sharing its internet connection. the router shares the internet.  </s>
+<s> the switch plugs into the router.  </s>
+<s> anything plugged into the switch can access the internet.  </s>
+<s> sounds like you want a wireless access point.  </s>
+<s> the problem is i actually have the laptop connected to cingular's 3g broadband connect service via a sierra wireless aircard 875, so it doesn't connect to a conventional wireless router as such.  </s>
+<s> i just used the simpler analogy of connecting to a wireless router so that people could better understand what i'm trying to do.  </s>
+<s> i wondered too about your wireless router.  </s>
+<s> but now you reveal you don't have one.  </s>
+<s> ok, try this article.  </s>
+<s> remember that all this is unsupportable.  </s>
+<s> however if you look up an evdo router that might work fine.  </s>
+<s> bob  </s>
+<s> i had a look at the article and tried googling evdo router but i don't wish to purchase further equipment if possible.  </s>
+<s> if i understand the article correctly, it is showing how to make a 802.11b wireless card act as a wireless router.  </s>
+<s> now that could possibly work, however, i would much prefer the desktop had a wired connection to the 8-port switch and got the internet access from there.  </s>
+<s> i did try installing a wireless usb device to the desktop but for some reason it didn't pick up a wireless network.  </s>
+<s> yet when i installed netstumbler it did detect a strong encrypted wireless network.  </s>
+<s> so if someone can figure out how to fix that then maybe i can make the sierra wireless aircard 875 act as a wireless router work?  </s>
+<s> in and tweak it to your needs. the basics and screens are noted, but you have to tailor it to your setup.  </s>
+<s> good luck, bob  </s>
+<s> ok i'll try doing that.  </s>
+<s> when tailoring it to my needs, do you know whether it is possible to share the internet through the ethernet port or whether it can only be through the wireless card acting as a wireless router (e.g. not through the ethernet port)?  </s>
+<s> i can write i have used a pc as a bridge where the wifi was the link to the internet and the ethernet went to a switch with a few machines.  </s>
+<s> so it can work.  </s>
+<s> just no step by step instructions or support is known to exist for this.  </s>
+<s> bob  </s>

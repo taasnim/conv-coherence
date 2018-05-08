@@ -1,0 +1,19 @@
+<s> hi, i hope someone out there can help me with a problem i am having upgrading my computer with some extra ram. the pc currently has two 512mb sticks and is running a bit slow, so i bought two 1gb sticks to help out.  </s>
+<s> when i put them all in and turned the pc on, the machine seemed to be booting up (lights, fans and what not) but the monitor was staying asleep.  </s>
+<s> i have tried the memory sticks in all manner of different combinations, as well as simply putting one of the new sticks in on its own, but with no luck.  </s>
+<s> i suspected that the new memory must be dodgy, so i tried some memory from another pc which i knwo works, but the same problem occurred... am i overlooking something obvious here? the old memory: 2x 512mb ddr400 ram (both manufactured by crucial) the new memory: 2x 1gb ddr400 ram (both manufactured by samsung) the motherboard: ga-k8n pro-sli hope i've given all the necessary info.  </s>
+<s> any ideas?  </s>
+<s> many thanks in advance soundproof  </s>
+<s> here is the support website for your mtrbd.: though(pc3300/ddr400), in mtrbd.  </s>
+<s> does support 1gb.  </s>
+<s> ram but doesn't offer if high or low densiity types.  </s>
+<s> if you look at your ram modules, see if ram is populated on both sides or one.  </s>
+<s> it just doesn't work, its incompatible for wahtever reason.  </s>
+<s> though you can fiddle with the bios area, use default or tweek it abit, save setting and try again.  </s>
+<s> in that vein, you may need to install older ram even to get into bios, reset, save, then shutdown and install new ram.  </s>
+<s> if none of this works, return ram. then specifically ask for ram that suppose to work in your system.  </s>
+<s> or offer far better offering that are 'suppose' to work in your system.  </s>
+<s> last, you may have handled it wrong and caused 'static', esd damage, ooops, it happens.  </s>
+<s> tada -----willy  </s>
+<s> motherboard ?  </s>
+<s> using the latest bios ??? vapcmd  </s>

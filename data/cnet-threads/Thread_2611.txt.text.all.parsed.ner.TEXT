@@ -1,0 +1,21 @@
+<s> i dont know where this belongs exactly but i figured it went in hardware.  </s>
+<s> this is what im getting while playin america's army.  </s>
+<s> no label os: windows xp 5.1 (build: 2600) cpu: authenticamd pentiumpro-class processor @ 996 mhz with 383mb ram video: nvidia geforce fx 5900xt (5672) general protection fault!  </s>
+<s> history: fsortedindexbuffer::getcontents &lt;- fd3ddynamicindexbuffer::addindices &lt;- fd3drenderinterface::setdynamicindexbuffer &lt;- renderstaticmesh_type2 &lt;- renderstaticmesh &lt;- fdynamicactor::render &lt;- fdynamicactor::render &lt;- renderlevel &lt;- flevelscenenode::render &lt;- fplayerscenenode::render &lt;- ugameengine::draw &lt;- uwindowsviewport::repaint &lt;- uwindowsclient::tick &lt;- clienttick &lt;- ugameengine::tick &lt;- updateworld &lt;- mainloop any ideas?  </s>
+<s> i'll pull the case cover and point a fan at it.  </s>
+<s> better?  </s>
+<s> same?  </s>
+<s> also, at that age pc, the power supply can tire and need a bigger and new unit.  </s>
+<s> bob  </s>
+<s> i already put a power supply in it less than a year ago.  </s>
+<s> what do you mean about fans?  </s>
+<s> even a year old power supply can get tired if you run it at near maximum.  </s>
+<s> a 300 or 350 watt supply could be problematic in a year.  </s>
+<s> as to fans, to sniff out if its a heat issue, the case cover is removed and a small house fan is pointed at the machine.  </s>
+<s> its a simple test.  </s>
+<s> try it.  </s>
+<s> bob  </s>
+<s> whats causing this in the first place?  </s>
+<s> is the video card, processor, or something else?  </s>
+<s> to find this out, you replace each suspect part and see if the problem goes away.  </s>
+<s> bob  </s>

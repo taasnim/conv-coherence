@@ -1,0 +1,25 @@
+<s> i have specialist lab software installed on an old pc running under windows98....working fine, but i've lost the original software cds, so can't reinstall if/when my pc hard drive dies.  </s>
+<s> software connects to lab hardware via a slot-in card, so transfer to a whole new pc may be problematic, but could i make a replacement internal hard drive in case my present one dies, and if so how?  </s>
+<s> any other work arounds? the lab software is no longer available (10 years old) even from the software originator (i asked).  </s>
+<s> i'm not even clear as to whether i can now buy any software that'll talk to my lab hardware correctly.  </s>
+<s> help!  </s>
+<s> you can use cloning software such as acronis true image, which is my choice but others are available like ghost and others, just google for it.  </s>
+<s> there are also free versions available, but not sure if they are for private use only.  </s>
+<s> acronis allows you to make an image of the drive, which you can then burn to dvd for long term storage, i would burn 3 copies and keep them in seperate places.  </s>
+<s> you can then use the acronis boot disk to restore the image to any new drive using part or all of the drive depending on the size of your used space on the current drive.  </s>
+<s> i would purchase anew drive now and do the backup and transfer to the new drive (disconnect the old one first) to make sure all is working before you have any problems if it's so critical.  </s>
+<s> you can then disconnect the new drive leaving it sitting there till needed.  </s>
+<s> make sure to keep backups of your data.  </s>
+<s> but could i make a replacement internal hard drive in case my present one dies.....yes ------------------------ if so how?  </s>
+<s> buy a new hd...retail version.  </s>
+<s> it should come with a disk&gt;disk copy util.  </s>
+<s> install new hd as slave.  </s>
+<s> copy master&gt;slave.  </s>
+<s> remove slave and set it on the shelf.  </s>
+<s> if/when the master dies.  </s>
+<s> remove master....install new hd as master...boot it up.  </s>
+<s> -------------- another way....image.  </s>
+<s> i have a spare hd on the shelf.  </s>
+<s> i image my system to optical media monthly.  </s>
+<s> if my hd dies i'm looking at maybe 30 mins of recovery time.  </s>
+<s> yes i might lose 30 days of data....but i'm not a business user...so that's ok.  </s>

@@ -1,0 +1,27 @@
+<s> hi there, i have a laptop (win xp sp3) which connects to the internet via wireless connection.  </s>
+<s> configuration is as follows: laptop connects to ap1 (wireless) ap1 connects to ap2 (ethernet cable) ap2 connects to ap3 (wireless)(ap3 is somewhere in the neighbourhood, i dont know where) some of the aps or all of them may work as bridges, i dont know since i do not have access to their interfaces.  </s>
+<s> i have a desktop, which is connected to my laptop with a crossover ethernet cable.  </s>
+<s> wireless connection details: ip: 192.168.1.72 mask: 255.255.0.0 gateway: 192.168.3.2 dns: 192.168.3.2 lan details: laptop's ip: 10.10.10.1 desktop's ip: 10.10.10.2 mask: 255.255.255.0 i want to share the laptop's internet connection with my desktop.  </s>
+<s> tried ics, bridging, etc. but nothing seems to be working.  </s>
+<s> how do i do that?  </s>
+<s> any ideas?  </s>
+<s> so while i can offer ideas, no one is there to fix it for us.  </s>
+<s> having said that... be sure to use traceroute on the host (xp) machine to see if there is a 10.10.10.x or 10.x.x.x in the route.  </s>
+<s> this could cause your nat (ics) to fail.  </s>
+<s> fix?  </s>
+<s> use that other 168.x.x.x private ip range for ics.  </s>
+<s> also, many are firewalling beyond reason and while you are setting up you must have a firm grasp on the firewall.  </s>
+<s> for my testing i often turn it off and if it's a third party firewall i often find they break ics so i uninstall it.  </s>
+<s> bob  </s>
+<s> thank you, the firewall was causing this trouble.  </s>
+<s> is that something you've rules out?  </s>
+<s> internet sharing of this type is tricky, quirky and can negatively affect the internet performance of both.  </s>
+<s> ics uses a specific network address scheme for host and client pcs.  </s>
+<s> try to better define the hardware that is in your home.  </s>
+<s> you said ap 1, 2 and 3 but the connection layout doesn't sound right.  </s>
+<s> might this be some sort of wireless subscriber network that's available in your neighborhood that would cost you more if you connect more than one device?  </s>
+<s> that the usual was found and conquered.  </s>
+<s> bob  </s>
+<s> my desktop computer has actually a wireless adapter.  </s>
+<s> however, as you wrote, i would have to pay more if i wanted my desktop to connect wirelessly to the same ap.  </s>
+<s> i know that this is not the best solution, but its free  </s>

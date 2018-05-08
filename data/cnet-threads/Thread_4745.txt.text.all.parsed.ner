@@ -1,0 +1,7 @@
+(TOP (NP (NNP hp) (JJ netbook-no) (NN disc) (NN drive)) )
+(TOP (FRAG (SBAR (IN that) (S (NP (PRP you)) (VP (VBP get) (NP (DT the) (NN disc) (NN drive)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VP (AUX need) (S (VP (TO to) (VP (VB reinstall) (NP (DT the) (NN os)))))) (CC and) (VP (AUX have) (NP (DT no) (JJ other) (NN choice))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX 'm) (ADJP (JJ unsure)) (SBAR (WHADVP (WRB why)) (S (NP (NN folk)) (VP (VBP try) (S (VP (TO to) (VP (VB work) (PP (IN on) (NP (JJ such))) (PP (IN with) (IN out) (NP (DT the) (NNS tools)))))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (VP (AUX is) (ADVP (RB often)) (NP (NP (DT the) (NN cause)) (PP (IN of) (NP (DT this) (NN problem))))) (. .)) )
+(TOP (S (NP (JJ antivirus) (NN program)) (ADVP (RB mainly)) (VP (PP (IN in) (NP (NP (PRP$ my) (FW experience.)) (PRN (-LRB- -LRB-) (NP (NN caution)) (-RRB- -RRB-)))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP delete) (NP (PRP you)) (NP (NP (JJ antivirus) (NN program)) (SBAR (S (VP (TO to) (VP (VB get) (PP (IN on) (NP (NP (NN line)) (PP (IN then) (NP (NP (DT the) (JJ first) (NN thing)) (SBAR (S (NP (PRP you)) (VP (MD must) (VP (AUX do) (SBAR (S (VP (AUX is) (RB download) (NP (DT a) (JJ different) (CD one)) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (ADJP (JJ compatible) (PP (IN with) (NP (PRP you) (ADJP (NNP wireless) (JJ isp)) (NN server))))))))))))))))))))))))))) (. .)) )
+(TOP (S (VP (VP (VB call)) (CC and) (VP (VB ask) (NP (PRP them)))) (. !)) )

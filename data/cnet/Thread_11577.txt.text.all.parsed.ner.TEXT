@@ -1,0 +1,21 @@
+<s> the other day i was toying around with my computer (an hp pavilion p6310y desktop with an ati radeon hd 5760 and a tt tr2 rx 750w power supply added) i decided to get my second monitor working which hadn't been working for a while (due to out of date drivers).  </s>
+<s> i updated my drivers and got the screen up and running and decided to experiment with some other features of the new amd vision control center.  </s>
+<s> when i came across the overdrive section i had a general idea of what overclocking was and that it was dangerous but i figured using the &quot;auto tune&quot; feature i would be fine.  </s>
+<s> now i'm thinking, differently.  </s>
+<s> i ran the auto tune and it set my card up to 775mhz (gpu clock) and 1000mhz (memory clock).  </s>
+<s> there were no issues or peculiarities but just out of timidness i decided to disable overdrive and stay on the safe side (thus, turning off overclocking). the next day (today) i decided to play some dirt 3, and at the peak of my race (and therefore when my card was most likely being pushed) the computer randomly shutdown.  </s>
+<s> upon booting it up i got a messege somewhere along the lines of &quot;this computer has shut down to prevent damage due to excessive environmental heat.  </s>
+<s> service immediately&quot; then it started up fine.  </s>
+<s> i decided to start up the game again, same issue (about 5 minutes in) the next time i restarted i decided to check overdrive settings to assure it was turned off, it was turned off and the cpu temp was up to 71 degrees c. i'm now continuously having this issue even when not stressing my gpu with games (ie browsing the internet, typing in notepad, etc.) i'm worried i've done some permanent damage to my gpu and apologize for the extremely lengthy explanation.  </s>
+<s> id rather explain it all now than leaving a bunch of unanswered questions.  </s>
+<s> any insight would be fantastic!  </s>
+<s> it's probably more of an coincidence that the oc'ing and now the warning are popping up.  </s>
+<s> i would just clear it all up by checking the defaults are truly set.  </s>
+<s> you can use the &quot;restore feature&quot; of your os to return to a day before it all changed with updates, etc.. once that is done, then check the overall operation for some time and then update if necessary again.  </s>
+<s> your experience is why its best to do one step/item at a time rather more too closely as then you'll doubt what's happened or confronted by possible multiple areas to check.  </s>
+<s> tada -----willy  </s>
+<s> try reinstalling overclock utility and reset all settings to default in ccc, reboot full  </s>
+<s> yeah its doing it alot less lately, is it possible that it could have actualy been that it was too hot outside?  </s>
+<s> unfortunately i dont have a restore point recent enough to be logical, but ill be sure to set that to automaticly update those for now on and rollingback/reinstalling my drivers will hopefully clear it up for good.  </s>
+<s> its certainly nice to have some outsidehelp.  </s>
+<s> thanks guys!  </s>

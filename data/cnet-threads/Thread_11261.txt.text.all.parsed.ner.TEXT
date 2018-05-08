@@ -1,0 +1,19 @@
+<s> here goes: in the boot screen there is that &quot;memory dual channel interleaved&quot; and bellow that there are 4 channels where some coding is written next to them or simply the word &quot;none&quot;.  </s>
+<s> now there is the thing some times when i turn on the pc, one or more of these channels have nothing written next to them, they are completely empty fields and then the booting stucks there until i turn off the pc (force restart button doesn't work either when that happens so i have to keep the power button pressed on until the system passes out). the restart usually doesn't fix the problem so once while experimenting i tried to unplug and plug again the wires connecting the motherboard with the other parts, or plug them on different slots.  </s>
+<s> its a dumb technique i know but it seems to work for some time (god knows why i really can't understand how it works but it does, my friends don't even believe me!!) but unfortunately the incident happens over and over every 2 weeks or so and i have to go through it again.  </s>
+<s> anyway i'm planing to replace my old ati 5570 with a gtx 660 which i can barely afford and i don't want to risk burning the card if my system is malfunctioning.  </s>
+<s> anybody experienced anything similar so far and came up with a solution?  </s>
+<s> if yes please let me know if there are any parts i should replace and have my system working properly again (low cost solutions please i don't want to buy an entirely new pc).  </s>
+<s> my pc specs are: cpu: intel core 2 quad q8300 motherboard: gigabyte g41mt-d3v graphics: ati radeon 5570 2 gb ram:4.00 gb dual-channel ddr3 @ 533mhz (8-8-8-20) ps: sorry if my english are not good enough i tried my best.  </s>
+<s> remove and reinstall each ram stick.  </s>
+<s> make sure their nice and firmly seated......test.  </s>
+<s> maybe grab a copy of memtest.......use goggle.  </s>
+<s> let it fly for 10/12 hrs.  </s>
+<s> the odd start issues are traced to the usual items.  </s>
+<s> i'll let you do more research on the first with google.  </s>
+<s> 1. bad caps.  </s>
+<s> 2. if it worked before (you didn't tell) then my first thought is an old psu or item 1. but to fix this we pop in a new motherboard.  </s>
+<s> there are some owners that want it to be software but at boot time, windows and drivers are not loaded so it's not software.  </s>
+<s> if something tinkered with the bios that's easy too.  </s>
+<s> load the defaults and try again but the age of the board and system tells me it's item 1, psu or just old gear.  </s>
+<s> bob  </s>

@@ -1,0 +1,115 @@
+<s> hi to you all, question has probably been asked a few times now but being a newbie novice let me ask again... currently have p4m900t-m2 motherboard running with a intel pentium dual cpu e220 @2.4ghz nvidia geforce 8600 gt running on windows 7 ultimate i know its old (like me) but dont really use the pc for gaming just day to day surfing and occasional streaming of music and film.. and to be honest its becoming a bit slow now.. my question is thus, what cpu upgrade would you recommend for our machine to make it go faster and be more responsive ?? dont really want to spend much or replace alot.. even used would surfice if it did the job.... if you require any further info please ask and i'll try to find it !! you help, advice and guidance would be gratefully received.. many thanks  </s>
+<s> are you sure a cpu upgrade is the best thing to do?  </s>
+<s> an alternative is adding ram.  </s>
+<s> it's not sure which one is better.  </s>
+<s> and there's always the option to start all over with the same hardware by a system recovery, going back to factory conditions.  </s>
+<s> then it's just as fast as it was when it was new.  </s>
+<s> really.  </s>
+<s> then do all windows updates, install the programs you still use, get back all your personal data from your backup and enjoy!  </s>
+<s> only if it's still slow then, new hardware is a necessity.  </s>
+<s> kees  </s>
+<s> your specs are: it shows it wide open for cpu upgrades, you need to decide which one you want.  </s>
+<s> i suggest e6600.  </s>
+<s> that way it replaces wit h a more powerful cpu.  </s>
+<s> however, you can still find a &quot;e&quot; c lass that more faster, just visit the intel support website and locate the e-class cpu and pick from the list.  </s>
+<s> you'll want one that uses the lga-775 socket so that is the clue besides the speed.  </s>
+<s> i also suggest you do a bios update in order to allow the full spectum of cpu upgrades allowable.  </s>
+<s> in this case, it seems you're good to go in quick swaqp and drop of the cpu. the nest suggestion is to increase the aramm amount in oder to better the overall handling of the system.  </s>
+<s> that is as far as i would go.  </s>
+<s> take it further than that.  </s>
+<s> tada ------willy  </s>
+<s> if you really want to go that route.  </s>
+<s> here's the cpu support list for that mobo.  </s>
+<s> i suspect that's going to be e-bay type stuff so i'll let you do the shopping.  </s>
+<s> suggestion.  </s>
+<s> install 4gb of ram........seems to be the max for that mobo.  </s>
+<s> be malware free.  </s>
+<s> keep background stuff to a minimum.  </s>
+<s> hi, thanks for the info.. would you say the e6600 was the best one to go with then ?? i looked at the list and to be honest dont know what im looking at, just a jumble of numbers to me !!! i take it you mean to do a bios update after the new chip is put in ?  </s>
+<s> ta  </s>
+<s> hi, thanks for your reply.. will any ddr2 sdram do ?  </s>
+<s> just had a quick search for 2g ddr2 sdram pc2-6400 and there are thousands.. is there a particular one i should be looking for or are they pretty much generic ?  </s>
+<s> as my part number (ocz2v8002g) seems to be discontinued ta  </s>
+<s> the max supported speed for that mobo is pc2-5300.  </s>
+<s> that mobo has 2 ram slots.  </s>
+<s> each slot has a max of 2gb.  </s>
+<s> look here.  </s>
+<s> cpu. if the system with the old bios doesn't recognize the new cpu, you'd have to reinstall the old cpu to do the bios updates.  </s>
+<s> best to avoid going thru that.  </s>
+<s> vapcmd  </s>
+<s> it looks like.....based on the cpu support list. the e6600/6700 will be your best fit.  </s>
+<s> the machine has the latest bios since it sees the e2200.  </s>
+<s> don't fuss with that bios unless you have to...........you can turn the machine into a brick.  </s>
+<s> thought someone was indicating the bios had to be flashed to the latest version to recognize the e6600.  </s>
+<s> if that's not the case .  </s>
+<s> . .  </s>
+<s> no need for the bios flash/update.  </s>
+<s> was only trying help with 'updating the bios before or after installing the new cpu' and definitely it's better to do it before before (if required) than after.  </s>
+<s> vapcmd  </s>
+<s> bios update, you need to check and verify what the current bios level is and compare to what the latest one is.  </s>
+<s> that way, you see if there is a huge gap, you will need to update.  </s>
+<s> while any bios update can potentially make your pc a brick, it will also if properly done, provide the greatest latitude of cpu to install.  </s>
+<s> bios updates were released just for that purpose besides any other glitches or corrections they did.  </s>
+<s> of course, you can buy the cpu and install and take it from there.  </s>
+<s> however, if you get some cpu that &quot;suppose to work&quot; and doesn't generally speaking the bios update will more than likely correct that.  </s>
+<s> in that case, you have to remove the new cpu return the old one and then bios update and when completed then install the new cpu. it would help that the support website provide what a bios update corrects or adds to the bios, but too often that is negated or very sparse.  </s>
+<s> bios update: adds more cpus to recognize, handle ram better, correct glitches, mtrbd.  </s>
+<s> options increased/eased among other things.  </s>
+<s> if all this is greek to you, then allow someone locally to explain it all.  </s>
+<s> i can only point you in the right direction and then you decide.  </s>
+<s> i refrain from providing pc 101 courses.  </s>
+<s> tada -----willy  </s>
+<s> hi, thanks for the reply you say to use pc2-5300 but the one i have in at the moment is a pc2-6400 (2gb) i just thought to use the same one i already have.. what is the difference between two ?  </s>
+<s> what difference would it make ?  </s>
+<s> can i mix one with the other ?  </s>
+<s> which is better ?  </s>
+<s> sorry for being a pain ta  </s>
+<s> thank you for your replies, would it make any difference buying a used cpu ?  </s>
+<s> and would this make any difference to the bios ?  </s>
+<s> ta  </s>
+<s> what is the difference between two ?  </s>
+<s> speed if the mobo supports it.  </s>
+<s> --------------- what difference would it make ?  </s>
+<s> for your mobo.... none.  </s>
+<s> ----------------- can i mix one with the other ?  </s>
+<s> in theory...yes.  </s>
+<s> ---------------- which is better ?  </s>
+<s> for your mobo.....equal.  </s>
+<s> ------------- what's happening is..........your mobo is running the 6400 ram at 5300 speed.  </s>
+<s> that's as fast as the mobo can go.  </s>
+<s> if you want to install another stick of 6400 it should work........just at 5300 speed.  </s>
+<s> would it make any difference buying a used cpu ?  </s>
+<s> as long as it functions.......no ------------- and would this make any difference to the bios ?  </s>
+<s> no.  </s>
+<s> thank you for your reply, just had a look at my current cpu and it just appears to be glued/soldered on.. mine does not have a cage/bracket around it ... so how do you remove it ?? any special tools or soldering required ?  </s>
+<s> or is it just a case of prising it off and swapping with new one ?? thank you once again ta  </s>
+<s> read my earlier post, google for examples.  </s>
+<s> no! unsoldering or similar.  </s>
+<s> -----willy  </s>
+<s> hi, sorry dont understand.. tried googling for examples but could find no answers to my questions.. just had a look at my current cpu and it just appears to be glued/soldered on.. mine does not have a cage/bracket around it ... so how do you remove it ?? any special tools or soldering required ?  </s>
+<s> or is it just a case of prising it off and swapping with new one ?? thanks  </s>
+<s> i find folk new to this struggle the first time as we must remove the heatsink+fan unit then flip open a latch and well the usual.  </s>
+<s> sometimes the new to this owner forgets heatsink compound and ends up with a dead pc. -&gt; are you sure this is a good upgrade?  </s>
+<s> we know that for games, it's not the cpu that matters.  </s>
+<s> bob  </s>
+<s> you have me worried as i don't suspect to see what you see.  </s>
+<s> i understand the cpu maybe stuck and that's because the heatsink compound has apparently adheared too well.  </s>
+<s> this should have been done after some use of the pc, then try to remove the cpu as the heat itself will lessen the adhesion of cpu to heatsink.  </s>
+<s> your mtrbd.  </s>
+<s> has a small socket cage and the cpu better remain inside and not stuck to the heatsink.  </s>
+<s> there is also a fan mounting cage which should allow you unmount, by unscrewing it.  </s>
+<s> then you see the cpu mounted on socket.  </s>
+<s> if you can, provide some pix, place some on a public viewing like photobucket.  </s>
+<s> so, a real picture of your dealing with sorta thing.  </s>
+<s> if in some way the actual cpu is shown, it must be removed by pulling-up with deft care and esd(static wrist band) being used in order to prevent static discharge damage.  </s>
+<s> here is the mtrbd.  </s>
+<s> showing no cpu and empty socket from support website.  </s>
+<s> there is no mounting setup for the fan shown.  </s>
+<s> that comes later as part of the fan/heatsink install which has to be removed, you view what the cpu.  </s>
+<s> good luck ------willy  </s>
+<s> hi, was looking in the wrong place for the cpu thats why i got confused !!! have ordered an e6700 cpu and an extra 2gb of ram as suggested will let you know when it arrives.. anyway now after tinkering with it my pc will not go to sleep !!! i have checked device manager everything is disabled to wake it.  </s>
+<s> checked power options everything seems fine.  </s>
+<s> disconnected everything from the pc and still wont sleep.. before tinkering it would turn off(sleep) after 10 mins but now after 10 mins the light just keeps blinking but it wont turn off.. any ideas ?? ta  </s>
+<s> would blink for sleep mode and turn off if i used hibernate.  </s>
+<s> maybe we need to check the manual on this but thought i'd add this.  </s>
+<s> bob  </s>

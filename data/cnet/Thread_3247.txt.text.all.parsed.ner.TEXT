@@ -1,0 +1,36 @@
+<s> currently i'm using a cable modem, a linksys befsr 41 router... if i want to add a wireless access point, should i get the one with a router capability or just the wireless access point i.e. linksys wap55ag or wrt55ag does befsr41 sufficient enough to act as a firewall ---for home user---?  </s>
+<s> or should i install firewall software on every pc? thank you  </s>
+<s> given the word airsnort at i think you better defend your lan internally as well as externally.  </s>
+<s> bob  </s>
+<s> the wap should work fine with the router.  </s>
+<s> you do have to run a cable to it from the router, so that may be an issue.  </s>
+<s> if you are far enough away from any neighbors wireless connection, security is less of a concern.  </s>
+<s> the firewall provided by the router is no more then nat, which to the more security conscious users is no protection.  </s>
+<s> but firewalls can interfere with network sharing if not set up properly.  </s>
+<s> it help me decide what to get in this case, i'll try the 'wap55ag' for now i can ignore the individual who use airsnort etc. i have more concern about the people within range, without tools like airsnort etc. do they be able to access my pc and/or use my cable internet connection?  </s>
+<s> note: on my laptop, when i enable wireless connection, it will detect 2 (sometimes 3) available connection, but when i connect to one of them, i can not use it (can not do or see anything, such as browsing the internet or seeing their pc etc. .. it just say connected with the signal strength bar) is that a default setting for wireless connection or they have some special protection?  </s>
+<s> i think i have to try it to know better... before asking to many question so i'll be back in couple of weeks with a new question.  </s>
+<s> anyway thanks again...  </s>
+<s> try channels 1, 6 or the last one.  </s>
+<s> as to airsnort, i coming to get you.  </s>
+<s> bob  </s>
+<s> thank you for the tip... i welcome you to my home.. and i'll ask you to help setting up my wifi-lan .. lol in my place where i live.. personal cable connection is only 64k for every frequency blade .. when downloading something it only get under 10kbps, and not to many people use wifi in the road... they rather go a club or mall than doing wifi hunting .. atleast for now.. its ain't worthy to do warjacking(?) .. that is why my first priority is making the connection, then security.. i'll be back later with more question, when i get my accesspoint... see you later.. thank you again..  </s>
+<s> just checking.  </s>
+<s> your response is a little odd.  </s>
+<s> i offered my best advice and you either didn't understand it or just don't want it.  </s>
+<s> as to warjacking, it could get a neighbor upset if you cost them time or money, so changing the wap's rf channel is a great idea.  </s>
+<s> or am i mis-reading you?  </s>
+<s> bob  </s>
+<s> in my confusion and worrying on planning of using wifi, i might said something odd.. i know you gave me a good advices and tips ... that is why i welcome you to my home.  </s>
+<s> and i'm not kidding about the connection and wifi user in my country... that is why my first concern is to get my wifi lan connection works, then setting the security.  </s>
+<s> anyway please apologize for my mistake and misunderstanding, if there is still any... thanks again for your reminder on the important of security.  </s>
+<s> when i noted that you would see other people's wifi lans, that was a clue that you need to change your wifi lans rf channel.  </s>
+<s> your response was something about the cable modem channels... i offer this as a nugget that it is.  </s>
+<s> by using a less crowded wifi rf channel 1, 6 or that last number, you will get better performance.  </s>
+<s> i think your response was because you haven't done this yet or often enough or you don't have your own wap?  </s>
+<s> that's a little unclear.  </s>
+<s> but i want to you to succeed and of course, be safe.  </s>
+<s> bob  </s>
+<s> about the wifi channel .. of course i'll change it if necessary.. i see 2 or more available hotspot, when i use and turn on the wifi on my friend new laptop, which i help him, a litle here and there, during installation and setting.  </s>
+<s> as for me.. i didn't have wifi capable device or wifi access point ... i'll get it in the next couple of weeks.  </s>
+<s> thank you for your help and understanding...  </s>

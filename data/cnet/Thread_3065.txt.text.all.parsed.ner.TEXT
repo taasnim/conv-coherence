@@ -1,0 +1,159 @@
+<s> i'm trying to 'fix' an old clunker for a friend and although i have improved it somewhat, it is still the slowest piece of junk i've ever seen.  </s>
+<s> i've done several things to improve performance but might be out of luck with anything further. the computer was like this when i started: 5-6 yr. old system by daewoo: amd duron 1.3 with windows xp home installed.  </s>
+<s> (no service packs) 40gig hd, 5400rpm, jumpered as cable select, ata100, ntfs format, no partitions.  </s>
+<s> 96 mb ram (according to belarc) - supposed to be 128mb.  </s>
+<s> onboard audio, video, lan.  </s>
+<s> three pounds of dust and junk inside the case. the computer had 'failed' and the owner took it to one of the locals who replaced the motherboard with a via technologies, inc., km266apro-835.  </s>
+<s> he got the system back, but could not get online again (dsl), so asked if i could re-install xp for him.  </s>
+<s> since he forgot to bring the xp disk with him and was going to be out of town for a week, i took a look at this slow-moving, overloaded clunker.  </s>
+<s> it is painfully slow to load the system and once loaded, each task is extremely slow.  </s>
+<s> opening a folder sometimes shows that flashlight icon, searching.  </s>
+<s> once screens are opened, closing them results in them closing top to bottom, not all at once.  </s>
+<s> double clicks are slow to respond.  </s>
+<s> overall, i think the system is really underpowered and not adequately equipped to handle xp. a slow hard drive and a barely minimal amount of memory are the prime culprits here.  </s>
+<s> but, i tried to speed it up anyway.  </s>
+<s> as far as i remember, this is what i've done so far: cleared system of all junk files, tmp, bak, etc. partitioned disk to c and d. c holding the os and programs only.  </s>
+<s> d for data only.  </s>
+<s> ran error-checking and defrag on both partitions.  </s>
+<s> dma checked.  </s>
+<s> (thanks, bob) reads udma 5. upgraded windows to sp2.  </s>
+<s> installed an ethernet card and got online, using my service.  </s>
+<s> downloaded new versions of avg, ad-aware and spybot s&e and ran them all.  </s>
+<s> found about 15 malwares.  </s>
+<s> ran online scan with trend-micro.  </s>
+<s> found one low-level malware.  </s>
+<s> installed powertools and increased speed of menu opening, etc. minor tweaks.  </s>
+<s> ran memtest for quite awhile - no errors.  </s>
+<s> checked bios settings.  </s>
+<s> look okay, not being familiar with this board.  </s>
+<s> nothing 'jumped out' at me.  </s>
+<s> and, it's still running slowly!  </s>
+<s> i may have forgotten other things i've tried, but i've got two more days to play with this so i'm open to any suggestions.  </s>
+<s> is inadequate ram.  </s>
+<s> 96 meg just won't cut it.  </s>
+<s> if it's supposed to be 128 one of the sticks is not seen by the system.  </s>
+<s> but even that is too low for xp.  </s>
+<s> ...when my friend had the board replaced.  </s>
+<s> there is only a single stick in the board at present.  </s>
+<s> my only drawback here is that i never saw how the system performed before all of this.  </s>
+<s> the machine has 128mb of ram. the on-board vid uses 48mb.  </s>
+<s> 128 minus 48 equals 96. won't work very well for xp. even if you stripped out every possible unneeded task/process..it'll be slow.  </s>
+<s> did you load the mobo drivers?  </s>
+<s> ...the mb drivers.  </s>
+<s> i didn't get any disks for this.  </s>
+<s> i'm not used to messing with either amd processors nor ntfs, so i'm winging it.  </s>
+<s> where would i be able to download mb drivers for this thing?  </s>
+<s> i'd revisit that setting in the bios about how much ram to give the video display.  </s>
+<s> i've cut such settings to the lowest number possible since this machine is not a gaming rig so even 4 meg is plenty for the video display.  </s>
+<s> this box needs every scrap of ram it can find so this could be a free boost.  </s>
+<s> bob  </s>
+<s> checked the bios and can't see anywhere to allot video.  </s>
+<s> not many choices in this phoenix bios.  </s>
+<s> can't see anything in control panel/display either.  </s>
+<s> and a further smack in the face, windows advises me i have to register again.  </s>
+<s> probably because of the additional ethernet card.  </s>
+<s> love this!  </s>
+<s> i too suggest lots of ram.  </s>
+<s> add a 256 or better yet two of them.  </s>
+<s> when it's up and running hit the ol ctrl+alt+del and check task manager under performance tab / pf usage.  </s>
+<s> see how much it uses, if it's over 96mb then your using the hard disc as ram.  </s>
+<s> you can trim it down by running msconfig and disabling stuff from the startup tab but i doubt you'll trim it down to stay under 96mb.  </s>
+<s> heck i'm using 282mb with just firefox, yahoo messenger, avg, and a couple other small programs runnin but then again i have 1gb of ram.  </s>
+<s> i don't see the point in partitioning the hard drive?  </s>
+<s> if you trimmed the c which contains the os down too small it doesn't leave much room for the pf usage thus really making the system crawl or possibly lockup!  </s>
+<s> my experience is xp and ntfs like big hard drives.  </s>
+<s> you won't get fraggmented quite so much unlike with smaller ones.  </s>
+<s> also i have yet to use a amd duron but i'd suggest a processor upgrade to an athlon.  </s>
+<s> you can probably find a 950~1.2ghz for cheap on ebay or if i'm guessing the motherboard right possibly up to a athlon xp with 266fsb maybe even 333mhz? the l2 on a duron is a mere 64k vs a athlon 256k and a athlon with barton core @ 512k.  </s>
+<s> also does the motherboard take ddr ram?  </s>
+<s> if so circuit city has a mir deal on a 512mb stick.  </s>
+<s> all else fails at least add ram and possibly reinstall windows.  </s>
+<s> but remember if it's not a oem or retail disk then your probably askin for trouble.  </s>
+<s> also you may have to call m$ seeing how they changed the mobo.  </s>
+<s> i had a 1.3ghz athlon with 512mb/ddr 20 gig hard drive that was quite fast with xp, not much of a multitasker or workhorse but surfed the net and other general use quite fine.  </s>
+<s> 1. i'm a linux person so i'd recommend replacing a high-resource hog like windows altogether.  </s>
+<s> linux will run on the smell of an oily rag and will usually outperform windows on the same machine.  </s>
+<s> 2. your machine has computer asthma.  </s>
+<s> for either staying with windows or trying linux, go and buy a 256meg stick of memory.  </s>
+<s> if that helps and you and you think it's worth it, buy another stick and put that in as well.  </s>
+<s> ps, at the risk of starting a &quot;try this&quot; thread, i'd recommend using ubuntu as the linux system.  </s>
+<s> if you're not sure about linux, you can run it as a 'live cd' which means you can keep your windows system but boot off the cd and see what linux looks like.  </s>
+<s> ubuntu isn't the only linux live cd option out there but it is one of the easiest for a windows user to quickly assess.  </s>
+<s> i have a network of nine computers at home, 5 of them use windows, the others use linux.  </s>
+<s> one of my greatest pleasures is getting old clunkers to run like new again by running them on linux.  </s>
+<s> this system is woefully underpowered for xp, but it should be a bit faster than what you are describing. the 48mg of missing memory is an attention getter, but it may be the video reserve making the difference.  </s>
+<s> if you have any extra compatible memory, even in a different system, use it to temporarily check out this possible issue by installing it in the same slot now occupied and seeing what is reported.  </s>
+<s> then move it to the adjacent slot and check again.  </s>
+<s> do the same with the old memory and compare.  </s>
+<s> this will tell you if you have a bad memory stick or a bad slot.  </s>
+<s> i believe that belarc reports all system memory and where it is installed.  </s>
+<s> also make sure that the hard drive is not on the same ide ribbon as any optical drive. the ide channel will adjust itself to the slowest hardware on the ribbon, matching the hard drive to the (probably 33) speed of the optical drive.  </s>
+<s> when you are using the page file at the rate that this system does you can really bottleneck things this way.  </s>
+<s> this is something often overlooked, or not known, to someone doing upgrading or adding a second optical drive.  </s>
+<s> many think that transfer is faster if both optical and hard drive are on the same ribbon, missing the synchronization issue.  </s>
+<s> this system obviously needs to be pared down to the bare essentials for running processes at any time.  </s>
+<s> things like smartcard and ups are probably not needed.  </s>
+<s> look over the processes for any fluff and set to manual or disable.  </s>
+<s> you can also apply a simple tweak to speed up the file search time.  </s>
+<s> from the start menu click &quot;run&quot;.  </s>
+<s> type &quot;cmd&quot; and hit enter.  </s>
+<s> type &quot;net stop stisvc&quot; to stop the process.  </s>
+<s> then type &quot;sc config stisvc start= disabled&quot; to disable it at startup.  </s>
+<s> (type them exactly as shown here without the &quot;.) reboot and check for any improvement.  </s>
+<s> to not run sp2.  </s>
+<s> i had much more luck and speed with sp1.  </s>
+<s> also, do not update and with the unit i use only ms office, and 3 additional programs.  </s>
+<s> i clear all temp files weekly .  </s>
+<s> good luck  </s>
+<s> i thought 128 minus 48 equaled 80 my old 5 year old computer had 32 on-board vid 128 minus 32 equals 96 doesn't matter reguardless  </s>
+<s> works great, unless you absolutely need windows.  </s>
+<s> i'm running linux on a pentium pro 200 with 96 mb of ram.  </s>
+<s> in fact, there are multiple linux versions that run from the cdrom drive or load entirely into memory.  </s>
+<s> on 96 megabytes of system memory, you can run puppy linux, dsl (damn small linux), or virtually any other &quot;featherweight&quot; distributions.  </s>
+<s> xubuntu and zenwalk use a little too much memory to work, unfortunately, but if you can bring it up to at least 192 megabytes of ram you'll be able to run either of these systems.  </s>
+<s> they will give your friend a much much better experience than the featherweight distributions.  </s>
+<s> note: if you decide to do the latter and use zenwalk, make sure you download the full version, not the core; and if you decide to use xubuntu you should download the alternate install disc (not the desktop cd).  </s>
+<s> i'm stumped.  </s>
+<s> thanks for all the suggestions but this thing still chugs along.  </s>
+<s> even trying to open a folder is a chore. the only other thing i could try is a complete re-install but don't have any of his disks right now.  </s>
+<s> we'll see if he wants to try that.  </s>
+<s> i just want rid of it!  </s>
+<s> hello, like others have said, you need more ram, fact.  </s>
+<s> i just have to say why not try linux?  </s>
+<s> you can use one of the many live versions out there to see how it runs or if it will.  </s>
+<s> have a old and mean old gateway 433c with only a 10 g hd but am running 256 mem.  </s>
+<s> tried linux xp on it finaly installed fedora core 4 on it.  </s>
+<s> linux knoppix 3.7 live cd is the one that runs good on it.  </s>
+<s> am a win.  </s>
+<s> person but linux sure has turned my head.  </s>
+<s> good luck.  </s>
+<s> judging by the amount of dirt i found inside the case, the owner might be more adept at potato farming.  </s>
+<s> the first thing i would have performed on this machine would have been way more ram.  </s>
+<s> windows xp doesn't even begin to work faster until you are over 512mb.  </s>
+<s> especially if your using onboard video.  </s>
+<s> i would recommend 1gb for systems with onboard video.  </s>
+<s> you were severely limited with the earlier versions of windows 95 and 98, millenium,etc.  </s>
+<s> they would become unstable over 512mb.  </s>
+<s> there was a trick you could do to run 1gb of memory with those os's but it was a little complicated.  </s>
+<s> anyway i got off the point.  </s>
+<s> more ram is what you need to start with then go with tweaks.  </s>
+<s> last but not least do you ever want to just start deleting and shutting things down.  </s>
+<s> also sp2 will not slow things down but only help your os by fixing the many bugs the original os had so i can not see running anything but the latest version of the xp os. more ram is the secret engine to this crisis.  </s>
+<s> also, now that you have messed with alot of the settings and processes i would also reinstall with a clean os again with more ram.  </s>
+<s> i find it hard to believe that your bios on that mb doesn't have any settings for allotted ram to your onboard video too.  </s>
+<s> most tech's suggest only setting that to 4mb as this is plenty to use on anything other than for gaming or photography.  </s>
+<s> please look again at your bios and i am sure it is there.  </s>
+<s> and lastly go to the mb manufacturers website and download the latest 4 in 1 via drivers and install them right after you get through reinstalling windows.  </s>
+<s> also check for the drivers for onboard video, sound, lan,and usb (but be careful with usb because alot of these are for windows millenium, 98, 2000, only).  </s>
+<s> just read it carefully because it may tell you you do not need the usb download with xp and newer.  </s>
+<s> ok, i wish you luck and again more ram.  </s>
+<s> why not buy another 128mb of ram and see what that does?  </s>
+<s> or even better a 256mb card.  </s>
+<s> i've got a rig with a 1.1 gig duron, 768 megs of pc133 ram, running xp pro sp2 and it works just fine for just about everything.  </s>
+<s> i wouldn't use it for gaming but it's good for what i use it for, music, dvd's, etc.  </s>
+<s> ...but this is not my machine.  </s>
+<s> if it were, i wouldn't spend a dime on it in an attempt to run xp. the owner will have to decide what to do.  </s>
+<s> thanks for all the suggestions, folks.  </s>
+<s> i tried a few adjustments in the bios yesterday and made a change in the xp properties/performance tabs and this bumped up the installed ram reading to112mb, according to belarc.  </s>
+<s> still underpowered, but running better.  </s>
+<s> thanks for all the suggestions.  </s>

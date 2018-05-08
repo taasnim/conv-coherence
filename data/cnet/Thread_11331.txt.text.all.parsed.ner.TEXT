@@ -1,0 +1,16 @@
+<s> im currently in the process of purchasing some ram for my 3.2ghz p4 system.  </s>
+<s> it has 800mhz fsb, 4 available ram slots- 2 of which are standard ddr and the other 2 slots are ddr2 compliant.(mobo is gigabyte 8i915p duo pro) i have been looking at 1 gb pairs (2 x 512mb) pc3200 ddr400 and pc4200 ddr2-533 these are the fastest speeds i think my motherboard can handle, the problem is which speed is most suitable.  </s>
+<s> i dont plan to overclock the system, so will running pc3200 in dual channel mean i get the full fsb? also is the ddr2-533 ram not neccessary as it exceeds the 800fsb?  </s>
+<s> i am a little confused at the matter of fsb, multipliers etc so any help here would be great, thanks.  </s>
+<s> pc specs: p4 lga775 540j 3.2ghz gigabyte 8i915p duo pro 120gb maxtor sata hdd 256mb xfx 7800gt 525w hiper silent psu  </s>
+<s> ddr2 is more energy effiecient.  </s>
+<s> but has higher latencies but makes up for it with a higher clock.  </s>
+<s> running the pc3200 ram will be fine and cheaper.  </s>
+<s> roger  </s>
+<s> i've just used the crucial system scan tool to see what available ram they offer, in the ddr2 section they offer pc5300 ram, even though it also says (on the crucial site) that my motherboard only accepts up to 533mhz ram (pc4200).  </s>
+<s> does this mean i can make use of the higher frequency ram or will it be locked at 533mhz standard?  </s>
+<s> is that the maximum memory bandwidth that the cpu can handle is acheived by using pc3200 in dual channel mode.  </s>
+<s> intel does not use the memory clock as the device to make the fsb clock.  </s>
+<s> they generate it internally [called quad pumping] and can have 800 mhz fsb using pc 2700, however with pc 2700 the memory bandwidth would be less than the cpu can use, thus not perform quite as well.  </s>
+<s> seems that they have backed down on the 1033 fsb for the dual core p4's because of heat problems.  </s>
+<s> this is all said without regard for overclocking considerations which, obviously could change things.  </s>

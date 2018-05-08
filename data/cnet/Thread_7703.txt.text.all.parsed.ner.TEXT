@@ -1,0 +1,34 @@
+<s> my daughter's pc failed on bootup and it appears that the hdd is at fault.  </s>
+<s> it is a seagate barracuda ultra ata, model st313620a, capacity 13,520mb.  </s>
+<s> yep, i know it's 13.5gb but that's what the label says.  </s>
+<s> i tried it in my pc as a slave, just in case it was a power issue, as the psu in her's had been replaced about 1 year previously, but i was not able to boot at all.  </s>
+<s> (no os detected on either drive).  </s>
+<s> i then tried it with a usb ide adaptor, which has it's own psu, but no joy.  </s>
+<s> i removed the back panel to gain access to the motor connections and tested for open or short circuit but they seem okay.  </s>
+<s> when connected to the psu, no power is reaching the motor, so it appears that the pcb is shot.  </s>
+<s> i am hoping to obtain a similar hdd and swap over the pcb to get the drive spinning and hopefully recover the data to another good drive.  </s>
+<s> question: do i need to get an identical drive with the same firmware and addressable sectors?  </s>
+<s> i've managed to locate one that has the same seagate model # but is labelled as 13.6gb and the firmware # is 3.11 instead of 3.10.  </s>
+<s> it also has slightly more addressable sectors.  </s>
+<s> any advice regarding this would be most welcome as my daughter is keen to recover pictures of her baby.  </s>
+<s> thanks, gourockian  </s>
+<s> it up.  </s>
+<s> even if you do that ...make sure it's set up as a slave ... not a master or bootable drive might be worth checking with a data recovery pro like ontrack to see what they'd charge if the data is really realy important and user recovery questionable.  </s>
+<s> let us know.  </s>
+<s> vapcmd  </s>
+<s> thanks, vapcmd for replying.  </s>
+<s> i take it you mean to back up the data if i can recover it to another drive, in the event of a repeat crash in the future.  </s>
+<s> if i can just manage to do a recovery, this drive will be getting trashed, as i have no wish to go through all this again, and neither does my daughter.  </s>
+<s> i will certainly be re-emphasizing to her the need to do regular backups from now on.  </s>
+<s> as to using a data recovery service, it really would be more expensive than we could afford, even though the data is important to her.  </s>
+<s> regards, gourockian  </s>
+<s> logic board, it's more likely to be a matter of copyng the data to another hdd once it's up and running.  </s>
+<s> make sure you connect it so you're not booting from it.  </s>
+<s> re backup..i'm a firm firm believer ... i always have the data and two copies for backup.  </s>
+<s> just too time consuming to reinstall everything on a custom pc (vs store bought pc using restore discs).  </s>
+<s> i image my c: partition, then my d: partition onto a second hdd and then copy the images to an external.  </s>
+<s> if drive one becomes corrupt and can't be fixed simply...i can reformat c: and restore a clean working images.  </s>
+<s> if drive 0 dies, i replace the hdd and restore the images from the 2nd hdd.  </s>
+<s> beats the heck out of finding discs, product keys, reinstalling evrything, updating everything ... makes me tired just talking about it.  </s>
+<s> good luck and let us know how it works.  </s>
+<s> vapcmd ps..try ntbackup....it's part of xp...may help you avoid getting dragged into this next time.  </s>

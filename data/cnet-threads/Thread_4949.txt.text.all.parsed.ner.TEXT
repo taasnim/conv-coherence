@@ -1,0 +1,14 @@
+<s> i have a sony dru-720a dvd/cd rewritable drive and i want to attach it to a p5ad2-e deluxe via atapi (eide).  </s>
+<s> can i use the pri_raid1 on the asus mobo?? how should the bios setings be configured?  </s>
+<s> typically, raid controllers do not support atapi devices.  </s>
+<s> i have 3 asus boards but not your model and mine all have raid 0 and 1 capabilities.  </s>
+<s> these controllers can be configured as regular ide for hds but not atapi devices.  </s>
+<s> your board should have come with a manual.  </s>
+<s> if not, the asus web site is good about having these available on line so you can double check but i would say the answer is &quot;no&quot;.  </s>
+<s> nope, that's not the primary purpose of the raid connectors.  </s>
+<s> you have to use the either the primary/secondary eide ports, not the raid ports.  </s>
+<s> unless, it is configuarble, then maybe and that's a big maybe.  </s>
+<s> your bios setting should explained in the manual or support website thier usage of all ide ports.  </s>
+<s> if you have 4 ide devices already installed, then consider what has to be swapped or gone in order to use your new drive.  </s>
+<s> if you have small hds, now is the time for a larger hd to complish the same mbs is not more.  </s>
+<s> sorry... tada -----willy  </s>

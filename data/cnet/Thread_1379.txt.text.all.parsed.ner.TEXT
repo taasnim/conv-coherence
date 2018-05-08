@@ -1,0 +1,35 @@
+<s> im trying to piece together a couple of old computers for my kids to do school research on ..so here's my most recent question ...iam working on a pc 486dx i dont know where to look for mb id...when i first turned it on ...i beeped ..no screen on monitor.. removed connections and boards to clean contacts and reseat...this chassis has a lock on the case face,it connects to mb...i dont know whats that for or how to check to see if its on or off ...i dont know if just disconnecting it will work just 2 wire connector...any way now i try to boot ...it counts mem...then goes to next screen..hard ware listing ...then below that the curser is flasing ....no letter, just curser...tried 98 boot disk ...nothing..a drive lite is on all the time even without a disc in it ...is that normal...sorry guys and gals ...i'm trying ta learn ....i dont know how you guys know all this ....  </s>
+<s> means that the cxable is on backwards.  </s>
+<s> can you get into the bios during boot?  </s>
+<s> [during memory count hit deleete, maybe].  </s>
+<s> make sure that the boot sequence is a then c not c first.  </s>
+<s> you may not have an operating system on the hard drive.  </s>
+<s> yes, i can axcess bios...and it says a,c...and are you talking about the ribbon cable as to being reversed (on a drive)...it's not marked nor the type of notched reciever socket...i did reverse the connection ...screen says.... error reading drive &quot;a&quot;  </s>
+<s> yes i meant the ribbon cable. the stripe on the edge goes to pin one of both the mobo and the drive.  </s>
+<s> not all drives show pin one readily, but after you reversed it, i think that it is now in the correct way.  </s>
+<s> is the floppy drive controller enabled in the bios?  </s>
+<s> [probably is, but]. is there a hard drive in the system??? change to c a for boot sequence and see what you get. even a message that there is no operating system is a useful piece of info.  </s>
+<s> if the hard drive has the sytem files [the dos sytem files] on it, you can try some dos commands to see what happens.  </s>
+<s> on such that only one row of pins are engaged. the other row is above the connector.  </s>
+<s> not easy to see it clearly.  </s>
+<s> [any doubt take the floppy drive out and lay it on a piece of cardboard and connect it.  </s>
+<s> did this twice last week when testing six new floppy drives before i put them on the shelf.  </s>
+<s> finally checked them outside the case.  </s>
+<s> okay pulled the 'puter off the shelf...went into the bios..yep floppy enabled..changed a,c to c,a....reboot.  </s>
+<s> first screen mem count ..shows error reading drive a...preess f1 to resume...2nd screen same ol curser...tried 2 other floppies,, all reading errors those i did ..like you ...outside the unit...re checked mb connection..#1 position ..yep.did try 2 other hard drives ...1 said no operating system...does that mean that hds bad? the other did the same as original...im mystified  </s>
+<s> drive is bad. it simply may not have an operating system on it.  </s>
+<s> what do you know about the status of the hard drives from their prior use?  </s>
+<s> the floppy cable could be bad.  </s>
+<s> on the 486's that i remember the floppy drive controller was actually on an io card [isa type] is that true of this one?? id so, you might be able to pick up another card for a few bucks.  </s>
+<s> if you can get a floppy to work, and have a boot floppy with the dos system files on it you would be able to do some troubleshooting.  </s>
+<s> i assume that you are taking this as a challenge, because getting a 486 working may be difficult.  </s>
+<s> therte might be better solutions.  </s>
+<s> i dont know anything about the status or past of these hd's ...as i said i'm just a layman trying to piece a couple of kids computers together..so i dont even know if their any good till i hook em up and try to boot..when they say &quot;no operating system&quot; how can i get past that point..ive been using a floppy from maxtor for installing their harddrives...and had good luck getting it to load up and format /partition...then reboot to load win98se....i tried to begin fdisk..indos but i dont really understand what im reading to select... yes the ribbons are attached to a slot card ..you think it might be bad ...i cleaned its connection ..pulled and reseated...checked ribbon for flaws..looks new  </s>
+<s> are past the point of needing to fdisk. the naxtor floppy did essentially the same thing.  </s>
+<s> you need a boot floppy that includes the option to boot with cd_rom support.  </s>
+<s> you can make such a boot floppy using anyone's computer that has win 98 [or 98 se] on it.  </s>
+<s> simply go to my computer, control panel, add/remove programs.  </s>
+<s> click the startup disk tab and follow instructions.  </s>
+<s> watch the floppy light because ms never bothers to tell when the floppy is complete.  </s>
+<s> then on your computer use the floppy to boot and when the option is offered select boot with cd-rom support.  </s>
+<s> don't be surprised if win 98 doesn't work well on such an old and limited machine.  </s>

@@ -1,0 +1,131 @@
+<s> so i'm building a budget gaming pc and my budget is about $500.  </s>
+<s> i have picked all the parts that i want to buy and want to know some professional advice on the products and if its a good line up.  </s>
+<s> i will be buying from newegg.com, also i already have an optical drive and a 500w psu so i should be set with that.  </s>
+<s> my other big question is do i need to buy extra parts like sata cables, thermal paste, screws, etc? anyways, here's my list: &lt;div&gt;ram: &lt;/div&gt; case: 500 gb hdd: &lt;div&gt;mobo: &lt;/div&gt; &lt;div&gt;video card: &lt;/div&gt; &lt;div&gt;cpu: &lt;/div&gt; &lt;div&gt;cpu cooler: &lt;/div&gt; i'm new to this thanks!  </s>
+<s> tip: get some 600+ watt single rail psu please.  </s>
+<s> well i would hate to spend the extra money on something i already have...  </s>
+<s> good. go for it.  </s>
+<s> nnnnnooooooo!!!! dude i'm tellin you... you're your graphics *might* be as good as the xbox 360 with that config... if your lucky... maybe.  </s>
+<s> but there is good news : at your price range the best thing to do is go for a a series apu it's got integrated graphics and can be used with that gpu in dual graphics mode (essentially crossfire) but that switches out your mobo, too b/c amd apu's have a fm1 socket.  </s>
+<s> here (you were gonna spend $189 on that cpu &amp; mobo - this is 10 more bucks) the mobo supports 32gb of (faster) ram and has usb 3.0 which beats the crap out of the one you had picked out.  </s>
+<s> if you get this config you'll be looking at these results: now the numbers on the cpu might psych you out but trust me... you'll get 1000 times better performance in games with this one.  </s>
+<s> next: get one 4gb of ram stick instead of 2x2.  </s>
+<s> it's cheaper &amp; leaves your bays open in case you ever wanna go for more memory in the future.  </s>
+<s> also: ---the mobo will come with sata cables - all do ----thermal paste comes with the hypter 212 - i have one... &amp; the stock heat sink would really be efficient unless you plan on overclocking the list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads out of it.  </s>
+<s> ----all the screws will be included with the stuff you buy: case comes with most, hyper 212 will come with some, ----if you decide against the heat sink thermal paste comes pre-applied on the stock ones that come with the cpu.  </s>
+<s> also it would be overkill and complete dumbasscery to buy a 600w psu for that config.  </s>
+<s> your 500 is more than efficient.  </s>
+<s> ok, i think you have me on this one.  </s>
+<s> your right, i seemed a bit edgy when the processor speed was clocked at 2.9 ghz... is that going to affect my computer speeds at all when i'm not gaming?  </s>
+<s> i can also overclock it to like 3.5 if i want to which is probably a good thing to do.  </s>
+<s> but i was surprised at how well the fps caught up!  </s>
+<s> so overall it is better to buy an apu and the gpu to get the max fps and speed of the computer?  </s>
+<s> i'm very new and hardly even knew what an apu was prior to looking it up after you showed me this. the motherboard is able to overclock too correct?  </s>
+<s> your processor's only going to go as fast as it has to.  </s>
+<s> more demanding apps are going to be what pushes it to the limit.  </s>
+<s> i've got an i5 2500k.  </s>
+<s> stock is 3.3ghz.  </s>
+<s> turbo is 3.7.  </s>
+<s> i'm stable at with a 4.5ghz oc... given that i have an aftermarket heat sync and k series processors are made for overclocking. the point is... i sit at about 1.5-1.6ghz  </s>
+<s> while i'm sitting around on the internet with maybe a few small programs open.  </s>
+<s> unless you're going to do some major music production, 3d rendering, or use some kind of super app, you're just not going to use all that power.  </s>
+<s> i'm assuming games will be the most demanding thing you'll be using it for and with a llano processor you'll get twice the performance with the gpu + apu.  </s>
+<s> but also keep this in mind: any apu's only going to work with radeon gpu's and only the 6670 and under.  </s>
+<s> otherwise the card becomes too powerful for the processor and it only uses the dedicated card.  </s>
+<s> in the name of upgrades, getting a motherboard that supports crossfirex would be also a smart move.  </s>
+<s> i know for sure it wouldn't cost that much more, and maybe even less if you look around and find the right deal.  </s>
+<s> that one i showed you in the package at newegg didn't... i didn't even think about that when i was looking.  </s>
+<s> if you get a board with crossfire support, it's going to allow you to add a second gpu.  </s>
+<s> unlike nvidia, the great thing about amd cards is you can put two different models together and they'll still work.  </s>
+<s> if you did do this in the future, the integrated graphics wouldn't have any affect, but you wouldn't need them anyway, leaving doors open and knowing what you want to do in the future will save you a hell of a lot of money in the future if you go ahead and think it through the first time.  </s>
+<s> disregard all that crossfire crap if you don't really care about upgrading the graphics, but that's just how my brain works.  </s>
+<s> last month i did an entirely new build and ended up spending $500 more than i originally intended.  </s>
+<s> okay, this: it's a a8-3870k with a crossfire board, 4 (which is sick nasty) usb 3.0's, and supports 32gb of really fast ram. the k on the end means it's unlocked for overclocking, which means you'll be able to oc it significantly more than a regular non-k, it's $215 plus a $10 rebate.  </s>
+<s> if you wanna look for other crossfire boards on newegg, there's no little check box for it, so i usually google the model name, go to the manufacturer's website and find (ctrl+f) &quot;crossfire&quot; on the page.  </s>
+<s> you'll find it if it does.  </s>
+<s> sometimes a board'll support it and it won't say on newegg's page.  </s>
+<s> p.s. hdd prices are through the roof right now... if you're building this now, i'd use an old one if i had a spare.  </s>
+<s> they're expected to go back down sometime.  </s>
+<s> that 500gb you've got is $110.  </s>
+<s> last august i got a 1tb for $44. but if you do here's a 5800 rpm 1.5tb hdd for 10 bucks less: imo it'd be dumb to take the slightly higher read/write speed over 1000 more gb.  </s>
+<s> ok, i think your right about the crossfire board.  </s>
+<s> so if i wanted to buy a better gpu in the future, i can just pop it in instead of only using the 6770 or lower?  </s>
+<s> also the hdd choice is way better too. the only problem that i find with that is there a lot of reviews claiming that they aren't working right and dying right off the bat?  </s>
+<s> idk but maybe i should listen to that.  </s>
+<s> i appreciate your &quot;book&quot; (lol).  </s>
+<s> anyways, the price for everything is around $520, and i'm planning on buying the gpu separate maybe a bit later and i get a 15 dollar newegg gift card with my purchase which is going to save me some money.  </s>
+<s> i just need to look more into hard drives and i think that you have got my mind set on what i need...  </s>
+<s> i may be getting this wrong but i'm a little confused by those first two sentences.  </s>
+<s> let me try to break it down: if you got a 6670 (or anything lower) you'd be able to crossfire that gpu with the processor's graphics.  </s>
+<s> if you get a second card in the future and pop it in the other pci-e, let's say a 6770, you'll be able to crossfire the 6670 and 6770, but don't expect 3-way crossfire using the integrated graphics.  </s>
+<s> i really don't know about the hdd though.  </s>
+<s> if you get one (and that's all it takes) that runs at the advertised speed with the advertised size then i'd say you're good.  </s>
+<s> if it's bad, you'll have 30 days to rma it and/or the 2 year warranty.  </s>
+<s> 4 eggs isn't bad with 190 reviews though.  </s>
+<s> i've even bought a lot of stuff with really crappy reviews just because of the price/specs and been more than happy with it.  </s>
+<s> i guess it just takes that one dud (which all companys will end up having) for somebody to post an angry review.  </s>
+<s> so what do you have so far?  </s>
+<s> are you talking about not getting a gpu at all, or just the second one (which i didn't expect yet) i really can't speak for desktops on the integrated graphics alone buy my laptop has a single a8-3500m with no dedicated gpu.  </s>
+<s> if you're running just the apu you can expect low settings at descent frame rates in most games, with others like bf3 unplayable.  </s>
+<s> i appreciate my laptop b/c i can play steam games online at work and stuff but i wouldn't consider it a &quot;gaming&quot; computer.  </s>
+<s> alright, i just realized that i put the 6670 but i meant the 6770!  </s>
+<s> my bad... anyways, what i meant was, with the crossfire board i cant go above a 6670 or only use the 6770?  </s>
+<s> and i also am getting the gpu with the build just maybe like a week later, because i will have more money to spend on a gpu.  </s>
+<s> i was planning on the 6770 this whole time but now i guess i cant get that!  </s>
+<s> hmmm, that's a bit aggravating.  </s>
+<s> i also agree with you on the hard drive.  </s>
+<s> i just realized that your most likely right and the reviews are coming from the small lot of people who bought a couple duds.  </s>
+<s> so yes this hard drives got to be the better buy overall.  </s>
+<s> another thing, i heard a major factor would be buying 1833 ram because it would increase graphics performance on the apu.  </s>
+<s> don't know if it's true, but i'm including some 1633 ram in the list.  </s>
+<s> as for what i am planning on getting so far, here is my list that i have made (updated): apu/mobo combo deal: cooler, for ocing: better ram: hd radeon 6670 gddr5: wifi card: 1.5 tb hdd: sexy case: thats what i have so far.  </s>
+<s> totals to $540  </s>
+<s> dat ram.  </s>
+<s> do what you want, but the boy scout in me would much rather have one 4gb stick to leave room for upgrading.  </s>
+<s> you can get a single 1600mhz stick for as low as $18 and the price goes up as the heat syncs get prettier.  </s>
+<s> make sure to look at the timing.  </s>
+<s> ex: 9-9-9-24.  </s>
+<s> lower numbers are better.  </s>
+<s> i'm sure that ram you have picked out is gonna be pretty schweet but just make sure they're not selling the word &quot;game&quot;.  </s>
+<s> you want to look for ram with the fastest mhz and lowest timing in your budget.  </s>
+<s> ram is pretty much ram regardless of brand.  </s>
+<s> it's kind of hard to get wrong.  </s>
+<s> you'll see some that looks pretty good but then only have one review of one egg that says &quot;only showed up as 1333.&quot; ---it kills me because it's always their freaking motherboard.  </s>
+<s> also make sure that psu you've got has either an 8-pin or 2 4-pins.  </s>
+<s> i know some mobos only have 4-pin connectors, so i assume there are some power supplies out there that only do too.  </s>
+<s> your gpu also might take 2 6-pins.  </s>
+<s> i really don't know.  </s>
+<s> that's one of the few newegg mysteries that i never figured out.  </s>
+<s> i can never find out how many 6-pins a gpu takes.  </s>
+<s> chances are you'll have at least 2 on the psu, but if 1 gpu does take two then you're going to need at least 4 to crossfire in the future.  </s>
+<s> i ran into the same problem.  </s>
+<s> other than that it looks good.  </s>
+<s> really good.  </s>
+<s> oh, and yes, if you got a 6770 right now then the graphics wouldn't crossfire with the processor's graphics and that thing alone wouldn't look as good as the a8 + 6670.  </s>
+<s> lol i completely forgot about getting one stick of 4g ram.  </s>
+<s> i will look and see what i can get. the reason i think i chose the other one is because of dual threading.  </s>
+<s> by my understanding two sticks of ram work together better than one?  </s>
+<s> idk that's just what i have been told.  </s>
+<s> i know absolutely nothing about the pins and all that.  </s>
+<s> i just have to work that everything's going to be compatible.  </s>
+<s> i also have a dvd drive that i had spoken of earlier. the model is a ts-h653 that i pulled out of a not very old desktop.  </s>
+<s> will that work?  </s>
+<s> i also need to find the model number of the psu that i will be receiving and make sure that will be compatible.  </s>
+<s> to get maximum system performance.  </s>
+<s> that's the design...dual channel.  </s>
+<s> a single dimm or unmatched dimms suboptimizes system performance and frankly who wants that ?  </s>
+<s> first choice is get an 8gb kit ...one with 2-4gb dimms or if you're cash strapped, 2-2gb dimms.  </s>
+<s> re the psu....get the best one you can reasonably afford. the better ones usually cost a little more but use electricity more efficiently.  </s>
+<s> besides, you can add components to a system if you have the headroom (extra watts and amps) and always transfer good components to another system at a later date.  </s>
+<s> vapcmd  </s>
+<s> well i'm proud to say that today i ordered about four of the main components.  </s>
+<s> i will order the other stuff next week.  </s>
+<s> here is what i bought so far.  </s>
+<s> corsair vengeance 4gb 240-pin ddr3 sdram ddr3 1600 gigabyte ga-a75-ud4h fm1 amd a75 (hudson d3) sata 6gb/s usb 3.0 hdmi atx amd motherboard amd a8-3870k unlocked llano 3.0ghz socket fm1 100w quad-core desktop apu (cpu + gpu) with directx 11 graphic amd radeon hd ... cooler master elite 430 rc-430-kwn1 black steel / plastic computer case next week i will buy the hard drive, gpu, psu, fan, wireless card, and another stick of ddr3 vengeance.  </s>
+<s> (4gb) i'm excited and hope i can build this thing.  </s>
+<s> if you guys could link me to some good building guides that would be great.  </s>

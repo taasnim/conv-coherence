@@ -1,0 +1,14 @@
+<s> i have recently aquired a micronpc piii mb (mbd00-1136). the mnual at buympc's website does not have the front panel lights/switch positions listed.  </s>
+<s> i get the mb to power on, but when i try to install any windows(98,me or xp), it will restart during install, usually at the same place.  </s>
+<s> this is not an overheating problem, as i can let the mb run diags for hours with no problems.  </s>
+<s> i believe the problem to be the fp switch connections on the mb. does anyone know the proper switch positions for this mb or where i can find a more complete manual for it.  </s>
+<s> all help is greatly appreciated.  </s>
+<s> clear the cmos and accept the defaults and keep it in the most basic mode.  </s>
+<s> review those setting and only tweak to reflect what you have, like cds, etc. and then proceed to save it. the frt.  </s>
+<s> panel shouldn't make bit of difference, you can unplug them all expect for power and proceed with your ps install.  </s>
+<s> if it still fails, you may have a bad cpu/ram or other componet.  </s>
+<s> under xp install try the compatibility mode and see what the results are before any install.  </s>
+<s> you may have encountered what the micronpc was casuing a problem for the orginal owner??? good luck -----willy  </s>
+<s> to add try a different cd device.  </s>
+<s> have seen cd's stop working as internal temperatues increased.  </s>
+<s> bill  </s>

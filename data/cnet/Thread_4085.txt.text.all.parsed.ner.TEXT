@@ -1,0 +1,17 @@
+<s> config: amd duron 1.1 ghz pc chips m811 ver 3.1 mobo 256 ddr ram ati 9200 se 128 i had a k7sem mobo that fried (it seems they are very prone to frying) so i ordered the m811 and hooked everything up to it.  </s>
+<s> plugged it in using a 300 w power supply, and nothing happened.  </s>
+<s> tried a different power supply (400w) and, when i plugged in, the cpu fan twitched..then nothing.  </s>
+<s> tried yet another power supply (one im positive works because its powering the computer im using to type this, but only 250w ) and back to nothing.  </s>
+<s> i feel like i'm grabbing at straws but that little cpu fan twitch makes me hesitant to throw the mobo out.  </s>
+<s> can anyone remove all doubt for me/have suggestions on other things to try?  </s>
+<s> thanks in advance -bj-  </s>
+<s> to test that the motherboard is not the issue, i take the power supply and the board out on a piece of cardboard and with no cpu, ram or any other parts power it up.  </s>
+<s> if it doesn't power up, it's the board or psu.  </s>
+<s> bob  </s>
+<s> quick check...review the manual/helpguide and verify the frt.  </s>
+<s> panel power sw. is actaully on the right connection.  </s>
+<s> usually a 2-pin connection it can mistaken or misunderstood labeling and thus &quot;no go&quot; when sw. is pushed.  </s>
+<s> further, you can momentarily touch the pin contacts to act as sw. to see if starts then, bad sw. maybe or wrong connector used(remote?) as for fan twitch, a power surge can do that, a good quality p/s unit locks that down.  </s>
+<s> good luck -----willy  </s>
+<s> make sure that you have the 4 pin connector, 2 black wires and 2 yellow wires, plugged into the motherboard.  </s>
+<s> without that connected, your system will not power up.  </s>

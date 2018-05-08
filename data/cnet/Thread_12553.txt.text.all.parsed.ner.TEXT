@@ -1,0 +1,16 @@
+<s> i have a 6 yr.  </s>
+<s> old compusa pc with a pentium mx2 350 hz chip with windows 98 when i turn the computer on,i get the message&quot;data error reading drive c. abort ,retry,ignore,fail?&quot; at another time i saw a message which said that the windows did not finish loading on previous attempt.choose  </s>
+<s> safe mode to start windows with a minimal set of drivers.  </s>
+<s> enter a choice.  </s>
+<s> f5 -safe mode shift+f5 =command promptshift+f8 =stepby step configuration./ when any of the choices are made message reads&quot;while intializing vk'  </s>
+<s> you have a win 98 startup disk.  </s>
+<s> i would boot from that and try to read from the drive.  </s>
+<s> if so, it might be possible to recover some data while you can as it may be that the drive is in a failure process if not gone already.  </s>
+<s> there are tools to repair the master boot record or reinstall system files.  </s>
+<s> again, you need a startup or recovery disk. the &quot;fdisk&quot; utility on the startup disk, by using the /mbr switch, might accomplish this but i don't remember if the &quot;sys&quot; command works as it did with old dos originals.  </s>
+<s> otherwise, you can try to reinstall windows from the cd without reformatting first.  </s>
+<s> no guarantees but maybe worth a shot.  </s>
+<s> good luck.  </s>
+<s> start with and at 6 years, hardware does tend to fail.  </s>
+<s> startup problems are noted at there is no single item that sticks out in your post.  </s>
+<s> bob  </s>

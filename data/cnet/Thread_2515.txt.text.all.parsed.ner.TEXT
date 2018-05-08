@@ -1,0 +1,22 @@
+<s> until a few hours ago, my intel imac happily connected to the internet via my timecapsule.  </s>
+<s> my windows laptop still happily connects to the internet via my timecapsule.  </s>
+<s> however, the imac now won't connect.  </s>
+<s> on the imac, when i select my network from the list of available networks from the airport icon in the top menu bar, i get a dialogue box that asks for my wpa password (which the mac used to just remember for me).  </s>
+<s> when i enter it and click ok, it tries to connect for a few seconds and then gives me a &quot;connection timeout&quot; message.  </s>
+<s> when i open airport utility on the imac, it says it can't find any wireless devices.  </s>
+<s> i have tried shutting off everything (modem, timecapsule, mac), waiting, and then switching everything back on.  </s>
+<s> what else can i do?  </s>
+<s> did you ever get a resolution?  </s>
+<s> if so, please advise.  </s>
+<s> my imac and iphone 4 suddenly won't connect to my time capsule now - but my macbook and ipad will.  </s>
+<s> update.  </s>
+<s> resolved the issue.  </s>
+<s> found a post in the macrumors.com  </s>
+<s> forum that had a suggestion i hadn't tried... went into airport settings, and wireless at radio channel selection - changed from auto to manual.  </s>
+<s> manually changed the radio frequencies to channels 161 and 5. hit ok, then update and once the tc rebooted, everyone is getting along fine again!  </s>
+<s> i have the same problem but there is no such thing as a &quot;radio channel selection&quot; in network diagnostics for airport.  </s>
+<s> did you mean something else?  </s>
+<s> the post from moncton_2011 is telling you to change the settings in airport utility.  </s>
+<s> open airport utility and chose manual setup.  </s>
+<s> under the summary tab you can change the radio channel.  </s>
+<s> sorry, i meant the wireless tab.  </s>

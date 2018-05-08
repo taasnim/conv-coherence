@@ -1,0 +1,30 @@
+<s> hi im in need of help!!! i just bought a brand new hp pavillion dv6436nr notebook.  </s>
+<s> i have everything set up all ready to got. the catch is that ihave a hp office jet 6110 all in one that i want to keep.  </s>
+<s> i have that up stairs on my desktop and its connected to a gateway running xp. i have wireless networking for my entire house i just cant seem to get vista and xp to rcognise each other and or i dont know how to get the computers to interact.  </s>
+<s> please help i need directions!!!  </s>
+<s> for my dell photo aio 964 printer.  </s>
+<s> i then installed the printer drivers in the other laptops(hp and compaq) we can all print whenever we want and we don't have to have a host computer on.  </s>
+<s> rick  </s>
+<s> what im trying to say i guess is i cant get my desktop on the routers network cuz i dont know how to.  </s>
+<s> i have my laptop on there but i need to get my desktop on the netgear network.(my  </s>
+<s> network name)  </s>
+<s> connected to the ethernet cable?  </s>
+<s> do you have identical user accounts to make your network?  </s>
+<s> did you use the network wizard?  </s>
+<s> yes its connected by ethernet through my netgear randemax router two different accounts one is adelphia and the other is netgear(my network names) i tried it but it did not work it said could not find network  </s>
+<s> sounds like you are using a shared printer (connected to a desktop).  </s>
+<s> i haven't tired vista yet and will stay away from it until i replace my dell laptop later this year.  </s>
+<s> so i cannot appreciate your difficulties having vista communicate with windows xp. however, tcp/ip networking should be the same in both windows, although the window navigation is probably different.  </s>
+<s> it's been a while since i used shared printer, but i think you need to placed all your pcs in the same workgroup and select &quot;file and printer sharing for microsoft networks&quot; in your wireless network connection on win-xp.  </s>
+<s> assuming you have been successfully sharing the printer with your older pcs in your house, the problem is with your vista networking setup.  </s>
+<s> here is my real contribution.  </s>
+<s> i recommend you buy yourself a print server for $60 (see this linksys wired printer server.. like most, this one has a usb port for your printer.  </s>
+<s> in additional, it gives you a 4-port ethernet hub.  </s>
+<s> when installed, you have a network printer that doesn't rely on your desktop being on or relatively free.  </s>
+<s> i have used this for 5-6 years and maintenance time saved is well worth the cost.  </s>
+<s> btw, the design is solid and linksys hasn't changed the model or issued new firmware or device driver releases for a while.  </s>
+<s> currently, i have my b/w laser printer connected to it.  </s>
+<s> btw, assuming your router isn't really old, it should have nat (network address translation) and you are theoretically free to use any network range you want, with this caveat: the subnet mask must match your subnet address.  </s>
+<s> for the default address that most router setup wizard uses: 192.168.0.x, the subnet mask is 255.255.255.0.  </s>
+<s> unless you are comfortable with subnet masks, use the default that the wizard assigns.  </s>
+<s> you gain nothing by using something different.  </s>

@@ -1,0 +1,8 @@
+(TOP (S (NP (JJ many) (NNS lcd)) (VP (VBP come) (PP (IN with) (NP (NN analog))) (NP (DT a) (JJ analog) (NN input))) (. .)) )
+(TOP (S (VP (VBG considering) (S (VP (VBG buying) (NP (DT a) (JJR bigger) (NN monitor)))) (, ,) (S (VP (VBG leaning) (PP (IN towards) (NP (DT a) (CD 17) (NN inch) (NN lcd)))))) (. .)) )
+(TOP (S (S (NP (PRP i)) (VP (AUX do) (RB n't) (VP (AUX have) (NP (NP (NN access)) (PP (TO to) (NP (PRP it)))) (ADVP (RB right) (RB now))))) (, ,) (CC but) (S (NP (PRP i)) (VP (AUX 'm) (VP (VBG guessing) (NP (CD 800x600))))) (. .)) )
+(TOP (SBARQ (WHNP (WP what)) (SQ (MD should) (NP (PRP i)) (VP (VB look) (SBAR (IN for) (S (VP (TO to) (VP (VB make) (ADJP (JJ sure) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP i)) (VP (VBP buy) (NP (DT an) (JJ lcd) (NN monitor))))) (NP (PRP it)) (VP (MD will) (VP (AUX be) (ADJP (JJ compatible) (PP (IN with) (NP (DT this) (NN computer))))))))))))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (NP (DT an) (JJ old) (NNP ibm) (NN computer)) (PP (IN in) (NP (NP (PRP$ my) (NN bedroom)) (PRN (-LRB- -LRB-) (NP (NP (QP (CD 350) (CD mhz)) (NN pentium)) (, ,) (NP (CD 192) (RB mb) (NNP ram))) (-RRB- -RRB-)))) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (ADVP (RB strictly)) (VP (VBN used) (PP (IN for) (NP (NP (VBG checking) (NN e-mail)) (, ,) (NP (JJ occasional) (NN online) (NN shopping)))))))))) (. .)) )
+(TOP (NP (NNP john)) )
+(TOP (FRAG (ADJP (RB mostly) (JJ curious) (PP (IN about) (NP (DT the) (JJ plug-in)))) (, ,) (VP (AUX are) (RB lcds) (ADJP (JJ compatible) (PP (IN with) (NP (JJ old) (JJ analog) (NNS ports))))) (. ?)) )
+(TOP (SBARQ (WHNP (WP what) (NN resultion)) (SQ (AUX are) (NP (PRP you)) (ADVP (RB currently)) (VP (VBG using))) (. ?)) )

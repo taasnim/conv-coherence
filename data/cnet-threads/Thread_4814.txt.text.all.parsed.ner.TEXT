@@ -1,0 +1,18 @@
+<s> hi, i have a wireless network at home set up with the gateway wgr-200 router.  </s>
+<s> i'm having trouble accessing 1 particular site (page not found).  </s>
+<s> when i bypass the router completely, i can access the site.  </s>
+<s> so i think the router's built-in firewall is blocking the site.  </s>
+<s> how do i unblock this site?  </s>
+<s> i can't find where i can configure the router's firewall.  </s>
+<s> i can access the router's set-up page via the http link, but i don't see any option for configuring the firewall.  </s>
+<s> i'm using windows xp, with a desktop, laptop and cable modem.  </s>
+<s> thanks in advance, ed  </s>
+<s> i ran into this and it turned out to be an odd dns failure.  </s>
+<s> but i can't connect the dots without that last detail.  </s>
+<s> to see if it's a lookup failure use dnslookup (see google.com) on your machine.  </s>
+<s> also my router has this feature (dnslookup) to help in such troubleshooting.  </s>
+<s> bob  </s>
+<s> thanks for the response.  </s>
+<s> when i bypass the router completely, i can access the site.  </s>
+<s> i think the router firmware may be corrupted or something.  </s>
+<s> i'm going to try to reset the router and upgrade the firmware.  </s>

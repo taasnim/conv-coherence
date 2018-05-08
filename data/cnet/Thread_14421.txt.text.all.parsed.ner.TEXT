@@ -1,0 +1,25 @@
+<s> my daughter's computer has been acting up lately.  </s>
+<s> it's old and slow anyway, so i decided to move my previously planned upgrade ahead by a few months in order to give her the dell 8200 i'm currently running.  </s>
+<s> each system has 2 hard drives.  </s>
+<s> the secondary drive on each holds all the data.  </s>
+<s> the primary drives hold only programs.  </s>
+<s> what i plan to do is swap abby's secondary drive into the 8200.  </s>
+<s> i'll remove my secondary drive and put that into the new xps when it arrives.  </s>
+<s> this should be just a screwdriver job, correct?  </s>
+<s> winxp should recognize the drives all by itself?  </s>
+<s> there is one complicating factor: the new xps ships with a serial ata hdd. the secondary drive i want to put into it is an eide.  </s>
+<s> i already bought a controller card for the old drive. is there anything i should look out for? the whole point of this exercise is to save myself the trouble of copying all this data over our lan. by the same token, it would be a bad thing if i lost the contents of either of these drives.  </s>
+<s> thanks in advance for any helpful advice.  </s>
+<s> i believe the computer that you have is shipped with a sata connector for your hdd and that the optical drives (dvdrom/cdrom) are actually attached to an ide connector using an ide cable usually a flat and gray cable, the other one or the middle socket of such cable (usually for the slave) should not be in use, so that you could use/attach the old hdd.  </s>
+<s> anyway, it's just a matter of connection availability.  </s>
+<s> can i have the specs of this xps? is that from dell?  </s>
+<s> i believe it has an ide connector native to the mobo.  </s>
+<s> goodluck.  </s>
+<s> you are exactly right about the optical drives.  </s>
+<s> i hadn't (but should have) thought of them.  </s>
+<s> since there are 2 optical drives on the xps, i've already used those 2 channels, but by nature of their presence, can i assume that i won't have to worry about drivers for the new ide controller card?  </s>
+<s> when i've just added new hard drives to systems in the past they always shipped with all this software i didn't need anyway, at least for winxp.  </s>
+<s> here are the specs: dimension xps series, intel pentium 4 processor 660 (3.6ghz) w/ht technology and 2mb cache 2gb ddr2 sdram at 533mhz dell quiet key keyboard video ready option w/o monitor 256mb nvidia geforce 6800 graphics card 250gb serial ata hard drive (7200rpm) 3.5in floppy drive dell application back-up cd, factory install image restore windows media player 10 dell media experience 3.0 basic dimension dell support microsoft windows xp home edition,service pack 2,english dell 2-button scroll mouse intel pro 1000 integrated pci nic card no modem requested for dell dimension adobe acrobat reader 6.0 48x cd-rw and 16x dvd+/-rw powerdvd software decoding fordvd drives sound blaster audigy 2 zs thx certified sound card with dvd  </s>
+<s> card as the &quot;controller&quot; for your ide drive.  </s>
+<s> like so many newer systems the xps only has a single ide port [2 drive].  </s>
+<s> no reason that shouldn't work.  </s>

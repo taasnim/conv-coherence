@@ -1,0 +1,24 @@
+<s> i have an extensive network set up between 3 sites and am having some issues now that we have added more sites in.  </s>
+<s> we have one site with the internet connection router to wirless bridge to bridge via ad-hoc connection.  </s>
+<s> from there we have a switch connecting to another bridge via ad-hoc to the next bridge to a switch, and this is where we run into the problem.  </s>
+<s> we can hit the internet at the first two sites but the last cannot get on the internet.  </s>
+<s> the last site can ping, stream video from the main router at site one but unable to connect to internet.  </s>
+<s> any ideas?  </s>
+<s> we have checked gateways on all bridges computers.  </s>
+<s> we set up a laptop at site one and connected no issues, the took it to site three and was unable to connect to internet. is there some limit on ad-hoc jumps, or are we missing something.  </s>
+<s> any inputs would be helpful.  </s>
+<s> when attempting to connect to the internet from site 3, do you receive any kind of message/failure message?  </s>
+<s> we are recieving no failure messages.  </s>
+<s> at site 3 we are getting dns resolution, type in or any web page address and we see status that it is searching for a ip for that specific site.  </s>
+<s> there is no limit to the number of hops introduced by ad-hoc networking that i am aware of.  </s>
+<s> however, the 802.11 standard only briefly mentions bridging and does not define it well.  </s>
+<s> i have seen many issues with bridges trying to associate with aps.  </s>
+<s> some bridges have an option to clone the first mac that talks.  </s>
+<s> they then act as a proxy for all other devices behind the bridge.  </s>
+<s> try looking for an option like this.  </s>
+<s> you did not mention address scheme so i can not tell if this is a routing issue or not.  </s>
+<s> did you try a traceroute on the pc at site 3 to your isp dns server or router?  </s>
+<s> are you using managed switches?  </s>
+<s> check the forwarding database on the switch to see what devices have been learned.  </s>
+<s> when bridging for the first time, same vendor equipment makes a big difference.  </s>
+<s> skrall  </s>

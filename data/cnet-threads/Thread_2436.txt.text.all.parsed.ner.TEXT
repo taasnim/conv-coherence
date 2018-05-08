@@ -1,0 +1,65 @@
+<s> i have been trying to set up a vpn for a small company.  </s>
+<s> i have been able to get it to connect (windows connection icon) but i am unable to access any of the files on the file server.  </s>
+<s> have had a successfull connection with win 98se and winxp pro machines.  </s>
+<s> file server is xp pro sp2 and is behind a firewall (type unknown) and a linksys router (model: wrt54g firmware version 3.01.3)  </s>
+<s> i have opened ports: 1723, 47, 137-139, 50-51, 500, & 445 this is my first vpn to try and set up so any help is appriciated  </s>
+<s> have you read these?  </s>
+<s> thanks for the link, i hadnt thought to include the router model in the search, i'll read up all of this, much obliged.  </s>
+<s> i looked through several of the links there, one of which someone had a problem similar to this one, how ever their solution didnt work for this system.  </s>
+<s> any more suggestions?  </s>
+<s> 1. the firmware must be the latest.  </s>
+<s> 2. vpn can stress many since they don't realize the &quot;rules&quot;.  </s>
+<s> if you are on a vpn to work, you won't see your lan... 3. you may need a &quot;vpn router&quot; since some non-vpn-routers will only support... 1 connection at a time.  </s>
+<s> 4. if you installed a firewall in your pc, then you are very much on your own.  </s>
+<s> i can't help you at all.  </s>
+<s> bob  </s>
+<s> 1) checked firmware version, seems to be a version higher than what is downloadable from linksys site (version says 3.01.3 but highest on linksys seems to be 2.2) 2) could you elaborate please?  </s>
+<s> i dont quite understand that.  </s>
+<s> but i am fairly sure i dont know the 'rules' &gt;2.  </s>
+<s> vpn can stress many since they don't realize &gt;the &quot;rules&quot;.  </s>
+<s> if you are on a vpn to work, you won't &gt;see your lan... 3)there only needs to be one off site computer connected to the vpn.  </s>
+<s> so a non vpn router should work alright... right?  </s>
+<s> 4) only firewall known to me is the default windows firewall with sp2.  </s>
+<s> i am also confused as to how to actually open the files on the computer once the vpn is connected.  </s>
+<s> sidenote: it seems now that when i connect to the vpn from one computer (on the same network already) that the other computers have a hard time browsing the network, they can still connect but cant browse, the error message comes up network unavalible.  </s>
+<s> 1) checked firmware version, seems to be a version higher than what is downloadable from linksys site (version says 3.01.3 but highest on linksys seems to be 2.2) contact linksys about this.  </s>
+<s> 2) could you elaborate please?  </s>
+<s> i dont quite understand that.  </s>
+<s> but i am fairly sure i dont know the 'rules' &gt;2.  </s>
+<s> vpn can stress many since they don't realize &gt;the &quot;rules&quot;.  </s>
+<s> if you are on a vpn to work, you won't &gt;see your lan... seems clear to me.  </s>
+<s> 3)there only needs to be one off site computer connected to the vpn.  </s>
+<s> so a non vpn router should work alright... right?  </s>
+<s> nothing is certain.  </s>
+<s> i have moved to vpn routers since the time wasted on other routers wiped out any potential savings.  </s>
+<s> if your router doesn't mention vpn support.... that may explain a great deal.  </s>
+<s> you may have revealed that no one has connected via vpn to your company lan.  </s>
+<s> as such, you need to verify that you actually have vpn services available.  </s>
+<s> some isp's block it... you get to find out if they do.  </s>
+<s> 4) only firewall known to me is the default windows firewall with sp2.  </s>
+<s> and you must be the expert and allow vpn traffic.  </s>
+<s> bob i am also confused as to how to actually open the files on the computer once the vpn is connected.  </s>
+<s> sidenote: it seems now that when i connect to the vpn from one computer (on the same network already) that the other computers have a hard time browsing the network, they can still connect but cant browse, the error message comes up network unavalible.  </s>
+<s> will the computer connected to the vpn not be able to see the lan, or the computers on the lan not be able to see the lan, or both?  </s>
+<s> i have been able to connect a computer to the vpn, atleast so i assume, the display for a dialup connection on windows 98 went through the process of dialing, connecting, registering, and authenticating and the host computer had one user connected to it through the incoming connections wizard.  </s>
+<s> maybe it is just that i dont know where to look to access the files over a virtual network connection.  </s>
+<s> as i stated earlier this is my first experience in setting up a vpn and networking multiple computers together through a router, so i'm fairly incompetent at the moment, through all my searching all il found were instructions on setting up a incomming connection on win xp, and lots of different ways to make a computer that could connect to a vpn.  </s>
+<s> so beyond that i dont know what i am doing.  </s>
+<s> any help is appriciated, and thanks for the help so far.  </s>
+<s> let me just write a bit and maybe it will sink in.  </s>
+<s> when you connect to a remote vpn, what should happen is ... as if you had connected into that network.  </s>
+<s> all the brutal limitations come into play.  </s>
+<s> example: let's say you have a lan at home.. it should vanish since it's not in the vpn.  </s>
+<s> also, how you logon to your machine must be a valid account for the remote lan (vpn).  </s>
+<s> many will forget this step... and i'm only beginning to see how the remote vpn is setup.  </s>
+<s> usually your it staff sets up the vpn server.  </s>
+<s> bob  </s>
+<s> i did not know about the machine log on, i thought the dialup connection log on was enough.  </s>
+<s> so, in your example, if the dial up claims to connect but the home lan is still there then it isnt really a successful connection?  </s>
+<s> and yes the it staff is suposed to set it up, and unfortunatly i'm supposed to be the it staff... are ports 1723 and 47 the only ones needed to connect to a vpn over pptp connection?  </s>
+<s> as unwanted as the solution is, heres what i found.  </s>
+<s> &quot;it seems to be that the box can't handle the gre protocol 47 correctly.  </s>
+<s> linksys seems to think that this is a port that needs to be opened, rather than a protocol.  </s>
+<s> consequently, the initial link is made through port 1723, and the vpn server can't then create the necessary link for the tunnel.&quot;  </s>
+<s> *sigh* time to get a new access point  </s>
+<s> i tend to push for a vpn router when vpn access fails...  </s>

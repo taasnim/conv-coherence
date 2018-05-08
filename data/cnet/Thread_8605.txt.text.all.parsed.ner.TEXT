@@ -1,0 +1,102 @@
+<s> i recently bought an e1200 linksys router, i thought this was great.  </s>
+<s> it worked perfectly for the first few days and then it started to do a disconnect... once a day every day at around 6 pm, i thought this was odd, though i didnt care really.  </s>
+<s> as long as it was connective.  </s>
+<s> however, the next day it grew to 2 disconnects.. and after that 3. and now its just all over the place and disconnecting every single day.  </s>
+<s> however i found a temporary fix for it, if you reset it to factory defaults it fixes it for about 3 days, sadly i want a more permanent fix for it.  </s>
+<s> i have called cisco tech support but they basically tell me that because i live in canada they dont really give a crap about me, which is sad.  </s>
+<s> i'll list what i have tried and how it hasnt worked below, i am open to any suggestions on how to fix this, however i do not have the money for a new router.  </s>
+<s> power cycling adjusting: mtu, beacon interval, fragmentation threshold, rts threshold, channel, channel width changing mode from n to g disabling upnp disabling firewall enabling dmz factory reset firmware upgrade changing the router dns thanks for any help i get on this matter.  </s>
+<s> i'm really desperate for any answers.  </s>
+<s> i'm also going to add that my connection is wireless, and just now i had trouble posting that as my nets disconnected on me, i performed another factory reset to keep it stable for now.  </s>
+<s> i hope i'm not caused any trouble until i fix this.  </s>
+<s> it is unclear from you post as to what you mean by disconnecting.  </s>
+<s> your first issue will be to see if the router is being disconnected from your isp or you pc is being disconnected from the router.  </s>
+<s> if you use a wired port on your router and it has issues then it is a good chance it is your isp.  </s>
+<s> you would then directly connect a pc to the modem or whatever that delivers your internet to prove it is not your router to the isp... you know they will try to blame anything they can that is not theirs.  </s>
+<s> if it turns out to be related to the wireless you can read the many post on this forum on that topic.  </s>
+<s> they all come down to interference of one form or another.  </s>
+<s> resetting your router may just be a luck thing that corrects it when it is actually a neighbor router, microwave, baby monitor etc etc.  </s>
+<s> sorry for not responding right away.  </s>
+<s> when i say disconnecting i dont technically mean disconnecting, it is not the isp though, i can assure you that.  </s>
+<s> what happens is, everything disconnects at once and then when i go to speedtest.net the page takes forever to load, and when it does the connection shows about 0.06 mbps.  </s>
+<s> and i've proven that its the router itself by going to the default gateway (192.168.1.1) and even the default gateway itself takes about 5 minutes to load up.  </s>
+<s> when wired directly to the modem my pc has absolutely no issues with the internet.  </s>
+<s> this is covered in the forum sticky but many don't read that or want to understand it.  </s>
+<s> i'll give the short version.  </s>
+<s> 1. router defaults please except what the isp needs.  </s>
+<s> 2. simple ssid.  </s>
+<s> short, 8 or so characters from 0 to 9, a to z and a to z. 3. change the rf channel if it falls on 1 or the highest channel.  </s>
+<s> you could do some sort of site survey to find open channels but for now try channel 2. 4. test and see if it works with no security.  </s>
+<s> 5. now secure it with wpa2 aes (personal) and use a simple short password with the same rule as step 2 this should be secure for at least 2 days given the new cracking software out there.  </s>
+<s> if it slows down, change the password every 2 days until they give up.  </s>
+<s> bob  </s>
+<s> thank you for the information i'll try this and get back to you in a few days.  </s>
+<s> yes your way did not work.  </s>
+<s> sorry.  </s>
+<s> i have tried changing the password but changing the password does nothing for me, only when i reset to factory defaults does it get fixed for 2/3 days.  </s>
+<s> changing the password it acts up within seconds.  </s>
+<s> and i have set it to wep/wpa2/wpa and many other types of encryption it does not make a difference!  </s>
+<s> i am looking for solutions again people!  </s>
+<s> please help me!  </s>
+<s> no router i know does this.  </s>
+<s> keep in mind there could be some person that has that crack software and when the password changes that software is started which will cause speed to drop.  </s>
+<s> i'm not there so i can't guess this.  </s>
+<s> my suggestion is to turn off the wifi and get wired.  </s>
+<s> no hacker can crack it then.  </s>
+<s> bob  </s>
+<s> yeah, i replaced it twice.  </s>
+<s> over the time you've told me its a bum router.  </s>
+<s> changing the password does nothing and resetting to factory defaults fixes it for a day.  </s>
+<s> still.  </s>
+<s> its nearly impossible for 3 routers of the same model to all be broken within the first week of buying them.  </s>
+<s> i want somebody to tell me whats going on and please do not suggest that there are people cracking my network, because like i've said.  </s>
+<s> i can rule it out because changing the password does nothing.  </s>
+<s> so if you have replaced the router multiple times it may be time to look at the pc side of things.  </s>
+<s> since you indicated your pc works when plugged directly to the modem it implies your software and the ethernet port is good. the only thing different would be the wireless nic.  </s>
+<s> since you can get a usb wireless nic for less than $10 it is a cheap thing to try.  </s>
+<s> if you still have problems the last test would be to prove if it was the wireless signal or something else that is causing the problem.  </s>
+<s> if you hardwire your pc to the router for a test it would eliminate the wireless.  </s>
+<s> if you still have issue then i would be suspecting some software on your pc that is sending traffic your router does not like.  </s>
+<s> could really be any application but torrents tend to be the ones that open lots of ports and may exceed open session capacities on some routers.  </s>
+<s> if it works wired but not wireless and you have replaced both the router and the wireless nic you pretty much have proven it is some signal issue in your house.  </s>
+<s> now the challenge will be to find the device causing the interference without paying a fortune for equipment that can locate radio signals.  </s>
+<s> i'll try the best i can without visiting your site.  </s>
+<s> if i was there i might look at my pad with a nice app that shows me nearby routers and systems in a way that shows me what channels are open.  </s>
+<s> i can't be right since i don't have the luxury of being there.  </s>
+<s> but i will try anyway.  </s>
+<s> as it stands it's something and if i believe your pc is fine then i have to go with what i encounter elsewhere.  </s>
+<s> -&gt; there is a test that i use when i think others are interfering with the wifi network and it's very simple.  </s>
+<s> we get wired and turn off the wifi in the router.  </s>
+<s> this removes wifi from the picture.  </s>
+<s> bob  </s>
+<s> just checking.  </s>
+<s> try a different brand router and see if you still have the problem.  </s>
+<s> also is the router running hot?  </s>
+<s> i have changed out some of those flat linksys n routers for customers with the exact same problem you are having.  </s>
+<s> replaced them with netgear n routers that set vertical and run cooler.  </s>
+<s> that took care of the problem and was never called back.  </s>
+<s> i cant afford any router right now so checking that is out of the question, the reason i had purchased a new router was because my d-link dir-615 had just died on me.  </s>
+<s> thats the only other router i have used besides the di-(forgot numbers) which was really old and needed to be replaced because it didnt support wireless n. unfortunately at this time i dont have any way to check interferences, but i highly doubt that its that because i've changed nearly all the channels.  </s>
+<s> i've used that as a workaround to 802.11n issues.  </s>
+<s> bob  </s>
+<s> as i stated in my first post i have tried switching from n to g, it made no difference.  </s>
+<s> after all this there is only one last thing.  </s>
+<s> forget wifi, turn off the radio and stay wired until you can change it.  </s>
+<s> some wifi routers never work with some laptops.  </s>
+<s> it's a shame that happens but it does.  </s>
+<s> remember i can't survey your location for other users so we try what we can.  </s>
+<s> bob  </s>
+<s> this is a desktop computer using a wireless nic internally, it has wifi capabilities though and i can confirm it isnt the single computer because it shuts off on all 3 computers connected to the network and an iphone.  </s>
+<s> i am incapable of wiring any devices to the router though sadly.  </s>
+<s> so it looks like i'm screwed.  </s>
+<s> if the router maker can't help, and all the ideas here fail, it's time to get your money back for another router.  </s>
+<s> i've worked too many routers over the years and even was on a team that created one of the early routers.  </s>
+<s> i'm at a disadvantage that i can't see your site or swap out the router for a test.  </s>
+<s> that's what we do when it's a stumper like this. but as you can guess, such a site call costs far more than a router and why most folk opt to try other routers.  </s>
+<s> bob  </s>
+<s> well, thanks for everybody's attempt to help i really appreciate it.  </s>
+<s> in the end i found out that we were eligable for a 2-in-1 router and modem from our isp, along with a 50 mbit/s upgrade for no cost whatsoever because we were on an old plan, so i expect this will be solved within the week.  </s>
+<s> thanks again cnet!  </s>
+<s> the problem is indeed on the router.  </s>
+<s> i'm having the same problem on my e1200 ver 1. i just turn it of and on to allow other devices to connect.  </s>
+<s> i upgrade the firmware to no avail. the older wrt54gl never had this kind of issue.  </s>

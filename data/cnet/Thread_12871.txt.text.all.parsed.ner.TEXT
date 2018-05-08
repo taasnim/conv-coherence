@@ -1,0 +1,20 @@
+<s> my neighbor had never downloaded updates to his win xp - sp2 system.  </s>
+<s> on my advice, he went through the routine to let microsoft push updates onto his system.  </s>
+<s> when it was all over, he not only found his system has gone remarkably slower, but also found that he had lost access to internet using ie v6. his system has a direct internet connection to a cable modem from optimum online.  </s>
+<s> i peeked into his system and found that the typical icons for local networking and wireless networking have disappeared from the network.  </s>
+<s> - using my laptop connected directly to his cable modem, i was able to get to internet without problems, but not using his desktop.  </s>
+<s> - i cannot even get ipconfig to release and renew and reset the ip address.  </s>
+<s> - there are no icons in the system toolbar on bottom right to look at the tcp/ip properties settings.  </s>
+<s> - i tried a system restore to a restore point prior to the update.  </s>
+<s> it did not help.  </s>
+<s> - i reinstalled the nic card driver and even replaced with another brand new one.  </s>
+<s> it did not help.  </s>
+<s> does any one have ideas on how to restore the networking icons and just connect with internet?  </s>
+<s> i certainly do not want to format and reinstall the whole darned system all over again.  </s>
+<s> thanks in advance for the help.  </s>
+<s> after checking the physical connection, try pinging the localhost or 127.0.0.1 to confirm tcp/ip is installed/configured. does it return 4 packets?  </s>
+<s> if not, use the reset command, netsh int ip reset resetlog.txt.  </s>
+<s> try recreating the connection with the internet connection wizard.  </s>
+<s> if there is no other way to fix the problem you could use the system restore utility included in xp to restore the computer to a point before the updates were installed.  </s>
+<s> a restore point should have been created when the updates were installed if it is enabled.  </s>
+<s> this would eliminate the need to reformat or reinstall xp. re-installing ie 6 sp1 may also be an optoin.  </s>

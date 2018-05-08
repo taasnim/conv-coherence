@@ -1,0 +1,29 @@
+<s> i'll be up front, this is a question for homework help.  </s>
+<s> i'm not asking for an answer (that'd be cheating), more like direction to where i can find an answer (or if i'm on the right track with my hunch).  </s>
+<s> i want to create a website but only allow a certain user or group of users access to that website.  </s>
+<s> assuming that user or users will be from the same location, and likely the same static ip, can i throw a firewall between my internet connection and web server and only allow that specific ip address access to my web server by a rule?  </s>
+<s> if there is a better way to handle that, i'd appreciate being pointed in the right direction.  </s>
+<s> thanks!  </s>
+<s> &quot;the same location&quot; is a problem.  </s>
+<s> many people use a laptop or a tablet or ipod or smartphone with wifi or 3g to browse the net.  </s>
+<s> and their ip-address is dependent on where they are.  </s>
+<s> i don't even mention internet cafe's and such where you can use the internet on their machines after a paying a fee, or using a pc at work, school or with friends or family.  </s>
+<s> so that's an assumption that only would be valid in a homework environment.  </s>
+<s> assuming it dates from before the days of laptops and tablets and ipod and smartphones and 3g and 4g, even then an ip-address wouldn't have been useful, because back in the days of dial-up connections, all dial-up connections had a dynamic ip-address.  </s>
+<s> they gave you another address every time you dialled in.  </s>
+<s> and even then there was work and school and friends and family where that 'certain group of users' could want to get access.  </s>
+<s> so any other way to handle this would be better than a way using the ip-address.  </s>
+<s> kees  </s>
+<s> thanks for the reply, kees.  </s>
+<s> i was over-simplifying, i think.  </s>
+<s> my homework states that my company needs to receive blueprint files from a customer securely.  </s>
+<s> i was thinking using a secure website as an interface for the file transfer.  </s>
+<s> the customer would upload the files to the website and my company would retrieve the files.  </s>
+<s> i was assuming that since it was a company sending me the files, that it would be one ip address because they should upload them from their work, which i would think would have one static ip for all outgoing traffic.  </s>
+<s> my idea was to only allow the customer's static ip to have access to the website.  </s>
+<s> i was thinking that the firewall rule would block all other ip addresses from accessing it.  </s>
+<s> am i going about this in the entirely wrong way?  </s>
+<s> my only experience with this sort of thing is that my (real, current) work receives marketing data from a vendor monthly, and the vendor has set up a website that we use to receive the files.  </s>
+<s> of the firewall (software or appliance) of your company to see if it supports blocking by ip-address.  </s>
+<s> i'm rather sure zonealarm free 9.x (that's what i use at my home pc) doesn't.  </s>
+<s> kees  </s>

@@ -1,0 +1,37 @@
+<s> i have an ecs p45t-a with e8400 and 4gb gskill ddr2 800 kit (2x2gb 5-5-5-15 @1.9v) running vista 64 hp sp1.  </s>
+<s> if i run both sticks of ram in it, it crashes randomly after about 10 min in windows or before boot.  </s>
+<s> i have troubleshooted using either stick of ram alone and they will run 100% stable for days using only 1 chip in any memory slot.  </s>
+<s> this sounds like a mb issue to me what do you guys think?  </s>
+<s> please let me have some tips, thanks brian  </s>
+<s> i fixed one like that last month.  </s>
+<s> the owner didn't take the free advice to put two more drops of heatsink compound on the cpu.  </s>
+<s> they gave up and i did it for the 50 buck minimum charge.  </s>
+<s> they were not happy.  </s>
+<s> i'm unsure why some don't try the easy stuff first.  </s>
+<s> there is also an issue with memory, bios, timings and more but i will not write more than that here.  </s>
+<s> it's far too deep and in short a warranty+support problem.  </s>
+<s> bob  </s>
+<s> well thank you for the quick reply.  </s>
+<s> i know mine isnt a heat issue because i have played games on it for weeks and 0 crashes with either memory chip.  </s>
+<s> about the bios and mem timings i have mine all on default right now which is 5 5 5 15 1.9v.  </s>
+<s> it's the same as theirs.  </s>
+<s> they &quot;knew&quot; it wasn't that.  </s>
+<s> and found it ran with one stick so it couldn't be &quot;that.&quot;  </s>
+<s> shop counters thrive on such issues.  </s>
+<s> let's not let them have the easy ones.  </s>
+<s> or at least be sure about that.  </s>
+<s> again, the details in your post are not there for me to look into the other area of bios, memory timings and more.  </s>
+<s> but you can research that on your own.  </s>
+<s> bob  </s>
+<s> i assume you're using the 06/19/2008 bios.  </s>
+<s> are you manually setting the timings to match the stick or just letting the mobo use it's defaults?  </s>
+<s> also, are you using the same bank of dimm slots?  </s>
+<s> first, manually set the ram for ddr2-667 and confirm it's stable.  </s>
+<s> if it's not, the mobo is probably bad.  </s>
+<s> also try populating the two slots closest to the cpu (one orange, one yellow) and sticking with the mobo default memory settings.  </s>
+<s> if you try to use all 4gb in one bank (both sticks in the orange slots), you may have to boost the memory voltage to 1.95v or 2.0v.  </s>
+<s> if neither of these works, you may want to consider swapping ram to a memory brand that's been qualified by ecs (mushkin's a great brand but ecs may not allow an rma using their ram).  </s>
+<s> excellent ideas thank you much ramarc.  </s>
+<s> i have not updated my bios, i will look into that.  </s>
+<s> and i'm going to try the 667mhz setting.  </s>
+<s> much for me to look at now i'll get back to post on progress, crossing fingers.  </s>

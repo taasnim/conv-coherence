@@ -1,0 +1,53 @@
+<s> after fixing a hardware issue in my computer, i was in the process of copying files from my d: drive to my c: drive and the computer spontaneously restarted.  </s>
+<s> it would not boot back into windows and i ended up installing/booting from my d: drive.  </s>
+<s> back in windows, i discovered that my old primary hdd did not have any readings inside windows (disk size was 0 bytes), and when i try to browse the drive, it says it is not formatted.  </s>
+<s> i have a backup from february 2005 but nothing since then... is there anything i can do to possibly get any information off of the drive?  </s>
+<s> amd 64 3000+ epox 9nda3 ati 9600xt 1gb geil pc3200ddr (2x512) 160gb sata samsung (the one that crashed) 130gb ide wd hdd (currently running windows) 30gb ide wd hdd (not involved in the whole screwup) thanks, peter allen  </s>
+<s> you would have to send it to a commercial data-recovery company, and that is not cheap, so only do so if the data is very valuable.  </s>
+<s> since your boot drive was the sata drive, perhaps your bios settings were altered when it rebooted?  </s>
+<s> have you checked there to see if the drive is still set to boot from?  </s>
+<s> i would start there, and then see if you can get access to it for any files that might be on it still.  </s>
+<s> don't forget that you also need to install the sata drivers (or at least the instructions for it) from a floppy disk by pressing the f6 key during the initial windows xp install window....it will ask for the disk a little later in the installation and not immediately, so if you need to reinstall xp to that sata drive look for that.  </s>
+<s> there are options also available to either install xp to the sata drive or do a repair which will let you install xp over the top of itself and leave your other files intact that are still there so if there's a chance of doing this, you might still be ok. there are some recovery tools that are freeware and shareway here: make sure you check to see which ones work with xp as some don't.  </s>
+<s> data recovery tools data recovery tools: drive rescue dir.zip = digital image recovery v. 1.47 rescue_disk.zip  </s>
+<s> = emergency recovery for windows drive on floppy disk rescue 18b.zip = data recovery for other drives or partitions where windows is not installed v 1.8 rescue.zip  </s>
+<s> = v 1.7 = windows environment only help18.zip  </s>
+<s> = help files v 1.8 rescue1.7.zip = windows environment only the programs listed above are for fat32 and includes support for ntfs systems.  </s>
+<s> %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% spinrite 5.0 -- $89.00 (97 kbyte download) for first time purchasers or owners of spinrite 1.x or spinrite ii. this is the full spinrite application discussed throughout this web site.  </s>
+<s> full owner's documentation, in standard pdf format, may be downloaded at any time, either before or after purchase, then locally viewed or printed.  </s>
+<s> spinrite 5.0 upgrade -- $39.00 (97 kbyte download) for current owners of spinrite 3.1 or 4.0.  </s>
+<s> owners of spinrite versions 3.1 or 4.0 must provide a valid, registered, serial number for their current copy of spinrite.  </s>
+<s> the addendum to the previous spinrite owner's guide, in standard pdf format, may be downloaded at any time, either before or after purchase, then locally viewed or printed.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads freeware data recovery tool: pc inspector(tm) file recovery by convar pc inspector(tm) file recovery is a free data recovery program that supports the fat 12/16/32 and ntfs file systems.  </s>
+<s> files accidentally deleted or any data from a formatted hard disk, zip, jaz or floppy disk, can be recovered along with original folder names and file create and modified dates within minutes.  </s>
+<s> to be able to use pc inspector file recovery 3.x you need a working windows system.  </s>
+<s> never install the current version on the drive from which you intend to recover data! the software must be installed and run on a second, independent drive.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads freeware: restoration - file undelete utility d o w n l o a d restoration 2.5.14 kato's own link at restoration is an easy to use and straight forward tool to undelete files that were removed from the recycle bin or directly deleted from within windows, and we were also able to recover photos from a flash card that had been formatted.  </s>
+<s> upon start, you can scan for all files that may be recovered and also limit the results by entering a search term or extension.  </s>
+<s> in addition, it also provides the option to wipe the found files beyond simple recovery.  </s>
+<s> the program is small and standalone, it does not require installation and can also run from a floppy disk.  </s>
+<s> restoration works with fat and ntfs as well as digital cameras cards.  </s>
+<s> restoration: restore files which are deleted from the recycle bin by mistake.  </s>
+<s> conversely, delete files completely.  </s>
+<s> [os] windows 95 windows 98 windows me windows nt windows 2000 windows xp ibm-pc/at compatible pc [author] brian kato rest2514.exe  </s>
+<s> 193 kb also here: restore files which are deleted from the recycle bin or deleted while holding down the shift key by mistake.  </s>
+<s> conversely, this program has another function that makes it almost impossible to restore all deleted files.  </s>
+<s> you can use it after deletion of confidential documents, embarrassing files and so on.  </s>
+<s> you don't have to install it, so it doesn't leave any garbage in the pc. (you can also run it from a floppy disk.) fragments list.s.cnet pre_process.sh  </s>
+<s> threads shareware: datarecoverywizard datarecoverywizard software is a non-destructive and read-only file recovery utility that helps you recover all your important data lost after an accidental format, virus crash, partition loss, file/folder deletion or even sabotage.  </s>
+<s> datarecoverywizard is an easy-to-use data recovery software tool which examines your inaccessible hard disk drive for damages and corruptions and recovers the data.  </s>
+<s> datarecoverywizard is unmatched in its data recovery ability, save money and time with the powerful data recovery software.  </s>
+<s> what can datarecoverywizard do for you?  </s>
+<s> hard drive recovery from windows 9x/me/nt/2000/xp/2003.  </s>
+<s> supports fat12, fat16, vfat, fat32, ntfs/ntfs5 file system.  </s>
+<s> supports ide/ata, sata, scsi, usb, fire wire (ieee1394) hard drive and other media such as floppy disk, usb flash drive, digital camera, digital audio player and so on.  </s>
+<s> provides data recovery from formatted logical drive.  </s>
+<s> recovers data from re-partitioned hard drive and deleted, missing and lost partitions.  </s>
+<s> recovers data from ghosted or scandisk (chkdsk) logical drive.  </s>
+<s> lost or deleted file/folder recovery.  </s>
+<s> a list of more that you can check out: fragments list.s.cnet pre_process.sh  </s>
+<s> threads a free program to help recover *.chk files from scandisk: this is the latest google search i've done to locate various sources for this program so you can read about it as well and learn about problems involving trying to recover these file fragments.  </s>
+<s> this is will give more information about whether it is worth the effort to you.  </s>
+<s> toni  </s>

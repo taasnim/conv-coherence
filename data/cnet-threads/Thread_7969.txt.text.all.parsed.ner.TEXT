@@ -1,0 +1,55 @@
+<s> i have 2 desktops and a laptop i would like to network.  </s>
+<s> all are running xp pro. the two desktops have ethernet cards, plus one has dial-up internet access with a dedicated phone line via an internal modem.  </s>
+<s> (we're lucky we even have dial up in my area). the laptop has a wireless card.  </s>
+<s> i have a belkin wireless g router that can be used as either a router or an access point.  </s>
+<s> i've played with this a little, hooked the router up, played a little more with ics, was able to establish a &quot;residential gateway&quot; on the client desktop and laptop but cannot for the life of me get internet on any compter other than the host.  </s>
+<s> on the client computers, i've given them static ip's with the host ip used as the gateway.  </s>
+<s> i've been researching on the net for weeks now and always end up with one place saying use automatic assigning only, and the other saying you have to manually set up.  </s>
+<s> i don't have anything plugged into the router except the 2 ethernet cables from the desktops.  </s>
+<s> should i set my router to be an access point only?  </s>
+<s> am i going about this all wrong?  </s>
+<s> any advice is greatly appreciated as i've tried everything i can think of as i am not an it person.  </s>
+<s> all 3 computers can see each other and share files, printers, even the wireless laptop, i just can't get internet on anything except the host.  </s>
+<s> any and all help appreciated!  </s>
+<s> (ps i'm using a router because it was given to me for free and it's brand new)  </s>
+<s> i had the same issue, but the wired vs. wireless shouldn't be an issue.  </s>
+<s> i have one machine as my gateway, and the other machines use the static ip of the machine with the modem and the dial-up connection as the &quot;default gateway&quot; to access the internet.  </s>
+<s> the only difference is i did not set my router as an access point.  </s>
+<s> i don't know if that is the difference, but i did try it that way and had the same issue where my wireless machines couldn't get to the internet via the gateway.  </s>
+<s> so i changed back the settings on the router so it was not an access point, assigned it a static ip as well, and all started working.  </s>
+<s> make sure the internet connection sharing is set up properly on the machine with the modem and land line, and that all remote machines have the ip of the gateway in their ip settings for default gateway.  </s>
+<s> since the pcs can see each other already, it sounds like the network is functioning ok. mark  </s>
+<s> i've tried just about everything now.  </s>
+<s> tried using the router as just an access point to no avail.  </s>
+<s> i uninstalled everything and started from scratch.  </s>
+<s> ended up back at the same place.  </s>
+<s> everything's networked, just can't get to the internet on the client computers.  </s>
+<s> made sure all the router info was correct, made sure internet connection sharing was on and turned off every firewall i could find.  </s>
+<s> all gateways seem to be working, just not the internet.  </s>
+<s> i'm just stumped!  </s>
+<s> i'm even able to connect and disconnect my internet connection via the client computers, i just can't browse or email.  </s>
+<s> at your ip and dns addressing scheme.  </s>
+<s> dynamic addressing is the usual for this type of set up and the routers dhcp function needs to be turned off if ics is being used.  </s>
+<s> i tried turning of the dhcp, did a hard reboot of the router did a 'netsh int ip reset' and an 'ipconfig flushdns' on all three units and still...nada.  </s>
+<s> if i type in the ip of the router in the browser, i can see and use the router config on both clients.  </s>
+<s> i've tried both dynamic and pppoe(?). on the router web-based config window on internet status it says no connection which i expect since it's a dial-up (only thing available).  </s>
+<s> on internet connection lan settings i've tried both 'automatically detect' and 'use a proxy server' both together and individually.  </s>
+<s> in advanced proxy settings i used the ip of my host for the proxy address and ports 6588 for http and secure, 110 at ftp and 21 for socks.  </s>
+<s> i left gopher blank.  </s>
+<s> your issue just sounds just like the one i had, so unless there is hardware failure someone along the line, it should work.  </s>
+<s> and it sounds like youve done all this and more, so i dont know if this will make any matter like i said, before, i did not set the router as an access point, and it sounds like youve tried it both ways.  </s>
+<s> you are correct that there will be no internet connection present on the router status screenthats not an issue.  </s>
+<s> againi could not get the internet shared with the router set as an access point, but that may have been before i scrapped using dns.  </s>
+<s> found out that would not work properly with ics in my situation.  </s>
+<s> i disabled dns and assigned 192.168.2.0 to the desktop machine connected to the internet with the modem.  </s>
+<s> installed the internet connection sharing software on this machine.  </s>
+<s> as i recall, i may have had to install it, remove and install it again more than once for it to work.  </s>
+<s> now this is an older winme machine, but it works ok for the ics process.  </s>
+<s> assigned the router 192.168.2.1.  </s>
+<s> assigned the additional wireless and wired machines 192.168.2.2 and 192.168.2.3 respectively.  </s>
+<s> i used 192.168.2.0 as the default gateway for the other machines so they would use the desktop machines to find the internet.  </s>
+<s> good luck mark  </s>
+<s> turns out i had everything set up exactly correct.  </s>
+<s> my problem was the &quot;&quot;technician&quot;&quot; i spoke with at my isp gave me the wrong dns server addresses!  </s>
+<s> had it working 1 minute after calling them to re-check the numbers.  </s>
+<s> thanks to everyone for all your help, i learned quite a few thing trying to figure this one out.  </s>

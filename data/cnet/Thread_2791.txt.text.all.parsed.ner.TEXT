@@ -1,0 +1,13 @@
+<s> i have lost something in xp that recognizes my wireless adapter.  </s>
+<s> i do not have a xp disc just the upgrade from me. is there anyway to download something or figure out what i need to fix this?  </s>
+<s> i am running sp2 and have reloaded it, but aparently what i need is not in the service patch.  </s>
+<s> linksys wireless adapter and a dell latitude computer.  </s>
+<s> are the proper xp drivers for the machines various internal components.  </s>
+<s> have a look at dell's site for the latest xp software.  </s>
+<s> you can run a system file checker, even though you have an upgrade disk, it still has all the software required.  </s>
+<s> start-&gt;run sfc /scannow press enter put your xp cd in if it asks.  </s>
+<s> this will search your computer for files that are not approved versions and replace them with ones that are.  </s>
+<s> once you restart, the problem (if it is a windows issue) should be fixed.  </s>
+<s> although it seems as if you may be missing the system driver for your pcmcia bus.  </s>
+<s> you can check that by putting a card that is not your wireless adapter in the slot and seeing if anyhting happens.  </s>
+<s> if not then that is most likely the case and the above solution would be your best choice and the drivers are also located on your computer in a folder named dell.  </s>

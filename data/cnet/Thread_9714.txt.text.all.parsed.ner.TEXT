@@ -1,0 +1,29 @@
+<s> please excuse my ignorance, but i really need some help.... i hope this is in the right area, if not, please let me know which area to re-post this thread.  </s>
+<s> thank you.  </s>
+<s> please excuse the length as i'm including everything that happened up to this point as i don't know what will be useful and what isn't.  </s>
+<s> my computer died about 8 months after i got it and sent it back to compaq because it was still under warranty.  </s>
+<s> they said the hard drive had gone bad and replaced it.  </s>
+<s> when i came back, it was working fine, well, for about 2 months.  </s>
+<s> i had downloaded vlc media player and was using it to play music, a had highlighted a few songs and right clicked open with vlc.  </s>
+<s> vlc opened every song i had in my library at the same time in and each time it opened each song in a new player (expl; for each song it opened a new player to play the song) this froze my computer and i had to hard boot.  </s>
+<s> after the hard boot i went to blue screen.  </s>
+<s> after reading some forums, most of the info said that other people who had this problem had burned out their ram.  </s>
+<s> so i changed my ram.  </s>
+<s> but while i was changing it out i upgraded it from 512mb x2 to 1gb x2. i did research on the ram before i bought it and was told the new ram was compatible.  </s>
+<s> after the new ram was installed, the first thing i noticed was in the bios it was still detecting 512mb x2. after that it go to the start-up menu (start windows in safe mode; safe mode with networking, normally, etc.) i've tried all the options and it always goes to blue screen.  </s>
+<s> i downloaded a xp system restore disk and tried booting from cd, it starts just fine but the goes to &quot;examining 238473 mb disk 0 at id 0 on bus 0 on nvatabus...&quot; the hard drive is 250gb so that might be right, i'm not sure.  </s>
+<s> but the bootcd just stops there... nothing else... what's the problem??? what do i need to do?  </s>
+<s> please educate me... joel  </s>
+<s> the ram is not the right ram.  </s>
+<s> since we have the results it's an easy diagnosis that you want to go back to your old ram configuration.  </s>
+<s> ??? just to clarify... are saying that i got the wrong ram?  </s>
+<s> i'm pretty sure i got the ddr2 dimm 5300 1gb.  </s>
+<s> which said it was backward compatible with the ddr2 dimm 4200 512mb that my computer came with.  </s>
+<s> so, my computer needs the 4200 and is not compatible with other ram?  </s>
+<s> or i just happened to get bad ram and this is one of the errors that can result from bad memory?  </s>
+<s> sorry, i can be a little dense if things aren't spelled out for me... thanks for the quick reply joel  </s>
+<s> sorry no. you are telling me it's the wrong ram.  </s>
+<s> if it was the right ram and you got it plugged in right it would be fine and you would not be telling me this story.  </s>
+<s> go back to what works and next time, crucial.com bob  </s>
+<s> back to the original ram 512mb ddr2 dimm 4200.  </s>
+<s> it's still not working... grrr  </s>

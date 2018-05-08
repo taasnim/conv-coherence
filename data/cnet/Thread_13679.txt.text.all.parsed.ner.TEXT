@@ -1,0 +1,11 @@
+<s> im wondering what will happen if you use more than 4gb ram memory on a 32 bit os? will the system crash or will the extra memory just be 'cut off' so the computer cant use the extra memory?  </s>
+<s> and if i buy 4x 1024mb ram that will add up to 4096mb will that be counted as more than 4gb?  </s>
+<s> sorry, but in today's intel architecture machines it won't do any good.  </s>
+<s> in fact due to the design you find machines that hand 2.0 to 3.5gb to said 32bit os. bob  </s>
+<s> google away for the more than 3.5gb ram edit to your system.  </s>
+<s> that way you can boot your 32-bit with more than 4gb.  </s>
+<s> however, the os will only use upto 3.5gb of ram, though under another ms patch it will report the full amount.  </s>
+<s> if not, then get the patch but it only reports the amount not its usage.  </s>
+<s> without the edit, your system may hang or be slow, freeze, etc. or simply work as the bios(maybe) also comes into play, but the os is the main culprit.  </s>
+<s> this topic has been discussed before here in the forums, search and get yet more details or review the replies posted.  </s>
+<s> tada -----willy  </s>

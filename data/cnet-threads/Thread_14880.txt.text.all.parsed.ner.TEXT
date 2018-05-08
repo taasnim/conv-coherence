@@ -1,0 +1,63 @@
+<s> here's the setup, older dell optiplex, 40g hd, i have added a second 40g, the original,(drive c) only has about 1.5g of room left, the other i took out of another dead machine, formatted and hooked up as a slave (drive f). (as there is no os, on it).  </s>
+<s> here is what i want to do, when downloading a new program, or well when saving anything the machine automatically defaults to drive c. i want to either change the registry, or whatever so that it defaults to drive f. as right now i have two files called &quot;my documents&quot;, and two &quot;program files&quot;.  </s>
+<s> but i would really rather just seperate the two ie...drive c, contain the program files, drive f everything else.  </s>
+<s> but i am fine with having two sets of files, i just keep forgetting to change the c to an f when saving stuff, then i have to move it to f. the question is, what is the best (read that the easiest), thing to do?  </s>
+<s> or is it possiable to seperate the program files, and everything else?  </s>
+<s> once i know what to do, i need to know how to do it.  </s>
+<s> any suggestions?  </s>
+<s> why do you have two sets of &quot;folders&quot; i think you mean?  </s>
+<s> you create whatever folder you like on f:, it's not an os drive, just storage.  </s>
+<s> it doesn't have to be documents or prog files.  </s>
+<s> why not just create a folder in f:, name it &quot;downloads&quot; and save to it?  </s>
+<s> next, download a few small programs for trial or to keep, select &quot;save&quot; choose f: downloads, and it should default to that.  </s>
+<s> you are running xp aren't you?  </s>
+<s> i have always had more than one drive on my pcs and this has always worked.  </s>
+<s> you don't have to worry about keeping an extra program files folder, typically if anything happens, you would need a regular backup or .exe  </s>
+<s> files anyway or the program files will do you no good.  </s>
+<s> simply create folders, for pics, music, etc...instead of the complete my docs folder or whatever.  </s>
+<s> hope i understood correctly here, gl, paul  </s>
+<s> the reason for the two sets of folders is drive c is completely out of storage, there is only about one gig left on it, and i want to leave that room &quot;just in case&quot;.  </s>
+<s> so when i need to save a new document, i have to put it on drive f, and yes i can name it something else, but it is documents.  </s>
+<s> i have not copied everything from c to f, just started new files with the same name, because it is the same thing.  </s>
+<s> for instance when downloading a new program, all i have to do is change c to f on the default folder name.  </s>
+<s> i would just like to move one or the other to drive f, have the pc default to drive f when saving this particular type of file, this way i have all my docs, on one drive, and all my prog files on the one drive.  </s>
+<s> even if c: is getting full, the things that will take up room are large .exe  </s>
+<s> files(setup files) , pictures, movies, music.  </s>
+<s> what i don't understand is this, if c: is getting that full, you still don't need to copy the programs folder or documents folder to f:, just put new additions on f:. all you are doing is taking up room that doesn't need to be. when downloading , you don't have to have the folder called programs or documents to change it to f:. initially it sounds as if you are just copying c: to f:. do you have any back up options, like dvd or cd's to take a load off?  </s>
+<s> paul  </s>
+<s> first, again i did not just copy from c to f, i just created all new epmty folders one called documents, the other i did call program files, so that downloading would be easier.  </s>
+<s> i could back up some stuff to cd, but don't want the hassle of having to find, then load the cd, then load the program, or document, then actuall doing what i want to do.  </s>
+<s> yes, just choose drive e the file name, and go, but still have to find the correct disk, etc... besides the main reason i am wanting to do this is just because i want it that way, if possiable.  </s>
+<s> (caps, to clarify that i don't know if).  </s>
+<s> does that make sense, i just want to.  </s>
+<s> i know i could do it other (easier), ways, but...  </s>
+<s> i don't know of any way to do this and yes i understand what you are saying.  </s>
+<s> what i'm saying is, the os is going to default to the os drive which makes perfect sense and the only way i know is to simply choose your drive until you shut down the pc or whatever, will remain that drive. it may be a pain to move some things to cd but it's a much bigger pain if your hard drive crashes and you lose it all.  </s>
+<s> also, understanding what you want, i still see no reason why you can't move most (whatever it is) taking up room on c:, move the stuff to f: and use c: as the download default then.  </s>
+<s> the hassles you mention are simply the way it is until everything is completely automated and then perhaps we will complain because we have no control over our computers.  </s>
+<s> does that make sense?  </s>
+<s> i just want to know.  </s>
+<s> paul  </s>
+<s> i do backup to cd at least once a month, if not every week.  </s>
+<s> i did try moving the documents folder to f, leaving the programs on c, (no way to move the os), this worked until i had to restart the pc, then everything went crazy because it could not find the documents folder.  </s>
+<s> so i had to move it back.  </s>
+<s> i had went through everything except the registry, and changed the location to f. after the restart all the shortcuts etc.. still showed f, but they were trying to save to c. i don't understand why.  </s>
+<s> so i guess i'll do what i have to do, until i can come up with a solution.  </s>
+<s> thanks for the help.  </s>
+<s> i did a similar thing.  </s>
+<s> i installed a new 120gb hd and kept my old 40gb for backup.  </s>
+<s> on the new drive, i created three partitions.  </s>
+<s> c: for windows xp, d: for programs, and e: for files. the first time i set it up, i only allowed 3 gb for the os partition (should have been enough, i thought) and didn't know that every time i installed a new program, it would end up on c: unless i specifically told it to install on d:. needless to say, c: maxed out immediately, so i reformatted and allowed 10gb for c: every time i install a new program from cd or download something i have to be very careful it doesn't install on c: by default.  </s>
+<s> most installers start with a location box where the files will install to (always c by default) and give you a drop down list, where you can choose whichever location you want.  </s>
+<s> however, some program installers simply don't give you a choice and end up on c: anyways.  </s>
+<s> it's too bad we can't set all files to download to one partition by default.  </s>
+<s> of course you still have to remember that if you want to say save a photo, you must change that to your new default location from programs to files.  </s>
+<s> it just isn't a perfect system.  </s>
+<s> oh well  </s>
+<s> you can do almost anything through a &quot;regedit&quot;, i feel like there must be a way to regedit, say downloads, should default to &quot;x&quot; drive.  </s>
+<s> then say move documents to say &quot;y&quot;, then regedit so that the machine defaults to &quot;y&quot;, on any document.  </s>
+<s> that is all i was asking, &quot;does someone know how to do this&quot;.  </s>
+<s> i got a lot of good advice, which i already knew, but i have yet to get my question answered.  </s>
+<s> i guess that means that either no one knows, or it is not possiable.  </s>
+<s> maybe microsoft will add this option on vista.  </s>
+<s> scroll to no.82 paul  </s>

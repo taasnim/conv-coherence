@@ -1,0 +1,28 @@
+<s> i searched and couldn't find this one specifically.  </s>
+<s> i know that there was a limit on the size of hard drive the mac would recognize - can't remember all the specifics but it was related perhaps to version of the firewire bridge used (???). i put a 200 gb drive into an older maxtor firewire enclosure as the original hard failed.  </s>
+<s> i ran into the limit factor as my mac (g4 mdd 1.25 ghz) only 'sees' 128 gb. at the time i didn't care as the drive i was replacing was a 60 gb drive.  </s>
+<s> i assume it's because of the older firewire bridge (?) in the enclosure if that's the right terminology.  </s>
+<s> my question is can this be undone - the full 200 gb being seen - by putting the drive in a newer enclosure with a more current firewire bridge?  </s>
+<s> for the heck of it i tried putting the drive into a newer (relative to the old maxtor enclosure) usb enclosure and the 128 gb limit remained.  </s>
+<s> i do have a 500 gb in an owc fw enclosure that is 'seen' correctly.  </s>
+<s> thanks for any help anyone may be able to offer.  </s>
+<s> with the g4 and its logical block addressing.  </s>
+<s> it is only capable of seeing 128gb without some fancy electronic work.  </s>
+<s> you can use a pci hd controller that will get around the problem though p  </s>
+<s> why my mac can &quot;see&quot; the 500 gig drive in the owc fw enclosure and not the 200 gig drive in the older maxtor fw enclosure.  </s>
+<s> these are both external drives in case i was not clear on that aspect.  </s>
+<s> thanks for your reply mrmacfixit, but i am somewhat at more of a loss now.  </s>
+<s> i have these just plugged into the regular fw ports on the mac also - no mods or pci cards installed.  </s>
+<s> also my g4 is one of the dual boot macs. the hd size remains the same whether in x or 9 and are as stated above.  </s>
+<s> thanks again for any info,  </s>
+<s> there are some fw boards, as you mentioned, that enable the fw bus to recognize a larger drive.  </s>
+<s> with the earlier oxford chips, the 128gb limit is in effect, as you surmised.  </s>
+<s> internally, the limit is imposed because of the limitation of the mac itself.  </s>
+<s> the logical block addressing (lba) does not allow drives larger than 128gb.  </s>
+<s> sorry for any confusion.  </s>
+<s> p  </s>
+<s> and thank you for mentioning the oxford chips - that was the item i could not remember but knew was a part of the situation.  </s>
+<s> numbers are coming back to mind now 911 and 914 - 914 being the newer one of the two.  </s>
+<s> so i am assuming that if i get an enclosure with a newer oxford chip that the mac will see the 200 gig drive as it truly is and not as only 128 gig as it presently sees it in the older enclosure.  </s>
+<s> thanks again for your time on this.  </s>
+<s> i do appreciate it.  </s>

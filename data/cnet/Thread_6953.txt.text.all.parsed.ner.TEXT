@@ -1,0 +1,26 @@
+<s> hi there i was hopeing some of you will be able to help me i have a qtech qt-4sdm2+ motherboard, the bar code no on the pci slot is 000461443c6f and another one on the motherboard of 2b003700181 running xp home when i try to start my computer it does not even go past the post check it gives a long single beep and then repeates the beep after quite a long silence and it keeps going like this till you turn it off.  </s>
+<s> i have disconnected everything from the motherboard except a hard drive and floppy which i have tested in my other computer i have also installed a new psu unit just to check it.  </s>
+<s> i have also installed 256mb of ram i know works and removed the old ram.  </s>
+<s> i am not sure what the bioss type is as i cant start it.  </s>
+<s> on the motherboard it has a winbond chip and a realtek chip and an sis961 also a sst mpf chip that seems to be in a socket that you could possibly remove from i think that might be the bios chip but i am not sure.  </s>
+<s> can any of you chaps tell me what this long beep means or have you got any idea what bios would be in this machine.  </s>
+<s> it has a intel celeron 2.20ghz and 256mb of pc2100 ddr ram.  </s>
+<s> does anyone know where i can download a manual for it.  </s>
+<s> i have tried supportinabox.com but they just tell me to run the recovery disk and when i tell them that it does not go past the post to do that they say take it to an engineer, they could not even tell me what the error beep means, flipping useless they are.  </s>
+<s> many thanks to all and everyone who try to help me in this dilema.  </s>
+<s> sorry about the spelling.  </s>
+<s> tony b.  </s>
+<s> resetting the cmos (the cmos is what the bios uses to store settings (and the error your encouting sounds like something is set wrong)) never fear, this is simple step 1) disconnect the pc from the wall, make sure it has no connection to anything, just the tower, no connection to power.  </s>
+<s> step 2) find the little cell battery on the motherboard (little silver battery sorta like a watch battery, but bigger) pull it out.  </s>
+<s> step 3) with that battery out and the computer disconnected from the wall, go do something for 3-5 minutes with the battery still removed.  </s>
+<s> step 4) put the battery back in, reconnect the pc to the wall, and try booting it now.  </s>
+<s> hope this helps, ozos  </s>
+<s> here are a few links that may help.  </s>
+<s> john  </s>
+<s> sis961 is probably the chipset your mtrbd. is based on.  </s>
+<s> that means its the primary reason the bios is designed for, thus look up sis961 as the basis for any bios info and related mtrbd.  </s>
+<s> specs. the type of bios will direct you to the &quot;beep code&quot; of your system.  </s>
+<s> a long beep suggests mtrbd,, power or card at fault, but that's a guess.  </s>
+<s> try this website: and find related topics.  </s>
+<s> tada -----willy  </s>
+<s> you said you upgraded them memory did you put the mem sticks in the right slot are they compad with your system board did you seat the mem did you enter the bios after installing the mem then exit  </s>

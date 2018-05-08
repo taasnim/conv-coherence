@@ -1,0 +1,34 @@
+<s> my old computer's motherboard went bad last week.  </s>
+<s> i just purchased a new emachines t3085 -- running windows xp home.  </s>
+<s> i would like to install my old hard drive (with windows 98) into the new computer to rescue some files.  </s>
+<s> does anyone have any suggestions about switching the old master drive to a slave drive?  </s>
+<s> i assume i can just install it and xp will recognize it/ re-lable it, etc. is this correct?  </s>
+<s> any thing i should be aware of when trying this?  </s>
+<s> does anyone know if i can use the ms ofice 2000 on windows xp? i have back-ups of most of the files -- but i am doing this to rescue some important files that have not been backed up... i learned my lesson.  </s>
+<s> thanks.  </s>
+<s> jm  </s>
+<s> your issue is too similar to and ms office 2000 is fine on xp. no new bugs noted.  </s>
+<s> bob  </s>
+<s> it should be no problem.  </s>
+<s> what is have done in the past is bring the new os up and make sure that all is working ok. power down, pull the new drive and make sure that it is set to master, not to single drive.  </s>
+<s> now set the older drive to slave.  </s>
+<s> re-install both drives and power up tyou system.  </s>
+<s> when the system comes up it will see the other drive and set it up for you.  </s>
+<s> that's it.  </s>
+<s> good luck  </s>
+<s> be aware that many new system use cable select (cs) instead of master and slave like the old systems.  </s>
+<s> your old hard drive may need to be set to cs to be used as a second hard drive.  </s>
+<s> hello, to recover your files from the old hard disk,i suggest you make the hard disk as a slave drive but use it on another pc with win98.  </s>
+<s> then copy or burn your files on cd. after you have done this and am sure of it, then format the hard disk which will erase everything on it.  </s>
+<s> then, you can go back to your new pc and install this old hard disk.  </s>
+<s> xp home (i presume) will recognise it after it has been formatted again by xp home.  </s>
+<s> sure you can install office 2000 in xp home i have done it and am using it.  </s>
+<s> good luck.  </s>
+<s> annykim  </s>
+<s> hi, i often just apply the second ide cable to the drive and allow it to be the second drive in the system.  </s>
+<s> you will with some luck be able to see and move everything from and to the drive.  </s>
+<s> but you want to not confuse the system, xp that is, and leave the second win 98 drive in the system for any more time than necessary.  </s>
+<s> yes, it will run, no the registry entries are not made to xp so the data is available but not the .exe  </s>
+<s> function.  </s>
+<s> please get the drive formatted or removed soon, actually, having a partitioned xp drive will be your backed up primary drive.  </s>
+<s> get a good motherboard and off you go...  </s>

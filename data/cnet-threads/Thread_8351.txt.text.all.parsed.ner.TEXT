@@ -1,0 +1,12 @@
+<s> i have a hard drive that has been acting funny recently.  </s>
+<s> every time i restart the computer, the hard drive partitions erase themselves.  </s>
+<s> this first occurred when i restarted for avast update (i was running xp). the computer can see the hard drive, and i am able to reinstall the os (windows 7) and run it.  </s>
+<s> i've tried reformatting it twice in the past two days and that hasn't worked. the computer is a custom built and the hard drive is a 750 gb western digital wd7500aads-00l5b1.  </s>
+<s> do i need to replace my hard drive, or is there a fix?  </s>
+<s> with the os missing, you'd get some sort of boot error.  </s>
+<s> unless you put that drive in another machine or booted from a utility disk that could provide partition information, it would be difficult to know that this was happening.  </s>
+<s> what error are you seeing and how did you make this diagnosis?  </s>
+<s> i did get a boot error, but i ran ubuntu live from a cd and saw that there were no partitions on the drive.  </s>
+<s> sorry, i forgot to mention what error i got. the boot screen said something like cd disc boot fail or something similar.  </s>
+<s> i can't remember exactly.  </s>
+<s> but i had my boot order go from hard drive to disc drive, so it skipped the hard drive.  </s>

@@ -1,0 +1,8 @@
+(TOP (S (S (CC and) (NP (NN life)) (VP (VBZ goes) (PP (IN on) (NP (NN ..)))) (. .)) (VP (VB jack))) )
+(TOP (S (ADVP (ADVP (RB as) (RB far)) (PP (IN as) (NP (DT a) (JJR better) (NN card)))) (, ,) (NP (PRP i)) (VP (MD would) (VP (VB suggest) (NP (NP (NN one)) (PP (IN with) (NP (NN 128mb)))))) (. .)) )
+(TOP (S (NP (PRP$ my) (JJ old) (NN system)) (VP (AUX had) (NP (NP (DT a) (JJ nvidia) (NN geforce)) (SBAR (S (NP (CD mx440) (NN 64mb)) (VP (MD can) (DT this) (VP (AUX be) (VP (VBN used)))))))) (. ?)) )
+(TOP (S (NP (NN evga) (NNS nvidia)) (VP (VBP geforce) (NP (NP (date (CD 6200))) (PRN (-LRB- -LRB-) (S (NP (PRP it)) (VP (VBD cost) (NP (PRP me)) (NP (money ($ $) (CD 125))))) (-RRB- -RRB-))) (NP (JJ good) (NN luck))) (. .)) )
+(TOP (S (NP (PRP you)) (VP (VBD mentioned) (SBAR (S (VP (MD can) (VP (AUX be) (VP (VBN used) (PP (IN on) (NP (DT the) (JJ new) (NN system))))))))) (. .)) )
+(TOP (S (INTJ (UH hello)) (NP (PRP i)) (VP (AUX am) (VP (VBG getting) (NP (DT a) (NN thinkcenter) (CD m50)) (PP (IN with) (NP (NP (DT a) (JJ celeron) (CD 2.66) (NN mhz) (CC and) (NN 512mb)) (PP (IN of) (NP (CD pc2700))) (SBAR (S (NP (PRP it)) (VP (AUX has) (NP (NP (PRN (-LRB- -LRB-) (NP (CD 1)) (-RRB- -RRB-)) (JJ open) (NN agp)) (CC and) (PRN (-LRB- -LRB-) (NP (CD 3)) (-RRB- -RRB-)) (NP (JJ open) (JJ pci) (NNS slots))) (NP (DT any) (NNS thougths)) (PP (IN on) (NP (NP (DT a) (JJ good) (NN low)) (PP (TO to) (NP (JJ mid-range) (NN video) (NN card)))))))))))) (. ?)) )
+(TOP (S (NP (NNP cluchetti)) (VP (VBZ p.s.) (SBAR (S (NP (PRP i)) (VP (AUX do) (RB not) (VP (VB recommend) (NP (NNS ati))))))) (. !)) )
+(TOP (S (NP (DT either) (NNS ati) (CC or) (NNS nvidia)) (VP (MD will) (VP (AUX do) (ADJP (RB just) (JJ fine)))) (. .)) )

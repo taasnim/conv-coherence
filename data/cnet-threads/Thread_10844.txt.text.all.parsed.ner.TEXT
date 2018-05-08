@@ -1,0 +1,71 @@
+<s> i have a dell dimension 4700 desktop with windows xp pro sp2.  </s>
+<s> i read the cnet forums with interest and have learned a great deal over these past couple of years.  </s>
+<s> however, there is one area which i have not been able to grasp, and that is &quot;partitioning and formatting the hard drive&quot;.  </s>
+<s> question 1 - why does the hard drive need to be partitioned and formatted?  </s>
+<s> question 2 - how is partitioning and formatting done?  </s>
+<s> i read in one particular cnet response, that all you had to do in windows was to go to &quot;disk management&quot; to complete this task, however, i have searched and can not even find &quot;disk management&quot; on my computer.  </s>
+<s> for anyone who wishes to respond to my query: please keep your answer simple and non-technical, because there has been nothing on this topic in the forums so far which i have been able to understand.  </s>
+<s> thank you so much for all the help i have received from cnet forums just by reading the responses to other peoples' questions.  </s>
+<s> question 1 - why does the hard drive need to be partitioned and formatted?  </s>
+<s> answer: because no operating system works with an unpartitioned and unformatted hdd...even if it's only a single hdd with a single partition.  </s>
+<s> question 2 - how is partitioning and formatting done?  </s>
+<s> i read in one particular cnet response, that all you had to do in windows was to go to &quot;disk management&quot; to complete this task, however, i have searched and can not even find &quot;disk management&quot; on my computer.  </s>
+<s> go to: start settings control panel administrative tools computer mgmt disk mgmt  </s>
+<s> partitioning is like dividing your hard disk into sections, and will show up as different drive letters in your file manager.  </s>
+<s> so, you could set up a single hard disk with 2 partitions, one being the c:/ drive and the other as d:/ drive.  </s>
+<s> there are multiple reasons for doing this.  </s>
+<s> one reason is to help you manage your files better.  </s>
+<s> your os would reside on the c:/ partition, and you could keep personal files on the d:/ drive.  </s>
+<s> this could also make the drive more efficient by keeping the os files separate from the clutter of other programs or files.  </s>
+<s> partitioning is also required if you want to have a dual-boot computer.  </s>
+<s> if you wanted to be able to boot to either windows xp or linux, then each os would have to reside on its own partition.  </s>
+<s> formatting is done after partitioning.  </s>
+<s> this basically sets up how your computer will organize files on the partition.  </s>
+<s> thanks vapcmd, because i guess i have now found where the partitioning and formatting presumably is performed.  </s>
+<s> however, i understand nothing of what i see there.  </s>
+<s> there appears to be nothing there to &quot;click on&quot; to allow the hard drive to be partitioned or formatted.  </s>
+<s> as well, vapcmd said that &quot;no operating system works with an unpartitioned and unformatted hard drive&quot;.  </s>
+<s> however, my operating system (as you can see) is working just fine and i have never partitioned or formatted my hard drive (i purchased this computer new and am the only user).  </s>
+<s> so i'm still pretty much in the dark about this subject.  </s>
+<s> thanks, though for the responses i received.  </s>
+<s> if anyone is willing to help futher, i would appreciate knowing more.  </s>
+<s> &quot;thanks vapcmd, because i guess i have now found where the partitioning and formatting presumably is performed.  </s>
+<s> however, i understand nothing of what i see there.  </s>
+<s> there appears to be nothing there to &quot;click on&quot; to allow the hard drive to be partitioned or formatted.&quot;  </s>
+<s> answer: once you click on disk disk management ...the next screen, right hand side, shows the disk hardware devices.  </s>
+<s> right clicking on them will show the options.  </s>
+<s> under the circumstances it's best to not mess with them.  </s>
+<s> this is a screen many users never see unless they add a new hard disk drive and you asked where it was..not how it worked.  </s>
+<s> &quot;as well, vapcmd said that &quot;no operating system works with an unpartitioned and unformatted hard drive&quot;.  </s>
+<s> however, my operating system (as you can see) is working just fine and i have never partitioned or formatted my hard drive (i purchased this computer new and am the only user).&quot; answer: the partitioning and formatting were either done by the mfg at the factory or automatically when you went thru the pc setup.  </s>
+<s> trust me when i say just because you didn't purposefully do it, doesn't mean it didn't happen or take place.  </s>
+<s> today's operating systems don't run on an unpartitioned or unformatted disks ...even if it's just one partition.  </s>
+<s> if any doubt, delete the partition and see how your pc and os works then.  </s>
+<s> for further info ... suggest doing some reading here or at any of the thousands of sites that have everything you ever wanted to know about pcs.  </s>
+<s> google is excellent tool for locating sites with such info.  </s>
+<s> vapcmd  </s>
+<s> and for bearing with me on this question.  </s>
+<s> i have already done a lot of reading on this question, and have never understood anything i read.  </s>
+<s> i think i'm starting to understand it a tinsy bit better, except i'm still confused why people do so much talking about re-formatting. the way they talk, it makes me think it is something that i should be doing, however, after receiving your response, i guess it is actually something i should not be doing.  </s>
+<s> thanks again for your help.  </s>
+<s> but sometimes...when users have no backup or quick restore, and they can't get their system running efficiently, users take the path of least resistance ...wipe the hdd and reinstall the os and the apps.  </s>
+<s> thats fine for store-bought pcs that have easy installs and few apps... but when you build your own, the last thing most of us want to do is reinstall it all.  </s>
+<s> i don't reformat because i've got image backups that can be put back in as little as 15 minutes ... the os, the drivers, the apps, prefernces, favorites, all the data ... everything.  </s>
+<s> keep reading...you can learn a lot.  </s>
+<s> good luck vapcmd  </s>
+<s> that &quot;partitioning and formatting&quot; simply means a complete instal of the operating system and other applications and all that involves - and that's it??? from all i have read on this subject, i have always thought that when they were talking about &quot;partitioning and formatting&quot; they were talking about something that was completely different from anything i have experienced.  </s>
+<s> thanks so much again for helping me see the light on this.  </s>
+<s> but in today's world when an end user wants their drive formatted then expect the os to be reinstalled.  </s>
+<s> i can format a drive in a minute so i had to change my definition of &quot;format&quot; according to who i'm conversing with.  </s>
+<s> if i'm talking to technical type people, we know that formatting is just that and not an os install.  </s>
+<s> partitioning is again what it is.  </s>
+<s> one can partition without formatting.  </s>
+<s> in fact an older database program (sybase) would use a raw partition and not one that was formatted.  </s>
+<s> defining these terms can help you get the job done as you expected.  </s>
+<s> bob  </s>
+<s> - partitioning is just that . . .  </s>
+<s> primary, extended or logical within an extended.  </s>
+<s> - formatting is just that . . .  </s>
+<s> fat, fat16, fat32, ntfs, etc., - installation of the os is just that.  </s>
+<s> however partitioning must take place before you can format and formatting must take place before you can install an os. depending on what os you're installing and whether you select 'standard installation' vs. 'custom installation' ... some or all these operations may take place without reference to the words 'partitioning or formatting'.  </s>
+<s> vapcmd  </s>

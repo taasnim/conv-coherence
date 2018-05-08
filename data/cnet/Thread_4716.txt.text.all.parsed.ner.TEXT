@@ -1,0 +1,35 @@
+<s> are there 2 categories of hard drives, one is advanced format, the other traditional format?  </s>
+<s> but the spec sheet did not tell us these are the new 4k sectors.  </s>
+<s> you may have to ask wd. why do you ask? i've used both types and the only time i see an issue is on outdated oses.  </s>
+<s> bob  </s>
+<s> see the feedback on the fifth row.  </s>
+<s> depends on the seller(not always) to provide that when the &quot;maker&quot; usually does.  </s>
+<s> what a seller may provide is a link to specs or maker's own support.  </s>
+<s> there is only so much room for info and most sellers provide the basics.  </s>
+<s> if you ever want a specific need or want direct data, then go to the source, the maker.  </s>
+<s> and yeah sometimes it doesn't make sense to the uninformed or those lacking knowledge on the latest developments until much later explained in common lingo.  </s>
+<s> which is why those users that are on the cutting edge, get cut.  </s>
+<s> even i as an informed tech and such, get hosed because so much is being tossed out there.  </s>
+<s> even with notes, memos, phone calls, or links, etc., no one can know what's what until handled in practical terms.  </s>
+<s> please explain your circumstances why all this is an issue.  </s>
+<s> let's hope this isn't an os(xp) issue overall.  </s>
+<s> but heck, one link i provide shows you can use an af pgm.  </s>
+<s> to get what maybe what you're looking for that product.  </s>
+<s> tada -----willy  </s>
+<s> from the data sheet.  </s>
+<s> so 750,000,000,000 divided by 1,465,149,168 should be our clue.  </s>
+<s> i get a number close to 512.  </s>
+<s> what do you get? good question but since the spec sheet lets us figure it out, should we expect folk to know how to do this if they are in this deep with pcs?  </s>
+<s> bob  </s>
+<s> i read an article online the day before that the earlier af drives are needed an align software, but the latest ones are automatically aligned.  </s>
+<s> few months ago, i installed xp to a 6g/s 2t drive which i did not know it is an af drive then, but somehow, it has not caused any problem so far.  </s>
+<s> i just didn't know why the non-af drives can be af formatted but not vise versa.  </s>
+<s> i don't want to upset you but by post was so you could figure it out given the existing documents.  </s>
+<s> bob  </s>
+<s> if an af drive is formatted/partitioned in windows vista, 7, or 2008, is it still need to align?  </s>
+<s> in this case, is it compatible with windows xp? thanks  </s>
+<s> at first it was a big deal.  </s>
+<s> today i rarely see anyone fret about it.  </s>
+<s> to the second question, no. not really.  </s>
+<s> xp has an 127gb install limit and no sata support and i found that i could not use the sata drivers unless i had xp sp2 cds.  </s>
+<s> so if we take your question as-is, the answer is no. bob  </s>

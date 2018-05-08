@@ -1,0 +1,85 @@
+<s> i have looked at some resovled questions here and am a little reluctant to post, but this is a serious security difficulty.  </s>
+<s> so please help if you possibly can suggest something!  </s>
+<s> tks - os: win 7 starter 2 gb ram been on search for a router for a hp mini 2100 series with a mobile usb port modem (as in what cellular companies are selling for portable connection, you know, the usb port stick type). the modem plugs directly into the mini 2.0 usb port and provides internet access at home or mobile.  </s>
+<s> called hp support and they sold me a cisco linksys (3200 i believe), quite expensive, that didn't work because this modem has no ethernet ports or cables and the cisco linksys no usb ports to plug modem into. the hp mini 2100 has no ethernet rj-45 connector either.  </s>
+<s> had to be returned.  </s>
+<s> bought a modem from an online company, cradlepoint, that advertised a router as being confirmed to work with my isp, clearwire, and my usb port modem.  </s>
+<s> slowed the system down to below dialup speeds with any &quot;firmware&quot; software they could furnish for windows 7 starter edition with wireless n capability.  </s>
+<s> had to be returned.  </s>
+<s> this is a wimax 4g signal running at 2.5 (not your typical 2.4) . the modem itself is a ubee 1900 from china.  </s>
+<s> nothing seems to work as a router.  </s>
+<s> clearwire offers one hotspot, g wireless, with security level wep, i think.  </s>
+<s> not too attractive in terms of security; don't know if that &quot;apollo&quot; router offered by clear would work.  </s>
+<s> anyone solved this problem of a router accepting a usb port modem and that one can connect to wirelessly thereafter and that's still portable?  </s>
+<s> something sounds very non-standard here.  </s>
+<s> i have no idea why one can't use a netbook and that usb stick to create a solution.  </s>
+<s> i offer no solution but if you want to look at this, read the next link.  </s>
+<s> can you tell the forum why you decided to go out on a limb?  </s>
+<s> bob  </s>
+<s> what is sounding nonstandard, please?  </s>
+<s> i wanted hardware router security added to this mobile system with a wpa2 standard.  </s>
+<s> is that achievable?  </s>
+<s> correction: hp sold me a now returned linksys 4200 n wireless router which won't accomodate a usb port modem. the returned cradlepoint was a ctr35, which has a usb port but no firmware available which didn't denegrate system speed to below dialup standards.  </s>
+<s> thanks.  </s>
+<s> trying to set up hardware mobile router here with a netbook and a usb port modem?  </s>
+<s> cradlepoint said they had one - ctr35 model - which did not work.  </s>
+<s> does such router hardware exist that anyone knows of?  </s>
+<s> that is very strange i have had good luck with cradlepoint but there are lots of devices so you never really know but they tend to be your best bet.  </s>
+<s> you can also see what sprint has clear and sprint use the exact same network.  </s>
+<s> now up until a couple of months ago you could use register sprint stuff on a clear plan, not sure if that is true sprint made lots of changes to its offering.... took away unlimited data with no cap is the big one.  </s>
+<s> i would contact cradlepoint support and see what they have to say.  </s>
+<s> these type devices are key to their business so you would think they need to make it work.  </s>
+<s> since clear markets their product primarily to the home user who would want a router you would think cradlepoint would be on top of this one.  </s>
+<s> this is a extremely specialized market so you are not going to find a lot of options.  </s>
+<s> well, first, thanks richard and bill.  </s>
+<s> if i was confident virtual software protection worked, i'd adopt that.  </s>
+<s> i will looked into the open source software; thanks, richard.  </s>
+<s> and, bill, i spent two and half hours with 3gstore support, trying different firmwares and redoing speed tests and then trying it without the router. the support person was extremely nice, but ultimately seemed to conclude that maybe it was my 32 bit win7 starter with ie9, which seemed odd because cradlepoint states windows 7 had been tested and worked.  </s>
+<s> may i voice a suspicion that maybe all the field testing has not been done except by consumers (?); i don't know.  </s>
+<s> anyway, this sounds like a quest for don quixote with some windmills to tilt at.  </s>
+<s> i get the impression more and more that maybe this hardware doesn't exist.  </s>
+<s> and that strikes me as odd as the tech emphasis is mobility, and more and more people have to be using highly portable usb modems to connect laptops, tablets, ereaders, etc. but maybe i'm wrong there.  </s>
+<s> what do cell phones use to protect their networks?  </s>
+<s> the long and short is happy holidays and thanks very much for the information!  </s>
+<s> &quot;ubee 1900 from china.&quot; there are a few that pop in here with products imported from there with no support.  </s>
+<s> i can't support such either.  </s>
+<s> that's the limb i noted.  </s>
+<s> because i know of another solution, i shared it.  </s>
+<s> bob  </s>
+<s> bob, despite messing with this software quite a bit, i couldn't get it to start the router.  </s>
+<s> i know you said you didn't know if it would work, but just thought i'd throw that in in case anyone else is trying for mobile, light router.  </s>
+<s> also tried sandboxing with bufferzone free, which lugged down system speed, as well as holding open ports 135, 139, and 445.  </s>
+<s> so it looks like clearwire's apollo is my last option (??) unless anyone knows of anything else.  </s>
+<s> thanks again for help and devoting time to this.  </s>
+<s> the few times i tried this i found nothing about sandboxing.  </s>
+<s> something is way off base here or i missed some feature of this app. the system speed should indeed take a dive.  </s>
+<s> we're turning our machine into a router.  </s>
+<s> bob  </s>
+<s> sorry to confuse the issue. the software you suggested is the virtual router i couldn't get to start.  </s>
+<s> bufferzone free is sandbox virtualization software reviewed elsewhere in cnet.  </s>
+<s> i found bufferzone held ports open - 135, 139, 445 - in addition to really slowing down browser speed.  </s>
+<s> maybe a netbook with only 2gb of ram, an atom processor, and windows 7 starter edition just isn't a good candidate for these types of programs.&lt;div&gt;  </s>
+<s> &lt;/div&gt;  </s>
+<s> it did the job well and at 7 watts rivaled the power used by most routers.  </s>
+<s> but something differed in my setup.  </s>
+<s> no one used the netbook directly.  </s>
+<s> it did the router task and that's all.  </s>
+<s> bob  </s>
+<s> the clearwire 4g hotspot apollo is supposed to combine both functions, router and hotspot wi-fi point.  </s>
+<s> so i'll see.  </s>
+<s> thanks again, bob, for all suggestions which were extremely interesting.  </s>
+<s> this is my portable lightweight all format ereader, email responder, basic office 2010 starter, angry birds and other light games and is used daily.  </s>
+<s> so i hope this works.  </s>
+<s> cradlepoint just sent notice of receipt of order return and has seemed quite nice throughout entire transaction with them at least so far.  </s>
+<s> so is interesting to try new things.  </s>
+<s> this is my first attempt at doing this and hopefully will make me better at trying to network both my laptops and some other devices.  </s>
+<s> well, it's jan 7, 2012, and i finally have the proprietary clearwire 4g hotspot &quot;apollo&quot; set up and working somewhat.  </s>
+<s> for those who are clearwire isp users, giving wireless download speeds ranging from over 5000 kbps to under 800 kbps in the first 24 hours, with wpa and wpa2 mixed level, tkip/aes encryption of a 54mbps limited broadband g standard.  </s>
+<s> at least it works for now and was priced between other two routers.  </s>
+<s> have it connected on a speed cap removed monthly clear account.  </s>
+<s> hp refunded linksys product in full.  </s>
+<s> cradlepoint refunded two/thirds of purchase price of their unworkable router that they recommended via telephone support and that i had for 14 hours total.  </s>
+<s> beware of the 3g store returns policy; it costs.  </s>
+<s> have already encountered wireless speed drops due to tower congestion, but ces is headed our way this week.  </s>
+<s> hopefully will get a video streaming capability out of all this.  </s>
+<s> thanks, cnet and bob, for advice and trying to help!  </s>

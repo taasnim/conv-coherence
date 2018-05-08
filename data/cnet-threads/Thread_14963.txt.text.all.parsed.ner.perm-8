@@ -1,0 +1,6 @@
+(TOP (S (NP (NP (CD hi) (NN friend)) (PP (IN in) (NP (NP (PRP$ my) (NN system)) (PP (IN in) (NP (NN run) (NN regedit)))))) (VP (AUX is) (RB not) (VP (VBG working) (S (NP (PRP i)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (MD may) (VP (AUX be) (ADJP (JJ due) (PP (TO to) (NP (NNS virues)))) (SBAR (IN if) (S (NP (PRP i)) (VP (ADVP (NN type)) (VBP regedit) (SBAR (S (PP (IN in) (NP (VBN run) (NN dialogue) (NN box))) (NP (PRP it)) (VP (AUX is) (VP (VBG saying) (SBAR (IN that) (S (NP (NN regedit)) (VP (AUX is) (VP (AUXG being) (VP (VBN disabled) (PP (IN by) (NP (NP (DT the) (NN administrator)) (SBAR (S (VP (AUX is) (ADVP (RB there)) (NP (NP (DT any) (NN possiblity)) (PP (IN of) (S (VP (VBG retaining) (NP (NN regedit))))))))))))))))))))))))))))))) (. .)) )
+(TOP (S (PP (IN in) (NP (DT this) (NN link))) (NP (EX there)) (VP (AUX is) (NP (NP (DT a) (NN link)) (PP (IN for) (NP (NP (JJ kellys) (NN korner)) (PP (IN with) (NP (NN tip))) (NP (# #) (CD 275) (NNP tom))))))) )
+(TOP (S (VP (VBG thanking) (NP (NNP u)))) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (DT this)) (VP (AUX is) (NP (DT the) (NN hardware) (NN forum))) (. .)) )
+(TOP (S (NP (PRP you)) (VP (MD might) (VP (VB try) (NP (PDT such) (DT a) (NN post)) (PP (IN in) (NP (NP (DT the) (NN forum)) (SBAR (WHNP (WDT that)) (S (VP (VBZ matches) (NP (DT the) (NN os)) (PP (IN with) (NP (DT the) (NN issue)))))))))) (. .)) )

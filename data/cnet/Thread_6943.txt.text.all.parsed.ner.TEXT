@@ -1,0 +1,15 @@
+<s> i have a home pc and a laptop.  </s>
+<s> i have connected them with an ad-hoc wireless network.  </s>
+<s> i can ping both ip address ok. the problem is my home pc can't look at any files on the laptop and the laptop can't access the internet on the home pc, the laptop can see all files on the home pc. i have checked they are both in the same workgroup and the ip addresses are allowed on my firewall.  </s>
+<s> please help!!!!!!!  </s>
+<s> what operating systems are on the computers?  </s>
+<s> what firewall(s) are running?  </s>
+<s> did you run network setup wizard on both computers?  </s>
+<s> i have windows xp pro running on both machines.  </s>
+<s> both have zonealarm pro firewall and ran network setup wizard on both machines!  </s>
+<s> using an adhoc mode network, one has to enable internet connection sharing on the host machine.  </s>
+<s> here's the scoop on this setup &gt;&gt;&gt;  </s>
+<s> i have already looked at the internet sharing connection and found nothing wrong with that side of it. the weird thing about all this is that when i take my laptop to work, we have a stand alone pc which has broadband on it and i connect directly to that pc with a patch cable and everything works fine!  </s>
+<s> i can access all files from host pc to laptop and other way round, also the internet works every time!!!  </s>
+<s> on the host's end.  </s>
+<s> recheck your ics setting box of your wireless lan properties.  </s>

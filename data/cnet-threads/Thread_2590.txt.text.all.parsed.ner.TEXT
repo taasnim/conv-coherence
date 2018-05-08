@@ -1,0 +1,97 @@
+<s> summary - windows xp pro sp3 will not install when apic is enabled in bios.  </s>
+<s> hardware - asus m4a785-m (flashed to latest bios version of 1006), 2 sticks of 1gb ddr2 800 from g.skill, geforce 8400gs 512mb video card in the pcie 2.0x16 slot, athlon ii x4 640 3.0 ghz 95w processor, hard drive connected via sata, 480w power supply.  </s>
+<s> details - i originally had this system running with a sempron processor without any problems.  </s>
+<s> i then upgraded to the athlon ii quad core.  </s>
+<s> everything seemed to be okay for a while (although i never did check to see if all 4 cores were running).  </s>
+<s> i got a bsod one day and the system would not boot (even into safe mode) without a bsod.  </s>
+<s> i noticed that the hard drive reported some bad sectors, so i backed up what i could and re-formatted and did a clean install of xp pro sp3.  </s>
+<s> when the system did its first re-boot during install, i got a bsod of no_more_irp_stack_locations.  </s>
+<s> i get this error no matter what i have tried, except for turning off apic in the bios.  </s>
+<s> when i turn off apic, xp will install correctly, but of course it installs as a standard pc and only one core is active.  </s>
+<s> what i've tried - i originally thought this was a hard drive problem, since bad sectors were being reported.  </s>
+<s> however, i've checked the hard drive with the manufacturer's testing program and all was well.  </s>
+<s> i also have tried using a completely different drive with no luck.  </s>
+<s> that rules out a problem with the hard drive.  </s>
+<s> i also suspected bad ram.  </s>
+<s> i've tried moving the two sticks around into different slots with no success.  </s>
+<s> i also ran memtest overnight without any errors.  </s>
+<s> that seems to rule out bad ram as a problem.  </s>
+<s> i then turned my attention to the other hardware, and i've tried removing all peripherals and the video card before installing xp pro.  </s>
+<s> i had no success there, either.  </s>
+<s> i suspect the hardware is fine, as i can run a livecd of ubuntu without any problems, and with all four cores running.  </s>
+<s> i tinkered around with various bios settings, which is how i discovered it was related to the acip setting. the first thing i did was flash to the latest bios version (1006), but no luck there.  </s>
+<s> i've read that people have tried disabling legacy usb support and apm before install, but that did not work for me.  </s>
+<s> i tried using the setup defaults, and also turning off acpi and pnpos, but nothing helped. the only setting that changed anything was to disable apic.  </s>
+<s> i even tried forcing xp pro to choose a different hal during install.  </s>
+<s> i disabled acpi and tried to force the mps multiprocessor hal.  </s>
+<s> that gave me a different bsod (bad_pool_header), but it did not fix my problem.  </s>
+<s> overall, i've tried installing xp pro at least a dozen times trying different settings.  </s>
+<s> this has been the most frustrating computer issue i've had, and i'm out of ideas.  </s>
+<s> right now i'm running xp pro with only one core of my quad core active, which is a big hit on performance.  </s>
+<s> i'm also starting to get some random lock-ups, but i don't know if they are related to the apic issue or not.  </s>
+<s> if anyone has any ideas on how to get xp pro to communicate with this motherboard when apic is activated, please let me know.  </s>
+<s> unless this xp pro is some odd ball hacked version i have to take the errors as the sign they are.  </s>
+<s> some hardware issue. the 8400 video card is a known bad thing.  </s>
+<s> try another card.  </s>
+<s> and also try linux.  </s>
+<s> if linux fails we know... bob  </s>
+<s> thanks for the reply.  </s>
+<s> as i mentioned in my post, i don't think it is a hardware issue.  </s>
+<s> i have removed the video card from the system and used the on-board video with the same results.  </s>
+<s> i also mentioned that i've tried linux - i can run ubuntu with no problems whatsoever.  </s>
+<s> any other ideas?  </s>
+<s> i should also mention that the xp pro sp3 disk is the real deal.  </s>
+<s> no hacked versions here.  </s>
+<s> you will be in an endless loop.  </s>
+<s> xp installs without such drama on good machines.  </s>
+<s> sorry but this lesson is a hard one for some.  </s>
+<s> that is, there are folk that feel that windows xp has some flaw that causes the above issue.  </s>
+<s> yes there is that sata hard drive support item but here, we are looking for something amiss with the machine.  </s>
+<s> now that you've declared it's not hardware, i have to unsubscribe and wait.  </s>
+<s> bob  </s>
+<s> bob, i'm not necessarily blaming xp. i just think that the processor, chipset, and xp aren't communicating when it comes to apic. it could be a hardware issue that ubuntu ignores and xp doesn't.  </s>
+<s> maybe i have a flaky chipset or processor.  </s>
+<s> i don't usually have this much trouble tracking down problems, but this one has me stumped.  </s>
+<s> is not hard, just can cost us some coin.  </s>
+<s> for years i've fixed these by swapping out the parts (cpu, board, etc) until we find the bad part.  </s>
+<s> but that's the rough lesson for some new techs.  </s>
+<s> once in a while you encounter the new tech that thinks it's some bug in xp. if it was, then what would you do?  </s>
+<s> you found a workaround for the hardware so there are choices to either replace the parts or just let it stay with apic disabled.  </s>
+<s> bob  </s>
+<s> while you point out the apic issue is the root of your problem.  </s>
+<s> that in turn suggests the mtrbd, which supports this feature maybe less than it should be.  </s>
+<s> further, since it all worked before and now you have a new cpu of quad-core the chipset or mtrbd. is lacking in its output.  </s>
+<s> you've basically have found a achilles heel or glitch because at the time of the initial release the cpu wasn't supported or full support has fallen.  </s>
+<s> that mtrbd, if replaced(with newer) would probably resolve the problem and/or reduce the cpu core(s) and or demand less from it. it boils down from your results, that the mtrbd.  </s>
+<s> just isn't as capable.  </s>
+<s> of course, if it is some xp related issue, then going with win7 install to see if that resolves it provided you want to go that route.  </s>
+<s> i also don't recall xp supporting multiple cpu cores other than xp 64-bit version.  </s>
+<s> even then the 64-bit versions had issues as well.  </s>
+<s> the 32-bit version would acknowledge multiple cores but used only 1, again if i recall right.  </s>
+<s> that info was based on just dual-core, maybe quad-core is too much.  </s>
+<s> add it all up and a glitch is found, imo.  </s>
+<s> tada -----willy  </s>
+<s> i think xp pro supports multiple cores, at least with sp3.  </s>
+<s> otherwise, why would there be multiprocessor hals included?  </s>
+<s> i tried to force both the apci multiprocessor and mps multiprocessor hals, but no luck.  </s>
+<s> you are probably right about the motherboard not fully supporting the x4 processor, or at least not supporting it enough for xp's comfort.  </s>
+<s> so far i haven't been able to get anything out of asus about it, though.  </s>
+<s> not an issue here.  </s>
+<s> i think you are looking at a hardware issue or a bios one but the only new thought i have is the ram speed seems low.  </s>
+<s> bob  </s>
+<s> bob, what do you mean by ram speed? the ram is rated ddr2 800, and i have it set to the spd settings in bios.  </s>
+<s> do you think it should be set at 1066, even though it isn't rated for it?  </s>
+<s> there's another clue (sort of like the sound of a shoe dropping.) if you are manually setting memory timing it makes me think the bios is daft or the memory speed is not in sync with the new cpu. the links i skimmed over seem to note 1066 as the bottom end speed to fit with this cpu?  </s>
+<s> bob  </s>
+<s> i'm not setting the memory timings manually.  </s>
+<s> they are set at the automatic spd detect.  </s>
+<s> are you saying that you think my memory is too slow for the cpu?  </s>
+<s> when i read &quot;and i have it set to the spd settings in bios&quot; i thought you were entering in the timing.  </s>
+<s> yes, it sounds a notch too low according to what i read.  </s>
+<s> try this.  </s>
+<s> head to the bios and enter the slowest settings for the ram possible.  </s>
+<s> i don't hold much hope for that but all the above points to some odd bios+cpu issue.  </s>
+<s> xp does fine on quad core machines here and has for years.  </s>
+<s> while i've lost count of how many i installed, the hp d4999t and d5000 we have at home ran xp without such loopiness.  </s>
+<s> now they run 7 64 bit.  </s>
+<s> bob  </s>

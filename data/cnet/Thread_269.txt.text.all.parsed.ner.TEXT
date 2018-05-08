@@ -1,0 +1,77 @@
+<s> i have just bought a new laptop (hp zt 3000).  </s>
+<s> my old desktop has win98.  </s>
+<s> i want to go to xp on the old desktop to network the 2 more easily.  </s>
+<s> i currently only have 96 mb of ram on the desktop with a p2-400 processor.  </s>
+<s> i have 2 more slots open for memory on the desktop.  </s>
+<s> i could get up to 352 mb of ram, with a 12g hard-drive.  </s>
+<s> would this be enough to run the xp? i will also need a network card for the desktop, correct?  </s>
+<s> i want to hook the desktop up wired, and the notebook (which already has wireless card installed) wireless.  </s>
+<s> will i have any problems with this set up?  </s>
+<s> thanks!  </s>
+<s> hi golfsalot,i have a ibm t22 thinkpad,it's about 3yrs old and has a pentium 3@689mhz with 256 0f ram.i think that you may find that your p2-400 will be unable to carry the weight of xp. regards tinkerman.  </s>
+<s> do you have trouble with yours?  </s>
+<s> that much memory is over the minimum required by microsofts support page.  </s>
+<s> does the system crash or is it just very undependable?  </s>
+<s> it you upgrade to over 256 meg of ram , you may be okay with windows xp as far as ram.  </s>
+<s> windows xp is a resource hog though, and will probably cause a system with a 400 mhz processor to run extremely slow.  </s>
+<s> i suggest that you avoid the upgrade to windows xp on the old machine.  </s>
+<s> have you considered buying a new desktop machine?  </s>
+<s> what is the point of networking the old desktop?  </s>
+<s> are there at least two people in your home who might want to use a computer at the same time?  </s>
+<s> yes, my wife and i both would occasionaly need to be online.  </s>
+<s> i will probably go ahead and add more memory but leave the win98 operating system on the desktop.  </s>
+<s> i want to leave the desktop where it is, i have a flatbed scanner (which i use often) and a printer hooked up to it. the laptop i would like to be able to use wireless throughout the house.  </s>
+<s> if you add memory, you should have no problem running xp on the desktop.  </s>
+<s> i have an old dell xps r400 with a 400 mhz p2 and only 128mb of ram running xp pro just fine.  </s>
+<s> i would definitely recommend xp pro over xp home, as it seems to be a more stable system if you can afford the extra $70 or so.  </s>
+<s> (actually, i bought this whole system which included xp pro and office xp on cdroms for around $180 on ebay.  </s>
+<s> i couldn't buy the software alone for that amount anywhere else.) this system is networked with another 400 mhz p2 running win98se and a wi-fi dell inspiron 8200 running xp pro via a netgear wireless router.  </s>
+<s> if you already have a wireless router, then adding an ethernet card to your p2 system would be cost effective.  </s>
+<s> if you don't have the wireless router, you could get a wireless adapter for the desktop and use a peer-to-peer wireless network with the desktop acting as your internet gateway for the hp laptop.  </s>
+<s> incidentally, my internet downloads on the 400 mhz xp pro system run 3 to 4 times faster than the same downloads on the 400 mhz win98 system (via a toshiba cable modem attached to the router.) apparently, xp pro is more optimized for networking than win98se.  </s>
+<s> hope that helps you sir golfsalot.  </s>
+<s> i would not need to make the desktop wireless since it will be a few feet from the router.  </s>
+<s> i would like to wire it and use the laptop wireless.  </s>
+<s> i have a $50 coupon from hp shopping, i was thinking of using it to purchase the router (linksys wrt54g) but,would i be better off to purchase a different wireless network base and use the $50 towards a carrying case for the notebook?  </s>
+<s> you are the first person who has told me that the memory addition would work fine with xp. someone even said since i only had a 12 g hard drive there was no way to even think about xp. if i left the 98 operating system on the dell pc, would there be a lot of headaches trying to get the 2 systems to communicate?  </s>
+<s> thanks again, its nice to know someone is still using a 1998 vintage computer like me!  </s>
+<s> i haven't checked wireless router prices lately.  </s>
+<s> i got my netgear router at costco. it came with a pci 10/100 network interface card (nic) and i think i paid about $79 for the combo.  </s>
+<s> i imagine prices have dropped some since then.  </s>
+<s> i see some in the tiger direct catalog for as little as $30 and nic's as low as $8.99.  </s>
+<s> however, i think you might have missed my point about making the desktop wireless too.  </s>
+<s> if you used a pci wireless adapter card in the desktop, you could get by without any wireless router.  </s>
+<s> your laptop and desktop would communicate with each other directly without going through a router.  </s>
+<s> if you have internet access already set up on your desktop system, you can configure it as an internet gateway to allow the notebook to also use your desktop internet connection.  </s>
+<s> you could buy a pci wireless adapter for as little as $30 and not have to buy a router at all.  </s>
+<s> on the other hand, if you think you may need to add more systems to your home network in the future, or even just a network printer, then a router may be a better choice.  </s>
+<s> most home routers come with at least 4 downlink ports and 1 uplink port that connects to your cable or dsl modem, so this option gives you better expansion capabilities. the wireless portion of the router will usually support 255 wireless connections too.  </s>
+<s> if you're just going to use the laptop around the house, then you probably don't need the carrying case.  </s>
+<s> if you're going to haul it to work or school, then a carrying case is a must.  </s>
+<s> if all you want to be able to do is share data files between the desktop and laptop, then there's no need to install xp on the desktop. the nic card should come with win98 drivers and they're fairly easy to install and configure.  </s>
+<s> the only problem i had when i added the xp system to my network was that neither the win98 nor the xp system seemed to be able to see the shared folders on the other system.  </s>
+<s> it turned out that even though i had created shared folders on the win98 system, the two systems didn't recognize each other until i created a shared folder on the xp system.  </s>
+<s> as soon as i did that, everything worked great.  </s>
+<s> if you did choose to install xp on the desktop, it should not be a problem even with only a 12 gb drive.  </s>
+<s> my xp desktop has a 37.2 gb drive, but only 3.8 gb is used by xp pro, office xp pro, and all my other applications and data.  </s>
+<s> i use a separate 250gb external usb hard drive when i need to store any large download files, so my c drive stays pretty clean. the only other problem i ran into in setting up my home network was that my internet firewall, zone alarm pro, had to be told what computers were on the local network by entering their ip addresses into the trusted systems area before it would allow them to communicate with each other.  </s>
+<s> one final suggestion: cnet's (help.com) has a wireless networking course that might help you understand all your options and the terminology better.  </s>
+<s> one class just ended, but they repeat them fairly often.  </s>
+<s> check it out!  </s>
+<s> i just noticed that help.com has a new &quot;advanced home networking&quot; course that started yesterday.  </s>
+<s> you can sign up for it at  </s>
+<s> i will be wanting to add the printer to the network.  </s>
+<s> i will only want to share folders between the 2 computers so i think that i will forego the price of the new xp operating system.  </s>
+<s> i just have to decide if i want to spend my coupon at hp shopping for a linksys router or spend it on a carrying case.  </s>
+<s> i will also need the interface card for the desktop.  </s>
+<s> thanks again!  </s>
+<s> to install xp you need a minimum of piii - 800 mhz.  </s>
+<s> if you install your systems are not up to the min standard.  </s>
+<s> perhaps you could install windows 2000, maybe.  </s>
+<s> could be a little slow on the bootup... bob  </s>
+<s> i just upgraded an old hp 350 mhz, put 192 pc 100 and the key was a new 20 gig hard drive and it runs xp pro very well.  </s>
+<s> it runs better than it ever has.  </s>
+<s> i also did the same to a gateway 500mhz.  </s>
+<s> put 192 pc 100 ram and again the key to it was a new hard drive.  </s>
+<s> its running great also, with xp pro.  </s>
+<s> skip  </s>

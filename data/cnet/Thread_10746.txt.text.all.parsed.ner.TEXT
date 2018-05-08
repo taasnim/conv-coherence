@@ -1,0 +1,19 @@
+<s> hi !  </s>
+<s> would really appreciate it if some kind soul out there could help me with a small problem.  </s>
+<s> i initially had a wireless connection setup (done by a friend more knowledgeable than me) at my place with a dsl modem & wireless router (linksys wrt54g) and it was running perfectly well.however  </s>
+<s> i recently shifted to a new house and tried to setup the wireless connection - but i'm unable to do so.the only thing thats changed is the dsl modem (same make/model/isp but different location and therefore different settings like username/password).i checked the router's settings and found it set to &quot;dhcp&quot; mode at the 'basic settings' tab.i re-checked all the physical connections (modem to router & router to pc) and they're fine.  </s>
+<s> so currently i can connect to the router wirelessly (it shows up among the wireless connections) but after connecting to the router i'm unable to connect to the internet.as  </s>
+<s> of now i'm accessing the internet by being directly connected to the dsl modem by an ethernet cable.  </s>
+<s> additionally - one peculiarity is that i can now access the router through the web browser - whereas earlier (when the connection was working) if i typed 192.168.1.1 in the browser i could not access either router or modem.  </s>
+<s> i understand the information i have given is a bit vague on account of being a rookie but would appreciate any help - i can certainly provide more info if it would help clarify the problem.  </s>
+<s> thanks in advance !!  </s>
+<s> dsl requires more setup than say a cable modem.  </s>
+<s> but given only the details so far all i can say is that the details are missing.  </s>
+<s> tell more.  </s>
+<s> i saw westell but can't tell model and settings.  </s>
+<s> check the router's config page.  </s>
+<s> find the status on your wan. the ipaddress should be anything but 192.x.x.x on the wan side.  </s>
+<s> if you have a 192.x.x.x, see if you can release/renew the number.  </s>
+<s> thanks phil - the problem's solved now.apparently  </s>
+<s> there was an overlap b/n the modem & router's ip address range.i fixed that and now everything's fine.  </s>
+<s> thanks for the help.  </s>

@@ -1,0 +1,41 @@
+<s> hi, i hope someone can help.  </s>
+<s> i have an old pc (6 year old mesh - amd 1.1, a7v motherboard) which has started to behave very oddly.  </s>
+<s> one day it simply wouldn't turn on.  </s>
+<s> i tried over a period of a few days and then gave up, thinking it was new pc time (which it probably is anyway).  </s>
+<s> however, having left it a few days i tried again and it booted fine, worked until i switched it off at the mains and then wouldn't boot again.  </s>
+<s> i have since discovered that if i leave the pc plugged into the mains (i always used to turn the mains plug off) it will quite happily boot every time.  </s>
+<s> however as soon as i unplug it from the mains supply it dies again for a few days.  </s>
+<s> i've checked connections, had a look at the power supply etc. i'm sure it must be something to do with the power supply or mother board.  </s>
+<s> i have considered replacing the battery, but i can't see why that would prevent booting and my cmos settings seem to be ok. anyone have any ideas ?  </s>
+<s> regards, nick.  </s>
+<s> since the pc seems to be ok when you leave it plugged &quot;into the mains&quot;, i would also suspect the power supply or motherboard.  </s>
+<s> even though the pc is off, there is still power being supplied to the pc. i have an intel motherboard that started to mis-behave when the power was turned off to the power supply, so have learned how to get around the quirck.  </s>
+<s> is there a reason you like to turn &quot;the mains&quot; off?  </s>
+<s> btw: since that way of saying it must mean you are not from the usa, i have to assume you mean turning off the place where the pc is plugged in, correct?  </s>
+<s> either by unplugging or with a switch to turn off the plug, like a power strip.  </s>
+<s> if turning off the main means the switch on the power supply it could be the switch just not working all the time.  </s>
+<s> switches sometimes go bad where they work sometimes and not other times.  </s>
+<s> by what you said i am thinking that when it is warm and you turn it off then try to turn it back on it is not throwing but when it sits and cools off it contracts and is able to work again.  </s>
+<s> your saying that if left on it always boots so this sounds even more like it is probably the switch.  </s>
+<s> it could go on a long time like this or it could fail all together soon. the only time i use that switch is if i am working on the inside of computer and a lot of new power supplys do not even have that switch.  </s>
+<s> if you are not having any problems now with power issues just keep on using it because the switch only opens and completes the circuit.  </s>
+<s> when it is in the off position it causes an open in te circuit and when on completes the circuit  </s>
+<s> i've had this exact problem.  </s>
+<s> turned out i had a cracked motherboard.  </s>
+<s> once the motherboard heated up it would start acting up and stop working.  </s>
+<s> let it sit and it would work again for a while.  </s>
+<s> you might try re-seating all pci, memmory and processor.  </s>
+<s> that could help.  </s>
+<s> otherwise, it might be time for new pc.  </s>
+<s> and isn't holding it's charge when the power supply is off.  </s>
+<s> remember that there is still 5 volt logic power to the mobo when the supply is powered from the ac even if the system is off.  </s>
+<s> i've decided i can't live with this problem and as the pc is long past it's sell-by date (amd 1.1, geforce2, top-notch at the time), i now have a new core2 duo e6700 with all the trimmings on order ... don't tell my wife or bank manager i'm still curious (i hate defeat), so i may try replacing the battery, just to see if that makes any difference - i can then use the old pc as a server. the switch is moulded into the case which makes changing it an ugly job, and if it's the motherboard it's probably not worth worrying about.  </s>
+<s> thank you all for your help ...  </s>
+<s> just for those with a similar problem, i replaced the cmos battery, and as expected it made no difference...  </s>
+<s> may yield a clue.  </s>
+<s> they swapped in a new psu then the old one.  </s>
+<s> i'm betting on a connection issue there.  </s>
+<s> have you done this?  </s>
+<s> bob  </s>
+<s> your power supply is dying.  </s>
+<s> change it  </s>

@@ -1,0 +1,38 @@
+<s> first, i want to say thanks for all the responses to my previous post.  </s>
+<s> here's wht i have, and here's what i need: i bought a belkin wireless g router, have installed the software on my desktop that has win xp. that is working fine, as far as i know, i am able to get on internet from desktop with it all hooked up.  </s>
+<s> problem is, i'm not sure how to get my notebook to recognize the router.  </s>
+<s> it is a toshiba tec 8200 that has a wireless 802.11b pcmcia card.  </s>
+<s> i've tried belkin's tech support for an hour online with no human, so i'm turning to the techies here.  </s>
+<s> i thought maybe i had to install the router software on to my laptop, but it doesn't seem right, it's telling me not to hook up router yet, as if it's the first time.  </s>
+<s> anyway, i tried just opening internet explorer on my laptop, but no network settings detected.  </s>
+<s> what am i doing wrong here??? my network card should be compatible as far as i know.  </s>
+<s> help!  </s>
+<s> a wireless icon on the taskbar?  </s>
+<s> when right clicked does it offer to view available wireless networks?  </s>
+<s> the problem is your router is probably set to g only.  </s>
+<s> what you need to do is go into your router and change the setting from 54g only to 54g auto.  </s>
+<s> 1. go to router page (default is 192.168.2.1) 2. go to &quot;channel and ssid&quot; on left collum 3. under wireless mode, click the arrow and change it to 54g-auto.  </s>
+<s> hope this helps!  </s>
+<s> forgot to say the default password on the belkin router is nothing....just push submit, and you have to use the wired computer.  </s>
+<s> i read somewhere that i should not use the default ssid, if i change it, how many characters should i use?  </s>
+<s> and, on my laptop, the tray icon for local area connection is x'd out with my wifi card in.  </s>
+<s> thanks again!  </s>
+<s> i don't understand how to follow your directions.  </s>
+<s> sorry, can you tell me how to get to the router page again?  </s>
+<s> thanks.  </s>
+<s> hi, i can't see any icon for wirelss adapter, i do have an icon that says intel peoset that gives a choice to select an adapter.  </s>
+<s> it gives an ip address, network drive status is loaded, etc.... i checked my device manager and the network card is working.  </s>
+<s> i have 2 icons in the control panel, one says wirelss link, one says wireless network.  </s>
+<s> under wiress network, it ask me to add/edit configure a profile.  </s>
+<s> i have no clue what to do here.  </s>
+<s> this is a second hand computer that was obviusly configured for another network.  </s>
+<s> can you help?? thanks.  </s>
+<s> what is the model name of your belkin router?  </s>
+<s> router manufacturers usually have a quick start instruction manual (usually a couple pages with pictures) that will tell you how to access the router's administration page.  </s>
+<s> if you don't have this, download it from belkin.com.  </s>
+<s> that you are apparently running on your taskbar has the needed tools to connect to your router.  </s>
+<s> if your ip/subnet/gateway addresses are all proper for your router, you should have no trouble connecting.  </s>
+<s> report back on those figures as well as the os and network adapter being used.  </s>
+<s> i went to my win 2000 laptop's &quot;network and dialup connections&quot;, opened up the x'd out &quot;local area connection&quot; (is that correct?  </s>
+<s> there was another &quot;home&quot; network icon that when i clicked asked for user name and passwordand wouldn't connect) then highlighted internet portocol tcp/ip, clicked on &quot;properties&quot;, typed in ip address i found on my xp desktop 192.169.2.1, submask 255.255.255.0 dns server 192.168.254.254.  </s>
+<s> still no luck connecting, i'm sure it has something to do with he previous server and it's probably something fairly simple but i can't figure it out.  </s>

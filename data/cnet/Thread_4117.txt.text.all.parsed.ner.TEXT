@@ -1,0 +1,29 @@
+<s> i am looking for a schematic for an older compaq 5bw12 or at least a detailed sequence of what components are tested before permission is granted (via ps on) for the switching supply to power up. the computer has a 600mhz celeron cpu. the power supply bench tests ok with all voltages ok. in the machine the +5 volt standby voltage is present and one wire to the front panel switch is at a logic high (+3.66 volts) the other side of the switch is at logic low (0 volts) pushing the switch makes both sides of the switch 0 volts.  </s>
+<s> but the ps on pin going from the mobo to the ps always remains high (+4.98v) and permission is never given for the switching supply to power up the main board.  </s>
+<s> removing the cpu and cpu fan, or the memory sticks does not change any thing.  </s>
+<s> any information or ideas for additional checks would be appreciated.  </s>
+<s> thank you tom r.  </s>
+<s> sadly, such schematics are non-existent outside of compaq (now hp) design offices.  </s>
+<s> the brutal reality is that service at a component level exceeds the cost of replacing the motherboard or power supply.  </s>
+<s> you may not flame me over the state of affairs, but we could discuss that changing the power supply is a good idea or trying this power supply on some other old atx board could reveal where the issue is.  </s>
+<s> at the end of the day, you can keep searching for non-published schematics or decide you want the machine fixed by replacing the failed parts.  </s>
+<s> a nuisance to some is that machines may not power up is the cmos reset jumper is missing or in the wrong position or if the cmos battery is missing or too low a voltage.  </s>
+<s> bob  </s>
+<s> remove all cards except monitor card and memory, remove drives, try to bring the board up with just the memory and monitor, this will indicate if the motherboard has failed, remember the bios is the final arbiter of the power on sequence.  </s>
+<s> it has it's instructions to look for a power good signal before allowing boot up.  </s>
+<s> if the circuit on the motherboard failed this test it will not allow the board to post.  </s>
+<s> norm  </s>
+<s> thank you for your reply.  </s>
+<s> i am sure you are correct about the non-availability of schematics. the power supply functions out of the unit with p-on forced and loaded into an old hard drive.  </s>
+<s> the ps also works in another unit.  </s>
+<s> i checked out the battery and it checks 3 volts in circuit. the owners manual i have on this machine does not indicate if the mobo has a cmos jumper but since the system had been working and suddenly refused to power up i would not suspect a jumper missing or in the wrong place.  </s>
+<s> i pulled the battery overnight in an attempt to reset the cmos: nothing i have tried makes any change.  </s>
+<s> i cut the green wire (p- on) and by using a 10 k resistor to common did a thevenin calculation looking into the power supply and then into the mobo. the ps has a pull up to v standby that equates to 2.5k (that sounds reasonable); but the mother board is pulling up the p-on line very hard, it theveninizes out as 66 ohms between v standby and p-on, that seems to be an adnormally low impedance to me. it would appear that some component on the board has broken down and is overdriving the p-on signal line to the power down condition.  </s>
+<s> now the decision is whether to retrofit with a new board or toss the whole thing as upgrading this unit may cost more than the purchase of a complete computer package.  </s>
+<s> thanks again for your input.  </s>
+<s> tom r  </s>
+<s> thanks for your suggestions i had tried the unit as a bare bones unit (mother board and crt) this proprietary board has the sound and video built in but i removed all peripheral cards.  </s>
+<s> the mobo fails to issue the power on signal to power up the ps regardless of the configuration of the system.  </s>
+<s> there is never any sign of an attempt to run the post or any sign that the processor ever started to run or boot up.  </s>
+<s> unfortunately the test results are pointing toward the motherboard.  </s>
+<s> thanks tom r  </s>

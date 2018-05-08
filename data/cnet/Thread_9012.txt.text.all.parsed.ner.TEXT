@@ -1,0 +1,27 @@
+<s> i have host pc xp and laptop ibm t22 xp. i successfully made a wirless network that was up and running fine until two days ago.  </s>
+<s> i havent had it long.  </s>
+<s> i then decided to fix up some security in the router - a dlink g604t.  </s>
+<s> fine!  </s>
+<s> went to log on my laptop and found crosses on my voyager usb adapter...no network connection present and media is disconnected in ipconfig.  </s>
+<s> i seem to have tried everyhting.  </s>
+<s> even starting from scratch by setting router back to default and starting all over again.  </s>
+<s> all to no avail.  </s>
+<s> my laptop will simply not recognise that the adapter is plugged in and the lights are on!  </s>
+<s> all lights on router fine and pc running well but i've definately drawn a blank on the laptop.  </s>
+<s> tried system restore to see if i corrupted something during config of laptop after security set up.  </s>
+<s> uninstalled reinstalled adapter.  </s>
+<s> this is aol too but it was working firne for a few days.  </s>
+<s> can anyone shed any light on this please in good old simple jargon as i am a bit of a novice!  </s>
+<s> thanks threepence  </s>
+<s> i have the same problem.  </s>
+<s> i'm using a d-link router with an orinoco network card.  </s>
+<s> i've tried disabling wep security, as well as mac filtering.  </s>
+<s> i've also tried ipconfig /release and /renew.  </s>
+<s> windows wireless client detects my network, with an excellent signal strength, but fails to connect to the network.  </s>
+<s> i'm getting the same &quot;media disconnected&quot; message.  </s>
+<s> help would be appreciated.  </s>
+<s> thanks!  </s>
+<s> i had two adapters (external and internal), which may have conflicted with each other; disabling one didn't work.  </s>
+<s> i opted to using the internal adapter only; threw the external card into my laptop bag.  </s>
+<s> i had to uninstall, then reinstall client and drivers. the installation process is automatic if you're using xp. after reboot, everything was fine.  </s>
+<s> hope this helps.  </s>

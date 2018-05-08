@@ -1,0 +1,28 @@
+<s> here is the short of it 1) my pc froze.  </s>
+<s> 2) i rebooted because it would not respond.  </s>
+<s> 3) i received &quot;boot disk failure load system disk&quot;.  </s>
+<s> 4) i selected repair in the windows xp home edition setup menu.  </s>
+<s> 5) i received the message &quot;setup did not find any hard disk drives&quot; i moved the hard disk drive to another pc and it booted from the drive in question just fine so this problem is not my hard drive.  </s>
+<s> i attempted to reload windows xp using a new sata cable and a new hard disk and i received the same messages described above.  </s>
+<s> i tried this install using all 4 sata ports and had the same errors.  </s>
+<s> i am thinking maybe a bad sata controller on my msi amd motherboard?  </s>
+<s> any ideas?  </s>
+<s> installing xp to a sata hard drive is not simple enough.  </s>
+<s> not to duplicate all the thousands of posts i'll keep it short.  </s>
+<s> 1. you must have a xp sp2 cd or newer plus (read 2, 3) 2. try the bios setting to enable ide emulation or disable ahci.  </s>
+<s> no, i didn't read your motheboard manual.  </s>
+<s> just sharing what i try. 3. if your motherboard doesn't do that, use the drivers from the machine's maker they gave you on the f6 floppy diskette to give xp sata support.  </s>
+<s> good luck, bob  </s>
+<s> 1) i am using xp sp2 cd 2) ide emulation is enabled any other ideas?  </s>
+<s> thanks!  </s>
+<s> take it back to its maker for correction or fixes.  </s>
+<s> as described in first post, this was a working pc until a few weeks ago.  </s>
+<s> when you say &quot;it's&quot; defective, what are you referring to?  </s>
+<s> as far as the setup, it was working fine until this message appeared.  </s>
+<s> i have tested the following: 1) both hard drives are recognized in another pc and windows xp boots correctly.  </s>
+<s> 2) i tried reconnecting the hard drives using a new sata cable and that didn't make a difference.  </s>
+<s> i am thinking that maybe the sata controller went bad? at this point i am following up on the warranty for the mother board.  </s>
+<s> thanks!  </s>
+<s> my bet is the motherboard.  </s>
+<s> it could be settings but if they don't reveal how to set it then it's just a bad board.  </s>
+<s> bob  </s>

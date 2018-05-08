@@ -1,0 +1,17 @@
+<s> i recently got a new pc and would like to put the hd from my old one in it. the new pc is running xp pro, the old one is win98se. is this possible?  </s>
+<s> for 99% of us, you set the old drive to cable select and plug that into the slave ide connection, add a power connection and boot up to explore your old drive's content.  </s>
+<s> bob  </s>
+<s> will i be able to transfer files between the two?  </s>
+<s> new he is ntfs, old is fat32.  </s>
+<s> just got the old hd out and there are only settings shown for master, slave and single?  </s>
+<s> ignore my last post.  </s>
+<s> i have been doing some reading, cable select requires a special cable right?  </s>
+<s> since my old drive has no cs setting wouldn't i just set them as master and slave?  </s>
+<s> would this cause any problems?  </s>
+<s> i don't mean to sound like an idiot but it has been 8-10 years since i have done this! somewhere i read that because one is ntfs and the other fat32 there might be problems?  </s>
+<s> thanks mike  </s>
+<s> set-up the old hd as a slave  </s>
+<s> connected the data and power cables ...and go ! the question is what can you cable the old hdd to in the new system ?  </s>
+<s> is the hard drive in the new system connected to the hard drive by a long skinny cable (sata) or is it connected to the hard drive by a wide flat cable (pata)?  </s>
+<s> perhaps it would help if you identified new system's hdd...make and model number.  </s>
+<s> vapcmd  </s>

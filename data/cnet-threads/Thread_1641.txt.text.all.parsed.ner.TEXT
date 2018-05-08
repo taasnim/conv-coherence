@@ -1,0 +1,110 @@
+<s> running a broadband wireless network with netgear modem/router, two desktops, and one laptop.  </s>
+<s> routine run of spybot s&d today zapped my connectivity, and after three system restore operations, the problem is still there.  </s>
+<s> it tells me that this problem is occurring because ''the network did not assign a network address to the computer.'' indeed, running ipconfig shows the ip address and subnet mask as zeros.  </s>
+<s> all other machines not affected, but i am floundering attempting to rectify this problem.  </s>
+<s> i am running winxp home on the affected pc, and winxp pro on the other two.  </s>
+<s> i would very much appreciate some advice on this one.  </s>
+<s> go to the run command and type services.msc  </s>
+<s> and check to see if your dchp client service is running, my computer did the same thing and it helped  </s>
+<s> from: matt dubois [ms] [[one sp2 related update to your standard spiel below is that lspfix (and possibly winsockfix) is no longer necessary with sp2.  </s>
+<s> &quot;netsh winsock reset&quot; will reset the winsock catalog to a nice, clean state.]]  </s>
+<s> ============ how to determine and recover from winsock2 corruption [if you have suddenly lost your internet connection after removing spy-ware (such as newdotnet, and commonname) the following steps will help restore your connection.  </s>
+<s> this works for windows 9x/nt/2000/xp.  </s>
+<s> 1.) download winsockfix.zip.  </s>
+<s> (by: option^explicit) 2.) unzip winsockfix.zip  </s>
+<s> (pay close attention to where the file is extracted to.) 3.) run winsockfix.exe.  </s>
+<s> 4.) click the fix button.  </s>
+<s> this program will clean up your tcp/ip connection and rebuild the database.  </s>
+<s> after the program is complete, reboot and your problems should be resolved.  </s>
+<s> ---------------------- winsock fix winsock and tcp repair utility this utility restores registry keys, that may become corrupt after removing the host program that modified them.]  </s>
+<s> ----------- the winsockfix utility will: 1.) detect your current operating system 2.) release the ip address, taking you &quot;offline&quot; 3.) reset the tcp stack using netsh.exe  </s>
+<s> (windows xp only) 4.) delete the current registry tcp and winsock values 5.) import new &quot;working&quot; registry values 6.) backup any current &quot;hosts&quot; file 7.) replace the &quot;hosts&quot; file with a default one 8.) reboot the computer ================ winsockfix.zip  </s>
+<s> direct download winsockfix.zip  </s>
+<s> direct download ============= winsockfix.zip also available here: winsockfix.zip also available here: dealing with unwanted spyware and parasites repairing your winsock connection lsp-fix repairs winsock 2 settings, caused by buggy or improperly-removed internet software, that result in loss of internet access direct download using lsp-fix to remove spyware & hijackers .  </s>
+<s> =============== &quot;operation was attempted on something that is not a socket&quot; error message when you try to obtain an ip address [ln];318584 error message when you try to connect to network: an operation was attempted on something that is not a socket --  </s>
+<s> i thought about it a bit, and noted the addresses by using ipconfig on the other computers in the network, then manually entered the logical missing address on the affected machine.  </s>
+<s> where there's a will there's a way, it seems!  </s>
+<s> this message from matt giving me winsock fix has saved my life.  </s>
+<s> i don't quite know how newdotnet got on my machine but i do know that it took a lot work to get if off and then i lost my internet.  </s>
+<s> i tried everything, i was on the verge of reinstalling my windows partition but i decided to wait till i could use someone else's internet.  </s>
+<s> this was the perfect post, i typed &quot;network did not assign a network address xp&quot; into googel and this was the first on the list.  </s>
+<s> it even stated what i had done to get this problem.  </s>
+<s> i alway come here first for downloads but now i've even more to thankfull for!  </s>
+<s> thank you matt and thank you cnet!!!  </s>
+<s> ping ok but browser faulty.  </s>
+<s> my windows mce reported that it could not access the program guide , so it threw away my channel settings and guide data.  </s>
+<s> i restored my machine , messed about with dns settings .  </s>
+<s> it got so that no browser would work , although i could ping anything .  </s>
+<s> this took maybe 12 hours work.  </s>
+<s> i used the winsockfix , and mce started working again .  </s>
+<s> absolutely brilliant.  </s>
+<s> i note this in case some other poor soul is fighting mce in a similar way & it could save them a load of time.  </s>
+<s> well im having similar problems.  </s>
+<s> its kind of different though my computer is a desktop and i think his is a laptop then again.  </s>
+<s> anyway i tried the suggestions above and they don't work.  </s>
+<s> im sending out ip packets but im not receiving anything.  </s>
+<s> thanks for your help in advance  </s>
+<s> another post so i can track this thread =)  </s>
+<s> running xp pro sp2, winsockfix.exe  </s>
+<s> restored my wireless connectivity flawlessly.  </s>
+<s> thanks for the direction.  </s>
+<s> i was having the same problem with the &quot;network not assigning network address&quot; and win sock fix corrected it with no problems.  </s>
+<s> i was working on this pc for a few days even bought a new network card.  </s>
+<s> well its fixed and i'm going to get my money back, lol.  </s>
+<s> stocks maybe down at this time but i'm keeping my cnet stock no mater what.  </s>
+<s> thanks again!  </s>
+<s> winsockfix fixed it for me too.  </s>
+<s> i spent hours on netgear tech support line with some helpful reps, but after hitting the end of the road they suggested i contact hp about the network adapter.  </s>
+<s> i decided it would be easier to buy a new one which didn't work either.  </s>
+<s> this fix gave me an immediate connection.  </s>
+<s> thanks!  </s>
+<s> hi, i am using a wndows server 2003 os. as i format it n connect tom network.  </s>
+<s> i got error as --&gt;network did not assign a network address?  </s>
+<s> please tell me solution.  </s>
+<s> what exactly did you do on the server (like formatting and installing and configuring)?  </s>
+<s> what exactly did you do on the client (like formatting and installing)?  </s>
+<s> where does the message come up (client or server)?  </s>
+<s> when does the message appear?  </s>
+<s> and what is the full text of the message?  </s>
+<s> what's the structure of your network (including routers, hubs, internet connection and that kind of stuff)?  </s>
+<s> kees  </s>
+<s> if you can connect to the internet using your modem, try this.(if you are hacking someone else's network, this won't work) 1. open your web browser and make sure it's working.(then  </s>
+<s> minimize it) 2. connect to the network, even if it gives you that message.  </s>
+<s> 3. get the network's default gateway on your wireless connection status.(it is under the support tab)if it doesn't say it, it is probably 192.168.1.1 4. type that into your browser's address bar to change your settings.  </s>
+<s> wow winsockfix!  </s>
+<s> after removing a spyware, i lost internet connection...it's midterms and i was without internet for about a week!  </s>
+<s> at first i was a little hesitant and thought i didn't want to download yet another program that migth again screw up with my computer, but after reading all the reviews, i went ahead and downloaded it - into another computer and used a flash drive to move it to my network-less computer it took just two seconds!! first time rebooted with no connection, second time i re-entered network key and bingo!! i'm soo happy!! thanks cnet & thanks to whoever wrote that program!!!!!  </s>
+<s> after i restarted my pc (commanded from winsoxkfix.exe) it killed my eset smart security 4 and it made my lan and wlan connection even worst, i thought this was suppose to fix the assigning network address thingy.  </s>
+<s> luckily my pc had made a restore point so i restored it to a previous state.  </s>
+<s> same for me.  </s>
+<s> i downloaded windows updates and driver updates and was super frustrated.  </s>
+<s> this took less than a minute to download and run and bingo!  </s>
+<s> thanks for the advise.  </s>
+<s> the problem is occurring in my pc running windows xp pro.  </s>
+<s> my network consists of an airport extreme wifi, 1 imac (admin), 1 old mac, and my pc. both macs are able to connect the internet without problem.  </s>
+<s> in my pc i am using the asus wifi-ap solo, that came with the motherboard to connect to the network.  </s>
+<s> story: last night i wanted to watch 'the prisoner' on amctv.com,  </s>
+<s> however, i live in the uk so could not watch it.  </s>
+<s> i downloaded anchorfree's hotspot shield to hide my real ip so that i could watch it.  </s>
+<s> [when i installed it, my pc appeared to re-discover my wireless connection, although maybe that was supposed to happen].  </s>
+<s> when i quit hotspot shield, my computer said i was still fully connected to the network and internet, however no pages were loading, or email, msn etc. this morning i reset my network and modem to try and fix this issue. the 2 macs connected back fine instantly, but my pc showed the &quot;network did not assign a network address&quot; error.  </s>
+<s> i have done countless reboots, ran winsock xp fix, ran resettcpip.msi,  </s>
+<s> set up my network again, and i must say i am stumped i called my isp and they said they cant do anything if its just 1 computer on the network that isnt working, fair enough.  </s>
+<s> tcp/ip properties set to automatic.  </s>
+<s> dhcp is enabled.  </s>
+<s> auto-configuration is enabled.  </s>
+<s> when i repair the connection and it fails, i go to status and get this: ip: 169.254.71.9 subnet mask: 255.255.0 default gateway: 169.254.71.9 dns: [blank] wins: [blank] from the help section on my isp's website i found that the 169 in my ip address means that my pc failed to contact the dhcp server.  </s>
+<s> it has worked fine up until now.  </s>
+<s> this has been driving me nuts all day, any help will be greatly appreciated.  </s>
+<s> well i disabled my network password.  </s>
+<s> and now i can connect.  </s>
+<s> although when i enable the password i am get the good-old &quot;network did not assign a network address&quot; error.  </s>
+<s> this is with the correct password entered as well, as when a wrong password in entered it doesn't connect to the network at all like normal.  </s>
+<s> anyone got any idea why i can only connect when i have no password?  </s>
+<s> im not too happy about using an insecure network....  </s>
+<s> thanks a billion gakada for the winsock fix suggestion!  </s>
+<s> after a long frustrating week getting notices that say: &quot;you might not be able to access the internet .  </s>
+<s> . . . . .  </s>
+<s> because the network did not assign a network address to the computer.&quot;  </s>
+<s> my oldest laptop running windows xp is back in business and connecting to the internet.  </s>
+<s> the trouble began when i ran a bit of proprietary software (system mechanic) intended to speed up operations of my xp operating system.  </s>

@@ -1,0 +1,45 @@
+<s> i have never seen such an adapter sold anywhere.  </s>
+<s> i also have a 15 pins similar looking keyboard.  </s>
+<s> is there any other way to power this midi keyboard?  </s>
+<s> i'm seeing a midi keyboard on a 15 pin connector.  </s>
+<s> while pcs of yore did use this for a game port and creative labs put midi signals on said connections this is not a game port.  </s>
+<s> there are no signals on this for the old pc analog game sticks.  </s>
+<s> power to most midi keyboards are to a power connection and not one i've seen in 2 decades took power from the 15 pin midi port.  </s>
+<s> notes the 1980 time frame, and how pc sound cards put the midi signal onto the game port on the sound cards of the day.  </s>
+<s> it can be confusing at first.  </s>
+<s> bob  </s>
+<s> so what is the solution here.  </s>
+<s> sorry but your post might be incomplete.  </s>
+<s> maybe you found this keyboard (no make or model?) or you lose the adapter.  </s>
+<s> i can't guess but i do know midi and a little more about it than i should (because i designed a midi card years ago.) bob  </s>
+<s> i bought this keyboard with a piano teaching software for about $200 from a company called &quot;jump music&quot;.  </s>
+<s> so this keyboard doesn't have a model number.  </s>
+<s> if you wanna see a pic of it, here it is. it runs entirely thru the 15 pins cable which should be connected to the 15 pins joystick port on an old version of computer.  </s>
+<s> we'll need a manual with the pinout but your picture had a power brick in view.  </s>
+<s> but! is a gold mine of tales and stories about this unit.  </s>
+<s> it appears it did go to the old creative labs sound card.  </s>
+<s> &quot;100% sound blastertm 16 compatible sound card&quot; connect the keyboard to that and it will power up.  </s>
+<s> if you are able to do the wiring, then look at the sound blastertm 16 pinout of the 15 pin jack and there is your information.  </s>
+<s> if you can't do this with this info, then this may be just out of your tech zone.  </s>
+<s> here's the pin - out.  </s>
+<s> contains the pin-out and notice that it's 5 volts on many pins and gnd on the others.  </s>
+<s> apply power and ground to these.  </s>
+<s> shows this has been discussed before.  </s>
+<s> unless you find the manual, you have to consider it's end has come.  </s>
+<s> bob  </s>
+<s> i suppose that buying a sound card with a game port is the only solution now.  </s>
+<s> do you know any places that sell an adapter for 15 pins plugin?  </s>
+<s> if you are going to plug this into the supported creative labs sb16 with the combo midi and game port why wouldn't use the cables the keyboard came with?  </s>
+<s> did you see the pic link that i posted in my first message?  </s>
+<s> my keyboard uses only a game port for power, and as you know the all the new computers don't have the game port on them any more.  </s>
+<s> so i can't use the keyboard any more.  </s>
+<s> i see the cable there.  </s>
+<s> remember you have 3 or more discussions going on with what i can only guess is 2 per cent of the story.  </s>
+<s> let me part with this.  </s>
+<s> this is over a decade old so you may have to scrounge up the remaining parts if you lost them.  </s>
+<s> bob  </s>
+<s> i have everything, the cable, the keyboard, the software, the only thing that i don't have is the game port on the computer.  </s>
+<s> while creative labs did put midi on the db15 of the sb16 card, no game controls are in play here.  </s>
+<s> you'll confuse those less in the know by asking for a game port for your pc. and we can't talk about adding the sb16 since, and i may have missed it where you told all about your pc. to get this put to rest, you have to tell at least what the words in red ask when you post.  </s>
+<s> --&gt; also, why not use the old machine since the software is not known to run on today's machines.  </s>
+<s> bob  </s>

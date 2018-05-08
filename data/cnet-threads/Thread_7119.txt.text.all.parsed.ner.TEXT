@@ -1,0 +1,42 @@
+<s> this is a weird issue, and i don't rightly know if it's actually a hardware problem or some bizarre software (driver?) issue.  </s>
+<s> i've got an hp pavilion (p6200z) about a year old and after some issues / difficulties with a bad software update followed by a corrupt restore, my usb ports are all behaving weirdly.  </s>
+<s> most usb gadgets that i use don't seem to have a problem, but others will no longer work when i plug them in ... first device i noticed having problems was a usb scale i use for my postage program ... it simply stopped being recognized.  </s>
+<s> then, i discovered that i can't recharge my blackberry ... i get a message on the bb's screen saying something like 'insufficient voltage to charge this device'.  </s>
+<s> nothing has physically changed on this machine, and this problem occured immediately after the corrupted / failed restore.  </s>
+<s> all 6 usb ports have been affected in exactly the same way which is why i think it could be a driver issue (a short circuit or physical flaw should only affect ports on the same plane or bus, but i've got ports on the front and the back of the case).  </s>
+<s> but when i try to update my usb drivers, the update simply fails. the machine is completely usable in all other aspects, it just ticks me off that my usb ports are all in 'limp along' mode now, and i can't figure out what to do.  </s>
+<s> any ideas?  </s>
+<s> voltages supplied by usb ports are limited in actually its the amps that do the work.  </s>
+<s> if you've usb powered devices, this is where the issue arises.  </s>
+<s> if you have usb device that is ac powered but usb data connected it maybe apparent then.  </s>
+<s> at the same time if some usb glitch or voltage hit has stuck the usb port or hub itself, then only real low powered or better yet, simple usb device may work.  </s>
+<s> if you deem that the recovery process is corrupted and/or it started at that point, then save any important data and retry again.  </s>
+<s> quite frankly, get your hands on a good restore/recovery disc, etc., wipe out the hd and re-install the os, etc., and hope for the best.  </s>
+<s> if the problem goes away after a clean install, etc., then it was bad os, drivers, etc. and not h/w based.  </s>
+<s> i exclude where to get good restore/recovery discs, etc., but its best to restart from square one in these cases.  </s>
+<s> contact hp for such discs, if they have them and its relatively inexpensive to order them.  </s>
+<s> tada -----willy  </s>
+<s> is this your machine?  </s>
+<s> about that failed restore.  </s>
+<s> got norton?  </s>
+<s> i missed what os. if 7, the motherboard driver at link is dated april 2010 but i can't see if there is one for the chipset.  </s>
+<s> let's hear a little more about your norton issue and restore (well discussed!) bob  </s>
+<s> your link is for the correct model, running 64bit win7.  </s>
+<s> i don't have any norton on the box. the failed restore was a bog standard windows system restore.  </s>
+<s> the story goes like this: i installed a trial of a secure shredder program that had a background process that supposedly performed secure deletes for all deletes.  </s>
+<s> i think that program chose to delete something during an automatic windows update. the windows update failed, causing some bizarre problems, so i tried to restore back to a previous save.  </s>
+<s> the restore failed, returning the box to an unusable state.  </s>
+<s> i attempted multiple restores, going back to an earlier save each time.  </s>
+<s> it was after i terminated & deleted the secure shredder program that i was eventually able to restore the machine (had to go back about 6 or 7 iterations), but ever since then the usb ports have not worked properly.  </s>
+<s> all drivers are already current according to hp's automatic update program.  </s>
+<s> here's a specific example of the behavior: i plug in a usb rf receiver for my wireless mouse (which worked fine before the above event, and has not worked since ... i had to replace it with a ps2 mouse). the device is recognized by windows and it attempts to install it ... but an box pops up saying that there was an error attempting to install the device: &quot;windows found driver software for your device but encountered an error while attempting to install it&quot;, followed by &quot;the system cannot find the file specified&quot;. the message does not name or otherwise clearly identify the actual file that appears to be missing. the device description is &quot;microsoft hardware usb wireless mouse&quot;. the only driver for this that i can find from microsoft is part of the microsoft intellimouse kit, and you have to install the entire package, not just a single driver.  </s>
+<s> i've (re)installed the original intellimouse software, then downloaded & installed the most current version of intellimouse software, but nothing has changed with regards to the system behavior.  </s>
+<s> have you tried back to square one, an os restore, not use of a restore point?  </s>
+<s> sometimes, its best to go and wipe out all in order to remove any possible link that the old restore points may have or don't touch on.  </s>
+<s> it seems this is the choice you're left with.  </s>
+<s> that trial s/w may have done damage that somehow remains to cause grief even though removed.  </s>
+<s> tada -----willy  </s>
+<s> reinstall the os, that is ... i've got over a year's worth of apps & games loaded on this box.  </s>
+<s> it's not &quot;data loss&quot; that concerns me, it's that reinstalling the dozens of different applications and games et cetera will be a humongous pain in the butt.  </s>
+<s> i hate reinstalling apps.  </s>
+<s> and go get the drivers for the motherboard and install those.  </s>

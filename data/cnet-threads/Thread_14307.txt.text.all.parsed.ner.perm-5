@@ -1,0 +1,4 @@
+(TOP (FRAG (WHADVP (WRB why)) (RB not) (VP (VB try) (NP (NP (NP (NN apple) (POS 's)) (JJ own) (NN word) (NN processor)) (, ,) (NP (NNS pages)))) (. ?)) )
+(TOP (S (NP (NNP documentstogo)) (VP (AUX is) (NP (NP (DT a) (JJ workable) (NN alternative)) (, ,) (SBAR (S (NP (PRP you)) (VP (MD will) (VP (AUX need) (NP (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (NN storage)))) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN cloud) (NN storage)) (PP (IN like) (NP (NP (NN dropbox)) (CC or) (NP (DT the) (JJ mobileme) (JJ usb) (NN drive) (NNS utils)))))))))))))) (. .)) )
+(TOP (SQ (AUX is) (NP (NNP microsoft)) (VP (VBG working) (PP (IN on) (NP (DT a) (NN word) (NN app)))) (. ?)) )
+(TOP (S (NP (QP (RB only) (money ($ $) (CD 10)))) (, ,) (NP (PRP you)) (VP (MD can) (RB n't) (ADVP (RB really)) (VP (VB lose))) (. .)) )

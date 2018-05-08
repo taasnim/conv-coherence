@@ -1,0 +1,77 @@
+<s> i have a linksys wireless router set up (wrt54g) and my pc desktop and laptop connect fine to the internet with wire and wireless.  </s>
+<s> i installed an airport card in our power mac g4 but this cannot detect my wireless network.  </s>
+<s> i have it connected now with an ethernet cable running through the kitchen but want to get rid of the cable.  </s>
+<s> is there a compatibility issue with airport and a linksys wireless network? the mac recognizes the airport card so i hope that means that it is good.  </s>
+<s> (i got it from ebay used) this mac is the farthest away from the router so i guess my next try is to see if i can move the router a little bit closer.  </s>
+<s> i am a newbie to wireless so possibly i have a setting wrong.  </s>
+<s> i did tell the router the mac addresses of all of the computers that i want to connect.  </s>
+<s> any advice?  </s>
+<s> thanks, karen  </s>
+<s> in fact, did you start with a simple router setup first (ie.  </s>
+<s> no security) or is it tweaked to the max?  </s>
+<s> bob  </s>
+<s> i don't remember now if i tried that computer with security off.  </s>
+<s> i will try when i finish work later.  </s>
+<s> i have security set at wpa pre-shared key and wpa algoriths at aes.  </s>
+<s> when that card was made, was such a standard on all products.  </s>
+<s> try simpler or best... none to see if it works.  </s>
+<s> bob  </s>
+<s> set the router to allow mixed mode.  </s>
+<s> i don't see if your card is 802.11b or not.  </s>
+<s> bob  </s>
+<s> i tried with security disabled and no luck.  </s>
+<s> also the router is set for mixed mode and has been since i set it up.  </s>
+<s> also i read that cordless phones can interfere so i disconnected the cordless phone for a bit and still no luck.  </s>
+<s> i tried changing the channel in the router and no luck.  </s>
+<s> and see if it works.  </s>
+<s> bob  </s>
+<s> although the computer could see the card and all looked correct, the antenna for the card was not plugged in!  </s>
+<s> i don't want to presume the obvious here, but if that card is working and everything is connected, it should at least &quot;see&quot; the wireless signal even the computer cannot join it.  </s>
+<s> satisfy my curiosity, check the antenna on that card, please p  </s>
+<s> i can't bring the computer to a hot spot since it is a tower machine and not a laptop.i  </s>
+<s> don't know where any hot spots are, anyway.  </s>
+<s> i am not that advanced in networking yet.  </s>
+<s> and mrmacfixit you were right about the antenna. the plug got knocked out when i shut the machine up after installing the card!  </s>
+<s> but, after replugging the antenna it still is not recognizing any networks.  </s>
+<s> here is what i did yesterday.  </s>
+<s> i brought my laptop to where the mac is and it said the signal was very weak.  </s>
+<s> it would not connect.  </s>
+<s> so besides a possible airport card issue, i do have interference due to distance.  </s>
+<s> airport card - the instructions i got from apple tech web site said to install the card serial number side up.  </s>
+<s> i did that and it seems like the antenna should plug into the hole on the left side when the card is installed.  </s>
+<s> there is also a hole on the right side but it is smaller and the antenna plug would not fit.  </s>
+<s> so, did i pick the right spot to put the antenna?  </s>
+<s> next thing i will do is reseat the airport card tomorrow or saturday and test again.  </s>
+<s> then, monday i will move my dsl modem and the router to the phone jack closer to where the mac is and see if it picks up a signal then.  </s>
+<s> i can't do this until monday since i am on call for work and can't disrupt my working network in case i am called for an issue.  </s>
+<s> thank you for all of your suggestions.  </s>
+<s> i am determined to get this network working!  </s>
+<s> karen in ct  </s>
+<s> if you look closely at the end of the airport card, not the end with all the holes in, you will see that each of those holes has a marking next to it.  </s>
+<s> ii for one of them and i for the other. the hole for the antenna is the one with the i next to it.  </s>
+<s> thats the one on the left, as the apple guy said, when the card is serial number side up. the antenna is a really good fit in that hole.  </s>
+<s> i spent a long time trying to figure out a nice way to ask about the antenna.  </s>
+<s> no offense intended good luck.  </s>
+<s> p  </s>
+<s> power mac g4 with airport card to linksys wireless router?  </s>
+<s> kareng1947 - 10/11/06 11:41 am karen if you still need help in this matter please let me know.  </s>
+<s> i have the same router as you and windows and mac both work on the linksys.  </s>
+<s> thanks, -j. thacker message was edited by: admin to remove personal email address  </s>
+<s> i am having trouble too, i can get the card to see my net work (wep) but it keeps say wrong password.  </s>
+<s> i have 4 xp windows machines, that work with the same password.  </s>
+<s> then i read macs need a $ before the wep code, still wrong password.  </s>
+<s> so i called linksys they cant help with a mac but said apple could.  </s>
+<s> well its late and i am tired.  </s>
+<s> so they said i would have to do it by way of static, i am a newbie to macs and dont know how to do it.  </s>
+<s> take a look at this document.  </s>
+<s> the salient points are: many third-party wireless access points use a wep key or a password entered either as a string of hexadecimal numbers or as five ascii characters.  </s>
+<s> to connect mac os x to a third-party wireless access point that is configured to use wep, format your password one of these two ways: 1. hexadecimal - precede the string with a dollar sign ($).  </s>
+<s> for example: $123456789a 2. ascii - enclose the characters in double quotes (&quot;).  </s>
+<s> for example: &quot;magic&quot; see what happens.  </s>
+<s> whichever way you do it, you must know the correct password for the linksys device p  </s>
+<s> hey im having the same problems as her my mac say that the internal modem is configured but not connected i dont know what that means and what to do about it?  </s>
+<s> ive tried so many things to get it to work but they havent work if u cn help at all that would be great thanks -christina  </s>
+<s> is only used if you are using a dial up internet service.  </s>
+<s> karen was not doing that.  </s>
+<s> might be better if you started a new thread with all the details so that we can try to help you.  </s>
+<s> again, the internal modem is for a telephone line only p  </s>

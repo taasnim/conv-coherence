@@ -1,0 +1,20 @@
+<s> here is what happened. on email, no attachment involved, it froze or something so i had to reboot.  </s>
+<s> upon boot, error message, drive (or disk) i/o error, replace it, press any key.  </s>
+<s> no success, no disks in any drives used win me startup, ran scandisk found 211 invalid drive entries 142 directory entries, fat chains were truncated 144 invalid directory entries, and some errors were not fixed.ran  </s>
+<s> surface check, no errore ran scanreg/restore, to a few days earlier messed around with hardware stuff, unplugging and switching drives with an old computer i have.  </s>
+<s> no change ran scandisk again found 615 invalid directories were removed 11 directory entries fat chains were truncated 25 inval;id directories were corrected 17 lost directories were reinstated 10,392 lost clusters were saved as files di did not fx all errors- long filename needs scandisk for windows.  </s>
+<s> cant get to that right now now i ger a new error invalid system disk, replace.  </s>
+<s> press any key back to the help on win me startup - tried e:setup.exe  </s>
+<s> looked on net for troubleshooting ideas - tried entering fdisk to see if it found the hard disk, it did.  </s>
+<s> this troublshooting thing from the net said to then type sys c and it should return a message that says &quot;system transferred&quot;, but it did not.  </s>
+<s> i got a message &quot;parameter format not correct&quot;. it says if you get a bad command or filename message, that you need to obtain a bootable floopy with the file sys.com on it.  </s>
+<s> entering setup at the beginning does show the hard drive.  </s>
+<s> i just used a maxtor utility to check if the drive is ok and it passed all the tests i did.  </s>
+<s> so if that is true, the drive is ok. so far nothing has gotten the new error message to stop.  </s>
+<s> tried sys c, got &quot;parameter format not correct - c&quot; tried to recopy files using some dos commands from online, it copied 1 file, then copied one more file, but the same invalid system disk.  </s>
+<s> tried using c: dir /s /a found 31,999 files 3,736 directories including some orignial wav files i dont want to lose.  </s>
+<s> i do not want to reinstall win unless i have exhausted all ideas cause of the work involved and some creative issues.  </s>
+<s> any help much appreciated as i dont know what else to try.  </s>
+<s> if you are using a colon with the sys c: command.  </s>
+<s> it is extremely unlikely you can recover your system after all the errors it found and corrected, you may have already lost all your data because of running the repairs you ran.  </s>
+<s> your only real hope of getting your data off is to get another drive, install windows on it and then put this drive in as the second drive and try and copy off the files that have not been damaged.  </s>

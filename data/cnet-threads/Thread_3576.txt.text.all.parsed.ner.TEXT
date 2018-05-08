@@ -1,0 +1,17 @@
+<s> hi, i need to create a network bubble..means..let say i have 4 machines having ip address 10.1.1.1,10.1.1.2, 10.1.1.3 and 10.1.1.4 (these are not actual ip's, using them just for explaining).  </s>
+<s> these machines are connected to public network.  </s>
+<s> at a given point in time, i need to isolate these machines from the public network in a way where - all these 4 machines can talk to each other using the assigned ip's.  </s>
+<s> - these 4 machines cannot talk to any other nodes in the public network.  </s>
+<s> no other machines outside these 4, will be able to ping these machines.  </s>
+<s> looking for a generic solution which would work across all unix,linux,windows platforms.  </s>
+<s> please help.  </s>
+<s> regards, ranjit  </s>
+<s> mostly it is a router feature and is platform independent.  </s>
+<s> depend on the exact router model, some routers have this in the base and some you need firewall features.  </s>
+<s> lets say your 4 example addresses are actually public routable ip the normal way to do this is to put in firewall rules or access lists that says these 4 addresses can only send or receive traffic from each other.  </s>
+<s> now if you are using private addresses and nating them it is a little different.  </s>
+<s> you of course could just prevent these addresses from being natted.  </s>
+<s> it just makes the firewall rules a little more tricky because you have to worry about both the real and the virtual addresses.  </s>
+<s> look for these or similar phrases when you shop.  </s>
+<s> &quot;client isolation&quot; &quot;guest wifi&quot; there is no standard here or maybe many.  </s>
+<s> bob  </s>

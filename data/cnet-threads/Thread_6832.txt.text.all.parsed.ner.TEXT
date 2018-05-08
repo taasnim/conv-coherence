@@ -1,0 +1,63 @@
+<s> my dell notebook is set up as follows: dell e1505 intel next-gen-wireless card vista netgear wnr 834b originally the only connection i could get was to the router with limited connectivity (no internet).  </s>
+<s> after hours with a friend in it i have an internet connection.  </s>
+<s> strangley we couldn't get a connection when we secured the network so we just allowed my notebook mac address access.  </s>
+<s> now everything seems to be working fine except my download speed sometimes drops to almost nothing occasionally.  </s>
+<s> i always have an excellent connection.  </s>
+<s> it seems to be random.  </s>
+<s> i have read some other forums where there are suggestions that the drivers for the netgear wnr 834b are not yet toatlly ready for vista although it is advertised that way.  </s>
+<s> any thoughts out there?  </s>
+<s> mike  </s>
+<s> this is well worn areas.  </s>
+<s> i couldn't tell if your router has current firmware, if a driver for your vista was current and which encryptions you tried.  </s>
+<s> wpa2 is indeed busted until you get a patch from microsoft so you need to know that some have to call it in.  </s>
+<s> microsoft may kick you back to the machine's maker so be sure to call whichever is free first.  </s>
+<s> hope this helps, bob  </s>
+<s> thanks for the reply.  </s>
+<s> i am not too concerned about the security as i am the only one wireless in my house. the mac address approach seems to work.  </s>
+<s> i am more concerned about the unreliable internet connection.  </s>
+<s> i ahve the latest firmware from netgear.  </s>
+<s> i haven't checked the drivers for the wireless card but its only 2 weeks old so i have to assume it is the newest.  </s>
+<s> just seems crazy that dell put the whole package together including recommending that netgear router to go with their card.  </s>
+<s> i set up my dad's netgear and while testing it dropped.  </s>
+<s> it took awhile to hunt it down to some old phone.  </s>
+<s> but it still dropped when the phone was in the next house.  </s>
+<s> why would dell be on the hook for that issue?  </s>
+<s> bob  </s>
+<s> well bob i don't know about that situation but if i'm losing my connection because the netgear router doesn't have the kinks worked out with vista i think dell does have some responsibility.  </s>
+<s> in fact since they recommend it i'd say they are totally responsible.  </s>
+<s> mike  </s>
+<s> with wireless it's open to interference and degradation as you put walls inbetween.  </s>
+<s> get wired if you want it to not drop.  </s>
+<s> how long have you used wireless and how many systems have you installed?  </s>
+<s> bob.  </s>
+<s> ps. i've lost count here.  </s>
+<s> i don't disagree with that.  </s>
+<s> what i am saying is that &quot; if i'm losing my connection because the netgear router doesn't have the kinks worked out with vista&quot; i think that it is irresponsible of dell to market this router as working &quot;slicker than s##t&quot; with their pc.  </s>
+<s> i'll agree that wifi is not ready for people who want things as reliable as a light bulb and also there is poor tech support out there.  </s>
+<s> but from my experiences i've done too many site surveys and found people with their router on the same channel as their neighbors, interfering components in their homes and the list just keeps going. is this dell's fault or netgears?  </s>
+<s> sorry i don't think so.  </s>
+<s> there's other things they don't tell you such as getting your system up first with ssid enabled and no security then trying locking it down.  </s>
+<s> go back to what works rather than complain when you find a combo that doesn't work.  </s>
+<s> there's a limit to some drivers today, especially in wpa and wpa2.  </s>
+<s> -&gt; point blank.  </s>
+<s> your post has too few details for me to point to some setting you chose so i'll have to just write ideas until you tell me that's it or not it.  </s>
+<s> bob  </s>
+<s> what kind of details do you need?  </s>
+<s> i am not particularly computer savvy and i don't pretend to be.  </s>
+<s> mike  </s>
+<s> 1. did you do a site survey to pick a rf channel that the neighbors are not on?  </s>
+<s> 2. did you change the ssid?  </s>
+<s> 3. did you leave ssid broadcast enabled?  </s>
+<s> 4. what distance and walls are from the router to the laptop?  </s>
+<s> and look at all these replies and it's taken this long to get to work.  </s>
+<s> not that i don't mind but you can see it's not ready for people to take home and install.  </s>
+<s> bob  </s>
+<s> 1. no 2. yes 3.yes 4. no walls 12 feet  </s>
+<s> use what works best.  </s>
+<s> autochannel will cause drops in my experience and is proper to do so.  </s>
+<s> think about why.  </s>
+<s> think about how to do a site survey.  </s>
+<s> i have a laptop and my palm tx which i can view networks and what channel they are on.  </s>
+<s> you'll have to dream up something or just try 1 then 5 then 11 and see what works best.  </s>
+<s> as to wzc, that's another one to try enabled and disabled.  </s>
+<s> bob  </s>

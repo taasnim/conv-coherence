@@ -1,0 +1,27 @@
+<s> hello, i have a dell latitude d810 laptop with the expansion station.  </s>
+<s> i am running xp pro with the latest bios which was made in 2006.  </s>
+<s> in the station there is a pci slot which i have a pci-sata controller card(made by silicon image).  </s>
+<s> i am trying to connect an esata drive to the controller card. the card is recognized fine by the computer and is running normally.  </s>
+<s> when i connect the esata hard drive, nothing happens. the computer does not recognize the drive in computer management.  </s>
+<s> there seems to be no setting for sata in the bios.  </s>
+<s> nothing in posts or bootup.  </s>
+<s> what can i do to get this external drive to work?  </s>
+<s> like i said, the controller card works, but when the drive is turned on, nothing happens on the computer(blue light comes on the enclosure).  </s>
+<s> thanks.  </s>
+<s> jason  </s>
+<s> the driver for the external case need to be installed then partition and format the harddrive.  </s>
+<s> can you see the drive under 'disk management' ?  </s>
+<s> vapcmd  </s>
+<s> i am connecting via esata to a pci-esata/sata card.  </s>
+<s> i cannot see the drive in disk management.  </s>
+<s> i am using an internal drive in an enclosure, so i don't think there are drivers for it?  </s>
+<s> drivers to load ?  </s>
+<s> got a link to the product ?  </s>
+<s> did you buy from dell ?  </s>
+<s> vapcmd  </s>
+<s> so turns out it is either the esata port or cord that is not working.  </s>
+<s> i connected the computer directly to the hard drive with a sata cable to the sata port on the card and it worked.  </s>
+<s> bios recognizes the drive as a &quot;modular bay hdd&quot; weird, but its working.  </s>
+<s> thanks!  </s>
+<s> is is plugged in and cabled to the pc during bootup ?  </s>
+<s> vapcmd  </s>

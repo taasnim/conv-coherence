@@ -1,0 +1,83 @@
+<s> we have a pentium d model 840 based system, which has never been the coolest running processor, that i think one could use this as a hairdryer now. the motherboard as an asus p5wd2 premium with the intel 955x chipset. the power supply is an ocz 600 watts continuous model.  </s>
+<s> the cpu isn't overclocked and has been running on stock settings since it was purchased. the power supply and its fans are good, the heatsink fan is spinning like a jet engine, and all the other case fans work, but the thing is now overheating before windows can load.  </s>
+<s> this system has always run hot and is the last of our pentium d 800 series, which seem to make great space heaters.  </s>
+<s> all fans are clean, freely turning, and properly mounted. the system seems to have slowly gotten hotter over the past few months.  </s>
+<s> this was first noticed due to warmer room temps even during the coldest part of the winter.  </s>
+<s> instability began last week and it won't even complete a bootup before turning off as of today.  </s>
+<s> we placed our hands on the back of the computer and the air being emitted from the fans was about as hot as a hair dryer.  </s>
+<s> you couldn't hold your hands there for long and the back and top parts of the system were too hot to touch.  </s>
+<s> upon taking the side off, i could feel an oven-like heat emanating from inside the pc. it felt like you could lay bread inside the case and make toast! it seems the heatsink is doing its job of transferring heat from the cpu as it was also too hot to touch.  </s>
+<s> i looked at the hardware monitor in bios before shutting this down and pulling the power cord from the back. the cpu temps were registering 122c/252f, which i find hard to believe, although there was a hot smell coming from the system. the max temp for this processor is only like 70c.  </s>
+<s> i upgraded to arctic silver v a few months ago when this first became noticeable and that temporarily dropped the temps. the upward trend resumed and continued until the system simply wouldn't boot.  </s>
+<s> we will likely be replacing this soon but i would still like to know what can cause this to happen.  </s>
+<s> i have never seen heat issues simply from age.  </s>
+<s> usually there has to be some sort of dust or fan problem.  </s>
+<s> what happens if run with the side off ?  </s>
+<s> vapcmd ps....try running pc wizard 2008 ....when you check the cpu temp and minimize the app, the cpu temp, fan speed, etc., remains visible on the screen in the upper right hand side of the screen for continuous observation.  </s>
+<s> i tried running it with the side off and it would die before it has completely posted.  </s>
+<s> i guess the airflow from the rear fans isn't as efficient with no side.  </s>
+<s> i didn't know a computer could heat up like an oven in a matter of seconds until this one came along.  </s>
+<s> getting it into windows is now impossible so running diagnostics tools is out of the question.  </s>
+<s> i did get one last run of everest in before it got so hot it wouldn't turn on.  </s>
+<s> it was running right at 100c at idle and would shut down if i ran any systems tests.  </s>
+<s> i don't really plan on using this after all the grief but would use it as a spare if the fix is simple and low cost.  </s>
+<s> otherwise, i would rather not mess with it and just buy a newer and cooler running setup such as the core 2 duo of the 45nm variety.  </s>
+<s> thanks, conor  </s>
+<s> it could be too late for the mobo/cpu.  </s>
+<s> with the lga 775's push pin mounting method for coolers it's very easy to think a cooler's mounted properly when it's not.  </s>
+<s> also, the pins can pop out later if the push pins are not turned properly.  </s>
+<s> i might have thought that the cooler was mounted wrong or something had come loose but the heatsink itself was so hot i couldn't touch it.  </s>
+<s> this makes me think that the cooler isn't the problem.  </s>
+<s> it seems heat is being transferred to the heatsink but that the amount of heat being generated is simply overwhelming the setup.  </s>
+<s> i also don't think that would make the entire inside of the computer so hot you could fry an egg inside the case!  </s>
+<s> there are three total case fans running so this system will stay on longer with the side on due to enhanced airflow.  </s>
+<s> my gut feeling is that something has gone wrong with the cpu or motherboard. the 122c temp seems unbelievable to me as i didn't think a cpu would hold together, much less try to work properly, at these temps.  </s>
+<s> i have pulled this one from service and pretty much wouldn't trust any of the components after getting so hot but am really more curious as to what could cause this as anything.  </s>
+<s> it definitely seems like heat is coming from the cpu and cooler assembly.  </s>
+<s> this thing heats up like a toaster oven in a matter of seconds! it has a 600 watt power supply with a 700 or so watt peak.  </s>
+<s> every bit of this power must be going into this excessive heat generation!  </s>
+<s> conor  </s>
+<s> the owner had been overclocking.  </s>
+<s> reseting the bios to all defaults cured it.  </s>
+<s> are they ?  </s>
+<s> what else is in the box ?  </s>
+<s> like ramarc suggested, might check to see if the heatsink is still secured...if it's not, all the fans in the world won't help.  </s>
+<s> keep us posted vapcmd  </s>
+<s> i know the history on this one and it hasn't been overclocked and isn't overclocked now.  </s>
+<s> i mentioned that it has been on the default settings since day one in my first post.  </s>
+<s> also, the person using it doesn't know much about computers, much less how to overclock one.  </s>
+<s> i did reset the bios to the factory defaults while working on it just to see and nothing changed. the system was pretty cutting edge at the time it was new so it is likely around 3 years old.  </s>
+<s> i could look up the papers to find the exact age if anyone thinks that would be helpful.  </s>
+<s> this heat problem seemed to build up slowly over the past 6 months or so.  </s>
+<s> i didn't always watch this but noticed it was getting warmer with time each time i gave it a look.  </s>
+<s> i always assumed dust was in something but the heatsinks and fans were always clean. the heat wasn't mentioned to me until the computer became unstable during the latter part of last week.  </s>
+<s> i finally got around to looking at it today and noticed the extreme heat.  </s>
+<s> conor  </s>
+<s> now you have a reason to get a new mobo and cpu!  </s>
+<s> we are looking into the purchase of some new hardware right now due to these troubles.  </s>
+<s> i have historically used asus mobos (this heat generator is on one) almost exclusively but am also considering gigabyte this time around. the savings in electricity will likely pay for the new stuff in a few months.  </s>
+<s> as for the suggestions to make sure the cooler is properly mounted, i gave it a good look-over and all was well. the four clips were secure and there was no slop between the cooler and cpu.  </s>
+<s> i loose cooler wouldn't explain the fact that the heatsink is getting smokin' hot while the fan is spinning like a jet engine.  </s>
+<s> it also wouldn't explain the reason why the room was being heated to a sauna like temperature by this system.  </s>
+<s> it seems that there is heat transfer between the cpu and the cooler, and then subsequent disappation of the heat. the problem seems to be that way more heat is being generated than was meant to be produced by this cpu.  </s>
+<s> i also checked the power supply for over voltage and it passed with flying colors.  </s>
+<s> this was also suggested by some other electronics nerd friends of mine.  </s>
+<s> anyways, i am off to look at a 45nm intel cpu and a good motherboard to support it.  </s>
+<s> we already have one of these and the power usage/heat generation is very low while the performance is the best experienced so far.  </s>
+<s> i will let everyone know if i figure anything with the oven computer.  </s>
+<s> thanks, conor  </s>
+<s> we had a few in the office with bad caps (see google) and the heat was pouring out of the machine.  </s>
+<s> a new motherboard cured it.  </s>
+<s> i know that bad caps can cause all sorts of strange behavior.  </s>
+<s> i also gave the caps a good inspection yesterday and none had bulging tops or were spewing electrolyte.  </s>
+<s> i guess they don't always show their failure externally.  </s>
+<s> this would explain potential voltage regulation problems through.  </s>
+<s> i checked in bios and the cpu voltage is higher than spec.  </s>
+<s> thanks, conor  </s>
+<s> some outdated bios will get it wrong.  </s>
+<s> i tried to reduce voltage and the system refused to post then gave me an error &quot;overclocking failed, run setup&quot;.  </s>
+<s> something has gone haywire as the bios is up to date and the temps slowly got hotter over time.  </s>
+<s> conor  </s>
+<s> we do the math at the shop.  </s>
+<s> time at 120 per hour vs. new hardware.  </s>
+<s> what's your time worth?  </s>

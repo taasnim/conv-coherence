@@ -1,0 +1,31 @@
+<s> hey, i am building my own computer, because everything else was so outdated... i plugged everything in, installed the cpu, hd's, memmory, the whole shabang.  </s>
+<s> my computer wont power on.  </s>
+<s> here are my specs before i explain more: power supply - puma ii 450 watts processor - intel pentium 4 - 530j motherboard - (atx powered) abit guru as8 video card - ati radeon 9600 xt (with s-video output!!!) pci cards - linksys wireless g card, firewire/usb 2.0!  </s>
+<s> case - supercase (made from a microcenter-ish company) fans - mad dog hd - samsung 7200 rpm 80gb hd memmory - 512 mb the thing is: i know my computers gonna be freakin amazing... but first things first: i can't get it to power on!  </s>
+<s> i looked at the manuals... i placed the front panel leds and switches into the right pins on my motherboard.  </s>
+<s> i set the power supply to the right voltage for north america, and i plgged in the power supply in two places, standard for all atx-powered motherboards.  </s>
+<s> ok so i plug in the power supply and what happens is, is 2 green lights turn on in the motherboard, one looks like a clock with green-lit-up numbers and the other is just a dot that is lit up green.  </s>
+<s> when i press the power button a red light light near the front panel pins flashes once.  </s>
+<s> nothing comes on my screen, the fans dont power on, it doesnt seem like theres power... u think it's my outlet maybe?  </s>
+<s> or is it the motherboard?  </s>
+<s> thanks much!  </s>
+<s> peace  </s>
+<s> your owners manual should mention the ones that are reversible.  </s>
+<s> if they don't work, turn them around.  </s>
+<s> happened to me more than once with a new board(and a few old ones).  </s>
+<s> usually you can infer them by which ones don't have a defineate + and - stated.  </s>
+<s> but, read everything the manual says.  </s>
+<s> good luck.  </s>
+<s> chuck  </s>
+<s> try what is in the manual on page 73 or appendix h.  </s>
+<s> if you do not have the manual, you can download it at: if none of that works, i would remove all hardware (including all pci cards), but the video card, memory, hard drive, keyboard, mouse, and 1 cd/dvd drive.  </s>
+<s> not sure of the type of memory you have, but it must be dual channel type and installed in the correct slots.  </s>
+<s> see page 2-3 in manual.  </s>
+<s> also want does the led (u21) readout show?  </s>
+<s> see appendix g in manual.  </s>
+<s> pentium iv systems can operate with single channel ram, it'll just be slower than...slower than you'd think a system should operate dual channel ram is better for pentium iv's due to how their fsb works, but they can operate with out it (and some did/some still do...most via chipsets do not have dual channel capabilities, and any pentium 4 using sdram is using single channel) but yes, for normal use (non-troubleshooting) you want and should have dual channel (in any system that can support it) i'm guessing it's the connection for the front panel some boards don't tell which is which (my dfi and abit boards give no such information, but my old asus board does (we are talking ancient though) i would suggest switching the power on cables so if you have one that is on top but it on the bottom power on pin and vice versa for the bottom connection are you sure your connectors are all plugged into the motherboard right?  </s>
+<s> (both power cables?  </s>
+<s> the 20-pin and 4-pin connectors) or if you have a 24-pin board, is the adapter correctly connected?  </s>
+<s> i would suggest making sure all connections are secure including the cpu hsf i would ensure the front power on switch is wired correctly beyond that, the only thing i can think of is to check that your not running power back into the psu (easy to do if your using adapters for your fans (3pin small to 4pin molex) and connected everything to everything (so there are no open ends) and it can easily run power back into your psu, and it won't run with power going into an output  </s>
+<s> a) the psu could be dead, never heard of that brand and it's probably not a top shelf psu (not because i haven't heard of it, but i knwo probably 99.99% of all top shelf psu makers, puma is not one of them) b) is your motherboard attached using standoffs?  </s>
+<s> i could of sworn somebody from sk uses that?  </s>

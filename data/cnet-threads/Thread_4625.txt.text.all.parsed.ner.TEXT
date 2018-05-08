@@ -1,0 +1,16 @@
+<s> i am going to be building a new pc sometime this summer, and am looking at the q9450 with the hope of oc'ing to somewhere in the 3.3-3.5ghz  </s>
+<s> range, using a noctua cooler.  </s>
+<s> is this possible, and if so, how feasible (reasonable temps even on air cooling, stability, etc.), and what accompanying ram overclock is required?  </s>
+<s> secondly, will ddr2-800 ram be sufficient (assuming i will have to oc it to at least somewhat)?  </s>
+<s> (i saw ddr-800 here since i have seen a few discussions that seem to say that ram with stock speeds above 800 are sometimes unstable.  </s>
+<s> any input is appreciated.  </s>
+<s> if it matters, i will be using some flavor of asus p5q motherboard most likely.  </s>
+<s> when oc'ing you'll need to tweak your fsb and ram speed seperately.  </s>
+<s> a 400mhz fsb is the simplest oc for that processor.  </s>
+<s> it will raise the cpu from 2.66ghz to 3.2ghz and you'll still be able to run your ram at ddr2-800.  </s>
+<s> any good motherboard will be to do this with a good cooler(like the noctua) and all that might be necessary is a gentle vcore push.  </s>
+<s> if you want to go higher, you should probably opt for ddr2-1066 and be prepared for a lot more tweaking.  </s>
+<s> with a 420mhz fsb you could run at ddr2-840 or ddr2-1050 depending on the ratio you choose.  </s>
+<s> heat will also become more of an issue over 400mhz fsb.  </s>
+<s> anandtech did a preview of the p5q deluxe a couple of weeks ago:  </s>
+<s> would my setup still be sufficient (i.e., just higher overall temps, but nothing that would cause instability), or should i start looking at more aggressive cooling setups?  </s>

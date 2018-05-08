@@ -1,0 +1,52 @@
+<s> i just had a self-built asus/antec tower machine die on me (i think due to lightning power surge , even tho' it was attached to an apc ups) it was an asus p4t533c with 3ghz intel, 2g of rambus pc1066 ram, an nvidia quadro4 900xgl (128mb ddr - agp4x) video card and a wd hd. i sold the ram, but kept the video card and hdd and use it as my &quot;d:/&quot; in what was my secondary cad workstation, but now my only.  </s>
+<s> it is an asus p4c800 with a p4 3.4ghz intel, 2gb of ddr2 ram and a wd raptor sata hd for the system drive.  </s>
+<s> that mobo replaced an asus p4p800e that died while back and asus replaced under warranty.  </s>
+<s> my print/backup server is also an asus, a p3v4x with a p3 866mhz, 2gb of pc133 ram and two (wd and maxtor) 40gb hdds.  </s>
+<s> i would like to wait till the prices of solid state hds come down to earth, but am also tempted to go with dells precision line since i have not had too much luck with building my own machines.  </s>
+<s> any suggestions?  </s>
+<s> also looking to replace my hp 11x17 printer, an hp2500c (which while it works ok, when it works, it is a poor example of hp printer design and can really raise my bp some days) :&gt;(  </s>
+<s> why would anyone want those?  </s>
+<s> i'll guess you're looking for cooler drives than those raptors, other old wds and maxtors.  </s>
+<s> well, new drives of 500 gb or higher run a lot cooler (and more reliably) than those old ones, so try them.  </s>
+<s> and make sure you route all internal cables carefully in the case for adequate airflow.  </s>
+<s> with those 3+ ghz cpus, install a system exhaust fan in addition to the cpu and psu fans.  </s>
+<s> luck never hurts, but oftentimes building a reliable system requires some skill too.  </s>
+<s> the p4t533c based pc had to be six years old, no? a 3ghz p4 puts out enough heat to warm a small room so if that was you everyday work machine i'm surprised it lasted this long.  </s>
+<s> your current workstation looks to be 4+ years old so it's not doing to bad either.  </s>
+<s> you could go with the precision line but you'll be paying more for the same equipment you could build yourself (and you obviously know how).  </s>
+<s> mobo: msi x48 platinum, $270: cpu: intel core2quad q9450, 2.66ghz, 1333mhz fsb, 2x6mb, $330: ram: ocz ddr3-1600, xmp, 2x2gb, $286: video: pny quadro fx1700, 512mb, $420: wd velociraptor sata hd, 300gb, 10krpm, $292: $1600 subtotal.  </s>
+<s> other components you may need if you're not re-using your old stuff: dvd burner: $40 keyboard/mouse: $60 case: antec mini p180, $75: power supply: antec neopower 650, $110: os: vista business, x64, $140: so, an all-new self-built workstation would be about $2000.  </s>
+<s> for comparison, a dell precision t3400 525w would be $2458 and slower in many areas.  </s>
+<s> dell's cpu is a q6700, 2.66ghz, 1066mhz fsb, 2x4mb cache which is about 10% slower.  </s>
+<s> dell's ram is 2x4gb ddr2-667 vs ddr3-1600.  </s>
+<s> dell's hard drive is 320gb 7200rpm vs 300gb 10,000rpm.  </s>
+<s> dell's power supply is 525w vs 650w.  </s>
+<s> i appreciate your faith in my pc luck, but ... the p4p800 was built in the spring of 2005 and yes while my home office on the 2nd floor of my townhome does get a bit warm, (typically in the low 80s), that is not my concern because i have enough fans in this (antec slk3000b) mid-tower case to make it fly if not hover.  </s>
+<s> likewise, i used rounded cables for both my ide and power to improve air flow.  </s>
+<s> i have my cpu temp threshold monitor set at 140f and it has only given alarm twice in three years.  </s>
+<s> (current room temp is 82f, cpu is 113f, mobo is 86f) my first cad workstation had two mobo failures and while the first one was covered under warranty this second failure most likely by power surge (despite being connected to an apc ups) could not be repaired/replaced.  </s>
+<s> i've also had two motherboard failures of the second cad machine one with the p4p800 and another with the p4c800, one of those being covered by warranty.  </s>
+<s> so not wanting to look forward to tearing apart my computers at least every couple of years to replace motherboards, i find myself asking for assistance.  </s>
+<s> as to complaints regarding the solid state hds, i have not seen any flaming reviews of them, but then again as i am hoping this current workstation will hold out at least another year, it will give the solid state gurus a chance to improve on some of the shortcomings, including the outrageous pricing.  </s>
+<s> my own observations:  </s>
+<s> ditto with a 32-bit os... you need x64 to let the hardware reach its potential.  </s>
+<s> and a fx570 is probably the wimpiest quadro available... why would you pair it with an 8 core setup?  </s>
+<s> mobo: supermicro mbd-x7dvl, i5000v, $400: cpu: intel xeon e5420, 2.5ghz, 2x6mb, $350x2: ram: kingston ddr2-667, ecc/reg, 2x2gb, $135x2 (8gb): hd: wd velociraptor sata hd, 300gb, 10krpm, $292: ssd: ocz core, 64gb, $285 (backordered everywhere): video: pny quadro fx 1700, monitor: samsung 245bw, 24&quot;, 1920x1200, $406: subtotal: $2,773 add $400 for os, case, etc. and you're at $3,173 with twice the ram, a larger and faster hard drive, a 64gb ssd, a faster video card, and 24&quot; (vs.  </s>
+<s> 19&quot;) monitor .  </s>
+<s> as for reliability, if there is indeed some type of problem with your wiring or your enivironment is too warm, a dell will probably die also.  </s>
+<s> you'll just watch someone else do the hardware swap.  </s>
+<s> also, businesses usually depreciate desktops on a 3 year schedule now. the pc will still 'work' after 3 years, but it will be far behind the curve and not able to keep up as well as a new machine.  </s>
+<s> if you make your living from a fast pc (and it seems like you do), you need to schedule upgrades at least every 3 to 4 years.  </s>
+<s> i'm a software/database developer and i upgrade my server and workstation every 2-3 years so i can assure my clients that the software will perform on their servers as well as it does on mine. the faster i get stuff done, the sooner i get paid.  </s>
+<s> i've got a 3.4ghz p4d server that will be upgraded to a q9450 at the end of the month.  </s>
+<s> rebuilding it is a pain but necessary.  </s>
+<s> if you can wait 6-8 months, intel's nehalem processors will be available.  </s>
+<s> they're hyper-threaded quad-cores and 25-40% faster than a core2quad/xeon5000 clock-for-clock but will sell for about the same price.  </s>
+<s> &quot;and a fx570 is probably the wimpiest quadro available... why would you pair it with an 8 core setup?  </s>
+<s> &quot; i did that on purpose, didn't like what they had available, so that would be the one thing that i would shop for and install on my own and just sell the dell oem on ebay.  </s>
+<s> as a cadd engineer, i occasionally do 3d drawings, but the activity that really has my cad software choking is raster refresh, it is such a vm hog that, if it is bottlenecked somewhere between hd access and the video card's bandwidth, the application (at the office) will crash nearly every time i pan/zoom on a cad file that has a referenced raster image larger than 3mb.  </s>
+<s> i'm not sure my application's manufacturer's have adapted to x64 yet and i've heard an awful lot of flak about x64 non-compatibility, elsewhere, as well.  </s>
+<s> i have an old license of autocad 2000 and a current license of bentley microstation.  </s>
+<s> (most of my clients still prefer acad and unfortunately, i've been using it so much more than bentley, i've gotten a bit rusty at microstation.  </s>
+<s> i still prefer the model space and paper space environment and some of the measuring/dimensioning tools in autocad, but microstation's mouse tools are so much faster in every element modification activity.  </s>
+<s> the newest upgrade to bentley's softare, microstation xm may have made the leap to x64, i'll have to look into it, but am disgusted with autocad's 2-3 year version expiration policy that i refuse to buy another of their licenses.  </s>

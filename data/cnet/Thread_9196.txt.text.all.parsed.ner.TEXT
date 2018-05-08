@@ -1,0 +1,35 @@
+<s> i had to order a restoral disk.  </s>
+<s> i was never aware that i had a raid system, i didn't even know what raid was.the restoral disk fixed my system but now i have only one 120 gig hard drive.  </s>
+<s> i assume that my system has been operating as a regular computer and one of my drives is dead.  </s>
+<s> what happens if i add another drive, i need more space.  </s>
+<s> if i replace the dead drive, will my system try to reconfigure?  </s>
+<s> could i lose all my data again?  </s>
+<s> connected to !  </s>
+<s> looking in the bios, primary ide and slave aere not detected.  </s>
+<s> the ide controller is set to both.  </s>
+<s> upon startup the message is flashing &quot;2+0 stripe is offline&quot;, however, the computer starts and runs fine. the device manager lists the disk drive as, promise 1+0 span scsi device, and under properties for this drive the 2 boxes (disable tagged queing, and disable synchronous transfers) are both unchecked.  </s>
+<s> so, what will happen if i replace the dead drive?  </s>
+<s> jdd  </s>
+<s> the only controller listed in the device manager is win xp promise fast track 100 controller.  </s>
+<s> jdd  </s>
+<s> the bad news about raid 0 is .... the failure of just one drive will result in all data in an array being lost.  </s>
+<s> what you really need to decide is whether continue with raid (i do not recommend this option) or go with a more conventional setup where you can dramatically the reduce the risk of data loss and be better prepared if a drive happens to die.  </s>
+<s> i have read the exact links several times but still the question that i am asking is, since my raid crashed before i knew anything about raid, i used a restoral disk that restored the system, however, i don't know how the remaining drive is configured.  </s>
+<s> how do i replace the dead drive without running the risk of losing the data that is on the remaining disk.  </s>
+<s> i agree that the raid array is not the way that i want to configure the system with the new drive.  </s>
+<s> should i just set the new drive to slave and the old remaining drive to master?  </s>
+<s> like i said before, the primary master and primary slave are not even listed as detected in the bios.  </s>
+<s> i'm sorry if i'm having a hard time explaining exactly what my delimma is, as it may not be a delimma at all but i don't want to lose my data and i need to add space.  </s>
+<s> jdd  </s>
+<s> with the failure of the first drive like i said before ..... he bad news about raid 0 is and i quote....&quot;the failure of just one drive will result in all data in an array being lost.&quot;  </s>
+<s> you indicated one drive died and you restored the os to the working drive.  </s>
+<s> sorry for the bad news ...perhaps someone else will see a solution i missed.  </s>
+<s> i do really appreciate your patience.  </s>
+<s> maybe the only thing i haven't made clear is that it was about 2 years ago when the system crashed and it was then when i restored it, never realizing that raid was more than a bug spray, so now i have 110 gig of data that i have accumulated since then i'm trying not to lose as i add another drive to replace the dead one that has been sitting in the system for 2 years doing nothing.  </s>
+<s> the remaining working drive is connected to the primary socket on the motherboard which is labeled pri raid.  </s>
+<s> also, i did get into the raid controller program at startup and found that the 'array 2' is set to 'span' mode.  </s>
+<s> i guess that since i don't really understand the redundancy factor of the span mode, i don't know what is going to happen when i try to add another drive.  </s>
+<s> it looks to me like the motherboard is not going to allow me to add any drive unless it is hooked up to the raid controller, however, from what i have read, maybe i could configure the new drive in a separate array or logical drive as added storage.  </s>
+<s> does that make any sense?  </s>
+<s> please don't give up on me, you may be the only hope i have left.  </s>
+<s> thanks, jdd  </s>

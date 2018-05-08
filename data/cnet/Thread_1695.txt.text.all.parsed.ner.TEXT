@@ -1,0 +1,72 @@
+<s> i'm a novice computer building and i'm trying to update my old dell dimension 4600 (circa 2003). the original system had the following: 2.66 ghz pent 4 512 mb ram 40gb hdd i had added the following during the course of its life span: egeforce 6600 agp, 256 mb 300gb hard disk to help improve its sluggish speed, i recently upgraded the ram from 512mb (2 sticks of 256mb ddr, pc2700) to 2gbs (2 sticks of 1gb ddr, pc2700).  </s>
+<s> after installing the ram, i've been encountering numerous problems.  </s>
+<s> these problems include the bsod, numerous crashing, tons of win32 errors, and just about all programs closing to due to fatal errors.  </s>
+<s> i've run memtest on both sticks of ram together as well as each stick independently for about 2 hours each.  </s>
+<s> all the scans revealed indicated the memory was fine.  </s>
+<s> i attempted to reinstall windows xp, but it locked up about 3/4 of the way through (after it got to &quot;installing devices&quot;).  </s>
+<s> i eventually replaced the old original ram and was able to finish the windows install, but i'm hesitant to add the new ram back.  </s>
+<s> does anyone have any insights ito what may be causing all these problems?  </s>
+<s> one idea i got from perusing these boards is a lack of power? the power supply in the tower has an output of 250w.  </s>
+<s> would this new ram (4x the original) be too much for the supply?  </s>
+<s> thank you so much for your help!  </s>
+<s> does the motherboard support two gig of ram?  </s>
+<s> all things considered, two gig is major overkill.  </s>
+<s> have you tried with one stick of the new ram?  </s>
+<s> if things are normal, swap the sticks.  </s>
+<s> if it fails, you have a bad stick.  </s>
+<s> if it works, the motherboard may not support two gig.  </s>
+<s> have you looked at the bios?  </s>
+<s> there may be settings for that much ram if it is supported.  </s>
+<s> it runs smoother with just one stick in at a time. the bios indicates that it can run the two gigs, but i'm not certain if i'm checking the correct area.  </s>
+<s> in looking around at my system specs, it appears that this model dell can run up to 2gigs.  </s>
+<s> suspect the system is not designed to run reliably with two 1gb dimms (need mfg, series and model # to verify) or ram settings in bios need to be tweaked.  </s>
+<s> vapcmd  </s>
+<s> the system is a dell dimension 4600. the system specs state that the motherboard is designed to handle up to 2 gbs of ram.  </s>
+<s> i recieved this information from dell's website.  </s>
+<s> also, when i have the ram installed, it registers as 2gbs.  </s>
+<s> where would i need to double check to make sure this is correct?  </s>
+<s> use the finder and input your pc's specs.  </s>
+<s> crucial will tell you what you need. as another/repeat thought, two gig is still waaaaaayyy overkill.  </s>
+<s> unless you're mapping the human genome you'll never use or need two gig.  </s>
+<s> if it works with one gig, return the other stick.  </s>
+<s> i really forsee problems in trying to make this work.  </s>
+<s> if the pc was happy with two gig, we wouldn't be having this conversation.  </s>
+<s> this ram was recommended by their advisor. the amount was also recommended.  </s>
+<s> do you have any opinion regarding the potential power source problem?  </s>
+<s> it runs better with one stick than two.  </s>
+<s> have you tried each individual stick to make sure one isn't bad?  </s>
+<s> no, just because it's new doesn't mean it's good.  </s>
+<s> are you sure you handled them with care, or that you were properly grounded when you installed the ram, or touched other components?  </s>
+<s> did you make sure the ram slots are clean of dirt and dust and the ram connectors are clean as well?  </s>
+<s> are you sure it isn't the graphics card?  </s>
+<s> you said it was running sluggish before.  </s>
+<s> while 512 isn't top end, i have't seen too many computers run that sluggish on 512 unless it had other issues.are  </s>
+<s> you sure your cpu fanheat sink are clear of dust and dirt as well?  </s>
+<s> i may not have caught what power supply you have, what wattage is it?  </s>
+<s> paul  </s>
+<s> your 250w psu is getting a little light.  </s>
+<s> i can't think of a good reason why 2 sticks of 1gb would consume more power than 2 sticks of 256mb but keep the psu in mind.  </s>
+<s> memtest for 2 hrs on 2gb of memory might not tell you much....let it run for 24hrs+.  </s>
+<s> since your working with an old clunker check the maker for any bios/mobo updates that might address this issue.  </s>
+<s> consider the possibility that 3/4 yrs ago no normal person put 2gb into a machine, so the maker didn't spend a lot of time making that work.  </s>
+<s> crucial is talking about installing in pairs so i'll assume dual channel.  </s>
+<s> what happens if you install in single channel mode?  </s>
+<s> i'm 99% sure the ram is good.  </s>
+<s> i ran memtest on both sticks, indpendently, for 2 hours. the ram appears to be fine.  </s>
+<s> i'm using a 250 watt source, which may be the problem.  </s>
+<s> ok on the quantitiy of ram (2gb) what about the bios.? is bios the current version ?? vapcmd  </s>
+<s> thanks for the tip about memtest.  </s>
+<s> i've run the ram in single channel mode and i get less errors, still not error free unfortunately. the reason i suspect the power supply is that i recently (within the last 6 months) added a few power draining components.  </s>
+<s> a 256mb video card (which specifies needing a psu of at least 300) and a 300gb hard drive.  </s>
+<s> i was unaware of the strenght of the power supply and adding 4x's the ram may have been enough to drain all the power.  </s>
+<s> is that a fair assumption?  </s>
+<s> thanks for your help!  </s>
+<s> yup, the bios is the most recent. the motherboard is a dell 02y832.  </s>
+<s> 250 watt psu  </s>
+<s> the symptoms you are describing sound more like a result of a partition failure in you hard drive.  </s>
+<s> this is usually caused by a virus.  </s>
+<s> i would download a heavy virus scanner like panda true prevent, run it, and see what manifests itself.  </s>
+<s> people get complacent with virus protection.  </s>
+<s> if you don't have a problem with that, go to crucial technologies and run the memory scanner.  </s>
+<s> crucial's stuff works.  </s>
+<s> i'd almost bet that a virus has slipped in the back door of your current avp and screwed up your hard drive.  </s>

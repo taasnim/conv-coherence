@@ -1,0 +1,8 @@
+(TOP (SQ (AUX has) (NP (NN anyone)) (VP (VBD found) (NP (NP (DT a) (NNS places)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sells) (NP (NP (JJ spare) (NNS parts)) (PP (IN for) (NP (JJ external) (JJ hard) (NNS drives))))))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (NP (DT a) (JJ western) (JJ digital) (NN passport)) (SBAR (WHNP (WDT that)) (S (S (S (NP (PRP i)) (VP (VBP think) (ADVP (RB still)))) (VP (VBZ works))) (CC but) (S (NP (NP (DT the) (NN circuit) (NN board)) (SBAR (WHNP (WDT that)) (S (VP (AUX has) (NP (DT the) (NN port)))))) (VP (MD might) (VP (AUX be) (NP (NN toast))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX 'm) (VP (VBG wondering) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (NP (NP (DT a) (NN piece)) (SBAR (S (NP (PRP i)) (VP (MD can) (VP (VB buy) (PP (IN from) (NP (RB somewhere))))))))))))) (. .)) )
+(TOP (S (SBAR (IN if) (FRAG (RB not) (ADVP (RB still)) (PP (IN under) (NP (NN warranty))))) (, ,) (ADVP (RB just)) (VP (VBP get) (NP (NP (DT another) (JJ enclosure) (NN ..) (QP (RB maybe) (CD one))) (PP (IN with) (NP (NNS esata)))) (ADVP (RB too))) (. .)) )
+(TOP (NP (NNP vapcmd)) )
+(TOP (SINV (CC and) (AUX are) (NP (PRP you)) (NP (NP (ADJP (percentage (CD 100) (NN %))) (JJ certain)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB fix) (NP (DT the) (NN problem))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (MD would) (VP (VB say) (SBAR (S (NP (DT a) (JJR better) (NN solution)) (VP (AUX is) (S (VP (TO to) (VP (VB get) (NP (DT another) (JJ external) (NN enclosure)))))))))) (. .)) )
+(TOP (NP (RB just) (NP (PRP$ my) (money (CD 2) (NNS cents))) (. .)) )

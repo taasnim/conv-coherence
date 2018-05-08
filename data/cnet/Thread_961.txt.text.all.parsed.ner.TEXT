@@ -1,0 +1,33 @@
+<s> hi all.  </s>
+<s> i have an issue with a gx620, pent d 3ghz small form factor, wxp machine.  </s>
+<s> it stopped booting into windows.  </s>
+<s> i can get to the setup and exit when accessing all options except the sata information where it hangs (sata hd connected).  </s>
+<s> pulled the cmos battery and on restart bios says &quot;previous fan failure..and..low cmos battery&quot; but nothing in setup-maintenance-event log.  </s>
+<s> i don't know of any fan issue. the power supply fan and system fans both spin.  </s>
+<s> i swapped the memory, pulled the dvd rom and floppy drives.  </s>
+<s> moved the usb mouse and keyboard to other ports with no success.  </s>
+<s> when i try to boot from dell utilities dvd, w98 boot diskette, or winpe i only get so far (eg.  </s>
+<s> w98 boot disk_stops at writing virutal disk c:....winpe and w7 install cd stops at writing drive f: 'extcd001' unit 0.......at this point the numbers on the front indicate 1 3,4 which seems like it could indicate a memory issue.  </s>
+<s> i have swapped modules, kept only one at a time in, etc but i never get any new result.  </s>
+<s> i'd like to know if there is some diskette bootable memory socket and module test or if anyone has any ideas how to move forward.  </s>
+<s> tnx in advance!  </s>
+<s> xp knows nothing about sata.  </s>
+<s> 7 may not be supported (we have a few at the office that can only run xp/vista.)  </s>
+<s> look in the bios options for sata ahci, ide emulation and try changing that.  </s>
+<s> as i have no link to the bios manual from you i'll stop here with the areas i change.  </s>
+<s> bob  </s>
+<s> tnx..new info: when i try to boot into anything, the pc hangs.  </s>
+<s> i'm not sure what it tries to do and fail but i suspect it needs to write to ram and can't.  </s>
+<s> when booting from a ubuntu cd, the gui shows for a bit then it tries to fully boot into the system and it then goes to a flashing cursor and black screen hang.  </s>
+<s> w98 boot diskette, wxp install cd, dell utility cd....the bootup process either hangs or when i select a boot option the system reverts right back into post like in a loop.  </s>
+<s> i've swapped mem modules...not sure what this could be.  </s>
+<s> all that proves is the machine needs repairs.  </s>
+<s> it could be as simple as setting bios to defaults to as much as cleaning the machine and replacing all heat sink compounds and dead fans.  </s>
+<s> bob  </s>
+<s> tnx for the suggestion.  </s>
+<s> actually a person on a dell forum mentioned; the dell optiplex 745s, 270s, 280s and others from that same time period have this problem.  </s>
+<s> so i'm going to assume that is the problem as i have had similar issues with a past dell model and capacitors.  </s>
+<s> these are a bit bulged.  </s>
+<s> when it comes to inspection criteria for those bad caps, only perfection passes the test.  </s>
+<s> google bad caps for what happened as well as finding out about millions of dead pcs and now hdtvs.  </s>
+<s> bob  </s>

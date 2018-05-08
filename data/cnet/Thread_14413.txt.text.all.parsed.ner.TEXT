@@ -1,0 +1,32 @@
+<s> i've set up a home network using my work laptop, called mshome.  </s>
+<s> i can see the other machine in microsoft windows network both ways - between pc and laptop.  </s>
+<s> when i try to open the machine, i have to log on.  </s>
+<s> the pc is called orangeroom and the laptop is laptop28.  </s>
+<s> my log on username for both machines is &quot;cool&quot;.  </s>
+<s> when i try to log on to the laptop through the network, by typing in &quot;cool&quot; with a password, it changes to orangeroom/cool but won't log on.  </s>
+<s> when i try to log onto the pc from the laptop, i again have to log on and i get an error message: the username you typed in is the same as the user name you logged on with.  </s>
+<s> that user name has already been tried.  </s>
+<s> a domain controller cannot be found to verify that user name.  </s>
+<s> i'm running xp pro sp2 and would really appreciate some help!  </s>
+<s> any firewalls running?  </s>
+<s> set any folders to share?  </s>
+<s> when faced with a login box i usually put in the user name of the computer i am trying to access.  </s>
+<s> no joy.  </s>
+<s> folders are set to share and i have disabled nis firewall.  </s>
+<s> i think the logon problem is to do with the way the networking has been set up.  </s>
+<s> at work, the laptop connects to a domain.  </s>
+<s> i asked the administrator to set the machine up to also work as a home network.  </s>
+<s> would this make a differerence?  </s>
+<s> &quot;i asked the administrator to set the machine up to also work as a home network.  </s>
+<s> would this make a differerence?&quot;  </s>
+<s> absolutely, your work machine is looking for a domain to join.  </s>
+<s> what did your it guy say?  </s>
+<s> it was a &quot;she&quot; actually!  </s>
+<s> i just asked to set the machine up for a home network.  </s>
+<s> she seems to have retained the work domain: is it not possible to have a domain and a home network?  </s>
+<s> when i click my network places, i can see my school network &quot;chschool&quot; and &quot;mshome&quot; - my home network.  </s>
+<s> it's a built in limitation of the xp home os. you need xp pro to interact with most work networks since they have a domain login requirement.  </s>
+<s> your it should help you with this. also worth noting is that a vpn connection will have restrictions to what shares you can connect to.  </s>
+<s> this is by design!  </s>
+<s> bob  </s>
+<s> both machines are running xp pro, bob.  </s>

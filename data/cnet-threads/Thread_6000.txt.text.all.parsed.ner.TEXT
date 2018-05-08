@@ -1,0 +1,142 @@
+<s> i just bought a sceptre 19&quot; komono lcd monitor from ubid.com.  </s>
+<s> i notice that there is a difference in sharpness from my old crt.  </s>
+<s> its seems that this is not as crisp and the words and graphics seems a little fuzzy.  </s>
+<s> i wanted to know if this is the norm.  </s>
+<s> am i suppose to trade the sharp resolution of a crt for a thinner and lighter lcd that does not produce a sharp pic.  </s>
+<s> pleaselet me know before i return this as this is the first lcd i've had.  </s>
+<s> thanks.  </s>
+<s> quan  </s>
+<s> it has been my experience that most newer lcd's have excellent resolution.  </s>
+<s> you need to check to see if your graphics card is set to display at your lcd's native resolution. the native resolution on a lcd can be thought of as the maximum resolution on a crt monitor. the big difference is that crt monitors can display images at a lower resolution without picture quality loss while a lcd monitor has to rely on interpolation (scaling of the image).  </s>
+<s> a lcd has to scale up a smaller image to fit into the area of the native resolution.  </s>
+<s> this is the same principle as taking a smaller image in your favorite image editing program and enlarging it; the clarity you had with the smaller image loses its sharpness when it is expanded.  </s>
+<s> this is especially problematic as most resolutions are in a 4:3 ratio (640x480, 800x600, 1024x768, 1600x1200) but there are odd resolutions that are not notably, 1280x1024.  </s>
+<s> if a user was to map 1024x768 to a 1280x1024 screen there is going to be distortion as well as some image errors as there is not a 1-&gt;1 mapping with regards to pixels.  </s>
+<s> this results in noticeable quality loss and the image is much less sharp.  </s>
+<s> some resolutions work well however as in the case of a 1600x1200 lcd and a 800x600 image.  </s>
+<s> since 800x600 is an integer factor of 1600x1200, scaling will not adversely affect the image.  </s>
+<s> thanks for replying john.  </s>
+<s> how do i check to see if the graphics card is set to my lcd's native resolution.  </s>
+<s> i bought this computer a year ago and am pretty sure the graphics card is an integrated one.  </s>
+<s> thanks for the help.  </s>
+<s> first you need to know the native resolution of your new monitor.  </s>
+<s> i looked at the manufacturers specs for 19&quot; komodo monitors and it looks like your native resolution is 1280x1024.  </s>
+<s> here is the we page i found the info on: right-click somewhere on your desk top then click on &quot;properties&quot;. you will get a display properties message box.  </s>
+<s> look for the &quot;settings&quot; tab and click on it.  </s>
+<s> you should see a screen resolution setting in a small window on the lower left.  </s>
+<s> that setting is the resolution your graphics card is currently set to.  </s>
+<s> you can adjust your resolution using the less/more slider button right above the setting value.  </s>
+<s> you may find that your built in graphics card cannot go as high as your monitor and that would present a minor problem.  </s>
+<s> most built in graphics cards are left lacking in the performance and features areas.  </s>
+<s> if you find your built in card can't handle the resolution of your new monitor you can usually fix this by adding in a new graphics card and disabling the built in.  </s>
+<s> that would be my course of action rather than sending it back.  </s>
+<s> you have a very good monitor and i would higly recommend hanging on to it.  </s>
+<s> graphics cards range from very inexpensive ($35) to extremly outrageous ($600).  </s>
+<s> i usually buy ati myself but there are many good manufacturers to choose from.  </s>
+<s> for example here's a decent card based on the ati chipset but distributed by asus: this card takes an agp slot and i'm assuming you probably have one though you'll want to check that.  </s>
+<s> to do so simply open your computer up and look for a brown slot.  </s>
+<s> if you have one you can buy a new agp card and disable the on-board video.  </s>
+<s> to disable the on-board video card simply start up your computer and go into bios setup.  </s>
+<s> most computers will let you enter bios setup by simply pressing the delete key while starting it up.  </s>
+<s> however there are some that use a different key so you may have to figure that out first.  </s>
+<s> once your in you will need to look for the setting that allows you to turn off integrated video.  </s>
+<s> after setting this value to &quot;disabled&quot; turn off the computer and install the new graphics card and fire it up.  </s>
+<s> when the computer starts up for the first time with the new hardware it will likely be set on the lowest screen resolution at first. it will also find your new card and ask for the drivers.  </s>
+<s> cancel out of microsofts driver finder and insert the driver disk that will come with your new graphics card.  </s>
+<s> it should auto start and walk you through the driver install.  </s>
+<s> after a reboot or two your new card will be installed and will likely set itself to a higher resolution but don't settle for the one it gives you automatically instead right-click on the desktop again and go back through the steps i mentioned above for setting your screen resolution.  </s>
+<s> this time around you will be able to use the higher setting that matches your new lcd monitor.  </s>
+<s> i know this all sounds very difficult especially if you've never done it before but trust me it really won't take too much time and you could have it done in less than an hour.  </s>
+<s> if you have a local best buy or similar store you could even find your replacement graphics card without having to order it.  </s>
+<s> i hope this helps.  </s>
+<s> good luck.  </s>
+<s> i should also mention that 1280x1024 is a high enough resolution that your icons and letter fonts will be very small and hard to see for most of us.  </s>
+<s> you will probably want to tweek a few settings to bump up your icons and font sizes.  </s>
+<s> there is an excellent article in the april issue of computer shopper that walks you through all of this and even explains lcd resolutions better than i have.  </s>
+<s> you should be able to find a copy of the april computer shopper at your local wal-mart or favorite book store. the article is on page 122 in case you happen to go out and get it.  </s>
+<s> john many thanks to you for your help.  </s>
+<s> i have gone through the steps many times before but just never knew that its called native resolution.  </s>
+<s> your instruction on disabling the integrated will definately be helpful.  </s>
+<s> i will try this out and let you know.  </s>
+<s> thanks  </s>
+<s> hi, i checked out the inside of my computer and i could not find a brown slot to add the graphics card like you said.  </s>
+<s> i only found 3 beige slots.  </s>
+<s> what else can i do to increase my graphics.  </s>
+<s> please help because i really don't want to return this monitor.  </s>
+<s> thanks  </s>
+<s> i now know that i do have a pci slot and not an agp slot.  </s>
+<s> what is a good video card for me if i want good resolution for my new lcd screen.  </s>
+<s> i am not into the heavy duty games such as half life or doom. the most i am into is looking at photograph i have taken.  </s>
+<s> i have been reading the reviews on newegg and someone mention about making sure the pci is 64 bit and not 32. what does that mean and how can i figure it out on mine?  </s>
+<s> can anyone recommend one.  </s>
+<s> many thanks.  </s>
+<s> the bit rate of the graphics card refers to the speed of the gpu bus. the higher the bit rate the faster the graphics card can render a picture.  </s>
+<s> also at higher bit rates you can support larger screen sizes.  </s>
+<s> newer agp cards are using 128 bit technology.  </s>
+<s> though your computer cpu is likely a 32 bit system.  </s>
+<s> amd is currently selling 64 bit processors that are backward compatible with 32 bit os's but the fact that you have no agp slot tells me you arn't in that arena.  </s>
+<s> agp has been with us since around 98 or 99 and you said you don't have an agp slot so i'm guessing your computer is getting some age on it.  </s>
+<s> there were some boards that came out during the transition that had integrated agp video that could not be disabled.  </s>
+<s> in other words the agp card was built in an acted as the only possible video card for the system.  </s>
+<s> a friend of mine had an hp pavillion like that.  </s>
+<s> he took my advice and went out to buy a new pci card and found he could not use it in his computer.  </s>
+<s> you will need to be sure that you can disable yours before you try to replace it with a new pci card.  </s>
+<s> if you can disable the on-board video then look for a pci card that fits you budget and uses the highest bit rate it can.  </s>
+<s> also look for a card with a lot of memory as this will help to reduce taxing your system memory and thus speed up your overall computer experience.  </s>
+<s> here is a decent ati pci graphics card that should do a good job and is in the radeon family of gpu's: this card has 32 mb of memory built in and will support up to 2048x1536 screen resolution which will support your new monitors native resolution.  </s>
+<s> once again don't go out and buy one until you are sure your on-board video can be disabled.  </s>
+<s> good luck  </s>
+<s> when i went to try and disable the graaphics card.  </s>
+<s> 1. restart computer: here is the page that i see: &quot;please select operating system to start: microsoft windows xp home ed. microsoft windows recovery console select and press enter to choose.  </s>
+<s> for trouble shooting and advance startup options for window select f8 2. i press f8 and here is what it says: windows advance options please select an option: safe mode safe mode with networking safe mode with command prompt -enable boot logging -enable vga mode -last known good config.(your most recent settings that work -directory services restore mode(windows domain controllers only -debugging mode -disable automatic restart on system failure -start window normally -reboot -return to o.s. services menu.  </s>
+<s> (this takes me back to previous.  </s>
+<s> i tried to enter these but nothing happened.  </s>
+<s> on my old computer i could do what you told me and but here i don't know where to go.  </s>
+<s> please help  </s>
+<s> &quot;when i went to try and disable the graaphics card.  </s>
+<s> 1. restart computer: here is the page that i see: &quot;please select operating system to start: microsoft windows xp home ed. microsoft windows recovery console&quot; ---------------------------------------------------- first i need to find out what you did to disable the graphics card?  </s>
+<s> did you do it in bios or did you simply remove it from your system device listing?  </s>
+<s> what we're looking for here is whether it can be disabled in bios don't try and uninstal it from windows because we already know we can do that but it won't tell me what i need to know.  </s>
+<s> when you disable it in bios and shut the system down that is when you will install the new card.  </s>
+<s> unless you already have the new card and are ready to proceed then you shouldn't be trying to restart after you disable the card.  </s>
+<s> all i need to know is whether or not there is an option in bios that will allow you to turn off the on-board graphics.  </s>
+<s> if there is then we know you can run out and buy a new pci card that will work.  </s>
+<s> if you are having troubles getting into bios i can probably look up the procedure if you tell me what the make and model of the computer is.  </s>
+<s> about 80% of all computers will go into bios by simply holding the &quot;delete&quot; key on start up.  </s>
+<s> some manufacturers try to keep you out of bios by making it hard to get in.  </s>
+<s> some will have a start up or splash screen that conceals the start up details.  </s>
+<s> this can usually be disabled by resetting or rather wiping the motherboard cmos.  </s>
+<s> this is done on the motherboard with a jumper but lets not get into that unless we need to.  </s>
+<s> just let me know where you are on the disabling on-board video in bios and we'll go from there.  </s>
+<s> hi, i did a search and found some instructions on how to disable.  </s>
+<s> 1-make sure that the new video card is out of the system, with your monitor on the built-in video.  </s>
+<s> 2-start the computer up, tapping the f8 repeatedly until you get to the windows advanced options menu.  </s>
+<s> choose the option for safe mode, press enter at the os selection screen, and log in as the administrator.  </s>
+<s> 3-go to start-&gt;control panel. then go into system, click on the hardware tab, then the device manager button.  </s>
+<s> 4-click on the + sign next to display adapters.  </s>
+<s> right-click on what pops out, and choose disable.  </s>
+<s> close out, and shut down the computer so it turns off.  </s>
+<s> 5-insert your new video card, and hook up the monitor to it.  </s>
+<s> turn on the computer, and let it come up normally.  </s>
+<s> those were the instructions and i did it.  </s>
+<s> i didn't buy video card yet.  </s>
+<s> i couldn't get into bios.  </s>
+<s> can you help me?  </s>
+<s> my computer is the compaq presario s5000nx.  </s>
+<s> pressing f2, delete would not do anything.  </s>
+<s> in the previous post i put everything that it says on the screen and none would allow me to get into bios.  </s>
+<s> from the instructions above i went into safe mode and disabled it.  </s>
+<s> if you want you can email me at eniners@yahoo thanks for all your help.  </s>
+<s> i really appreciate it.....  </s>
+<s> the instructions you followed are ok for removing video from your windows system but the card is still physically there because it's built in so that does us no good at all.  </s>
+<s> you will still need to go into bios/cmos and disable the card if that is possible.  </s>
+<s> some models will not let you do this so it is important that you get in and find out.  </s>
+<s> it looks like on compaqs you need to hold the f10 key on power up to get into bios.  </s>
+<s> one site i visited said that you hold the f10 key while the cursor is blinking but i'd try it every way you can until you get in.  </s>
+<s> here's a site that explains this a little better: once you get in look for something like &quot;intergrated video&quot;.  </s>
+<s> there should be a way to turn it off.  </s>
+<s> if not then you will not be able to install a new card.  </s>
+<s> sure it will fit into a pci slot but that won't help us because the integrated video will be default.  </s>
+<s> once you are into bios/cmos and know if there is a way to disable the integrated video then you may go out and purchase your new card and i'll help you get it installed.  </s>
+<s> if you find that it is not possible to disable it then get back with me and i'll help you restore your current video card.  </s>
+<s> p.s. i tried to send this to you via e-mail but the address was rejected.  </s>

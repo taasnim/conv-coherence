@@ -1,0 +1,12 @@
+<s> i recently built a new machine.  </s>
+<s> the processors i chose was an amd athlon 64 x2 dual-core, 5200+.  </s>
+<s> up until yesterday, everything was fine.  </s>
+<s> i was running at optimal processor speed and when i checked properties of my computer, it reported as much.  </s>
+<s> today, i logged in and checked properties of my computer for a totally seperate reason and saw that the cpu was being reported as running at 996mhz instead of the usualy 2.6ghz.  </s>
+<s> my mobo came with a utility that i can run to dynamically bump the speed of my cpu up, but i am reluctant to try it, as i have no experience overclocking.  </s>
+<s> what could cause this change?  </s>
+<s> should i be concerned about it?  </s>
+<s> should i make the change in the utility i have, or is there another utility i can use?  </s>
+<s> please help, eric  </s>
+<s> modern cpus run at variable speeds.  </s>
+<s> investigate amd cool'n'quiet technology if you want more information on what it does and how to disable it.  </s>

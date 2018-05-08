@@ -1,0 +1,101 @@
+<s> ok this is a little bit of a story but i desperately need some folks to help me out here.  </s>
+<s> in jan, my pc stopped working it would turn on, then before posting, would turn itself back off.  </s>
+<s> i was suggested to buy a new psu, so i did that.  </s>
+<s> i bought a highly rated 600w psu.  </s>
+<s> still no luck.  </s>
+<s> i took the tower into my university's it folks, they figured it was either a faulty cpu or mobo, so i replace cpu first with a p4 3.0ghz socket 478 cpu.  </s>
+<s> still no luck.  </s>
+<s> i replace the mobo with a asus p4s800, socket 478, 800mhz fsb.  </s>
+<s> progress is made - the pc turns on and stays on, yet no video.  </s>
+<s> in fact, it turned on once or twice to boot up then would bsod after posting and while loading or having just loaded winxp pro.  </s>
+<s> so, i figure its my old radeon x800xt vid card.  </s>
+<s> i replace it with a x1600 512mb card agp 4x/8x and plug everything up and hit power.... still nothing.....i dont get it.  </s>
+<s> i dont hear any beeps that would point to ram or hd issues, and the signal never sends to the monitor.  </s>
+<s> this is unbelievable frustrating as i depend on that pc for a lot of my work to get done and am borring a family laptop until its up again.... i have replaced psu cpu mobo video card i have 2gb ram and audigy 1 audio, with 2 dvd drives and 2 hd....help me folks, i really need it!!! -kkohler  </s>
+<s> have you re-formated the drive and re-installed the o.s.? did you check the motherboard website for the latest drivers, and bios updates?  </s>
+<s> i recently installed a new motherboard that wouldn't let me install xp, until i updated the bios.  </s>
+<s> have you tested the memory?  </s>
+<s> memtest.  </s>
+<s> that's all that's left, since everything else is new, but keep in mind that even new parts can be faulty.  </s>
+<s> well i cant do anything if the monitor dont turn on......i dont even know what the bios version is.  </s>
+<s> so how would i do any of that blind?  </s>
+<s> make a list of your original hardware that is still in use.  </s>
+<s> if you still have some of it in that new motherboard, that could be your problem (e.g. memory fault, cable connector( fans, drives, audio etc.) it can be as simple as a mouse of keyboard hanging the system.  </s>
+<s> it may be a crimp in the cables to the drives, cd etc. you've swapped so much now it is confusing to isolate, but it is whatever is still left or sadly a new problem unrelated to the first.  </s>
+<s> take it down to a minimal configuration, only the most basic stuff.  </s>
+<s> if it get in to setup, then start adding until it fails.  </s>
+<s> if you don't then it is in the core group of stuff.  </s>
+<s> since you got no joy from the paid technical help, i would return it to them for satisfaction.  </s>
+<s> power supply on the table, mobo on the table [insulated surface], ps plugged into mobo and into wall outlet [switch on rear of supply on = 1].  </s>
+<s> no cpu, no memory nada.  </s>
+<s> start power supply by momentarily shorting the two pins on the mobo, the supply should turn on as noted by its fan rotating continuously.  </s>
+<s> if this is a go turn power totally off between each of the following steps.  </s>
+<s> [for this first step there is no need to have the 4 pin 12 volt connector plugged it, however for all following steps it must be plugged in.  </s>
+<s> add cpu and properly install the hsf with thin film of thermal compound, check that supply turns on and stays on.  </s>
+<s> then memory, then video card connected to monitor [still on the table] then remove the video card and install the mobo as per the following mobo mounting info: first note that the only mounting holes of interest are those with a gold ring [plated copper] around them.  </s>
+<s> understand that a mobo is a four layer board.  </s>
+<s> actually four layers of printed circuit artwork, each layer insulated from the other except where connections are needed.  </s>
+<s> the connections are made by holes drilled through the layers and through the specific circuit leads that need to be connected.  </s>
+<s> the connections are made after assembly of the layers by flow soldering in a solder bath and the solder plates through the holes, thus they are called plated through holes, before plating they are vias [can go from one layer to another via the hole].  </s>
+<s> back to the mounting holes, one of the inner layers of the mobo is basically a ground plane with most of the ground [returns] wiring.  </s>
+<s> each of these mounting holes are plated through and connect to the ground plane, they are also continued through to the bottom side of the mobo.  </s>
+<s> thus, if one were to lay the mobo fresh out of the box [not on the anti static sheet that it comes with, that is conductive] and use an ohmeter to check continuity from each hole ring to the other one will find that they are actually connected to each other, a step to acheiving an equipotential surface.  </s>
+<s> the grounding of interest in this case is that of very high frequency signal and noise, not low frequency such as audio.  </s>
+<s> for audio grounding the old single point grounding is proper.  </s>
+<s> for rf [radio frequency] grounding, one wants to get as to close to an infinite equipotential surface as possible.  </s>
+<s> simply want the signal and noise level at every point to as close to every other point as possible [of course we don't achieve that] as good practice.  </s>
+<s> thus, for rf/emi purposes we really want the mobo's ground plane to be rf connected to the mounting plate [thus metal standoffs used].  </s>
+<s> again, good rf ground is made by the intimate contact of two mating conductive surfaces, not by screws. the sole purpose of the screws is to maintain the intimate contact.  </s>
+<s> good engineering practice never uses a screw to carry current.  </s>
+<s> thus, for the mobo subject, the intimate contact is from the ring around the mounting hole on the bottom of the mobo, the surface of the hex standoff and the other end of the hex standoff to the mounting plate.  </s>
+<s> now the kicker [many in the forums will say this is not so, however they are simply not correct] one usually gets what appear to be insulated washers with the mobo.  </s>
+<s> in fact they are insulating, however that is not their purpose.  </s>
+<s> remember that we want intimate contact which means that one wants to tighten the screws.  </s>
+<s> however, the plated rings around the mounting hole are somewhat delicate printed lands, thus the insulated washer goes under the head of the screw to prevent the tightening of the crew from damaging the printed ring.  </s>
+<s> over the years i have seen people in the forums tell people to put the insulating washers between the mobo and the hex standoff.  </s>
+<s> just think about trying to accomplish that.  </s>
+<s> they simply do not understand the subject of good rf grounding.  </s>
+<s> now, many mobos will provide various types of plastic snap in devices.  </s>
+<s> i never use them, however i can see where the mfr's are not going to try to take the time to get people to understand the subject the only penalty for using plastic versus metal is that the overall emi performance of the system will be lessened.  </s>
+<s> however, there really is no way that will be detected by anyone, thus the easy way out.  </s>
+<s> i have talked to a tech that worked at a mobo mfg plant and he wasn't even aware that the mounting holes are grounded to each other inside the mobo.  </s>
+<s> btw intel has actually gone to 6 layer mobos in a few cases.  </s>
+<s> basically a layer is a fiberglass type material with copper plated on both sides and then etched for circuitry, thus it is two layers a second such board is then attached to the other through an insulating layer of something called prepreg and then squeezed extremely tightly.  </s>
+<s> imagine the accuracy needed to have all of the holes line up perfectly.  </s>
+<s> it is really fascinating.  </s>
+<s> when i worked on the minuteman program we used 14 layer circuit cards.  </s>
+<s> note, always an even number of layers.  </s>
+<s> regardless, if i twere you i would least use the metal mounts at the end of the mobo near the cpu and i/o ports. the other related issue is that where one puts a new mobo into a case where a mobo existed before.  </s>
+<s> in these cases, since not all mobos use the same mounting hole, it is not unusual for one to leave an old hex mount in at a place where the new mobo doesn't have a mount.  </s>
+<s> this results in shorting out the good circuit artwork on the new mobo.  </s>
+<s> seen this in the forums a number of times over the years, however the classic was one where the individual mounted the mobo to the mounting plate with no spacers.  </s>
+<s> if the mobo and supply etc work after installing in the case, one then adds one item at a time until the system is fully operable.  </s>
+<s> this writer goes floppy [so can use a win 98 boot floppy to test each step], then cd/dvd device [use boot floppy to check that it reads a cd or dvd], then finally get to the hard drive and op sys install.  </s>
+<s> if installing the op sys to a sata drive read the mobo's instructions on how to use the f6 key and provide the sata drivers during the xp install.  </s>
+<s> ok well whats the minimum needed for the bios to come up?  </s>
+<s> i took everything out of the case, and started over, and right now, i have the mobo, cpu, 1 stick of ram, psu, and video card plugged in.  </s>
+<s> still nothing....just that little orange light on the monitor...never changing...always mocking me.  </s>
+<s> my baseball bat is starting to look very useful right now.  </s>
+<s> minimal number of wires plugged in, just the stuff for the case to mobo and the power for pcu fan and vid card  </s>
+<s> if no video i go for beeps.  </s>
+<s> just 4 parts.  </s>
+<s> motherboard, psu, cpu+hsf and a speaker.  </s>
+<s> no beeps?  </s>
+<s> we have 4 possible bad parts.  </s>
+<s> -&gt; yes it could be the battery or a jumper in the wrong place but at least we know it's down to just 4 parts.  </s>
+<s> bob  </s>
+<s> of the ps by itself to see if it turns on??? jumper between green wire and any of the black wires on the 20/24 pin connector??? also the mobo with no cpu, no memory, nada, only the power supply plugged in to the 20/24 pin, and then momentary contact short between the two power pins on the mobo?? obviously the power supply is providing the 5 volt standby power to the mobo. the next question is does the mobo logic circuit turn the other power supply rails on when the mobo puts a logic low on the pin with the green wire.  </s>
+<s> again, if the power supply by itself, sitting on the table is plugged in to the ac power and you jumper the green wire to any one of the black wirees and maintain the two connected, the power supply should turn all the rails on as noted by its fan rotating.  </s>
+<s> can't be simpler than this to see if the poweer supply can turn on.  </s>
+<s> hi i have a pentium 3 800mgz ihve tried to install windows me it install corectly when it reboot it says problem `loading kernel 32 ` ive tried to install windows 2000 and xp first step formatting ok second step copying files it says cannot copy some files those windows cd are brand new ,when install windows 98 works fine , have change hard disk and cd rom drives nothing need some help how to install windows xp on my pc banghead.gif java script:emoticon(':banghead:', 'smid_1') banghead.gif banghead.gif banghead.gif  </s>
+<s> in this thread???? please repost in a new thread, by clicking on create a new thread.  </s>
+<s> you'll get far more replies and they will address your question, not the problem being discussed in this thread.  </s>
+<s> there is also a forum for me where you may want to create the thread in.  </s>
+<s> psu works i finally had time to do most testing....  </s>
+<s> or??? then after it works with an empty mobo, how about a mobo with cpu and hsf only?, then memory, then video with monitor to see the initial flash screen, then a keyboard so that you can get into the bios.  </s>
+<s> then a floppy [and win 98 boot floppy], then a cd burner and boot floppy to boot with cd support and put a cd in the burner to see is you can read the drive by typing d and enter and then dir to see what's on the cd. good to this point, put a hards drive in and see if it gwets seen in the bios and in the boot screen, and the full size.  </s>
+<s> then install the op sys from the cd with the cd set to be the first boot device, and on and on.  </s>
+<s> i hope that you find the cause of the original problem, or simply get the system fully working.  </s>
+<s> hope that you will keep us informed.  </s>
+<s> good luck and good troubleshooting.  </s>
+<s> you need a true os copy (you failed to say what os your running so i (assume) that you are using windows 98 you need the floppy boot disk or repair disk nt versions(xp home,pro,2000 and so on you will need your very own os disk if you do not have one now is a good time to be buying it and make sure you ask for a sp2 disk most all vendors should have them now and to make it easy on the pocket ask for an oem (this version does not include the one year tech support from the 199 version) which includes it if money is pouring out of your wallet like a river then get the tech support as with the oem you will get one and only one instance of support after that you pay $35 dollars a pop then pop the disk into your pc and go into the bios and make your cdrom frist boot then hit f10 choose yes and upon reboot hit any key option to boot from your new os cd then fallow instructions till you get to the part where it shows your partitions delete all of them if you have more then one&gt;&gt;&gt;&gt;&gt;&gt;&gt;it warning&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; if you did not save any thing you needed or where working on before you do this you loose all forever&lt;&lt;&lt;&lt;&lt;end it warning&gt;&gt;&gt;&gt;&gt;&gt;&gt;fallow all on screen instructions as microsoft would never let you screw up there perfect os once you delete all partitions you need to rebuild them or (just one)if it seems to hard heres a &lt;&lt;&lt;&lt;&lt;it hint&gt;&gt;&gt;&gt; 1024= 1 gigabyte&lt;&lt;&lt;&lt;end it hint&gt;&gt;&gt;&gt;&gt; you can break a hard drive down into c-z depending on your size if you still get errors after this then you may have a bad ide cablewrong jumper seeting on driveor have infact duplcated the error over on to your new drive (error meaning bad bad bad.virus/script kiddieupset other owner other then you )and the list goes from software to hardware from psu to the fact that i bet you put in your cpu and ram on your mobo after it was on the post in you case &lt;user input&gt;rightwrong end input ???? &gt; casue if you did you could have cracked the very fine layer of resistance coating on the mobo which would cause the very symptoms you discribe (&lt;&lt;&lt;&lt;it hint always place your cpu and ram in the mobo frist as these require more pressure then say the pci adpaters then palce your mobo in the case (did you think that little foam matt your mobo should have been laying on when you took it out of the box was just for it arrival protection)&lt;&lt;&lt;&lt; end it hint&gt;&gt;&gt;&gt;&gt;&gt; know you want to remember that you need to place devices in this order&lt;&lt;&lt;**** it fact *****&gt;&gt;&gt;hard drives frist ide connector space set master slave releationship if more then one drive is used just master if only one is used all cd dvd cdrw go onto the second ide connector pin stripe faces toward the out side of machine case on ide cable if you are using sata then same order for them as well sata cables dont comply with pinstripes and only plug one direction make sure you have no power connections while doing this inside your pc and that you ground your self to the pc case either buy hand or wrist strap while in there if any of the above condition where not met in every way failure is the only option&lt;&lt;&lt;&lt;&lt;****** end it fact*****&gt;&gt;&gt;&gt; next make sure that you only used a micro dot size of thermal paste on your cpu now would be a good time to take it off and look how the dot you put on before spread over the cpu chip itself if it didnt cover at least 80% of the chip then heat failure could be your problem also some prefer to spread this out with there finger but in the real world this is frowned against as you will leave finger tip print marks in the compound which will not bond correct when the cpu heat sink is placed on (i myself dont understand it either)force x pressure + mass = flat in my book but you be your own judge just make sure you bond that cpu with thermal good to the heatsink &lt;&lt;&lt;&lt; it mission &gt;&gt;&gt;&gt; critical !!!!!! then hook it up and boot if for nay reason you get any beep codes when posting you got problems and may need to update the bios frimware using a floppy or disk your preference if after that you still get errors then you may have in fact cracked the mobo and well it looks good hanging on walls or just to hold and stare at endlessly at how its made (not a paid advertisment) i would also check the molex connectors to make sure you dont have any loose connections on any devices hooked to the power supply newer sata (no worries) if you still have problems after all that 1-800-geek-squad !!!! or 1 905 i need a nerd now as i cant help you any further on paper .............&lt;&lt;&lt;&lt;&lt;&lt; end it cout&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1-800-33qad;  </s>

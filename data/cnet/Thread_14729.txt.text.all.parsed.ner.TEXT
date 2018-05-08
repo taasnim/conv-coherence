@@ -1,0 +1,129 @@
+<s> i am having a recently manifested problem with the display being corrupt right from startup.  </s>
+<s> while the bios is starting up and finding the hardware etcetera it is variably garbled.  </s>
+<s> once windows is up, it is still variably corrupted.  </s>
+<s> i am experiencing a grid type pattern with approximately one inch columns and 3/16 inch rows of corruption.  </s>
+<s> these are sometimes static and other times flickering.  </s>
+<s> mouse movement sometimes increases the corruption.  </s>
+<s> i have tried resetting the bios, replacing the bios battery, checking bios settings, checked all in-windows display settings though i can't imagine how these would affect the pre-load-up display.  </s>
+<s> restarting sometimes makes for a better display though it is a transient improvement at best and sometimes makes it worse.  </s>
+<s> i have checked all fans to ensure proper function.  </s>
+<s> i have reseated the video card.  </s>
+<s> so my question is: if there is display corruption before windows boots, how do i go about diagnosing and correcting the problem?  </s>
+<s> fic au13 ultra bios date: 03/24/03 bios type: phoenix - awardbios v6.00pg bios id: 03/24/2003-nvidia-nforce-6a61bf09c oem sign-on: version tfa402 super i/o: winbond 627f/hf rev 7 found at port 2eh board temperature : 30.0c / 86.0f cpu temperature : 60.0c / 140.0f xp home 5.1.2600  </s>
+<s> sp2 cpu: amd athlonxp 1826 mhz (2500+ barton) ram: 2x 512mb video adapter model : all-in-wonder 9700 series chipset : radeon 9700 pro agp (0x4e44) ramdac : internal dac(400mhz) video bios : 113-95701-101 vga compatible : no total memory : 128mb (128mb video) (117mb system)  </s>
+<s> i dont think your bios is the problem i think it's your video card.  </s>
+<s> remove your video card and plug into the onboard graphics your motherboard provides if everything is cool then the problem is your video card.  </s>
+<s> if you still get a fuzzy bios coming from your built in graphics then wait for someone more experienced then me to post a solution.  </s>
+<s> the fic au13ultra has no onboard graphics.  </s>
+<s> i have the ati all-in-wonder 9700pro agp as the only graphics.  </s>
+<s> 60 deg c for a cpu at idle is pretty warm.  </s>
+<s> but if you are certain heat is not an issue then your video card is probably on its last legs.  </s>
+<s> that's probably a 4+ year old 9700 a-i-w right?  </s>
+<s> first, take the case of and let the pc cool down (20 minutes or so).  </s>
+<s> take this opportunity to clean out the case with a can-o-air make sure you hit all of the fans.  </s>
+<s> now boot the pc with the case open.  </s>
+<s> if that 'fixes' the problem, then heat is the culprit.  </s>
+<s> if not, swap in another vga card and see if you still have the garbling.  </s>
+<s> if not, then the a-i-w is showing its age.  </s>
+<s> i flashed the bios to the latest (still old) just to make sure it wasn't that: new bios: bios date: 09/17/03 bios type: phoenix - awardbios v6.00pg bios id: 09/17/2003-nvidia-nforce-6a61bf09c oem sign-on: version tfa43 no difference, still corrupt though not as bad perhaps, though the intermittent and variable aspect of this corruption makes it hard to tell. the aiw is around three years old.  </s>
+<s> i do have a comax pci slot agp fan blasting on the 9700pro in addition to the stock fan.  </s>
+<s> i have to leave for an hour or so, so will try the cooling and cleaning (i keep it pretty clean) test.  </s>
+<s> i'll give a report when i get back.  </s>
+<s> thanks for your input.  </s>
+<s> verify any video card is cooling well.  </s>
+<s> see, if the fan(is there) is working 100% and cleaned of any dust build-up, etc.. reseat the video card as well.  </s>
+<s> plus, if the problem persists, then get your hands on any other video card to test it even if a low-level one just to get beyond what maybe a video ram or heat problem of the video.  </s>
+<s> you can place a household fan to blow on the video card and see what the result are.  </s>
+<s> if it is a video problem then only replacing the card will do.  </s>
+<s> if ytou have oc'ed the video then slow it down abit fby its direct s/w or use the bios or both areas.  </s>
+<s> it certainly appears a video problem.  </s>
+<s> either bad ram or weak video chipset.  </s>
+<s> there's the outside chance apossible video driver update may help if driver related.  </s>
+<s> again, simple video card replacement can test all this.  </s>
+<s> tada -----willy  </s>
+<s> i have another block of time away coming but i thought i'd give some more food for thought.  </s>
+<s> i have my tv set up as the secondary monitor for home theater purposes.  </s>
+<s> s-video hook up.  </s>
+<s> usb sound through my audio receiver.  </s>
+<s> the corruption is the same on tv as on monitor.  </s>
+<s> just thought you should know.  </s>
+<s> it does get worse substantially when playing a movie recorded from cable tv, whether on tv or monitor. the corruption might appear on the desktop but not be on a thunderbird e-mail page or open office word processing page or even this firefox web page.  </s>
+<s> have tried all cooling except the household fan so far.  </s>
+<s> videos streaming online like (hilarious by the way) play without corruption.  </s>
+<s> could my power supply have something to do with it?  </s>
+<s> i've heard plenty about people that have problems and/or burnout.  </s>
+<s> mines a 485w but not a big name.  </s>
+<s> i don't know much about voltages.  </s>
+<s> they don't seem to match but i don't know the acceptable ranges.  </s>
+<s> here's another temp and a voltage report.  </s>
+<s> temperatures: motherboard 32 c (90 f) cpu 54 c (129 f) seagate st3200822a 36 c (97 f) seagate st3300831as 34 c (93 f) cooling fans: cpu 2679 rpm voltage values: cpu core 1.66 v aux 1.52 v +3.3 v 3.17 v +5 v 4.89 v +12 v 11.86 v -12 v -12.03 v -5 v -5.15 v +5 v standby 4.97 v vbat battery 2.62 v any of this help?  </s>
+<s> all that data you've just listed is pretty much worthless.  </s>
+<s> you've displayed the temps of everything but your video card and the voltages arent labled so who knows what is taking up how much power.  </s>
+<s> you said it yourself your card is atleast 3 years old so your power supply isnt the problem 485w is more then enough 3 years ago, you've updated every bios and video card driver and almost everyone who posted a reply narrowed the problem down to your video card and swapping out the video card.  </s>
+<s> you've already came to a conclusion that it's not a software problem with all the updateing you've done.  </s>
+<s> now start swapin to see if it's a hardware problem.  </s>
+<s> i don't have ready access to spare parts nor a big wallet but i will try to borrow one asap before i buy a new one just to be sure.  </s>
+<s> i guess i was in denial and really wanted it not to cost me.  </s>
+<s> i don't expect a full tutorial but any illumination on labeling voltages (i got the report from everest) or getting a temp of the video card would be appreciated.  </s>
+<s> i will hopefully get a card to work with this evening.  </s>
+<s> thanks.  </s>
+<s> i have a nvidia geforce2 mx/mx 400 put into my system.  </s>
+<s> it has not produced any artifacts thus far.  </s>
+<s> i have it running under standard drivers as i didn't have the time to uninstall and reinstall nvidia drivers. the ati aiw 9700 pro is now taking the nvidia geforce2's place in a pii 350 win98se system also running on standard drivers.  </s>
+<s> it does not appear to be creating artifacts so far.  </s>
+<s> so what does that tell me?  </s>
+<s> due to the low resolution of the standard drivers is that not stressing the card and thus no artifacts? the win98 system doesn't seem to want to load the ati drivers. the xp system with the geforce2 has no artifacts but display stinks with stock drivers.  </s>
+<s> will try to get both up and running to the best i can and see what happens.  </s>
+<s> you maybe pushing too far with the tv link and computer as these are separate ckts.  </s>
+<s> up to a point.  </s>
+<s> when both are running or not as one can't be truly turn-off just unused, the heat build-up is alot(alot).  </s>
+<s> further, as video temp reading, the sensor isn't available if not plugged-in to the mtrbd.  </s>
+<s> as a sensor as most video fans use a 2-wire setup, 3-wire is requied to relay the info.  </s>
+<s> what worries me is seeing the the one fan sensor showing under 3000rpm isn't that good for a 54deg.  </s>
+<s> reading, it should be faster, imho.  </s>
+<s> but the temp reading is ok or typical for basic fan.  </s>
+<s> video cards get pretty warm, but hot isn't good.  </s>
+<s> check away and come back with results.  </s>
+<s> tada -----willy  </s>
+<s> that will determine if its a cooling issue.  </s>
+<s> also, your pci slot fan may be hampering your cooling if its blowing against the fan of the a-i-w.  </s>
+<s> even if they're both blowing in the same direction (one into the other), 2 'stacked' fans circulate less air than 1.  </s>
+<s> it took a while (reason unknown) but artifacts (different type of artifacts but still rendered in a grid pattern)have presented themselves in the win98se system.  </s>
+<s> so, i guess it is a video card gone bad.  </s>
+<s> any of you hardware guys out there able to explain to me why this age ailment does not present itself all of the time and can work fine for an extended period of time and then there it is again?  </s>
+<s> this occurred on both systems.  </s>
+<s> what is physically happening to the card itself that would cause intermittent problems?  </s>
+<s> i'm just really curious.  </s>
+<s> though heat has been brought up a few times here, i can't help but think &quot;nothing has changed with my set up which has worked for years, why should heat all of a sudden be an issue?&quot;  </s>
+<s> though not much of a gambler, i found a duplicate aiw 9700pro on e-bay and won the auction at $79.  </s>
+<s> (reassemble link to view) _w0qqitemz8800177740qqcategoryz40158qqsspagenamezwdvwqq rdz1qqcmdzviewitem i have liked this card for 3 years and this auction said it was never really used.  </s>
+<s> i know it is a risk but i took the chance so i will be hopefully back to where i was before when the new old card arrives.  </s>
+<s> again, i'd love to hear an explantion of how these problems could manifest themselves in the way that they have.  </s>
+<s> and i would like to thank all responders for the guidance i have received.  </s>
+<s> brett  </s>
+<s> i got my video card in from the ebay auction.  </s>
+<s> i still haven't figured it out and i want to put it through the full paces like vid editing etcetera before i feel like it really is what it appears to be, which is a fully functioning card.  </s>
+<s> but, the thing is, it isn't a radeon aiw 9700 pro.  </s>
+<s> it's a radeon aiw 9800 pro!  </s>
+<s> i don't know why.  </s>
+<s> all of the original packaging was for the 9700. the sticker on the card said 9800. it is identified by the system as a 9800.  </s>
+<s> i can only guess that the seller was unaware that the card was indeed a 9800.  </s>
+<s> i don't know the advantages of the 9800 over the 9700 but assume there must be some improvement of some kind with the newer generation.  </s>
+<s> other than still looking for information on what goes bad when a video card dies, this will be my final post on this thread.  </s>
+<s> heat is the most common &quot;wear&tear&quot; effect on eletronic componets.  </s>
+<s> the other is mismatched voltages and/or beyond tolerances.  </s>
+<s> heat is *always* doing damage buut if with specs the effects only come after long usage or if beyond tolerances for prolonged times, begin more immediately.  </s>
+<s> i exclude any marginal componet which do come down the pike during manufacture.  </s>
+<s> heat alone can overtime cause a problem. the ffects are the lag time of display of reduced ram management unable to keep-up.  </s>
+<s> further, some driver s/w has caused similar problems and only a driver update corrects this if at all, as physical systems vary.  </s>
+<s> all-in-all, things work well but if pushed easily are toppled.  </s>
+<s> ask any gamer what seems to be a problem and most decry this or that, but the real cause is they're pushing thier systems to the limit and further don't want to relish anything to decrease gameply.  </s>
+<s> usually only better compoents(equipment) or faster this or that does well and that means &quot;top-shelf&quot; items, pricey.  </s>
+<s> hope you get to read this, adios -----willy  </s>
+<s> i did read it, and i do push my system very hard in ways other than gaming.  </s>
+<s> i always seem to try to get my computer to do what i want it to do, sometimes a few things at the same time.  </s>
+<s> i also have a load of hardware hooked up as well as the connections to my home audio/video system.  </s>
+<s> i think i might tone down my use of screen cloning to save some heat wear and tear on my &quot;new&quot; vid card.  </s>
+<s> i also might try to spread out some of the hardware onto another computer on my home net when i upgrade my son's rig sometime soon so as to lighten up the irq load on this one.  </s>
+<s> thanks for the explanation!  </s>
+<s> brett  </s>

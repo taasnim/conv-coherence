@@ -1,0 +1,11 @@
+<s> i have posted this problem in the &quot;hardware&quot; forum, but perhaps it belongs here (?). i have an ibm netvista 6578pau w/ pentium iii, 866mhz chip, win98se, 256mb ram, intel 815 chipset video bi, 17&quot; sylvania cl772 lcd monitor w/vesa ddc (digital display channel).  </s>
+<s> apparently, the vesa ddc will not allow anything other than a 480 x 600 display w/16 colors.  </s>
+<s> i downloaded a new driver from the proview.com  </s>
+<s> website, but the closest one they had was for a 713/716 & it does nothing for my problem.  </s>
+<s> any ideas?  </s>
+<s> comment: usually i find this to be a video chipset driver issue.  </s>
+<s> sylvania or proview will not supply your netvista drivers.  </s>
+<s> bob  </s>
+<s> thanks, bob.  </s>
+<s> ramarc gave me the website to download the correct driver.  </s>
+<s> works great now!!  </s>

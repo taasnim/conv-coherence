@@ -1,0 +1,226 @@
+<s> this scanner is driving me nuts!! i am hooking it up to a relatives computer running win xp home.  </s>
+<s> it worked perfectly when they had win 98se.  </s>
+<s> i am getting an error message saying to unlock the scanner.  </s>
+<s> there is no physical lock on the thing.  </s>
+<s> i went to visioneer's website and they talk about this error message saying that the scanner can not calibrate and that is the default message the driver gives.  </s>
+<s> they suggest updating the driver.  </s>
+<s> i did that, and i still have the same message.  </s>
+<s> i even tried to install it in my laptop and i received the same message.  </s>
+<s> per their website the scanner is compatible with xp. i am at my wits end.  </s>
+<s> since the scanner is over a year old there is no free support for it now per their site.  </s>
+<s> has anyone experienced this and gotten anywhere?  </s>
+<s> i would appreciate your help.  </s>
+<s> thanks!!  </s>
+<s> the new drivers (you did download and install the new drivers?) may work differently and as such you now get to try the scanner on windows 98. this is an annoyance to some that some devices don't work in xp. in closing, the xp install could be incomplete.  </s>
+<s> many are unaware that microsoft does not install motherboard, usb and many other drivers for them. the os installer (you?) gets to do that.  </s>
+<s> bob  </s>
+<s> i have to say, what you wrote confused me.  </s>
+<s> lol.  </s>
+<s> yes, i did reinstall the driver i had downloaded from their site and it still didn't work.  </s>
+<s> what is also confusing is that the same thing has happen on both machines with windows xp. i'm wondering if the thing isn't compatible with xp as the state.  </s>
+<s> that's why i noted a test on the 98 box is needed to be sure.  </s>
+<s> i read your reply and see you did load the scanner drivers, but nothing about the motherboard drivers, usb drivers and if a parallel port connected scanner, if you tried the other modes in the bios.  </s>
+<s> and nothing about the bios being latest since this can be an issue for xp &quot;upgrades.&quot;  </s>
+<s> in short, it's not as simple as it would appear to be.  </s>
+<s> bob  </s>
+<s> hi, i don't have the 98se anymore because it is now win xp home so i am out of luck testing it on that.  </s>
+<s> also, the bios is the latest version on both of the computers that i have tried to use it on.  </s>
+<s> i checked the setup and usb is enabled for both computers also.  </s>
+<s> it does not have a parallel connection on the scanner.  </s>
+<s> i'm not sure what you mean about the motherboard drivers, as for usb drivers, i have hooked other usb things up and they work correctly.  </s>
+<s> i also agree with you, it isn't as simple as it seems:(  </s>
+<s> i've dropped hints that there issues around usb, but without knowing the make and model of your machine, i can't tell if requires an usb filter driver, sp1 from microsoft or any trick as noted by usbman.  </s>
+<s> just because one thing works, doesn't mean that another will without error.  </s>
+<s> and the lack of a 98 test machine means that the possibility that the scanner is simply broken is still there.  </s>
+<s> i'd love to see you succeed, but such information can be vital to find out if the os is installed completely since microsoft doesn't do it for you.  </s>
+<s> here's an example tricks about usb on via based boards.  </s>
+<s> i'd supply yours, but you haven't revealed the make/model/chipset.  </s>
+<s> the chipset for the computer is ca810 and the maker of the motherboard is intel.  </s>
+<s> it does have sp1 already and all patchs/updates on windows update.  </s>
+<s> i'm sorry if it appears that i'm a complete moron when it comes to this scanner issue but i have never run into a problem like this before.  </s>
+<s> 1. usbman noted an intel download for xp! &quot;inf update utility [infinst.exe]  </s>
+<s> (1428kb) 5.1.1.1002 12/12/2003 download this utility installs inf files that inform the operating system how to properly configure the chipset for specific functionality such as usb and agp.&quot; that's december 12, 2003.  </s>
+<s> very fresh stuff you won't have on your xp cd. just 4 clicks from this google -&gt; i land at 2. while that's very interesting to me about the motherboard drivers are still being updated by intel, the other issue is that scanner's drivers and applications.  </s>
+<s> shows a drivers link, but a note read &quot;technical support tip: it is important to properly remove any previous versions before installing this driver.&quot;  </s>
+<s> i don't remember you doing this step.  </s>
+<s> remember never plug in any usb before the instructions tell you. the results are long discussions... bob  </s>
+<s> i downloaded the inf file and when i ran it my system told me i didn't need it.  </s>
+<s> i also downloaded a usb patch from the usb site and that didn't work.  </s>
+<s> i followed the instructions to the t on visioneers web site and i still can not get the stupid thing to work.  </s>
+<s> i think i am going to end up ripping the thing apart and just make sure there is nothing jammed in there.  </s>
+<s> i appreciate your help on this.  </s>
+<s> but we knew that.  </s>
+<s> best of luck!  </s>
+<s> i also have the visioneer 5800 scanner.  </s>
+<s> i too attempted to install on win xp home machine.  </s>
+<s> it would not work properly.  </s>
+<s> i often got the same &quot;unlock scanner&quot; message.  </s>
+<s> i later upgraded to win xp professional and the scanner installed and works great.  </s>
+<s> i also installed the latest version of driver software from visioneer.  </s>
+<s> i know this isn't a solution, but i can certainly sympathize.  </s>
+<s> i don't see me ever buying a product from the company again.  </s>
+<s> their tech support is no support at all. the scanner is about 2 years old and already they don't want to support it.  </s>
+<s> if you want to talk to someone with a &quot;non supported scanner&quot; they want you to call a 1-900 number.  </s>
+<s> hello mcfly, catch a clue and invest some of that money into real tech support.  </s>
+<s> thanks for the support on this issue.  </s>
+<s> i'm not done messing around with the scanner just yet.  </s>
+<s> vacation awaits so that has to wait, vegas here i come!!.  </s>
+<s> when i read such... with all due respect and not to rattle you too much, scanners used to run over 1,000 dollars and you would get nice people on the phone and free shipping to have it fixed.  </s>
+<s> today you get a few years from a 50 to some number dollar unit and nothing more than a web site.  </s>
+<s> some don't consider this progress... --------------------- take 2. you would be writing the same story with any other maker.  </s>
+<s> there isn't any product made now that at 2 years you can get the support you want at a price you'll be happy with.  </s>
+<s> this is the way of things for the pc. imagine how torqued people will be in one year as 64-bit pcs become the norm?  </s>
+<s> bob ps. i really do feel for you, but consider that i don't want to go back to thousand dollar scanners.  </s>
+<s> that is a good point. the price tag for technology has come down alot the past few years.  </s>
+<s> you would think that a company would give better support no matter how cheap they can make their product.  </s>
+<s> if you don't have any support for the product, the customer base eventually will become non-existant and then where are they?  </s>
+<s> out of business.  </s>
+<s> with such cheap items, the support vanishes to lower that initial purchase price to levels that it costs more to ship a balky unit than it is to buy a new one.  </s>
+<s> your plight/complaint would be with all scanner makers (which is my point here...) and you can extend this to that 10-20 dollar cdrw drive.  </s>
+<s> it busts in 2 years, what will one do?  </s>
+<s> bob  </s>
+<s> sorry to butt in at this late date.  </s>
+<s> anyway, here goes.  </s>
+<s> have same final problem, can't get past &quot;unlock scanner&quot;.  </s>
+<s> for what it's worth, this scanner worked fine for over 2 years on this computer with me.  </s>
+<s> (gateway laptop) i had to reformat hard drive still using me, and now it sounds like your problem.  </s>
+<s> i tried origional installation disk and then latest drivers.  </s>
+<s> i really want to say that i had this problem once before, but then would have to admit to old age memory loss as i can't remember what resolved it.  </s>
+<s> have you had any luck yet?  </s>
+<s> richard than  </s>
+<s> i couldn't get mine to work and i let it sit around for a while.  </s>
+<s> when i lookeded at it again to see if i could get it to work it kept on giving me the same message.  </s>
+<s> then i found the bulb was burnt out.  </s>
+<s> time for a new scanner.  </s>
+<s> hi there - same problem here, no luck finding any info.  </s>
+<s> online from my end either.  </s>
+<s> please post a solution if you get one!! thanks, jenifer  </s>
+<s> hi there - just saw a post on another site that mentioned to check and make sure you are using the correct power supply, i had just plugged in another power supply but i guess it has to be the original that reads the following bestec or you will get the error lock message.  </s>
+<s> anyway, i found the original power supply and now the scanner is working again.  </s>
+<s> good luck!  </s>
+<s> the visioneer 5800 usb has a factory defect and visioneer refuses to replace the unit.  </s>
+<s> it cannot be used without unlocking from the bottom, yet this scanner doesn't have a lock... it even says so on their website, they don't offer a fix, but will be happy to give a 25% discount on a new one.  </s>
+<s> bad business... don't buy from visioneer!  </s>
+<s> notes a power supply issue.  </s>
+<s> are you ranting or looking for a cure?  </s>
+<s> bob  </s>
+<s> thanks jenifer!  </s>
+<s> i have been having this same problem for months now.  </s>
+<s> i tried uninstalling both scanner and software, installing new drivers, pretty much all of the advice posted here earlier on.  </s>
+<s> i tried plugging in a ne poer supply out of desperation (after seeing your post) and poof!  </s>
+<s> works like new, or rather like it used to. the power supply looks to be a uhi power adapter.thanks!!!  </s>
+<s> this scanner has issues with xp, completely separate from the unlock issue folks are apparently seeing.  </s>
+<s> i picked this up and it worked fine for months on xp pro.  </s>
+<s> i also religiously patched my machine.  </s>
+<s> eventually, the pc started crashing.  </s>
+<s> no blue screen, no error message, just the bios screen and rebooting for no apparent reason.  </s>
+<s> i thought i had a hardware issue.  </s>
+<s> i then formatted the hard disk and rebuilt the xp installation from scratch. the machine worked perfectly.  </s>
+<s> until i installed the scanner.  </s>
+<s> it then began getting cpu spikes to 100% and other odd behavior.  </s>
+<s> removed the scanner and driver, and everything was fine again.  </s>
+<s> (this was all prior to xp sp2.) the usb on the pc is fine with two different digital cameras and with a usb mouse.  </s>
+<s> my conclusion: the scanner worked with xp at the time the drivers were written.  </s>
+<s> a microsoft patch after that conflicts badly and unpredictably with the driver.  </s>
+<s> no updated drivers from visioneer.  </s>
+<s> it's now a paperweight.  </s>
+<s> doctorcisco  </s>
+<s> i installed the scanner on win 98 and it worked..but quit and now tells me to unlock the scanner.  </s>
+<s> installed it on laptop winxp...same message...have decided to buy a new one but it won't be anything from these guys...no support.  </s>
+<s> if you find a way to make it work, let me know.  </s>
+<s> jennifer i am experiencing the same problem, have u received any answers?  </s>
+<s> i have deleted the software and reloaded to no avail.  </s>
+<s> it seems to be a hardware problem.  </s>
+<s> let me add my two cents.  </s>
+<s> i'm pretty sophisticated about computers and periphery and my children and grandchildren rely on my assistance.  </s>
+<s> my daughter bought three compaq prosario computers for herself and children (my grandchildren).  </s>
+<s> the computers came with as a package with visioneer5800 scanners and xp home installed.  </s>
+<s> all worked fine until the warranty period ran out (of course).  </s>
+<s> then we started getting the message ''unlock scanner''.  </s>
+<s> at one point, i got one of the scanners to work by moving it to another machine.  </s>
+<s> that worked for about a month, then the error re-appeared.  </s>
+<s> i then uninstalled, deleted, cleaned the registry, etc.--everything the visioneer website insisted on--downloaded and reinstalled the drivers.  </s>
+<s> worked fine.  </s>
+<s> for one day.  </s>
+<s> then stopped.  </s>
+<s> called the 900 number for tech support, paid them the lousy $4 a minute for support.  </s>
+<s> after 5 minutes, was told it was a hardware problem.  </s>
+<s> all three scanners!  </s>
+<s> hung up the phone in disgust (i didn't believe them, but what could i do?), went out and bought an epson scanner for my grandchilden, and it works fine.  </s>
+<s> from the discussion, a couple of ideas occur: (1) as they age, the voltage output of the power units might be dropping.  </s>
+<s> new power units might work.  </s>
+<s> (2) somehow, one of the microsoft updates is conflicting with the visioneer drivers and visioneer won't fix the drivers.  </s>
+<s> i would appreciate hearing if anyone else ever figures our the solution.  </s>
+<s> i would hook up the old visioneer scanner to one of the grandchildren's computers--i would use it if i could fix it, but would not buy another product from this compnay.  </s>
+<s> they won't fix it since the devices: a. generate no income (except for those phone calls.) b. the devices have reached the end of their service life.  </s>
+<s> everyone wants them to last 10 years.  </s>
+<s> here's an analogy.  </s>
+<s> let's say you buy an add-on for your car.  </s>
+<s> a few years pass and then you replace the car. the device now fails.  </s>
+<s> does anyone fix it for free now?  </s>
+<s> this is what we ask for when we want the drivers fixed for the newer os. drivers are not cheap and the code monkeys demand to be fed and paid.  </s>
+<s> if you won't feed or pay the code monkeys, you won't get your drivers.  </s>
+<s> unless you run linux, but that's another system.  </s>
+<s> bob  </s>
+<s> i don't find the analogy with the automobile very persuasive.  </s>
+<s> automobiles do last 10 years or more, and the manufacturers supply replacement parts for even longer.  </s>
+<s> when an automobile breaks down, you can repair it--you do not need to junk it.  </s>
+<s> visioneer abandoned this product after only one year or two.  </s>
+<s> nor is the fact that support is &quot;free&quot; a justification.  </s>
+<s> i was willing to pay for the fix (provided it didn't cost more than replacing the whole damn thing), paid for a telephone call, and still was brushed off.  </s>
+<s> moreover, everyone knows that operating systems are constantly being upgraded and patched and buysrs have a reasonable expectation that the company selling you a peripheral will provide updated drivers during the life of the hardware (within reason).  </s>
+<s> visioneer misled all of us purchasers when it reneged on this implied (but very real) representation.  </s>
+<s> (any class action litigators listening??) this is a company that has no interest in establishing customer loyalty, and it certainly won't have mine.  </s>
+<s> why in the the world would i buy something from a company that won't update drivers the day after i buy the hardware???? while i'm posting this message, let me add to my prior description of the problem: 1) first, we acquired the scanners from e-machines (now a gateway subsidiary), not compaq; 2) i tried to install two of the scanners on a ''clean'' machine running me.  </s>
+<s> same problem.  </s>
+<s> so it isn't a question of something corrupting the drivers after they are installed.  </s>
+<s> the auto analogy works fine. the consumers didn't want to pay for drivers so how to pay the code monkeys?  </s>
+<s> bob  </s>
+<s> where can i find the correct power supply for a visioneer one touch 7100 scanner?  </s>
+<s> same problem here & everything had been working fine for over a year.  </s>
+<s> yep updated the drivers, then uninstalled everything paperpaort etc. re-installed then updated drivers then connected the scanner which is still locked!! your not alone!!! good luck.  </s>
+<s> i have not upgraded anything except security updates from ms and now i am hearing that one party upgraded and the other did not and i am without a product that worked fine.  </s>
+<s> yes it was cheap but i will certainly think twice before giving anymore dollars to visioneer.  </s>
+<s> interestingly enough their website states that the 5800 will now carry the ms logo!! if it works don't fix it!  </s>
+<s> more non-biodegradable waste, that sucks.  </s>
+<s> i had the same problem,then i put the darn thing away.i  </s>
+<s> lost the power supply,so i talk to a friend who told me.to run 12 volt output,but i was concerned about the amp.should be 1.2 i believe.but i just found one at the thrift shop that was 12volt op.i believe the amps were like 1000ml.amp,works fine i run xp sp2.its beyond me.  </s>
+<s> david  </s>
+<s> i have read read all the messages regarding the named scanner.  </s>
+<s> so out of coursity i did some testing on the exact same scanner that i have.  </s>
+<s> i tested it on win 98, win 98se, win 2000, and also win xp. it seemed to work perfect with the exception of win 98. which does not support the usb of that particular scanner.  </s>
+<s> which the computer that i have the original 98 on seems you can only hook up hp scanners to.  </s>
+<s> i don't know if this is of any help.  </s>
+<s> other than it seems that on the win98 se computer the scanner does work, however it has issues with some of the software.  </s>
+<s> so what i did was installed the software that came with the hp scanner.  </s>
+<s> then it worked great.  </s>
+<s> i don't know if this is of any help.  </s>
+<s> what is this about a lock?  </s>
+<s> i've been reading your comments.  </s>
+<s> i have the same problem.  </s>
+<s> worked great on win98se.  </s>
+<s> totally sucks on xp. i still have a laptop with win98se on it and when i connect it to that it works just like it had good sense.  </s>
+<s> this uses a twain driver.  </s>
+<s> how much difference is there between win 98se and winxp concerning twain drivers?  </s>
+<s> any way the scanner is not broken.  </s>
+<s> it just won't run on xp. well that's my take on it anyway.  </s>
+<s> as soon as you plug the power supply up to this scanner the bulb lights.  </s>
+<s> that's the only thing that works.  </s>
+<s> having a burned out bulb would be quite obvious to me.  </s>
+<s> how about you all!  </s>
+<s> just read some of the forums.  </s>
+<s> i replaced the power supply with one which has 2a. that is more than enough current but it's all i had.  </s>
+<s> anyway, it fixed the &quot;unlock&quot; problem.  </s>
+<s> hope this helps.  </s>
+<s> had this issue.  </s>
+<s> message unlock scanner.  </s>
+<s> resolution: unplug scanner , usb and power cord.  </s>
+<s> remove cover.  </s>
+<s> turn scanner over on back remove 2 screwws.turn  </s>
+<s> scanner face up.  </s>
+<s> remove top grasp light housing with handand move gently to far end of scanner.  </s>
+<s> reassemble scanner and top with two screws in back.  </s>
+<s> reattach cover, plug in usb and power cord start paperport 7.0 select twain wai visoner 5800.  </s>
+<s> scan document.  </s>
+<s> this resolved the unlock isssue  </s>
+<s> these guys have &quot;sick&quot; absolute best line of laptop locks they go under the name of or you can find their laptop locks / notebook lock at:  </s>

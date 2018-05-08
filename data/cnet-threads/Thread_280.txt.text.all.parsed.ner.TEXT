@@ -1,0 +1,67 @@
+<s> hi, we are having this deauth and deassoc flood attacks, and we have also identified that the attacks are coming from the clients themselves.  </s>
+<s> example, a client will suddenly start broacasting on the same channel as an ap. eventually the ap will be jammed and all clients will be disconnected.  </s>
+<s> it is like a script running on the machines and it has distributed to several of the clients: the summary is like this: spoof mac, construct de-authenticate, de-assoc, packet, send to broadcast address.  </s>
+<s> bam!the network crashes.  </s>
+<s> it broadcast with this ssid &quot;intertocuh ghm lobby&quot; any idea of how to remove this? it has made life unbearable.  </s>
+<s> ap is dlink dwl-3200.  </s>
+<s> clients are xp, vista and windows 7. thanks.  </s>
+<s> the usual attack software spoofs who is doing the attack so you are never sure it is the clients since they can be spoofed.  </s>
+<s> usually easy to fix by moving to wpa2.  </s>
+<s> bob  </s>
+<s> thanks for your prompt response.  </s>
+<s> we am convinced it is coming from the clients.  </s>
+<s> here is scenario: we have 3 aps and all will be working fine, suddenly the wireless manager will show a peer 2 peer device with ssid &quot;intertouch ghm lobby&quot; broadcasting at the same frequency as the aps.  </s>
+<s> at that instant, the associated clients will loose connections.  </s>
+<s> now, here is what we did: the &quot;intertouch ghm lobby&quot; ssid shows with the signal strenght.  </s>
+<s> so we used a laptop to trace it until the signal strenght was 100% (it was another laptop).  </s>
+<s> we shut the laptop down, and the ssid disappeared.  </s>
+<s> after a while, it came up again and we traced it like before and it landed on another laptop.  </s>
+<s> as soon as we shut it down, it diappeared.  </s>
+<s> out theory: it seems the dos attack is running like a script.  </s>
+<s> it started perhaps with one of the clients, but now has disbritued to other clients (we have counted about 5 so far out of 20 systems).  </s>
+<s> how do we detect and remove it from the laptops?  </s>
+<s> can an antivirus do it?  </s>
+<s> what is the approach to stopping it from repeating?  </s>
+<s> thanks a million.  </s>
+<s> i thought we covered this but if your security is wep or less the spoofing makes it so you think the attack is from your own clients.  </s>
+<s> i read your post and reply and can't see where you reveal the wifi security.  </s>
+<s> if there is some pest on the machines, then you remove that.  </s>
+<s> it's that simple.  </s>
+<s> as this company has it staff you instruct them to do that and if they don't you get them to call the antivirus company, get help or get better it staff.  </s>
+<s> bob  </s>
+<s> thanks once more and thanks for your patience.  </s>
+<s> i understand they dont have wep on the aps.  </s>
+<s> i will make sure they do that asap (infact today.  </s>
+<s> yet, on the clients being involved: i have the following questions, 1. as it is possible for dos to be luanched from say a laptop, i used signal strenght to trace the source of the &quot;intertouch ghm lobby&quot; ssid to a particular laptop (which is part of the network).  </s>
+<s> the attack was stopped when i shutdown the laptop.  </s>
+<s> my conclusion was not based on the mac address, but based on the 100% signal strenght traced to that particular laptop at that time.  </s>
+<s> my question is this?  </s>
+<s> does the spoofing mean that the signal will appear to be coming from the physical location of the client?  </s>
+<s> if yes, then that might be it.  </s>
+<s> if no, then we still got problems.  </s>
+<s> also, can the everyday antivirus softwares like karpasky detect and remove dos trojans?  </s>
+<s> thanks once more for every of your assistance.  </s>
+<s> sincerely, cosmas  </s>
+<s> wep or less means that the spoof (did you notice the spoof in your first post?  </s>
+<s> i did!) can lead you you to think that your clients are at fault. the fix is easy and that is to move to wpa. 1. yes. 2. spoofing is just that.  </s>
+<s> i can't duplicate the web content or write a paper about this here. the reason is simple.  </s>
+<s> i type my replies and the content is out there for the taking.  </s>
+<s> 3. since the wifi is insecure there are easy, kid friendly softwares that can cause this issue and make it look like it's the company machines.  </s>
+<s> sadly this many replies and it looks like we are where we started.  </s>
+<s> is it possible to share what security is in place?  </s>
+<s> also, the forum advises against ssid names like that.  </s>
+<s> if you go against that advice i tend to get a little deaf.  </s>
+<s> this is not that i don't care, but having solved too many systems with this issue it seems like it's easier to wait for the user/owner to soften up so they are more receptive to the forum sticky advice.  </s>
+<s> again, let's hope securing the wifi with wpa helps.  </s>
+<s> again, the forum sticky has this advice if you need more.  </s>
+<s> bob  </s>
+<s> dear bob, thanks a million.  </s>
+<s> the problem now is that they are using dlink dap-3220 and dwl-3200, both have the wap ability, but they require a radius server: they dont have a radius server for now. is there a radius server software that can work on windows xp? i have googled with luck.  </s>
+<s> thanks  </s>
+<s> then no radius server.  </s>
+<s> this should be in the forum sticky.  </s>
+<s> but many try the option that requires the server.  </s>
+<s> i can't know why.  </s>
+<s> be careful in our acronym use.  </s>
+<s> wap means something other than wpa.  </s>
+<s> bob  </s>

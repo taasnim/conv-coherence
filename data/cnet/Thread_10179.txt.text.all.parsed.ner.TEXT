@@ -1,0 +1,23 @@
+<s> any help or guidance regarding the following problem would be greatly appreciated.  </s>
+<s> i have recently set up a broadband connection.  </s>
+<s> i am using one origo router connected via an 8-port switch to a number of computers.  </s>
+<s> on two of the machines an internet connection is readily available, but on a further two, when an attempt is made to access internet explorer the following message is displayed: ------------------------------------------- forbidden you were denied access because: access denied by access control list.  </s>
+<s> ------------------------------------------- i have limited knowlege on the subject but i am lead to believe that this is due to the router blocking the ip addresses of the problematic machines.  </s>
+<s> i have been able to ping the router from the problematic machine, so it is my guess that the problem is not in the connection.  </s>
+<s> i was informed that it may be to do with the routers 'firewall' although i have been unable to find any such settings within the router config.  </s>
+<s> a second opinion was that the ip of the problematic computers may be outside of the range set by the router.  </s>
+<s> i have checked this, the problematic computers have ip's 10.0.0.5 and 10.0.0.6 (those working correctly have 10.0.0.7 and 10.0.0.10) and the settings within the router config (if i am looking at the right thing) specify the dhcp user defined start address to be 10.0.0.4 and the end address to be 10.0.0.15. the problematic computers are identified on the router config screen and are listed as connected to the dhcp server.  </s>
+<s> as i say, i have very limited knowlege and have simply been trying to decifer the all this lingo over the past days.  </s>
+<s> if anyone could offer some guidance my way it would be greatly appreciated.  </s>
+<s> many thanks, david.  </s>
+<s> to give a little more information.  </s>
+<s> i have checked and my network connection details which look as below... physical address: 00:09:f3:00:e1:2f ip address: 10.0.0.2 subnet mask: 255.0.0.0 default gateway: 10.0.0.2 dhcp address: 10.0.0.4 to 10.0.0.15  </s>
+<s> &quot;tip: if you are asking for help to troubleshoot a computer-related problem, please be sure to include all the necessary information (ie: operating system, model number, hardware, software, etc) that will help others identify your problem for a speedy resolution.&quot;  </s>
+<s> bob  </s>
+<s> the problematic machines are using windows 98. those machines which are successfully connected to the net employ windows 98 and xp. thje router used is an origo adsl router connected to a simple 8 prt switch.  </s>
+<s> each machine is fitted with a standard 10/100 network card, which is fully installed and connected to the lan. the problem occurrs when connecting via ms ie5.  </s>
+<s> hope this helps.  </s>
+<s> dave  </s>
+<s> microsoft has not produced patches to ie 5.0 so it's very possible that parasites or more are having a party.  </s>
+<s> this upsets some people, but i am not the one to take it out on. the parasite scans are noted at you'll have to ask microsoft if the holes will be patched any day soon.  </s>
+<s> bob  </s>

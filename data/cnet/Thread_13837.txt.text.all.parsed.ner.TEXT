@@ -1,0 +1,18 @@
+<s> new hp a1224n and i want to add my old slave to it.  </s>
+<s> a maxtor diamond max plus 9 160 gb ata 133/hd.  </s>
+<s> but, alas, i am unfamilar with ata and i don't see a serial connection to install the hd with.  </s>
+<s> am i boned on this?  </s>
+<s> some questions,, find the hd that came with the pc. what kind of cable is hooked to it, a small roundish one with a small connector on the end or a wide flat one with a big 40 pin connector?? if it is the small doundish one then it is sata.  </s>
+<s> if the wide flat one with the big 40 pin then it is ata.  </s>
+<s> now what kind of connector does you old hd have on it?? john  </s>
+<s> the new hp has ata and the old slave is 40 pin  </s>
+<s> i think you mean that the new computer has a 250gb serial ata (sata) drive, and your old 160gb drive is parallel ata (pata).  </s>
+<s> keep the 160gb drive jumpered as a slave.  </s>
+<s> find the cable that the cd/dvd drive is on.  </s>
+<s> insert the middle connector of that cable into the back of the 160gb drive.  </s>
+<s> insert a power connector into the back of the 160gb drive.  </s>
+<s> power on and test....  </s>
+<s> hp pavilion a1224n product information click ''motherboard specifications, ptgd-la (goldfish3)'' and then click ''motherboard layout and photos.''  </s>
+<s> i put the slave back into the old machine, hooked it back up to the network and transfered the files.  </s>
+<s> it was very quick.  </s>
+<s> now i will get an external backup and use that as my &quot;safety valve&quot; for my data.  </s>

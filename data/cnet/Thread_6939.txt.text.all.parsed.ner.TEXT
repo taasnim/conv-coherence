@@ -1,0 +1,17 @@
+<s> i have a celeron 1.7 ghz pc 128 mb ram, using xp and windows 98 on different partitions.  </s>
+<s> yesterday i had just been trying to upgrade bios-&quot;award softwares&quot;-using motherboard-&quot;gigabyte&quot; cd.it asked for some .bin  </s>
+<s> file from mb cd, so i searched and okayed.  </s>
+<s> it then asked to restart the system so restarted... now the real problem started, now system does not start at all.  </s>
+<s> i cant even go upto bios setting prompt.  </s>
+<s> it says &quot;bios checksum error&quot; and &quot;boot disk failure insert system disk and press enter&quot;.inserting  </s>
+<s> motherboard cd or xp cd doesn't help it as system doesnot detect cd-drive and says boot disc failure.  </s>
+<s> when i insert the floppy it detects the floppy but cant boot from it, says again &quot;disc failure pls insert system disc and press enter, and that too doesnot work.  </s>
+<s> i am screwed.... can any1 suggest any solution.... i think a few settings are missing.. but i dont have ny idea... plz help  </s>
+<s> and you can use a boot floppy to see what happens.  </s>
+<s> have you tried the bios jumper to reset the bios to the default??? is this a gigabyte mobo with the dual bios??? if so read the manual as to how to get the backup bios to be used.  </s>
+<s> all mfr's say to only update the bios if it is needed to correct a specific problem that you are having and that the new bios is intended to correct.  </s>
+<s> i know that robert tells everyone to update the bios, but it can be a risk. the gigabyte dual bios systems that i have seen have the cmos chips [2 of them] soldered in, thus getting a new chip is not likely, unless mobo is sent back to gigabyte.  </s>
+<s> let us know what you find out.  </s>
+<s> some mb show checksum error after update.  </s>
+<s> you then have go into bios and redo all of the settings and save them and exit and restart.  </s>
+<s> john  </s>

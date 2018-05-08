@@ -1,0 +1,35 @@
+<s> i'm replacing my old sound card.  </s>
+<s> i just bought a set of logitech z-5500 thx speakers.  </s>
+<s> i almost bought this card but i found out i couldn't make a direct digital connection to the speaker systewm via optical or digital coax.  </s>
+<s> so i'm seriously considering getting this card i have seen some reviews where people had problems with crackling popping etc if they use a mobo with an nvidia chipset.  </s>
+<s> here's what it says on auzentech's site &quot;q: why do i hear cracking and popping in the audio?  </s>
+<s> a: apparently this problem can affect a portion of users using soundcards based on the x-fi chipset in computers that include nvidia hardware.  </s>
+<s> below is a quote from nvidia: creative and nvidia have been investigating reports of performance issues in some systems that have nvidia components as well as creative's sound blaster x-fi soundcard installed.  </s>
+<s> there were complex, bandwidth-related issues involving memory allocation that made isolation of the issue and subsequent resolution time consuming and difficult.  </s>
+<s> after thorough qa and testing, nvidia released a bios update for motherboards designed by nvidia and based on the nvidia nforce 680i sli mcp, which has resolved such issues.  </s>
+<s> for any x-fi owners using these motherboards but are still experiencing issues, we advise you to contact your motherboard manufacturer regarding the availability of an updated bios.&quot; i am using an asrock 939 dual sata2 mobo which has the uli 1695 chipset (uli m1695/ uli m1567) .  </s>
+<s> anyone think there would be any problems using this sound card with my mobo?  </s>
+<s> i'm running xp sp2 thanks  </s>
+<s> ok so i got on my computer one day and i couldn't listen to music.  </s>
+<s> i went control panel, then to sound and audio devices, and where it used to say the sound card i have, it just says no audio devices.  </s>
+<s> i know i have a sound card, but i think my sound card might have come loose or something when i was messing with my computer.  </s>
+<s> i have no idea how to check or anything.  </s>
+<s> can someone please help me to figure out how to get my sound card to work?  </s>
+<s> thanks  </s>
+<s> connectivity speaker and headphone connections for stereo to 7.1 (line out via three 3.5mm mini jacks) line in / microphone in / digital out* / digital i/o** (shared 3.5mm flexijack) auxiliary line level input (via 4-pin molex connector) i/o console connector (for optional upgrade) list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads digital out supports stereo spdif out and pass through of multichannel dvd sound list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads digital i/o requires sound blaster digital i/o module (sold separately) digital out is standard.  </s>
+<s> digital in/out requires the i/o module.  </s>
+<s> your older mobo won't suffer from the x-fi/nvidia 600 chipset issue (which has been corrected for over a year).  </s>
+<s> vista 32bit x-fi drivers are also stable but 64bit drivers may still be problematic.  </s>
+<s> thanks for the info on the nvidia chipset.  </s>
+<s> for the digital out, yes i saw i could buy an extra module to obtain optical or coax out, but i would prefer a direct optical connection to my z-5500 speakers.  </s>
+<s> thanks  </s>

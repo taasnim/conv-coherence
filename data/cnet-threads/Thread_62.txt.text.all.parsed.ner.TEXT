@@ -1,0 +1,21 @@
+<s> everything powers up nicely, but i'm not getting any video signal.  </s>
+<s> i've checked both the 24 and the 4-pin power connectors, the motherboard is on spacers, and i've even tried nothing plugged into the mb but the ram and video.  </s>
+<s> still no signal.  </s>
+<s> i'm hoping it isn't a defective mb or processor, but i'm fearing the worst.  </s>
+<s> some motherboards are shipped with the cmos clear jumper on clear and it won't boot/beep.  </s>
+<s> a documentation error on another motherboard showed the drive led to some jumper but it was marked on the board as reset.  </s>
+<s> 1/2 the time the board would not boot.  </s>
+<s> lesson?  </s>
+<s> you don't need all those connections when troubleshooting. finally one owner spent weeks on this and the power button had failed.  </s>
+<s> we used a pen tip on the pwron contacts and it started up.  </s>
+<s> lesson?  </s>
+<s> don't trust such to work.  </s>
+<s> finally some new builders don't plug the cards in firmly.  </s>
+<s> bob  </s>
+<s> you needn't take anything for granted, please check it.  </s>
+<s> all you need plugged in is the minium system.  </s>
+<s> verify all marking and waht they do and properly routed to thier setting/connection.  </s>
+<s> recheck the mnaual and all that, then power-up.  </s>
+<s> if it fails, retry again to see what is wrong.  </s>
+<s> verify nothing is grounded on the mtrbd.  </s>
+<s> backside, etc.. tada -----willy :  </s>

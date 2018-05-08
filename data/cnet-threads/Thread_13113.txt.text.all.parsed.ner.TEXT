@@ -1,0 +1,13 @@
+<s> hey guys, here's my question: i had 3gb of 800 mhz ram running in my computer.  </s>
+<s> i guess i decided that i had some money to waste or something so i upgraded it to 4gb (1x4) of 1066 mhz.  </s>
+<s> i understand that with the limitations of a 32 bit operating system i won't get the full 4gb, but my ram is downclocked from 1066 to 667.  </s>
+<s> why?  </s>
+<s> i tried installing them all individually to make sure i didn't have a bad stick, and i even returned them and got a new batch, same deal.  </s>
+<s> any thoughts?  </s>
+<s> but most machines gain at most 0.5gb ram.  </s>
+<s> even with the /3gb switch what benchmarks i ran could not find any benefit.  </s>
+<s> well i knew about the limitations of the 32 bit os, but i just can't figure out why it downclocked the speed.  </s>
+<s> at the very least it should be running at 800 if not 1066.  </s>
+<s> there's a reason i get stuff there.  </s>
+<s> its the motherboard that dictates the speed your ram runs at not the ram.  </s>
+<s> ram described as 1066 means it is capable of running at that speed in a suitable mb not that it will run at that speed in any mb. there is a free application called cpuz-144 that will tell you what the bus frequency of your mb is, ram rated speed should be equal to or greater than the bus speed of the mb. hth  </s>

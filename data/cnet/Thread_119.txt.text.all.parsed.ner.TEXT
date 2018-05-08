@@ -1,0 +1,27 @@
+<s> hi everyone.  </s>
+<s> i have just bought a sony vaio nr38m and as soon as i turn the wireless function switch on the front to 'on' it makes my wrt54gs wireless router restart over and over.  </s>
+<s> it does this every 20 seconds while the wireless is activated!! i checked my ps3 (connected via it's wireless function) and my old laptop (that has a belkin usb wireless adaptor) to see if they were going to affect my router, but they never did before and still don't! the baffling thing is, that i bought the vaio 3 days ago and it's only just started doing it!  </s>
+<s> as soon as i got home and started it up it connected fine, but the past 24 hours it has started to have this effect on the wireless router!  </s>
+<s> i have tried power-cycling, but this had no effect.  </s>
+<s> please can anyone help?!?!  </s>
+<s> setting up your wireless router like the forum sticky suggests?  </s>
+<s> rick  </s>
+<s> we've seen that. the router firmware was too old.  </s>
+<s> bob  </s>
+<s> i've updated my router's firmware and unfortunately this has made no difference! the laptop/router works fine if i connect using an ethernet cable, so it's something to do with the vaio's wireless!!!......i'm clueless!!  </s>
+<s> if the firmware didn't cure it, try another make router.  </s>
+<s> for a test, head to a free wifi hot spot.  </s>
+<s> and yes, it has something to do with the vaio but as you can guess it's been discussed and no router should crash on such a connection.  </s>
+<s> if the router crashes then you are proving the bug in the router.  </s>
+<s> bob  </s>
+<s> well, i'm pretty sure you're right with the router bug idea.  </s>
+<s> my neighbour has a different make router (netgear) and he's given me the pass code to access it, and it connects straight away and there are no problems with router!  </s>
+<s> i'm able to use his wireless perfectly!! well, off to the shop i'll be going for a new router!  </s>
+<s> think i'll get a netgear one too as this seems to work ok! thanks for your help.  </s>
+<s> sorry for the late idea but not all wrt54gs can run openwrt but it does solve the problem.  </s>
+<s> hi, thanks for the reply.  </s>
+<s> unfortunately, as you said, not all wrt54gs can be used and mine is one of them!  </s>
+<s> as it appears my version (version 6) cannot be used!  </s>
+<s> looks like a new router then!!  </s>
+<s> the routers i installed openwrt on are stable, just fade into the closet and never need attention.  </s>
+<s> these are only slightly harder to configure but so far worth the effort if you have to gumption.  </s>

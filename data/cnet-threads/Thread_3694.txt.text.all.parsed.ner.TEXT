@@ -1,0 +1,13 @@
+<s> i have recently upgraded to windoes me & sice then the monitor will not shift off of 16 colours & 480 x 600 screen size.  </s>
+<s> i have tried to reinstall the driver but cannot find it... simple to fix no doubt but cannot seem to get olver this one  </s>
+<s> i think you need to find out what video card you have and install the drivers for it.  </s>
+<s> you need to know exactly what video card you have and install the me driver for it.  </s>
+<s> one way to find out is to issue these commands hit start then run and type command and hit enter at the black screen type debug and hit enter then type -d c000:0 -d -d way out to the right it will show text that will probably tell you what video card type you have plugged in.  </s>
+<s> type -q to exit debug.  </s>
+<s> type exit and hit enter to close the window  </s>
+<s> thanks for the advice.. still no joy.  </s>
+<s> i did the debug at the msdos prompt & found out it is a standard ibm vga compatible monitor.  </s>
+<s> looked in the drivers listed in the me software & it doesnt seem to be there. the videocard is built onto the motherboard & so i cannot remove it & re-install.  </s>
+<s> the screen size will not move off 480x460 size wise & the colours are still 16 only... help  </s>
+<s> also a possibility... the cure is to reinstall the os and make sure that video drivers other than &quot;default&quot; are installed.  </s>
+<s> you might try using the reinstall cd to get drivers installed under &quot;repair&quot;.... sometimes works, sometimes not.  </s>

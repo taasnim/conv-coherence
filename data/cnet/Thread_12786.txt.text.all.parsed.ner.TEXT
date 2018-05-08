@@ -1,0 +1,23 @@
+<s> getting error message error loading cwindowsdicapqn.dll the specified module could not be found.  </s>
+<s> everything seems to be working ok, but i did have some issues a while ago.  </s>
+<s> operating system is xp. do i need this, if so where can i find it?  </s>
+<s> thanks colin  </s>
+<s> click start, run, and type cmd when the command window opens, type sfc /scannow (there is a space between the c and the /) sit back and watch.  </s>
+<s> xp will look at all system files and verify that they are in place and working.  </s>
+<s> reboot.  </s>
+<s> if you get the same message after system file checker has run, this file belongs to something else.  </s>
+<s> you might do a google on it to see where it might belong.  </s>
+<s> it's possible it might be a leftover file from something you uninstalled, or it could be a nasty.  </s>
+<s> run your av scan.  </s>
+<s> it may be related to the unknown issues you mention.  </s>
+<s> thanks for the info.  </s>
+<s> i have run what you suggested, unfortunately it is just the same.  </s>
+<s> when i do a google search, i get no results.  </s>
+<s> run avg, and just the same, but no viruses.  </s>
+<s> any more suggestions?  </s>
+<s> why not find and remove what calls for it?  </s>
+<s> but i can't tell if this is some message from the boot of xp or some app like ie. why it matters is the tool i use varies on if it's a boot time message or one we get when an app runs.  </s>
+<s> bob  </s>
+<s> it is rundll that is asking for the file when i turn on the computer,  </s>
+<s> examine the machine with hijackthis and if you can't find and delete it with that, try autoruns.  </s>
+<s> bob  </s>

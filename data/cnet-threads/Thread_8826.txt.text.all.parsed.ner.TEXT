@@ -1,0 +1,35 @@
+<s> my system..(desktop) hp pavilion media center tv pc, model m7680n 2048 mb ram 2-250gb hdd wireless keyboard,mouse and lan printer.. hp psc 2210 aio, hooked to desktop via usb cable notebook toshiba satellite a105-s4084 1048 mb ram 120 gb hdd 802.11a/b/g wireless problem.. i have the above system hooked up wirless with a linksys cable modem, model befcmu10 and a linksys wireless-g router, model wrt54g.  </s>
+<s> i cannot get the printer to print from the toshiba unless it is hard wired to it via usb.  </s>
+<s> printer software and drivers are loaded onto both systems.  </s>
+<s> when i click start/printers & faxes on both systems it shows each printer, hp psc 2200 series with the highlighted check mark and the word ready.  </s>
+<s> i have printer and file sharing enabled on both systems.  </s>
+<s> on the toshiba propertys/ports, there is a checkmark next to dot...psc printer hp psc 2200 series.  </s>
+<s> the other options are..lpt1,lpt2,lpt3,com1,com2,com3,com4,com5,com6,com7,file,usb,\h,\h\h\h\y on the desktop machine port tab.. check mark next to virtual printer port for usb hp psc 2200 series other option are com 1-4 file print to port dot psc printer something must need to be reset to get printer to print from wireless notebook, but what?  </s>
+<s> with 2 pcs and a router you have the distinct possibility of 3 firewalls that could block this.  </s>
+<s> as well as account issues.  </s>
+<s> i'll note a discussion where a member took the long way around to get a share working.  </s>
+<s> it was firewall related but on top of that they discovered the windows annoyance about a share needing to be recreated due to the firewall being &quot;up&quot; at the time of creation.  </s>
+<s> please read this link.  </s>
+<s> bob  </s>
+<s> bob, thanks for the reply.  </s>
+<s> i had just finished reading the long discussion on your link when i received your reply.  </s>
+<s> i forgot to mention in my firest post that i have windows live onecare on both systems.  </s>
+<s> i went into settings on both systems and changed a few things, the opened network setup wizard on both machins and went through the process again.  </s>
+<s> when finished, i had another printer icon on printers and faxes window on notebook.  </s>
+<s> it was check marked, auto hp psc series on hpdesktop.  </s>
+<s> under the ports tab, there is a check next to..\d...local port auto hp psc 2200 series on hpdesktop.  </s>
+<s> i am able to print wireless now.  </s>
+<s> now when i right click a folder to share on either machine, the area is greyed out next to &quot;share this folder on the network&quot;.  </s>
+<s> cannot put a check into box.  </s>
+<s> i chose, share files and printers on setup wizard.  </s>
+<s> also, at the top of my outlook express email window, print is grayed out on the tosbiba notebook.  </s>
+<s> if i right click a message, print is grayed out on that window also.  </s>
+<s> not sure if any of this is relative to first post, but thanks for any more tips.  </s>
+<s> i am able to share folders now.  </s>
+<s> it seem's as though i had them set up as private.  </s>
+<s> print button is working fine.  </s>
+<s> i realized i had to open a message into another window for it to become active.  </s>
+<s> sorry for the confusion  </s>
+<s> sometimes we need to talk over the issues to see where and what to do.  </s>
+<s> best of continued luck.  </s>
+<s> bob  </s>

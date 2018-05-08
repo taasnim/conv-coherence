@@ -1,0 +1,14 @@
+<s> external hd: cavalry 500gb started using: around early april used: 120gb out of 500gb(would like to save if at all possible) a week ago, started to have the problem of not able to access the drive, with a warning message saying the drive is not accessible, and that the file or directory is corrupted and unreadable.  </s>
+<s> when i go to the properties for the drive, it shows 0 byte for everything and format is shown as raw.  </s>
+<s> yesterday, i finally got around to try to fix it.  </s>
+<s> i first went to the properties for the drive and tried to run check disk from there, the dialog window disappeared as soon as it started checking.  </s>
+<s> then i went to the dos prompt to use chkdsk /f /r from there, that actually worked.  </s>
+<s> it fixed a number of indexes as well as the mft.  </s>
+<s> after that is complete, my correct volume is shown under properties again for this drive, and the format is back to ntfs.  </s>
+<s> but the weird part is none of the files and folders is showing up, even though it said i used up around 120gb of space.  </s>
+<s> could anyone help me here?  </s>
+<s> hope you have better luck.  </s>
+<s> bob  </s>
+<s> mine actually has a letter assigned and all, everything looks recovered, except that i cannot see the files that are taking up 120gb of storage.  </s>
+<s> if you tried the noted softwares.  </s>
+<s> bob  </s>

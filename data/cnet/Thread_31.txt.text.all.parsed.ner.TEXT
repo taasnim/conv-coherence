@@ -1,0 +1,33 @@
+<s> actually this is the second modem i've tried to put in this machine (an acer aspire).  </s>
+<s> both times i get the same thing, &quot;not digitally signed&quot; &quot;device cannot start error 10&quot;.  </s>
+<s> i have tried installing in both pci slots, both com ports, a diamond and a u.s. robotics modems.  </s>
+<s> i've installed the driver from the cd and installed a downloaded driver from the usr site.  </s>
+<s> nothing works.  </s>
+<s> both modems claim on the box to be xp compatible, but i cannot find a modem in any store with the &quot;official&quot; xp logo on it.  </s>
+<s> i have installed several modems in other computers before without a problem.  </s>
+<s> i have not yet called the support number (i hate that) and i do have the option of having the tech people at my wife's work do it (she works for a large computer reseller) but it is killing me that i can't get this thing to work.  </s>
+<s> it's just a modem for gosh sakes!  </s>
+<s> any ideas?  </s>
+<s> thanks.  </s>
+<s> the motherboard drivers were not installed.  </s>
+<s> your post is incomplete without notes about the host machine so i can't write if this is a concern or not.  </s>
+<s> bob  </s>
+<s> open device manager and click the driver signing button and set to ignore the windows signing radio button.  </s>
+<s> no good.  </s>
+<s> hmm, where should i get that info, rp? i have system information on my hp but it doesn't seem to be there on the acer.  </s>
+<s> there's a lot.  </s>
+<s> what do you need to see?  </s>
+<s> here's teh summary: system information report written at: 01/10/06 14:05:19 system name: acer-86e9bf2e61 [system summary] item  </s>
+<s> the clue here is the amd entry.  </s>
+<s> dont' use microsoft's driver update button.  </s>
+<s> i'd read a current motehrboard driver hunt at bob  </s>
+<s> on the techs at my wife's place.  </s>
+<s> i don't want to get in beyond my depth.  </s>
+<s> if it were my computer instead of my son's i'd attempt it.  </s>
+<s> i'll make a note to them about it though.  </s>
+<s> the computer came back from the techs with the modem working properly.  </s>
+<s> they said that i had simply not pushed the modem far enough into the slot.  </s>
+<s> i found this hard to believe, since i inserted it into both slots repeatedly and did the same with the previous modem.  </s>
+<s> it realy felt like it was in there and everything looked lined up.  </s>
+<s> and, as i said, i have installed modems in a few other computers without problems.  </s>
+<s> but, there it is.  </s>

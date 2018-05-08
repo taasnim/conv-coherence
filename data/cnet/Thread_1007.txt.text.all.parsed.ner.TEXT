@@ -1,0 +1,14 @@
+<s> hey.. im having some problems with my ide hard drive... the other day i started up my computer and it said hard drive error.. then i tried going in to windows repair and tried fixmbr.  </s>
+<s> after i did that i tried to restart and got the same error.. i tried to go into windows repair again from the windows xp setup cdrom, but this time it wont even recognize the drive.. i went into bios and it can still find my drive, but windows cannot find it.  </s>
+<s> i also tried using mbr repair software, but they cant find the drive either.  </s>
+<s> only bios can find the drive.  </s>
+<s> can somebody tell me how i can get my drive up and running again, hopefully without losing any of my information?  </s>
+<s> thanks!  </s>
+<s> chris  </s>
+<s> make sure your ide cable is firmly seated to the motherboard and the drive.  </s>
+<s> if that doesn't help, try moving the cable to a different ide port on the motherboard.  </s>
+<s> then add the other as slave later to see if i can copy files out.  </s>
+<s> nothing in your post suggests another course of action.  </s>
+<s> you could try the drive maker's test program but after seeing this story too many times i skip that and move right for the kill.  </s>
+<s> bob  </s>
+<s> try changing your ide cable.if that doesnt work get your hard disk change coz the platters in it has got damaged  </s>

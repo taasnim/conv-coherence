@@ -1,0 +1,56 @@
+<s> i just bought this video card: works great for my purposes, but the fan is way too loud! can anyone point me to a nice, quiet fan?  </s>
+<s> i'm not sure what i'd be looking for exactly and i could really use someone's help.  </s>
+<s> also, i noticed the stock fan can be 'slid' out from the silver heatsink, so would i need to get a fan that can also 'slide' in?  </s>
+<s> i'm guessing that's not going to be easy to find and that i'll need a completely new heatsink/fan product?  </s>
+<s> did you look at replacement heatsink and fans at newegg.com and geeks.com?  </s>
+<s> i'm fitting this one on a nvidia i own -&gt;  </s>
+<s> i think that's a little over the top in terms of how much cooling i need for the card, no? i was looking for something a little simpler... also, the current heatsink is &quot;glued&quot; on to the card i guess with some special heat-absorbent glue or something?  </s>
+<s> would i need to buy that kind of glue?  </s>
+<s> would something like this fit?  </s>
+<s> are the push-pin locations standard across all vga cards? is there a better solution?  </s>
+<s> see if there are others at newegg and the usual places.  </s>
+<s> i chose this one so i don't have to revisit it next year or so.  </s>
+<s> my bet is that even if the fan failed the passive cooling might be enough.  </s>
+<s> bob  </s>
+<s> make it fanless. the accelero s2 provides better cooling than some fan-based stock heatsinks and is zero noise. the only caveat is that your case needs good airflow.  </s>
+<s> and since you're probably going to hang onto the card for a while - what's $8 extra really?  </s>
+<s> that is a good suggestion and ideally i would do that, however, i have a stock dell e521 machine and i don't think there is enough air-flow in the whole tower for a solution like this to work... but i'm not positive...  </s>
+<s> you need to visit overclocking and/or modding websites to help better with cooling replacements and/or tips/clues.  </s>
+<s> just google away for possible websites to visit.  </s>
+<s> once, you find such sites, they explain or direct you to possible fixes, replacements, etc., don't expect too simple a solution as you mentioned you have a glued on heatsink.  </s>
+<s> if you can, simply return the video card and get one that better suits your needs.  </s>
+<s> a quick note, to remove any glued on heatsink, you &quot;freeze&quot; and snap off as the sticking glue may not hold.  </s>
+<s> however, you do this at your own risk.  </s>
+<s> tada -----willy  </s>
+<s> shouldn't be a problem.  </s>
+<s> in fact, the cooler will face up so it might even perform better. the only issue i can see on the e521 is clearance between the cooler when installed and the cpu hsf shroud.  </s>
+<s> dimensions should be up on the arctic website, so double-check before buying.  </s>
+<s> ... and i'm sure you're aware of this, but as far as i'm aware the third-party fan invalidates the bfg lifetime warranty.  </s>
+<s> it's normally not a big deal but just, like, warning you  </s>
+<s> ... actually, maybe not.  </s>
+<s> i've realised the pci backplate for the accelero wouldn't fit since you have no blanking plates above the gpu slot.  </s>
+<s> hmmm.  </s>
+<s> what you'll need is an 'over and under' passive cooler.  </s>
+<s> i'll get back to you.  </s>
+<s> not noisy at all now.  </s>
+<s> but i did have the hacksaw off a small corner since a heatsink on the motherboard was in the same area.  </s>
+<s> this heatsink looks like it will do fine without the fan in this system but we'll see how it runs later.  </s>
+<s> bob  </s>
+<s> ah, i see, thanks for the heads up and thanks for looking into this for me.  </s>
+<s> i really appreciate it.  </s>
+<s> so, maybe a fan-based solution is best after all?  </s>
+<s> let me know... thanks again!  </s>
+<s> ... and also, what are my options to avoid voiding the warranty, if possible?  </s>
+<s> why isn't this a warranty issue?  </s>
+<s> what do you mean?  </s>
+<s> what do you guys think of this fan? is there anything cheaper for around the same noise level?  </s>
+<s> you can't fix it without voiding the warranty so it's back to dealing with the company to fix it.  </s>
+<s> bob  </s>
+<s> it's the video card that i just bought which works but has a very loud fan imo.  </s>
+<s> others might be able to deal with it, but i find it very high-pitched and irritating after a while, so i would like to replace it with a quieter fan.  </s>
+<s> i don't think it's necessarily 'broken'.  </s>
+<s> it's warranty is over. is that not worth doing?  </s>
+<s> if any of my previous bfg's are anything to go by, silence is not their game.  </s>
+<s> i don't think they attach their hsf's to any sort of speed control.  </s>
+<s> there's a similarly priced gigabyte, but all rely on an 80mm fan to move air - the same as your choice.  </s>
+<s> i'm out of ideas for a fanless solution.  </s>

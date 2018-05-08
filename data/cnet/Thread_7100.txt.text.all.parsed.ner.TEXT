@@ -1,0 +1,16 @@
+<s> i hate this.  </s>
+<s> but it seems every pc i reload has this problem.  </s>
+<s> as soon as i put the wall plug back into the power supply the pc starts.  </s>
+<s> i've worked on plenty of pcs that don't do this so i must be missing something.  </s>
+<s> how do i fix this?  </s>
+<s> po  </s>
+<s> ...determines how the pc acts after a power cut.  </s>
+<s> you can specify it to remain off or immediately power up etc. when you switch a psu off or unplug it from the wall (nicely green and safe), the little pixie inside the pc thinks you've suffered a power cut, and knows the bios instructions of what to do when it regains power.  </s>
+<s> change the bios option (motherboard instructions or website will detail those) and when you plug it back in, the pc won't automatically power back up.  </s>
+<s> by the way this a feature for those that have to be on all the time such as servers, and research/crunching computers.  </s>
+<s> imagine if hundreds of those went off and stayed off, because they had a few seconds power outage!  </s>
+<s> good luck, geebee.  </s>
+<s> bob  </s>
+<s> enter setup and in power management- restore after power loss choose stay off.save  </s>
+<s> and exit.  </s>
+<s> your problem will be solved. the wording may be different in your bios but the meaning remains the same.  </s>

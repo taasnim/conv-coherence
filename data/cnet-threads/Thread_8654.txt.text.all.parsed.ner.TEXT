@@ -1,0 +1,42 @@
+<s> i was djing a party last night when my computer dyed.  </s>
+<s> i have had it for about 6 months and it is my 5th computer i have built.  </s>
+<s> when the power button is hit the power supply turns on runs then fan and about 1 second later shuts off.  </s>
+<s> there are leds on the motherboard that stay on.  </s>
+<s> nothing internally has changed.  </s>
+<s> i have: foxconn digitalife mother board intel quad core processor 800 watt psu 8800gts gpu 120gb 10k rpm hard drive by western digital 2(500) gb hard drives if more specifics are needed i can provide them if anyone has any clue as to what happened to my unit it would be greatly appreciated.  </s>
+<s> unplug all ide cables.  </s>
+<s> disconnect all drives.  </s>
+<s> if it boots then or you can enter the bios, your psu has been overtaxed.  </s>
+<s> your stuffed system generates alot heat and cause the psu to degrade and/or become unstable.  </s>
+<s> the damage is probably already done, but check anyways.  </s>
+<s> in such cases, swapping the psu is the way to go.  </s>
+<s> hi-wattage generic labeled psus may not be stable over time as generic labels aren't reliable, regardless of specs.  </s>
+<s> a good namebrand is costly but worth it over the life of the system.  </s>
+<s> also, think added cooling for continued use.  </s>
+<s> tada -----willy  </s>
+<s> i tried the psu (ocz 700w) and it does it with my other one as well.  </s>
+<s> it is not anything to do with the ides since they were all unplugged.  </s>
+<s> if the mother board is still showing leds that would lead to the cpu correct?  </s>
+<s> it powers up.  </s>
+<s> everything is removed from it except the cpu and the motherboard  </s>
+<s> sometimes you find it's the mounting.  </s>
+<s> if the mtrbd.  </s>
+<s> led(one)is lit is only an indication of power present, a visible reminder to the users.  </s>
+<s> if you have a set of leds, goto the support website(or manual) and locate what those leds means, what pattern may note a fault.  </s>
+<s> removing the drives was an attempt to remove some load off the psu and possible drive problem if cause.  </s>
+<s> also, you remove those as an issue and reduce the system.  </s>
+<s> you can further reduce the system to only single ram and video and keybd.  </s>
+<s> and mouse.  </s>
+<s> if the problem persists, swap ram.  </s>
+<s> if the problem still persists, you can remove cpu, ram, and only connect the mtrbd.. problem remains, you got a bad mtrbd., if it starts to beep away and fans remain on, possible bad cpu.  </s>
+<s> install cpu and it should still beep but if it remains on, then add 1 ram stick.  </s>
+<s> be sure to power off before doing so.  </s>
+<s> reboot, find a usable ram combo or otherwise the bad ram or combo of ram.  </s>
+<s> its very possible to have multiple problems.  </s>
+<s> its important to understand, if a mtrbd.  </s>
+<s> problem(or start to build another system) and you replace it, don't install a whole system again and boot-up.  </s>
+<s> a 2ndary(old parts) problem will come back to crash or take down the system due to its limitations and/or cause limited service.  </s>
+<s> since, you already got 5mo.  </s>
+<s> out of it, it maybe heat related issues that degraded the componets and finally &quot;poof&quot; it went.  </s>
+<s> that's why cooling is important and notice of shutdowns, reboots, or freezes is a sign of such an issue.  </s>
+<s> tada -----willy  </s>

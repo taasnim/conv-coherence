@@ -1,0 +1,19 @@
+<s> i am planning to buy a used crt monitor viewsonic a90f (vga input) that has been used for roughly 2 years.  </s>
+<s> link my questions are: 1. since i recently purchased a motherboard, how would i know the video format type (dvi or vga) the motherboard supports.  </s>
+<s> the mobo is based on intel p965 express chipset.  </s>
+<s> full spec here - 2. i would like to connect my dvd player to the monitor. the dvd player has both s-video and component video output (rgb) but i am not sure (could not find from the link above) if the monitor has component video input ports.  </s>
+<s> can anyone please clarify this? 3. if component video ports are not present in the monitor, is there some kind of adapter in the marker that will convert component rgb to vga.  </s>
+<s> thanks!!  </s>
+<s> from the info on intel, you would need a separate video card.  </s>
+<s> see here: that monitor does not appear to have any other inputs than vga you may be just as able to play the dvd on your pc rather than try to play it on a dvd player and connect to the monitor.  </s>
+<s> any conversion device is going to be way more than putting a dvd drive in your computer, if you do not have one now.  </s>
+<s> i searched for several video cards which suuport vga port but most of them list the following ports: d-sub, dvi, s-video.  </s>
+<s> foe e.g., seems like the d-sub port is the same as vga port (it has 15 pins).  </s>
+<s> so, this video card would be compatible with a crt monitor.  </s>
+<s> right?  </s>
+<s> since i have a laptop with a 15pin vga port, i want to hook-up my desktop cpu with the laptop and use the laptop monitor instead of buying a separate crt monitor for cost-cutting.  </s>
+<s> but this will only work if the vga port on the laptop has physically the same dimensions as the vga ports on normal desktop crt monitors.  </s>
+<s> the vga port on my laptop is here: see component#7 on page9 in i can atleast confirm that the laptop vga port is not a mini-vga ( ). do you know if vga ports on laptops are physically different from vga ports on crt monitors?  </s>
+<s> it sounds like you asked it you could use the screen on your laptop as the monitor for the desktop, it that correct?  </s>
+<s> if that is correct, then the answer is no. that vga port on the laptop is to connect an external monitor to the laptop so you can use the external monitor with the laptop.  </s>
+<s> it is not an input port. the vga port on the laptop should be the same as the input connector on the monitor, but it is not intended for connecting two computers together.  </s>

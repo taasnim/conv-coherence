@@ -1,0 +1,12 @@
+<s> im making a small ftp server using serv-u.  </s>
+<s> i have an ip and a domain and i set up serv-u with it.  </s>
+<s> when i try to log in from a different computer, i get a 401 authorization required screen.  </s>
+<s> i checked the settings over and over.  </s>
+<s> now when i try to log in, the sign in window just keeps popping up.  </s>
+<s> any ideas?  </s>
+<s> i have a dsl connection which means when you restart your computer you receive a new ip address.  </s>
+<s> go to and check your ip address.  </s>
+<s> i had thought it was 192.168.1...same as the router, it's not.  </s>
+<s> using that ip to log on solved my problem of getting that error message.  </s>
+<s> in addition to ru8 m3 suggestion.  </s>
+<s> you may want to make sure the ftp port is open and pointing to the correct local address &quot;192.168...&quot; in your router.  </s>

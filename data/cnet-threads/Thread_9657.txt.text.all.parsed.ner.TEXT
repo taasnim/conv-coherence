@@ -1,0 +1,29 @@
+<s> i am working with two computers, a desktop and a laptop.  </s>
+<s> i have both computers hooked up to a router.  </s>
+<s> my internet connection on both computers is fine, but i am unable to share files.  </s>
+<s> (so i know that the physical connection is ok.) i ran the home networking setup wizard on both computers and everything went ok. now, when i open network places and click on view workgroup computers, i get the following error message.  </s>
+<s> --------------------------------------------------------------------- mshome is not accessible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions. the list of servers for this workgroup is not currently available.  </s>
+<s> --------------------------------------------------------------------- i get this same error message on both computers.  </s>
+<s> what can i do to fix this?  </s>
+<s> i encountered the same problem and here is what i did to resolve it: select the files/folders you want to share on your network, right click the folder and select &quot;sharing and security.&quot;  </s>
+<s> then click on the &quot;sharing&quot; tab and click the option for &quot;share this folder on the network.&quot;  </s>
+<s> i also selected the option for &quot;allow network users to change my files&quot; only because i work between my notebook and desktop.  </s>
+<s> once that's complete, click &quot;apply.&quot;  </s>
+<s> if you've done this correctly, you will see a hand supporting the folder which indicates you've successfully shared the folder.  </s>
+<s> repeat this process for both computers.  </s>
+<s> best of luck!  </s>
+<s> shared folders have already been setup, but i went ahead and double checked everything anyway and followed the instructions.  </s>
+<s> i am still having the same problem.  </s>
+<s> i get this proablem and think i have tried almost everything!! now i've given up :p i can get into my network files thats all i care about :p other people can try more themselves if they think they can do it!  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads oviously they cant!!!  </s>
+<s> i was messing around with my computers and finally found the problem.  </s>
+<s> my firewall software was not correctly configured to handle file-sharing.  </s>
+<s> thanks for all of your advice.  </s>
+<s> paul  </s>

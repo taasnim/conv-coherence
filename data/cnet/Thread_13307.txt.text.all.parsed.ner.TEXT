@@ -1,0 +1,33 @@
+<s> ive been reading about this and it seems that there are alot of people against it.  </s>
+<s> but here is my situation.  </s>
+<s> i live on about an acre lot. the house is mid yard, maybe towards the street alittle more.  </s>
+<s> where im trying to get internet to is the shed, which is more of a game room, flatscreen, surround, ps3, desktop took to tv, slingbox, cable, yadda yadda.  </s>
+<s> i went out and bought a n router to put in the upstairs window to try to get a signal out there but is too weak.  </s>
+<s> on a good day i get like 10% of a signal.  </s>
+<s> so what i did is i move the modem and router to the basement, and ran a cat5e wire in piping under the ground and put a wall mount plate in so i can plug into it.  </s>
+<s> that works great.  </s>
+<s> unfortunalty i have more than one toy that requires the internet, plus id like to have &quot;wifi&quot; out there.  </s>
+<s> my network currently stands like this, att modem steamstream somthing or other goes to my d-link dgl-4500, that creates the wifi in the house and plugs the house comp and office, and printer into it.  </s>
+<s> from my fouth port is the wire that goes all the way to the shed.  </s>
+<s> from the shed wall i have it going to my second router.  </s>
+<s> linksys e2000.  </s>
+<s> pluged into that i have the desktop, ps3, slingbox, and tv into it.  </s>
+<s> as well as the wifi which my laptop is currently connected to.  </s>
+<s> i turned of the firewall off the linksys router and on the dhcp its assigning diffent ips then my house router so there is no conflict.  </s>
+<s> everything works great, the ps3 connects no problem, the desktop and tv is fine.  </s>
+<s> my only issue im haveing is my slingbox.  </s>
+<s> when im in the shed connected to the linksys router i have no problem streaming my cable from it.  </s>
+<s> but when i go inside and connect to my d-link it cant be found.  </s>
+<s> im not sure if there is a different setting in the routers i need to change or what.  </s>
+<s> i know this was a long post.  </s>
+<s> but i felt that it was better to inculde all my details so i wouldnt be yelled at to just get a switch or hub, or to cancel out the second router.  </s>
+<s> thanks for the help  </s>
+<s> i forgot to mention the firmware on my d-link dgl-4500 is current firmware version : 1.22na current firmware date : 2010/01/19 linksys e2000 firmware version: v1.0.00 my slingbox is a slingbox pro-hd firmware version 1.4.60  </s>
+<s> we cover that setup in the forum sticky.  </s>
+<s> i apologize because the first link died and i haven't had time to replace the post.  </s>
+<s> also i can't duplicate items in the sticky.  </s>
+<s> i will refer to them as this is all volunteer.  </s>
+<s> link -&gt; bob  </s>
+<s> for the wife's laptop.  </s>
+<s> she's a hundred feet from the house in her workshop.  </s>
+<s> works perfectly placed in a window facing the house's router.  </s>

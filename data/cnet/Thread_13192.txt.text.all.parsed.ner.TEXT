@@ -1,0 +1,50 @@
+<s> hi i have just installed ocz 2gb kit (2x1gb) ddr2 800mhz/pc2-6400 memory cl4 unbuffered ati certfified dual channel kit and works fine but im thinking of putting another 2 gb in but ive heard that a 32bit operating system will only reconise a max of 3 gb im running vista 32bit home edition will they work or will i have to get 2x 512mb dual channel kits insted thanks chris  </s>
+<s> it will, to an extent.  </s>
+<s> you won't get 4 gigs though.  </s>
+<s> the system resources are why.  </s>
+<s> pci memory addressing will take up a portion of what the 4 gigs will use leaving much ram with only around 3.4 or less, depending in actual use.  </s>
+<s> so in theory, yah, in actuality, no. vista starter is only like, 1 gig i believe but don't quote me, the rest on 32 bit should support it.  </s>
+<s> paul  </s>
+<s> so payoff is minimal past that point (vista).  </s>
+<s> you can look up the /3gb boot.ini switch but this only works if the application was compiled using a very special compile switch.  </s>
+<s> try it with 2gb and only go more if you can stand no payback.  </s>
+<s> bob  </s>
+<s> i've got 4 mb of ram on my vista 32-bit home premium setup (a friend had 2 mb left over after a rebuild of his machine, so i figured there's nothing to lose by adding them to the 2 mb that came with the hp pavilion m8100y). the system recognizes 3.25 mb of that 4 mb, so that means 0.75 mb is not being used for anything that i can tell.  </s>
+<s> if it weren't free, i wouldn't have added the last mb.  </s>
+<s> does the extra 1.25 mb make a difference?  </s>
+<s> yes!! i run ms flight simulator x on this machine, which is well-documented memory hog. the extra ram allows me to turn up many of the reality settings, which make the simulation much more realistic.  </s>
+<s> i don't know what else the extra ram can do, but it helps this game a great deal.  </s>
+<s> i'm sure you meant gb. it's a common mistake as well as an easy typo.  </s>
+<s> as far as the memory goes, i would recommend 3gb of ram for any vista machine.  </s>
+<s> this way, you have plenty of breathing room for the operating system and the software.  </s>
+<s> remember, you can always turn off some stuff in vista and reclaim some of that memory.  </s>
+<s> yeah, sorry.  </s>
+<s> i meant to use gb instead of mb. and i forgot to add that i wouldn't recommend that last gb unless you can get it free, or at least really cheap!  </s>
+<s> getting only 1/4 of what you pay for isn't much of a deal.  </s>
+<s> i haven't removed the 4th ram memory unit, but i'd bet there wouldn't be a noticeable difference between 3 gb and 4 gb.  </s>
+<s> i have a dell xps laptop with 1 gbram.  </s>
+<s> being an xps, i am surprised at how slow it is. is this because it needs more ram or does the system nened more capacity?  </s>
+<s> the 4gb limit on 32bit machines includes your ram, video ram and your virtual memory.  </s>
+<s> the .75 missing is prob 256 for your video and 512 virtual memory.  </s>
+<s> vista will work with 4gb installed cause i dont think they do my memory in dual channel mode on the 512mb version or will i not notice much difference form 2gb. cheers chris  </s>
+<s> since &quot;out of the box&quot; xp, vista will only hand any application 2gb there has been little to no payoff past 2gb.  </s>
+<s> on top of that, even if you discover the /3gb switch it still required the application be compiled with a special switch.  </s>
+<s> your money, your choice here.  </s>
+<s> bob  </s>
+<s> exactly! 32-bit oses like winxp and vista 32 are capable of allocating maximum of 2gb of ram to an application.  </s>
+<s> if you need more than 2gb of ram per app, the best solution would probably be 64-bit os like vista 64. btw, this thread's posts confirm previous observations of 32-bit-os-'in-practice'-total-ram-limit of somewhat 3.5gb.  </s>
+<s> it's enough to drive a programmer mad. the switch is called when you link your program with the linker flag /largeaddressaware.  </s>
+<s> you betcha you better use some microsoft tools to get that to work.  </s>
+<s> bob  </s>
+<s> there were some useful tips at cnet on how to make your machine run faster (try the 'search forums' search feature for detailed info).  </s>
+<s> in a nutshell, your computer 'slowliness' is not necessarily connected with its physical ram size. the first thing i check (or recommend to check) when i receive a distress call about 'slow machine' is the system's contamination with unnecessary data and the size of windows' swap-file (aka 'virtual memory size'). the former is done, for example, in windows explorer via clicking on your system logical disk (the one where os is installed) with the right-button of your mouse, selecting the 'properties' item in the list then 'disk cleanup' then 'more options'.  </s>
+<s> it's up to you to decide what options you'd like to use cleaning your drive but personally i don't go beyond the deletion of 'system restore' old files and those selectable at the 'disk cleanup' tab.  </s>
+<s> as for the swap-file size, you might want to attend to other cnet members' advice but i have it set to 1.5gb. the result?  </s>
+<s> well, it's always there! the only thing my 'ol'-good-piii-1.4ghz/0.5gb'  </s>
+<s> gives me a hard time is processing fullhd streaming video files.  </s>
+<s> all other tasks like inet, dvd playback, office apps, dvd burning, tv etc. run smoothly.  </s>
+<s> of course, you can always spend some premium 'to add muscle on the machine' but why don't you try to use in full the muscle it already has?  </s>
+<s> efficiency is not necessarily attained with additional money spendings.  </s>
+<s> try 'system-fine-tuning' first - only if that doesn't help - go for 'muscle build-up'.  </s>
+<s> obviously one app can't use all of your memory.  </s>
+<s> 3 gb would definitely be beneficial because windows and background processes can use a gigabyte while letting your big app use its full 2 gb.  </s>

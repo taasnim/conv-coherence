@@ -1,0 +1,25 @@
+<s> i have just installed my motherboard (elitegroup ks57a( into a new case (axio atx 732 x5 series) this case comes with two front usb ports as well as a headphone and mic jack.  </s>
+<s> i have hooked up the usb ports,(although one is current not working) but the headphone and mic jack setup is giving me problems.  </s>
+<s> i can't make heads nor tails of how to connect them to my motherboard.  </s>
+<s> i know they go to my fp_audio but i don't know what connector goes to what pin because they are labled differently from one another.  </s>
+<s> this is my first time doing this by the way and i am just impressed that my machine is still working.  </s>
+<s> they pins on the ribbon for the headphone and jack from the case are: l-in - white wire l-out - red wire grnd - black mice - in - orange r-out - red r-in - white mic - in - green grnd - blk the confusing thing is the pins on the motherboard seem to be marked differently then what is in the manual.  </s>
+<s> but the pin setup is the same with 5pin on the left and a 3 blank 1 pin on the right.  </s>
+<s> if anyone can sort this out for me or point me in the right direction i would greatly appreciate it.  </s>
+<s> &quot;they pins on the ribbon for the headphone and jack from the case are: l-in - white wire l-out - red wire grnd - black mice - in - orange r-out - red r-in - white mic - in - green grnd - blk&quot; these seem clear to me.  </s>
+<s> except the &quot;mice&quot; one.  </s>
+<s> &quot;the confusing thing is the pins on the motherboard seem to be marked differently then what is in the manual.  </s>
+<s> but the pin setup is the same with 5pin on the left and a 3 blank 1 pin on the right.  </s>
+<s> if anyone can sort this out for me or point me in the right direction i would greatly appreciate it.&quot; the manual is often a rushed affair.  </s>
+<s> see if the maker's web site has a newer manual and from experience, the marking on the motherboard is often correct.  </s>
+<s> bob  </s>
+<s> that was a typo sorry.  </s>
+<s> &quot;that was a typo sorry.&quot;  </s>
+<s> my bet is the motherboard manual has those too!  </s>
+<s> my mb audio pins on the mb are: fp_aud10 1. aud_mic 2. aud_gnd 3. aud_mic_bias 4. aud_vcc 5. aud_fpout_r 6. gnd 7. hp_on 8. key 9. aud_fpout_l 10. gnd  </s>
+<s> my mb audio pins on the mb are: fp_aud10 1. aud_mic 2. aud_gnd 3. aud_mic_bias 4. aud_vcc 5. aud_fpout_r 6. gnd 7. hp_on 8. key 9. aud_fpout_l 10. gnd  </s>
+<s> i am looking at the manual for that board and the connections appear obvious.  </s>
+<s> two channels each for left and right headphones.  </s>
+<s> two channels for the mic.  </s>
+<s> #7 is reserved for future use to control headphone amplifier and #8 is a key.  </s>
+<s> what happens when you connect them?  </s>

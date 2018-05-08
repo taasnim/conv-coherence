@@ -1,0 +1,42 @@
+<s> hello team, i'm running windows xp pro sp3.  </s>
+<s> i'm using an acer 5738z and i use the atheros ar5b91 wireless network adapter.  </s>
+<s> in the network connections window, wireless network connection shows a red x and says not connected.  </s>
+<s> in the device manager, the atheros driver is listed under network adapters.  </s>
+<s> also, in the atheros client utility, i can see the available wireless network to connect.  </s>
+<s> but, when i connect, its not connecting.  </s>
+<s> i believe its because the wireless network connection has a red x and its not connected.  </s>
+<s> i tried reinstalling the atheros drivers.  </s>
+<s> turned off the firewall, etc. to no luck.  </s>
+<s> also stopped and started the wireless zero configuration in the services.  </s>
+<s> i've tried all possible steps from my side.  </s>
+<s> just not sure what to do to get the wireless network connection to get connected, so that i can use my wireless.  </s>
+<s> it was working absolutely fine around a couple of months back.  </s>
+<s> did not make any major changes in my pc since then.  </s>
+<s> i'm struggling with this for the past many weeks.  </s>
+<s> please help me out.  </s>
+<s> expecting to get a reply very soon.  </s>
+<s> regards, reeza  </s>
+<s> from what i can tell this machine never shipped with xp. your post seems to hint that it never worked with xp so my advice is to install the os that the machine came with so it can work.  </s>
+<s> or use some usb wifi device.  </s>
+<s> bob  </s>
+<s> yes, that's right. the machine did not come with win xp when i bought it.  </s>
+<s> i believe, it came with some linux os. i reinstalled the win xp pro in the comp.  </s>
+<s> i can see the sticker on the bottom of the laptop, saying that it contains atheros card.  </s>
+<s> also, i was able to use the wireless with atheros, till around 2 months back.  </s>
+<s> i'm sure that the wireless would work if the red x is removed from the wireless network connections in the network connections window, but i dont know what and where to check, to get it connected.  </s>
+<s> apprecaite your assistance.  </s>
+<s> regards,  </s>
+<s> if device manager shows nothing wrong, and it doesn't connect, consider the possibility it's broken.  </s>
+<s> the easiest way i see to check that and possibly get it working are: 1. back to linux.  </s>
+<s> see if it works.  </s>
+<s> 2. if it works in linux, repeat the installation of windows xp exactly as you did it the first time.  </s>
+<s> then it should work like it did the first time.  </s>
+<s> that's rather time-consuming.  </s>
+<s> adding a new (usb or ethernet) wireless device is far easier.  </s>
+<s> kees  </s>
+<s> to be honest, i'm not willing to install linux just to check the functionality of the wireless as it has worked earlier with winxp pro.  </s>
+<s> any other suggestions please?  </s>
+<s> &quot;adding a new (usb or ethernet) wireless device is far easier.&quot;  </s>
+<s> that's what i've been doing a lot.  </s>
+<s> folk won't pay for the hours of troubleshooting windows or even linux and will pay the 20 bucks or less for the usb wifi that works in a few minutes.  </s>
+<s> bob  </s>

@@ -1,0 +1,11 @@
+<s> i have a 500gb seagate barracuda ide drive that is giving me serious issues.  </s>
+<s> the drive is probably 2/3 full of movies and music.  </s>
+<s> i had it attached to a pci ide raid card in my home computer (vista) (no on board ide).  </s>
+<s> the computer stopped fully booting until i removed the drive.  </s>
+<s> i have since put the drive in an external usb case, put it in 2 other systems (win2000) and still cannot get the drive to be recognized externally or able to boot internally.  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> btw...i could not care less about the actual hard drive, i just want to get my data onto a working drive.  </s>
+<s> thanks again!  </s>
+<s> i was able to boot to mhdd and scan the drive.  </s>
+<s> there a sectors that are &quot;data is uncorrectable&quot; and &quot;sector id cannot be read or not as expected&quot; so i know the drive is bad, now i just need to be able to get whatever files i can off the drive...  </s>
+<s> but this looks like where spinrite might work.  </s>

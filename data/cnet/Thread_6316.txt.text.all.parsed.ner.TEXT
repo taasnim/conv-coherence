@@ -1,0 +1,29 @@
+<s> believing that the sector map is used by the operating system to determine where (track & sector) to put a block of data i would suspect that raid-1 should be able to be moved as the controller was &quot;just&quot; writing each block to two disks at the same time.  </s>
+<s> putting either disk in a new system and recreating the mirror should be straight forward.  </s>
+<s> when it comes to raid-0 the game gets complicated as there are 'stripe width&quot; issues as well as track & sector assignments to be considered. is there standardization among implementations?  </s>
+<s> will a 250g 2 disk raid-0 array from an intel mobo be readable in an amd system?  </s>
+<s> (i'm looking for some lost legal document images on dead systems with on board pata raid controllers).  </s>
+<s> almost any on board raid is a crap shot if the drives will transplant.  </s>
+<s> in fact it rarely works making a fine business for those in the recovery business.  </s>
+<s> given what's at stake, why didn't they make a backup?  </s>
+<s> or were they lulled into believing by someone that raid 1 was a backup?  </s>
+<s> and i see a mention of raid 0. with those i have yet to see but a few transplants over the years.  </s>
+<s> folk try it and learn the bitter truth.  </s>
+<s> bob  </s>
+<s> from 1 computer to another but the likelihood of it working properly so that you can access and read the data.....slim and none. is it possible there's a pc with the exact same hardware configuration you could try it in ?  </s>
+<s> vapcmd  </s>
+<s> i can't speak for raid 0 but with raid 1 it should be easy enough to create an image of the set and restore it to the set once moved.  </s>
+<s> i've only done this once but had no trouble doing so.  </s>
+<s> eventually i moved away from raid and re-worked my backup plan.  </s>
+<s> i've had raid sets break a time or two with or without there being an actually hardware failure. the reality is that rebuilding these arrays once broken is far more time consuming than using other backup/restore methods.  </s>
+<s> another issue is that, if one drive breaks, you're better off buying another pair than trying to find and replace a failed drive.  </s>
+<s> newer drives also have some wonderful features that cause them to &quot;recalibrate&quot; themselves and can break your raid set.  </s>
+<s> you need to shop for drives designed for raid use and they'll cost you more.  </s>
+<s> my opinion is that it's no longer worth the effort.  </s>
+<s> good luck.  </s>
+<s> thanks to all who posted so promptly.  </s>
+<s> as i feared a raid-0 is a &quot;one-off&quot; animal with no similarities to any other array except one built by the same raid controller chip or board.  </s>
+<s> it is so true that one broken drive too soon becomes one of a set of broken drives; so best practice is to rebuild onto new hardware.  </s>
+<s> thanks for the tip about &quot;self-calibrating&quot; drives that become &quot;self-breaking&quot; arrays ... i didn't see that one coming (better is in the eye of the beholder).  </s>
+<s> backup.....the busted raid 0 woudn't have mattered at all.  </s>
+<s> vapcmd  </s>

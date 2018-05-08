@@ -1,0 +1,18 @@
+<s> &quot;if you have a second physical disk in your machine, you can boost performance by moving your paging file (pagefile.sys)  </s>
+<s> onto your second drive&quot; i hear this all the time... is it true ?  </s>
+<s> if yes then... shall i make my (20 gb fat 32 hd) into paging file disk ?  </s>
+<s> and should i disable the page file in... my main hd ?  </s>
+<s> also, i got this hd from a fren, it's working fine... but it had 5 bad clusters.  </s>
+<s> (which i surfaced scanned and all)... but my fren didn't want it, so i took it... it's basically free!!! i will be using it only for paging file and temp folder for my other softwares (like audition, photoshop... kaza, limeware...etc) now... is there any software, that can further check, or help in bad clusters?  </s>
+<s> till now... it has only, 5 bad clusters... help !!! please... gsoul2soul  </s>
+<s> posts continue with members learning that limeware is now bad news.  </s>
+<s> members are losing their os or files due to that.  </s>
+<s> your choice to use this poison.  </s>
+<s> let me comment that with today's well equipped machines of 256, 512 or more megabytes of ram that payoff of such paging file optimizing is not paying off.  </s>
+<s> your choice here and i will not discuss why in detail.  </s>
+<s> you do the test.  </s>
+<s> bob  </s>
+<s> dump the 'free' drive.  </s>
+<s> it's just going to cause you problems in the future... probably as soon as you put something important on it.  </s>
+<s> as for the paging file... putting it on a seperate, fast drive is a boost (how much is debatable; but vista will automatically use a usb flash to offload the pagefile so there's definitely a benefit).  </s>
+<s> i doubt if a 20gb drive is anywhere near as fast as your current drive so, once again, dump the 'free' drive.  </s>

@@ -1,0 +1,30 @@
+<s> well lets start with the easy stuff, my system is not hijacked; i know this because i just purchase a new hard drive and only installed windows and the updates to bring it current.  </s>
+<s> with that being said let me explain what is going on.  </s>
+<s> i discovered that my compaq p4 running windows xp sp3 home was sending billions of packets when it had only recieved 1000.  </s>
+<s> virus software showed no virus.  </s>
+<s> i purchased a new hd to ensure that i would not move this hidden program onto my new drive, oddly enought it is happening after just installing all the updates.  </s>
+<s> i think it's safe to say there is no issue with getting a virus from the microsoft download site.  </s>
+<s> today i discovered the problem is related to the power options in the control panel; if the system is set to hibernate, hd to turn off or the system set to go into standby, when it wakes up the packet count is 2 billion.  </s>
+<s> i verified this by rebooting the system and setting the power button to move the system to standby; i recorded the packet size then pressed the power button, the system went into standby mode, i moved the mouse returning the system to normal operation; all this took place in less than 30 seconds, now my packet set is 2 billion plus, hit the button again sending it into standby and use a key to return the system to operation and the sent packets it 5 billion.  </s>
+<s> what is going on with this?  </s>
+<s> any idea how to correct it or stop it?  </s>
+<s> packet information?  </s>
+<s> i'm getting the packet information from the local area connection.  </s>
+<s> double click on the computer in the lower right corner and you should get the network connection you will see the activity with the number of sent and recieved packets.  </s>
+<s> i have always had more received packets than sent but fully understand that the sent could exceed the recieved.  </s>
+<s> however there is no way i'm sending 4 billion packets and receiving 2000.  </s>
+<s> something is wrong here and i believe it is with sp3 however i monitor my packet size to ensure no one has hijacked my system.  </s>
+<s> can you tell if the it resets to &quot;0&quot; with a restart?  </s>
+<s> try unplugging the network cable and see what the numbers are.  </s>
+<s> yes when i do a hard boot the packets do reset.  </s>
+<s> i thought about what you said and took action to confirm what i thought, pulling the cable disables the network connection and resets the packets sent.  </s>
+<s> plug in the cable to reestablish the connection and watch the counter.  </s>
+<s> what would be interesting would be to have another pc on the network with the internet disabled and try moving some files between the two and observe the counters on both to see if the xmit/rcv sides seem to be proper.  </s>
+<s> okay, did what you asked, unplugging the cable.  </s>
+<s> pluging it back into the system did nothing more than reconnect the nic card.  </s>
+<s> move files between two system and everything worked as expected.  </s>
+<s> i feel i have isolated the issue to the system revovering from standby but don't have a clue on how to fix it.  </s>
+<s> i have a theory on this. are you running sql 2000 desktop engine (msde)?  </s>
+<s> if so, it could be infected with a slammer variant.  </s>
+<s> if you think this is the cause, go to office update and they have a critical update patch for this very thing.  </s>
+<s> just when you thought slammer was a thing of the past ...lol let me know if this helps.  </s>

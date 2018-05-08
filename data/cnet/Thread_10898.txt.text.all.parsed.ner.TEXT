@@ -1,0 +1,19 @@
+<s> hi i wanted to know what the best way to reformat a lacie hd from a mac format to a windows vista format is?  </s>
+<s> i have the lacie big disk 500gb with firewire and usb.  </s>
+<s> i'm using a format program on my mac thats making the lacie into a ms-dos file system.  </s>
+<s> will this work or do i need to try something new?  </s>
+<s> thank you for your help.  </s>
+<s> im not quite sure this would work, but with my hdd [just a normal sata hdd] i go into cmd type convert [drive letter]:/fs:ntfs then if it says convert cannot gain exclusive access to the drive_letter:, so it cannot convert it now.  </s>
+<s> would you like to schedule it to be converted the next time the system restarts (y/n)?  </s>
+<s> press y then restart your computer and then it should be done.  </s>
+<s> may go through a screen before the welcome screen  </s>
+<s> ok the format that the imac made on the lacie worked with vista, but when i right clicked on the lacie vista had a option to reformat the lacie to the ntfs file system.  </s>
+<s> i looked on the microsoft's web site and they talked about how ntfs works with vista, but don't work with earlier microsoft os? since i'm only going to use vista i think having a ntfs systems is not a bad deal with it's better reliability and stuff.  </s>
+<s> again thank you for your help.  </s>
+<s> with xp. xp could use either fat 32 or ntfs, however fat 32 cannot read ntfs, but ntfs can read fat 32 with no problems.  </s>
+<s> thanks for the information people.  </s>
+<s> it helped a lot.  </s>
+<s> one more thing do any of you know how to get my external hard drive to sleep when my computer sleeps?  </s>
+<s> when i had it on my mac the external went to sleep, but on the vista it don't.  </s>
+<s> thank you.  </s>
+<s> spanned across a raid array self sustaining 1-800-33qad;  </s>

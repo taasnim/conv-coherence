@@ -1,0 +1,37 @@
+<s> i'm using windows xp and a 512 flash drive.  </s>
+<s> i have downloaded john haller's portable firefox,thunderbird, and sunbird.  </s>
+<s> they work fine but haller and pc mag in their article on same recommend creating a root directory for the drive but do not tell how to do it. is anyone out there using portable apps who knows how to create a root (c?) directory for this drive?  </s>
+<s> i've just downloaded another portable app from haller and he talks about unzipping this file into the profile of the earlier firefox version.  </s>
+<s> i know how to unzip files, how to delete on the flash drive but that is the extent of my knowledge.  </s>
+<s> i think the directory will create a way to bring the drive up on my pc and will make updates and changes possible----not sure.  </s>
+<s> my compusa drive does not require drivers.  </s>
+<s> how to make the directory?  </s>
+<s> do i really need one and will it change anything about the portability of the flash drive?  </s>
+<s> i've googled and can't find any answers.  </s>
+<s> please help.  </s>
+<s> donna  </s>
+<s> it seems someone wrote something odd.  </s>
+<s> bob  </s>
+<s> i think r. profitt would do well to learn a little compassion for his fellow man.  </s>
+<s> his brief reply gave no help.  </s>
+<s> perhaps it is my fault for not stating my problem correctly.  </s>
+<s> on my own i found a link from pc magazine that explains what i want to do but not how to do it.  </s>
+<s> here is the link: since my familiarity with windows explorer is limited i would like some honest help with my problem.  </s>
+<s> i like learning new things and this flash drive is a new toy i sincerely want to learn to work with.  </s>
+<s> on the first page doesn't mention this need to create a root entry.  </s>
+<s> compassion has little to do with this discussion.  </s>
+<s> if you want to discuss that, please note so and we'll go down that road.  </s>
+<s> -&gt; in short, all drives we use already have a top or root directory.  </s>
+<s> your basic books on windows, dos should cover this in depth.  </s>
+<s> if you need newbie information, just ask for it in the newbie forum.  </s>
+<s> you posted in a not-newbie forum so the shorter answers will come first to see if that suffices.  </s>
+<s> from there we expand on the discussion.  </s>
+<s> some will expect long detailed answers but this will not happen since all replys are from volunteers.  </s>
+<s> this is not tech support, but where we discuss the topic and dig into it and hopefully come away with some answers.  </s>
+<s> if you want tech support.... --&gt; &quot;to do all this, create a text file named autorun.inf in the drive's root directory, with contents something like this&quot; that's on the second page of the article.  </s>
+<s> it did not ask you to create the root directory, but to place the items there.  </s>
+<s> this is bashing words but we must be careful and read the sentance with care and double-so if we copy that elsewhere.  </s>
+<s> in closing, you have the root directory.  </s>
+<s> it's the top or the one with just the backslash.  </s>
+<s> hope this helps.  </s>
+<s> bob  </s>

@@ -1,0 +1,32 @@
+<s> i just fixed a pc that belongs to a friend of mine.  </s>
+<s> basically, i formatted the hard drive and reinstalled xp. though i don't know if the computer was slow before, it's slow now.  </s>
+<s> well, it's slow when there are webpages involving flash, and slow when i try to resize any window.  </s>
+<s> i have narrowed down the problem components to the processor and video.  </s>
+<s> i wonder if the slowness is due to the intel celeron socket 478 @ 1.73ghz, or could it be the integrated sis 650 graphics?  </s>
+<s> i'm leaning towards the graphics being the culprit.  </s>
+<s> what do you think?  </s>
+<s> the drivers for the machine were not installed.  </s>
+<s> these are not on the microsoft cd. bob  </s>
+<s> sorry, i thought everyone would automatically assume that i've installed the drivers.  </s>
+<s> well, i have already installed the drivers and everything in the device manager is fine.  </s>
+<s> i downloaded sis video, sis agp gart, sis ide, and sis nic drivers.  </s>
+<s> that pretty much covers the sis 650 northbridge/ sis 962l southbridge chipset drivers.  </s>
+<s> so what could be the culprit?  </s>
+<s> while the base machine is no speed demon, check out this common issue -&gt; i rarely find people to get the drivers proper.  </s>
+<s> most stop the moment the xp screens look ok. bob  </s>
+<s> have you tried a chkdsk?  </s>
+<s> if an hdd has even 4kb in bad sectors, it can slow the computer to a crawl start --&gt; run --&gt; &quot;chkdsk /r&quot;, click ok it will ask if you would like to run at next startup, just say yes and reboot, will take a little while but when if finishes should display an output of various info one of which is bad sectors, hope this helps  </s>
+<s> before i installed windows xp, i used darik's boot and nuke on the hard drive.  </s>
+<s> that should've told me of any errors, but i received none.  </s>
+<s> i believe you are totally ignoring the problem.  </s>
+<s> i have slow flash and slow window resizing and movement, but not a slow computer.  </s>
+<s> i get no error messages either.  </s>
+<s> to add to that, i just found out that when i enable hardware acceleration in powerdvd, the playback slows down intermittently.  </s>
+<s> but when i disable hardware acceleration, playback is fine.  </s>
+<s> though cpu goes up to 80-90% .  </s>
+<s> so i am pretty sure that it's the onboard video.  </s>
+<s> i've disliked sis video ever since i had an sis 530.  </s>
+<s> 3d games that would easily meet the minimum requirements would blank the screen while in play.  </s>
+<s> ever since, i've disliked the sis chipsets for video and the sis 650 reassures it.  </s>
+<s> i will probably order the geforce 5500 agp card for the pc, since it has a 4x slot.  </s>
+<s> thankfully sis put an agp slot in there.  </s>

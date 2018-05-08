@@ -1,0 +1,35 @@
+<s> got a general question on hd backups and viruses.  </s>
+<s> i have couple problems: 1) belarc advisor has flagged my old 30gb hd as &quot;failure&quot; (although it still works for now) 2) the old p3 machine where this hd resides is plauged with a bad malware virus (about:blank / oneclicksearches.com  </s>
+<s> / psguard).  </s>
+<s> i've tried cleaning the machine of this horrible virus with multiple apps, but no luck yet.  </s>
+<s> fortunately i'm buying a new pc this weekend so i'm ready to get my critical files (digital photos & ms docs) off the old machine and just scrap the beast.  </s>
+<s> i got cd software backups for all my apps on the old pc, so i litterally only want to transfer photos & ms docs to the new machine.  </s>
+<s> because my hd is on the brink of failure, backing up my critical photos & docs is the primary concern.  </s>
+<s> ideally, i'd just network my old machine and new machine and conduct file transfers.  </s>
+<s> however i'm afraid by doing so i'll risk transferring viruses & malware to the new machine.  </s>
+<s> i could just burn backup cd's or buy & use an external usb hd to backup my photos & docs, but again i'm not sure if some of these viruses & adwares will 'stow away' on the cd's or ext.  </s>
+<s> hd, and eventually infect my brand new machine.  </s>
+<s> any advice would be appreciated!!  </s>
+<s> funseeker, if you haven't done so, run mcafee's free virus scan or trend micro's virus scan.  </s>
+<s> if your machine comes back clean of viruses then you should be able to move your files to new drive ok. if not, buy the software that found the virus and clean it up.  </s>
+<s> then copy your files.  </s>
+<s> viruses generally do not attach themselves to photo files and other data files.  </s>
+<s> they are typically .exe or some other type of call executable.  </s>
+<s> you get infested by email or the virus might be on a cd or diskette that is not a original manufacturers media.  </s>
+<s> using an external hd (imo) as backup is best as long as you keep it disconnected when not in use.  </s>
+<s> as far as asware/spyware goes check cnet's review of this software.  </s>
+<s> they haven't been wrong yet.  </s>
+<s> and life goes on... jack  </s>
+<s> to make life easier, how about first clean up the old computer?  </s>
+<s> you said that you tried to clean it, but i think you should use a more extreme method: 1. download spybot, adaware, microsoft anti-spyware beta, spysubtract (including cwshredder), and use them to do full-system scan.  </s>
+<s> 2. get hijackthis 3. scan a hijackthis log and post it on aumha forums ( ) 4. wait for reply.  </s>
+<s> 5. then follow the replies to clean out your computer.  </s>
+<s> (usually will have a lot of steps, but you have to follow them word by word, or the malicious stuff won't go. recommended: after following the reply's directions, do another full system scan in safe mode.) hope this helps  </s>
+<s> thanks, i've actually spent the past 3 evenings (til the wee hours) trying to eradicate this crap off the old machine.  </s>
+<s> i had already started using hijack and several of the other tools before posting here.  </s>
+<s> i've been following along dozens of forums and tooling the net for strategies on how to clean this pc. last night i thought i took care of it, but now programs are running slow and scans are coming up with some junk again.  </s>
+<s> i've got a bad variant of the smitfraud.b  </s>
+<s> virus - lookout for this one, it's bad!! fortunately my ailing hd has weathered through all this so far.  </s>
+<s> i plan on connecting a secondary hd to the machine to drag off all my data as soon as the machine starts running right again.  </s>
+<s> that could work.  </s>
+<s> but it will still be the best not to copy the whole hd.  </s>

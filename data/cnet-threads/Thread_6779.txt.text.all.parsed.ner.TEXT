@@ -1,0 +1,14 @@
+<s> hello, someone told me that if i want to upgrade my pc for video editing, i should upgrade mainly the cpu, and he said that the gpu is almost dont affect the video editing performance. is it right ?!  </s>
+<s> that depends on the program.  </s>
+<s> in theory it could be programmed to use the computing power of the gpu also.  </s>
+<s> but i think most - if not all - only use the cpu.  </s>
+<s> kees  </s>
+<s> like kees said, it does depend on the software.  </s>
+<s> some software doesn't use the video card at all, but other software such as adobe premiere pro cs5.5 and i believe adobe after effects cs6 rely very heavily on any video card that has &quot;cuda cores&quot; (most nvidia cards).  </s>
+<s> when i got a nvidia card with cuda cores it allowed me to go from barely being able to play one 1080p video in real time to being able to play 10 in real time while having effects like rotating video, moving positions, etc (not very processor intense effects, but still).  </s>
+<s> not to mention that was with a low end cuda card.  </s>
+<s> long story short, check your video software to see if it can use video cards.  </s>
+<s> then make sure you get a card that is supported by that software.  </s>
+<s> thank you.  </s>
+<s> so if i have 9500gt (which has cuda, but it's a low end card) and cpu like i5 3470/3570 i will be able to edit videos well in vegas?  </s>
+<s> with high frame rate ?  </s>

@@ -1,0 +1,55 @@
+<s> on my desktop, i am running xp, a program called windows disk has just started up, which says i have (suddenly) developed loads of problems with my hard drive.  </s>
+<s> it wants to take me to the advanced module to fix these faults and take money from me for a licence. is this some sort of scam?  </s>
+<s> do i really have problems with my hard drive?  </s>
+<s> thanks colin  </s>
+<s> i am now getting the message critical error, ram memory usage is critically high, ram memory failure.  </s>
+<s> if i follow the instructions through to paying for the advanced module the web site where the payment is going is looks like some sort of virus to me, but how do i get rid of it?  </s>
+<s> i am running avg.  </s>
+<s> colin  </s>
+<s> i couldn't find any web site for i agree that this looks like some scam, so whatever you do at this stage, don't click anything to do with this web site, or with any scans it offers.  </s>
+<s> shut down the computer, reboot it into safe mode and run a full scan with your avg anti-virus and anti-spyware from there.  </s>
+<s> you don't say what windows you are running.  </s>
+<s> then follow grif's advice in his post here; mark  </s>
+<s> how do i get it into safe mode?  </s>
+<s> and i am running xp, as i mentioned in my first message.  </s>
+<s> sorry i missed it.  </s>
+<s> follow these steps.  </s>
+<s> 1] shutdown the computer.  </s>
+<s> don't select &quot;restart&quot; as that may not clear ram or any other system files when the system restarts.  </s>
+<s> select shutdown.  </s>
+<s> wait a minute or so.  </s>
+<s> 2] start the system and you should see post messages from the bios, eg computer details.  </s>
+<s> when those messages display, and before windows begins to load, start pressing the f8 key gently once a second.  </s>
+<s> after a while a list of safe mode options appear.  </s>
+<s> 3] the top one, safe mode should already be highlighted.  </s>
+<s> if not, use the arrow keys on the keyboard to highlight it, then press enter.  </s>
+<s> 4] windows will now load into it's safe, diagnostic mode.  </s>
+<s> this is a black desktop, larger icons and poorer resolution.  </s>
+<s> 5] run your avg anti-virus for a full scan from there. it may take longer to complete but most malware doesn't get loaded in safe mode.  </s>
+<s> once that is done consider grif's advice from the link i gave.  </s>
+<s> i hope that helps.  </s>
+<s> mark  </s>
+<s> i have gone into safe mode, run a full avg scan and also superantispyware. the superantispyware picks up the rogue windows disk, and seems to delete it.  </s>
+<s> unfortunately after rebooting, it is not on the desktop, but then suddenly appears again.  </s>
+<s> then we just go through the process which requires payment!! the web site is .  </s>
+<s> i will try grif's bleepingcomputer link next.  </s>
+<s> colin  </s>
+<s> well i downloaded the 3 versions of grif's fix, and none will work.  </s>
+<s> all 3 gave 'installation failed', and on the notepad the message was 'process terminated by rkill or while it was running'.  </s>
+<s> so where to now?  </s>
+<s> colin  </s>
+<s> try malwarebytes anti-malware from install this, update it, then close down.  </s>
+<s> start the system again after a minute or so then boot up again into safe mode.  </s>
+<s> run mbam from there.  </s>
+<s> let the scan finish.  </s>
+<s> then whilst still in safe mode head over to msconfig, the system configuration editor to search for startup files.  </s>
+<s> to do that, goto start &gt; run, and type in msconfig then click ok. when the system configuration editor opens go to the startup tab.  </s>
+<s> look down the list for any suspect entries and remove the tick.  </s>
+<s> for this exercise i would keep the startup entries to the bare minimum, eg retain all microsoft entries and your avg and firewall, (if that is a separate one).  </s>
+<s> i can't be more specific as all machines are different, and i don't know what is normal for your system, but items that are not particularly needed are media players, instant messengers, quicktime, realplayer, adobe, google and java updaters, and any browsers that may 'load at startup'.  </s>
+<s> then click apply then ok. reboot back into normal mode and test.  </s>
+<s> a note.  </s>
+<s> when you reboot into normal mode windows will tell you that you have chosen &quot;selective startup&quot;.  </s>
+<s> this is a normal advisory and this message can be suppressed from within the window itself.  </s>
+<s> see if that works, and good luck.  </s>
+<s> mark  </s>

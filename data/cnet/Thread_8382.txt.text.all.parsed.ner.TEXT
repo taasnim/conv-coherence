@@ -1,0 +1,26 @@
+<s> i have a dvd drive that is now only recognised as a cd-rom when i select &quot;my computer&quot; in windows xp.it is recognised by neros disc info tool as a dvd - it says it can play dvd- etc and if i uninstall then reinstall i get a message saying dvd-rom found.so  </s>
+<s> why isnt it recognised as a dvd, it will play cds no problem.i have reset the cmos , uninstalled then reinstalled the secondary ide in device manager but to no avail,any advice how i can get this drive to play dvds again?  </s>
+<s> this is ok if the item works, but it doesn't... there is no hardware issue here.  </s>
+<s> what i usually have to do is to install the motherboard driver package... but you post didn't supply make or models numbers for the forum to work with.  </s>
+<s> try that.  </s>
+<s> &quot; if i uninstall then reinstall &quot; what?  </s>
+<s> bob  </s>
+<s> ok , the motherboard is a pcchips m830lr.i  </s>
+<s> have been to the website for drivers but could only see audio ,lan and agp drivers.  </s>
+<s> in short, without that chipset driver package its likely you will get reduced functionality.  </s>
+<s> your board supplier should have given you the cd with the sis 735 drivers.  </s>
+<s> if not, fish at bob  </s>
+<s> this is getting very strange ..... the dvd drive will now play dvd movies , but will not read dvd-r discs that have been burned on a friends machine ( these dvd-r discs do play on other pcs ok though),nero info tool says it should play them.now when the dvd and my samsung sw-252 cd-rw are both connected the samsung will not work - there is an exclamation mark in device manager and it does not show in &quot;my computer&quot;.when it is connected on its own it is fine , but when both are connected the cd wont work.why  </s>
+<s> wont both work when both connected?  </s>
+<s> one must follow the ide &quot;rules&quot;.  </s>
+<s> if not, ide devices do not work together.  </s>
+<s> as to the dvd-r, not all drives read/play recorded media.  </s>
+<s> reasons abound, but the most usual is... the drive is getting old or had dust on the laser lens.  </s>
+<s> bob  </s>
+<s> the dvd is set to master and the cd is slave ( i have also tried the other way round) , the ide cable came with the dvd and was fine before.oddly when the cd was master and the dvd was slave the cd showed as a &quot;local disc&quot; in &quot;my computer&quot; and with a big red question mark on it  </s>
+<s> i found that when such don't play together, one of the drives has failed or just is incompatible with the other drive.  </s>
+<s> but a magic procedure i use is: 1. set drives to cable select.  </s>
+<s> 2. use a shiny new 80 conductor cable.  </s>
+<s> 3. update each cdrw and dvd drive firmware per the maker's instructions.  </s>
+<s> for me, this works well.  </s>
+<s> bob  </s>

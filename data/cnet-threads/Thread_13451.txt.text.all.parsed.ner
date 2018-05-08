@@ -1,0 +1,6 @@
+(TOP (S (NP (PRP$ my) (NNP xerox) (NN textronic) (CD 850) (NN phaser) (NN printer)) (VP (AUX is) (PP (IN on) (NP (NP (PRP it) (POS 's)) (JJ last) (NNS legs)))) (. .)) )
+(TOP (S (S (NP (PRP it)) (VP (AUX has) (VP (VBN served) (NP (PRP me)) (ADVP (RB well))))) (, ,) (CC but) (S (NP (PRP i)) (VP (AUX do) (RB n't) (VP (AUX need) (NP (DT a) (NN printer)) (PP (IN with) (NP (NP (DT a) (NN capacity)) (PP (IN of) (NP (NP (CD 500) (NNS copies)) (PP (IN per) (NP (NN month)))))))))) (. .)) )
+(TOP (NP (NP (DT any) (NNS recommendations)) (PP (IN on) (NP (NP (DT a) (JJ great) (NN color) (NN laser) (NN printer)) (PP (IN in) (NP (DT the) (money (ADJP ($ $) (CD 500-650)) (NN range)))))) (. ?)) )
+(TOP (S (NP (NNP konica) (NNS minolta)) (VP (VBP magicolor) (NP (QP (date (CD 2530)) (CD dl)) (NN laser) (NN printer) (NNP hewlett) (JJ packard) (JJ laserjet) (JJ 2605dn) (NN printer)) (NP (JJ good) (NN luck))) (. !)) )
+(TOP (S (RB just) (VP (VBD purchased) (NP (DT the) (NNP hp) (NN laserjet) (NNS 2025dn))) (. .)) )
+(TOP (S (S (NP (PRP it)) (VP (AUX is) (RB not) (ADJP (RB too) (JJ pricy)) (, ,) (ADVP (RB very) (RB fast)))) (CC and) (S (NP (DT the) (NN color) (NN quality)) (VP (AUX is) (ADJP (JJ excellent)))) (. .)) )

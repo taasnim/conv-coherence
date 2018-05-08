@@ -1,0 +1,44 @@
+<s> hi all, i'm building myself a new &quot;budget&quot; pc as the old p4 one is getting ancient now the components i selected are as follows: cpu : intel core 2 duo e7200 2,53ghz (1066mhz) 3mbl2 wolfdale lga775 - box vga : asus en8800gt/htdp/256mb or 8800gts (i'm still not sure but i'm probably getting the gt as its quite cheaper ) mb : gigabyte sc 775 ep45-ds3, intel p45 ram : dimm ddr2 2gb, 1066mhz, a-data, cl5-5-5-12 (kit 2x1gb) extreme edition hdd : wd caviar blue wd3200aaks 320gb, 16mb cache case : redstar happy16,400w,12cm fan questions: does this look like a nice &quot;ballanced&quot; pc build?  </s>
+<s> is it ok to buy a case from redstar? is 400watt psu enough to supply all the power even if i buy the gts video card?  </s>
+<s> note: i'll be running xp, i'll update to vista only when it's absolutely needed (i want to keep my xp as long as possible) thanks, j.m.  </s>
+<s> here's why.  </s>
+<s> i have an all too similar system that peaks out at 165 watts on the ac meter (i have a watt meter.) so that gives you a 50 percent load on the 400 watt psu.  </s>
+<s> if you load up the machine with much more i'd shop for a new psu if you ever suffer random reboots.  </s>
+<s> in closing ask the supplier that the motherboard be supplied with the current bios version f7 so you don't have to learn why.  </s>
+<s> bob  </s>
+<s> no-name power supplies usually can't handle the draw from a good video card.  </s>
+<s> look for a 450-500w from a brand like antec, cooler master, corsair, ocz or seasonic.  </s>
+<s> you should be able to find one for $45-$60usd.  </s>
+<s> to offset the extra cost of the power supply, stick with ddr2-800 cl4.  </s>
+<s> unless you plan on overclocking, there will be hardly any performance difference.  </s>
+<s> also, save a few dollars and stick with a gigabyte ep35-ds3 since the only significant difference between it and an ep45 is pci-express 2.0 slot (but pci-e 2.0 cards work fine in 1.0 slots). the bios is also more mature on the ep35.  </s>
+<s> the ep35 mainboard has the intel p35 chipset which is to my understanding inferior to p45.  </s>
+<s> to the psu, well the whole case is $60 including psu with 12cm fan, i dont want to spend another $60 on a psu if its not absolutely needed... what can happen if the power supply gets overpowered?  </s>
+<s> can this damage any of my components?  </s>
+<s> ok and last question, is there any noticable performance drop by running the ram on different clock than the cpu, or it does not care?  </s>
+<s> in my original configuration they both run @1066mhz.  </s>
+<s> thanks again, j.m.  </s>
+<s> saying the p35 is &quot;worse&quot; is like saying the '07 bmw 535i is worse than the '08 model.  </s>
+<s> the p35 is the most mature and stable chipset for core2duo/quad. the p45 adds pci-express 2.0 support and xmp profiles (only of benefit on ddr3 or while overclocking). if you want to build a budget pc that won't require a lot of fuss, a p35 based mobo is a solid choice.  </s>
+<s> if you want to help shake out the bugs/kinks in the bios of p45 based mobos (which only launched 45 days ago), then be my guest.  </s>
+<s> either will support any current/future core2duo/quad but neither will support bloomfield (nehalem).  </s>
+<s> quote: the new intel p45 express chipset has no evident advantages over its predecessors.  </s>
+<s> nevertheless, it is extremely interesting as a very new solution and for a number of objective reasons, such as the use of more advanced production process.  </s>
+<s> therefore, enthusiasts pin a lot of hopes on intel p45 expecting the boards on this new chipset to become one of the best overclocker platforms out there.  </s>
+<s> almost no performance difference between p45 and p35.  </s>
+<s> tagline: we look at four p45 motherboards built using intel's latest mainstream chipset.  </s>
+<s> some are still a work in progress.  </s>
+<s> as for the power supply, don't expect a $60 case+power supply combo to last powering an 8800gt.  </s>
+<s> that's a nice midrange board attached to cheapo power supply.  </s>
+<s> a bad power supply can cause strange, hard to pinpoint errors (random shutdowns, freezes, lines on the screen, etc.) and sometimes damage motherboards.  </s>
+<s> that's why i recommend you save $20 on your motherboard and another $25 on your memory -- the saving pay for a good power supply.  </s>
+<s> 1:1 memory ratios do perform the best, but the difference between ddr2-800 and ddr2-1066 is only noticeable in benchmarks. 2 fps difference in games that already running at 115+fps (&lt;2%):  </s>
+<s> hey thanks mate, you just saved me from paying extra money and getting nothing more!  </s>
+<s> what do you think about the p43 chipset?  </s>
+<s> so i decided to buy the psu separately, this is what i found for cheap: fortron 400w atx-400pnr 12v v2.0 (silent 120mm fan), do you think it's okay?  </s>
+<s> looks good, i too would recommend a heavier supply, preferably 500w or more, antec is good.  </s>
+<s> i would also probably stuff in another gb of ddr just in the event you might for some reason decide to go to vista.  </s>
+<s> for an 8800gt. the p43 is just as new as the p45 (it's the 'value'/low end model).  </s>
+<s> but if it's the same price as a p35 go for it.  </s>
+<s> remember that you *may* need to get one or two bios updates if run into problems.  </s>
+<s> btw, here's the link with benchmarks between ddr2-800 cl4 and ddr3-1066 cl5. it was chopped off of the other post.  </s>

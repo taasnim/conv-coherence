@@ -1,0 +1,5 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (DT a) (NN question))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX am) (VP (VBG thinking) (PP (IN of) (S (VP (VP (VBG getting) (NP (NP (DT a) (JJ new) (JJ ssd) (NN drive)) (CC and) (NP (NP (NNS windows)) (NP (CD 7))))) (, ,) (CC and) (VP (VBG using) (NP (NP (PRP$ my) (JJ old) (JJ hard) (NN drive)) (PP (IN for) (NP (JJ extra) (NN storage)))))))))) (. .)) )
+(TOP (SQ (SQ (AUX do) (NP (PRP i)) (VP (AUX need) (S (VP (TO to) (VP (VB reformat) (NP (PRP it)) (PP (IN before) (S (VP (VBG using) (NP (PRP it)) (PP (IN as) (NP (DT a) (JJ second) (NN drive))))))))))) (, ,) (CC or) (SQ (MD can) (NP (PRP it)) (VP (AUX be) (VP (VBD plugged) (PRT (RP in)) (PP (IN after) (NP (NP (DT the) (JJ new)) (VP (VB install) (PP (IN with) (NP (NP (NNS files)) (CC and) (NP (NP (DT the) (JJ old) (NN operating) (NN system)) (PP (ADVP (RB still)) (IN on) (NP (PRP it)))))))))))) (. ?)) )
+(TOP (NP (NNP yep) (. .)) )
+(TOP (S (ADVP (RB great)) (, ,) (NP (DT that)) (VP (MD will) (VP (VB make) (S (NP (PRP it)) (ADJP (ADJP (NP (DT a) (NN lot)) (JJR easier)) (SBAR (S (VP (TO to) (VP (VB reformat))))))))) (. .)) )

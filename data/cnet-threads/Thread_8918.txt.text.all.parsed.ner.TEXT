@@ -1,0 +1,45 @@
+<s> iomega prestige portable 500gb.  </s>
+<s> (ntfs) (has a lot of my data.  </s>
+<s> about 350gb) os: vista home premium 64-bit day 1: ext.hd lost detection after rebooting comp.  </s>
+<s> also freezes comp on plug in.  </s>
+<s> my computer froze (a separate issue) and i had to unplug the ext.hd.  </s>
+<s> after rebooting my comp (with system restore), it stopped detecting ext.hd.  </s>
+<s> as soon as i plug in the ext.hd, the comp freezes, and nothing shows up on my comp, disk management or disk devices.  </s>
+<s> i scanned just my comp for viruses (using avast 5, mbam, spybot) and it came out clean.  </s>
+<s> day 2: i plugged ext.hd to other pcs. the result was the same freezing and no detection.  </s>
+<s> also plugged it to a mac. it couldn't mount it and i was redirected to disk utility.  </s>
+<s> explainable, since ext.hd is ntfs.  </s>
+<s> day 3: my comp began detecting it, but can't access it.  </s>
+<s> getdataback (date recovery prog.) also froze.  </s>
+<s> i changed the drive letter and restarted.  </s>
+<s> then, it began showing up on device manager, disk manager, and my computer, but with just the name local disk d: .  </s>
+<s> when i try to open it through my computer i get prompted to format before i can use it.  </s>
+<s> when i try properties it freezes.  </s>
+<s> and yea, the correct drive size still shows on disk management.  </s>
+<s> so i downloaded getdataback, ran it, but it freezes while trying to detect the drive.  </s>
+<s> my guess is that the usb interface of the ext.hd is the fault.  </s>
+<s> but i may be wrong, and even if i'm not, i have no clue how to fix it.  </s>
+<s> i plan to try a system restart with ext.hd plugged on.  </s>
+<s> or even a system restore.  </s>
+<s> i also saw something about trying chdsk on other forums.  </s>
+<s> but i'm trying to be careful to avoid the overwriting the data permanently.  </s>
+<s> can chdsk overwrite my data?  </s>
+<s> please help as much as u can. it will be so appreciated  </s>
+<s> i carry a simple under 20 dollar cable to test if it's the usb part.  </s>
+<s> here's a link -&gt; however some don't think it's worth that much to try.  </s>
+<s> waiting to read what you think it's worth.  </s>
+<s> bob  </s>
+<s> i'll go buy right now, even though it's late  </s>
+<s> will system restart or restore with hd plugged in overwrite my data.  </s>
+<s> how about chdsk?  </s>
+<s> i wanna try those before i move on to any hardware solution.  </s>
+<s> will system restart or restore with hd plugged in overwrite my data.  </s>
+<s> how about chdsk?  </s>
+<s> i wanna try those before i move on to any hardware solution.  </s>
+<s> (i mis-posted earlier)  </s>
+<s> let's discuss what data recovery folk do.  </s>
+<s> they never operate on the original media.  </s>
+<s> we'll clone the drive and run chkdsk on the clone.  </s>
+<s> why this is done is usually obvious but do ask.  </s>
+<s> think about why medical students practice on cadavers.  </s>
+<s> bob  </s>

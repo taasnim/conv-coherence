@@ -1,0 +1,12 @@
+<s> how do i change partitions identified as d,e,f,g,h,j,k,etc; to one hard drive letter &quot;c&quot;?  </s>
+<s> my system says &quot;c&quot; drive is 98% full, but the partitons have plenty of memory.  </s>
+<s> other then a backup of your important files (which should already exist off the hard drive), then fdisk (win9x), and a reinstall of windows, your options are partition magic and others like it.  </s>
+<s> your programs and data to the other partitions, and then get the discipline to not install anything except op sys functions on the c drive.  </s>
+<s> most programs offer the ability to install to a location of your choice.  </s>
+<s> if you learn to use the option your problems will disappear.  </s>
+<s> barry, web site is a guide to partitioning. the number of partitions mentioned seems strange.  </s>
+<s> what are the sizes of the partitions?  </s>
+<s> as mention in the other posts cut/paste your files to the other partitions.  </s>
+<s> displine yourself to place files and downloads on any partition other than c. remember that h/d are prone to fail.  </s>
+<s> keep your data backed up.  </s>
+<s> bill .  </s>

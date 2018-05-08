@@ -1,0 +1,12 @@
+<s> i am trying to understand about ip addresses.  </s>
+<s> my understanding is that everyone has one if you are on the internet.  </s>
+<s> if i run belarc advisor, it reports these ip addresses: 1394 net adapter nvidia nforce networking controller primary auto ip address: 192.168.1.102 / 24  </s>
+<s> it appears you did this from your pc behind your router.  </s>
+<s> unless you pay for it you will only get a single ip from your isp. that is your 71.56.46.184 address.  </s>
+<s> since there is only 1 ip address the device you plug into the modem or other device the isp uses gets this ip. if you run without a router your pc will directly get the ip. when you use a router the router pretends all the machines at your location come from the same address.  </s>
+<s> in effect your machine has 2 addresses.  </s>
+<s> the 192.168.1.102 is your &quot;fake&quot; address.  </s>
+<s> these are actually called private addresses and are used to reduce the actual number of ip used.  </s>
+<s> bill102 said thoroughly just about all there is to be said.  </s>
+<s> but not that i'm adding to the topic at hand; i would take that private information off the web. it may open you up to spam or other personal privacy invasion.  </s>
+<s> just a little warning.  </s>

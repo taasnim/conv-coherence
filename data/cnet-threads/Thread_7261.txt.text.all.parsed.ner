@@ -1,0 +1,7 @@
+(TOP (S (NP (PRP$ my) (NN printer)) (VP (AUX has) (NP (JJ black) (NN ink)) (PP (IN on) (NP (NP (NN bottom)) (PP (IN of) (NP (NN printer)))))) (. .)) )
+(TOP (S (S (NP (PRP it)) (VP (AUX is) (PP (IN on) (NP (NP (DT the) (JJ right) (NN side)) (PP (IN of) (NP (FW printer.it))))))) (VP (AUX is) (ADJP (RB pretty) (JJ thick.should)) (S (NP (PRP i)) (VP (VBP try) (S (VP (TO to) (VP (VB clean) (NP (PRP it)) (PRT (RP up)))))))) (. ?)) )
+(TOP (NP (NNS thanks) (, ,) (NNP edward)) )
+(TOP (S (NP (PRP i)) (VP (VP (VBD put) (NP (DT a) (VBG shopping) (NN bag)) (PP (IN in) (NP (DT the) (JJ black) (NN office) (NN waste) (NN basket)))) (CC and) (RB then) (VP (VBD used) (NP (NNS tissues)) (S (VP (TO to) (VP (VB sop) (PRT (RP up)) (NP (DT the) (NN excess))))))) (. .)) )
+(TOP (S (PP (IN after) (NP (QP (RB about) (CD 15)) (NNS minutes))) (NP (PRP it)) (VP (VBD looked) (SBAR (IN better.) (S (NP (DT the) (NN printer)) (ADVP (RB still)) (VP (VBZ works) (ADJP (JJ fine)))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (NNS thanks)) (X (ADVP (RB again)) (NP (NNP bob) (, ,) (S (NP (PRP you)) (VP (AUX have) (VP (VBD helped) (NP (PRP me)) (ADVP (RB again)))) (. !))) (. !) (NP (NNP edward)))) )

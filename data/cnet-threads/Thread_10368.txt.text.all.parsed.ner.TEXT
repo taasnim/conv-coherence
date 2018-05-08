@@ -1,0 +1,9 @@
+<s> with everything removed except working memory (various sizes and combinations tried in a similar machine), internal video, mouse and kb i am getting a blinking #1 light (no memory detected) and solid 3 & 4 lights (memory detected but a fault was encountered).  </s>
+<s> anyone seen this or have a clue on what to do next?  </s>
+<s> im not sure what your problem is but, ram problem, board problem?  </s>
+<s> if you have another dell 5150 working, test ram there, if ok, then swap into problem system.  </s>
+<s> install the ram just the same way you had in the test system.  </s>
+<s> if the problem persists then you got a bad mtrbd.  </s>
+<s> or possibility bad psu. the odd chance you have a bad ram slot is also possible, maybe broken or bent seats, inspect well.  </s>
+<s> the blinking leds are suppose to a clue to the error/problem, what does dell supply?  </s>
+<s> tada -----willy  </s>

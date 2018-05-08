@@ -1,0 +1,23 @@
+<s> hope someone can help.. here is what i have windowsxp pro 2 gig memory msi motherboard intell pentium 4 1.) hard drive 200 gig with 2 partitions master (ide cable) (lets say c and d for lack of any other way to explain.) and not counting the cd drive as a &quot;partition&quot; but it is e on the &quot;cable&quot;(ide cable) select.  </s>
+<s> i didnt know if the cd would be counted as a partition, so if you count the cd as a partition would be 3 partitions.  </s>
+<s> 2.) hard drive 320 gig with 4 partions master (ide cable) f,g,h,i and not counting a cd drive as a &quot;partition&quot; but is the j on the cable (ide cable) select.  </s>
+<s> i didnt know if the cd would be counted as a partition so if you count the cd as a partition would be 5 partitions.  </s>
+<s> the reason i did this.. wanted to take everything off the 200 gig and wipe fresh.  </s>
+<s> wanted to have the 320 gig like f for operating system g for zipped and unzipped stuff h for music and i for swap (memory?) and after cleaning the 200 gig completely format/partition for extra storage or maybe dual boot (different operating system) this is what i am wanting.. 1 hard drive 200 gig with 2 partitions(master) and cd drive as slave 2 hard drive 320 gig with 4 partitions(master) and cd drive as slave when i boot up with the partition table boot disk.. i get the message.. partition 1 and partition 2 on hard disk 1 overlapping.  </s>
+<s> i have searched everywhere only to find nothing.  </s>
+<s> i need a soloution to this error.  </s>
+<s> only answer i can find is to wipe the drive.  </s>
+<s> how do i fix this without loosing my stuff?  </s>
+<s> hope i explained this so someone can understand.  </s>
+<s> thanks in advance!  </s>
+<s> i forgot to put that ntfs is what i have.  </s>
+<s> my only suggestion would be to attempt a repair on the partition table using a program such as diskpatch .  </s>
+<s> you may get lucky and be able to access most, if not all, of your data afterwards.  </s>
+<s> (be sure to indicate you want to restore all partitions.) before you do, though, it's advisable to clone the hard drive so that if something goes wrong you're not up a creek without a paddle.  </s>
+<s> best of luck.  </s>
+<s> john p.s. in response to your pm, cnet doesn't enable the editing of your own posts due to the potential for abuse of the feature.  </s>
+<s> how do you clone the hd. and with what program would you use?  </s>
+<s> can i compress the clone?  </s>
+<s> other wise i probably dont have the room:-(.  </s>
+<s> but will wait for your reply.  </s>
+<s> thanks so much  </s>

@@ -1,0 +1,19 @@
+<s> room mate just purchased a presario 502us laptop with a built in wlan nic with the broadcom chipset running vista basic home edition.  </s>
+<s> the wlan card recognizes various wireless networks in the immediate area.  </s>
+<s> i can connect to the router via cable through the ethernet nic.  </s>
+<s> i have several other computers currently active on the wireless network.  </s>
+<s> all the other systems are running xp pro sp2 i do not see my wireless network on the 502us even though i see other networks including one creatively named &quot;netgear&quot;. because the cg814wg is distributed to several isp's, netgear does not support the firmware and my isp has been little help since i couldn't get past tier one support.  </s>
+<s> anyone out there have any ideas i might try?  </s>
+<s> anyone else experience any issues with vista or broadcom chipsets and this particular modem/router?  </s>
+<s> thanks in advance for any help.  </s>
+<s> -rob  </s>
+<s> are owners that have wifi routers that connect to all machines but one.  </s>
+<s> it's hard for them to accept it when i reenable ssid broadcast, turn off wep/wpa and get it connected.  </s>
+<s> we then experiment to see what security does work.  </s>
+<s> we also test the laptop at hotspots if it doesn't connect.  </s>
+<s> if it doesn't at 2 hotspots and my laptop does then it's either a bum install of the os or dead hardware.  </s>
+<s> sometimes the owner didn't know to use the button on the laptop to turn the wifi on and off.  </s>
+<s> hope this helps.  </s>
+<s> bob  </s>
+<s> no other settings needed to be changed, just wasn't picking up the ssid until i reset the broadcast settings.  </s>
+<s> thanks for the reply, -rob  </s>

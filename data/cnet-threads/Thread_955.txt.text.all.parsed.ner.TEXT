@@ -1,0 +1,21 @@
+<s> i have a netgear router that was the gateway to a lan of three home pcs running windows xp sp2 pro on two and one home dition sp2.  </s>
+<s> i actually don't know what triggered it of but one morning the xp home computer with via rhine ii ethernet decided it would not reconnect to my lan.  </s>
+<s> i've tried every thing?? restored, given static ip, uninstalled and re-installed the hardware, updated drivers, run microsoft patches, changed from auto negotiate to 10t full duplex, pulled out my hair etc.. i can see my lan as connected, but can't connect to the internet.  </s>
+<s> i use my usb modem to connect now, which means the other two computers are off-line.  </s>
+<s> i've set up networks for small organizations previously, but i concede this time and need help.  </s>
+<s> i can't ping my router sometimes it actually doesn't time out on all requests and returns between 50 to 80% success.  </s>
+<s> if anyone out there can help i'd be grateful.  </s>
+<s> clean out all viruses and spyware.  </s>
+<s> test.  </s>
+<s> download and run winsockxpfix.exe  </s>
+<s> on that computer.  </s>
+<s> test.  </s>
+<s> try a different network cable.  </s>
+<s> try a different network adapter.  </s>
+<s> tried every thing but a new adapter!  </s>
+<s> was hoping i wouldnt have to replace this but i'm quite sure it would work if i did cos many people ok a few have had issues with the via rhine and say they could connect after reducing to 10 full duplex speed.  </s>
+<s> but sadly that didn't work for me either!  </s>
+<s> i do givw network support to a couple of small companies but this is the first time i have conceded defeat and opted to change a component! it wouldn't install clients and tcp ip version 6 either!  </s>
+<s> its how should i say... buggered!  </s>
+<s> we had five computers using that onboard card and i had to replace four of them because of connectivity problems.  </s>
+<s> as soon as the card were disabled and a new nic installed, the problems were gone.  </s>

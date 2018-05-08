@@ -1,0 +1,37 @@
+<s> hi, i have a few months old western digital wd1600aajs 160gb internal hdd.  </s>
+<s> sometimes when i power up my system and just when the hard drive spins up, i hear few(4-5) slight cliks from the hard drive.  </s>
+<s> after that everything works fine, no system lockups and no noises from the drive.  </s>
+<s> please let me know if this is normal for my drive?  </s>
+<s> why not use wd's smart test to see what shape it is in?  </s>
+<s> more at (see data lifeguard software) bob  </s>
+<s> hi, just backed up my data and ran wd diagnostics in windows.  </s>
+<s> in the quick test, just after a couple of seconds it showed a message &quot;too many bad sectors&quot;.  </s>
+<s> also, the hdd smart status showed a question mark.  </s>
+<s> i wasn't quite convinced with the result since my system has been working fine and many people have reported that the software can give wrong results if it is not able to get the smart status of the disk due to the inability of the onboard controller to return the smart status of the disk.. then i just downloaded the dos version of the program and installed it on a bootable floppy.  </s>
+<s> restarted the system and booted from floppy and ran the dos version of wd diagnostics.  </s>
+<s> to my surprise, the extended test showed that my hdd is fine and doesn't have any problems.  </s>
+<s> can you suggest any other utility that i can use to check my hdd?  </s>
+<s> but the lessons are clear.  </s>
+<s> we only lose what we don't backup. the issue with running the diagnostics in windows are well discussed which can point to issues with the machine such as bios, motherboard drivers but we are not discussing that yet.  </s>
+<s> bob  </s>
+<s> ok, but does the dos mode diagnostics result mean that my hd is fine?  </s>
+<s> that it's fine in dos and there is something going on with windows and that drive. it does not tell us what but when i see this i look at drivers, cables, power supplies and more.  </s>
+<s> here's the problem.  </s>
+<s> most owners are just owners.  </s>
+<s> most computer makers are just makers and issue no real diagnostics.  </s>
+<s> you've found an issue but let's see what you do next.  </s>
+<s> i dropped a few hints but can't start a conversation about the machine because i can't find what machine this is.  </s>
+<s> bob  </s>
+<s> i think i already have some idea why it doesn't work in windows.  </s>
+<s> i do not have the raid controller driver for my chipset installed on my system.  </s>
+<s> it is from via.  </s>
+<s> actually there is some problem as reported by many other users due to which the via raid controller driver for my chipset starts throwing bsods. the only workaround for the problem is, if you do not have a raid configuration then don't install the raid driver.  </s>
+<s> thats what i have done.  </s>
+<s> and that may be the reason why wd diagnostics doesn't work in windows.  </s>
+<s> but since my system is working fine, i really don't care about the raid driver.  </s>
+<s> by the dos diagnostics, i am atleast assured that my hd is fine.  </s>
+<s> not a great one but i'll take it.  </s>
+<s> one of the other moderators was having a similar raid issue and something they wrote had me remember a rather rare issue with some hard drives.  </s>
+<s> for them they found the firmware in the drive needed updating.  </s>
+<s> remember i don't have the full details to work with here but you are sharing some of the reasons we looked at the hdd firmware.  </s>
+<s> bob  </s>

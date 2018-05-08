@@ -1,0 +1,29 @@
+<s> greetings everyone, i just did a clean windows xp install on my laptop and i have run into problems setting up my wireless conection.  </s>
+<s> thing is, i cannot set up my wireless connection if my wireless (adapter?) cannot even turn on/off.  </s>
+<s> the only way i know how to do this is by pressing fn+f2 on my keyboard.  </s>
+<s> so if anyone knows another way to turn it on or off or what could be the problem of my keyboard's fn+f2 not functioning properly, any advice is greatly appreciated.  </s>
+<s> btw: the dimming of the monitor's brightness by pressing fn+f7 or fn+f8 work, so it is not the keyboard malfunctioning.  </s>
+<s> specs: gateway 7330gz windows xp sp2 pentium 4 3.20ghz 480mb of ram one more thing, the option to go to stand-by is grayed out on the &quot;turn off computer&quot; options and i cannot put my system to stand-by, any fix to this?  </s>
+<s> failing a hardware solution you should be able to disable wireless in the wireless adapter's own windows utilities or via windows networking.  </s>
+<s> may not achieve savings in power drain, though.  </s>
+<s> for the peripherals?  </s>
+<s> i've tried locating the drivers and on the gateway website i have downloaded 3 networking drivers, but none have really worked.  </s>
+<s> one did manage to turn the wireless radio on, yet the windows zero configuration (wzc) had a conflict searching for wireless networks because the broadcom driver was the one in charge of it, yet it's not searching for wireless networks, so it's just a mess.  </s>
+<s> i need to get that broadcom driver out, and try to install the original wireless radio, but i wouldn't know under what device it would be or how to locate the driver without access to the internet.  </s>
+<s> -&gt; while i do see the drivers i also see is the the pentium 4 laptops that we saw so much trouble with over the past few years.  </s>
+<s> these machines are favorites because they can rack up quite the repair bill.  </s>
+<s> why not cut your losses and install as a test this card?  </s>
+<s> -&gt; you can get that one new on amazon.com if you want but i've been using these on machines like yours after the owner has caved in and has finally admitted defeat.  </s>
+<s> i know some don't want to call it quits and i know better than to replace that internal card.  </s>
+<s> bob  </s>
+<s> yes that is my laptop and i have no resolved the issue.  </s>
+<s> it was a driver compatibility issue. the gateway website has 3 different drivers for the networking , but some conflict with the windows zero configuration.  </s>
+<s> i downloaded the 9528158 driver from gateway after uninstalling the broadcom driver.  </s>
+<s> i extracted the 9528158 driver using tugzip and once i was at the update driver at the device manager i followed the steps and looked into the 9528158 folder and clicked next but i got the message &quot;the wizard could not find the software on your computer for...&quot;... then i went ahead and re-installed the broadcom 802.11g network adapter from the folder titled &quot;bcm_rel_4_100_15_5_whql&quot; which most likely came from the driver titled &quot;bcm40100.exe  </s>
+<s> from the gateway drivers website - broadcom wireless driver version 4.100.15.5&quot; and my wireless radio worked and best of all without the broadcom software conflicting with windows zero configuration software.  </s>
+<s> once i had that working i went to control panel&gt;network and internet connections&gt;wireless network setup wizard&quot;&gt;setup a new wireless network&gt; followed the onscreen instructions and i connected to my wireless network.  </s>
+<s> and viola!! my wireless internet works now :]  </s>
+<s> hey everyone, i know this is an old thread (and an old laptop!) but i was wondering if anyone has been able to install vista or 7 (since they share the same driver foundation) on it?  </s>
+<s> are there any driver incompatibilities?  </s>
+<s> or missing drivers?  </s>
+<s> thanks.  </s>

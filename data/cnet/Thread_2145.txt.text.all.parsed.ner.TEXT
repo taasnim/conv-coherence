@@ -1,0 +1,100 @@
+<s> i just bought a new epson stylus photo r1800 and am trying to get it to run on my new pc with vista.  </s>
+<s> i have downloaded the newest vista (32) drivers from epson and all appears to have been installed correctly.  </s>
+<s> i have checked the system properties and it appears the usb is installed correctly as well (you can run this with a fire-wire, but i don't have a port on this machine).  </s>
+<s> i can print a test page from the printer only (unplugged from the computer), but there is no communication with the printer and the computer when they are connected with the usb cable.  </s>
+<s> i've made 3 calls to epson with no help.  </s>
+<s> they just say that the r1800 &quot;should work with vista.&quot;  </s>
+<s> sigh... i have done a system restore on my machine 3 times to remove the drivers.  </s>
+<s> you can't simply uninstall them, the system crashes (!!). i tried the printer out on my laptop with xp and it appears to run fine.  </s>
+<s> any thoughts, help, advice would be greatly appreciated.  </s>
+<s> i have spent about 10 hours on this and am starting to lose my mind.  </s>
+<s> and i haven't even tried to install my new epson v700 scanner yet! thanks, kalli  </s>
+<s> i run into this issue with owner install os's.  </s>
+<s> they forget motherboard drivers and more.  </s>
+<s> if you have some ready to use dell or such then my thought is to pack up the printer and return it as doa.  </s>
+<s> bob  </s>
+<s> check that your printer is set to use the usb port.  </s>
+<s> epson drivers under vista are crap at detecting the correct port, they tend to default to lpt ports.  </s>
+<s> go to control panel/printers right click on your epson printer icon select properties, then ports select usb.  </s>
+<s> hope this helps.  </s>
+<s> thanks for the replies bob and anmor.  </s>
+<s> i checked to verify that the printer was connected via a usb port again and came up with the same error i was getting yesterday: &quot;an error occurred during port configuration.  </s>
+<s> access is denied.&quot;  </s>
+<s> btw, this port is listed as a virtual port, the same as my other printer.  </s>
+<s> i told epson about this error but they had no clue about it. is that error familiar to anyone?  </s>
+<s> thanks again for taking the time to reply.  </s>
+<s> cheers - kalli  </s>
+<s> however i may have been too vague as to a comment i made.  </s>
+<s> so i'll be more blunt.  </s>
+<s> who installed this os? and are you logged in as administrator?  </s>
+<s> bob  </s>
+<s> hi bob - i just bought this system from dell (xps 410) in june.  </s>
+<s> i believe i am logged in as the admin.  </s>
+<s> i am the only one who uses the computer and i have to log in when it starts up.  </s>
+<s> i tried checking under administrative tools via the start menu, but it didn't give me any info.  </s>
+<s> about the administrator (which could be totally user error on my part, i am not familiar with admin.).  </s>
+<s> sorry i missed telling you all that before cheers - kalli  </s>
+<s> turn off uac.  </s>
+<s> bob  </s>
+<s> kallimo, i owned an espson stylus cx-5400 for my windows computer and cx-6600 for my mac. the cx-5400's printer head died.....according to all the complaints on the internet, this model was &quot;defective&quot;.  </s>
+<s> i returned it to epson and it was replaced by a stylus cx-6000 which is still (cross fingers) working but now the cx-6600 just died.  </s>
+<s> i don't know if this is due to the &quot;durabrite&quot; ink or not.  </s>
+<s> but, with epson, a new ink cartridge just contains ink.  </s>
+<s> with hp, for example, a new cartridge also includes new print heads.  </s>
+<s> if i didn't also own a canon printer, also, i would be out of luck.  </s>
+<s> hi bob - i went in and unchecked the uac and rebooted.  </s>
+<s> it didn't seem to make a difference.  </s>
+<s> when clicking configuration the printer's usb port i now get an error message that says: &quot;an error occurred during port configuration.  </s>
+<s> this operation is not supported.&quot; was there anything else you thought to do after disabling the uac?  </s>
+<s> thanks again for your time.  </s>
+<s> kalli  </s>
+<s> with uac you got &quot;access is denied.&quot; and now a new message.  </s>
+<s> uac was obviously screwing with it.  </s>
+<s> ok, next up?  </s>
+<s> uninstall it all and reinstall but without uac on.  </s>
+<s> bob  </s>
+<s> hi bob - again, thanks for walking me through this.  </s>
+<s> i am not familiar with peripheral/port/driver issues.  </s>
+<s> i tried reinstalling the drivers with the uac off, but the printer does not work and i get the same error message (operation is not supported).  </s>
+<s> i have a feeling this printer may be a very expensive dud.  </s>
+<s> i'll ship it back to amazon tomorrow.  </s>
+<s> thanks again for your help.  </s>
+<s> kalli  </s>
+<s> just like you read at this is not an epson only issue.  </s>
+<s> why would i need to configure the usb port?  </s>
+<s> that shouldn't need to be done here.  </s>
+<s> bob  </s>
+<s> hi bob- i do not have a wireless system, i am plugged in at the wall.  </s>
+<s> re: why did i click to configure in the first place...i checked that a few days ago when on the phone with epson.  </s>
+<s> it's the only thing that gives any type of feedback/message.  </s>
+<s> otherwise, it's as if the printer wasn't there.  </s>
+<s> nothing gets sent to the queue, etc. cheers - kalli  </s>
+<s> i have the same problem with my hp officejet 6213.  </s>
+<s> i've tried to set the printer to use the usb port, and it went well, but unfortunately it did not solve the problem.  </s>
+<s> as soon as i try to configure the usb port i get an error : an error occured during port configuration.  </s>
+<s> this operation is not supported.  </s>
+<s> with the other ports, i don't get this message.  </s>
+<s> i would guess this is usb, printer and vista specific?  </s>
+<s> dear kalli and bob.  </s>
+<s> i've followed your conversation.  </s>
+<s> this usb configuration problem with the printers and vista, is not an epson problem.i have exactly the same problem with a hp officejet on my vista laptop.  </s>
+<s> this must be a vista problem.  </s>
+<s> after all the research i've done, it looks more and more like a &quot;compatibility&quot; problem on vista's side.  </s>
+<s> and the vendors like hp, supply the correct driver versions for vista, but there must be a configuration or setting somewhere in vista that's causing the problem.  </s>
+<s> although i managed to install my r1800 on vista i cannot syncronise the colours visible on the screen with those printed - i tried to change gamma values etc, but still not satisfying.  </s>
+<s> only when i got back to my good old xp it worked fine again.  </s>
+<s> i had other compatibility problems with vista, for example my hp scanjet 5370c, hp can not be bothered to update driver for vista and advises to buy a new scanner instead.  </s>
+<s> however, they provide &quot;good new&quot; for my colour laserjet 4550n but after downloading and installing the driver the images are all very bad quality.  </s>
+<s> again, as soon as i installed it back on my xp computer it worked fine again.  </s>
+<s> similar with partition magic 8, simply doesn't work.  </s>
+<s> same with wincleaner 10, not working on vista.  </s>
+<s> all very disappointing and i feel totally ripped off.  </s>
+<s> i also purchased epson 1400 had it for 4months. the 1st one stop feeding the paper.  </s>
+<s> they sent me another one.  </s>
+<s> now i have a new one and this one wont print.  </s>
+<s> they sent me another and it still wont print.  </s>
+<s> ive also tried installing from epson updated version and i get nothing i have tried to get tech support from epson by trying everything they know how.  </s>
+<s> i have been on the phone with epson 5 days a week 3 hours at a time still my printer wont print.  </s>
+<s> i know what you feeling.  </s>
+<s> can anyone please help us, i'm losing it.  </s>
+<s> with some xp or other machine and have them try.  </s>

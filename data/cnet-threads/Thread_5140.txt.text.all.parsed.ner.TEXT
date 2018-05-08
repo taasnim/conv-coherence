@@ -1,0 +1,8 @@
+<s> i recently help a friend of mine to format and re-instal windows xp home edition to his dell dimension desktop.  </s>
+<s> on completion the pc is working perfectly but for one snag, his pc isn't recognising his connection, he has a cable/ethernet connection with blueyonder, his modem etc is connected but yet he can't seem to get online.  </s>
+<s> in his device manager, he has a yellow question mark where ethernet controller and pci modem are, is this the cause of it and what can be done to resolve this problem?  </s>
+<s> any advice regarding this matter will be greatly appreciated, as he is driving me mad with phonecalls every five minutes.  </s>
+<s> reinstall of xp is incomplete.  </s>
+<s> when device manager reports a disabled device, you likely have yet to install all the required drivers to make your pc functional.  </s>
+<s> you need to put the resource cd in the drive to install the chipset drivers.  </s>
+<s> great, that did the trick, i now have a happy friend thanks to your advice, thank you.  </s>

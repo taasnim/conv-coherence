@@ -1,0 +1,35 @@
+<s> total networking newbie here.  </s>
+<s> that aside; i have a my book 2tb world edition ii which i purchased for basically music, videos and pics only.  </s>
+<s> i purchased this one specifically as it said that it would stream videos to my ps3 (and i gotta smokin deal on it).  </s>
+<s> i've read that i'll need to format it to fat32 (whatever that is) for the ps3 to recognize it.  </s>
+<s> i also want to be able to stream stuff to my laptop wirelessly too.  </s>
+<s> i also don't have high speed internet as it's so expensive where i live (dsl and cable internet not available here) if that matters.  </s>
+<s> what i need is a good/fast router that won't bottleneck when i'm tryin to wirelessly stream to my ps3 (via dlna, whatever that is) and to my laptop.  </s>
+<s> it would also be nice, but not necessary, that it be easy to setup.  </s>
+<s> also, once the nas is set to fat32, will my laptop be able to read it too?  </s>
+<s> i basically am turning the nas into a media station for all my media needs; just accessed wirelessly....tips, tricks, tips??? oh yeah, the router will probably be in the same room as the ps3 and one room and wall away from my laptop....until we move, hahaha.  </s>
+<s> any opinions on good routers for this application?  </s>
+<s> anyone already doing this with their ps3???? laptop is an aspire 5315-2153 on vista basic intel celeron processor 530 1.73 ghz, 533 mhz, 1mb l2 cache up to 252mb mobile intel graphicsmedia accelerator x3100 1gb ddr2 802.11b/g wlan ps3 is 80gig fat nas is 2tb my book world edition ii  </s>
+<s> all the nas i used from my pcs or 360 didn't care what the underlying file system was. the file on the nas was sent over and the pc/360 just can't know if it's on a fat or other file system.  </s>
+<s> so if your unit is the unit at can you reveal why you would change the file system?  </s>
+<s> bob  </s>
+<s> yeah, that's the nas i'll be using.  </s>
+<s> i have to make it a fat32 as the ps3 won't recognize otherwise.  </s>
+<s> it kinda sucks though as i'll be limited to 4 gigs per file (at least that's what i read about fat32's).  </s>
+<s> i've heard of making usb drives fat32 but never when it was on a nas.  </s>
+<s> can you ask whoever is telling you this? something's not right.  </s>
+<s> bob  </s>
+<s> i read it over on some of the ps3 forums....maybe i'm mistaken; i'll have to search or post a question over there.  </s>
+<s> my brain is fried from hours of searching to make sure i get a good/the right router.  </s>
+<s> usb drive direct connect to ps3 = fat32.  </s>
+<s> nas drive over a network = you can use any file system.  </s>
+<s> hope that clears it up.  </s>
+<s> bob  </s>
+<s> ...now i just need to find a good/fast router that doesn't take a degree in computer science to setup, haha.  </s>
+<s> i have the usual netgear units like this wrn2000 and have some other 3500 i'll replace it with next month.  </s>
+<s> the trouble is here that i might know too much.  </s>
+<s> what can stop a person cold is not an issue for me.  </s>
+<s> if i see an option i may try it and learn from the experiences.  </s>
+<s> others want to read a document or a &quot;step by step.&quot;  </s>
+<s> i used that reset button on the router a few times as i tried it all.  </s>
+<s> bob  </s>

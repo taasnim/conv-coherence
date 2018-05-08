@@ -1,0 +1,26 @@
+<s> i work for a small company, and i'm trying to link the production area with our office, however there is a concrete wall with no wiring going through it, the dsl line we use is in the production area hooked up to a d-link wireless router (model di-624). the wireless router/access point in the office is a linksys (model befw11s4 v.2), is there a way to bridge these two routers, or do i need to purchase something else.  </s>
+<s> any advice would be helpful.  </s>
+<s> thank you  </s>
+<s> in the wall or go around it.  </s>
+<s> hi there.  </s>
+<s> if understand correct, you are trying to bridge two wlan in two rooms that was seperated by a thick concrete wall.  </s>
+<s> is that right?  </s>
+<s> if thats the case, don't worry there're many many ways to do that.  </s>
+<s> but the question is how good do you want the connection to be and how much you wanted to spend? the cheapest way is definitly to drill a hold and pull a network cable trough it.  </s>
+<s> but this is not a good idea if the wall is very thick or you can't drill because of some reasons.  </s>
+<s> another option is to use a wireless bridge.  </s>
+<s> both d-link and linksys have these kind of product.  </s>
+<s> what most wireless bridge that sell in the market does is that it receive wireless connection(wlan) on it's wireless interface, and connect to ethernet(lan) in it ethernet interface.  </s>
+<s> in other words, it bridge between wireless and wire.  </s>
+<s> nevertheless, there is another kind of wireless bridge which connect to wlan to gethwer but its hard ti find and very expensive.  </s>
+<s> judging from what you have, both of you access point are also routers.  </s>
+<s> i recommend that what you should do is 1) set the wlan channel of each room to be in a diffrent channel, etc one room channel 6 the other room channel 1 or 11. and set the ip address in each room to be in a diffrent subnet.  </s>
+<s> 2) install a wireless bridge on that concrete wall in the room with out dsl, and set it's wlan interface to use the wlan channel of the room with dsl.  </s>
+<s> 3) connect the wireless bridge's ethernet interface(lan) that room's access point's wan interface.  </s>
+<s> 4) i assume that both of your access point had enable dhcp server.  </s>
+<s> so the wiless bridge will act as a wireless client in one room and past the ip address to the wan port of the other room's access point which it would use the first room' access point as a gate way to the rest of the network.  </s>
+<s> this should work.  </s>
+<s> but if it doesn't or you want other alternatives, just e-mail me.  </s>
+<s> i'll be more than happy to help .  </s>
+<s> a free solution.  </s>
+<s> if the wireless network is only used as a link, and not for laoptops etc, set both routers to work in bridging mode (also shown as point to point) if they are in use, you need to use either briges or a second set of ap's.  </s>

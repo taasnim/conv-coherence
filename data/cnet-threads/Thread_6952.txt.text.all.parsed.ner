@@ -1,0 +1,7 @@
+(TOP (S (S (NP (NNP iam)) (VP (VBG receiving) (NP (NP (DT a) (NN message)) (SBAR (S (NP (NN -LSB-initialistion)) (VP (VBD failed))))))) (VP (MD could) (RB not) (VP (VB open) (NP (DT the) (JJ spool) (NN file) (NN -RSB-)))) (. .)) )
+(TOP (S (CC and) (NP (DT a) (NN message)) (NP (JJ -LSB-printer) (JJ idle) (NN -RSB-)) (S (NP (PRP i)) (VP (VP (VBD removed) (S (VP (VBG everthing) (S (VP (TO to) (VP (AUX do) (NP (NN wit)) (NP (DT the) (NNP epson) (JJ stylus) (NN color) (CD 800) (NN printer)))))))) (CC and) (VP (VBN reinstalled) (NP (PRP it)) (PP (IN from) (NP (NP (DT a) (NN cd)) (SBAR (WHNP (WDT that)) (S (VP (VBD came) (PP (IN with) (NP (DT the) (NN printer))))))))))) (CC and) (S (NP (PRP i)) (ADVP (RB still)) (VP (VBP get) (NP (DT the) (JJ same) (NN message.i))))) )
+(TOP (S (ADVP (RB really)) (VP (AUX need) (NP (NN help)) (, ,) (S (NP (NP (NNS thanks)) (ADVP (RB again))) (VP (ADVP (RB iam)) (VBG running) (NP (NNS windows)) (NP (CD 98)))))) )
+(TOP (S (NP (PRP i)) (VP (VBP pass) (PRT (RP up)) (PP (IN on) (NP (NP (NNS posts)) (PP (IN with) (NP (DT all) (NNS capitals) (CC and) (NN monolith) (NNS paragraphs)))))) (. .)) )
+(TOP (FRAG (RB much) (ADJP (RB too) (JJ hard) (SBAR (S (VP (TO to) (VP (VB dissect)))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (PRP i)) (VP (VBP want) (S (VP (TO to) (VP (VB thank) (NP (PRP you)) (PP (IN for) (NP (PRP$ your) (NN answer)))))))) )

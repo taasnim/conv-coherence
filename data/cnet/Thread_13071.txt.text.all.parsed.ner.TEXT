@@ -1,0 +1,23 @@
+<s> hey all, for a while i was using a logitech rx300 mouse for all my needs.  </s>
+<s> a rather simple piece of hardware but it had no bells and whistles attached, no fancy indentations or 20 programmable buttons.  </s>
+<s> eventually this mouse died on me, so i took this time to find an old favorite - a microsoft intellimouse explorer 3.0.  </s>
+<s> didn't find it, but i got a &quot;wheel mouse optical&quot; instead, which is essentially the same minus the side buttons.  </s>
+<s> as much as i loved mice from this family in the past, i forgot about their setting of 400 dpi.  </s>
+<s> my logitech mouse used 800, and i had all my applications' sensitivities set to accomodate that.  </s>
+<s> when i used the logitech mouse i kept my mouse sensitivity in the control panel (i did not install their drivers nor settings program) at the default, the sixth notch on the slider.  </s>
+<s> this mouse is slower, but bringing it to the seventh is too much.  </s>
+<s> i checked out the intellipoint program which came with the mouse, but apparently this model is so old that i can't do anything beyond reprogramming the buttons, whilst newer models apparently have more features in the program such as dpi changing.  </s>
+<s> any suggestions on how to bring this mouse up to 800 or compensate?  </s>
+<s> can i edit a hex string or something to attain a more specific mouse sensitivity setting in windows than the control panel allows?  </s>
+<s> thanks.  </s>
+<s> sorry if this thread is a tad long-winded, but i'm a perfectionist when it comes to my hardware's responsiveness.  </s>
+<s> :p  </s>
+<s> the mouse i use daily for hours is the logitech v450 nano.  </s>
+<s> i never installed it's drivers or software and have no complaints.  </s>
+<s> i also have the logitech lx8 and it seems nice enough.  </s>
+<s> same story.  </s>
+<s> never took the cd out of the box.  </s>
+<s> bob  </s>
+<s> i'm not really aiming for a mouse suggestion, though.  </s>
+<s> i'm curious as to if there's a way to get more precise settings out of the control panel's mouse options, like via hex editing or a registry entry.  </s>
+<s> use the msdn (microsoft) site and search for the published registry entries.  </s>

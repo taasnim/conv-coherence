@@ -1,0 +1,43 @@
+<s> i just bought a new 120 gig seagate harddrive, (it is the &quot;e:&quot; drive on my machine); and i transferred bunch of .wav and .mp3  </s>
+<s> files to it from c: drive.  </s>
+<s> when i play the files back, it's like i'm back in lp record land.  </s>
+<s> clicks and pops all over.  </s>
+<s> (the files sound fine when played off the c: drive.) anyone have any idea what is causing this? is this a defective drive?  </s>
+<s> i tried xferring files one at a time, no help - fj  </s>
+<s> this an 1800 amd chip system on an msi mobo running windows 2000. the c: drive is a 30 gb wd drive. the 120 gb e: drive in question is on the same cable as the c:, cable select jumpers, so it's the primary slave.  </s>
+<s> has a soundblaster live card, never had any problem with it before.  </s>
+<s> --fj  </s>
+<s> well these clicks and pops are all happening at the same time the &quot;hard drive read&quot; light flashes.  </s>
+<s> is this a dead drive?  </s>
+<s> i just bought it from tiger direct.  </s>
+<s> --fj  </s>
+<s> double click the controller for drive in device manager.  </s>
+<s> see if it shows under advanced settings that it is using ultra dma 5. if you forget to change the bios and set it to auto for a new drive it will work, but it will not work at the optimal speed.  </s>
+<s> in device manager, under ide ata/atapi controllers, clicking on properties/ advanced i see the c: drive is in ultra dma mode but for the new troublesome drive, the transfer mode says &quot;dma if available&quot; but the &quot;current transfer mode&quot; says pio mode.  </s>
+<s> -- what the heck is that?  </s>
+<s> ??? thanks for your help!  </s>
+<s> (i think everything was set to auto in the bios but i can check again) --fj  </s>
+<s> seagate support is sending me some diagnostics-- they think it's not the drive, they've never heard of this before.  </s>
+<s> will try a differnt cable!  </s>
+<s> - fj  </s>
+<s> one thing to check is that you don't have an irq conflict.  </s>
+<s> device manager, system, view by resource connection.  </s>
+<s> it could be each disk access is causing an interrupt on the same address as the sound card.  </s>
+<s> just my thought but i tend to make hard drives masters on each ide and let the less used devices be secondary.  </s>
+<s> well i put the drive on the secondary ide cable and all is fixed.  </s>
+<s> fyi pio mode is a really slow mode. .  </s>
+<s> .  </s>
+<s> probably caused by faulty cable.  </s>
+<s> time to get to microcenter!  </s>
+<s> - fj  </s>
+<s> try buying a new udma cable.  </s>
+<s> they're usually not that expensive.  </s>
+<s> search for some.  </s>
+<s> actually the pio mode is usually caused by not going into the bios and setting the drive to auto when you add a new drive to a system.  </s>
+<s> are you sure you did this when it was plugged into the other connector?  </s>
+<s> hmm, no i didn't, but i seem to recall it was set to that anyway when i looked-- is that not the default?  </s>
+<s> next restart i'll give it a look!  </s>
+<s> thanks - if that's the fix you'll save me buying a new cable --fj  </s>
+<s> well i set eveyrhting to auto in the bios and it still came up in pio mode-- i think it's the cable.  </s>
+<s> i hope it's not anything on the mobo!  </s>
+<s> - -fj  </s>

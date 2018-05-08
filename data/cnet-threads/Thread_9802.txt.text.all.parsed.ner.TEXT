@@ -1,0 +1,23 @@
+<s> i have a win2000 and win98 pc connected via netgear router.  </s>
+<s> i also connect to work network (from win2000 pc) via vpn.  </s>
+<s> it seems that i can only access the win98 pc (from win2000 pc) once i have made the vpn connection to work.  </s>
+<s> otherwise , no go.  </s>
+<s> and even after disconnecting from vpn , i can still access the win98.  </s>
+<s> tia for any suggestions allowing me to skip the vpn step.  </s>
+<s> the problem i see here is that your setup may not 'normal.' your it staff at work has it set just so and as such, i will not be privy to their setup variations.  </s>
+<s> what i may suggest may break the vpn so my best advice is to talk to your work's it staff about this.  </s>
+<s> bob  </s>
+<s> thanks for your reply bob.  </s>
+<s> while your suggestion makes sense, our it department's policy is not to get involved where it doesn't involve a connection to the company.  </s>
+<s> currently, i can successfully connect through vpn so there ends the extent of their responsibility.  </s>
+<s> my problem is making my home network work without vpn involvement.  </s>
+<s> if you do have any suggestions re. settings, i would treat them with care, carefully noting any previous settings that i may have had to change.  </s>
+<s> allowing me to be able to reinstate settings if neccessary .  </s>
+<s> thx.  </s>
+<s> again.....rs  </s>
+<s> trying to ping by address each which way, then use... command line tools to figure out what's up.  </s>
+<s> here's the commands i use when faced with such anomalies.  </s>
+<s> ping (put addresses in) tracert (to other address) ipconfig /all collect all that in the working and non-working modes and ponder what it reveals.  </s>
+<s> there is no click-here solution i know of and learning tcp/ip may be required.  </s>
+<s> web sites such as may be useful.  </s>
+<s> bob  </s>

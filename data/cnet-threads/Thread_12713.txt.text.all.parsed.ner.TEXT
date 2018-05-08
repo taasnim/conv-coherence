@@ -1,0 +1,6 @@
+<s> i purchased a 3.5 cosmos alum external usb enclosure and a seagate barracuda 160 gig hd. my pc (amd 64 3500+, 1g corsair, msi k8n neo4 board, 200 gig seagate internal, 256mb 6800 video,etc) sees the drive as usb mass storage device and even recognizes it as a st1600 drive but no true ''drive location'' is listed (i.e. ''g'' drive, etc..) and win explorer only lists my hd (&quot;c&quot;)and optical drives,(&quot;d & f&quot;) etc. i have configured the external drive as master which from reading is supposed to be correct.  </s>
+<s> i believe my problem is i have to format it... device manager sees this as usb device, etc.. what do i do to make this drive work??? i am using win xp pro, ntfs format.  </s>
+<s> help, phil  </s>
+<s> click start &gt; help & support type initialize new disks and press enter.  </s>
+<s> i have an external but it isn't set to master but, then again, it's a western digital caviar which shows to leave the jumper out if it is a single or master.  </s>
+<s> thanks! it's workin!  </s>

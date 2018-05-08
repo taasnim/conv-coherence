@@ -1,0 +1,33 @@
+<s> i have been using a netgear rangemax wpn824 wireless router for my home network for the past year or so.  </s>
+<s> we have 5 computers in our house, two wired desktops and 3 wireless laptops.  </s>
+<s> i also have a wired backup server and my son has xbox 360 connected (wired) to use the xbox live service.  </s>
+<s> at any given time, we may have a few more machines connected when visitors come through or my daughter is home from college.  </s>
+<s> aside from my son complaining about occasional lags with xbox games, the router seems to be able to manage the load reasonably well.  </s>
+<s> i recently purchased a new d-link dir-655 xtreme-n gigabit router after reading the reviews.  </s>
+<s> i was hoping to improve range and performance.  </s>
+<s> after connecting the router and starting with default settings for the most part, our connections kept randomly dropping.  </s>
+<s> so i called d-link tech support. the rep told me that home routers are not meant to support more than 5 connections at a time.  </s>
+<s> i was really taken by surprise by this.  </s>
+<s> my question now is... is that true across the board?  </s>
+<s> what are the practical expectations of routers used for home networks?  </s>
+<s> until you feel the shared connection is too slow.  </s>
+<s> for instance most routers support about 250 wired connections (that can be increased but let's talk near stock settings) and from 16 to 32 wifi connections all at the same time.  </s>
+<s> this is no issue save sharing the internet bandwidth here.  </s>
+<s> bob  </s>
+<s> ...using a broadband cable modem service, it should be able to manage 6-10 connections at a time, correct?  </s>
+<s> especially a draft-n router i presume.  </s>
+<s> my old 802.11b router could service over a dozen machines.  </s>
+<s> maybe more?  </s>
+<s> bob  </s>
+<s> mostly people who are hardcore gamers and have around 1-2 machines.  </s>
+<s> the tech support person probably did improvise though... eventurally firmware updates will fix the problem.  </s>
+<s> and don't try flashing over a wireless connection, only wired, or you'll brick your router.  </s>
+<s> i emphasize eventually.  </s>
+<s> one possibilty is that it cannot handle many global connections, as in total connections from the the outside world to your network.  </s>
+<s> my di-624 had a cap of 200; past that it would disconnect, so maybe someone is runing a p2p program like limewire, ares, bittorrent, or azureus.  </s>
+<s> this affects (somewhat) many routers, across brands.  </s>
+<s> also, it may have a problem with its upnp, like other d-link routers (like mine).  </s>
+<s> i go around that by using portforward.com and manually fixing the firewall.  </s>
+<s> some links that could help: (in case your upnp is faulty and you have to manually port forward) keyword:router--&gt;bittorrent client--routers known to have problems with bittorrent clients sorry the link to the place is huge and would take up the whole page.  </s>
+<s> should help a little bit.  </s>
+<s> gets updated.  </s>

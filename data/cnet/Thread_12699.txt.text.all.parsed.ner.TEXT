@@ -1,0 +1,236 @@
+<s> hi, i'm hoping someone can please get me out of a very frustrating situation !  </s>
+<s> i have an imac g3 500 mhz, which i recently upgraded from os 9.1 to 10.3 and then to 10.3.9, then installed os 9.2.2 running in classic.  </s>
+<s> all running fine.  </s>
+<s> i had earlier bought a (sound) 2nd hand lacie cdrw (&gt;18 mnths old, usb and fw) but it will only read pre-burned data cd's/play i-tunes, not write any disc in either of the os's.  </s>
+<s> toast 5.2.2 and 6.0.6 (with 'silverkeeper') are on a lacie software cd (also formatted to install other progs in windows pc's) but toast won't show up/load/install anywhere and it didn't do so before i upgraded to 10.3.  </s>
+<s> i've not tried firewire, just usb, because i don't have a 6 pin-to-6 pin fw cable. the lacie cdrw, incidentally, has lite-on innards and i've seen this mentioned elsewhere as a possible prob.  </s>
+<s> area).  </s>
+<s> i bought it because my imac's slot-loading matshita cdrw was becoming unreliable and couldn't do burns or sometimes even read pre-burned cd's.  </s>
+<s> os 9.2.2 firmware is fully updated (if that makes any difference).  </s>
+<s> disk utility shows only lacie cdrw but no blank media.  </s>
+<s> os x system profiler doesn't show it either !! i've tried lacie/roxio websites but can't get anywhere.  </s>
+<s> i don't want to buy an updated/new toast version in case that solves nothing. is the lacie software cd corrupted ?? i've checked in disk utility but any blank cd i install in the cdrw simply shows as read-only.  </s>
+<s> the main reason i bought cdrw rather than dvd/rw is because it was to be a temporary solution to upgrading to 10.3 from 9.1.  </s>
+<s> thanks in advance to anyone who can help solve this.  </s>
+<s> i have a lacie cdrw with lite on innards and have had no problem with it at all.  </s>
+<s> i connect mine using firewire and i suggest that you do the same.  </s>
+<s> firewire is the connection of choice for the mac.  </s>
+<s> when you say that toast 5.2.2 will not &quot;show up anywhere&quot;, what do you mean?  </s>
+<s> does the cd mount on the desktop?  </s>
+<s> can you find the toast installer?  </s>
+<s> according to the roxio website, 5.1 and above is required for 10.3 so you should have no problem there.  </s>
+<s> what happens when you put the cd in your imac?  </s>
+<s> you should see the cdrw in the system profiler.  </s>
+<s> it should be reported in the usb section and give you the manufacturer and its type.  </s>
+<s> if i understand you correctly, this device has never functioned as a cdrw, either in os 9 or os x. if this device is working correctly, when you insert a blank cd-r, the system should ask you what it is that you want to do.  </s>
+<s> get a firewire cable and go from there, but i would be concerned that this thing has never worked.  </s>
+<s> p  </s>
+<s> hi, since i've had this (3 weeks, 2nd hand), it has only read pre-burned cd's and any blank media inserted will not show on the desktop or in disk utility and burning is therefore not enabled. the lite-on cdrw shows up in left window of disk utility.  </s>
+<s> when i insert the lacie toast cd, it never shows anywhere - the device makes no sound, flashing light stops and it just sits there, doing nothing !  </s>
+<s> system profiler shows nothing - just the i-mac's matshita slot-load internal cdrw.  </s>
+<s> toast cannot be found anywhere on my system, simply because it's never been able to download from this lacie toast cd from the start.  </s>
+<s> last night i tried that cd in the matshita internal but it just 'whirred' and wouldn't open, then ejected it on each attempt(that's part of the original problem that led to me buying an external).  </s>
+<s> i don't have a 6 pin to 6 pin firewire cable (this cdrw needs that) and didn't get one in case that solved nothing.  </s>
+<s> i'm checking the cdrw on a friend's pc today (unfortunately not a mac) to make sure it's working fully and i'll post the result here.  </s>
+<s> all i have at the moment is read-only capabilities.  </s>
+<s> thanks for your advice - any further thoughts would be very appreciated.  </s>
+<s> i've had this cdrw working today, using usb, on a pc/windows xp pro, burnt a cd from photoshop and had no problems.  </s>
+<s> my os 10.3 doesn't see it as anything other than 'read only'.  </s>
+<s> interestingly, the lacie install cd (which has burn progs for windows on it too) wasn't recognised in windows, it didn't open, just as it doesn't on my mac (ie, for installing toast 5.2.2/6.0.6).  </s>
+<s> this lacie cd is totally dead.  </s>
+<s> would getting another toast cd of this or a later version sort out the problem on my mac ?  </s>
+<s> lite-on model no.  </s>
+<s> sohr 5238s usb + fw cheers  </s>
+<s> there's a recurring theme about this if you research it. the last cable i got was only 2 or 3 bucks from geeks.com.  </s>
+<s> if you have a fry's they may have it or newegg.com  </s>
+<s> bob  </s>
+<s> hi, thanks. the lacie software cd which came with the cdrw just doesn't work on any machine, i now see.  </s>
+<s> my only fire wire cable is 4 pin to 6 pin and this cdrw comes with a 6 pin socket, so i'd need 6 to 6 pin.  </s>
+<s> i'll try to get a cable that'll fit (not that cheap over here in the uk) but as the cd appears to be useless i'm not sure if that's the solution.  </s>
+<s> a new toast cd may solve the issue....? i'm beginning to think that this sohr 5238s model is better suited to pc's - i checked xlr8yourmac.com and it looks that way to me.  </s>
+<s> patchburn doesn't resolve the issue either.  </s>
+<s> did i mention, firewire.  </s>
+<s> ok, i went back and reread your original post.  </s>
+<s> i will accept that your roxio cd, the one with toast on it, is defective.  </s>
+<s> your mac is an older g3 imac and does not have usb 2.0 ports on it, only usb1.  </s>
+<s> this really is not fast enough to be burning cd's with, especially if the burner can burn at a decent speed.  </s>
+<s> there is also the possibility that the lite-on usb interface is not backwards compatible with usb1 and is therefore not recognised, as a burner, by your mac. this device will almost certainly work if you purchase a firewire cable for it.  </s>
+<s> again, firewire is the connection of choice with a mac.  </s>
+<s> if you purchased the device from someone who told you it was working with a mac, then they almost certainly had it connected with a firewire cable.  </s>
+<s> please, no waffle about firewire cables being expensive in the uk. check this out and tell me if you consider one penny to be expensive.  </s>
+<s> check out the online stores for other pricing.  </s>
+<s> p  </s>
+<s> in the usb section of system profiler of 10.3, it states lacie d2 drive usb2: manufacturer:  </s>
+<s> connect with firewire and retest.  </s>
+<s> i can only guess you haven't seen this firewire issue before.  </s>
+<s> bob  </s>
+<s> up to 12 mb/sec  </s>
+<s> thanks for your advice.  </s>
+<s> i'm getting a new toast 6 lite cd and a 6/6 pin fw cable to see if that does the job.  </s>
+<s> to be honest, having never found problems with usb before, i thought it was usb2, hadn't heard about usb1 until more recently.....learning curve !  </s>
+<s> i've only ever used fw for downloading video from a camcorder, with no probs.  </s>
+<s> when i have the 6/6 firewire cable and cd, i'll post my results.  </s>
+<s> thanks.  </s>
+<s> i have the firewire cable and i've bought a new, unused/sealed toast 6 lite cd but this doesn't seem to want to install - there is no instruction window opening to do the install.  </s>
+<s> pdf instructions do weird things too.  </s>
+<s> i don't get the toast folder on the desktop but the disk shows - when i copy the folders/contents from there to applications nothing happens when i double click that.  </s>
+<s> 10.2 and upwards is printed on the disk.  </s>
+<s> disk utility sees the cd and lacie burner.  </s>
+<s> is there a conflict here with the built-in matshita cdrw ?  </s>
+<s> this is getting more and more frustrating.  </s>
+<s> but let's rule if out anyway.  </s>
+<s> before we do that, let's try something, just for fits, grins and giggles.  </s>
+<s> go to the system preferences pane and open the cd &dvd pane.  </s>
+<s> in the section that says &quot;when i insert a blank cd&quot; choose &quot;ask me what to do&quot;.  </s>
+<s> close the system prefs.  </s>
+<s> reboot the mac with the firewire cable connected to both the mac and the lacie.  </s>
+<s> one rebooted, insert a blank cd-r into the lacie.  </s>
+<s> when the system asks you what you want to do, choose finder.  </s>
+<s> did the system ask what you wanted to do?  </s>
+<s> did the blank cd-r appear on the desktop?  </s>
+<s> if the answer to both is no, move on to the next section.  </s>
+<s> you may have a corrupt os, which can be fixed.  </s>
+<s> disconnect the firewire cable from the mac.  </s>
+<s> now the only things you have running will be the hardware that came with the mac.  </s>
+<s> (built-in).  </s>
+<s> reboot the mac.  </s>
+<s> insert the toast cd after the mac is booted.  </s>
+<s> it should mount on the desktop.  </s>
+<s> double click the disk to open it.  </s>
+<s> you should have a few icons that may, or may not, say &quot;drag to the applications folder&quot;.  </s>
+<s> do so.  </s>
+<s> did the finder give any indication that it was moving items from the cd to the applications folder?  </s>
+<s> if it did, go to the applications folder and find the toast folder.  </s>
+<s> open it. it should have the application inside it.  </s>
+<s> double click it.  </s>
+<s> what happened?  </s>
+<s> i don't think that the toast app has an actual installation program, at least not on the cd, it is just a drag and drop into the applications folder installer.  </s>
+<s> once you double click the actual program in the applications folder, toast sets a few things up, asks for a number and installs whatever extra comes with it.  </s>
+<s> define &quot;weird things&quot; in regards to the pdf instructions p  </s>
+<s> thanks.  </s>
+<s> i've followed your directions except for the one which involves removing fw cable and then inserting toast.  </s>
+<s> this is because my internal matshita cdrw would be the only way of inserting cd and it's simply unreliable - toast cd, like others, won't open in it (my reason for getting an external cdrw).  </s>
+<s> blank cd's don't show on desktop using lacie cdrw.  </s>
+<s> 'weird' pdf behaviour earlier involved 'broken' fonts/text, scattered around page, pages missing (which were there before) and freezing screen.  </s>
+<s> i haven't yet seen the command which asks me for the toast key code and the sealed envelope toast came in hasn't got a 17 digit code, as roxio state it should be - it's p/n 210100un rev d v6.0.9. the disk has an 18 digit code underneath, around its centre.  </s>
+<s> i bought this from usa ebay dealer who states it to be genuine, authentic, unused, sealed, etc. and will replace if necessary. the toast disk, when opened, contains a 'toaster' icon which does not open when double clicked - there's a short 'flash' of a small toaster icon but it does nothing else.  </s>
+<s> other folders are 1) documentation (pdf instructions, etc), 2) upgrade to 7 titanium which crashes toast completely if attempts are made to open this and 3) make copies using popcorn.  </s>
+<s> earlier, i dragged a copy of the disk to applications but this did no more than open a window showing the folders.  </s>
+<s> it does not launch or give options.  </s>
+<s> it's been suggested to me that toast 6 doesn't work with 10.3 and i should use 7. maybe 7 would work ok with the lacie ? is there a problem between the matshita cdrw and this cd ?  </s>
+<s> ok, now we get down to the nitty gritty.  </s>
+<s> i think you will need to reinstall the os and try again.  </s>
+<s> something in there is broken.  </s>
+<s> using the os x installation disk for 10.3, attempt to boot from it and reinstall the os using the archive and install option.  </s>
+<s> you will need to update from 10.3 to 10.9 on completion.  </s>
+<s> do you have the disks?  </s>
+<s> p  </s>
+<s> thanks for your further advice - i've updated to 10.3.9 already but i'll follow your suggestion and report back.  </s>
+<s> i really do hope this is the solution !  </s>
+<s> when you do the reinstall, choose the archive and install option.  </s>
+<s> if you do not do that, all your data will go away.  </s>
+<s> archive and install will preserve your data and put it back where it belongs on completion of the install.  </s>
+<s> i realize you are already at 10.3.9, that's why i said that you would have to update the os from 10.3 (which is the os that is on the installation disk) to 10.3.9 good luck.  </s>
+<s> p  </s>
+<s> understood, cheers.  </s>
+<s> i'd just like to check another issue before i do this, if that's ok.... i bought a 9.2 disk before 10.3 and updated to 9.2.2 via apple so that classic would function and it's been fine.  </s>
+<s> i can't start up from 9.2.2 independently (from cd or otherwise) and copied its system folder to desktop as a volume so that at least it was running in classic.  </s>
+<s> if i wish to use 9.2.2 independent of 10.3, would you suggest i partition them separately ?? when i do the re-install of 10.3 ?  </s>
+<s> i'm still rather 'attatched' to os 9 in some ways, even though 10.3 is a great 'breath of fresh air', excellent for graphics/illustration work (which i had been doing in 9 before).  </s>
+<s> what's your preferred choice re this, please ?  </s>
+<s> done the 10.3 reinstall (using the matshita internal cdrw) but no change - the toast icon still doesn't open when double-clicked on the cd or if copied onto my system !! it showed as an application icon (folder with 'a' motif) when i tried to open it but has since reverted back to the toaster icon after another attempt to open.  </s>
+<s> dodgy cd ?  </s>
+<s> there is no command requesting me to register/input key code, etc. really don't know what's going on here.  </s>
+<s> i bought this new disk from a guy in the usa (power seller) on ebay and i've written to him about it.  </s>
+<s> it all started with the lacie d2.....  </s>
+<s> or even a pc. why?  </s>
+<s> to test out if the lacie is working proper.  </s>
+<s> did we do this?  </s>
+<s> bob  </s>
+<s> it appears to work correctly when attached to a usb 2.0 port on the windows machine.  </s>
+<s> p  </s>
+<s> there is no need to partition the hard drive so that you can run classic.  </s>
+<s> system 9 (known as classic when it is running at the same time as os x) lives on the same drive as os x and does not need to be copied anywhere for it to work.  </s>
+<s> if you wish to use os 9.2.2 independently of os x, then just set the startup disk to system 9 and reboot.  </s>
+<s> to go back to os x, set the startup control panel back to os x. dragging the system folder onto the desktop does not create a volume, it is just another folder on the desktop.  </s>
+<s> p  </s>
+<s> the purpose behind the archive and install was to rule out the possibility that the os was corrupt.  </s>
+<s> if all went well, and the install was successful, the next thing to do would be to &quot;repair persmissions&quot; after that, the next step would be to insert a blank cd-r into the insternal cdrw drive and see what happens.  </s>
+<s> moving along, do the same with the firewire connected lacie drive.  </s>
+<s> after you have dragged toast to the application folder and double click it, do you get any form of bouncing icon in the dock, no matter how briefly?  </s>
+<s> on the subject of system 9. what is it that you still need to do in that system that you cannot do in os x? p  </s>
+<s> since install via archive/install, hd has reduced space by 4.5 gb. sysytem profiler states os 10.3 on partition 3, os 9.2 on part 2, but i didn't set any partitions.  </s>
+<s> safari 1.3.2 won't work - is still set as default browser but now i can't use the tool bar, type in text or access file, edit, etc commands, use apple menu when safari open, etc. i'm using ie 5.2 to send this mssge.  </s>
+<s> did repair permissions on x and all fine.  </s>
+<s> blank cd in matshita internal cdrw is spat out - won't work and in disk utility using lacie external, cd doesn't show on desktop or in disk util.  </s>
+<s> bouncing toast icon in dock - keeps bouncing but nothing opens !!  </s>
+<s> have you updated this system to 10.3.9 yet?  </s>
+<s> how big is the drive?  </s>
+<s> how many partitions are on it?  </s>
+<s> why?  </s>
+<s> if 10.3 is on partition 3, os 9.2 on partition 2, what is on partition 1 your hd will have decreased in size because you now have a previous systems folder on it.  </s>
+<s> this contains the old os that could have been corrupted.  </s>
+<s> i'm not sure i follow the disk utility thing every time you speak of the lacie.  </s>
+<s> what purpose is the disk utility supposed to serve?  </s>
+<s> does a disk, any disk, appear on the desktop when it is inserted into the lacie burner? the bouncing icon in the dock usually indicates that something is wrong with the permissions.  </s>
+<s> p  </s>
+<s> hard drive 40gb (non-mac - wdc type) and i didn't partition it but it may have been partitioned originally by previous owner.  </s>
+<s> it was given to me to increase from the original 20gb hd my i-mac had.  </s>
+<s> toast cd worked on a friend's 10.3 e-mac today - no problem but i'm now going to do a clean install of 10.3 as i've backed up all data on an external hd. preview was crashing on the archive/install i did 2 days ago.  </s>
+<s> only music cd's and pre-written data disks show on the computer when using the lacie.  </s>
+<s> i was using disk utility to see if there was any sign of blank cd's i'd inserted in lacie but not so.  </s>
+<s> thanks for your advice so far - i'll post once i've reinstalled and see what happens with lacie, toast, etc.  </s>
+<s> at the risk of taking over this forum, i'll let you know what i did next and what's happened .... decided to zero all data on 40gb hd, full re-install of 10.3 (3 disks), choosing option for os 9 drivers [os 9 not reinstalled on hd, therefore no classic].  </s>
+<s> updated to 10.3.9 via apple..... preview doesn't read toast lite cd's pdf manual - broken text has many diagonal/jagged lines running through it, some pages empty.  </s>
+<s> locks up when i try to open other pages of toast manual.  </s>
+<s> no change if i drag copy of toast to hd. have to force quit toast/finder.  </s>
+<s> toast icon won't launch from its window but disk shows on desktop/disk utility (using the lacie).  </s>
+<s> disk util - 1 toast volume failed verification - &quot;invalid key length&quot; (?? ref to the roxio key code ???) &quot;needs to be repaired&quot;.  </s>
+<s> x-tools cd - developer pkg launches then crashes immediately, whereas it opened before 10.3 re-install, installing all but two packages.  </s>
+<s> pdf's (in preview) are empty except for a couple of lines of text.  </s>
+<s> useless.  </s>
+<s> patchburn downloaded but doesn't support my lacie/liteon cdrw.  </s>
+<s> i consider buying the lacie a really bad mistake, getting toast too.... roxio support gives no clues but i've been told that toast 7 works with 10.3, whereas 6 apparently doesn't.  </s>
+<s> before i did the zero data, toast cd launched on a friends emac 10.3.  </s>
+<s> i don't have any other 10.3 compatible cd's to open in preview in order to check if there's a fault there.  </s>
+<s> disk util finds no problems with hd. any suggestions as to what's happening/what to do next would be greatly appreciated !  </s>
+<s> the lacie d2 has now worked, erased cd disks, burned data, etc via the toast 6 lite disk which has also done what it's supposed to.... i decided to try the lacie with the usb again, not the firewire cable and suddenly everything began to show up.  </s>
+<s> couldn't believe it. is it possible that there was a conflict with classic (not now installed) or was firewire 'too fast' for it all ?  </s>
+<s> even the lacie cd which came with the cdrw has opened toast on my mac but it wouldn't do anything before i zeroed hd/reinstalled 10.3 and updated to 10.3.9. apart from the odd freeze where toast only launched after a restart, it's perfect.  </s>
+<s> thanks for the advice given.  </s>
+<s> what a journey.  </s>
+<s> i don't know why this one was so tough to solve.  </s>
+<s> i usually give the nod to the usual items but in your situation it didn't pan out.  </s>
+<s> i can only think of what marvin the martian had to say about computers when this happens.  </s>
+<s> bob  </s>
+<s> i can't even begin to speculate as to what the problem was. it seems unlikely that there would be a conflict, of some sort, with classic as your device should work under os 9 as well as os x. it &quot;might&quot; be interesting to see if the firewire connection now works also, but, it may also be better to let sleeping dogs lie.  </s>
+<s> glad you have a working burner at last, merry christmas.  </s>
+<s> p  </s>
+<s> yes, it's been quite a journey but i'm far more aware of how it all works now - took my imac a little for granted (it had worked so well) until this happened.  </s>
+<s> i may try the firewire to see what happens... thanks for the various bits of advice and best wishes for 2007 to all of you - good to know there are people who share their knowledge/expertise so readily.  </s>
+<s> hopefully i can offer some help of my own to someone at some point.  </s>
+<s> how did you install os 10.3.9? when i tried to install it on my 350mhz imac g3 it said this upgrade is not available on this computer or something like that.  </s>
+<s> can you only do it with an emac installation cd or what?  </s>
+<s> because, i tried it on mine and it didn't work.  </s>
+<s> to install 10.3.9 you must first install 10.3.0. the combination updates that you find on the apple site are a collection of all the updates between 10.3.0 and 10.3.9 you did not mention what os you are currently using on your emac but usually that error message is the result of not having the base os to update from.  </s>
+<s> click on the apple, top left of the screen, choose about this mac and see what your base os is.  </s>
+<s> let us know p  </s>
+<s> my base os is 9.2.2. do i have have to install 10.3.0 or can i update from 9.2.2 to 10.3.0?  </s>
+<s> before you can update to 10.3.9 you must have, at least, os x 10.3.0 installed.  </s>
+<s> what type of mac are you currently running?  </s>
+<s> does it have a dvd player?  </s>
+<s> does it have firewire capabilities?  </s>
+<s> post a few more details here and we can start from there.  </s>
+<s> p  </s>
+<s> it does not have a dvd player and is does not have firewire.  </s>
+<s> its a 350mhz imac g3.  </s>
+<s> without a dvd player and with no firewire, your machine is not the best choice for upgrading to os x. the 10.3 comes on dvd, but might still be available on ebay.  </s>
+<s> memory requirements for 10.3 is 128mb ram, minimum.  </s>
+<s> p  </s>
+<s> ok, i just want to upgrade to use the new programs.  </s>
+<s> and i have 364mb ram.  </s>
+<s> so all i have to do now is install from a cd? i have a 10.4 installer cd. can i use that?  </s>
+<s> for os x 10.4 includes the need for built in firewire, you say your machine does not have firewire.  </s>
+<s> os x 10.4 comes on a dvd, not a cd, and you say your machine does not have one.  </s>
+<s> you will find that running 10.4.x on that machine will be pushing the edge of the envelope, assuming you can get it to install.  </s>
+<s> p  </s>

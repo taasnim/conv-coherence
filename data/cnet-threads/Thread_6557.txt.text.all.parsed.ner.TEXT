@@ -1,0 +1,10 @@
+<s> i recently got a new (old) computer hp vectra 900+ mhtz with windows xp pro loaded on it.it works fine with the existing dsl modem. the other computer is a 7 year old compaq 350 mhtz with windows 98 on it with all the updates installed.  </s>
+<s> it works fine with the same dsl modem... ok i got a &quot;3com officeconnect&quot; hub off ebay for $10...it is the fast ethernet 100base-tx hub (tp800 unmanaged 8 port 100base- tx hub 3c16722 3com#)the hp plugged in to the hub and started working but the compaq did not... no lights light on the hub with the compaq but the hp lights up on the hub and works, nothing on the compaq works through the hub... the compaq has a pci fast ethernet(dec based 21143) nic that came with the computer when new..it is not a plug in card (it is on the motherboard)i want to share the dsl line with both systems so i can use mine when my 13 yr.  </s>
+<s> old is on aim or elsewhere...please help ...david  </s>
+<s> working status of the nic.  </s>
+<s> device manager is the first place i would look for any troubles.  </s>
+<s> michael: both computers work ok by their selves with the dsl modem only, but the older compaq does not work thru the hub , the hp works ok thru the hub...  </s>
+<s> i know that some cable modems can act as routers and distribute ip addresses, but i do not know if the same is true of dsl modems, in which case a connection to more than one computer via a hub would be impossible becuase both computers would try to use the same ip address.  </s>
+<s> that being said, does the other computer work if the only things connected to the hub are it and the modem?  </s>
+<s> if so, scrap the hub and get a router. the deal is, dsl requires a pppoe connection that has to be initialized, a router can intialize this connection permanently when configured to do so through its wan port.  </s>
+<s> hubs, in short, have no such capability and would be a poor choice in this instance.  </s>

@@ -1,0 +1,9 @@
+<s> hi, i was able to port forward for a long time until i got a new modem from comcast.  </s>
+<s> i never had to mess with the router settings until i recently found out that i couldn't port forward any more.  </s>
+<s> when i try port forwarding on the router website(10.0.0.1), i get an error message that states&quot;server ip address isn't in lan ip address subnet!&quot; what i enter: common services: other other service: minecraft server type:tcp/udp server ip address: 192 168 1 13 (my ipv4 address) starting port: 25565 ending port: 25565 any help would be appreciated!  </s>
+<s> thanks  </s>
+<s> it should not work.  </s>
+<s> i fear you have not read enough about ip networking but change your server at 192.168.1.13 to something in the 10.0.0.x range.  </s>
+<s> maybe x is 13?  </s>
+<s> 10.0.0.x is your lan.  </s>
+<s> 192.x.x.x is not.  </s>

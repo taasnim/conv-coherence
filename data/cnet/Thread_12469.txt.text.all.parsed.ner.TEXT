@@ -1,0 +1,19 @@
+<s> i have a ethernet enabled device that i would like to connect to my wireless network.  </s>
+<s> i cannot add a wireless nic to this device (e.g. pci, pcmcia, usb, etc), so i purchased a wireless bridge (morotola we800g).  </s>
+<s> i configured this from a laptop and then connected it to the device. the device can connect to other devices on my network, but nothing on the network can connect to the device behind the bridge.  </s>
+<s> i tested this with two laptops.  </s>
+<s> laptop a connected to network with either builtin wireless, or wired directly to router (3com officeconnect adsl firewall wireless router - 3crwdr100a-72), and laptop b connected to the bridge.  </s>
+<s> b can connect fine to a (e.g. ping, ftp, etc), but a cannot connect to b. sometimes when doing a &quot;ping -t&quot;, i might get 1 response in 10, but generally i get timeouts.  </s>
+<s> i found some comments on web of similar problems with the we800g, so i got a netgear wge101 bridge, but i'm having same problems with that one.  </s>
+<s> neither of the laptops have a firewall running, and i've also tried turning off the wep encryption on the network.  </s>
+<s> also, two laptops on the network (one with builtin wireless, and one with pcmcia wireless card) can connect to each other fine.  </s>
+<s> one other point to note: when using the motorola bridge, only the computer behind it turns up on the network (as reported by the assigned ip list in the router), but when using the netgear, both the bridge and the computer get assigned ips.  </s>
+<s> anyone have any idea?  </s>
+<s> thanks.  </s>
+<s> maybe your ''ethernet enabled device '' is broken..  </s>
+<s> i know this is pretty obvious but have you tried a cross over ethernet cable?  </s>
+<s> when i found that it didnt work on the ethernet enabled device, i tried a number of differnet setups using two laptops.  </s>
+<s> do you mean from device to bridge, or just connecting a computer to the device using a crossover cable?  </s>
+<s> with the first bridge (motorola we800g), i got it second hand and there was no cable with it, i've mostly been using a standard patch cable, but tried once or twice with a crossover cable (but have not tested this extensively).  </s>
+<s> with the second bridge (netgear wge101), i've been using the cable provided with it.  </s>
+<s> if you mean connecting a computer to the device with a crossover cable: that's what i have been doing to transfer stuff to / from it (and works fine), but for convenience i would like to simply have it on the wireless network.  </s>

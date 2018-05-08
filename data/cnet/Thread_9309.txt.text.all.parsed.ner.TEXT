@@ -1,0 +1,31 @@
+<s> since a few days, home and end keys don't work.  </s>
+<s> if, for example, i'd want to go to the beginning of this post, i'd have to use cursor keys or the mouse, too bad.  </s>
+<s> i can't figure out why is this happening.  </s>
+<s> i have winxp with service pack 2. any idea?  </s>
+<s> happened after sp2?  </s>
+<s> (clue) or a &quot;keylogger&quot; virus?  </s>
+<s> if you bring up word or wordpad and type in a few words and hit home or end do you have the same problem.  </s>
+<s> do you have the same problem with both sets of home/end keys.  </s>
+<s> can you try a different keyboard?  </s>
+<s> yes, the problem is the same in any program i try.  </s>
+<s> both sets of home/end keys?  </s>
+<s> do you mean repag/avpag?  </s>
+<s> if so, they work ok.  </s>
+<s> i could buy a different keyboard, but i don't think that's the problem.  </s>
+<s> all other keys work perfectly, and these two ones have ceased to work at the same time.  </s>
+<s> curious...  </s>
+<s> i can't remember exactly if it happened a little after or a little before installing sp2.  </s>
+<s> i'm sure it didn't happen just after sp2.  </s>
+<s> i'll pass spybot to see if it's a keylogger.  </s>
+<s> no keylogger found, i was wondering, could it be the generic driver that windows uses for this keyboard is not correct? the keyboard has 105 keys.  </s>
+<s> every standard keyboard has 2 home and 2 end keys.  </s>
+<s> one set on the number pad and the other between it and the keyboard off.  </s>
+<s> do both sets fail to work?  </s>
+<s> go to housecall.antivirus.com and run a virus check to see if you have a worm.  </s>
+<s> can you believe i never noticed that!!! i always used the set between the numpad and the rest of the keyboard.  </s>
+<s> those are the ones that don't work. the ones in the numpad (7 and 1) work ok.  </s>
+<s> i'll run that virus check right now (anyway i have kaspersky running as resident).  </s>
+<s> is set up automatically on at boot.  </s>
+<s> this can be changed in &quot;setup&quot; (bios).  </s>
+<s> may be the reason num pad works and other keys don't.  </s>
+<s> per session, without bios change, you can toggle the num lock on-off.  </s>

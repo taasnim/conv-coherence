@@ -1,0 +1,4 @@
+(TOP (S (PP (IN in) (NP (NP (NN device) (NN manager)) (PP (IN under) (NP (NNS processors))))) (NP (EX there)) (VP (AUX are) (NP (CD 2) (NNS entries)) (PP (IN for) (NP (NP (NNP intel) (PRN (-LRB- -LRB-) (NN r) (-RRB- -RRB-)) (NN pentium)) (PRN (-LRB- -LRB-) (NN r) (-RRB- -RRB-)) (NP (QP (CD 4) (CD cpu)) (NNS 3.60ghz))))) (. .)) )
+(TOP (SBARQ (WHADVP (WRB why)) (SQ (AUX is) (RB n't) (NP (RB there) (QP (RB just) (CD one)))) (. ?)) )
+(TOP (S (NP (NP (NNS p4)) (ADJP (JJ cpus) (PP (IN with) (NP (JJ hyper-threading) (NN technology))))) (VP (VBP appear) (PP (IN as) (NP (CD two) (NNS cpus)))) (. .)) )
+(TOP (S (. .)) )

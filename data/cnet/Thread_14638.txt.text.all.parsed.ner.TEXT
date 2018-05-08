@@ -1,0 +1,22 @@
+<s> i have a dell dimension 8200 and am looking into the best way to back up my system.  </s>
+<s> since my memory is not the best, i would like to be able to set this up with the minimal effort.  </s>
+<s> i need this to mainly back up business data, but the holiday snaps might be a good idea too.  </s>
+<s> i've been looking into a number of things, thinking that a raid 1 solution would be the best, mirroring all the data i have.  </s>
+<s> i'd looked at the western digital pro/premium ii, nas devices, external sata drives , people at work mention that all i would need to do would be to add a hard drive to my machine and do either software raid or if the machine supports it hardware raid.  </s>
+<s> i'm just wondering what the best solution would be, if there is any special software that i should be using.  </s>
+<s> willing to spend up to $600 to get this in place and would like the solution to not effect the performance of it too much.  </s>
+<s> any help would be gratefully received.  </s>
+<s> cheers, stuart  </s>
+<s> if you restart your computer everytime you use it, you can write a 'batch file' that is placed in your startup folder that can copy data from one drive to another.  </s>
+<s> that other folder could be another computer accessed through a network.  </s>
+<s> i don't have that great of memory, but i get by through using a dvd burner every month.  </s>
+<s> thats all i need becuase my data doesnt change dramitically every few days.  </s>
+<s> a raid 1 will only help if your computer crashes becuase of bit rot, or a defective drive.  </s>
+<s> usually data is lost becuase of user error, an incomplete backup before an os reinstall.  </s>
+<s> you want a backup solution that is out of the case of your computer and most preferably off the same fuse (in case of electrical surge).  </s>
+<s> good luck finding an easy way to backup data.  </s>
+<s> unless you're running xp pro, you won't have a software raid option.  </s>
+<s> software raid will affect performance but if you're main concern is 'backup' (rather than fault-tolerance) then raid is overkill.  </s>
+<s> a backup solution will protect your data and allow you restore old items... raid will not help you if you delete something and find you need it a few days or few months later.  </s>
+<s> the maxtor one-touch and western digital mybook both come with automatic backup software for far less than $600.  </s>
+<s> maxtor onetouch 3, 300gb, $155: wd mybook premium, 250gb, $135:  </s>

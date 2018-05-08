@@ -1,0 +1,25 @@
+<s> a few days ago i posted about the malfunction of both my cdr and dvd drives.  </s>
+<s> it turned out to be a problem in the registry caused by adaptec easy cd creator.  </s>
+<s> i found the solution (thanks again bob) and then both drives worked fine- until i installed the update to the adaptec program so it would recognize my cdr again.  </s>
+<s> okay, so now the cdr works, but the dvd doesn't.  </s>
+<s> i'm not even getting an error code- the dvd drive doesn't show at all in hardware manager.  </s>
+<s> i tried the hardware install wizard- nothing.  </s>
+<s> i tried the same regedit that worked before- nothing.  </s>
+<s> i just watched a movie on the thing, i'm pretty sure its not broken.  </s>
+<s> it is a one year old sony.  </s>
+<s> any ideas?  </s>
+<s> that's a possible clue.  </s>
+<s> i haven't put any adaptec software in machines for about 5 years.  </s>
+<s> tell more and if the dvd shows up in the bios.  </s>
+<s> bob  </s>
+<s> musta been gremlins.  </s>
+<s> i did nothing to the pc except turn it off for the night...i just turned it on for the first time and the dvd player is working despite being identified as a cd drive in my computer.  </s>
+<s> the misbehavior of the dvd drive persisted through many reboots, maybe it just needed a goodnights rest.  </s>
+<s> i wish everything would fix itself.  </s>
+<s> bob- you mentioned that adaptect software may be a problem.  </s>
+<s> i know you can't advertise here, but is there a program you would recommend?  </s>
+<s> there are a few noteable free cd recording freebies out there.  </s>
+<s> today i use and it's very usable without being locked to the cdrw make/model.  </s>
+<s> nero is nice too.  </s>
+<s> on linux, it's k3b.  </s>
+<s> bob  </s>

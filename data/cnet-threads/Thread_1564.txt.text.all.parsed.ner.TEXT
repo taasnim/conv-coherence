@@ -1,0 +1,25 @@
+<s> i bought a maxtor 250gb sata-150 as a second drive for video editing.  </s>
+<s> my system currently has a 160gb pata-100 hard drive.  </s>
+<s> my motherboard is a ms-7093. the instructions say i need to make sure the sata port is enabled.  </s>
+<s> i was in the bios and saw nothing about sata.  </s>
+<s> integrated periferals says a lot about ide.  </s>
+<s> any ideas on how i can enable my sata port.  </s>
+<s> emachines t6212 windows xp sp2 (up to date) it was made week 9 of 2005  </s>
+<s> they may customise the bios to keep owners from setting items they can't support or other.  </s>
+<s> so the list is short.  </s>
+<s> 1. see if there is a newer bios.  </s>
+<s> 2. install a pci sata card (they are cheap on newegg.com and geeks.com)  </s>
+<s> bob  </s>
+<s> ...when upgrading emachines computers: (pretty sparse with respect to upgrade info and downloads; nevertheless, i'd look here first.) (lots of info, motherboard manuals, links, downloads, and upgrade experiences)  </s>
+<s> the second link were very helpful.  </s>
+<s> i found this &quot;the mainboard bios provides &quot;plug & play&quot; bios which detects the peripheral devices and expansion cards of the board automatically.&quot;  </s>
+<s> and &quot;no bios upgrade was needed to detect the sata hdd&quot; so i should be set.  </s>
+<s> that some companies do that.  </s>
+<s> in the bios, i did see some stuff set to &quot;auto&quot; so we'll see.  </s>
+<s> the maxblast program that came with it did the rest.  </s>
+<s> it changed something in the registry to enable drives greater than 137 gb. i un installed studio9 and tried to reinstall it on the new drive.  </s>
+<s> &quot;drv1_vol1(k:)&quot; it told me i could not install in that drive so i had to reinstall in drive c:. i had some video on k: and tried to defragment it.  </s>
+<s> i clicked &quot;defragment&quot; and the drive started clicking.  </s>
+<s> after about 15 min it was still at 3% complete so i tried to stop the defrag and my computer froze.  </s>
+<s> anyone have an idea as to why i can't put pinnacle studio9 on the new drive and why the defragment doesn't work on the new drive?  </s>
+<s> i have a feeling the defrag doesn't work because the capturing program is on a different drive.  </s>

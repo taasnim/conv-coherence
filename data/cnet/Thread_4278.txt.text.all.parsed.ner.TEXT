@@ -1,0 +1,6 @@
+<s> i bought a kids pc game - madagascar 2 - for my nephew for christmas, but he cannot use it as his pc does not have enough graphics processing horsepower. the web site of the games software company, activision, advises that the minimum graphics card spec required is &quot;3d hardware accelerator card required - 100% directx 9.0c-compliant 128 mb video card and drivers / nvidia geforce fx 6600 128 mb ram and better chipsets / ati radeon x1300 128 mb ram and better chipsets&quot;. the board on the dell pc only has pci (not pci express) slots available.  </s>
+<s> are there cards with pci interface on the market that meet the minimum spec required?  </s>
+<s> x1300 pci review: dell:  </s>
+<s> try evga.  </s>
+<s> they have some nice pci cards and cheap as well.  </s>
+<s> if the card supports directx 10, it will by default play directx9.  </s>

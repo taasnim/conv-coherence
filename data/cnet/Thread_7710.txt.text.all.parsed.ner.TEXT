@@ -1,0 +1,14 @@
+<s> hi all, this i my first post as i have only just joined.  </s>
+<s> i am currently studying for my network plus and am just starting to get to grips with subnetting.  </s>
+<s> i have been practising using class c addresses and thought all was going well until i tried with class a and class b. the problem i have (and i am sure it is pretty basic, but i am struggling a little) is once an octet gets to 255 is the next step 1 or 0 and how does it effect the previous octet?  </s>
+<s> for example if i have a class b ip address of 172.24.140.254, how would this increment one step at a time?  </s>
+<s> would the next step be 172.24.140.255, or 172.24.141.0 or 172.24.141.1.  </s>
+<s> i am guessing the three of those suggestions are incorrect.  </s>
+<s> if somebody could give me the next three or four steps from 172.24.140.254 it would clear it up for me.  </s>
+<s> thanks in advance, and sorry if it is a basic question.  </s>
+<s> pete  </s>
+<s> so you get on the internet or read the books.  </s>
+<s> you might want to try some ip calculator too.  </s>
+<s> this question is quite old so i'm sure it has plenty of prior discussions.  </s>
+<s> bob  </s>
+<s> for the reply  </s>

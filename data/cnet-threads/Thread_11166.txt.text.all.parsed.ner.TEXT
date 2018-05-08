@@ -1,0 +1,25 @@
+<s> i have problems connecting my printer to my laptop. the other day i had to buy a new laptop as my old one had died on me.  </s>
+<s> i have a network with 2 pc's and 1 laptop.  </s>
+<s> 1 pc is used as a server for data and printing.  </s>
+<s> this is a 32 bit vista machine.  </s>
+<s> i have a canon ip4200 printer hooked on the pc. my new 64 bit laptop runs windows7 home primium sp1.  </s>
+<s> so up untill now connecting my laptop/pc to the printer has allways been a piece of cake.  </s>
+<s> but unfortunately with my new laptop it won't work.  </s>
+<s> here's what goes: 1) configuration =&gt; printers 2) add a printer =&gt; networkprinter 3) it surches my network and yes it finds a printer connected to my pc. it's adress: \pc_boven_02canon ip4200 4) click next and it starts connecting to the above mentioned printer.  </s>
+<s> 5) after a while a screen pops up: no driver has been found!  </s>
+<s> click ok to manually surch for the driver.  </s>
+<s> so i click ok 6) i enter as a path: c:windowsinf (suggested by canon when i contacted them).  </s>
+<s> 7) i get back on step 6 no drivers.  </s>
+<s> i asked cannon and they say they do not have a seperate driver.  </s>
+<s> when i connect the printer through usb it automatically connects.  </s>
+<s> no sweat.  </s>
+<s> cannon doesn't seem to have the answer.  </s>
+<s> who does?? (i used to have a 32bit windows 7 laptop and that worked well.)  </s>
+<s> i found this: and there are 32 and 64 bit drivers for both vista and windows 7. i'm fairly certain that you're going to need to force the installation of a driver.  </s>
+<s> see the link below or google about mixing 32 bit and 64 bit drivers for shared printing.  </s>
+<s> it gets complicated and there's no one answer.  </s>
+<s> but you'll need the proper driver as a beginning.  </s>
+<s> good luck.  </s>
+<s> it worked!! thanx.  </s>
+<s> what i do not understand is why the helpdesk from canon tells me there are no(!) seperate drivers available.  </s>
+<s> this place here is much better then there helpdesk!! thanx again.  </s>

@@ -1,0 +1,14 @@
+<s> i have a 'husband' built system... i'm running vista ultimate, sp1, on a amd athlon 64 x2 dual core processor 4600+ 2.4 ghz.  </s>
+<s> i have 2 gb of memory, 32-bit os. i have 2 hd's (250 gb each), and for christmas, my husband picked me up a 1.5 tb wd hard drive.  </s>
+<s> he hooked it up (in the case) and then told me how to add it, going into computer management, formating it, etc. the problem?  </s>
+<s> it's been stuck at 73% for hours... i started the formating last night, around 10pm.... it's almost 9pm here, and it's still formatting.  </s>
+<s> i've shut down everything, and it's still formating.  </s>
+<s> i did the full format, (not the simple), per his instructions.  </s>
+<s> anyone have any suggestions?  </s>
+<s> if i do such a thing i do the quick format but then again i'll remove the partitions, create it and then the quick format.  </s>
+<s> but that's how i run my show.  </s>
+<s> bob  </s>
+<s> what did he say ?  </s>
+<s> think i'd try bob's suggestion.  </s>
+<s> shut it down completely, restart it, go to computer mgmt, disk mgmt, delete the existing partition, recreate the partition, and then quick format.  </s>
+<s> vapcmd if you have any further problems with the wd drive .... download wd's diagnostic sw and test the drive to make sure it's ok.  </s>

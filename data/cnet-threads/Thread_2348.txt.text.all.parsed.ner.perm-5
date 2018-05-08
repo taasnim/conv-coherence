@@ -1,0 +1,5 @@
+(TOP (NP (JJ google) (NN response) (: :)) )
+(TOP (S (ADVP (RB maybe)) (NP (NP (DT the) (JJ exact) (JJ same) (NN kind)) (SBAR (S (NP (PRP it)) (VP (AUX had) (NP (DT a) (NN liteon)))))) (VP (VBZ ps-6161-b2) (S (NP (PRP i)) (VP (VBP think)))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (DT an) (JJ old) (NN computer)) (NP (PRP$ its) (NNP a) (NNP hp) (NN pavilion) (NNS 8650c))) (: ...) (SBARQ (WHADVP (WRB where)) (SQ (MD can) (NP (PRP i)) (VP (VB get) (NP (DT a) (JJ cheap) (NN power) (NN supply)) (PP (IN for) (NP (PRP it))))) (. ?))) )
+(TOP (S (PP (IN by) (NP (DT the) (NN way))) (NP (DT the) (NN power) (NN supply)) (VP (AUX was) (NP (CD 160) (NNS watts)) (SBAR (IN so) (IN if) (S (NP (PRP any1)) (VP (MD could) (VP (VB find) (NP (DT that) (JJ then) (NN thanx))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBD tried) (S (VP (VP (VB lookin) (PRT (RP around)) (ADVP (RB all) (RB over))) (CC and) (VP (NN cant) (VB find) (NP (NN one)))))) (. .)) )

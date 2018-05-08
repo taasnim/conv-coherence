@@ -1,0 +1,36 @@
+<s> i was looking at the customers of this patriot ram and noticed something which i thought odd.  </s>
+<s> a couple people said that, although the 2 x 1gb sticks ran at the 12000mhz they are supposed to, adding another 2 x 1gb sticks of the exact same ram slowed the entire fsb down.  </s>
+<s> why would this be and is there anyway it could be avoided?  </s>
+<s> a tiny bit extra voltage maybe?  </s>
+<s> below is the link and the reviews i was talking about.  </s>
+<s> customer 1 this memory is very good.  </s>
+<s> sometimes you have to burn the memory in so it can run properly and overclock.  </s>
+<s> this memory is specified to run at 1200mhz with 2 gigs not 4. so before you purchase please do the research.  </s>
+<s> you very seldom run 4 gigs over 1100 mhz.  </s>
+<s> customer 2 cons: none-cant run 4gigs at 1200mhz  </s>
+<s> the official ddr2 spec ends at ddr2-1066.  </s>
+<s> also, no mobo officially supports ddr2-1200.  </s>
+<s> as with any overclocking, your results are dependent on the specific components.  </s>
+<s> so one x38 mobo may be able to hit ddr2-1200 with that ram while another x38 mobo may not.  </s>
+<s> likewise, one mobo may oc a cpu up to 4ghz while another may only get it to 3.8ghz.  </s>
+<s> p.s.: ddr2-1200 will require a lot of voltage... these sticks want 2.3v. the official ddr2 spec is only 1.8v so that's 27% over spec and some mobos simply can't provide it.  </s>
+<s> adding 4 sticks would need even more voltage.  </s>
+<s> and 2.3v will need a very good quality power supply with extremely tight voltage regulation.  </s>
+<s> today the physics still apply that as you add more devices on a cpu &quot;bus&quot; it slows since each device adds capacitance.  </s>
+<s> this is not a design bug or issue and i see someone else pointed out the overclocking aspect.  </s>
+<s> lesson?  </s>
+<s> get by with just 2 sticks.  </s>
+<s> bob  </s>
+<s> my evga nforce 780i motherboard, though, says it supports 1200mhz ram?  </s>
+<s> 800mhz is the next highest.  </s>
+<s> it should be able to take 1066mhz as well, right?  </s>
+<s> here's the for my motherboard if you need it.  </s>
+<s> ddr2-1200 has no official spec, so if it doesn't work, you can't call evga and expect them to fix/rma the board.  </s>
+<s> likewise, you can't call patriot and expect a free replacement if it doesn't hit ddr2-1200 on your board.  </s>
+<s> so even though my motherboard lists 1200 as a ram fsb speed, they still wouldn't offer support if it didn't work?  </s>
+<s> what about 1066mhz ram?  </s>
+<s> could that work even though it isn't listed?  </s>
+<s> some one called in on this and the support was this.  </s>
+<s> &quot;use the verified memory we used.&quot;  </s>
+<s> and &quot;no we didn't test that memory.&quot; and lastly &quot;sorry if that didn't work for you.&quot;  </s>
+<s> :p thank you  </s>

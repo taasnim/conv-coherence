@@ -1,0 +1,291 @@
+<s> i sure hope someone out there can help me out.  </s>
+<s> here is my setup and my problem.  </s>
+<s> i have three computers networked together; two desktops connected via ethernet running windows vista and a laptop connected wirelessly running windows xp. i connect to my dsl service with an actiontec gt701 dsl modem. the modem is connected to a linksys wireless gateway (wcg200) which is what the computers are connected to.  </s>
+<s> all three computers can connect to each other on the network, but the laptop cannot connect to the internet whereas the desktops can.  </s>
+<s> if i connect to the laptop with an ether net cable everything works just fine.  </s>
+<s> i have tried power cycling the equipment in various orders, but to no avail.  </s>
+<s> i ran ipconfig on all the computers and here are the results: computer 1 - desktop windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : owner-pc primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : hybrid ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no dns suffix search list.  </s>
+<s> .  </s>
+<s> . . . .  </s>
+<s> : domain.actdsltmp  </s>
+<s> ethernet adapter local area connection: connection-specific dns suffix .  </s>
+<s> : domain.actdsltmp  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : realtek rtl8139/810x family fast ethernet nic physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-1b-b9-bd-6b-fb dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::94e7:590c:9150:8696%8(preferred) ipv4 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 192.168.0.2(preferred) subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 lease obtained.  </s>
+<s> .  </s>
+<s> . . . . . . . .  </s>
+<s> : wednesday, june 25, 2008 5:46:21 pm lease expires .  </s>
+<s> . . . . . . . . .  </s>
+<s> : thursday, june 26, 2008 5:46:21 pm default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 dhcp server .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 dhcpv6 iaid .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 201333689 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 205.171.3.65 netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : enabled tunnel adapter local area connection* 6: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : teredo tunneling pseudo-interface physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 02-00-54-55-4e-01 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes ipv6 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 2001:0:4137:9e50:14e5:2869:3f57:fffd(preferred) link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::14e5:2869:3f57:fffd%9(preferred) default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : :: netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : disabled tunnel adapter local area connection* 7: connection-specific dns suffix .  </s>
+<s> : domain.actdsltmp  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : microsoft isatap adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::5efe:192.168.0.2%10(preferred) default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 205.171.3.65 netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : disabled ---------------------------------------------------------------------- computer 2 - desktop windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : putarian primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : hybrid ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no dns suffix search list.  </s>
+<s> .  </s>
+<s> . . . .  </s>
+<s> : domain.actdsltmp  </s>
+<s> ethernet adapter local area connection: connection-specific dns suffix .  </s>
+<s> : domain.actdsltmp  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : intel(r) 82562v 10/100 network connection physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-1a-92-6a-27-5e dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::d01d:36b7:c734:692%8(preferred) ipv4 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 192.168.0.5(preferred) subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 lease obtained.  </s>
+<s> .  </s>
+<s> . . . . . . . .  </s>
+<s> : wednesday, june 25, 2008 5:54:34 pm lease expires .  </s>
+<s> . . . . . . . . .  </s>
+<s> : thursday, june 26, 2008 5:54:34 pm default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 dhcp server .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 205.171.3.65 netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : enabled tunnel adapter local area connection* 6: media state . . . . . . . . . . .  </s>
+<s> : media disconnected connection-specific dns suffix .  </s>
+<s> : domain.actdsltmp  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : microsoft isatap adapter physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-00-00-00-00-00-00-e0 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes tunnel adapter local area connection* 7: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : teredo tunneling pseudo-interface physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 02-00-54-55-4e-01 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes ipv6 address.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : 2001:0:4137:9e50:346a:3884:3f57:fffa(preferred) link-local ipv6 address .  </s>
+<s> . . . .  </s>
+<s> : fe80::346a:3884:3f57:fffa%9(preferred) default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : :: netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : disabled -------------------------------------------------------------------- computer 3 - laptop (wireless) windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : lappy primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : unknown ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : broadcom 440x 10/100 integrated controller physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-0d-56-a8-aa-a1 ethernet adapter wireless network connection: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : dell truemobile 1400 dual band wlan mini-pci card physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-90-4b-1b-f4-28 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.11 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 dhcp server .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 lease obtained.  </s>
+<s> .  </s>
+<s> . . . . . . . .  </s>
+<s> : wednesday, june 25, 2008 5:53:18 pm lease expires .  </s>
+<s> . . . . . . . . .  </s>
+<s> : wednesday, june 25, 2008 5:53:38 pm ---------------------------------------------------------------------- computer 3 - laptop (ethernet) windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : lappy primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : unknown ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no dns suffix search list.  </s>
+<s> .  </s>
+<s> . . . .  </s>
+<s> : domain.actdsltmp  </s>
+<s> ethernet adapter local area connection: connection-specific dns suffix .  </s>
+<s> : domain.actdsltmp  </s>
+<s> description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : broadcom 440x 10/100 integrated controller physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-0d-56-a8-aa-a1 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : yes autoconfiguration enabled .  </s>
+<s> . . .  </s>
+<s> : yes ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.4 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 dhcp server .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.1 205.171.3.65 lease obtained.  </s>
+<s> .  </s>
+<s> . . . . . . . .  </s>
+<s> : wednesday, june 25, 2008 5:46:58 pm lease expires .  </s>
+<s> . . . . . . . . .  </s>
+<s> : thursday, june 26, 2008 5:46:58 pm ethernet adapter wireless network connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : dell truemobile 1400 dual band wlan mini-pci card physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-90-4b-1b-f4-28  </s>
+<s> i am sort of scratching my head here.  </s>
+<s> the wcg200 is a cable gateway, combo modem router.but  </s>
+<s> unless i am mistaken you said that you were hooking up from a dsl modem, different hook up. the gateway is meant to hook up from a cable input, not ethernet.  </s>
+<s> methinks what you really need is a straight wireless router ethernet in from the dsl modem, hardwired ethernet to up to 4 systems and wireless to the laptop.  </s>
+<s> i know that the wcg200 is not the most ideal equipment for what i'm doing, but its all i have right now because it was left over from my previous residence where i had cable internet service.  </s>
+<s> besides, it is functioning as a router because when connected with ethernet cables all the computers connect to each other and the internet.  </s>
+<s> the only thing that doesn't work is when i try to connect the laptop wirelessly.  </s>
+<s> it will connect to the network and share files and printers, but won't connect to the internet.  </s>
+<s> any other suggestions?  </s>
+<s> i've seen these free on freecycle.com  </s>
+<s> so cost can't be an issue.  </s>
+<s> bob  </s>
+<s> you need to go to an ethernet hookup from a dsl modem, the cable input is not going to work!  </s>
+<s> so what you need is a wireless router, not a cable gateway.  </s>
+<s> forgot to say that on a cable gateway the lan input is cable, dsl is ethernet you need ethernet from dsl modem to lan input on router, you do not have that on a cable gateway, there is a difference.  </s>
+<s> basically what you have using the gateway is a hardwire switch feeding off of the dsl modem but you do not have the proper signal input (lan/wlan) since the signal input for the gateway (cable) is totally different.  </s>
+<s> true bob, that's an idea but it would be cheaper to buy a wireless router and have done with it.  </s>
+<s> of those gotta do it for free deals.  </s>
+<s> i thought that the linksys might be able to get the job done, but i guess its not going to work.  </s>
+<s> thanks for the info.  </s>
+<s> from connection to dns servers mines look exactly the same but i have no default gateway.  </s>
+<s> how am i able to obtained that and be able to connect to the internet?  </s>

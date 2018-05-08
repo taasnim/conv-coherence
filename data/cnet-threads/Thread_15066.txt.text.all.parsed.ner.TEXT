@@ -1,0 +1,9 @@
+<s> i was wondering if i can make my external hard drive use the same drive every time i plug it in, for example drive g: or anything like that, every time i unplug it and plug it back in, it turns into i different drive, and then i have to delete all my music off of itunes, and reinstall them, for them to play, since i have all my music on my external hard drive, thanks in advance.  </s>
+<s> ~frost  </s>
+<s> be consistent which usb plug and port you use.  </s>
+<s> system cannot look through the external case's interface and positively id the drive.  </s>
+<s> if not, it will rediscover it each time the pc restarts.  </s>
+<s> i'm suspecting this begins in the bios.  </s>
+<s> you do need to keep keep the drive connected to the same usb port...no swapping...or it finds new hardware.  </s>
+<s> you can also try assigning the drive letter yourself and see if that works.  </s>
+<s> but i'd check device manager to see if the external is showing by the actual hard drive's id which should suggest the manufacturer's name, model # and connection type.  </s>

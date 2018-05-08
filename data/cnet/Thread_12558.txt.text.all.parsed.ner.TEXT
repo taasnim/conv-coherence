@@ -1,0 +1,13 @@
+<s> hey, i'm doing my fist home network, there is two computer connected thorugh an ethernet cable, one of them is connected also to a usb adsl modem, i just cant figure it out on how to share files and the internet connection, do you have any ideas?  </s>
+<s> hello patok, first, i have some questions for you.  </s>
+<s> what operating systems and service packes are on each pc?  </s>
+<s> also, are you connected through a hub or directly connected from pc to pc? can you see if your local area connection is enabled?  </s>
+<s> hey, one of the pc's is using xp pro with sp2 in spanish and the other one is using xp home in english, the computers are connected directly through ethernet cross.. cabl, my local connection is ennable because in both computers it says it is connected, problem is, when i try to see the workgroup, one pc stops me and the other one lets me see it but doesnt let me see see the stats of the other one.  </s>
+<s> i managed now to file share between the two pcs, it had something to do with my zone alarm firewal, there was a zon that should have been trusted but was internet so i changed, now i'm trying to use internet, i heard about proxy but never used it and i don't kno if this is the case for it, so if it is, can somebody tell me so  </s>
+<s> directly to each other without the help of a router.  </s>
+<s> in which case i would suggest you review the use of xps built in internet connection sharing feature:  </s>
+<s> what you also should be able to do is to select both your adsl usb modem and the local area connection in your network connections window and right click them and select bridge connections.  </s>
+<s> if both computers have static ips assigned to their network cards, which i assume they do since they are talking to each other, this should also work.  </s>
+<s> make sure that on the pc that is not connected to the asdl modem, you assign dns numbers and make the gateway the ip address of the computer that is connected to the internet.  </s>
+<s> thanks, but i already fix the problem, it was all zonealarms fault, as i did not found a wa to change the settings correctly, i changed to another popular free firewall, kerio.  </s>
+<s> thanks anyways to all of you  </s>

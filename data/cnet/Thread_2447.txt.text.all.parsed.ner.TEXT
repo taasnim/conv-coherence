@@ -1,0 +1,22 @@
+<s> i got this computer off ebay.  </s>
+<s> since i got it i have not been able to get a sound out of it.  </s>
+<s> when i look in device manager it shows me an unknown pci device, and of course i have no drivers forit.  </s>
+<s> when i download the sound drivers off the compaq website supposedly for the computer i have, no luck no sound.  </s>
+<s> i tried diabling the on-board sound and putting in my own sound card, but that hasn't worked either.  </s>
+<s> any other things i can try?  </s>
+<s> of windows for this machine.  </s>
+<s> without a restore cd, you need to research and install the motherboard drivers, sound, nic etc... the other possibility is the onboard sound is controlled by a jumper or the bios or is broken.  </s>
+<s> go to compaq.com.  </s>
+<s> u can find drivers for their computers there.  </s>
+<s> i know that the computer came with windows me, the previous owner had them put win 98 on it.  </s>
+<s> when i got the computer there was no sound, i wiped the drive with fdisk, then re-installed windows 98. i went to the compac site and looked up the specs on the computers origianl configuration and i downloaded 2 different drivers, neither one of them worked.  </s>
+<s> i went to the bios and defaulted back to the origianl settings, that didn't help.  </s>
+<s> how can i figure out what isn't working so i can fix that.  </s>
+<s> i downloaded the manual on the particular kind of motherboard it is, and there is no new info there.  </s>
+<s> in startup it recognizes a pci card, but never lets me download drivers.  </s>
+<s> this is a basic system, no extras.  </s>
+<s> i can't believe that it just isn't going to work, and if that is true, why didn't my sound card work?  </s>
+<s> perhaps i need to go with name brand that comes with a disk.  </s>
+<s> help!  </s>
+<s> &quot;perhaps i need to go with name brand that comes with a disk.  </s>
+<s> help!&quot; ebay = let the buyer beware  </s>

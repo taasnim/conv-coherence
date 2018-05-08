@@ -1,0 +1,64 @@
+<s> hello cnet my specs are: case: corsair obsidian 650d ram: corsair vengeance xms3 - 16gb@2133mhz graphic: msi twinfrozr 780 cpu: i7 4770k haswell@3.5ghz  </s>
+<s> cpu cooler: corsair h100i ssd: corsair 180gb gs power supply: corsair ax760i motherboard: asus maximus vi hero - socket 1150 monitor: benq xl2411t @ 144mhz ----- my problem today is, i just finished building the pc myself and when i run a game like grid 2 or metro: last light it does not take more than 5minutes and my pc shuts totally down, then it tries to reboot as it does not happen, it shuts down once more even before showing anything on the screen from first attempt to reboot, and then it reboots again and starts up and works again - i do not have any clue to what this problem could be, none of the games i play lagg or show any sign of as the system should be running hot or with defect, it just suddenly stops working as result of the shutdown i have tried: to test the psu(as it has a selftest button, it should run fine as the test shows) to remove 2 of the 4 sticks of ram, to see if this would make a difference.  </s>
+<s> when i first got the pc i ran a 12hour 'stress test' on the cpu where it's avrg.  </s>
+<s> tempature was around 37-42(celsius that is) ---- when i run a game like gta iv(which is from 2008) in max settings this error does not occour and it runs nice and smooth ---- if anybody knows !anything! to what this problem could be or has had the same error when they've build a pc themselves - please post your solution to your problem thank you in advance.  </s>
+<s> if anybody knows any great test-software that could run tests on the hardware (cpu, psu, graphic, ram etc.) preferbly free ones.  </s>
+<s> please post them here thank you in advance.  </s>
+<s> my bet is the bios is out of date to start with.  </s>
+<s> nice machine but if that's not it and they didn't detail how to install the os or drivers, i'd start rmaing parts.  </s>
+<s> bob  </s>
+<s> hey bob, thank you so much for the reply.  </s>
+<s> i want to start off saying, i am not a proffesionel when it comes to all this bios and software orientated stuff, i just assembled the machine.  </s>
+<s> i did however go to the bios and tried a few different ram settings (2133mhz, 1866mhz & 1600mhz) as i had read on other forums and such that some people talked about ram speed could have a say in the system.  </s>
+<s> my bios 'looks' quite new, doesn't mean it is the newest, of course.  </s>
+<s> i will however look into this new bios you speak of, do you know what difference the 'new' bios should have compared to the 'old' ?  </s>
+<s> thank you in advance.  </s>
+<s> but reading the page there &quot;.improve  </s>
+<s> system compatibility.&quot;  </s>
+<s> it's an oxymoron that there was something they needed to fix. as presented i can't see the build so i can't check for issues like an extra motherboard mounting stud so i have to take what is presented and go hunting for issues and found one.  </s>
+<s> ram speed should be auto for folks that just want it to work.  </s>
+<s> and when it doesn't you call up and begin the exchange process.  </s>
+<s> besides that bios i'm seeing some really fresh versions on motherboard and audio and didn't check the rest drivers at it's highly unlikely the driver cd in the package is up to date when the driver date i found was 7/3/2013!  </s>
+<s> bob  </s>
+<s> hey bob, thanks once again.  </s>
+<s> i installed the new bios and that works fine, did not help my problem though : i did however try to run a test on my graphics card, called 'furmark' which is benchmarking the graphicscard to it's fullest and here i encountered my problem again!  </s>
+<s> - it shut down after less than 30-45seconds, so i think it's my graphicscard that can not handle the high-end loads as in grid 2 and metro: last light.  </s>
+<s> although my graphicscard is a 780 and should have no problem loading these games.  </s>
+<s> and like i wrote at first, it has no problem with the game, besides this, it runs so nice and smoothly - untill it shuts down i'm not a 100% sure if this is actually the graphicscard.  </s>
+<s> and do anyone know if this problem could have anything to do with the fact that i bought quad channel ram instead of dual - its 4 sticks, 16gb @ 2133mhz thank you in advance.  </s>
+<s> &quot;dedicated single +12v rail with user-configurable virtual &quot;single rail&quot; and &quot;multi-rail&quot; software modes&quot; it appears that you have choices in the psu area to make.  </s>
+<s> as i didn't design this computer i can't answer which mode is appropriate.  </s>
+<s> i can't see the machine so i can't tell if the issue is the power or cooling.  </s>
+<s> try it without the cover and the video card in another slot.  </s>
+<s> bob  </s>
+<s> hello again again bob. the psu should be able to cover all the needs in this system, i am of cause not a 100% sure of this, but i ran the &quot;self-test&quot;(a button to test if the psu works as it should).  </s>
+<s> it should have enough power to run this system.  </s>
+<s> also the cooling seems very fine, when the graphicscard fails(if it even is the graphicscard) and shutsdown the tempature is about 60-65 degrees, which is really not that hot. the rest of the system runs very cooled too, i've bought the corsair h100i for the cpu, so it runs at around 50 degrees at full load (when idle about 35-40) so as you can see none of these should be the problem, unless its the sensor on the fans/card that fails at 60+ degrees, i have got no idea if that could even be the case, but i start thinking of all these scenarious.  </s>
+<s> i'll try and put the card in the other pci-e slot and see if this helps thanks in advance.  </s>
+<s> &quot;dedicated single +12v rail with user-configurable virtual &quot;single rail&quot; and &quot;multi-rail&quot; software modes&quot; it appears that the pc's designer can change the psu settings.  </s>
+<s> very odd but up to the designer to sort out.  </s>
+<s> hope moving the card changes the result.  </s>
+<s> bob  </s>
+<s> hello bob, the error code appeared with a description now, something new!  </s>
+<s> i was doing the change slot thing you spoke of and instead of shutting down this time, it closed the application and an error message appeared!  </s>
+<s> this is the error message: i hope you can help me here, i have found some videos and such, but i am not a 100% sure of what this failure actually contains and how it could impact the system by fixing it manually thanks in advance.  </s>
+<s> i read that and came away thinking, well, what it details is not fixable so it's time to begin the return exchange cycle since no one i know can fix that one.  </s>
+<s> remember i'm an electronics designer and software author so while it made sense to me, it was clear that it's not an error but a message.  </s>
+<s> i'm unsure what you think of the message but for most it means nothing.  </s>
+<s> that is, furmark is a stress benchmark and furmark's author would have to reduce the gpu load to avoid this message.  </s>
+<s> as the pc didn't shutdown, furmark is not adding much value here.  </s>
+<s> ok, maybe it's not clear so here it is.  </s>
+<s> if updates of bios and drivers fail we swap boards and parts.  </s>
+<s> notes a gpu i'd swap to.  </s>
+<s> bob  </s>
+<s> i did furmark benchmarking yesterday night too, several times and it did the same as my games did, tried to reboot and then rebooted.  </s>
+<s> then this morning i swapped my dvi-duallink cable to the other plug on the card and it's here it gave me error message instead of the shutdown.  </s>
+<s> i've read on the internet people say this is fixable, because windows can't go with these rendering speeds, not sure if this would actually help though.  </s>
+<s> also, i'm running windows 7 prof.  </s>
+<s> 64bit and got me thinking, maybe by upgrading to win8 would help this, if it's a win7 & nvidia driver that's colliding thanks in advance.  </s>
+<s> but i disagree.  </s>
+<s> however changing ports is a good clue but as in all things, go with what works. that is, if you find one video port works better than the next, you use the better solution.  </s>
+<s> there are folk that want to get such a thing fixed and in this discussion it's something incompatible or out of date or you are beta testing for the makers.  </s>
+<s> that motherboard looks to be very new so what's to say it's ready for the market?  </s>
+<s> in summation, if you don't change drivers and boards, the issue should remain.  </s>
+<s> bob  </s>

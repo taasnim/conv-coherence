@@ -1,0 +1,22 @@
+<s> i'm thinking of getting a new computer.  </s>
+<s> while back-up is important, i'm thinking that the best approach is to get a fast hd settup with backup to an external hd as this stuff is getting bigger and cheaper everyday.  </s>
+<s> i suspect we'll be able to get usb flash storage in the 20-30 gb size very cheap over the next year or two - so why buy and loadup my new desktop with expensive hd's.  </s>
+<s> anyway, i'm thinking of the 160 gb - 10k rpm in a raid 0 settup (for a total of 320 gb storage).  </s>
+<s> my question is how will i work with a raid 0 settup?  </s>
+<s> will it &quot;appear&quot; to me as a single hd, such as the c drive?  </s>
+<s> if i want to dump copies to an external hd, is there anything complicated doing that from a raid 0 settup?  </s>
+<s> anybody know of downsides of a raid 0 settup?  </s>
+<s> thanks in advance.  </s>
+<s> the only caveat is that ghost until later versions couldn't backup or restore to most raid systems.  </s>
+<s> try acronis for that.  </s>
+<s> raid is nice but don't count it as &quot;storage&quot; since drives last about 5 years and the storage aspect until some error happens.  </s>
+<s> bob  </s>
+<s> as far as your os is concerned, you'll only have 1 hard drive attached.  </s>
+<s> the biggest downside is reduced reliability (a 2 drive stripe-set is twice as likely to fail as a single drive).  </s>
+<s> you'll also lose smart monitoring capability at the os level unless your raid controller provides monitoring software.  </s>
+<s> you'll need to do some research and determine the optimum chunk size for your controller and disk combination.  </s>
+<s> generally its 32k (with 4k ntfs clusters) but some controllers differ.  </s>
+<s> once set, you typically can't change it without reinitializing the array and the wrong setting can hinder performance.  </s>
+<s> raid 0 can also sometimes increase your disk access time on 'dumb' controllers and thus decrease performance.  </s>
+<s> lastly, some manufacturers (like western digital) offer drives fine-tuned for raid use.  </s>
+<s> check them out and see if they're worth the premium.  </s>

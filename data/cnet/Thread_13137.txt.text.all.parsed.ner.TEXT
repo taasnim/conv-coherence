@@ -1,0 +1,34 @@
+<s> given the problems with trying to use wine / crossover office, vmware, bochs and other non-solutions, is there hardware that can simulate two pcs, allowing one to load two operating systems and comfigure how much memory to allocate to each os perhaps in cmos / bios if in the motherboard or by a windows, dos, or linux program otherwise?  </s>
+<s> there are a few concerns of mine here.  </s>
+<s> there are bound to be some device-related issues here.  </s>
+<s> perhaps have some devices accessable by only one os at a time such as sound cards.  </s>
+<s> i am not so sure this is appropriate /workable for displays.  </s>
+<s> another real concern would be bus mastering devices.  </s>
+<s> the only search terms and phrases i can think of lead to irrelevant results.  </s>
+<s> i use 2 machines and a kvm switch to get to each machine.  </s>
+<s> cheaper on my time... bob  </s>
+<s> i suspect you aren't saving much.  </s>
+<s> i suppose one might manage to use an ethernet card to boot over a network and make one of the machines diskless (no hard drive, floppy drives or cd / dvd drives) and perhaps no sound or usb as well (or use usb instead of serial ata).  </s>
+<s> i somehow forgot the two biggest expenses.  </s>
+<s> i'm sharing my solution to emulating a machine with two minds.  </s>
+<s> given today's hardware prices, it's the cheap way out.  </s>
+<s> bob  </s>
+<s> time is something that costs more than the hardware here.  </s>
+<s> if i were to spend time trying to get one machine to pretend it was two, the hours would exceed the cost of my solution.  </s>
+<s> cheers, bob  </s>
+<s> from microsoft this was a quick goggle search, research some more.  </s>
+<s> virtual pc applications are hwd intensive and bob's suggestion may have more merit.  </s>
+<s> bill  </s>
+<s> i am asking if there is a (primarily at least) hardware-based solution.  </s>
+<s> software based solutions, to use an at&t phrase &quot;just isn't worth it.&quot;  </s>
+<s> many years ago i was allowed only one pc at my desk.  </s>
+<s> so i found a cube box that held 2 motherboards.  </s>
+<s> the kvm sat on top and i met the goal of just one pc. hope this helps.  </s>
+<s> bob  </s>
+<s> or virtual machine, take your pick.  </s>
+<s> but it's kinda like toggling between the two.  </s>
+<s> you can switch with out rebooting.  </s>
+<s> one kind of hibenates while the other is active.  </s>
+<s> now if you get yourself one of the big ibm water cooled main frames from 15 years ago you could do it easly.  </s>
+<s> i do it bob's way.  </s>
+<s> john  </s>

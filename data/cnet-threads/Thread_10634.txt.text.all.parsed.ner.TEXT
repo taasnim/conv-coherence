@@ -1,0 +1,64 @@
+<s> i have a new samsung t409 cell phone and for three weeks i have tried everything to try and get it to connect to my mi424wr actiontec router from verizon fios.  </s>
+<s> i keep getting messages like: can't connect error w002, w003, w004, etc. i upgraded the router firmware today, still no luck.  </s>
+<s> can anyone out there help?  </s>
+<s> any ideas of what to try next?  </s>
+<s> jesseelev  </s>
+<s> 1. set it up per our forum sticky and then try it without the security.  </s>
+<s> 2. be sure the router is set to support mixed mode.  </s>
+<s> that is 802.11b devices.  </s>
+<s> bob  </s>
+<s> hi bob, thanks but it is already set to mixed mode.  </s>
+<s> i have tired most things.  </s>
+<s> i think it must be something very technical.  </s>
+<s> do you have any other ideas, anyone, of what could be causing this.  </s>
+<s> i also took off the wep key and went unsecured and it still wouldn't work.  </s>
+<s> jesseelev  </s>
+<s> yes, it's very technical.  </s>
+<s> leaving your wifi set to wep could have some one hijack that connection and spoof the mac address of your device that won't connect. the next step is to change the ssid and move directly to wpa-psk to lock them out.  </s>
+<s> remember i have only a few details to work with so share if you did another often than latest firmware, mixed mode, ssid broadcasting, wpa... good luck, bob  </s>
+<s> hi again, bob, i dont think it has anything to do with wep.  </s>
+<s> here are some other things i tried: i turned the actiontec wireless off and connected a linksys router to the actiontec router, and saw the new linksys network on the phone and it still wouldn't connect.  </s>
+<s> i changed the channel on the router to match channel on the phone.  </s>
+<s> i changed the phone from dynamic to static and put in the ip, subnet mask, dns, and default gateway manually and it still didnt work.  </s>
+<s> i &quot;enabled&quot; the phone on the router access list (although i did not add the other devices mac addresses, just the phone.  </s>
+<s> is this a problem?) i lowered the transmission rate down from 54 to 1 (trying different speeds.) i upgraded the firmware (which the actiontec guy said would resolve the problem and didn't) i have been reluctant to do too many radical things with the router for fear of losing my wireless network completely, which works like a charm, except for the phone.  </s>
+<s> when i test the ip address with a ping it says: status: test failed packets: 4/4 transmitted, 0/4 received, 100% loss however, all the laptops (3) on the network are working fine.  </s>
+<s> this remains unchecked: allow other network users to control wireless broadband router's network features so does this remain uchecked: allow other network users to control wireless broadband router's network feature mac cloning is set to ethernet even though it is connected by coaxial.  </s>
+<s> (dont understand this.) can you tell me what this may mean from the system log: dec 25 01:22:25 2007  </s>
+<s> does it connect at any hotspot anywhere.  </s>
+<s> usually and if i can connect at home using the setups we note in our forum note we usually skip trying at home and head out to a hotspot with a laptop and the device in tow.  </s>
+<s> we connect with the laptop just to be sure the area works and then try the device.  </s>
+<s> hope this helps but i'm offline soon so recheck our forum sticky note.  </s>
+<s> if you use any other setting in your router than stock and what we write about please share.  </s>
+<s> bob  </s>
+<s> i have a samsung katalyst (wifi) with t-mobile...worked great until i got fios installed the other day.  </s>
+<s> i worked for hours...finally i did connect my linksys as a secondary wireless through the lan on the actiontec router....i did get closer to fixing the problem.....but now when i call out connected through the router...they can hear me...but i can't hear them on the phone.  </s>
+<s> my son however, can send and receive texts.  </s>
+<s> i'm sure our problems are quite similar.  </s>
+<s> did you ever get your system to work correctly?  </s>
+<s> has anyone with this phone been able to connect to a router?  </s>
+<s> i've tried the same things as jesseelev and haven't had any luck connecting this phone to my linksys wrt54g.  </s>
+<s> there must be something beyond the user settings that is blocking the connection.  </s>
+<s> it does work at hotspots, but have yet to get it to connect to any other unsecure wi-fi network.  </s>
+<s> thanks for any help you can offer.  </s>
+<s> make you wireless router settings like the forum sticky suggests, then you should have no problems connecting.  </s>
+<s> rick  </s>
+<s> did everything the forum sticky says and still doesn't work.  </s>
+<s> i'm cancelling the service.  </s>
+<s> maybe in a year they will have all the kinks fixed.  </s>
+<s> we have tried everything to get our samsung katalyst phones to work in our house which is equipped with verizon fios wi-fi.  </s>
+<s> after - literally - hours on the land-line phone with both verizon and t-mobile, our wi-fi has never worked with these phones.  </s>
+<s> and that's the only reason we bought them in the first place.  </s>
+<s> gr-r-r-r-r-rrrrrrrr!!!! can anyone help?  </s>
+<s> if you google up the actiontec name you find unhappy stories.  </s>
+<s> we went to t-mobile store and told them we were disgusted that we bought these phones for the wi-fi at home and it didn't work... and they gave us 2 routers (no charge) - one for home and one for our daughter to take back to college (where hers didn't work either) and... ta-da!!! wi-fi at home...success!!!!!  </s>
+<s> try changing your fios router with a standard dlink, netgear or linksys router.  </s>
+<s> my samsung katalyst t-mobile phone works fine with wifi with my dlink wbr 2310 router(switched to dlink dir 625 and it still works).  </s>
+<s> if the fios router is in only wireless g/n mode or in wpa2 mode, your samsung won't connect. the fios router must also be broadcasting ssid.  </s>
+<s> good luck!  </s>
+<s> did you ever figure out how to connect to wifi with the katalyst.  </s>
+<s> we had a belkin g router and we had the same problem.  </s>
+<s> we could call using wifi and the person we called could hear us, but we could not hear them.  </s>
+<s> now we got a d-link dir-615 and we cannot even get connected.  </s>
+<s> now a clue as to the problem.  </s>
+<s> its very frustrating because samsung and t-mobile know nothing either, nor does their manual help.  </s>

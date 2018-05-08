@@ -1,0 +1,62 @@
+<s> well, i wouldn't exactly say that i am a computer whiz-but i do know my fair share of what's going on inside these beautiful little life-leeching boxes ;p i recently took up the challenge of figuring out what's wrong with a friends' computer.  </s>
+<s> his words were: &quot;it stays on for like 5 seconds and shuts itself off&quot;.  </s>
+<s> i immediately knew this was an overheating issue (happened to me a million times).  </s>
+<s> so i began troubleshooting this issue, reset everything into their little nooks and crannys, checked the cpu grease, bought some arctic silver and all that.  </s>
+<s> that issue is now solved!  </s>
+<s> i have run into another problem!  </s>
+<s> :s the computer is on, it posts...everything. the only issue is every monitor that i try is still not responding; ranging from old to brand new out of the box.  </s>
+<s> i first thought maybe it was previously set to a video card, tried that and nothing.  </s>
+<s> i am more than positive it is just simply a bios setting that needs to be tweaked, but i cannot get the screen to respond so i can see if my keystrokes are working to enter bios.  </s>
+<s> keyboard works correctly, so does the ps-2 jack....... anyone have any clue what is happening? the most info i have been able to figure out is that it is obviously a self-built rig: gigabyte ga-k8vm800m, amd processor...not sure about the make..grease is all over....  </s>
+<s> i have a few machines that when the battery gets too low, it does that.  </s>
+<s> also try reseating that video card.  </s>
+<s> (unplug, plug it back in and watch to see if it slides nicely home.) bob  </s>
+<s> well i also thought might have been a dead battery....replaced that with a brand new one....not sure if maybe bios is dead....i get all the right beeps as usual.  </s>
+<s> vid card was mine from home, i was just using to see if the machine had happened to have been set to use that slot before.  </s>
+<s> but no dice.  </s>
+<s> more than the one singular beep is usually the video card was not found or the ram.  </s>
+<s> if it has onboard video i pull the video card, reset the cmos and try again.  </s>
+<s> bob  </s>
+<s> amd cpus aren't all that friendly to &quot;overtemp&quot; conditions.  </s>
+<s> once found in such a state they tend to be unstable even after correcting it.  </s>
+<s> you seemed to cover all bases.  </s>
+<s> i would return system to original state and enter the bios and be sure if any on board video is disabled.  </s>
+<s> reboot and check results.  </s>
+<s> be sure the video card is fully seated, etc.. if possible try another capable amd cpu.  </s>
+<s> if the problem persists i would try a &quot;bootable linux version&quot;, i like ubuntu.  </s>
+<s> get the .iso  </s>
+<s> file and then make a bootable cd. be sure the cd drive is the 1st bootable device.  </s>
+<s> install ubuntu cd in drive and try to boot.  </s>
+<s> if it works then, you have some probable s/w issue.  </s>
+<s> a ubuntu bootable cd relies totally on itself and doesn't need alot other than the system being present.  </s>
+<s> this way you can test the operation w/o any windoze os, etc. and all its issues.  </s>
+<s> if it fails, you got the cpu bad or possible mtrbd., all that due to heat failure.  </s>
+<s> tada -----willy  </s>
+<s> sorry yeah it is justt he one post beep.  </s>
+<s> so everything apparently is ok. i had already tried a few times with the integrated video, (since that was the state it was in when i began my trials), and just now tried the video card instead.  </s>
+<s> i thought i had also covered all the bases...i still think this is the simplest of issues: an altered bios setting of some type, but i cannot seem to enter it.  </s>
+<s> i researched the combination of keystrokes to enter on this motherboard and it is just supposed to be the 'del' button.  </s>
+<s> i have attempted this a couple of times already and still no data being transferred to the screen.  </s>
+<s> i have also used a couple of different monitor cables.  </s>
+<s> i haven't actually changed anything as far as layout goes, all i did wass reseat everything and clean it up.  </s>
+<s> does anyone know if maybe there is a different keystroke to enter the bios?  </s>
+<s> i should be able to see what i am accessing since it isn't even running the drivers and such right?  </s>
+<s> omg!  </s>
+<s> i am so frustrated lol.  </s>
+<s> thanks so much for the help so far, fellas.  </s>
+<s> if the &quot;del&quot; key is the one to enter the bios is correct then it should work.  </s>
+<s> you have to be 100% sure, no guessing here.  </s>
+<s> i suggest you see that the clearing pins/pads are clear or how the jumpering is done.  </s>
+<s> often, they need to be in non-clearing(default) jumpered as to not effect system, opposite in order to clear setting.  </s>
+<s> if you're entering the correct bios entry key and still no entry, then either the kybd. is broke or another failure at work here.  </s>
+<s> be sure you are using a std.  </s>
+<s> ps/2 kybd.  </s>
+<s> not a usb one.  </s>
+<s> usb devices won't work until the system is up and running, so return to a plain ps/2 class kybd., same for mouse.  </s>
+<s> also, you may want to remove all usb devices as well to lessen their interference as an issue.  </s>
+<s> tada -----willy  </s>
+<s> alrighty, i will give this a shot pretty soon-unfortunately i don't have the computer here with me now.  </s>
+<s> keep your eye on this, if you can, so i can figure this out  </s>
+<s> ok so i gave up on that other one, i dunno quite know what is wrong out of the many things i spotted lol.  </s>
+<s> broken seating for the cpu, heat sink cracked, motherboard has random scratches....anyway.  </s>
+<s> i moved on to another older machine they had sitting around they thought was broken because it had something rattling around and it wouldn't stay on for more than like 60 seconds....once again i cleaned her out and reseated the heat sink(which was completely off, was rattling around) and now she is golden....the only problem is some tard decided to run xp on this poor machine with only 64mb of ram!!!! xd i laughed so hard... so long story short-i am getting prepared to reinstall probably just win2k and upgrade to 256m of ram. the only other issue i will have is that i cannot tell any evidence of a manufacturer on the mobo; probably a home-made knock off from malaysia or something, so i will not be able to find drivers... any ideas?  </s>

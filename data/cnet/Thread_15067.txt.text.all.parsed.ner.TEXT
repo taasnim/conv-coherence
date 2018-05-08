@@ -1,0 +1,13 @@
+<s> alright so we just bought a new belkin n router. the only way for my computer to be connected is for it to be wirelessly connected.  </s>
+<s> but the wireless adapter i have isn't detecting the network.  </s>
+<s> i've got a d-link g usb adapter. is there any way to make the wireless adapter g adapter compatible with my n router?  </s>
+<s> i've also got a belkin g wireless adapter, is there any way to make that compatible as well?  </s>
+<s> the ssid from the router?  </s>
+<s> encryption?  </s>
+<s> laptop or desktop?  </s>
+<s> desktop, dump the usb and get a pci adapter.  </s>
+<s> hypothetically is should work, sometimes there can be issues.  </s>
+<s> for a desktop i would take the prior poster's advice, slot card as opposed to usb adapter, better ranging.  </s>
+<s> back to should work, been there more than once with mix and match hdwe, can be frustrating.  </s>
+<s> so generally what i do is match hdwe/ software.  </s>
+<s> bite the bullet, since you are using a specific manufacturer's router (n) match the router with the same manufacturer's slot card and use the n to get better ping potential.  </s>

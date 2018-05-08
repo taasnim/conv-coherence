@@ -1,0 +1,23 @@
+<s> i have 1gb ram giving 128mb of graphics memory, is there a way to increase the graphics memory dealing with performance of the computer?  </s>
+<s> i have: windows 7 cpu 2.26 ghz more information about my pc is in this txt file stored on skydrive :  </s>
+<s> and how much is allowed.  </s>
+<s> search your bios for the settings.  </s>
+<s> if more is allowed, maybe to 256 meg, adding ram will compensate for the machine usable loss.  </s>
+<s> it appears you have build-in video port.  </s>
+<s> your 128mb available to it, is probably the most it can have.  </s>
+<s> in your bios, there is a setting to give the &quot;x-ram mb to video&quot;.  </s>
+<s> since, this is a intel9xx chipset, i suspect as much.  </s>
+<s> the only way you can increase video performance is to get an actual card and install it.  </s>
+<s> even a plain 256mb based one will improve performance because you will then release the 128mb mentioned back to the system resources as well as any 512mb video card.  </s>
+<s> these will be the most capable for your system for now, though there are 1gb video card, your system is old and probably needs more capable psu(power) to handle anything above 512mb.  </s>
+<s> to answer your ?  </s>
+<s> directly, no, yo're at the most the build-in video port allows.  </s>
+<s> your can verify that with a bios status during boot-up to enter the bios area.  </s>
+<s> these aren't that expensive to include probable used as well.  </s>
+<s> tada ------willy  </s>
+<s> pc mfg ... with the series and model number you have?  </s>
+<s> if i understand correctly, you have 1gb of system ram with 128mbs used for video ram which is minimally sufficient to run your pc efficiently.  </s>
+<s> adding more system ram ... for a total of 2gb or 4gb would make the system run significantly better.  </s>
+<s> what are you using the pc for ?  </s>
+<s> if games, you really need a distinct (vice integrated) video card with it's own ram.  </s>
+<s> vapcmd  </s>

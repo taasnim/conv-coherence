@@ -1,0 +1,34 @@
+<s> fter a couple months use, my monitor started showing horizontal lines all over the screen.  </s>
+<s> some of the lines were small and some were quite large.  </s>
+<s> then my system started crashing.  </s>
+<s> sometimes it would recover and give me a message that said &quot;vpu recover has reset your graphics accelerator as it was no longer responding to graphics driver commands.&quot;  </s>
+<s> other times it would not come back and i'd need to reset the computer.  </s>
+<s> here's what i've tried so far: 1) uninstalled video drivers and reinstalled from files downloaded from ati site.  </s>
+<s> when that made no difference, tried also with file downloaded from msi site.  </s>
+<s> still no help.  </s>
+<s> 2) tried two other monitors, one an lcd and one crt.  </s>
+<s> same thing on both other monitors.  </s>
+<s> 3) sent card back to msi.  </s>
+<s> they checked it out & said it was fine.  </s>
+<s> 4) installed new power supply.  </s>
+<s> no help.  </s>
+<s> 5) finally i uninstalled the radeon video adapters and the ati drivers.  </s>
+<s> that stopped the system from crashing but i still get very small lines throughout the screen and the screen is very jerky when i scroll up & down.  </s>
+<s> everything else is fine.  </s>
+<s> i can run all my programs.  </s>
+<s> the display is just very bad.  </s>
+<s> i'm aware that this is not a very good vga card. is it possible that the drivers for this card are not compatible with my mobo?  </s>
+<s> or could it be something else?  </s>
+<s> my machine's specs: asus a8n-sli nvidia nforce4 sl amd 64 x2 4400+ 939 pin 2 gb ram pc3200 dimm msi rx300hm-td128e pci-express vga seagate 250 gb sata hd western digital 80 gb ide hd simpletech 160 gb external usb hd lite-on dvd-rom lite-on dvd-r/w hp scanjet 3970 hp deskjet 930c enermax eg651p-ve +3.3v/36a +5v/36a +12v/36a thanks for any help.  </s>
+<s> your story is typical of an overheated machine.  </s>
+<s> who made this? you should contact them and get them to fix the machine since it's lifespan may be just a year or two.  </s>
+<s> bob  </s>
+<s> the problem is undoubtedly with your video card.  </s>
+<s> either it is defective, or it is overheating.  </s>
+<s> hi, i am also having the same problem but the same monitor is working fine with some other machine.  </s>
+<s> and some other monitor is working fine with the fault machine.  </s>
+<s> i tried renisatlling the os itself but i could not get retrified.  </s>
+<s> i am usiong intel 845gvsr motherboard and philips 105sf and samsung 793s both giving the same problem.  </s>
+<s> my problem was solved when i upgraded my vga card.  </s>
+<s> i bought a winfast px6600gt, which is made by leadtek, and everything cleared up.  </s>
+<s> apparently, the card i had was not powerful enough to give me good video performance on this system.  </s>

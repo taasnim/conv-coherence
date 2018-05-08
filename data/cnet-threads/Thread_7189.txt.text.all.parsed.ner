@@ -1,0 +1,5 @@
+(TOP (S (NP (PRP i)) (VP (AUX was) (VP (VBG wondering) (SBAR (IN if) (S (NP (DT this) (NN motherboard)) (VP (MD would) (VP (VB support) (NP (JJ dual) (NNS processors)))))))) (. .)) )
+(TOP (NP (NP (VBZ regards)) (, ,) (NP (NNP james))) )
+(TOP (S (CC but) (NP (DT the) (JJ usual) (NNS candidates)) (VP (AUX are) (ADJP (JJ opterons))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (DT that) (NN mobo)) (VP (AUX is) (VP (VBN intended) (PP (IN for) (NP (NP (NNS folks)) (SBAR (WHNP (WP who)) (S (VP (VP (ADVP (RB currently)) (AUX have) (NP (DT a) (NN socket) (QP (CD 754) (CD cpu)))) (, ,) (VP (AUX need) (NP (DT a) (JJ new) (NN mobo)) (ADVP (RB now))) (, ,) (CC but) (VP (VBP want) (S (VP (TO to) (VP (AUX be) (ADJP (JJ able) (S (VP (TO to) (VP (VB upgrade) (PP (TO to) (NP (NP (DT a) (NN socket)) (VP (VBN 939) (PP (IN in) (NP (DT the) (NN future)))))))))))))))))))))) )

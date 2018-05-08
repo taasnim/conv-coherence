@@ -1,0 +1,21 @@
+<s> i took a hard drive (western digital 40 gig) from my win98se machine, placed it into a usb 2.0 hard drive (from compusa) enclosure and hooked it up to my xp laptop. the xp laptop does not recogize the drive.  </s>
+<s> it does not show up in &quot;my computer&quot;.  </s>
+<s> it shows up in the computer management/disk management window as a disk with no volume (e.g. c:, d:, etc), a blank file system, and 100% free space (although i know there is at least 15g info on the drive).  </s>
+<s> when i right click on the drive, the only option i'm given is to ''delete the partition''.  </s>
+<s> since this will delete the data on the machine, it is not an option.  </s>
+<s> it appears that the xp machine can see the drive but cannot read or recognize the files.  </s>
+<s> any suggestions?  </s>
+<s> thanks  </s>
+<s> that sometimes works, sometimes not.  </s>
+<s> also, this can happen if the port is all of usb 1.1.  </s>
+<s> i've run into this too many times to count and know to use the usb 2.0 ports, cables and such.  </s>
+<s> try this.  </s>
+<s> boot knoppix and see if it sees the drive contents.  </s>
+<s> bob  </s>
+<s> bob, not sure what ''that's not a supported method'' means.  </s>
+<s> also where can i obtain the knoppix you refer to?  </s>
+<s> thanks, mike  </s>
+<s> it means that it may not work and no maker of os or hardware will tell you it works (if they have been at this game long.) about knoppix.  </s>
+<s> please try google.com.  </s>
+<s> i'd rather not duplicate web content when and where i can.  </s>
+<s> bob  </s>

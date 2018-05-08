@@ -1,0 +1,36 @@
+<s> hi, i am trying to access two servers remotely from a computer off my local network.  </s>
+<s> both servers get their ethernet connection by both connecting to a switch and then connecting to my belkin router.  </s>
+<s> one of the servers is a microprocessor with ethernet connectivity and the other is a video server.  </s>
+<s> as an initial test, ive successfully been able to connect to both the video and microprocessor server at the same time while connected to the same network.  </s>
+<s> ive learned some about port forwarding and i configured my router to forward port80 using the microprocessors private ip address.  </s>
+<s> as a result, i was able to access the microprocessor server remotely.  </s>
+<s> the processor has stored a webpage that has a frame that retrieves the video feed from the video server.  </s>
+<s> so i tried configuring my router to forward another port (i selected and arbitrary port other than port 80) to the video servers private ip address.  </s>
+<s> question 1: am i allowed to arbitrarily assign another port (other than port80) for the video server or are theyre only certain ones i can use?  </s>
+<s> i tried this &lt;routers public ip&gt;:&lt;port number&gt; to access servers video feed, but it didnt work.  </s>
+<s> question 2: after assigning a port to forward for the video server, what would be its url so that i can access it remotely too?  </s>
+<s> this will be used for the url written in the html code on the framed page that accesses the video server.  </s>
+<s> thanks so much in advance for your help!  </s>
+<s> windell  </s>
+<s> but for 1 and 2. yes.  </s>
+<s> allowed, but newbies seem to hand troublem with port mapping and more.  </s>
+<s> i will not duplicate ready web content on port mapping and port forwarding.  </s>
+<s> besides you didn't supply the model number so you made a choice to hamper others help.  </s>
+<s> i can't check if your router was a good choice for this.  </s>
+<s> sorry if this sounds crass, but you must make a good post if you want a &quot;do this on this router's page.&quot; your post was clear enough but neglected a key item.  </s>
+<s> who and what i do.  </s>
+<s> i also design and program embedded devices.  </s>
+<s> some are on ethernet and are remotely accessed via the internet so i've done this mapping.  </s>
+<s> what devices?  </s>
+<s> cameras, access control, doors, temp, counts, etc. bob  </s>
+<s> dear. mr. proffitt, my questions were meant to be independent of a specific router because most routers these days already have the option to enable port forwarding.  </s>
+<s> also, my application shouldn;t really be of your concern because again it is independent of my questions.  </s>
+<s> i understand that my post might've been unclear, but if you're sorry to be &quot;crass&quot; then why do you do it.  </s>
+<s> if you would like for clarification, i would've appreciated it if you asked instead of accusing me that my post was a choice on mypart to hamper others help.  </s>
+<s> i see you don't want to head to to the solution and let others supply you a do this for a specific router but by doing so you could learn what you need to know about solving your issue.  </s>
+<s> make better posts, get better answers is what i've heard.  </s>
+<s> i did rewrite my first reply a few times and couldn't find a good way to tell you that leaving out details hampers everyone including you.  </s>
+<s> i also can't be your &quot;tech support&quot; so i've taken to not duplicating ready web content about port forwarding and other topics.  </s>
+<s> there are only so many hours in a day and only so many members that will reply.  </s>
+<s> even less when the post is not complete.  </s>
+<s> bob  </s>

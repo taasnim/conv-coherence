@@ -1,0 +1,92 @@
+<s> hello there, on a abit / amd mobo, running win 2000, i recently installed some new software, but it was at least a few weeks after that i noticed slow performance.  </s>
+<s> i have 3 hard drives.  </s>
+<s> c: drive is always fine. the d: drive failed a diagnostic test, so i removed it. the e drive (device &quot;1&quot; on the secondary ide channel), keeps slipping out of ultra dma into slower pio mode.  </s>
+<s> i replaced this drive too just to be sure, but the problem is not fixed.  </s>
+<s> it keep slipping into pio mode.  </s>
+<s> i can work around this by uninstalling (under ide controllers in device manager) the secondary ide channel. the driver / device reinstalls on startup, it goes back to ultra dma mode for a while.  </s>
+<s> but this only holds up for a few days then it slips back to pio mode.  </s>
+<s> any advice on how to fix this?? is it software or hardware related?  </s>
+<s> is it a prob with my mobo?  </s>
+<s> i'm really stumped.  </s>
+<s> thanks - fj  </s>
+<s> cable types (only 80 conductor will do) and motherboard drivers.  </s>
+<s> other areas are substandard power supplies and heat.  </s>
+<s> many will fit &quot;just big enough&quot; supplies and will experience issues like this. can i ask why such detail is not in your post?  </s>
+<s> bob  </s>
+<s> sorry bob, been away from the forum for a while, i am using the cable supplied with the drive (wd1600) but i had the same problem with the previous cable that was in there too.  </s>
+<s> i'm fairly sure it's up to snuff now.  </s>
+<s> i have not done anything with mobo drivers.  </s>
+<s> not sure what mobo this is any more, i will figure that out and do an update.  </s>
+<s> do i need to do drivers or flash bios too maybe?  </s>
+<s> thanks --fj  </s>
+<s> sorry bob, been away from the forum for a while, i am using the cable supplied with the drive (wd1600) but i had the same problem with the previous cable that was in there too.  </s>
+<s> i'm fairly sure it's up to snuff now. the mobo is an abit kd7a.  </s>
+<s> i have not done anything with mobo drivers.  </s>
+<s> do i need to do drivers or flash bios too maybe?  </s>
+<s> thanks --fj  </s>
+<s> first yes! 1. bios?  </s>
+<s> yup.  </s>
+<s> when i start on a new machine, i want the latest so i sidestep what problems it fixed.  </s>
+<s> 2. motherboard drivers.  </s>
+<s> yes.  </s>
+<s> i always get the latest.  </s>
+<s> 3. power supply.  </s>
+<s> what's on my desktop p4-3.0ghz ht? a cheapo but it's 680watts.  </s>
+<s> overkill but i don't want trouble.  </s>
+<s> hope it helps you out.  </s>
+<s> bob  </s>
+<s> try swapping out the power supply.  </s>
+<s> had the same problem and after much hair pulling ended up trying another power supply in place of my 6 month old antec problem solved.  </s>
+<s> btw antec handled the warranty repair very quickly.  </s>
+<s> excellent service.  </s>
+<s> well i installed updated mobo drivers and so far so good! if that doesn't work will post that info, and try a new p/s.  </s>
+<s> (i should think if it was the ps tho, wouldn't all the all the drives affected?  </s>
+<s> the c drive never goes pio.) thanks for all the help -- fj  </s>
+<s> the psu doesn't need to afflict all devices.  </s>
+<s> some will complain at different points.  </s>
+<s> here's why.  </s>
+<s> each device may have a different tolerance to low voltage or short dips in supply voltages.  </s>
+<s> -&gt; the lesson i learned years ago was to never skimp on power and cooling.  </s>
+<s> bob  </s>
+<s> well with new drivers (and all new ribbon cables), 2 of the 3 drives are fine.  </s>
+<s> however, one seagate 120 gig drive (primary slave) was going back to, not pio mode, but dma mode -- not &quot;ultra&quot; dma mode.  </s>
+<s> swapped out that drive and put in an identical model hd (all ihad to test with) and no matter what i do with device manager it still comes up dma mode (not ultra dma mode) i am assuming that the only setting for ultra dma is that one in device manager.  </s>
+<s> close, but no ceegar.  </s>
+<s> so i guess this model of drive is reacting badly to power supply.  </s>
+<s> guess i need a new power supply!  </s>
+<s> i spose i've had this enermax long enough.  </s>
+<s> any recs for which new one to get?  </s>
+<s> --fj  </s>
+<s> you need to somehow free up some power to see if that's the issue.  </s>
+<s> also, 80 conductor cables are cheap.  </s>
+<s> try a new one.  </s>
+<s> bob  </s>
+<s> well i swapped out the ps i had another 425 ps supply (not as fancy as the enermax) but practically new from another box.  </s>
+<s> still i get dma, not ultra dma, in the st3120026a seagate drive.  </s>
+<s> next, i can disable one case fan that's running off the mobo and pull cables out of the 3rd drive and dvd drive, will what that gets me!  </s>
+<s> doe this st3120026a drive in fact run at ultra dma mode?? is there a way to enable dma mode besides device manager ata/atapi control?  </s>
+<s> vexed but appreciative of the help, fj  </s>
+<s> noted at does it pass seagate's drive fitness test?  </s>
+<s> well i pulled the extraneous fan and all extra drives, no help.  </s>
+<s> ran the basic seagate online test, no errors.  </s>
+<s> will try their bigger diagnostic-- have to shut down and plug in floppy drive for that!  </s>
+<s> later - fj  </s>
+<s> well after all this fuss and feathers, turns out i had switched off the primary slave in cmos in earlier attempts to isolate the problem, (which i now think was both a bad drive and/or mobo drivers).  </s>
+<s> so i switched it back on (cmos wasn't recognizing the problem drive altho windows was, only it went to plain dma due to that, which is how it kept fooling me) everything working now, thanks to all.  </s>
+<s> okay well i think i will put the better power supply back cheers and good night --fj  </s>
+<s> my pager didn't work.  </s>
+<s> took it in and the guy opened it up, flipped the battery over and handed it back.  </s>
+<s> don't fret about it at all.  </s>
+<s> bob  </s>
+<s> just wanted to post the conclusion, yep, all the other remedies did not work but a new antec ps and no problems since.  </s>
+<s> hooray- fj  </s>
+<s> okay, it was not the power supply, at least, the new ps did not solve the problem.  </s>
+<s> i am wondering if this is being caused by some sort of problem with the liteon dvd drive.  </s>
+<s> guess i will see if there is some driver patch or something to try - fj  </s>
+<s> i found a few bad abit's with swelled leaking capacitors and this was a side effect.  </s>
+<s> you can check this list.  </s>
+<s> 1. no bad caps.  </s>
+<s> 2. latest drive firmware and bios.  </s>
+<s> 3. latest motherboard drivers.  </s>
+<s> 4. no cd/dvd emulators.  </s>
+<s> bob  </s>

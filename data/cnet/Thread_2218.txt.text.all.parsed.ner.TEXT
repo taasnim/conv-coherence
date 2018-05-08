@@ -1,0 +1,16 @@
+<s> i have an asus b202.  </s>
+<s> i don't think a sound card was ever installed on this device, it's a hand-me-down but it's in great condition.  </s>
+<s> when i go to the volume control it tells me that &quot;no active mixers are installed&quot;.  </s>
+<s> i've installed the drivers from the asus website but an error pops up during install, &quot;no audio device on hd detected&quot; (or something like that).  </s>
+<s> i think my only way of getting sound off this thing without having to send it back to asus might be an external sound card (usb) but i know absolutely nothing about them.  </s>
+<s> do they work?  </s>
+<s> does it basically replace what should have been installed on the motherboard?  </s>
+<s> thanks in advance for help, you guys rule.  </s>
+<s> almost all hd audio solutions have us install the ms uaa (yes that's a google for you) driver first from the machine or motherboard maker before the audio driver.  </s>
+<s> it seems either the documentation omits this important step or people don't read said docs.  </s>
+<s> bob  </s>
+<s> thanks for the tip.  </s>
+<s> i'll try installing the uaa before i do anything else.  </s>
+<s> an external sound card will also still take care of the problem though, right?  </s>
+<s> let's say we don't install the ms uaa, an external would replace the need to do so?  </s>
+<s> the external should come with an install cd that will walk you through it.  </s>

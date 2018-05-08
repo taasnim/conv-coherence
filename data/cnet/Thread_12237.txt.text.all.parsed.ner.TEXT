@@ -1,0 +1,9 @@
+<s> i did a fresh windows 7 installation on one of my pcs on the network.  </s>
+<s> the problem now is i cannot ping that computer from any other computer on the network.  </s>
+<s> i can ping the gateway and other computers from that specific computer, but not vice versa. the pc s ip address is 10.5.3.100 if i ping it from another machine it says reply from 10.5.3.108 destination host unreachable i have noticed that it is even replying from a different ip address help  </s>
+<s> in that ip address range?  </s>
+<s> did you change it?  </s>
+<s> have you checked the cable connected from your pc to another?  </s>
+<s> i think this problem is because of cable or some wrong ip address.  </s>
+<s> on the network?  </s>
+<s> that message suggests there is no path to the problem computer.  </s>

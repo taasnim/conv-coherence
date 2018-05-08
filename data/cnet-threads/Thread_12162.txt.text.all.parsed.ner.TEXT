@@ -1,0 +1,16 @@
+<s> i had to reformat this pc, was able to load onboard lan, sound, and modem drivers, have only standard vga driver loaded which gives me 16/2 bits- horrible.  </s>
+<s> system is as follows: windows 98 se (build 4.10.2222)  </s>
+<s> pcchips m599lmr asset tag: 0123abc enclosure type: desktop processor a main circuit board b 167 megahertz amd k6-2 w/3dnow!  </s>
+<s> 32 kilobyte primary memory cache 512 kilobyte secondary memory cache board: pcchips m598lmr 1.0 bus clock: 66 megahertz bios: american megatrends inc.  </s>
+<s> 062601 07/15/97 uses sis530 but i can't load it. is this a chiset package?  </s>
+<s> not sure what dirver you have, but the specs.  </s>
+<s> for your board say that it has the 3d pci sound pro, on board audio.  </s>
+<s> typing that into google reveals several sources for the driver.  </s>
+<s> it seems that pcchips no longer offers any support for your board, but other sites offer the drivers.  </s>
+<s> i've had to try several with older boards, before finding one that will work.  </s>
+<s> you may need to do some fishing for it.  </s>
+<s> best of luck  </s>
+<s> if you have the pcchips mtrbd.  </s>
+<s> cd, that should contain the &quot;viudeo drivers&quot;.  </s>
+<s> if not ande since you know the mtrbd.  </s>
+<s> model, then proceed the pcchips support website and get the related driver for that model mtrbd.. another website is tada -----willy  </s>

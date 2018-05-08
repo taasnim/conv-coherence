@@ -1,0 +1,46 @@
+<s> am trying to network my two home computers, and am not very capable with setting this up.  </s>
+<s> my specifics are as follows: comp.1--hp desktop running windows xp home w/sp2.  </s>
+<s> this has norton systemworks 2007 premier and zonealarm pro installed.  </s>
+<s> comp.2--gateway running windows xp media center.  </s>
+<s> this is fresh out-of-box, with no installed av or purchased firewall yet.  </s>
+<s> motorola cable/telephony modem sbv5220 linksys router wrt54g version 6 linksys wireless-g wmp54g wireless-g card was installed on gateway and appears to be ok...brought up a list of available networks it sniffed out.  </s>
+<s> attempted to install router on hp with supplied cd, but cannot connect to internet thru router.  </s>
+<s> wiring is correct: cable to modem, ethernet cable to router, line 1 ethernet cable to computer (hp).  </s>
+<s> have been in touch with their &quot;support&quot; techs. the last one informed me that there was a compatibility problem with ie7 (running on hp).  </s>
+<s> so i installed firefox version 2.0.  </s>
+<s> same problem exists.  </s>
+<s> i'm able to &quot;ping&quot; their site 192.168.1.1, and can also &quot;ping&quot; a url (if there's any difference between those two).  </s>
+<s> i don't know how to check for the ip addresses, nor where the mac address comes into play, if at all.  </s>
+<s> any help would be appreciated.  </s>
+<s> work on getting the wired connection working first.  </s>
+<s> see if you can access the router's administration page (the router's settings) by going to once you access the router's admin page, follow the instructions from your isp on how to set up a router with their service.  </s>
+<s> i am no real expert but i've just been thru this so i thought i'd give you my 2 cents, re: the router, my big mistake was misunderstanding which ethernet jack was in and which was out, as they are often right all in a row.  </s>
+<s> that stuff usually works right off.  </s>
+<s> if not, one trick is to reboot the modem and router: unplug, wait 30 seconds (why i don;t know- i wait 3) plug back in, and give it a few min.  </s>
+<s> re: setting up a home netowrk, here is what 5 books did not tell me: assuming both comps are on the net, this very important: 1) create a user account on each computer that is identical in name and password to the other.  </s>
+<s> when you create the account, add it to a workgroup.  </s>
+<s> you need to name the workgoup the same on each machine too.  </s>
+<s> this too is real important.  </s>
+<s> 2) i am not sure but i think the accounts need a password.  </s>
+<s> i was hoping to avoid this but apparently not.  </s>
+<s> 2a you may need to set the thing to ask for passwords.  </s>
+<s> go to system/ users and passwords.  </s>
+<s> it's a checkbox.  </s>
+<s> note this was a win2k thing.  </s>
+<s> 3) using windows explorer, (not ie), right click on folders you want to share, click properties, and click on share/ sharing and make them shared.  </s>
+<s> 4if you have a firewall (i have zone alarm) you need to add the network to the trusted zone.  </s>
+<s> my system: start run type cmd, in the dos window type ipconfig.  </s>
+<s> you will see your ip number, &quot;add&quot; that to your list of trusted zone comps.  </s>
+<s> 5) note if all your machines are xp, there is a network setup wizard you can use.  </s>
+<s> you need to burn a disk or have a thumb drive to xfer stuff to other comps.  </s>
+<s> i had win2k so couldn't use it.  </s>
+<s> bear in mind, i played around with passwords yesterday and now nothing works, but i had it up and running for a day.  </s>
+<s> this is just what seemed to work for me, it's still a blur.  </s>
+<s> if any experts care to correct me feel free.  </s>
+<s> once done, click on start network places, you'll see menu options to click on, one will take you to your network group.  </s>
+<s> if all you see is printers and faxes you dind't enable sharing.  </s>
+<s> good luck-- fj  </s>
+<s> well i am back up and running -- lesson learned, if you muck around with anything you need to go back and re-name the workgroup, why i do not know.  </s>
+<s> --fj  </s>
+<s> yep, that is a solution that can get sharing via windows workgroups going again. the ability to connect to the internet (rykdawgg6601's original problem) is independent of whether file sharing on a local network is functioning.  </s>
+<s> rykdawgg6601 should be able to get the router to connect to the internet whether or not workgroup file and printer sharing is enabled.  </s>

@@ -1,0 +1,14 @@
+<s> ok so i just got back to school from break and now my wireless is messed up in on my desktop.  </s>
+<s> im using windows xp and use a 2wire wireless adapter to get the connection.  </s>
+<s> there are 5 others computers/laptops on the ssid, all of which are working properly.  </s>
+<s> my computer was working properly on the wireless before i left but now it is not.  </s>
+<s> i have the wzc on auto so i am not using the 2wire software to set everything up (this is what i was using before which worked).  </s>
+<s> i had this same exact problem when i came back from thanksgiving break so i know it occurs when i bring my tower home and hook it up to a different dsl connection.  </s>
+<s> what i know - i have a problem with my ip address...when it comes up in the connection status, it reads as 169.... and i know it should be something to the order of 192....also when i go to repair the connection, the promp cannot renew the ip. so i looked this up and tried doing the ipconfig/release then ipconfig/renew and then i get a message that says &quot;unable to contact your dhcp server.&quot; also i get a pop-up error that reads &quot;windows was unable to find a certificate to log you on to the netork&quot; which i know has to do with radius servers and such and i looked this up too: i have my network set to wpa-psk with a tkip encryption??? (should this be set to aes instead?) last time i had a problem getting onto the network i did a bunch of cmd codes.  </s>
+<s> i did something with the dns, dchp, ping, and then did the iconfig stuff but i have no idea what i did before...i threw away my little paper with what i did.  </s>
+<s> i have also flushed the dns, then tried to release/renew the ip...still nothing.  </s>
+<s> what i dont know - how to fix this problem...or what is wrong thanks for all your help/comments in advance chris  </s>
+<s> try changing your router to b and g mode try channels 1, 6 or 11. these channels work with many devices.  </s>
+<s> go here and try winsock xp fix tell us what happens.  </s>
+<s> rick  </s>
+<s> i tried the winsock xp fix trick previously and that got me nowhere either i am going to uninstall/reinstall my wifi reader and see if that does anything any other ideas??  </s>

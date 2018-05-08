@@ -1,0 +1,75 @@
+<s> hello everybody, i now have two hard drives, both with windows xp sp2 on them.  </s>
+<s> currently the original hdd is now connected.  </s>
+<s> i installed a new 320 gb wd caviar hard drive in our desktop computer where the original 120 gb seagate barracuda hdd was located.  </s>
+<s> i successfully installed windows xp sp2 on the new hdd.  </s>
+<s> i reinstalled the original hdd beneath the new one.  </s>
+<s> i disconnected the new hdd.  </s>
+<s> i then reconnected the original hdd until we have time to install all the updates, drivers, etc, as we ran out of time and needed the computer.  </s>
+<s> we wish to keep the old hard drive as it is for now, until we can transfer just the files we need to the new hdd.  </s>
+<s> we would then format the old hdd and use it without windows xp. the jumpers on both hdds are at factory settings.  </s>
+<s> the data cable (which is round) is labeled: &quot;master&quot; and &quot;slave&quot;.  </s>
+<s> our computer is about 3 years old, purchased from a local shop: amd athlon xp 3000 2.16 ghz, 2 gb ram, ati all-in-wonder w/128mb ram, 120 bg seagate barracuda hdd.  </s>
+<s> i need to know what my options are.  </s>
+<s> questions: 1. is our cable possibly a &quot;cable select&quot; type & how can i check?  </s>
+<s> 2. do i need to do anything with the jumpers?  </s>
+<s> 3. can i now connect both hdds?  </s>
+<s> 4. if yes, what will happen when i start the computer?  </s>
+<s> 5. how might we transfer files from on hdd to another?  </s>
+<s> 6. can we access both hdds without rebooting, how does this work?  </s>
+<s> to all: tia fro your help.  </s>
+<s> dan  </s>
+<s> did you buy a retail wd kit or an oem drive?  </s>
+<s> if former, there should be an accompanying cd with migration software and instructions on how to move everything from old drive to new w/o re-installing os. at your knowledge level that's probably the best solution.  </s>
+<s> thank you for the response.  </s>
+<s> we purchased the wd hdd retail.  </s>
+<s> we do not want to copy anything but some specific files from the old hdd,...because back in february a windows auto update for ms office 2003 caused our ati video card to stop working properly.  </s>
+<s> we turned off auto update.  </s>
+<s> we contacted ms and ati about this and nothing they recommended has restored the tv function to our computer.  </s>
+<s> that includes current updates to the drivers and ms help suggestions, reinstalling drivers, etc.. the store we purchased the pc from recommended formating the hdd.  </s>
+<s> we do not want to copy the problems from the old hdd to the new one.  </s>
+<s> we wish to do a clean install with the os, the drivers, and not install ms office 2003 at all on the new drive.  </s>
+<s> now, i may not fully understand how this copying software you refer to works, but i do know i don't want to duplicate the same driver conflict/problems by copying it to the new drive.  </s>
+<s> thanks, dan now, can anyone please provide some answers to my questions since i have a bit more information about the issue at hand?  </s>
+<s> sam, i appreciate your help.  </s>
+<s> i'm sorry if my reply was a bit testy.  </s>
+<s> this computer problem has gotten to me.  </s>
+<s> i hooked up the new hard drive so my wife can load the drivers and programs this weekend while i am at work.  </s>
+<s> i'll try setting the jumpers to &quot;master&quot; and &quot;slave&quot; next weekend, when i am off work and do have time to work on it again.  </s>
+<s> dan  </s>
+<s> 2 drives with active partitions with windows, even when one is master and the other slave, is windows may get confused and write to the wrong drive.  </s>
+<s> then, neither will work properly w/o the other present.  </s>
+<s> better for you to get a usb enclosure or adapter such as and connect the old drive with it.  </s>
+<s> your sata/ide to usb adapter idea sounds interesting.  </s>
+<s> i appreciate the info.  </s>
+<s> i better understand your earlier comments about this issue.  </s>
+<s> i checked and see that local microcenter has four different models.  </s>
+<s> it has been nothing but a pain since that windows auto update back in february.  </s>
+<s> wife lost her tv feature she used to record shows.  </s>
+<s> system restore didn't even work.  </s>
+<s> google &quot;remove ms office 2003&quot;, some time, and you'll see what i mean.  </s>
+<s> nothing.  </s>
+<s> can't remove the update, can't remove office, can't get old or new video drivers to work.  </s>
+<s> i'll be glad when my wife gets all her necessary files saved to the new hdd.  </s>
+<s> i'll see about buying one of these adapters try it out next weekend when i am off work.  </s>
+<s> thanks, dan  </s>
+<s> aiw cards have always been klutzy hardware.  </s>
+<s> ccc suite too.  </s>
+<s> try removing ccc leaving only the hw drivers, and of course keep tv software.  </s>
+<s> i dump ccc on any ati cards i use.  </s>
+<s> in one installation, it caused the whole screen to be a nice shade of magnolia pink in default settings and it wasn't even spring!  </s>
+<s> don't know why mso2003 and patches would be a problem.  </s>
+<s> i don't use auto update but have installed mso sp3 and xp sp3 and post patches which include all previous hotfixes and some optional components from sp2.  </s>
+<s> don't install hw driver updates shown in ms update unless you know for sure they will work (duh, how can anyone know that unless testing in a lab); been known to crash or hang up some pcs.  </s>
+<s> auto update should not be delivering hw drivers.  </s>
+<s> finally, tread carefully when using tv adapters because i have found some tuner and pvr sw break too easily when other hw/sw are installed/uninstalled.  </s>
+<s> good luck with your recovery.  </s>
+<s> i got home from work tonight and the wife tells me of her adventures loading drivers onto the new hdd.  </s>
+<s> then she mentions the new drive is now f:/ and she had to change things when they wanted to go to the c:/ drive.  </s>
+<s> now how am i going to straighten this mess out?  </s>
+<s> good lord, what next?  </s>
+<s> what do i have to do to format this drive and install it so it is recognized as the c:/ drive?  </s>
+<s> we had gotten as far as loading windows xp sp2, the wireless adapter for the internet, and some drivesrs.  </s>
+<s> i have now reconnected the old hdd so she can use the computer until we get sorted out.  </s>
+<s> boy is this a pita.  </s>
+<s> please, help!  </s>
+<s> dan  </s>

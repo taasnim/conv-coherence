@@ -1,0 +1,21 @@
+<s> my isp is telus.. we have the speedtouch st516v6 modem the modem is rated up to 10mbps and my isp can provide up to 15mbps the setup: isp &gt; dlink (dir815) wireless router &gt; 2 netgear gigabit gs108 switches.  </s>
+<s> first switch is for the house computers (4-5 computers, all wired connection) second switch has 2 routers connected, they are on different floors.  </s>
+<s> router2 is a linksys router3 is a netgear.  </s>
+<s> what settings should be changed in order for people to connect too.. im expecting anywhere from 30-60 users on at any given time.  </s>
+<s> there are people telling me that they sometimes arent connecting or connected but have no internet.  </s>
+<s> ok.. so i take it that people on the second switch are losing connection.  </s>
+<s> i'm also think that anyone who is directly connect is not reporting the issues or having any connection problem.  </s>
+<s> are the only people reporting the issues are the linksys and netgear?  </s>
+<s> if this is the case what model type of router's are these and do they have a bridge setting so you can create one wireless network bridge.  </s>
+<s> one thing is to put the wireless route on different channels so they cancel each other signal.  </s>
+<s> try it.  </s>
+<s> let me know.  </s>
+<s> always here to help.  </s>
+<s> if this was in the nyc, i would recommend calling point to point solution, young guys that know alot of networking and fix problems like this one.  </s>
+<s> this is there link -chris  </s>
+<s> right now, i have done a 30/30/30 reset on the linksys and netgear routers so they are on default settings.. it seems a lot better but could be even better... maybe i should try to flash the tomato or ddwrt firmware.. might work better.  </s>
+<s> hi, using the network cable that came with your wireless router temporarily connect your computer to one of the open network ports on your wireless router.  </s>
+<s> you must turn on your computer, then it will automatically connect to your router. the next step is going to internet explorer and type in the address to configure your router.  </s>
+<s> then you might be prompted for a password.  </s>
+<s> the address and password depend on what type of router you have.  </s>
+<s> you have to refer the instructions included with your router. the last step is connecting your computer to the wireless network.  </s>

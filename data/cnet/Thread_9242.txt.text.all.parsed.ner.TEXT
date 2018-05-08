@@ -1,0 +1,47 @@
+<s> i am looking for the best video card i can get for my pc and still spend under $150. the only game that i play on it is world of warcraft: wrath of the litch king.  </s>
+<s> currently i have a ati all-in-wonder 2006 256mb video card (radeon 9600).  </s>
+<s> i have to play the game at the lowest settings and would like to find a card that will allow me to play it at the best settings and be able to handle updates to the game. the cards that i have looked at are: xfx geforce 8400 gs video card - 512mb pny geforce 8600 gt video card - 512mb ddr2 xfx geforce 8500 gt ultra silent cooling video card - 512mb ddr2 bfg tech bfge851024gte geforce 8500 gt 1gb his hightech h260xtp512ddn-r radeon hd 2600xt 512mb most of the reviews are not from gamers and the ones that are do not always list pc specs.  </s>
+<s> i heard that nvidia is better for gaming, so i'm leaning that way.  </s>
+<s> any thoughts on which of these or any other cards i should buy?  </s>
+<s> my pc specs: gateway gt5032 with modifications ( ) winxp mce 2005 amd athlon x2 2.2ghz 2gb ram ati all-in-wonder 2006 256mb video card 160gb & 250gb hds  </s>
+<s> for me the 8400 to 8600 chips are no sale.  </s>
+<s> why chance it?  </s>
+<s> mid level 9 series likethe 9400, 9500, 9600 are cheap and are twice as powerful as the 8 series usually.  </s>
+<s> bigboy73  </s>
+<s> my big complication is that according to my pc specs at least that i found on cnet)...i only have pci express x16 1.0.  </s>
+<s> and most 9 series are pci express 2.0. the only card that is 9 series and pci express 1.0 is: galaxy 95tge8hufexx geforce 9500 gt 1gb (newegg.com  </s>
+<s> $82) but according to this post, i can use pci-e 2.0 in my pc: this seems like it might be a recipe for disaster putting a pci-e 2.0 card in there.  </s>
+<s> or at the very least it won't function properly.  </s>
+<s> if this is true, then id get something like this: evga 01g-p3-n959-tr geforce 9500 gt 1gb (newegg.com  </s>
+<s> $70) asus en9500gt top/di/512m geforce 9500 gt 512mb (newegg.com  </s>
+<s> $80) galaxy geforce 9600 gt video card - 1gb ddr3, (tigerdriect.com  </s>
+<s> $105) any thoughts appreciated.  </s>
+<s> pcie 1.0 cards work in 2.0 slots and pcie 2.0 cards work in 1.0 slots.  </s>
+<s> it is not a recipe for disaster since they designed this so it should always work.  </s>
+<s> however i can't speak to those that have trouble but when we dive in we find people that can't install drivers.  </s>
+<s> bob  </s>
+<s> the 4670 is the fastest $80 card benchmarks: the 4830 is the fastest $100 card benchmarks: and do not waste money on a 1gb ddr3 card in this price range. the memory is typically slower than a 512mb gddr3 version and the 1gb version won't be any faster (and sometimes will be slower).  </s>
+<s> to r.proffit: thanks for the clarification, i was not aware of the compatibility.  </s>
+<s> my other worry about this is that the card won't operate to benchmarks b/c of the limitations in interface.  </s>
+<s> to ramarc: for the price and the graphs my belief of nvidia is better than ati for gaming is changing.  </s>
+<s> is it safe to assume that the performance charts did not have the video cards paired?  </s>
+<s> i'll probably go with the 4830 unless anyone else has an opinion.  </s>
+<s> thanks to you both for your help!  </s>
+<s> the links for the hd 4830 show that it's performance is comparable to geforce 9800gt (which is faster than a 9600gt which is faster than a 9500gt).  </s>
+<s> doing further research on the 2 cards requirements brought up this: 4670 = 4830 = my pc specs: the 4830 needs a 450w power supply and the 4670 a 400w power supply.  </s>
+<s> if i were to get either of these cards, then would i be able to run them since i have a 300w power supply?  </s>
+<s> and if i need a new power supply, what do you think of this: logisys computer ps575xbk 575w atx12v sli ready power supply (newegg $30)  </s>
+<s> i wondered if they were paired, as in 2 of the same video cards linked together.  </s>
+<s> i'm not up on the sli/crossfire technologies, so i don't know how else to explain it.  </s>
+<s> i just wanted to make sure that the data was from a standalone card and not 2 of them linked together.  </s>
+<s> i don't have 2 pci-e slots...so i can only put one in there, nor do i feel like upgrading this pc much more other than a new video card and maybe power supply.  </s>
+<s> next time i'm making one.  </s>
+<s> but the hd 4670 shouldn't.  </s>
+<s> video card power supply recommendations are estimates.  </s>
+<s> the hd 4670 does not require a pci-e connector -- it draws all of it's power from the pci-e slot.  </s>
+<s> a pci-e slot must provide up to 75 watts of power so generally if a card doesn't have a seperate power connector, it doesn't need a big power supply either.  </s>
+<s> gateway uses pretty good power supplies so i'd leave it be.  </s>
+<s> here's an article on the actual power draw of pcs using various video cards (as you can see, the hd 4670 only draws 60w and thus doesn't require a seperate pci-e power connector): p.s.: the benchmarks are sent earlier are for single card configurations.  </s>
+<s> yeah i was wondering about that too, but the tech support at tiger direct.com  </s>
+<s> assured me they were completely backwards compatible.  </s>
+<s> and either card will work in either slot :op  </s>

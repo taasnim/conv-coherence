@@ -1,0 +1,25 @@
+<s> i have a requirement to be able to write protect an external hardrive.  </s>
+<s> we have unclassified data that we need to move to a classifed system. the whole purpose of write protecting is to insure that no sensitive data is inadvertantly copied to the external drive while its connected to the classified system.  </s>
+<s> we currently have 6 maxtor 250gb drives that do not have any type of physical switch for enabling write protection, nor does their software enbable us to do that either.  </s>
+<s> does anyone know of a procedure we could use to enable write protection on these drives?  </s>
+<s> does anyone know of a external drive that has a physical/software means of enabling write protection?  </s>
+<s> we put it on cdr or dvd-r and moved it over. the cdr and dvd-rs were put in the burn barrel for destruction later.  </s>
+<s> this was the only solution our security officer would accept since the write protect can... fail.  </s>
+<s> bob  </s>
+<s> an ancient original post, but still a current problem... i use internal hard drives to store all of my data, and i use various external usb/firewire enclosures which conveniently allow me to hot-swap my hard drives and take my data to other computers.  </s>
+<s> there have been several occasions where friends of mine and i personally have lost all data on external hard drives - corrupting the data on external drives seems to be a fairly common problem that may occur for instance if the drive is powered on while the computer reboots, or if you connect to a computer with an old operating system, or if you hook up additional external devices that don't get along with yours.  </s>
+<s> i find this situation very troublesome, and i would like my data to be protected from this kind of corruption.  </s>
+<s> i am not interested in password protecting my files, or preventing them from being read, but simply in preventing deletion and corruption.  </s>
+<s> in my opinion, there can be no software solution to this problem: even if it worked, it would only apply to one system, and not to any arbitrary system i would like to hook my drive to.  </s>
+<s> it seems that the only secure solution would be an external enclosure that only allows read commands to the enclosed hard drive.  </s>
+<s> it would be nice if this write protection could be turned on and off with a switch, but a permanent one would be just as good (i can always put the drive in another enclosure if i want to write to it). it seems that to find this kind of device, you need to add the word &quot;forensic&quot; to your search, as if forensics were the only application that this is useful for.  </s>
+<s> some search results that offer ide to either usb or firewire: ~$100: $195: $330: $400: $980: good luck...  </s>
+<s> for the price, form factor, etc... the best i could find was the ultrablock usb write blocker... this is a usb device you plug &quot;in-line&quot; and it will write protect what ever is connected to it. it is a hardware write protect, so it isn't prone to failure.  </s>
+<s> they aren't cheap...to the tune of $300 each, but being a simple &quot;in-line&quot; usb device that cannot be accidentally &quot;unwrite protected&quot;, it is worth it.  </s>
+<s> yes, it does not have a switch on it... it is always in read only mode.  </s>
+<s> a big plus if your security officers are paranoid.  </s>
+<s> too bad i don't live/work in the uk. plextor has a write protect hdd available to europeans.  </s>
+<s> it is not available in the usa.  </s>
+<s> i've already looked.  </s>
+<s> i wish it was.  </s>
+<s> i even contacted plextor to try and find out what it would take to get some here. the guy on the phone was a real smartass about it and wouldn't lookup any contact info for anyone in the company that would actually know something.  </s>

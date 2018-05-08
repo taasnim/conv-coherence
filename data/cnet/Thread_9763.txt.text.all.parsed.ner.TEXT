@@ -1,0 +1,69 @@
+<s> i'm running xp home sp2 on sony vaio pcv rs-712 with sony dvd cd rewritable drive (model dw-d22a) and hitachi-lg dvd-rom drive (model gdr-8163b (syao). the two drives stopped detecting inserted discs at the same time.  </s>
+<s> i've tried the &quot;troubleshooting&quot; help with no success.  </s>
+<s> device manager states everything is o.k. i can't use the disc cleaner as the discs don't spin.  </s>
+<s> i've tried every kind of disc i have with no success.  </s>
+<s> i opened the drives to clean the lenses but couldn't see anything that looked like a lens.  </s>
+<s> i used a lot of compressed air in any opening there was.  </s>
+<s> still no success.  </s>
+<s> i checked for firmware updates - but i have the latest.  </s>
+<s> i tried the windows driver update, but was told i had the best driver.  </s>
+<s> could there be a registry setting that's wrong?  </s>
+<s> what other things could i try? an old-timer trying to keep up.  </s>
+<s> if so, what.  </s>
+<s> sometimes these programs will kill a drive.  </s>
+<s> yes, i had ashampoo burning studio 8 but i uninstalled it but this didn't make any difference.  </s>
+<s> it does what it says it does at  </s>
+<s> thanks for the tip.  </s>
+<s> i downloaded the wizard and received the following message for both drives: &quot;either the device is malfunctioning or the wizard cannot determine the problem.&quot;  </s>
+<s> i guess it's not an either/or, but both.  </s>
+<s> here is the log file that was generated.  </s>
+<s> perhaps it has some clues.  </s>
+<s> thanks, autofix [v5.2.3790.67]  </s>
+<s> time [2008-11-05 22:52:50] microsoft windows version [5.1 (service pack 2) &lt;2600&gt;] test [the shell hardware detection service is running.] - instance [n/a]: result [autostart setting]: ok result [the shell hardware detection service is running.]:  </s>
+<s> ok test [policies] - instance [d:, drive type: 5]: result [hkcu...policies!nodrives]: ok {present} result [hkcu...policies!nodriveautorun]: ok {absent} result [hkcu...policies!nodrivetypeautorun]: ok {present} result [hklm...policies!nodrives]: ok {absent} result [hklm...policies!nodriveautorun]: ok {absent} result [hklm...policies!nodrivetypeautorun]: ok {absent} result [driver level policies]: ok { hklm...servicescdrom!autorun (present) &lt;allows&gt; hklm...servicescdromparameters!autorun (absent) &lt;allows&gt; hklmsystemccsenum...!alwaysenable (absent) &lt;not set&gt; hklmsystemccsenum...!alwaysdisable (absent) &lt;not set&gt; } test [drive notification] - instance [d:, drive type: 5]: result [legacy notification]: problems result [autoplay v2 notification]: problems { service (silent) shell (deaf) } &gt;&gt; repair &lt;&lt; [legacy autoplay event] step: no steps to take.  </s>
+<s> result: this autoplay setting cannot be fixed.  </s>
+<s> either the device is malfunctioning, or the wizard cannot determine the problem.  </s>
+<s> &gt;&gt; repair &lt;&lt; [autoplay v2 event] step: no steps to take.  </s>
+<s> result: this autoplay setting cannot be fixed.  </s>
+<s> either the device is malfunctioning, or the wizard cannot determine the problem.  </s>
+<s> &gt;&gt; required action: the wizard found problems but cannot fix them -&gt; none autofix [v5.2.3790.67]  </s>
+<s> time [2008-11-05 23:00:21] microsoft windows version [5.1 (service pack 2) &lt;2600&gt;] test [the shell hardware detection service is running.] - instance [n/a]: result [autostart setting]: ok result [the shell hardware detection service is running.]:  </s>
+<s> ok test [policies] - instance [e:, drive type: 5]: result [hkcu...policies!nodrives]: ok {present} result [hkcu...policies!nodriveautorun]: ok {absent} result [hkcu...policies!nodrivetypeautorun]: ok {present} result [hklm...policies!nodrives]: ok {absent} result [hklm...policies!nodriveautorun]: ok {absent} result [hklm...policies!nodrivetypeautorun]: ok {absent} result [driver level policies]: ok { hklm...servicescdrom!autorun (present) &lt;allows&gt; hklm...servicescdromparameters!autorun (absent) &lt;allows&gt; hklmsystemccsenum...!alwaysenable (absent) &lt;not set&gt; hklmsystemccsenum...!alwaysdisable (absent) &lt;not set&gt; } test [drive notification] - instance [e:, drive type: 5]: result [legacy notification]: problems result [autoplay v2 notification]: problems { service (silent) shell (deaf) } &gt;&gt; repair &lt;&lt; [legacy autoplay event] step: no steps to take.  </s>
+<s> result: this autoplay setting cannot be fixed.  </s>
+<s> either the device is malfunctioning, or the wizard cannot determine the problem.  </s>
+<s> &gt;&gt; repair &lt;&lt; [autoplay v2 event] step: no steps to take.  </s>
+<s> result: this autoplay setting cannot be fixed.  </s>
+<s> either the device is malfunctioning, or the wizard cannot determine the problem.  </s>
+<s> &gt;&gt; required action: the wizard found problems but cannot fix them -&gt; none  </s>
+<s> r. proffitt - i think i clicked on the wrong &quot;reply&quot; link and my response to your suggestion is shown above your reply.  </s>
+<s> i appreciate your patience and your reward will be in heaven.  </s>
+<s> see how another solved it at  </s>
+<s> thanks for the lead.  </s>
+<s> i had already uninstalled a previous burner (only files i found still around were log files).  </s>
+<s> no new driver updates available.  </s>
+<s> autofix still doesn't help.  </s>
+<s> i'm becoming very concerned - nothing seems to help and i don't even want to consider new drives as i don't think two drives would mechanically fail at the same time.  </s>
+<s> i'm trying to be hopeful that there's still something i can do to correct the problem.  </s>
+<s> any other suggestions?  </s>
+<s> - i'll try anything.  </s>
+<s> 1. tried one drive at a time.  </s>
+<s> 2. removed the usual upper and lower filters (read ) 3. booted safe mode and headed to the device manager to delete all cd/dvd drives there then rebooted.  </s>
+<s> 4. noted if the bios sees the drives.  </s>
+<s> remember if the bios doesn't find them, neither will windows.  </s>
+<s> i appreciate you sticking with me on this.  </s>
+<s> i tried items 1, 3, & 4 with no success.  </s>
+<s> i didn't attempt 2 because of the warning: &quot;uninstall all cd or dvd writing or recording programs&quot; before using this method.  </s>
+<s> i have a writing program that was pre-installed on my computer with the os (program called click to dvd).  </s>
+<s> if i delete it i don't know how to re-install as i don't have any install discs.  </s>
+<s> at any rate, i see that this procedure is for resolving the error if the drive is missing from my computer, but shows in device manager with a conflict.  </s>
+<s> this isn't my problem. the drives are shown in my computer and there is no conflict shown in device manager.  </s>
+<s> am i running out of options?  </s>
+<s> as to removing the software items i've ignored that and found the only loss was something that didn't work well.  </s>
+<s> good luck, bob  </s>
+<s> bob, thanks for all your help.  </s>
+<s> unfortunately for us novices, &quot;something that [doesn't] work well&quot; is more than an &quot;only loss.&quot;  </s>
+<s> i guess it's because we often don't know how to correct something that's not working well (the difference between &quot;not working well&quot; and &quot;not working&quot; is blurred.  </s>
+<s> i hope you know how much your work is appreciated on this forum.  </s>
+<s> i've learned a lot in the process.  </s>
+<s> thanks again.  </s>
+<s> i'll report back on any success i get (it might be of value for others in the same boat.)  </s>

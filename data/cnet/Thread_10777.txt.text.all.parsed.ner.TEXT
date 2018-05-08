@@ -1,0 +1,30 @@
+<s> ntfs - fat32 - partition/format i recently installed a 2nd hd (80 gig - non formatted/non partitioned - as of yet)...my original system is running xp on a 40 gig fat32... 1. is it in my best interest to convert the fat32 to ntfs...and format/partition the new 80 gig to ntfs or run the 40 as is and run the 80 as ntfs?  </s>
+<s> 2. when/if i convert the fat32 to ntfs, should i just use the xp convert ''tool'' since i have the os/programs/files on the drive?  </s>
+<s> or should i backup the drive and format?  </s>
+<s> benefits/drawbacks?  </s>
+<s> 3. i am in search of a way (if possible) to backup my operating system and programs so i do not have to reinstall everything from scatch...(if not the best idea...suggestions?) background information: system will eventually have an external hd to use as a backup of drive #2, while drive #1 strictly runs os and program files.  </s>
+<s> that may firm up your decision.  </s>
+<s> boot disk ntfs, other fat32 is fine.  </s>
+<s> revwerse is not too good.  </s>
+<s> you've got the wrong idea here... one harddrive does not read another.  </s>
+<s> it's the os. older os, such as windows 95, cannot read ntfs because it does not support the newer file system.  </s>
+<s> if you have windows nt, 2000, xp or above, it doesn't matter what kind of mix of file systems you have.  </s>
+<s> you can partition one harddrive into two drives, one running on fat and the other on ntfs, and it will work fine.  </s>
+<s> with the lower price of hd these days why would you want to create more work out of something?  </s>
+<s> spend the &quot;few&quot; extra bucks and go get a large capacity hd. you didn't say if you were planning on running a raid setup.  </s>
+<s> but if you're a gamer raid is not the way to go.  </s>
+<s> in fact a raid setup is actually slower for gaming then a single hd.  </s>
+<s> save yourself the headaches and get a larger hd  </s>
+<s> that by boot disk i meant the operating system????is your sole reason for posting to try to tell someone that they are wrong??? what i said in my post was valid.  </s>
+<s> if he makes the operating system fat 32 he won't be able to read the files data et al that would be on the ntfs drive.  </s>
+<s> he did say he uses windows xp, you know, it's on the first post...  </s>
+<s> so what's your point???  </s>
+<s> &quot;if he makes the operating system fat 32 he won't be able to read the files data et al that would be on the ntfs drive.&quot;  </s>
+<s> it says if he has xp running fat32 on the boot drive and the other drive or partition is in ntfs, he can't read them from the boot operating system.  </s>
+<s> exactly the same as if the second drive was formatted using an overlay program.  </s>
+<s> we sure live in different worlds.  </s>
+<s> haha! where did you get all your ideas!? you've got to be kidding me! it doesn't matter which drive is the boot drive.  </s>
+<s> windows xp, the software itself, supports both formats and can read from both formats.  </s>
+<s> poohoo... ^_____^  </s>
+<s> well, teh hd's have already been purchased...not really intended for gaming purposes.  </s>
+<s> thanks.  </s>

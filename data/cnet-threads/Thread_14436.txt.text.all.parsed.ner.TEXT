@@ -1,0 +1,58 @@
+<s> i got two laptops running xphome (computer a and computer b) i got computer a hooked up to the routher with an ethernet cable, and computer b is wireless.  </s>
+<s> they both got internet connection just fine.. i ran the create small home network wizard on both computers just as the instructions tell me...(the ones in weekend project) the problem is that in computer b when i go to my network places and click on view my workgroup computers i get this message: home( which is my workgroup name) is not accesible.  </s>
+<s> you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions. the list of servers of this workgroup is currently unavailable.  </s>
+<s> also when i try to add my shared printer to computer b i cant find it, it wont even find my workgroup... so when i go to computer a, i click on view workgroup computers, i can see them both there, but..if i try to click on computer b i get this message: you might not have permission to use this network resource.  </s>
+<s> contact the administrator of this server to find out if you have access permissions.  </s>
+<s> network path was not found i followed the exact instructions so i dont know wats goin on, maybe cuz is xphome and not xppro... (my printer is connected to computer a, so i dont need to add it, but if i got add printer and look in network i do see my workgroup there, is only in computer b where is not finding my workgroup)  </s>
+<s> be shared?  </s>
+<s> and what about those firewalls?  </s>
+<s> the problem could lay on the fact that you need user accounts set in both computers.  </s>
+<s> this is for networking authentication reasons.  </s>
+<s> try this: go to computer a and set up a user.  </s>
+<s> to do this go to control panel and select user accounts and then create a new user. the user name being &lt;xxxx&gt; and password being &lt;yyyy&gt;.  </s>
+<s> then go to computer b and repeat the same step as in computer a. the user name and password must be the same in both computers, so be carefull so you dont mistype it.  </s>
+<s> after this has been completed restart both computers and try to connect to each other through windows explorer.  </s>
+<s> remember the workgroup name should be the same in both computers.  </s>
+<s> let me know if it works or if you have any other problems.  </s>
+<s> //x-tra tip: make sure all the firewalls are turned off even microsoft firewall.  </s>
+<s> once you have achieved a connection then you can troubleshoot the firewalls if there are any problems.  </s>
+<s> //more tips at: //pacific_link@gmail.com end sub  </s>
+<s> i did exactly as you said.  </s>
+<s> and i still get the same message.  </s>
+<s> the firewalls are turned off on both laptops... the workgroup name is home on both computers but from computer a for some reason it says home is not accessible.. thanks for helping me  </s>
+<s> i had the same problem.  </s>
+<s> i finally disabled norton internet security and then i could access either computer.  </s>
+<s> i then changed the settings in personal firewall to allow for the local ports and subports and everything worked fine and my internet security is turned back on.  </s>
+<s> hope this helps.  </s>
+<s> the issue with the printer seems similar to what i experienced when i added my new laptop to my wireless network.  </s>
+<s> it couldn't find the printer connected to the desktop even though sharing was enabled.  </s>
+<s> finally, i just typed the printer's network path into the box in the ''install new printer'' wizard instead of trying to browse for it (ex: \dellepsonsty) and it worked.  </s>
+<s> there were also a couple of other network resources i had to enter the path for instead of browsing.  </s>
+<s> i have no idea why.  </s>
+<s> this may have nothing to do with your problem, and i'm not awake enough to address the bigger network access issue, but it may prove useful to you or to someone following this post who has similar issues.  </s>
+<s> christa  </s>
+<s> okay, i just went to the dell desktop and tried to browse the network and got the same error message that you did, even though all the network resources (which are on or connected to the desktop only) are still accessible.  </s>
+<s> so i guess now i'll sit back and watch this thread along with you.  </s>
+<s> christa  </s>
+<s> i had a desktop and a wireless laptop on my network both running xp pro and had a perfect inter connection for a long time, even other wireless / wired laptops (xp homes) could see and browse the network.  </s>
+<s> then one fine day i started getting the same problem as you had, ( i guess i messed up with some settings ) my laptop couldnt acsess the desktop though the desktop could acsess the laptop.  </s>
+<s> i couldnt solve the problem and lived wth it.  </s>
+<s> (its easy... just drop files from pc a to pc b, because pc a can see pc b and not viceversa) then one day i decided to try linux on my desktop and installed fc4 linux and removed windows.... but after a couple of months i realised that i couldnt live with linux (i am not a techie, i am a md )so i reinstalled xp pro again on my desktop and to my surprise the home network worked perfect as it always had.  </s>
+<s> what i am trying to suggest is if you have the time and are desparate to have a network, do what i did (even though there must be a much much simpler way!!)back up, format your hard drive, and reinstall windows xp!! i cant assure this will work but it did for me.  </s>
+<s> besides reinstalling windows will make your pc like a new one that works as fast as it did the day you bought it!  </s>
+<s> i have found several answers to problems on this site in the past.  </s>
+<s> maybe it will help all of you.  </s>
+<s> yeah i know wat u mean, i have try just typin the printers path but nope it wont find it... and computer a sees computer b but when i try to get on computer from computer a it wont let me access it.  </s>
+<s> computer just doenst even see computer a i can live wit this problem but it would be nice to have my lil network at home.  </s>
+<s> thanks for ur help  </s>
+<s> yeah it would be nice to install windows again but.. computer a is not mine and it has a bunch of accounts and computer b is brand new.. thanks for ur help.  </s>
+<s> ill go check it out!  </s>
+<s> i went into computer b and disabled norton and that was it, now i gotta figure out how to configure norton to let me access the computer cuz when norton is on again it wont let me access it.  </s>
+<s> thanks a lot for the help.  </s>
+<s> hi there, i dont think setting up user names and passwords really matter, the network and workgroups you created are standards with xp for connection purposes only.  </s>
+<s> i.e shared internet.  </s>
+<s> if you want to acces files to and from different machines be they wireless or not, you have to share the folders, then right click your lan icon / open network connections right click then open properties.  </s>
+<s> now you should see the name of your ethernet card and the services its running / allows.  </s>
+<s> click install / protocols choose tcp ip version 6. you can also istall services qos packet shedule.  </s>
+<s> you should be good to go now.  </s>

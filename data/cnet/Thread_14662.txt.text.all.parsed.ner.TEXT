@@ -1,0 +1,17 @@
+<s> i have an anthlon xp 1900+ cpu.  </s>
+<s> in my bios, there are three setting.  </s>
+<s> cpu frequency 100mhz/ram 100mhz, cpu frequency 100/ram 133mhz, and cpu frequency 133mhz/ram 133mhz.  </s>
+<s> which is correct for this cpu? it seems the bios only displays the correct name for the cpu with the 133/133 setting.  </s>
+<s> all else and it says 1200mhz cpu, which i know is wrong.  </s>
+<s> still, i'd like to know.  </s>
+<s> the other settings are for instances when you have installed slower memory or are trying to troubleshoot issues.  </s>
+<s> there is a feeling that all such settings may have to vanish because it creates too many support calls.  </s>
+<s> bob  </s>
+<s> but i don't have pc133 ram.  </s>
+<s> i have pc2100 ddr.  </s>
+<s> &quot;but i don't have pc133 ram.  </s>
+<s> i have pc2100 ddr.&quot; pc133 was to note the clock rate to the memory.  </s>
+<s> in (most?) ddr ram, the numer refers to some bytes per second.  </s>
+<s> the math then looks like this: clock rate times byte count on stick x double (data rate) = number or 133 x 8 x 2 = 2,128 since no one will note pc2128, they round it off.  </s>
+<s> bob  </s>
+<s> the fsb needs to be changed to 133mhzit defaults to 100mhz  </s>

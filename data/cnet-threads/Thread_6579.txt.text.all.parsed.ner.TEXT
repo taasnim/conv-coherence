@@ -1,0 +1,71 @@
+<s> i'm still using a crt and i don't think a typical lcd would give me a better image.  </s>
+<s> i'm seeking some expert advice.  </s>
+<s> (1) i do mechanical cad, electronic cad, spreadsheets, etc. i don't do gaming or videos.  </s>
+<s> (2) i currently use a dell m991 19&quot; monitor. the recommended resolution is 1024x798 (3) i have my video board set for 1600x1200.  </s>
+<s> (4) i can see and read all the characters.  </s>
+<s> i cannot detect any &quot;stair stepping&quot; on lines that are nearly horizontal or vertical.  </s>
+<s> i assume that, with a recommended resolution of 1024x798, the shadow mask is of that resolution as are the color pixels.  </s>
+<s> but i gather the beam must split or scatter or whatever so that a 1600x1200 image is satisfactorily rendered on the screen.  </s>
+<s> please correct me if i am wrong (if it is important to my understanding this).  </s>
+<s> if i were to connect a 1920x1080 lcd monitor, what would it display with the video set to 1600x1200?  </s>
+<s> note, 1600x1200 is the highest resolution mode my board has and it doesn't have a 1080 line mode.  </s>
+<s> specifically, (1) would the monitor try to stretch the horizontal 1600 pixels to 1920 using some kind of digital processing and pixel replication?  </s>
+<s> (2) would it shrink the 1200 vertical to fit on the 1080 lines using digital processing to combine or delete some lines?  </s>
+<s> (3) if either of the above is true, do different manufacturers have better or worse processing?  </s>
+<s> (4) would the overall effect be better than what i have now or worse?  </s>
+<s> also, regarding screen size.  </s>
+<s> i can see everything fine at the distance i am at now on my 19&quot; screen.  </s>
+<s> what good would be a 22&quot; or 24&quot; screen with the same 1920x1080 resolution?  </s>
+<s> after all if it has the same number of pixels, all that happens is the pixels get larger.  </s>
+<s> but no more information will be presented is that right?  </s>
+<s> so the only &quot;gain&quot; will be the ability to view it from further away, right?  </s>
+<s> thanks in advance, pete  </s>
+<s> you really didn't say much about the system you are using, os hardware, etc. so it is a bit hard to say what would function best.  </s>
+<s> if you have a system that supports 1080p graphics then the lcd (with 1080p capability) would likely be a good way to go, hooking up via dvi or hdmi rather than vga, again it would depend on hardware and system capabilities.  </s>
+<s> a little more info might help.  </s>
+<s> overall, if your crt broke, you'll be left will little to replace it with.  </s>
+<s> crt's are history unless you seek a high-end model.  </s>
+<s> for those costs, the use of a basic lcd will do fine to include any so-called tv monitors types.  </s>
+<s> switching to a decent lcd and having better abilities may seem nothing to gain, but then again once you leave 19in.  </s>
+<s> monitors, having a larger display may help in cad setups. the lcds provides far greater display and that alone if you decide could be a good decision to go by. you can review or decide by looking at lcds on display at better office shops or fry's, best buy, etc., to get an idea what's available.  </s>
+<s> reveiew the specs on newer lcds to see what they offer.  </s>
+<s> of course, now would be a good time to have a spare crt, as those are practically given away, check craigslist or gwill, sal.army sources.  </s>
+<s> tada -----willy  </s>
+<s> hi pete, i, too, was a late convert to lcd.  </s>
+<s> i couldn't see how a filter/reflective technology like lcd could possibly produce a better image than a light emitter like a crt.  </s>
+<s> in the early days of lcd, that was probably right but not now.  </s>
+<s> it's somewhat unusual to find a 19&quot; crt with a recommended resolution of 1024x768 (4x3), most non-widescreens above 17&quot; are 5x4 (1280x1024) but there you go.  </s>
+<s> one attribute of crts you have already discovered is that you can change the resolution and still get a good sharp image.  </s>
+<s> not so with lcds - the optimal image is always produced at native resolution.  </s>
+<s> if you need a different size, bigger text for instance, change the dpi, not the screen resolution.  </s>
+<s> that has some implications for you, since your current graphics card does not support the typical native resolutions (1920x1080) on a medium size screen.  </s>
+<s> you should probably consider updating your graphics card to one that supports the native resolution of the screen you choose - always assuming you are using a desktop or workstation - it would be extremely difficult and certainly uneconomic to upgrade a laptop.  </s>
+<s> there are still a few 4x3 lcds available, up to about 19&quot; but the native resolution will almost certainly be 1280x1024, which is worse than you are getting with your crt. but most lcd screens nowadays are widescreen, either 16x9 or 16x10 format.  </s>
+<s> an lcd with a resolution less than its native resolution will produce an image that looks somewhat blurry, not ideal for cad work, i would think.  </s>
+<s> how an lcd behaves when the resolution of the graphics card is set higher than its native resolution (and with many, this isn't even possible) will depend on the screen/graphics card/driver combination.  </s>
+<s> results can vary from no image to scroll bars! as to size, you are correct, in simple terms, for a given resolution, the bigger the screen, the bigger the pixels will be.  </s>
+<s> you can easily check this at your local tv store - look at a 60&quot; 1080p tv and a 32&quot; 1080p tv, the difference in pixel size will be obvious close up.  </s>
+<s> you could say (you did) that the bigger the screen, the further away you sit.  </s>
+<s> might work for tvs but on a computer, you actually need to be closer to the screen to use the mouse and keyboard.so  </s>
+<s> i prefer to look at it the other way round, the distance you need to sit away from the screen will dictate the size of the screen you need.  </s>
+<s> at a rough guess (which could be wildly wrong!) if you are happy sitting at your current distance from your crt, then you will probably be happy at the same distance from a 22-24&quot; lcd at a resolution of 1920x1080 but your mileage will vary.  </s>
+<s> if you like dell equipment like your current screen, i've seen some stunning images on a 24&quot; dell ultrasharp.  </s>
+<s> willy hit the nail on the head - you need to go to your local computer store and spend some time looking at various screens.  </s>
+<s> view them from the distance you have decided you want to sit to determine the screen size you want.  </s>
+<s> then compare the screens on offer at that size.  </s>
+<s> ask the store rep if you can change the resolution to something else and see whether that is acceptable to you or whether you are happier at native resolution.  </s>
+<s> if you are then look to get a new graphics card to match, preferably dvi or hdmi.  </s>
+<s> you don't say whether the screen is for work or a hobby - if work, then you will likely be sitting in front of this thing for up to 8 hours a day, so a few hours checking out possibilities is a great investment.  </s>
+<s> screens are just about the most subjective component of any computer system - what i like might make you ill, or vice versa!  </s>
+<s> good luck!  </s>
+<s> i suggest that instead of choosing an lcd with 1920 x 1080 resolution, you opt for one with 1920 x 1200 resolution.  </s>
+<s> interestingly, the 24&quot; dell ultrasharp mentioned above is 1920 x 1200 with a 16:10 aspect ratio.  </s>
+<s> if it will display 1600 x 1200 without horizontal stretching, it would maintain your perfect 4:3 aspect ratio, still using its native resolution with no ugly interpolated pixels, albeit with black bars on both sides of the image.  </s>
+<s> as mentioned, you might want to find one (or any other 1920 x 1200 monitor) in a store and play with it to see how it behaves at your desired resolution.  </s>
+<s> you didn't mention what video card you're using, but is it possible that it maybe it does support 1920 x 1080 and 1920 x 1200 already?  </s>
+<s> at the risk of stating the obvious, &quot;windows display properties&quot; will only offer the resolutions that the monitor itself will support.  </s>
+<s> in any case, as mentioned, if you can upgrade your video card, you might be even happier with the results.  </s>
+<s> by the way, with a crt, the shadow mask generally does not correspond to any particular resolution. the position of each phosphor dot does not correspond to an individual pixel at any resolution.  </s>
+<s> at useable resolutions, the dot pitch is finer than the resolution.  </s>
+<s> it's possible that if the recommended resolution is 1024 x 768, that you are approaching or even exceeding the dot pitch at 1600 x 1200. the image might be a little blurry and not really yielding the resolution that you think you're getting.  </s>
+<s> just for fun, try looking at your crt under some magnification at different resolutions.  </s>

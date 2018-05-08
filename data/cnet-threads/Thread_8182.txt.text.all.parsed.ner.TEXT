@@ -1,0 +1,44 @@
+<s> since i'll be getting a g5 soon, i'm planning to add a second hard drive.  </s>
+<s> i'm looking at a western digital 250gb sata:( ) the problem is in the manual for it, it doesn't say anything about mac compatability.  </s>
+<s> does that mean it isn't compatible, or did they just not address it?  </s>
+<s> thanks  </s>
+<s> there is nothing to address on a sata hd or an ata hd compatibility.  </s>
+<s> as long as your system will recognize the drive, and it will, it will be able to initialize it and you will be in hogs heaven.  </s>
+<s> some manufactures will include a cd which has various bits of windows software on it, utilities and the like, or even an setup program for the drive.  </s>
+<s> you, being the smart g5 owner (soon) do not need all that stuff.  </s>
+<s> your system will likely tell you that there is a new drive and would you like to initialize it.  </s>
+<s> you will say &quot;initialize&quot; and that will be it. the drive will then mount on the desktop p  </s>
+<s> any serial ata hard drive should work fine on a new mac g5. as far as i know the connections are the same because of the sata standard.  </s>
+<s> hard drives differ from other components because drives are formated by the operating system, as opposed to a usb or firewire device which requires special drivers in order to communicate with the programs on the os properly.  </s>
+<s> when you have physically installed the disk you will need to run &quot;disk utility&quot;, unless it boots itself upon detecting your new drive, to format your new drive for your mac.  </s>
+<s> before i bought my drive i called several mac stores managers and applecare to find out what they recommended.  </s>
+<s> without exception they like the lacie drives.  </s>
+<s> i bought the d2 80gb and just added the d2 200gb.  </s>
+<s> they both have worked flawlessly.  </s>
+<s> they are very much mac friendly, are very well built with a metal case, and come with backup software.  </s>
+<s> they can be stacked or daisy chained.  </s>
+<s> customer support is excellent!  </s>
+<s> i think you can find other drives that are mac compatable, like maxor, but lacie seems to be preferred for macs.  </s>
+<s> btw, you can buy refurbished drives directly from lacie at greatly reduced prices at lacie.com.  </s>
+<s> that's how i got mine and i saved big bucks.  </s>
+<s> i would either contact or call the company if if you can't reach them on the internet and find out before purchasing the extra hard drive.  </s>
+<s> the name is one that i don't recognize as being an apple compatible but i don;t know for sure.  </s>
+<s> i have a lacie 200 gb connected by firewire external hard drive which i use to store all my completed or workiing folders.  </s>
+<s> my main computer has all the programs i am using on its hard drive.  </s>
+<s> i am beginning to store things on cd's for safe keeping, like digital photos, other photoshop items i have completd.  </s>
+<s> the price of external hard drives is coming down and i have had mine three years and it is over half full right now with absolutely no problems.  </s>
+<s> go with products of a good well known company with a solid reputation and you won't go wrong.  </s>
+<s> pick up something just because of price and you may be asking for trouble.  </s>
+<s> deal with a reputable company/dealer also.  </s>
+<s> it does make a difference.  </s>
+<s> make sata drives.  </s>
+<s> i looked at quantum's and seagate's websites and found they list drives by interface.  </s>
+<s> from there you can order one online.  </s>
+<s> i hope this helps.  </s>
+<s> indicates sata-type drives for the g5. perhaps it is as simple most all drives of that type would work just fine -- that is certainly the experience i've had with the non-sata ide drives that are used in my mac g4. the same drives available to pc seem compatible so far.  </s>
+<s> i presume you have a more definitive answer from western digital by now, but i should think the drive you mentioned will work, either internally or in an external enclosure.  </s>
+<s> good quality external enclosures in which you install an internal ide drive are another option and seem quite compatible connected as either usb or firewire on a mac running os-x.  </s>
+<s> i don't have experience with sata drives in such an enclosure, however.  </s>
+<s> ibm's appears to be on the bleeding edge with hard drives, or so i hear.  </s>
+<s> i just picked up two ibm drives for backup.  </s>
+<s> 10,000 rpm and a mean time between failures of over a hundred years.  </s>

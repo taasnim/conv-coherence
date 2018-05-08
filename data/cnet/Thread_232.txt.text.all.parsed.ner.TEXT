@@ -1,0 +1,20 @@
+<s> i am trying to come up with a linux machine config for data crunching purposes using c. this is my first time in building a machine.  </s>
+<s> i'd like to know the following: 1. i dont intend to overclock the processor which is an intel core 2 duo e6550 conroe 2.33ghz 4m shared l2 cache lga 775 processor.  </s>
+<s> it comes with a heat sink and a fan.  </s>
+<s> do i still need to buy an additional processor fan for $25 (see ) 2. for the motherboard i am considering intel boxdp965ltck lga 775 intel p965 express atx (click on the &quot;spec&quot; tab in ).  </s>
+<s> there is a note in the spec section stating &quot;only ddr2-800 memory supporting jedec approved 1.8v operation with timings of 5-5-5 or 6-6-6 is supported on intel desktop boards based on intel 965 express chipsets.&quot; does this mean it will not be compatible with a 1 gb ddr2-800mhz ram using 2.2v with 4-4-4-12 timing?  </s>
+<s> if not, please specify a motherboard with lga775 socket/intel core 2 duo support/4mb l2 cache/fsb=&gt;1066mhz configuration. the other parts of the machine are: 1. atx tower 2. psu: 550w, and three 12 v rails. is this an overkill for my config?  </s>
+<s> ( ) 3. 250g sata hard drive 4. sata dvd burner 5. additional 1 gb ram (cumulative ram = 2gb) apart from the peripheral components (monitor, keyboard, mouse), am i missing anything?  </s>
+<s> (don't require video/sound cards). the total cost for the machine is roughly $700.  </s>
+<s> please suggest.  </s>
+<s> thanks!  </s>
+<s> the memory sockets support a range of voltages but let's knock it down to a few sentences.  </s>
+<s> many pages note the 1.8v because it's the latest and greatest but support for the older 2.x volt sticks is still on the board.  </s>
+<s> what this means however is you can't mix and match memory sticks.  </s>
+<s> use the same technology in all sockets unless your motherboard manual states you can mix.  </s>
+<s> bob  </s>
+<s> i'm using the stock intel hsf and it seems quite nice.  </s>
+<s> thanks for the response on hsf and ram.  </s>
+<s> since i am not using any video cards, is the psu (550w, three 12 v rails) an overkill for the configuration?  </s>
+<s> if yes, is there a way to determine the minimum power supply required to support the machine?  </s>
+<s> (assume no external devices attached to the tower except keyboard, mouse)  </s>

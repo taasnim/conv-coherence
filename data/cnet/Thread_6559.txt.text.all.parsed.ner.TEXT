@@ -1,0 +1,12 @@
+<s> i got an old pentium 4 hyperthreaded, and when i run any of the three standard torture tests in prime95, my cpu processing tends to stay at approximately %50. it jumps higher for a millisecond or so once in a while, but it tends to stay at 50. shouldn't it be at %100?  </s>
+<s> ive noticed this tendency in other applications as well.  </s>
+<s> you can run 2 instances to make it go to 100.  </s>
+<s> if i try to do that it automatically closes the new one  </s>
+<s> read this for an explanation: with a hyper-threaded p4, you should not run two instances of prime95 since you don't have 2 cpus.  </s>
+<s> i used to do that with the old seti program on my ht and it worked fine with more results per hour.  </s>
+<s> i guess prime95 is a different beast.  </s>
+<s> bob  </s>
+<s> prime95 is.  </s>
+<s> launch 2 of them on an ht p4 and it will be next-to-unusable.  </s>
+<s> the idea was to get it to max out the cpus and since i was not at the machine, just what i wanted.  </s>
+<s> bob  </s>

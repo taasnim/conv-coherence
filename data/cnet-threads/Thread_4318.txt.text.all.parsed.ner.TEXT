@@ -1,0 +1,26 @@
+<s> i have a d865glc intel motherboard with a pentium 4 2.8 ghs processor, which currently has 2 - 256 mb pc2700 ddr 333mhz non-parity non ecc sticks of double sided ram arranged so as to bank switch or opperate in ddr mode, one stick in slot 0 bank a and one in slot 0 bank b. i tried to upgrade by installing memory with the same specs, only single sided, in the blank slots.  </s>
+<s> this didn't work well.  </s>
+<s> i then went to intel's site and found that the board needed 4 sticks of double sided memory to expand to 1024 mb. what possible difference does it make if the chips are on one or both sides if all other specs are the same?  </s>
+<s> os the way they work different or what?  </s>
+<s> do you have any electronics design background?  </s>
+<s> it has to do with the number of chipselects and the design of the stick and not if there are chips on both sides of the stick.  </s>
+<s> maybe that's enough info for you?  </s>
+<s> bob  </s>
+<s> nope, no electronics design experience.  </s>
+<s> just one question, though.  </s>
+<s> so, double sided doesn't necessarily mean chips on both sides of the ram stick?  </s>
+<s> does that mean a stick with chips only on one side could be double sided in the way it works?  </s>
+<s> in other words : there is no way to tell if a stick of memory is double or singled sided by just looking at it?  </s>
+<s> that's why we use places like crucial.com and keep track of the make and models of the memory sticks so we can sort it out.  </s>
+<s> it's one of those things that just because the stick fits does not mean it's compatible.  </s>
+<s> bob  </s>
+<s> thanks for your time.  </s>
+<s> you've probably saved me from a big headache trying to figure out why some memory chip that looks &quot;double sided&quot; isn't working in my system.  </s>
+<s> all that glitters is not gold, or chips on both sides of a dimm doesn't necessarily double sided memory make.  </s>
+<s> when i run into this is mostly many year old machines.  </s>
+<s> specifically those old workhouses based on lx, bx and some i8xx chipsets.  </s>
+<s> these chipsets had only some many memory select lines and quite often where you would have to dance around to find just the right memory sticks.  </s>
+<s> these are also fairly robust machines that rarely died which explains why you run into them so often.  </s>
+<s> pny, and those store memory sticks are usually double sided and the usual 256 mb sticks are the ones that rarely work.  </s>
+<s> why this is so is that the sticks are made purely for lowest price and what would work in the most systems.  </s>
+<s> i know it's a little tough at first, but keep trying... bob  </s>

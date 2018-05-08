@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP i)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (AUX be) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB record) (NP (NN tv))) (, ,) (VP (VB burn) (PP (IN on) (NP (CD dvd)))) (, ,) (VP (VBP play) (NP (NP (NNS games)) (PP (IN on) (NP (PRP$ my) (NN hdtv))))) (, ,) (CC and) (VP (NN stream) (NP (CD mp3) (POS 's))) (, ,) (NP (NP (NNS movies)) (, ,) (CC and) (NP (NNS pics)))))))))))) (. .)) )
+(TOP (S (SBAR (IN if) (S (NP (PRP you)) (VP (AUX 've) (VP (VBD got) (NP (DT the) (NN money)))))) (, ,) (VP (VB go) (PP (IN for) (NP (NP (DT an) (NNP intel) (NN pentium) (NNP m)) (PP (IN with) (NP (DT a) (JJ good) (NN shuttle) (NN case)))))) (. .)) )
+(TOP (NP (NNP mnjhouston)) )
+(TOP (NP (NP (DT any) (NNS thoughts)) (PP (IN on) (SBAR (SBAR (IN if) (S (NP (PRP they)) (VP (AUX are) (ADJP (JJ good) (RB enough)) (ADVP (RB yet))))) (CC or) (FRAG (WHNP (WDT which) (NN brand)) (. ?) (NP (NNS thanks))))) (. .)) )
+(TOP (S (S (VP (VB go) (PP (IN with) (NP (NN shuttle) (, ,) (JJ quiet) (, ,) (JJ compact))))) (, ,) (CC and) (SQ (MD can) (NP (NN game)) (ADVP (RB really)) (ADJP (JJ good) (PP (ADVP (RB even)) (IN in) (NP (PDT such) (DT a) (JJ small) (NN case))))) (. .)) )
+(TOP (S (NP (NNP newegg)) (VP (VBZ offers) (NP (NN barebone) (NNS pcs))) (. .)) )
+(TOP (S (VP (VB build) (NP (PRP$ your) (JJ own))) (. .)) )
+(TOP (SBARQ (WHNP (WDT which) (NNS media) (NN center) (NN pc)) (SQ (VP (AUX is) (NP (NP (DT the) (JJS best)) (PP (IN for) (NP (DT the) (VBG living) (NN room)))))) (. ?)) )

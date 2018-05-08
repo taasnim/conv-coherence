@@ -1,0 +1,50 @@
+<s> hi, 1st time in a forum so be gentle!  </s>
+<s> bought an old celeron 333 with pc chips m747 mobo with maxtor 4gb hd running 98 se to link into my home network for my son to use on the internet.  </s>
+<s> worked fine no probs when i bought it.  </s>
+<s> gave it to my son who, whilst i was at work, immediately deleted some &quot;temp&quot; files and also opened the case to look inside!!! he also went into the bios (ami 1999) and changed some settings.  </s>
+<s> the pc will now not boot from either the c: drive or a boot disk in the a: drive.  </s>
+<s> i have reset the bios settings to what i think are correct but no joy.  </s>
+<s> for either drive the message is invalid system disk when booting. i have even removed the hard disk and told the bios that only the floppy exists and to boot from the floppy.  </s>
+<s> i have tried 98, me and dr dos boot disks, the same message comes up, searching for boot record from floppy..not found boot failure insert boot disk in a: press any key when ready the boot disks work fine in my other pcs help!!!!!!  </s>
+<s> to get a boot from a diskette takes about three good piece of hardware.  </s>
+<s> 1. diskette drive 2. drive cable 3. motherboard if the boot disks work elsewhere, be sure to re-create such fresh so you give the failed machine a second chance. then start changing out the items above from least expensive and up to find the bad part. the bios may need to be set to the correct floppy size and to boot from said diskette.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> done the cables, done fresh floppys.  </s>
+<s> took an me hard disk out of another pc which booted up fine.  </s>
+<s> put the maxtor into another pc and still would not boot.  </s>
+<s> did a sys c: with the maxtor in the other pc.  </s>
+<s> replaced in the celeron.  </s>
+<s> will now boot but only to c: prompt.  </s>
+<s> i'm not worried about loosing info on the hd but why wont the floppy boot?  </s>
+<s> dave  </s>
+<s> just a suggestion, there should be an option in the bios setup to &quot;restore defaults.&quot;  </s>
+<s> better than doing it on setting at a time.  </s>
+<s> --fj  </s>
+<s> thanks.  </s>
+<s> done the defaults.  </s>
+<s> no joy!  </s>
+<s> i've also changed the floppy drive.  </s>
+<s> do you know if the floppy drive ever worked?  </s>
+<s> it sounds like either the floppy cable is bad or the controller is bad.  </s>
+<s> you might be able to boot with a cd if the floppy won't work, you can set the cmos to that on most sytsems, though the one you got is so old it may not support it.  </s>
+<s> does the light on the floppy drive ever go on when you boot up?  </s>
+<s> if it is on all the time then the cable is backwards.  </s>
+<s> you do have the end connector on the cable connected to the floppy drive, after the cut and twist, that is required (you don't use jumpers on floppy disks).  </s>
+<s> you've pretty much proven that the floppy or what its connected to is busted, disabled, or mis-configured.  </s>
+<s> what i didn't read is if you've changed out the three possible pieces.  </s>
+<s> bob  </s>
+<s> thanks.  </s>
+<s> floppy works fine, also substituted known good floppy drive and cable.  </s>
+<s> light does show access.  </s>
+<s> good to read you fixed it.  </s>
+<s> what was the issue?  </s>
+<s> or just a halloween thing?  </s>
+<s> bob  </s>
+<s> hi bob, still no joy!  </s>
+<s> just replying to another kind helper that floppy drive ok and not the problem.  </s>
+<s> still looking for solution!  </s>
+<s> cheers dave  </s>
+<s> since the floppy works fine, it leaves us with the other parts that could be bad.  </s>
+<s> what doesn't work?  </s>
+<s> bob  </s>

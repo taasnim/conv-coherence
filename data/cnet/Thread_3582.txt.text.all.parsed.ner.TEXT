@@ -1,0 +1,42 @@
+<s> my desktop computer died today and i think it's a motherboard issue, but i wanted to confirm that it wasn't something more simple like a power supply issue before buying a new computer.  </s>
+<s> specs: dell dimension e510 windows xp media center 32 bit my computer has not given me any problems or system errors for the last 4 years.  </s>
+<s> while i was typing in word, the computer proceeded to shut down, but not the way that it does when a power outage occurs.  </s>
+<s> the programs shut down (firefox asked me if it wanted me to save windows, with 5 messages about this; another program i had open came up with an end now screen), and then the windows splash came on the screen as it does when the computer is actually shutting down.  </s>
+<s> at that point the computer turned off, and did not restart.  </s>
+<s> when i pushed the power button, the button did light up green, the system made noise for about 5 seconds as if it was trying to turn over and boot, and the windows splash came on the screen briefly.  </s>
+<s> after 5 seconds of this, the computer powered off.  </s>
+<s> pushing the power button after that did nothing, even after waiting an hour.  </s>
+<s> when i unplug the computer and then plug it back in, the power light does turn green for about 2 seconds and the computer sounds like it is starting, and then it turns off.  </s>
+<s> nothing appears on the monitor.  </s>
+<s> this also happens if i turn off the power strip it is plugged into, and then turn it on again.  </s>
+<s> so the power light turns green for about 2 seconds whenever power is restored to the computer, but just pushing the power button does nothing.  </s>
+<s> i of course tried changing the outlet, but that was not the problem.  </s>
+<s> just in case it was a memory issue, i removed one set of ram from the desktop and tried to power it on, and then replaced it and removed the other set. the same thing occurred as before - when the computer was plugged in again, the power light turned green for about 2 seconds and then turned off.  </s>
+<s> any advice would be welcome before i buy a new computer.  </s>
+<s> thank you!!  </s>
+<s> you can try unplugging all hard drives, cd roms, etc. to see if power stays on.  </s>
+<s> if it does, you plug things back in one at a time (power off each time) and try again.  </s>
+<s> a marginal power supply will shut down if an overload is detected but this wouldn't mean any particular device was the culprit.  </s>
+<s> many builders use the smallest wattage power supplies they can get away with and, over time, their capability decreases.  </s>
+<s> i'd go with the ps first but do a thorough dust bunny removal from the machine and pay special attention to the heat sink and fan assy.  </s>
+<s> think over &quot;what could it possibly be starting with the cheapest part first?&quot;  </s>
+<s> these ideas are not definitive.  </s>
+<s> some get uppity if the ideas don't work out.  </s>
+<s> 1. the cmos battery.  </s>
+<s> in many machines the usual cr2032 50 cent item ( for example) can cause machines to not boot.  </s>
+<s> 2. the power supply.  </s>
+<s> at about 30 to 50 bucks this is the next most likely.  </s>
+<s> the odd part of your story is that graceful shutdown.  </s>
+<s> but the rest of the story is the usual.  </s>
+<s> type the dead pc at google for more ideas.  </s>
+<s> bob  </s>
+<s> thanks for the feedback.  </s>
+<s> the only thing regarding the power supply that seems odd to me is that the green power light did come on briefly when i restored power to the system (by plugging it in or turning on the power strip), even though it did not when i pushed the power button.  </s>
+<s> could that happen if the power supply wasn't working?  </s>
+<s> by the way, this morning it is not responding at all (no green light even for a second) when i turn on the power strip or plug it in.  </s>
+<s> the symptoms do not mean much here.  </s>
+<s> a bum motherboard could do anything so let's look at google.  </s>
+<s> use these words.  </s>
+<s> how to test a pc power supply?  </s>
+<s> you'll discover how to power one up without much attached (we use a dead hard drive to provide a small load) and a volt meter to check the supply levels.  </s>
+<s> bob  </s>

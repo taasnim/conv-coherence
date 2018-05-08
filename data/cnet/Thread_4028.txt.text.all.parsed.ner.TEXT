@@ -1,0 +1,37 @@
+<s> i was trying to help a friend set up his wireless router.  </s>
+<s> he had the geeksquad come and set it up and i have no idea what they did.  </s>
+<s> a mess of wires.  </s>
+<s> i noticed that i was able to log into the imbeded browser of the modem and the router from the main pc.  </s>
+<s> i didn't think it was possible to log into the modem if it was set up in bridged ethernet mode.  </s>
+<s> his internet is working but i was thinking that he may have problems with double nating.  </s>
+<s> basically, i just want to know what options there are for setting up a router to a modem.  </s>
+<s> i'm aware of bridged mode and setting up the router as a switch (not real knowledgable of this one).  </s>
+<s> but before i tell him it's set up all wrong, i want to know if i'm missing something.  </s>
+<s> seems like dhcp is enabled on both devices.  </s>
+<s> please advise.  </s>
+<s> if it works i would leave it alone. the problem with double nat is mostly related when you need a incoming session into a local pc.  </s>
+<s> if all the traffic outbound then it doesn't matter.  </s>
+<s> pretty much depends on the ip for the modem and the router are on the same subnet.  </s>
+<s> if they are on different ones then you have a double nat.  </s>
+<s> running dhcp on both will work well in most cases but again it depends if you need to map ports to a pc. the outside address of the router could technically change so mapping would change.  </s>
+<s> if there is no mapping of ports then it can change all it wants and the user pc does not care.  </s>
+<s> there is nothing wrong with double nat it tends to be confusing for people to get setup and to debug when there are issues.  </s>
+<s> once it is works it works  </s>
+<s> i didn't know where to start with the print sever on this setup.  </s>
+<s> i just knew that the modem should be in bridged mode and the router should be left to do the address translations.  </s>
+<s> i've never seen a setup with double nating before, so i thought something was wrong.  </s>
+<s> he's trying to connect a wireless linksys print server when he already has a wireless router.  </s>
+<s> should just be a non-wireless print server.  </s>
+<s> i think i may leave that one alone.  </s>
+<s> know enough to be real dangerous.  </s>
+<s> your post is light on specifics such as type of connection, make and model of modem and router, and operating system.  </s>
+<s> so here is the generic setup.  </s>
+<s> first, you don't need to access the modem unless you're just looking around.  </s>
+<s> second, set both the modem and the router to default.  </s>
+<s> if there is a software switch, use it.  </s>
+<s> if there is a reset button use it.  </s>
+<s> turn everything off.  </s>
+<s> now, connect everything thus: modem -&gt; router -&gt; pc power up the modem, wait for the lights to stabilize.  </s>
+<s> power on the router, wait for the lights.  </s>
+<s> power up the pc. on the desktop, right click network neighborhood, choose properties and choose to show the networking icon in the tray.  </s>
+<s> only to see if traffic is moving.  </s>

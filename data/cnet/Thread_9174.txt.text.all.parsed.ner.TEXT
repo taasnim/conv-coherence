@@ -1,0 +1,51 @@
+<s> i had an extra parallel port put in by computer store back when i had windows 98. when i had foremat and xp installed by the same store, he neglected to downlad the driver for this new port.  </s>
+<s> i wasn't using the port so just disabled it.  </s>
+<s> i recently found the ite driver and downloaded and installed it.  </s>
+<s> in device manager it shows under ports as pci parallel port on lpt3 which is correct.  </s>
+<s> however it also created a new folded in device manager called, multi-port serial adaptors and shows as a pci multi-i/o controller.  </s>
+<s> why is it in two places and shows differently?  </s>
+<s> because that's how pci controllers enumerate.  </s>
+<s> bob  </s>
+<s> my other parallel port is lpt1 and shows up under ports only.  </s>
+<s> nothing seems wrong here.  </s>
+<s> pci and usb enumerations show up in such ways.  </s>
+<s> -&gt; let's try this.  </s>
+<s> what isn't working?  </s>
+<s> bob  </s>
+<s> just be happy it works when you need it.  </s>
+<s> understanding the &quot;engneering&quot; side gets too detailed and/or the nuts/bolts that many really don't want to know other than what i stated.  </s>
+<s> here's a link to explain some of it: understand that alot of h/w that's part of the mtrbd.  </s>
+<s> or basic &quot;sold as is&quot; system will be defaulted, thus any added h/w usually needs more attention in order for it to work. the system keeps track of it and &quot;allows&quot; a certain range of available irqs to represent those items.  </s>
+<s> tada -----willy  </s>
+<s> i do appreciate your responses.  </s>
+<s> i tried to hook up a video camera i have but it wouldn't work.  </s>
+<s> however, even though i was told when i bought it that it worked with xp it doesn't say that on the box.  </s>
+<s> so it is probably the camera and not the port.  </s>
+<s> but it would never work on a pci parallel card unless i changed the pci parallel card to use &quot;classic&quot; addresses and irq.  </s>
+<s> from memory the lava card offered such.  </s>
+<s> read can i comment that lack of details hinder you getting the best help?  </s>
+<s> bob  </s>
+<s> make darn sure the camera looking at the required lpt port.  </s>
+<s> most cameras default to lpt2 or under xp &quot;autofind&quot; what's available, but that's not a given.  </s>
+<s> if possible check the user setting under the camera s/w to determine what it is.  </s>
+<s> since, this is lpt usage, suggests its an old camera and you maybe limited.  </s>
+<s> if all you have for camera ports to use is lpt1 or 2, then see if the pci card or added lpts are themselves settable.  </s>
+<s> lpt1 is already taken by the system, btw.  </s>
+<s> if you're using the lpt1 the std.  </s>
+<s> defaulted port for a printer, just disconnect the printer.  </s>
+<s> reboot and then try using the camera and see if its trying to use lpt1, then do the above to correct it for other lpt?  </s>
+<s> port.  </s>
+<s> you can even disable lpt via the bios to deal only with the added pci card and see where that takes you, of course testing or connecting as required.  </s>
+<s> on top of all that make sure the lpt port is set to std or plain lpt, not epp or eps(i think).  </s>
+<s> just another area to check.  </s>
+<s> this is about all i can suggest for now.  </s>
+<s> tada -----willy  </s>
+<s> thank it's looking at lpt3.  </s>
+<s> having camera is not important to me.  </s>
+<s> as mentioned, i'm not sure it will work with xp.  </s>
+<s> can i comment that if i knew what details to post, i wouldn't need to come here?  </s>
+<s> the make and model numbers would help too.  </s>
+<s> i really do want to see you succeed.  </s>
+<s> but you have to tell more than what you have.  </s>
+<s> some think the forum members will ask for detail by detail, but this is not tech support so you must make it as easy and be nice as possible.  </s>
+<s> cheers, bob  </s>

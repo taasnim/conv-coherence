@@ -1,0 +1,49 @@
+<s> hi i'm trying to find a solution to save the hard disk on a power fail.  </s>
+<s> i'm using an industrial pc 'pcisa-c800evr-rs-r20' and back plane ip-6s-rs-r40 from iei which is installed in a industrial machine.  </s>
+<s> the power supply to the pc and the machine is through a common power supply unit to run the whole machine.  </s>
+<s> in case of power failure/shutdown the power dies really quick which causes the hard drive to corrupt.  </s>
+<s> i believe the fat got effected and the pc requires a new installation from start i.e. formating and installing xp. what i'm thinking is to give a hardware signal (through a watch dog) to the processor to shutdown the pc/ harddrive in an orderly manner just before the whole thing shutdowns.  </s>
+<s> but i'm not sure how i'm gonna do it since i can't find information on an external hardware input into the board.  </s>
+<s> plz if somebody can help me, i'm new to this and sorry if i wrote something improperly.  </s>
+<s> that using fat in any version is death to such a project.  </s>
+<s> no matter what you do you should see failure after failure.  </s>
+<s> even on a clean shutdown it can still fail.  </s>
+<s> i had to let a customer learn this over a full year before they gave up and changed to ntfs.  </s>
+<s> that's not damage proof but at least it's journaled and damage resistant.  </s>
+<s> why not fix the basic issue first?  </s>
+<s> bob  </s>
+<s> i'll check and change it to ntfs.  </s>
+<s> run some tests and let you know.  </s>
+<s> thanks for the help  </s>
+<s> with usb monitoring software to perform an orderly shutdown upon on power failure.  </s>
+<s> hi the hard drive already has ntfs on it.  </s>
+<s> i beleive the problem is not the type of allocation table but the power which dies really quick and doesn't allow the hdd head to be in a safe location.  </s>
+<s> thanks man its a cool ups.  </s>
+<s> i think the best solution will be an ups but at the moment the idea is to find a hardware i/p signal to the board so it can tell the processor to shutdown before every thing fails.  </s>
+<s> this ups is for a desktop pc. the trouble is that i have an industrial pc which is quite compact.  </s>
+<s> the other way would be an internal card type ups (on pci slot). is there any thing like that?  </s>
+<s> but i only have your posts to go on.  </s>
+<s> if you tell me fat, i believe you and will have to go with that.  </s>
+<s> another issue was memory corruption.  </s>
+<s> we had a system corrupting drives and it turned out to be the ram would get corrupt and that would be written to the drive.  </s>
+<s> took a long time to nail that one.  </s>
+<s> sorry it wasn't something simple.  </s>
+<s> as to your assumption about the head being in the wrong place and the quick power off, we see the power off without notice to not be a problem with ntfs since it's journaled.  </s>
+<s> we will lose the last record or such but that's to be expected.  </s>
+<s> so far with thousands of unceremonious ac cutoffs we have yet to lose the drive.  </s>
+<s> did this every work?  </s>
+<s> one time the drive needed to be replaced.  </s>
+<s> bob  </s>
+<s> you are right.  </s>
+<s> if it keeps on shutting the hdd like that it will sooner or later be dead. the ram at the moment is samsung pc133u 256mb sync 133mhz.  </s>
+<s> i'm not sure if its smaller size would be causing the corruption.  </s>
+<s> what should i do?  </s>
+<s> you didn't answer my question.  </s>
+<s> but your comment &quot;i'm not sure if its smaller size would be causing the corruption.&quot;  </s>
+<s> peaks my curiosity.  </s>
+<s> we run on embedded machines running windows 2000 on 64mb so that can't be the cause if you were thinking of low ram.  </s>
+<s> however xp did corrupt drives without some service packs.  </s>
+<s> i may skip over such but this is the second time you wrote &quot;xp&quot; and not &quot;xp sp2&quot; or such.  </s>
+<s> for now you could try turning off xp's write caching.  </s>
+<s> this helps in some cases -&gt; that article covers almost all versions of windows.  </s>
+<s> bob  </s>

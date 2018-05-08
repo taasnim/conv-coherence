@@ -1,0 +1,12 @@
+<s> can someone help me how to create acl on vlans.  </s>
+<s> i need specific vlan not to see other vlan on the network.  </s>
+<s> e.g 192.xx.xx.xx (renge) reject 172.xx.xx.xx (range) 196.xx.xx.xx (range) reject 172.xx.xx.xx(range) 198.xx.xx.xx (range) reject 172.xx.xx.xx(range) 198.xx.xx.11(ip) accept 172.xx.xx.xx(range) can some1 help?  </s>
+<s> not sure you question.  </s>
+<s> you don't know how to write the access list itself or you don't understand where to apply it.  </s>
+<s> although hp documentation is poor in this case there are examples and the syntax is the same as cisco.  </s>
+<s> you already know what you want to allow and disallow so that is the hardest part.  </s>
+<s> still you don't need to bother with stuff you want to deny only things you want to permit.  </s>
+<s> everything is denied by default at the end.  </s>
+<s> i need help on how to write it.  </s>
+<s> its all in the manual very good examples.  </s>
+<s> pretty much all you need is a access list with permit 198.xx.xx.11 0.0.0.0 172.0.0.0 0.255.255.255 everything else is denied by default so you don't have to specify it.  </s>

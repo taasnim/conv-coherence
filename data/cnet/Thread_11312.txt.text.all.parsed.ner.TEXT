@@ -1,0 +1,16 @@
+<s> i am operating an hp windows xp system and i use a bluetooth usb adapter to recieve photos from my phone and transfer files from my ipaq. the &quot;bluetooth icon&quot; used to show up in the windows system tray (that part of the toolbar never made much sense to me. .  </s>
+<s> ) recently, the icon &quot;dissapeared&quot; from the toolbar.  </s>
+<s> (yes, i have three teenage children using this computer, how did you know?) now i can't seem to turn the bluetooth &quot;on&quot;.  </s>
+<s> any ideas on how to get the icon back? the control panel says the device is working, but i get no connection.  </s>
+<s> i have the bluetooth wizard, bluetooth places folder, and plenty of bluetooth files. .  </s>
+<s> .  </s>
+<s> just can't get connected without the icon's control.  </s>
+<s> .  </s>
+<s> .  </s>
+<s> maybe there is an alternate &quot;on&quot; switch i could use ?  </s>
+<s> at first glance the topic seems to want a customized icon, but in truth you would use system restore and if that fails, then you need to test your hardware on another machine.  </s>
+<s> in closing, you didn't reveal the model of the machine, but some are via chip based and the usb will fail if one accepts a driver from windows update.  </s>
+<s> tip?  </s>
+<s> don't do that. is great if i need to troubleshoot usb items.  </s>
+<s> bob  </s>
+<s> when a usb device stops working as you describe what i do is unplug it, plug it into another usb port, and that will re-recognize it and get it working again.  </s>

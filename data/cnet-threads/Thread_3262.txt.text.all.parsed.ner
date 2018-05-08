@@ -1,0 +1,7 @@
+(TOP (S (S (NP (PRP i)) (VP (VBD installed) (NP (DT a) (JJ new) (NNP wireless) (NN router)))) (CC and) (S (NP (PRP i)) (VP (VBP want) (S (VP (TO to) (VP (VB use) (NP (DT the) (JJ old) (NN router)) (PP (IN as) (NP (DT a) (NN network) (NN extender)))))))) (. .)) )
+(TOP (SQ (MD can) (NP (PRP i)) (VP (VB use) (NP (DT the) (JJ old) (CD one)) (PP (IN as) (NP (DT an) (NN extender))) (PP (IN without) (S (VP (VBG running) (NP (DT an) (JJ ethernet) (NN cable)) (PP (TO to) (NP (PRP it))))))) (. ?)) )
+(TOP (S (CC but) (VP (VB post) (NP (NP (CD 17)) (PP (IN of) (NP (NNS shares)))) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN wap)))))))) (. .)) )
+(TOP (S (SBAR (RB even) (IN if) (S (NP (PRP it)) (VP (AUX 's) (NP (NP (DT all)) (PP (IN of) (NP (CD 2) (NNS feet)))) (PP (IN from) (NP (DT the) (JJ current) (NN router)))))) (NP (PRP you)) (VP (MD can) (VP (VP (VB set) (NP (PRP it)) (PP (IN on) (NP (DT another) (NN channel)))) (CC and) (VP (VB get) (NP (JJR more) (NN coverage))))) (. .)) )
+(TOP (S (INTJ (UH nope)) (, ,) (NP (PRP you)) (VP (AUX need) (NP (DT a) (NX (NX (NN range) (NN extender)) (CC or) (NX (NNP wireless) (NN access) (NN point))))) (. .)) )
+(TOP (NP (NN &quot) (: ;) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NNS routers)) (PP (IN as) (NP (DT an) (NN access) (NN point.&quot))))))) (: ;)) )
+(TOP (PRN (-LRB- -LRB-) (CC or) (VBP wap) (. ?) (-RRB- -RRB-)) )

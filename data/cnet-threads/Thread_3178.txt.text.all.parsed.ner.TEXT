@@ -1,0 +1,66 @@
+<s> i have a asus cm6630, here's my specs: and here's the card i was thinking of purchasing:  </s>
+<s> here's why: (direct quote from asus specification page link you supplied) memory &quot;8 gb dual channel, ddr3 at 1333/1066/800mhz 2 x dimm: both slots must be populated for dual channel operation for optimum results.  </s>
+<s> that means one 4 gb ram card per slot.  </s>
+<s> otherwise, if one slot accepts 8 gb, then the other would too, giving you a total of 16 gb ram.  </s>
+<s> note the total specified is 8 gb using both slots for dual channel operation.  </s>
+<s> populating only one slot will result in the loss of dual channel capability and you could end up with a system that only sees 4 gb of the available 8 gb card if you only use one memory slot.  </s>
+<s> what the slots will support depends on the memory controller specifications.  </s>
+<s> well what i was planning was to just increase in ram.  </s>
+<s> so since it has a 4gb and a 2gb stick taking up both of my slots, i was thinking of replacing the 2gb with the 8 to make it 12gb? is that a bad idea to have an 8 and a 4 instead of an 8 and an an 8?  </s>
+<s> link provided clearly states maximum total amount of memory is 8 gb ram.  </s>
+<s> to achieve maximum read/write potential of cards, and thus highest memory speeds, and with two memory slots available, these two cards must be identical in all respects.  </s>
+<s> a 4 gb ram card in one slot and a 2 gb ram card in another are not identical.  </s>
+<s> a 4 gb card in one slot and an 8 gb card in the second will result in only 8 gb total ram being seen by your system. it does not support 12 gb ram, nor 16 gb ram, but only 8 total gb ram.  </s>
+<s> only thing that is bad about this is that the wasted additional cost of the higher capacity of the 8 gb card never will be fully used, plus it may not work at all in either slot.  </s>
+<s> only fix is to get a motherboard that supports higher gb ram out of the box.  </s>
+<s> more memory slots, the better, meaning, greater flexibility in getting exactly the amount of ram you need.  </s>
+<s> just be aware that changing motherboards will mean a new operating system license for your system will be needed as the operating system in place now is tied to the current motherboard now in use.  </s>
+<s> standard microsoft business practices.  </s>
+<s> first system i had had only 32 mb ram using four sticks.  </s>
+<s> that's right, megabyte s, not gigabytes.  </s>
+<s> worked just fine for what it was.  </s>
+<s> maximum supported ram was 128 mb ram.  </s>
+<s> oh wow mb o_o that's torture.  </s>
+<s> so it's perfectly fine if i just replace the 2gb card with a 4gb card to have two 4gb cards installed to total 8 in my system?  </s>
+<s> because it's better than having 6 at least?  </s>
+<s> ;o  </s>
+<s> here's a link to 8gbs of ram rated highly by many buyers.  </s>
+<s> your best bet is matched dimms ....same mfg, same density (2gbs each, 4gbs each), same speed, etc., for max ram performance ...dual channel or 128bit.  </s>
+<s> let us know how it turns out.  </s>
+<s> vapcmd  </s>
+<s> if not your system will only recognize/use less than 4gbs of whatever you install.  </s>
+<s> let us know.  </s>
+<s> vapcmd  </s>
+<s> the earlier reply said my maximum memory is 8gb?  </s>
+<s> but you're recommending i get the 2 8gb and install them both which is a total of 16? will my pc be fine handling that?  </s>
+<s> im running a windows 7 home premium 64 bit operating system here's my pc specs page once again:  </s>
+<s> maxes out at 8gb ram.....so the link provided was for 2 x 4 gb dimms of highly rated ram by gskill.  </s>
+<s> this will max out the system and give the best ram performance your system can deliver.  </s>
+<s> keep in mind mixing ram from different mfgs, different speeds, different capacities, etc., increases the risk of erratic or unstable operations . .  </s>
+<s> so always better not to mix dimms.  </s>
+<s> what do you use the pc for mostly ?  </s>
+<s> vapcmd  </s>
+<s> oooohhhhh okay i read incorrectly, i thought they were two 8gb sticks!  </s>
+<s> im a video game artist so i use the pc mainly for 3d modeling and rendering softwares.  </s>
+<s> i do use it for video games but mainly for art based reasons (photoshop, maya, max, zbrush, etc)  </s>
+<s> best to install two new identical cards from same mfg, same speed, same capacity, for best results.  </s>
+<s> total gb ram supported is set by vendor of motherboard, not the user of the system.  </s>
+<s> exceeding the max supported ram will not work.  </s>
+<s> if max ram is 8 gb and you have four slots, then 2 gb dimm per slot is all that is possible.  </s>
+<s> is dependent on ram capacity and also on how powerful your video card is.  </s>
+<s> another speed limitation is the source hard drive, whether it is a hdd (traditional), ssd, or hybrid drive.  </s>
+<s> the former is the slowest, and the first latter is the fastest.  </s>
+<s> hybrid is in between for data throughput speed.  </s>
+<s> it is dependent to some extent to cpu speed, but the hard drive is your main bottleneck in starting/running programs as the data throughput is much slower than any ram will ever be.  </s>
+<s> changing your video card to a more powerful model will likely mean the psu will need to be upgraded to higher wattage output than the psu now in the system to be able to support the new card.  </s>
+<s> for your needs, replacing both dimms with 4 gb dimms x 2 is the cheapest way to go, short of replacing your system with better memory specs, hard drive support, and a more powerful psu to run that video card.  </s>
+<s> each card is a 4 gb card, to be clear about that, no misunderstandings.  </s>
+<s> be cheap and live with what you have, but replace the existing dimms with the proper ones.  </s>
+<s> remember, once upon a time, 32 mb ram was enough.  </s>
+<s> my first pc (a 'portable') in 1987 had 1 mb of ram.  </s>
+<s> and, for some reason i never understood, ms-dos 2.0 on it could use 704 kb (the regular 640 kb and 1 extra 64 kb page that was miracously added) without recurring to constructs like expanded and extended memory.  </s>
+<s> kees  </s>
+<s> thanks alot guys!  </s>
+<s> this all really helped alot! i will invest in purchasing the recommended ram you guys have shown  </s>
+<s> decent video with a gb of ddr5 ram helps too.  </s>
+<s> vapcmd  </s>

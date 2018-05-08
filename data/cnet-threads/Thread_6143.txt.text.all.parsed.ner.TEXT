@@ -1,0 +1,15 @@
+<s> i have a desktop (win98) with 2 hard drives on it.  </s>
+<s> please let me know if the following is possible.  </s>
+<s> your suggestions are much appreciated.  </s>
+<s> i'd like to make the current slave drive the new master for the desktop (after reformatting it since i'm giving it away) and install the current master drive to function as an external backup hard drive for my new laptop (xp pro).  </s>
+<s> do they sell external drives without the hard drive?  </s>
+<s> keeping aside the bad arithmetic (!), the answer is yes.  </s>
+<s> you can format the present desktop slave and install it as a master.  </s>
+<s> just change the jumper settings on the drive.  </s>
+<s> you will also have to create a primary partition in this drive.  </s>
+<s> if you want to transfer the os from the present master to the present slave (to be used as a master later), then you will first have to create a primary partition in present slave and transfer the os from the present master by some utility like &quot;ctod&quot; or the like.  </s>
+<s> or you can reinstall the os and all the required progs afresh. the present desktop master can be formatted and used as an external backup for your laptop.  </s>
+<s> usb to ide cables is what you require.  </s>
+<s> first, the answer is yes, what you ask works, but not as a backup system.  </s>
+<s> you only need to keep reading these forums to find pleas for help where the external hard &quot;with my family photos&quot; or &quot;stuff i can't lose&quot; has gone missing.  </s>
+<s> bob  </s>

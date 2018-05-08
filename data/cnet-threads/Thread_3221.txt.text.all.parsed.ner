@@ -1,0 +1,6 @@
+(TOP (S (S (NP (PRP i)) (VP (AUX have) (NP (DT a) (ADJP (QP (CD 320) (CD gb)) (NN wd)) (JJ external) (JJ hard) (NN drive)))) (CC and) (S (S (NP (PRP i)) (VP (VBD wanted) (S (VP (TO to) (VP (VB replace) (NP (DT the) (NNP hd)) (PP (IN in) (NP (PRP$ my) (NN laptop))) (PP (IN with) (NP (PRP it)))))))) (CC and) (S (NP (DT both) (NX (NX (NN use) (NN sata) (NNS connectors)) (CC and) (NX (JJ same) (NN form) (NN factor)))) (ADVP (RB just)) (VP (VBD wanted) (S (VP (TO to) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (AUX was) (ADJP (JJ possible) (S (VP (TO to) (VP (AUX do) (NP (DT this)) (PP (IN with) (NP (NNS windows) (CD 7)))))))))))))))) (. .)) )
+(TOP (S (NP (DT a) (JJ sata) (NN drive)) (VP (AUX is) (NP (DT a) (JJ sata) (NN drive))) (. .)) )
+(TOP (S (NP (NP (CD 99) (NN %)) (PP (IN of) (NP (DT the) (NN time)))) (ADVP (RB there)) (VP (AUX is) (NP (DT no) (NN issue)) (SBAR (IN if) (S (NP (DT the) (JJ mechanical) (NN fit)) (VP (AUX is) (ADJP (JJ fine)))))) (. .)) )
+(TOP (S (NP (EX there)) (VP (AUX are) (NP (ADJP (RB very) (JJ few)) (NNS exceptions))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (VP (VB thank) (NP (PRP you)))) )

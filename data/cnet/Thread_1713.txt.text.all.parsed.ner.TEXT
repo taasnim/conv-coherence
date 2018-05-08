@@ -1,0 +1,85 @@
+<s> i have two dells with windows xp os. one is connected via cable modem, the other is wireless.  </s>
+<s> i will call the first one (cable modem) my primary, the other one my secondary. the primary has a 40g hard drive, the secondary has about 150g on two internal drives, one 40g (the original) and one 100g (added later). the drive is also partitioned.  </s>
+<s> i use the 100g for backup, but my daughter stores free music files and it loads very slowly.  </s>
+<s> i have done all scans and cleanup utilities and it still runs like a snail.  </s>
+<s> i was thinking of buying a seagate free agent to store my photos and videos that are on the primary, which take up most of the room on my 37.2g hard drive, and also the music from the secondary, which i think slows down the performance.  </s>
+<s> q1: can i use this external to store stuff from both computers, in other words, move it back and forth?  </s>
+<s> if so, how do i name or partition the drive so i know the difference between c drive on my primary and c drive on my secondary?  </s>
+<s> q2: i am a bit confused about backup drive vs. external hard drive.  </s>
+<s> can i use this for backup, or do i need a separate drive for that?  </s>
+<s> and if so, does that mean that if i store and then delete pics from my primary computer, they will then disappear from the backup/external drive?  </s>
+<s> it was my understanding that backup drives just keep basically refreshing info from your computers current files, so if you delete a file on your primary, it won't show up on the backup.  </s>
+<s> is backup drive a different format from external, or are they interchangeable?  </s>
+<s> a few remarks and answers 1. the external drive gets another drive-letter.  </s>
+<s> just make 2 folders on it with different names, say &quot;pc1&quot; and &quot;pc2&quot;.  </s>
+<s> substitute suitable names for your 2 pc's! then backup data from pc1 to the pc1-folder and from pc2 to the pc2-folder.  </s>
+<s> it can't really go wrong if you set it up carefully.  </s>
+<s> in stead if 2 folders, you could make 2 partitions (that would each get a different drive letter) with a different name (volume label), but it wouldn't make it much clearer than having 2 folders in one partition.  </s>
+<s> 2. storing data on an external hard disk is a very bad idea.  </s>
+<s> external disk have shown to be unreliable, and if your only copy of some data is on that disk, it's practically inevitable you'll lose it.  </s>
+<s> external drives are nice for storing another copy, but certainly not the only copy.  </s>
+<s> don't say you haven't been warned.  </s>
+<s> 3. deleting files from that 100gb partition won't have any influence at all on the speed of your secondary machine.  </s>
+<s> there must be other causes for it being slow.  </s>
+<s> but that's a totally different story.  </s>
+<s> 4. what happens with the copy of the file on an external dis, if you delete the original on the pc, totally depends on the settings of your backup/synchronization program.  </s>
+<s> i wouldn't advise to use a program set to sync the deletes for backup purposes.  </s>
+<s> but that's totally your choice, of course.  </s>
+<s> 5. backup drive is just your own term.  </s>
+<s> it's not standardized in any way.  </s>
+<s> if you want to call your external disk a backup drive, you're free to do so.  </s>
+<s> hope this helps.  </s>
+<s> kees  </s>
+<s> &quot;free music files&quot; seems like p2p (limewire and such).  </s>
+<s> using programs like that is a well-known risk.  </s>
+<s> it's likely that you should have said: &quot;my daughter stores free music files on the 100 gb disk and while doing so has allowed malware/viruses/trojans on the 40 gb disk.&quot; but, to be fair, that's not sure.  </s>
+<s> there can be many other reasons for a pc to be slow, especially if it's an older one like this (slow cpu, not enough ram, too many programs active, installed and running a lot of junk); but malware is common reason also.  </s>
+<s> kees  </s>
+<s> just a thought concerning your reply.  </s>
+<s> i have 3 pcs backed up on 2 external hard drives.  </s>
+<s> what else can i use to back up 500gb of data, music, photo and video files in addition to full system backups (system restore)?  </s>
+<s> even compressed, cds and flash drives are not an option and online storage is cost prohibative.  </s>
+<s> as already stated, ext.  </s>
+<s> hds can have issues and outright fail.  </s>
+<s> but, they do provide that extra storage.  </s>
+<s> what can be done is a simple fix, buy another set of ext.  </s>
+<s> hds and use them as yet another back-up.  </s>
+<s> any &quot;super-critical&quot; data can be stored on dvd/cd/hd discs, again as yet another area to store.  </s>
+<s> you can raid the system to make this possible, but that gets into real pc usage. the safe bet is to store on yet other ext.  </s>
+<s> hds as the quick and be done with it sorta thing.  </s>
+<s> you think this isn't cost effective, then think what you would need to do, if data is lost.  </s>
+<s> effectively, real back-up consists of 4 sets.  </s>
+<s> 1) actual immediate storage(int.  </s>
+<s> hd) 2) ext.  </s>
+<s> storage(daily/weekly/monthly)cd/dvd/hd 3) ext.  </s>
+<s> storage 2nd set(stored) 4) any type of storage kept in safe place you deem what needs to be stored and/or backed-up.  </s>
+<s> tada -----willy  </s>
+<s> @ kees, thanks for the good advice.  </s>
+<s> yes, i know that p2p software is very bad.  </s>
+<s> i run a scan on both computers every night with avg free, plus i run microsoft security essentials or windows defender every so often, plus ccleaner, as well as defrag every now and then.  </s>
+<s> i have detected and removed several adware, spyware, trojans, viruses, etc. but you can tell when you have one of those.  </s>
+<s> they do weird things.  </s>
+<s> i don't think the computer is running &quot;weird&quot;, just slow.  </s>
+<s> i had another 512 ram memory put in so i do have 1 g.  </s>
+<s> i think it may be the sheer volume of stuff she has stored on there.  </s>
+<s> thousands of songs.  </s>
+<s> i can't wait till she gets her own pc so i can get rid of it all.  </s>
+<s> @ willy, what's the difference between numbers 2/3 and 4 on that list?  </s>
+<s> how do you all feel about online backup?  </s>
+<s> i personally don't trust any agency since 911. the government is spying on us all (or will be soon) and even though i don't engage in terrorist activity, i don't want them looking into my personal files without my consent, which they will soon have the ability to do.  </s>
+<s> anyone could do it, and as long as they weren't using it you would never know.  </s>
+<s> if not external hd, then is there an alternative to cd/dvd-roms?  </s>
+<s> -april  </s>
+<s> #2, you follow the back-up per day/week/month as you see fi t, it becomes the immediate work back-up.  </s>
+<s> #3 is copy of #2, you back-up again as you see fit, it maybe an exact back-up of #2 or lag a bit but its there as yet another copy of your data.  </s>
+<s> #4 is the last defense, your back-up is stored away and comes out when you deem that some back-up is required.  </s>
+<s> its there as the final deposit of your super critical data, again what you deem necessary.  </s>
+<s> you're playing it safe, for sure if you read all the horror stories, once your system is back from the brink and ready, return data or access it.  </s>
+<s> of course, what's back-up on a certain date is yours to decide, there than trying to recover such data from the ruined hd. if you raid, the data is mirrored and at least the mirrored copy is available, but that's only 1-copy of data.  </s>
+<s> you still need to place a back-up somewhere to be safe, outside of system.  </s>
+<s> as for cd/dvd/hd, the use of flash drives or any other storage whether it be off-site like online is entirely up to you.  </s>
+<s> do you trust or consider that online deposit, good and retrievable and of course the cost as to amount of storage.  </s>
+<s> as a business this can be a write-off.  </s>
+<s> for personal use, its again worth it for you.  </s>
+<s> which is why, i state, &quot;super critical data&quot;, just about what is that in mb/gb amount?  </s>
+<s> tada -----willy  </s>

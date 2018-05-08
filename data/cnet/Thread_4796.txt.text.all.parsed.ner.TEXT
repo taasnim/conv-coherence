@@ -1,0 +1,66 @@
+<s> i have an amd athlon 2200 with winxp home installed on it.  </s>
+<s> other details: 2 hard drives: maxtor 20 gb (older, perhaps 3 yrs old), winxp installed on this drive.  </s>
+<s> and western digital 120 gb hard drive, brand new (partitioned into 4 parts) 2 - 256 mb ddram pc 2100 my problem began recently when i ran perfect disk defragmenting program and selected the &quot;boot defrag&quot; option, which defrags the drive upon boot up, before windows loads.  </s>
+<s> i had selected the &quot;c&quot; drive which is the 20 gb maxtor upon which win xp home is installed.  </s>
+<s> this is the only drive in fat32 format, the remainder are in ntfs.  </s>
+<s> upon rebooting i received an error message that some part of winxp was corrupted and it could not load.  </s>
+<s> it was located in: c:windowssystem32configsystem in any case, i attempted to reinstall winxp home and received numerous error messages reporting that various portions of the winxp cd could not be copied to disk.  </s>
+<s> i have two cd drives, one a cd-rw another a dvd.  </s>
+<s> i attempted to try again with each of the drives without any luck, i.e. the same problem.  </s>
+<s> i blasted each with canned air to rule out dirty lens.  </s>
+<s> i have also borrowed someone else's win xp install cdrom thinking that mine was defective in some way, despite the fact that i could not see a single thing wrong with it.  </s>
+<s> same results: nada!  </s>
+<s> i figure my problem is either with the cdr drives or my hard drive, which i should say, has reported 1088 bad sectors upon chkdisk in the past, has given up the ghost...any ideas would be gratefully accepted...!! thanx, in advance, don  </s>
+<s> the tool you used has some reports of wiping out the owners setup.  </s>
+<s> looks like you get to start over.  </s>
+<s> sorry to read such posts.  </s>
+<s> let me state that some overdo &quot;defragmenting.&quot; in fact, some owners seem to spend almost all their computer time running defrag programs.  </s>
+<s> without any sugarcoating, this may be your lesson that even the simple defrag that xp came with, would be used about weekly and if more than that, then you need to reappraise why you have this pc and os. sorry if that seems harsh, but as i noted, i didn't sugarcoat it.  </s>
+<s> some will note a loss of performance with just a minor amount of fragmentation.  </s>
+<s> too often i find that dma isn't really working or the motherboard drivers were not installed.  </s>
+<s> bob  </s>
+<s> rough lesson indeed!  </s>
+<s> however, i am not really a fanatic with my defragging.  </s>
+<s> i run it about once every week or two, and i do it that frequently as i do move quite a few files around.  </s>
+<s> i had recently experienced some mystery reboots, and had hoped that straightening things out with a boot defrag might help.  </s>
+<s> silly me! that aside, however...any ideas...? a friend suggested a cd disk lens cleaner.  </s>
+<s> however i'm not sure how i might activate this when i can only boot into dos mode via cd boot disk.  </s>
+<s> i am re-running scandisk, and it seems to be accessing the drive without difficulty, noting a few of the bad sectors as it always has.  </s>
+<s> so i doubt this is the problem.  </s>
+<s> appreciate any steps folks might recommend.  </s>
+<s> it's a cheap thing to do, try it. the issue with bad sectors is that it's not a good thing.  </s>
+<s> a drive with such tends to either just stay as-is or get worse.  </s>
+<s> with today's drive prices, if your computing experience is valuable to you, then you move a glitched drive out... as to doubt, microsoft's oses don't handle bad sectors well.  </s>
+<s> in years past, there was some attempts at fault tolerent oses (witness novell's sft servers), but today microsoft, in an apparent cost cutting move expects you to have hardware without flaw.  </s>
+<s> if this is xp, where is this scandisk?  </s>
+<s> it's not stock.  </s>
+<s> bob  </s>
+<s> i'm using an old win98 boot cd, since this is a fat 32 partition, and this has the scandisk utility.  </s>
+<s> these few bad clusters have been around for over a year without growing in number or causing problems.  </s>
+<s> how does one activate a cd lens cleaner in dos mode?  </s>
+<s> this is my current quandary.  </s>
+<s> i have one, have placed it in the respective drives.  </s>
+<s> but how do i know that it has done anything to clean them, since usually it plays an audio track during the cleaning?  </s>
+<s> as i am only able to boot into dos via a boot cd, i can only access one of the cd drives simply by typing d:/dir , but i doubt that executes anything which will rotate the cd and clean the drive.  </s>
+<s> mine is some 4 audio tracks.  </s>
+<s> it plays them and them it's done.  </s>
+<s> bob  </s>
+<s> right...that's what is on mine also.  </s>
+<s> (3 or 4 tracks) but how does one &quot;play&quot; an audio track in dos mode?  </s>
+<s> irregardless, i think i've stumbled on the culprit.  </s>
+<s> although i've been running 2 x 256 kingston sticks of pc2100 ddram for the past year without a hitch, another fellow suggested running memtest ( ), which i did with oodles of memory errors.  </s>
+<s> perhaps it wasn't the defragging after all... looks like i've got my work cut out for me...! any tips on memory troubleshooting would be gratefully accepted!  </s>
+<s> in short, my cdrw and such have a &quot;play&quot; button.  </s>
+<s> without any ado, i press the play button next to the eject button.  </s>
+<s> as to memory, i replace bad memory.. most if not all can't repair a bad memory stick.  </s>
+<s> so try just one stick.  </s>
+<s> bob  </s>
+<s> hi ddoom, can we back-track a bit, get some more info?  </s>
+<s> when you say re-install, what exactly do you mean?  </s>
+<s> if you booted from the xp cd did you choose repair or a fresh install?  </s>
+<s> you say you can only boot into dos mode - is this using a boot disc or the xp disc?  </s>
+<s> it is most unlikely that two cd readers should fail at the same time, and running fdisk from dos will check your hd out before a re-install if all else fails.  </s>
+<s> roger  </s>
+<s> hi ddoom, i want to add a bit here.  </s>
+<s> ntfs is a much more stable file system than fat32, and is less likely to have this type of problem.  </s>
+<s> roger  </s>

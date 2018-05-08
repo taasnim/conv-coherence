@@ -1,0 +1,63 @@
+<s> hello i've an amd athlon 64 dual core processor with asus motherboard and xp professional i cannot work in turbo c or borland c compiler the window opens and minimizes when i run it, i really need to work on c. please help me  </s>
+<s> machines with 1.0gb ram?  </s>
+<s> i see you didn't tell much about your pc. why make others ask you for that?  </s>
+<s> in other words why not make your first post a good one?  </s>
+<s> i need help.  </s>
+<s> .  </s>
+<s> why cant i open the turbo c in my computer.  </s>
+<s> .  </s>
+<s> instead it tells me that &quot;16 bit dos subsystem&quot;. .  </s>
+<s> any body? .  </s>
+<s> .  </s>
+<s> please. .  </s>
+<s> i realy need a reply. .  </s>
+<s> even . .  </s>
+<s> me .  </s>
+<s> .my computer tells me that&quot;16 bit dos subsystem, , but i guess. .  </s>
+<s> theres better way for that. .  </s>
+<s> why don't you try to find a newer version in turbo c which can run in 32 bit dos subsystem.  </s>
+<s> .  </s>
+<s> im already doing it right now. .  </s>
+<s> .  </s>
+<s> time after time i see the os damaged.  </s>
+<s> you didn't tell too much so all i can offer is bob  </s>
+<s> in i read that the latest version is from 1990.  </s>
+<s> are you sure it's compatible with windows xp? i've got my doubts.  </s>
+<s> my suggestion is to find another (compatible) c-compiler or a another (compatible) os, like ms dos 6.0 or thereabout.  </s>
+<s> but that might not run on current hardware.  </s>
+<s> kees  </s>
+<s> i can vouch for that.  </s>
+<s> however the subsystem error is caused by malware most of the time.  </s>
+<s> sometimes i find it's an owner with registry and other cleaners but it is often fixable.  </s>
+<s> bob  </s>
+<s> q: write a program tha asks for values from the user and find out which number was entered the most number of times (mode) and how many times this number was enetered.  </s>
+<s> assumed that the numbers entered are postive and in increasing order.  </s>
+<s> example: 112222233-1, display the mode is 2 and its frequency is 5 hope you can help me... tnx a lot in advanced..  </s>
+<s> i have been ecountered that problem before.  </s>
+<s> but actually you just use for loop and array.  </s>
+<s> that's all i can remember.  </s>
+<s> homework and school assignments here.  </s>
+<s> that's something you must do yourself: learning by doing.  </s>
+<s> be sure your program had a good way of handling: - empty input (just return) - invalid input (like @1a' or 877) - short input (like 0) unless, of course, you're allowed to interpret &quot;assumed&quot; or &quot;assume&quot; as &quot;there's no need to check it and the program may give erroneous result or reach an abnormal end if these precondition isn't met&quot;.  </s>
+<s> ask your teacher.  </s>
+<s> a few more remarks: - the suggestion above of using an array is useful, but - given the order - not necessary.  </s>
+<s> it should work without array also.  </s>
+<s> - the assignment is about numbers (each on it's own line until you enter a negative one).  </s>
+<s> your input example is about digits (all on one line and ending with a non-digit).  </s>
+<s> - is it necessary to handle floating point numbers (like 3.14 or 3.14e13) or can it be assumed the numbers are positive integers?  </s>
+<s> kees  </s>
+<s> hellow, , i just want to ask a favor. .  </s>
+<s> i realy need this code on how to make a command to printer using turbo c. .  </s>
+<s> please if anyone knows this. .  </s>
+<s> please submit your post asp. .  </s>
+<s> thanks  </s>
+<s> i don't think this is a good question for a forum that's listed under hardware in the index.  </s>
+<s> moreover, it's not clear if you mean c or c++ (that should make a difference for the coding you need).  </s>
+<s> and can you tell more about what you mean &quot;make a command to printer&quot;.  </s>
+<s> please repost with this additions in computer help.  </s>
+<s> kees  </s>
+<s> did you go to krugle.com and see if it's there?  </s>
+<s> hi i am snjay and i have problem with running c programing with amd athlon 2.60 ghz processor, what should i do for run the c program with same processor.please  </s>
+<s> help.  </s>
+<s> since turbo c was dos based you can now get microsoft's virtual pc and run dos in that and turbo c will run in the vpc.  </s>
+<s> bob  </s>

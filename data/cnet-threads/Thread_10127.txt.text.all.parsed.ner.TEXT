@@ -1,0 +1,32 @@
+<s> my desktop started doing this intermittantly a while ago.  </s>
+<s> i'd try booting again and it would eventually boot successfully.  </s>
+<s> however, eventually it quit.  </s>
+<s> i recall having this problem when there was a bad master boot record.  </s>
+<s> fixed it and no further problems.  </s>
+<s> this time is different.  </s>
+<s> rewriting the mbr doesn't fix it.  </s>
+<s> since it was time to clean up my hdd, i reinstalled win xp pro.  </s>
+<s> this involved formatting the drive.  </s>
+<s> still - same problem.  </s>
+<s> i can still use the pc by leaving my xp cd in the drive.  </s>
+<s> during the boot sequence i am prompted with &quot;press any key to boot from cd.&quot; if i ignore the prompt and let the boot sequence go on, i'll be able to boot right to my hard drive.  </s>
+<s> any ideas?? dell xps 1000r 1000 mhz 60 gb hdd 512 mb ram thanks.  </s>
+<s> is normal when the cd is before the c drive in the boot sequence, an d ignoring it is correct.  </s>
+<s> i wish that you would describe the actual problem in more detail.  </s>
+<s> mbr's don't just go bad over time.  </s>
+<s> don't hear of many mbr viruses anymore.  </s>
+<s> may be ram going bad. if 2 sticks, try 1 at a time.  </s>
+<s> if not, get &quot;memtest86&quot; from microsoft and let it run.  </s>
+<s> download diagnostic floppy for the hdd from the mfg website.  </s>
+<s> may be a warranty issue.  </s>
+<s> may be your video card messing with your endorphins.  </s>
+<s> very strange symptoms, have you tried booting to into cmos setup and changing the boot sequence to boot from the hard drive first, cd second and floppy last.  </s>
+<s> see if that resolved the problem.  </s>
+<s> possible that you hard drive is going.  </s>
+<s> leaving boot cd in drive may be allowing h/d to spin up.  </s>
+<s> knew of one system that would boot on the 3rd or 4th re-start and do just fine.  </s>
+<s> another attached on an angle in the rails would boot, lay it flat and no boot.  </s>
+<s> with the cover off, get the drive running hard by transfering large data blocks and see how hot it gets.  </s>
+<s> drive should be on the warm side of hot.  </s>
+<s> (baby bottle) any hotter than that the drive motor may be bad.  </s>
+<s> bill  </s>

@@ -1,0 +1,12 @@
+<s> ive recently bought a a1410n computer, and the keyboard that comes with it has internet, email, etc shortcut keys on it.  </s>
+<s> how do i manipulate those to my liking?  </s>
+<s> for example, the &quot;internet&quot; button changes my current site in ie to hp-aol site.  </s>
+<s> how can i change that to my current homepage (msn) so that everytime i use that key it doesnt switch it?  </s>
+<s> go to control panel, click on keyboard, click on buttons tab and you should be able to change the buttons to what ever you want.  </s>
+<s> if you don't see the button tab it may be because of the microsoft update kb908531 that messed up the hp internet keyboards.  </s>
+<s> i had that problem and had to remove that update to use and program the buttons.  </s>
+<s> so how do u delete that update, and is it safe to delete?  </s>
+<s> go to control panel, add and remove programs and check the box on top the says show updates.  </s>
+<s> scroll down until you find kb908531 then just remove it like removing any other program.  </s>
+<s> if you have your computer set for auto updates from microsoft you will have to go there and hide that update so it won't reload itself or just turn off auto updates which is what i did.  </s>
+<s> as far as it being safe to remove, it tells you of all the programs it could effect when you remove it, but when i removed it it didn't effect anything except i was able to program my keyboard buttons.  </s>

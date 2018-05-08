@@ -1,0 +1,83 @@
+<s> windows update shows an important update &quot;2007 microsoft office suite service pack 3 (sp3).  </s>
+<s> i have tried 5 times to download and install this update and each time it has failed!  </s>
+<s> i have vista home premium.  </s>
+<s> microsoft office home and student 2007 installed.  </s>
+<s> is sp3 suitble for my version of office?  </s>
+<s> why does it fail each time?  </s>
+<s> i forgot to ask you to e-mail me an answer please.  </s>
+<s> sadly with only this amount of detail it would be guessing why. the last time i saw it fail was the security software blocked it.  </s>
+<s> bob  </s>
+<s> what detail can i give you?. can i turn off the security software with safey?  </s>
+<s> thanks.  </s>
+<s> what does the windows update history say about the error? the least it has is an error code, and quite often is has a helpful link.  </s>
+<s> kees  </s>
+<s> see what kees asked and remember that we didn't get to see it fail and we can't know what else is installed.  </s>
+<s> bob  </s>
+<s> i turned of microsoft essential security and tried to install sp3.  </s>
+<s> failed again.  </s>
+<s> error code 57e please assist.  </s>
+<s> thanks  </s>
+<s> the first page of might be helpful.  </s>
+<s> i didn't check.  </s>
+<s> the least it shows is that you're not the only one.  </s>
+<s> kees  </s>
+<s> sorry guys i am now for the first time with cnet at a total loss.  </s>
+<s> i have explored every avenue that i have been advised to explore.  </s>
+<s> i have a program that checks for driver updates etc. i did this however this program reported that all drivers were up to date.  </s>
+<s> after 17 tries to update sp3 i give up.  </s>
+<s> can cnet please tell me how to contact microsoft to ask their advice on how to download sp3.  </s>
+<s> i feel i have worried you guys enough without success.  </s>
+<s> thanks.  </s>
+<s> download can be done on other machines if that is an issue.  </s>
+<s> installing appears to be the problem and the mention of driver update apps sends shivers down my spine as those are known to create more trouble than they cure.  </s>
+<s> i can't tell what you did to try to fix this.  </s>
+<s> turning off the firewall and av is common but a lot of malware blocks such updates.  </s>
+<s> keep writing.  </s>
+<s> bob ps. there is another thought about this.  </s>
+<s> does sp3 have something you need?  </s>
+<s> bob i have a feeling that only one part of the sp3 did not download so everything else seems ok. the download still appears in &quot;windows update&quot; window.  </s>
+<s> is there a way i can delete it or hide it?  </s>
+<s> thanks.....peter  </s>
+<s> yes, hiding an update is a standard functionality in internet explorer&gt;tools&gt;windows update.  </s>
+<s> kees  </s>
+<s> the installation of microsoft office suite 2007 service pack 3 (sp3) failed for me repeatedly.  </s>
+<s> i found my c: drive was low on space, so i freed some up.  </s>
+<s> there were also multiple messages in the event log from msiinstaller saying that outlook was holding resources, so i exited outlook.  </s>
+<s> i don't know which of these solved the problem but the sp now installed ok.  </s>
+<s> i have a client with the same issue.  </s>
+<s> we are running windows vista home premium sp1 and we have installed the ms office home and student 2007 installed as well as outlook 2007.  </s>
+<s> i have tried updating through windows update and it never finishes.  </s>
+<s> i have manually downloaded the sp3 and installed and it goes about calculating the files needed before eventually crapping out with the message &quot;the installation of this package failed&quot;.  </s>
+<s> i checked and this version of office was covered in this sp3, but my computer isn't taking to it too well...any ideas?  </s>
+<s> i see you have a mismosh of home+student and added outlook.  </s>
+<s> while it could be one of the usual issues such as protection software stepping in, your combo of software is just off center. the fact this vista is at sp1 doesn't help matters either.  </s>
+<s> sp2 for vista shipped in 2009 so this should have been plenty of time to catch up.  </s>
+<s> let's see if office sp3 requires vista sp2?  </s>
+<s> sorry, but the article about that is missing.  </s>
+<s> why not step up to sp2 which does list vista sp1?  </s>
+<s> bob ps. read the post above about free space.  </s>
+<s> i think &quot;that some of sp3 downloaded however not all of it and as i said before i have hidden the rest which keeps appearing in &quot;windows update&quot;.  </s>
+<s> with total respect cnet should take this topic up with microsoft!  </s>
+<s> always appreciate you assistance over the years....................................pp. it is like the new version of yahoo email that freezes several times every day!  </s>
+<s> ugggggggggggh!  </s>
+<s> looking for a service that does not keep m emails up in the &quot;blue yonder&quot;.  </s>
+<s> any suggestions guys?.  </s>
+<s> if you can't download it, then how would you install it?  </s>
+<s> i think you missed my point about vista sp1 being out of date.  </s>
+<s> you need to talk to the client about that out of date item.  </s>
+<s> for now i suggest you move to office sp2 which is noted to work with vista sp1.  </s>
+<s> bob  </s>
+<s> bob, i think you are getting the two of us confused.  </s>
+<s> i downloaded and tried installing for a client who had ms office installed on a vista sp1 system. the system has over 200gb of disk space free so disk space is not an issue.  </s>
+<s> perhaps the service pack is an issue, but i don't like installing service packs on clients' working machines unless absolutely necessary.  </s>
+<s> i may just have to update it, though...  </s>
+<s> i think you jumped into vibeman's discussion so you take a chance your issues will be polluted with theirs.  </s>
+<s> that's your choice but i did note service pack issues.  </s>
+<s> after many years i've discovered that the host os (windows) may have to be at a certain sp for an office sp to be installed.  </s>
+<s> i didn't find the article about this for office sp3 but did find it for office sp2.  </s>
+<s> this is why my advice is to stop at office sp2 in your case.  </s>
+<s> bob  </s>
+<s> if your system works fine,why do the update,if its giving you problems,dont do the update.if  </s>
+<s> your running a &quot;sketchy license&quot; you may have problems.as  </s>
+<s> someone mentioned before open office works great.i got here by checking for problems before submitting to getting fragments list.s.cnet pre_process.sh  </s>
+<s> threads by sp3,glad i did,my machine will prosper w out it.  </s>

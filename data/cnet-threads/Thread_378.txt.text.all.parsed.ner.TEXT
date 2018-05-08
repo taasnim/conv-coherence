@@ -1,0 +1,41 @@
+<s> i formated, then istalled windows me in a computer.  </s>
+<s> now i can't get the modem working.  </s>
+<s> it is an ambient data fax voice (md-cn5614ch).  </s>
+<s> i've tryed quite a few drivers already.  </s>
+<s> while intalling the modem a message appears, &quot;confix has caused and error in kernel32...&quot;.  </s>
+<s> i've tryed it in windows 98se too already, and it does the same thing.  </s>
+<s> if i go to control panel - modems - diagnostics - select modem - more information, after a while a message appears with something like this. if it is an external modem, make sure it is connected and turned on.  </s>
+<s> if it is an internal modem make sure the interupt port is properly set.  </s>
+<s> if i check the interupt port, there are on conflicts, neither can i change it.  </s>
+<s> also if i check the &quot;diagnostics - more information&quot; i can hear the modem making a few short and very silent &quot;chirps&quot; (sounds).  </s>
+<s> can you help me figure it out?  </s>
+<s> before i expect the modem to play nice, the os's you've listed don't install motherboard drivers for you and i see no mention of that step.  </s>
+<s> many motherboards have irq routing issues that the motherboard drivers supply support for.  </s>
+<s> microsoft will not install these for you by clicking of windows update or driver update.  </s>
+<s> then you have the possibility the modem is just doa.  </s>
+<s> bob  </s>
+<s> how can i find the model no. for the mother board so i can find the drivers.  </s>
+<s> i know it's form the intel company.  </s>
+<s> will they have all software for the motherboard for download, what are my options?  </s>
+<s> many intel boards are used in hp, dell and other makes of machines.  </s>
+<s> please follow the tip instructions to help people help you: &quot;if you are asking for help to troubleshoot a computer-related problem, please be sure to include all the necessary information (ie: operating system, model number, hardware, software, etc) that will help others identify your problem for a speedy resolution.&quot;  </s>
+<s> bob  </s>
+<s> it is a pc of hardware somebody must have picked up here and there.  </s>
+<s> no model number, pentium iii, 95 mb ram, about 2.2 gb hard drive.  </s>
+<s> whole system seems odd.  </s>
+<s> supposed to be an alaska, but... now only windows me and some drivers.  </s>
+<s> you could try opening the case to read model numbers off parts and boards then sharing here.  </s>
+<s> why not?  </s>
+<s> do you own this machine?  </s>
+<s> or are you the &quot;tech of the day?&quot; bob  </s>
+<s> no i don't own the machine, i try to it for my dad's friend.  </s>
+<s> (we don't live near real techs.) i opened the machine but i can't figure out which is the model no. for the mother board.  </s>
+<s> but i have some numbers of the mother board that might help.  </s>
+<s> intel 810, intel 82801aa, intel 82810aa. the model no. of the modem is md-cn5614ch. the model no. of the sound card is ct4750 or mm-ct4751.  </s>
+<s> sincerely, &quot;the tech of the day&quot;  </s>
+<s> the intel 82801aa can be an onboard sound chip and is paired with that 82810 as you can read in posts for people looking for drivers from you'll want to look for names on the motherboard or if the os is somewhat functional try belarc's free advisor and post the results here.  </s>
+<s> at the heart of your problems is identifying the make/model of said boards.  </s>
+<s> or you could just load linux since the latest distributions seems to carry more drivers than i ever imagined.  </s>
+<s> i will also write that windows me is a poor choice for hardware you can't identify since of windows 95, 98 and me, windows me has the lowest number of natively supported hardware (ie.  </s>
+<s> drivers.) you have to work the hardest to install that version.  </s>
+<s> bob  </s>

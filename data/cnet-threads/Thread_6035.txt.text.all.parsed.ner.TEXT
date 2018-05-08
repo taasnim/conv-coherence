@@ -1,0 +1,63 @@
+<s> hi all.  </s>
+<s> my computer is custom-built from a tiger direct kit -- 1 g ram, amd 2900 processor, 400 ddr, running xp pro.  </s>
+<s> it's a year old.  </s>
+<s> this is my problem: after running for a while (sometimes days) with no problems, it'll suddenly shut itself off and start making a buzzing noise. the buzzing only stops when i cut the power supply off at the back.  </s>
+<s> this only happens when the weather warms up (we don't have central air, just window units, and the room we use as an office only has fans, although we blow in ac air from the great room and keep the room's curtains closed.  </s>
+<s> i also keep a 12-inch fan trained on the innards during warm weather and have left one side open since this problem started).  </s>
+<s> the guy that built the computer was here last summer working on our network when it happened one out of many times, and he theorized that the power supply was underpowered and overheating -- training the small fan directly on the open cpu was his suggestion. the original 300 watt power supply died a couple of months ago, so i installed a 450 watt replacement, after completing a questionnaire on tiger direct determining how much power my cpu really needed (i purposely overestimated how much power i'd need when answering the questions, just to provide a margin of security).  </s>
+<s> it had been doing fine until about a week ago, when the weather warmed up and -- you guessed it -- the computer shut itself off again and started buzzing.  </s>
+<s> again, while the computer shuts itself down, the buzzing only stops when i switch off the power supply from the back of the unit, and i have to let the computer sit for at least 15 minutes before starting it up again.  </s>
+<s> today, after a long afternoon away from home, we came in to find it buzzing away -- no telling how long it had been doing this.  </s>
+<s> i left it off for nearly an hour before powering it back up.  </s>
+<s> so does anyone have any idea what's happening?  </s>
+<s> it's obviously heat-related, but hubby's computer (an hp with similar specs and age) is subjected to the same conditions and never does this.  </s>
+<s> (in fact, when this first started happening last year, he didn't believe me until it happened with him in the room.) i have trouble believing it's the power supply again, as this is a new one and much more powerful, actually slightly more power than i need. is my fan not powerful enough?  </s>
+<s> do i need some type of extra cooling system? the cpu box actually contains a chimney, which was touted as &quot;superior cooling,&quot; but something is obviously amiss here.  </s>
+<s> any suggestions would be more than welcomed.  </s>
+<s> how many fans do u have in your system? it could be that the cpu fan is malfunctioning causing the system to shut off i would check that first.  </s>
+<s> try installing a water cooling system.  </s>
+<s> you can learn more at  </s>
+<s> if the buzzing sound is coming from the system speaker, it maybe just the warning sound/siren for &quot;overtemp&quot; warning, then shutdown.  </s>
+<s> you need to check the system bios and see what the temp setting is in order see if set right or at default, this is asaftey feature and shutdown.  </s>
+<s> well, you say chimmey, that doesn't ring a bell with me.  </s>
+<s> does this chimmey have a fan associated with ot simply an elongated vent? the cpu fan and its heatsink may have been installed improperly.  </s>
+<s> either reseat with new heatsink compound(artic silver), scape of old compound or thermal paste or buy a better rated hsf(heatsink setup) to replace the current one.  </s>
+<s> make darn sure the power supply fan is runing is so equipped.  </s>
+<s> as for better wattage unit, that's aplus but some cheaper psu aren't really that good.  </s>
+<s> buy a vantec, antec, enermax branded psu of at least 400w+ for best operation and stable outputs.  </s>
+<s> check all that and get back to us.  </s>
+<s> tada -----willy  </s>
+<s> thanks, everyone -- we're slowly but surely working on all your suggestions, and i'll let you know the results when we're done.  </s>
+<s> my new power supply is a 450-watt okia, which was rated highly by tiger direct customers, and so far it seems to be doing the job.  </s>
+<s> but as suggested by you and others, we're also checking the fans -- i'm not mechanically skilled, and the banshe is taking his time checking this out.  </s>
+<s> our geek friend doug is out of state right now, but has promised to look into everything as soon as he gets back (beginning of may) as well.  </s>
+<s> in the meantime, i shut the computer down every time i step away for more than a few minutes, which seems to be the lesser of two evils at this point -- i'd rather not take the chance of doing damage from repeated sudden shutdowns.  </s>
+<s> the chimney is just a vent, nothing innovative imo. the banshe was quite impressed by it, but his hp is more reliable when it comes to heat, so i think the chimney is just for looks.  </s>
+<s> just a note -- every computer i've had has been possessed by demons.  </s>
+<s> it must be me, lol.  </s>
+<s> but this is really the least serious problem i've dealt with.  </s>
+<s> thanks again -- will let all of you know what we find out as we try out all suggestions.  </s>
+<s> the same quality.  </s>
+<s> higher ambient temps are often problematic for less expensive psus ... as the temp rises the potential output decreases.. sometimes folks have really good luck with inexpensive no-name 500 watt psus and others have nothing but headaches.  </s>
+<s> preferring to avoid the latter i always read, ask and end up buying the more highly rated units made by pc power and cooling, seasonic, fortron source, enermax, antec, etc. for an inexpensive, good quality, reliable psu...the fortron source ax450-pn is an excellent value.  </s>
+<s> you can also get some goods deals on pc stuff at techbargains.com ... especially with mfg rebates.  </s>
+<s> another thing is a good ups (with avr if possible) ... it protects your system and prevents damage or corruption from power spikes and unanticipated outages.  </s>
+<s> keep us updated.  </s>
+<s> vapcmd  </s>
+<s> i have just fixed a p4 which shut down everytime a burn was attempted/ pulled the heat sink off the processor - thermal glue had dried out in there.  </s>
+<s> bought a tube of silver 5 thermal glue for $10. also changed a failing 300w psu for a 400wpsu - $23. runs great now with no shutdowns.  </s>
+<s> buzzing could be - loose covers or add on blanks.  </s>
+<s> could also be a fan virbating  </s>
+<s> i read your message to my husband, and he said it makes perfect sense.  </s>
+<s> we'll try this tomorrow and let everyone know what happens.  </s>
+<s> (we replaced the fan, but it still shuts down.) thanks!  </s>
+<s> sorry i said use arctic silver thermal glue (adhesive) - do not use this on a cpu - you must use the arctic thermal silver compound clean the surface of the processor and the heat sink with alcohol.  </s>
+<s> all clean out the fins of the hs with a thin cloth - it is a bit of work, but worth it to get of every piece of dirt and fluff which wil retain heat.  </s>
+<s> see the website for instrucrions good luck with it newkid  </s>
+<s> the reason that your computer shuts off is because there is a problem with the cooling system which is located in the heat sink.  </s>
+<s> to resolve this issue make sure tha the fan is working good and some computers uses special grease that helps to remove heat from the cpu.if it is dryed clean the cpu surface and apply greace then install the heat sink then the fan.  </s>
+<s> your power supply is failing.  </s>
+<s> new one is the only solution.  </s>
+<s> this is the second one in a year.  </s>
+<s> how many times do i have to replace it?  </s>
+<s> i'm having such bad luck with computers that i'm ready to just go to the public library and check my email rather than keep dealing with stuff like this.  </s>

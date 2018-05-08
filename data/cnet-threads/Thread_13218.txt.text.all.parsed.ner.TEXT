@@ -1,0 +1,64 @@
+<s> i have a wireless upnp device on my home network, and it stopped accessing media from my main pc's (vista home premium 32 bit) wmp all of a sudden.  </s>
+<s> so, i checked media sharing in the network and sharing center, and i found that it had been turned &quot;off&quot;.  </s>
+<s> when i click &quot;change&quot;, it opens up the wmp media sharing window, but the upnp device is set to share media, and the &quot;allow&quot; button is greyed out.  </s>
+<s> clicking &quot;ok&quot; at this point only closes the window, and takes me back to square one (network and sharing center).  </s>
+<s> i googled this issue, and found that many people had similar issues with xbox360 or ps#.  </s>
+<s> however, i could not find a definite solution.  </s>
+<s> does anyone have a solution to this problem?  </s>
+<s> windows vista home premium 32bit (sp1) amd athlon 64 dual core 3800+ 2mb ram  </s>
+<s> i did look at this for a bit and what bubbled to the top was nod32 and an oddly named program called svchost.exe_gpsvc.  </s>
+<s> your post does not give details about your security choices and the oddly named svchost.exe_gpsvc would set off alarms here.  </s>
+<s> bob  </s>
+<s> can you please tell me what else you'd need know to determine whether or not my problem lie with nod32 and/or svchost.exe_gpsvc?  </s>
+<s> if we do determine that these are my problem(s), do you know of a solution?  </s>
+<s> your post was so light on detail that i was left to guess and badly it seems since you didn't write &quot;i don't use this and never saw that.&quot;  </s>
+<s> i'll wait till you can share more.  </s>
+<s> bob  </s>
+<s> i don't have enough computer knowledge to know whether or not i use/have the items you mention.  </s>
+<s> you keep mentioning that my post is light on info, but can you be specific as to what i need to provide you with?  </s>
+<s> i would tell you anything i know, but i'm not clear on what i know and what info you need.  </s>
+<s> thank you.  </s>
+<s> max  </s>
+<s> sorry but this is not like a tech support call.  </s>
+<s> you are part of the team that helps fix your issue.  </s>
+<s> if you don't know anything more about this machine then that's as far as we can go here.  </s>
+<s> good luck, bob  </s>
+<s> i have same issue vista64 when i do media centre it works fine, if i try to watch video or music just from pc it does not find pc and when going into media player nothing changes it, i used my xp install on spare drive and it worked straight away.  </s>
+<s> i have checked services and the service that should allow sharing is missing.  </s>
+<s> windows media player network sharing service i wish people wouldnt reply to threads if all they can do is put pointless replies, the info you gave is what the issue is.  </s>
+<s> actually your post was pretty good in that it gave a clue as to what was amiss.  </s>
+<s> did you want to batter those that want to help or do you want help?  </s>
+<s> bob  </s>
+<s> the issue bob is windows media player network sharing service is not in the services list and on most websites they all say to turn this on, but in vista64 it is missing.  </s>
+<s> i have a program called orb that i found which allowed me to view video and music folders straight away but did not start/install the missing service as i hoped it would.  </s>
+<s> media centre seems to work fine which is the really odd part of the problem.  </s>
+<s> im not battering anyone but i am getting fed up trying to find info when i waste my time on so many sites which end with people not helping which is why im a bit fed up.  </s>
+<s> only derails the conversation.  </s>
+<s> i hope you see why that would lead to discussions other than the issue.  </s>
+<s> my first thought is hmeon noted at (vs.85).aspx the problem is real but what to do with folk that want to bash others?  </s>
+<s> that is, the hemon may not fix it but lead to a clue why it is so.  </s>
+<s> if others want to bash a person for making a suggestion that could lead to another clue what's going on then what to do other than ignore that person?  </s>
+<s> what would you do?  </s>
+<s> i know this area only lightly but do write windows apps so it gives me a little edge when looking into this.  </s>
+<s> if that's not good enough just say so and i'll delete my replies and unsubscribe.  </s>
+<s> bob  </s>
+<s> thankyou bob, yours is probably the first link to info that even mentions the service.  </s>
+<s> everyone else keeps posting about how its there but not working.  </s>
+<s> i have tried this and it did not seem to start the service but i had no errors on the command prompt, to test i even start mediaplayer from the command line and it worked fine.  </s>
+<s> ill see what i can find on that command elsewhere since at least its now something to go on.  </s>
+<s> so thanks for that info.  </s>
+<s> lists the files wmp 11 uses.  </s>
+<s> for vista those are pretty new but that's not what i'm thinking.  </s>
+<s> i could use this article to find those files and see if any are missing or older than what is noted in this article.  </s>
+<s> again, this is not a cure.  </s>
+<s> only something i would do to figure out what's up.  </s>
+<s> bob  </s>
+<s> after spending hours last night and today i reinstalled vista64 and checked processes and sure enough its back, what worrys me now is if its a windows update that caused the problem with the service being disabled beyond repair. the link you gave should of started the service but was unable to.  </s>
+<s> top of my list is &quot;registry cleaners.&quot;  </s>
+<s> my buddies love them because of of the work it makes for them.  </s>
+<s> hint: they drive around reinstalling the os all day.  </s>
+<s> bob  </s>
+<s> i have reinstalled every service pack and update with no issue.  </s>
+<s> i think basicly if your issue is same as mine where the service is missing its safe to say the best way is to bite the bullet and reinstall operatining system.  </s>
+<s> streaming to the xbox360 is now as it should and unlike using orb to stream from pc its much cleaner and i dont need to run another program to do it.  </s>
+<s> as you say i might of run something that somehow deleted the process so will be very careful on that front from now on.  </s>

@@ -1,0 +1,28 @@
+<s> hi,laptop prob...i have the infamous irql not less or equal problem and get error report....stop ooooooooa....ox80896a76 oxoooooff e.t.c. this happens when trying to use recovery disc.i  </s>
+<s> have put in a new hd and cd writer.also  </s>
+<s> done a ram 86 test (no problems).tried  </s>
+<s> disabling caching etc in bios...i can run a mini ultimate pc boot disk but this doesn,t seem to help..i was wondering is it possible to put in my friends hd to see if it works or will help me fix the problem (i have toshiba model on xp ..his is windows vista on different model).also  </s>
+<s> could i put my hd into his laptop and load up my recovery disk from there?...if not how maybe flashing bios update might help..how can i do this with no boot...sorry for long winded question, any help desparetly appreciated....many thanks.  </s>
+<s> if you have set the bios to something like 'safe defaults' (certainly not overclocking) then either the disk is damaged or some hardware is broken.  </s>
+<s> probablky all you can do yourself is making a copy of the recovery disk and try that.  </s>
+<s> and see if you can run linux live or even install linux.  </s>
+<s> swapping hard disks with different os'es across different makes and models of laptops is a useless excersize, i'm afraid.  </s>
+<s> and repairing replacing the motherboard usually isn't cost effective, unless you can get a cheap one from another machine and install that yourself.  </s>
+<s> kees  </s>
+<s> thanks for reply..i can install linux..now what (does this mean the motherboards ok).  </s>
+<s> sorry i mean,t linux live.  </s>
+<s> that means that it's either the recovery disk that's damaged or some hardware component that isn't used by running linux live but is used by the setup of windows via the recovery disk.  </s>
+<s> doesn't really help to locate it, alas.  </s>
+<s> kees  </s>
+<s> thanks for help,can you think of any way to resolve this...i can load mini ultimate pc but i,m lost from there..  </s>
+<s> your posts are the only one google finds for &quot;mini ultimate pc&quot;.  </s>
+<s> so that's a very big unknown.  </s>
+<s> the two things you can do yourself: - remove all non-essential things from the pc (all usb-connected devices, sound card, wireless card etc) and try again with on only mouse, keyboard, hard disk and cd/dvd-drive (and video card if not integrated on the motherboard) - burn a copy of the recovery disk and try that kees  </s>
+<s> would a bios flash be of any use?  </s>
+<s> i,ll try to burn a copy of the cd recovery discs...is this possible?..the mini thing is on ultimate pc engineer 2011 windows....by the way you have been more helpful than anyone i,ve talked to before...greatly appreciated...severe thanks...(is there a way to test the motherboard..htrough linux live for example).  </s>
+<s> a bios does not wear out.  </s>
+<s> most of the time i see this error due to hardware issue such as an overheating pc. how long since you cleaned it?  </s>
+<s> read also no make, model, age, story.  </s>
+<s> if it's always done this, my advice changes.  </s>
+<s> if it's certain models, my advice changes.  </s>
+<s> bob  </s>

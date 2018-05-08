@@ -1,0 +1,16 @@
+                                    TIME 1 1 0 0 0 1 0 1 1
+                                  BUTTON 0 0 0 0 0 0 0 1 1
+                                 SECONDS 0 0 0 0 0 1 0 1 1
+                                  MANUAL 0 0 0 0 0 1 0 1 1
+                                WIRELESS 0 0 1 0 0 0 0 0 0
+                                 NOTHING 0 0 0 0 0 1 0 1 1
+                                  SEARCH 0 0 0 0 0 1 0 0 0
+                                  ROUTER 0 0 0 0 0 0 0 2 1
+                                   IDEAS 0 0 0 0 0 1 0 1 1
+                                    DHCP 0 0 0 0 0 0 0 1 0
+                                   SETUP 0 0 0 0 0 0 0 0 0
+                                  CAMERA 0 0 0 0 0 1 0 1 0
+                            BROADCASTING 0 0 0 0 0 1 0 1 0
+                                     WPA 0 0 0 0 0 0 0 2 1
+                                   2100+ 0 0 0 0 0 0 0 1 1
+                                     DSC 0 0 0 0 0 0 0 0 0

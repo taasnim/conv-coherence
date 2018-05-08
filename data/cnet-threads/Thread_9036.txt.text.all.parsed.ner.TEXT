@@ -1,0 +1,39 @@
+<s> i have a shared canon mp970 attached to my hp desk station that runs windows vista.  </s>
+<s> i have an hp laptop that also runs vista.  </s>
+<s> i have shared the printer and i can print fine when connected wirelessly.  </s>
+<s> however, then i connect through the eithernet cable, it will not print.  </s>
+<s> everything else seems to work fine except printing.  </s>
+<s> i have tried several location, tried reistalling the printer etc and i feel i must have overlooked something simple.  </s>
+<s> my router is a d-link dir-655 n(1.  </s>
+<s> any help would be appreciated  </s>
+<s> i discovered my laptop got a different ip address on wifi versus ethernet.  </s>
+<s> what a shame the windows networking couldn't sort all that out for us.  </s>
+<s> bob  </s>
+<s> after your message i disabled my wireless and restarted the laptop so that i think it would assign a a new ip address.  </s>
+<s> i was sure it was the solution but i still have the same issue.  </s>
+<s> thanks for trying to help.  </s>
+<s> have shared the printer and i can print fine when connected wirelessly.  </s>
+<s> think about this again!  </s>
+<s> your machine moved to another ip address and those other pcs that had found the printer can't find it because it moved to another address.  </s>
+<s> if you give it time the other machines might work but i found most don't want to wait for that.  </s>
+<s> just get on the client after you settle on how you will be connecting that laptop and re-setup the printer share.  </s>
+<s> bob  </s>
+<s> this may be over my head but my router is a dhcp server.  </s>
+<s> so does this mean that i will have this problem every time that the computer that is connected to the printer is restarted and assigned a new ip address?  </s>
+<s> thanks, alex  </s>
+<s> not over your head i see.  </s>
+<s> it's why many hard assign any server a fixed ip. in your case this is not a good idea as you flipped from wifi to wired.  </s>
+<s> and it is hard on most owners. the lesson here is simple.  </s>
+<s> put your print server on a machine that won't be moving around.  </s>
+<s> bob  </s>
+<s> its not moving around. the printer is connected to a desktop.  </s>
+<s> however, system updates during the night, sometimes cause a restart of the unit plus i live in the boonies and lose service at least once a day.  </s>
+<s> if i set my router to static ip, i guess it won't really effect the kids when they come down with their machines.  </s>
+<s> i could set the printer up on bluetooth but i am concerned about the range.  </s>
+<s> again thanks for moving me in the right direction  </s>
+<s> i read your first post and read it as if the printer was on the machine that changed from wifi to ethernet.  </s>
+<s> sorry but that's me reading your post and it wasn't clear the printer was on a desktop.  </s>
+<s> ok, if it still prints over wifi then the most likely is the old firewall issues.  </s>
+<s> i don't help with firewall configurations with step by steps since there are dozens out there but look at allowing all your lan access to the server.  </s>
+<s> i don't see the router ip as the issue here.  </s>
+<s> bob  </s>

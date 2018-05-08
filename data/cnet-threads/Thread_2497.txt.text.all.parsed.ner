@@ -1,0 +1,8 @@
+(TOP (S (S (NP (RB just) (JJ installed) (NN zumax)) (VP (VBZ x3) (NP (NN series)))) (CC but) (S (NP (PRP it)) (VP (VBZ shows) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (NN life)))))) (. .)) )
+(TOP (SQ (SBAR (IN if) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP plug) (NP (PRP it)) (PRT (RP in)) (PP (IN without) (S (VP (VBG making) (NP (DT the) (JJ other) (NNS connections)))))))) (, ,) (MD should) (RB n't) (NP (DT the) (NN power) (NN supply) (JJ internal) (NNS fans) (CC and) (NN power) (NN light)) (ADVP (IN at) (JJS least)) (VP (VB come) (PRT (RP on))) (. ?)) )
+(TOP (S (S (VP (VB read) (NP (NN &quot)))) (: ;) (S (VP (TO to) (VP (VB test) (NP (DT an) (JJ atx) (NN psu&quot)) (: ;) (PP (IN from) (NP (NN disclaimer)))))) (. .)) )
+(TOP (S (NP (PRP you)) (VP (AUX are) (VP (VBG doing) (NP (DT this)) (PP (IN at) (NP (PRP$ your) (JJ own) (NN risk))))) (. .)) )
+(TOP (S (NP (PRP i)) (ADVP (RB merely)) (VP (VBD supplied) (NP (DT the) (NN link))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (PRP i)) (VP (VBP assume) (SBAR (S (NP (NP (NNP robert) (POS 's)) (NN link)) (VP (VBZ tells) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB connect) (NP (DT the) (JJ green) (NN wire)) (PP (TO to) (NP (NP (DT any) (JJ black) (NN wire)) (PP (IN in) (NP (NP (DT the) (NN power) (NN connector)) (SBAR (WHNP (WDT that)) (S (VP (VBZ goes) (PP (TO to) (NP (DT the) (NN mobo)))))))))))))))))) (. .)) )
+(TOP (S (NP (DT that)) (VP (VBZ turns) (NP (DT the) (JJ %) (JJ volt) (JJ standby) (NN rail)) (PRT (RP on)) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NNS pins)) (VP (AUX are) (VP (VBN connected))))))) (. .)) )

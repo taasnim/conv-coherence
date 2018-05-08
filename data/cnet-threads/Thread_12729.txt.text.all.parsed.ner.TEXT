@@ -1,0 +1,41 @@
+<s> have an old hp pavillion that hasn't been used for quite some time.  </s>
+<s> decided to clean it up before getting rid of it.  </s>
+<s> started it up, and it botted fine.  </s>
+<s> couldn't find a mouse to use, so when i shut it down did it through task manager.  </s>
+<s> i tightened up the monitor connection after finding an old usb mouse in garage and plugged it in, turned computer back on and got nothing.  </s>
+<s> monitor black, no power to keyboard or mouse, no beep on start up.  </s>
+<s> any ideas?  </s>
+<s> it doesn't surprise me on some hp models that die an immediate death due to the psu failing.  </s>
+<s> no clue to the hp model.  </s>
+<s> so, nothing but generic info.  </s>
+<s> check the psu to see if any led's are present.  </s>
+<s> if found what does it display if at least 1-led, green?  </s>
+<s> unplug ac for 5min.  </s>
+<s> return retry power again, any action?  </s>
+<s> remove side cover and repeat the above, look at cpu fan, any action, beeps or clues.you can reseat the connections inside as well and retry the above, if the pc is real old and you never replaced the cmos battery, then get one before any purchasing.  </s>
+<s> since, you're trying to get rid of it, simply remove the hd and be done with it.  </s>
+<s> you can later destroy the hd or wipe it clean.  </s>
+<s> you can wipe it clean using dban or killdisk pgms., using an ext.  </s>
+<s> adapter or ext.  </s>
+<s> usb case that uses the hf i/f.  </s>
+<s> even keep the hd as any ext.  </s>
+<s> hd if so desired.  </s>
+<s> tada -----willy  </s>
+<s> won't have time till monday to try this, the computer is about 5 years old (if i recall correctly) and is an xt978.  </s>
+<s> it is getting power to the cd readers as if i press the little tab to open them, they open and a green light flashes.  </s>
+<s> the monitor has power, it's plugged directly into a wall socket  </s>
+<s> cd drives that open/close just suggest you have at least 12v present.  </s>
+<s> there are various other voltages from psu.  </s>
+<s> since, you swapped mouse, i suppose old ps/2 type and now usb.  </s>
+<s> you need to check that usb is enabled, etc.. but no display, so gets complicated.  </s>
+<s> if the pc appears to boot but no display, does it make at least 1-beep during boot-up?  </s>
+<s> if more than that or none is has problems probable cmos(bios) issue.  </s>
+<s> come back with results.  </s>
+<s> below is the hp link for possible troubleshooting.  </s>
+<s> tada -----willy  </s>
+<s> checked this before going to work.  </s>
+<s> turned on the computer, got one beep...now mouse has power.  </s>
+<s> it's one of those mice that has the little glowing thing on the bottom.  </s>
+<s> it now glows but still no power to keyboard or display on monitor.  </s>
+<s> a quick look at the hp site, gives info on how to reset bios, of course you have to have power to keyboard.  </s>
+<s> am going to see if there's an old one in the garage that i can try. the one i've got on this computer is far newer, so i suspect it wouldn't be recognized, but am going to give it a try come monday when i've time.  </s>

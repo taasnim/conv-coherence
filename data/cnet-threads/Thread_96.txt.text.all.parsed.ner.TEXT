@@ -1,0 +1,57 @@
+<s> i have a new zt affinity 7290li desktop.  </s>
+<s> i am trying to set up internet access.  </s>
+<s> i thought it would be easy to do myself, but i found i know waaay less about this topic than what i thought and really need some help/advice!  </s>
+<s> on my old computer i had time warner roadrunner internet service installed in about 2005.  </s>
+<s> there is another computer in the house which has a router from them,and has the main hookup for the internet service.  </s>
+<s> my old computer had a little router?/wireless that attached to the back of my pc with a usb, and however time warner (tw) set it up.  </s>
+<s> i attached this to the new computer, and it didn't work.  </s>
+<s> the old computer died so i can't get into the system to see the internet protocols that were set up for tw either.  </s>
+<s> tw told me that i needed the new updated cd to install the software that would make the wireless internet work.  </s>
+<s> when that didn't work,(its not updated to be compatible with windows 7), they played all kinds of phone games with me, and had me even call zt systems acting like it was something to do with their computer!  </s>
+<s> long story short, i got a tw rep to admit their cd wasn't updated for windows 7, and beyond even wanting to discuss anything else with me, they were trying to get a serviceperson to my house to install/hookup a new connection/router (visit would be free of charge they said, but i don't know what they may &quot;suggest&quot; i need after getting here).  </s>
+<s> i don't want to have to have someone come over if it was working before, and i can do something to get it to work on my own.  </s>
+<s> so question is what do i need to do to get my internet back?  </s>
+<s> if i absolutely have to call them, then i will, but i don't want to be talked/tricked into their new &quot;even faster&quot; service, or some other monthly fee to get it to work(hmmm-does it sound like i've had enough of communication mogul conglomerates?) i miss the days of &quot;just&quot; clicking on the internet explorer icon and getting connected (by way of the modem), before the days of even having to have antivirus protection! the new computer does not have a modem, and when i try to establish internet access it keeps saying i do not have an ethernet card.  </s>
+<s> i have read discussions which said that you can hook an ethernet cable directly to the router from the ethernet port, but the &quot;main&quot; modem is across the house in another room, so that is not feasible.  </s>
+<s> i would like some suggestions for options of what i can do.  </s>
+<s> below is a list of what is included on my computer (i don't even know what all these ports are for, i haven't kept up with technology-things were going too good with my old system)!  </s>
+<s> i would appreciate any suggestions.  </s>
+<s> thanks!  </s>
+<s> 3.2ghz intel core i5 processor 650 with intel turbo boost and hyperthreading technologies intel h55 chipset 6gb ddr3 sdram 1tb sata hard drive dvd+/-rw optical drive radeon hd4350 silent graphics card with 512mb ddr2 vram eight-channel high-definition audio codec with jack sensing 10/100/1000 gigabit ethernet front panel 19-in-1 digital multimedia card reader eight usb 2.0 ports six audio ports two ps/2 keyboard/mouse ports hdmi port vga port dvi port rj-45 port pci/pci express slots genuine windows 7 home premium, 64-bit measures approximately 7-1/8&quot;w x 16-1/2&quot;d x 14-1/4&quot;h ul listed; 2-year limited manufacturer's warranty  </s>
+<s> well if you had dsl service with at&t like i do, my 4 year old dell desktop computer also has no 56k modem in it but it does have a 10/100/1000 ethernet port on the back.  </s>
+<s> if you had dsl with at&t the red dsl cable furnished by at&t with their modem, mine is a westell modem, that red cable would come directly out of the phone jack on the wall to the back of the dsl modem provided by at&t, the yellow cable many refer to as the ethernet cable would plug into the ethernet port on the back of the dsl modem located right next to the red cable on the modem then the other end of the yellow cable would connect to the ethernet port on the back of your wireless router.  </s>
+<s> my wireless router is a linksys model #wrt54g.  </s>
+<s> the blue cable would then be plugged into the port next to the ethernet port on the back of the wireless router and the other end of the blue cable would connect to the ethernet port on the back of your desktop pc. that's what i had to do last week when i moved my computer from one room to another in my house.  </s>
+<s> i had to contact at&t to get their dsl modem to recognize my computer again and that was that.  </s>
+<s> no problems with the router after making the move.  </s>
+<s> understand, you changed the system and further you updated it as well with win7.  </s>
+<s> under these circumstances, it maybe harder to re-install if the vendor s/w doesn't support that.  </s>
+<s> as legal stuff goes, you changed the contract, sorta speak.  </s>
+<s> since, you tried the phone support route and it didn't correct it, then allow them to send someone.  </s>
+<s> just be 100% sure its not going to cost you or what if anything it can be.  </s>
+<s> your problem is at the next level, a new system and os to work with their setup.  </s>
+<s> i would think many more users out there that did the same thing.  </s>
+<s> if you haven't already check online with tw and surf for any faq or help guide on the topic.  </s>
+<s> last, you may need different h/w to help correct the problem and that something the tw tech should or can be aware of, gain allow them the opportunity to correct it.  </s>
+<s> other than that, if they can't, find another isp service for your area.  </s>
+<s> tada -----willy  </s>
+<s> well, if you need wireless connection (and you say you do) and you have windows 7 and you don't have a windows 7 driver for your current appliance, you'll need to buy a replacement that has.  </s>
+<s> such can be a usb-antenna, or (preferred) an antenna that plugs into your rj-45 port or even on a pci-card.  </s>
+<s> plug it in, install the drivers that come with the new device and you're ready to go.  </s>
+<s> be sure to tell the shop that you need drivers for windows 7! kees  </s>
+<s> click on setup links or whatever you feel may help.  </s>
+<s> you should be aware your system be active, thus your usb ports are &quot;on&quot; and ready to work, etc.. -----willy  </s>
+<s> since you have a rj45 ethernet port but wiring is not feasible there is only one option left you will need a wireless ap/router and a usb adapter.  </s>
+<s> option 2 call your provider ask them to help you.  </s>
+<s> and be firm in the fact that you do not require their additional services and please help you if they dont, tell them to come get their stuff.  </s>
+<s> thanks to everyone who responded with feedback.  </s>
+<s> i appreciate the different solutions, opinions etc. so i gave in and called time warner back to schedule the service appointment they before said i needed.  </s>
+<s> this time i received someone who finally admitted (guess too many people with windows 7 were sick of getting the run around!) that since the cd wasn't compatible with windows 7, there was no reason for the service call (really???). so they told me to get a wireless card compatible with windows 7. after discussing why my computer was telling me i needed an ethernet card instead and asking other questions, the phone call was suddenly disconnected (which has become the standard when you call them about anything) seriously.  </s>
+<s> they must have a time limit?  </s>
+<s> but thats horrible customer service because.  </s>
+<s> calling them back, going through the list, and being put on hold by them again-is a journey in itself.  </s>
+<s> so now i am on a quest for that-a wireless card compatible with windows 7 (for desktop).  </s>
+<s> i feel like going back to xp. i did a search for &quot;wireless card compatible windows 7&quot; and someone on another website had some links to 2 on newegg (after they had tested several which didn't end up being compatible they said) that they deemed worked with windows 7. the pictures look like they need to be installed, and i didn't really want to have to mess with opening the new system.  </s>
+<s> (i am a novice when it comes to that).  </s>
+<s> i guess i'll go from there and figure it out unless anyone has a suggestion of other wireless cards compatible with it. it would be great to just keep buying cards that sounded good and return them when they don't work, but unless you are a computer shop or tester, who has that time and especially money to keep doing that?  </s>
+<s> thanks again for the replies.  </s>

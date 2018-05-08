@@ -1,0 +1,45 @@
+<s> i have a thinkpad r50 laptop.  </s>
+<s> it runs windows xp with service pack 3. i bought this laptop used for school and it seem to work well except for the wireless.  </s>
+<s> i can't seem to bring the icons up or tell if it's working.  </s>
+<s> i went to thinkpads (leveno) website and downloaded all the drivers i thought i might need, no luck.  </s>
+<s> i do have a yellow question mark next to my network controller in my device manager could this be the problem.  </s>
+<s> it has a intel 3b2100 802.11b wireless card installed.  </s>
+<s> i do not have a start up disc.  </s>
+<s> any help on this would be appreciated  </s>
+<s> xp os cd (sp1 or later please)?  </s>
+<s> we need this so when windows updates or installs drivers it may need a file from that.  </s>
+<s> i have the reinstallation cd windows xp home sp 1a  </s>
+<s> check here or go to the ibm support site and check for the intel wireless device for your specific laptop.  </s>
+<s> my guess is that one directly from intel will work as these tend to cover several models.  </s>
+<s> i will go to the intel download site and try that.  </s>
+<s> i've been to the ibm download site and went through all the drivers that i thought i needed, but none seem to address the problem.  </s>
+<s> i'll let you know.  </s>
+<s> the driver order is important.  </s>
+<s> 1. the os. 2. the chipset driver (not the wifi card!!!) 3. ms uaa (see google.) 4. the audo driver.  </s>
+<s> 5. the video driver.  </s>
+<s> 6. the ethernet driver.  </s>
+<s> 7. the wifi driver.  </s>
+<s> 8. the accessories driver (i know that's vague) but this one is the one that turns on or off the wifi.  </s>
+<s> i can't guess which one it was, you tell me.  </s>
+<s> thanks,i have all those drivers up and running.  </s>
+<s> i did download the driver from intl for the wireless card, like steve said, and it seem to do the trick. the yellow question mark is gone, replaced by a intel pro wireless adapter.  </s>
+<s> it is now able to see my wireless connection and lets me in, but now it can't seem to aquire a ip address.  </s>
+<s> do you know what i need to do for this.  </s>
+<s> if just for home use and you don't need special connections to vpn, etc., disable the ibm &quot;access connections&quot; utility and just set things up manually as you would with plain old windows.  </s>
+<s> make sure your windows wireless zero service is set to automatic as well.  </s>
+<s> the repeating cause is wep. it does that if one character is off in the password.  </s>
+<s> this is one reason among the security issue with wep i move to wpa. and in this forum is our preferred router wifi settings.  </s>
+<s> share those.  </s>
+<s> also, be careful not to have 2 wifi managers.  </s>
+<s> my old laptop was loaned out and somehow they turned on the second wifi connection manager.  </s>
+<s> sorry, no but i can't recall or know all the methods to get this back to just one.  </s>
+<s> but i'm leaning to always using the windows wireless zero configuration tool for all machines.  </s>
+<s> bob  </s>
+<s> my linksys is wpa and my thinkpad is wep would this keep me from connecting.  </s>
+<s> ideally, the selected mode must provide adequate stability and protection.  </s>
+<s> adds wpa and wpa2.  </s>
+<s> you need to upgrade.  </s>
+<s> i have upgraded to sp3. is there a seperate download for this?  </s>
+<s> sp3 supports wpa if the router has it.  </s>
+<s> if the router transmits wpa then windows will encode/decode wpa.  </s>
+<s> you have to tell the router which encryption to use.  </s>

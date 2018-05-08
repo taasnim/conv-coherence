@@ -1,0 +1,33 @@
+<s> i already own the 4 matching monitors, all are acer x243w - 24inch widescreens, i currently have 2 hooked up thru my computer off the video card, but would love to have all four *if not for maybe 3?) hooked up for a reallly extended desktop.  </s>
+<s> what i am looking for is advice on what will work to make this happen or if this is even possible given my current equipment and setup.  </s>
+<s> i own an hp m7760n multimedia computer 2.13 ghz core 2, 2 gig ram, vista home premium, the only upgraded item is the video card, i put in an msi 8600 geforce gt card in it so i could run dual dvi monitors.  </s>
+<s> i checked out the hp page and it says i have one pci express 16, and 3 pci slots, i am using that geforce gt card in the pci express 16 slot, so available i have 2 pci's and the onboard video. is it possible at all to use the onboard video to add at least a 3rd monitor?  </s>
+<s> i hooked one up and rebooted but it didn't seem to recognize there was a 3rd monitor... is there anything in the bios i need to adjust to allow onboard video to work with a pci express card or is this just not going to work?  </s>
+<s> i saw an option of a pci card by ati that supported upto 4 monitors, would that work in my pci slot?  </s>
+<s> (there is also a pci express 1 version) but i dont have a pci express 1 slot.  </s>
+<s> just trying to learn what i could do (if anything) to add a 3rd or 4th monitor to this system and make it all &quot;work&quot;.  </s>
+<s> thanks for any help on this.  </s>
+<s> bill  </s>
+<s> the easiest thing would be to change the motherboard, it would allow you to add an additional pci-e card and would help to future proof your pc a little. 2 video cards in sli (in your case 8600gtx2) would allow you to have 4 displays.  </s>
+<s> keep in mind you would need a sli ready powersupply with the correct voltage and amps along with a sli ready motherboard.  </s>
+<s> $50 geforce 6200 pci: btw, the onboard video is disabled when you add pci-express card.  </s>
+<s> if you plan to stay with your current system, then anything installable must be supported.  </s>
+<s> your options are limited because you already have pushed the normal video limits.  </s>
+<s> no matter what direction you take, its going to cost.  </s>
+<s> either replace the system to better handle this due to more slots or get a ext.  </s>
+<s> video box that splits amongest the lcds.  </s>
+<s> matrox makes such and i'm sure others at least duo display maybe more.  </s>
+<s> you need to google for vendors and/or solutions currently out there.  </s>
+<s> if you find a video card with more than 2 ports, then its a very special card, and probably is the most installable for your hp. under hp bios once you install another video port/card, on-board becomes disabled but again that depends on the video maker, in what they may offer via the s/w side.  </s>
+<s> verify what the bios will do or check the manual/support website.  </s>
+<s> tada -----willy  </s>
+<s> i was wondering if it could be that simple, just adding in a cheap pci card, but wasn't sure if it would work alongside the pci express 16 geforce 8600 gt card i currently have in there or if vista would freak out over it or something.  </s>
+<s> worth a try tho i guess... bill  </s>
+<s> it will work just fine.  </s>
+<s> check out  </s>
+<s> wayne click here to see the cnet faces, learn a little about analog and digital data, internet connections, spyware removal, and download free software.  </s>
+<s> character - doing the right thing when no one is looking.  </s>
+<s> actually, the easiest thing to do, would be to get a &quot;usb to vga&quot; or &quot;usb to dvi adapter&quot;.  </s>
+<s> then you can just add an extra monitor through a usb port, and you don't even have to open the computer.  </s>
+<s> you can even use multiple adapters to add extra monitors.  </s>
+<s> usb to vga adapter: usb to dvi adapter:  </s>

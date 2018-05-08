@@ -1,0 +1,29 @@
+<s> i am currently using a 200 gig ata drive running office xp 2003.  </s>
+<s> i want to add a new 80 gig ata drive for strickly game use.i  </s>
+<s> have 512 memory and a 2.8 intel 4 processor and mother board.  </s>
+<s> can some one please tell me the best way to set up the new drive so that i can still maintain maximum speed and performance with 2 drives.  </s>
+<s> do i need a raid drive or what ?? if so how do i configure one thanks  </s>
+<s> as to installing the drive, it's no different than any other drive and you follow the makers install instructions.  </s>
+<s> if you don't then you have your reasons why.  </s>
+<s> as to raid, that is again where you get a raid controller and follow the instructions.  </s>
+<s> worth noting is that with just a 200gb and one 80gb drive, you don't have enough drives to make a raid setup.  </s>
+<s> bob  </s>
+<s> there is no reason adding a second drive would slow either one down, as long as you jumper the drive correctly (probably both will be jumpered cs) then it will use udma 5 and you will get optimal performance.  </s>
+<s> to use raid you need to have identical size drives.  </s>
+<s> to use raid 0 you need to start with 2 new drives and build the os from the beginning, you can't just add a 2nd drive and raid them together.  </s>
+<s> if you use raid 0 and either drive dies you lose all data on both drives.  </s>
+<s> i have to make some assumptions here: 1. that your c drive is on the primary master.  </s>
+<s> 2. that you have a primary slave drive on the same ide.  </s>
+<s> if you want to put an 80gb hard drive as a secondary slave on your ata you should have no problems in doing so.  </s>
+<s> just install the game on this drive.  </s>
+<s> keep in mind that no matter what drive you install the game on some system files needed will be stored on your c drive.  </s>
+<s> also make sure that this drive is the same speed as your 200gb hard drive.  </s>
+<s> most are 7200 rpm these days.  </s>
+<s> you should not really notice any performance degradation in setting it up this way.  </s>
+<s> you don't really need to set up a raid array for this.  </s>
+<s> if you did, you would need to have another 200gb hard drive to do so.  </s>
+<s> i tend to setup dual drives as primary on each ide / ata port, with cd drives and dvd's as secondary.  </s>
+<s> this maximizes transfers from the hard drives.  </s>
+<s> this is especially true if you are doing a lot of disk access or program swapping due to low memory.  </s>
+<s> if however your games etc. require the cd or dvd to be online, then hook the two hard drives up on the same port and your cd and dvd drives on the other.  </s>
+<s> same reason, so that you are not constantly swapping between the cd and a hard drive on the same port.  </s>

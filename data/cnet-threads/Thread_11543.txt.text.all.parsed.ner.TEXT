@@ -1,0 +1,44 @@
+<s> i have a pci usb card that has a question mark on it in devices in my computer properties.  </s>
+<s> would i be right in saying that we need to remove it, re-boot without it ... shut down, plug the card back in and then re-boot to see if windows picks it up?  </s>
+<s> i need this confirmation for my hubby to see as he says it won't matter leaving it with a big yellow question mark over it.  </s>
+<s> i know it will damage the pc if the pci card is left unfound for too long ... am i right?  </s>
+<s> would like to say thanks in advance.  </s>
+<s> whitesnake.  </s>
+<s> nothing will burn out due to this.  </s>
+<s> bob  </s>
+<s> just delete it in device manager, restart, and see if it finds the driver. the question mark means that the driver is either not installed or was corrupted during installation and needs to be reinstalled.  </s>
+<s> did you get a cd/floppy with the drivers on it?  </s>
+<s> if so, you'll need it when you restart.  </s>
+<s> then follow the onscreen instructions.  </s>
+<s> good luck!  </s>
+<s> there wasn't a floppy/cd disc in the box which the usb card came in.  </s>
+<s> apparently you don't need one according to the makers at that time ... a year ago.  </s>
+<s> i'll do what you said and have my 98se disc in the drive ready ... i'll let you know what happens.  </s>
+<s> whitesnake  </s>
+<s> whitesnake: windows 98se does not support usb 2.0.  </s>
+<s> if you didn't get a cd with the drivers with the card, you'll have to determine the maker of the card, then go to their website to look for the proper drivers.  </s>
+<s> read here to find more information.  </s>
+<s> best of luck  </s>
+<s> i had no trouble with the card until i had a fault delvelope with my dsl connection back in oct/nov last year.  </s>
+<s> i didn't know there was a fault till last saturday but complained to isp hundreds of times so is looks as if what setting were there originally got wiped back then as i had to re-install windows and several other bits then ... didn't notice usb card until recently. the dsl modem is in the original usb port on the pc. this was originally an me pc ... everything plugged into the usb pci card is working okay, even my printer which is why i don't understand what is happening.  </s>
+<s> cheers for trying anne  </s>
+<s> when you format the drive, everything is erased.  </s>
+<s> your drivers for the pci usb card are no longer on the drive.  </s>
+<s> you must reinstall the usb 2.0 drivers for your particular card.  </s>
+<s> windows 98 does not have the drivers for your card, thats why it no longer works.  </s>
+<s> if you don't know the mfg.  </s>
+<s> of the card, you can take it out (handle by the edges) and look on the card for a mfg.  </s>
+<s> name and chipset model number.  </s>
+<s> it may be some brand name card with another brand chipset.  </s>
+<s> if its an intel chipset, do a google search for the particular chipset, (intel 8205 driver) or whatever model it is.  </s>
+<s> go to the website and locate the driver download for window 98. dowload and install the driver for the card.  </s>
+<s> reboot the computer to see if it is recognized.  </s>
+<s> best if luck  </s>
+<s> hello stan, with 98se you can re-install without formatting your drive which i try to do a little as possible as only having ms backup.  </s>
+<s> i know the manufacturer of my card, they are a local company to me but the lines are always busy so impossible to get through.  </s>
+<s> even trying through the web-site takes days at the moment.  </s>
+<s> everyone is too security concious in the uk at the moment.  </s>
+<s> i do realise what i have to do but having the time just makes it difficult ... please give me a couple of days ... i'm still waiting for my dsl provider to fix a fault on my dsl as i'm losing data both ways until it's fixed ... this fault started back last year and the isp have just realised that what i've been telling them for 6 mths is correct.  </s>
+<s> cheers stan, whitesnake  </s>
+<s> stan, i ran a re-install today and got it to work using the generic driver from my 98se disc so usb 2 does work with 98se ... sorry but i had to prove you wrong.  </s>
+<s> cheers whitesnake.  </s>

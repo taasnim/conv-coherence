@@ -1,0 +1,27 @@
+<s> i just replaced my dead hard drive after nasty virus killed it and treated my self to a new atx case after swapping everything over and following the motherboard manual for the right connection placement i plugged in the power and waited for the my facny new blue neon lit case to tell me my pc has burst into life but nothing not even a pop bang or fizzle!  </s>
+<s> my mother board is an asus a7a266 and the new tower a novatech panacea i have double checked the placement of the reset swith and power switch connectors etc but nothing i even removed the battery for 2 minutes still nothing, when i switch the power back on and press the power button the fan twitches and that is it the only sign of life is the green neon on the motherboard.  </s>
+<s> can any 1 think of any thing i may have overlooked or does it sound like my mother board has expired aswell?? any help will be greatly appreciated!  </s>
+<s> using common sense on repairs... did the new case have a new psu as well?  </s>
+<s> otherwise, it boils down to the mtrbd.  </s>
+<s> or psu(power supply) being bad or possibility both.  </s>
+<s> you to reduce power demands to a minium and remove all drives, disconnewct and then try powering up.  </s>
+<s> if it still fails, remove the cpu itself(power-off)and power-up.  </s>
+<s> if it beeps like crazy, the cpu is fried, replace.  </s>
+<s> if no beeps then mtrbd. is gone.  </s>
+<s> it always good to check ram too.  </s>
+<s> of course this all depends if the psu is good as well.  </s>
+<s> usually, i replace the psu on first swap to verify power is *all* good as one voltage maybe gone.  </s>
+<s> tada -----willy  </s>
+<s> have two power plugs.  </s>
+<s> a 20 pin and a smaller one (4 pin?). if so, are they both plugged in?  </s>
+<s> chuck  </s>
+<s> yes the system has a 20 pin plug and a 2 pin plug 4 the neons and then seperate power and reset switch lines but no 4 pin plug and no evidance of anywhere to plug in a 4pin a anywhere  </s>
+<s> yes the case came with a psu this 350w as apposed to the old 250w psu the only additional peice of hardware is a card reader so i am beggining to fear the worst!  </s>
+<s> ...doesn't require a modern 20pin + 4pin power supply.  </s>
+<s> with one of these older boards you simply plug in the normal 20pin plug and shove the the 4 pin plug out of the way, and forget about it for years!  </s>
+<s> there is of course a method to test your psu (and it's the best way to test a water cooled rig safely for leaks too) safely, but first unplug all devices such as motherboard, drives, cd-rom etc. then go to this url : be very carefull, and double check which two pins you are connecting, before powering up the psu!!!! we await results... good luck, geebee.  </s>
+<s> i took the tower to pc world today thay plugged in there own psu and still nothing the guys could not think what else could be wrong except maybe the processor was gone but to me that still doesnt make sense i cant say i have much confidance in their advice at my local store i usaly end up advising them and i am a dim whit when it comes to pc's (': i think it's time to now abuse my wallett again and invest in a new mobo and whilst im at it a new proccessor, so the big question is what should i go for i am not a gamer, i watch the odd movie , have lots of music to store and listen to, i do a lot of surfing, i run programmes such as front page ,the full version of office, macromedia , a couple of basic design programmes, store lots and lots of photos,and will be adding some video editing software,store lots of files.  </s>
+<s> here is a list of what i have on my system at mo, mobo asuas a7a266 ddr sdram 266mhz fsb agp pro/4x graphics card nvidea geforce3 processor amd athlon 1.4 aprox 5/6 yrs old sound card asus ali ddr 3d sound memmory 768mb ddr hard drive western digital 80gb ide (new) lan addon wireless lan pci card (new) card reader,4xusb2 at rear 2xusb2 at front 2x dvd writer 1x cd writer.  </s>
+<s> panacea atx case.  </s>
+<s> so what can i buy that is gonna be relaible perform well and not break the bank?  </s>
+<s> any suggestions welcome.  </s>

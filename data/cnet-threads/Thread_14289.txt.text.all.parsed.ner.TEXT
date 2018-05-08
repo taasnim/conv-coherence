@@ -1,0 +1,22 @@
+<s> i can't figure this one out.  </s>
+<s> i have a linksys wrt55ag router networking three computers via wireless.  </s>
+<s> i had absoutely no problem setting up wep on two of the machines (1. laptop with built in adapter and win 2000, 2. pc with wmp54g and xp sp2), but after woriking it for a week i still can't get my third machine (pc with wmp55ag and xp sp2) to connect when wep is active.  </s>
+<s> signal is not an issue, the pc is within 15 feet of the router.  </s>
+<s> any ideas?  </s>
+<s> this is not uncommon if the makes are dissimilar or the firmware drivers are not the latest.  </s>
+<s> bob  </s>
+<s> thanks for your response.  </s>
+<s> all components are linksys and i have confirmed that all drivers and firmware are the latest per their website.  </s>
+<s> any other ideas?  </s>
+<s> two ideas.  </s>
+<s> 1. wmp54g and xp sp2, and the pc with wmp55ag.  </s>
+<s> you may have found where some model isn't playing wep.  </s>
+<s> a call to linksys may reveal the issue.  </s>
+<s> i have not looked at the linksys web site since that's your job.  </s>
+<s> 2. i ran into one glitch on a friends network.  </s>
+<s> they had the number of clients set too low.  </s>
+<s> they had 5 machines and set the wap/router to 5 dhcp clients.  </s>
+<s> doubling that fixed it.  </s>
+<s> i did not investigate why this is so.  </s>
+<s> i leave it to others to ponder such things.  </s>
+<s> bob  </s>

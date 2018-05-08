@@ -1,0 +1,19 @@
+<s> i have an old hp compaq presario laptop (sempron-cpu) which has an ati mobility radeon express series 200 graphics card.  </s>
+<s> xphome sp-2.  </s>
+<s> i have a driver dated dec/2005 (8.202.0.0) for it, and is the latest, as far as i know.  </s>
+<s> i have located an newer &quot;amd catalyst&quot; driver, which indicates that their driver supports my graphics card.  </s>
+<s> since ati is amd now, my guess is that it may be ok. i hate to guess about things like this, and am just inquiring here.  </s>
+<s> can anyone verify that the catalyst drivers are ok with my old laptop ?  </s>
+<s> thanks  </s>
+<s> and if a newer driver for your radeon card is posted on their support site, it should be safe to use.  </s>
+<s> these are coming as the catalyst suite or just the driver.  </s>
+<s> i never get the full suite.  </s>
+<s> what you'll want to do is read up on what's been fixed or what new features have been added that you'd find useful.  </s>
+<s> if you're having no known video problems that have been addressed or find no features that are important to you, you're well enough along to leave things as they are.  </s>
+<s> if you want to go ahead and install the new driver/software anyway, don't delete the old driver.  </s>
+<s> occasionally bugs are created as well as fixed.  </s>
+<s> thanks, for the good advice.  </s>
+<s> this was my first inquiry about it.  </s>
+<s> best to do some research, on my part, before jumping on it.  </s>
+<s> will try to post back with any success.  </s>
+<s> thanks, again.  </s>

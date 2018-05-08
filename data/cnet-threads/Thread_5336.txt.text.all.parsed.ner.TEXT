@@ -1,0 +1,17 @@
+<s> i bought a new computer yesterday, and thus had to buy a video capture card (ati wonder 650) that is compatible with vista.  </s>
+<s> i have a $300 outdoor security camera that i plug into the capture cards composite input and have a program i bought that records upon motion detection, and can stream video to a web site (active webcam is the program).  </s>
+<s> everything works fine until i use the tv tuner on the same card.  </s>
+<s> the cam image then changes to the tv chanel i am watching.  </s>
+<s> but if i close the cam program and open it again, it changes the tv tuner channel to display the cam feed.  </s>
+<s> so i can only view one or the other.  </s>
+<s> this never happened before.  </s>
+<s> i don't know what to do.  </s>
+<s> i think it is to do with the way the card sends video to the programs.  </s>
+<s> in the webcam software, it is using direct show, the video device is set to &quot;ati avstream anolog capture&quot; and the video source is &quot;composite 1&quot; (from the availible option of tv tuner, composite 1, and s-video [the three inputs from the card]).  </s>
+<s> any ideas?  </s>
+<s> seems right.  </s>
+<s> i decline to offer more than the video decoder/encoder has just one input.  </s>
+<s> again, it's that simple so i decline to write a tutorial about this.  </s>
+<s> &quot;this never happened before.&quot;  </s>
+<s> since you changed machines and video capture card you may have to explore redeploying the machine that worked ok.  </s>
+<s> that's messed up, they should at least tell you something like &quot;can only use one input at a time&quot; on the box, or at least have it so it switches back to the security camera after watching tv.  </s>

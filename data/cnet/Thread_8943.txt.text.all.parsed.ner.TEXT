@@ -1,0 +1,85 @@
+<s> now that i seem to have wiped my (ide)hard drive with dban...i need to get my dvr, to recognize it.  </s>
+<s> first i need to get a look at it, and try formatting it to ntfs.  </s>
+<s> so far, its no go, trying straight from dban erase, then into the dvr.  </s>
+<s> i have 2 computers at my disposal.  </s>
+<s> one is the old computer, the erased drive came from(also ide plarform) that now has no hard drive or os. the other, is a newer working computer(sata platform).  </s>
+<s> i am now trying to read the ide(erased drive) with my sata computer that is fully functional.  </s>
+<s> i got a cable that plugs into the usb drive of the sata computer, and then has a plug to fit the ide connection on the erased drive.  </s>
+<s> i then powered the tethered drive, from the old computer power supply beside it.  </s>
+<s> ugly, but best i can do under the circumstance.  </s>
+<s> the drive on the end of the cable runs, and shows up on the sata computer, under device manager.  </s>
+<s> it does not show up under &quot;computer&quot; or in windows explorer menu.  </s>
+<s> i ran hp diagnostics(pc doctor) and notification came up that sata disc management or something; could not recognize the drive firmware.  </s>
+<s> it allowed me to run a test from the notification window on the erased drive; and it failed pretty quick.  </s>
+<s> perhaps dban erased the firmware, and i need to re-instal the firmware?  </s>
+<s> when i looked under the drive properties in device manager; there was no firmware showing in the box next to firmware.  </s>
+<s> this is why i am thinking firmware.  </s>
+<s> i have the discs for the drive i am working with; but nothing seems to want to install anywhere.  </s>
+<s> neither the working computer, or the tethered drive.  </s>
+<s> i went to western digital sight, searched the drive model number; and can't seem to find anything that looks like a firmware update, or firmware.  </s>
+<s> i might just be too dumb to figure out the sight.  </s>
+<s> maybe i am completely off track here.  </s>
+<s> any ideas how to get this erased drive recognized, so i may attempt to format it, and or, scan it.  </s>
+<s> i suspect if i can get it recognized by my working computer and format it ftsc; i can get the dvr to recognize it.  </s>
+<s> please help.  </s>
+<s> any ideas here.  </s>
+<s> anyone who has used a tether across platforms like this.  </s>
+<s> i don't have another ide computer with drive and operating system; or i would put the erased drive on there.  </s>
+<s> i am stuck with the old computer drive(ide) and new computer(sata).  </s>
+<s> i don't have another ide drive to put the os on, and run the old computer.  </s>
+<s> or i would not be working across platforms.  </s>
+<s> the one other long shot, is trying to put the old dvr hard rive that still seems to work, in with the erased drive i am trying to format; and see if the dvr might erase and format them both.  </s>
+<s> this probably won't work if firmware is missing either.  </s>
+<s> does dban wipe the firmware?  </s>
+<s> many dvrs don't take a pc formatted drive.  </s>
+<s> we do that in the service depot or if the dvr accepts drives, it's in a menu.  </s>
+<s> but all that you put here and you missed the detail that folk can use.  </s>
+<s> make, model?  </s>
+<s> bob  </s>
+<s> everything i have read on forums, says it will recognize ntsc standard format, most computers use.  </s>
+<s> this does not mean it will, but is the assumption going in.  </s>
+<s> if i could get this erased drive back to useable, and at least be able to see the drive on my good working computer; then i could assume it is a problem with the dvr recognition.  </s>
+<s> you are probably right with many dvr's, but this one is a bit more open format.... i think.  </s>
+<s> i realize i am not going to be able to read stuff off the dvr back to the computer, and don't intend to do any of that.  </s>
+<s> i just want to be able to run the dvr with a bit more capacity, same as it ran before.  </s>
+<s> other's claim to just stick a wd drive up to 320gig in, and off it goes.  </s>
+<s> i have yet to get a clean formatted drive to offer the dvr.  </s>
+<s> i nuked the older computer drive with dban.  </s>
+<s> now i need to get the computer to recognize it, before i even try the dvr again.  </s>
+<s> someone mentioned cloning; but i am not sure if i am at that step yet. cloning will not do the firmware and format i don't think??? if i get the drive recognized on the computer, and it still won't take on the dvr; i think then i may try a clone.  </s>
+<s> the dvr has a format option in its menus; but i have not gotten the menu to come up with the erased drive here.i have not tried putting both drives on a single harness cable(into the dvr) and trying that way.  </s>
+<s> that might be my next step.  </s>
+<s> i just need to get this drive back to the way it might come from a store.  </s>
+<s> firmware, and formated.  </s>
+<s> thank you moderator!  </s>
+<s> i am open for suggestions here.  </s>
+<s> let me tip my hand a little.  </s>
+<s> i have worked over the years in the design of surveillance dvrs.  </s>
+<s> that format is the video format and has little to do with the hdd format.  </s>
+<s> it appears you may only need to pop in a new drive but given what i read above i wonder if you set the jumpers on the new drive the same as the old drive.  </s>
+<s> bob  </s>
+<s> i did check the jumpers.  </s>
+<s> they were the same.  </s>
+<s> i had some other problems.  </s>
+<s> apparently the unit had been dropped years ago, and a corner of the power board was cracked, and the dvd carriage was rigged to work, do to a broken tooth on the carriage.  </s>
+<s> it always worked screwy; and i had to boot from a wall switch, because the on/off did not work.  </s>
+<s> anyway, after fixing a dead fan, blown capcitor on the power board, and soldering a jumper across the broken trace.  </s>
+<s> i got it back the way it should have run.  </s>
+<s> it now says hello on start up, and the on/off works.  </s>
+<s> still took some work getting the new bigger drive, to boot up.  </s>
+<s> i ended up having to do a hot swap.  </s>
+<s> on top of the hot swap; it seems the burner has to be plugged in to the board; for the hard drives to boot.  </s>
+<s> at first i thought my repairs had failed; but when i got desperate and tried to run a movie from disk, just to see if i could get anything to work; the hard drive booted right up.  </s>
+<s> i then entered the setup menu-did a hot swap for the erased drive i have been trying to install-then erased it; and now it reboots on its own.  </s>
+<s> no matter which drive i put in; when i pull the burner, then reboot; the menus won't load nor will either hard drive boot.  </s>
+<s> it took a hot swap, and complete harness hook-up to boot.  </s>
+<s> i think the hot swap, was key, to get the menus to load; and allow me to erase the other drive i am trying to install.  </s>
+<s> once i ran the erase, perhaps it also formatted; because it rebooted after that.  </s>
+<s> with the original drive completely removed.  </s>
+<s> now i have a harness quandary.  </s>
+<s> it looks like i am going to have to leave the flaky burner in the dvr to get the hard drive to boot, not entirely sure yet. the ide ribbons that supply data, to both the hard drive and burner; are different than the standard ide (master slave) ribbon in most computers.  </s>
+<s> unlike the regular computer ide ribbons; the ribbons feeding the drives in the dvr, have all their pin sockets open for male pins. the standard master/slave ribbons seem to have the one dead pin socket.  </s>
+<s> does anyone know, what to call these ribbon cables in the dvr.  </s>
+<s> they are exactly the same as the ide, just no blank pin in the middle.  </s>
+<s> i need to know what to call it; so i can hunt for them on line.  </s>
+<s> thank you.  </s>

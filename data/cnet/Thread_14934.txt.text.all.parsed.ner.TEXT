@@ -1,0 +1,19 @@
+<s> i have been having a problem lately with my wireless internet: about one or two times a day i cannot connect to my wireless router through my laptop.  </s>
+<s> when i view the available wireless networks, i can see my network and the signal is at full strength.  </s>
+<s> when i click connect it says aquiring signal, but never connects.  </s>
+<s> if i go reset my modem and router then try to connect it works fine.  </s>
+<s> i have a cable modem with a netgear wireless g router.  </s>
+<s> i am using a dell inspiron laptop with a netgear wireless g card.  </s>
+<s> my wireless network settings are set to wep-128 bit encryption, on channel 7 and i have an access list with my laptop on it.  </s>
+<s> i should also note that i have a desktop connected to the router via a ethernet cable that works even when my laptop doesn't.  </s>
+<s> thanks in advance for the help!!  </s>
+<s> it's so fast today that it's not considered to be secure at all.  </s>
+<s> try it our way as we note in the forum sticky.  </s>
+<s> stock settings, ssid broadcasting, wpa and no other changed settings from stock.  </s>
+<s> bob  </s>
+<s> the only option for wpa i have says &quot;wpa-psk (wi-fi protected access pre-shared key)&quot; is that the same thing that you recomended?  </s>
+<s> also, should i eliminate the access list?  </s>
+<s> saves me from typing it.  </s>
+<s> and yes, yes.  </s>
+<s> ok, changed all the settings, i also have a wireless print server that i had to update with the new password for the network and i updated the firmware for the router while i was at it.  </s>
+<s> thanks for the help, hopefully this solves my connection issues...thank you for the help!!  </s>

@@ -1,0 +1,23 @@
+<s> hi i was wondering if my printer will work if i switched to 64 bit computing.  </s>
+<s> i am talking about the office.  </s>
+<s> we have a few printers and the 4-5 pcs can access them as necessary.  </s>
+<s> right now we work with 32 bit computers.  </s>
+<s> if we were to switch, what would i have to do to make the printers work?  </s>
+<s> intels processors are said to work seamlessly with 64 and 32 tasks.  </s>
+<s> now does that mean that i can install windows xp or vista 64 bit editions on my computers while utilizing 32 bit printer drivers?  </s>
+<s> if this does not work then can i get a print server and connect multiple printers and computers and make 64 bit computers work with the printers?  </s>
+<s> i will have to check out if 64 bit drivers are available or not.  </s>
+<s> my questions are for the time when there are no printer drivers available.  </s>
+<s> thank you  </s>
+<s> unless your staff can write drivers then you need to stay off the 64-bit versions of this os. while a print share might be visible on the network, it doesn't mean you can print to it.  </s>
+<s> bob  </s>
+<s> here's what happens when a big change takes place, i've noticed: 1) wait and see 2) not supported 3) will work for x-models 4) you need something more(options) 5) patches, fixes or updates required if none of the above seems to be the answer, guess what, they are.  </s>
+<s> alot of time, big changes mean a &quot;break aawy time&quot; for makers/vendors and time to upgrade or update if you want to keep in the loop.  </s>
+<s> more often than not, unpopular or unique devices get left behind.  </s>
+<s> however, &quot;the squeaky wheel gets the oil&quot; does apply over time if enough noise is made, but again sometimes not.  </s>
+<s> tada -----willy  </s>
+<s> i had numerous driver problems after upgrading to win 64. printers, webcam, dazzle 150.  </s>
+<s> after contacting the manufactures and being told no drivers were currently in development i immediatly re-installed win xp home.  </s>
+<s> new os's can be great but before up grading confirm your hardware has available 64 bit drivers.  </s>
+<s> everyone! so that kind of finalises it.  </s>
+<s> i will not consider 64 bit processing for the time being.  </s>

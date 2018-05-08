@@ -1,0 +1,31 @@
+<s> hey guys.  </s>
+<s> i have a question.  </s>
+<s> i am currently working a on compaq presario 7922, win 98 not sure on the processor because its not mine. the problem is the monitor displays nothing.  </s>
+<s> as soon as you boot the machine the monitor green light flashes and then turns amber.  </s>
+<s> i figured that the integrated vid card went bad because the monitor works on other machines.  </s>
+<s> i install an extra vid card i had but this didnt fix the issue.  </s>
+<s> so i dig a little deeper.  </s>
+<s> i check the power supply just to make sure the system is getting the power it needs and it does.  </s>
+<s> so the power supply seems to be ok. i noticed that the keyboard lights doesnt light up as the system boots up (system boots up == all cables connected and fans/tower lights are fine).  </s>
+<s> now the issue could be a mobo problem, but i'm not 100% sure on this.  </s>
+<s> this is just another thing that it may be.  </s>
+<s> speaking of the lights not flashing, whenever i unplug the keyboard while the system is on, you can see the keyboard light come on and then right back off.  </s>
+<s> so it seems that the mobo is &quot;somewhat&quot; working.  </s>
+<s> i also suspected the hard drive because the windows logon doesnt sound when booting guess the sound is not muted because the user never mutes the sound.  </s>
+<s> back to the keyboard, i also tried holding hold a key during the bootup to see if it would get a keyboard error.  </s>
+<s> that about all the things i have tried.  </s>
+<s> can anyone give any suggestions or what youe think.  </s>
+<s> thanks  </s>
+<s> in the bios before you tried the plug in video card??? does it seem to be booting normally [except no video].  </s>
+<s> any chance that the cmos battery is bad, thus preventing successful post / boot?? by the &quot;power it needs&quot; you mean that the main 5 volts is in spec, the 3.3 volts is in spec, the 12 volts is in spec, and the powerok signal changes state shortly after the main rails are turned on.  </s>
+<s> re errors, remembeber that in the bios, one can set it to not show any errors.  </s>
+<s> thus maybe why the keyboard test didn't work.  </s>
+<s> well, i can't disable the onboard card because i cant see on the monitor to do it.  </s>
+<s> i did change the cmos battery and still nothing.  </s>
+<s> i also connected the hard drive to a different machine and it boots and the monitor displays compaq.  </s>
+<s> i also tried another hard drive in the machine that is having the issue and nothing happens.  </s>
+<s> if you have an old pci video card laying around, you may want to give that a try. it will usually disable the on-boad when you put in another card.  </s>
+<s> that's my best suggestion.  </s>
+<s> i have already done that.  </s>
+<s> i put in the pci card and it's still doing the same thing.  </s>
+<s> wouild any other try to help/  </s>

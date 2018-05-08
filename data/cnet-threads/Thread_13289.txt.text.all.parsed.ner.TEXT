@@ -1,0 +1,59 @@
+<s> i'm going to be getting a new hard drive to add to my computer which already has a 20 gb one.  </s>
+<s> i use an athlon 1800 xp. the problem is that my old one has lost some critical files and pretty much is useless besides holding some important files.  </s>
+<s> this is the reason i'm getting a new one.  </s>
+<s> i was hoping to get the new one, install windows xp, then transfer the files over to the new one, and then just use the old one for storage.  </s>
+<s> my first question would be how do i partition my new hard drive?  </s>
+<s> i've never done it before, and i don't know how i would go about partitioning it or setting it up for windows xp straight out of the box.  </s>
+<s> especially since i can't download any new programs onto my old hard drive.  </s>
+<s> my second question is, if i reformat my old hard drive (which i have no idea how to do since the program in windows for reformatting doesn't work) can i use it as just a storage disc for music and files like that without installing windows on it?  </s>
+<s> or will i have to re-install windows?  </s>
+<s> thanks for any help  </s>
+<s> the nuggets of wisdom passed on, suggest you make the 1st partition large enough to handle the os and system files.  </s>
+<s> the 2nd or other partitions(how many do you need?) should handle data and file storage.  </s>
+<s> that way, the first partition isn't bothered from data loss should the os belly-up.  </s>
+<s> basically, you need 2 parttions any more is up to you.  </s>
+<s> since, you want to keep the old hd, it strongly suggested you have a power supply that' stable and able to handle &quot;all&quot; installed device power needs.  </s>
+<s> further the extra hd will add more heat build-up, thus take care to handle that requirement to lessen heat build-up.  </s>
+<s> imho, if the orginal hd is starting to act-up you should just leave it out, it can only fail sooner or later if truly problematic.  </s>
+<s> under xp, it should offer via the disk services how to parttion, etc. so be prepared to answer propmts at that time.  </s>
+<s> hope this helps... -----willy  </s>
+<s> well, assuming you only want one partition, and you should, it's easy.  </s>
+<s> first boot into bios setup and make your cd rom the first boot device put your xp disk in the cdrom, save and exit bios the winxp disk will take you thru it set one big partition on c: then make it active then you have to format.  </s>
+<s> when asked how you want to format, i advise just choosing defaults, like ntfs not fat 32 after that winxp does the whole setup/install by itself, at least it did for me ---&gt;you can also partition using a win 98 startup disk with fdisk see or type &quot;how to partition a hard disk&quot; in google -- lots of tutorials out there it's all very easy, altho the formatting takes a while.  </s>
+<s> be sure to go back into bios and reset your 1st boot device to be your drive if bob tells you different, do what he says!  </s>
+<s> - -- fj  </s>
+<s> once you have your data off just reformat it make sure you set everything to &quot;cable select&quot; on the back of the drives.  </s>
+<s> make sure you hook up the cables to master and slave drive-- do you know how to do that?  </s>
+<s> - fj  </s>
+<s> yes, i learned about slave/master when i installed my cdr drive.  </s>
+<s> what does the &quot;cable select&quot; setting mean?  </s>
+<s> and how would i reformat the old hard drive?  </s>
+<s> i'm really a novice at this type of stuff, although i do know the basics about computers so i learn things like this pretty fast.  </s>
+<s> thanks for the help so far.  </s>
+<s> when you set the drive jumpers to &quot;cable select,&quot; that means your drives are magically assigned master and slave function by which connector on the cable you hook up to them-- saves time in the long run.  </s>
+<s> you need to put the end of the primary cable on your main drive to make it the master master and the middle connector goes to the slave.  </s>
+<s> i advise looking it up on google for more definitive advice.  </s>
+<s> you can't use old cables, has to be &quot;80 pin.&quot; which end goes where?  </s>
+<s> i don't have definitive answer, but the end furthest from the middle connector goes to the board in my system and it seems to work!  </s>
+<s> you understand about primary and secondary?  </s>
+<s> there are two ide cable sockets/hookups on your mobo, one is primary, one is secondary.  </s>
+<s> make sure your c drive is hooked up to primary.  </s>
+<s> i always put my primary master on its own cable, then on the secondary cable i put the slave hard drive and set the cd as secondary master.  </s>
+<s> formatting is easy.  </s>
+<s> just make sure you format the right drive.  </s>
+<s> once you have winxp setup on your c drive and the other drive is hooked up, well, in explorer (in windows 2000) i can just right click on the drive letter and click format.  </s>
+<s> easy.  </s>
+<s> use ntfs.  </s>
+<s> --fj  </s>
+<s> if using the 40-pin/80-conductor cable, attach the blue end connector to the system board or host controller, the grey middle connector to the slave, and the black end connector to the master from  </s>
+<s> thanks man.  </s>
+<s> i think that pretty much sums up my problem unless someone else has some extra advice.  </s>
+<s> you could not format your hd because the os was on it.  </s>
+<s> once you are working with the os on your new hd, you will be free to format.  </s>
+<s> if you do partition, make the c: drive quite big.  </s>
+<s> xp takes up a lot of room, some things have to go on the c: and you've got all those updates to download (and many more to come).  </s>
+<s> i would make it 6gig minimum.robert.  </s>
+<s> just a thought.  </s>
+<s> most new hd's come with a copy util.  </s>
+<s> have you considered using such? the process is painless, install new unit, copy old&gt;new and your done.  </s>
+<s> as for the old unit it's your call but if it's having problems i'd scrap it.  </s>

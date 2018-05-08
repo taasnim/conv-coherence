@@ -1,0 +1,20 @@
+<s> my laptop recently crashed last week and i had to reinstall xp pro on my ibm t30.  </s>
+<s> all seems fine now, including the wired internet but i cant get my belkin network card to work again.  </s>
+<s> i didnt have the original driver disc for this card, so i tried all 7 possible drivers for this card.  </s>
+<s> one problem is that the card doesnt show the version, hence having to try all 7 possible driver.  </s>
+<s> versions 5 onwards actually load up on xp, the others stalled.  </s>
+<s> anyway, on the belkin network utility it wasnt showing any networks, i had rebooted the sitecom router and ntl cable modem earlier, and the main problem is that i couldnt enter a network so i'm stuck ! the laptop recognises the card when it is connected, but the lights on the card dont show anymore, they come on very dimly when the card is first connected but that is all.  </s>
+<s> do you think the card is damaged ?  </s>
+<s> under device manager, under network adapters it just shows intel(r) pro/100 ve network connection.  </s>
+<s> underneath it has other devices in yellow, which has network controller in yellow in it.  </s>
+<s> i downloaded everest home and under network i have windows network showing an intel(r) pro/100 ve network connection and then also a pci/pnp network it showed ibm pro/100 ve network connection and secondly a network controller(nodb).  </s>
+<s> i dont have any cards used in this slot.  </s>
+<s> funnily enough, when my laptop crashed the only way i got it working was by trying out ubuntu, but i couldnt use it because i couldnt configure the wireless network on ubuntu, so i reverted back to windows xp pro.  </s>
+<s> can anyone help?  </s>
+<s> or get another card to try on your laptop.  </s>
+<s> any ?  </s>
+<s> entries in device manager should be resolved by you or whoever supports you.  </s>
+<s> bob  </s>
+<s> sorry i forgot to add that the wireless netowork adapter card is belkin f5d7010.  </s>
+<s> i see someone got it working after they swapped the card out.  </s>
+<s> read  </s>

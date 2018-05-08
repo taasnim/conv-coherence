@@ -1,0 +1,29 @@
+<s> our company installs computers sytems using tripplite (basic) ups/battery back-up.  </s>
+<s> computer and monitor are hooked to the battery side or this ups while the printer goes into the surge protector part.  </s>
+<s> this has been a good set-up with hp's 5p, 6p, 2100, 2200 series.  </s>
+<s> we are encountering a problem with some 2300's, in which the printer is working fine and within a few days it will not print via lpt1.  </s>
+<s> replacing the cable does not fix the problem.  </s>
+<s> sometimes a full shut down (of all equipment) starts it up again.  </s>
+<s> we encountered that if the printer is replace, the new printer works perfectly.  </s>
+<s> also, the old printer is then connected somewhere else without any problems.  </s>
+<s> has anyone encountered this problem?  </s>
+<s> &quot;we encountered that if the printer is replace, the new printer works perfectly.  </s>
+<s> also, the old printer is then connected somewhere else without any problems.  </s>
+<s> has anyone encountered this problem?&quot; yes.  </s>
+<s> but we have lj 5mx's or such.  </s>
+<s> we knew to check firmware revisions to tell what exactly the models were.  </s>
+<s> your view is as deep as &quot;old&quot; and &quot;new&quot;.  </s>
+<s> with such a view on the hardware, my best advice is to have hp fix the ones that don't work proper.  </s>
+<s> bob  </s>
+<s> problem is that there is nothing wrong with the replaced printers.  </s>
+<s> in some cases it works fine at another site.  </s>
+<s> it's also not a driver issue since we've tried different drivers.  </s>
+<s> hp has something about laserjet printers and ups.  </s>
+<s> and both manufacturers (hp & tripplite) are saying that is might be the other's fault.  </s>
+<s> frankly the power draw of the laser printer zooms from almost nothing to some 1,200 watts in about a second or less.  </s>
+<s> your ups should be something about the size of the printer to match the power requirement.  </s>
+<s> you can find out if its the ups by removing it from the setup.  </s>
+<s> bob  </s>
+<s> thanks, i think that would be the best solution.  </s>
+<s> although not a problem in the past series, i think 2300 needs a little more juice to bring it out of sleep mode.  </s>
+<s> i wanted to remove other posibilities since the 2300 is a &quot;relative&quot; new printer.  </s>

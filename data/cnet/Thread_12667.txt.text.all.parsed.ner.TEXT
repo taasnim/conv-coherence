@@ -1,0 +1,51 @@
+<s> i dont know if anyone has ever encounter this problem, but i have a d-link di-614+ wireless router and for the past 3 to 5 month i have tried to configure the firewall to allow dcc transfers over irc (i use mirc) but to no avail, it seems that the router is not saving my configuration, i tried d-link support site, but there nothing about this topics, i updated the firmware to the latest, resetting it and nothing.  </s>
+<s> i know the router is kind a old and is time for a upgrade but since everything else is running fine, i havent really seen the need to change.  </s>
+<s> if i wound upgrade i was thinking of buying a linksys wireless-g broadband router or one of those new pre-n, anyways i also need to buy a new wireless pci card for my mothers desktop because the one that she has does not support wpa encryption.  </s>
+<s> please give me your thoughts on my problem and if there anyway to fix it or if i should just upgrade to a new router.  </s>
+<s> thanks in advance just rafy  </s>
+<s> that link does not seem to pertain to the discussion.  </s>
+<s> as you post, you may see it does not allow advertising, web or site promotion.  </s>
+<s> why is it there?  </s>
+<s> bob  </s>
+<s> sorry about that, i all ready got a message from another mod.  </s>
+<s> but at lest he tried to help first and then critique me.  </s>
+<s> take a look, here the link: maybe you should learn, no offense, i hope.  </s>
+<s> thanks anyways.  </s>
+<s> just rafy  </s>
+<s> when you infringe on the forum policies, such will happen.  </s>
+<s> i see no need to write more if you intend to follow da' rules.  </s>
+<s> when you supply a link, i expected it to pertain to the issue, instead it was some unrelated site.  </s>
+<s> as to the dlink firewall, i have the dlink and it's &quot;odd&quot; about rules.  </s>
+<s> it took me more than a few minutes to figure out how it's rules worked.  </s>
+<s> keep reading about it and see if it sinks in.  </s>
+<s> bob  </s>
+<s> i have the same exact problem and the same exact model but even though im trying to configure a different firewall i think the same solution applies here.  </s>
+<s> but chances could be that you already found out the solution.  </s>
+<s> i'm no expert at this type of stuff so you have to excuse me.  </s>
+<s> but when i entered in a firewall or firewalls, two common situations occured.  </s>
+<s> 1. i only saw one entry even though i entered in mutiple ones.  </s>
+<s> when this happens, you have to play around with the up and down arrow-like symbols to the far right of your submitted firewall entry and click on apply.  </s>
+<s> when i did this, all my previous firewall entries showed up (while some of the pre-installed ones didnt show) in the listings, most likely indicating that the firewall entries that i submitted were in fact saved, but they did not show for some reason.  </s>
+<s> 2. i only saw the three pre-installed firewall entries and none of the new ones i entered.  </s>
+<s> when this happened, i entered a bogus firewall (selecting the disabled option in hopes of not altering my current settings), applied it, and my new entries showed up (again, some of the pre-installed ones did not show as a result).  </s>
+<s> its terribly confusing though, and to tell you the truth, following the steps mentioned above may result in different outcomes.  </s>
+<s> it took me two hours to get to this point and although i can see my new entries, some of the pre-installed ones are not apparent; i believe they are there though since my internet is running fine.  </s>
+<s> my dad helped me, and while we were trying to get it to worked, the internet stopped working.  </s>
+<s> i dont know exactly why this worked, but my dad clicked on wireless on the home page then clicked wep enabled and it worked.  </s>
+<s> it worked but don't ask me why.  </s>
+<s> i just thought that maybe that might help.  </s>
+<s> if you mess up, want to start over from the standard settings, or whatever, just reset your router using the button on the back and start from scratch.  </s>
+<s> by the way, i did not do any updates or anything like that.  </s>
+<s> still, honestly i don't know why they make it so difficult.  </s>
+<s> i signed up here just to help someone else because this is so difficult.  </s>
+<s> thanks gill bates, thanks for taking the time to sign up and answer my question that was very thoughtful of you.  </s>
+<s> i must say, while i was messing around with the firewall setting i get the same reactions as you do, when talking about the arrows and the disappearing pre-install entries.  </s>
+<s> but now that i think about it and read what you said about how in wep worked, i remember that when i used to use wep the irc dcc firewall setting worked, but now using wpa they dont worked.  </s>
+<s> so what i did when i read your entry was change back to wep and it didnt work neither.  </s>
+<s> now im beginning to think that i do need a new wireless router since mine may be broken, meaning that you said you have never updated your firmware and i have updated my firmware twice, once in 2004 and a couple of month back this year.  </s>
+<s> what really bothers me is that there no documentation on the d-link support site about this topic and that whats makes it hard to figure out the problem.  </s>
+<s> anyhow thanks again for your help, at lest im not alone with this problem, i was beginning to think i was.  </s>
+<s> again thanks for taking the time to reply my question.  </s>
+<s> hope to see you around.  </s>
+<s> just rafy  </s>
+<s> no problem, good luck.  </s>

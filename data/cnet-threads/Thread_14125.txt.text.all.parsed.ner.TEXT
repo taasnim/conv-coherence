@@ -1,0 +1,52 @@
+<s> hey, folks, i posted earlier, re. whether or not to purchase a custom tower.  </s>
+<s> after receiving a &quot;yes--with reservations&quot; and making some changes with the builder, i purchased the tower.  </s>
+<s> only to immediately have problems with what i thought was the nvidia graphics card: upon installing the drivers, it would constantly quit, then restart, then, finally, freeze or blue screen the computer.  </s>
+<s> i posted a second time, here and elsewhere, with the specs of the adjusted build, and again received advice from several sources, advising that the psu, a raidmax 500-watt power supply (which in fact turned out to be a 450w psu) might well be the problem.  </s>
+<s> okay, actually, it was pretty universally hated, so, i replaced it.  </s>
+<s> here are tower's the new specs: processor: intel core i5-2320 sandy bridge 3.0ghz (3.3ghz turbo boost) 1mb l2 cache & 6mb l3 cache socket lga 1155 quad-core processor motherboard: biostar h61mgc lga 1155 micro atx intel motherboard 4 x rear usb 2.0 ports 2 x pci-e x1 slot video: pny nvidia geforce 430 gt (fermi) 1gb ddr3 128-bit pci express graphics card 1xvga port, 1xdvi port, 1xhdmi port core clock: 700mhz shader clock: 1400mhz memory: 8gb (2x4gb) team elite ddr3 1333 gaming/high performance ram hard drive: 1tb seagate barracuda 7200rpm 16mb cache operating system: windows 7 ultimate 64-bit (my copy) optical drive: samsung multiformat dvd burner 2xusb ports, 2xaudio ports power supply: corsair cx500 v2 80-plus bronze 500-watt monitor: benq gw2450 24&quot; lcd i installed the new power supply, and i must say the computer is running 100% better.  </s>
+<s> it boots really fast, shuts down really fast, gets where i want it to go really fast.  </s>
+<s> when i installed the nvidia drivers, everything was fine... right up until the moment i plugged in my wd 1.5tb external hard drive.  </s>
+<s> when i did that, the v-card immediately began to repeatedly quit, then restart--three or four times in less than 5 minutes.  </s>
+<s> not illogically, i disconnected the external drive (which my laptop has no problem handling at all)--but the v-card continued to quit/start, though less frequently.  </s>
+<s> then, about fifteen minutes ago, it froze, then blue-screened with a notice that the video card could not recover before windows &quot;timed out.&quot;  </s>
+<s> so the question is: what the heck is going on?  </s>
+<s> could it actually be possible that these specs, with the addition of an external drive, could be too much for the psu?  </s>
+<s> or is it likely the card?  </s>
+<s> could there be something amiss with the mobo?  </s>
+<s> that last seems unlikely, since i haven't had a single crash with the onboard v-card... though the computer positively hates my siig soundwave 7.1 usb sound card and freezes for a full five minutes if i click to get into its control panel.  </s>
+<s> so, what's my logical next step?  </s>
+<s> the builder may have very well sent you a working pc provided you &quot;added&quot; those ext.  </s>
+<s> usb devices when it arrived, etc.. that is an added burden but it should have worked.  </s>
+<s> your comment on the siig soundcard does provide a clue if still connected.  </s>
+<s> remove it, if so at least during the testing.  </s>
+<s> if your biostar mtrbd.  </s>
+<s> has audio on-board disable it via the bios setting.  </s>
+<s> you do have a better psu but!!! you remained with 500w unit.  </s>
+<s> you should have upped the ante and gotten more due to your past problems.  </s>
+<s> let's be clear, better pcs now have 700w psus or better maybe a 650w or similar. the point being you don't want to stress the psu to its upper tolerances even a good one.  </s>
+<s> i suggest you use the rear usb ports.  </s>
+<s> if the ext.  </s>
+<s> usb devices are powered by usb port, find a powered ext.  </s>
+<s> usb hub.  </s>
+<s> just how many usb devices are attached, don'e exclude any mouse, etc.. the whole usb list. is the video card cooled by fan or totally quiet type with heatsink only?  </s>
+<s> have you applied any bios updates?  </s>
+<s> place a household fan to open case and try to run it?  </s>
+<s> goto intel and check for any sandy bridge issues, yours maybe an older cpu even if i5 type.  </s>
+<s> tada ------willy  </s>
+<s> actually, i solved the problem by packing up the tower, with an eye toward sending it back to the builder for a refund first thing monday morning. the builder/seller, bless his heart, has been incredibly helpful, but the tower just wasn't working.  </s>
+<s> the fact that the computer runs perfectly well, so long as i don't add that &quot;one last thing,&quot; made me consider the idea that this issue may not have anything to do with the psu or the video card, but something underlying.  </s>
+<s> truly the number of items i use shouldn't take up more than a absolute maximum of 325w, or so i've been told.  </s>
+<s> in any event, my work has reached a stage where i have no more time i can spend testing and trying things to make a tower that should have worked out of the box actually work.  </s>
+<s> at this point, i am debating whether or not to build a box myself, since i still have the corsair (by the way, it turns out that the raidmax was actually 450w, not 500).  </s>
+<s> i could return it, get a refund and look at buying a higher watt psu, but the cost of both sending back the tower and having a 15% &quot;restocking fee&quot; chunked out of the psu return is going to put a dent in what i can build at this point.  </s>
+<s> i've suddenly gone from having between $650 and $700 to work with, to $550 to $600.  </s>
+<s> not how i was planning to spend my little birthday windfall, let me tell you... anyway, i'm still looking to buy/create a tower that will put up with some fairly extensive video and graphics work--and which can be upgraded as time goes on.  </s>
+<s> it doesn't have to be the fastest (though i do want it to be pretty :-d ); it just has to work when i turn it on and have the nerve to want to access the storage drive, run firefox, and watch a video at the same time.  </s>
+<s> since the pc is going back and you may build your own.  </s>
+<s> i offer that you look at &quot;bare bones or white box&quot; pc. basically, it's the pc case and what's inside only. the whole package depends on what's inside is already a match for what should work.  </s>
+<s> you &quot;add&quot; the final items to complete the pc system.  </s>
+<s> there is also just the mtrbd.  </s>
+<s> and cpu setups for sale as well, you then finish it with the remaining items.  </s>
+<s> again, the pairing of cpu and mtrbd. is good to go setup.  </s>
+<s> sorry for your last pc, it happens.  </s>
+<s> ------willy  </s>

@@ -1,0 +1,12 @@
+<s> i have 1 gb of memory currently installed.  </s>
+<s> i recently caught a nasty bug, removed it, but every time i shut down the pc, i get an error about unable to read memory.  </s>
+<s> when my pc boots up, at the dos screen before windows, it reads 512mb memory, but i know there is 1 1024 installed.  </s>
+<s> also, windows tells me that 1024/1gb is installed.  </s>
+<s> whats going on?. my system info is on my profile.  </s>
+<s> 1024mb and 1gb are equivical, so windows is probably displaying one or the other (or both, either way its just a registry value that determines whats displayed there).  </s>
+<s> if you're getting memory read errors thats probably a problem with windows, you might consider reformatting, or at least running something like ccleaner to see if you can glean some of the issues out.  </s>
+<s> not sure why post is giving you 512mb of ram, if its a 1x1024mb stick it shouldn't/can't read half of it (unless the mainboard can only address 512mb per dimm, which would be an entirely different can of worms).  </s>
+<s> i have 4 256mb modules installed, and still just the initial dos boot screen says 512 ok and windows system info says 1gb ok. the error reading cannot read memory location is random, never occuring repeatedly.  </s>
+<s> my system has been running slower recently too.  </s>
+<s> i cleaned up the hard drive and defragged, but problem persists.  </s>
+<s> i'd suggest a reformat of the system, sounds like windows dearly needs it  </s>

@@ -1,0 +1,17 @@
+<s> is ocing graphics card a good idea?  </s>
+<s> it's certainly a lot easier than ocing a cpu.  </s>
+<s> easily done through software, and less guesswork.  </s>
+<s> but how much ocing would be good?  </s>
+<s> unitl you get artifacts? is it likely for gpus to burn out because of overclocking?  </s>
+<s> what about the ram?  </s>
+<s> what happenes with that?  </s>
+<s> the same problems of oc'ing a cpu is present with a gpu.  </s>
+<s> expect, that at some point it will break down, so find the happy medium and live with it.  </s>
+<s> as with a cpu, you will shorten the life span of a gpu if oc'ed.  </s>
+<s> all the cooling cures should be taken beforehand and tweak bit by bit.  </s>
+<s> enjoy -----willy  </s>
+<s> i've got an x700 pro and actually it came with software to oc the ram and the gpu seperately.  </s>
+<s> not going to do that til it's lagging well behind what i need tos tart with but it should be intereting when i do need to. the slider sits right in the middle so depending on how far it'll let me go i've got a ton of room for either upping or dropping the speed on both compoments.  </s>
+<s> no offense, but it seems neither of you have either: a) overclocked with an nvidia card b) actually gotten into overclocking that isn't bad, i'm just wanting to explain this in more detail the program it sounds like your using is atitool which is one of 2 avliable oc'ing utilities for ati gfx cards the other is rivatuner rivatuner also works for nvidia and then you have coolbits2 for nvidia (idk if coolbits3d is better, it's newer, but i'll stick with coolbits2) you can oc the video card on stock cooling, and 90% of video card oc's are done on stock cooling the memory is usually the limiting factor, and you will know when you've hit too much when it starts to artifact in benchmarks back it down a little re-bench see if it's going to artifact continue going down until no more artifacts overclocking a gpu does shorten it's life, but it doesn't shorten it to the point that it's gonna die in a year (unless your running it too hot/too oc'ed) also don't worry if the gpu is running at 50c or more gpu's can take a lot of heat, and they only produce a lot of heat in 3d applications artifacts or snow are the result of over-overclocking the chip and that means it's either too hot, or running too fast (e.g., my 5900xt is stable at around 445/750 (stock is 390/700) yet i've had it as high as 503/930...it was artifacting the second it went into 3d mode, not from heat, but from being over-over'oc'ed)  </s>
+<s> least as far as i'm concerned you're correct on both counts.  </s>
+<s> i'm dealing with ati and also havent done any, just thinking through the process and the like.  </s>

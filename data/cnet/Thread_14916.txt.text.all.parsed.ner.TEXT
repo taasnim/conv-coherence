@@ -1,0 +1,39 @@
+<s> i hope i'm posting this in the correct forum.  </s>
+<s> first of all, here is my desktop info: - desktop pc: - pent. 4 w/hyperthreading, 3.00ghz, 1.50gb ram, buffalo 80gb internal hdd, internal aopen duw1608/arr dual-layer dvd/cd rw drive.  </s>
+<s> nvidia geforce fx 5200 v-card.  </s>
+<s> dsl extreme connected - ok..this pc's about 4 years old.  </s>
+<s> i try to back-up pretty often, (though not as much as i should.  </s>
+<s> lol) here's my issue: i had been making some personal archives of quite a few of my collections of cds/dvds.  </s>
+<s> (the following may or may not be a cause, but i'm listing it anyway...) in one of my cds, it allows an install of &quot;umixit&quot; software to &quot;mix&quot; your own music...so i did, but had to change my desktop's video resolution for optimal performance.  </s>
+<s> (it was at 800x600, but i changed it to 1024x168) (after intall, i changed it back 'cause my 19&quot; crt had really small desktop icons with the newer setting.) now, in one of the dvds, i installed (reluctantly) interactual player 2.0, just to see if it made a difference in my already installed powerdvd (i use this one the most.) and win media 10. - as my pc was finalizing a dvd last night, suddenly, the hdd starts making noisy &quot;click-a-click&quot; sounds.  </s>
+<s> then i got the worst...a b.s.o.d. that read: - a problem has been detected and windows has been shut down to prevent damage to your computer.  </s>
+<s> kernel_stack_inpage_error if this is the first time you've seen this stop error screen, restart your computer.  </s>
+<s> if this screen appears again, follow these steps: check to make sure any new hardware or sofware is properly installed.  </s>
+<s> if this is a new installation, ask your hardware or software manufacturer for any windows updates you might need.  </s>
+<s> if problems continue, disable or remove any newly installed hardware or software.  </s>
+<s> disable bios memory options such as caching or shadowing.  </s>
+<s> if you need to use safe mode to remove or disable components, restart your computer, press f8 to select advanced startup options and then select safe mode.  </s>
+<s> - technical information: fragments list.s.cnet pre_process.sh  </s>
+<s> threads stop: 0x00000077 (0xc000000e,0xc000000e,0x00000000,0x00bb6000) - other than a couple pc games, i haven't installed anything else.  </s>
+<s> now, i have to &quot;hard shut-down&quot; the pc with the tower button cause when it even tries to boot-up, it hangs before the p.o.s.t and the hdd goes nuts again.  </s>
+<s> it just recently froze at the &quot;safe mode/last known../normal startup&quot; options black screen.  </s>
+<s> the hdd just &quot;click-a-clicks&quot; away.  </s>
+<s> - i had just bought a seagate 400 gb w/ 16mb buffer to install in the tower with this one....just-in-case, but i'll bet that my current hdd is gone.  </s>
+<s> go ahead, tell me the truth.  </s>
+<s> ;-d - i'll be awaiting a reply soon.  </s>
+<s> thanks for reading this post; i'm quite desperate here.  </s>
+<s> tony  </s>
+<s> welcome to the pc world.  </s>
+<s> it's a place where hardware and data just vanish.  </s>
+<s> it drives people crazy...now you see it/now you don't.  </s>
+<s> #1 rule.....backup/backup/backup.  </s>
+<s> did you violate the rule?  </s>
+<s> as far as i know hd's don't go click-click-click.  </s>
+<s> so unless someone has a better thought, i would install that new hd, load windows, install the old hd as a slave and see if i could salvage any of my stuff.  </s>
+<s> i suggest you visit the hd makers support website and get thier diagnostic test pgm.. use it to test but don't use the &quot;destructive type&quot; that will wipe out data, there are other tests for a quick check.  </s>
+<s> as the other poster mentioned, you have a new hd, install as prime or master(alone)and go from there.  </s>
+<s> then later add old hd as suggested to try to recover data.  </s>
+<s> you can swap power leads for hd as well to see if that helps(probably not) but heck its a shot.  </s>
+<s> further, try the safemode booting and see just how far it gets, if it doesn't do that you probably do have a bad hd regardless.  </s>
+<s> if it does get pass and boot-up use the &quot;scan&quot; feature to quick check the hd or just back-up any data you can.  </s>
+<s> but, a click-click sound isn't good news, imho, be ready to install hd. tada -----willy  </s>

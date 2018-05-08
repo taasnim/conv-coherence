@@ -1,0 +1,19 @@
+<s> hello, i am a person who is responsible for system administration in medium size broker's company (approx.  </s>
+<s> 80 employees) we have a lot of workers and visitors with wi-fi notebooks who want to surf internet it all over the campus.  </s>
+<s> currently we have something like a dozen of access points (several conference rooms, trading room, lobby etc.) that were configured separately.  </s>
+<s> we have separate network for those aps because i'm afraid of intruders equipped with wi-fi sniffers who can penetrate into our lan. one more thing that make life difficult is the fact we had to configure wep with the same key-phrase so users can surf via any one of our ap's.  </s>
+<s> what i'd like to know - is there some kind of simple software that can help me to manage the wireless network easily, including managing access for limited time visitors.  </s>
+<s> also i'd like to know who is currently connected, how many users surf via wireless etc. the program must be simple to install and use, since this is only a part of my duties and i don't want to waste my time dealing with over-sophisticated network management tools (that cost tons of money).  </s>
+<s> thanks, evgenek klein, mngd  </s>
+<s> to get there, you'll have to replace all the current waps for ones that work with software that does this.  </s>
+<s> cisco has this feature.  </s>
+<s> but my bet is that you may not be willing to pay for this.  </s>
+<s> bob  </s>
+<s> hello, evgenek, you may want to try abgate solution to create &lt;a href=&quot; &gt;802.11 public sniffer protected&lt;/a&gt; free or prepaid wireless network.  </s>
+<s> &lt;a href=&quot; &gt;abgate server&lt;/a&gt; allows you to create single secured wireless local area network in a corporate office.  </s>
+<s> abgate server is reliable enterprise grade wireless software offering a rich variety of the must features: reports, integrated firewall management, prepaid wireless internet , vouchers, captive portal with customized login page and etc. you can download and try abgate software free (limited to 1 concurrent user).  </s>
+<s> regards, alex perelman  </s>
+<s> and a few others are noteworthy, open source and most of all free.  </s>
+<s> in closing, try to preview your posts to avoid odd looking html code.  </s>
+<s> also, note competitors to abgate so you don't look like you are hawking your product.  </s>
+<s> bob  </s>

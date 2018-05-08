@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (NP (DT a) (ADJP (date (CD 2010)) (NN macbook)) (JJ pro) (NN computer)) (SBAR (WHNP (WDT that)) (S (VP (ADVP (RB wirelessly)) (VBZ connects) (PP (TO to) (NP (DT the) (NN internet))) (PP (IN via) (NP (DT an) (NN apple) (NN time) (NN machine)))))))) (. .)) )
+(TOP (S (NP (PRP i)) (ADVP (RB currently)) (VP (AUX have) (NP (NP (DT an) (NNP hp) (NN photosmart)) (ADJP (CD c7200) (NN printer)) (SBAR (IN that) (S (NP (PRP i)) (VP (MD could) (ADVP (RB never)) (VP (VB get) (S (VP (TO to) (VP (VB function) (SBAR (S (NP (PRP wirelessly.)) (VP (AUX is) (ADVP (RB there)) (S (NP (NP (DT any) (NNS e-printers)) (PRN (-LRB- -LRB-) (S (NP (NNS multi)) (VP (VBP function))) (-RRB- -RRB-))) (VP (VB scan) (CC and) (VBP print))) (SBAR (IN that) (S (NP (PRP i)) (VP (MD could) (VP (VB get) (S (VP (TO to) (VP (VB work) (ADVP (RB wirelessly)) (PP (IN for) (NP (DT all) (NNS functions)))))))))))))))))))))) (. ?)) )
+(TOP (NP (NNS thanks) (. !)) )
+(TOP (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS things)))) (NP (PRP i)) (VP (VBP like) (SBAR (S (S (VP (TO to) (VP (AUX do)))) (VP (AUX is) (ADVP (RB just)) (VP (VB walk) (PP (IN through) (NP (DT the) (NN apple) (NN store)))))))) (. .)) )
+(TOP (S (ADVP (RB often)) (S (NP (PRP i)) (VP (VBP see) (NP (DT a) (NN printer)) (ADVP (RB there)))) (CC and) (S (NP (PRP it)) (VP (AUX 's) (RB not) (VP (VBN wired) (PP (PP (IN in)) (CC but) (PP (IN on) (NP (CD wifi))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBP bet) (SBAR (S (NP (PRP you)) (VP (MD would) (VP (VB want) (NP (DT that) (NN printer))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (PRP i)) (VP (AUX am) (VP (VBG using) (NP (DT a) (JJ lexmark) (NN prestige)) (NP (CD 805) (NN ..)))) (. .)) )

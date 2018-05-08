@@ -1,0 +1,29 @@
+<s> i have a home entertainment system setup with a toshiba hdtv as a second monitor.  </s>
+<s> it works fine, except that both monitors keep on resetting their resolutions upon boot-up.  </s>
+<s> both monitors would normalized to their original resolutions if i launch media center (in full screen) and then close it.  </s>
+<s> i use a norwood micro 15.4&quot; lcd as my primary monitor set to 1024 x 768, and the toshiba 62hm15a 62&quot; dlp projection hdtv as my secondary monitor set to 1280 x 720.  </s>
+<s> both are maximum settings.  </s>
+<s> the display is set-up to &quot;extend windows desktop&quot; onto the toshiba.  </s>
+<s> any advice is greatly appreciated.  </s>
+<s> dimension 5150/e510 windows xp mce 2005 ati radeon x600 256mb pci express video card x 2 intel pentium d cpu 2.80ghz norwood micro 15.4&quot; lcd monitor toshiba 62hm15a 62 dlp projection hdtv  </s>
+<s> ok ...i've seen your post .  </s>
+<s> try to change the frequency on the second monitor(yours toshiba hdtv-it might work) and it only reseting if the second monitor is connected?  </s>
+<s> did you clone the secondary monitor?  </s>
+<s> vga?  </s>
+<s> comosite?  </s>
+<s> s-video?  </s>
+<s> hdmi?  </s>
+<s> how did you connect the second monitor.  </s>
+<s> because it seem to be the issue with that one.  </s>
+<s> if you say no....than connect toshiba hdmi or vga to your computer and make it primary screen .try to play around with your video card settings.  </s>
+<s> good luck.  </s>
+<s> marius  </s>
+<s> the toshiba is connected via dvi-hdmi cable. the desktop is extended onto this monitor, rather than cloned so i can still use the computer while watching movies.  </s>
+<s> the problem persists whether i list the toshiba as the primary or secondary monitor.  </s>
+<s> i've tried playing around with the video card settings before posting without success.  </s>
+<s> i do not know how to change the frequency on the toshiba.  </s>
+<s> i've checked the manual and did a web search without getting any info.  </s>
+<s> it's not a windows thing.  </s>
+<s> will check it out & keep you updated  </s>
+<s> went to ati web site & upgraded the driver and the system works like a charm.  </s>
+<s> thanks again!  </s>

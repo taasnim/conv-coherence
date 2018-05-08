@@ -1,0 +1,10 @@
+                                    TIME 1 1 0 0 0 1 0 0 0
+                                    THIS 0 0 0 0 0 1 0 0 1
+                                 WINDOWS 0 0 0 0 0 1 0 1 1
+                                    BOOT 0 0 0 0 0 0 0 0 1
+                                 NETWORK 0 0 0 0 0 1 0 1 1
+                                  ROUTER 0 0 0 0 0 0 0 1 1
+                                       % 1 1 0 4 0 0 0 1 1
+                                 UPDATES 0 0 0 0 0 0 0 0 1
+                                FIRMWARE 0 0 0 0 0 0 0 1 1
+                                     IVE 0 0 0 0 0 0 0 1 1

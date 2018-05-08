@@ -1,0 +1,78 @@
+<s> hey everyone.  </s>
+<s> my linksys wireless router is giving me a headache.  </s>
+<s> the internet (through verizon) is connected to the westell modem.  </s>
+<s> an ethernet connects the modem's ethernet port to the linksys router's internet port.  </s>
+<s> port 1 is connected to a desktop computer which works perfectly.  </s>
+<s> laptop 1 connects to the router and internet automatically and quickly, then stays connected to the internet.  </s>
+<s> works perfectly.  </s>
+<s> laptop 2 manually connects to the router occasionally, the internet rarely, and disconnects after ten minutes.  </s>
+<s> ____________________________________________________ now i know enough to post specs.  </s>
+<s> if there are any more you need, please ask.  </s>
+<s> modem: westell router: linksys, wireless-8 broadband router with 4-port switch, befw11s4 ver.  </s>
+<s> 4. laptop 1: acer aspire 5920, windows vista home premium, 32-bit.  </s>
+<s> it is my mom's computer and has not had many things done with it.  </s>
+<s> she doesn't touch advanced settings.  </s>
+<s> laptop 2: acer aspire 5610, windows vista home premium, 64-bit.  </s>
+<s> this is my computer, which i have tweaked.  </s>
+<s> ____________________________________________________ i know both laptops are connected to the same router name, and it is unsecured so there is no password to get wrong.  </s>
+<s> when i can't connect laptop 2 to the router, i click diagnose.  </s>
+<s> it tells me that a time-out occurred due to user action.  </s>
+<s> anything that anyone can think of is appreciated!  </s>
+<s> if not, do so.  </s>
+<s> it took me a while to find out what ssid means and to find how to check that.  </s>
+<s> yes, it is enabled and broadcasting.  </s>
+<s> laptop 2 is also 32-bit.  </s>
+<s> sorry!  </s>
+<s> 1. the router is not setup per our networking forum admonishment.  </s>
+<s> in a,b, and c. a. router defaults except for isp requirements.  </s>
+<s> b. broadcast a simple ssid.  </s>
+<s> 8 characters and &quot;simple&quot;.  </s>
+<s> c. wpa for security.  </s>
+<s> do not use mac filters.  </s>
+<s> 2. the new machine is vista.  </s>
+<s> googe the following: disable vista broadcast flag bob  </s>
+<s> router is already set to all defaults (isp requires none so far as i know).  </s>
+<s> ssid is holly.  </s>
+<s> wpa is being used.  </s>
+<s> mac filters are already disabled.  </s>
+<s> what do you mean, new machine?  </s>
+<s> both are running vista, laptop 1 connecting and laptop 2 not connecting.  </s>
+<s> i did the research looking up &quot;disable vista broadcast flag.&quot; this led me to microsoft's help and support page ( ). i wasn't sure which (of 3 listed) were the guid i needed to edit.  </s>
+<s> i added the toggle to the first, restarted the computer and no change.  </s>
+<s> the second already had the toggle created and at 1. the third guid had the toggle set to 0, which i changed to 1 and then restarted the computer.  </s>
+<s> still no connecting.  </s>
+<s> _____________________________________________________ something i forgot to mention - i'm using an ethernet cable to hook up to the router, which does work.  </s>
+<s> i just can't connect to the router wirelessly and stay connected.  </s>
+<s> i have images of the router specs (uploaded through badongo) if you need those, but i'm not sure how i can share them with you.  </s>
+<s> this will likely end with the laptop being sent out for repair or replacing the router or in some cases, new router firmware.  </s>
+<s> to test the laptop i take it to other wifi hotspots.  </s>
+<s> if those fail, i know to call its maker.  </s>
+<s> be sure it's loaded up just like it came from the factory without changes to firewalls or such because they will have you do that.  </s>
+<s> nothing in your posts suggests it's your router.  </s>
+<s> bob  </s>
+<s> it works well with other wi-fi connections.  </s>
+<s> before here, i had my own router and modem that worked.  </s>
+<s> it was a different model linksys with a different isp.  </s>
+<s> that just makes this all the more confusing.  </s>
+<s> it's not worth it for me to send the my lappy in to get fixed.  </s>
+<s> everything else works and i can still connect with an ethernet.  </s>
+<s> i'll default windows firewall settings.  </s>
+<s> i'll also try to default whatever other settings i can, since it seems to be this specific computer.  </s>
+<s> thank you everyone for your help! if it does end up working, i'll post why.  </s>
+<s> i gave up for a while and just used the ethernet to connect.  </s>
+<s> then today i got annoyed and started with google again.  </s>
+<s> it led me to on the second page, egao changed the wireless channel.  </s>
+<s> it worked for me, too.  </s>
+<s> so just in case anyone else ever reads this, change the wireless channel!  </s>
+<s> if you don't know how - 1. connect to the router via ethernet.  </s>
+<s> 2. find your router's ip address and type it into the address bar of your browser.  </s>
+<s> my linksys wireless router's ip address is 192.168.1.1 3. click the wireless tab. then beside &quot;wireless channel,&quot; there is a drop-down menu.  </s>
+<s> options are 1 (2.417 ghz) through 11 (2.467 ghz).  </s>
+<s> select 1 and then save settings.  </s>
+<s> *note: remember the channel it was already set to in case this is not a fix for you.  </s>
+<s> 4. get the ethernet cable out of the port.  </s>
+<s> 5. try connecting wirelessly.  </s>
+<s> 6. if channel 1 doesn't work, then repeat steps 1-5 with channel 2, 3, 4 etc until it works.  </s>
+<s> it worked for me, at least for now.  </s>
+<s> =)  </s>
+<s> had similar problem with one laptop not finding my home wireless even if i change ssid name, type etc..never checked channel as it was auto..  </s>

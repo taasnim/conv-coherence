@@ -1,0 +1,59 @@
+<s> hello, i apologize for my terrible english, thank you for reading and help me.  </s>
+<s> i am using window vista, dsl internet.  </s>
+<s> my internet for the past week is not good.  </s>
+<s> throughout the whole day my internet fluctuates, up and down fluctuates speed all day.  </s>
+<s> my dsl download speed always been good, i always get 300kb/sec stable speed, until last week suddenly it start to drop from 300kb/sec down to 6kb/sec, this is a big change, something is definately wrong.  </s>
+<s> i call my verizon dsl, they do a line test on their side and they say my modemn recieve good signal, also the dsl light on my modemn is always solid, so i am sure it recieve good signal.  </s>
+<s> so if nothing is wrong on their side, maybe it my computer hardware?  </s>
+<s> i also do a safe mode networking with verizon, i run my computer in safe mode networking, and the internet speed still drop dramatically starting from 300kb/s down to 6kb/s .  </s>
+<s> since i am on safe mode networking and this problem still exist, it is definately not any software conflict.  </s>
+<s> i also scan my computer with numerous of anti-virus from norton, mcafee, kaspersky, housecall, esset, including malwarebyte and lavasoft, and found nothing!!!!! no virus, no spyware, nothing!!! so all that has rules out, now the only option left i can think of is something wrong with my vista hardware.  </s>
+<s> how can i know if something is wrong with my hardware?  </s>
+<s> can anyone please hlep me.  </s>
+<s> something is wrong, i just cannot figure out what it is.  </s>
+<s> thank you so much!!  </s>
+<s> and many other discussions find this.  </s>
+<s> you also listed more than one antivirus so you could have left your machine with some conflicts.  </s>
+<s> i find those forums that read hijackthis logs (google that!) to often help you clean up that mess.  </s>
+<s> bob  </s>
+<s> hello, i tis not anti virus problem.  </s>
+<s> those anti-virus i use are just online scanner that i use to scan my computer.  </s>
+<s> after i done scan, it all have been uninstal.  </s>
+<s> the only one antivirus i have in my computer is norton, and i know is not norton problem because i have use norton for many years.  </s>
+<s> i have try update all the drives (it say all your drive to up to date) and i try unplugging modemn for like 2 hours and plug it back in. the verizon dsl also reset my whole modemn, and the problem still persist.  </s>
+<s> (so it definately not modemn issue) something is going on in my computer.  </s>
+<s> it is not software issue since i have try safe mode networking many times, and my internet speed still fluctuates, so this rule out the software conflict problem.  </s>
+<s> i scan my computer with all of these: norton, mcafee, kaspersky, housecall, esset, including malwarebyte and lavasoft, and found nothing!! if there is a virus in my computer, then it super powerful then since all of these anti-virus cannot even detect them.  </s>
+<s> (unlikely it is virus issue) my computer is very hot though, and it have some sound like something is running inside.  </s>
+<s> maybe my computer is overheated?  </s>
+<s> how to know if the nic or network card inside my computer is not working correctly?  </s>
+<s> my internet is so slow right now, i am so frusterated, thank you for helping me.  </s>
+<s> you don't want to know how many times i've read that then we get the hijackthis log to find out it's still there.  </s>
+<s> -&gt; there is another test i use and that's to boot up a live cd call ubuntu.  </s>
+<s> no install and i can test the connection.  </s>
+<s> as to what you know about norton, sadly they did change how it works so can we skip all this back and forth about it's not that?  </s>
+<s> -&gt; and not a word about that cord mentioned in the other discussion?  </s>
+<s> why not?  </s>
+<s> bob  </s>
+<s> oh sorry, i understand now.  </s>
+<s> but how can i do the hijackthis log?  </s>
+<s> how can i get the hijack log?  </s>
+<s> sorry i am not very good with computer.  </s>
+<s> thank you  </s>
+<s> did you try a shorter cord from the dsl modem to the wall as noted in that other discussion?  </s>
+<s> about the hijackthis log.  </s>
+<s> it's not for everyone and while i really like what it shows it is advanced skill to read it.  </s>
+<s> i want to be humble here and write i do know a bit about this but am not as expert as those that do this all the time.  </s>
+<s> example at again, while i do read such things, it's usually only to point out the obvious items.  </s>
+<s> even you could run that tool and see if any item is left over from norton, mcafee and the like.  </s>
+<s> usually easy to spot.  </s>
+<s> try it.  </s>
+<s> but ask others about this (see the link in this post!!!) before you delete it.  </s>
+<s> bob  </s>
+<s> sounds as if bob has you heading in the right direction already but have you checked items running at startup?  </s>
+<s> go to start, then run type msconfig press enter, when system configuration comes up, look in startup to see if that might not be some of the issue.  </s>
+<s> i have check all those already.  </s>
+<s> i also do a test on safe mode networking, and it is still same, so the problem is nothing with startup software.  </s>
+<s> safe mode networking is when no software start up, it only use the basic window system to start your computer.  </s>
+<s> even in safe mode, my speed still fluctuates, like right now i only have 15kb/sec , very very slow.  </s>
+<s> thank you bob, i head over there to see if i can get any help, and i look more into the hijackthislog, thank you sir.  </s>

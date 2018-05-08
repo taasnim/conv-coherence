@@ -1,0 +1,13 @@
+<s> gateway running xp crashed.  </s>
+<s> when we boot up we see the gateway screen and then the xp screen and then nothing....a blank screen  </s>
+<s> these things happen.  </s>
+<s> was there a question and if so provide some info about the computer.  </s>
+<s> anything? any new hardware and/or driver changes, upgrades,etc.  </s>
+<s> ?  </s>
+<s> try booting to safe mode... press f8 when its booting up... if you see the windows loading, you've gone too far.  </s>
+<s> as soon as it starts up keep pressing f8. when you get the os menu, press safe mode.  </s>
+<s> does it boot?  </s>
+<s> if it does run some scans, like anti-virus and adware.  </s>
+<s> then go to start, run, msconfig, go over to the startup tab and check out what programs are running.  </s>
+<s> maybe a list?  </s>
+<s> also, try running pc pitstop which will give a detailed analysis of whats running and if you can shut it down.  </s>

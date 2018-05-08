@@ -1,0 +1,13 @@
+<s> is there any problem using pc 133 ecc sdram with pc 133 non-ecc if my bios is set to non-ecc memory settings?  </s>
+<s> thanks  </s>
+<s> shouldn't be, but you'll know if its compatible very soon.  </s>
+<s> you neglected to share the make/model numbers of the items.  </s>
+<s> for instance, the 256 mb memory stick issues on bx based boards is legendary.  </s>
+<s> and such would use sdram.  </s>
+<s> bob  </s>
+<s> sis 735 chipset athalon xp 2200  </s>
+<s> for example, we have some p4 1.9 ghz machines that perform like p3 800 mhz machines all due to a mistake by me to recycle some sticks of sdram.  </s>
+<s> since the deed is done and the machines are used for email, open office and have no payback if i was to fix this issue, i haven't changed the motherboards and ram, but i still kick myself over that one.  </s>
+<s> bob ps. oh, if your board does sdram, you won't see the bx issue i noted.  </s>
+<s> until more $$$$.  </s>
+<s> thanks as always.  </s>

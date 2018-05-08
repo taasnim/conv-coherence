@@ -1,0 +1,31 @@
+<s> hello, i have a computer from about 97 and then a brand new one i purchased this year.  </s>
+<s> i installed xp on the old one recently and all it did was install over all my old files which is not what i wanted.  </s>
+<s> so now i want to format it because is beginning to run slowly.  </s>
+<s> i have about 400-500 mp3's that i do not want to lose.  </s>
+<s> i have a cd burner on the old pc but it can not burn in dvd format like my new pc.  </s>
+<s> so i'm trying to figure out some way i can do this.  </s>
+<s> (the cheapest way) both computers have ethernet cards so i could connect them together.  </s>
+<s> what cords would i need and could someone explain the process.  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> i did this about a week ago...get yourself a crossover cable ($10)and connect the two pcs via the ethernet ports... if you don't have a more detailed response tonight i'll post again later with specifics when i get home...  </s>
+<s> check your network setting on both systems...the ip's need to be the same up until the last set of numbers which should be one off... for example: new pc: xxx.xxx.xxx.100 old pc: xxx.xxx.xxx.101 then make sure the subnet mask is the same on both.  </s>
+<s> use your winxp cd to setup a home office network on both machines...while doing this you need to name both machines (ex.  </s>
+<s> oldpc and newpc)and name your workgroup, this must be the same on both machines, (ex.  </s>
+<s> home).  </s>
+<s> now go to the folder(s) on the old machine and right click on the folder you want to share...then click on the option for sharin and allow sharing.  </s>
+<s> reboot and go to your network on the new machine.  </s>
+<s> you should see oldpc on your network.  </s>
+<s> you can now access the files on the shared folder and cut/copy them to your new machine... i did this from memory but i'm pretty sure these are the steps i took last week... hth.  </s>
+<s> where should i get the cable?  </s>
+<s> we have a store around here called nf computers or something but they wanted 15 dollars and they are closed already.  </s>
+<s> (im in central time, tennessee) any big name stores carry it?  </s>
+<s> (walmart, bestbuy, circuit city, etc) thanks a lot for the reply!  </s>
+<s> will have the cable.  </s>
+<s> or, for a little more money and versatility, go here good luck, click here to see the cnet faces, learn a little about internet connections and data, and download free software.  </s>
+<s> suppose you were an idiot. .  </s>
+<s> .  </s>
+<s> and suppose you were a member of congress.  </s>
+<s> .  </s>
+<s> .  </s>
+<s> but i repeat myself.  </s>
+<s> --mark twain  </s>

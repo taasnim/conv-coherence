@@ -1,0 +1,31 @@
+<s> i currently have 4 sata drives and 2 ide drives that i would like to attach to either my router or an extra pc via usb and run them as nas.  </s>
+<s> i current have them spread out in two cases both running server 2003.  </s>
+<s> reason i want to abandon the existing setup is a. i don't like running both servers all the time due to power consumption (want to be able to power on and off as i need them) b. one of the servers is beginning to show signs of main board failure.  </s>
+<s> here are two products i found for the sata: or .  </s>
+<s> both of these contain two sata drive enclosures so either will suit my needs.  </s>
+<s> i cannot seem to find an external drive enclosure for 2 ide drives.  </s>
+<s> i have found plenty of single drives such as the following: but i am not too keen on this one due to it only supports 1 drive and has no cooling fan.  </s>
+<s> please let me know if anyone has had any success or failure with either of these or could recommend a different device.  </s>
+<s> any and all help will be greatly appreciated.  </s>
+<s> i know this issue and to fix it i took the case down to the shop and drilled a big hole in the case then glued screen material to the big hole.  </s>
+<s> i could have added a fan to that but this was more than enough added cooling.  </s>
+<s> i haven't seen a dual ide to usb drive case in about 3 years.  </s>
+<s> bob  </s>
+<s> i bought the black version of that.  </s>
+<s> yes it has a fan but is noisier than my laptop. the documentation is almost worthless but there is not much to document.  </s>
+<s> they failed at explaining how the lone jumper worked in the little board but i'll go over it.  </s>
+<s> in its stock setting you put in two sata drives and you get two drive letters.  </s>
+<s> in the other setting you put in two drives and it joins the drives into one drive with some jbod raid system (undocumented!) i wanted to create a 1.5tb drive with a pair of 750s i had so i put the jumper to jbod and then deleted all the partitions on that new drive.  </s>
+<s> when i created the new partition i got the full space of the joined drives (over 1tb).  </s>
+<s> i then had a backup to the other server 1.5tb drive so i'm now able to simply run syncback to keep a backup copy of the big network server drive. the freegene unit is a bargain but let's not call it a quality unit.  </s>
+<s> but for quality we should be looking at the drobo.  </s>
+<s> bob  </s>
+<s> you won't save watts with enclosures and a pc. why not one nice big atx, pfc/80+ psu and mobo with sata/raid/ide for all your drives?  </s>
+<s> a high efficiency low end cpu and min ram suffices and saves energy.  </s>
+<s> and the performance will beat your proposal.  </s>
+<s> your 2003 should be portable.  </s>
+<s> checked out the various dromo models those would be great but out of my price range  </s>
+<s> what i am really going for is the ability to only have the drives i need at the time powered on rather than all of them at once.  </s>
+<s> replace the ides with satas and sell/donate them.  </s>
+<s> there is ide/sata adapter but probably won't fit in enclosure.  </s>
+<s> i see 750gb drives at that site for 49.99 so if drobo is too much, maybe it would be interesting to see how big or small those ide drives are.  </s>

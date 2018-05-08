@@ -1,0 +1,33 @@
+<s> here is the deal.  </s>
+<s> i have a 750gb hard drive running windows xp pro that seems to have cratered.  </s>
+<s> i attempted a restart after removing a program and it gave me a bsod.  </s>
+<s> when i attempted to restart in safe mode, it locked up on the mup.sys.  </s>
+<s> i had this happen once before and was able to resolve it by booting from the recovery discs.  </s>
+<s> however, this time, when i went to boot from the recovery discs, it would not even do that.  </s>
+<s> i removed the disc and was going to retrieve the important files i had created since my last backup by placing it in a hdd enclosure and attaching to another computer, but when i do, the primary partition asks to be formatted before use and shows 0 bytes used.  </s>
+<s> does anybody have a good idea of how to proceed?  </s>
+<s> thanks brian  </s>
+<s> give this approach a chance: that approach will work with any version of windows.  </s>
+<s> if the information is available, it will help you to get it retrieved.  </s>
+<s> i would then expect to get a new hard drive and use the recovery discs to return the pc to operating condition.  </s>
+<s> i do not see a mention of what pc this is in other than windows xp pro but since there are recovery discs, i have to assume it is from a major manufacturer like dell, hp, gateway?  </s>
+<s> there may be a way to do a repair install, if more info is provided.  </s>
+<s> it echoes something i helped create years ago at today it is even better and easier than ever.  </s>
+<s> if that fails, try zero assumption recovery and getdataback.  </s>
+<s> use google to find those titles.  </s>
+<s> if these fail, the next stop is bob  </s>
+<s> thanks for the replies.  </s>
+<s> i tried the ubuntu disc solution from the first reply, but it did not seem to work. the error message that i got when i first tried to mount the disk was: &quot;unable to mount location dbus error org.freedesktop.dbus.error.noreply:  </s>
+<s> did not receive a reply.  </s>
+<s> possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.&quot; when i went through the steps and tried to force a mount anyway, i got an error message to the tone of: &quot;dbus error org.freedesktop.dbus.error.noreply:  </s>
+<s> did not receive a reply.  </s>
+<s> possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.&quot;  </s>
+<s> i did some digging around and found another similar idea from howtogeek that uses the testdisk utility.  </s>
+<s> i will give that a shot.  </s>
+<s> further thoughts?  </s>
+<s> brian  </s>
+<s> try zero assumption recovery getdataback and you discovered testdisk.  </s>
+<s> if those fail, it's off to bob  </s>
+<s> hello brain, i hope you have managed the recovery from your disk for your important files.  </s>
+<s> if not,is it still detected in the bios?  </s>
+<s> if detected, many software or tools can do that.  </s>

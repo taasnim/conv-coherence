@@ -1,0 +1,14 @@
+<s> i've build a new system using the following componets: asus a7n8x deluxe nforce 2 board amd 2500+ cpu 512mb geil pc3500 memory 120gb hdd ati based 9800 video card cd-rom, cd-rw i've only installed xp pro(no service packs yet), the nforce drivers for the board, video drivers.  </s>
+<s> i had used an old ps/2 scroll mouse to do the set up, now while attempting to use any optical mouse, they don't work.  </s>
+<s> am pluging into the ps/2 mouse port on the board with a ms trackball optical and a ms wheelmouse opital, both show the curser on screen but do not operate.  </s>
+<s> when pluged in the trackball does light up, the wheelmouse doesn't, it could be defective.  </s>
+<s> the optical wheelmouse is brand new, per instructions, in stalled the software first, shut down, pluged the wheelmouse in, rebooted; curser shows up, doesn't move.  </s>
+<s> greatly appreciate any suggestion on fixing this problem.  </s>
+<s> an email to me earlier about this, you resolved the problem by realizing you had usb option for the mouse and after removing the adapter for ps/2 and booting up, it now works.  </s>
+<s> good job.  </s>
+<s> toni  </s>
+<s> check your bios to make sure you have usb enabled for the mouse so it will work in all situations....not just normal desktop.  </s>
+<s> it should already default to it, if i remember correctly, but i would check anyhow just to make sure.  </s>
+<s> toni  </s>
+<s> i'm still trying to figure out why.  </s>
+<s> thanks for the help.  </s>

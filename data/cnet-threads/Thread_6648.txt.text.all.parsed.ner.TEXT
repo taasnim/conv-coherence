@@ -1,0 +1,32 @@
+<s> ok, i have a dell inspiron 1150 notebook with a dell truemobile 1300 wlan card.  </s>
+<s> i am attempting to connect through a netgear wgt624 (v1) router and all i am getting is acquiring network address, and then nothing.  </s>
+<s> i am on xp pro sp2.  </s>
+<s> any ideas of what may be causing this guys?  </s>
+<s> i have problems.  </s>
+<s> i turn off all the routers and wait 15 seconds.  </s>
+<s> turn everything back on and then try to connect.  </s>
+<s> everything is fine then.  </s>
+<s> i usually have this problem after a power outage and/or surge, thank goodness for surge protectors.  </s>
+<s> rick  </s>
+<s> such as did it ever work.  </s>
+<s> if not we look at testing at some hotspot which if that works we suspect the router (old firmware, dead, etc.) if the hotspot test fails we think about spyware damage.  </s>
+<s> of course my neighbor has the classic call.  </s>
+<s> i asked him to push the button to turn the wifi on the laptop.  </s>
+<s> bob  </s>
+<s> it all worked fine when i first hooked it up.  </s>
+<s> i went through netgear's smartwizard, and configured everything for the first time.  </s>
+<s> it worked great for a few days, then all of a sudden it started dropping the connection and then reconnecting, now it won't even renew the ip. the router is still working just fine wired, and my computer recognizes the network on wireless, but refuses to acquire the network address.  </s>
+<s> maybe just a setting somewhere?  </s>
+<s> it should only be a setting if you had changed them from when it worked.  </s>
+<s> try the usual and hold the reset on the router (see the manual) and run the setup wizard again.  </s>
+<s> however i'd test at a hotspot first so i know my pc is ok then the reset, wizard and if the laptop fails to connect in the same room, pack and return the router.  </s>
+<s> i've already noted updating firmware so i won't repeat that.  </s>
+<s> bob  </s>
+<s> if verizon, the westell modem/router uses the same ip address as the netgear router.  </s>
+<s> you'd have to change the ip address in the netgear router to prevent the conflict.  </s>
+<s> rick  </s>
+<s> i have earthlink broadband through time warner cable.  </s>
+<s> i will try to locate a good hotspot to see if i get anything there.  </s>
+<s> thanks guys.  </s>
+<s> i'll also look for a reset, but i have unplugged everything, given it time to reset, and plugged it back in, but same same.  </s>
+<s> i'll update again once i hit a hotspot.  </s>

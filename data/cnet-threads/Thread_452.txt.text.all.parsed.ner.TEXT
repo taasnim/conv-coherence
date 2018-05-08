@@ -1,0 +1,24 @@
+<s> cpu specs: dfi lan party ultra d mobo amd athlon 64 2500 winchester g.skill memory 1 gig windows 2k os i'm using a lexar jumpdrive 2.0 pro.  </s>
+<s> i have particularly much slower transfer speeds with this system than with my other slower computers (another desktop and a laptop.  </s>
+<s> i already tried redownloading mobo drivers, no luck.  </s>
+<s> i need help.  </s>
+<s> thanks.  </s>
+<s> i forgot to add i also have a 250 gig sata maxtor hd  </s>
+<s> first off, i'm a non-techie.  </s>
+<s> interested to know from anyone if they've heard of this problem and have ideas.  </s>
+<s> i have a sandisk cruzer 1 gb flash drive which works erratically.  </s>
+<s> sometimes blinding fast; sometimes snail pace--on the same computer.  </s>
+<s> why the variability?  </s>
+<s> pc usb nov/2005 problems -- usb very slow on new pc amd 2.2 from cisnet using windows xp home sp2 (service pack 2) solution - format usb flash drive with ntfs file system -- select drive right click select properties select hardware tab highlight appropriate flash drive select properties button select policies tab, ensure &quot;optimize for performance&quot; is selected ok ok select drive right click select &quot;format&quot; a drop down menu will appear with several fields to choose from &quot;capacity&quot; ensure full space is utilized &quot;file system&quot; select ntfs &quot;allocation unit size&quot; select either &quot;2048&quot; or &quot;4096&quot; ensure that in &quot;format options&quot; you do not select &quot;quick format&quot; nor &quot;enable compression&quot; as this will add extra workload overhead to flash drive slowing it down select &quot;start&quot; formatting will run this speeded up my flash drive.  </s>
+<s> later on problem came back.  </s>
+<s> i bought an inexpensive &quot;self powered 4 port usb 2.0 hub&quot; important that it be certified as able to operate usb high speed devices.  </s>
+<s> some pc internal usb ports lack sufficient power to properly operate usb high speed devices.  </s>
+<s> second problem i was finally able to spot -- connecting external usb hub to each internal usb port (one at a time) and copy data to flash drive - use stop watch on each port using identical data.  </s>
+<s> only on 1 internal usb port i got a message from windows xp that &quot;this port is not usb high speed capable&quot;.  </s>
+<s> so when i stopped using this 1 internal usb port problem was finally totally gone.  </s>
+<s> if still a problem - another solution is to use windows xp to zip (compress) folder - the data you wish to copy onto the flash drive.  </s>
+<s> i found this also greatly helps.  </s>
+<s> hope this helps readers.  </s>
+<s> remember problem with slow data writing on flash drives can also be a conflict with cdrw / dvdrw burner software or with anti virus software.  </s>
+<s> for other ideas try reading the flash drive manufacturer website.  </s>
+<s> good luck.  </s>

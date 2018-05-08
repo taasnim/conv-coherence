@@ -1,0 +1,14 @@
+<s> hello, please could anybody help me solve this problem?  </s>
+<s> here is my scenario: i have an office lan with few computers with an internet connection via a radio, in which the radio (antenna) serves as a dhcp server.  </s>
+<s> now i have incorporated a prosafe dual-band wireless vpn firewall (fwag114) to serve as an access point to some system within the network.  </s>
+<s> the wireless connection works quite well, only that i can not access my network resources through the wireless connection.  </s>
+<s> thanks in advance.  </s>
+<s> are all computers on a workgroup or a domain.  </s>
+<s> are the wireless computers given permissions to access the network resources?  </s>
+<s> before you installed the firewall, was every computer available to access the network resources?  </s>
+<s> just a few questions...  </s>
+<s> thank you very much for the response.  </s>
+<s> it is a network with a domain.  </s>
+<s> please how do i give wireless computers permission to access network resourses?  </s>
+<s> yes all computers do access the network resources.  </s>
+<s> thanks  </s>

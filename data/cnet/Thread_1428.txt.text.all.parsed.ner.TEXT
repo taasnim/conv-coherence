@@ -1,0 +1,33 @@
+<s> i upgraded my pc by installing a second hard drive(new 80g old 40g) and made it an extended partition and formatted it.  </s>
+<s> when booting up, bios recognizes the new partition and the right size and when i check by using fdisk i can see that the right letter (e) has been allocated for it and everything looks ok but windows doesnt find it at all.  </s>
+<s> i tried computer management rescan for disks but nothing happens.  </s>
+<s> does anybody have any ideas why this is happening and how to fix this.  </s>
+<s> thank you!  </s>
+<s> i forgot to say that i'm using xp pro  </s>
+<s> i would have to ask: did you check the jumper settings on the back of the second drive to make sure that it is set to be the &quot;slave&quot; ?? if the 40gig is the master, and the 80gig is not set to be the slave drive (presuming that they are on the same ribbon cable), then windows won't see the 80 gig drive.  </s>
+<s> (sometimes it is the simplest things we forget ) and of course be sure that the ribbon cable is plugged in all the way on the second drive.  </s>
+<s> yes jumper settings are ok, 80gig is set as slave and 40gig as master and they are in the same ribbon, and like i said when pc boots up(post) i can see the 40gig as master and 80 gig as slave, so it's seems to be ok, but when i check it from my computer or disk management there is no second hard drive at all.  </s>
+<s> if i check most install notes, i don't read that.  </s>
+<s> today's 80 conductor cables use the cable select jumper and the slave is determined by which connection is used. the older 40 conductor cables use a different rule.  </s>
+<s> bob  </s>
+<s> and what on the slave??? if boot is fat 32 and slave ntfs, fat32 cannot read ntfs.  </s>
+<s> the boot is fat 32 and so is the slave.  </s>
+<s> using xp would have limited you to 32 gb max for fat32 partition.  </s>
+<s> did you use fdisk or an overlay program??? just trying to get the complete detailed scenario, and as robert says, why not use cable select jumpering and the 80 conductor cable to help eliminate some stupid questions on my part.  </s>
+<s> came with the 80gb harddrive to actually set it up and format it?  </s>
+<s> if so, there is a possibility that you installed ezdrive/ezbios on it without realizing it.  </s>
+<s> ezdrive/ezbios is a boot manager and can't be put on the slave drive unless the boot drive also has it installed on it.....windows won't see the slave at all if the program is installed on only that drive.  </s>
+<s> you can check this by booting up with that boot floppy disk again, and after switching to the second harddrive (the slave one) within the program itself, see if there is an option to 'uninstall ezdrive/ezbios' and then do that.  </s>
+<s> it won't hurt the drive by removing only that program and it will still be partitioned and formatted.  </s>
+<s> some of the bootdisks didn't let you get to the uninstall feature until you actually chose 'install ezdrive/ezbios' first and then the option to uninstall would show up at the next screen.  </s>
+<s> so if you don't see 'uninstall' at any of the main menu options, go that extra step to see if it shows up.  </s>
+<s> toni  </s>
+<s> i tried cable select with the same result.  </s>
+<s> when i boot post tells me that i have 40gig master and 80gig slave.  </s>
+<s> but windows can only find only one hard drive, 40gig disk with my c and d drives.  </s>
+<s> the new 80gig hard drive didn't come with a floppy,was it sopposed to have one?  </s>
+<s> the latest fdisk?? the one that supports that size drive??? if you did, when you formatted it did it say that it was formatting the correct amount??? my experience with the new fdisk is that when formatting, it shows the incorrect amount on the format screen, it shows the incorrect numbers and off by one decimal place number of digits, although when done, it has properly formatted the drive.  </s>
+<s> seems that ms didn't update format after coming out with the new fdisk.  </s>
+<s> i have no idea if, not using the latest fdisk could cause your problem.  </s>
+<s> simply downloading the latest fdisk, does not place it on a newly created bootdisk.  </s>
+<s> that must be done manually.  </s>

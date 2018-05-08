@@ -1,0 +1,40 @@
+<s> hi all, my boys are interested in getting xbox live (internet gaming like halo) access.  </s>
+<s> does anyone have any experience with netgear's wge111 gaming adapter?  </s>
+<s> its configured for 802.11g at up to 54 mps.  </s>
+<s> i am looking at this one because of our current network setup.  </s>
+<s> dell computers (one withxp home and the other with xp media for os) comcast broadband netgear wireless router, wpn 824 (802.11g/mimo).  </s>
+<s> main computer is hardwired to the network while the other has wpn111 usb wireless compatible to wpn824.  </s>
+<s> currently network is configured with wpa encryption. the wireless computer is often used to play wow and will compete with other computer and xbox for bandwidth.  </s>
+<s> my concerns are: compatability of gaming adapter.  </s>
+<s> (i expect staying with netgear should cover that even though the adapter is strictly 802.11g - yes?) bandwidth sufficiency.  </s>
+<s> netgear works well with xbox?  </s>
+<s> any comments would be appreciated.  </s>
+<s> thanks, jim  </s>
+<s> i assume this is first generation xbox you're talking about.  </s>
+<s> that particular adapter is not listed as compatible with the xbox, however, any ethernet bridge will &quot;work&quot;.  </s>
+<s> by work i mean it will connect you to the live service.  </s>
+<s> however, depending on range and environmental factors, you may notice some lag.  </s>
+<s> there are adapters that are specifically adjusted to reduce lag time on the service.  </s>
+<s> i can tell you from experience that people who lag on live are picked off and hated for &quot;teleporting&quot;. the best solution is, of course to run the system wired, but if that is not possible make sure you get an adapter that is live compatible.  </s>
+<s> with an mimo router, bandwidth and sharing with the other wireless computer shouldn't be an issue.  </s>
+<s> hope that helps.  </s>
+<s> i hate the thought of wired (another network outlet to put in and wire) although it does have the advantage of avoiding interference.  </s>
+<s> boys do get lag playing wow now but that may because they have too many programs running simultaneously on their pc. today i get to clean their startup menu to see if that helps.  </s>
+<s> thanks again.  </s>
+<s> jim  </s>
+<s> it sounds like you have a relatively nice setup already, but as far as routers go, there are routers that are designed for gaming as well, d-link makes one of them and linksys another, and they are supposed to improve online gameplay by reducing lag time.  </s>
+<s> most computers should be able to handle wow without too much trouble with anotehr program running in the background as long as you have good quality memory and a good quality graphics/sound card. the bottleneck may either be your service (cable slows down with increased traffic in the area) or your router.  </s>
+<s> going on with my sons' computer that may cause some lag.  </s>
+<s> today i cut down on the startup programs through msconfig.  </s>
+<s> i'll see how that works and cut more if it helps.  </s>
+<s> they won't like it but the parental controls (macafee) stays on.  </s>
+<s> i don't think the lag should be the router/wireless usb as they are capable of 108 mbps which is almost twenty times the broadband connection rate (6 mbps) which should cover the bandwidth consumption between multiple computers in-house, encryption, etc. computer memory may make some difference as their computer has 784 mb of ram along with a geforce 5500 with 256 mb onboard.  </s>
+<s> cpu is 1.4 ghz which should be fine for wow.  </s>
+<s> i'll see how the startup config works before looking at more memory.  </s>
+<s> by the way, i decided to go hardwire on the xbox setup.  </s>
+<s> for about $10 bucks i picked up two cat5e female connectors, cable, wall outlet boxes and faceplates.  </s>
+<s> i am simply going to wire from the office through the wall to the game room and connect via cable.  </s>
+<s> already have the junction cable put together and tested.  </s>
+<s> tomorrow i'll install the outlets in the wall for the cable hookup.  </s>
+<s> thanks for your help.  </s>
+<s> jim  </s>

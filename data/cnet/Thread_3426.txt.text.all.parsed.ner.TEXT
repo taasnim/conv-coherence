@@ -1,0 +1,15 @@
+<s> hi, im a freshman in college, in a dorm with wireless downstairs and on the other half of the dorm on my floor(4th)and lan in the rooms, its a cat5 cable, anyway, the question is &quot;can i set up mine and my roomates laptops so that when one of us is connected to the lan via the cat5 the other can access the internet through the others computer?&quot;  </s>
+<s> someone mentioned an ad hoc network to me but i am not sure how to do that or if it would work, also is there a way to make the signal come in stronger without messing with the box downstairs?  </s>
+<s> oh yeah, were not supposed to have routers, thanks  </s>
+<s> oh yeah, both are close to brand new and im running xp pro and hes running xp home, thanks  </s>
+<s> as long as the college network is supplying ip addesses then all you would need to do is to add an access point to the cat-5 jack in your dorm room.  </s>
+<s> name your wireless network what you want through the configuration of the access point and you are good to go.  </s>
+<s> this is making the assumption that both laptops have 802.11b or g built in, or you have wireless network adapters for each.  </s>
+<s> hope that helps.  </s>
+<s> scott  </s>
+<s> thanks but im not allowed to have that either, any other ideas?  </s>
+<s> kind of trying to find a loophole here, lol...thanks  </s>
+<s> &quot;can i set up mine and my roomates laptops so that when one of us is connected to the lan via the cat5 the other can access the internet through the others computer?&quot; it would appear from your description that there is only one ethernet jack in each room and thus only one can connect at a time.  </s>
+<s> if this is the case i might try adding a multiport switch to the rooms sole jack.  </s>
+<s> both may be able to access at the same time.  </s>
+<s> no, theres two of them, just trying to have wireless in the room without a router...thanks though  </s>

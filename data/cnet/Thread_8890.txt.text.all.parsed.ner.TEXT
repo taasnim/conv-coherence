@@ -1,0 +1,19 @@
+<s> i've been tasked with giving users in our main office the ability to print to our other buildings.  </s>
+<s> right now the external offices connect via citrix to access our database and files, but i'm assuming i want to leave citrix out of this. the external offices already have a static ip address for the cable internet connection and the printer is connected to the router in that external office.  </s>
+<s> i'm having a difficult time finding solutions online.  </s>
+<s> what do i need?  </s>
+<s> print servers at the external locations?  </s>
+<s> some sort of vpn voodoo?  </s>
+<s> any assistance would be greatly appreciated.  </s>
+<s> this is an all windows environment, all workstations are xp and the servers at the main office are windows server 2000 (for citrix) and server 2003 for everything else.  </s>
+<s> it seemed like magic to some but we had no interest in putting a printer on a print server or &quot;share&quot; or other solution because the printer drivers would kill our support staff and budget.  </s>
+<s> here's how we solved it.  </s>
+<s> we created a network share and if you put a .pdf  </s>
+<s> file there it gets printed then deleted from that directory.  </s>
+<s> this is not an offer to write in detail about the batch file that runs this print job but to share we knew the pitfalls of attempting a printer share.  </s>
+<s> bob  </s>
+<s> what i did to enable this was installed the printer at each external office as a network printer (via ethernet cable to the router).  </s>
+<s> then i went into the router settings and set up port forwarding for port 9100 to go to the printer's ip address.  </s>
+<s> from my main office i used the add printer wizard, selected local printer, created a tcp/ip port, and put in the static ip address for the external office.  </s>
+<s> i had to have the drivers at the main office to install them easily.  </s>
+<s> this works fine now.  </s>

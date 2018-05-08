@@ -1,0 +1,47 @@
+<s> i have a scan disk cruzer flash drive, and sometimes i can save to it and sometimes not.  </s>
+<s> sometimes i can move from my hard drive to it and sometimes not.  </s>
+<s> i generally get the message that the directory of file cannot be created.  </s>
+<s> i've got room on the disk, any idea what's up?  </s>
+<s> thanks.  </s>
+<s> the host machine may be ntfs which allows some name that isn't allowed on the sandisk drive.  </s>
+<s> too bad you didn't share the gritty detail of the names.  </s>
+<s> it's also possible to overflow the root directory of a filesystem.  </s>
+<s> how many files and directories are in the root?  </s>
+<s> bob  </s>
+<s> i must confess my ignorance, i have really no idea what you're talking about or asking.  </s>
+<s> one name for a word document was &quot;discussion questions for films&quot; another was &quot;movie ministry.the  </s>
+<s> incredibles.&quot;  </s>
+<s> do this help?  </s>
+<s> try old short 8.3 names such as discussion questions for films becomes discfilm.doc  </s>
+<s> (if it's a document.) and &quot;movie ministry.the  </s>
+<s> incredibles.&quot;  </s>
+<s> movieinc.doc  </s>
+<s> bob  </s>
+<s> hi jeff, just wondering if you got an answer to this question.  </s>
+<s> i seem to be having the same problem.  </s>
+<s> i have data stored on a scandisk cruzer mini 256mb, i can see it there and it will not let me transfer it to a file.  </s>
+<s> ugh!  </s>
+<s> i haven't had that problem, thank god. i moved some things off it, and it seems to be working fine.  </s>
+<s> maybe it was fuller than it indicated.  </s>
+<s> i have had that problem w/cd roms, however.  </s>
+<s> never been able to solve it.  </s>
+<s> i have the same problem.  </s>
+<s> unfortunatly, cruzer scan disk offers absolutely no support.  </s>
+<s> did you ever get an answer to correcting the 'file cannot be created' ?  </s>
+<s> jeff, were you ever able to resolve the &quot; cannot create file&quot; issue.  </s>
+<s> i have the same situation, and unfortunately cruzer scan disk offers no, none, completely void, help.  </s>
+<s> if they have a tech site, i'll be damned if i can access it.  </s>
+<s> did you read what i did?  </s>
+<s> i wonder if it's the same issue i noted.  </s>
+<s> i have no idea what you did.  </s>
+<s> my flash disk is 1 gb, ~~ properties show 650 mb used, 350 mb free.  </s>
+<s> in attempting to add any file, i recieve the error &quot; the directory or file cannot be created&quot; i have win xp. obviously i was able to.  </s>
+<s> initally write on the disk and can read the existing files i created on it.  </s>
+<s> could i have accidently changed the file sysyem ?  </s>
+<s> file system properties shows my &quot;c&quot; drive ntfs but the &quot;f&quot; drive (flash disk) is fat.  </s>
+<s> in this discussion i noted how to create the issue.  </s>
+<s> hope that helps.  </s>
+<s> bob  </s>
+<s> proffit mentionned it in passing in one of his other replies, but for some reason there is a limit to the no/size of files you can have in the root folder.  </s>
+<s> create a new folder (if necessary delete a file to allow you to do this), then use this folder for you extra files.  </s>
+<s> chrs nik  </s>

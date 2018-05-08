@@ -1,0 +1,7 @@
+(TOP (S (SBAR (IN while) (S (NP (PRP i)) (VP (AUX 've) (VP (VBN seen) (NP (NP (DT some) (NN progress)) (PP (IN in) (NP (CD 64) (NN bit) (NN land)))))))) (, ,) (NP (PRP it)) (VP (AUX 's) (VP (AUX been) (ADJP (RB quite) (JJ slow)))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (VP (VBZ thats) (NP (JJ great) (NN news))) (. .)) )
+(TOP (S (VP (VBG leaving) (NP (PRP us)) (NP (NP (CD 32) (NNS bitters)) (PP (IN in) (NP (DT the) (NN dust))))) (. ?)) )
+(TOP (S (SBAR (IN since) (S (NP (NP (NN lcd)) (PRN (-LRB- -LRB-) (NP (JJS lowest) (JJ common) (NN denominator)) (-RRB- -RRB-))) (VP (VBZ runs) (NP (DT the) (NN marketplace))))) (NP (PRP i)) (VP (AUX do) (RB n't) (VP (VB expect) (S (NP (CD 32) (NN bit) (NNS systems)) (VP (TO to) (VP (VP (VB vanish)) (CC or) (ADVP (RB even)) (VP (AUX be) (VP (VBN slighted) (PP (IN for) (NP (NNS years)))))))))) (. .)) )
+(TOP (SQ (AUX is) (NP (NP (JJ direct) (SYM x) (CD 10)) (CC and) (NP (JJ dual) (NN core) (CC and) (NNS windows))) (NP (NP (NN vista)) (CC and) (NP (PDT all) (DT those) (JJ new) (JJ video) (NNS cards))) (. ?)) )
+(TOP (SQ (AUX are) (NP (PRP they) (DT all)) (VP (VBG going) (NP (CD 64) (NN bit))) (. ?)) )

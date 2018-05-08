@@ -1,0 +1,24 @@
+<s> i have added a external usb hdd to one of the computers on a three computer network.  </s>
+<s> how do i add it to the work group?  </s>
+<s> wxp sp2  </s>
+<s> and you can use it across your network.  </s>
+<s> and when you power down the pc it's connected to it's not shared any more.  </s>
+<s> and if you power it off it's not shared any more.  </s>
+<s> it won't stay shared unless it's an internal drive.  </s>
+<s> don't ask me how i know.  </s>
+<s> wayne (ibm freak - 6) click here to see the cnet faces, learn a little about analog and digital data, internet connections, spyware removal, and download free software (and a great chocolate-cherry cobbler recipe).  </s>
+<s> my mini-schnauzer is smarter than your honor student.  </s>
+<s> no matter how many time my pc has been off or restarted.  </s>
+<s> i believe it might be because the drive is seen in the bios by it's model # and maybe more.  </s>
+<s> windows device manager doesn't see it as a generic but displays its full model #. i can disconnect it and take it to another pc. as long as i plug it back into the same usb port, everyone is happy and it remains shared.  </s>
+<s> maybe because it is a sata drive.  </s>
+<s> so i just got me a longer sata cable and extended the power.  </s>
+<s> it sits on my computer.  </s>
+<s> slightly modded.  </s>
+<s> fast flash, the fan is spinning.  </s>
+<s> i'm not sure why you can't get it to work with usb.  </s>
+<s> my external is also sata on the inside and works fine.  </s>
+<s> my asus mb is 5 years old now so it's old by some standards.  </s>
+<s> i can even see the external's drive letters when booting from dos disks.  </s>
+<s> it would seem if you could do that you could get the hds fully id'd.  </s>
+<s> perhaps the external enclosure's interface is the problem.  </s>

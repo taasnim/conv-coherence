@@ -1,0 +1,7 @@
+(TOP (SQ (SQ (AUX is) (NP (NP (DT the) (JJ asus) (JJ transformer) (JJ prime) (NN shipping)) (PP (IN with) (NP (NNS ics)))) (ADJP (JJ pre-installed))) (CC or) (SQ (AUX do) (NP (PRP you)) (ADVP (RB still)) (VP (AUX have) (S (VP (TO to) (VP (VB upgrade) (SBAR (IN if) (S (NP (PRP i)) (VP (VP (VBD went) (PRT (RP out))) (CC and) (VP (VBD bought) (NP (PRP it)) (NP (date (NN today)))))))))))) (. .)) )
+(TOP (NP (NNS thanks)) )
+(TOP (S (SBAR (IN if) (S (NP (DT the) (NN seller) (CC or) (NN asus)) (VP (MD will) (RB not) (VP (VB answer) (NP (DT a) (JJ pre-sales) (NN question)))))) (NP (PRP you)) (VP (MD should) (RB not) (VP (VB buy) (PP (IN from) (NP (PRP them))))) (. .)) )
+(TOP (S (NP (DT this)) (VP (VP (AUX is) (ADVP (RB never)) (NP (DT an) (JJ acceptable) (NN behavior))) (CC and) (VP (VBZ means) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (AUX need) (NP (NN support))))) (, ,) (NP (PRP it)) (VP (AUX 's) (ADVP (RB probably)) (VP (VBG going) (S (VP (TO to) (VP (AUX be) (ADJP (JJ non-existent))))))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (PRP i)) (VP (VBD bought) (NP (PRP it)) (PP (IN at) (NP (JJS best) (NN buy)))) (. .)) )
+(TOP (S (NP (NNPS ics)) (VP (VBD downloaded) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS days)))) (ADVP (RB later))) (. .)) )

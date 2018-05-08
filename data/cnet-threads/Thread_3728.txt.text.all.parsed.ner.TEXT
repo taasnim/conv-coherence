@@ -1,0 +1,11 @@
+<s> when i turn on my pc, i get a black screen with the following message: systems' battery voltage is low press f1 to continue, press f2 to enter the setup menu what am i best to do??  </s>
+<s> by pc, i will assume that you mean desktop pc. the only battery that i'm aware of on a pc is the cmos battery on the motherboard.  </s>
+<s> it's the shiny round object,about the size of a quarter, usually held in by some type of spring, on the motherboard.  </s>
+<s> carefully remove the old battery, being careful not to bend or damage the spring or clip.  </s>
+<s> take it to your nearest computer store, (best buy, circuit city, or other) to get a replacement.  </s>
+<s> do replace the bios battery.  </s>
+<s> before doing so, enter the bios area and make notes of what the setting are.  </s>
+<s> check your manual or upon boot-up if displayed what the &quot;bios key sequence&quot; is required to enter the bios area.  </s>
+<s> understand, once you replace the battery in all likeyhood, the bios will reset to default values, thus the reason note down what the previous values were.  </s>
+<s> it should make sense once you delve into this.  </s>
+<s> good luck -----willy  </s>

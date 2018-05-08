@@ -1,0 +1,27 @@
+<s> turned on my dual 2.0 yesterday morning and it went bang! all initial thoughts pointed to the power supply, so i opened the case to see if i could see any evidence of component failure.  </s>
+<s> i've removed the power supply and nothing seems dead (looks and smell) but i saw this next to the combined fan/speaker arrangement.  </s>
+<s> &lt;img src=&quot; &gt; so the questions are: 1) what are these cables for, and should they be connected?  </s>
+<s> 2) if this cable disconnected itself and shorted with the case, would it damage the power supply or the logic board... or both.  </s>
+<s> i'm happy to replace the power supply, but i don't know if it is the power supply that's dead, or the logic board!  </s>
+<s> i'm having to do this myself as i can't afford to have it done professionally.  </s>
+<s> (i've built pcs for years, but not macs) any help you can offer would really help..... please?  </s>
+<s> looks like the airport extreme antenna (aerial) but the other is so blurred it could be anything.  </s>
+<s> i'll have a look in the tech manual this evening, another 12 hours, and see it i can locate it and its purpose.  </s>
+<s> logic boards do not usually go &quot;bang&quot; when they fail.  </s>
+<s> p  </s>
+<s> open it up and inspect the caps for bulges, leaks and such.  </s>
+<s> even apple was replacing these boards far out of warranty if you call it in.  </s>
+<s> hint: if you find this, ask.  </s>
+<s> don't assume they won't make good on this issue.  </s>
+<s> bob  </s>
+<s> are both antenna for the airport/bluetooth combo card.  </s>
+<s> your shot was from a different angle than the one in the tech manual but i am confident that this is what they are.  </s>
+<s> however, if you have wireless/bluetooth installed on that machine, feel free to disagree bob's theory on the capacitors is worth checking p  </s>
+<s> this is a really old posting, but not a single person referred to the issue of the g5 dual problems.  </s>
+<s> in a nutshell, do a search for &quot;g5 dual liquid-cooled leak&quot; or similar.  </s>
+<s> you will learn that almost all of the g5 dual models produced suffered liquid-cooled leaks.  </s>
+<s> this leak of a radiator-type fluid (toxic) would, in turn, fry the mother board.  </s>
+<s> leading up to this would be inexplicable behavior including what seemed like software issues, locking up and, you guessed it, screaming fans.  </s>
+<s> there are a total of 6 fans in these models, so when the motherboard was glitching and running them all, it does sound like a jet!  </s>
+<s> anyone experiencing this issue (even now...2010) should contact apple support and immediately ask for a supervisor.  </s>
+<s> this was a massive problem involving a multitude of macs; one which apple successfully &quot;handled&quot; on a case-by-case basis, thereby avoiding a massive recall.  </s>

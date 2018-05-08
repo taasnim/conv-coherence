@@ -1,0 +1,40 @@
+<s> hello, firstly, i'd like to say that i'm a complete dummy in networking.  </s>
+<s> i am connecting to the internet via my laptop: laptop is connected to(through wifi) tlink sinus 154 dsl sinus 154dsl is connected to (through ethernet cable) to air live wireless ap air live is connected to my internet provider's ap, to which i do not have access, through wifi.  </s>
+<s> i want to connect to the interface of the sinus 154 dsl, but i do not know its ip address (default ip was possibly changed by the guy who installed everything).  </s>
+<s> is there any way to find the ip? i tried the default gateway, but it doesn't work.  </s>
+<s> ip: 192.168.1.72 dhcp is turned off mask: 255.255.255.0 gateway: 192.168.3.2 dns: 194.204.159.1 any ideas?  </s>
+<s> not sure how this works at all. the gateway must be on the same subnet as your machine.  </s>
+<s> since you are using a 255.255.255.0 mask your machine can only see stuff on the 192.168.1.x network.  </s>
+<s> the 192.168.3.x network is not reachable and since this is your gateway i cannot see how this works.  </s>
+<s> typo in your post ?  </s>
+<s> as long as you are sure that this device is doing the routing for your network you should be able to get to via the gateway.  </s>
+<s> depending on the type of ap you have it too may be running a router which makes it a pain.  </s>
+<s> if it is running only as a ap in bridge mode then your gateway will still be the dsl box and not the ap. if you have routing enabled then the gateway may be the ap. even if it was running in routed mode you still should be able to get to the dsl you would just have to look in the ap and see what its gateway was.  </s>
+<s> running a router behind a router is not a recommended configuration for a home connection.  </s>
+<s> it's not a typo, i know that it's weird, but my gateway is 192.168.3.2 and mask 255.255.255.0 and everthing works well  </s>
+<s> but it is possible some expert added a route.  </s>
+<s> to figure that out i open a command prompt and use the route -p command (you correct me if i got the command wrong.) i read your post and while interesting the fact it is a truly oddball setup means that only time and failures will correct this.  </s>
+<s> that is, when you tire of the troubles or not being able to expand or do this or that will you correct the setup.  </s>
+<s> bob  </s>
+<s> i suspect i know why it works but i didn't know home routers supported proxy arp.  </s>
+<s> this feature is on commercial routers but security practice recommends you disable it.  </s>
+<s> so unlike most devices a pc will let you put a gateway that is inconstant with the network and subnet mask.  </s>
+<s> i change mine to see why this works.  </s>
+<s> so the first thing the pc does is send out a arp request for the gateway.  </s>
+<s> normally nothing on a subnet should respond since that ip cannot exist on the subnet.  </s>
+<s> what proxy arp does is if the router know how to get to that address it will respond to the arp with his mac address.  </s>
+<s> it will in effect pretend it is that ip. when you have a default route in the router you can in effect us any address you want for the gateway and the router will say ... thats me .... for any arp. the issue with proxy arp is that if multiple devices on the same segment all run proxy arp they will all respond and you get random results as to which the requesting machine will take.  </s>
+<s> this is one of the methods to do a man in the middle attack.  </s>
+<s> so back to your question.  </s>
+<s> if you issue arp -a from the command line you will see the ip and mac address of your gateway.  </s>
+<s> this is a router, hopefully the one you are looking for.  </s>
+<s> if you can check the mac on the physical device to see if it is your router.  </s>
+<s> now your issue is to find the other ip that has the same mac.  </s>
+<s> if you are lucky it is already in your arp -a. if not ping addresses you suspect are the correct ip (must be in your subnet) and do the arp -a until you find one that matches the gateway.  </s>
+<s> pretty much brute force but only 253 to try.  </s>
+<s> this should be your device assuming you are not running a router behind a router.  </s>
+<s> hi, first, i pinged all ips in my subnet using angry ip scanner, then i did arp -a but i can't see the router's mac address nowhere.  </s>
+<s> even tried all ips from 192.168.1.0 to 192.168.1.255, nothing.. is it possible that my router's ip is on another subnet??  </s>
+<s> the guru that did this added a route.  </s>
+<s> from memory we open a command prompt and type route print if it looks odd, post it here and see if anyone can dissect/explain it.  </s>
+<s> bob  </s>

@@ -1,0 +1,17 @@
+<s> help me !!! one of my pc has 80 gb hd (at 7200 rpm/ udma5, and it's runing good.  </s>
+<s> enters, another hd!!! list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads recently i connected an old hard disk, it's atleast 5 or 6 years old... quantum fireball 20 gb (udma 2) right now, i have my primary hd in ide 1 (master... where win xp is installed) and... in 2nd ide cable... i have made ''20 gb hd'' master and my dvd player slave. is there any better way... to connect, these two hd...without slowing my pc down ?  </s>
+<s> i do... see a bit of lagging... while loading the winxp.  </s>
+<s> help !!! gsoul2soul  </s>
+<s> 80gb hard drive = udma5 = ata/100 = 100mb/second 20gb hard drive = udma2 = ata/33 = 33mb/second other speed factors: - amound of disk cache (512k vs 8mb, larger is better) - rotation speed (4500rpm vs 7200rpm, faster/higher is better) you want the os to be on the fastest hard drive (80gb), on the lowest ide channel (usually labeled channel 0), and as a master.  </s>
+<s> use an 80 wire (40 pin) ultra ata cable that is rated for ata/100 or ata/133.  </s>
+<s> i'd put the 20gb hd as a slave on whatever channel it likes.  </s>
+<s> some older hd's and optical drives don't cooperate in certain positions on the same channel as other drives.  </s>
+<s> that q fireball is pretty loud in comparison, isn't it?  </s>
+<s> i still have a few of those around.  </s>
+<s> ...look in device manager to see if each ide channel is in dma mode and not the slower pio mode.  </s>
+<s> he he he... yes!!! it can be a lillllll loud... ha ha ha  </s>

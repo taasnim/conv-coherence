@@ -1,0 +1,26 @@
+<s> okay, i have an issue and am not sure how to resolve the problem.  </s>
+<s> let's start off with a scenario.  </s>
+<s> let's say i boot the computer with a dvd in the &quot;e-drive&quot; and open the 'my computer'.  </s>
+<s> it will tell me what is in the drive.  </s>
+<s> when i eject the dvd from &quot;e:drive&quot; and replace it with a cd the 'my computer' will not update the cd-drive.  </s>
+<s> the cd will also not do the auto-play (as do most cds that have an auto launch procedure). the cd-drive under 'my computer' will still show what was in the drive when the system was booted.  </s>
+<s> even if i refresh the window it does nothing.  </s>
+<s> if i double click on the icon it will still act like it's a dvd and launch a dvd player instead of a music program or the application.  </s>
+<s> so far the only way to view the contents of the cd is to right click and explore.  </s>
+<s> this is currently occurring to both my cd-drives so i'm sure it may not be an issue with them but something else.  </s>
+<s> all the drivers are current and still cannot find the cause of the problem.  </s>
+<s> what could be causing this issue?  </s>
+<s> i am running windows xp if that matters to anybody.  </s>
+<s> any help could be greatly appreciated.  </s>
+<s> if you need more info please ask.  </s>
+<s> -mike  </s>
+<s> autoinsert notification can be turned off as well as the owner relying on microsoft for motherboard and other drivers.  </s>
+<s> known workaround.  </s>
+<s> tap the f5 key to refresh the drive listing.  </s>
+<s> run the programs manually.  </s>
+<s> some fixes.  </s>
+<s> as well as updating your motherboard and other drivers.  </s>
+<s> known items that thwart repair.  </s>
+<s> virtual cd or dvd emulators, some trojans, rootkits and other viral damage.  </s>
+<s> bob  </s>
+<s> first off..its best to say when i reach my desktop..not so much that i bootup and this or that.. .. since you are useing a dvd-rom..you need to know the media types going in that tray..cds don't matter..but i use a toshiba(dash)drive that if i place a dvd(plus)disk in will corrupt my os..and i have a second dvd-drive that both(+ -)so all problems are eliminated.. .. then it seems you said that you shut-down with a disk in the tray..and then performed your start-up w/the disk still in the tray..this can cause a problem or not..never shut down with removable media in their devices(especially)the floppy drive.. .. also..are you running a scheduled scan..and you have forgotten..so your attempting to run two programs at once..and that could be your problem.. .. i also archive my files/folders..this keeps my system drive ready to run with little power management problems..i usually start with a empty pc..for each project..useing external hdds.. .. if none of the above is any help i would suggest you re-install and take a fresh look at your pc.  </s>

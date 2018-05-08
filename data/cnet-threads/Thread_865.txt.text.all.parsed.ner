@@ -1,0 +1,8 @@
+(TOP (S (SBAR (RB everytime) (S (NP (PRP i)) (VP (VP (VB start) (S (VP (VBG downloading) (NP (NN something)) (PP (IN from) (NP (DT the) (NN internet)))))) (, ,) (CC or) (VP (VB start) (S (VP (VBG playing) (NP (DT a) (NN video) (NN game)))))))) (, ,) (NP (PRP$ my) (NN computer)) (VP (MD would) (VP (VB lose) (NP (PRP$ its) (NNP wireless) (NN connection)))) (. .)) )
+(TOP (S (S (ADVP (RB sometimes)) (NP (PRP it)) (VP (MD would) (ADVP (RB even)) (VP (VB go) (PP (TO to) (NP (DT a) (JJ black) (NN screen)))))) (CC and) (S (NP (PRP$ my) (NN monitor)) (VP (MD would) (VP (VB lose) (NP (NP (PRP$ its) (NN connection)) (PP (IN with) (NP (PRP$ my) (NN computer))))))) (. .)) )
+(TOP (SQ (MD can) (NP (NN anyone)) (VP (VB help) (NP (PRP me))) (. ?)) )
+(TOP (S (NP (NP (JJR more)) (PP (IN of) (NP (DT a) (NN hardware) (NN problem)))) (VP (VBP and/or) (NP (NP (NN software) (NN corruption)) (PRN (-LRB- -LRB-) (NP (NNP ala) (NN spyware/virus)) (-RRB- -RRB-)) (, ,) (RB then) (NP (DT a) (VBG networking) (NN issue)))) (. .)) )
+(TOP (S (VP (VB check) (PP (IN for) (NP (NP (NNS bugs)) (CC and) (NP (DT a) (ADJP (VBN stressed) (PRT (RP out))) (PRN (-LRB- -LRB-) (VP (VBN overheated)) (-RRB- -RRB-)) (NNS cpu))))) (. .)) )
+(TOP (FRAG (NP (NNS thanks)) (. !) (VP (VBZ thats) (ADVP (RB probably)) (NP (PRP it))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VBD forgot) (SBAR (IN that) (S (NP (PRP i)) (VP (VBD took) (PRT (RP out)) (NP (DT a) (NN fan)) (ADVP (RB earlier)))))) (. .)) )
+(TOP (S (NP (PRP$ its) (RB probably) (RB just)) (ADJP (RB too) (JJ hot)) (. .)) )

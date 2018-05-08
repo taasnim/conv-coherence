@@ -1,0 +1,16 @@
+<s> my pc had one dvd burner already installed in it.  </s>
+<s> i installed a 52x cd drive for games and music.  </s>
+<s> after doing so, my dvd drive no longer shows up under my computer.  </s>
+<s> the new cd drive is there, but no dvd drive?? what happened?  </s>
+<s> what steps do i need to take to fix this?  </s>
+<s> thank you.  </s>
+<s> such as the type of ide cable used (there are 80 and 40 conductor types) and what jumper setting you used on each drive as well as what drive with what jumper setting is on which connector.  </s>
+<s> bob  </s>
+<s> thanks rob, your question helped me figure out the problem.  </s>
+<s> i didn't know about jumper settings.  </s>
+<s> i read your question, did some research, checked the jumper settings, and seen that the dvd burner (original drive) was set to cable select.  </s>
+<s> and the new cdrom drive was set to master.  </s>
+<s> i changed the cdrom to cable select and that fixed it.  </s>
+<s> thanks for your reply!  </s>
+<s> we hope these are as easy as changing a lightbulb.  </s>
+<s> bob  </s>

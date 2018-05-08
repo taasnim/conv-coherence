@@ -1,0 +1,21 @@
+<s> i have this ibm laptop product: thinkpad t40 2373-94u [change] operating system: windows xp [change] original description: p m 1.6ghz, 512mb ram, 80gb 4200rpm hdd, 14.1 sxga+(1400x1050) tft lcd, 32mb ati radeon 9000, 16x10x24x/8x cd-rw/dvd(slim), bluetooth/modem(cdc), 1gb ethernet(lom), intel 802.11b wireless(mpci), secure chip(tcpa), ultranav, 9 cell battery, winxp pro i have a connection problem.it  </s>
+<s> keeps freezing and sometimes i have to restart the pc or disable the connection and enbale to work again and then after 4 or 5 minutes the connection does not work even tough,it says im connected and it shows my ip,subnet mask and the default gateway,i have recoved my pc and it does not solve the problem.i  </s>
+<s> disable firewall and it does not solve.i even took it to a technision and he could not solve it..can someone please tell me if he or she had the same problem or what should i do.i even called my service provider and everything shows that my ibm has a problem,what is it?  </s>
+<s> i really dont know help me please  </s>
+<s> you find others with such machines and the recurring advice is... 1. get it cleaned. the p4 while an &quot;m&quot; cpu is still one hot cpu.  </s>
+<s> i can't count how many i've refreshed the heatsink compound and cleaned the heatsink fins, fans, vents and such to get the heat down and out.  </s>
+<s> 2. no spyware!  </s>
+<s> and no p2p.  </s>
+<s> these are common issues and i want to share the sixpack such as we used in prior discussions like 3. no internet &quot;accelerators&quot; or memory &quot;optimizers&quot; as well.  </s>
+<s> 4. still not working after items 1 to 3? linux!  </s>
+<s> no you don't have to run it from the hard disk but there are livecd's that boot from cd and you don't have to install it.  </s>
+<s> this is my secret weapon to sniff out if it's the os or the hardware.  </s>
+<s> bob  </s>
+<s> the lan and wlan separately to see if one is flakier than the other.  </s>
+<s> you may have bad networking hardware in the laptop.  </s>
+<s> how would i disable that lan or wan connection can u please walk me trough the steps... can you please tell me what cleaner i need to use i called ibm and he said it could be a problem with tha mother board and i need to change it and he is asking for 600 dollor...he must be crazy i told him...can you please send me links or direct on how to do those steps and thank you for your help  </s>
+<s> user manual should have enough software instructions but since it's usually consulted only when all else fails right-click my network places, properties double-click local area connection or wireless network connection click disable you also may be able to shut them off in bios; check bios to see.  </s>
+<s> if lan or wlan hw is bad, instead of repairing, buy a pcmcia network adapter to save $$$.  </s>
+<s> i already disable the wireless that s how im getting connection so what should i do now  </s>
+<s> i too have a ibm t40 , i too have some problems, when i first have it,but i went found out there is a ibm rescue & recover disks i can buy , which it erase and reformat the whole hard drive, the ibm bios and all,no more spyware or virus unexplain problems,great product, after i've install the disks, then went on ibm web site down load all the latest bios and driver and programs updates, everything run smooth like silk.  </s>
+<s> let me know if you want to give a try, i can get one for you cheap,(i am not a sales man or in it for $ ) so good luck if you have your problems fix.  </s>

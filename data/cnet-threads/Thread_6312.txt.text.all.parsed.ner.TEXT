@@ -1,0 +1,87 @@
+<s> i have 2 dell computers running windows xp pro connected through a wired dell router(cat 5 cable).  </s>
+<s> when i connected my new dsl modem to the router and ran the software.  </s>
+<s> my network doesn't work and i can't have both computers on or an ip conflict occurs and nothing works.  </s>
+<s> i can get either comp.  </s>
+<s> to work by itself when i mess with it.  </s>
+<s> any help would be great.  </s>
+<s> thanks dsl mess  </s>
+<s> model please.  </s>
+<s> one owner learned it was a hub and not a router.  </s>
+<s> bob  </s>
+<s> dell power connect 2216  </s>
+<s> type ipconfig /all this will display your ip address and the router ip address.  </s>
+<s> it will also tell you if you are using dhcp or static addressing.  </s>
+<s> every device on your on your network needs a unique ip address.  </s>
+<s> typically the router has ip address 192.168.x.1.  </s>
+<s> x = 0-255 the router then gives out ip addresses in that network using dhcp on the lan side of the router.  </s>
+<s> if the router is rebooted it will forget all addresses that it has assigned already.  </s>
+<s> reboot your router then reboot all of your computers.  </s>
+<s> or if you feel comfortable with dos.... type ipconfig /renew on all of your computers instead of rebooting.  </s>
+<s> this is assuming you do not have static ip addresses configured on the computers.  </s>
+<s> skrall  </s>
+<s> it is a dhcp address.  </s>
+<s> i have both comp.  </s>
+<s> set for automatic ip address.  </s>
+<s> after reboot of everything it is the same.  </s>
+<s> i have to disable the connection of 1 system so the other works.  </s>
+<s> sorry man but i have to laugh.  </s>
+<s> you only have 3 devices, 2 computers and a router.  </s>
+<s> 2 of the 3 must have the same ip address.  </s>
+<s> it is just that simple.  </s>
+<s> option 1 set the router to a.b.c.1 pc1 = a.b.c.2 pc2 = a.b.c.3 or go to each pc, do &quot;ipconfig /all&quot; and save that info. then go to the router &quot;status&quot; page and copy down all of the router info for wan and lan interfaces.  </s>
+<s> include subnet mask, default gateway, and dns address info.  </s>
+<s> take all of that info and paste it into this post.  </s>
+<s> you post the dhcp address pool info too (start address and end address)  </s>
+<s> powerconnect 2216 16 port fast ethernet switch great for file, application and printer sharing on small networks.  </s>
+<s> 16 10/100/1000 base-t ports based on the above description, this is not a router! it is a 16 port switch normally used in small business applications.  </s>
+<s> if you have your dsl modem attach to this device, then only one computer (unless you purchased more than 1 ip address with your dsl service) would be allowed.  </s>
+<s> most dsl/cable providers allow only 1 device connected at a time unless you pay additional fees (3 - 10 dollars per ip).  </s>
+<s> unless of course you get a true router i.e. linksys, netgear, etc. you would then take the dsl to router to switch.  </s>
+<s> this would allow you to connect many devices ( as you have open ports for) to use the same connection.  </s>
+<s> would look like this: dsl modem --- router --- 2216 --- your computers hope this helps.  </s>
+<s> after more research.  </s>
+<s> i found out it is a switch and it can't do what i want it to do.  </s>
+<s> looks like i need to get a real router to do the job.  </s>
+<s> thanks for all the help.  </s>
+<s> logon to the pc as an administrator.  </s>
+<s> open my compter and select tools / folder options / view and then deselect simple file sharing,,, apply the changes and restart.  </s>
+<s> attach the dsl modem to the pc with **xp pro** configure each pc to be on the same workgroup(you can give the workgroup any name, must be the same on each pc) to do this right click on my computer and select properties and then computer name, then select change.  </s>
+<s> in member of, select workgroup and change the name.  </s>
+<s> save the settings and restart your pc's to initialized the change.  </s>
+<s> now, on the pc that has the modem connected you must add (if it isn't installed you can add ics thru add/remove windows components from control panel) or apply the ics (internet connection sharing)and select the ethernet adapter that is directly connected to the dsl modem).  </s>
+<s> to do this select network connections and select create a new connection.  </s>
+<s> chose connect to the internet and then select setup my connection manually,,, select connect using a broadband that requires user id and password,,, follow the step by step instructions and enter the requested information,,, at some point you will be asked to share files and printers, select yes.  </s>
+<s> configure the dialup settings for your dsl connection.  </s>
+<s> set to redial and chose an appropriate number.  </s>
+<s> change the idle time to never.  </s>
+<s> change the redial time to 10seconds or less.  </s>
+<s> save the changes.  </s>
+<s> open the browser and select always dial my default connection, this is located in internet explorer/internet options.  </s>
+<s> do not use the software supplied by your isp.  </s>
+<s> connect the cat5 cable of this pc to the second port on the 2216 switch.  </s>
+<s> configure your other network pc's to the never dial setting available in the internet options/connections.  </s>
+<s> windows will automatically search for an available internet connection thru the network.  </s>
+<s> do not disable dhcp on any of the pc's. the 2216 will supply appropriate ip addresses.  </s>
+<s> the default gateway ip should be 192.168.0.1 there is really nothing else required except that the pc with the modem connected must be on and connected to the internet in order for the ics to function for the other pc's.  </s>
+<s> don't forget to apply firewall settings within windows xp. it really isn't necessary to use a 3rd party firewall software.  </s>
+<s> if you want to share files and printers you must apply the file and printers sharing option that is avavlable in the network connections.  </s>
+<s> to share a drive or device you must right click on that displayed device and select sharing.  </s>
+<s> you can also apply permissions and users which are appropriate to your network.  </s>
+<s> default windows shares created cannot be adjusted, yu will need to create new shares and make the appropriate adjustments.  </s>
+<s> good luck if you haven't already achieved your goal before this message is posted.  </s>
+<s> i forgot to mention the following.  </s>
+<s> if you don't use simple file sharing as noted in my previous post then each (pc's) user name must be added to the pc that will be supplying the shares.  </s>
+<s> so, if you have peter, paul and mary just add them as users with password to the sharing pc('s)  </s>
+<s> you didn't say what dsl service you had so i'm going out on a limb here.  </s>
+<s> i recently worked hooked up a home network for a friend on bellsouth dsl.  </s>
+<s> i was considering pulling my hair out when i discovered that their dsl modem actually had a router built in.  </s>
+<s> that meant that i was networking two routers.  </s>
+<s> bellsouth uses westell modems, but they are built differently for bellsouth.  </s>
+<s> the bellsouth website is very vague about this subject, except to offer to network your home for 15 bucks a month.  </s>
+<s> i found the info at the westell website. the computers networked well after that.  </s>
+<s> they also wanted to use a playstation2 online.  </s>
+<s> it gave me the most trouble.  </s>
+<s> it would connect to the first router but not the wan.  </s>
+<s> i didn't have time to fool with it so i just swapped them a hub for their router.  </s>
+<s> then i put the ps2 in the dmz of the westell router/modem to eliminate nat lag.  </s>
+<s> hope this helps...  </s>

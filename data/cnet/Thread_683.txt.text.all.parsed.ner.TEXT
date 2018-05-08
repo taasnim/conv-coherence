@@ -1,0 +1,20 @@
+<s> if 1ghz is 1000mhz how come the basic computer i use is five years old and a cpu speed test give s result of 1973.2mhz.  </s>
+<s> (nearly 2ghz?) i am looking to buy a new pc, (intel core2 duo processor e6550) but speeds only appear to be 2.33 ghz.  </s>
+<s> thats hardly any faster after all these years.  </s>
+<s> am i missing something?  </s>
+<s> tia.  </s>
+<s> hi, pure mhz or ghz (the frequency) doesn't determine the speed of your cpu. a few years ago, the practical limit of the frequency of cpu's was sort of reached.  </s>
+<s> at higher speeds, it becomes unstable, consumes too much power and effects like the slowness of the electricity signal in the chip (lightspeed) start to be a problem.  </s>
+<s> dual core effectively doubles the speed of your cpu not by having twice the frequency, but by having twice the cores.  </s>
+<s> also, ram speed has increased, and ram speed is the main bottleneck these days, not the speed of the cpu.  </s>
+<s> so basically cpu's now are more clean and power efficient, and yet much faster at calculating stuff.  </s>
+<s> so the 'speed' doesnt get much faster, but there are double the amount, so in effect the pc would be twice as fast?  </s>
+<s> so where as i used to only upgrade when it was twice as fast as my existing 200 to 400mhz for example this upgrade would be worth it.  </s>
+<s> if a program only consists out of a single thread and cannot be broken into multiple threads, only one core of your cpu can be used and it won't enjoy the full potential of the cpu.  </s>
+<s> if you run multiple programs, then each can be ran on a different core and they'll all run at full speed.  </s>
+<s> if you have one program that is made to be able to work in multiple threads, that program can be ran on all cores at once and will enjoy the full potential of the cpu.  </s>
+<s> this is not matured yet, but more and more software and algorithms are now ready for multithreading, which will result in more speed on those new multicore cpus.  </s>
+<s> basically, dual core or quad core is a good deal.  </s>
+<s> go for it  </s>
+<s> i will now i (sort of)understand.  </s>
+<s> thanks.  </s>

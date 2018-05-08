@@ -1,0 +1,20 @@
+<s> hello guys!  </s>
+<s> i have a problem here. the network at my house worked like this: everything was working fine.  </s>
+<s> both computers could share files and i could use the internet using windows ics.  </s>
+<s> but yesterday i bough a pcmcia evdo card for my laptop.  </s>
+<s> and since i installed it both computers cannot share files or my laptop can use the shared internet connection. the computers can &quot;see&quot; each other, but when i try to see the files from one computer the system says the pc is unreachable.  </s>
+<s> even the shared connection appears on the laptop, but when i try to use ie or firefox they say you can't connect. is there a way to fix this?  </s>
+<s> i'd like to know if there is a way my network could work like this: 1 - pc uses the adsl broadband connection 2 - laptop uses pcmcia card when not in the local network 3 - laptop uses adsl shared broadband connection when in the local network 4 - laptop and pc shar files thanks in advance!!!!!  </s>
+<s> an evdo service provider?  </s>
+<s> i'm not sure why you bought evdo?  </s>
+<s> you need a router instead.  </s>
+<s> if evdo were your primary internet connection it could be shared by an evdo router. the only way it could connect to a lan would be by vpn.  </s>
+<s> the evdo is for my laptop.  </s>
+<s> it is a pcmcia card.  </s>
+<s> i can connect to the internet wherever i want.  </s>
+<s> i bought it for mobile use (laptop).  </s>
+<s> but since i installed it i can't connect to my pc via cable.  </s>
+<s> got it?  </s>
+<s> thanks  </s>
+<s> creating a second hardware profile on the laptop for use at home?  </s>
+<s> ok! i will try that!  </s>

@@ -1,0 +1,60 @@
+<s> for some reason as soon my roommate installed his roku box i have been having ip conflicts on my laptop, and my laptop alone.  </s>
+<s> i cant figure out how to get them to work together, even after releasing and renewing my ip. i have also made sure that my dhcp is enabled.  </s>
+<s> i am running two routers- one that has a modded dd-wrt, but i dont think thats an issue.. any ideas?  </s>
+<s> which os and did you move to at least wpa?  </s>
+<s> i also see errors in the event log in admin tools.  </s>
+<s> event 1001- your cpu was not assigned an address by the dhcp server.  </s>
+<s> do i need to have dhcp activated?  </s>
+<s> why am i the only one with the problem?  </s>
+<s> shouldn't messing with my router settings affect all?  </s>
+<s> ths prob is unfixible.  </s>
+<s> i also don't know what wps is...s  </s>
+<s> no the problem will not affect all.  </s>
+<s> it will only hit the ones with the ip that the roku was handed out.  </s>
+<s> you wonder if someone tried to manually set the numbers in the roku.  </s>
+<s> bob  </s>
+<s> after disconnecting it, i still had no luck! is there a way to check the roku settings?  </s>
+<s> it just shows me the ip address listed.  </s>
+<s> doesn't give me any wireless options.. how do i make it so i stop getting this darn error!  </s>
+<s> i often change the ssid of the router.  </s>
+<s> this forces new ips to be handed out.  </s>
+<s> then again if someone has hand assigned ip numbers and used one that is in the dhcp range, they created a problem.  </s>
+<s> fix?  </s>
+<s> don't do that!  </s>
+<s> i wonder about your roku.  </s>
+<s> i can not check mine today.  </s>
+<s> i just moved and i have my roku remote but we haven't found the roku unit.  </s>
+<s> i'm left to guess you have not explored all menus.  </s>
+<s> as to the laptop, changing the ssid should help.  </s>
+<s> if not, the os may have been damaged by malware or registry cleaners.  </s>
+<s> -&gt; i asked for which windows os and can't find an answer.  </s>
+<s> this severely limits me since i can not write tcpip resets for all 5 versions.  </s>
+<s> bob  </s>
+<s> running windows xp. i will try the ssid switch... doubt it will work... just dont understand why its just my computer having problems... especially since nobody has a fixed ip - nobody in my apartment knows how to mess with that stuff... any help would be greatly appreciated  </s>
+<s> microsoft windows xp [version 5.1.2600]  </s>
+<s> (c) copyright 1985-2001 microsoft corp.  </s>
+<s> c:documents and settingsjordan&gt;ipconfig windows ip configuration ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected ethernet adapter wireless network connection: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.14 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 c:documents and settingsjordan&gt;ipconfig windows ip configuration ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected ethernet adapter wireless network connection: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.0.14 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.1 works for about 10 seconds then freezes  </s>
+<s> about an ip conflict and now you write it freezes.  </s>
+<s> that's two different issues unless you meant something else.  </s>
+<s> review and then consider changing the dhcp range in the router.  </s>
+<s> now that i know .14 is conflicting, we can change the dhcp range to .100 to .200 -&gt; as you are running a modded dd-wrt i have to think this would be trivial for you.  </s>
+<s> if not, supply a link to your modded dd-wrt's manual so i can find the config screen.  </s>
+<s> bob  </s>

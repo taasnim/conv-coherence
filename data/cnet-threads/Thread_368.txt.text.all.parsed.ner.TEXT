@@ -1,0 +1,30 @@
+<s> i have a linksys wrt54g running as an access point in mixed mode.  </s>
+<s> one machine on my network is approximately 40-45 feet away from it and behind 2 walls, and running 802.11b.  </s>
+<s> it seems that the machine in question can only see and connect to the network intermittently.  </s>
+<s> at first i thought it was a low signal strength issue but the level of reliability seems to vary, and when it does connect it appears to have a decent signal.  </s>
+<s> there is a moderately high amount of traffic here, we can usually see at least 5-6 networks.  </s>
+<s> i've tried several frequencies to no noticible difference.  </s>
+<s> any ideas what may be the issue?  </s>
+<s> bad router?  </s>
+<s> bad card?  </s>
+<s> just need more signal?  </s>
+<s> thanks  </s>
+<s> &quot; approximately 40-45 feet away from it and behind 2 walls, &quot; and you'll not get a good solid 11 mbps connection.  </s>
+<s> try 1.0 mbps.  </s>
+<s> it's a radio.  </s>
+<s> you are shielding the radios so that's the way it works.  </s>
+<s> what to do?  </s>
+<s> get closer, put a repeater in between.  </s>
+<s> bob  </s>
+<s> i'm still curious why it would be so intermittent though?  </s>
+<s> it's either a great signal or no signal...  </s>
+<s> to determine why requires a few million bucks of equipment in some radio site survey truck.  </s>
+<s> for well under 100 bucks, a repeater will likely just cure it.  </s>
+<s> let me share that a microwave oven cohabits this frequency space and is some 1000 watts.  </s>
+<s> it's not supposed to leak much but i have seen them interfere with wifi operation.  </s>
+<s> if you want to know why, i must bow out now.  </s>
+<s> if you want to fix it, the repeater will likely cure it.  </s>
+<s> it has so far.  </s>
+<s> bob  </s>
+<s> instead of spending the money for a repeater, and sure that will work just fine, i saved money and bought extended antennas, and found the gain just enough to solve the same problem that i had.  </s>
+<s> i bought the antennas from best buy..... good luck dont buy a genertic brand, i tried, and didn't work, linksy has a dedicated pair that worked for me model: hga7t  </s>

@@ -1,0 +1,38 @@
+<s> i have an asus a7v133 v 1.05 motherboard w/bios v.1009.  </s>
+<s> my 1ghz athlon seems to work fine but i need help setting bios to run athlon xp2100+. the settings so far seem to hang.  </s>
+<s> at the time i bought it, the motherboard was found to be able to take up to athlon 2100, i didn't realise the + made a difference and i can't get it to run. is there any upgrades available for this.  </s>
+<s> any new bios that can handle this?. thanks for the help.  </s>
+<s> you truly need to check the aus support website for any new or last bios updates.  </s>
+<s> since, i had this mtrbd.  </s>
+<s> i know it would support upto and maybe with the semptron beyond the 2100+, the 2200+ being the last i rememeber, but again the asus wqebsite offers the specs on cpu supported.  </s>
+<s> the mtrbd.  </s>
+<s> is suppose to be &quot;auto-configuing&quot;, that's stated by the boot-up displays showing a 2100+ being present. the omnly problem, i see maybe you have an older or initial release mtbd.  </s>
+<s> where you *manually* configure the setting besides any bios setting.  </s>
+<s> if only bios setting, be sure to verify the voltage, fsb, and cas setting are done if done manually.  </s>
+<s> plus save before exiting the bios area.  </s>
+<s> i really liked that bd. but moved on.  </s>
+<s> i suggest you further check all setting, then try again.  </s>
+<s> if the problem persists, do a cmos clearing in order to get back to defaults and see if wants to boot properly, reboot if does, then change any bios setting, etc, save and hopefully it settles down.  </s>
+<s> good luck -----willy  </s>
+<s> disable &quot;spread spectrum&quot; in the bios.  </s>
+<s> a 1700+ to run at a memory speed of 133 mhz. the system is still running fine but at only 129 mhz memory speed.  </s>
+<s> with spread spectrum enabled it would only run at118 mhz.  </s>
+<s> have you tried using the manual settings in the bios?? just increase the memory bus one mhz at a time starting from 100 [i assume that you have pc 133 memory], and save and exit. the only problem is that when you get to a speed that it can't handle, you may have to reset the bios, which is the shorting of the two solder fragments list.s.cnet pre_process.sh  </s>
+<s> threads on the mobo with a screwdriver.  </s>
+<s> once you find the highest speed that it will run stable at, you may find that for any type of &quot;bad&quot; shutdown, the system will boot up into the bios with thbe setting back at 100 mhz.  </s>
+<s> then simply set it back to the speed that works.  </s>
+<s> remember when this mobo was designed and qualified the 1700+ and later cpu's did not exist, so there was no way that the mfr could verify what the maximum speed a specific mobo would support.  </s>
+<s> there was a later version of the mobo.  </s>
+<s> it was confusinng because they simply added another dot after the 1.05 vrsion number.  </s>
+<s> that version seems to have supported later cpu's.  </s>
+<s> as willy said, make sure that you have the latest bios.  </s>
+<s> if i remember correctly, you have to disable the 'jumperfree' mode and use the swithes on the motherboard to configure the cpu (this has been on the german asus support site a while back).  </s>
+<s> apparently, the athlonxp series are a bit more picky about signal quality than the athlon tbird series.  </s>
+<s> when using the dipswitches on the mobo, a different circuit, that should have better signal quality, is used.  </s>
+<s> there has been a minor update of version '1.05', namely the '1.05.' (trailing dot!) to improve signal quality.  </s>
+<s> this one has official athlonxp support.  </s>
+<s> i can't confirm whether or not the 'dipswitch trick' will work.  </s>
+<s> i hope it will because i'm expecting a 2400+ i bought on ebay.  </s>
+<s> i won't be dissapointed if i have to run it at a lower busspeed, as long as it runs at a higher clockspeed than my (t)rusty old athlon tbird 1.2ghz.  </s>
+<s> the following webpage has an english translation of that asus site: according to this site, the athlon xp palomino is supported when using the dipswitches.  </s>
+<s> the xp tbred is not yet rated.  </s>

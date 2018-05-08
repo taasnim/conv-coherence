@@ -1,0 +1,30 @@
+<s> hello, i own an hp pavilion elite hpe-400y (specs) i have replaced the power supply with a 600w corsair power supply and an nvidia gtx 550 ti i have been having trouble with it overheating to incredibly high temperature.  </s>
+<s> (gpu at and under 100 degrees and cpu at and around 70 degrees) i need help modifying it in terms of cooling it down as much as possible.  </s>
+<s> since i am a novice at computer hardware modifications i figured you guys could give me good advice on what i should do to make it run cooler, whether it be new fans, heat sinks, liquid cooling, a new case, etc. if you recommend one of the above can you also suggest a replacement part that i might be able to use?  </s>
+<s> if you need any more information i am more than happy to provide it.  </s>
+<s> and yes i blow the dust out of the fans regularly.  </s>
+<s> thanks a bunch all .  </s>
+<s> -ohno21212  </s>
+<s> are those temps in &quot;f&quot; or &quot;c&quot;?  </s>
+<s> if &quot;f&quot; ........your good.  </s>
+<s> if &quot;c&quot; .......take the side cover off....test.  </s>
+<s> try a different temp monitor.  </s>
+<s> you could add an exhaust fan like the one here not knowing how old this pc is or whether it might need new thermal paste, i can only say that this could be a consideration, expecially if this computer is more than a couple of years old.  </s>
+<s> ` good luck.  </s>
+<s> celcius.  </s>
+<s> i will try in a bit.  </s>
+<s> ill take it under consideratoin nad i got it in may 2011 sorry for not clariying  </s>
+<s> be placed, i'd start there.  </s>
+<s> if you have existing fans that don't remove enough heat....perhaps a more robust or larger fan could be used.  </s>
+<s> most of these case fans can connect directly to the psu and many have adapters too.  </s>
+<s> here's the link i used.  </s>
+<s> if there are no existing/unused case vents, you may have to make (cut) your own.  </s>
+<s> vapcmd  </s>
+<s> this is your basic oem build pc from hp. 1st the amd cpu tends to run slightly hotter, but well cooled by most setups.  </s>
+<s> however, once added &quot;hot air&quot; is thrown in it starts to create heat build-up.  </s>
+<s> your new gpu will do that, so be sure its fan or cooling setup is well cared for.  </s>
+<s> as others suggested, added cooling can greatly improve the situation.  </s>
+<s> they already covered that so i add, either add more fans or improve(replace) current fan(s) for better rpms for air exchange.  </s>
+<s> make darn sure how that new psu is working with its fans, some maybe counter to accepted oem &quot;air flow&quot;, so inspect.  </s>
+<s> if optional range setting, increase it.  </s>
+<s> tada -----willy  </s>

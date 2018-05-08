@@ -1,0 +1,99 @@
+<s> i have p4 1.7/256, mb gigabyte (8id2003) and 256 of ram and installing winxp-pro i faced 2 problems now.. 1- everytime i try to power on my pc it didn' open from firstime.. i must push reset button several times till it open..why?? 2- if my pc opend after the previous problem i face the second one that when i log to the windows (xp pro.) it worked somtime and in the mid.  </s>
+<s> of my work, suddenly it restart himself to face the first problem that i talked about above..again..why??  </s>
+<s> this is typical for the following hardware issues.  </s>
+<s> 1. an overtaxed power supply unit (psu.) the p4 1.7 socket 423's i have at the office run on 400 and 450 watt psus.  </s>
+<s> very stable.  </s>
+<s> 2. we had a batch of motherboards that did just that.  </s>
+<s> they had the bad motherboard capacitor issue you can see at eventually the boards failed to boot at all.  </s>
+<s> very annoying issue that can extend to other boards and power supplies.  </s>
+<s> 3. if you have to hit the reset to just get the os to start loading, it's not an os issue.  </s>
+<s> bob  </s>
+<s> can u advise me to how to discover if the capistor is the reason of what i face??? by any pc program or any mark i can watch on bad capistor?? cuz i don' think that is psu that make all that..  </s>
+<s> what more can i offer?  </s>
+<s> it's a sad issue that owners write &quot;i don' think that is psu that make all that.&quot; i have some hundred plus burnt out and failed power supplies that you can argue with.  </s>
+<s> do you really need more proof? the issue has been an repeating nightmare for owners.  </s>
+<s> i'll help you wake up, but only if you want.  </s>
+<s> bob  </s>
+<s> thank you v.much for your support.. but could i ask u how to know if the psu is the reason or not?? cuz my psu is atx-300w and i don' know if it good to the motheboard and the processor socket..and i didn' find it in the manual of the mb?? or i have to open the psu to know it myself (as the links that u put told, to discover if there was an overloaded)?? and if i didn' find any sign about overloading, how to discover about lowloading?? and thanx again for your support that came in the right time..  </s>
+<s> why not get a 450 or higher to see if this corrects the issue?  </s>
+<s> your system is giving tell-tale signs your supply is too weak as bob noted.  </s>
+<s> another issue could be heat.  </s>
+<s> try taking the cover off and see if it gets better.  </s>
+<s> know the bios?  </s>
+<s> check in the bios for pc health.  </s>
+<s> this is usually where you can see your temp.  </s>
+<s> but this varies by motherboard, it may not be there.  </s>
+<s> good luck!  </s>
+<s> i supplied the toms hardware articles about this.  </s>
+<s> frankly, that's far too slim for the over 1ghz crowd. the other issue is that with time, the capacity dwindles from what it did have to 20 to 50% less in about 1 to 2 years.  </s>
+<s> this is why you oversize the power supply.  </s>
+<s> there is no downside to fitting a larger psu.  </s>
+<s> there is plenty of downsides to a small power supply.  </s>
+<s> by fitting the small psu, you not only get all sorts of issues, reboots and more, but stress the motherboard capacitors more than were needed.  </s>
+<s> this ages the entire machine faster.  </s>
+<s> it's not the money.  </s>
+<s> consider is just 16 bucks.  </s>
+<s> i have a few of this model because i like the fan and airflow placement.  </s>
+<s> the office p4 1.7 ghz machines have the 13 buck but that's because that can with the case for 20 bucks. the issue with that unit is we needed to add one more fan to keep the cpu area cool.  </s>
+<s> bob  </s>
+<s> i really wanna thank u all first for your support in my serious problem.. and i wanna tell u that i was facing that problem from 2 months and suddnly it stopped and worked perfectly..and now i face it again.. so do u really think that the psu may be the reason?? and today morning i opend the psu and searched about any sign for overloading but i didn' found anything.. thank u all again about your supporting to me..thank u..  </s>
+<s> the bad caps you are looking for are on the motherboard.  </s>
+<s> see bobs previous post for what to look for.  </s>
+<s> had a bad cap board and replacement is logical decision.  </s>
+<s> leave your pc case cover off and see if it helps.  </s>
+<s> good luck!  </s>
+<s> i'm really confused now and i don' know what to change now and where is the problem???!!! should i replace the psu with 400watt insted of the 300watt that i have?? or should i buy a new motherboard insted of the 1 that i have?? cuz i can' change both of them.. and as i said b4 that i opened the psu and there was no sign for overloading.. and about the caps in the mb.. i don' know if they still good or not.. cuz they looking good..  </s>
+<s> you have an issue that can have at least 2 possible causes.  </s>
+<s> if the caps(round, cylinder-like pieces)on the motherboard look ok(no bulging or crusting)then personally i would replace the psu.  </s>
+<s> you should replace the psu anyways because it is light on power as bob has noted.  </s>
+<s> am i getting through now?  </s>
+<s> good luck!  </s>
+<s> another thing i wanna tell u about... that my problem was finished while i was posting messages to you and comes again now.. and now when i keep restart to open the pc,it shows me a message tell me &quot;af128d-gh f1&quot; is this message refer to somthing?? and i wanna tell u that most friends of mine have p4 too and have psu 300watt & 250watt and don' have my problems.. why??  </s>
+<s> if you want to run on the hairy edge of the power supply capability, do so.  </s>
+<s> you've been given many links and are now firmly in a denial zone.  </s>
+<s> sad to see such discussions.  </s>
+<s> at this point, it may be best that you take the machine to a shop and let them fix it?  </s>
+<s> just trying to save you a few dollars by moving away from the edge, but it appears you don't wnat to?  </s>
+<s> bob  </s>
+<s> hi,i'm not saying all the other responces are wrong,but i'll tell you experance i had.i took my computer in[12/02] once after fooling around with on and off for mo's and they sayed it was the motherboard or power supply.i  </s>
+<s> brought it home and fixed it myself.it was the fan on the cpu.it was running but full of dust/durt.i had a can of air and blew it out plus everthing else.and its still running.way  </s>
+<s> did it get so durty,i have a fireplace for heat.  </s>
+<s> one ear out the other.  </s>
+<s> you didn't specify weather the computer runs through it post test &quot;power on self test&quot; it is a single beep that tells you all the hardware is working.  </s>
+<s> try this next time you start up hit the f8 key and do a boot log this will manually go through each part on the boot up process to see where is the problem is coming from.  </s>
+<s> you stated you are running xp pro what filing sytem your using is it a fat or ntfs and is it a fresh install or upgrade.  </s>
+<s> if it is a fresh instal and your using a fat or ntfs you might have a worm in it affecting port 134, unplug your internet connection an scan with the virus proctection software, but before you do that disable the go back feature or restore point till after you finnish the virus scan, so you don't keep putting the virus in to the system.  </s>
+<s> if it and upgrade you might have conflict with the previous o s. last but not least did you ever consider the power supply might be the culprit causing the head ache.  </s>
+<s> have your power supply tested.  </s>
+<s> make sure your computer is cooled properly, cause heat can also shut down a computer.  </s>
+<s> i am experiencing a similar problem.  </s>
+<s> when i power on the system, the power light comes on but it doesn't boot.  </s>
+<s> i have to hit the reset buttton.  </s>
+<s> i replaced the motherboard and the power supply.  </s>
+<s> i am now using a (450w power supply.  </s>
+<s> however i am still getting the problem. the only thing that i have not replace is the cpu.  </s>
+<s> my feeling is that the problem must be cpu related in one way or another  </s>
+<s> far too many pcs are flighty at top speed.  </s>
+<s> while i feel this is a warranty issue, if you can't then try: 1. one stick of ram.  </s>
+<s> does one of what you have work?  </s>
+<s> 2. drop the fsb speed from 133 or 266 to 100 or 200 mhz.  </s>
+<s> 3. bios safest defaults.  </s>
+<s> 4. the bios must be uptodate.  </s>
+<s> this one is snagging too many.  </s>
+<s> bob  </s>
+<s> hi, bu. would you mind choosing another nickname?  </s>
+<s> that one's not exactly g-rated... -- dave k, speakeasy moderator click here to email semods4@yahoo.com  </s>
+<s> well, what kind of computer are you running?  </s>
+<s> tell me the motherboard and processor if you please.  </s>
+<s> this would help a lot.  </s>
+<s> i currently had a similar problem with my comptuer.  </s>
+<s> xp would work fine, except that i'd get a random reboot every so often, usually when i played games or ran many programs.  </s>
+<s> i'm running an old athlon t-bird slot a @ 850mhz on a amd 750 chipset.  </s>
+<s> come to find out, it was a simple setting in the bios - the &quot;super bypass mode&quot;.  </s>
+<s> once i changed it to &quot;disabled&quot;, it fixed the problem and now i don't get the random reboots anymore.  </s>
+<s> also, may i remind you that i'm running this on a 250w atx psu, the one that came with my other computer (i just swapped out mobo and processor).  </s>
+<s> i've been running with this psu for over 4 years with no problems, and all with: dvd drive, cdrw drive, 80gb hd, 512mb ram, 3 pci cards (sound, ethernet, and usb ports), and a geforce2 mx400.  </s>
+<s> not to mention, also 4 auxillary fans...1 intake, 1 fan for the gfx card, 1 blower under the gfx card, and 1 more for outtake behind the processor.  </s>
+<s> that's what you call reliability!! i recently tried running my pc on 400w psus, but they couldn't take the power drain (do not buy those cheap $15 psus, no matter how much w they take.  </s>
+<s> they're worthless and a waste of money).  </s>
+<s> hi ,i thing your problem in vedio card.try to change it.  </s>

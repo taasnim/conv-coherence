@@ -1,0 +1,32 @@
+<s> during startup, a slight hiccough in 'the microsoft sound' fanfare is always experienced.  </s>
+<s> same file, when played via windows media player or winamp is perfect this has just been of slight nuisance value until recently when i installed yahoo messenger beta for it's worlwide calls.  </s>
+<s> using messenger, transmission is excellent (apparently!) but reception is badly broken up and i was wondering if there could be a connection between the two?  </s>
+<s> when a headset is connected to the speaker, the breakup is reduced somewhat.  </s>
+<s> i have substituted the original speakers without any improvement.  </s>
+<s> any assistance would be most gratefully received.  </s>
+<s> thank you.  </s>
+<s> r.mcl.  </s>
+<s> windows 98 se (build 4.10.2222)  </s>
+<s> board: gigabyte technology co., ltd.  </s>
+<s> 7vm333m-rz x.x with incorporated sound  </s>
+<s> that hiccup is a sign that dma is not enabled or the motherboard drivers were not installed.  </s>
+<s> in rare cases, you see this in low memory machines.  </s>
+<s> for that the cure is to up the ram to the 256 or 512m region.  </s>
+<s> bob  </s>
+<s> that way everyone learns.  </s>
+<s> &quot;firstly, may i thank you for your more than prompt response...thankee.  </s>
+<s> in control panel&gtmultimedia&gtmultimedia properties&gtc:media wdm audio device&gt&quot;status: driver is enabled but inactive due to an unknown problem&quot; additionally &quot;use audio features on this device is&quot; enabled.  </s>
+<s> 1022 megabytes installed memory via audio driver setup is listed in the add/remove program properties window so i can only assume it to be installed?  </s>
+<s> as to dma...it's all greek to me! you are dealing with an antique here...me!  </s>
+<s> might you advise as to how i might check/correct the dma problem you mention?  </s>
+<s> again thank you for the courtesy of your prompt reply.&quot; if that were true, i'd expect no sound at all.  </s>
+<s> there is some other issue here and that's the 1022 megabytes or installed memory.  </s>
+<s> windows 98se does fail in odd ways when you put it on a machine with more than 512m ram.  </s>
+<s> as to dma, there is not enough detail about your machine to comment about needed drivers.  </s>
+<s> but here is where the dma is enabled -&gt; see figures 1 and 2 at you'll want dma checked for hard disks and cd drives.  </s>
+<s> bob bob  </s>
+<s> many thanks again for you equally prompt response...i'll get busy! whether successfully or no remains to be seen!  </s>
+<s> r.mcl  </s>
+<s> all the appropriate dma entries in hard disk and cd drives were checked as instructed and no changes were required.  </s>
+<s> &quot;in control panel/multimedia/multimedia properties/c:media wdm audio device/&quot;status:driver is enabled but inactive due to an unknown problem&quot; additionally 'use audio features on this device' is enabled.&quot; this is indeed the case as would be seen from a screen shot were i but able to attach one.  </s>
+<s> that just leaves the excessive memory problem you suggested, which leaves me up the creek without a paddle again many thanks  </s>

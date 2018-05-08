@@ -1,0 +1,55 @@
+<s> i have had this for a couple of years now without problems.  </s>
+<s> all of a sudden the scanning and copying options are a major headache.  </s>
+<s> every time i try to copy or scan a page, the image/copy comes out with an approx 3 inch wide black bar that runs the length of the page.  </s>
+<s> printing isn't a problem, therefore i am assuming that it's something to do with the actual scanning hardware.  </s>
+<s> any help or advice will be gratefully appreciated.  </s>
+<s> ps. if there's a way i can attach an example, please let me know.  </s>
+<s> there is an scanning element or component in the scanning head that fails and you get color shifts to outright white or black stripes.  </s>
+<s> since repairs cost more than replacement we perform the last rites.  </s>
+<s> thanks for the very prompt reply.  </s>
+<s> i kind of thought that would be the case.  </s>
+<s> time to review wireless aoi printers i guess.  </s>
+<s> thanks again.  </s>
+<s> the dell 964 is not a wireless printer.  </s>
+<s> if you are using a wireless print adapter 3300.  </s>
+<s> i can give you instructions on how to set this up but, you have to tell your machine not to update the drivers for anything.  </s>
+<s> this is usually how they get messed up.  </s>
+<s> disconnect your printer.  </s>
+<s> download and run this patch to completely remove the printer from your computer.  </s>
+<s> you may have to open the patch with winrar or 7zip .  </s>
+<s> ***please note the patch has a problem and will also remove the 3300 wireless print utility and dell quickset.  </s>
+<s> please make sure to reinstall these programs, if you have a dell computer.  </s>
+<s> restart your computer.  </s>
+<s> fix your network first.  </s>
+<s> update the firmware in your wireless router.  </s>
+<s> manufacturer's website, make & model needed.  </s>
+<s> broadcast ssid(you may want to change this to make it easier to connect) use wpa-psk(tkip) security.  </s>
+<s> most wireless devices work best with this type of security.  </s>
+<s> mixed b and g mode(n if available) use channels 1, 6 or 11. most devices work better on these channels.  </s>
+<s> save and exit.  </s>
+<s> power everything off for 30 seconds.  </s>
+<s> power everything back on, wait 30 seconds,now try to connect.  </s>
+<s> after router is done, now setup your wireless print server/printer.  </s>
+<s> 3300 utility 3300 firmware attach the 3300 to your computer using the usb cable and insert the 3300 disk.  </s>
+<s> follow the instructions.  </s>
+<s> it should ask you for the network id, type of security and password.  </s>
+<s> now setup the printer.  </s>
+<s> download the proper drivers.  </s>
+<s> xp drivers vista 32-bit drivers all other drivers install the drivers, choose network, choose i'm using a wireless print server(if you do not see this, then choose add printer and you should see it then) and follow the instructions.  </s>
+<s> rick  </s>
+<s> hi pudgyone, have had my dell 964 for a while but recently changed routers and since then cannot get any of my computers to recognize the printer driver during installation.  </s>
+<s> have gone through the whole step wise proces with no luck.  </s>
+<s> any other advice.  </s>
+<s> i have a mad with parallels with winxows xp and a pc with windows xp. i seem to always get stuck at the point where it just does not recognize the mac address or the ip address.  </s>
+<s> many forget what a new feature may do.  </s>
+<s> for example i'm running into folk that enable client or ap isolation and then spend months pondering why it won't work.  </s>
+<s> bob  </s>
+<s> you must setup the 3300 all over again.  </s>
+<s> it needs to have the new communications with the wireless router.  </s>
+<s> rick  </s>
+<s> yup, went through the whole process of setting up the router again.  </s>
+<s> i can actually go to the printers ip address and also confirm this but for whatever reason the computer stlll don't recognize it during network installations of the printer.  </s>
+<s> is there a manual way to set up the printer using the mac address and or ip address through the printer wizard on xp?? thanx for all your help  </s>
+<s> the instructions are noted in our forum sticky .  </s>
+<s> if you're using some type of mac address filtering, that is not listed in the forum sticky and will cause you problems and headaches.  </s>
+<s> rick  </s>

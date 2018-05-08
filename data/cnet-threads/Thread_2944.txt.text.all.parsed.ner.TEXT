@@ -1,0 +1,16 @@
+<s> had to use disk recover on main drive due to problems, saved most my data on drive d (slave) got pc up and running attached both drives and pc would only boot from slave and when it did boot, it booted with no screen, tried ctr alt del and it said no programs running.  </s>
+<s> so now i can only use 1 drive and cant get any of my programs, could anyone still awake please help  </s>
+<s> since about 1995 with the arrival of windows 95, &quot;programs&quot; can't easily move from drive to drive or be saved.  </s>
+<s> a few will try to have a boot drive, then install programs on another drive and think that if the main drive fails or the os reinstalled that what's on the other drive will save them time or effort.  </s>
+<s> it's approaching some 10 years since this used to work.  </s>
+<s> maybe it's time to stop trying that?  </s>
+<s> ------------------------------------ more specific to your plea is to get a program working again, you'll have to install said program after you've installed the os.  </s>
+<s> ok, but now i can only have i hdd on pc at a time, cant have master and slave anymore and when i try pc only works with slave and only shows me having 1 hdd on the pc  </s>
+<s> how have you got them jumpered?  </s>
+<s> change the old slave to a master and the old master as a slave or both as cable select.  </s>
+<s> it should boot in normal order and should recognize the second drive, which you will have to format.  </s>
+<s> you may need to change the drive designation d to c before you do this.  </s>
+<s> i'm assuming the setup is recognizing both drives and still seeing your old master as master and your old slave as slave and thast the boot order includes booting from a secondary drive?  </s>
+<s> instead, one sets the drives to cable select or cs and uses these new 80 conductor ide cables which determine which drive is master/slave by where you plug them in.  </s>
+<s> this could be your issue?  </s>
+<s> bob  </s>

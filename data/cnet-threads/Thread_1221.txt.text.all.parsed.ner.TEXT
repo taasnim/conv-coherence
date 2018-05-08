@@ -1,0 +1,23 @@
+<s> i recently intall windows 7 beta on my second hard drive, which use to be the slave. the 1st one is windows xp. it duals boot every time, giving me a option on os. i try to remove the dual boot by using d ban (erase the secondary drive), didn't stop it.  </s>
+<s> then i went to the device manager and right click uninstall the hard drive (didn't stop the dual boot), but now there is no os in secondary, but still dual boot.  </s>
+<s> but now i cannot see the hard drive in my computer or device manager anymore.  </s>
+<s> and it still dual boot in the begining, just no os in the 2nd hard drive.  </s>
+<s> i read your post twice and can't tell if this is that age old xp and sata drive issue or 'i forgot how to use disk management.' the device manager may not show sata drives in xp! what is it?  </s>
+<s> not a word about the machine, drives, make, model and more and then we have the big issue.  </s>
+<s> what's that.  </s>
+<s> 7 is beta.  </s>
+<s> you try that on machines you can wipe out and start over.  </s>
+<s> why not do that?  </s>
+<s> bob  </s>
+<s> both are ide hard drive.  </s>
+<s> i have two hard drive partition, master drive is windows xp and other is the windows 7 beta that just released(slave drive).  </s>
+<s> i wiped out the second hdd with darik's boot and nuke to stop the dual boot.  </s>
+<s> it didn't work.  </s>
+<s> so i right click my computer -&gt; manage -&gt; device manager -&gt; disk drive -&gt; right click -&gt; uninstall the hdd still didn't stop the dual boot but now i cannot see the 2nd hdd in my computer anymore.  </s>
+<s> i just want the second hdd to become the slave and not another dual boot?  </s>
+<s> it is dell optiplex gx260 small mini tower.  </s>
+<s> since this is just ide all that i can suspect is that the bios is not showing the drive either.  </s>
+<s> more about popping in the old xp boot manager at i agree with the command set of: bootcfg /rebuild fixboot fixmbr be at the ready with a backup clone of that hard disk as there was a beta os installed so all may just vanish without notice.  </s>
+<s> bob  </s>
+<s> hi boyien03, i work with the windows outreach team and would like to offer point you to a link to a great guide on how to uninstall your windows 7 delete the drive partition.  </s>
+<s> click this link and follow the instructions and you should be able to resolve your issue: rick, windows outreach team  </s>

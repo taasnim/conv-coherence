@@ -1,0 +1,15 @@
+<s> i recently purchased cable internet from cox, i have everything connected as the instructions say, but occasionaly (just happened again) the internet will just lose the signal.  </s>
+<s> i have encrypted it with a unique password and all, i am trying to find out why i keep getting the intermittent signal losses.  </s>
+<s> any help would be appreciated.  </s>
+<s> cable modem model?  </s>
+<s> wireless router model?  </s>
+<s> wireless network adapter model?  </s>
+<s> computer operating system?  </s>
+<s> if windows xp, is it sp2 ?  </s>
+<s> cable modem - webstar dpc2100 router - linksys wrt54gs network adapter - (netgear cant see number because im online, but its a new one) and i have xp with sp2.  </s>
+<s> - the reason why i think its something in the house is because when im at school, starbucks, or panera it dosnt disconnect randomly.  </s>
+<s> thanks  </s>
+<s> download and install the latest router firmware for the wrt54gs.  </s>
+<s> do the same for the wireless network adapter driver.  </s>
+<s> try changing the broadcast channel of the router to 1, 6, or 11. this can help to eliminate interference.  </s>
+<s> after you do this, you will need to enable ssid broadcast to connect for the first time.  </s>

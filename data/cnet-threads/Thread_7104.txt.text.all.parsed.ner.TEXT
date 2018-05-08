@@ -1,0 +1,15 @@
+<s> i have a group of computers on one router (a) and another group on another router (b). the two routers (a) and (b) are connected by a third router (c).  </s>
+<s> how do the computers on (a) communicate with those on (b) or (c).  </s>
+<s> any help on the subject or a link that explains it would be great.  </s>
+<s> thanks  </s>
+<s> they had: internet -&gt; wan port on router (to pcs) to wan port on next router (to pcs) to another wan port (to pcs.) fix?  </s>
+<s> we redesigned it using post 17 of this forum.  </s>
+<s> much better.  </s>
+<s> bob  </s>
+<s> if these routers are your basic routers with 4 port switches built in then this is easy.  </s>
+<s> just use two of them as switches instead of routers.  </s>
+<s> you could put all routers on the same subnet: for example: router 1 (internet connection could be plugged into this one) 192.168.1.1 router 2 192.168.1.2 router 3 192.168.1.3 all the routers can then be connected with cat5 cross-over cables.  </s>
+<s> when it is two like devices such as this you will need cross-over cables.  </s>
+<s> disable the firewall features on routers 2 and 3 and you should be ok. being behind 3 firewalls may cause issues down the road for you.  </s>
+<s> all computers plugged into the 3 routers will have internet connection and be on the same network where they can share resources.  </s>
+<s> i'll look into it  </s>

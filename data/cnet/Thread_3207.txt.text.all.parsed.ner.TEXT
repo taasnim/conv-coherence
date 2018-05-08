@@ -1,0 +1,53 @@
+<s> i have a mesh pc, athlon 64 3500 + 256mb nvidia 7800 gtx 2 x 512mb ddr ram pc3200 (200mhz) im looking to get some more ram, preferably 1gb ocz or crucial, something fast... i just need help to know if it will work.  </s>
+<s> i see ram that says pc3200 400mhz, will that work??? im mainly looking for something to improve my gaming, my motherboard is quite old.. its a gigabyte ga-k8 pci express.  </s>
+<s> if anyone can give me advice on any other essentials to upgrade like processors thats appreciated.  </s>
+<s> look at your mb manual, the mb manula on the mfgs website; or check the ram mfgs websites such as crucial.com;  </s>
+<s> corsair.com;  </s>
+<s> kingston.com;  </s>
+<s> etc., from the websites above, select the mb mfg, the mb model # and the ram selector will show you what ram they offer for your mb. you can buy direct or go to resellers like newegg.com, zipzoomfly.com,  </s>
+<s> etc., to buy.  </s>
+<s> vapcmd  </s>
+<s> pc3200 runs at 2x200mhz and is commonly called ddr-400.  </s>
+<s> so the ram you're looking at will run just fine except if you fill all 4 slots.  </s>
+<s> in that case, it may slow down to ddr-333 speed but will still run fine.  </s>
+<s> i've sort if read up and i think i know what to get, there is only 1 more thing i need to know, if i get dual-channel memory, what happens to my old 2 x 512mb memory?? do i just have to sell it on or something??  </s>
+<s> ps....no such thing as 'dual channel memory'.  </s>
+<s> but there is memory that operates in the motherboard's dual memory architecture and for best results it takes matched pairs.  </s>
+<s> to avoid the ram from going from 400mhz to 333mhz...get 2 dimms @1gb each and place them in the first dual channel dimm slots.  </s>
+<s> test the new dimms thoroughly with memtest86+.  </s>
+<s> if they test ok....then add the 2 @ 512mbs and see how it runs... be prepared to obeserve the impact and tradeoff of the ram speed reduction and the extra 1gb ram. then make your decision what to do the 2-512s.  </s>
+<s> vapcmd  </s>
+<s> im a bit confused now, i read that you put the dual ones in at the first slot and 3rd slot.  </s>
+<s> take advantage of dual channel architecture.  </s>
+<s> i meant place the new dimms in first channel vs 2nd channel.  </s>
+<s> vapcmd  </s>
+<s> there are many gigabyte &quot;ga-k8&quot; motherboards: which one do you have?  </s>
+<s> i have the gigabyte ga-k8n51gmf -9 ,according to cpuz.  </s>
+<s> i have found out that my 2 x 512mb actually runs in dual channel currently, now im not sure if adding a 1gb stick will effect that.  </s>
+<s> vapcmd gave you an excellent plan of action to learn how to add more ram to your motherboard.  </s>
+<s> according to the manual, having three modules installed &quot;will cause system unable to boot.&quot; i'd stick with what you already have or replace your existing modules with two identical 1gb modules.  </s>
+<s> you want to believe these folks.  </s>
+<s> and if that mobo # is correct.  </s>
+<s> you must install ram in pairs.  </s>
+<s> your mobo does not support dual channel.  </s>
+<s> crucial.com says the motherboard does not support dual channel mode.  </s>
+<s> vs. the motherboard specifications say it does indeed support dual channel mode. the manual goes into detail with a table showing which configurations of filled memory slots will enable dual channel mode.  </s>
+<s> whom should we trust???!! i usually go with the motherboard specifications over crucial.com.  </s>
+<s> i'd also make sure that the motherboard bios is up to date.  </s>
+<s> since crucial.com  </s>
+<s> takes pride in the accuracy of its information, i guess one could contact them to help clear the fog.  </s>
+<s> and i can't find where it noted dual channel memory operation.  </s>
+<s> bob  </s>
+<s> i might be looking at the wrong one, but i was looking at the &quot;dash-9&quot; model (ga-k8n51gmf-9).  </s>
+<s> you need pairs.  </s>
+<s> i see we already covered the &quot;there is no such thing as dual channel memory&quot;.  </s>
+<s> bob  </s>
+<s> didn't look at the manual vapcmd ga-k8n51gmf-9 1. amd athlon64 x2/ athlon64 socket 939 platform 2. integrated nvidia cinefx 3.0 graphics engine 3. supports dual channel ddr400 memory architecture 4. supports nvidia sata 3gb/s and raid 0,1,0+1,5 function 5. integrated gigabit ethernet solution with nv firewall support 6. integrated t.i. ieee1394 firewire interface related link # overview # specification # bios # driver # manual # faq # cpu support list # comparison sheet # awards # where to buy specification processor 1. socket 939 supports amd athlon64 x2/ 64 fx/ 64 chipset 1. nvidia geforce 6100 and nvidia nforce 430 2. super i/o: winbond w83627 chip 3. integrated peripherals 1. via vt 6307 ieee1394 controller 2. cicada vsc 8201 gigabit lan phy chip 3. realtek alc880 audio codec memory 1. type: dual channel ddr400/ 333/ 266 -184pin 2. max capacity: up to 4gb by 4 dimm slots  </s>
+<s> many motherboard will activate dual channel if each bank has the same amount of ram.  </s>
+<s> so you could put your 2 existing 512mb sticks in one bank, and a new 1gb stick in the second bank.  </s>
+<s> (see your mobo/pc manual to identify which bank a slot is part of.) if 2gb is your goal, that's probably the best way to go since all 3 sticks will be running at full ddr-400 speed.  </s>
+<s> thanks, btw..if my memory doesnt run in dual channel why does it say &quot;memory runs at dual-channel&quot; when i boot?? i no this is a bit of-topic but, if i upgraded to an am2 motherboard and got a x2 am2 processor, will i need to get ddr2 memory or can i still use ddr on a ddr2 motherboard??? thanks in advance  </s>
+<s> re: you question... thanks, btw..if my memory doesnt run in dual channel why does it say &quot;memory runs at dual-channel&quot; when i boot?? not sure i follow the question...sounds like you are taking advantage of the dual channel architecture with your 2-512mbs dimms in dimm slots 1 and 3. it simply takes 2 dimms ...usually matching (same capacity, same speed) to complete the circuitry design.  </s>
+<s> i no this is a bit of-topic but, if i upgraded to an am2 motherboard and got a x2 am2 processor, will i need to get ddr2 memory or can i still use ddr on a ddr2 motherboard??? thanks in advance don't know of any am2 mbs that use ddr..the design is for ddr2 and if you found such a mb, you'd suboptimize system performance.  </s>
+<s> the only good new is ddr2 has dropped in prices rather dramatically since christmas.  </s>
+<s> vapcmd  </s>

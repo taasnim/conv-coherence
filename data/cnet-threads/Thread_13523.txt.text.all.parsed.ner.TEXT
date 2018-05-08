@@ -1,0 +1,58 @@
+<s> i am freaking out.  </s>
+<s> i received a maxtor one-touch 500 gig external hard drive for my birthday last year.  </s>
+<s> i have been using it without any problems up until today.  </s>
+<s> i have all my music, all my backups, and all my videos stored on this thing.  </s>
+<s> today, i open up the next episode of bones with vlc media player, and it plays the first 8 seconds and freezes.  </s>
+<s> curious, i open up other files in the same folder, and they all behave the same.  </s>
+<s> so, i figure now would be a great time to defrag my external, and my computer.  </s>
+<s> i also run ccleaner, spybot, and uninstall some old programs.  </s>
+<s> the problem is now worse.  </s>
+<s> it seems that around 70% of my eternal is messed up in some way, even the .txt  </s>
+<s> files!  </s>
+<s> i can click on an episode from house md, and vlc or wmp will play a song from journey! they are in completely separate directories, but are somehow connected.  </s>
+<s> the documents i had stored on there respond similarly.  </s>
+<s> if they are linked to something that notepad is not meant to read, they display strange characters or boxes.  </s>
+<s> i have no idea what is going on, but it seems like something has messed with the file structure and cross-linked files for some strange reason.  </s>
+<s> wiping my external and replacing all the lost media will take months, and i probably wont be able to recover everything.  </s>
+<s> if there is any way to correct the file system and make it so that bones episodes dont play music from my turisas collection, i would love to hear it.  </s>
+<s> things i have done: defraged several times uninstalled and re-installed vlc downloaded codec packs restarted tried other media players cried scanned for viruses stubbornly clicked videos over and over, hoping for different results died a little inside googled like a madman made a cnet account.  </s>
+<s> with a corrupted hard disk, defragging is one of the things you certainly should not do.  </s>
+<s> chkdsk with repair option is the only sensible thing.  </s>
+<s> all you can do now: format the drive (the partition) and start all over.  </s>
+<s> and, yes, you'll lose everything that you don't have a backup of.  </s>
+<s> that's a very common thing with external drives.  </s>
+<s> there are several reasons this could have happened: 1. bad disk, bad case, bad cable. the best thing to do then: throw away the broken component.  </s>
+<s> 2. unreliable usb-port on the pc. the best thing to do then: use another usb port.  </s>
+<s> 3. you didn't 'safely remove hardware'.  </s>
+<s> the only remedy: don't do that again.  </s>
+<s> 4. a one-time power interruption.  </s>
+<s> difficult to prevent except using an ups. 5. a one-time software fluke.  </s>
+<s> can happen.  </s>
+<s> difficult to prevent.  </s>
+<s> sorry to read about your loss.  </s>
+<s> be more careful in the future.  </s>
+<s> maybe the bones collection on dvd (see for example) is a nice birthday present for this year?  </s>
+<s> kees  </s>
+<s> so, the one thing i had yet to try was to unplug my external, and then start it back up.  </s>
+<s> worked like a charm.  </s>
+<s> but i assumed all that work you mentioned had taken several days, including at least one shutdown each night and reboot each morning.  </s>
+<s> so either all that work was done in just one day, or you're one of that people that leave their machine on continually.  </s>
+<s> that's not what windows is made for.  </s>
+<s> anyway, don't forget the lesson about backup of data on an external.  </s>
+<s> if you read through this forum, you'll see many posts about problems with external drives resulting in data loss.  </s>
+<s> kees  </s>
+<s> nope, all this took place in the space of a few hours.  </s>
+<s> see, i was going to have a friend over to watch the shows with me.  </s>
+<s> when i started one of them to see if everything was fine and it didnt work, i freaked out.  </s>
+<s> i happen to be one of those people who leave their computer on continuously.  </s>
+<s> i have read that starting up is the most stressful thing a hard drive can do, so i thought i was doing my system a service by leaving it on continuously.  </s>
+<s> how exactly is windows not made for continuous running?  </s>
+<s> i thought the only time windows needed to reboot was when a program was installed.  </s>
+<s> i don't think turning a harddrive off and on each day does have any negative influence on it's lifetime.  </s>
+<s> in fact, it can be argued it has a positive influence.  </s>
+<s> mean time between failures is measured in hours of operation, without any mention of stops during that period.  </s>
+<s> there are hard drives in camcorders and mp3-players that only run when needed (to conserve battery live).  </s>
+<s> windows has energy-saving options that turn off the hard drive after a certain period of inactivity.  </s>
+<s> they wouldn't do that if it's harmful.  </s>
+<s> the main effect of leaving a computer on 24/7 is a higher electricity bill. the price of the power consumed during the night in the lifetime of a pc is comparable to the price of a new hard disk.  </s>
+<s> kees  </s>

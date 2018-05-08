@@ -1,0 +1,21 @@
+<s> i recently clicked on a theme in the display properties that turned all of my windows black.  </s>
+<s> i cannot see anything to switch it back.  </s>
+<s> i tried to delete the theme, but it is still on my desktop and showing black windows.  </s>
+<s> how can i remove this theme?  </s>
+<s> switching to a new theme through the control panel? could also be the case where the program was actually a virus, in which case, i would follow the wisdom of grif (post 4 of 8)  </s>
+<s> have you tried ... switching to a new theme via the control panel?  </s>
+<s> yes, but unable to see because the windows are black.  </s>
+<s> have tried a registry cleaner as well, but the theme is still active.  </s>
+<s> is there a manual way to unload the theme?  </s>
+<s> to bring up any programs on your computer, or is the screen completely black (no icons, internet access, etc.)?  </s>
+<s> yes, i can bring up other installed programs and see some or most of the programs functions and dialog boxes; but cannot see any windows dialog boxes or any windows within the os. cannot see the display property window/themes to change the &quot;theme&quot;.  </s>
+<s> having to guess where the ok/cancel buttons are.  </s>
+<s> it's in the &quot;owners&quot; profile. is there a way to unload personal settings for all of the users on a windows xp home edition os?  </s>
+<s> hi, i fixed it!  </s>
+<s> what i did ... i created another profile, documented the key commands in the display property dialog box, and chose a plain windows theme.  </s>
+<s> went back into the problem profile and went through the steps.  </s>
+<s> it worked!  </s>
+<s> this got rid of the corrupt theme and fixed the issue.  </s>
+<s> my thought .. there may have been some files missing on the problem theme that caused a glitch.  </s>
+<s> thank you for all of your help!  </s>
+<s> sincerely, scharry ps. no more 3rd party themes!  </s>

@@ -1,0 +1,35 @@
+<s> i have four seagate 40gb ide hard drives that were removed from working pcs.  </s>
+<s> in each case, the drive was reformatted in the pc. my aim was to use these drives as (free) medium-capacity backups -- mostly for video projects.  </s>
+<s> i bought an ide-to-usb adapter cable that plugs into the back of the drive, so the drives can be used as enclosure-less externals.  </s>
+<s> out of the four drives, only one works with the cable. the other three don't spin up. the drives seem to try to spin, but just repeatedly lurch and beep (i can feel the drive twist when i touch it).  </s>
+<s> i suspected that the cable wasn't providing enough power, but checking with a multimeter, the power cable provides the necessary 5 and 12v with upwards of 5 amps.  </s>
+<s> at least very close to the needed voltages (4.9 and 11.8).  </s>
+<s> is the adapter cable's power supply the problem?  </s>
+<s> i don't understand why all four worked in a pc, but only one works with the cable.  </s>
+<s> thanks.  </s>
+<s> if so, there isn't going to be adequate power to run an external 3 1/2 inch drive.  </s>
+<s> taking current measurements with a multimeter is a tricky and imprecise process as well.  </s>
+<s> you can't really measure what can be provided but only what is being drawn at any one time.  </s>
+<s> as well, motors need much more current to start them than to keep them spinning.  </s>
+<s> the rule i remember from long ago is 7x current to start.  </s>
+<s> this won't apply universally today but might give you an idea of what to expect.  </s>
+<s> you should be able to plug just the power connector from the 4 pin molex on a computer's ps and get it to spin without a data cable connected.  </s>
+<s> if it does, the drive's mechanical system is ok. if not, the drive is probably beyond its usefulness.  </s>
+<s> need more info on the system you are using, specifically psu capacity, might be underpowered for the task(s).  </s>
+<s> no, the power doesn't come from the ide/usb cable.  </s>
+<s> there's a separate cable to a wall outlet. the power supply is marked saying the output is 2 amps. the drives say 5v @ 0.85a and 12v @ 0.75a.  </s>
+<s> if the ext.  </s>
+<s> cable setup was correctly attached and the drives are jumpered or setup right as well, then that only leaves the small ac wart providing power.  </s>
+<s> understand the 40gb hds are older and tend to be wanting more power than newer hds as the int.  </s>
+<s> hd motor is more power demanding.  </s>
+<s> on top of all that any past wear&tear of the hds could be enough to overcome the initial startup juice required, in other words, no ummfff!!! to get it spinning.  </s>
+<s> -or- they are spinning(very quiet) but yet another connection problem exists, they aren't being recognized for whatever reason.  </s>
+<s> i have an ada-2020(like yours???) and works work quite well until i deal with much older drives to includes cd. check the hd specs for the jumpering, some older hd needed dual jumpers when operating alone.  </s>
+<s> while there, the specs should state the power demands.  </s>
+<s> need, be sure the contacts are clean.  </s>
+<s> follow that and inspect the specs of the ac wart to compare.  </s>
+<s> also, unless you have a amp clamp to gauge the true draw of power, a typical meter just won't do unless that's an option.  </s>
+<s> tada -----willy  </s>
+<s> the ada-2020 is pretty much what i have. the drives aren't merely running quietly, as i can hear them repeatedly trying to spin.  </s>
+<s> oh well.  </s>
+<s> at least the whole exercise didn't cost me anything.  </s>

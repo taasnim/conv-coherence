@@ -1,0 +1,106 @@
+<s> help! no ping responses in simple 2-node mac&lt;-&gt;pc wired lan i've been trying for weeks , but i just cannot get even the simplest ethernet two-node lan working under mac os 8.6 (or 8.5.x either) and windows xp home sp2.  </s>
+<s> this is a direct, wired ethernet lan with only two nodes.  </s>
+<s> there is no router or gateway present, and internet connection sharing is not desired.  </s>
+<s> i'm using miramar's pc maclan v 8 software for intercompatible file sharing.  </s>
+<s> current problem: no pings get responses in either direction from either side.  </s>
+<s> on the mac side: direct ethernet connection to pc via d-link 10/100 switch all link and activity lights on switch flash in reponse to ping, and all show speed is 100, full duplex ip address hard, manually assigned to ethernet nic: 192.168.0.4 / 255.255.255.0 correctly formatted ot hosts file used for all local lan addresses, no dns no gateway or dns ip addresses associated with that nic/connection no routers present no direct connection to modem, broadband or otherwise.  </s>
+<s> self-pings by both name and ip address are fine.  </s>
+<s> all pings to the pc fail (timeout without any response).  </s>
+<s> on the pc side: windows xp home sp2 direct ethernet connection to mac via d-link 10/100 switch all link and activity lights on switch flash in reponse to ping, and all show speed is 100, full duplex ip address hard, manually assigned to ethernet nic: 192.168.0.2 / 255.255.255.0 hosts file used for all local lan addresses, no dns no gateway or dns ip addresses associated with that nic/connection no routers present no direct connection to modem, broadband or otherwise.  </s>
+<s> xp's tray and related displays show nic is active and connected.  </s>
+<s> self-pings by both name and ip address are fine.  </s>
+<s> all pings to the mac fail (timeout without any response).  </s>
+<s> mac hardware configuration: power computing powerbase ppc macintosh with ata disks and 3 pci slots, running mac os 8.6 and open transport 2.0.3.  </s>
+<s> nic is daynaport 10/100 pci ethernet card.  </s>
+<s> i've tried it on two different ethernet hubs, and it's currently connected to my windows xp pc via a d-link 10/100 switch. the latest driver compatible with macos 8.6 is installed and running and reports no error.  </s>
+<s> and i know the pci slot in question is working (it worked fine with a scsi hba there).  </s>
+<s> now, here's a possibly telling but puzzling fact: on the windows side, there is a display showing the connection status and other details of the ethernet nic connection, and it consistently shows that zero packets have been recieved.  </s>
+<s> however, when i ping the pc from the mac (mac -&gt; pc), the count of packets the pc has sent increments for each ping!  </s>
+<s> unfortunately, the mac still reports all pings have failed.  </s>
+<s> i desperately need help, please.  </s>
+<s> 1. who installed the pc's os? many don't install needed motherboard drivers.  </s>
+<s> 2. i can't find the discussion but we went down all the menus and checked xp's firewall and more settings to discover it was still not doing ping. the acid test was to boot up pclinuxos from cd and ping worked fine.  </s>
+<s> so the hardware was good but no ping.  </s>
+<s> ftp and the web worked fine so we ended there since we knew the pc's os was corrupt but they felt it was not worth a reload just to get ping working again.  </s>
+<s> bob  </s>
+<s> hello, again, bob!  </s>
+<s> it's great to hear from you! the pc is a hewlett-packard pavillion, so hp installed windows xp home prior to shipment.  </s>
+<s> i've also repeatedly run windows/microsoft update and installed every urgent and just about every optional software update.  </s>
+<s> and i'm using zone alarm pro for my firewall, not windows'.  </s>
+<s> i've ensured that all local lan ip addresses are in the trusted zone, and i've also tried exiting the firewall completely, but that didn't help.  </s>
+<s> i used to have a unix-derivative bootable cd, named something like toppix(?). do you think it would be worth re-downloading and burning a new copy to try it's ping (assuming it provides one)?  </s>
+<s> since there is no easy way to insert an internet connection into this simple loop, and i have no desire to do so (certainly not before i have established at least minimal communications), the only networking i will be doing is file and folder sharing, aided by pc maclan. the shared folders on both machines are correctly set up and registered, but neither machine's shared resource finders can see the other. it seems i have nothing but difficult problems, eh?  </s>
+<s> is where we dive deep into the windows settings and they discover a setting they never saw before.  </s>
+<s> zone alarm is something that can drop ping too.  </s>
+<s> but if you read on we finally get a good test with pclinuxos and call it a day since we have good hardware. the mystery was never truly solved.  </s>
+<s> bob  </s>
+<s> thanks for the link.  </s>
+<s> i read the directly relevant parts of the tech document, then went and allowed/enabled everything in both icmp-related areas of the ethernet controller's settings.  </s>
+<s> still no luck.  </s>
+<s> and to further explore bypassing the ping problem alltogether and instead relying on the file sharing applications, i tried searching for the mac's shared folder in the network places (under the miramar file sharing component of the network places), but i coulnd't find it.  </s>
+<s> i tried creating a new share point there and hard-coded the mac's ip address, but that didn't work either.  </s>
+<s> so i'm currently downloading the minime version of the current release pclinuxos live cd and will burn it and carry it over and try it.  </s>
+<s> any ideas where to find the ping feature there?  </s>
+<s> the short version is to open a shell or command window and type ping this or that.  </s>
+<s> bob  </s>
+<s> as i said, i downloaded and burnt the 93a minime iso.  </s>
+<s> and at first, everthing seemed fine.  </s>
+<s> i verifed the md5 checksum, then tried a normal boot.  </s>
+<s> everything looked fine, but after running through all the setup without visible error, it &quot;booted&quot; into a blank grey screen and sat there doing nothing.  </s>
+<s> so i tried booting it into ram with noapci and nolapci (sp?). that did exactly the same thing.  </s>
+<s> can you offer any assistance, or should i try getting knoppix instead, or what?  </s>
+<s> i read more of the pclinuxos user's guide and decided i'd better try a safeboot.  </s>
+<s> there were a few reports of this or that not found, but nothing seemed fatal.  </s>
+<s> then it displayed some text that began with something like &quot;loading gui... (and another paragraph of text that disappeared too fast to read)&quot;, then it went into the grey screen of death (i.e., nothing but a blank grey screen).  </s>
+<s> i'd try a current ubuntu or the rather nice pclinuxos 2007 tr3.  </s>
+<s> bob  </s>
+<s> i've looked into ubuntu, but unlike pclinuxos and knoppix, it doesn't appear to download a burnable, bootable iso.  </s>
+<s> do you know any different?  </s>
+<s> and i'm sure you'll understand why i'm going to stay away from pclinuxos 2007 tr3, since the other recent version doesn't even boot properly on my pc. so, unless you tell me differently about a directly burnable, bootable ubuntu iso, i'll stick with knoppix unless you know a reason not to do that.  </s>
+<s> you go get some .exe and it makes the iso.  </s>
+<s> but i run and use the pclinuxos tr3 for now and hope to see tr4 by next week.  </s>
+<s> for me it's all good.  </s>
+<s> sorry you are skipping the new 2007 because an old distro is dead.  </s>
+<s> for me i have 3 livecds for such troubleshooting.  </s>
+<s> hope knoppix behaves.  </s>
+<s> bob  </s>
+<s> i just booted up v 5.1 (jan 2007) of the knoppix cd, and it booted and ran great.  </s>
+<s> wow, they sure have improved the hell out of it since i last used it!  </s>
+<s> like they've added full read-write ntfs (which i'm sure pclinuxos has had for a while, too).  </s>
+<s> it's pretty cool, actually.  </s>
+<s> i'm gonna be playing around with it much more. the only problem is that knoppix seems too powerful.  </s>
+<s> it looks like there's dozens of different ways to do the same thing, according to taste.  </s>
+<s> anyway, the gui's pretty intuitive.  </s>
+<s> i found the nic configuration tool and set up the ethernet's lan with the same settings as windows.  </s>
+<s> i also disabled knoppix's built-in firewall.  </s>
+<s> then i opened a shell window and pinged away. the results are just what we've seen in windows.  </s>
+<s> self-pings work great, pings out to the mac time-out and fail with a message indicating an &quot;unreachable host&quot;.  </s>
+<s> damn.  </s>
+<s> i'm still eager for ideas, but i'm gonna go crash for 8-9 hours.  </s>
+<s> see ya, bob.  </s>
+<s> i think it's a hardware issue.  </s>
+<s> what spare network card is there? is there a bios &quot;defaults&quot; in the bios screen?  </s>
+<s> why i ask is someone sometime had &quot;locked down&quot; the irq assignments and gummed up the works.  </s>
+<s> they were remembering the bad old days of isa bus and needed a little push to pci.  </s>
+<s> bob  </s>
+<s> critical new info -- the macintosh is at fault.  </s>
+<s> i finally got the chance to borrow someone's laptop and tried, one after the other, connecting to the two primary machines.  </s>
+<s> i tried talking to the mac first, using windows on the laptop, and the symptoms were the same as always.  </s>
+<s> then i decided to boot up the live cd of knoppix on the laptop, just to make sure the problem wasn't windows, and that failed too.  </s>
+<s> so i connected to the main pc running windows xp with knoppix on the laptop, and lo and behold, it worked perfectly!  </s>
+<s> that also gave me a way to test all the cables, and all of them are working fine, and naturaly we now know the d-link switch is working right, also.  </s>
+<s> i sincerely thank everyone who's helped get me this far!  </s>
+<s> now: can anyone help me solve the mac's problem without without investing more money into this old mac?  </s>
+<s> please recall that i've already tried two different nics in the mac: one asante and one dayna.  </s>
+<s> all indications are that the dayna is working better.  </s>
+<s> so how about we proceed for the time being on the assumption that the mac's dayna nic is working, and that there's some software problem?  </s>
+<s> i don't have a third nic to try.  </s>
+<s> everyone's embedding them in their mobos these days.  </s>
+<s> but if in a few days the problem remains, then i will buy a new nic for the macintosh.  </s>
+<s> it's time to post this in the mac hardware forum.  </s>
+<s> tell a little there and link to this discussion and macfixit our mac guru will likely respond.  </s>
+<s> you can see why we used the livecd.  </s>
+<s> if not we would have pointing at the pc till no end of time.  </s>
+<s> my only thought here is wiring.  </s>
+<s> i wonder if the cable was homemade.  </s>
+<s> bob  </s>

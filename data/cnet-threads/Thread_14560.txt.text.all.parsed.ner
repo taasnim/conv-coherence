@@ -1,0 +1,7 @@
+(TOP (SBARQ (SBAR (IN if) (S (NP (PRP you)) (VP (AUX had) (S (VP (TO to) (VP (VB choose) (PP (IN between) (NP (DT these) (CD two) (NNS motherboards))) (PP (IN for) (NP (PRP$ your) (JJ desktop) (NN pc))))))))) (, ,) (WHNP (WDT which) (NN one)) (SQ (MD would) (NP (PRP you)) (VP (VBP go) (PP (IN for)))) (. ?)) )
+(TOP (S (NP (NP (NNS asus)) (ADJP (JJ p4s800d-x) (CC or) (JJ tyan))) (VP (VB s5101an) (ADVP (RB regardless) (PP (IN of) (NP (DT the) (NN price))))) (. .)) )
+(TOP (NP (NNS thanks) (. !)) )
+(TOP (S (NP (NP (RB only) (DT the) (NN choice)) (PP (IN between) (NP (DT the) (CD two)))) (VP (VBZ ..) (SBAR (S (NP (PRP i)) (VP (MD 'd) (VP (VB get) (NP (NP (DT the) (NN p4s.)) (SBAR (S (NP (PRP it)) (VP (AUX has) (NP (NP (DT the) (NN 800fsb)) (PP (IN over) (NP (DT the) (NNP 533fsb))))))))))))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX have) (VP (VP (VBN used) (ADVP (RB asus) (RB exclusively)) (PP (IN for) (NP (CD ten) (NNS years)))) (CC and) (VP (MD would) (RB n't) (VP (VB think) (PP (IN of) (S (VP (VBG using) (NP (NP (NN anything)) (ADJP (RB else)))))))))) (. .)) )
+(TOP (FRAG (WHADVP (WRB why)) (RB not) (VP (VB think) (PP (IN about) (NP (DT the) (NN p5)))) (. ?) (CC and) (S (NP (NN life)) (VP (VBZ goes) (PP (IN on) (NP (NN ..)))) (. .)) (NP (NN jack))) )
+(TOP (S (S (NP (DT both)) (VP (AUX are) (NP (JJ good) (NNS mb)))) (, ,) (S (NP (NN tyan)) (VP (AUX is) (ADVP (RB best)) (VP (VBN known) (PP (IN for) (NP (NP (JJR server) (NNS mbs)) (VP (VBN .john)))))))) )

@@ -1,0 +1,22 @@
+<s> lokking to upgrade my gateway gt5628 (intel core2quad q6600 3 gb ram win7 64bit ultimate, 1 free pci-e slot) with a sata 6g raid controller card.  </s>
+<s> i see a broad spectrum of prices and would like to know if anyone has any idea of who makes a decent one in a sub $100 price range.  </s>
+<s> i've seen too many now with zero instructions on how to rebuild arrays or one word on data recovery.  </s>
+<s> i wonder if i'm jaded from the days when adaptec supplied very nice guides and more.  </s>
+<s> bob  </s>
+<s> you need to verify how any new i/f card will work.  </s>
+<s> that is will it work in conjunction with the current sata mtrbd.  </s>
+<s> ports or not.  </s>
+<s> if not, then it may take full control on the sata devices so it can have the 6g ability and lessen any difficulties with the on-board controller.  </s>
+<s> if in conjunction, working with the sata mtrbd.  </s>
+<s> ports it will act sub-servant to those, but allow full 6g access.  </s>
+<s> one reason for the price variance and what if any differences become evident, so look carefully.  </s>
+<s> these so-called bridge adapters, etc..may work well or not depends on what the actual need is.  </s>
+<s> since, you have on-board sata that are intel chipset supplied these tend to work pretty good but are conservative but usually rock solid.  </s>
+<s> another good thing about intel, they readily offer update support.  </s>
+<s> if possible look for another intel based i/f card, if not available then siig, via or nec chipset based.  </s>
+<s> controllers, iho.  </s>
+<s> tada -----willy  </s>
+<s> i want to disable the on-board sata, if i can find a board supporting 4 ports.  </s>
+<s> i'm planning to upgrade to a 120gb sata ssd for my boot drive and use my wd 2tb as my storage drive and run my sata dvd drive.  </s>
+<s> i've used siig scsi cards and was never as comfortable with them as i was with adaptec.  </s>
+<s> i'm not planning on running raid because the gt5628 case is too tight for a third drive (no heat issues with the crucial ssd but the wd's throw some heat) i have a server case that i'm going to be moving the drives to eventually but i'm having too much fun getting this 5628 to run when gateway tells me that it won't!) thanks for the advice.  </s>

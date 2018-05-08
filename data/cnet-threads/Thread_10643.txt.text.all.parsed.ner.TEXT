@@ -1,0 +1,62 @@
+<s> hello, for a variety of reasons i want to replace my old verizon supplied westell c90-36r516-01 adsl modem with a zoom 5554a.  </s>
+<s> i can configure the zoom modem and write settings to flash no problem however i have not been able to get an internet connection.  </s>
+<s> client machines always get an ip address from the modem but the modem doesn't appear to get an ip address itself.  </s>
+<s> in the diagnostics the modem ip address is shown as 0.0.0.0 i get a solid green adsl light on the modem and the diagnostics always pass the atm tests.  </s>
+<s> i've tried both 1483 bridged llc and pppoe llc as the encapsualtion methods.  </s>
+<s> i expect my circuit uses 1483 for several reasons inlcuding: -my old modem appears to be pre-pppoe -i don't use a pppoe connectoid, just a normal connection for my dlink nic -i've never needed a password to connect using the westell modem -verizon tech support told me my circuit uses dhcp (which i construe to mean 1483 bridged llc/dhcp) -the verizon online help tool also suggests that my circuit uses dhcp client machines have included an older compaq ez2600 and a newer dell dimension both running winxp home sp2.  </s>
+<s> there are no firmware upgrades listed on the zoom website for the 5554a.  </s>
+<s> i've also tried different phone cords, jacks and ethernet cables any additional ideas for configuring the modem or diagnosing this problem would be appreciated  </s>
+<s> you need to set the modem's properties to vpi=0 and vci=35.  </s>
+<s> dw  </s>
+<s> thanks dick, i didn't mention those parameters previously.  </s>
+<s> i did indeed set 0 and 35 for the vpi and vci settings  </s>
+<s> that does not work right out of the box, and tech support cannot get it to work, i return it and try another make.  </s>
+<s> but why are you down on the westell?  </s>
+<s> thanks michael, reason's for replacing the westell modem: 1) consolidation of parts: the westell is a modem only and a large one at that. the zoom has modem, nat and ports and will fit nicely in my wiring cabinet 2) the ip addresses i get using the westell modem don't work with windows media connect 3) i've had some odd problems getting multiple ip addresses lately.  </s>
+<s> may be a problem on verizon's equipment but the first two cases are reasons enough to upgrade.  </s>
+<s> i agree that getting this modem to work has been unreasonably hard.  </s>
+<s> with many years of fixing problems i usually stick with it for a while  </s>
+<s> i would have cut bait and tried another peice of chum by now.  </s>
+<s> but i might take another look at what verizon requires to log in to their network.  </s>
+<s> adsl connections i have worked with need a user name and password to pass muster.  </s>
+<s> i tried a while back to reconfigure an excess sprint modem (zyxel) for use as a backup to my 5 yr old westie b90 (the predecessor to your c90, back when verizon was still bellatlantic and had you been using dsl at that time, as an exgte customer you would have had a fujitsu frame relay modem...).  </s>
+<s> i could never get it to connect, no matter what i tried.  </s>
+<s> i read on another forum of someone who had purchased on ebay a westell 2200 (2 versions after your c90) only to find that the variant of it used by swbell (which that fellow discovered later was the where the ebay seller had obtained it) could not be reconfigured for verizon.  </s>
+<s> it was said that verizon does something unknown at the dslam which seems to put off a lot of modems not originally issued by verizon.  </s>
+<s> you make the third &quot;victim&quot; i've come across.  </s>
+<s> i'm sorry, but it just may not be possible to get that modem to work.  </s>
+<s> unfortunately, the difficulty is that the modem manufacturer's general tech support teams have no idea what verizon's settings and requirements are, and the verizon tech support teams have no interest or useful information for helping you configure a device they didn't provide.  </s>
+<s> you might continue to play with it, or take some other approach.  </s>
+<s> btw, what did you mean by the ip addy doesn't work with media connect?  </s>
+<s> also, by getting multiple ip addies, did you mean the wildly rapid rotation through addresses (every 15 minutes) that the west coast has been suffering from recently?  </s>
+<s> dw  </s>
+<s> thanks for the additional background dick.  </s>
+<s> in terms on multiple ip adresses i was refering to addresses for the machines on my home network.  </s>
+<s> after working fine for 3 years with 2 - 3 pcs and a wap, one day i could reliably only get a single ip address for a specifc machine.  </s>
+<s> even connecting each machine directly to the modem without going through a hub made no difference.  </s>
+<s> very weird.  </s>
+<s> verizon's solution was to wipe and start over:) i did see for a long time that my ip addresses expired every 15 minutes.  </s>
+<s> today they expire at 2 hours.  </s>
+<s> windows media connect only works within specified address ranges and the address i typically get from verizon falls outside of any of those ranges.  </s>
+<s> the verizon terms of service for the east coast (going back to bellatlantic) has always been one ip address per customer account.  </s>
+<s> if we had more than one computer, we had to install a router or use some form of proxy sharing.  </s>
+<s> in the west (i.e., exgte, which actually includes a few east coast areas...), you have long had dhcp (though that is slowly being transformed to pppoe, and in the next year or two you may be involuntarily converted, so the tech rumor mill sez...) and the terms of service at one time made no mention of limits on the number of ip addresses that could be pulled.  </s>
+<s> customers with more than one system used a simple hub or switch and pulled as many ip addresses as needed.  </s>
+<s> several years ago they conformed the tos for all regions, and on paper forbid more than one ip per customer.  </s>
+<s> they didn't start enforcing that until recently.  </s>
+<s> there were lots of surprised customers like you.  </s>
+<s> so what can you do?  </s>
+<s> get a router.  </s>
+<s> in addition to the corporate benefit to verizon with a more efficient use of the finite number of ip addresses, you get lots of benefits from a router too.  </s>
+<s> it costs you $20-30, but everybody is better off for it.  </s>
+<s> that's a different discussion, but now you know what happened to you. the 15 minute rule was another piece of all that.  </s>
+<s> for certain west coast states that were being assigned addresses in the 71. range, they tried to recover and then reuse addresses as soon as customers turned off their systems so they set a 15 minute lease.  </s>
+<s> theoretically, a router or system that complies with the dhcp standards is supposed to begin renewal proceedings at mid-lease (which would be 7.5 minutes) and that would keep the address as long as needed.  </s>
+<s> in practice, it was a disaster, and customers were being dropped every 15 minutes, their routers would automatically reconnect, but they'd get whatever new address was coming up in rotation.  </s>
+<s> whether 2 hours is a viable easy solution or whether they (vz) need get their act together and develop a better system from the ground up is an open debate for another time, but again, now you know what happened to you, you weren't alone.  </s>
+<s> i'm not familiar with the media connect.  </s>
+<s> if it is designed to work only with internal networks of non-public ip addresses (or in corporate situations where a block of contiguous public addresses are held by the network owner), then you should be fine on a home network that is set up behind a router.  </s>
+<s> that takes us back to discussion #1 above, one of the many reasons a router is good for you.  </s>
+<s> and so there you are, trying to make it all work right with a new modem/router/wifi and you just get the door slammed on your fingers because the modem piece of it won't work.  </s>
+<s> it's a kick in the head, and i feel your pain.  </s>
+<s> dw  </s>

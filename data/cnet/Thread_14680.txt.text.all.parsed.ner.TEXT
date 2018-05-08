@@ -1,0 +1,25 @@
+<s> i have two routers, one wired and another one wireless.  </s>
+<s> i have conected my cable modem to the wired router, and one connection from the router goes to the wan input of the wireless router.  </s>
+<s> when i conect my laptop to the wireless router via wirelesss adapter, i am able to browse the internet, but i cannot see the computer connected to the wired router.  </s>
+<s> ip address range of the wired router starts from 192.168.8.17 (the router itself is 192.168.8.1) whereas the address range of the wireless router starts from 192.168.0.100 (the router itself is 192.168.0.1) what can i do to make sure that computers on both wired and wireless networks can see each other?  </s>
+<s> unless your wifi router can be configured to be a wap, you'll need a wap.  </s>
+<s> anything else is too hard for most.  </s>
+<s> bob  </s>
+<s> as bob points out, your proposed configuration will work only if you can put the wireless router into wap-mode; some can, many of them don't, you'll have to figure that out yourself as we can't from here with the limited information available.  </s>
+<s> or, just substitute the wireless unit in place of the wired unit and discard the wired unit.  </s>
+<s> most of the wireless routers out there also have a set of wired ports too.  </s>
+<s> with the wireless router as master of the whole network, it will issue all the ip addresses to both wired and wireless clients.  </s>
+<s> problem solved.  </s>
+<s> dw  </s>
+<s> i believe that i have a solution for you, but i have to go home and check my settings first.  </s>
+<s> i had the exact same set-up, and desire to have both wireless and wired computers &quot;see&quot; each other.  </s>
+<s> with a small bit of help from my company's network admin, i got it set up like you (and i) wanted.  </s>
+<s> i'll try to get back to this thread in the next day or two (schedule permitting)  </s>
+<s> ok, as promised, i got my answer worked out.  </s>
+<s> unfortunately, the forms here didn't seem to want to properly format my simiple text diagrams (at least in the 'preview' mode.  </s>
+<s> so i set up my answer, including diagramming **my** network configuration on my web page at the following link: hope it works the same for you.  </s>
+<s> have fun.  </s>
+<s> i have found it nice a couple of times to move a computer to a new location and be able to use it wirelessly instead of trying to figure out how to route cables.  </s>
+<s> i'll leave the page up for the forseable future.  </s>
+<s> good luck.  </s>
+<s> larry bell larbel1@yahoo.com  </s>

@@ -1,0 +1,40 @@
+<s> hi, i built a pc a couple of years ago, with a gigabyte motherboard, ga-7dx, 1ghz amd processor.  </s>
+<s> it has been working fine, until recently, when it refuses to boot up upon pressing the power button.  </s>
+<s> initially i thought it may be a power problem, and indeed it still may be but i'm not sure.  </s>
+<s> basically when i press the power button nothing happens except for a single green light comes on (a light on the motherboard) which i believe is the dimm led.  </s>
+<s> so power does reach the board, but it doesn't boot up, any ideas?  </s>
+<s> thanks adrian  </s>
+<s> the real test here is to get it to beep.  </s>
+<s> no beeps means dead cpu, power supply or motherboard most of the time, but you have to strip it down to ... motherboard, cpu+hsf, power supply and the speaker.  </s>
+<s> no cards, ide cables, no video card, no ram, nothing but four parts.  </s>
+<s> if it beeps, good.  </s>
+<s> if not, you are looking at the four possible bad parts.  </s>
+<s> bob  </s>
+<s> i have tried the beep test and it does not beep. is there any way to test which is the bad part without purchasing new equipement, or will i have to purchase new equipement to test which part is bad?  </s>
+<s> thanks adrian  </s>
+<s> this is where a service shop has the advantage.  </s>
+<s> but at an average 120 dollar bill, you might beat them on that price even if you had to buy a new power supply, motherboard and cpu.  </s>
+<s> since it's an amd cpu and those do fry in under 1 second if the heatsink is not on proper, it's my first guess.  </s>
+<s> next is the power supply which you can test on another machine (spare parts?), but at 20-30 dollars for a 450 watt psu, that may be your first choice.  </s>
+<s> bob  </s>
+<s> i know it has taken its time but.... i purchased a new power supply and connected it all together, and it seem to be booting fine into windows, however something started to smell like it was burning so i switched it off.  </s>
+<s> now when i switch it on, i get a repeated beep noise (about 3-4 seconds) i've had a quick look around, and since my bios is a award bios, most sites tend to say that the beeping either means its a memory or a graphics card problem.... which one is it more likely to be because i don't have spare parts to check etc and could that be what i smelt burning.  </s>
+<s> i can't smell anything burning anymore when i switch comp on... thanks adrian  </s>
+<s> one of the problems at the office is we often buy 6 or more of the same board or such.  </s>
+<s> a batch of motherboards began to have issues, but not before we lost a few power supplies.  </s>
+<s> finally i looked deeper and sure enough the motherboard had the bad cap problem.  </s>
+<s> these bad capacitors not only cause booting issues that subside with bigger power supplies but can cause smoke and board scorch marks as the bad capacitors degrade and fail.  </s>
+<s> some short out and do other bad behaviours.  </s>
+<s> out of that batch of boards (6), only 2 are still running and we were able to find replacement motherboards so we'll swap those out if (and when) they glitch.  </s>
+<s> here's a site and pictures about this issue -&gt; bob  </s>
+<s> allow me to add to what robert has mentioned.  </s>
+<s> i believe the problem to be, &quot;twofold&quot;.  </s>
+<s> now, that you've replaced the power supply, the mtrbd.  </s>
+<s> fault was finally finished and it may have taken the new p/s with it.  </s>
+<s> or the p/s was bad to begin with and took the final stage of the mtrbd.  </s>
+<s> along with it.  </s>
+<s> what happens to you is common, especially with power problems.  </s>
+<s> if it is a bad cap, then unless you're willing to repair and hope for the best, i suggest to move on and get a mtrbd.  </s>
+<s> replacement. the 1ghz amd cpu was very demanding and to keep it may not be cost effective in the long run.  </s>
+<s> sorry, but that's imho more trouble than its worth, because now you ned to fix the mtrbd.(caps?) and buy yet another p/s to continue on.  </s>
+<s> good luck -----willy  </s>

@@ -1,0 +1,36 @@
+<s> i am having a monitor ibm p200 (6555-773) which is old ibm monitor with the following scpecification please go to that link but mainly the diagonal size 20&quot; dot pitch / pixel pitch 0.31 mm max resolution 1600 x 1280 max sync rate (v x h) 120 hz x 90 khz image colour temperature 9300k, 5000k interface vga (hd-15) i am looking for equivalent monitor which can work instead of that one and fulfilling the specs above , another question is what is the main parameters you can conside when u are looking for a monitor which will replace obslete monitor with a new one in the market nowadays ?  </s>
+<s> please help , that is urgently needed  </s>
+<s> refresh rate etc exactly.  </s>
+<s> there is a 20.4 samsung lcd.  </s>
+<s> remember that with lcd monitors the diagonal size is exactly the size advertised, while the crt monitors are much smaller diagonally. the native resolution for the 20.4 samsung is 1600 x 1200, since ther are 3 [thinfilm transistors per [1 red, 1 green, 1 blue] pixel, there arte a total of 1600 x 1200 x3 elements in order to fill up the lcd screen.  </s>
+<s> to use a lesser resolution the video/monitor circuitry runs an algotrithm to color the pixels that are not included in the resolution that you may use in order to still fill up the screen.  </s>
+<s> tft's can not be turned on and off as fast as the pixels in a crt, however because they stay on when turned on [they do not decay the way that the crt phosphur does] they can't run at the high refresh rates but really don't need to since they stay colored until the next color change.  </s>
+<s> possibly you should try to figure out exactly which parameters that are absolutely necessary for your application.  </s>
+<s> that monitor has both an analog and a dvi input available.  </s>
+<s> i am not toni, and not a moderator, just borrowing her computer.  </s>
+<s> i am asking if i am having obslete monitor and i have to select a new monitor from the market nowadays to replace it what kinds of parameters i should consider when i am selecting a new monitor so it can work ?  </s>
+<s> is my question clear ?  </s>
+<s> one parameter is resolution ?  </s>
+<s> , should be the same ?  </s>
+<s> what about vertical and horizontal freq ?  </s>
+<s> should be in the new monitor at least high than the old one ? is there any other parameters to consider ?  </s>
+<s> hope my question is clear ant not boring for you  </s>
+<s> in any way going to get obsolete.  </s>
+<s> crt monitors are still better monitors than lcd monitors for most uses.  </s>
+<s> however the newer lcd monitors are also excellent.  </s>
+<s> some will argue that the color on a crt can be better, the response faster if one is a gamer playing the most demanding games.  </s>
+<s> however, the light weight and easy handling of lcd's and the faster response time of the newer lcd's usually makes those arguments not hold much water.  </s>
+<s> only problem in comparing lcds response time is that the lcd manufacturers do not use the exact same spec when stating response time, thus not all lcd monitors stated to be 8 millisecond [or any other value of response time are equal]. the earliest lcds were about 35 millisecond response time, there are now claiming 4 millsecond.  </s>
+<s> in general the lower number response time should be better, but again, one cannot compare the stated response time values exactly.  </s>
+<s> crt monitors are normally lower price than lcd's, however the market for crt's is drying up thus the best models such as the top line sony's are not even made any more.  </s>
+<s> i am colorblind.  </s>
+<s> from what i read if one needs perfect color rendering to be happy, one must actually see the exact monitor that they want to buy to be sure of color satisfaction.  </s>
+<s> one cannot be assured of color rendering to their liking by reading a specification, or advertisement.  </s>
+<s> some lcd monitors can be run vertically like a page in a book as well as the normal horizontal use.  </s>
+<s> they include software that allows the two orientations.  </s>
+<s> presently the trend in lcd for the 20 inch and up monitors is toward the wide screen models.  </s>
+<s> the trend is to eventually support hdtv resolutions with a computer monitor, thus the ratio of height to width of the screen is is different than the crt and older lcd monitors.  </s>
+<s> you need to investigate such things as possible hdtv to really determine what you want in your monitor future.  </s>
+<s> you should be able to do some googling of the subject of htdv monitors and related computer info.  </s>
+<s> hope that this helps a little.  </s>
+<s> good luck.  </s>

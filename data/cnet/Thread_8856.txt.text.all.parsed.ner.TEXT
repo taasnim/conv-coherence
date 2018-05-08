@@ -1,0 +1,12 @@
+<s> nic is found in hardware manager, says is operating fine, but it doesn't show up in network connections window.  </s>
+<s> the amber light is on and i cannot ping any address, it just times out.  </s>
+<s> i am thinking the onboard nic might be bad.  </s>
+<s> what do you guys think?  </s>
+<s> see if you have an ip address.  </s>
+<s> adding a nic doesn't automatically create a network connection.  </s>
+<s> there are a lot of missing pieces here.  </s>
+<s> can you provide more details?  </s>
+<s> there are lots of things that can cause this.  </s>
+<s> one easy thing you could try is to right click the network connection and click repair.  </s>
+<s> that will release network settings, obtain new ones and flush the dns and arp cache.  </s>
+<s> i have seen that work and also not work, but it's a start.  </s>

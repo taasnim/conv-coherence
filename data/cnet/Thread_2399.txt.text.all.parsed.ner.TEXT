@@ -1,0 +1,27 @@
+<s> i have a problem on one of our home's computers.  </s>
+<s> last night the computer was working fine, but this morning, when the computer was turned on i got this error on the bios screen: &quot;remove disks or other media and press any key to restart&quot; the only problem is, there is no media in the only drive on the computer.  </s>
+<s> it doesn't have a floppy drive and it only has a dvd-rom and there's nothing even in that drive.  </s>
+<s> i hope someone here can provide some guidance on this.  </s>
+<s> thanks.  </s>
+<s> oh, btw system specs are: athlon 64 x2 5600 msi k9mm-v mobo 2gb ram winxp home sp2 if you need any more info, just let me know.  </s>
+<s> once again, thanks!  </s>
+<s> pedo  </s>
+<s> hey that's weird but you know a couple of days ago, my computer gave the same message even though there were no floppies or cds. then i realized that i had attached my external usb hard drive.  </s>
+<s> i know this sounds stupid (don't throw tomatoes at me !) but have you made sure you have absolutely nothing attached to this computer.  </s>
+<s> i'm talking about any peripherals other than monitor, keyboard, and mouse.  </s>
+<s> this may include usb flash drives or hard drives, pcmcia, xd, sd, microsd or other kinds of memory cards.  </s>
+<s> how about a printer ?  </s>
+<s> this is a stupid idea but maybe even a printer or other peripheral may be wrongly recognized by the system as &quot;media&quot;.  </s>
+<s> check all your usb ports, and all other peripheral interface ports just to make sure.  </s>
+<s> hope this works.  </s>
+<s> if not, maybe you could fiddle with the bios a little (if it even lets you into bios) like maybe disabling your dvd-rom drive if that's possible (or just physically removing your dvd-rom drive and re-installing it ?) let me know if and when you're able to fix it, and good luck !!!  </s>
+<s> i checked that, there's no usb devices/external devices connected, so that's not an issue...supposedly, (this isn't my computer it's my fiancee's brother's computer) it was fine the night before, but now it's not.  </s>
+<s> gonna try disconnecting the dvd-rom and will post the results if that fixes it.  </s>
+<s> thanks, pedo  </s>
+<s> seems to be fixed for right now...there are 2 hdd's in the machine - one 12gb ide and a 300gb sata. the 300gb is the primary drive and the 12gb is used only for some minor storage.  </s>
+<s> anyway, long story short, disconnecting the 12gb did the trick.  </s>
+<s> thanks for the help!  </s>
+<s> pedo  </s>
+<s> if no usb devices are connected (except maybe keyboard and mouse), then confirm that the proper hard drive is set to be the first boot device.  </s>
+<s> does booting to the xp cd or a linux livecd give you the same message?  </s>
+<s> ensure that the motherboard bios is latest available for your model from msi. also confirm that your motherboard battery is good (test with multimeter or replace).  </s>

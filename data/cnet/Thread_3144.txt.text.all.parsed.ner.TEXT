@@ -1,0 +1,8 @@
+<s> i recently installed a new video card and re-installed windows xp. after the windows re-intsallation, i notice that my sound is skipping quite a bit and other things sputter a bit, as well.  </s>
+<s> such as mouse and page movement.  </s>
+<s> sound is most noticable, though.  </s>
+<s> any suggestions?  </s>
+<s> clint  </s>
+<s> after a reinstall of the os, the next step is to load any motherboard/chipset drivers, then updated for xp sound/video/modem/nic etc drivers.  </s>
+<s> don't forget windows updates.  </s>
+<s> drop your hardware acceleration one notch at a time until it plays correctly.  </s>

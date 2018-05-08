@@ -1,0 +1,32 @@
+<s> does anyone know where i can learn what the ideal cpu temperature is?  </s>
+<s> i've heard 45 deg c when not being used and 65 deg c when heavily active.  </s>
+<s> i've been annoyed with my fan running at 80% all the time to ensure that my cpu stays cool.  </s>
+<s> so i just lowered it to around 65% and now my temperature hovers around 65% when i'm gaming.  </s>
+<s> i want to make sure i'm not going to blow the darn thing up.  </s>
+<s> thanks ahead of time.  </s>
+<s> heatsink fan you're running...kinda difficult to provide any further response.  </s>
+<s> download and run cpuz...then repost specifics.  </s>
+<s> vapcmd  </s>
+<s> i still have a prescott p4 3.6ghz and it idles at 52-57 c, but than the local temp is in the high 80s f. my p4 has gone up to over 100 degrees celcius, w/ no fan because for some reason, the automatic shutdown failed on me , and nothing happened to the processor...i'm using that computer right now to type out this response.  </s>
+<s> highly not recommended to try at home.  </s>
+<s> cpuz is a great program by the way.  </s>
+<s> processor(s) number of processors  </s>
+<s> maybe you need a better, higher performance cpu heatsink fan ...one that's quieter.  </s>
+<s> processor amd athlon fx model fx-62 opn tray adafx62iaa6cs opn pib adafx62csbox operating mode 32 bit yes operating mode 64 bit yes revision f2 core speed (mhz) 2800 voltages 1.35v/1.40v  </s>
+<s> max temps (c) 55-63 wattage 125 w l1 cache size (kb) 128 l1 cache count 2 l2 cache size (kb) 1024 l2 cache count 2 l3 cache size (kb) 0 cmos 90nm soi socket am2 amd business class no  </s>
+<s> i have just completed the setup of my new vista htcp.  </s>
+<s> i am using the il-90mv.  </s>
+<s> core 2 duo 2 ghz.  </s>
+<s> nmedia 200a case.  </s>
+<s> install went pretty well, i even got the viiv software installed and working correctly.  </s>
+<s> my issue is the cpu temp. the nmedia case has two temperature sensors that display cpu and case temp on the vfd.the cpu temp starts around 75 f and within 30 minutes heads up to about 93f. it will then stay at 93 f for as long as i have it on.  </s>
+<s> ___________________________________________________ find a florist in phoenix cheapest loans casas vilafranca ringtone downloads  </s>
+<s> i didn't realize that utility actually tells you the temperature.  </s>
+<s> thanks again  </s>
+<s> i have an athlon 64 3200+ venice on socket 754 (its ancient but it works for me along with vista) connected to a thermaltake golden orb ii with no fan control but running at 2200rpm tops and arctic silver 5 grease.  </s>
+<s> it is very good if it runs 20^c but anything under probably may be sensors incorrection up to what you said.  </s>
+<s> anything higher, you should probably turn off the machine and check if the heatsink is properly attached or if the thermal grease needs to be wiped and freshly applied.  </s>
+<s> if there is no grease but a tape, buy a small pack of arctic silver 5 which is usually around 5 bucks and apply a bead size or a specific amount that intel/amd recommends.  </s>
+<s> whoever told you 45^c needs to do some more research...  </s>
+<s> if those temperatures are in fahrenheit, then it should usually be around 35^c for 75^f and 40 to 50ish for the 90s.  </s>
+<s> i'm just guessing these conversions but i assure you if those are fahrenheit and not celcius then it is fine  </s>

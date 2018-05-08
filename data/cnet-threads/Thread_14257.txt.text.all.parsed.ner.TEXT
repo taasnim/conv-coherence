@@ -1,0 +1,20 @@
+<s> i made a pc for my dad from a bunch of parts i had sittin' around.  </s>
+<s> it was an amd 1300ghz, had a heatsink with fan, soyo socket a mobo, 512mb ddr, tower case, cd-rw drive, nvidia tnt2 model 64 (m64) video card, with an ms windows 98se os. sound was onboard.  </s>
+<s> all of which worked fine before, during, and after, assembly.  </s>
+<s> i brought it to him and installed it for him and was working fine.  </s>
+<s> he had a surge protector he plugged it through.  </s>
+<s> he bought a floppy drive for it to play a game with.  </s>
+<s> after a couple of tries installed it successfully.  </s>
+<s> a thunder storm was coming recently and he powered it down after playing the game. the storm passed without incident and he went to power it back on to no avail.  </s>
+<s> all that happens is the power light comes on with no disk light/activity, no fans come on(mobo or p/s), no video response/lights, no beeps, no post.  </s>
+<s> this has happened to me a couple of times i can remember.  </s>
+<s> not sure why it happened or what the remedy was.  </s>
+<s> from reading some of the posts i got some ideas but would still like to hear some opinions.  </s>
+<s> thanks, troy  </s>
+<s> is not coming up from the power supply.  </s>
+<s> the power led is lighted by the main 5 volt rail.  </s>
+<s> if the 12 volt rail doesn't come up, the power supply will not release the master reset by setting the power ok signal &quot;on&quot;.  </s>
+<s> are the fans running or leds on the cd, floppy etc. coming on?  </s>
+<s> that should tell you if its the p/s also make sure the cpu heat sink did not lose contact and fry the amd.  </s>
+<s> in his original post.  </s>
+<s> that is why this writer suggested that he lost the 12 volts [which is what powers all of the devices that aren't turning on].  </s>

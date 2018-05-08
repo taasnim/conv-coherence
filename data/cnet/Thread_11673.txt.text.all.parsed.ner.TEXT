@@ -1,0 +1,22 @@
+<s> i have a xp pc network with a linksys wireless router wrt54g that is across the street from our apple airport extreme wireless router connected to our server.  </s>
+<s> i want to connect the two routers so that we can share the data on the server wirelessly.  </s>
+<s> tried vpning it but the proprietary software we use is too bulky and takes to long to load the data via wireless vpn, so any ideas on how to connect the two networks wirelessly.  </s>
+<s> thanks in advance!  </s>
+<s> robert rhammerman@aol.com  </s>
+<s> if you take a moment to read the manuals on both routers you find you can't &quot;bond&quot; them as you suggest.  </s>
+<s> try something else.  </s>
+<s> bob  </s>
+<s> so, do you have any suggestions on how to connect the two networks?  </s>
+<s> i purchased 2 wireless access pts that i was going to connect but netgear did not support the repeater function...any ideas, thanks in advance!  </s>
+<s> robert  </s>
+<s> too bad i don't know what you have to work with here but a common network bond would have you use one and only one router then place a client wifi device in a bridge mode to your wired lan. then place a wap somewhere inside your facility. the client would be on the channel that the (master) router is and your wap should be on the opposite channel.  </s>
+<s> for example, the master router would be on channel 1 and your wap would be on channel 11 to keep interference down.  </s>
+<s> example.  </s>
+<s> client device in bridge mode -&gt; wired lan -&gt; wap sorry i don't teach networking in this small space.  </s>
+<s> i also will not duplicate ready web content.  </s>
+<s> not being mean but you have to understand this well enough to be self supporting.  </s>
+<s> i can't be your support.  </s>
+<s> bob  </s>
+<s> there are three routers vpn setting method.  </s>
+<s> i think we can get good service, but i did not use a router.  </s>
+<s> good luck to u  </s>

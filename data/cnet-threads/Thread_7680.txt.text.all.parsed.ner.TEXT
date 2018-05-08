@@ -1,0 +1,22 @@
+<s> i'm part of a tech support department of 50 located along the gulf coast.  </s>
+<s> in years past we have found hurricanes and other disasters may have forced engineers to work from home or out of hotel rooms for several weeks.  </s>
+<s> since that time we are now using voip phones that require a power over ethernet (poe) lan connection.  </s>
+<s> along with the phone we already have an external power brick that we can take home that supplies the poe lan connection.  </s>
+<s> however, that requires that you have access to the router so you can run a physical cable from the router to the power brick.  </s>
+<s> that's fine when you are at your own house and have access to your own router.  </s>
+<s> but in the case of a hotel, you can't run a cable to the router.  </s>
+<s> many hotels have gone to wireless only and don't have a physical lan jack to plug into.  </s>
+<s> so i've been looking at something like the netgear wnce3001 dual-band internet adapter.  </s>
+<s> that will supply a physical lan connection from wifi only.  </s>
+<s> but it does not have poe.  </s>
+<s> so now if we are going to work from a hotel room, we need the voip phone, the power brick and the wifi internet adapter.  </s>
+<s> 3 seperate items to lug around. is there such a device that would allow you to pickup a wifi signal in a hotel room and has a physical lan jack that is also capable of poe?  </s>
+<s> i could at least lose the power brick then.  </s>
+<s> i guess it depends what you mean by voip.  </s>
+<s> if all you want to do is make calls via internet many of the newer cell phones have the ability to make skype or other &quot;voip&quot; calls directly over a wifi network.  </s>
+<s> there are of course many phones that will directly talk to skype or vontage or whatever via wifi also.  </s>
+<s> now if you mean you are using something like a h.323 or sip based phone to connect to a corporate voip network then it gets more complex but there are phones that will connect directly via wireless it just gets complex if you have a vpn layer on top of it.  </s>
+<s> lately i have been using a app that runs on a android based cell phone that lets me use sip over wifi to access a corporate network.  </s>
+<s> i found the maker of the poe phones had solutions for things like this.  </s>
+<s> your new it staffers often forget to ask the makers about this so back to the poe phone maker and see what they offer.  </s>
+<s> bob  </s>

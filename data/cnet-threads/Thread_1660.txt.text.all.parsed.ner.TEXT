@@ -1,0 +1,21 @@
+<s> if you are running the recovery media creator, that is the standard for creating recovery media on the t6212, and you get the message disk is not blank, give tech support a call 801-401-1419, and ask them for a copy of the restore disks, and they will send them to you, this is a known issue with this software if you are trying to burn it in a dvd, and it finalizes for a long time, and apppears that is will never finish, you are right, it will not finish, this is another issue with the recovery process, the dvd actually has the image on it is finishes finalizing in less then 15 minutes, the system jsut does not leave a message saying that it is done, it has the restore image on it, but the program does not say taht it has.  </s>
+<s> if needed run a restore on the computer(non-destructiive to prevent data loss, to test the disk go ahead.  </s>
+<s> if you would like burn it with the cd's included, it goes through fine on that.  </s>
+<s> if you have audio problems while playing a cd, go to start-&gt;control panel-&gt;swtch to classic view(left hand side of the screen)-&gt;system-&gt;hardware-&gt;device manager click on the plus sign next to ide ata/atapi controller then right click on secondary ide controller, then click on settings, and change it to dma if available, this fixzes that problem if you are having trouble burning disks, right click on ide ata/atapi controller, all three and then right click and select uninstall, if it asks to restart select no, if they do not disappear that is okay, once you have done that to all three, or more sometimes there are duplicates, restart the computer, it will load into windows, and go through the found new hardware, and then it will ask to restart again, and do that the computer will come up and everything should be fine now, if not call tech support and set up an order for a disk drive.  </s>
+<s> this is what i do for my customers that is get, and i am trained and qualified for emachines tech support, as well as gateway.  </s>
+<s> not to go off topic but... do you know what emachines is doing after the t6212?  </s>
+<s> will it have an intel or amd cpu?  </s>
+<s> dual-core maybe?  </s>
+<s> how about laptops, when are they going sell them again?  </s>
+<s> i'm just curious if you have any inside info.  </s>
+<s> thanks.  </s>
+<s> hey man, here is my origianl post about a problem i am having with my t6212.  </s>
+<s> hope u can help.  </s>
+<s> thanks!  </s>
+<s> i bought a t6212 yesterday and i am having the same problems.  </s>
+<s> i am unable to burn a recovery dvd (emachines tech support has agreed to send me one), but i also cannot burn anything else on the dvd drive.  </s>
+<s> it plays dvd movies, but will not burn photos to disk.  </s>
+<s> i do not understand the post that explains how to fix the the problem.  </s>
+<s> can you please explain in more detail?  </s>
+<s> when i go to the device manager and click the plus sign next to ide ata/atapi controllers, it lists: ati ide controller primary ide channel primary ide channel primary ide channel secondary ide channel secondary ide channel secondary ide channel standard dual channel pci ide controller standard dual channel pci ide controller which ones am i supposed to uninstall?  </s>
+<s> thank you for your help!  </s>

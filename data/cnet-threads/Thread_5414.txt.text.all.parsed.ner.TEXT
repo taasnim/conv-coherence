@@ -1,0 +1,60 @@
+<s> i am looking to get a lot more performance out of my system for under $1000.  </s>
+<s> here is what i have: dfi lanparty kt400a socket a, max fsb is 333 for the athlonxp 3000+.  </s>
+<s> sb audigy 2 zs platinum, best thing i have ever seen for $174.99 (bought this a while ago) 17&quot; flat crt monitor 16x dvd-rom drive 56x cd-rom drive amd athlonxp 2600+ with 266fsb and 256k l2 cache, 2144mhz stock xfx nvidia geforce fx 5200-256 creative modem blaster v.92 pci 56k modem (unused but still in system) ati tv wonder ve (not in system right now, pci tv capture card) currently running on a cable modem, its fast...almost too fast.  </s>
+<s> logitech z-640 5.1 surround system, not-thx but very nice sound quality, i know their a little cheap for that card but still they rock.  </s>
+<s> enermax case that you will never get me to give up, for anything, mirrored outside, 4 fans inside along with window and a doored front, the hdd tray in this case is the closest thing to hotswap i've seen without it being hotswap.  </s>
+<s> i have an 80gb maxtor 7200rpm ata-133 hdd, with a 2mb cache.  </s>
+<s> 400w psu here is what i am thinking as upgrades for performance 1x 480w psu from ocz, controls its own dual fan set-up.  </s>
+<s> 1x 74 gb maxtor 10,000 rpm drive (will these need special cards) 1x radeon 9800pro-128 from msi 1x amd athlonxp 3000+ oc'ed to around 2.4ghz 2x vantec tornado fans at 5700rpm, 119 cfm each 1x aerocooler hightower cpu cooler and 2x 4800 rpm aero-x fans with lights for the above cpu cooler, this high power near $100 set-up is to keep that 2400mhz cpu cooled down.  </s>
+<s> 1x silverstone fan controller (best rated fan controller by thg) any suggestions on what of this stuff to buy and what to no buy, i haven't priced that hdd recently but i know its around $200 which would put all my major upgrades at around $600.  </s>
+<s> since a retail xp3000+ from newegg is running $146 and that 9800pro from msi is $195.  </s>
+<s> i figure about $130 for that psu, at least thats what i've heard of it to cost.  </s>
+<s> and then $100 for cooling and if it isn't all spent i'll buy a pci or 5.25&quot; bay cooler.  </s>
+<s> so any ideas as to what to buy or not buy?  </s>
+<s> and will that 10,000 rpm disk need a special card.  </s>
+<s> oh yeah, i was gonna get a hdd cooler for that 74 gb disk, it seemed like a use of $7 to save a $200 device from cooking itself.  </s>
+<s> well if anyone has any ideas, and how would i transfer the contents of my 80gb straight over to my new 74gb?  </s>
+<s> i don't want to lose all my gaming progress...or custom maps.  </s>
+<s> thanks ps i would be fine with the loss of 6gb of storage, because i have never filled more than 45gb of disk space  </s>
+<s> first of all, in order to oc that proc, you will need a new mobo, since the one you say you have has a max fsb of 333mhz.  </s>
+<s> that's because the multiplier is locked, so you will need to oc by raising the fsb. the hd is most likely scsi (possibly sata), if scsi, then you will need a pci card for that, if sata, then a new mobo with onboard sata will work.  </s>
+<s> the video card is a nice choice, but i would also make sure you have 2 sticks of memory running in dual channel (512 x 2) for a total of 1gb at least.  </s>
+<s> ok, the maxtor is scsi, but there is a wd with sata, and it costs about $60 less, so i'll go with the western digital.  </s>
+<s> also, my board can do fsb 400, just not the athlonxp 3200+, its a jumper setting for 400mhz over 333.  </s>
+<s> dfi and amd say that the board will not run the athlonxp 3200+, in part because it doesn't have dual channel ram which the 3200 needs for optimal performance.  </s>
+<s> so if i set it to fsb 400, and set the processor multiplier to say 16.5, ok thats a bit high, lets say 11, couldn't i get the 2200mhz performance of the 3200+ then?  </s>
+<s> and just go upto 12 for the 2400mhz that i wanted?  </s>
+<s> (assuming that cooler will take it there) it would work right?  </s>
+<s> im too affraid to do it to my xp 2600, since it would almost double the fsb, 133-200 would that get me some performance?  </s>
+<s> well thanks.  </s>
+<s> also if i'm using ddr just not dual channel, i'll still get performance right?  </s>
+<s> i don't want to replace my ram because i have so much single channel ddr right now if i replaced it all dual channel i would spend around $600.  </s>
+<s> the only item i see to a bottleneck for gamers is that geforce fx 5200-256 video card.  </s>
+<s> look at and while it's better than what we had years ago, it's still at the bottom of the heap.  </s>
+<s> i.e. a &quot;value&quot; card.  </s>
+<s> you can save yourself time and money if you just picked out a nice video card.  </s>
+<s> that will give you the biggest bang.  </s>
+<s> bob  </s>
+<s> just be aware that you will probably notice only a minor difference in performance with all you are talking about doing.  </s>
+<s> you are just not changing much that will give you a noticeable boost in performance.  </s>
+<s> you are overdoing it with fans, you won't get any extra performance from that and pushing an amd processor is asking for a burnout, no matter what fan you use.  </s>
+<s> systems running 3.6ghz p4 processors run just fine and will last for years with a single case fan and a power supply fan.  </s>
+<s> if you were to go to scsi then go to the 15,000 rpm drives, not the 10,0000, though now you say you will go sata and that will not really make a major difference in overall performance.  </s>
+<s> you would be better off waiting and replacing the whole system with a new faster 64bit processor with a significantly faster ghz rating....shoot for 3ghz or higher to really get a boost in performance.  </s>
+<s> also shoot for more cache than 256mb, like the 1gb of the 64bit processor.  </s>
+<s> concentrate on keeping your system cooled and powered.  </s>
+<s> so get the p/s and any fans you desire then proceed with the other h/w.  </s>
+<s> in the long run, you'll be happier even though the p/s and fans don't add anything but stability to the system, its worth it before speed and those goodies.  </s>
+<s> good luck -----willy  </s>
+<s> again, with the multiplier locked, the only way to oc the proc is to adjust the fsb.  </s>
+<s> you wouldn't need new memory to run dual channel, just a board that supports the feature (assuming you have at least 2 identical sticks).  </s>
+<s> there is no such thing as dual channel memory, it's a feature of the mobo. the speed of your ddr memory will affect the ability to overclock as well.  </s>
+<s> if gaming: video is number 1. best you can afford.  </s>
+<s> transfer rate (not rotational speed) of hard drive to fsb is second - cache is important.  </s>
+<s> same thing for optical drives if games are not resident.  </s>
+<s> thus a primary optical and a primary hard drive on the same ide channel does not enhance throughput.  </s>
+<s> cpu compute and memory speed are in my belief third and must be matched for performance to each other and to fsb.  </s>
+<s> whichever is slowest rules.  </s>
+<s> if online gaming then broadband, hopefully in a non-congested area.  </s>
+<s> move to a retirement community and you will have great cable bandwidth for computing.  </s>
+<s> at the moment sata and ultra160 or better scsi are good choices for drive throughput.  </s>

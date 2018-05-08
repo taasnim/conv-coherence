@@ -1,0 +1,11 @@
+<s> i have a gforce4 nvidia ti 4200 that when i either install the drivers that came with it or d/l the drivers from nvidia's site it reboots win xp when it reaches the 33% point in the installation process. the motherboard is an biostar m7ncd pro any help is appreciated.  </s>
+<s> thanks.  </s>
+<s> that's kinda strange... if you had previous versions of the drivers installed try uninstalling those first and deleting any files the uninstall may leave behind.  </s>
+<s> then try installing again, also delete anything from your &quot;c:program filesinstallshield installation information&quot; folder.  </s>
+<s> this may or may not make a difference.  </s>
+<s> if that does nothing, i guess you could try installing them in safe mode, if this works (can't remember if windows will let you do that) then it's an issue with some driver/piece of software you have running on your computer.  </s>
+<s> otherwise it runs deeper, and may be a problem with the hardware itself.  </s>
+<s> hope i've helped.  </s>
+<s> -rhyvun  </s>
+<s> before putting in the card try installing the standard vga driver first, removing any other driver then install the card and see if you can boot up successfully that way.  </s>
+<s> then install the driver for your card.  </s>

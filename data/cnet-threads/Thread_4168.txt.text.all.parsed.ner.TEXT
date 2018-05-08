@@ -1,0 +1,24 @@
+<s> how do i set up a home/office wireless network (sharing files between connected computers, sharing boradband internet connection ) such that when the network/access point is detected, a password is required to go in ?  </s>
+<s> (this password would be provided to authorized persons.) thanks.  </s>
+<s> christy  </s>
+<s> the wireless adaptor of my laptop detects my home access point and log in automatically.  </s>
+<s> taken outside the house, it detects some networks.  </s>
+<s> some of these ask for a password forloggin-in.  </s>
+<s> my questionis-how do i get of these ?  </s>
+<s> how do i protect my access point so that a password is required to access it ?  </s>
+<s> (other than not broadcasting the nat address (ssid) ) thanks.  </s>
+<s> christy  </s>
+<s> that your computer is seeing the networks in the neighborhood.  </s>
+<s> that is normal.  </s>
+<s> they should be secure.  </s>
+<s> how to protect you office/home network update the firmware in your wireless router(manufacturers website) broadcast ssid use wpa security(wep can be hacked) use nothing else.  </s>
+<s> your network will be secure.  </s>
+<s> if using your computer in public, i recommend you have a firewall that works both ways, like zone alarm or windows vista.  </s>
+<s> rick  </s>
+<s> ...some of the networks require a password - how do i set up the same ?  </s>
+<s> or are they different types of &quot;networks&quot; ?  </s>
+<s> christy  </s>
+<s> log into your wireless router look for security use wpa security.  </s>
+<s> make sure to broadcast ssid and update the firmware in your wireless router.  </s>
+<s> if you don't have a wireless router, then purchase on to go with your isp connection.  </s>
+<s> rick  </s>

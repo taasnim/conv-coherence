@@ -1,0 +1,59 @@
+<s> you really need to help me before i start crying.  </s>
+<s> this is the first time that this has happened to me.  </s>
+<s> i by mistake deleted my hdd.  </s>
+<s> like all the partitions went boom.  </s>
+<s> i was messing around in kubuntu linux and by mistake i deleted my hdd.  </s>
+<s> now i need to recover everything.  </s>
+<s> i have three partitions, one is my primary windows xp, second has all my data.  </s>
+<s> both of these are ntfs and the last one is a fat32 and it has a few mb of data which i dont mind aprting with but it would be a great thing if recovered them.  </s>
+<s> my priority is the data partition then the win xp and then finally the fat32.  </s>
+<s> firstly do you think i am dead because of this or will it be possible for me to recover my hdd?  </s>
+<s> i got getdataback ntfs.  </s>
+<s> do you think i should use this? as i am totally new to format recovery, can you guide through the steps i should take?  </s>
+<s> right now i am on a laptop and the deleted hdd is connected via usb as it is in an enclosure.  </s>
+<s> i am really scared.  </s>
+<s> please help.  </s>
+<s> it has a mode where you can look and decide what to do.  </s>
+<s> if this was mine i'd duplicate that drive using g4u copydisk (see ) and only operate on the cloned copy so you can get many trial runs at recovery.  </s>
+<s> if you don't feel this is necessary or costs too much then we just set the price on your data.  </s>
+<s> g4u is free and easy to use.  </s>
+<s> after you have cloned the drive, work on the clone with what you have and see if zero assumption recovery (it has a demo too) does any better.  </s>
+<s> bob  </s>
+<s> but do you think this a very bad situation or just easy?  </s>
+<s> cuz i havent written anything on the drive since i deleted it.  </s>
+<s> just tried to boot, it failed, the slipped it into my enclosure, hooked it up to the laptop and tried a few programs and now with the full version of getdataback i am trying to recover.  </s>
+<s> i take it that safety of your files is not a concern since it appears you are working on your only copy.  </s>
+<s> this is where most lose it all.  </s>
+<s> i offered a free tool to clone the drive so you can operate on the clone.  </s>
+<s> with the the clone you can try and fail, make another clone until you fine tune your procedure.  </s>
+<s> if you don't want to do this that's fine but you may want to think about places like if you don't want to work at recovery.  </s>
+<s> bob  </s>
+<s> i would have madea clone if it were possible for me. the problem is that i have only 47gb left on my laptop and i will ofcourse need to leave some for safety.  </s>
+<s> my messed up hdd is a 74gb one.  </s>
+<s> i am also going to try out testdisk which they say is also extremely good.  </s>
+<s> another hard disk in an usb enclosure is now under 99 bucks.  </s>
+<s> this could be what you clone your one and only copy to.  </s>
+<s> then operate on the clone.  </s>
+<s> -&gt; maybe i was unclear that more hardware may be needed but you are taking a wreckless approach to recovery without this copy and clone method.  </s>
+<s> test disk may or may not work.  </s>
+<s> it may make it worse.  </s>
+<s> sorry if i was unclear here.  </s>
+<s> bob  </s>
+<s> i sat up all night trying to recover it, and i was successful luckily.  </s>
+<s> i got two partitions up and running using testdisk.  </s>
+<s> the main data partition couldnt be recovered by testdisk but using getdataback, i could recover the necessary data.  </s>
+<s> thanks anyways.  </s>
+<s> yay by using getdataback, i recovered most of my files onto my laptop even though they gave lots of bad sector errors.  </s>
+<s> i had alerady recovered my windows partition so i booted into it and continued, my hope lost for the complete recovery of my data partition.  </s>
+<s> i tried testdisk once again.  </s>
+<s> and ta-da it got recovered!  </s>
+<s> i think testdisk is the best application out there for data recovery because it is powerful, small and fast.  </s>
+<s> thank you for your help!  </s>
+<s> btw i dont think i would be able to get that kind of hdd for under 99bucks over here.  </s>
+<s> i dont live in the usa where the demand and competition is high.  </s>
+<s> sorry if i seem pushy about being safe.  </s>
+<s> i do too much recovery and learned the hard way about working on the clone.  </s>
+<s> bob  </s>
+<s> thanks for the idea bob - may come in useful for me.  </s>
+<s> shahrokhan - a future idea for what is't worth is (at least in the states, overseas maybe way different) that you can always buy it, and return it if it doesn't turn out to be that helpful?  </s>
+<s> glad you got it all back!!  </s>

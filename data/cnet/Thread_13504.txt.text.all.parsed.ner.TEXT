@@ -1,0 +1,43 @@
+<s> hey, i am trying to connect a front panel (i'm not sure what type but it has 2 usb's, a mic, and a headphone jack. the 2 usb ports seem to worl already but the headphone and mic have never worked.  </s>
+<s> i've recently discovered the retailer i bought it from didnt install it.  </s>
+<s> i went to attach the wires to the motherboard and when i opened up the computer i saw there were 2 blue caps or something blocking the motherboard connections.  </s>
+<s> they spanned 2 connections between bline_out_l and line out_l bline_out_r and line out_r does anyone know what these are for and if i can remove them?  </s>
+<s> asus tech support isn't open right now and i'm anxious to do this.  </s>
+<s> thanks  </s>
+<s> it sure would be helpful if you supplied what system/mtrbd.  </s>
+<s> you have in order to get detailed help.  </s>
+<s> from what you described, now you know why the vendor didn't connect the leads to the audio, etc.. you should go back and see if they will replace the mtrbd.  </s>
+<s> with one that's more flexible to connects.  </s>
+<s> what do you mean by &quot;caps&quot;?  </s>
+<s> tada -----willy  </s>
+<s> oops, sorry, i forgot to mention it is a a8n-sli premium motherboard from asus.  </s>
+<s> by caps i mean little blue things that over the pin sticking out of the motherboard.  </s>
+<s> one cap covers two pins with the arrangement i mentioned before.  </s>
+<s> they are easily removed with needle nosed pliers but i didn't try plugging the wires in yet for fear of breaking something.  </s>
+<s> i'm worried they might be required jumpers that connect the pins because there is metal inside.  </s>
+<s> thanks for any help  </s>
+<s> the &quot;caps&quot; are jumpers, and are sending the audio to the rear panel of your computer.  </s>
+<s> you'll need to remove the jumpers and attach the front panel wires to bline_out_l and bline_out_r.  </s>
+<s> of course, this will disable your audio from the computer's back panel.  </s>
+<s> yeap, those are &quot;jumpers&quot; as another poster mentioned.  </s>
+<s> you need the manual and get the details it supplies to &quot;find where&quot; the connection is for the frt.  </s>
+<s> panel.  </s>
+<s> using the the asus support website, find your exact model mtrbd.  </s>
+<s> and then if you don't have a manual get the d/l'able one and then print it out or review it on screen.  </s>
+<s> once you locate the true location of the connections you need plus what or how it is connected w/o too much guess work.  </s>
+<s> i'm sure there is a location to be found or re-route it if it is already being used to the frt.  </s>
+<s> panel, rather than a rear location.  </s>
+<s> that is what the jumpers(caps) probably are intended to do.  </s>
+<s> understand you don't connect to mthose jumpers but rather there is a dedicated connection for the frt.  </s>
+<s> panel, you may in fact be able to use both frt.  </s>
+<s> and rear connections, again this info is supplied by the manual.  </s>
+<s> try this link for manual: tada -----willy  </s>
+<s> thanks for all the great info guys!  </s>
+<s> i'm still kind of confused though.  </s>
+<s> i have the manual that came with the motherboard right in front of me and it shows to use the connections i said in the original post.  </s>
+<s> i don't see anything else in it where it shows a different set of connectors for front panels.  </s>
+<s> thanks for your help though, i'll look again  </s>
+<s> well, i removed the jumpers and then plugged in the connections and it works perfectly.  </s>
+<s> if i plug my headphones in the fron tthe speakers stop working and the audio goes to my headphones! the retailer had wired the front audio to a 10pin connector so i was hoping that they had jumpered the pins inside the connector to replace the blue jumpers the manufacturer installed.  </s>
+<s> i guess they did.  </s>
+<s> thanks for all your help!  </s>

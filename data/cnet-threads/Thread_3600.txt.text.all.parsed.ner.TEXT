@@ -1,0 +1,49 @@
+<s> i'm looking to upgrade my amd processor but i am confused about what is compatible with this motherboard.  </s>
+<s> here is what i have: compaq presario sr1703wm name amd sempron 3200+ codename palermo specification amd sempron(tm) processor 3200+ package socket 939 chip set: northbridge ati xpress 200 (rs480) rev. 10 southbridge ati sb400 rev.  </s>
+<s> 00 motherboard: mainboard model amberine m (0x390 - 0x1db08328) can any point me in the right direction for a tool to help or recommend some amd processors that i can use?  </s>
+<s> thanks, ken  </s>
+<s> sadly there are very few 939 chips around.  </s>
+<s> since you didn't reveal your country, research what 939 amd chips you can obtain and then supply a list here.  </s>
+<s> no dual core units!  </s>
+<s> thanks for the info.  </s>
+<s> i live in the usa.  </s>
+<s> are you saying that any socket 939 will work on that motherboard?  </s>
+<s> i did find one processor amd-athlon 64 single core 3500+ processor-2.2ghz-34p1044  </s>
+<s> from a vendor.  </s>
+<s> it is a step up but if i can get a faster one that is compatible i'm open to that too.  </s>
+<s> this is a hand-me-down computer that i thought might make a good dvr but i do need at least 2.2 ghz to do the job from what hauppage says.  </s>
+<s> ken  </s>
+<s> that you should search for non-dual core socket 939s, put the list here for members to shoot down or give a thumbs up.  </s>
+<s> sorry if i was unclear.  </s>
+<s> as to dvr, my old 1.0ghz via c3 based computer does that work.  </s>
+<s> why would i need more horsepower than that?  </s>
+<s> bob  </s>
+<s> bob, ok i will search for the processors.  </s>
+<s> as to the dvr i was looking at the hauppauge hvr 1250 card to process the cable signal and the tech said this: &quot;if that is a single core system then it is recommended to have a 2.2 ghz or higher anything lower can cause issues such as stuttering video.  </s>
+<s> if you have a good video card to pull some of the strain off the cpu then it could possibly work in that system but if not you will most likely experience some issues.&quot;  </s>
+<s> this is digital and analog capable, but i could go down to just analog since i will be recording off my cable.  </s>
+<s> compaq has integrated video processor which is crap.  </s>
+<s> i'm all ears if you have a better plan.  </s>
+<s> thanks again, ken  </s>
+<s> ok, here is a list i was able to compile.  </s>
+<s> does it matter if i upgrade to athlon and not sempron?  </s>
+<s> amd athlon 64 3800+ 2.40ghz processor $30 amd athlon 64 4000+ 2.6ghz 512kb l2 cache socket am2 62w single-core processor amd athlon le-1600 (adh1600dhbox) 2.2ghz amd athlon le-1620 (adh1620dhbox) 2.4ghz $53 amd sempron le-1300 (sdh1300dpbox)2.3ghz  </s>
+<s> $39 amd sempron le-1250 (sdh1250dpbox)2.2ghz  </s>
+<s> $29 amd athlon le-1640 (adh1640dpbox) 2.6ghz $38 i think these are all 939 sockets but they also call them amd2 sockets?  </s>
+<s> i hope you all have some answers for me.  </s>
+<s> thanks, ken  </s>
+<s> strip your list to just 939 single core units.  </s>
+<s> bob  </s>
+<s> your mind is made up on getting the 1250, why shop for a cpu before you have tried it in your pc? some things in life are better when serialized.  </s>
+<s> i agree.  </s>
+<s> try the 1250 before you decide a new cpu is required.  </s>
+<s> most of my dvr speed is all about the hard disk and not the cpu.  </s>
+<s> bob  </s>
+<s> good point.  </s>
+<s> that is what i most likely will do, try the hvr 1250 first but at least i have some idea of what processor upgrade i can use if needed and they don't seem to be expensive.  </s>
+<s> the options are not a big jump in speed either 2.2 or 2.4 ghz.  </s>
+<s> what is confusing is socket 939 vs what the amd site lists sockets am, am2 and another one.  </s>
+<s> i wish terms were consistant across the board.  </s>
+<s> thanks again for the advice.  </s>
+<s> i've bookmarked the wiki links you provided and i will read more.  </s>
+<s> ken  </s>

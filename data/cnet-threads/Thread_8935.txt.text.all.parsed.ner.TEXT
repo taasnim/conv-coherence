@@ -1,0 +1,20 @@
+<s> i recently purchased an asus k8v-x-se mb & athlon 64 3000 and my memory is only registering at 333mhz.  </s>
+<s> when i install each stick individually they register at 400mhz, but when i install both sticks they register at 333mhz.  </s>
+<s> i tried the different bios settings and it didn't help.  </s>
+<s> is this memory compatible with the k8v x-se.  </s>
+<s> i though it would probably only run at 400mhz.i tested both sticks individually in both slots with memtest and every thing tested fine.no  </s>
+<s> errors.  </s>
+<s> tried manually adjusting timings.  </s>
+<s> also have the latest bios for this board.  </s>
+<s> no help.  </s>
+<s> am i missing something?  </s>
+<s> any help would be appreciated.  </s>
+<s> tia!!!  </s>
+<s> windows xp sp2 asus k8v x-se athlon 64 3000 radeon 9800 pro 128 kingston hyper x pc3700 1gb(2x512mb) plextor 708a dvd m-audio delta 66 2 wd hard drives (80gb & 120gb)  </s>
+<s> probably should have started with ram off the asus qualified vendor list found in the mb manual my thought it should work but the same kind of thing happens with some mbs when all dimm slots are populated.  </s>
+<s> they automatically change from 400 to 333.  </s>
+<s> might try posting your problem on the asus site inder your mb model number.  </s>
+<s> i'm thinking the same thing as vapcmd about the memory.  </s>
+<s> i know that, with a mb with 4 dimm slots, when they're all populated, it drops to 333mhz or 400mhz at a 2t command rate.  </s>
+<s> i don't know if that's the same case as with two slot boards or not, but it wouldn't surprise me.  </s>
+<s> see if you can run 400 2t. if you can, run some benchmarks to see which performs better for your system.  </s>

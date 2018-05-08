@@ -1,0 +1,9 @@
+<s> i was given this pc, but when i start it up it looks as if everything is well until it stops at a black screened menu with white words.  </s>
+<s> the 'system configuration' menu.  </s>
+<s> it comes to the point where it says &quot;building dmi pool......success&quot; and nothing happens after that it just stays in that menu.  </s>
+<s> can anyone help me get past this menu and actually load up the os? wich by the way is windows xp pro.  </s>
+<s> usually a sign of some trouble on the ide channels.  </s>
+<s> bad drive or bad cd/dvd drive.  </s>
+<s> try to boot from cd or other device with the hard disk unplugged.  </s>
+<s> bob  </s>
+<s> is a os re-install.. .. but really just unplug all the usb 2.0 hardware.. unload all the software and drivers.. .. use the device manager/ un-install the drivers that don't show in add/remove programs.. .. pull all the pci-cards..and the modem.. .. i sometimes just re-install the drivers..and leave it at that.. .. you also don't want duplicate project software..like roxio and nero on the same machine.. .. sometimes a salesman might sell you something your machine won't support/its advisible to know your original configuration.. .. celeron d is not real good w/dvd-burning..but adeguate w/audio on cd.. .. ntfs file systems are best over the fat32..for system drives.. and are a must for video creation(7200-rpm).. .. the start-menu/ click the properties/ i only use 3-icons in the start menu.. and i un-check the box-recently opened documents.. ........and clear the list........regularily.. .. defragmentor program/ gives a good image of the hdd's that your useing.. .. that green stip is your page file.. i only use a page file in the (c:)drive and never exceed 800-mb's.. my hd will show a green strip at the left side of the visual for disk defragmentor/and if i corrupt my os..this will split into two-strips..two green strips means its time to re-install the os.. .. that's the simple side.  </s>

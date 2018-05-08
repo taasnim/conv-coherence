@@ -1,0 +1,39 @@
+<s> my computer sound scratchy and distorted.  </s>
+<s> the cpu is amd-athlon 64 bit 3500+ 1gb ram, 128mb vdo ram and os is windows xp pro sp 2 with the latest updates. the sound card is realtek ac97, i reinstalled many times with old and latest version drivers but the sound remain as usual, distorted and scratchy.  </s>
+<s> please help me to fix this problem.  </s>
+<s> regards, wildbird  </s>
+<s> try checking your cables.  </s>
+<s> don't have a spare speaker set, do you?  </s>
+<s> try them, if you could.  </s>
+<s> just started happening?  </s>
+<s> does this happen with all programs?  </s>
+<s> ~ibrahim~  </s>
+<s> hello ibrahim, thank you for the advice.  </s>
+<s> i think the speaker and cable have no problems because the same speaker i use for my laptop.  </s>
+<s> i have been trying to find out a solution by googling too but i found a lot of similar problems but their solution is not fix the problem.  </s>
+<s> just i sent a mail to realtek to get some help.  </s>
+<s> i do not know now whether it is a hardware problem or driver problem.  </s>
+<s> watching movie is somewhat ok but the music, i cannot enjoy it, its very disturbing.  </s>
+<s> regards, wildbird  </s>
+<s> it might be hardware.  </s>
+<s> can you try a system restore to a previous time?  </s>
+<s> ~ibrahim~  </s>
+<s> i did system restore but it did not help.  </s>
+<s> i reinstalled the os and all the softwares last week since then i have this problem.  </s>
+<s> do you know what model your motherboard is, by any chance?  </s>
+<s> you can use this program to find out: i'm going out on a limb here, but you don't have radios, cell phones, microwaves, etc.? try moving the speakers as far as you can from the computer and the monitor.  </s>
+<s> any better?  </s>
+<s> ~ibrahim~  </s>
+<s> the sound problem has been solved.  </s>
+<s> the computer's motherboard ga-k8nf-9 nforce4-4x chipset's manual audio driver is realtek so i have installed.  </s>
+<s> vdo card is geforce 660gt 128mb memory.  </s>
+<s> i got two cds the nvidia n force4 series utility cd and the winfast 3d graphics series.  </s>
+<s> last night i installed agp update+nvidia+nforce+nforce amd since then realtek ac97 has been replaced by nvidia(r) nforce (tm) audio codec interface and then the problem has gone.  </s>
+<s> as well as i lost the &quot;sound effect&quot; so i do not have feature for jack-sensing for audio connectors error-detecting function.  </s>
+<s> the sound is pretty good and satisfactory but i do not know which driver is the right driver of the hardware of the machine, realtk or nvidia.  </s>
+<s> regards, wildbird  </s>
+<s> well, i'm glad it is solved.  </s>
+<s> i actually didn't know nvidia made sound drivers, weird!  </s>
+<s> i'm pretty certain realtek drivers are the correct ones, but if they are working ok with nvidia, i wouldn't mess with them.  </s>
+<s> good job!  </s>
+<s> ~ibrahim~  </s>

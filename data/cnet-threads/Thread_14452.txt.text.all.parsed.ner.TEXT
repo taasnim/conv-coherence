@@ -1,0 +1,43 @@
+<s> win xp pro sp1; systemboard: k7 ddr ad70-sr (rev.a+) my pc recently had a major glitch after a power cut - i was told the hdd might be completely shot & all data lost due to corruption of a vital os file, caused by the sudden loss, & regaining of power.  </s>
+<s> (i have surge protection, but no ups will be getting one!) someone managed to rescue it for me, but now i've set it up again & there are no usb controllers listed in device manager in system information&gt;components&gt;usb the right pane is empty (compared to my laptop which has various usb devices listed).  </s>
+<s> this would explain why nothing plugged into the usb ports works, but what i'd really like to know is why the pc isn't recognising usb anymore (it used to!), & even better - what i can do about it! in bios: integrated peripherals&gt;usb keyboard support set to disabled (but my k.board isn't usb, so that's probably irrelevant) pnp/pci configurations&gt;onboard usb/slot 4 - set to auto (should i change this?  </s>
+<s> im not sure what else this might do) also in pnp/pci configurations&gt;reset configuration data - set to disabled (relevant?) also in pnp/pci configurations&gt;resources controlled by set to auto (relevant?) i have changed the jumper for the usb ports it made no difference.  </s>
+<s> thats me at the end of my limited personal knowledge/resources - any advice/suggestions etc gratefully received.  </s>
+<s> tia, jeff  </s>
+<s> &quot;win xp pro sp1; systemboard: k7 ddr ad70-sr (rev.a+) my pc recently had a major glitch after a power cut - i was told the hdd might be completely shot & all data lost due to corruption of a vital os file, caused by the sudden loss, & regaining of power.  </s>
+<s> &quot; let's note two areas.  </s>
+<s> 1. you should be using the ntfs (nt file system) for the hard disk partitions to give yourself the best chance of no data loss.  </s>
+<s> some still cling to fat32 and it's their choice.  </s>
+<s> they also need to consider their backup situation since its still the more fragile file system of choice.  </s>
+<s> 2. usb on such a motherboard may not function unless the motherboard drivers are installed.  </s>
+<s> microsoft will not do this for you.  </s>
+<s> you get to check with the motherboard maker's web site or your system supplier's web site for what to install.  </s>
+<s> bob  </s>
+<s> thanks for your speedy answer: (1) the hard drive was formated to ntfs - maybe that's why the data was recoverable at all!  </s>
+<s> (2) i have been to the website of the mainboards manufacturer & downloaded all the drivers/updates for that board.  </s>
+<s> unfortunately it still hasn't sorted the problem.  </s>
+<s> so, if you (or anyone else) can think of anything else i'd be very gratefull!  </s>
+<s> thanks, jeff  </s>
+<s> how did your system get &quot;rescued&quot;, was it rebuilt from scratch, re-installing windows fresh at least?  </s>
+<s> if not then you probably need to do that to resolve the usb issue.  </s>
+<s> if the usb ports are really on the motherboard and installing the motherboard drivers has not resolved the problem, then it is very likely the power failure you had also damaged the motherboard, the usb ports in particular.  </s>
+<s> while microsoft has come a long way in repairing the os's, some damage can reach a point where &quot;the usual&quot; will not bring it back and you get to re-install.  </s>
+<s> right now, you appear to have a system in which you can backup what you can't lose before you begin the os re-install.  </s>
+<s> after you have secured what you can't lose on cdr or what external media you can remove from the pc and take with you, you can try the following.  </s>
+<s> 1. have your xp cd ready and press start, run, cmd and ok. now type in sfc /scannow (press enter.) 2. after that, reinstall the motherboard driver package.  </s>
+<s> 3. sort of late to mention this, but the usb ports must be not disabled in the bios.  </s>
+<s> ignore the usb keyboard and mouse items.  </s>
+<s> bob  </s>
+<s> i suggest you reload the mtrbd.  </s>
+<s> drivers for usb if present.  </s>
+<s> many times those drivers are keen to work better than ms os ones, even though they're part of the install.  </s>
+<s> make sure in the bios they're &quot;active/enabled&quot;.  </s>
+<s> finally, if none of this works, the power loss may have blown the usb ports, remember these ports are powered less than you think, .500ma/5vdc,  </s>
+<s> so its a possiblity.  </s>
+<s> if that proves right, install an usb card as a cure.  </s>
+<s> good luck -----willy  </s>
+<s> thanks for your help, everyone.  </s>
+<s> i suspect willy was right about the usb ports having been physically damaged by the power loss/surge.  </s>
+<s> once i'd managed to get on line usb reappeared in device manager & system information (i don't know what i did to make this difference) but usb devices still wouldn't work.  </s>
+<s> iv'e also just discovered that the floppy drive isn't recognising disks anymore.  </s>
+<s> time for a new system, methinks!! oh well, this one was getting old anyway. the new one will include a ups!! thanks again, jeffk  </s>

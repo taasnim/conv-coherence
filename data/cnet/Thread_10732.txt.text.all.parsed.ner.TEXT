@@ -1,0 +1,19 @@
+<s> i m using internet, via a lan network in my area,as a client.  </s>
+<s> 1-can i hide my computer's/machine icon from &quot;my network places&quot; while i m connected to a lan?  </s>
+<s> 2-whenever i download something(songs,softwares),the download accelerator sucks all the speed of the lan and therefore the other clients cant get the enough speed to browse the internet.is  </s>
+<s> there any software with which i can restrict the downloading speed to any specific figure.(for  </s>
+<s> example i want to restrict my machine to download not more than 5k/s) thanx  </s>
+<s> can sometimes be found in your routers setup page.  </s>
+<s> any pc not in the workgroup is not seen in network places.  </s>
+<s> i dont understad wut do with router pages.  </s>
+<s> plz tell me is there any software with which i can limit my bandwidth.  </s>
+<s> i've not done this in reverse but sometimes speed can be increased by adjusting the &quot;rwin&quot; (receive window) to an optimum value.  </s>
+<s> basically this controls the download flow by telling the server how fast you can handle incoming data.  </s>
+<s> some win98 installations could not take full advantage of broadband without a tweak to the rwin.  </s>
+<s> perhaps you could experiment by making your rwin much smaller.  </s>
+<s> this is a registry setting and is easily done using a utility called drtcp which you google to find or get it from the dslreports site.  </s>
+<s> it will probably take a few attempts to trim down the rwin to get to the lower bandwidth you want and it will definately impede your normal browsing speed as well unless you put the settings back to original when surfing.  </s>
+<s> you don't create any workgroup or not creating a network/lan... this is true that you can not be seen and can not seing other pc.  </s>
+<s> (you can use different ip address range, to disable the lan connection, without breaking the internet connection) but, if you create a workgroup (even using different workgroup name from the other pc).. then you still can be seen by all connected pc on the lan.  </s>
+<s> i.e.: i have several pc's, connected through lan (all windows xp pro), i have 3 workgroup names, which are: 'workgroup', 'home' and 'mygroup' all files and printer sharing is enabled.  </s>
+<s> with that 3 workgroup names, i can see and share everything.. (within the shared documents folder, of course..) as for bandwith limiter, you should go with mg advice.. or google it for such utility etc.  </s>

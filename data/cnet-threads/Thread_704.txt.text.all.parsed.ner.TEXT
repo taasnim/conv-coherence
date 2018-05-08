@@ -1,0 +1,62 @@
+<s> please help!  </s>
+<s> my notebook running xp suddenly lost connection to wifi last week.  </s>
+<s> i have a feeling it was after i id a quicktune on avg.  </s>
+<s> i've googled solutions and tried the ipconfig /allwhich shows media disconnected and 0.0.0.0 but none of the solutions on microsoft or any other site seem to fix it.  </s>
+<s> i can't evendo a system restore.  </s>
+<s> be really grateful if anyone can anyone help??  </s>
+<s> do not use registry or system optimizers unless you are ready to reload from backup.  </s>
+<s> try the old netsh reset (see google.) system restore failures are legendary.  </s>
+<s> you bring up a good point.  </s>
+<s> given msft had a decade to make it better, why didn't they?  </s>
+<s> bob  </s>
+<s> i've googled and tried for 3 days now.  </s>
+<s> everything else connects fine except this laptop.  </s>
+<s> i'm at my wit's end.  </s>
+<s> netsh... doens't wok, ipconfig / flush dns & release & renew don't work.  </s>
+<s> weirdly, it looks like it could possibly connect to an unsecured bt wifi but i don't want to pay for that if it won't work.  </s>
+<s> i just don't get how my other laptop and iphone can connect and this one can't.  </s>
+<s> or how it went wrong in the first place  </s>
+<s> one member came back with an error on the netsh reset and we had to copy registry entries from a good machine.  </s>
+<s> you supplied how it went wrong.  </s>
+<s> you used some system optimizer without a backup.  </s>
+<s> bob  </s>
+<s> how can running anti virus software do this? when it's not an issue on any other machine (all have avg).  </s>
+<s> also i've quick tuned before with no problem?  </s>
+<s> it doesn't answer why it could connect to bt wifi but not to virgin.  </s>
+<s> i don't understand what you mean by registry entries?  </s>
+<s> i've already spent 3 days googling.  </s>
+<s> what i was hoping was that someone would be able to advice me on my situation.  </s>
+<s> i'm not a tech whizz.  </s>
+<s> &quot;quicktune&quot; appears to be a system optimizer.  </s>
+<s> i can not answer for avg what it did but the lesson continues that registry and other optimizers can cause a working system to fail.  </s>
+<s> as to why it worked before, it could be that microsoft patched something and the rest is history.  </s>
+<s> i know some folk want to know &quot;what happened?&quot; but here the moderators have had too many posts about failed pcs after using such.  </s>
+<s> so the consensus is that most are rubbish and all can bring a system down.  </s>
+<s> -&gt; of course i don't expect you to understand my comment about registry entries.  </s>
+<s> why?  </s>
+<s> because i haven't supplied what that was because you need to supply more than &quot; netsh... doens't wok, &quot; we could have a command issue, bad path, or like that other discussion the registry had to be fixed up.  </s>
+<s> at least you can backup your files and start over.  </s>
+<s> some folk lose it all over these optimizers.  </s>
+<s> bob  </s>
+<s> ah i see.  </s>
+<s> i didn't use an optimizer, i ran avg anti-virus and inside this is fix performance 'quick tune component'.  </s>
+<s> i analyzed and fixed in avg but honestly can't remember whether i did this as a result of having issues with connecting to internet or beforehand.  </s>
+<s> was this the wrong thing to do?  </s>
+<s> perhaps you could let me know exactly what information you need?  </s>
+<s> i have tried resetting tcp/ip.  </s>
+<s> i cannot connect to virgin wireless no matter what i do, even though the computer recognises that it's there and active.  </s>
+<s> like i said it doesn't appear to have a problem connecting to public wifi.  </s>
+<s> showing different ip / dns addresses.  </s>
+<s> just virgin.  </s>
+<s> no other laptop / iphone is having an issue connecting to virgin.  </s>
+<s> now when i do ipconfig /all it's not showing any of the info it did before.  </s>
+<s> just that media state is disconnected.  </s>
+<s> no ip or dns addresses  </s>
+<s> it's very clear to me this is some registry and such cleaner.  </s>
+<s> i'm unsure why we need to discuss avg's product here but it sounds like it corrupted your system in some odd way.  </s>
+<s> why waste time on that?  </s>
+<s> -&gt; as to exact information.  </s>
+<s> if you can share what happens when you use the netsh reset command, i may have more to offer.  </s>
+<s> if not and i understand folk sometimes don't understand that we can't see the screens so what is there that doesn't make sense is often dismissed as something we can't use so it's up to you to share any detail.  </s>
+<s> at least you are at the point you can save your files and start over.  </s>
+<s> bob  </s>

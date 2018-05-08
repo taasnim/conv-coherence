@@ -1,0 +1,64 @@
+<s> i'm having networking problems with both types of connections (ethernet & wireless card). the ethernet doesn't even show a link led. the wireless shows activity blinks but doesn't detect the network.  </s>
+<s> (i'm using a dial-up connection right now and it's frustrating lol).  </s>
+<s> what i've done: tried different cables.  </s>
+<s> (crossover & also straight) checked on a different lap to see if the ap is working fine and configured correctly.  </s>
+<s> on the other lap the ap connects succesfully wireless.  </s>
+<s> only 1 laptop is connected at a time.  </s>
+<s> uninstalled & reinstalled the wireless card.  </s>
+<s> deleted the wireless connection and created a new one.  </s>
+<s> get rid of sp2 for winxp and reinstalled.  </s>
+<s> update driver on 3com ethernet adapter.  </s>
+<s> nothing worked!!! here are my ipconfig results: microsoft windows xp [version 5.1.2600]  </s>
+<s> (c) copyright 1985-2001 microsoft corp.  </s>
+<s> c:documents and settingscland&gt;ipconfig/all windows ip configuration host name . . . . . . . . . . . .  </s>
+<s> : cland primary dns suffix .  </s>
+<s> . . . . . .  </s>
+<s> : node type .  </s>
+<s> . . . . . . . . . . .  </s>
+<s> : mixed ip routing enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no wins proxy enabled.  </s>
+<s> .  </s>
+<s> . . . . . .  </s>
+<s> : no ethernet adapter wireless network connection : media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : dell truemobile 1150 series wireless lan card physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-02-2d-8d-09-16 ethernet adapter local area connection: media state . . . . . . . . . . .  </s>
+<s> : media disconnected description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 3com 3c920 integrated fast ethernet controller (3c905c-tx compatible) physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-08-74-e4-40-5b ppp adapter prodigy: connection-specific dns suffix .  </s>
+<s> : description .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : wan (ppp/slip) interface physical address.  </s>
+<s> .  </s>
+<s> . . . . . . .  </s>
+<s> : 00-53-45-00-00-00 dhcp enabled.  </s>
+<s> .  </s>
+<s> . . . . . . . . .  </s>
+<s> : no ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 148.221.85.197 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.255 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 148.221.85.197 dns servers .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 200.33.146.194 200.33.146.202 netbios over tcpip. .  </s>
+<s> . . . . . .  </s>
+<s> : disabled c:documents and settingscland&gt; any help please?  </s>
+<s> winsockfix repairs some of the damage spyware does to windows.  </s>
+<s> here's the link -&gt;  </s>
+<s> thank you for your advice.  </s>
+<s> i did it but still having the problem.  </s>
+<s> i forgot to post that i also have run ad-aware se, lsp fix for winsock2 repair and also tried with firewall on and off.  </s>
+<s> what seems strange to me is that the result showed in the ipconfig for both adapters is media disconnected.  </s>
+<s> unless the cable is really broken.  </s>
+<s> bob  </s>

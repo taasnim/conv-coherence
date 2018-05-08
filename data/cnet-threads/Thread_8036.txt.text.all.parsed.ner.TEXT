@@ -1,0 +1,28 @@
+<s> i have a simple dsl router that can connect to a pc via a ethernet port or a usb port, obviously for machines that cannot support ethernet.  </s>
+<s> just looking through the manual it repeatedly says you should not use both at the same time, but i have been using both so i can get two machines on the net, i.e 1 has the ethernet cable and the other has the usb, why is this not supposed to be allowed, both connections wor fine or will it cause a strain on the hardware?  </s>
+<s> it's simpler than you suspect. the design doesn't include a nat router that would be required to use more than one such interface.  </s>
+<s> in closing, i'm sure you could plug it in, but it will not work.  </s>
+<s> let me share i will not detail why.  </s>
+<s> bob  </s>
+<s> no they both work, simultaneousley too?  </s>
+<s> &quot;no they both work, simultaneousley too?&quot; i know it must be greek, but unless said modem has a nat router in it, how could it work?  </s>
+<s> bob  </s>
+<s> i don't know but it works, perhaps someone can shed light on this?  </s>
+<s> google.com would be your next stop with simple questions to begin with.  </s>
+<s> try: what is a router?  </s>
+<s> what is nat?  </s>
+<s> your dsl modem does not have such a feature.  </s>
+<s> if you want to share the internet connection, you learn about ics at various web sites like or just go get a router.  </s>
+<s> bob  </s>
+<s> &quot;if you want to share the internet connection, you learn about ics at various web sites like or just go get a router.&quot;  </s>
+<s> i don't mean this to sound rude but you arn't listening to me, i am sharing an internet connection  </s>
+<s> then i have to ask.  </s>
+<s> what issue are you trying to solve?  </s>
+<s> bob  </s>
+<s> if you read the 1st post you wouldhave found out that when i stumbled across the manual it repeatedly says not to use both the ethernet and usb simultaneously, i wanted to know why?  </s>
+<s> from an electrical standpoint the modem maker can't warrant the device because they can't control proper grounding of both pcs.  </s>
+<s> if the electrical design isn't done to plug both in at the same time, then and if the pcs are not on the same ground then the modem will be damaged.  </s>
+<s> this is unlikely, but when i write manuals i have to error on the side of caution. is that what you needed to know?  </s>
+<s> bob  </s>
+<s> cheers bob!  </s>
+<s> that's just what i was getting at, i presumed some sort of electrical problem!  </s>

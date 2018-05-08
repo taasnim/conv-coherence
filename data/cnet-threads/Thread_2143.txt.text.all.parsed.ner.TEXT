@@ -1,0 +1,45 @@
+<s> i recently upgraded to a new case and power supply after i switched everything over to the new case on boot i get no video.  </s>
+<s> tried multiple screens and different connections still nothing.  </s>
+<s> i tried 2 other graphics cards and still nothing.  </s>
+<s> then i noticed usb devices were not working .  </s>
+<s> even my usb expansion card .  </s>
+<s> so a total of 12 usb slots failed.  </s>
+<s> i tried changing different mobo connections and it still failed.  </s>
+<s> on start up i heard beeping but i fixed that one of my memory sticks went now i don't get anything.  </s>
+<s> my fans hd cpu all start up my mobo says its getting power .  </s>
+<s> has anyone seen this before and know what to do?  </s>
+<s> i'm most likely thinking my mobo died but if any one could help i'd appreciate it  </s>
+<s> i set out a square of cardboard then place the motherboard, power supply and a few items on that for a test.  </s>
+<s> too often i find case shorts to be the cause.  </s>
+<s> most common?  </s>
+<s> the builder installed a few too many mounting studs for the motherboard.  </s>
+<s> bob  </s>
+<s> never tried the cardboard method but it isn't the studs i triple check them every time after i did that on my first build.  </s>
+<s> i replaced the new mounting screws with my old ones to see if that worked.  </s>
+<s> still got nothing  </s>
+<s> i think you know why i remove the case as well.  </s>
+<s> bob  </s>
+<s> you need to tear down as robert explained and now t/s the setup. the case is now out of the picture with the cardboard setup.  </s>
+<s> further, you reduce connected items to make the simplest system, so all those usb devices, not needed for now other than mouse&kybd.  </s>
+<s> if so equipped.  </s>
+<s> take it from there and check it out.  </s>
+<s> if after all this and it still doesn't work, then get a new mtrbd.. however, verify that all connections are proper to include trying a different psu.  </s>
+<s> verify the video connection for power at mtrbd. is ok. the p4(?) connection, check wiring.  </s>
+<s> with reduced setup you could use the old psu to test.  </s>
+<s> you also mentioned that a ram stick was askew, you do know that may cause that bank of ram to be held down as bad or minor boo-boo but the effect is no video because it is such a low level of booting-up it causes it to have no display.  </s>
+<s> you may want to simply wait for 5-10min.  </s>
+<s> and see if it displays anything as it tries to negotiate pass an error condition.  </s>
+<s> why, because the bios maybe setup to &quot;stop on any error&quot;, but its too late to change because no display.  </s>
+<s> you could try resetting the bios to &quot;defaults&quot; using the clear cmos pins.  </s>
+<s> tada -----willy  </s>
+<s> tore it down like you guys recommended .  </s>
+<s> unplugged everything except mouse and keyboard.  </s>
+<s> have no on board graphics so i tried 3 different cards ... not at same time.  </s>
+<s> used different connections each time and swapped the ram around even going down to one at a time i did find a bad stick and removed.  </s>
+<s> none of this worked though unfortunately.  </s>
+<s> so i ordered a new mobo.  </s>
+<s> tried it all again still having same problems.  </s>
+<s> is it possible it could be the processor?  </s>
+<s> i cleared about cmos pins and battery for a little was getting same results.  </s>
+<s> all of this was done on cardboard with only essentials attached.  </s>
+<s> also tried hooking everything up for no reason but to try it lol.  </s>

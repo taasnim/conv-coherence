@@ -1,0 +1,5 @@
+(TOP (SQ (AUX does) (NP (NN anybody)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJS best) (NN 512mb) (NNP ram)) (VP (AUX is))))) (. ?)) )
+(TOP (S (NP (PRP i)) (VP (AUX am) (RB not) (ADJP (JJ sure) (SBAR (WHNP (WP what)) (S (NP (NP (CD ddr)) (, ,) (NP (CD sodimm)) (, ,) (CC or) (NP (NP (DT any) (JJ other)) (PP (IN of) (NP (DT those) (NNS things))))) (VP (VBP mean)))))) (. .)) )
+(TOP (SBARQ (WHNP (WP what)) (SQ (VP (MD would) (VP (AUX be) (NP (DT the) (JJS best)) (NP (NNP ram))))) (. ?)) )
+(TOP (NP (NP (NNS lots)) (PP (IN of) (NP (NP (JJ good) (NNS info)) (PP (IN about) (NP (NNP ram))))) (. .)) )
+(TOP (NP (NP (NNS thanks)) (PP (IN for) (NP (NP (DT the) (NN help)) (SBAR (S (NP (PRP i)) (VP (VBP appriciate) (NP (PRP it))))))) (. .)) )

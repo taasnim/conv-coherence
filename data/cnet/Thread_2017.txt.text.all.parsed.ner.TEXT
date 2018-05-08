@@ -1,0 +1,32 @@
+<s> win xp pro sp1 processor 1.5 gig amd athlon xp 128 kb primary memory cache.  </s>
+<s> 256 kb secondary mem cache hard drives western digital wd800bb-00caa1 maxtor 6y120lo lite on ltr-48246s cd rom drive toshiba dvd rom sd-m1712 3.3 floppy drive controllers via rev 5 or later usb universal host controller via usb 2.0 enhances host controller main circuit board board : msi ms-6712 1.0 bus clock : 100 mhz bios : american megatrends inc.  </s>
+<s> version 07.00t 04/02/01 memory 1024 megabytes installed slot `0` has 512 mb slot `1` has 512 mb slot `2` is empty display nvidia geforce ti 4200 with agp8x the system was working fine3 days ago.  </s>
+<s> next morning i turned it on and nothing.  </s>
+<s> screen only shows rgb test and status ok. floppy drive does not start.  </s>
+<s> cd rom light comes on.  </s>
+<s> dvd rom light comes on.  </s>
+<s> power unit fan runs, cpu fan runs.  </s>
+<s> otherwise nothing.  </s>
+<s> where do i start.  </s>
+<s> nothing has been disturbed inside the tower , i cannot reboot as floppy fails to operate.  </s>
+<s> help thanks ralph  </s>
+<s> something i forgot.  </s>
+<s> i had to recently replace the cpu fan, i also bought the maxtor hard drive as the wd80 was showing a permanet blue screen and installed xp home as my xp pro wouldnt install, the machine then repaired the fault and i disconnected the new maxtor 6y120.  </s>
+<s> it doesnt make a difference whether both hard drives are connected or the main wd80.  </s>
+<s> can you enter the cmos (bios) setup???  </s>
+<s> check if your keyboard's led's light-up during start-up, if it does light up, does the caps lock led or num lock led activates once the keys are pressed or are they steady (sometimes the 3 led's are lit).  </s>
+<s> if that is the case, there might be a problem in the motherboard.  </s>
+<s> check the capacitors near the power supply (there are 3 or 5 big capacitors in there as compared to other capacitors some read 2200 uf or 1500 uf 3.3 volts), is it bulging on top (showing a burnt-up capacitor)? the capacitors in there control or maintain the power supplied to various parts.  </s>
+<s> once they are busted, there will be low power output supply to various parts. the dvr or cd rom led's may light-up but will not operate since led's require a small amount of current to light-up.  </s>
+<s> burnt-up capacitors sometimes show after you had put your electronic equipment off, since they had exhausted its reserved charge when they were idle and no power is supplied to it.  </s>
+<s> had a similiar occurance recently on my daughter's machine.  </s>
+<s> my wife was powering off, and a program was hanging the shutdown (win 98), then the screen went black.  </s>
+<s> next day i found the vid card was blown.  </s>
+<s> popped in another, no bootup.  </s>
+<s> pulled all hardware except ram and cpu; no beep, no bios.  </s>
+<s> sent it to shop, and it turns out my motherboard just died.  </s>
+<s> can't say whether the amd 1.4 chip is dead or not, as there were no other boards to test in.  </s>
+<s> just installed another motherboard and intel chip.  </s>
+<s> all other hardware survived, best that i can determine.  </s>
+<s> but do try to get into your bios; this will at least give you a hint as to what *may* have failed.  </s>
+<s> good luck.  </s>

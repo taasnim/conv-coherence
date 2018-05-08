@@ -1,0 +1,24 @@
+<s> i have intel pentiii 800, gigabyte motherboard, 630ram, and a western digital 160gb hd. my system wouldnt recognize the hd until i flashed the bios from gigabyte.  </s>
+<s> now it recognizes 149.5 gb, but not in the bios. the bios wont recognize a hd, only will accept auto.  </s>
+<s> then when i boot up, it cannot find a hd until i reboot, then it finds a 160gb hd, but my systems file still only recognizes 149.5 gb hd. when i shut down, i have to boot up twice each time i restart in order my pc to find the hd again.  </s>
+<s> i checked with the gigabyte experts but they couldnt figure it out.  </s>
+<s> anyone ever hear of a problem like this.  </s>
+<s> thanks.  </s>
+<s> yes. but we cure it with bios updates and if the maker doesn't fix it... then we get a new motherboaard or a drive under the magic 127/137gb size.  </s>
+<s> there is no cure if they didn't do the bios proper.  </s>
+<s> ---------------- some fight the jumper settings tooth and nail.  </s>
+<s> i'm unsure why people insist that a jumper setting be &quot;this&quot; when &quot;that&quot; works.  </s>
+<s> you didn't share the ide cable type you used, the jumper setting of the ide drive and what you tried.  </s>
+<s> bob  </s>
+<s> there are gigabytes and there are billion bytes.  </s>
+<s> you can read the hard disk maker's web site about how to convert from one to the other.  </s>
+<s> bob  </s>
+<s> i just installed partition magic 8.0 and it shows 160gb fully partitioned into 4 patritions, and all my apps seem to work fine, but it still takes two boots to locate the hd, the first boot indicates no hd installed.  </s>
+<s> just installed a new uldma cable today, same problem.  </s>
+<s> wierd.  </s>
+<s> thanks for the reply.  </s>
+<s> bob h.  </s>
+<s> that's a known buggy bios quirk.  </s>
+<s> or you have the drive on master/slave on an 80 conductor cable.  </s>
+<s> or there is another drive on the same cable and ... isn't entirely compatible with its neighbor.  </s>
+<s> bob  </s>

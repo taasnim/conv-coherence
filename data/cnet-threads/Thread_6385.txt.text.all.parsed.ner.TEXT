@@ -1,0 +1,21 @@
+<s> ok i just bought ram, but it's two different types of ram.  </s>
+<s> anyways i made a pic of how i have it setup, so i was wondering is everything setup properly and will i get the best performance from how it is now?  </s>
+<s> i have vista ultimate 64 if that matters.  </s>
+<s> pic -  </s>
+<s> a link to the motherboard's manual would fill in a lot of blanks.  </s>
+<s> it's an asus p5n32-sli mobo  </s>
+<s> a link to the motherboard manual would be best.  </s>
+<s> you can get the right manual so there is no doubt.  </s>
+<s> if so, you're fine.  </s>
+<s> for future reference, you should fill the same colored slots with the same type of ram to enable dual channel operation.  </s>
+<s> (so dimm_a1 and dimm_b1 should be filled with a matched pair.) but so long as dimm_a1+a2 have the same capacity as dimm_b1+b2, dual channel will still be enabled.  </s>
+<s> since your ram has different timings, the slowest timings (5-5-5-15) will be selected.  </s>
+<s> you can try to manually set 4-4-4-15 timings, but the performance difference won't be noticeable except in benchmarks.  </s>
+<s> it appears to be running.  </s>
+<s> but, you have the similar(alike) ram together(next to each other) and that's not the way ddr2 mode was intended.  </s>
+<s> you already note the colored slots.  </s>
+<s> while it be working ok, to address your question, for the best performance all ram should be alike of same abilities, thus the same timing.  </s>
+<s> i would think the ram auto-configured to the lowest setting and isn't in ddr2 mode -or- if set in ddr2 its not happy, possible cause for concern if pushed.  </s>
+<s> if you can replace the ram slower ram to the higher ram, then that will be a better fit.  </s>
+<s> but, for now, if it works you'll be advised of this area of concern.  </s>
+<s> tada -----willy  </s>

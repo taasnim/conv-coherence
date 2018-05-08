@@ -1,0 +1,36 @@
+<s> i installed skype 1st and shareaza 2nd and can connect to the internet with my host machine but both client laptops on my home network can no longer connect to the internet.  </s>
+<s> when i ping all the computers they respond.  </s>
+<s> the shared files are visible.  </s>
+<s> it is internet explorer that is not working on the laptops.  </s>
+<s> everything else is fine.  </s>
+<s> i checked ip config, network properties, internet connections and they appear correct.  </s>
+<s> i am using a newlink ethernet switch. the host is 98se.  </s>
+<s> laptop a is me.  </s>
+<s> laptop b ic xp. cannot be sure that skype is causing the problem.have  </s>
+<s> removed both from start up and stopped them running.  </s>
+<s> still no connection on laptops.  </s>
+<s> wondered if anyone else had had a similar problem.  </s>
+<s> any ideas out there.  </s>
+<s> thanks  </s>
+<s> the ics and other portions can be missing.  </s>
+<s> these are accesories that the oem (gateway, hp, other) may include or not. the os however is the same.  </s>
+<s> bob  </s>
+<s> i know there are many replacements for ics.  </s>
+<s> see if sygate is still out there.  </s>
+<s> bob  </s>
+<s> sorry for posting this twice but anyone looking for ics info will want to see a result.  </s>
+<s> well, didn't i get it wrong.  </s>
+<s> skype and shareaza are not to blame.  </s>
+<s> my wife installed icq on her laptop before i did a reboot on my desktop for my two installs.  </s>
+<s> it is well known not to go near icq when you have ics. the problem is that icq when trying to get out through my computer adjusts settings.  </s>
+<s> don't ask me how but it is a common problem with icq.  </s>
+<s> in the end we uninstalled icq, skype, shareaza and the internet connection sharing (ics).  </s>
+<s> i rebooted and re-installed ics.  </s>
+<s> rebooted and installed skype and shareaza.  </s>
+<s> rebooted and all is hunky dory.  </s>
+<s> thanks for all your interest.  </s>
+<s> i hope at least this might help anyone else as far as icq is concerned.  </s>
+<s> i will look into how to install icq for my wife.  </s>
+<s> but that is for another day as my brain is knackered.  </s>
+<s> it's opensource and very beat up.  </s>
+<s> bob  </s>

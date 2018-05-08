@@ -1,0 +1,21 @@
+<s> hi, i just purchased a western digital hard drive (wd caviar se 80gb).  </s>
+<s> i want to use it as a second hard drive to install linux on it.  </s>
+<s> once i connected everything and i am starting my computer windows home edition doesn't boot. the computer also doesn't see the new hard drive?? bios: p4vma-m  </s>
+<s> that would be my initial quiestion to things.  </s>
+<s> also, how do you plan on controlling which o/s will boot?  </s>
+<s> some people use utilities for this though i think one could use the bios settings to change this.  </s>
+<s> regards, jb  </s>
+<s> it's sata so i do not need any jumpers.  </s>
+<s> i didn't get as far as installing linux. the system is hanging as soon as i connect my hard drive...  </s>
+<s> i have a sata drive and had a lot off issues with it.  </s>
+<s> but when i installed the correct drivers, and set all the settings inside bios every thing worked fine.  </s>
+<s> i also had a second operating system on one off the 3 hard drives i have in my system.  </s>
+<s> to get to my second hard drive with the xp on it or what ever, i had to go inside (bios) and then inside off (advanced bios features) and make a change from (hdd 0) to (scsi)or hdd 1, hdd2, hdd3.  </s>
+<s> thats how you access your second operating system on your other hard drive.  </s>
+<s> (a lot off fun) good luck wendell h  </s>
+<s> i made all kind of changes with bios, but windows doesn't boot properly.  </s>
+<s> it ishanging right in the beginning?  </s>
+<s> some settings could be wrong inside bios or you may have somthing wrong with your operating system.  </s>
+<s> inside bios there is a settings that will set you back to load fail-safe default settings or load optimized default settings.  </s>
+<s> you could try either one off them, and if that does not work you may have to reinstall windows.  </s>
+<s> good luck wendell h  </s>

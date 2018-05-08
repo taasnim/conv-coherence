@@ -1,0 +1,119 @@
+<s> well, as the title suggests, i am making my first build.  </s>
+<s> so my budget is around 30,000 inr.  </s>
+<s> (1$ = roughly 65 rupees) (approx 450$) so here is my proposed build: case: cooler master n300 nse-300 kkn1 mid tower case cpu: amd fx - 4300 black edition mobo: asus m5a78l-m lx v2 or gigabyte ga-78lmt-usb3 (confused as i want a usb 3.0) ram: corsair vengeance cmz4gx3m1a606c9 4*1 4 gb (1600 ddr3) gpu: confused.  </s>
+<s> i don't know which one to get.  </s>
+<s> preferably under 3000rs.  </s>
+<s> hdd: wd blue wd10ezex 1 tb.  </s>
+<s> optical drive: samsung sh 224 db/idds psu: another place of confusion.  </s>
+<s> one of the calculators suggested i get a 300w one, whereas one showed around 450w.  </s>
+<s> please suggest.  </s>
+<s> and one more question.  </s>
+<s> well, the site says that the motherboard supports windows 7. does that mean it can't run windows 8? also, i'm buying parts from flipkart.com  </s>
+<s> i'm not sure whether this will be enough for hardcore gaming and stuff but my mom needs it now so i did a lot of research and found out all this.  </s>
+<s> i already have a monitor for my needs.  </s>
+<s> a friend of mine will provide me the os (win 7 ultimate or win 8?) i'm confused a lot.  </s>
+<s> please help.  </s>
+<s> did you look at the amd a10? that way you game for much less.  </s>
+<s> bob  </s>
+<s> you mean the amd a10- 5800k right?  </s>
+<s> it comes with hd 7660d integrated graphics.  </s>
+<s> hmm nice option.  </s>
+<s> but a good mobo for that?  </s>
+<s> i want usb 3.0 and preferably 1600mhz memory supported.  </s>
+<s> (under a budget though) :p  </s>
+<s> tomshardware did benchmark comparisons on motherboards and found so little difference that they don't do that anymore.  </s>
+<s> your comment about memory speed is very strange.  </s>
+<s> something a new builder might ask.  </s>
+<s> bob  </s>
+<s> i kinda knew it.  </s>
+<s> i googled it and came to know that it should downgrade itself to 1333mhz.  </s>
+<s> so now i'm fine with that.  </s>
+<s> but still for the motherboard.  </s>
+<s> i'm searching, and when i'll get one i'll come up with it.  </s>
+<s> i found a motherboard for the fm2 socket type, and now another problem has come up.  </s>
+<s> one of the reviewers says that the position of the ram slots is such that i can't fit corsair vengeance rams (or any rams with heatsink) in it.  </s>
+<s> anyways the motherboard is gigabyte ga- f2a55m-ds2.  </s>
+<s> so it seems like i might have to change my ram.  </s>
+<s> it's not as if anyone mentioned overclocking and such.  </s>
+<s> so what's the issue here?  </s>
+<s> bob  </s>
+<s> not the fan one, the ram is designed in such a way to cool it down.  </s>
+<s> let's just say it is a big sized one.  </s>
+<s> and no, i have no plans of overclocking as of now.  </s>
+<s> look at crucial.com and you rarely see such addons.  </s>
+<s> and how is the motherboard?  </s>
+<s> this is not saying this is for your machine but notice it has no fins.  </s>
+<s> they are not needed.  </s>
+<s> if you are going with that mobo and an apu you will be using system ram for video ram.  </s>
+<s> that will get you.  </s>
+<s> dual channel faster speed for the video enough ram for the video to grab as big a chunk as it wants.  </s>
+<s> but the memory clock rate is set by the apu in this case and there's no need for heat spreaders yet.  </s>
+<s> bob  </s>
+<s> it looks like the a10 will support 1866 native.  </s>
+<s> it looks like the mobo the op picked will support 1866 native.  </s>
+<s> since that igp will feed from the system ram.....i'd go with the fastest ram possible....native.  </s>
+<s> heat spreaders?  </s>
+<s> nice to look at i suppose.  </s>
+<s> perhaps their of value with the folks that go nut-so with overclocking.  </s>
+<s> you have lots of options .  </s>
+<s> one of which is to go the a10 route (as r. proffitt has suggested).  </s>
+<s> so, with this in mind: cpu: a10 series will do the trick (and have a gpu already) mobo: it has all the features you're looking for (usb 3.0, ddr3 2400oc/1866/1600/1333/1066mhz memory modules).  </s>
+<s> gigabyte is one of the best motherboard manufacturers out there, and a gamer's choice...you'll be in good shape.  </s>
+<s> cost: $119 ram: your selection is fine; if anything i'd consider a total of 8gb since you're planning on doing lots of gaming (i'm a gamer by the way ).  </s>
+<s> you'll be looking at $80 to $100 if you choose this route.  </s>
+<s> corsair is fine.  </s>
+<s> gpu: the a10-5800k comes with the radeon hd 7660 gpu.  </s>
+<s> note, the &quot;k&quot; means the gpu/cpu are unlocked, ready for overclocking, that is if you ever choose to overclock them, you will be able to do so.  </s>
+<s> cost: $130 and if you are interested to learn about our a-series apus, look here: hdd: your selection is fine.  </s>
+<s> but if you are planning to play lots of games, an ssd can be a good alternative; you'll have a greater performance (in terms of access times).  </s>
+<s> it will cost you a little more thought.  </s>
+<s> if anything go with a 120gb ssd, make it the bootable drive and use the wd blue hdd as the secondary/storage drive.  </s>
+<s> cost for a 120gb ssd is about $120.  </s>
+<s> again this is just an option...not a must.  </s>
+<s> optical drive: no comment here, i never used a samsung drive but it's a great company with lots of good products in the market.  </s>
+<s> you will be fine.  </s>
+<s> psu: this is important.  </s>
+<s> make sure to get a 500w (or greater) power supply.  </s>
+<s> it's a good investment and will pay dividends in the long term.  </s>
+<s> it will easily power any of the components listed here and if you ever want to add other device, well you won't have to worry about the psu.  </s>
+<s> i suggest cooler master, corsair or antec, look here: cost: about $70 about the operating system: don't worry the above are all windows friendly.  </s>
+<s> from a gamer standpoint, i suggest you run win-7 (or win-7 64bit if you go with 8gb of ram).  </s>
+<s> win 8 will do just fine too.  </s>
+<s> note: avoid doing any overclocking if you are new at building/customizing pc system.  </s>
+<s> start slow also, the ram won't heat up if you don't overclock them... good luck drillo283!  </s>
+<s> thanks warsam71, your reply was extremely helpful.  </s>
+<s> but the problem is, all included, it goes way over budget.  </s>
+<s> over 500$.  </s>
+<s> i can't afford to spend that much.  </s>
+<s> ssd is just isn't an option as it gives less space for more money.  </s>
+<s> yeah it does have it's advantages, but it is still very expensive.  </s>
+<s> the motherboard, it costs 12000 rs. around 200$ or less :/ oh well and i still have to buy a good psu. the 8 gb ram though was a good idea.  </s>
+<s> i might consider it.  </s>
+<s> thanks a lot.  </s>
+<s> i will post my final rig when it is decided.  </s>
+<s> very nicely explained and a detailed reply.  </s>
+<s> thank you!  </s>
+<s> so as per the proposed changes, i have made a new rig fitting my budget (yay!  </s>
+<s> :d) i still have no need for a monitor.  </s>
+<s> so, here is the new changed rig.  </s>
+<s> case: cooler master n300 nse-300 kkn1 mid tower case processor: amd a10 - 5800k mobo: msi- fm2-a85-xma-p33 (got one that gets all my needs + in my budget :d) ram: corsair vengeance cmz4gx3m1a606c9 4*1 4 gb (1600 ddr3) hdd: wd blue wd10ezex 1 tb.  </s>
+<s> optical drive: samsung sh 224 db/idds psu: corsair cx-500 500w i won't install graphic card right now.  </s>
+<s> i hope that the psu will be sufficient.  </s>
+<s> just make it a single rail model to avoid having to learn about &quot;balancing the rails.&quot;  </s>
+<s> i find most builders only get into that years later.  </s>
+<s> bob  </s>
+<s> my bad, the case is cooler master k281 midtower  </s>
+<s> should i go ahead and order these parts?  </s>
+<s> as this fits in my budget and well, prices are about to rise even further so i would like to get them as quickly as possible.  </s>
+<s> fast reply would help.  </s>
+<s> thanks.  </s>
+<s> if yes, get 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 2gbs=4gb or better yet 2 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 4gb=8gb.....otherwise if/when you want to add ram...you won't have to pull out ram to install the new ram.  </s>
+<s> better you get 8gbs (2*4gbs) now that have to do it later.  </s>
+<s> let us know how it turns out.  </s>
+<s> vapcmd  </s>
+<s> hmm ok, and i'm going to get my parts today, wish me luck!  </s>
+<s> :3  </s>
+<s> the new amd apu models like this can really put some entry level gaming in easy reach with the ability to add a better graphics card in another year.  </s>
+<s> bob  </s>

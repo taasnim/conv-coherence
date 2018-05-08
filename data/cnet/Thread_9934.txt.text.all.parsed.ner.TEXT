@@ -1,0 +1,61 @@
+<s> i just bought a samsung hd204ui, which is a 2 terabyte hard drive.  </s>
+<s> when i plugged it all in my computer installed a driver for it.  </s>
+<s> i run windows 7 on a dell xps gen 5. it's been updated with a few more hard drives as well as 4 gigs of ram and a new graphics card.  </s>
+<s> it seems to me that it, for whatever reason, thought it was a blu-ray player and installed the blu-ray player driver.  </s>
+<s> i looked on the samsung site for a driver specific to this hard drive but to no avail.  </s>
+<s> does anyone know what i should do or where i should look?  </s>
+<s> should i call samsung or microsoft?  </s>
+<s> will either of them actually help me?  </s>
+<s> thanks a lot.  </s>
+<s> typical hd install doesn't require a driver, though the system should be ready for it.  </s>
+<s> i suggest you check the dell support website and verify what bios updates maybe present for your model#.  </s>
+<s> while there query their support forum on this topic.  </s>
+<s> if bios status is behind, do the update it *may* address the problem.  </s>
+<s> if possible see what the bios update actually addresses.  </s>
+<s> but since, you have a 2.1tb hd, that alone makes it somehow unique.  </s>
+<s> to add further all the other devices just stacks on the issue if they are related at all.  </s>
+<s> it maybe treating the hd as a br drive only because the capacity issues or is close to what br is and defaults to it.  </s>
+<s> samsung may offer a faq on this topic, query or review their support website.  </s>
+<s> how is it treated as a br player, is there an actual message/error/display to that effect?  </s>
+<s> tada -----willy  </s>
+<s> typical hd install doesn't require a driver, though the system should be ready for it.  </s>
+<s> i suggest you check the dell support website and verify what bios updates maybe present for your model#.  </s>
+<s> while there query their support forum on this topic.  </s>
+<s> if bios status is behind, do the update it *may* address the problem.  </s>
+<s> if possible see what the bios update actually addresses.  </s>
+<s> but since, you have a 2.1tb hd, that alone makes it somehow unique.  </s>
+<s> to add further all the other devices just stacks on the issue if they are related at all.  </s>
+<s> it maybe treating the hd as a br drive only because the capacity issues or is close to what br is and defaults to it.  </s>
+<s> samsung may offer a faq on this topic, query or review their support website.  </s>
+<s> how is it treated as a br player, is there an actual message/error/display to that effect?  </s>
+<s> edited from www... -- start your computer and enter the bios.  </s>
+<s> -- get your motherboard manual and check sections -- do you see the blu-ray and the hdd on your computer screen?  </s>
+<s> if not, try changing your sata configuration - open screen in your bios.  </s>
+<s> -- configure sata as ahci(if present) -- save and exit the bios.  </s>
+<s> tada -----willy  </s>
+<s> thanks a lot for the advice.  </s>
+<s> i will let you know what happens when i get the chance to try it.  </s>
+<s> i wonder if the br player software was set for that drive letter and when you added this new drive it thought &quot;aha!&quot;  </s>
+<s> how would i go about checking that?  </s>
+<s> because my computer says that i have 3 cd drives (i only have two) and 4 hard drives.  </s>
+<s> it see the new one, but it won't come up in &quot;my computer&quot; and it also won't let me into it.  </s>
+<s> also, within device manager it says disk: disk 3 type: unknown status: not initialized partition style: not applicable capacity 1907729 mb unallocated space: 0 mb reserved space: 0 mb the &quot;type&quot;, &quot;status&quot; and &quot;unallocated space&quot; ones seem wrong to me.  </s>
+<s> do you know how to fix these?  </s>
+<s> or change which drive letter it is?  </s>
+<s> i figured it out once but have since completely forgeten how also, the drive is 2.0 tb not 2.1 thank you again.  </s>
+<s> i re-read this post and can't tell where you prepared this drive.  </s>
+<s> a new drive is often blank and will do as you have written.  </s>
+<s> tell the forum how you partition and format a new drive.  </s>
+<s> i do this with the os's tools.  </s>
+<s> for windows this might be disk management.  </s>
+<s> bob  </s>
+<s> well, i fixed it.  </s>
+<s> many thanks to r. proffitt for pointing me to disk management.  </s>
+<s> i just sort of poked around in there for a bit and my computer all of a sudden recognized that the hard drive was there.  </s>
+<s> what i did in disk management was tell it to create a new volume within the disk that was going to be the entire thing.  </s>
+<s> i told it to go ahead and do a not quick format, which seemed to be taking forever, so i stopped it.  </s>
+<s> then, my &quot;my computer&quot; found the hard drive, and decided that it wasn't formatted and that i should format it, which i did.  </s>
+<s> quick this time.  </s>
+<s> my computer still however thinks that there is a shiny new blue ray player, but i suppose apart from not being able to use disk letter &quot;h&quot; it's not really an inconvenience.  </s>
+<s> thanks to everyone for the help!  </s>
+<s> sorry it got fixed just by me messing around.  </s>

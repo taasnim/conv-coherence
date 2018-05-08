@@ -1,0 +1,16 @@
+<s> hi i have 3 2.5&quot; usb hard drive enclosures filled with hitachi 120gb hard drives.  </s>
+<s> i have a lot of trouble with them, they corrupt, cause the computer to blue screen etc. hitachi diagnostics don't work inside the enclosures and they suggest connecting them to the computer but the normal cables don't fit on the hard drive.  </s>
+<s> how do i test these drives? is the instability with usb drives normal?  </s>
+<s> i always properly disconnect them by safely removing them by the icon in the task bar.  </s>
+<s> thanks michael  </s>
+<s> if you're talking about 2.5in.  </s>
+<s> as in laptop hds, use a laptop adapter.  </s>
+<s> this will convert, once out of the usb enclosure and attach to hd then to a int.  </s>
+<s> ide cable of a system.  </s>
+<s> most 2.5in.  </s>
+<s> are jumpered as hd1(master), thus make sure its the only hd present or jumpered as hd2 or slave if used with a system and another hd. adapters are found online so google for one, but here's a quick source: you can then run your tests.  </s>
+<s> i suspects, the hd just got too hot if they not cooled in thier enclosure, though most are vented.  </s>
+<s> try using some enclosures with a fan for direct cooling to see if that helps.  </s>
+<s> tada -----willy  </s>
+<s> you didn't tell enough about the setup.  </s>
+<s> bob  </s>

@@ -1,0 +1,15 @@
+<s> hi, i have 2 internal hdds installed in my computer.  </s>
+<s> at the start-up, the computer shows both hdds, but windows explorer shows only one.  </s>
+<s> any idea?  </s>
+<s> thanks for your help.  </s>
+<s> windows explorer only shows partitioned drives.  </s>
+<s> is that second drive partitioned?  </s>
+<s> you need to go to the disk management tool in the control panel under administrative functions/computer management.  </s>
+<s> it's possible xp sees it as unpartitioned space.  </s>
+<s> you'd need to click on it and follow the prompts to partition and format it.  </s>
+<s> once done, it gets a drive letter and explorer can see it.  </s>
+<s> hi steve, thanks for your answer.  </s>
+<s> i think i know why windows explorer doesn't show the other hdd.  </s>
+<s> i forgot to mention that. the second hdd has ubuntu installed on.  </s>
+<s> i think that's why windows does not show it.  </s>
+<s> thanks  </s>

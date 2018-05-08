@@ -1,0 +1,41 @@
+<s> i been having alot of restarts and lockups so i checked everything out.  </s>
+<s> i noticed my -v5 is at -61.93 in the bios.  </s>
+<s> what would that do?  </s>
+<s> i figured it means a bad power supply.  </s>
+<s> so i swapped it out and the voltage looks better but the pc is still slow.  </s>
+<s> think it might of screwed the ram, cpu, or mainboard up or just need to reinstall xp? let me know what you think.. all voltage numbers before the swap.  </s>
+<s> cpu temp 56c/132f vcore 1.64v vcc1.5 1.48v vcc3.3 3.28v +5v 4.41 +12v 12.82 -12v 12.77 -5v -61.93 vbat 3.28 5vsb 5.40  </s>
+<s> you are saying that's -sixty voltages, not six volts?  </s>
+<s> since, you swapped the psu out and it still a problem then be sure to reduce the system to the bare minimum.  </s>
+<s> remove all devices, etc. and just make a bare system, remove/uplug all drives at least.  </s>
+<s> that way you can return devices if voltage become stable before doing so. the device that seems to bring it down, then that's a iffy part.  </s>
+<s> when a psu problem blows-up a system it may take down other components/devices.  </s>
+<s> be sure also that all cables, etc. are firmly attached/seated.  </s>
+<s> i'll check the wiring crimps as well.  </s>
+<s> tada -----willy  </s>
+<s> yes. sixty.  </s>
+<s> i already swapped the psu and all voltage is now fine.  </s>
+<s> could it of done damage to the processor or mainboard or even both? the pc takes forever to boot up.  </s>
+<s> once it boots up it won't play mp3's without skipping.  </s>
+<s> pc locks up with the mp3s playing also until its done or it still skip like a record would.  </s>
+<s> did you reduce the system?  </s>
+<s> you want to find bad component/device?  </s>
+<s> if bad voltage did any damage yoy need to troubleshoot.  </s>
+<s> tada -----willy  </s>
+<s> you must not know much.  </s>
+<s> nothing in the system besides ram/cpu/mb would cause the pc to be slow.  </s>
+<s> so what are you telling me to unconnect stuff.  </s>
+<s> stop wasting peoples time.  </s>
+<s> i ended up reinstalling everything and all is well.  </s>
+<s> must of been a root kit or something that wasn't detected.  </s>
+<s> you did nothing to troubleshoot any devices and fell back on a reload.  </s>
+<s> if the reload didn't load what would you have done?  </s>
+<s> if any voltages aren't h/w dependant then yeah, i don't what is.  </s>
+<s> you will report if your problems resurfaces later.  </s>
+<s> good day -----willy  </s>
+<s> i cdrom floppy ect is not going to cause a slowdown.  </s>
+<s> if the voltage is normal then why would you do that.  </s>
+<s> again wasting peoples time as only thing that would of been messed up and caused a slowdown would be the processor or ram or even the mb. so don't reply when you don't know.  </s>
+<s> any hardware that can cause an interrupt ( cd-rom, floppy, ethernet etc... ) request to occur can cause a slowdown.  </s>
+<s> if your computer is constantly servicing interrupts from faulty hardware your system will slow to a crawl.  </s>
+<s> faulty hardware can be easily caused by bad voltages... you should listen to him  </s>

@@ -1,0 +1,36 @@
+<s> hi there, i'm a complete novice when it comes to the area of computer hardware, so i'm incredibly confused right now.  </s>
+<s> we recently purchased a new computer and today, i took the hard drive from the old computer and installed it into the new one (which took way, way too long).  </s>
+<s> my old computer only had a pentium something processor (basically.. really old & slow), 512mb of ram and 120 gb of space. the new computer has 3.5gb of ram, 500 gb of space and a quad 2 core 2.4ghz processor (i think).  </s>
+<s> i wanted to make the old hdd the master drive, as it has all of my programs and settings and whatever on it.  </s>
+<s> so i installed it as such --- it's an ide hdd so i plugged in the black cable to make it master.  </s>
+<s> however, once i turned on my computer, it went straight to the new hard drive.  </s>
+<s> my question is: how do i make my old hard drive the master?  </s>
+<s> i plugged it in correctly, and the computer does recognise it, but why is it not the main hdd? is there somewhere on the control panel where i can select which one i want to use..? thank you in advance!  </s>
+<s> it sounds as if you're trying to use &quot;cable select&quot;.  </s>
+<s> this will mean your old drive will need to have a jumper on it set to allow for this option and your new one needs to be set that way as well.  </s>
+<s> now, if your old drive has xp on it and you try to attach it to new hardware, it's not going to boot up anyway.  </s>
+<s> it would require a repair installation, drivers for the new hardware and re-activation.  </s>
+<s> hope this helps.  </s>
+<s> shut down the computer.  </s>
+<s> look in the motherboard manual on how to do this, as the computer starts up right at the beginning, press the appropriate key to get into the bios.  </s>
+<s> esc, f1, f2, depending on your setup.  </s>
+<s> change the first boot device to the drive you wish it to be. a warning, however, depending on what you really wish to do. the computer probably will not boot from the old harddrive.  </s>
+<s> you do not say what os you are using or what was on the old hdd, but what is your goal? and then why does your old hdd need to be the master?  </s>
+<s> unless you are sure you want this, you might wish to rethink what you are doing woth this new computer.  </s>
+<s> it won't work.  </s>
+<s> since that old drive has xp from another machine on it, even if you get it to boot it still won't run.  </s>
+<s> you can't move a hard drive from one pc to another as master.  </s>
+<s> something about piracy.  </s>
+<s> you are a novice, and i'll give you a step by step information.  </s>
+<s> list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads you must refer your motherboard manual 1) change your old drives jumper configuration to master(ma) or cable select(cs),don't make it as a slave(sl).  </s>
+<s> 2) turn on the pc and go to setup.  </s>
+<s> there are no universal method to do this, so you better press esc, f1, f2, del (it mentioned in your motherboard ). 3) go to drive configuration and change boot sequence to make this drive as the first boot device.  </s>
+<s> 4) save and exit (f10).  </s>
+<s> 5) everything is ok. but your old hdd have a os and drivers installed to a old pc,it wont work unless you have a same chipsets on both machines.  </s>
+<s> so your pc require a repair os installation.  </s>
+<s> now you need os and drive cds.  </s>

@@ -1,0 +1,11 @@
+<s> hi there.  </s>
+<s> i have a dell 4600 with 74.5g memory.  </s>
+<s> my problem: the drive is full and i don't understand why. it says i've only got 312mb left!  </s>
+<s> i've not downloaded music or videos, and only some photos.  </s>
+<s> when i check my system and data folders, they indicate about 20-25g each, so where's the rest? is there something i can do to access that or make additional memory available?  </s>
+<s> are these junk files?  </s>
+<s> see if the tricks with (a) cleaning system volume information folder by deleting all but the latest system restore point from the disc cleanup wizard&gt;advanced (b) using ccleaner to delete temp files in all usrt accounts (c) analysing your disc space with treesizefree help you just as much as they did the poster in kees  </s>
+<s> excellent! that really helped.  </s>
+<s> i've got more duplicate files that i'd realized, but treesize will enable me to find and consolidate/remove them.  </s>
+<s> ccleaner and eliminating extra restore points also helped.  </s>
+<s> you've made my weekend -- cheers!  </s>

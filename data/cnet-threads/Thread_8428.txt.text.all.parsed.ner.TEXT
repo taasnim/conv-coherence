@@ -1,0 +1,27 @@
+<s> ok i just installed this belkin wireless router and was setting some configuration settings on it.  </s>
+<s> i went to the address 192.168.1.2 and was able to configure settings that affected my belkin router such as the dhcp server settings and such.  </s>
+<s> i made a mistake and changed the lan default ip to 192.168.1.1, which was the ip for my actual other router which actually connects me to the internet.  </s>
+<s> my belkin router was previously assigned 192.168.1.2(that's how i accessed this menu to alter these settings).  </s>
+<s> as a result now i'm unable to access menu's for my modem to connect me to internet, and my belkin router.  </s>
+<s> how do i solve this as this is not a small ordinary problem about hardware?  </s>
+<s> thanks i really hope you can think of a solution.  </s>
+<s> thank you.  </s>
+<s> did i read this correctly you have two routers?  </s>
+<s> maybe you should have just one.  </s>
+<s> bob  </s>
+<s> ok, point taken but how do i solve the ip problem.  </s>
+<s> i can't configure either router now?  </s>
+<s> thanks lots  </s>
+<s> for me, both routers i have at home have a reset button so i can start over.  </s>
+<s> bob  </s>
+<s> o...i see what u mean i see my reset button too what happens when i press it?  </s>
+<s> and what should i do after that?  </s>
+<s> thanks lots of course =)  </s>
+<s> for my dlink and linksys here, it returns it to the factory settings.  </s>
+<s> it will be a dhcp server so i can boot the pc connected to the lan ports and port the web browser at it to configure it. the linksys has one other option and that's the usb configuration, but i don't suggest that since for some, usb things have issues.  </s>
+<s> bob  </s>
+<s> hmm sounds good.  </s>
+<s> ok i'll do it and let's see what happens for the belkin thing.  </s>
+<s> thanks =)  </s>
+<s> well i pressed reset for both routers... i configured my alcatel 510 speedtouch first...got the net connection up for tt...then managed to get back the ip required for it... then reset belkin and reinstalled the thing assigned a separate ip for it... then reassigned the cables again... and vuala!  </s>
+<s> my belkin now creates the wireless network...while the alcatel 510 provides the internet connection... cause my belkin doesn't have a modem inside only a router/wireless thing so in the end all is well thanks alot moderator =)  </s>

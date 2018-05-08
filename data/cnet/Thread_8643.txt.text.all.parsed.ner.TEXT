@@ -1,0 +1,13 @@
+<s> hi everyone, im considering upgrading the video card in my pc. im using an asrock 4core-dualsata2 motherboard which has a limited number of graphics chipsets which the manufacturer states they support and are compatible with the motherboard.  </s>
+<s> im looking at either an nvidia geforce 8400gs from gigabyte or a geforce 9600gso from asus.  </s>
+<s> asrocks website states that the 8400gs chipset is compatible, but does not mention the 9600gso.  </s>
+<s> i looked at nvidias website and noticed that they have one driver which is used to support both chipsets.  </s>
+<s> this led me to look at asus and gigabytes sites and noticed that they also use one driver to support both chipsets.  </s>
+<s> since the driver is the interface between windows and the video card, is it reasonable to assume that if one card is compatible, another card supported by the same driver is also?  </s>
+<s> this sounds reasonable from a software standpoint, but i dont know if there are hardware issues that need to be considered.  </s>
+<s> both cards are pcie 2.0 and my power supply is big enough to handle either card.  </s>
+<s> thanks john plenge  </s>
+<s> one nvidia pcie card is much like another.  </s>
+<s> i never check or research compatibility on the generic cards like you listed.  </s>
+<s> i install and move on to the next machine.  </s>
+<s> it sounds like my assumption was valid, where one works another should.  </s>

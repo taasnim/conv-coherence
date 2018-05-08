@@ -1,0 +1,18 @@
+<s> today i put in a wireless internet card, the internet works fine, but the card seems to be causing a problem with my audio device.  </s>
+<s> when the wireless card is in my pc i get this odd static and screeching noise from my speakers/headphones. i know the wireless card is causing it because if i take it out the noise goes away.  </s>
+<s> there are 3 open pci slots between the two, i thought putting some space between them may help, but i was wrong, and i honestly have no idea what else to try.  </s>
+<s> any help would be greatly appreciated.  </s>
+<s> thanks!  </s>
+<s> if it matters, i'm running winxp, the wireless card is netgear wireless-g pci adapter- wg311v3, and the audio device is a cmi8738/c3dx pci audio device.  </s>
+<s> does the volume of the noise increase when you turn up the speakers?  </s>
+<s> if so, the sound card could be picking it up.  </s>
+<s> if not, your speakers are probably doing so.  </s>
+<s> you can try taking the wireless card back and trying another brand.  </s>
+<s> i agree with the other poster as &quot;rf&quot; being the possible source of noise.  </s>
+<s> afterall, the wireless card uses a signal(rf) to work.  </s>
+<s> if possible try another slot or relocate speakers.  </s>
+<s> but, since this also going thru the headphones, you simply are too close to the rf noise.  </s>
+<s> as you say, the card seems to be the source, then try another brand or replace and/or move the audio card or both.  </s>
+<s> if these are actually one slot next to the other, oh yeah move them apart.  </s>
+<s> if the audio is build-in, move only the wireless card.  </s>
+<s> tada -----willy  </s>

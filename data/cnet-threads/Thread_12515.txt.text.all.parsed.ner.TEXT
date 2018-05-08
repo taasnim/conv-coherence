@@ -1,0 +1,52 @@
+<s> hello, cnet forum: recently i needed to format my computer and reinstall everything.  </s>
+<s> everything's set up correctly again, with one annoying exception- i can't get my computer to recognize and use the front audio panel of my antec sonata ii case. the internal wiring between the panel and my ga-8i915p duo pro motherboard hasn't changed, and my bios is at its latest version (and has the option to automatically recognize the azalia codec enabled, and the type set to &quot;ac'97&quot; (as opposed to hd audio, which never worked) under the bios settings).  </s>
+<s> i have the codecs from this site (the 1st winxp compatible linked downloadable file) but when i install them, the only available options from the &quot;default playback&quot; drop down menu under the audio tab of the sound and audio devices applet from control panel are my: -sound blaster 4 audigy se (really a misnomer on sb's part, but nm) -a modem #0 line playback, and a -hd audio rear output (the speakers ports built into my motherboard itself).  </s>
+<s> doing some research (cursory, only) off of google led me to downloading the codecs below (c-media cmi9880 driver (windows xp/2000) 62.64) but they seem nearly exactly the same as the c-media audio codec/driver i previously downloaded off of windows update which 1) seemingly changed the name of the default playback option &quot;hd audio rear output&quot; to &quot;c-media audio rear output&quot; only 2) caused the dr watson post mortem debugger to screw up explorer everytime my computer restarted due to something related to msconfig & startup (which i fixed by uninstalling the windows-update provided c-media installation).  </s>
+<s> i know for a fact that pre-format my front audio panel worked just fine using the codecs available from the site linked to from the first hyperlink pasted above.  </s>
+<s> i am not sure why the exact same setup no longer works.  </s>
+<s> i would greatly appreciate any help from more experienced cnet troubleshooters, and gladly give my thanks in advance for your efforts on my behalf.  </s>
+<s> kind regards, tom  </s>
+<s> i wouldn't think no output on the front is a codec problem.  </s>
+<s> if you have audio on the back then the front should also work.  </s>
+<s> if not, then i think it has to be a hardware problem (check all your connection/s).  </s>
+<s> good luck.  </s>
+<s> consulting both my antec sonata ii case manual & my gigabyte ga-8i915p duo pro manual, i checked and confirmed that the wiring was correct for a ac'97 hookup configuration.  </s>
+<s> like i said, the wiring didn't change at all before and after the format; before it worked, now it doesn't, although my drivers and codecs are all the same.  </s>
+<s> thanks for yoru input though.  </s>
+<s> bump  </s>
+<s> looking at you motherboard's model and features, it shows a cmedia 9880 audio device and plugging that into google to look for a driver comes up with which mentions the azalia selection in bios you said never worked.  </s>
+<s> well, maybe it never had the correct driver.  </s>
+<s> i wonder, as well, if before the reformat/re-installation you didn't have some sort of console to enable or configure various audio outputs.  </s>
+<s> perhaps the front and rears have separate circuitry rather than being physically connected.  </s>
+<s> such would make sense because plugging speaker jacks into both at the same time could cause impedance problems.  </s>
+<s> just a thought.  </s>
+<s> the first place to look for motherboard drivers should always be the motherboard maker's website--gigabyte, in your case.  </s>
+<s> ga-8i915p duo pro motherboard drivers: (confirm that this is your motherboard) excerpt: c-media function driver for intel 925/915 family (note:please install microsoft uaa (universal audio architecture) bus driver first before install this function driver) after reading that, i'd uninstall the audio codec and driver that you'd previously installed, restart your computer, and then install the driver followed by the codec (the order indicated on the gigabyte link).  </s>
+<s> result?  </s>
+<s> btw, are you stating that you do indeed have a sb card installed, but you choose to use the onboard audio? is the front panel audio connected to the onboard audio or the sb card?  </s>
+<s> both sound devices enabled aren't going to work.  </s>
+<s> if using the sb, should disable the on board audio device in the bios.  </s>
+<s> this will lose any sound connection to the mb. if two sound devices are present, they should both show up in device manager.  </s>
+<s> silly as it was, i had forgotten to mention that yes, i checked my motherboard's manufacturer website regarding the proper codecs.  </s>
+<s> yes, i had installed the &quot;microsoft uaa&quot; bus driver first (after removing my pre-existing real tek '97/c-media cmi9880 driver configurations) followed by installing the c-media function driver provided specifically from that particular web-page.  </s>
+<s> that didn't work, unfortunately.  </s>
+<s> that's when i attempted the scenario described in my first post.  </s>
+<s> yes, to clarify i have three sound set-ups on my computer: -my soundblaster card.  </s>
+<s> -my motherboard's onboard speaker ports (at the back of the pc) -the front audio panel built into my case all three worked correctly pre-format.  </s>
+<s> i simply selected whichever configuration i felt like using from the sound & audio devices playback tab under control panel.  </s>
+<s> i never had cause to use the motherboard's onboard rear speaker ports, so i didn't mention it earlier.  </s>
+<s> now, my choices are limited to just the rear built-into-the-motherboard speaker ports, and my sound-blaster ports.  </s>
+<s> i normally use my sound-blaster card for sound output.  </s>
+<s> when i don't wish to disturb anyone with the noise from my speakers, i use(d) headphones plugged into the front audio panel. the front audio panel is not connected to the sb card.  </s>
+<s> it is connected to a specific set of pins on the motherboard available for that purpose (that is, for the purpose of hooking up computer tower/case front audio panels to this motherboard). the pins are clearly labelled as such in the schematic displayed in my motherboard's manual, and i have plugged the pins for grounding, right and left speakers, etc into their respectic sockets.  </s>
+<s> nothing has changed in the wiring since pre-format, when all three configurations worked correctly.  </s>
+<s> i know i am using the terms 'codec' & 'driver' interchangeable, and incorrectly; sorry- i'm sleepy.  </s>
+<s> not knowing how many sound devices you have, how many have proper drivers installed, and how many are working now as opposed to earlier, i'd try to back up and uninstall all drivers for all of them.  </s>
+<s> if the pc didn't come this way and devices were added later, it could something to do with the sequence of their installations.  </s>
+<s> then, i'd remove the sound blaster card and work with just the on board devices and ports until they are working.  </s>
+<s> once that's done, you can install the sound blaster card.  </s>
+<s> i've not heard of trying to use two or more sound chips at once.  </s>
+<s> perhaps it can be done but it would seem to me there would be conflicts.  </s>
+<s> motherboards now come with many more on board components than before.  </s>
+<s> some work ok but most have add in devices that work better for some purposes.  </s>
+<s> usually if you make a choice to replace an on board device with a card that has more features, you disable the on board device in the bios as a first step.  </s>

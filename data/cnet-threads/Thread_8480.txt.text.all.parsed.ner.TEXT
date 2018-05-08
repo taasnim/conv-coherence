@@ -1,0 +1,37 @@
+<s> i have an tripplite omnismart 1400 (5 batteries, 6v 12ah).  </s>
+<s> i am trying to replace the batteries.  </s>
+<s> i neglected writing down how they were installed prior to removal (big mistake!). now i am trying to re-install them but it does not look right.  </s>
+<s> it currently look like: black - to ups electronics red - red black - black red - black red - black red - to ups electronics.  </s>
+<s> i do not think this is correct even though the wires all fit.  </s>
+<s> any help would really be appreciated - thanks..............  </s>
+<s> 1111 w. 35th street chicago, il 60609 usa customer support: (773) 869-1234 i had one of their ups and when it came time to replace the batteries i found it cheaper to buy a new ups because of the cost of batteries and s&h fees.  </s>
+<s> i emailed tripplite and explained the problem.  </s>
+<s> they emailed me back and told me that i would need to hire a journeyman electrician (really!). i have the new batteries (cost 48.00 - the 1400 is worth 350.00).  </s>
+<s> all i can say that i would not recommend anybody buy a tripplite ups as their technical isn't just bad, not even a joke - its non-existant! it would have been incredibly easy for them to simply supply the wiring diagram for daisy chaining the batteries - instead they want me to hire an electrician! the rules for this are pretty simple, actually.  </s>
+<s> to bump the voltage i should go + to + and - to -. to bump the amps i should got + to -, etc. my problem is that i ended up with mixed wires and i do not think that can be right, even though everything fits - hence my query.  </s>
+<s> my concern is that if i do it wrong i will destroy the ups.  </s>
+<s> thanks for the reply............  </s>
+<s> given the reply you got from their tech support i agree with you.  </s>
+<s> see site for info on hooking batteries in series and parallel, i think you may have it backwards.  </s>
+<s> triplite site says that your model uses ups replacement battery cartridge, model #: rbc53.  </s>
+<s> this cartridge contains three 12v batteries.  </s>
+<s> you said you have five 6v batteries.  </s>
+<s> which of these are the right batteries?  </s>
+<s> i'm not sure what to say.  </s>
+<s> is your model older and nolonger listed?  </s>
+<s> well as i said in the subject i'm not sure what to say.  </s>
+<s> how about good luck.  </s>
+<s> maybe you can find someone with the same model and open it up and draw a diagram of how to wire in your batteries.  </s>
+<s> thanks for the reply.  </s>
+<s> i know about the specs for the unit.  </s>
+<s> i did an internet search and found that the number of betteries, etc. is a moving target (even on the tripplite site).  </s>
+<s> i bought this unit from tripplite so i have to believe they sent it out right.  </s>
+<s> an interesting thing is that there is room for 6 batteries but they only put 5 in and the space, for the 6th, is taken up with a piece of foam. the more i think about all the problems i am having, the lack of real response from tripplite and the fact that this unit seems to have any number of battery configurations simply reinforces my believe that this is just not a company a person wants to do business with. the unit, incidentally, has worked well for well over a year but given the current problems i would never do it again.  </s>
+<s> you were right.  </s>
+<s> i had it exactly wrong.  </s>
+<s> i decided to go guts and hook everything in series.  </s>
+<s> nothing smoked, the voltages were correct (120v) and i will borrow an amp probe to make sure of the amps although without a load i am not sure it would be accurate (its been a while since i did electrical stuff (different from building computers)).  </s>
+<s> again - thanks for the reply.  </s>
+<s> if this is wrong i will post that later.  </s>
+<s> i know this is an old post, but this info from tripp lite is the answer: it says the dc is 36v which means you were right.  </s>
+<s> the batteries are in series!!  </s>

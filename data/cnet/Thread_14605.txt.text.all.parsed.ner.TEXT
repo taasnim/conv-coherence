@@ -1,0 +1,24 @@
+<s> lexmark x-83 printer amd k-6 450 mhz processor 40 gb maxtor harddrive 184 mb pc 100 sdram ati radeon 7000 video card creative soundblaster audio card.  </s>
+<s> plextor cdr/rw 40x read speed cd rom 48x compaq 17&quot; crt screen windows xp pro sp1 with current updates logitech stereo headphones anytime i play any music on either my windows media player or even the ultra player i hear a clicking sound.  </s>
+<s> it usually starts at the beginning of the soundtracks and sometimes get so loud i have to turn the wmp or ultra player off.  </s>
+<s> this is with either music stored on the hard drive or from a cd in the bay (e: drive).  </s>
+<s> i checked all the drivers and they all read &quot;this is functioning properly&quot;...same for the audio codecs.  </s>
+<s> ... i use logitech stereo-headphones thanks  </s>
+<s> microsoft's buttons that check drivers are not reliable.  </s>
+<s> did you install the last known versions of motherboard and audio drivers (again, not a microsoft click the button procedure)?  </s>
+<s> best of luck, bob  </s>
+<s> robert, where can i get the audio drivers i need.  </s>
+<s> do i have to be on the internet and at what site do you recommend?  </s>
+<s> thanks,  </s>
+<s> and if i didn't note it, the motherboard drivers are best updated too.  </s>
+<s> if the motherboard ide channels are not in dma mode (provided by the motherboard drivers) then you may get slight pauses in winamp or wmp playback as the hard disk is being read in pio mode&gt; bob  </s>
+<s> robert, thanks, i will try the creative website for any new drivers they may have for the audio card and then try to make sure my ide is set to the dma mode.  </s>
+<s> that may be the problem.  </s>
+<s> about flashing the bios...i have heard all kinds of horror stories about doing that.  </s>
+<s> i can get the exact mother board information with the fresh diagnose or sandra 2004 programs and later find the manufacturer that will give me the bios update...do you think that will provide me a &quot;jump in the juice&quot; and make this old amd k6 450 &quot;fly right&quot; ?? thanks  </s>
+<s> yes, we have to try.  </s>
+<s> but in parting, do try winamp since wmp is a bit of a cpu hog.  </s>
+<s> bob  </s>
+<s> bob, i will try win amp...but ultra player let me play the real player rm. files and ram.  </s>
+<s> files as well.  </s>
+<s> thanks jesse  </s>

@@ -1,0 +1,20 @@
+<s> hi, i have a machine with win xp pro running, there is nothing special with the hardware, its standard.  </s>
+<s> now suddenly i cant turn the machine on, every time i press the power on button, i hear a bleep sound and the monitor stays blank.  </s>
+<s> i cant even enter the machine to format it... what should i do to make a simple format?  </s>
+<s> maybe it is a hardware issue regards, mirza  </s>
+<s> the beeps are a code to tell you what's wrong.  </s>
+<s> now check in the motherboard manual what this particular combination of beeps (for example: 1 short one, 2 long ones) means. the usuals: - bad ram - bad cpu - bad motherboard yes, it's surely hardware.  </s>
+<s> formatting doesn't make any sense.  </s>
+<s> kees  </s>
+<s> ok, thanks actually it was a memory error, i changed the slots of my ram, now i'm able to start my pc but after the initial screen the monitor simply fades to black, i cant start a formatting, anything...the old win xp installation cannot be started regards, mirza  </s>
+<s> you can't format from the old win xp installation.  </s>
+<s> you can only format from the xp installation cd. so it might be time to find that.  </s>
+<s> kees  </s>
+<s> i have the xp cd, but the problem is when i boot from the cd during startup (first boot device set to cd rom) then the installation cannot be started, for some strange reason...  </s>
+<s> must be hardware-related.  </s>
+<s> maybe still a ram issue, maybe something else.  </s>
+<s> why not try memtest86 (free download) first?  </s>
+<s> anyway, you're unlikely to get any effective help if you don't tell more about the issue than that it has a &quot;strange reason&quot;.  </s>
+<s> kees  </s>
+<s> ok..thanks, what details do you need about the machine and the problem?  </s>
+<s> regards mirza  </s>

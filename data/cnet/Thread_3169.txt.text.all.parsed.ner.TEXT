@@ -1,0 +1,20 @@
+<s> i realize that this is not exactly a computer issue but here goes.  </s>
+<s> i'm using an old computer power supply to power quiet 12 v cooling fans for electronic equipment in an entertainment unit.  </s>
+<s> i am running 3 120 mm fans that draw 1.4 w max.  </s>
+<s> with a 200 w power supply.  </s>
+<s> i have 2 old ps's, the oldest has a switch that will turn it on and off but has a noisy cooling fan. the newer ps has a quieter fan but won't turn on (i'm guessing) without a signal from the motherboard; it worked ok before i removed it from a computer.  </s>
+<s> my question is two part; can i disconnect the cooling fan in the older ps since i'll be using less than 5 w of power total without overheating the ps? alternatively is there a way to &quot;jump&quot; the newer power supply so that it will turn on without the motherboard connection?  </s>
+<s> thanks  </s>
+<s> can i disconnect the cooling fan in the older ps since i'll be using less than 5 w of power total without overheating the ps? your choice!! but from what i see in most designs the heat output at low loads is still too much for the psus to run without a fan.  </s>
+<s> bob  </s>
+<s> i'd think the newer supply fan could just be powered by the same 12v used for the others with a little rewiring.  </s>
+<s> my guess is this one might be thermally controlled and that's the reason it doesn't come on when the 12v comes up.  </s>
+<s> unless you just want to use what you have and not spend a few extra bucks, i'd look into something like this.  </s>
+<s> you can get 12v dc supplies that are small and can handle a few light duty fans.  </s>
+<s> you still need a little creativity to adapt them but it sounds like you're not short on that.  </s>
+<s> to power up an atx or atx-2 psu for testing, short pin 14 (ps_on) with one of the grounds.  </s>
+<s> see here:  </s>
+<s> thanks for the help.  </s>
+<s> that seems to work well  </s>
+<s> i just read your post and this also worked for me.  </s>
+<s> i need to take a power supply and use it to run my fans in a cabinet that houses my network equipment thank jeff acs  </s>

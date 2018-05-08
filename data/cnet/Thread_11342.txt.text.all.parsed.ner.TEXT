@@ -1,0 +1,55 @@
+<s> have 3 servers all on separate dedicated private networks.  </s>
+<s> these servers are not allowed to route to each other.  </s>
+<s> all servers reside in the same rack.  </s>
+<s> would like to use windows server backup to create recovery images of each server and save to external.  </s>
+<s> was thinking about putting in a usb 3 hub then attach to a buffalo terastation 5400r rackmount via usb.  </s>
+<s> doable?  </s>
+<s> (alternative suggestions would be greatly appreciated) thanks.  </s>
+<s> usb is not a network so you would have to put in some usb switch to get it to work.  </s>
+<s> also, given how unreliable externals are, read and hundred more where you get advice to have more backups.  </s>
+<s> since having a single storage device is known to result is total loss, why are you repeating history?  </s>
+<s> bob  </s>
+<s> open to suggestions.. i cannot route any network traffic nor create a back-end dedicated network for network backups between these servers. the buffalo is 4-disk hot-swap raid nas..only i cannot network the servers together.  </s>
+<s> i will look into connecting the buffalo to my kvm and try that.  </s>
+<s> disable/enable usb port on the server to correlate with backup times?  </s>
+<s> you're setting yourself up for a doosey of a failure, should it happen(it can).  </s>
+<s> funneling everything to &quot;one&quot; anything is bound to cause some issue to arise.  </s>
+<s> i don't know why you have 3-servers but you've crossed into commercial or beyond typical home user application.  </s>
+<s> thus, you need to spend the $ to get real and find what it really takes.  </s>
+<s> why, you're not using some server os(or similar) is beyond me(i assume).  </s>
+<s> i would think, your best doable and reasonable setup would be a dump to a singular hd for each server.  </s>
+<s> but, imo look at nas setups and buffalo can help there too.  </s>
+<s> if you have a home brew server setup, try to standardize what you have, so things can settle.  </s>
+<s> when it comes to usb, try to stay away from that, use ethernet when you can.  </s>
+<s> why, because think of it as a highway of 3-lanes now where everyone has to exit onto a 1-lane exit ramp.  </s>
+<s> plus, you made your setup to connect all to one backup, you've in effect made a backdoor link of sorts, somehow i can't see this as a good idea.  </s>
+<s> tada -----willy  </s>
+<s> the buffalo is a 4 disk raid unit.  </s>
+<s> none of the servers are connected to the internet nor will the buffalo be connected to the internet.  </s>
+<s> kinda stuck with what i have.  </s>
+<s> mainly trying to get backups locally without taking up too much rack space.  </s>
+<s> thanks.  </s>
+<s> from past experience once you get into &quot;hodge-podge&quot; setups, sooner or later something happens.  </s>
+<s> because it is some unique setup or arrangement, it becomes difficult to sort out.  </s>
+<s> even for a pro, it boils down to get to the basics or lower level in order to settle things out.  </s>
+<s> i think once you have this happen to you, it all makes sense what i'm stating.  </s>
+<s> you will teach yourself what works and not.  </s>
+<s> overall, i see you're trying to get the most out of it but placing some requirement and making everything else to conform or bend to it.  </s>
+<s> you do what you gotta do, as others may offer, it is what it is and sometimes that's a build-up to a major failure.  </s>
+<s> as i stated you it's not a good idea.  </s>
+<s> i have no clue if you were on the www/internet you didn't state that.  </s>
+<s> however, it is still possible should it become more open to your demands as time goes by at no fault of your own.  </s>
+<s> it's just an issue i saw as possible given the info provided.  </s>
+<s> good luck -----willy  </s>
+<s> thanks willy!  </s>
+<s> open to suggestions that do not require connecting any to the internet or routing any traffic between the isolated networks.  </s>
+<s> thanks again!  </s>
+<s> sorry but that wouldn't work either.  </s>
+<s> but this is not to say it can't be crafted.  </s>
+<s> shows that we can automate the switching of usb.  </s>
+<s> i think you should see that one backup system per server is the easy solution.  </s>
+<s> bob  </s>
+<s> first and foremost, i highly, highly recommend that you consider the distinct advantages to switching over to dedicated server hosting, as the hodge-podge of components you have are not nearly enterprise grade in comparison to the functions you expect and the configuration you are trying to make work.  </s>
+<s> that being said, the hub idea would not work, usb does not work the same way as a network, and all 3 servers cannot access the usb device at the same time.  </s>
+<s> the only proper way to do this with external drives is to have 3 separate external drives, one for each server.  </s>
+<s> if you are worried about redundancy you can network those shares and then back them up to a central san.  </s>

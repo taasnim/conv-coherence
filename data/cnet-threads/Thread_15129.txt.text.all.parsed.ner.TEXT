@@ -1,0 +1,53 @@
+<s> &quot;dead pc. no power when i turn it on.&quot;  </s>
+<s> last night i was installing my new 160gb western digital hard drive.  </s>
+<s> well, i didn't think i was gonna have any problems.  </s>
+<s> at least not hardware problems.  </s>
+<s> after i screwed it in, i set the jumpers to the propers pins (on both hard drives), i put the ide(?) cable in.  </s>
+<s> old hd is set to master, new hd is set to slave.  </s>
+<s> i plugged power cords into each hd.  </s>
+<s> then, i closed up the case, plugged it back in, and turned the button on to power it up.  </s>
+<s> nothing!  </s>
+<s> absolutely nothing.  </s>
+<s> huh?  </s>
+<s> i opened it up again, and tried powering it up while i looked in there.  </s>
+<s> when i clicked the power on the fan turned for a second, then quit... but nothing else.  </s>
+<s> does anyone know... is my cpu fried?  </s>
+<s> i don't think even poor hard drive installation would cause that.  </s>
+<s> it should at least power up.  </s>
+<s> right?  </s>
+<s> any help?  </s>
+<s> cheers.  </s>
+<s> new drive and return it back to its previous state?  </s>
+<s> nothing. i did that.  </s>
+<s> returned it to exactly the way it was before.  </s>
+<s> still nothing. the fan turns for a second, then stops.  </s>
+<s> some green lights on my network card come on and stay on.  </s>
+<s> go figure.  </s>
+<s> sounds like your psu was on its last leg and when you hooked up the other hdd it done in the 12v rail.  </s>
+<s> it might still have enough life left in it to power the nic but that's it.  </s>
+<s> you need to post all your system componets so you can receive better help.  </s>
+<s> i would try a different psu of at least 400-watts.  </s>
+<s> 450-watts would be better/  </s>
+<s> hi; i had a few dead pc's in my repair days.  </s>
+<s> i just fixed one last thrusday.  </s>
+<s> it required a new supply.but in your situation, i would bet on a 40 pin cable put on backwards.the  </s>
+<s> cable has a red wire located at the pin &quot;1&quot;one position.  </s>
+<s> that red wire on the cable goes next to the power cord for the cd or the for hard drive .  </s>
+<s> that is the standard position for all hard drives and cd's.  </s>
+<s> smell the power supply, you can smell a burned out supply.  </s>
+<s> they are easy to replace.you need to know if the pc is an atx or at. the supplies are different for an atx. the atx motherboard cable connector is one piece for and two pieces for an at mother board.there is a fuse in the supply,usually two but one is soldered onto the board in the supply.the  </s>
+<s> problem with this one ended at the floppy disk.  </s>
+<s> so, i had to repace it after the supply.the  </s>
+<s> supply has 12 volts and five volts output.you  </s>
+<s> can check that with any cheap voltmeter.black  </s>
+<s> wires are always ground and the red and yellow wires are the voltages.  </s>
+<s> if you accidentally touched the power cable to the connector &quot;backwards&quot; it would fry the supply pretty fast.always check your voltages before you condemn the mother board.the  </s>
+<s> cpu is a long way from the power connector.let  </s>
+<s> me know how it works out.  </s>
+<s> i have repaired a lot of pc's.  </s>
+<s> check for any manufacturer instructions on their web site.that  </s>
+<s> new &quot;large capacity&quot; dive may require a different interface board.  </s>
+<s> opening up the case and working inside can lead to a variety of issues.  </s>
+<s> you need to try unplugging all cables inside and reseating them.  </s>
+<s> you also need to unplug the memory and reseat it, as well as any cards plugged into the case.  </s>
+<s> doing all this will frequently resolve problems like you describe, if not then a power supply is the first thing i would get.  </s>

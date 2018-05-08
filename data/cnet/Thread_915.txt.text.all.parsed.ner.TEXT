@@ -1,0 +1,11 @@
+<s> ok so i bought a viewsonic vx2250wm monitor.  </s>
+<s> i set it up with my desktop and set the resolution at the recommended 1920x1080.  </s>
+<s> however 2 days later i started getting a pop-up message telling me that the recommended resolution is 1200x1080, and that i should change my current resolution.  </s>
+<s> when i went to do that my resolution was on 1600x1200, and my desktop was telling me that this was my highest resolution which obviously isn't true.  </s>
+<s> all my drivers are up to date and trouble shooting reveals no problems?  </s>
+<s> what should i do?  </s>
+<s> it won't be the video card driver that determines the native resolution of the monitor.  </s>
+<s> does your system recognize the monitor by its exact manufacturer and model #? if not, you need the viewsonic driver installed.  </s>
+<s> as noted, 1200 do not match up with the monitor, hence the pop-up message.  </s>
+<s> i suggest changing the video card setting to as close as possible to 1920x1080 (but not over that).  </s>
+<s> what connection do you use, vga or dvi?  </s>

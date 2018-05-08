@@ -1,0 +1,12 @@
+<s> hi i am new in networking i stuck on a problem i have a wireless router (r) 3 device are connected to it lets say u1 u2 u3 u1 is sending packet to u2 its fine but now i want the packet sent by u1 first to u3 and after some processing send to u2 can any one suggest me what to do?????  </s>
+<s> that seems simple: 1. you send it from u1 to u3 in stead of to u2 2. you receive it in u3 3. you process it in u3 4. you send it from u3 to u2 what's the problem here?  </s>
+<s> kees  </s>
+<s> u1 sending packet to u2 the router r should forward that packet to u3 which is destined to u2  </s>
+<s> this it's broke or misconfigured.  </s>
+<s> seems simple still.  </s>
+<s> bob  </s>
+<s> &quot;the router r should forward that packet to u3 which is destined to u2&quot;, but only if it's a packet from u1! otherwise the packet from u3 is sent back to u3 in stead of going to it's destination u2. so your question is: how to tell that to the router?  </s>
+<s> that might depend on the specific router.  </s>
+<s> did you check the user manual?  </s>
+<s> maybe some form of port forwarding is the solution.  </s>
+<s> kees  </s>

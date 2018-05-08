@@ -1,0 +1,16 @@
+<s> hi, i recently installed a bt wiress dsl router.  </s>
+<s> i have created a security enabled wiress network (wpa) but notice only one of my two pc's can be connected to the network at a given time?  </s>
+<s> i dont appear to be have the two machines internet-connected at the same time?  </s>
+<s> i pretty sure it's something trivial ..... any ideas?  </s>
+<s> note: network authentication = wpa-psk; data encyption = aes; network key is same for both pc's (is this correct?) help greatly appreciated.  </s>
+<s> don-  </s>
+<s> have only one channel for wireless at a time.  </s>
+<s> check out the router specs and see if it supports more than one wireless connection at a time.  </s>
+<s> most routers will accept more than 1 wireless signal at a time.  </s>
+<s> in fact i have never seem even one that doesnt.  </s>
+<s> i used to install wireless equipment for a large retail, did hundreds of them.  </s>
+<s> from my experience dsl modems also have a built in dhcp server just like the router.  </s>
+<s> when they both try to assign ip's it is possible to get a duplicate and cause a conflict.  </s>
+<s> if they both have dhcp, turn the dhcp off on one of the two.  </s>
+<s> also check the ip address of both the modem and the router, these cannot be the same but by default they could be.  </s>
+<s> let us know if that works.  </s>

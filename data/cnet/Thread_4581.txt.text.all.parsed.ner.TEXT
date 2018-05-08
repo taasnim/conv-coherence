@@ -1,0 +1,61 @@
+<s> hello, i have two computers, a host and a client.  </s>
+<s> both are running windows xp pro. the host is not connected to the internet or a network, but simply has it's nic connected to a webcam via a crossover cable.  </s>
+<s> this is the first &quot;network.&quot; the host also has a modem which is setup to accept incoming calls (ppp) to allow access to the host.  </s>
+<s> this is the second network, when there is a connected incoming phone call. the client (the computer dialing into the host) is not connected to the internet.  </s>
+<s> the client connects to the host via its modem (28.8).  </s>
+<s> essentially, the host is in an isolated area where no internet access is available.  </s>
+<s> i want to dial into this computer and access the webcam to &quot;keep an eye on things.&quot; i can dial into the host just fine, and access remote desktop.  </s>
+<s> i can view the webcam on the remote desktop, but its very slow as you can imagine.  </s>
+<s> i cannot go to my command prompt on the client computer and ping the webcam, or access it with the viewer application.  </s>
+<s> it appears that the webcam and my dialup computer are on two different networks.  </s>
+<s> the host can see both networks, but the current configuration will not enable the dialup computer / client to access the webcam.  </s>
+<s> this is my problem.  </s>
+<s> if i can connect the client directly to the webcam via ip, the image downloads will be much more efficient because i won't have to use remote desktop.  </s>
+<s> i ran ipconfig on both the host and the client during the dialup session.  </s>
+<s> here is the host: ppp adapter ras server (dial in) interface: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.1.2 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.255 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : ethernet adapter local area connection: (this is nic connected to the webcam via crossover cable) connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.1.1 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.0 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.0.0 here is the dialup client ipconfig: ppp adapter skynet: connection-specific dns suffix .  </s>
+<s> : ip address.  </s>
+<s> .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 192.168.1.3 subnet mask .  </s>
+<s> . . . . . . . . . .  </s>
+<s> : 255.255.255.255 default gateway .  </s>
+<s> . . . . . . . .  </s>
+<s> : 192.168.1.3 the ip address of the webcam is 192.168.1.115 and its subnet is 255.255.255.0.  </s>
+<s> i can access this ip address only from the host, not the dialup client.  </s>
+<s> i am hoping there is a simple answer to this.  </s>
+<s> i'm a certified netware administrator, which means i know a little bit about netware file systems but thats about it. the reason i'm using a dial-in method is that the host computer is in a remote location in the mid-west u.s. where broadband is not available.  </s>
+<s> also, the webcam does not have a usb interface, only ethernet.  </s>
+<s> thanks for any insight you can provide.  </s>
+<s> robert  </s>
+<s> the problem is not networking but dial-up speed. the higher the resolution on the camera equates to larger files (pictures and frame rate), which will be much slower uploading from the camera.  </s>
+<s> you might try lowering the camera resolution to bare minimum.  </s>
+<s> i'm on 10 meg cable and a friend is on the same.  </s>
+<s> when we use our cams the voice is perfect but the pictures are very slow.  </s>
+<s> i can just imagine what it would be like on dial-up speeds.  </s>
+<s> just a thought.  </s>
+<s> you say the dial-up speed is 28.8?  </s>
+<s> that's standard &quot;download&quot; speed.  </s>
+<s> upload speed from the camera will be a fraction of that.  </s>
+<s> guys, my plan is to set the camera to the absolute lowest setting.  </s>
+<s> in the range of 10,000 bytes per photo or less if possible.  </s>
+<s> remote desktop actually works reasonably well with the resolution and colors turned down.  </s>
+<s> i havent had a chance to try the camera, yet.  </s>
+<s> once i get this networking problem solved.  </s>
+<s> any ideas on that?  </s>
+<s> thanks  </s>

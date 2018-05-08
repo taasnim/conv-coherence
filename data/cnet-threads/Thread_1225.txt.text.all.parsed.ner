@@ -1,0 +1,8 @@
+(TOP (NP (NP (DT any) (NN advice)) (PP (IN on) (SBAR (WHNP (WP who)) (S (VP (VBZ makes) (NP (DT the) (JJ quietest) (JJ external) (NN drive)))))) (. ?)) )
+(TOP (FRAG (ADJP (QP (CD 200) (CD gb)) (NN minimum)) (. .)) )
+(TOP (S (S (NP (NP (NNS sounds)) (PP (IN like) (NP (NNP seagate) (CC and) (NNP western) (NNP digital)))) (VP (VBP get) (NP (JJ good) (NNS reviews)))) (, ,) (CC but) (S (NP (DT no) (NNS reviews)) (ADVP (RB specifically)) (VP (VBP include) (NP (NP (NN noise) (NN level)) (PP (IN as) (NP (DT a) (NNS criteria)))))) (. .)) )
+(TOP (S (NP (PRP$ my) (NN rocket) (NN pod)) (VP (AUX was) (ADVP (RB really)) (VP (VBN loud.) (SBAR (IN then) (S (NP (PRP it)) (VP (VBD died)))))) (. .)) )
+(TOP (S (NP (NN put) (CD one)) (ADVP (RB together)) (VP (VBZ ..) (SBAR (S (NP (EX there)) (VP (AUX are) (NP (NP (NNS lots)) (PP (IN of) (NP (NNS enclosures))) (SBAR (S (VP (TO to) (VP (VB choose) (PP (IN from))))))))))) (. .)) )
+(TOP (S (ADVP (RB just)) (VP (VB get) (NP (NN one)) (PP (IN with) (NP (DT a) (NN fan)))) (. .)) )
+(TOP (S (S (CC and) (NP (NN life)) (VP (VBZ goes) (PP (IN on) (NP (NN ..)))) (. .)) (VP (VB jack))) )
+(TOP (NP (CC or) (NN maxtor)) )

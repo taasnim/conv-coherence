@@ -1,0 +1,63 @@
+<s> i recently put the guts from an e machines 1500 in another case because of mechanical switch problem with the case front.  </s>
+<s> i can not find usb pin out id for the usb hub on the am35 motherboard.  </s>
+<s> would like ot install a card reader /usb internally but everything i can find has different plug wiring including the blocked connection.  </s>
+<s> for what it is worth the wire colors shown in the manual do not match what is in the block.  </s>
+<s> any help or reference to a site with the answer would help&gt;  </s>
+<s> we don't know what your header looks like.  </s>
+<s> often it's two rows of pins with 5 in one row and 4 in the other. the odd pins don't much matter.  </s>
+<s> it should be easy enough to find the +5v & the ground.  </s>
+<s> they should be on opposite sides of 4 pin row and will those will match the corresponding pins in the row parallel to it. the pins in between should be the data+ and data-.  </s>
+<s> data- should be next to the +5v pin.  </s>
+<s> so in sequence you have +5v, data-, data+ and ground.  </s>
+<s> on the mtrbd.  </s>
+<s> usb connection follows the usb standard, starting at pin 1. if what you're asking is what wire harness setup is, then that's entirely unique even though it follows once properly connected the same results.  </s>
+<s> if you have actual separate wires per pin, then i can easily see your situation.  </s>
+<s> you need to google for usb wiring and there several examples out there.  </s>
+<s> as the other poster offered a meter would help to determine basic wiring.  </s>
+<s> also, since you have an old 1500 model, that maybe at a period when usb connections did vary, pin wise amount.  </s>
+<s> true usb std.  </s>
+<s> now is 10-pin, minus 1 pin for &quot;key purpose&quot; to ordinate pre-made wire harness.  </s>
+<s> -or- as use the pin 1 on wire harness to pin 1 on mtrbd.(noted).  </s>
+<s> yet, most wire harness use 4-wires(when separate), the idea behind 10-pins at mtrbd. is to properly set it all up, thus a hub for 2-usb ports if you're dealing with a 4-wire connection, then find the grd, 5v+, and signal.  </s>
+<s> confusing, you bet in older and early usb setups, thus the 10-pin connection became the norm.  </s>
+<s> colors do vary, sorry they do, so while a clue they're not always followed.  </s>
+<s> if you're lucky, the wire harness has stickers/labels id'ing what they do.  </s>
+<s> maybe, your usb labels are [+], [-], [data or signal], [grd], or [5v].  </s>
+<s> google for wiring schematics.  </s>
+<s> if this becomes too painful, then use a usb pci type card to add usb ports for quick use of the pc for the time being, cost is low.  </s>
+<s> tada -----willy  </s>
+<s> i have a pci card installed.  </s>
+<s> i also have another pci card with both rear case and one internal usb socket.  </s>
+<s> what i really want to do is install a front case card reader with a usb port.  </s>
+<s> i have looked high and low for an internal reader and i can not find one that does not connect to the 9 pin hub on the mothjer board.  </s>
+<s> they all have the blocked pin on the wrong corner of the connector.  </s>
+<s> you have an int.  </s>
+<s> connection on the mtrbd.  </s>
+<s> what does it look like?  </s>
+<s> can you provide pix on the matter and be sure its usb as well.  </s>
+<s> don't confuse any audio(spif) port for usb , they look similar.  </s>
+<s> as i stated older mtrbds.  </s>
+<s> weren't all std.  </s>
+<s> and may differ which is why many usb harness had separate wires for a connection in order to match the needs.  </s>
+<s> later usb connections followed the 10-pin connection(refer to previous post) and then try to connect.  </s>
+<s> yeah, it maybe difficult but that's the way it is.  </s>
+<s> it's very possible your pci usb int.  </s>
+<s> connection is up to date and may follow the usb std.  </s>
+<s> connection, use it instead of mtrbd.  </s>
+<s> supplied for the time being.  </s>
+<s> also, your usb reader has to be similar.  </s>
+<s> if you're trying to carry over some emachine usb reader, it may not be a match or direct connection, because oem supplied parts are made for their wants and needs.  </s>
+<s> this maybe a case of &quot;look and see&quot; what you have in order to resolve it.  </s>
+<s> fyi- a mtrbd.  </s>
+<s> connection is considered a &quot;hub&quot; or to a hub that normally supports 2-usb ports.  </s>
+<s> tada -----willy  </s>
+<s> the more i look, i see reference to emachine w1500.  </s>
+<s> so what does the decal/sticker say as to the full model#?  </s>
+<s> because, if it is w1500, then that's a real old mtrbd.  </s>
+<s> of socket a variety which suggests the usb is probable usb1.0 or worse that usb connections did vary too greatly from one brand to the next as the usb std.  </s>
+<s> wasn't fully settled as it is now at usb2.0.  </s>
+<s> general am35 info link, maybe??? emachine manual, not provided so far at their support website.  </s>
+<s> tada -----willy  </s>
+<s> with all the answers everyone provided i am now educated on usb.  </s>
+<s> i will put in a usb pci card with 4 + 1 outlets.  </s>
+<s> in oreder to get a 3.0 card reader with a usb plug i will have to settle for 2.0 performance which qwwas all i was looking for thanks  </s>

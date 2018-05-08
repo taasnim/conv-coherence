@@ -1,0 +1,42 @@
+<s> my wife's geforce gts 250 started running really hot a few days ago.  </s>
+<s> nothing to bad in nongpu intensive games, like dcuo, but whenever she loads up skyrim or swtor it shoots into the 90s before very long.  </s>
+<s> well it used to stay in the 70's under load, and 90c is a little hot for me, so i decided to clean it out.  </s>
+<s> i've never opened a graphics card before, but it wasn't too hard.  </s>
+<s> i cleaned out ungodly amounts of dust and cat hair from the air intake of the gpu, so i'm guessing that is what caused the overheating.  </s>
+<s> well, i cleaned the old thermal compound off of the gpu and heatsink, then put on some new stuff (just the radio shack brand that i had lying around).  </s>
+<s> everywhere i read told me not to put too much on, so i put on barely enough to cover the gpu, even though when i originally opened it the compound was everywhere, like they had used gobs.  </s>
+<s> well, i immediately closed it back up, threw it into the computer and booted up.  </s>
+<s> i use evga precision to monitor temps, and when she went into swtor it shot into the 100's almost instantly before i pulled the plug.  </s>
+<s> should i apply more thermal paste?  </s>
+<s> does it need to sit for a while after application before use?  </s>
+<s> is this card just trash?  </s>
+<s> thanks in advance, billy  </s>
+<s> i know it's real easy with cpus to get one of the 4 corners not fully down which makes for very poor heat transfer.  </s>
+<s> i can't see your work but you'll need to have heat sink surface flush on top of the gpu and perfectly parallel.  </s>
+<s> you didn't mention whether it had a fan.  </s>
+<s> if so, i'd wonder if it's working properly.  </s>
+<s> the whole heatsink/fan contraption sits on top of the gpu area.  </s>
+<s> it connects with about 9 screws, all as tight as i can make them without worrying about cracking the board.  </s>
+<s> the fan works, i've even made sure it changes speeds.  </s>
+<s> i applied more thermal paste, and it helped a small bit, but it still climbed to 101c before i shut it down.  </s>
+<s> on the desktop it idles at about 54c, which is higher than it used to, but as soon as anything graphics heavy happens, it shoots up quickly.  </s>
+<s> but for now the best advice is to get more cool air around that card.  </s>
+<s> i've seen folk battle this and then they put on the case cover and wonder why it can't cool.  </s>
+<s> bob  </s>
+<s> you also didn't mention a fan and that could be important.  </s>
+<s> 9 screws is quite a lot. the difference could be in how you sequence the process of seating the screws.  </s>
+<s> you'd need to hold the heat sink in place firmly while seating them.  </s>
+<s> you'd need to try your best to bring down the screws opposite one another just to the point of feeling resistance until all screws felt the same.  </s>
+<s> you'd repeat that sequencing in small increments until the screws were snug but not tight.  </s>
+<s> never would the torque sequence just be done by cw or ccw motion.  </s>
+<s> i can almost guarantee this will cause the heat sink to list on the gpu. it may be possible that some component in the temperature sensing circuit got damaged and you're getting false readings.  </s>
+<s> you do want to make sure that you get proper air flow and this might mean moving cards around or adding a fan directed on the heat sink if it doesn't already have one.  </s>
+<s> the case and card have pretty good airflow, there are six fans on the case, two of which blow directly onto the gpu. the temperature sensor i believe is working as if i leave it on the desktop it will stay at one temperature, if i go into low gpu using games the temperature slowly climbs to around the low 80's.  </s>
+<s> it's once i get into a gpu intensive game that it shoots up almost instantly to the 100's and forces me to power down to save it.  </s>
+<s> i will try to open it, clean it, put more thermal paste on it and then put the screws in very slowly, maybe a turn for each screw, then another turn for each screw, etc until they are all down.  </s>
+<s> let's say the air flow, compound, screws, fans are not the issue.  </s>
+<s> what is left? the software.  </s>
+<s> as you know these cards have variable clock rates so a change in the driver or someone changing a setting in some panel could be it.  </s>
+<s> some have accepted drivers from microsoft and seen this happen.  </s>
+<s> the card could be failing but lets get all the usual suspects up on deck.  </s>
+<s> bob  </s>

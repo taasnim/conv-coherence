@@ -1,0 +1,23 @@
+<s> hi everybody out there.  </s>
+<s> i have a question.  </s>
+<s> can i upgrade the dell e521 to a geforce 9500gt from the onboard crappy graphics? the dell forums says its absolutely ok and the power supply will handle the card. the card needs a min of 350w with 18a on +12v rails.  </s>
+<s> but the dell supply is 305w nd has 18a on the 12v rails. is it possible?  </s>
+<s> or should i settle for a 8600gt?  </s>
+<s> pls i need ur help thank u!  </s>
+<s> go get a watt meter like the p3 armed with that, measure just the machine's watt usage and if we want to be conservative if the draw is under 150 or 50% of that 305 watts then i'd go wtih the 9500gt.  </s>
+<s> however in one day i'll be able to measure the draw of the hd 3650 which i chose off this list -&gt; i can't find the 9500gt on that list.  </s>
+<s> bob  </s>
+<s> it will be really close.  </s>
+<s> i think as long as you only have 1 hard drive and 1 dvd/cd rom you should be ok. ive read a lot that dell underrates their psus.  </s>
+<s> newegg is good with exchanges if it doesnt work out  </s>
+<s> hey thanks for replyin.  </s>
+<s> i only hav 1hdd 1dvd nd d processor.  </s>
+<s> will it b ok?or will i face problems in d future?  </s>
+<s> you will just have to make your best decision.  </s>
+<s> keep in mind that depending on your cpu and ram, the video card may be overkill if theres a bottleneck in the system somewhere  </s>
+<s> a pci-express x16 slot must provide up to 75w of power.  </s>
+<s> if a card doesn't require an additional pci-e power connector (and the 9500gt doesn't), then it is designed to run within the normal current of the x16 slot and won't need a large power supply.  </s>
+<s> not your exact card but i installed the following replaced a this with that and here's the watt readings of the entire pc before and after.  </s>
+<s> said pc is a common core 2 duo, 2gb ram, single hd, single dvdrw.  </s>
+<s> before: nvidia fx5700 256mb agp 8x = 105 watts running doom after: ati hd 3650 512 agp 8x = 135 watts running doom if your machine taps as much as mine that 305 dell watt psu should be fine with this type card.  </s>
+<s> bob  </s>

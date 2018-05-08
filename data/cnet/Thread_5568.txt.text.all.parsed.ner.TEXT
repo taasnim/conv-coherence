@@ -1,0 +1,49 @@
+<s> i built a 3 ghz p4 system @ 800fsb, 400w power supply, with a gigabyte ga-8s648fx motherboard, 512mb pc3200 ram, and a radeon 9600 graphics card.  </s>
+<s> it's been running fine, but now, without warning, it blacks out and shuts off in the middle of working.  </s>
+<s> i try to click the power button to turn it back on.. and nothing!  </s>
+<s> dead.  </s>
+<s> if i remove the battery on the mboard, and reinstall it, the bios is reset and the system powers up again.  </s>
+<s> until a few hours/days later, out of the blue.. it will do the same thing and i need to uninstall and reinstall the battery to reset the bios.  </s>
+<s> threads there seems to be no performance issues before the comp shorts out, so i do not think it's my mb/ram/or cpu.  </s>
+<s> power is still supplied to my optical mouse even when it blacks out, so i am skeptical if it's my power supply, but i have heard of crappy pss being shipped with custom cases.  </s>
+<s> any one experienced this?  </s>
+<s> any thoughts?  </s>
+<s> the power supply is a suspect.  </s>
+<s> but before you try anything else, you need to prove that the problem is not &quot;overheating&quot;. remove the side panel from the computer and set a house fan where it will blow into the computer.  </s>
+<s> run the computer with the side removed (external fan blowing) and see it the problem changes or reoccurs.  </s>
+<s> ..  </s>
+<s> some motherboards do that if the temperature rises too high.  </s>
+<s> easy to figure out by just leaving the cover off.  </s>
+<s> 400 watts can be very slim.  </s>
+<s> documented some 9 out of 21 supplies didn't meet there own specifications.  </s>
+<s> hint!  </s>
+<s> yours probably doesn't either.  </s>
+<s> read to see if you have enough watts and factor in you need 50 to 100 more for generic supplies since the first article showed they fib.  </s>
+<s> bob  </s>
+<s> my system idles at about 40 degrees c, pretty normal.  </s>
+<s> when i render (i do a lot of 3d work) out some projects (this is when it seems to black out on me) it rides upwards of 50+ deg c. 400w, even if it proved to be 300 or 350 should be adequate, since i only have 1 hd, 1 video card, 1 fan, and modem card hooked up to it.  </s>
+<s> not many perephrials, and i don't overclock.  </s>
+<s> get this though, maybe this will shed some light in on the subject: the machine doens't shut down.. when i shut it off from windows xp pro, it goes through the shutting down process, and then reboots!  </s>
+<s> never completely powers off, depsite bios configurations.  </s>
+<s> it worked fine the first 2 months.  </s>
+<s> but know, i have to hold down the power button to get the power to shut off the system. is this supporting a power supply problem?  </s>
+<s> &quot;my system idles at about 40 degrees c, pretty normal.  </s>
+<s> when i render (i do a lot of 3d work) out some projects (this is when it seems to black out on me) it rides upwards of 50+ deg c.&quot; which is a measurement of one component.  </s>
+<s> the test for this issue is simple.  </s>
+<s> have you removed the case cover to find out?  </s>
+<s> &quot;400w, even if it proved to be 300 or 350 should be adequate, since i only have 1 hd, 1 video card, 1 fan, and modem card hooked up to it.  </s>
+<s> not many perephrials, and i don't overclock.&quot; this is an area that confounds many.  </s>
+<s> it's not only the watts that matter, but how well a supply responds to an increase in demand.  </s>
+<s> links supplied for your review and a simple issue to look into.  </s>
+<s> &quot;get this though, maybe this will shed some light in on the subject: the machine doens't shut down.. when i shut it off from windows xp pro, it goes through the shutting down process, and then reboots!  </s>
+<s> never completely powers off, depsite bios configurations.  </s>
+<s> it worked fine the first 2 months.  </s>
+<s> but know, i have to hold down the power button to get the power to shut off the system. is this supporting a power supply problem?&quot; i see two issues plus the original.  </s>
+<s> to number them.. 1. pull the case cover.  </s>
+<s> video cards and other parts can get too hot.  </s>
+<s> do this test.  </s>
+<s> 2. the psu rating is always suspect.  </s>
+<s> links supplied.  </s>
+<s> 3. review the xp shutdown article two clicks from 4. a 3 ghz p4 would have a warranty.  </s>
+<s> why not make it the vendors problem?  </s>
+<s> bob  </s>

@@ -1,0 +1,36 @@
+<s> hi! recently i added a hd to my pc running winxpsp2, formatted by winxp and installed as primary slave.  </s>
+<s> when i turn the pc on, the driver is not shown, only c: and d: are indicated (primay master) but primary slave does not.  </s>
+<s> if i restart the system the slave disk shows up and works normally.  </s>
+<s> when i turn the system off and them on again the slave is again missing, once again to see the slave drive i have to restart the system one more time.  </s>
+<s> any suggestion?  </s>
+<s> some outdated bios do just that.  </s>
+<s> you can see the bios not detect the drive.  </s>
+<s> bob  </s>
+<s> during startup bios indicates 0mb mode 0 in primary slave, but also indicates &quot;spd on module(s): yes&quot;.  </s>
+<s> after restart bios identify the drive correctly but the spd module is still indicated.  </s>
+<s> this indication does not appear in primary master.  </s>
+<s> both units have the same capacity and are from the same manufacturer  </s>
+<s> &quot; during startup bios indicates 0mb mode 0 in primary slave,&quot; 0mb and mode 0 is a gimme that the drive was not detected proper.  </s>
+<s> let's go to the basics?  </s>
+<s> 1. 80 conductor ide cable?  </s>
+<s> 2. drive set to cable select?  </s>
+<s> 3. bios for the motherboard is latest?  </s>
+<s> bob  </s>
+<s> thank you bob.  </s>
+<s> yes i have a 80 conductor ide cable.  </s>
+<s> drive is set as slave (no jumps) about the bios it has not been changed since i own the pc. it is a sony desktop i acquired erly 2002.  </s>
+<s> do i have to upgrade it?  </s>
+<s> sony never mentioned it.  </s>
+<s> do i have to ask sony for it?  </s>
+<s> please advise me.  </s>
+<s> it's new wiring and i've run into where it makes a difference... since the jumper is wrong, then i'd do that first.  </s>
+<s> reference at bob  </s>
+<s> 1. check set-up configuration during start up, are the primary and secondary masters and slaves set to auto? 2. are you using the same ide socket for both or on separate ide sockets?  </s>
+<s> 3. check mother board manual to know how many primaries and slaves can be attached to it.  </s>
+<s> 4. check ide connector cables and connection if the connector is properly seated to the ide sockets or the drives.  </s>
+<s> 5. try changing or exchanging the ide cables, one connector may had been damaged due to age or heat inside the cpu housing.  </s>
+<s> &quot;mode 0 in primary slave&quot; would indicate slave is on primary ide channel being reconized as master.  </s>
+<s> cable from m/bs' primary ide channel -&gt; middle connector to slave -&gt; end connector to master.  </s>
+<s> jumpered slave/master, going to totally disagree with cable connect.  </s>
+<s> unless one drive has extended partitions and correct cable is used.  </s>
+<s> master will be device 0/ slave device 1 bill  </s>

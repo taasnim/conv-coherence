@@ -1,0 +1,14 @@
+<s> i am trying to install a sata connected dvd writer.  </s>
+<s> i have hooked up the sata connection and see there is another cable to attach to the back of the dvd_rw it is the same connection going to my hard drive, i assume it the power cable.  </s>
+<s> my problem is this, it is too short.  </s>
+<s> can i get an extension and what is that type of cable called.  </s>
+<s> is this an internal sata dvd-rw drive (didn't know they have those thing)?  </s>
+<s> if not then what brand of portable case is it?  </s>
+<s> just wondering.  </s>
+<s> what's the model number of the dvd burner?  </s>
+<s> so, you connected the sata data cable.  </s>
+<s> good.  </s>
+<s> now you need to connect a power cable.  </s>
+<s> the drive itself will take a psu cable with one of two endings: 1. 15-pin sata power connector 2. 4-pin molex power connector the one you need is determined by the type of power connector your dvd burner has.  </s>
+<s> if you need an sata power connector, but you only have a free 4-pin molex connector, get an adapter cable.  </s>
+<s> if you just need more length, there are extenders and y-cables that will get you there.  </s>

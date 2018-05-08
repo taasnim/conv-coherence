@@ -1,0 +1,19 @@
+<s> setup : computer runnuing xp home sp1 connectes wirelessly (with d-link air plus dwl 520+),with internet connection sharing, to home network consisting of ethernet adsl modem and wireless access point/ router (the d-link dl-714p+), with the main computer running win xp pro sp2 connecting to the dl 714 via cable.  </s>
+<s> the main computer can access the internet with no problems, and a lap top(built-in wireless) can also access the internet wirelessly without problems.  </s>
+<s> however, the computer running windows xp home sp1 (first above mentioned)cannot do so, getting the error ''this page cannot be displayed''.  </s>
+<s> when i attempted to update avg, i received the message '' ...the server name cannot be converted to the ip adderess....''.  </s>
+<s> i tried to ''repair'' the connection but received the message ''... ip address cannot be renewed'', and at the command prompt, when running the command ipconfig /renew, nothing happened (the crusor just went to the next line after ''enter'') this computer was able ro access the internet previously (yesterday).  </s>
+<s> it is indicating a good signal from the access point, but just cannot connect.  </s>
+<s> please advise.  </s>
+<s> thank you.  </s>
+<s> christy  </s>
+<s> internet connection sharing.  </s>
+<s> this is not used in the layout you described.  </s>
+<s> thanks fro responding.  </s>
+<s> what i meant in my post was that the computers are able to connect to the internet via the access point.  </s>
+<s> ics was not used.  </s>
+<s> surprisingly, the problem righted itself after a few reboots.  </s>
+<s> i am still not sure what caused the problem in the first place.  </s>
+<s> christy  </s>
+<s> troubleshooter that's used.  </s>
+<s> congrats.  </s>

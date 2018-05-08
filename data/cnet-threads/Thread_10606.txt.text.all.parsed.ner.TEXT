@@ -1,0 +1,59 @@
+<s> so one day my pc froze and i turned it off with the power on/off button, than i tried to turn it back on, but it wont properly start.  </s>
+<s> there`s the first image that says hp events or smth, than a black screen with a white '' - '' glowing on the edge of the screen.  </s>
+<s> btw i`ve tried booting it from a cd and usb flash - nothing.  </s>
+<s> - ive got an hp pavillion dv2000  </s>
+<s> be sure to unplug all usb things and try again.  </s>
+<s> no go?  </s>
+<s> try the generic reset.  </s>
+<s> power off, remove ac, the battery, press hold the power button for 60 seconds, release, slip in the battery, apply ac and try again.  </s>
+<s> bob  </s>
+<s> still nothing.  </s>
+<s> hp support website has a t/s routine that you can do.  </s>
+<s> goto the hp website and enter your model# and look for it.  </s>
+<s> i believe the user needs to hit f1 or f10(depends on bios level), or some key(instructions on website) then follow repairs.  </s>
+<s> if a recent bios update or system upgrade and/or power status change, it could generate your problem.  </s>
+<s> tada -----willy  </s>
+<s> go get the service manual and power off, remove ac and battery (that's in the service manual) then remove the hard drive.  </s>
+<s> at this point, if it's the usual failed hdd the boot from usb and cd should work.  </s>
+<s> bob  </s>
+<s> so i actually got it to boot from usb, but startup repair couldnt fix it and when i tried to re-install vista an error showed up.  </s>
+<s> that might be interesting.  </s>
+<s> what error?  </s>
+<s> and what did you use as a source to reinstall it?  </s>
+<s> usually windows vista doesn't come on flash.  </s>
+<s> kees  </s>
+<s> start up error or atleast smth like this.: &lt;div&gt;problem event name: startuprepairv2problem signature 01: autofailoverproblem signature 02: 6.0.6000.16386.6.0.6000.16386problem  </s>
+<s> signature 03: 6problem signature 04: 1507351problem signature 05: corruptfileproblem signature 06: corruptfileproblem signature 07: 3221226017problem signature 08: 1problem signature 09: wrprepairproblem signature 10: 0os version: 6.0.6000.2.0.0.256.1locale id: 1033 &lt;/div&gt; vista re-install error.: windows cannot open the file required c:sourcesinstall.wim. the file does not exist.  </s>
+<s> make suure all files required for installation are available and restart the installation.  </s>
+<s> error code: 0x80070002.  </s>
+<s> well yeah, i downloaded vista recovery cd.  </s>
+<s> if you can't install from an original oem system recovery disk or an original microsoft holographed vista install dvd after a total erase of the hard disk (use free dban for that) something is wrong with the hardware.  </s>
+<s> better have that repaired.  </s>
+<s> if you install from a non-original copy, there's a good chance something is wrong with the copy.  </s>
+<s> in that case, contact hp and order that recovery disk.  </s>
+<s> kees  </s>
+<s> the recovery cd isnt original - its downloaded from the internet.  </s>
+<s> how do i contact hp.?  </s>
+<s> how to reach their customer service should be in the documentation that came with the machine.  </s>
+<s> if you can't find it, go to and find it for your country.  </s>
+<s> should be possible.  </s>
+<s> kees  </s>
+<s> they dont send to my country.  </s>
+<s> it's a pity they don't send to your country.  </s>
+<s> maybe the shop where you bought this machine help you to find something that works.  </s>
+<s> there might be a recovery partition on the hard disk.  </s>
+<s> if no help from the shop or the local tech, see if leads to a solution.  </s>
+<s> if not, better buy an original dvd.  </s>
+<s> be sure you have or can download from hp.com all needed drivers for the os you choose.  </s>
+<s> that might be difficult.  </s>
+<s> kees  </s>
+<s> many of those don't work.  </s>
+<s> if i needed to install an os and get my machine up on the net today i'd look again at ubuntu (see google) bob  </s>
+<s> hp offers from their support website to order the recovery/restore disc(s).  </s>
+<s> they are for a small cost though but definitively cheaper than anything else and made for your pc. just goto the hp website, find support, enter your model# and check for the ordering hyperlink.  </s>
+<s> provided they still have vista available, its worth the wait.  </s>
+<s> as for any recovery via the www source, they usually is only for minor recovery possibilities.  </s>
+<s> its a generic source of recovery so it won;t be capable to fix either true h/w faults or anything other than the basic vista os footprint.  </s>
+<s> i would also do this from disc rather than a flash drive if i assume you got the .iso  </s>
+<s> file.  </s>
+<s> good luck tada -----willy  </s>

@@ -1,0 +1,34 @@
+<s> help! was going to back-up my system with my external maxtor drive (via usb) and i think it shorted out.  </s>
+<s> maxtor drive (or possibly power source) is completely dead.  </s>
+<s> since then all usb ports are not working (nothing happens when i plug anything into any of them) - even though device manager says they are.  </s>
+<s> also discovered the slot for my sony memory stick is not working as well.  </s>
+<s> tried: updating usb drivers (none newer available), rolling back and re-updating drivers, uninstalling and re-installing usb's.  </s>
+<s> was going to disable then re-enable in bios but i don't see anything in bios about usb's.  </s>
+<s> sony says i should reset system to factory installation.  </s>
+<s> this will take days - backing up data to cd/dvd, rebuilding, re-updating windows, drivers, reinstalling programs, etc..... does anyone know of any other way to determine if the hardware is completely failed?  </s>
+<s> any 3rd party utilities?  </s>
+<s> if the usb's and other slots have blown, will i have to re-set the pc anyways (so i may as well bite the bullet and try it)?  </s>
+<s> thanks in advance!  </s>
+<s> use the restore feature(go bck) and see if that helps.  </s>
+<s> if not, you may have a true h/w fault and the usb ports got blown away.  </s>
+<s> while, i've seen singualr usb ports go bad, not all of them.  </s>
+<s> either the weak link of the usb int.  </s>
+<s> to system is poof, or by using a bad device, plugging into all of them forced the issue and kaput them.  </s>
+<s> no mention of sony system model, so laptop or desktop, yada, yada.  </s>
+<s> if desktop place a usb pci type card and install.  </s>
+<s> does it work then?  </s>
+<s> if yes, bad usb ports, if no then bad s/w issue.  </s>
+<s> tada -----willy  </s>
+<s> thanks so much for your help & quick response!  </s>
+<s> when you suggested using the restore feature(go bck)- do you mean restore the system to it's original system build?  </s>
+<s> thx, j  </s>
+<s> provided the restore feature of xp or vista was turned on, you can use a &quot;restore point&quot; to back a day or two, select *one* from the list.  </s>
+<s> under xp: goto start-&gt;pgms-&gt;accessories-&gt;system tools-&gt;system restore-&gt;follow prompts.  </s>
+<s> now pick a date that makes sense, like a day before the problem occurred.  </s>
+<s> if vista very similar.  </s>
+<s> google for restore point to understand this feature.  </s>
+<s> don't use a resotre disk or recovery disk to reload the system.  </s>
+<s> i hope i made this clear.  </s>
+<s> good luck -----willy  </s>
+<s> will try.  </s>
+<s> thanks!!!!!!  </s>

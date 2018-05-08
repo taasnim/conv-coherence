@@ -1,0 +1,31 @@
+<s> many times i come across people that would like to add networked backup to their home network but don't want to buy a new router with a usb port.  </s>
+<s> if there are no desktop computers in the home, they won't want to tether a drive to one laptop only for the drive to not be available to others should that laptop be moved. is there an adapter that will allow an external usb hard drive to connect to an ethernet port on a router that can then be shared?  </s>
+<s> google up the gmfpsu22w6 which i picked up two of for under 25 each.  </s>
+<s> ok, now i have usb drives on my ethernet and network.  </s>
+<s> but the speed over wifi is abysmal and barely tolerable wired.  </s>
+<s> here's partly why -&gt;usb 2.0 sprints (?) along at 480 million bits per second and your common ethernet is 100 million bits per second (mbps).  </s>
+<s> ethernet is full duplex and when we move to wifi that's shared bandwidth at 54 mbps on a good day.  </s>
+<s> my gmfpsu22w6's do fine as print servers but the usb drives are now back on the machines via usb when i need them.  </s>
+<s> bob  </s>
+<s> if the drive was used for backups to be run during the night it might not be a problem.  </s>
+<s> i would only recommend a wired connection of course.  </s>
+<s> i'm trying to find a low-cost network backup solution for residential folks.  </s>
+<s> it seems that if we try to depend on a drive attached to a system and shared, the connection is not always reliable especially in a mixed windows environment.  </s>
+<s> thoughts?  </s>
+<s> i leave it to you to determine that.  </s>
+<s> wifi is not reliable enough for hours of backup.  </s>
+<s> yes you can fine syncback to beef it up but you do the math.  </s>
+<s> let's say you have 40gb to backup.  </s>
+<s> let's give you 10 megabits per second due to all that file server overhead.  </s>
+<s> how long?  </s>
+<s> bob  </s>
+<s> a solution for $25 would be great but with your scenario of 40gb at 10mb/second, you would never be able to do it in one night.  </s>
+<s> so it looks like if i want to have a relatively low-cost solution with reasonable speed, it would require an nas.  </s>
+<s> sorry for the typo.  </s>
+<s> i meant find not fine.  </s>
+<s> that device turns your common usb drive into a nas.  </s>
+<s> just thought i'd warn you about network copy speeds.  </s>
+<s> at least someone told you.  </s>
+<s> bob  </s>
+<s> all you guys need is a nas adapter ( network attached storage) it has a one end usb port and the other a lan out put it's compatible with almost any generic external usb storage devices from flash sticks to storage towers!! regarding the update in wifi, you can back up the computers initially lan connected.  </s>
+<s> and then keep the update going real-time without concerning yourself with bandwidth over load.. this can easily be done with genie professional timeline.. i bought this program and it never let me down  </s>

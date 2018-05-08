@@ -1,0 +1,42 @@
+<s> well i was wondering what's the real difference between ddr dimm and normall ddr, and does ddr modules also work on mainboards which supports ddr dimm?  </s>
+<s> my manual says so many things that it makes me confused .  </s>
+<s> dimm and module are the same for all intends and purposes, the last m in dimm stands for module.  </s>
+<s> next, i refer to the link to better explain ddr types.  </s>
+<s> further, your manual specifically will mention &quot;exactly&quot; what ram type you need.  </s>
+<s> if you don't understand it, then bring it with you if ram is brought locally.  </s>
+<s> if online, check for the required ram.  </s>
+<s> you can google away for for detailed info.  </s>
+<s> good luck -----willy  </s>
+<s> how to call the same thing two or more names just to keep everyone confused.  </s>
+<s> ddr dimm normal ddr ddr modules all mean the same thing.  </s>
+<s> take a look here for a primer.  </s>
+<s> ddr pc3200 it says on that first website you gave.  </s>
+<s> means dual inline memory module.  </s>
+<s> that is a type of chip technology, regular sdram are also are in dimms. the dimms are the chips that are mounted to the memory stick. the memory stick, is actually a small six layer circuit card with the artowrk to get the signals to and from the dimms and the pins on the memory stick that connect to the slot on the mobo.  </s>
+<s> ddr sdram sticks have 184 pins [connections] while sdram 168 pin.  </s>
+<s> and yes! both are forms of sdram [synchronous data random access memory].  </s>
+<s> ddr is simply dual data rate sdram.  </s>
+<s> two reads per clock.  </s>
+<s> would it work then to put a ddr module in a ddr dimm slot?  </s>
+<s> module dimm also reread the links given in the previous posts.  </s>
+<s> i read all the time and stay confused.  </s>
+<s> bill  </s>
+<s> &lt;lol&gt; that was even more confusing.  </s>
+<s> to clarify maybe ... a &quot;memory module&quot; is a complete memory assembly.  </s>
+<s> it could be a dimm, a simm, an sodimm (small outline dimm used in notebooks, and so on.  </s>
+<s> a dimm is a type of memory module. the terms are used interchangeably as a dimm is a memory module.  </s>
+<s> ddr is a type of memory and can be on a dimm or sodimm.  </s>
+<s> have either sdram slots [164pin] or ddr sdram slots [182 pin] on the mobo.  </s>
+<s> once again the dimms are the memory chips , usually eight of which are on mounted on the memory stick.  </s>
+<s> again, the memory stick is a small circuit card that has dimms mounted on it. the circuit card is what plugs into the mobo, not the dimms!!!. forget dimms!!!!!!!!!!! or sodimms!  </s>
+<s> ddr sdram memory sticks are 182 pin, can be unbuffered [most common], non ecc [most common], or ecc [then will have one more dimm on the card], also can be registered [again not common for normal mobo's.  </s>
+<s> the 64 bit amd socket 754 fx51 cpu's require registered memory.  </s>
+<s> well i checked my mainboard information at the msi site and this is what it says for memory: supports single channel, four-memory-bank ddr 333/400 using two 184-pin ddr dimms supports a maximum memory size up to 2gb without ecc supports 2.5v ddr sdram dimm so let's say a 512 mb ddr apacer would work then?  </s>
+<s> {i have no idea what an apacer is}.  </s>
+<s> your mobo manual basically says the you can use pc 2700 [ddr333] or pc 3200 {ddr 400].  </s>
+<s> if you use pc 2700 and the cpu supports the 400 mhz fsb, the cpu will not run at full speed.  </s>
+<s> you also didn't tell us whar cpu that you are using.  </s>
+<s> keep in mind that the miss matched memory and cpu will generally work, [a 400 mhz fsb cpu will run with a 333 mhz fsb] but will only work at the maximum specifications if all components are &quot;matched&quot;.  </s>
+<s> newegg.com - set ''speed'' to ''ddr 400 (pc3200)'' - set ''voltage'' to ''2.5v'' - set ''capacity'' to ''512mb'' - set ''ecc'' to ''no'' you will get a lot of options.  </s>
+<s> the speed is pc3200(ddr 400) and the cpu is amd sempron 2600  </s>
+<s> think that it is installed and working fine.  </s>

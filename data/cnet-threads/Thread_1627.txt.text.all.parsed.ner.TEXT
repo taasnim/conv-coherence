@@ -1,0 +1,31 @@
+<s> i was wondering if someone could verify that this is the correct memory for the motherboard, links are below.... thank you in advance for your help!  </s>
+<s> memory - motherboard -  </s>
+<s> recommendation based on many years experience would be something like this.  </s>
+<s> brand name ram with lots of good reviews at good price from a reliable vendor.  </s>
+<s> vapcmd  </s>
+<s> awesome, i will take your advice, so that's the ram i need to fit that mobo in the link you sent?  </s>
+<s> i'm always a little cautious because i ordered the wrong ram once.  </s>
+<s> thank you for your input!  </s>
+<s> kits... 2-1gb dimms.  </s>
+<s> let us know how it works.  </s>
+<s> vapcmd  </s>
+<s> my son (10 yrs) bought the system for $125, 180gb hd, speakers, lcd monitor with a few scratches, not too shabby!  </s>
+<s> by the way....as soon as you get the ram, unplug the pc, check the mfg instructions re installing ram, remove all old ram and install new ram.  </s>
+<s> then download and run memtest86+ to test the ram say overnight.  </s>
+<s> assuming no errors...button up the pc and enjoy !  </s>
+<s> good experience for a father and son.  </s>
+<s> and last...shoot us a note on how it went.  </s>
+<s> vapcmd  </s>
+<s> i pulled the old ram out, assuming it had 2 sticks of 256 because it showed in bios as only 1/2 gig, to my surprise it had 2 sticks of 512.  </s>
+<s> i put the new sticks of 1 gig each in and it is only recognizing 1 gig and single channel, can anyone shed some light on how to get this motherboard to recognize both gig and as dual channel?  </s>
+<s> thanks!  </s>
+<s> work in slot 1 or a, then see if they both work in slot 2 or b. if the both work in both slots, the retry bot at the same time.  </s>
+<s> also send a note to gskill asking for assistance.  </s>
+<s> keep us posted.  </s>
+<s> vapcmd  </s>
+<s> someone said i should flash the bios but which one should i flash it with?  </s>
+<s> none of them say anything about ram, only cpu  </s>
+<s> first including testing the dimms and contacting gskill.  </s>
+<s> reason ...flashing the bios can leave you doa where normally only a new bios chip can save you.  </s>
+<s> it might be the case a mild bump in voltage for the dimms might help too.  </s>
+<s> vapcmd  </s>

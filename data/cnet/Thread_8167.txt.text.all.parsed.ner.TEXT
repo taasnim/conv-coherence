@@ -1,0 +1,43 @@
+<s> windows xp tower - fairly standard set up intel piii 350 - 512 mg ram - nothing connected to it at all.  </s>
+<s> i ruled out everything one by one - not even a keyboard mouse or monitor now - no other external devices.  </s>
+<s> turn it on - wait for a about 30 secs - 1 minute - it just powers down - no warning at all.  </s>
+<s> any ideas ?? not a virus - dont get time to load os yet alone a virus.  </s>
+<s> cant get into bios - no time before it shuts down !  </s>
+<s> i've checked power lead, power fan - cpu heatsink and fan - all seem fine.  </s>
+<s> never seen anything like it before !  </s>
+<s> hopefully one of you lot have.  </s>
+<s> thanks, kd  </s>
+<s> i ran into this and the cpu was faulty.  </s>
+<s> be sure the power supply is not below 250 watts and the case cover is off.  </s>
+<s> at least this old cpu has been spotted for less than 10 bucks.  </s>
+<s> bob  </s>
+<s> since you mentioned a 350cpu, it suggests you have an older system.  </s>
+<s> it certainly also suggests you have gotten your moneys worth and the system is showing its age.  </s>
+<s> the power supply has weaken or at the edge of outright failure.  </s>
+<s> -or- the mtrbd.  </s>
+<s> may have a weaken vrm module/circuit thus hurting power levels.  </s>
+<s> in either cse ios look like power, especially if it doesn't beep at you in protest.  </s>
+<s> but, make sure all fans are running, a weaken componet could be at fault as well if allowed to be running at extreme heat ranges for a longtime and this is the end result.  </s>
+<s> remove cpu and check its socket or slot for corrsion or burnt/glazen look.  </s>
+<s> place household fan to blow-in to help cool and check results.  </s>
+<s> try that...come back with results.  </s>
+<s> tada -----willy  </s>
+<s> thx for the post willy - yes i think your right it certainly looks like heat failure - i've had the case off and all fans are definately working - cpu fan sits on a heat sink which looks fine at first glance - but i've not yet stripped it back to have a look at the cpu condition, but will do - i'll try your household fan idea and run it outside on a cold day !  </s>
+<s> thx again  </s>
+<s> i've found a few sound cards, modems, etc that prevented boot, sometimes a higher power video card with a heat problem.  </s>
+<s> i keep a cheap used 2mb pci video card around just for checking.  </s>
+<s> i pull all other cards, hdd, cdrom, etc. i've never heard of a mouse/keyboard/monitor doing this.  </s>
+<s> do you get any screen info at all, count ram, etc? often you have to be able to get into bios to disable logo that covers up descriptive mode, hit del or some other combo, but you can't?  </s>
+<s> curious, xp tower?  </s>
+<s> generic or name brand?  </s>
+<s> pc chips sells mobos under 27 different names and don't have an excellant track record.  </s>
+<s> i had a similar problem.  </s>
+<s> i replaced a 350 watt power supply with a 425 watt power supply before adding two new cd/dvd burners.  </s>
+<s> total power supply wattage used was 375 watts.  </s>
+<s> two months later, i added a pci card for firewire.  </s>
+<s> the pc started to turn itself off after being used for a few seconds.  </s>
+<s> changed the pci card, no joy still the unexpected turn off.  </s>
+<s> i checked the power available and found i needed 105 watts of +5vdc power but the power supply only put out 100 watts of 5vdc!  </s>
+<s> changed to a 500 watt power supply with 175 watts of +5vdc power and problem solved.  </s>
+<s> moral of this story, not all powersupply wattages are created equal.  </s>
+<s> just because the total wattage is great enough does not mean the +5, +12, or -12 vdc wattage is great enough.  </s>

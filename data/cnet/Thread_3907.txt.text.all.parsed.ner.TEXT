@@ -1,0 +1,21 @@
+<s> i installed some lltd update on an old xp desktop that i am trying to share printers through, but when i connect a vista notebook to the wireless network, it refuses to see any devices. the network map seems to be able to detect the xp box but says that it is connected to a switch which is in turn connected to the router, all of which is true.  </s>
+<s> all of the desktops here are wired to the said ethernet switch and connect to some very old hp netservers.  </s>
+<s> but if i connect the laptop to the wireless connection, which lies outside of the switch, it refuses to access the xp machine behind it, even though sharing is turn on and it finds it in the network map.  </s>
+<s> searching for printers or network drives turns up nothing.  </s>
+<s> help appreciated.  </s>
+<s> -bmf  </s>
+<s> client isolation as well as firewalls.  </s>
+<s> sorry but without the make, model of the router i can't know if this applies.  </s>
+<s> bob  </s>
+<s> or some proprietary model of at&t's for business users. the switch is probably a linksys.  </s>
+<s> but, seeing as how the office in question needs to be able to support multiple wireless clients, i think i may have to take the internal servers offline and remove the switch.  </s>
+<s> from what i gathered, the office has 5 static ip addresses or so, and each computer keeps the same one.  </s>
+<s> the thing is, none of the desktops need a static ip, and they no longer need any external connections to the internet for remote desktop and the like.  </s>
+<s> plus, i could easily manage ports through the router firewall for that if need be.  </s>
+<s> printer access is a must for all users.  </s>
+<s> taking out the dated servers and the switch may allow me to reconfigure the network as a standard, consumer type of access point, but if i can get around it, it's worth a shot.  </s>
+<s> not sure what else i can do.  </s>
+<s> -bmf  </s>
+<s> i'll let their it staffer fix this one.  </s>
+<s> it's not your run of the mill setup so let them pay for it.  </s>
+<s> bob  </s>

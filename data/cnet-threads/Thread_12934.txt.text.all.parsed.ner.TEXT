@@ -1,0 +1,18 @@
+<s> thanks in advance for any and all help i have a new hp a6763 shipped with 1 sata 640g hard drive.  </s>
+<s> the motherboard is a ecs mcp61pm-hm (nettle 3). it has a single ide cable slot on the motherboard.  </s>
+<s> i have been trying to add a western digital 30gb (wd600bb) drive into this configuration with absolutely no results.  </s>
+<s> i will get the mobo to recognize the drive.  </s>
+<s> assigns it as channel 0 drive 1 and the sata is also seen as drive 3. have gone to the boot priority and made certain that the sata is listed as the boot drive as that is where vista is.  </s>
+<s> regardless of how the drive is jumbered (tried master, slave and cs) all that happens is windows gets to the primary load screen with the green status sliding led's and then freezes!  </s>
+<s> i have spent 4 hours with hp support and they are unable to resolve the issue.  </s>
+<s> any help would be greatly appreciated!  </s>
+<s> thank you  </s>
+<s> 1. an ide to sata adapter?  </s>
+<s> 2. an ide to usb adapter?  </s>
+<s> i see no reason to continue trying the ide connection as you've invested the time there already.  </s>
+<s> bob  </s>
+<s> thanks for the advice.  </s>
+<s> i tried the local bb already but they do not carry such an adapter.  </s>
+<s> i am looking into the smaller computer stores around to see if they have something  </s>
+<s> be aware that if the drive is not in great shape it may be a dead end.  </s>
+<s> thanks for the help. the drive is ok. currently running in another desktop just fine  </s>

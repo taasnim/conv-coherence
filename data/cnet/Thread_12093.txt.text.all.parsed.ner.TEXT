@@ -1,0 +1,20 @@
+<s> hi. i have come to the conclusion that the nic in my current laptop is dying, so i bought a pcmcia 10/100 nic. it plugs and plays just fine.  </s>
+<s> but when i try to renew the ip with this, it won't work, whereas when i attempt an ip renewal on my dying nic, it does.  </s>
+<s> any help on this issue?  </s>
+<s> sadly, with as much information as supplied in your post i can't see where there may be an issue.  </s>
+<s> it could be your os isn't fully installed with current patches or current drivers from each maker's web site.  </s>
+<s> a bios could be out of date too.  </s>
+<s> or some pest is on the machine causing problems.  </s>
+<s> read again, this reply is no answer since the first post has so little information.  </s>
+<s> bob  </s>
+<s> here's the thing: i've given a clean install of windows 2000, all the way up to sp4. net conection goes down, usually the next day after install.  </s>
+<s> i did another clean install, this time of win xp home sp1.  </s>
+<s> same problem.  </s>
+<s> this time i installed sp2, and the firewall wouldn't allow me to access the net, messenger, etc -- couldn't figure out for the life of me what was needed to be done.  </s>
+<s> same deal with win xp pro.  </s>
+<s> and i downloaded and installed all the patches for each os.  </s>
+<s> do these patches include motherboard or pc-card drivers from the laptop's maker?  </s>
+<s> just a for example is a laptop i own will not play well with pc-card devices until i install a driver from my laptop's maker.  </s>
+<s> as it stands i read that you are not installing the maker's drivers, a firewall, an antivirus or may not use anti-parasite tools like we see at my bet is that the restore cds may not have the os you want, but may not have this issue.  </s>
+<s> in closing, you need to read the forum tip and fill in the missing information.  </s>
+<s> bob  </s>

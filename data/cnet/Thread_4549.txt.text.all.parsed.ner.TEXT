@@ -1,0 +1,24 @@
+<s> i have a 2+ year old dell dimension 4600 desktop with a cd/dvd rw drive.  </s>
+<s> we hadn't used that drive in a while, and last week it didnt work.  </s>
+<s> it has power, but the system can't see the drive.  </s>
+<s> i opened up the box and found it wasn't connected to the mother board!  </s>
+<s> ok, so i plugged it into its slot.  </s>
+<s> still no joy.  </s>
+<s> two months ago (in its last week of warrantee), a dell tech replaced the power supply, which had failed.  </s>
+<s> perhaps he had unplugged the drive.  </s>
+<s> question: why doesn't it work now?  </s>
+<s> could the power supply failure have fried the drive? is there some kind of device driver that's missing?  </s>
+<s> if you are running winxp, you might want to go right click on my computer -&gt; properties -&gt; hardware -&gt; device manager -&gt; dvd/cd rom column.  </s>
+<s> is there a question mark?  </s>
+<s> another thing you could do is make sure your ide cable is connected properly to the motherboard.  </s>
+<s> check the pins configuration.  </s>
+<s> pin 1 should go to pin 1 on motherboard and cdrom.  </s>
+<s> i got that mixed up sometimes.  </s>
+<s> thanks, hwn yes, i am running xp, but device manager shows nothing for the cd rom.  </s>
+<s> it's just plain blank, as if the drive isn't even installed.  </s>
+<s> i'll try resetting the cable again.  </s>
+<s> thanks pepperdog  </s>
+<s> the tech fried it and didn't want to say anything because the warranty was going to expire?  </s>
+<s> could he have left the drive unplugged?? stranger things have happened.  </s>
+<s> good luck and get a new drive.  </s>
+<s> and life goes on... jack  </s>

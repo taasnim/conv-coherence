@@ -1,0 +1,18 @@
+<s> i have a verizon westell adsl2 + router model a90-7500-07 combination.  </s>
+<s> it has been replaced by verizon 4 times and yes it works ok when wired. if i try to connect with my iphone, ipad or book reader 1 in 10 times it connects, or randomly.  </s>
+<s> i have changed settings and channels.  </s>
+<s> i have turned off all security and it still doesn't connect.  </s>
+<s> my question is there a modem/router that i can buy myself, say at staples that works well.  </s>
+<s> verizon tells me that none will work (will not connect to their dsl) i can't imagine that being true.  </s>
+<s> can anyone help me?  </s>
+<s> thanks  </s>
+<s> looked at the manual for this device and it is very complex...and i am too lazy to read the whole thing.  </s>
+<s> i would suspect you can run another dsl router but the dsl is not your issue it is the wireless so i would keep the dsl part since it works well on wired.  </s>
+<s> so a couple suggestions you will have to dig though the manual to figure out how to do it.  </s>
+<s> run the westell device as a bridge and place a second wireless router behind it.  </s>
+<s> your second router will use ethernet and not dsl for its wan.  </s>
+<s> you in effect use the westell box as only a modem to convert the dsl to etherent.  </s>
+<s> use a second router as a wap.  </s>
+<s> you can disable the wireless signal on the westel and user it to do the dsl and the routing function.  </s>
+<s> your second router would only do the wireless part.  </s>
+<s> i will try this out i have another wireless router that i'll bridge in.  </s>

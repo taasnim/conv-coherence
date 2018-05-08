@@ -1,0 +1,14 @@
+<s> i have a 500 gig seagate hard drive (sata) that is no longer working as an external (broken bus ).  </s>
+<s> i'm considering using it as extra storage space.  </s>
+<s> i have 2 ide drives that i'm using as master and slave.  </s>
+<s> i run windows xp. my question is: can i use the sata as storage and keep the ide as my boot drive?  </s>
+<s> let's say you give me ten pcs with ide and sata connections.  </s>
+<s> i would and could encounter ten different setups with no two being the same.  </s>
+<s> which means the answer is maybe.  </s>
+<s> only your machine's maker can guide you to the right settings if you can't figure it out on your own.  </s>
+<s> and you can imagine i don't want to write down all the ten ways this could be configured in the bios, the os and the drivers.  </s>
+<s> welcome the the (pc) tarpit issue.  </s>
+<s> bob  </s>
+<s> the question to ask would be, does your pc have sata connectors and support?  </s>
+<s> if not, i would not recommend drop in sata cards.  </s>
+<s> fusing legacy products, i have found to be quite troublesome.  </s>

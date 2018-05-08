@@ -1,0 +1,22 @@
+<s> hello! i am setting up a home network (or trying to) but my situation is slightly complicated; i have two computers at my home which i want to share a broadband connection (supplied by pipex homecall).  </s>
+<s> however one of the computer is a dual boot with ubuntu and i would like to have an internet connection using both ubuntu and using windowsxp.  </s>
+<s> my plan is to use an adsl router( i have my eye on a dsl-524t ) and connect everything to that.  </s>
+<s> i assume that both windows xp and ubuntu will work with this router?  </s>
+<s> i'm not entirely sure how the isp fits into all this though?  </s>
+<s> they provided me with a modem and an installation disk when i had just one computer.  </s>
+<s> i have already contacted them and they don't know anything about linux, so they helpfully suggested i search on the internet!  </s>
+<s> sorry to babble on.  </s>
+<s> any help appreciated.  </s>
+<s> i am sure that for many budding linux users this is a common problem.  </s>
+<s> richy.  </s>
+<s> you may be able to just add a router.  </s>
+<s> and linux is not a problem... bob  </s>
+<s> which after a wee bit of 'research' i understand isn't actually a 'modem' (a transceiver?). my biggest worry is getting lots of hardware rigged together and discovering that my isp wont work through it. the adsl 'modem' is supplied by them along with a disc, which i'm worried may contain stuff that only works with that modem.  </s>
+<s> unfortunately the net is very sparse on information regarding this.  </s>
+<s> so to share that connection you'll want to replace it with either a combo dsl modem+router or some dsl modem with ethernet to connect to your router.  </s>
+<s> your choice here. is the product i think you have.  </s>
+<s> bob  </s>
+<s> not saying for definite in my case, but as a general rule?  </s>
+<s> you don't have to exclusively use the router/modem supplied by the isp?  </s>
+<s> sorry but i don't know your isp.  </s>
+<s> bob  </s>

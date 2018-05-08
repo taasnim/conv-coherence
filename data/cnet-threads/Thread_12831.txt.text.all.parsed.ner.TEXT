@@ -1,0 +1,21 @@
+<s> i have been thinking about this for a while, and was wondering, why do some applications that work as some kind of server require you to open up ports on the firewall blocking you from the internet, while others don't (i just used ultr@vnc and logmein as an example).  </s>
+<s> to the best of my understanding, logmein goes through their server and acts as kind of a proxy between the viewer and the host, and ultr@vnc can be set up to do this as well.  </s>
+<s> however, i would like to know the technical side of this, and why some internet connections are allowed while others aren't.  </s>
+<s> care to shed some light on this subject for me?  </s>
+<s> thanks!  </s>
+<s> yes, logmein acts as a go-between and is not quite the same as simply using ultravnc.  </s>
+<s> what exactly do you mean by the following: &quot;why some internet connections are allowed while others aren't.&quot;  </s>
+<s> -pedro  </s>
+<s> by this i mean, why the internet connection to logmein's go-between service allowed, while a direction connection to the client computer via ultr@vnc requires a port opened.  </s>
+<s> i guess i just don't get what the difference is between these two internet connections.  </s>
+<s> i know this is probably a really complicated answer, and if you could just give me a site to check out on it, that would great.  </s>
+<s> thanks for helping me out!  </s>
+<s> but logmein can use upnp to configure the port forwarding automatically where vnc and such will require you to do that manually.  </s>
+<s> i decline to write at length about upnp but it does help the masses if applications can do this for them.  </s>
+<s> bob  </s>
+<s> i tried and used several remote desktop applications.  </s>
+<s> microsoft's own remote application was awful.  </s>
+<s> it rarely worked properly and was so much trouble getting it running that it wasn't worth the time and trouble.  </s>
+<s> logmein for free was ok but was free just for a short period of time. the vnc programs also were difficult to configure.  </s>
+<s> and finally pc file transfer ( ) was and is the best.  </s>
+<s> it couldn't be easier to use and set up, it has saved me tons of time when helping friends.  </s>

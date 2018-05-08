@@ -1,0 +1,29 @@
+<s> i am running win-me os on a compaq presario 7598.  </s>
+<s> i want to install a better video card, but i don't know how to disable the on-board video.  </s>
+<s> i have contacted compaq's e-mail tech support several times, but i never get a reply.  </s>
+<s> i would appreciate help and/or suggestions regarding how to accomplish this.  </s>
+<s> thanks, ray savage  </s>
+<s> look in the bios to disable the on board video.  </s>
+<s> dave  </s>
+<s> 1. shows no jumper to disable such.  </s>
+<s> 2. writes &quot;video memory upgrades no&quot; 3. some discussions on google groups state minor successes and failures.  </s>
+<s> all indications is that you upgrade the bios then select agp or pci or onboard/video_card for the primary display.  </s>
+<s> there is no indication of a disable in this design.  </s>
+<s> bob  </s>
+<s> bob: thanks for your reply and suggestions.  </s>
+<s> will look into possibilities of bios upgrade.  </s>
+<s> thanks, ray  </s>
+<s> dave: thanks for your reply and suggestion.  </s>
+<s> ray  </s>
+<s> ray according to compaq, the 7598 uses the intel 810 chipset.  </s>
+<s> you will have to install a pci video card as there is no agp slot on a 810 chipset motherboard.  </s>
+<s> every 810 chipset motherboard that i have upgraded lets you disable the old display adapter in the device manager.  </s>
+<s> bring up the device manager and click on the + next to display adapter.  </s>
+<s> highlight your old video adapter and click properties.  </s>
+<s> look near the bottom of the properties window and find a square box labeled exists in all hardware profiles.  </s>
+<s> un-check this box.  </s>
+<s> that will disable the old video adapter.  </s>
+<s> click ok. make sure that you have installed your new pci video card before you do this.  </s>
+<s> and after you install your new pci video card, be sure to move the monitor cable to the new card.  </s>
+<s> no mention of any &quot;disable&quot; feature, but a select on which display would be primary.  </s>
+<s> bob  </s>

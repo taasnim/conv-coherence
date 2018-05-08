@@ -1,0 +1,15 @@
+<s> hello.  </s>
+<s> i am re building a old computer i found in my cuboard. the mistake i made is that i pulled out everything when i haden't decided to re build it.  </s>
+<s> then i decided i would. the only problem i have now is that i don't know where all the power calbes go in the motherboard.  </s>
+<s> does anyone know how many calbes go into the mother board, where or a website that can tell me.  </s>
+<s> thank you in advance.  </s>
+<s> if you can find any tell tale marking on the board as to manufactuer and model, manuals are often available on line.  </s>
+<s> basically, you will have a power (two with older at styles) and front panel connections to make.  </s>
+<s> not many of these are necessary.  </s>
+<s> some mbs have all of these in a cluster with some silkscreening that identifies what goes where and the front panel connectors are marked.  </s>
+<s> you will have a reset and speaker connection plus some for power leds.  </s>
+<s> led connections have polarity requirements.  </s>
+<s> reset switches and speaker connections do not.  </s>
+<s> if your board is an atx and has one larger (usually 20 pin dual inline) connector, you will need to connect the power switch to the proper connector on the mb. try to find info about the board by marking on it an post back.  </s>
+<s> if mb is at (two power cables often) all the black wires (grounds) should wind up in the middle.  </s>
+<s> after i posted the first message, i went and had a look at the computer, and i workes it out!! this always happens to me.  </s>

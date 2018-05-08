@@ -1,0 +1,64 @@
+<s> i'm installing windows xp on a system with an amd athlon xp 2000+ cpu 1.67ghz.  </s>
+<s> it runs rather hot 75c during the install process. is this normal?? at what temp does it burn out?  </s>
+<s> normal operation temp is 65c.  </s>
+<s> any advice in this matter is appreciated.  </s>
+<s> iirc amd's max spec on that chip is 80* c  </s>
+<s> system, the number of fans, their location, the direction that they push air.  </s>
+<s> you should be able to do 10 c degrees better with very little effort.  </s>
+<s> they have a temp sensor diode that provides an output to the mobo.  </s>
+<s> if the mobo has the protective circuit on it, it will shut the system down.  </s>
+<s> better check on the mobo.  </s>
+<s> silicon melts above 1000c, transistor action still occurs above 200 c, however the other components of the cpu structure will burst into flame well below that.  </s>
+<s> lol the cpu could possibly run at 90 c for years [if the circuit didn't shut it down], however let's not push it.  </s>
+<s> get the temp down a minimum of 5 c, try for 15.  </s>
+<s> it may not be &quot;too&quot; hot, but it's far from what i would call normal.  </s>
+<s> as someone else said, some details about your case, and the room temperature, may help put things in a better perspective, but that is almost certainly much hotter than it should be.  </s>
+<s> where are you getting this temperature?  </s>
+<s> from the bios or from some software program or ??? if it's from the bios, it should presumably be fairly accurate (barring some kind of hardware problem, like a bad sensor).  </s>
+<s> if it's from a software program, it may just be configured incorrectly.  </s>
+<s> for example, the program i'm using gives me several sensor inputs to choose from, only some of which are correct for my system.  </s>
+<s> if i choose one of the others, i get temperature readings that are way out of whack.  </s>
+<s> i would not expect the install process (i assume you mean installing windows xp) to push the cpu very hard.  </s>
+<s> i would expect the process to be more i/o bound (meaning the cpu spends a lot of time waiting for the hard or cd drive).  </s>
+<s> i could be wrong about that, but if i'm right, i wouldn't expect the cpu temp to rise much, if at all, during the windows installation.  </s>
+<s> even if i'm wrong, 75 c is still much higher than normal.  </s>
+<s> i have an athlon xp 2000+.  </s>
+<s> as i recall, the &quot;maximum die temperature&quot; for my cpu was supposed to be 90 c, but even if that's right, your 2000+ might be different.  </s>
+<s> amd produced different models of a lot of the athlon cpu's.  </s>
+<s> i think that included the 2000+, but i'm not sure offhand.  </s>
+<s> an amd document from 2003, listing athlon models from 500 mhz to the 3200+, lists maximum die temperatures from 70 c to 100 c, depending on the model.  </s>
+<s> at the very least, your cpu is probably somewhere in that range.  </s>
+<s> according to the software i'm using, and the temperature sensor in my motherboard, my athlon xp 2000+ is currently running at about 50 c at 100 % usage (i'm running seti@home, which uses the cpu whenever it's available, so my cpu is basically always running at 100 %). this is somewhat cooler than normal since the case is open.  </s>
+<s> otoh, there's probably a fairly good coating of dust built up on the heatsink, so it could probably actually be a bit cooler. the room temperature is probably around 75 f (about 24 c).  </s>
+<s> ymmv, depending on where you're getting the temperature (software, bios, etc.), where the sensor is located, the room temperature and the specifics of your case, but 75, and even 65, seems way higher than it should be, or needs to be.  </s>
+<s> i seem to recall getting temps around 60 c at one point (again, with the cpu usage at 100 %), when my system setup was different.  </s>
+<s> i considered that kind of borderline.  </s>
+<s> not &quot;too&quot; hot, but hotter than i liked.  </s>
+<s> i don't know what you mean by &quot;normal operation temp&quot;, but if that means when the system is basically idle, 65 c seems even more out of line.  </s>
+<s> if you're getting the temperature from a program, see if there are other sensors you can choose from.  </s>
+<s> perhaps you chose one that isn't correct for your motherboard and is giving you false readings.  </s>
+<s> or see if there is a place in the bios that will show you the cpu temperature.  </s>
+<s> if the temperature readings are accurate, maybe your heatsink isn't mounted properly or maybe the fan isn't spinning properly.  </s>
+<s> if this is not a new system, make sure the heatsink isn't just caked with dust.  </s>
+<s> try simply opening the case and leaving it open and see what effect that has on the temperature.  </s>
+<s> james  </s>
+<s> i know of no intel chip capable of running at over 80* c and not melting down and silicon's melting point is over 2000* c if i remember correctly, but it's the actual transistors (which are not silicon as i recall) will melt at a much much lower temperature amd's max limit is around 80-90*c the issue is the voltage's are sparatic at those temperatures, it's not the heat so much as it's the voltage that kills it honestly i say you need that cpu running 40* c cooler  </s>
+<s> automatically before they'll get to 80 c, wouldn't bet on them melting at that temp.  </s>
+<s> transistor action continues well above 80 c. simply read the latest thermal analysis papers data available from the intel site and you see that some models using the intel retail box hsf get very close to 80 c when dissipating the maximum rated power.  </s>
+<s> they test using 40 c air to the hsf, but with the cpu they provide a piece of paper saying to keep the air in the vicinity of the hsf at 38c or lower.  </s>
+<s> i am certain that you have read the tomshardware tests of the dual cores, intel vs amd, where the peak amd power is lower than the average power of the intel dual core.  </s>
+<s> they also show the temps.  </s>
+<s> i don't make this stuff up.  </s>
+<s> the testing cycle that intel uses to determine long term reliability is to run 1000 cycles of max temp 85c minimum -40 c [we all know that -40 c = -40 f, correct?  </s>
+<s> lol] they dwell at the max and the min temp for 15 mins each cycle.  </s>
+<s> also note that the thermal data is run with the thermistor contacting the heat spreader [notched into the heatsink base].  </s>
+<s> thus the temps that they quote are that of the heat spreader, they don't spec the actual core temp of the die any longer.  </s>
+<s> if you ever watched the max temps of the amd early athlons climb magically [because they couldn't keep them any cooler], one must realize that it was the exact same silicon device that they once spec'd at 85 c, then magically 90 c, then finally 95 c. what magic did they work?  </s>
+<s> none, just decided that they had no other choice.  </s>
+<s> amd now has heat spreaders and that accounts for some of the lower ratings.  </s>
+<s> i had seen the thermal coefficient for the core to heat spreader, but don't have it handy.  </s>
+<s> i have an amd xp2000+ yes they run hot.  </s>
+<s> go into bios and look at the pc health page and see what the temp is.  </s>
+<s> i just got a bigger heat sink and fan for mine, temps around 40c now.  </s>
+<s> also as the other post said make sure that the heat sink is clean, they can fill up whit dust.  </s>
+<s> john  </s>

@@ -1,0 +1,20 @@
+<s> hello folks , need to some help from the experts ... i have an acer aspire t135 desktop running windows xp .  </s>
+<s> i bought it new ... here's the problem .  </s>
+<s> purchased netgear wireless pci card , followed installation instructions correctly but my pc didn't detect it .  </s>
+<s> i reinstalled card into all other available slots but again my pc wouldn't detect it .  </s>
+<s> i thought the card was bad so i returned it for another , same problem , my pc wouldn't detect it .  </s>
+<s> i returned the card for a netgear wg111 wireless usb adapter instead.  </s>
+<s> again , followed instructions correctly but my pc wouldn't detect the usb adapter(i tried all available usb ports also) .  </s>
+<s> i then used the recovery cd that came with my computer and reset everything to default specs ... but my pc still won't detect the usb adapter regardless of which usb port i use .  </s>
+<s> what gives ??? any thoughts ???  </s>
+<s> 1. the usb ports are disabled in the bios.  </s>
+<s> 2. the motherboard chipset driver (via k8m800) needs an update.  </s>
+<s> i'd try this one.  </s>
+<s> (about chipset) (first item) then again, the device could be a dud.  </s>
+<s> bob  </s>
+<s> you should be getting something in your device manager.  </s>
+<s> at very least you should have a device with a splat next to it. the splats are usually driver problems.  </s>
+<s> if you do find a splat delete it(or them) and reboot your machine.  </s>
+<s> this can be caused by older devices causing irq conflicts.  </s>
+<s> installing new devices seems to aggrevate the issue and new devices just don't work for some reason even though they are pnp.  </s>
+<s> joe fox  </s>

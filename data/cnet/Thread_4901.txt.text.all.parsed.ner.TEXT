@@ -1,0 +1,52 @@
+<s> i have multi harddrives with operating systems on them.  </s>
+<s> i access each one through bios.  </s>
+<s> i just went to access the one with vista on it and it says ntldr file is missing.  </s>
+<s> but if i access it with out the other hard drives connected i can get through.  </s>
+<s> could some one help me out please.  </s>
+<s> wendell h  </s>
+<s> xp has been known to look at other drives after boot and mark them &quot;non-bootable.&quot;  </s>
+<s> how did you stop xp from doing that and breaking your boot method?  </s>
+<s> bob  </s>
+<s> i access all my hard drives with operating system on them through bios.  </s>
+<s> i go to advanced bios features.  </s>
+<s> for instance my main drive is a wd 74 gig 10,000 rpm hd xp. so i have &gt; 1st boot set as scsi snd boot set as cdrom 3rd boot set as floopy and then i have it set on sata to get to my other hd xp. i just change the 1st boot to hdd and leave all the rest the same.  </s>
+<s> to get to my hd with vista on it i change 1st boot to scsi 2nd boot to cdrom 3rd boot to floopy and put it on raid and i have one hard drive with know operating system on it for storage. the other night i unlocked all my hard drives from my main drive which has xp on it and did a through maintenance and ran avast and i deleted a trojan from my vist hard drive and i wondered if that was my problem wiht my vista hard drive.  </s>
+<s> i was not having problems with it before.  </s>
+<s> wendell h  </s>
+<s> i don't see how you fix that xp issue and now we find out there is a trojan.  </s>
+<s> either issue has you looking at xp/otheros repair procedures.  </s>
+<s> just look at google.com and links about ntldr and your error message.  </s>
+<s> i won't repeat prior discussions about this but wonder how you get around the item i've run into.  </s>
+<s> bob  </s>
+<s> i am still trying to find out what is wrong with all hard drive hooked up and not being able to get on just one drive that has vista on it.  </s>
+<s> how can i get that file ntldr and install it.  </s>
+<s> thank you very much wendell h  </s>
+<s> remember i don't duplicate web content.  </s>
+<s> bob  </s>
+<s> thank you for your help, i searched around on the site that you gave me and i tried a few tips. the only tip i did not take until last was the one about changing hardware the easiest one.  </s>
+<s> i took out my storage drive to put in a larger hd, and to do that i had to remove two raid cables.  </s>
+<s> 1)one to the hd i was replacing with a larger hd 2) one that had vista rc1 on it.  </s>
+<s> i got the cables switched up, and that what was causing me to get that error message.  </s>
+<s> well i did not have to do what i usualy do is to reinstall the operating system.  </s>
+<s> which it would not made a difference.  </s>
+<s> i thank you for your help wendell h  </s>
+<s> all of the oses i know of don't like moving the hard disks around.  </s>
+<s> most lose their os, some lose their files. the more seasoned owners have backups.  </s>
+<s> bob  </s>
+<s> all my programs are backed up, the big issue is i do not have a partion recovery with the back ups on it yet.  </s>
+<s> i am working on that now to see exactly how i am going to do that and what software i am going to use.  </s>
+<s> having a partion recovery would save me a lot off time when i do not have to install software and updates.  </s>
+<s> trying to make a decision on which software to use to help me make a partion or have another hd to install my operating system and software from.  </s>
+<s> i have read this article bellow.  </s>
+<s> thank you: wendell h  </s>
+<s> even with partition and drive backup software let's take the scenario of moving a partition from one machine to another.  </s>
+<s> one machine had the xp partition (working) on a second drive. the new machine will have it as the boot drive.  </s>
+<s> no tool today can move the partition and have the os boot. the activation issue is not the issue here and you'll likely see the ntldr message.  </s>
+<s> keep at this and you'll discover this is one of those areas.  </s>
+<s> maybe a better plan is to backup our stuff but install the os and programs?  </s>
+<s> in closing, one word.  </s>
+<s> acronis.  </s>
+<s> bob  </s>
+<s> i misunderstood what i read on the article recovery partition.  </s>
+<s> i went to acronis site and read some more there besides reading the article on cnet. it said it could make an exact copy off your hd. i will purchase this software.  </s>
+<s> thank you for your help: wendell h  </s>

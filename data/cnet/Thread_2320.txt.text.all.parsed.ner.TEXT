@@ -1,0 +1,29 @@
+<s> i'm selling a computer but i need to remove my personal information and leave win xp on the hard drive thats going with it.  </s>
+<s> how do i do that ?  </s>
+<s> thanks jo  </s>
+<s> that depends on how perfect it should be. the least you can do: - make a new account with administrative capabilities - login into all other accounts (one by one) and clear their recycle bin - log in into the new account, and delete all other accounts this will delete the documents and settings (including my documents) of all users but you can't delete the guest user and the secret administrative user.  </s>
+<s> if those have been used, their data will stay.  </s>
+<s> that leaves program files, windows, system information, recycler and maybe some other folders that were already present when you bought the machine.  </s>
+<s> and possibly a lot of other folders you created yourself to put your own data in (some do, some don't).  </s>
+<s> those should be deleted also,of course.  </s>
+<s> then download and install ccleaner (free) and use it to clean off temp files that maybe in those accounts.  </s>
+<s> this procedure leaves not only windows on the machine, but also all programs you installed yourself (like ms office).  </s>
+<s> if you want to re-use paid programs on another pc, you must uninstall them from this machine.  </s>
+<s> if you keep them, you should include the installation cd in the price.  </s>
+<s> and, of course, you must add the system restore cd, the windows cd, all driver cd's to the machine, because the new owner needs them if he ever reinstalls windows.  </s>
+<s> it could well be, however, that the new owner wants to do a clean install of windows himself, to be sure he has a nice clean machine.  </s>
+<s> then use dban (free download) to totally erase the hard disk, and let him do the install, using all the cd's you include in the deal.  </s>
+<s> this procedure might save you a lot of unnecessary work.  </s>
+<s> kees  </s>
+<s> after reading posts like where windows stored your name and password and much more in protected storage and a tool is noted to see it, i think the only way to purge the information is to wipe the drive clean with dban (see google) and re-load the os. bob  </s>
+<s> thank you very much !  </s>
+<s> its very helpful !  </s>
+<s> google for killdisk or dban disk wiping out pgms.. use either one and then once done, reload the os back onto your old system.  </s>
+<s> be sure for the complete os system reload that drivers, etc. are also part of it.  </s>
+<s> when it asks for system id, names, tags, etc.. just enter &quot;donor&quot; or whatever make you feel ok. give system away plus any or all cds, discs that are part of the system.  </s>
+<s> remember, if this is an oem type os, like from dell, gateway, etc., that os is only valid on that system.  </s>
+<s> tada -----willy  </s>
+<s> jo: there are lots of programs out there that can wipe a hard drive.  </s>
+<s> just google something like &quot;hard drive wiper&quot;.  </s>
+<s> fwiw - i use acronis drive cleanser, which is built into acronis true image backup software.  </s>
+<s> as far as i know, it works great.  </s>

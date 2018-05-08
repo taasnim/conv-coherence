@@ -1,0 +1,15 @@
+<s> we have an older compaq laptop connected to an nec 860 superscript printer.  </s>
+<s> when you go to print, the little printer icon flashes on very briefly on the taskbar and then it disappears-and printer doesn't print.  </s>
+<s> in the device manager, the message indicates that the printer is working properly (but it isn't).  </s>
+<s> anybody have this problem and what have you done to solve problem?  </s>
+<s> thanks.  </s>
+<s> ps os is win 98.  </s>
+<s> the last time this sort of thing happened it was a dead printer port. the owner paid dearly as i charged them for the priviledge of a lesson in electronics, schematics, parallel interfaces and the use of an oscilloscope as well as the loopback parallel port tester.  </s>
+<s> not that i didn't mind, but they wanted &quot;proof&quot; the parallel port was dead.  </s>
+<s> it was only 100 for the hour, but they were not so upset but that the laptop parallel port is only repaired by changing the motherboard... that's one possibility.  </s>
+<s> you would also install printer drivers, try other printer cables, try another printer and if you have a lan, try to print over a network to avoid the cost of a new motherboard.  </s>
+<s> best of luck, bob  </s>
+<s> 1. an usb to parallel printer cable.  </s>
+<s> i picked up one for 20 bucks at a store to solve this issue.  </s>
+<s> here's a froogle: 2. a pc-card printer port.  </s>
+<s> another froogle: (not cheap...) 3. usb docking port (has parallel port.)  </s>

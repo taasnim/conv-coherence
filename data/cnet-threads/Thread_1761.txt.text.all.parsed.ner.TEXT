@@ -1,0 +1,39 @@
+<s> my onboard network interface card hasn't been working for a while.  </s>
+<s> its mac address gets disabled in the bios menu.  </s>
+<s> when i enable it and restart the pc, the bios first shows an error message, which passes too fast to read, and then reboots with the mac address disabled.  </s>
+<s> also, when the pc shuts down, all the keyboard leds remain lit.  </s>
+<s> and if i turn on the pc when the leds are lit, the pc boots but does not respond to anything from the keyboard.  </s>
+<s> if i unplug the pc and plug it again and turn on the pc, the leds are off and the keyboard works fine.  </s>
+<s> now, i am suspecting two things: either the motherboard is dying or my cheap psu (300w peak) is causing issues.  </s>
+<s> says for my system, the minimum psu power is 282w and the recommended psu power is 332w.  </s>
+<s> can this be a psu problem, or can it be something else?  </s>
+<s> pushing a power supply is bad luck.  </s>
+<s> and what they don't tell you is that a 300w peak psu will not do 300w for long.  </s>
+<s> also as it ages (just a year) it loses capacity. is there any card or device like some hard drives or a second cd/dvd you can remove to lighten the load?  </s>
+<s> bob  </s>
+<s> the keyboard problem doesn't occur if i use a usb keyboard instead of a ps/2.  </s>
+<s> i removed the optical drives, floppy disk and pci cards.  </s>
+<s> i left only the sata disk and pcie video card. the keyboard problem didn't occur then.  </s>
+<s> but the onboard nic problem didn't change.  </s>
+<s> the psu is a 5 year old one that came with the aopen case.  </s>
+<s> there doesn't seem to be something physically wrong with the motherboard, at least visually.  </s>
+<s> i'm going to look for a decent psu and then see what happens.  </s>
+<s> at 5 years all electrolytic capacitors are suspect.  </s>
+<s> that 300w psu is assured to not be able to put out that much.  </s>
+<s> and we are talking about a 5 year old pc so it would be proper to have to disable a balky onboard nic and install some pci card to stand in.  </s>
+<s> however you will encounter tech's that will try anything to avoid that.  </s>
+<s> go figure.  </s>
+<s> bob  </s>
+<s> i bought a 420w psu and now the keyboard problem is gone. the onboard nic issue hasn't changed.  </s>
+<s> and a day after i installed the new psu a strange thing happened.  </s>
+<s> out of blue, windows stopped responding and the pc started making an incessant beeping sound.  </s>
+<s> so i shut it down using the power button.  </s>
+<s> the next time i turned the pc on the bios stopped loading at &quot;initializing usb&quot; (i looked up the hexadecimal code on the motherboard led dispay).  </s>
+<s> this only stopped happening when i unplugged the printer from usb port.  </s>
+<s> such a thing did not happen again.  </s>
+<s> i'm using the printer just fine.  </s>
+<s> everything seems to be normal.  </s>
+<s> i guess the problem is solved for now.  </s>
+<s> if you don't use it, why fix it?  </s>
+<s> but pci nic cards are really cheap.  </s>
+<s> bob  </s>

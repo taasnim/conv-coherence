@@ -1,0 +1,19 @@
+<s> i am new to wireless networking and a somewhat slow learner.  </s>
+<s> i use an adsl broadband service and have a home network of two desktop computers , one running winxp home edition, and the other runs win98se.  </s>
+<s> i have installed a netgear modem/router dg834g, and netgear pci adapters wg311 v3 in each computer.  </s>
+<s> the setup is working, more by good luck than management, i think!  </s>
+<s> how do i setup the router firewall and wep or wpa now, with the router as it is in the centre of the house, and each pc approx.  </s>
+<s> 65 feet distant in other rooms?  </s>
+<s> previously my network used ics, and the xp gateway machine was connected to the 98se machine with a cat5 crossover cable.  </s>
+<s> i used the xp firewall on the gateway pc, and ran an av program on each, together with the usual clutch of anti parasite apps.  </s>
+<s> of course, the gateway machine had to be running before the other machine was able to go online.  </s>
+<s> now that the router is an access point, and each machine can go online independently of the other, i believe that i should set up the router firewall, to protect them both.  </s>
+<s> i fear that the router will need to be physically connected to a computer to do this. is this correct please?  </s>
+<s> setup page from one of the wireless pc's, there is no need to hardwire.  </s>
+<s> enter the routers configuration via your web browser, and make your security adjustments.  </s>
+<s> the manual will have the lowdown, but some of the basic security settings i use are: 1) mac address filtering 2) change the routers default name and password 3) disable ssid 4) enable either wep or wpa depending on your proximity to other wifi networks or neighbors will determine how many of these options you use.  </s>
+<s> at the moment there are no neighbours using wireless, or at least they are not visible to me, so i am not worried about anyone piggybacking.  </s>
+<s> could you tell me how i can address and configure the router via a computer browser.  </s>
+<s> i suppose that i need to type in the router's ip address, which i am not sure how to obtain?  </s>
+<s> as well as on netgear's site: but i believe the login address is routerlogin or 192.168.1.1  </s>
+<s> yes michael, the router address is 192.168.0.1 and the user name &quot;admin&quot; with the password &quot;password&quot;. this got me on the track for the modem/router configuration, and i must say i am impressed with the netgear interface.  </s>

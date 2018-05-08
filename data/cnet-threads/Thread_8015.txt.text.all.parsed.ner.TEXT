@@ -1,0 +1,15 @@
+<s> i accidentally deleted an ntfs partition using fdisk.  </s>
+<s> are there any good software programs/utilities that can recoved a deleted partition?  </s>
+<s> i'm not looking for just a freeware utiility.  </s>
+<s> i'm willing to spend the money and purchase a program just as long as it works.  </s>
+<s> thanks!  </s>
+<s> bluehorse_58  </s>
+<s> specific problem.  </s>
+<s> no backup ??? and you just deleted the partition ...the only partition on the drive ?  </s>
+<s> vapcmd  </s>
+<s> now, ur situation isn't hopeless.  </s>
+<s> since u're ready to pay(actually, i don't know free one) i'd recommend u disk director by acronis.  </s>
+<s> it has acronis partition recovery feature, that will most likely solve ur problem.  </s>
+<s> anyway if something goes wrong (e.g.disk director won't recover ur deleted partition) u can get ur money back within 30 days.  </s>
+<s> good luck be sure to tell us about results  </s>
+<s> the data off the hdd ??? wouldn't it make sense to 'clone' the drive before using dd to recover the partition ?  </s>

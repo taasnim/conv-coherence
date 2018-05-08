@@ -1,0 +1,13 @@
+<s> i was having problems with my cd drive - sometimes wasn't reconised, sometimes wouldn't open, most of the time didn't reconise that there was a cd in it and often flashed and made whirring noises which froze the whole computer.  </s>
+<s> after a little research (on this site and other tech help sites) i decided it was time for a new drive. the new drive worked like a dream until the first restart - now it treats every cd as though it is blank - it appears to attempt to read it, but decides that it is blank - so does nothing.  </s>
+<s> it is recognising that there is a cd in it and opens fine every time- more than what the old drive was doing.  </s>
+<s> does any one have any idea what might be going on and how i can fix it?  </s>
+<s> my system is windows me  </s>
+<s> how's the cable?  </s>
+<s> - fj  </s>
+<s> i'm very new at this so it has all been a steep learning curve.  </s>
+<s> i have swapped the ide cables around and plugged the hard drive and cd in every combination i can think of - and as the hard drive keeps working - i'm guesssing the cables are fine.  </s>
+<s> i did discover that if i booted with the &quot;recovery cd-rom&quot; in the 'problem drive'- it worked fine - i.e.no reading problems.  </s>
+<s> if i cancelled to dos i could get it to list (dir) the contents of the cd (something that doesnt happen when going through the ms-prompt from windows - where it stil thinks the cd is empty) - so this leads me to think its a software problem.  </s>
+<s> i used the recovery cd to refresh &quot;windows os&quot; but this has made no difference.  </s>
+<s> shall i try reinstalling windows?  </s>

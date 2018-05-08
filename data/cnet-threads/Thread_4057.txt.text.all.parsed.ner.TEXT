@@ -1,0 +1,56 @@
+<s> i have 2 win xp comps, just want to connect them together just to move files.  </s>
+<s> have the crossover cable. the desktop will not register a domain or workgroup.  </s>
+<s> network setup goes to completion but i can't make or join any workgroups.  </s>
+<s> on the network id section, it says:&quot;you must install networking before you can change this computer's domain membership&quot;.  </s>
+<s> the member section is greyed out on the desktop but it's fully accessible on the laptop (the other comp).  </s>
+<s> i have done the static ip addy and network set up disks in both directions with and with out firewall.  </s>
+<s> nothing works.  </s>
+<s> does anyone have good instructions on how to do this?  </s>
+<s> it's supposed to be easy but the desktop refuses to work.  </s>
+<s> i have 2 network cards on the desktop that are fully updated: sis900 and realtek rtl8139.  </s>
+<s> i have disabled, disconnected 1 or the other. the networking just won't work.  </s>
+<s> i've lost sleep for the past week on this problem.  </s>
+<s> help thanks  </s>
+<s> domain networks are things we see with windows server 2000 and 2003 or some others.  </s>
+<s> sometimes an owner installs their network to use a domain by mistake.  </s>
+<s> bob  </s>
+<s> the laptop is on xp home, network sets up fine and joins and creates workgroups well.  </s>
+<s> xp pro says its on the workgroup i created but it wont recognize the workgroup.  </s>
+<s> in my network places when i try to view network computers it just gives me a &quot;ding&quot;.  </s>
+<s> doesn't matter if the firewall is on or off or if the ip is fixed or auto. the workgroup doesn't show up.  </s>
+<s> usually i can see atleast my own comp on the network, nothing here.  </s>
+<s> &quot;domain&quot; should never be seen or written about here.  </s>
+<s> if you see &quot;domain&quot; then your install is improper.  </s>
+<s> since you have no dhcp server you'll have to assign ip addresses manually.  </s>
+<s> tell me what you used so the picture of the setup is complete.  </s>
+<s> also you need to have accounts on both machines and directories shared.  </s>
+<s> example.  </s>
+<s> your account is called 'sam'.  </s>
+<s> 'sam' must have an account on both machines with same password please.  </s>
+<s> bob  </s>
+<s> workgroup anywhere.  </s>
+<s> with or without a server, the workgroup set up just doesn't work.  </s>
+<s> i hauled the thing to the office and i can get to the internet through the network but again i can't join or create any workgroups.  </s>
+<s> at home, i manually set the ip as 192.168.0.1 255.255.255.0 192.168.0.1 and 192.168.0.3 255.255.255.0 192.168.0.1 sometimes i leave the bottom empty and i've tried all sorts of combos on the ip numbers, close numbers or far apart.  </s>
+<s> even without the cable plugged in, i can't set up a workgroup, something i can do with the laptop.  </s>
+<s> since you don't have a router it's not used at all.  </s>
+<s> i didn't read how you dealt with accounts and shares so that's an open item.  </s>
+<s> also you can try the command line and this command if you feel you have the accounts and shares proper.  </s>
+<s> net view bob  </s>
+<s> got desperate and uninstalled and reinstalled all windows components and now the networking works.  </s>
+<s> sorry for the trouble and thanks for the help.  </s>
+<s> you wouldn't happen to know anything about sharing permissions over a network would you?  </s>
+<s> i'm sharing stuff over a large dispersed network that i don't want just anyone to use but i don't know how to set the permissions for another computer over the network.  </s>
+<s> thanks  </s>
+<s> it seems so simple.  </s>
+<s> we have that guest account which we rarely enable but that allows everyone to gain access.  </s>
+<s> and the word &quot;anyone&quot; is anyone with an account, not &quot;everyone&quot; which would be those without an account.  </s>
+<s> &quot;but i don't know how to set the permissions for another computer over the network.&quot;  </s>
+<s> in short, windows doesn't do this! but we could add it in by installing openssh so one could stelnet into said 'server' and use the various net and other command line tools to adjust users and more.  </s>
+<s> bob  </s>
+<s> are you using a premade cross over cable or a self made if self made one pair has to switch in the middle of the connector ends and it easier just to use a store baught cross over cable even as cheap and easy to use a cheap router between the 2 and forget the cross over cable period color code is useless when connecting ethernet cables as long as they are the same match on each end of the connector when using a cross over cable one of the pair has to cross over in the middle of the connector if you use a router you will have more security and control over how data flows to and from the other computer and you dont need an internet connection for the router as well it is its own dchp (internet server) and then you will be netwoking the real way and not just from computer to computer and that helps a whole lot in the transfer of data along the network path as from computer to computer one of your computers acts as the dchp and you have to install or turn on the dhcp service in xp and above which makes the computer you turned it on at the dhcp router which causes the cpu 1(dchp) to work hard as it has to use cpu cycles to do a routers job (routers have cpu in them around 200mhz)risks processors and other hardware that do what your computer would have to do to be a router thus taking the load off your computers period from computer to computer networking you have to one computer 1dchpserver to 2 computer 2client and if you have to be the server you cpu might not be able to handle the load as most servers use dual processors for traffic use and the router does the same thing with having to be big and bulky and if your cpu on both machine arent at least a gigahertz or better you will have sluggish preformance on the computer that is the dhcp if you have to use it while both are on and are useing the network and if one of these computers is tied to the internet and not secure in everyway then your computer network can be hacked into easily even if you use software firewalls you can still be hacked and both machines can be turned to zombies causing all kinds of problems for you the user that is why when you network computers that tie to the internet you should always you an access point instead of crossover netwoking most routers these days dont cost 50000 for home netwoking and you can pick them up cheap linksys 99 dlink 99 and so on and that sure beats building a pc just to be your routerdchpserver then you can also connect both computers as clients to the router head over to cnets netwoking page and read on how to setup a netwok if you need any more help its all there and linksys has one dlink has one cisco does have one but it is more geared toward it techs and some of the info may confuse you if you are just getting started into networking 1-800-33qad;  </s>
+<s> thanks for all the help.  </s>
+<s> when i scrounge up the cash i'll think about getting a &quot;real&quot; network but when you have all the equipment for free, its hard not to try.  </s>
+<s> thanks for the info but i already have all the crossover equipment for free.  </s>
+<s> i'll just have to secure the old fashion way for now, unplug the cable.  </s>
+<s> there are other ways to secure them if you must use it and unplugging is the easiest if you dont know much about netwoking the computer using the crossover connection is somewhat secure just using the crossover cable the pc that is the dhcp is the one that needs to be secure 1-800-33qad;  </s>

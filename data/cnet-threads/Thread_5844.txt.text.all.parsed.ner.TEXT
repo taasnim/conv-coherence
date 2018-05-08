@@ -1,0 +1,38 @@
+<s> i am having lots of computer problems and no matter how many computer technicians come here they can't fix the problems of my computer shutting down, cpu fan failure, blue screens showing page_fault_in_nonpage_area and attempt_to_write_a_read only_file and more.  </s>
+<s> my operating system is windows 7 ultimate.  </s>
+<s> my vga is a nvidia geforce 9600gt.  </s>
+<s> my cpu is an intel core2 quad cpu q8200 @ 2.33ghz.  </s>
+<s> my sound system goes haywire sometimes and it doesnt work right now.  </s>
+<s> my motherboard is a gigabyte ultra durable 3 ep45-ud3r.  </s>
+<s> i have formatted my drives once already and i also have changed operating systems from xp to windows 7 thinking that might of helped.  </s>
+<s> any suggestions?  </s>
+<s> do you think there is hardware incompatibillity?  </s>
+<s> please help me out, email me @ tommy_nurmi@hotmail.com  </s>
+<s> my power supply is a extreme power duo with 650w's  </s>
+<s> there are also other blue screen errors like irql_is_not_less_or_equal any ideas?  </s>
+<s> voltages to see if they're in spec ?  </s>
+<s> what ram are you using ?  </s>
+<s> vapcmd  </s>
+<s> i am using ddr2 4gb vitesta 2 chip which is compatible with the motherboard.  </s>
+<s> i found reviews about my motherboard that i am using and found out there is something with the ga-ep45-ud3r that makes the ram unstable.  </s>
+<s> i used a voltage calculator on &quot; and put in everything i am using and found out i only need to use a 333w psu but i have 650ws.  </s>
+<s> thanks.  </s>
+<s> i used memtest86+ and there were no errors found.  </s>
+<s> i recently found out that i am running a ddr2 1066 533 mhz but my motherboard only runs ddr2 1366+ so the ram that i am using is incompatible with the motherboard.  </s>
+<s> could this be the reason that my computer is doing all this? should i swap my ram for another one immediantly?  </s>
+<s> by the way ddr2 1066 is one of several ram speeds compatible with that mb...&quot;support for ddr2 1366+*/1066/800/667 mhz memory modules&quot;.  </s>
+<s> check you mb docs if you have any questions when i said voltages i meant was were the voltages in spec...was the 12v line reading 12v or 11.3v ?  </s>
+<s> by the way .... how many hdds are you running ?  </s>
+<s> vapcmd  </s>
+<s> i checked the +12v line reading and it said 12.175v, is this a problem?  </s>
+<s> i am running 4 hdd's and i asked the computer technicians to make it into 2 or 3 i think this is possible am i correct or do i have to reinstall the os again?  </s>
+<s> when i was going through the bios settings i found out the drams performance was set on turbo so it was being overclocked for all this time, i switched it back to standard so i think there is more stabillity now then before.  </s>
+<s> could this be the problem?  </s>
+<s> re the 12v ....12.17v reading is fine.  </s>
+<s> i am running 4 hdd's and i asked the computer technicians to make it into 2 or 3 i think this is possible am i correct or do i have to reinstall the os again?  </s>
+<s> are you running raid ?  </s>
+<s> when i was going through the bios settings i found out the drams performance was set on turbo so it was being overclocked for all this time, i switched it back to standard so i think there is more stabillity now then before.  </s>
+<s> could this be the problem?  </s>
+<s> if it's running more reliably with ram turbo off ... leave it off.  </s>
+<s> are you sure the cpu is running at the design speed ?  </s>
+<s> vapcmd  </s>

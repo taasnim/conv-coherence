@@ -1,0 +1,159 @@
+<s> just purchased western digital essential edition 500 gb my book 2.0 usb external drive.  </s>
+<s> windows sees the hardware, but refuses to recognize any drives defined on it.  </s>
+<s> according to the documentation that came with the drive, it should have installed some startup software when first connected.  </s>
+<s> that didn't happen.  </s>
+<s> the drive is correctly identified under disk drives in the windows device manager.  </s>
+<s> however, disk management fails to see it.  </s>
+<s> i see two other internal drives there, along with my cd and dvd drives.  </s>
+<s> i considered the number of drives might be an issue and disconnected one of the hard drives.  </s>
+<s> the wd drive still didn't show up.  </s>
+<s> i considered that the drive might be assigned a particular letter, but reassigning existing drives to where &quot;e&quot; and &quot;f&quot; were open, did not help.  </s>
+<s> i am running windows xp sp2 on a compaq presario.  </s>
+<s> my usb ports are 2.0.  </s>
+<s> all drivers are latest available.  </s>
+<s> i have seen conflicting information about whether or not service pack 2 might be the issue.  </s>
+<s> going back to sp1 isn't really an option.  </s>
+<s> i really want to use this drive, but i am fast approaching the 30-day return policy limit.  </s>
+<s> any suggestions would be greatly appreciated.  </s>
+<s> i've yet to find this to be a sp2 issue.  </s>
+<s> but there is plenty of urban lore that it is.  </s>
+<s> bob  </s>
+<s> i have no other external drives to try.  </s>
+<s> i have my doubts about the sp2 conflict, but i have been able to find nothing else.  </s>
+<s> wd support has been no help at all.  </s>
+<s> any suggestions on things i should check?  </s>
+<s> 1. drivers.  </s>
+<s> while some claim they have the latest the only way i can tell is if the owner reveals make/model of machine and the motherboard and more driver versions.  </s>
+<s> 2. a bum usb cable.  </s>
+<s> try another.  </s>
+<s> 3. a port that is not really usb 2.0 4. a port that has failed.  </s>
+<s> wd should not help.  </s>
+<s> better than 99% of the time it's the machine at fault and not their product.  </s>
+<s> no one has cracked the problem of how to repair our machines cheaply enough to not have to charge for it.  </s>
+<s> if you feel wd should perform the repair then what can be said.  </s>
+<s> but if it never works, return is as defective.  </s>
+<s> bob  </s>
+<s> i have several usb ports on the machine, so i will give the others a shot.  </s>
+<s> probably have a spare cable around too.  </s>
+<s> as for the drivers, if i don't have the latest, then i don't know where to find them.  </s>
+<s> i've visited all the related sites i could think of and none had newer versions.  </s>
+<s> i did actually find an update for one of the usb drivers, and applied it.  </s>
+<s> it made no difference.  </s>
+<s> i tried the drive on a w2k machine i have and got the same results.  </s>
+<s> however, i am not sure whether the usb ports are 2.0 on it or not.  </s>
+<s> i am sure that the ones on the xp machine are 2.0.  </s>
+<s> as for wd's responsibilities--i made my purchase based on what they advertised the drive to be compatible with.  </s>
+<s> i don't necessarily expect them to fix my problem.  </s>
+<s> however, i do expect them to assist me in determining whether their product is at fault or not.  </s>
+<s> if they are unwilling to do so, then i have to assume it is.  </s>
+<s> (i don't know if you've seen the &quot;manual&quot; that comes with this thing, but it is two pages.  </s>
+<s> their support site doesn't provide any more information either.)  </s>
+<s> tried another port.  </s>
+<s> tried another cable.  </s>
+<s> searched again for drivers.  </s>
+<s> no progress.  </s>
+<s> i probably wouldn't be so frustrated if i knew a lot less about this kind of stuff.  </s>
+<s> it's hard for a person who has probably owned a dozen different pcs over the last 25 years and one who works with them daily as part of his job (programmer/analyst) to admit he can't figure out how to attach a simple external drive.  </s>
+<s> while claims are made the drivers are the latest, unless i can check we'll never be quite sure.  </s>
+<s> it really doesn't matter at this point since the product does not work for you in 2 machines.  </s>
+<s> i can't comment much since there is so much unknown (driver versions and more.) best of luck, bob  </s>
+<s> tried another port.  </s>
+<s> tried another cable.  </s>
+<s> searched again for drivers.  </s>
+<s> no progress.  </s>
+<s> i probably wouldn't be so frustrated if i knew a lot less about this kind of stuff.  </s>
+<s> it's hard for a person who has probably owned a dozen different pcs over the last 25 years and one who works with them daily as part of his job (programmer/analyst) to admit he can't figure out how to attach a simple external drive.  </s>
+<s> how are you looking for these?  </s>
+<s> that update driver button is busted so that's now how i check.  </s>
+<s> i have to look at either the maker's website or sometimes the maker of the chipset.  </s>
+<s> bob  </s>
+<s> i believe it was the microsoft site that actually had the newer usb driver.  </s>
+<s> there was nothing on compaq.  </s>
+<s> via, the chipset maker, has a statement on their site saying they can't supply drivers because of an agreement with microsoft.  </s>
+<s> by the way, my virus software doesn't like forums, which is why you may see some of my posts twice.  </s>
+<s> i have to tweak it for each new site that uses certain types of cookies.  </s>
+<s> it usually takes awhile to get the balance right.  </s>
+<s> i know the usb driver item.  </s>
+<s> that's not of interest.  </s>
+<s> what is however is make, model, version of chipset drivers.  </s>
+<s> aka motherboard drivers these are not supplied by microsoft or via that windows update button.  </s>
+<s> and a big source of income for the geeksquad... bob  </s>
+<s> okay, you're getting outside of my experience... motherboard: asus a7v8z-la chipset(s): via km400a via vt8237 (usb?) how would i determine the version of chipset drivers?  </s>
+<s> where would i find updates?  </s>
+<s> how would a go about applying such updates?  </s>
+<s> btw, i'm going to take the drive to work with me tomorrow and give it a shot on my pc there.  </s>
+<s> it's a dell, about a year old.  </s>
+<s> if it doesn't work on it, i'll probably call it quits.  </s>
+<s> if it does, i may just break down and buy a new pc.  </s>
+<s> (not that i can afford to, but really can't afford not to either.  </s>
+<s> having gone through 2 weeks of hell trying to recover a system backed up on dvds...) i've revisited via and the ms sites.  </s>
+<s> basically, it appears to be a know issue.  </s>
+<s> ms has a fix, but doesn't feel comfortable with it.  </s>
+<s> so you have to open a service call with them for which there is a charge (and it still may not work). the via article is at .  </s>
+<s> you can follow the link from there to the ms site, if interested.  </s>
+<s> the link you provided was for some pci card but we need to be sure the mainboard chipset drivers are current.  </s>
+<s> what's on the xp or 2000 cd may get the os working but you often find usb inoperable.  </s>
+<s> &quot;how would i determine the version of chipset drivers?  </s>
+<s> where would i find updates?  </s>
+<s> how would a go about applying such updates?&quot;  </s>
+<s> see the link at the top of this post.  </s>
+<s> and the versions are in the device manager.  </s>
+<s> which i don't bother checking when the owner doesn't know.  </s>
+<s> it's my clue to just get the latest and move forward.  </s>
+<s> bob  </s>
+<s> followed the link.  </s>
+<s> picked up a couple of new drivers for chips on the motherboard.  </s>
+<s> still have the same situation.  </s>
+<s> the drive is there, but windows doesn't see any partitions or recognize the format.  </s>
+<s> i'm taking the thing to work with me today.  </s>
+<s> if it doesn't work on my pc there, it goes back.  </s>
+<s> if it does, then i really don't know what i'll do... i appreciate your patience and attempts to assist.  </s>
+<s> having pulled a short stent on a help desk, i understand what it's like trying to diagnose something without having direct access to it.  </s>
+<s> there's probably one little bit of key information that i'm failing to tell you, but until we hit on a solution, it won't be apparent what it is.  </s>
+<s> thanks again.  </s>
+<s> i'll let you know how it goes on my work pc.  </s>
+<s> brought the thing to work with me.  </s>
+<s> i'm using dell with intel chipset.  </s>
+<s> windows xp pro (sp1).  </s>
+<s> it tells me the same thing that my pc at home does.  </s>
+<s> it sees the drive but doesn't recognize the format or any partitions.  </s>
+<s> could i have just gotten a bad unit?  </s>
+<s> someone beat you to the first use of the drive.  </s>
+<s> in the disk manager of windows you can try to remove then create partitions on the usb drive, then format then and drop a few files there.  </s>
+<s> if that works then my bet is someone beat you to the first use of the drive.  </s>
+<s> it's possible that the dell is not usb 2.0 equipped.  </s>
+<s> be sure to be sure of that and use the rear usb ports.  </s>
+<s> bob  </s>
+<s> the drive shows up in &quot;device manager&quot; along with my internal disk drives.  </s>
+<s> however, it does not show up in &quot;disk manager&quot;.  </s>
+<s> so i don't seem to be able to get to it to format it or even tell whether or not their are partitions on it.  </s>
+<s> btw - i double-checked everything on the dell at work. the ports are definitely usb 2.0. the pc itself is just over a year old...  </s>
+<s> if this is the usual shop, have them show you it working before you leave next time.  </s>
+<s> bob  </s>
+<s> i just ran into the same problem on a client's machine.  </s>
+<s> his machine simply didn't know what it was looking at, even though it was clearly there.  </s>
+<s> go back to installing the drivers - control panel, system, hardware, device manager.  </s>
+<s> find the drive.  </s>
+<s> right click on it and select properties.  </s>
+<s> go to driver, update driver.. only this time, when it tells you windows sees other drivers, follow that path and select windows' drivers, *not* western digital's.  </s>
+<s> what had happened on the client's computer is that he'd attempted to install the drive via usb only (forgetting to push the button to start the drive) and when windows didn't see the driver, he installed the windows 98se driver from wdc.com .. so windows was trying to use the driver for the wrong operating system.  </s>
+<s> had he physically powered up the drive first, windows would have recognized the drive and installed the proper drivers on the first attempt.  </s>
+<s> and that's why i get paid the big bucks.  </s>
+<s> ha. i hope your solution is as simple (and in my years of experience, it's the simple reason that caused the problem 99.9999% of the time.) best wishes!  </s>
+<s> i appreciate your advice, but this time it wasn't applicable.  </s>
+<s> i had tried the drive on three different machines and experienced the same problem on each one.  </s>
+<s> in the end, wd support advised me to exchange the drive, which i did.  </s>
+<s> i received the replacement a couple of days ago.  </s>
+<s> i had it up and running in 5 minutes time.  </s>
+<s> it worked perfectly out of the box.  </s>
+<s> i had just got a bad unit the first time.  </s>
+<s> it was extremely frustrating, as i had purchased it to use as a quick way to back up my entire system after recovering from a recent hard disk failure.  </s>
+<s> having put more hours than i care to think about into recovering my data and reinstalling applications, i wanted to be sure i didn't have to go through the same again.  </s>
+<s> having read reviews of this device, i was expecting a quick and simple installation.  </s>
+<s> that was one of the primary reasons i chose it.  </s>
+<s> of course, that is what i got in the end.  </s>
+<s> however, my initial experience was so far from expectations that i was on the brink of returning the unit for a refund and trying someone else's product.  </s>
+<s> after all is said and done, my only real complaint is the amount of time it took to get someone at wd support to realize the unit was defective.  </s>
+<s> i cannot reach to external hd by any means.  </s>
+<s> do i live the same situation?  </s>
+<s> my config is as follows: amd sempron, 1800 mhz (9 x 200) 3000+ msi k8t neo-fsr (ms-6702) (5 pci, 1 agp, 3 ddr dimm, audio, gigabit lan) via vt8383 apollo k8t800, amd hammer  </s>

@@ -1,0 +1,9 @@
+<s> for a couple of days now our monitor resolution and color looks like safe mode and we can't change it.  </s>
+<s> in settings, control panel, display, settings we have 2 choices... 16 color or 2 color.  </s>
+<s> shouldn't there be more?  </s>
+<s> i don't know what we had to begin with.  </s>
+<s> we did some &quot;clean up&quot; of old programs from control panel, add/remove programs... maybe we dumped something by accident that caused this?  </s>
+<s> we're have an hp pavilion with win 98. any help is appreciated!  </s>
+<s> you can: 1) reload the video drivers and/or 2) boot to a dos prompt and type in scanreg/restore, choose a time before the problem appeared.  </s>
+<s> thanks michael.  </s>
+<s> we'll give it a try.  </s>

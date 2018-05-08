@@ -1,0 +1,49 @@
+<s> processor: amd athlon64 3200+ 2.0ghz memory (ram): pqi pc400 1023mb (512mbx2) system type: 32 bit motherboard: epox 9npa3 ultra bios: phoenix - award worrkstation operating system: windows vista ultimate edition a few weeks ago,my os needed reformating but i didnt have extra hard disk to back up my files(since i wanted a complete re4mat including partitions).  </s>
+<s> my old hard disk was a seagate barracuda 160gb sata.  </s>
+<s> i was able to borrow an external maxtor 40gb pata from a friend.  </s>
+<s> since d enclosure was broken, i took out the hard disk and connected it manually through an ide cable.  </s>
+<s> i also borrowed a seagate 160gb pata and everything went well.  </s>
+<s> ive backed up all my important files.  </s>
+<s> few days later, i was bought a new seagate barracuda 250 gb sata and installed it.  </s>
+<s> i now have a -seagate 160gb sata (the one that needs to be reformated) -maxtor 40gb pata (where most of my files are backed up) -seagate 160gb pata (few important files backed up) -seagate 250 gb sata (the new hard disk) now that i want to restore my backed up files, im now having trouble detecting the maxtor pata hd while the seagate pata hdd is going well.  </s>
+<s> i was able to restore my files from the seagate ata hdd but not from the maxtor.  </s>
+<s> i already checked maxtor's website and reviewed the jumper settings i also checked the ide cables and the power cables and they're all properly connected.  </s>
+<s> i also tried disconnecting my working dvd rom's ide and used it on the maxtor drive but nothing changed.  </s>
+<s> my bios just cant detect the maxtor hdd, not even disk management. the weird thing is when i connect the seagate pata, it detects it easily but when i connect the maxtor pata with the same ide cable and power supply, nothing happens.  </s>
+<s> actually sometimes, when the maxtor pata is connected, windows boots slowly or sometimes it hangs on the bios information screen.  </s>
+<s> what should i do?  </s>
+<s> could be the hdd broken or damaged?  </s>
+<s> i cant feel the disk spinning but the whole hard disk is getting warm while it is connected to my mobo. is there any way to correct this problem?  </s>
+<s> and if the drive is broken, how can i recover my important files since it cant be detected?  </s>
+<s> 1. we use 80 conductor ide cables.  </s>
+<s> 2. cable select or master (i never use master but we are in crisis mode.) 3. put the drive on the master connection of the ide cable.  </s>
+<s> 4. put it on the known working ide port (unplug the dvd).  </s>
+<s> 5. check that power is connected.  </s>
+<s> does the bios see it with either cs or master? is the cable no good?  </s>
+<s> try it as master on the cable the dvd uses.  </s>
+<s> next?  </s>
+<s> data recovery houses like drivesavers.com bob  </s>
+<s> 1) i used an ide cable.  </s>
+<s> 2) connected it to the 2nd ide slot since the dvd drive is using the first slot.  </s>
+<s> i set the jumper and the ide cable to master settings but nothing happens.  </s>
+<s> 3) now i tried all the connections to slave settings and same happens.  </s>
+<s> 4) i unplugged the ide cable from the dvd drive and used it on my hard drive but nothing happens.  </s>
+<s> 5) i always check the power cables and it is very noticeable because i used the same line of power cables connected to the case fan.  </s>
+<s> i mean if there is no power, the case fans shouldnt also be running.  </s>
+<s> 6) bios cannot detect the drive with either slave or master setting.  </s>
+<s> now this is my latest observation: if i disconnect the maxtor hard disk and let my windows boot everything is fine.  </s>
+<s> i logged on to windows and connected the maxtor hard disk, i then went to device manager and tried &quot;scanning for hardware changes&quot;, my screen turned to blank and blue for a millisecond then restarted.  </s>
+<s> and this time, while the maxtor hard drive is connected to my mobo, my windows cannot boot or start.  </s>
+<s> it hangs or lags during the loading of bios or the part where the ide is being detected.  </s>
+<s> i mean the part wherein when you press del you can access bios configuration.  </s>
+<s> but if i disconnect the maxtor hard disk again, everything comes to normal.  </s>
+<s> what should i do now? the files on the hard disk are too important to me and the hard disk itself isnt mine. is the hard disk broken? is there any other way to save the hard disk and my files?  </s>
+<s> please tell me what to do.  </s>
+<s> i really need to restore my files.  </s>
+<s> thanks!  </s>
+<s> &quot;he part where the ide is being detected.  </s>
+<s> i mean the part wherein when you press del you can access bios configuration.  </s>
+<s> but if i disconnect the maxtor hard disk again, everything comes to normal.&quot;... all that means is that something is wrong with the drive.  </s>
+<s> if it's worth saving, get a quote from drivesavers.com or ontrack.com  </s>
+<s> not to bother you but why is what you can't lose only on hard disks?  </s>
+<s> bob  </s>

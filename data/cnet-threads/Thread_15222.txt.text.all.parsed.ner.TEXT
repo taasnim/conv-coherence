@@ -1,0 +1,15 @@
+<s> compaq presario sr1950nx windows xp 2.4ghz processor 2g ram vid nvida 8400 gs the other day i was installing a new game and recieved a processor error.  </s>
+<s> this was how i was notified of this issue.  </s>
+<s> my processor has recently stopped registering as 2.4g and is now registering as a 1002.2 mhz.  </s>
+<s> i've been trying to find answers with little success.  </s>
+<s> i was hoping someone here would have an idea for me to try.  </s>
+<s> it's normal for most newer cpus to throttle down if power saving features are enabled.  </s>
+<s> download cpuid and you'll actually see your cpu speed fluctuating.  </s>
+<s> by 2 ways.  </s>
+<s> after the game notified me i did not have a powerful enough processor.. i opened the properties to &quot;my computer&quot; it told me my processor was registering at 1002.2 mhz, then i ran a benchmark perform test and same thing, it registered as 1002.2. i do not have power save turned on.  </s>
+<s> and use it to determine your cpu and its standard operating frequency.  </s>
+<s> the &quot;specification&quot; should be an x2 4800+ but also check the &quot;clocks&quot; area.  </s>
+<s> my x2 4400+, is currently running at a core speed of 1004.6mhz, 5x multiplier, 200mhz bus, and 1004.6mhz ht link.  </s>
+<s> these are typical values if cool-n-quiet is installed and running.  </s>
+<s> turning cool-n-quiet off in windows xp is somewhat counter-intuitive.  </s>
+<s> open &quot;power options&quot; in control panel, and choose a plan other than &quot;minimal power management&quot;.  </s>

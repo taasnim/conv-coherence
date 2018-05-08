@@ -1,0 +1,20 @@
+<s> how do i figure out if my mobo is pci express?  </s>
+<s> it says it has 5 pci ports is this the same as pci express?  </s>
+<s> this is what i have... this is stressing me out.  </s>
+<s> i need a new gpu and don't know if i can get pci-e cards.  </s>
+<s> thanks for any help or suggestions.  </s>
+<s> about half way down under &quot;slots&quot;.  </s>
+<s> one agp 4x/8x.  </s>
+<s> so that would be an agp graphics card slot.  </s>
+<s> that means its not pci-e?  </s>
+<s> help me out please  </s>
+<s> can't be both agp and pci express.  </s>
+<s> no pci express slots on this board.  </s>
+<s> you need an agp slot graphics card.  </s>
+<s> there are three different options these days for adding a video card: 1. pci express x16 2. agp 3. pci pci express x16 is the slot of choice these days for video cards.  </s>
+<s> agp is the older video card slot and is the next best option (still very good) if you don't have a pci express x16 slot.  </s>
+<s> regular pci slots can be used for a variety of add-in cards for different purposes.  </s>
+<s> there are some video cards made for pci slots, but they are on the lower end in terms of performance.  </s>
+<s> you want to choose a pci video card only if you don't have a pci express x16 slot or an agp slot.  </s>
+<s> side note: there are many varieties of pci express and they are designated by bandwidth (x1, x4, x8, x16, et al.).  </s>
+<s> almost all pci express video cards are of the x16 variety.  </s>

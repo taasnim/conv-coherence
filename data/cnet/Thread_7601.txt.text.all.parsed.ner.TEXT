@@ -1,0 +1,37 @@
+<s> some possible questions; a laptop running on ac power [xp} gets normal shutdown.  </s>
+<s> it's modem is connected to a satllite modem.  </s>
+<s> it still has a charged battery in it.  </s>
+<s> i know nothing about laptops, but i know how atx power works.  </s>
+<s> the question is whether or not the laptop power is like an atx computer and the standby power line from the power supply stays on.  </s>
+<s> if it does stay on, then it seems that to protect more surely one should disconnect from the satellite modem.  </s>
+<s> i don't come back here too often, but i never fail to get the correct answers from these great posters.  </s>
+<s> thanx ray harinec  </s>
+<s> power surge?  </s>
+<s> energy drain by modem?  </s>
+<s> how is a laptop intruded when it's not booted up?  </s>
+<s> only when the os is running is there a possibility of compromise.  </s>
+<s> an atx ps does keep a control voltage on the pc that can be used for wake-on-lan, wake-on-ring devices.  </s>
+<s> so, theoretically, someone could send a wake up signal (magic packet) to a network card to wake the laptop if the laptop was hard wired to the network.  </s>
+<s> as well, if the laptop had a telephone type modem that supported wake-on-ring, it could be started remotely.  </s>
+<s> once the os was running, the laptop could be hijacked but not beforehand.  </s>
+<s> at some point norton [no idea what version] reported an intrusion attempt.  </s>
+<s> it is not clear to me exactly when the report occurred.  </s>
+<s> i can't discuss it directly with the person whose computer had the report, as to what was being done at the time.  </s>
+<s> he apparently has something going on in his life that causes him to suspect that omeone may e trying to hak into his omputer.  </s>
+<s> my real inrest is whether such things as wake on lan etc can work in a laptop, thus the atx type power question.  </s>
+<s> also thus i would advise him to unplug his satellite modem whenever he is not using the computer.  </s>
+<s> i think that steven haninger answered me.  </s>
+<s> to see if any &quot;wake on&quot; is enabled.  </s>
+<s> if one is, can the wake on turn the computer on boot up, intrude and then return the system to the off [standby power] mode?  </s>
+<s> theoretically, yes.  </s>
+<s> but, the intrusion would need to include a program that would take control of your desktop and allow a shutdown command such as can be done if remote desktop is enabled.  </s>
+<s> evidence of someone booting and shutting down your system would be found in the event log by noting the times/dates in the system area.  </s>
+<s> you would know by looking there.  </s>
+<s> however i believe that i can arrive at the answer. the question was simply does a laptop have a power system similiar to an atx tower, thus always a standby voltage?  </s>
+<s> i now realize that it could not have such.  </s>
+<s> it seems that if it did and the battery slowly reuced it's voltage the standby source would get into a never never region, where digital logic would do many unplanned events flicking back and forth it's ones and zeros.  </s>
+<s> &quot;the question was simply does a laptop have a power system similiar to an atx tower, thus always a standby voltage?&quot;  </s>
+<s> i can't see how this can be answered with the laptop designs being so varied.  </s>
+<s> i will answer yes on my newest hp dv6910us since you can turn it off and on via a small ir remote control.  </s>
+<s> to do that, some circuit has to be energized.  </s>
+<s> bob  </s>

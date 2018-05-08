@@ -1,0 +1,16 @@
+<s> i have 2 hard drives in my pc, 1 x wd 40gb with the operating system installed (win xp home) and 1 x 80gb seagate that is used for data storage (digital photo's).  </s>
+<s> the seagate is about 2 months old and for the first five or six weeks always had an uncached speed of 50 to 55mb/s, but recently the uncached speed has suddenly dropped to 20 to 22mb/s. the wd has constantly remained in the region of 46 to 48mb/s from the date it was installed.  </s>
+<s> i have tried all of the usual things such as uninstalling the seagate drive and its driver and reinstalling them again, deleting most of the data, running seagates tools, and removing the paging file, even fitting new ribbon cables, all without success as none of these things have made any difference to the uncached speed. the disc manager insists that the drive is healty and there is nothing in the the event viewer system log for any errors or warnings that relate to a source of disk. the sudden drop in uncached speed is a total mystery to me, as the drive is not full, it is showing at present 83% free space.  </s>
+<s> do any members have any thoughts on what may be the cause of this fall in the uncached speed. the operating system is win xp home with a 1ghz p3 and 512 ram  </s>
+<s> i think i might look in the bios and verify the ide port speed is set correct.  </s>
+<s> i might go into device mgr and find the dma setting for that device and toggle it then exit out and test.  </s>
+<s> then go back and retoggle then exit out and retest.  </s>
+<s> see if it gets better or worse.  </s>
+<s> something's got a hold of the registry.  </s>
+<s> clean the system out with a registry cleaner, spyware remover, adware and check for virus. the only other thing i can think of would be to check the spindle speed of the drive.  </s>
+<s> but i doubt that to be the problem.  </s>
+<s> also, check with seagate tech support and ask them if there are issues of the type you describe.  </s>
+<s> and life goes on... jack  </s>
+<s> defrag both drives if you already haven't done so.  </s>
+<s> btw, how full are they?  </s>
+<s> and life goes on... jack  </s>

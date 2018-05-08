@@ -1,0 +1,28 @@
+<s> i'm looking to implement a single proxy server for two different vlans.  </s>
+<s> both vlan have outgoing traffic configured through different isp i.e. traffic for users on vlan1 is routed through isp1 and traffic for users on vlan2 is routed through isp2.  </s>
+<s> inter-vlan communication is enabled. the proxy server should route internet traffic for users in vlan1 through isp1 and for users in vlan2 traffic should be routed through isp2. is this setup possible?  </s>
+<s> if yes, how?  </s>
+<s> because all i would ever need to do is set the default gateway for each lan.  </s>
+<s> i've seen this discussion before and maybe you didn't detail enough to show why a proxy is needed.  </s>
+<s> but for now, it's a bit simple.  </s>
+<s> just a common ip setting.  </s>
+<s> your new networker tends to use a proxy where none is required.  </s>
+<s> bob  </s>
+<s> bob, thanks for your response.  </s>
+<s> can you please elaborate more on this.  </s>
+<s> what do you mean by common ip setting? the two vlan are different subnets and their internet traffic is routed through different wan networks (isp).  </s>
+<s> what hardware/software/tcp-ip configurations does this require?  </s>
+<s> how can we configure the proxy server to route traffic from different vlan to different gateways?  </s>
+<s> i wrote the basic entry and with that i told it all.  </s>
+<s> your goal here is unclear as everything seems to be up and running.  </s>
+<s> a router may do what you want, but i see no reason given for a proxy server.  </s>
+<s> bob  </s>
+<s> -&gt; your question sounds more like something i do with routing.  </s>
+<s> my goal is to use proxy server is for content filtering.  </s>
+<s> also i do not want to procure hardware separately for different subnets.  </s>
+<s> that makes me to think of configuring a single proxy server for different vlan.  </s>
+<s> hardware is cheap.  </s>
+<s> it staff is expensive.  </s>
+<s> a first cut at this would be some box with enough ethernet ports for the job and running the proxy servers in their own virtual machines on say linux.  </s>
+<s> at no time would we connect the lans to each other because of the havoc that would ensue with dhcp.  </s>
+<s> bob  </s>

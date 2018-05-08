@@ -1,0 +1,36 @@
+<s> a bizarre situation that i just don't understand - help really appreciated.  </s>
+<s> i'm running a home wireless network: cable modem to dell truemobile 2300 router.  </s>
+<s> i have a mac wired to the router, and until last week 1 dell desktop and another dell laptop - both running xp - connected via wireless.  </s>
+<s> no problems - everything running fine.  </s>
+<s> last week we moved the dell desktop to another room (closer to the router as it happens) but managed to damage the (belkin g+) pci wireless card in the process.  </s>
+<s> i have replaced the pci card with the exact same model (another belkin g+) but now i can't connect to the router. the best i am getting is &quot;limited network&quot; connectivity i am trying to bypass the belkin wireless utility and get windows to manage the connectivity, but cannot get the &quot;wireless zero configuration&quot; service to remain &quot;started&quot; (it stops every time i reboot) or indeed the option &quot;use windows to manage my network connection&quot; selected in the windows network connection properties.  </s>
+<s> belkin tech support are advising me to change the ssid & channel settings on the router, and that this will &quot;refresh&quot; the connection and &quot;definitely&quot; get the problem fixed.  </s>
+<s> the first problem i have is that the configuration utility is on the ddesktop that now can't connect to the router!! beyond that i just don't understand 1/ why resetting the ssid & channel would fix this without potentially screwing up the (perfect) wireless connectivity with the laptop 2/ why i need to do this at all - all that has changed from the previous scenario is the actual pci card in the desktop (but have swapped for exactly the same type) and the physical location of the desktop. the laptop gets excellent reception in exactly the same spot.  </s>
+<s> my main question is: should i trust the belkin advice (reset the router ssid / channel - bearing in mind this means i have to try and install the config software on the laptop ... for which i don't actually have a cd drive ... and i'm concerned about creating further network problems ....) or is there anything else i should try within windows beforehand?  </s>
+<s> and if anyone could explain why this is happening i'd also be eternally grateful!! thanks in advance  </s>
+<s> i think they gave great advice.  </s>
+<s> i have zero issue with reseting wifi routers and starting over.  </s>
+<s> i decline to discuss why such fails.  </s>
+<s> bob  </s>
+<s> bob forgive me if i misunderstand you but i am totally taken aback at a reply like this from a moderator.  </s>
+<s> this is a support forum.  </s>
+<s> i'm a non-tecchie looking for some expert help.  </s>
+<s> what's the point in posting to inform me that you decline to discuss the problem i'm having because it's never been an issue for you?! if you don't want to give people like me advice what on earth are you doing moderating a support forum?! here's a great reply i got on - this may help you understand what forum users like me are looking for.  </s>
+<s> be advised that you must be wired to the router to change any settings.  </s>
+<s> do not attempt to change router settings wirelessly!  </s>
+<s> any of your computers should be able to access the router while they are wired to it using the correct ip address typed into your web browser.  </s>
+<s> i believe the ip address for the truemobile 2300 router is and the default user name and password is admin.  </s>
+<s> i would not change any settings in the router at this point since both your wireless laptop and wired mac still have internet connectivity.  </s>
+<s> it has been my own personal experience that a wireless connection that connects with a message of limited or no network connectivity indicates a problem with the security.  </s>
+<s> try deleting your dell desktop's connection to your network (and any other networks in the vicinity), and then reconnect to your network.  </s>
+<s> when you attempt to reconnect it will ask you to type-in your security key.  </s>
+<s> if you have forgotten your security key, or just need to verify it, you will need to access your router's settings as i previously described...&quot; i have now fixed my issue, in part thanks to this feedback.  </s>
+<s> i now look forward to this thread being deleted or locked.  </s>
+<s> thanks for all your help  </s>
+<s> you do find some support here.  </s>
+<s> i agreed they might be right and gave you the short answer to move forward.  </s>
+<s> the solution you found is nice and the one the maker supplied would have worked too.  </s>
+<s> sorry but i work many topics here so i don't bother to rewrite the replies.  </s>
+<s> bob  </s>
+<s> sorry if i misunderstood you then bob - my apologies.  </s>
+<s> look forward to posting again soon  </s>

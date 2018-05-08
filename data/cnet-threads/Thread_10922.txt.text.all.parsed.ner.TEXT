@@ -1,0 +1,30 @@
+<s> hello everyone, i am in need of a new software to connect to the internet wirelessly.  </s>
+<s> i currently have a waveplus wp 1200 802.11b wireless pcmcia card on the laptop.  </s>
+<s> it came with the quetec connection software(quetec.ca).  </s>
+<s> unfortunately i believe either the software or hardware is bad, maybe both. the thing connected for a brief few seconds got lost it completely afterwards, the program sometimes can detect wireless networks and says that it connects to them but no browsing or pinging is able.  </s>
+<s> anybody know of a program that is preferrably free that i can use with my adapter to connect to wireless networks(windows me)?  </s>
+<s> if drivers, support, then head to but i see no mention of your wifi router.  </s>
+<s> some do buy such cards but think they don't need to provide the access.  </s>
+<s> bob  </s>
+<s> my router is a wrt54g linksys router.  </s>
+<s> it recognized my laptop because and is in the dhcp active ip table and was connected for a brief few seconds, pulled up google and yahoo, but lost it.  </s>
+<s> but my initial thoughts are... 1. no mention of the gritty details.  </s>
+<s> make/model laptop and most important, who installed that os. here's why.  </s>
+<s> most will install the os but laptop drivers are not something microsoft will install.  </s>
+<s> 2. if the product is defective.  </s>
+<s> return it.  </s>
+<s> 3. try linux.  </s>
+<s> use google.com and see if dsl (damn small linux) can use that card.  </s>
+<s> bob  </s>
+<s> dell inspiron 5000e. the os came with the laptop from store(don't know where, was my a friends laptop).  </s>
+<s> quetecs support is nil.  </s>
+<s> their website doesn't even work.  </s>
+<s> i don't think it works with linux/unix.  </s>
+<s> for compatibility the cards requirements said only windows versions.  </s>
+<s> you don't know how the os was installed.  </s>
+<s> that's alright.  </s>
+<s> now you can dig around dell's site for all the drivers.  </s>
+<s> a clean install of the os and dell's drivers might fix this.  </s>
+<s> before all that.  </s>
+<s> go to some free hotspot and try again.  </s>
+<s> bob  </s>

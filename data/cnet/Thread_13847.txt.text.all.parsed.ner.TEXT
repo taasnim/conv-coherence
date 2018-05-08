@@ -1,0 +1,31 @@
+<s> hi everyone, after upgrading my home network i've been struggling to make sure all wired devices actually take advantage of gigabit connection.  </s>
+<s> any advice will be much appreciated.  </s>
+<s> so first off, my setup: cable modem (22 mbit/s) - linksys ea3500 wi-fi gigabit router - in-wall cables - linksys se2500 gigabit switch pc with gigabit ethernet is connected to router, while in another room i have ps3 and xbox hooked up to the switch.  </s>
+<s> i checked that pc and ps3 use gigabit, however simple data transer over the network yields 7,5 mb/s, which is somewhat below fast ethernet standard and nowhere near gigabit transfer speeds.  </s>
+<s> now i know that theoretical speeds are just a specification, but i had hoped i would get faster that the slower standard i had been on before.  </s>
+<s> and at this speed i know it's not the hdd that is slowning things down as it would be at least 50-150 mb/s for sata drive.  </s>
+<s> i am somehow not convinced that there isn't a bootleneck somewhere, but i can't pinpoint it.  </s>
+<s> i did check all the status lights on switch and made sure the settings are right on any device that is configurable, i am unable however to check if router sends out gigabit signal.  </s>
+<s> any ideas?  </s>
+<s> if you are copying files with windows explorer to/from some other pc or nas, such speeds you noted are normal even with a gigabit network.  </s>
+<s> why is well discussed so i'll suggest you try other speed tests.  </s>
+<s> a common gaffe is home made cables.  </s>
+<s> folk always get the pairs wrong and some are so upset about that that they'll stamp their feet and insist the pairs are 1-2, 2-3, 3-4, 5-6 and 7-8.  </s>
+<s> bob  </s>
+<s> i just downloaded a 1gb file from pc to ps3, timed it and did the math.  </s>
+<s> i know it's not very scientific, but i couldn't find any software that would map the network and test speeds in my configuration.  </s>
+<s> funny thing is, ps3 media server running on my pc reports reaching speeds of 100 mb/s while streaming over the network.  </s>
+<s> not sure how reliable that is.  </s>
+<s> so as you can see, i'm getting mixed signals here.  </s>
+<s> i could theoritcally hook up my laptop on the far end of the network, but it doesn't support gigabit ethernet so i'm confused as how to test it all.  </s>
+<s> as long as you don't have gigabit adapters you can't really test it.  </s>
+<s> but for speed tests i have use ftp or similar tests like you find on google.  </s>
+<s> bob  </s>
+<s> as mr. proffit stated, matching hardware (gigabit).  </s>
+<s> a docsis 3 modem, gigabit router and adapters, n wireless capability in laptop and cat-6 cables for hardwire hook up (s) and maybe result change and of course bandwidth.anything  </s>
+<s> in the system (hardwire) that is not gigabit capable will default system back to 10/100  </s>
+<s> ok, i guess the mystery is solved, today i connected ps3 straight to the wall instead of gigabit switch.  </s>
+<s> and yes, that was my bottleneck.  </s>
+<s> i had forced ps3 to connect at gigabit speed and this time it said the ethernet cable is not connected, so in other words i won't be getting gigabit speeds without tearing my house apart to upgrade cabling.  </s>
+<s> or using a really long cable between the rooms, but that is far from neat.  </s>
+<s> thanks for your help, guys.  </s>

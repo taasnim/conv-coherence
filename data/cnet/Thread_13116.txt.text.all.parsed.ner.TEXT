@@ -1,0 +1,36 @@
+<s> hello my wre54g is giving me problems.  </s>
+<s> whenever i try to log into the webpage to configure it (192.168.1.240) it does not load.  </s>
+<s> i have it wired to my router (wrt150n) and have tried accessing it from a windows 7 wireless connection and a windows vista ethernet connection.  </s>
+<s> but both can't access the page.  </s>
+<s> i have tried holding the reset button for 15 seconds and still the same thing.  </s>
+<s> i was able to access it before but had to reset it for some reasons... anyone with some help??? thanks, tony  </s>
+<s> shows this is a range expander.  </s>
+<s> to access that after a reset we have to set it to pair with our router first.  </s>
+<s> this is far from automatic.  </s>
+<s> &quot;if the wireless network is secured, you cannot use the range expanders auto configuration button.&quot; and i see if your pc is connecting to the router, you can't configure the range expander.  </s>
+<s> ouch.  </s>
+<s> this one is a bit tough on owners.  </s>
+<s> i bet a lot get returned.  </s>
+<s> try this.  </s>
+<s> turn off the router then turn on the extender.  </s>
+<s> now reboot the pc and see if it picks up the extender and try the setup per the instructions.  </s>
+<s> at some point you can configure the extender and tell it how to connect to the wifi router.  </s>
+<s> bob  </s>
+<s> &quot;try this.  </s>
+<s> turn off the router then turn on the extender.  </s>
+<s> now reboot the pc and see if it picks up the extender and try the setup per the instructions.  </s>
+<s> at some point you can configure the extender and tell it how to connect to the wifi router.&quot; the extender has a power plug and a ethernet cable.  </s>
+<s> i might sound stupid, but i can see the extender in my wireless connections, but it fails to connect... if i turn off the router where do i plug the ethernet cable into?  </s>
+<s> i have been able to access it before but for some reason it stopped working and i cannot access it.  </s>
+<s> i usually access it by plugging the ethernet cord into the back of the router, then just type in the ip address.  </s>
+<s> we can't run ethernet and wifi at the same time.  </s>
+<s> as to explaining all this i must decline.  </s>
+<s> i offer ideas on what i would try along with references to the manual.  </s>
+<s> in the faq from the maker the setup should work.  </s>
+<s> if not we call it defective and ask for a refund.  </s>
+<s> it's that simple.  </s>
+<s> if the makers can't get the instructions to the point we can use the products they deserve the returns.  </s>
+<s> again, i used their faq and my experience to see if we could find another way to setup.  </s>
+<s> it's possible your lan is not on that address range but i would be guessing that.  </s>
+<s> by using wifi and no router the extender may be reachable.  </s>
+<s> bob  </s>

@@ -1,0 +1,37 @@
+<s> hello guys im having a problem with my amd athlon xp 3200+ it should be able to run at 2.2ghz, but at the moment its only running at 1.8ghz... this is the manual for my motherboard: i have 1gb or corsair ram, pc2700.  </s>
+<s> 250hd.  </s>
+<s> bfg tech geforce 6800gs 256mb.  </s>
+<s> windows xp home.  </s>
+<s> heres a pic of my processor info taken with cpu-z: (its showing as an 2500+ becuase its running at 1.8 ghz, the same speed as a 2500+) in my motherboard manual, it says that it can support upto an amd xp 3200 so i dont know what the problem is.  </s>
+<s> any help would be great, thanks.  </s>
+<s> im running pc2700 ram, my motherboard can support pc3200, but on in 2 slots.  </s>
+<s> is that you are not using ddr400 [pc3200].  </s>
+<s> the cpu speed is determined by the memory clock speed times the multiplier in the cpu.  </s>
+<s> check your bios settings, possibly you have set the memory speed even lower. the bios normally uses the actual memory clock speed 166 mhz rather than the equivalent ddr speed 333 mhz [or 200 mhz rather than 400 mhz for the pc 3200]  </s>
+<s> i have the same cpu and cpu-z recognizes it correctly.  </s>
+<s> try downloading the latest version of cpu-z or just doing a fresh install.  </s>
+<s> look under the system info in xp, if it says xp3200+ then i wouldn't be concerned about it.  </s>
+<s> i have a question though for you.  </s>
+<s> i have a similarly configured system: amd athlon xp 3200+ 2x512mb pc3200 ati x1300pro 256mb 160gb hd 7200rpm what kind of games do you play?  </s>
+<s> do you experience any lag while playing half-life 2 due to the cpu?  </s>
+<s> sometimes i get some studdering and freezes while running.  </s>
+<s> shutting down background apps helps quite a bit, but occasionally i still get some problems.  </s>
+<s> i was wondering if it was due to the low clockspeed at 2.2ghz.  </s>
+<s> my amd system consists of an asus a7n8x mobo, 3200+ cpu, 1gb corsair pc-3200 (ddr-400) xms memory running in dual channel and an evga geforce 6800 gt vga card.  </s>
+<s> playing half life 2 i experienced what you mentioned.  </s>
+<s> i can turn off the antivirus and this greatly helps but doesn't eliminate the occasional pauses.  </s>
+<s> on my other pc; an asus p5nd2-sli with a pentium 4, 3 gh (630) cpu, 1gb pc2-4200 (ddr2-533) crucial ballistix memory running in dual channel and an evga geforce 7800 gt co, still has occasional pauses but not as bad as the other system.  </s>
+<s> i think it's inherent in the game.  </s>
+<s> according to that it appears to be a big issue that is not related to just the cpu.  </s>
+<s> apparently valve has released several patches to remedy the problem.  </s>
+<s> looks like it didn't work, oh well.  </s>
+<s> yes it seems cos i was using ddr 333 and not ddr400 thats why it was happening but weird cos going by the manual it did state that it did support ddr400 well it seems that aint the case so a new mainboard will be on the cards.  </s>
+<s> thankyou for your replys...  </s>
+<s> failed to support ddr 400 as advertised.  </s>
+<s> i believe that asus refused to replace the mobos, although they should have.  </s>
+<s> maybe get on their back, start nicely, and then get tough.  </s>
+<s> maybe they'll replace it.  </s>
+<s> i think that they came out with an a chipset that did support 400 mhz.  </s>
+<s> that is the one weakness for amd cpus.  </s>
+<s> amd does not make chipsets and are the mercy of via and sis.  </s>
+<s> now that nvidia has joined in, things are a little better, but still some glitches.  </s>

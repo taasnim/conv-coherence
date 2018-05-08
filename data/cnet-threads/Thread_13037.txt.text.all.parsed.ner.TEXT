@@ -1,0 +1,90 @@
+<s> hi all, think this is probably my first ever post here.  </s>
+<s> anyways, my matter is as follows: i do a lot of scientific computing on my desktop, runing r or occasionally matlab codes. the programmes run for several hours typically.  </s>
+<s> the calculation is mostly simple +-*/^, just that the number of iterations is usually very very large.  </s>
+<s> and quite often, i work with high dimension matrices.  </s>
+<s> as my old dell desktop is dying, i am starting to plan next work station and i would love to build one by myself.  </s>
+<s> my key question is which specification should i be after? is it a fast cpu?  </s>
+<s> lots of memory?  </s>
+<s> l2 cache?  </s>
+<s> i don't really have a clue.  </s>
+<s> don't know if this is feasible at all, but i have a budge round 500 (or $800) for mobo/cpu/memory/case/psu.  </s>
+<s> thanks a lot!  </s>
+<s> what i'd do is copy someone's working machine.  </s>
+<s> also, your os and software will eat up most of the budget so you may have to consider the intel i3 cpu.  </s>
+<s> bob  </s>
+<s> thanks for the quick response!  </s>
+<s> my budget is only for the listed hardware.  </s>
+<s> all the software and os is either free or transferable from my old pc so not a problem.  </s>
+<s> i have a worry that most branded work stations are for rather &quot;general&quot; purposes whereas i am hoping to make a well tailored one specifically for my needs.  </s>
+<s> also i have asked around my friends who work on similar things, they all seem to be happy with their current settings (mostly core2duo, a few i3 i5).  </s>
+<s> maybe i am a bit impatient, but at least i'd like to try and see if i can make a change  </s>
+<s> &quot;i have a worry that most branded work stations are for rather &quot;general&quot; purposes&quot; if it is that special purpose then why would we consider a general purpose computer?  </s>
+<s> sorry but let me introduce myself.  </s>
+<s> i'm one of those folk that designs embedded computers and other solutions. the reason we use general purpose computers on intel and such cpus is they deliver a big bang for the buck.  </s>
+<s> these are not considered &quot;specific purpose&quot; like a recent design had with a rack of dsp (digital signal processing) cpus.  </s>
+<s> i'd reconsider a nice ready to use intel i7 machine.  </s>
+<s> bob  </s>
+<s> so back to my original question, if you don't mind, with a constrained budget as mine, should i invest in cpu, memory, mobo or a bit of everything?  </s>
+<s> could you recommend some ready to use machines?  </s>
+<s> thanks.  </s>
+<s> the usual 4gb intel i7 powered machine.  </s>
+<s> even a dell might be found for that if you don't go with gamer video cards.  </s>
+<s> too bad the machine you use today was not revealed.  </s>
+<s> it could serve as a point of reference.  </s>
+<s> such as it's 2gb versus 4gb.  </s>
+<s> why it matters is that 4gb is not double 2gb.  </s>
+<s> it's much more than that since the os ate a little (?) of that 2gb.  </s>
+<s> i see folk going overboard on such things.  </s>
+<s> bob  </s>
+<s> your budget limits you imo.  </s>
+<s> you maybe better to get the absolute best cpu you can afford with some ram. the ram you can add more later.  </s>
+<s> your s/w must be capable of using whatever it has available so if the cpu being muliple core gets full usage under demand, etc.. the ram alone is highly desirable as it needs that to breathe sorta speak and flex its muscles.  </s>
+<s> while the i5 class of cpu maybe costly compared to i3, you would be better served and the cpu cache should be at least 4m, better if possible. the i3 is more of entry level or offering on a budget.  </s>
+<s> besides intel, amd offers good cpus too, but imho sticking with intel would be a better choice.  </s>
+<s> check the intel support website and locate the specs of i3 and i5 and compare, amd too if you like.  </s>
+<s> a work station is more of a workhorse rather than a home desktop and speed isn't usually the main factor, its what it can do for long periods and/or tasks.  </s>
+<s> as robert pointed out, see what a workstation consists of and see if you build similar.  </s>
+<s> i definitely would look for many ram slots and the mtrbd.  </s>
+<s> chipset and in many cases video is build-in and shouldn't be a big factor in your final system.  </s>
+<s> effectively you want raw power rather than speed.  </s>
+<s> cooling should be a must too and darn good big case to house it all.  </s>
+<s> help??? tada -----willy  </s>
+<s> is a start.  </s>
+<s> i see a dell with the i7 at 899 which isn't bad for a ready to use machine considering the i7 alone is a big chunk of the outlay.  </s>
+<s> [object nodelist];resultsshell bob  </s>
+<s> i learnt a lot from reading your posts.  </s>
+<s> thanks robert.  </s>
+<s> my current pc is a dell dimension 5100 with core2duo e6400 and 2g memory, which i purchased years ago.  </s>
+<s> i doubt if there's anything in there valuable for my new pc, so i am planning to convert it into a media pc to use with my tv. i guess i will play with an i7 setting for a bit and see how the price come together.  </s>
+<s> cheers.  </s>
+<s> thanks willy for the details.  </s>
+<s> that link seems interesting - i guess the mindset for building workstations hasn't changed so much as the actual hardware.  </s>
+<s> i am a little confused by your post's title though, because i monitor the memory usage when my programme runs and i have never run out of memory.  </s>
+<s> so will more ram still be helpful in that situation?  </s>
+<s> my work, works well on laptops.  </s>
+<s> over the past decade i've moved from compaq r3000 with amd 64 2ghz single core to hp amd dv6000 x2 turion to hp dv6 core2duo to what i use today which is a dell i15r 2646mrb with intel's i5 6gb ram and more.  </s>
+<s> each has been a nice step up.  </s>
+<s> i knew not to go to the i7 for a laptop so i wait for the next advance before i consider anything more powerful.  </s>
+<s> the dell was only 749 and my only quibble is the lcd is barely acceptable but for the price it's quite a deal.  </s>
+<s> -&gt; i have this computationally intensive app i wrote that sifts through some 4 billion number sets and it completes in 10 or so minutes.  </s>
+<s> for me, this is fast enough.  </s>
+<s> if the i7 is out of the budget, the i5 is quite nice.  </s>
+<s> my core2duo took about twice as long.  </s>
+<s> bob  </s>
+<s> the statement ram adds speed is disproved many times.  </s>
+<s> mind you that those with scientific or math routines to run are the ones that can dish it out on that statement.  </s>
+<s> on my dell i can unplug 2gb and my 4 billion sifting app completes in exactly the amount of time it did with 2gb more.  </s>
+<s> for me this is proof the ram does not add speed.  </s>
+<s> also, if hibernate my 4gb setup, hibernation completes many seconds sooner and it wakes up faster with less ram.  </s>
+<s> wow, what goes here?  </s>
+<s> less ram is faster?  </s>
+<s> bob  </s>
+<s> a system will fall back on &quot;virtual memory&quot; using the hd as if ram.  </s>
+<s> so, you may not see this as a factor or more so.  </s>
+<s> i suggeted getting the best cpu now rather than later as that's a major cost of a new system. the ram usually is capable, say you get 4gb for starters, you can add later if the need arises.  </s>
+<s> i'm sure that's more than your current old pc. i would also like to add the benefits of x86-64bit os, which leads me to think you're using a 32-bit version of os. the 64-bit version will better handle mutiple core cpus and/or make use of it, but the s/w should be ready for such, is it?  </s>
+<s> if your s/w is 64-bit capable even though though 32-bit will run it may find a better world with 64-bit, however i don't get into s/w matters that much any more, other than reading the details of it.  </s>
+<s> further as i already stated check with vendors what they offer in details/specs and you can upgrade abit when you build and get better system as that's open to you.  </s>
+<s> tada -----willy  </s>
+<s> i appreciate all your replies. the points are clear.  </s>
+<s> i'll start looking around and checking with the big vendors (lots of work to do).  </s>

@@ -1,0 +1,27 @@
+<s> curently i am using win2k3 sp2.  </s>
+<s> my problem is currently my sony dvd-rw can't read dvd but can read regular cds.  </s>
+<s> i tried on other os(win2k8) its is working fine.  </s>
+<s> from my device manager under dvd/cd-rom drives i can see sony dvd rw aw-g170a.  </s>
+<s> several times i have unistalled it and primary ide channel,secondary ide channel but problem persist.  </s>
+<s> under my computer i can see cd drive(g:) and some time it shows dvd ram.  </s>
+<s> i think the problem statred when i made a usb bootable windows xp from my system with bartpebuilder and ultra iso and some setting has been changed in my system.  </s>
+<s> any help is appreciated  </s>
+<s> &quot;digital versatile disk&quot; have video, data and we also have those udf packet type media.  </s>
+<s> each one has its own issues to solve.  </s>
+<s> you didn't tell which type of dvd was tested.  </s>
+<s> as it stands you could reload the os? bob  </s>
+<s> hi, bob i have sony dvd-rw but i cant read the media and when i see the properties system says &quot;my computer not responding&quot;.  </s>
+<s> i cant read any dvd data from it but can read only regular cds' but on other os or system it works fine.  </s>
+<s> &quot;dvd data&quot; could be one of those packet writing udf dvdrw media.  </s>
+<s> for that, all versions of windows would fail.  </s>
+<s> nothing busted so far.  </s>
+<s> just that no one knows how you made the dvdrw yet.  </s>
+<s> tell just a little more.  </s>
+<s> bob  </s>
+<s> i think its 'dgital versatile disk'.  </s>
+<s> two days back i can read bootable win2k8, i can play movies and read data as well.  </s>
+<s> it could read any data.  </s>
+<s> but i think some configuration changed in os because i tried to make bootable usb with bartpebuilder and ultra iso after that it shows problem.  </s>
+<s> so go back with system restore, uninstall all the junk!  </s>
+<s> or just format it.  </s>
+<s> good luck, bob  </s>

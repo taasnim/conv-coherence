@@ -1,0 +1,36 @@
+<s> have just upgraded from gigabyte ga-6wmmc7 mobo with p3 cpu having on board graphics, dual screen facility easily obtained using an old amc pn 109-40600-10 pci graphics card.  </s>
+<s> this card has proved more than adequate for my non gaming needs.  </s>
+<s> new mobo is gigabyte ga-p35-ds3l without on board graphics, intel 3.2 gb core 2 duo cpu with 4 gb kingston balistix ddr2 ram.  </s>
+<s> i bought new msi rx300hm graphics card for pci express x 16 slot.  </s>
+<s> both graphics cards use ati drivers.  </s>
+<s> i use windows xp home on dismantled and new systems.  </s>
+<s> i have read the forum posts with great interest but my problem seems different.  </s>
+<s> no matter  </s>
+<s> while the title tells of screen failures your post writes about some pc. read your post and tell more.  </s>
+<s> sorry but i might have a gremlin.  </s>
+<s> no matter which graphics card is inserted and functioning correctly, when i insert the second graphics card and boot up, i hear the correct single beep from post but neither screen will light up with a display and allow me into xp where i should be able to get things correct.  </s>
+<s> as a newbie, any help or ideas offered will be most welcome.  </s>
+<s> does the screen show the bios screen?  </s>
+<s> if not, you need to find out why. could be a missing power plug to the video card (some, not all have that.)  </s>
+<s> thanks for the response, yes i can get the bios from either graphics card but when using older card the display is so much slower that perhaps i was fooled into thinking it had failed.  </s>
+<s> this older card is an amc pn 109-40600-10 (ver 2.0)requiring an ati technologies 3d rage 2c driver.  </s>
+<s> i googled the card id and found that this card appears to be an apg card.  </s>
+<s> could this be a hybrid, agp circuitry on a pci format card and could this be part of the problem?  </s>
+<s> my new msi card requires an ati radion x300 driver, is it possible that these two ati drivers are in conflict within xp? in the xp device manager the ati 3d rage 2c has a yellow circle with a black exclamation mark.  </s>
+<s> in add programs wizard it says cannot start code 10. google says code 10 is a registry error.  </s>
+<s> ms xp help????? and support????? instruct to get sp 3, done that but no improvement.  </s>
+<s> the instant that i remove the msi card this error indication disappears, put the msi card back in and the error indication returns.  </s>
+<s> ms says cannot help, look elsewhere.  </s>
+<s> by swapping monitors on each card and changing the card start up priority in bios i can prove that both cards, card slots and monitors are all functioning perfectly, i must assume therefore that the motherboard is also functioning to spec.  </s>
+<s> right now i am at my wits end because these two cards will not work and give me the dual monitors that i need.  </s>
+<s> &quot;could this be a hybrid, agp circuitry on a pci format card and could this be part of the problem?&quot; i may have missed something in your all capital letter hard to read post.  </s>
+<s> but agp, pci, etc is the card format and not the card circuitry.  </s>
+<s> one thing leads to the other being used.  </s>
+<s> there is no reason for me to continue on any discussion about this. it is what it is.  </s>
+<s> pci is pci, agp is agp, etc. it sounds to me like you don't have a hardward issue (this forum's area of discussion) but can't find how to install drivers proper for your system.  </s>
+<s> for that you often have to research the errors or find someone to install it for you.  </s>
+<s> i also find some that have not followed the install notes.  </s>
+<s> we find the antivirus, antispyware, firewalls active during the install and sometimes that interferes which is why you find notes in the install notes about that.  </s>
+<s> so here we are some posts later and now its revealed you have a working single display system.  </s>
+<s> that's good so now contact the support desk you use to sort how to install drivers.  </s>
+<s> bob  </s>

@@ -1,0 +1,22 @@
+<s> hi everyone: i notice that when using word 97 my cpu temp shoots up dramatically.  </s>
+<s> this does not happen at all with openoffice.  </s>
+<s> my pc's got windows xp home, 250 ram, p4 2.4 ghz.  </s>
+<s> can anyone explain this?  </s>
+<s> all cpu's will heat up when they are busy, openoffice is open source and as with most open source programs and os's it's light and easy on hardware, whereas microsoft word is more heavy and power hungry, can i ask what tempreatures you are experiencing, normal running 50oc could be acceptable, but more than that and you are looking at instability and a reduced lifetime.  </s>
+<s> that's not compatible with xp and it's a known bug.  </s>
+<s> microsoft will not be issuing a fix.  </s>
+<s> while word 97 does run, it has this and at least two other bugs.  </s>
+<s> again, no patch will be arriving for these issues.  </s>
+<s> ever.  </s>
+<s> forget about it.  </s>
+<s> what to do?  </s>
+<s> - endtask word when it hangs like that.  </s>
+<s> - try the usual word cureall.  </s>
+<s> delete all normal.dot  </s>
+<s> files.  </s>
+<s> - go get open office from and use it instead.  </s>
+<s> sorry about that, but i have to be direct and brutal about this issue since i found if just be subtle, people miss the message.  </s>
+<s> bob  </s>
+<s> oh, sorry i didn't know about the bug, wish i could have been more help, but i still think you should post your temps, so you can make sure that your cpu is ok, even if not your motherboard probably had failsafe procedures anyhow, why not upgrade office, the student editions are reasonable priced.  </s>
+<s> thanks for your advice.  </s>
+<s> not sure how high cpu temp might reach but it gets to 55 - 56c pretty quickly and that's when i decide to close down word 97. do you think word xp would be more compatible?  </s>

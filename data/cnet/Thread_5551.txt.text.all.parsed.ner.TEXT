@@ -1,0 +1,33 @@
+<s> i'm looking into setting up a system for a customer that wants to boot from an external drive and have no internal drive.  </s>
+<s> this is the control computer for a device that will be used in several locations.  </s>
+<s> they want to isolate the use of each disk drive to a specific location for security purposes.  </s>
+<s> i'm using a dell optiplex gx270. the system has usp 2.0 ports, but i'd consider ieee 1394.  </s>
+<s> has anyone tried this? will the system recognize the external drive as the only drive and boot from it?  </s>
+<s> are there any special considerations for the installation of winxp pro?  </s>
+<s> thanks, dan .  </s>
+<s> if your setup allows boot from other, network or scsi then you should be able to do so.  </s>
+<s> don't believe you can boot from usb.  </s>
+<s> i could be wrong but believe usb is loaded following boot to allow for hot swapping.  </s>
+<s> there is no reason the ide connects cannot be routed to a rear connector and a hard drive placed in an enclosure with separate power.  </s>
+<s> everything internal will need to be exactly the same as i'm sure you are aware.  </s>
+<s> i've yet to see winxp pro boot from an usb 2.0 drive.  </s>
+<s> it's not supported.  </s>
+<s> what is done is drive racks.  </s>
+<s> then the drive is removable.  </s>
+<s> what make put the kabosh on windows xp is that it's activation may kick in on each hard disk and you'll need a license for each install of windows xp. this could add some expense you were not expecting.  </s>
+<s> do investigate this.  </s>
+<s> dell has supplied drive racks for years.  </s>
+<s> bob  </s>
+<s> now that is supported, and here's an external case... just for example.  </s>
+<s> the xp license issue may bite the budget.  </s>
+<s> bob  </s>
+<s> dell tells me that this should just, plain work.  </s>
+<s> i was a bit surprised to hear it, but it's their system and i can't readily argue the point without trying it.  </s>
+<s> in any case, it's not going to be that cheap for the customer, so we'll see what they want to pay for.  </s>
+<s> thanks, dan .  </s>
+<s> one of our laptop users made the mistake of leaving his usb floppy drive locked in a drawer in his locked office where anyone could get at it.  </s>
+<s> so i borrowed it for a little while to test the handling of usb booting.  </s>
+<s> i disconnected all internal drives and was able to boot successfully right off the bat.  </s>
+<s> so i'm pretty hopeful that it'll work.  </s>
+<s> thanks for your input.  </s>
+<s> dan .  </s>

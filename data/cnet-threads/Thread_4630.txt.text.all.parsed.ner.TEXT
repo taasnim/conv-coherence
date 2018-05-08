@@ -1,0 +1,20 @@
+<s> hp office jet j6400.  </s>
+<s> (computers use vista) hp did an automatic fix, then sent a message that i might have to reinstall the software, because i might lose my wireless connection.  </s>
+<s> i did.  </s>
+<s> my problem: i have two computers and problem is with both.  </s>
+<s> i reinstalled the software.  </s>
+<s> the computer recognizes my wireless network name but when i enter my &quot;key code&quot; it will not accept it.  </s>
+<s> this is the correct code.  </s>
+<s> result is that my printers will not work with the computers.  </s>
+<s> also my wireless connects with all of my other hardware in the house.  </s>
+<s> so no problem with the wireless.  </s>
+<s> help please  </s>
+<s> i fixed one like this recently.  </s>
+<s> they had some firewall software and after i added this to its allow list they remember they had to do that before as well.  </s>
+<s> what made them think it was not the firewall was that the printer was found and there was that key code box.  </s>
+<s> i uninstalled the firewall software during setup and later, after the printing was working reinstalled the firewall which is when the popup popped up to ask for permission for the printer connection. the ugly part of this was the popup did not mention it was for the printer but i knew that was what it was for.  </s>
+<s> imagine that. the makers think we know this.  </s>
+<s> bob  </s>
+<s> that was exactly the problem.  </s>
+<s> i find the constant stream of updates from hp a real annoyance.  </s>
+<s> really appreciate your help  </s>

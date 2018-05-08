@@ -1,0 +1,17 @@
+<s> i recently installed an old epson 580series printer as indicated by the manufacturer's cd, where clearly states that it should be used instead the windows wizard for new hardware.  </s>
+<s> well, my pc (win xp pro) &quot;accepted&quot; both the drivers and the hardware and everything seemed ok, but now, whwenever i start my pc, it shows the &quot;new hardware....&quot; window and asks for its installation.  </s>
+<s> i simply click on &quot;cancel&quot; and things go normal...printer is still there and working!  </s>
+<s> but how can i tell xp -for good- that there's already a printer?  </s>
+<s> &quot;the&quot; days have gone when you install manufacturer's driver's instead of windows driver's unless they have been certified - those cd's you have probably were written with win9x in mind.  </s>
+<s> in short delete the driver you have - reboot and see what winxp installs for you - if you are not happy with the winxp version go to &quot;device manager&quot; and ask to update the winxp driver - then say have disk and search the cd for the *.inf files - and then force xp to accept the one from the cd (ignore it if you are told the driver was not written for your printer).  </s>
+<s> any problems let me know peter  </s>
+<s> uninstall printer.  </s>
+<s> then reboot, and let windows look for a driver.  </s>
+<s> if it's an older printer, chances are windows won't find a driver for it, and will ask you if you want to install from disk, or other.  </s>
+<s> then use your cd, and tell windows to install from there.  </s>
+<s> this should do it for you, and windows may be happy that it has done it's job of bugging you  </s>
+<s> think you said the same thing, but better than i did.  </s>
+<s> just too close to call for this &quot;g&quot; rated forum.  </s>
+<s> no offense please, just too close to call so i deleted it.  </s>
+<s> bob  </s>
+<s> gee...thanx...that's an answer!!!  </s>

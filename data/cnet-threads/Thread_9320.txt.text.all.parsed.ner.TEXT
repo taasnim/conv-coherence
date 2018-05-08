@@ -1,0 +1,37 @@
+<s> windows xp home edition dell xps 600 hp deskjet 812c this hp 812c was on a dell l800r w/windows me. it had a parallel connect and bidirectional communication capabilities.  </s>
+<s> to connect to xp i had to change the cable to usb connection.  </s>
+<s> installed per cable instructions and also per hp instructions.  </s>
+<s> printer is identified correctly and usb port show usb001 virtual printer.  </s>
+<s> when trying to configure port i get an error message: &quot;an error occured during port configuratiion.this  </s>
+<s> operation not supported&quot; the check box for &quot;enable bidirection support&quot; is greyed out you cannot check it.installed  </s>
+<s> new driver from xp. during boot of xp the add hardware wizard will open and a popup stating &quot;new hardware detected&quot; and indicates the printer is not installed. the printer will printer if you turn it on but will not turn on and print if you hit print in an application.  </s>
+<s> it always printed in me when you hit print and you had enabled bidirectional support.  </s>
+<s> did i end up with a wrong cable.  </s>
+<s> thanks for the help ray  </s>
+<s> the drivers are not correctly installed.  </s>
+<s> the driver for a usb connection may be different than for a parallel connection.  </s>
+<s> when the correct driver is installed, the printer should be recognized as hp 812c printer.  </s>
+<s> if you no longer have the driver cd for the printer, you can visit the hp website to check for the proper usb driver for the printer.  </s>
+<s> best of luck  </s>
+<s> thanks for the reply: i did a search of the hp website for usb drivers for xp and deskjet 812c with no success.  </s>
+<s> finally sent hp support a question about my problem.  </s>
+<s> their answer was the same old &quot;basic sediment and water&quot; i always get from those folks: &quot;deskjet 812c printer does not have auto on feature&quot; why did it work for 5 years on me as auto on mode??? there are no drivers for this printer that are specific to usb.  </s>
+<s> they are saying possibly usb controller corrupt.  </s>
+<s> my keyboard and mouse and connection to lcd monitor are all working properly they are all usb ports.  </s>
+<s> too say the least i have not gained any further knowledge from hp support than from their knowledge base.  </s>
+<s> again thanks for your help ray  </s>
+<s> purchase usb to parallel coverter, or you can install a pci card (parallel port}.  </s>
+<s> this will give you the parallel port connection.  </s>
+<s> of course there's no guarantee that the bidirectional support will be available.  </s>
+<s> would that get me back to lpt1 or would it still use usb001 then would i use the driver software that came with the printer or an updated driver from hp. not familiar with pci card with parallel port.  </s>
+<s> which would be more likely to give me bidirectional thanks ray  </s>
+<s> i can't honestly tell you how a converter would be recognized by the computer.  </s>
+<s> however a pci card would certainly be recognized as a parallel port or lpt 1, etc. i can't tell you that bidirectional support will be restored, but it will give you a parallel port to connect the printer to the computer.  </s>
+<s> this is one such card:  </s>
+<s> was getting a similar problem - except that the printer worked fine after just starting the pc - but after a short while - nothing, with the same error message.  </s>
+<s> if yours is the same problem i dont think it has anything to do with cables.  </s>
+<s> instead, check if the usb port to which your printer connected does not automatically power off.  </s>
+<s> if it does, the virtual printer port associated with usb001 port is disconnected.  </s>
+<s> to fix this, open 'control panel &gt; system &gt; device manager' - then open 'universal serial bus controllers' - find the usb port to which the printer is connected (probably one of the 'usb root hub' connections - rt-click &gt; properties - then on the 'power management' tab - de-select &quot;allow the computer to turn off this device to save power&quot;.  </s>
+<s> assuming yours is the same problem as i had - this should fix the problem.  </s>
+<s> good luck to you.  </s>

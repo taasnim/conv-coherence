@@ -1,0 +1,49 @@
+<s> so the deal is that i recently bought a nas device for our office network, which is a simple windows configuration (not running windows server 2003, no domains or anything).  </s>
+<s> as such, nobody logs into the network.  </s>
+<s> each workstation is simply assigned to a windows network group.  </s>
+<s> i have the nas (a western digital mybook world edition ii 1tb) connected via ethernet to our cisco catalyst 2950 router and mapped it on all the workstations without any problems.  </s>
+<s> everything is almost perfectly.  </s>
+<s> each of the workstations are connected on the network via the cisco router and each workstation is operating on windows xp for what it is worth. the drive, by the way, comes with a shared storage manager tool that allows me to create cif shares and assign rights (non, read only, or full) to network users.  </s>
+<s> the problem i'm having is that the shared rights aren't working properly.  </s>
+<s> i set the minimum permissions to a share as read only, for example, and everyone can read from that share just fine.  </s>
+<s> if i assign full rights (read and write) to specific users for a particular share, they are still unable to write (only can read).  </s>
+<s> so that is my stumbling block.  </s>
+<s> among the 20 users, i want only three people to be able to write to a particular share and the read to be read only.  </s>
+<s> any thoughts on where to begin diagnosing my problem and solve it?  </s>
+<s> can i eliminate the use of western digital's shared storage manager and control rights levels to the shares via windows networking and, if so, how i would do that?  </s>
+<s> thanks.  </s>
+<s> most of us returned that unit since it's busted.  </s>
+<s> bob  </s>
+<s> bob, back in may of '07 i bought one of these units for use at home and i have not had a single problem with it.  </s>
+<s> based on that experience, i thought it would be a good addition for network storage in our small business environment.  </s>
+<s> this, by the way, is our first foray into nas.  </s>
+<s> i call this one busted. the software they supplied is too far out of touch with today's owners.  </s>
+<s> it's also buggy.  </s>
+<s> if you can't use it, return it.  </s>
+<s> i'd be interested in what you mean by &quot;out of touch with today's owners&quot;, since i am relatively new to this part of networking. the good news is that yesterday, after refining the way i assigning the share rights, i have everything working the way i need it to for our purposes.  </s>
+<s> users who need the ability to read/write to specified shares are able to do so, while those that should be read only have just that.  </s>
+<s> in the process i think that i did discover on of the shared storage manager's quirks.  </s>
+<s> it provides a condition for establishing minimum rights for all users to a given share as none, read only, or full.  </s>
+<s> i took it to mean that i could set the minimum right to read only across the board and override it with full rights where applicable.  </s>
+<s> that did not provide the desired results.  </s>
+<s> however, when i set the minimum rights to non, then specified each user as either read only or full as needed then i did achieve the desired results.  </s>
+<s> the kicker is that the windows dialogue box for user name/password pops up for each user when they try to access the share.  </s>
+<s> somewhat inconvenient, but the users and i can live with that.  </s>
+<s> another bug i discovered is that if you create a user name more than once, but with different casing (all upper for one, mixed u/l for another) the software sees both instances as a single user in the user management.  </s>
+<s> however, when looking at the individual shares it then sees both user names with the casing differentiation.  </s>
+<s> it was somewhat tricky to then remove one of the duplicate entries. the duplicate entries were, however, confusing the network and one of them did have to be removed.  </s>
+<s> as an aside, the day i posted the original questions here i also submitted the same question to western digital support.  </s>
+<s> as of today, two days later, all i have received is the automated response stating that follow up should occur within 24 hours, but could take as long as three days.  </s>
+<s> there's a long list of files it forbids.  </s>
+<s> a very strange device.  </s>
+<s> as i think i mentioned earlier on, i also have one of these devices at home.  </s>
+<s> i'm able to stream mp3's and video over my wireless network at home without any problem (the drive being connected to my wireless router).  </s>
+<s> if you're referring to streaming mp3's or other files remotely over the internet without having a full and paid mionet subscription i think that is another story.  </s>
+<s> i will agree that the device has some very odd tendencies.  </s>
+<s> one of those being the inability to access folders i created in the root directory via windows (so they are non cif shares)when i had mionet installed.  </s>
+<s> i discovered i don't have much use for remote access, so i then uninstalled mionet but could no longer access those folders or the root directory itself.  </s>
+<s> i had to reinstall mionet, drag those folders to the public directory, and then uninstall mionoet again.  </s>
+<s> now, however, i can read those folders but can not delete them or their contents and still don't have access to the root directory.  </s>
+<s> talk about a quirk.  </s>
+<s> having learned some of the things i know now i wouldn't recommend it and would have looked to other alternatives, but again you can chalk this up to my learning curve on nas.  </s>
+<s> appreciate the discussion, btw.  </s>

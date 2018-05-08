@@ -1,0 +1,28 @@
+<s> hi, i was about to purchase 2 seagate 300gb hard drives (seagate as they have 5 yr warranty) with the intention of setting up a simple raid so that my data is mirrored across both drives, hence 2 copies of the same data, i believe its called raid 1, ofcourse i want the raid purely for backup reasons.  </s>
+<s> i was all ready to go however a friend of mine told me that if my motherboard was to give up the ghost i would lose all my data unless i find the exact same motherboard and plug the hard drives in, this worried me as the whole point of setting up a raid is to have data protection, my thought was there is nothing fancy going on, just a simple copy of data will exist on both hard drives, i mean i thought even if i take both hard drives and put it in a totally different machine i can setup raid 1 mirroring again if needs be and it wouldnt be a problem.  </s>
+<s> my motherboard is the abit kn8 series with the nforce4 chipset, i think the raid utility built into the motherboard is by nvidia but not 100% sure on that.  </s>
+<s> any help or answers will be very much appreciated as i'm very confused!  </s>
+<s> thanks  </s>
+<s> that it's not a viable backup system.  </s>
+<s> for years i've seen this one as owners scream as the virus duplicates on both drives or wipes both drives at the same time.  </s>
+<s> if the os makes a mistake, then it's dutifully copied to the mirror.  </s>
+<s> no sale here.  </s>
+<s> i won't write how the delete key figures into this one.  </s>
+<s> bob  </s>
+<s> you've brought up some interesting points, i'm not too worried about viruses as i havent had one for over 2 years now, but i guess it is something to consider. the os will be on a seperate drive so in regard to the os making a mistake, it should lower the chances a bit.  </s>
+<s> as for delete theres always recycle bin (there will be very little access if any from the network).  </s>
+<s> after a little research there is backup software available such as retrospect, so i might just take that route with scheduled backups twice a week or something.  </s>
+<s> if you were in my position bob what would you do?, i really dont want to go towards removable media like dvd's, hard disks are much more conveniant and with the 5 year warranty even if it only lasts 5 years i am happy.  </s>
+<s> i will have to do a bit more thinking, i might just have to go towards using software like retrospect.  </s>
+<s> thx again  </s>
+<s> 2 drives and a simple copy from one to the other on a 7 day rotation.  </s>
+<s> this gives me 6 or 7 days till a file i deleted is long gone.  </s>
+<s> i don't bother with backup of the os, programs or such.  </s>
+<s> you can determine your needs and make a plan you can live with.  </s>
+<s> bob  </s>
+<s> that might be the best way then, one final question, what application do you use?, i need an application which is reliable you see, after some reading up retrospect seems ok but would like to hear about what you use.  </s>
+<s> a simple batch file that fires off each day.  </s>
+<s> we used to use pkzip to compress but with ntfs compression switched on, we dropped that.  </s>
+<s> all native tools.  </s>
+<s> bob  </s>
+<s> thanks for all the advice, appreciated will place the order today.  </s>

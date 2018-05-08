@@ -1,0 +1,40 @@
+<s> i am running windows xp sp3 with an asus a7v600 mobo, cpu is an amdathlon xp3200+ barton core, 1 gb sdram by corsair, 1 ati 9600xt graphics card w/dell 21&quot; lcd widescreen, 2 hd's (1 sata & 1 ide), 1 asus 52x cdrom (ide), 1 plextor px-755sa dvd(sata) writer and 1 plextor px-708a ide writer with all drivers and firmware updated running ecdc 7 basic including drgtodsc which is what i use most to move all my data and programs to my dvd+rw's.  </s>
+<s> everything was working fine for a good while, then i burned some audio cd's with windows media player 11 and all went fine.  </s>
+<s> then i ripped some cd's with windows media player with no problems.  </s>
+<s> then i tried copying some data files to my dvd+rw where i keep all of my saved programs and that's when all my troubles started.  </s>
+<s> windows does not recognized my dvd's as dvd's.  </s>
+<s> it shows them as cd's.  </s>
+<s> i have checked just about everything there is to check according to the searches i have done through google and my dvd shows up as cd's and i cannot read or write to my dvd's at all.  </s>
+<s> it gives me an error, &quot;please insert disk&quot; and the dvd is in the writer.  </s>
+<s> it also says media not recognized.  </s>
+<s> i put my dvd+rw in either writer and it just shows it blank and i know i have plenty of data on them.  </s>
+<s> i can put cd's in my dvd's and read, copy, move, etc. to them all day, but of course i cannot write to them.  </s>
+<s> i use a linksys router for my firewall and i also have a firewall for spyware, adware, and all those other kind of baddies that try to get through to my pc and i have not had any problems on that end that i can find.  </s>
+<s> i ran some rootkit scanners and they come up okay.  </s>
+<s> i think something changed when i ran media player to burn the audio cd's, because everything had been running fine for a good while.  </s>
+<s> if it was happening on just 1 dvd, i could surmise that it might be bad but, since i have two burners doing the same thing i think something else has happened and i need some big time help!  </s>
+<s> i have uninstalled roxio ecdc 7 basic and some other things advised by others and still nothing good has come about.  </s>
+<s> if someone out ther could give me some help i would be greatly appreciative.  </s>
+<s> thanks a bunch for listening.  </s>
+<s> never has.  </s>
+<s> but about ecdc.  </s>
+<s> a recent poster noted they had to get some update from roxio and it worked.  </s>
+<s> i won't go find that for you but windows xp doesn't know what a dvdrw drive is.  </s>
+<s> never has and never will.  </s>
+<s> don't try to fix that.  </s>
+<s> work on your roxio issue.  </s>
+<s> &quot;i cannot read or write to my dvd's at all.  </s>
+<s> it gives me an error, &quot;please insert disk&quot; and the dvd is in the writer.&quot;  </s>
+<s> research removing the upperfilters and lowerfilters entries in the registry if no media is being read.  </s>
+<s> also if you use any packet writing software you have to reinstall that or the media is not readable.  </s>
+<s> bob  </s>
+<s> thanks for your advice.  </s>
+<s> i understood what you said and i went for a fix for roxio ecdc 7 and software.  </s>
+<s> i uninstalled windows xp pro sp3, then updated sp2, then i uninstalled internet explorer 7 and it reverted to version 6 and i updated version 6 and then i did a clean uninstall of roxio ecdc 7 basic.  </s>
+<s> then while leaving my computer with windows xp pro sp2(updated)and internet explore 6(updated), i reinstalled roxio ecdc 7 basic from my plextor dvd and everything has worked fine ever since.  </s>
+<s> i had to make a few adjustments as they came up, but none were real hard and now i can write to my all my optical drives with roxio ecdc.  </s>
+<s> drgtodsk works great again without a hitch.  </s>
+<s> again thanks alot for steering me in the right direction.  </s>
+<s> sorry i couldn't tell you exactly what to do but sometimes it helps to read what others have run into.  </s>
+<s> cheers for getting out your hammer.  </s>
+<s> bob  </s>

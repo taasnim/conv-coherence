@@ -1,0 +1,19 @@
+<s> so i recently set up a netgear n router for my home and i am now experiencing problems with the wireless network.  </s>
+<s> the main computer (gateway-windows xp)located in a different room and connected using a netgear wireless card seems to be receiving the signal fine at all times.  </s>
+<s> however a new sony vaio laptop(windows vista), macbook pro as well as a dell inspiron laptop all (windows xp) seem to lose the ability to access the internet.  </s>
+<s> the router shows connectivity to all of the laptops but the internet just does not seem to work.  </s>
+<s> as for the main pc, the internet always seems to be working.  </s>
+<s> any help or tips would be greatly apreciated...........  </s>
+<s> did you setup the netgear router like the b] forum sticky suggests?  </s>
+<s> rick  </s>
+<s> i had a friend set up the router who is geek squad-ish but he must have screwed something up.  </s>
+<s> whichpart of sticky b should i be looking at?  </s>
+<s> update the firmware in your wireless router.  </s>
+<s> manufacturer's website, make & model needed.  </s>
+<s> broadcast ssid(you may want to change this to make it easier to connect) use wpa-psk(tkip) security.  </s>
+<s> most wireless devices work best with this type of security.  </s>
+<s> mixed b and g mode(n if available) use channels 1, 6 or 11. most devices work better on these channels.  </s>
+<s> save and exit.  </s>
+<s> power everything off for 30 seconds.  </s>
+<s> power everything back on, wait 30 seconds,now try to connect.  </s>
+<s> rick  </s>

@@ -1,0 +1,64 @@
+<s> system information: asus m4a87td evo (motherboard) amd phenom ii x4 965 black edition (cpu) radeon hd 4890 (graphics card) 8 gb ripjaw series (memory) prepare for an earful.  </s>
+<s> about 3 months ago my adventures with this computer started.  </s>
+<s> i had a couple of somewhat seasoned computer builders walking me through buying and putting together a computer.  </s>
+<s> i put it together and turned it on but the only reward i received for my effort were fans running.  </s>
+<s> i didn't get any picture on the screen nor any start-up/error beeps from my internal speaker.  </s>
+<s> i tried: with only one stick of memory, no memory (trying to bait some error beeps), no graphics card, everything unplugged aside from the cpu and motherboard, but to no avail.  </s>
+<s> i didn't have many extra computer parts lying around to test against it but i was able to test a different graphics card in my motherboard and there was still nothing appearing on the screen or any error beeps. the graphics card went back to it's owner and he informed me it was still functional in his computer.  </s>
+<s> my friend and i then decided it was most likely the motherboard that was causing my issues and i rma'd it to asus and had a new one shipped to me.  </s>
+<s> i got it back and i was faced with the same issues i had been with the last motherboard.  </s>
+<s> i tried all my old trouble shooting attempts and i still get nothing.  </s>
+<s> no beeps, nothing but fans.  </s>
+<s> i do not understand why if everything in the world was broken why i wouldn't be getting error beeps unless the speaker itself was broken.  </s>
+<s> a few extra notes about the computer: the monitor is a vga and the graphics card is a dvi so i had to use an adapter between the two which of course it's possible that is the issue as well but it still doesn't explain my lack of beeps.  </s>
+<s> i have to use an adapter for the power cord going to my graphics card too.  </s>
+<s> that is about every piece of information i can give you about this computer.  </s>
+<s> if you have any tips for trouble shooting, or perhaps are a miracle worker and can revive it with voodoo dolls, any help would be greatly appreciated.  </s>
+<s> i don't have access to any computer parts to test against it, not even the graphics card any more, so that isn't in my book of options right now.  </s>
+<s> if you know what the most likely culprit is and know what i should be replacing that would be useful knowledge as well.  </s>
+<s> thank you for reading my long post and any information you have to give.  </s>
+<s> okay i assemble computers and i have had my share with hardware configuration problems .  </s>
+<s> when get my parts from the distributer , i check them .  </s>
+<s> i start in the following manner .  </s>
+<s> i install the processor on the motherboard with the heatsink .  </s>
+<s> then put the memory in the slots .  </s>
+<s> connect it to the monitor and power up .  </s>
+<s> if i get the mobo logo and bios reading on the monitor i proceed further .  </s>
+<s> if not , i retrace my steps .  </s>
+<s> in your case , your graphic card and mobo came true ( seems to me ) .  </s>
+<s> since you tested with both of your ram sticks , it very unlikely that your both ram sticks have gone bad at the same time .  </s>
+<s> it could be your processor , but , before your start ripping off your hardware to get to your cpu , i would strongly suggest you to take a look at your power supply ( smps ) .  </s>
+<s> make sure you are using one of a correct wattage rating and of a reputable brand .  </s>
+<s> i have found cheap ones saying 650 watt but they fail to even give 450 watt .  </s>
+<s> looks to me as if you are having a &quot;brown out &quot; condition .  </s>
+<s> hope this helps sam  </s>
+<s> following your suggestion, i think i will try buying a new power supply first.  </s>
+<s> it was given to me by a friend and it isn't new nor have i heard of the brand before so i suppose that could very likely be the issue.  </s>
+<s> thank you for your input!  </s>
+<s> since, you never got this system to run, then don't trust adapters.  </s>
+<s> if you can at least test those elsewhere.  </s>
+<s> i don't see why you need an adapter for the gpu power, most newer psu have all the connectors needed, so either that's an old psu or definitively lacking the right connector, i would get a newer more wattage psu to begin with and not a cheap one either or one you tested or trust.  </s>
+<s> sadly, newer mtrbds.  </s>
+<s> need to be bios updated to improve its overall use.  </s>
+<s> but, you never got there, so its not booting or at least beeping.  </s>
+<s> provided you know the spkr.  </s>
+<s> or &quot;on-board&quot; spkr. is working it should have beeped.  </s>
+<s> all you need to test on a simple level is the mtrbd.  </s>
+<s> by itself and psu attached.  </s>
+<s> short the on/off connection pins and it should beep away or spin up and then down.  </s>
+<s> you can remove the bios chip itself if socketed and then beep or at least have the small led glow.  </s>
+<s> also, the fan can be the chassis or cpu fan by itself, no cpu, nothing, no ram, nothing.  </s>
+<s> what are the results?  </s>
+<s> if you still get no beeps or fan running, then return for money back no need to fight anymore to make it work.  </s>
+<s> make darn sure any jumper or sting are proper if applicable on the mtrbd.. use the cmos clearing to return to system defaults and try again.  </s>
+<s> having access to another pc as test bed would have helped, but since it never worked and clues are sparse, it gets to be more of guessing.  </s>
+<s> that's why you need to to test and verify this or that as complete new items aren't always compatible or more is needed.  </s>
+<s> i certainly get a new capable psu at least for now.  </s>
+<s> tada -----willy  </s>
+<s> your post doesn't tell enough but there are a few clues here.  </s>
+<s> 1. you might have recycled another power supply and it does not meet the needs of this cpu and board.  </s>
+<s> 2. i see this has a 4 pin atxv connection. the symptoms are what happens with that is not plugged in.  </s>
+<s> 3. some boards come jumpered in clear cmos and won't start.  </s>
+<s> 4. one board had a typo in the book about the reset connection.  </s>
+<s> long story short is the motherboard printing was correct.  </s>
+<s> bob  </s>

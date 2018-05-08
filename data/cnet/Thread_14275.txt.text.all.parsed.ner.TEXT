@@ -1,0 +1,28 @@
+<s> hi, my old desktop just died - i think the fan in the power supply burnt out - anyway it was 4 years old so i needed a new one.  </s>
+<s> my question is - can i install the old hd temporarily in the new desktop to get off the files i need.  </s>
+<s> i do regular backups of essential files but there are still quite a lot that i'd like to rescue that i don't backup - not to mention those created since my last backup which was 2 weeks ago.  </s>
+<s> the old pc is an emachines 570 with an 80gb ultra dma/100 hd the new one will be a dell dimension e521 with a 320gb sata hard drive(7200rpm) thanks mike  </s>
+<s> before i even finished reading your post, i had a pretty good idea you were talking about an emachine.  </s>
+<s> what you describe is very typical. the good news is, your motherboard is probably the only thing that's toast.  </s>
+<s> everything else, your hard drive, memory, disk drives, and possibly even your power supply should be okay.  </s>
+<s> so, to answer your question, &quot;can you install the old hd temporarily&quot; the initial answer is yes.  </s>
+<s> in fact, in most cases, you could even install it permanently, as a secondary, actually called a &quot;slave&quot; drive, with all the files intact, if you'd like.  </s>
+<s> at this point, you have a couple of options. the first option will depend considerably on the flexibility of the dell machine.  </s>
+<s> now i can't say for sure, because i personally have not had any experience with dell machines, but i hear they are proprietary, meaning you can only put a dell hd in a dell computer.  </s>
+<s> that being the case, the first option is out.  </s>
+<s> if there is some flexiblity however, it's a pretty simple fix.  </s>
+<s> first, you need to reset the jumper to the &quot;slave&quot; setting.  </s>
+<s> there's usually a little diagram on the drive itself that shows you where to put the pin.  </s>
+<s> then mount the drive inside the case.  </s>
+<s> most pcs have a mounting box that will accomodate at least two hard drives.  </s>
+<s> then plug in the ribbion cable (40-pin) and the power supply cable (4-pin) and that's pretty much it. the system (running win xp or greater) should automatically detect it and assign it the next available drive letter.  </s>
+<s> you should now see it in my computer, and you can explore, browse, copy and paste just like any other drive.  </s>
+<s> your second option is to purchase an &quot;external enclosure case&quot;, essentially converting your internal drive to an external one.  </s>
+<s> you reset the jumper (note: may not necessarily be the &quot;slave&quot; setting as described above - follow instructions provided with case), plug in the cables and hook up to your system (usually via usb 2.0 or firewire).  </s>
+<s> this option is ideal if you have two or more computers and want to share files between them, for instance music files, but don't want to stream accross the network, or duplicate files on both systems.  </s>
+<s> with either option though, your original files will remain intact, provided the drive hasn't been damaged.  </s>
+<s> good luck!  </s>
+<s> let me know how it goes.  </s>
+<s> thanks kitelady, the manual for the new machine says: &quot;two bays for 1-inch high serial ata hard drives&quot;, looking at the installation diagram at - - it doesn't appear compatible with my drive; would you agree?  </s>
+<s> mike  </s>
+<s> are you sure it's a sata drive?  </s>

@@ -1,0 +1,61 @@
+<s> my post is a little lengthy but i was hoping for some help.  </s>
+<s> my wife works from home and has her laptop set up in the office via verizon dsl.  </s>
+<s> i have attempted to hook up my emachine pc throught the same modem but the network connection continues to flash that a connection is &quot;unplugged&quot;.  </s>
+<s> it will conneczt than disconnect and continue to flash that way.  </s>
+<s> my initial phone call to verizon led to me having my pc looked at by geek squad at best buy. the gs did a diagnostic check up ($90.00) and they demonstrated that the pc does connect to the internet via the ethernet connection.  </s>
+<s> i returned home and expereinced the same network connection problem.  </s>
+<s> i have been back and forth w/gs and been in verizon tech support purgatory.  </s>
+<s> i have tried everything-disconnected my wife's laptop, changed ethernet cables etc.. the blame game continues until finally gs suggested purchasing a new modem.  </s>
+<s> can anyone offer any suggestions?  </s>
+<s> i am at a loss!  </s>
+<s> thanks in advance!  </s>
+<s> dsl does not connect to the computer modem, but the ethernet connection.  </s>
+<s> i think bestbuy connected it to the correct ethernet connection with an ethernet wire and you're trying to connect it to the computer modem?  </s>
+<s> what you do is you plug in the telephone line to your dsl modem.  </s>
+<s> then get an ethernet wire and connect that to your pc's ethernet port.  </s>
+<s> roger  </s>
+<s> sounds like you need a broadband router.  </s>
+<s> it will allow more than one computer to share the internet service.  </s>
+<s> does your dsl modem also have a built-in router?  </s>
+<s> if not you could benefit from a broadband router box.  </s>
+<s> we charge $20 at staples and refund ur money if we can repair it.  </s>
+<s> anyways, you need a router for that.  </s>
+<s> unless you have one built it to your modem.  </s>
+<s> upon initial install the verizon software might put certain items on the pc that set it up.  </s>
+<s> it's been awhile but you enter a lot of information to get it working.  </s>
+<s> my point is without a router your wifes pc might have this information on it and your desk top doesnt so it's not recognizing your pc as being legit.  </s>
+<s> i use a 4 port wired router and 2 pc are connect constantly with a 3rd work pc connected occasionally.  </s>
+<s> i have not problems with this setup and was the best $50 i ever spent because the router is a spi firewall.  </s>
+<s> thank you for all of your responses!  </s>
+<s> yes, i did pay $90.00 for the diagnostic but i may hound verizon for a refund of the money because i feel there was noting wrong w/ my pc in the first place.  </s>
+<s> just to clarify: i have a westell versalink model 327w that verizon provided as a part of the service.  </s>
+<s> it has four ports in the back where i have attempted to run both the pc and laptop ethernet cables.  </s>
+<s> as explained my wifes laptop runs like a dream but all attempts to set up my pc have failed.  </s>
+<s> my emachine is a c1641 and i again tried to connect to the internet yesterday but the network connection would connect and then disconnect stating the network cable is unplugged.  </s>
+<s> looks like i'll take the advice of the posters and get a broadband router or four port wire router.  </s>
+<s> thanks again!  </s>
+<s> i had that wicked problem a few months back.  </s>
+<s> first off, the ethernet card, nic, in the pc: is it internal or is it on a pci card.  </s>
+<s> maybe try switching.  </s>
+<s> i had to get a cheap nic for pci 'cause my internal one died on me.  </s>
+<s> also: do you have floresceunet (the spelling fairy is going to kill me) light bulbs?  </s>
+<s> i had the weirdest thing happen.  </s>
+<s> with the lights on: the modem would work, with the lights off it would not.  </s>
+<s> a pain, and a high electric bill.  </s>
+<s> i ended up moving the pc. ~ibrahim~  </s>
+<s> what about an ethernet hub?  </s>
+<s> if so do i need both a hub and a router?  </s>
+<s> you want a router.  </s>
+<s> some broadband modems (cable or dsl) also have a built-in router.  </s>
+<s> what is the make & model of your dsl modem?  </s>
+<s> typical broadband routers for a small office/home office have a built-in 4-port switch (an intelligent hub) to connect 4 computers to form a small network and another port (wan port) to connect to the broadband modem.  </s>
+<s> once the modem is connected to the router, all computers connected to the router will be able to share the broadband modem.  </s>
+<s> this is the essence of a router--it connects one network (your home computers) to another network (the rest of the internet).  </s>
+<s> a hub cannot do this! a typical wireless router has the 4 port switch and adds the ability of making multiple wireless connections.  </s>
+<s> it also has some security measures such as a firewall.  </s>
+<s> if your dsl modem doesn't have a built-in router, look at wireless-g broadband routers from linksys, d-link and netgear.  </s>
+<s> i bought a linksys speedbooster 802.11 wireless broadband router.  </s>
+<s> will that hopefully help me out?  </s>
+<s> a good wireless router for what you are looking for.  </s>
+<s> ~ibrahim~ p.s. please correct me if i'm wrong: it is what (s)he is looking for?  </s>
+<s> yes, i hope this solves my pc/laptop problem.  </s>

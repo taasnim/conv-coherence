@@ -1,0 +1,16 @@
+<s> i have a really old computer running a web-server.  </s>
+<s> this was my experiment with linux, and it was successful.  </s>
+<s> this old computer is an acer aspire (1997).  </s>
+<s> because this computer runs 24x7, i want to estimate its power consumption, to calculate how much i pay for the electricity it consumes.  </s>
+<s> the specs are: - intel pentium mmx 166 mhz (consumes 2.9 watts, source: ) - 72 mb simm ram (two modules) - 1gb fujitsu hdd 5200 rpm - unknown motherboard (presume 1997 build) - no graphics accelerator - network card: d-link dfe 530tx+ - startech 2-port pci usb card (never in use) - 8x cdrom drive (never in use) - 1.44 inch floppy drive (never in use) - one processor fan - one power supply fan - monitor: 15 inch crt monitor permanently turned off - one power indicator led (green/orange) can someone help me in getting a trustworthy estimate of power consumption of individual components?  </s>
+<s> any help is greatly appreciated.  </s>
+<s> thanks!  </s>
+<s> try 80 watts for the box. the only way to really tell is to measure it with a wattmeter but this is the number my old box consumed.  </s>
+<s> bob  </s>
+<s> since this about power use i just looked in the book for my switch and it says the max power output is 80 watts is that allot of juice or not allot what i am worried about is that with it and the server my home power bill will jumps will 80 watts equal a huge diff in power bill.  </s>
+<s> if your switch consumed it's maximum of 80 watts and your power company charged 10 cents per kwh, you would pay about $6 for the energy it used if left on continuously.  </s>
+<s> since most products are rated according to its load while being used, the components that you don't use will consume just a fraction of its rating.  </s>
+<s> the big consumers will be the motherboard and hdd. the 80 watts given earlier for the box is probably a good estimate.  </s>
+<s> the monitor will not consume any power if turned completely off and not just in standby.  </s>
+<s> this document is not based on your exact specs, but might be a good guide for you: ftp://download.intel.com/support/desktopplatforms/communitypc/sb/motherboardpowerconsumption.pdf  </s>
+<s> thanks, it solves my question. the conclusion: power consumption for this old pc is 80watts, and it amounts to $6 per month of energy expenses.  </s>

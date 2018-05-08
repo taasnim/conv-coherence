@@ -1,0 +1,10 @@
+<s> you must enable the support in the windows registry by adding or changing the enablebiglba registry value to 1 in the following registry subkey: hkey_local_machinesystemcurrentcontrolsetservicesatapiparameters  </s>
+<s> this doesn't work in all versions of windows.  </s>
+<s> can you... 1. tell what versions of windows it applies to.  </s>
+<s> 2. cite your sources.  </s>
+<s> bob  </s>
+<s> sorry, was replying to an older message, however this does work in windows 2000 and xp, here are the microsoft kb #'s xp - 303013 - 2000 - 305098 -  </s>
+<s> for xp, i found that sp1 was still required and for windows 2000, over 128gb support of ide drives needs sp3 or sp4.  </s>
+<s> both oses need the registry tweak as well, but the service pack that i installed set the key proper. the reply and add new discussion buttons are a tad too close, aren't they?  </s>
+<s> bob  </s>
+<s> yes, they are a little too close arn't they... not to mention having to register to post the reply first, that probably messed it all up from the get-go... i didn't go into the whole sp1 for xp and sp3/4 for 2k because i think the person who was orrigionally asking had stated they were running xp sp1... -mike  </s>

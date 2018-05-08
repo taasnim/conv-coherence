@@ -1,0 +1,37 @@
+<s> hello again, system ------ - dell x300 laptop with win xp pro sp2 (all patches).  </s>
+<s> - intel pro/wireless 2200bg mini internal wireless card fitted.  </s>
+<s> - dell truemobile internal bluetooth module fitted.  </s>
+<s> - dell bluetooth stack installed - belkin fsd8230-4 pre-n wireless router problem ------- there are really two problems.  </s>
+<s> i do not think they are specifically related... 1) my x300 has started having frequent (every minute or two) connection issues, since i rebuilt it from scratch (new hard drive).  </s>
+<s> if i right click the network connection icon in the task tray and select repair, i get the connection back with an &quot;excellent&quot; signal strength and fast speed indicated.  </s>
+<s> note: other laptops in my house do not get disconnected at the same time.  </s>
+<s> i.e. my laptop can be down and my wife's is still up just fine.  </s>
+<s> this would seem to indicate a client issue also.  </s>
+<s> 2) when the connection is lost on this x300 laptop - (just rebuilt from scratch), the &quot;connect bluetoothconnection&quot; dialog apears, presumably because the machine thinks that this would be the connection to use if the wireless is not working.  </s>
+<s> i have to constantly dismiss this dialog.  </s>
+<s> note: this &quot;connect bluetoothconnection&quot; dialog also appears (only occasionally though) when this laptop is connected to a wired 100mb connection.  </s>
+<s> comments -------- to test further, after the latest batch of disconnects on my laptop, i placed another x300 in exactly the same place on the countertop and connected to a steaming audio site so i could easily see if the connection stayed up.  </s>
+<s> it did - all day.  </s>
+<s> note however that this second x300 has the intel pro/wireles lan 2100a adapter in it, which is only 802.11b.  </s>
+<s> for problem (1), perhaps the bluetooth connection in problem (2) is actually causing the wireless to get disconnected?  </s>
+<s> for problem (2), i assume there is a way to configure the bluetooth connection not to pop up.  </s>
+<s> can anyone provide any assistance here?  </s>
+<s> thx avmad  </s>
+<s> suggestion... could it be that the bluetoothconnection dialog is actually the catalyst for the wireless network loosing its connection?  </s>
+<s> i've noticed that while ever the bluetoothconnection dialog is up on the screen, the wireless lan will not reconnect.  </s>
+<s> ideas?  </s>
+<s> avmad  </s>
+<s> hello all again, i guess i stumped everyone with my issues here as i had no responses.  </s>
+<s> so next question would be, how to remove the whole dell bt stack and rewind any config to get to the point that wireless had no issues... avmad  </s>
+<s> ok, so i uninstalled (through contol panel) the dell bluetooth software this morning.  </s>
+<s> however, for no apparent reason, the &quot;connect bluetoothconnection&quot; dialog just popped up.  </s>
+<s> btw - i'm connected through ethernet, not wireless right now.  </s>
+<s> i cannot see why this dialog would continue to come up.  </s>
+<s> any ideas please?  </s>
+<s> avmad  </s>
+<s> it's a pain, windows fails to find the site the normal way and thinks it's got access to another network connection it can try.  </s>
+<s> in internet explorer, go tools&gt;internet options&gt;connections.  </s>
+<s> you can select &quot;never dial a connection&quot;, that should do the job.  </s>
+<s> if you're certain you don't want it, you can even remove your &quot;bluetoothconnection&quot; from the list.  </s>
+<s> hope this works for you.  </s>
+<s> -john.  </s>

@@ -1,0 +1,15 @@
+<s> so my computer's barely a year old, and the other week i found that the wire to my mouse had been cut due to constant pulling.  </s>
+<s> the idiot that i am, i compressed the wire and suddenly saw sparks, and a message popped up alerting me of a hardware failure, and suddenly my computer shut off.  </s>
+<s> now when i try to turn it on, it just hangs on me. the computer turns on, but nothing starts and nothing beeps--the cd drive doesn't run nor does the floppy drive.  </s>
+<s> i thought it might be the harddrive that got fried, so i bought a new one, but that still didn't work.  </s>
+<s> my computer-tech friend looked at my computer and tested all the components except the motherboard, and they seemed to work fine.  </s>
+<s> so my question is, is it possible for the motherboard to fail due to a short-circuited mouse?  </s>
+<s> i'm just wanting to make sure before i buy a new motherboard.  </s>
+<s> it does sound like the motherboard got damaged.  </s>
+<s> all i can think of is that when you put the wires back together, they were mismatched, and the voltage ended up going where it shouldn't have.  </s>
+<s> this very well could have caused the failure, and if your friend has already tested everything else, it looks like the mobo did get fried.  </s>
+<s> a little more info, please.  </s>
+<s> was it a ps 2 mouse?  </s>
+<s> have you tried leaving the ps 2 mouse port disconnected and using a usb mouse?? will your system boot up to the first video screen with nothing connected to the mobo except video card, memory, cpu/hsf, the power supply and the front panel connections?  </s>
+<s> no mouse, no keyboard?? you may have zapped the i/o chip on the mobo, and possibly the southbridge chip.  </s>
+<s> sounds as if you need a new mobo.  </s>

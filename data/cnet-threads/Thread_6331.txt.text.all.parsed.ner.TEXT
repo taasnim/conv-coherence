@@ -1,0 +1,52 @@
+<s> so i have a rather old ibm, its a pentium 4 (2.4 ghz) netvista 8307.  </s>
+<s> it runs well, i have lots of ram (1.5gb) but i was thinking about putting in a new video card.  </s>
+<s> as i understand though, these things have to be compatible with the motherboard.  </s>
+<s> could any let me know if some of the newer nvidia 8 series cards would be compatible.  </s>
+<s> i found a review of the netvista here on cnet and in the specifications under &quot;free expansion slots&quot; i found 3 ( 3 ) x pci - three-quarter-length, 1 ( 1 ) x agp 4x - three-quarter-length i'm note sure what this means.  </s>
+<s> i realize older video cards used agp system and that newer ones use pci.  </s>
+<s> i believe the nvidia 8 series is pci x16.  </s>
+<s> long story short, nvidia 8 series card for ibm p4 (2.4ghz) netvista, possible?  </s>
+<s> for xp i might skip the 8xxx line and look at the last 7xxx line.  </s>
+<s> i always check this list -&gt; bob  </s>
+<s> the os is xp. why would you skip the 8 series line?  </s>
+<s> is it compatible?  </s>
+<s> are you saying i'm not going to maximize the utility of the 8 series so i might as well get the 7 series?  </s>
+<s> thanks for your help  </s>
+<s> no need for me to duplicate the web but currently your 8xxx series are dx10 optimized and you don't have that.  </s>
+<s> just to set my mind at ease, the 7 series and the 8 series nvidia cards are all compatible with the motherboard?  </s>
+<s> once you pick a card, look at the requirements page.  </s>
+<s> some will ask for some many watts in the power supply.  </s>
+<s> until you pick the card the answer will remain unclear.  </s>
+<s> bob  </s>
+<s> ok, so having the proper expansion slot is only part of the compatibility concern.  </s>
+<s> i see your point too regarding the 7 series.  </s>
+<s> i have a little extra money, so i don't mind paying in the 200-250 range, was thinking that when i do get a newer computer, i would be able to transfer the card i buy now into the newer one.  </s>
+<s> was looking around in shops near me and unfortunately not many carry the 7xxx's that would be better than the 8600 gts (which is the card i was originally going for).  </s>
+<s> hence i guess i'll probably get the 8600gts.  </s>
+<s> anyway, thanks for your help.  </s>
+<s> and if you check that list you may find it or same performance for less than that.  </s>
+<s> there are generally 3 types of slots on motherboards these days.  </s>
+<s> pci (usually white colored connectors) for sound cards, modems, and network cards.  </s>
+<s> agp (usually brown colored) specifically for graphics cards and those also come in 3 different speeds depending on your system (2x, 4x or 8x) ...............................or...................................... pcie (e=express) they come in 1x, 4x, or 16x (16x is for graphic cards) your system has an agp slot, therefore you must only buy an agp card compatible with your type of agp slot.  </s>
+<s> a pcie will not fit and agp slot.  </s>
+<s> trying to do so may damage your system and the card.  </s>
+<s> you must also consider the wattage requirement of the card you plan to buy. the powersupply you have is probably only 185w, some cards will require more wattage on certain voltage lines.  </s>
+<s> please research this more before you go jumping in.  </s>
+<s> intentsly  </s>
+<s> the 8800's, at this point in time, are all pcie and would not work in your system. the 7600gs agp may work for you, if your power supply can handle it.  </s>
+<s> yea, i haven't bought or done anything, was almost thinking it too good to be true that the pcix16 cards would fit since the apg slot is only 4x, as apposed to 8x. i guess the card range i'm looking at now probably has little difference in price, so i'm just going to have to try to find the best one compatible with my computer.  </s>
+<s> i think i'll head over to a store and talk with one of the chaps there.  </s>
+<s> ok, now that i'm set on agp, the question arises of power supply.  </s>
+<s> so if i purchase one of the better 8x agp cards, i'll probably want to purchase a better power supply, which to me, at the moment, seems like it shouldn't be a problem.  </s>
+<s> i'm sure i could handle replacing the power supply.  </s>
+<s> question: do i have to consider other compatibility issues with the replaced power supply, or is this an easy replacement?  </s>
+<s> for example, with a new power supply, will 'component xyz' now have issues?  </s>
+<s> something in this nature, thanks again.  </s>
+<s> if all is well with power supply replacement, i'll be buying the 7600 gt agp.  </s>
+<s> my friend has the exact same system as you and is looking to make the same 7600gt video upgrade as you.  </s>
+<s> he is having some trouble finding a compatible psu.  </s>
+<s> i have not been able to determine whether the psu has proprietary wiring/form factor or standard matx wiring/form factor.  </s>
+<s> i searched online and have not been able to find a psu that is explicitly designated as a suitable replacement or upgrade.  </s>
+<s> this leads me to believe that the psu may be proprietary.  </s>
+<s> typically, there are many replacements available online (explicitly designating a compatibility list) if the wiring and form factor are standard.  </s>
+<s> can you give an update on whether you found a suitable power supply for your netvista 8307?  </s>

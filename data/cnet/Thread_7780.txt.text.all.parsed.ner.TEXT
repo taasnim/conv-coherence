@@ -1,0 +1,42 @@
+<s> i have 2 dell 800 mghz computers with 256 mb of ram running windows xp. when you boot up it will show the dell logo and the time line for loading the bios but it takes a long time and then it will com up in dos with the message &quot;no hard drive detected press f1 to continue or f2 to enter setup&quot; if i press f1 it will boot up perfect.  </s>
+<s> if i go into setup it shows the hard drive.  </s>
+<s> i have flashed the bios, changed the ram, put in a new hard drive, and reinstalled xp because i thought it might be service pack 2. any info would be greatly appreciated.  </s>
+<s> thanks robert frazier  </s>
+<s> look around in your bios, perhaps in the boot area.  </s>
+<s> see if you have an option something like 'delay ide initial'.  </s>
+<s> if so raise the amount up a little at a time.  </s>
+<s> what do you have the boot order set to?  </s>
+<s> did it just start doing this one day, or is this a new drive you upgraded to? is there anyway to retain the drive config in the bios settings or does it have to detect each time you boot?  </s>
+<s> i'm suspecting a dead battery on the motherboard but more info would help.  </s>
+<s> scott.  </s>
+<s> having the exact problem with new dell.  </s>
+<s> i added a 2nd hd. all o.k. for 2 months or so then bam, i turned the computer on, and get message that neither of my hds are found - bios shows drives as &quot;unknown&quot;, both are set to auto.  </s>
+<s> i checked all connections, reseated memory, unplugged and replugged cables.  </s>
+<s> got same message only this time f1 started it up to the os (xp).  </s>
+<s> ran dell diagnostics - everything passed.  </s>
+<s> restarted, same thing all over again.  </s>
+<s> hds not found.  </s>
+<s> (floppy and cd drives work fine).any  </s>
+<s> suggestions?  </s>
+<s> i did more research - am having same problem.  </s>
+<s> dell suggests the following.  </s>
+<s> see specifically ,clearing nvram, about mid page.  </s>
+<s> don't know your specific model so you may want to find out how to set jumpers for maintenance mode before you clear nvram.  </s>
+<s> i have bookmarked instructions for 4600c, the one i have.  </s>
+<s> good luck.  </s>
+<s> i'm going to give it a try tomorrow.  </s>
+<s> denise  </s>
+<s> thanks for the info.  </s>
+<s> sorry i took so long getting back.  </s>
+<s> i could not find the forum.  </s>
+<s> how dumb is that?  </s>
+<s> did the dell idea fix the problem?  </s>
+<s> thanls robert  </s>
+<s> unplug the slave drive to see if the problem persists.  </s>
+<s> if not, my guess is an insufficient power.  </s>
+<s> dell is known for installing minimal power supplies.  </s>
+<s> extra drives can stress the undersized psu.  </s>
+<s> i fixed two earlier dells by replacing the ps since it was having trouble recognizing the drives.  </s>
+<s> be very careful with the new dell systems as they have a dell proprietary (non-standard) atx design.  </s>
+<s> this means that pin 1 and 3 have ground on them where the standard atx has +5 volts and a couple other pin mismatches.  </s>
+<s> see: warning: if you hook a standard atx up you will blow the board.  </s>

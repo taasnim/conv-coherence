@@ -1,0 +1,14 @@
+<s> i have an external hard drive, as detailed above, that presumably needs drivers to mount in my mac os x 10.3 panther on ibook g3. can't find any drivers and it's looking maybe as if the drive doesn't have any for mac os x. any thoughts?  </s>
+<s> i believe this drive has a usb 2.0 interface and no power supply.  </s>
+<s> unfortunately, your ibook only has usb 1.0 and not enough power up the usb chain to power the drive which could result in a non-mounting drive.  </s>
+<s> if there is a connection on the drive enclosure for an external power supply, that would cover that problem and the drive would mount with no problem.  </s>
+<s> i say, no problem.  </s>
+<s> you would still be left with the slow usb 1 transfer speeds.  </s>
+<s> what is that, 12mbs?  </s>
+<s> p  </s>
+<s> twelve megs sounds about right.  </s>
+<s> however, the drive is in fact powered externally; it's a huge brick of a thing actually.  </s>
+<s> just doesn't appear to be mounting.  </s>
+<s> any ideas my man?  </s>
+<s> upgrading to the latest revision of panther (10.3.9) solved this, i can now successfully use my external drive.  </s>
+<s> thanks for input.  </s>

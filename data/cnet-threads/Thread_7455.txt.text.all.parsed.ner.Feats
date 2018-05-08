@@ -1,0 +1,14 @@
+                                  LITTLE 0 0 0 0 0 1 0 1 1
+                                 ANOTHER 0 0 0 0 0 0 1 0 1
+                                    HELP 0 0 0 0 0 1 0 1 1
+                                    CARD 0 1 0 0 0 1 0 1 1
+                                    MOBO 0 0 0 0 0 0 0 1 1
+                                     GPU 0 0 0 0 0 0 0 1 1
+                                     PSU 0 0 0 0 0 0 0 1 1
+                                   SPACE 0 0 0 0 0 1 0 1 1
+                                    SLOT 0 0 0 0 0 1 0 2 1
+                                    PCIE 0 0 0 0 0 0 0 1 1
+                                  ...... 0 0 0 0 0 0 0 1 1
+                                 EXPERTS 0 1 0 0 0 1 0 1 1
+                                     APU 0 0 0 0 0 0 0 1 1
+                       EXPANSION/EXPRESS 0 0 0 0 0 0 0 0 0

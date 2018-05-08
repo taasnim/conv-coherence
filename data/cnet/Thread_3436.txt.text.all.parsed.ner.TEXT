@@ -1,0 +1,21 @@
+<s> im building a new computer from all new parts.  </s>
+<s> when i plug in my power supply, the system starts without pushing the switch. the front switch doesnt work either.  </s>
+<s> even with the switch disconected from the board the system still starts up when the atx power supply is plugged in.  </s>
+<s> no os has been installed...is this a hardware problem like a jumper or a software issue (will it be fine after the os is installed) or can the be configured in the bios.  </s>
+<s> thanks for the help the board is a biostar p4vtb with a power magic 550w power supply  </s>
+<s> the name may change slightly.  </s>
+<s> in my asus it is in the power mgt section and called &quot;ac pwr loss restart&quot; does what you say when &quot;enabled&quot; i use that mode to turn everything on by hitting the switch on my surge protector.  </s>
+<s> after shutting down and turning off the switch on the surge protector the system thinks that there was a power loss.  </s>
+<s> when the power is restored the system will boot up.  </s>
+<s> of course it could be something else.  </s>
+<s> or flawed even.  </s>
+<s> imagine new system builders ire as they notice that boards had a documentation flaw.  </s>
+<s> a recent flub had people connecting an ide led to the reset.  </s>
+<s> over 1/2 those boards were rma'd over such. the motherboard marking was correct, but this error has been seen on many boards.  </s>
+<s> you should examine the markings on the motherboard for the power on switch and consider that many can't test said push button with an ohmmeter.  </s>
+<s> and the spst switch section will give you the quick overview.  </s>
+<s> bob  </s>
+<s> verify all connections are proper and routed to where they're supposed to go.  </s>
+<s> in your case the frt.  </s>
+<s> power sw.??? don't take anything for grnated.  </s>
+<s> -----willy  </s>

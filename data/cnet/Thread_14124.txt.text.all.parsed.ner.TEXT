@@ -1,0 +1,35 @@
+<s> i am researching components in while i save up for my first pc build.  </s>
+<s> the goal is to build a budget/low end htpc.  </s>
+<s> i don't know if i have a need for an htpc and really just want to do the build for fun/curiosity.  </s>
+<s> it may end up as a general purpose desktop when it is all said and done.  </s>
+<s> what would be desirable specs for a processor in a build like this?&lt;div&gt; i sifted through processors on newegg and made a list of processors with 65w or less, most current sockets, and $100 or less with up to $125 as a grey zone.  </s>
+<s> this leaves the celeron g530/540, pentium g600 &amp; g800 series, athlon ii x2 series &amp; x3 400e series, amd a4 apus and the a6 3500 apu. the i3-2100 is in the grey zone.  </s>
+<s> i currently am leaning toward the a6-3500.  </s>
+<s> are there any big downsides to going with it vs an athlon ii x2/x3, pentium g800 series, or i3 2100?&lt;div&gt; i purposely left out discussing form factor to keep this post shorter.  </s>
+<s> i plan on starting a thread when i look into motherboards.  </s>
+<s> &lt;/div&gt;&lt;/div&gt;  </s>
+<s> i wanted to mention, my second choice right now is the athlon ii x2 250.  </s>
+<s> i'm not sure if a discrete graphics card would be needed with something like this, though.  </s>
+<s> one has to know if it will be transcoding content on the fly.  </s>
+<s> if so, you need about double that for cpu power.  </s>
+<s> if it's just to play content on some hdmi 1080 display, then pair up any cpu you listed with the fanless ati 5450 card and you are there.  </s>
+<s> bob  </s>
+<s> thanks for the reply, bob.  </s>
+<s> you'll have to forgive me, i am new to some of these terms.  </s>
+<s> they way i understand it, transcoding on the fly would be taking a video file saved as one format and convert it to a different format so that a certain program can display it all while the program is playing the video and the file would not be resaved in the new format?  </s>
+<s> would transcoding not on the fly then be converting the file to a different format, saving it, and then playing the newly saved file? is it common to need to transcode on the fly?  </s>
+<s> wouldn't you be able to get around this need by choosing a program that could display the original format?  </s>
+<s> i think i would mostly use the machine for streaming hd video and playing saved dvd/bluray content.  </s>
+<s> it would be unlikely, at least early on to transcode on the fly.  </s>
+<s> if i get into it that much, i would likely just look into building a new machine.  </s>
+<s> final question: what level of processor would do away with the need for a discrete graphics card for 1080p viewing?  </s>
+<s> i was under the impression they were not needed with any a series apu.  </s>
+<s> i'm not against a discrete card, just trying to get a feel for cost/benefit.  </s>
+<s> thanks dylan  </s>
+<s> because you would be the one creating or supplying the content.  </s>
+<s> as to streaming, if the file is to be streamed, then we don't need that powerful card or cpu.  </s>
+<s> we're moving bytes down the pipe and not much else.  </s>
+<s> i think the cpu and the 5450 would be a great solution.  </s>
+<s> bob  </s>
+<s> thanks for your help.  </s>
+<s> i am sure i will have many more questions.  </s>

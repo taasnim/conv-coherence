@@ -1,0 +1,51 @@
+<s> hi. i really appreciate if someone could help me.  </s>
+<s> my home network is: - desktop with windows xp sp2 connected wired to a router linksys wrt54g v5; - xbox 360 connected wireless to the linksys; - printer connected wired to the linksys; - the router connected to the internet trought a ethernet modem siemens speedstream 4200 (ppoe connection).  </s>
+<s> in that configuration the network works fine.  </s>
+<s> all equipments connects to the internet and sees each others on the lan/wan.  </s>
+<s> when i connect (wired or wireless) my notebook with windows vista ultimate on the network the connection with internet goes down (to all equipments).  </s>
+<s> when i shut down the notebook, all equipments can connect to the internet again.  </s>
+<s> i ran the &quot;diagnose and repair&quot; utility and the windows answer was: dns problem.  </s>
+<s> i checked the dns configuration 1.000 times and it's everything ok... i thought the problem was between vista and the linksys router so i upgrade the firmware (v 1.02.0) of the linksys to the latest version.  </s>
+<s> didn't work... after that i configure a static ip at my notebook and use the dns provided by my isp (ppoe connection).  </s>
+<s> didn't work again... so i use my router in my office (different isp and internet modem) and my notebook could access the internet (wired and wireless) normally (so the problem isn't vista x linksys).  </s>
+<s> when i bring the router back to my home the problem occurs again.  </s>
+<s> i think the problem is with the speedstream modem 4200 (firmware not compatible with vista?) or with my isp.  </s>
+<s> anyone have any clue about this issue?  </s>
+<s> thanks in advance!  </s>
+<s> theo.  </s>
+<s> you didn't tell about that.  </s>
+<s> read this one -&gt; bob  </s>
+<s> tks for your time.  </s>
+<s> i'll read.  </s>
+<s> my new vista notebook couldn't connect to it.  </s>
+<s> i spent the whole afternoon to google and try different ways to fix it.  </s>
+<s> it turns out that the simplest way is changing the channel of router.  </s>
+<s> hope this helps.  </s>
+<s> the siemens speedstream 4200 bridge mode? is our big clue here.  </s>
+<s> it won't work out of the box.  </s>
+<s> fun to configure.  </s>
+<s> tell more.  </s>
+<s> bob  </s>
+<s> hi bob.  </s>
+<s> how can i verify if the siemens router is configured in bridge mode?  </s>
+<s> in that case, how i have to configure it?  </s>
+<s> thank you in advance.  </s>
+<s> theo.  </s>
+<s> i noted a link and it was very clear to me how to tell.  </s>
+<s> if you will not read supplemental links to the discussion please tell me so i know you won't do that.  </s>
+<s> bob  </s>
+<s> i read the link you sent.  </s>
+<s> i can't change to the bridge mode beacuse the modem isn't with the default admin/password fields.  </s>
+<s> i don't have access to change the configuration.  </s>
+<s> i think my internet provider changed that.  </s>
+<s> i tried reset (according to the siemens website - ) the modem to the factory configuration but the reset doesn't work too.  </s>
+<s> i don't know what to do... thanks for your help.  </s>
+<s> if you can't administer the modem then it's game over.  </s>
+<s> to get wifi you need to use what we call a wap (wireless access point.) this adds wifi without you needing to reconfigure the modem.  </s>
+<s> here's an example linksys wap -&gt; wap54g at sorry to hear you're locked out.  </s>
+<s> bob  </s>
+<s> these are cheap cheap cheap.  </s>
+<s> so the setup since we can't configure the modem is... speedstream modem -&gt; switched hub -&gt; pcs and wap54g.  </s>
+<s> hope this helps, bob  </s>
+<s> ok bob.  </s>
+<s> thank you.  </s>

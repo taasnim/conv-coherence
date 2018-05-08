@@ -1,0 +1,17 @@
+<s> i have installed in this system md-x58i i7 xfx motherboard with triple chanel nb. on one set (3) i have corsair 1333 patriot 1.65v works fine and bios reports 1066 (or whatever#) good.  </s>
+<s> now i add another set of corsair 1333 1.5v no boot unless i set the memory freq.  </s>
+<s> to x06 which then reports from bios 800mhz when running cpu-z i get about 398mhz for each ram stick.  </s>
+<s> now i read that tripple chanel will devide by 3 the nb but why does the bios set at 800mhz?  </s>
+<s> strange system running stable but seems slower than when there is 6gb instead of 12gb if you want to see the cpu-z screen shots i can email them to you any advise would be greatly appreciated this system is driving me insane thanks danielo@bmts.com  </s>
+<s> keep all sticks the same unless you want troubles.  </s>
+<s> it's very simple advice.  </s>
+<s> bob  </s>
+<s> it's the same problem that ram carries over from using all the &quot;slots&quot; or &quot;banks&quot; which refers to the way ram gets used.  </s>
+<s> as speed increases, the ras/cas values become that more important and timing too or rather &quot;syncing&quot; of it all.  </s>
+<s> which is why it has always been good advice to use the same type and values of ram sticks in order to keep at stable and upper levels.  </s>
+<s> but! also understand when full range of slots become used, that timing is critical and falls out of snyc which in turn causes all kinds of issues if not booting at all.  </s>
+<s> this in turn provides the bios whatever it needs to &quot;auto mode&quot; the setting it best deems fits the ram installed.  </s>
+<s> if you turn-off and manually set these values, issues become apparent and/or you reach the absolute level it will tolerate, which is a trail&error method.  </s>
+<s> i exclude any heat stress and quality issues here, because ram sticks do vary.  </s>
+<s> take all or some of this advise will answer your question.  </s>
+<s> tada -----willy  </s>

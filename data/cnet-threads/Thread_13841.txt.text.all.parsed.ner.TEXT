@@ -1,0 +1,10 @@
+<s> currently, i have a computer connected to the internet via a outlet modem jack (that sends a signal to an outlet in another room that is connected to the phone line).  </s>
+<s> i want to hook this computer up to broadband (cable) without running any wires to the computer.  </s>
+<s> (the computer, by the way, is on the other side of the room from the cable wire.) can i have the cable connection to the computer without any wires from the cable wire in the wall to the computer?  </s>
+<s> and if so, how and what equipment do i need?  </s>
+<s> thanks.  </s>
+<s> for broadband (cable) you will need a cable wire to connect to a broadband modem.  </s>
+<s> so, yes you will need a wire. the modem then connects to an ethernet port on the back of your computer.  </s>
+<s> connect this way: internet ----- cable modem ----- wireless router ~ ~ ~ computer (with wireless network adapter).  </s>
+<s> sometimes the cable modem has a built-in wireless router: internet ----- cable modem/router ~ ~ ~ computer (with wireless network adapter).  </s>
+<s> wired ----- wireless ~ ~ ~ note: you can always replace the wireless connection by making a wired connection between the router and a wired network adapter on the computer.  </s>

@@ -1,0 +1,33 @@
+<s> hey, i have bought used ati radeon x1900xt.  </s>
+<s> it is in very good condition, it works but when i run gpu intensive tasks such as gaming, or gpu decoding, pc freezes.  </s>
+<s> i thought that it was power problem, as this gpu needs 1x6 pin pci ex connector.  </s>
+<s> i have a cooler master elite power 460w which has a one pci ex conn.  </s>
+<s> and it works, but as soon as i run the gpu to full capacity, it will freeze.  </s>
+<s> do you have a solution for this?  </s>
+<s> cheers, fema.  </s>
+<s> that used to be a cutting card from over 5 years ago.  </s>
+<s> but at this age it's uncertain if it's a good card. the solution is likely to be a new card.  </s>
+<s> bob  </s>
+<s> if this was my card, i'd get it out and do a few things.  </s>
+<s> 1. inspect the card for bad caps (see that on google) 2. pull the heatsink and replace the heatsink compound.  </s>
+<s> 3. clean the card of all dust and check the fan after i reinstall it.  </s>
+<s> 4. leave the case cover off the pc and point a fan at the open pc to see if this is heat related.  </s>
+<s> 5. i didn't write about drivers.  </s>
+<s> but check the usual forums to see if folk have a favorite version.  </s>
+<s> she lays over here in the closet, so i wanted to see if it could be repaired or something.  </s>
+<s> as proffitt said, i have done that already, so it is good looking at caps and all that.  </s>
+<s> replaced thermal compound with artic silver 5. and it's not heat related, because as soon as i open a game, she freezes.  </s>
+<s> i have a one more card laying here, and that is a hd 4850, that won't show any video.  </s>
+<s> i don't know what is wrong there either.  </s>
+<s> link: i see this has dual 18a 12v supplies.  </s>
+<s> but without knowing the age i'm going to cut the amperage in half (5 year old supply on average does that) and see if 9 amperes is enough for either card.  </s>
+<s> that 1900xt called for &quot;30 amps on 12 volt rail recommended&quot; so even in it's prime that psu didn't meet the spec. the 4850 seems to call for 242 watts or 20+ amperes so again this psu missed the mark by miles.  </s>
+<s> has anyone chatted with you about the need to never go near the limits of a psu?  </s>
+<s> why i ask is some psus will fail in a catastrophic manner and wipe out anything connected.  </s>
+<s> bob  </s>
+<s> so i run gtx 275 off it, and it runs great, blasting cool air outside.  </s>
+<s> but i have been searching for solution and i stumped across one post, that says i should bake my card in oven.  </s>
+<s> what do you think about it?  </s>
+<s> i showed that these cards take so many amperes and even new, has only 18a on any rail. it appears you are about to learn why many here will write about single rail supplies.  </s>
+<s> if that new psu had been a single 36a rail rather than a pair of 18a then we may have never had this discussion.  </s>
+<s> bob  </s>

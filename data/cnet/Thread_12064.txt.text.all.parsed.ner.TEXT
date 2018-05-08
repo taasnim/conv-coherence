@@ -1,0 +1,57 @@
+<s> i have been using a wg111 wireless usb adapter for some number of years.  </s>
+<s> my previous configuration (winxp pro sp2, home-brew athlon xp system) worked fine for 2-3 years.  </s>
+<s> i recently &quot;upgraded&quot; to a dell dimension 9200 (winxp pro sp2, core2 duo, etc.) and periodically get bsod at boot time due to driver crashes.  </s>
+<s> i have not (yet) lost data.  </s>
+<s> in trying to track down this problem, i have seen much scathing commentary.  </s>
+<s> i guess i just lucked out --- until now.  </s>
+<s> i am using the latest drivers... so, is there a stable wireless g usb adapter out there?  </s>
+<s> should i switch to pci?  </s>
+<s> my network is stable, as there are 3-4 laptops having no problems. the setup in my house precludes a wired connection.  </s>
+<s> thanks, al  </s>
+<s> and you are using my suggested router settings?  </s>
+<s> read what's those settings?  </s>
+<s> (wpa and leave ssid broadcasting, no other settings from stock!) bob  </s>
+<s> bob, thanks for the quick reply. the download states that i will get driver version 5.1254.1120.2006.  </s>
+<s> when i check in device manager, i still get 3.0.18.201. the driver dir of the update did not seem to have an inf file for the wg111v2, just a .sys  </s>
+<s> file. the inf file is net111v2.  </s>
+<s> also, when i try to run the installed &quot;netgear wg111v2 smart wizard&quot; i get the hourglass for 1/2 second.  </s>
+<s> btw - did you got to penn st?  </s>
+<s> sorry the driver didn't contain any update.  </s>
+<s> ok there are other reasons for this to crash.  </s>
+<s> let's try a few tools and scans.  </s>
+<s> 1. run winsockfix.  </s>
+<s> retest.  </s>
+<s> 2. scan with this tool, tell me if it found anything other than cookies.  </s>
+<s> if there were any pests removed repeat item 1. 3. i wasn't sure if it crashed everytime, but if so what else is in the event viewer?  </s>
+<s> bob  </s>
+<s> event log has this: a duplicate name has been detected on the tcp network.  </s>
+<s> the ip address of the machine that sent the message is in the data.  </s>
+<s> use nbtstat -n in a command window to see which name is in the conflict state.  </s>
+<s> for more information, see help and support center at .  </s>
+<s> there are no other machines on the net at this time... need to leave for a few hours.  </s>
+<s> i will check back later.  </s>
+<s> thanks for all of your help!  </s>
+<s> that is exactly one of the clues that lead me to write about escalating numbers of a new wifi exploit tool.  </s>
+<s> this does cause drivers to crash!  </s>
+<s> read the fix is thankfully easy.  </s>
+<s> just take the router's defaults, rename the ssid, enable wpa, let ssid broadcast and it should knock the attacker offline.  </s>
+<s> a few report that the attack continues for a few days but the move to wpa usually finds them giving up in a week or less.  </s>
+<s> bob  </s>
+<s> bob, thanks again for the worthwhile information!  </s>
+<s> now i just need to figure out the best way to run the radius server for my home net.  </s>
+<s> i would prefer not to leave a computer on all the time, but i may again, your help has been exceptional!  </s>
+<s> no radius server is needed.  </s>
+<s> bob  </s>
+<s> wpa-psk transition was straightforward.  </s>
+<s> now, i will wait to see if i get another bsod.  </s>
+<s> thanks again...  </s>
+<s> it's windows... sorry but i've yet to see this platform to be perfected yet.  </s>
+<s> if it doesn't do this in a day you have to consider other issues.  </s>
+<s> bob  </s>
+<s> yes, i understand the periodic bsod will occur.  </s>
+<s> you say, &quot;if it doesn't do this in a day you have to consider other issues.&quot;  </s>
+<s> do you man &quot;does&quot;?  </s>
+<s> sorry to belabor.  </s>
+<s> i could have written that better, but i think the point is that it is what it is.  </s>
+<s> bob  </s>
+<s> thanks again for all of you help!!!  </s>

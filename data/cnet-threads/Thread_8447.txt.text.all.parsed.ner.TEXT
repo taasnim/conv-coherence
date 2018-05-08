@@ -1,0 +1,41 @@
+<s> this is a pretty noob type question, and you'd think this would be a common question with tons of information on the net.. but god knows i cant find it.  </s>
+<s> anyway i'm wondering in medium-to-high end gaming and average desktop applications what is the real-world difference between dual and single core processor(s)?  </s>
+<s> and why does an intel dual core at 3.0( ) cost nearly the same an amd dual core 2.0 ( ) i'm sure there is some obvious answer i'm not aware of.. so someone educate me!  </s>
+<s> corporation than amd and is almost in a life and death struggle since the amd's so badly outperformed the intel p4's.  </s>
+<s> however, be certain, that intel is working on recovering their reputation, thus they [as well as amd] will be bringing out new versions of their dual cores post haste.  </s>
+<s> imho, rather than learn all the details of the inner workings of the present version, i would wait about three months until they come out with their next generation dual cores [not the half arsed thing that intel just came out with, it didn't even have the thermal protection diode and circuit in it so they could get it out in a hurry].  </s>
+<s> then when the amd's support ddr2 [or they may go directly to ddr3] and intel has the two cores with a decent means of communication between the two cores, and have some chance of being kept cool, then study the details at places such as tomshardware, anandtech, and other such places.  </s>
+<s> seems that many are totally disenchanted with ddr 2 as not really providing the bandwidth expected with their increased latency.  </s>
+<s> somehow ddr3 with even higher latency, seems to provide substantially more bandwidth than ddr 2. again imho, allow the dual wars to shake out for a while.  </s>
+<s> ...amd makes better performing single and dual core cpu's than intel. the intels win a couple benchmarks, but the amd's pwn them in gaming, and most other benchmarks.  </s>
+<s> here's the best cpu comparison chart; you can choose two cpu's and directly compare them in real world and synthetic benchmarks.  </s>
+<s> to the original poster.  </s>
+<s> twas an excellent post by you.  </s>
+<s> or put the name of the person that you are referring to in the subject line.  </s>
+<s> ah good advice.  </s>
+<s> that's pretty much what i expected- currently i'm sure tryin to decide what kinda of a mobo to buy so down the road when i can afford a new processor i'm compatible with the best options..  </s>
+<s> that's excellent- thank you sir!  </s>
+<s> new socket type that amd must go to in order to support ddr2 or ddr3 or whatever they finally choose.  </s>
+<s> ...you're welcome?  </s>
+<s> my p4 said bye bye, so now i'm trying to decide which a64 and board i'm going to get.  </s>
+<s> i'm probably going to get the 3700+, but i'm undecided about the motherboard.  </s>
+<s> is anyone taking into concideration that there's not a lot of software out there to fully take advantage of the dual core's features and processing powers?  </s>
+<s> it's new...let it sit for a while and let software catch up before you dish out some money due to hype and vibe. the way i see it a dual core system is a playstation2 when it first came out.  </s>
+<s> and everyone's playing ps1 games on it thinking they're modern and in the loop.  </s>
+<s> well imagine how much better when there are more ps2 games designed to run on the ps2.  </s>
+<s> but hey that's just me  </s>
+<s> ...heavy multitaskers who use photoshop and flash at the same time as they have documents, spreadsheets, and browser windows open.  </s>
+<s> i (like about 20 million other kids) am dying to update my system to get oblivion running well.. so the wait could kill me... heh let me put it to you this way- if you were going to buy a board now- givin what you know (and it should probably be nvidia and amd friendly) what would you do?  </s>
+<s> this is a topic that lots of people will have differnt things to suggest.  </s>
+<s> people out there, wanting to upgrade, or build a new system now, sometimes can't wait (my intel system just crashed) and with all the newly developing options and outlooks make things more confusing than ever.  </s>
+<s> as for what was said about waiting for the newer amd board, supporting faster memory, in most situations todays memory should be good enough... right? the question burning me up right now, is what current specs will be needed for future developments (os, dual core, 64bit, meory speed), and what will be optional/benificial.  </s>
+<s> i think you might be getting confused with 64-bit.  </s>
+<s> as long as the operating system deals with dual-core processors correctly, the applications don't need to do anything extra to support them.  </s>
+<s> win xp pro can take two threads of a normal application and run them through seperate cores.  </s>
+<s> mac os x does the same thing.  </s>
+<s> the linux smp kernel does it too.  </s>
+<s> some programs might crash if run on a multi-core machine on a system which supports it, but that's something different.  </s>
+<s> 64-bit support, on the other hand, needs to be coded into applications.  </s>
+<s> ----------- may i just add that dual-core processors are good for thin-client situations?  </s>
+<s> on linux, you can have all tasks performed by a server, and have many thin clients which just transmit key presses and mouse movements, and recieve screen image in return (well, it's not actually a screen image, but that's just the easiest way to describe it).  </s>
+<s> a multiple-core processor works wonders in these servers, as programs can then run in each core.  </s>

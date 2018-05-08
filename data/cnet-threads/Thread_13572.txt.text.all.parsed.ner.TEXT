@@ -1,0 +1,91 @@
+<s> the intermittent thumping is my head hitting the wall.... i'm a relatively competent it professional.  </s>
+<s> i have built/upgraded a number of pc's and i'm pretty comfortable working inside the case.  </s>
+<s> i decided at christmas to build a new pc, primarily for the kids since the games they are playing now are pushing the limits of the capability of their current system.  </s>
+<s> i kept an eye towards ensuring the new machine was &quot;vista capable&quot; and here are the components i purchased intel desktop board - dg965ry intel core 2 duo processor - e6400 1 gb ram (no-name) ati radeon sapphire x1900gt i constructed the system in time for christmas and loaded winxp pro on it.  </s>
+<s> figured i'd let the time tick away on the &quot;trial&quot; period while i made up my mind about vista.  </s>
+<s> upgraded it completely and installed norton. the system worked fine with xp. installed a number of peripherals, including a linksys wireless network adapter.  </s>
+<s> no problems with the machine on the network.  </s>
+<s> since the trial period was coming to an end, i decided to stick with xp and attempted to activate the license, but ran into all kinds of trouble working with ms on the activation. the trial period for winxp had ended before i could activate it so after wasting a bunch of time with ms tech support trying to activate xp (they werent very helpful), i decided the heck with it, i'd just skip the hassle and install vista. the kids had a month worth of saved stuff that i wanted to preserve if i could, so that presented a challenge since i couldnt log on interactively.  </s>
+<s> first, i rebooted and attempted to bring the system up in safe mode so that i could copy some files off of the system and i got an invalid bios password login.  </s>
+<s> no problem, i reset the bios password and boot up in safe mode.  </s>
+<s> copied some files (user stuff only) to the d partition and on to the new os the day i purchased the edition of vista, the system was working fine.  </s>
+<s> no real issues to speak of.  </s>
+<s> (the one bios issue i mentioned and nikon view 4 was throwing a registry error on login for non-administrators).  </s>
+<s> i purchased the &quot;full&quot; version of vista since i hadn't activated xp. the install went fine.  </s>
+<s> no issues at all. the os evaluated the hardware (vista experience rating of 4.5) and determined that everything was fine, but more ram is always better.  </s>
+<s> then things went downhill fast.... i attempted to install the linksys wireless network adapter to get it on my network (make it easier to install nav and virus signature files that i already had) and it didn't recognize it.  </s>
+<s> uninstall, reinstall, repeat.  </s>
+<s> no luck.  </s>
+<s> i could see the adapter in the device mgr, but the linksys wireless configuration utility wasn't in the program listing and adapter didn't appear to be properly installed since it wouldnt obtain an ip address from the network.  </s>
+<s> i went to linksys website on my other computer and downloaded the latest device driver for the adapter and put it on a thumb drive.  </s>
+<s> just as i got back to the new pc, the screen went black.  </s>
+<s> i figure it went into powersave, but no such luck. the mobo was dead.  </s>
+<s> it wouldn't post at all.  </s>
+<s> reset the jumpers to reconfigure, no luck.  </s>
+<s> pulled the battery to reset the cmos, no luck.  </s>
+<s> pulled all cards, ram, everything and it wouldn't give beep codes, nothing.  </s>
+<s> figured it could be the processor or the mobo, and since i don't have another dual core machine handy, i took it to the neighborhood pc store.  </s>
+<s> $45 later, they confirm it's the mobo.  </s>
+<s> processor checked fine for them on another pc. called intel.  </s>
+<s> rma comes, goes.  </s>
+<s> new mobo arrives and i install it into the chassis and the machine boots no problem.  </s>
+<s> it recognizes that the last shutdown was less than kosher, so it gives me the option to go to safe mode, which i passed on.  </s>
+<s> i login fine and reboot a few times, no issues.  </s>
+<s> i went to install the same linksys adapter and again, some issues.  </s>
+<s> still had the driver on the thumb drive and before i could even put the drive in the usb port, the screen went black.  </s>
+<s> intel is sending me a 3rd mobo, but im getting a little tired of this.  </s>
+<s> anybody got any ideas?  </s>
+<s> vista is broken.  </s>
+<s> works ok with xp, kills motherboard with vista.  </s>
+<s> what's wrong with this picture?  </s>
+<s> i've been doing pcs for years, and building my own pcs and servers.  </s>
+<s> i won't touch vista with a ten meter cattle prod.  </s>
+<s> drivers don't work (as you've found), peripherals don't work (read the vista forum), on and on ad nauseum.  </s>
+<s> and microsoft admitted today that sales of vista are slumping.  </s>
+<s> well, duh.  </s>
+<s> i've yet to get a definitive answer why one would go vista over xp. now.  </s>
+<s> that said, how could software destroy hardware?  </s>
+<s> good question, wayne.  </s>
+<s> it's either a grand coincidence, or it really happens.  </s>
+<s> how?  </s>
+<s> don't know.  </s>
+<s> got an idea?  </s>
+<s> yep.  </s>
+<s> dump it and go back to xp when you get the new system board.  </s>
+<s> there are 10 types of people who understand binary; those that do and those that don't.  </s>
+<s> click here to see the cnet faces, learn a little about analog and digital data, internet connections, spyware removal, and download free software.  </s>
+<s> incompatibility issues are common-place with vista, but activation issues with xp aren't.  </s>
+<s> i don't know what type of issues you had, but if you have a legit copy of xp and an internet connection, activation is transparent.  </s>
+<s> software absolutely can't kill hardware. the bios might kill it, a component might kill it, but the os can't.  </s>
+<s> software doesn't kill h/w unless it strangles it so bad, it appears so.  </s>
+<s> as any new os before, vista is plagued by compatibility and/or device issues(drivers).  </s>
+<s> one reason as always, new is better as it in all likelyhood they will work.  </s>
+<s> even then, some wrinkles always are present and need ironing out.  </s>
+<s> welcome to the new os and the muddling steps to correct them.  </s>
+<s> you wonder why any ms product takes so long to &quot;finally&quot; get released, you're experiencing why.  </s>
+<s> remember, xp was much like this when it got pushed out, so wait and many an issue will be resolved but not on your time table.  </s>
+<s> tada -----willy  </s>
+<s> the xp activation is sidelight to the story, but thought it was important to convey that the initial construction of the box was sound, that i hadn't screwed up the wiring somehow.  </s>
+<s> trust me, the thought crossed my mind, but the system components worked fine for a month and the only difference was the os. sadly, my attempt to activate xp wasn't transparent.  </s>
+<s> ms wouldn't give a new key for the activation code i had. the software copy used was purchased right after xp was released and i have since retired the system it was originally installed on.  </s>
+<s> dealing with the non-standard xp activation by phone was a nightmare and i was beaten into submission after about 2 days of being transferred to busy signals and endless hours on hold only to get told that the activation code had already been used.  </s>
+<s> i have never seen a case of software killing hardware either which is why i'm posting here.  </s>
+<s> there is a logical explanation for the problem, but i can't see it, so i'm looking/hoping for some practical advice.  </s>
+<s> i've seen hundreds of incompatibility issues, but nothing like this.  </s>
+<s> new mobo is on the way and will be here on monday.  </s>
+<s> not looking forward to shelving my $239 copy of vista and spending another $200 for another copy of xp pro.  </s>
+<s> i've got little or no experience re building functional hardware, but i do like it inside my 'case'. the only way an o/s could blow up a mobo would be if it could demand to much through one piece of hardware of another.  </s>
+<s> is it possible vista's program include rewrites for operational h'ware so that too much could be asked of another piece.  </s>
+<s> there seems an awful lot to a mobo, i wonder just which part fails.  </s>
+<s> surely there's basic amp meter testing and a dead mobo should be bloody obvious?  </s>
+<s> i've never unlocked programming & my operative software is well beyond me, but someone versed in software aught to be able to pick changes in programs if they exceeded usual operating ranges or hardware limits.  </s>
+<s> it strikes me that one of the difficulties developers are facing is the dilemna of limited human concentration span.  </s>
+<s> it must take a team of people cooperating closely to properly deliver packages of that size i think...  </s>
+<s> the system is now up and stable.  </s>
+<s> i decided not to take any more chances with the linksys usb network adapter and purchased an internal wireless card (belkin).  </s>
+<s> formatted the disk first and did a clean reinstall of the os. i upgraded the bios and installed the components one at a time and didn't have any trouble except that the usb support from the mobo was a little flaky (keyboard and mouse would stop responding when another usb device was plugged in).  </s>
+<s> upgraded the bios again (same version) and it all works fine now.  </s>
+<s> i'm still kind of leery of the systems stability though.  </s>
+<s> i ran a virus scan before going to be last night and came back to look this am and fully expected it to be dead again.  </s>
+<s> i'll probably get over that in time.  </s>
+<s> rt  </s>

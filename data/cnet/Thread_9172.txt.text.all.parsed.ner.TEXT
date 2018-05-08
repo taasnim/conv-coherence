@@ -1,0 +1,26 @@
+<s> i've hardly used used scsi for years but i've kept a beige g3 attached to a scanner via scsi under system 9.0x, just for the odd bit of scanning we do.  </s>
+<s> the g3 video card seems to have crapped out, so my first thought was to attach the scanner to a g4 that still has a scsi card.  </s>
+<s> but the g4 is now running 10.4 and no longer recognises the scsi card.  </s>
+<s> (it doesn't show up in the system profile at all.) sorry, i don't know the make of the scsi card.  </s>
+<s> i've found a driver/application from vuescan that should get the scanner working.  </s>
+<s> if i can get the scsi card working, i should be home and dry.  </s>
+<s> you will need the drivers for os x to make it do anything.  </s>
+<s> it may(?) show up as something in the system profiler but if it doesn't, this could mean that it is a defective card.  </s>
+<s> surely there is a manufacturers name or some other distinguishing mark on the card.  </s>
+<s> p  </s>
+<s> thanks for the reply.  </s>
+<s> i've pulled the card out and i've found the legend 'lite on'.  </s>
+<s> their own site doesn't seem to have anything about computer-related products.  </s>
+<s> anything else i've found on the web seems to be of historical interest only.  </s>
+<s> any suggestions gratefully received.  </s>
+<s> are a big manufacturer of electronic components for computers and other devices.  </s>
+<s> theyalso make scanners, motherboards, cdroms, dvd burners, just to name a few.  </s>
+<s> however, i cannot find any reference to a scsi board.  </s>
+<s> adaptec were always the scsi board of choice for the mac and probably still is.  </s>
+<s> they have a 2906 model, part number 1772900, which may be suitable.  </s>
+<s> it mentions os x (10.1) but it would be worth the price of a free phone call to find out. the card is $65 p  </s>
+<s> i appreciate your time and effort.  </s>
+<s> i'll check out adaptec 2906 model, part number 1772900.  </s>
+<s> now that you've got me thinking, i may even have an adaptec scsi card somewhere.  </s>
+<s> whether it has osx support is another issue but it's another route i could try.  </s>
+<s> cheers.  </s>

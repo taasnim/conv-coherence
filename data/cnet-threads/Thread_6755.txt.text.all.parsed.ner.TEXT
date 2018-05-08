@@ -1,0 +1,66 @@
+<s> i bought a used g4 and it worked ok for a bit but it used to lose the time and date.  </s>
+<s> one day, it wouldn't start at all, so i worked out it was probably a pram problem and changed the internal battery.  </s>
+<s> the new battery measures ok on my (admittedly very basic) meter but nothing happens when i try to power up the machine.  </s>
+<s> i have checked and there is mains voltage going to the power supply.  </s>
+<s> any ideas?  </s>
+<s> here is a trick i have used for many years.  </s>
+<s> remove the battery from the machine.  </s>
+<s> remove the power plug from the machine.  </s>
+<s> press the cuda button(it is on the motherboard), little square thing with a top that looks like a pencil eraser.  </s>
+<s> once press the power on button on the front of the machine.  </s>
+<s> leave the whole thing for at least 30 minutes.  </s>
+<s> then put the battery back in put the power cord back in press the power on button on the front of the machine sit back and enjoy the startup chime.  </s>
+<s> if this works, let me know and i'll tell yo what we just did.  </s>
+<s> if not, tell me and we'll start again p  </s>
+<s> thank you so much for the advice.  </s>
+<s> i followed it carefully but i'm afraid it didn't work for me. the machine still shows no sign of life.  </s>
+<s> i appreciate your input,  </s>
+<s> well that rules out a pram problem then.  </s>
+<s> what we did there was to totally reset the logic board (motherboard) removing the battery and the power cord removed all sources of power.  </s>
+<s> pushing the &quot;on&quot; button discharged the capacitor the kickstarts the power supply.  </s>
+<s> by leaving it for 30 mins, all vestiges of power were drained from the machine.  </s>
+<s> 99 out of 100, this works and the machine bursts back into life.  </s>
+<s> sorry for you being #100.  </s>
+<s> if nothing happened at all, i would suspect, first, the power supply.  </s>
+<s> there are ways to test this atx type power supply but the normal step is to replace it and see if that was the problem.  </s>
+<s> unfortunately, this is an apple part so a regular atx power supply is not going to fit.  </s>
+<s> are you absolutely sure that there are no lights at all on the logic board after you push the on button?  </s>
+<s> it's quite safe to have the door down when you are doing this.  </s>
+<s> just watch the cat and the coffee!  </s>
+<s> this may sound redundant, but, make sure that all the connectors to the logic board are seated well.  </s>
+<s> disconnect them and put them back.  </s>
+<s> power cord out for this step.  </s>
+<s> remove any extra ram that you have installed, ditto any extra hardware. the only thing plugged in should be the keyboard, mouse, monitor and power cord.  </s>
+<s> try to power up.  </s>
+<s> if you have a friend with a working g4, beg, borrow or steal their power supply.  </s>
+<s> purely for diagnostics, you understand.  </s>
+<s> good luck p  </s>
+<s> thank you again for the input.  </s>
+<s> knowing what the procedure is doing is extremely helpful, as is advice on what else i can try.  </s>
+<s> i do have access to an almost identical g4, so swapping the power supplies would be possible.  </s>
+<s> before i do that, i'm wondering if i'm simply not following your instructions correctly.  </s>
+<s> when i opened up the g4 again, there was a little red led glowing, which suggests the motherboard is getting at least some power.  </s>
+<s> is it safe to repeat the procedure?  </s>
+<s> (you said to push the button on the board only once.) i'm wondering if i have correctly identified the button. the thing i am looking at is above the positive connection for the battery, about 1/4 inch square metal casing with a round button about the size of an artificial sweetner.  </s>
+<s> however, there was nothing about its action to suggest that it was a button when i pushed it.  </s>
+<s> thanks again  </s>
+<s> you are correct about the location of the cuda button.  </s>
+<s> if you use a blunt instrument, no pointy things, to push it down, you will feel a slight give in the button.  </s>
+<s> that's all it takes.  </s>
+<s> push straight down and then release.  </s>
+<s> i usually use the end of a pencil to push it with.  </s>
+<s> once is the recommended number of times as there is a theory that more than that will mess up the firmware on the board.  </s>
+<s> this is not from experience, however... yes, it is quite safe to repeat the procedure.  </s>
+<s> check the battery is in the holder correctly.  </s>
+<s> i'm sure you have already done that given the observation about the positive connection.  </s>
+<s> go at it again and good luck p  </s>
+<s> just where, in the green and pleasant land, does mr simoncroft hail from?  </s>
+<s> p  </s>
+<s> i do believe you'll have good luck if you boot your mac and hold down command-option-p-r (four keys) it will chime and reboot.  </s>
+<s> after that it will boot properly, unless there's another problem.  </s>
+<s> any time the battery's involved, it's best to zap the parameter ram (pram).  </s>
+<s> if you read the posts, you will find that removing the battery and resetting the logic board does exactly that.  </s>
+<s> p  </s>
+<s> do you have any suggestions?  </s>
+<s> my laptop is completely dead.  </s>
+<s> its a g4  </s>

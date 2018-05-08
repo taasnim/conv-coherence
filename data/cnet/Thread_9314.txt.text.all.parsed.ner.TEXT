@@ -1,0 +1,30 @@
+<s> does anyone know if you can take a p/s right out of the box, put it on the counter, plug it in and everything should work fine or does it have to be installed?  </s>
+<s> i bought a 400w coolmax and when i plugged it in the fan ran for a second and shut down.  </s>
+<s> both on the counter and in the case.  </s>
+<s> no other cables connected.  </s>
+<s> thanks  </s>
+<s> a power supply is not installed.  </s>
+<s> take it back.  </s>
+<s> i suspect you may need an item like this to test/power on the ps as a stand alone unit.  </s>
+<s> however i am not in the pc build-it/fix-business.  </s>
+<s> you need a load in order to test, otherwise the p/s unit will shutdown or simply not work.  </s>
+<s> i assume when you say, &quot;does it have to be installed?&quot; that all the required wire harness were hooked-up and if so and it still did that either an improper connection or bad unit.  </s>
+<s> i exclude any possible mtrb(system) problem besides the p/s, as if that's the reason you brought it the 1st place?  </s>
+<s> good luck -----willy  </s>
+<s> the only load was the rear 120mm fan.  </s>
+<s> no other components are even installed in the case.  </s>
+<s> seems to me that the p/s should at least provide enough power to turn it's own fans.  </s>
+<s> of course that's why i asked.  </s>
+<s> thanks  </s>
+<s> the behavior you describe is normal for an &quot;atx&quot; type power supply, the type used in virtually all pc's made in the last 5 years or so.  </s>
+<s> an atx supply is actually turned on via the motherboard.  </s>
+<s> the switch on the back of the supply, if any, only switches on/off the ac going into the supply.  </s>
+<s> to test on the bench, you need first attach a &quot;load&quot; to the supply to prevent damage, then jumper pins 14 and 15 to start the supply.  </s>
+<s> please do not try this if you are not comfortable playing around with electricity!  </s>
+<s> see for more info.  </s>
+<s> you need a true load whether it be the actual mtrbd.  </s>
+<s> or a &quot;dummy load&quot; sold for that purpose.  </s>
+<s> shows such a device.  </s>
+<s> other vendors offer it as it as well, probably called an atx p/s dummy/load tester.  </s>
+<s> i believe has it as well.  </s>
+<s> good luck -----willy  </s>

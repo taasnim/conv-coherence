@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (NP (DT a) (NN doubt))) (. .)) )
+(TOP (SBARQ (WHNP (WP what)) (SQ (VP (AUX is) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (location (CD pc2-4200)) (NNP ram)) (CC and) (NP (CD pc-4200) (NNP ram))))) (: ...) (ADVP (ADVP (RB as) (RB far)) (SBAR (IN as) (S (NP (PRP i)) (VP (VBP know) (SBAR (S (NP (DT both)) (VP (AUX have) (NP (QP (CD 533) (CD mhz)) (NX (NX (NN memory) (NN speed)) (CC and) (NX (ADJP (CD 4.2) (NN gb)) (NN bandwidth))))))))))) (: ...) (SQ (MD will) (NP (PRP they)) (VP (VB work) (PP (IN in) (NP (DT the) (JJ same) (NNS slots))))))) (. ?)) )
+(TOP (PRN (-LRB- -LRB-) (NP (JJ ddr2) (NN ofcourse)) (-RRB- -RRB-)) )
+(TOP (SBARQ (RB sorry) (PRN (CC but) (S (VP (TO to) (VP (VB save) (NP (PRP me)) (S (VP (VBG looking) (NP (PRP it)) (ADVP (RB up)))))))) (SQ (MD can) (NP (PRP you)) (VP (VB provide) (NP (NP (NNS links)) (PP (TO to) (NP (VBN said) (NNS products)))))) (. ?)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (NNS is)) (VP (VBD ddr2)) (. .)) )
+(TOP (S (NP (NNP ddr2)) (VP (AUX has) (NP (JJR higher) (NN latency)) (, ,) (SBAR (ADVP (RB however)) (IN if) (S (NP (DT the) (NN system)) (VP (VBZ supports) (NP (DT that) (NN memory)) (NP (NP (JJ -LSB-ignoring) (VBG overclocking) (NNS -RSB-)) (SBAR (S (NP (PRP you)) (VP (AUX have) (NP (DT no) (NN choice)))))))))) (. .)) )
+(TOP (S (NP (JJ many) (NNS people)) (VP (VBP put) (NP (CD pc-4200)) (PP (IN into) (NP (NNS mobos))) (VP (VP (VB thare) (NP (NN support) (NN pc) (date (CD 3200)))) (CC but) (VP (ADVP (RB then)) (VB overclock) (NP (DT the) (JJ emeory) (NN bus))))) (. .)) )

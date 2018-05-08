@@ -1,0 +1,46 @@
+<s> i currently use a powerbook, and i access the internet though our airport extreme router.  </s>
+<s> recently, for some reason, although i am on the right network, and signal strength is full - i am unable to connect to the internet!  </s>
+<s> i've called my provider, and everything is fine on their end according to their systems.  </s>
+<s> i've tried power cycling, and checking my settings, and everything seems to be ok. am i doing something wrong?  </s>
+<s> what do i do?  </s>
+<s> i am very frustrated.  </s>
+<s> please help.  </s>
+<s> can you connect to the internet if you connect your powerbook directly to the modem or router (not the airport extreme) using ethernet cable?  </s>
+<s> if no, then there could be a problem with your modem or router.  </s>
+<s> if yes, reset the airport extreme and run the airport setup assistant again.  </s>
+<s> p  </s>
+<s> thank you for your reply.  </s>
+<s> however, i am still unable to connect.  </s>
+<s> anything else you would suggest?  </s>
+<s> it is greatly appreciated. the frustration unfortunately remains...  </s>
+<s> using ethernet cable directly to the modem or router, then the problem is not in the airport.  </s>
+<s> you have to establish a connection to the internet first to rule out all the variables.  </s>
+<s> shut down everything, modem/router/switches/airport/computer.  </s>
+<s> connect the computer directly to the modem.  </s>
+<s> make sure the computer is set to expect an ip address via dhcp or if you are using pppoe, that everything in that section is correct.  </s>
+<s> connect should be via built-in ethernet.  </s>
+<s> bring them back up in the same order, waiting for each one to become ready before firing up the next one.  </s>
+<s> once the modem and computer are back up, try to get on-line.  </s>
+<s> take a look at the network preferances pane and see if the computer has an ip address.  </s>
+<s> if it starts with 169, shut it all down and try again.  </s>
+<s> p  </s>
+<s> my macbook is connected to the internet via my airport extreme transceiver/router.  </s>
+<s> suddenly it fails to connect to the internet although signal strength is high.  </s>
+<s> when i abandon the extreme and opt for the plain old wifi offered on the primary household system, voila!  </s>
+<s> internet.  </s>
+<s> but the extreme is faster and preferred on this machine.  </s>
+<s> i have recycled power on the extreme's hardware unit.  </s>
+<s> no joy.  </s>
+<s> i'm running os-x, 10.5.2. no software updates pending.  </s>
+<s> thanks.  </s>
+<s> regards, tom mcknight  </s>
+<s> why/how do you have both a regular router and the airport ex? how about using just the airport extreme to serve as the main/only router?  </s>
+<s> it's n, but backwards compatible to work with your old g or b wireless devices.  </s>
+<s> two separate networks, one upstairs and one downstairs, and for this he uses two routers.  </s>
+<s> refer to the network forum for more details p  </s>
+<s> both my mini-mac and my powerbook have a strong airport signal from my airport extreme base station.  </s>
+<s> the internet connection always works on the mini-mac (running10.5.4). the internet connection is sporadic on the powerbook g4 (os 10.4.11).  </s>
+<s> like now there is no internet, but the airport signal strength is great.  </s>
+<s> restarting the base station or the powerbook does not solve the problem.  </s>
+<s> you had this problem in the past.  </s>
+<s> what was your solution?  </s>

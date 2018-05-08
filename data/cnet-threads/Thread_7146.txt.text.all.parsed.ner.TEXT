@@ -1,0 +1,19 @@
+<s> i have been using a toshiba satellite laptop with intel wifi4965agn with no problems.  </s>
+<s> it suddenly no longer sees my router's ssid. the recent changes have been the purchase of an iphone4 2 days prior to the problem.  </s>
+<s> my wife has had the same phone for nearly a year without problems. the only other thing might be software updates, which were adobe reader, mcaffee antivirus and itunes. the most recent was adobe.  </s>
+<s> before it stopped recognizing my ssid, it would drop the connection and connect itself again.  </s>
+<s> it sees all the other ssids in the neighbourhood but not the one in the house!  </s>
+<s> very odd.  </s>
+<s> i tried running connectivity doctor.  </s>
+<s> it told me there was a problem the log says media state disconnected.  </s>
+<s> furthermore, our iphones are working perfectly.  </s>
+<s> i'.m using a buffalo wzr2 g300n but everything is in japanese.  </s>
+<s> i am able to set it up, just can't tweak it as the instructions for the english models are quite different.  </s>
+<s> any help would be greatly appreciated, thank you.  </s>
+<s> in english.  </s>
+<s> turns out the wifi channel was at 14 and my laptop was set to us channels which don't go that far.  </s>
+<s> bob  </s>
+<s> thank you very much!  </s>
+<s> i set the channel and it works but every now and then the connection drops.  </s>
+<s> thank you very much!  </s>
+<s> we have: hidden ssid mac filters wep distance 8 or more devices bob  </s>

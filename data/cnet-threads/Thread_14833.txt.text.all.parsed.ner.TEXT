@@ -1,0 +1,88 @@
+<s> i have this external hard drive that i plan on passing on to someone else but i want to make sure all data is gone and that no recovery tool can get it back.  </s>
+<s> so what is the best way to permanently remove the data from my external hard drive?  </s>
+<s> do i need special software?  </s>
+<s> do i refromat?  </s>
+<s> when i right click on it, it gives me a &quot;format&quot; option.  </s>
+<s> format to ntfs and then it gives me several allocation unit size option.  </s>
+<s> so would that do it?  </s>
+<s> again, do i need special software?  </s>
+<s> is there any kind of freeware out there that will do it?  </s>
+<s> however, you do need to use a different os and hope that the recipient doesn't know more than you.  </s>
+<s> erasing by overlapping with 1's and 0's doesn't do anything.  </s>
+<s> attach the drive in question to your computer.  </s>
+<s> download and burn a knoppix 5.0 english iso.  </s>
+<s> burn image to disk.  </s>
+<s> make an iso.  </s>
+<s> place in drive.  </s>
+<s> let the system boot up.  </s>
+<s> if it doesn't, go to bios boot menu and set cdrom device as the first.  </s>
+<s> let the gui come up.  </s>
+<s> close off the intro window.  </s>
+<s> click on the k, go to control panel.  </s>
+<s> in control panel, click peripherals -&gt; keyboard and set the rate 12/sec.  </s>
+<s> apply and close off.  </s>
+<s> open a terminal by clicking the small screen on the task bar.  </s>
+<s> &quot;knoppix@knoppix&quot; should comes up.  </s>
+<s> type sudo su type fdisk -l look for the drive such as sdb or hdb.  </s>
+<s> if you cannot determine such, disconnect and reconnect the drive.  </s>
+<s> use fdisk as such: fdisk /dev/path/to/external drive.  </s>
+<s> ptype p you will see a partition table type d then the number of the partition.  </s>
+<s> one by one do this.  </s>
+<s> if it is a logical within an extended, delete the logical then the extended.  </s>
+<s> type c then fill in the default values.  </s>
+<s> choose p as a primary.  </s>
+<s> type t then type ?  </s>
+<s> choose the value for fat32.  </s>
+<s> type w then p type q. disconnect the drive.  </s>
+<s> quit the terminal by typing exit, hit enter, type exit, hit enter.  </s>
+<s> use the k menu to restart the computer.  </s>
+<s> take the disc out.  </s>
+<s> boot into winblows and reattach the drive.  </s>
+<s> it should be empty.  </s>
+<s> if the person knows how to use testdisk, then you won't have any privacy.  </s>
+<s> yes, you need software.  </s>
+<s> you need to wipe the hard drive, ie... a program that writes random data on the drive over and over.  </s>
+<s> hiren's is free, and contains a couple of wipe programs.  </s>
+<s> just doing a format will leave all data to be easily recoverable.  </s>
+<s> just google for hd erase/wiping clean type of search, much of it is free.  </s>
+<s> these same pgms.  </s>
+<s> work on ext.  </s>
+<s> media, unless stated differently.  </s>
+<s> you can still reformat as a basic cleaning operation and unless the new user is keen on recovery, will do fine.  </s>
+<s> if you have no secrets then the typical cleaning s/w will do.  </s>
+<s> as for writing 0-1's to the cleaned drive, well again unless you have a nosy character, no one going to the trouble of reclaiming old data.  </s>
+<s> reloading an os or other s/w can make recovery difficult as this is a different yet somewhat random pattern of 1-0's.  </s>
+<s> then again, look at who you give or sell to as a guide.  </s>
+<s> i've used killdisk and dban on much of cleaning/wiping media and its done well by me.  </s>
+<s> if you're that worried about it, don't sell/give it away, destroy it.  </s>
+<s> tada -----willy  </s>
+<s> download revo uninstaler pro.  </s>
+<s> install it.  </s>
+<s> from tools choose delete (3 from down).  </s>
+<s> choose files to delete, and nobody can read, or restore them.  </s>
+<s> it is for future.  </s>
+<s> now your only choice is low format.  </s>
+<s> like many things in life: it depends on who you are afraid will target the disk for reading and the nature of the data stored.  </s>
+<s> if it is just porn or old financial records you seek to prevent recovery by your average teen hacker, follow the directions above.  </s>
+<s> if you have been up to no good and the revelation of the contents of the disk would place your life in jeopardy or your corpus in jail, then that's an entirely different situation and it calls for considerably different measures.  </s>
+<s> reconsider passing the disk on to someone else.  </s>
+<s> destroy the disk physically and promise yourself you'll never so such a stupid thing ever again.  </s>
+<s> if it's patient records and you fear hippa reprisals, for instance, the answer is to physically destroy the drive platters by breaking it up with a sledge hammer and then placing the drive into an auto prior to crushing.  </s>
+<s> do not rely on your paper shredding service to destroy the drive for you -- do it yourself.  </s>
+<s> if you have committed a crime which the disk contents are proof of, then additional measures to assure the cache memory is destroyed should be undertaken.  </s>
+<s> while applying an electric current will certainly damage the electronics in the drive it won't alter the info on the drive platters.  </s>
+<s> melting with a plasma torch after first wiping the disk with the electro-magnet on the crane at the wrecking yard and busting the drive platters into chunks with a sledge comes to mind if you wish to prevent the nsa from recovering the data.  </s>
+<s> but keep in mind, there is no foolproof way to keep those cyber-spooks at bay without going to extraordinary lengths which generate their own security triggers when initiated.  </s>
+<s> best not to keep such data anywhere but in your head (and then only if you cut out your tongue and chop off your hands if you are really serious about preventing recovery -- just kidding (sort of)).  </s>
+<s> a company i used to work for did hdd recover, and i am here to tell you that it is very easy to get every bit of information that the original user had written onto the drive.  </s>
+<s> our clients wanted files recovered and we were paid handsomely for it.  </s>
+<s> what you want is available for free and for a price.  </s>
+<s> i would never trust a free application.  </s>
+<s> but i would do one of two things, pay or destroy the drive.  </s>
+<s> and while i cannot personally vouch for whitecanyon, you'll want to look them over.  </s>
+<s> they appear to have everything you are looking for.  </s>
+<s> they charge $40 and here's the link.  </s>
+<s> but before i purchase their software i would register at and ask there just for a backup on reliability.  </s>
+<s> remember that all of the answers you get there are not 100% reliable but you'll know when the answer is not just a quick &quot;hey man try this&quot; type of response.  </s>
+<s> sure it's cheaper to destroy but it looked like you wanted someone to have a pc without any risk to you.  </s>
+<s> best of luck.  </s>

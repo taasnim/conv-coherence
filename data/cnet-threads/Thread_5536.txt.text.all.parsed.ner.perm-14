@@ -1,0 +1,7 @@
+(TOP (NP (NNP bob)) )
+(TOP (FRAG (NP (NNP ho)) (S (S (VP (VB hum))) (, ,) (NP (PRP it)) (VP (AUX 's) (NP (NN business)) (PP (IN as) (ADJP (JJ usual))) (PP (IN for) (NP (NP (NNP m)) ($ $)))) (. .)) (NP (NNP john))) )
+(TOP (S (NP (NNP april) (NN 1st)) (VP (AUX is) (ADVP (RB fast)) (VP (VBG approaching))) (. .)) )
+(TOP (NP (NP (JJR more) (NN money)) (PP (IN for) (NP (NN job) ($ $))) (. .)) )
+(TOP (S (NP (NP (DT a) (NN rose)) (PP (IN by) (NP (DT any) (JJ other) (NN name)))) (VP (MD would) (ADVP (RB still)) (VP (AUX have) (NP (NNS thorns)))) (. .)) )
+(TOP (NP (NNP john)) )
+(TOP (FRAG (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB plan) (ADVP (RB ahead)) (ADVP (RB ..))))))) (. .) (NP (NNP bob))) )

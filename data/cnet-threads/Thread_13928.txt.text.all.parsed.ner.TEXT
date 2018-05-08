@@ -1,0 +1,25 @@
+<s> hi, i'll be relocating to germany and of course will take all my computer stuff with me.i understand, that monitors and computers with a switch in the back can run with 220 - 240 v. if anybody out there has a suggestion what to do , that scanners, printers etc. can also be modified to run with 220 - 240 v please let me know.what  </s>
+<s> do i do about the charger for my notebook ?  </s>
+<s> i understand that converters are out there.  </s>
+<s> would that be the only option ?  </s>
+<s> thanks, gryta  </s>
+<s> my printer notes operation from 100 to 240 vac and 50 to 60 cycles.  </s>
+<s> this is known as a &quot;free voltage&quot; design and will need nothing more than an plug adapter.  </s>
+<s> bob  </s>
+<s> it's not the voltage differences between american and european electricity you need to worry about.  </s>
+<s> anything between 95 and 130 vac (volts alternating current) is considered standard wall socket and lighting voltage nearly world wide.  </s>
+<s> likewise 190 to 250 vac is standard large appliance voltage with two phase motors or heating elements to power.  </s>
+<s> i'd hate to think what would happen if you actually pluged your charger into a 220v outlet intended for heaters and dryers and such!!! it's the alternating frequency that can mess up some small appliances and electronic devices.  </s>
+<s> the us and canada supply house voltages at 60 hertz, where european electricity measures 50 hertz.  </s>
+<s> for most wall adapters (unless engineered to compensate for lower frequencies) deliver a reduced charging voltage as a result of the different rate.  </s>
+<s> on the other hand, european chargers, designed for 50 hertz, plugged into american electricity will produce higher voltages.  </s>
+<s> in some cases, a low operating voltage in some electronics can be just as damaging as too high a voltage.  </s>
+<s> most electronic devices have a tag or label around the power cord that will state the input range, i.e., 100 ~ 125 vac / 50 - 60 hz. a tag like (that includes both 50 and 60 hertz rates) means it's safe to plug in just about anywhere in the world.  </s>
+<s> this may seem like the silliest question ever, but it can be applicable to many appliances.  </s>
+<s> i'm trying to buy an american iron (austrian ones leave much to be desired), but all that i look at say only 120v, so i haven't purchased one.  </s>
+<s> however, am i looking at the wrong part of the tag?  </s>
+<s> i only want to use an adaptor, not converter, should i be checking for 60 hz instead?  </s>
+<s> thank you.  </s>
+<s> your info regatrding voltage levels around the world??? simply do a google search for &quot;country voltages&quot; and you may find that your info is incorrect.  </s>
+<s> also regarding the difference between 50 hz and 60 hz, while for devices with iron/ferrite cores the transformer losses vary somewhat, there are very few things for which it makes a failure condition.  </s>
+<s> yes i know that many years ago when california went from 50 hz to 60 hz, they saved enough in power meter losses to pay for the conversion.  </s>

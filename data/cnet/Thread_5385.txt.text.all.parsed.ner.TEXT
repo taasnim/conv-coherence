@@ -1,0 +1,34 @@
+<s> hello, i have a linksys wrt54gl v. 1.1 that has been dropping connection speed (starts at 54mb, then drops to 48mbs, 36mbs, 28mbs, down to 1mbs) then disconnects, then reconnects at 54 mbs.  </s>
+<s> after a short while, it will drop the speed again until it disconnects and reconnects again.  </s>
+<s> this is the third linksys wrt54gl that has done this. the first one was 5 years old before it started doing this in february, the second was 3 months old, and now the replacement linksys sent to me is doing this?  </s>
+<s> does anyone know what is going on with my router?  </s>
+<s> i am able to connect fine with the cat5 cable, but wireless seems to be the problem.  </s>
+<s> even my phone(s) get disconnected from the wireless router.  </s>
+<s> this problem just recently started and i don't know why, no settings had been changed on any of the routers until after the problem had already ocurred, then the linksys phone tech support had me make multiple changes.  </s>
+<s> that is how wireless works.  </s>
+<s> if it gets too many errors at a certain speed it will continue to reduce the speed until it gets one that works.  </s>
+<s> errors are generally caused by interference.  </s>
+<s> you many times will still see good signal strength since that does not measure the quality.  </s>
+<s> you best option is to change the channel until you find one that is more stable.  </s>
+<s> finding the source of the interference is tough.  </s>
+<s> it ranges from microwave ovens to the neighbors routers.  </s>
+<s> i would next try a different nic on your pc since it might be that end causing the issue.  </s>
+<s> last you could try to replace all your equipment (router and nics) with stuff that supports 802.11n.  </s>
+<s> n is more tolerant of interference than g. your other option is to buy dual band equipment and move to the 5g band.  </s>
+<s> while changing the channel is a great idea, if wep is noted or if someone is trying mac filters, those old security are now ineffective.  </s>
+<s> time to move up to wpa2 if possible.  </s>
+<s> bob  </s>
+<s> what is &quot;nic&quot; in reference to my pc and your post?  </s>
+<s> i know that when i search for wireless connections around my house, i pick up approximately 5 different ones!  </s>
+<s> i'll try switching channels to see if this helps.  </s>
+<s> network interface controller.  </s>
+<s> for laptop the wireless nic is built in for desktops it is mostly a usb device. the usb wireless nic work on both laptop and desktop.  </s>
+<s> since you have already replaced the router it is unlikely a hardware issue.  </s>
+<s> it is also very unlikely it is a hardware issue with your nic card but it is the cheapest thing to try next.  </s>
+<s> when you start replacing hardware it generally means you have tried everything else.  </s>
+<s> if it's an internet connection then you are sharing that connection with others (contrary to whatever any company tells you).  </s>
+<s> this is true for cable, dsl, fios, satellite.  </s>
+<s> the more people in the pool that you share are on, the slower your connection.  </s>
+<s> as people disconnect or their activity ceases your bandwidth increases again.  </s>
+<s> dslreports.com has a nice speed measuring tool which works not only for dsl. it is quite reliable.  </s>
+<s> use that during different hours of the day.  </s>

@@ -1,0 +1,7 @@
+(TOP (S (NP (CD 256)) (VP (VBD mb) (NP (NNP ram))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (AUX 've) (VP (VBN seen) (NP (RBR faster) (VP (VBN offered) (PP (IN for) (NP (NP (NP (JJ free)) (PP (IN on) (NP (NN freecycle)))) (CC or) (NP (NP (DT the) (JJ free) (NN area)) (PP (IN on) (NP (NP (NNP craig) (POS 's)) (NN list)))))))))) (. .)) )
+(TOP (S (NP (NNP 20)) (VP (VBZ gb) (NP (NN hard-disk))) (. .)) )
+(TOP (FRAG (NP (QP (CD 1.8) (CD ghz)) (NN processor)) (. .)) )
+(TOP (S (NP (PRP i)) (AUX am) (VP (AUX been) (VP (VBN offered) (PP (IN for) (NP (DT a) (JJ desktop) (NN processor))))) (. .)) )
+(TOP (S (NP (WP what)) (VP (MD should) (VP (AUX be) (NP (NP (DT a) (JJ good) (NN payment)) (PP (IN for) (NP (DT this) (NN system)))))) (. .)) )
+(TOP (FRAG (NP (JJ original) (NNP intel) (NN processor)) (. .)) )

@@ -1,0 +1,15 @@
+<s> i added a ata pci 133 card w/o incedent.  </s>
+<s> i then added a 200g harddrive to the pci card.  </s>
+<s> i set the drive to master since it is the only one on that particular cable.  </s>
+<s> i am unable to boot up the machine after adding the hard drive.  </s>
+<s> my guess is that the machine is attempting to boot-up from this second hard drive.  </s>
+<s> the drivewizard that came with the drive (seagate drive) only has information for adding the drive as a slave.  </s>
+<s> any hints?  </s>
+<s> also, on the start-up screen, though i hit &quot;f1&quot;, i do not go into system set-up.  </s>
+<s> tia, greg  </s>
+<s> cable select.  </s>
+<s> the new 80 conductor cables set the drive as master/slave depending on where its plugged in.  </s>
+<s> i'd retrace your steps and documentations.  </s>
+<s> old school ideas may have done you in.  </s>
+<s> bob  </s>
+<s> that was the answer!! thanks, bob - cable select is new info to me... greg  </s>

@@ -1,0 +1,39 @@
+<s> hello i am new to this networking thing.  </s>
+<s> first i am on comcast and have my own modem a d-link dcm 200 this works fine for the one computer, but i need to net work the others i have, soon to be three.  </s>
+<s> now i'll tell a small story.  </s>
+<s> i am now on my third router with no luck yet, the first one was a wired router that would not work with my modem.  </s>
+<s> i think it has to have something to do with comcast because it works on my friends dsl system, the second was a linksys wired with wireless it was returned after customer service could not figure out what was wrong. the latest one is also brand new and has been to the customer service phone lines.  </s>
+<s> it is a d-link wbr-1310 i would like to set this up manually since the instant setup just can't configure it.  </s>
+<s> has comcast put some sort of block on my modem that won't let it communicate with the router?  </s>
+<s> they (comcast) want to sell me their home networking kit.  </s>
+<s> i am running windows xp sp2. the router will communicate with my computer,the computer will communicate with the modem just not all three at the same time.  </s>
+<s> everyone i have talked with so far has had me do the power cycle thing, check the cables, swap them out all of that stuff and are you sure you get the internet with your modem?  </s>
+<s> duh?? well i know that their is someone out there that has had this problem and knows how to fix it, i hope  </s>
+<s> comcast and my dlink di-524.  </s>
+<s> maybe it's a dcm-200 but i looked at the product code with all the bar codes and it shows dcm-202.  </s>
+<s> sorry, but nothing in your post gives up the clue why you can't get it to work.  </s>
+<s> bob  </s>
+<s> are designed for the dcm-202, or vica versa.  </s>
+<s> after replacing my -200 with the -202 my speed also went to over 6 meg down.  </s>
+<s> i'd swap the modem.  </s>
+<s> comcast has been using dhcp to assign addressing for a long time.  </s>
+<s> i used to be able to get 3 public addresses if i connected 3 pcs to my switch that was connected to the comcast cable modem.  </s>
+<s> i had a linksys wrt54g that worked well for a while.  </s>
+<s> i decided to migrate over to my cisco 831 but could not get the wan ethernet to come up.  </s>
+<s> i finallt had the idea to shut down the linksys and then reboot the cisco.  </s>
+<s> suddenly the cisco was working.  </s>
+<s> when i powered up the dlink, it would no longer get a dhcp address.  </s>
+<s> it seems comcast has found a way to limit users to 1 ip address using dhcp.  </s>
+<s> in a nutshell, every router should work.  </s>
+<s> it is just a matter of the proper config.  </s>
+<s> skrall  </s>
+<s> i wonder if my problem is related to dhcp address assignmnt as it tells me that it cant get an ip address?!!!!??  </s>
+<s> the problem is most likely settings on your router, plus you never said if you were connected wired or not.  </s>
+<s> try a hard wire connection on your other two pc's that are not online to see if you can get a connection.  </s>
+<s> if not then you know where the problem is.  </s>
+<s> good luck  </s>
+<s> thanks for all the info.  </s>
+<s> got new cable modem gateway router combo now everything works pretty well for now.  </s>
+<s> had to pick up a linksys wireless -g cable gateway built in router and wireless all in one.  </s>
+<s> all is fine for now.  </s>
+<s> who knew that old modem was holding everything up thanks for the suggestions!  </s>

@@ -1,0 +1,26 @@
+<s> i recently purchased one more stick of mushkin sp3200 512mb 184-pin ddr sdram to add to the two that i already had.  </s>
+<s> my motherboard is a chaintech znf3-250 that supports up to 2 gigs of ram with 3 slots, but when i insert the new stick and boot up the pc it stays on the startup screen.  </s>
+<s> it shows &quot;memory testing: 1572864k , memory frequency is: [blank]&quot;.  </s>
+<s> i'm not much of a hardware troubleshooting person so i have no idea what to do.  </s>
+<s> please help.  </s>
+<s> to try each stick separately.  </s>
+<s> then all possible pairs.  </s>
+<s> [one pair, of course is the original pair] couls also change which slot each is in.  </s>
+<s> also read the manually thorughly,regarding memory capability.  </s>
+<s> i tried every possible combination using the original pair in different slots but i still get the same result.  </s>
+<s> the manual doesn't say much about memory except that it can support three 184-pin ddr dimms up to 2gb and it doesn't have any sort of troubleshooting in regards to memory.  </s>
+<s> should i try one of the bios or mobo drivers from their site?  </s>
+<s> download it, run from a floppy, with only the new stick in the computer.  </s>
+<s> other possibilities, the configuration of the memory chips on the new memory stick are not compatible with the mobo [if a proprietary type, got to crucial.com and search for your model number to see if you chose the correct type.  </s>
+<s> also check what cas [cl] the new memory is compared to the old, and check what settings for memory cas is set in the bios.  </s>
+<s> try using &quot;by spd&quot; and also try using the slowest cas setting 3 if ddr.  </s>
+<s> highest number for each parameter.  </s>
+<s> make sure your bios is updated and chipset drivers are installed.  </s>
+<s> they're available from the site you previously provided the link for.  </s>
+<s> it looks like you didn't do as ray suggested.  </s>
+<s> try each stick (one at a time) in the slot the mobo manual lists as being for single sticks (varies with each board).  </s>
+<s> after determining that all the sticks are good, then try the combinations as recommended by the manual.  </s>
+<s> by adding that 3rd stick, you probably lose dual-channel support.  </s>
+<s> chuck  </s>
+<s> thought of dual channel.  </s>
+<s> thanx  </s>

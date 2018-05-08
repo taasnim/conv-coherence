@@ -1,0 +1,32 @@
+<s> what is the difference between pc3200 and pc3200u (u=unbuffered?) shouldn't this be important enough to mention on web sites like (i may know viruses, but memory escapes me -  </s>
+<s> suspect buffered -unbuffered is addressed on mem mfg websites...sure its not there ?  </s>
+<s> vapcmd  </s>
+<s> you're right--it's not very conspicuous:  </s>
+<s> thank you !  </s>
+<s> strange how i would notice - over many years - the 8 larger black chips - but never notice that one, much smaller, tiny black chip.  </s>
+<s> so &quot;registered&quot; chips are the ones with the &quot;u&quot;.  </s>
+<s> these chips have a clock cycle delay.  </s>
+<s> the unbuffered chips are the one without the &quot;u&quot; (sounds like reverse polish notation).  </s>
+<s> it also means i can not &quot;mix and match&quot;.  </s>
+<s> but in this case: i can remove the 256mb unbuffered chip, and replace it with two 256mb registered chips.  </s>
+<s> thus putting 512mb safely on the computer - a step up. of course, this all assumes the chips &quot;fit&quot; (one versus two notches - and not on a dell which moved the notches thus making their memory &quot;propriatary&quot;).  </s>
+<s> instead of about the ram that doesn't work.  </s>
+<s> to be honest i doubt the ram is proprietary unless the original mb is a server board....cause all the pc66, pc100, pc133 that i've seen is on the same pcb design ...168 pin sdram with 2 notches...some single sided, some double sided.  </s>
+<s> vapcmd  </s>
+<s> the primary question was general in nature: a customer had given me a few choice sticks of ram instead of cach (cache?  </s>
+<s> bad pun?)so, when i went to cheque (check) the ram, found it had that u (pc3200u) whereas other sticks were w/o the u (pc3200).  </s>
+<s> as for the more specific nature of propriatary ram - check out a dell motherboard: the notches on most(?) sticks of ram are off by a fraction - thus forcing you to buy ram directly from dell instead of your friendly neighbourhood computer warehouse.  </s>
+<s> &quot;ibm compatible&quot; could mean compatibility with any number of computers produced over the past quarter century.  </s>
+<s> too vague.  </s>
+<s> if the notches are misaligned, even by a little, you're probably using the wrong type of ram. the best way to learn what type of ram works or is compatible with a computer is to go to the computer model's webpage and look at its specifications.  </s>
+<s> btw, what dell model is it?  </s>
+<s> an alternative is to enter the computer model number at a site like crucial.com or kingston.com.  </s>
+<s> they will display information on what of ram they sell is guaranteed to be compatible.  </s>
+<s> you could also download and run cpu-z ( ) to learn all sorts of information about the ram modules currently installed in the computer.  </s>
+<s> it is yet another way of learning what type of ram is compatible with your computer's motherboard.  </s>
+<s> it will even give you the manufacturer name and model number of the ram module.  </s>
+<s> the 'u' that you see may be part of a model number scheme for a specific manufacturer and not necessarily part of an industry standard designation.  </s>
+<s> 184 pin, buffered and unbuffered and the dimm notch is slightly off-center.  </s>
+<s> if we knew what pc mfg and model number we could probably back into the ram type.  </s>
+<s> your call.  </s>
+<s> vapcmd  </s>

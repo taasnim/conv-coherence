@@ -1,0 +1,28 @@
+<s> hey all - i am setting up a new small office network and i want to make sure my design using cisco routers is adequate for what i am wanting to do.  </s>
+<s> i will have a 27mbps network connection, approx 20 users wired/wireless, 10 of which will be wired desktops/laptops, printers, the other 10 likely to connect via wireless.  </s>
+<s> i am not expecting excessive file transfers or large amounts of streaming however, i would like to only have to adjust my bandwidth and not the physical solution if that becomes a requirement.  </s>
+<s> my plan is to buy the cisco ea4500 wireless router and the se2800 8 port gigabit ethernet switch.  </s>
+<s> will this setup keep consistent performance across wireless and wired connections?  </s>
+<s> what can these handle in concurrent connections performing normal daily email and web browsing?  </s>
+<s> is there a more recommended setup i should implement?  </s>
+<s> thank you for your help!  </s>
+<s> i've yet to see any solution that kept consistent performance as there are variables such as make, model or the laptops or slight location differences let a laptop edge out others and look preferred.  </s>
+<s> to solve this might require a rack of gear to met out the packets at a set rate.  </s>
+<s> sounds expensive.  </s>
+<s> the setup is sound, common, works but your question might mean there are other goals. the number of open connections is rarely a factor of the router.  </s>
+<s> why?  </s>
+<s> tcp/ip.  </s>
+<s> i can't duplicate this as it's pretty well documented on the net.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> my concern around performance was specifically focused on the fluctuation of users in and out.  </s>
+<s> if i add 10 users on to this network with the existing 10 already connected i wanted to make sure the performance didn't take a dive for all.  </s>
+<s> i understand this is dependent on how the bandwidth will be used.  </s>
+<s> this is a normal office, email and web browsing.  </s>
+<s> in your opinion, is the setup i have planned a good setup for this use?  </s>
+<s> thanks!  </s>
+<s> that's how such a system works.  </s>
+<s> if you want to look into some bandwidth shaping router, there is such but i don't prefer the bald look.  </s>
+<s> you have a fine plan.  </s>
+<s> while i'd re-jigger it later with maybe a second access point if needed, i'd go with this.  </s>
+<s> bob  </s>

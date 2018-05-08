@@ -1,0 +1,27 @@
+<s> hey.....ok i got a pretty newish computer (bout a month/two months old) its a imedia m221 (packard bell) and all of a sudden has decided not to recognize my monitor!!! tried plugging an old monitor into it and wouldnt work either.  </s>
+<s> i have been told that my video card may be out of place or not plugged in, but after looking into the computer nothing seems to be wrong.  </s>
+<s> could this be a driver problem?  </s>
+<s> a virus problem?? please help i need the computer for work and son needs it for school (typing this from a damn library computer....) cheers in advance  </s>
+<s> you head to your local repair shop.  </s>
+<s> i see many hours has passed since your post, sorry.  </s>
+<s> bob  </s>
+<s> a couple of possibilites.  </s>
+<s> perhaps your motherboard also has a built in video card.  </s>
+<s> look and see if there is another 15 pin monitor plug up near where you mouse and key board plug in.  </s>
+<s> if so you can go into system, hardware devices, and disable the built-in card.  </s>
+<s> of course you will have to plug the monitor into that plug to be able to see to do this.  </s>
+<s> you could also try rebooting and starting in the safe mode, f8 and see if it works then.  </s>
+<s> of course there is also the possibility the video card is bad.  </s>
+<s> tired i guess 85 hours plus last week.  </s>
+<s> reboot sytem hit whatever key yours uses to access the system bios, f2, ctrl f2, etc... they are all somewhat different, then is the bios disable your built in video.  </s>
+<s> then reboot and if your card is okay it should work.  </s>
+<s> since, its so new, why not use the warranty or techincal support they provide??? do that before opening case as that may void warranty.  </s>
+<s> however, in light of the problem, if you can swap monitors or video cards if possible.  </s>
+<s> boot in safe mode, press f8 key while booting to get into &quot;safe mode&quot; and just allow it to finish, then just see if it even stays up for at least 15min.  </s>
+<s> if it does, then you really don't have a h/w problem.  </s>
+<s> i suggest then look into reloading drivers for the video card/port, maybe your support/restore cd for that service alone.  </s>
+<s> if the problem presists and you have no techincal options from support by the vendor, then open case and reseat video card and/or cabling to same.  </s>
+<s> do check for bent, pushed-in pins, etc. on video cable.  </s>
+<s> i thought a virus could cause this problem, but use your updated av pgm.  </s>
+<s> to check anyways and/or some malware scanner like ad-aware or spybot, etc. to check the system.  </s>
+<s> if you use xp as your os, try the new anti-spy s/w free from ms. good luck -----willy  </s>

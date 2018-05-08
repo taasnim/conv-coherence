@@ -1,0 +1,42 @@
+<s> hello all, i am trying to copy some files from an external hard drive to another drive.  </s>
+<s> at first i have to wait for a while as it says &quot;preparing to copy...&quot; and then it copies very slowly.  </s>
+<s> after copying a few(different number every time i try) files, it gives me the following message: &quot;cannot copy file: cannot read from the source file or disk.&quot; i have also received the following message a few times while trying to copy: &quot;cannot copy [filename]: the request could not be performed because of an i/o device error.&quot;  </s>
+<s> i am receiving these errors when i either copy to an internal hard drive or external hard drive.  </s>
+<s> i ran a check disk, and it came back with the following message &quot;windows was unable to complete the disk check.&quot;  </s>
+<s> i am very confused as i can access the files on the external drive, but it runs slowly as i try to open or navigate through the external drive.  </s>
+<s> also, i am confused, because it lets me copy some of the files, but then at some point gives me a error message.  </s>
+<s> what can i do to copy files from the external hard drive?  </s>
+<s> i hope you can help me as i have some very important files on the external drive, which i ofcourse didn't backup.  </s>
+<s> also, please let me know if there are other options available to me such as recovery services or recovery programs if i cannot solve it on my own with your help.  </s>
+<s> thank you in advance!!!  </s>
+<s> there's a small chance it's a problem with your pc (the usb-port), so try the same things you do now on another pc. if that's ok, the external drive is ok. the next small chance is that it's an issue of the electronics in the case.  </s>
+<s> that's easy to check by putting the drive in another case. the most likely thing is that the disk has gone south. the only solution then: replace it.  </s>
+<s> try to get off as many files as you can, and if that's not enough find your creditcard and go to a professional data recovery company to do the others.  </s>
+<s> for the future: backup!  </s>
+<s> kees  </s>
+<s> i have multiple external hard drives though that are attached to the same usb port and they all work fine, so do you still think it could be a problem with the computer?  </s>
+<s> i'd concentrate on case and drive.  </s>
+<s> kees  </s>
+<s> i have the problematic external drive plugged into one of two usb ports on the front of the computer, so i decided to plug it into a usb port in the back of the computer after what you said.  </s>
+<s> it works great now!  </s>
+<s> thanks you very much!  </s>
+<s> i really appreciate the simple suggestion that nobody else has offered.  </s>
+<s> i am currently backing up all the info onto another external drive that i have plugged into the second usb port on the front of the computer.  </s>
+<s> i am happy that it works now and i was able to avoid having to pay for file recovery, but i am confused as to why one of the two front usb ports is running correctly, and the other isn't.  </s>
+<s> shouldn't they be connected?  </s>
+<s> any ideas?  </s>
+<s> upon putting my second external drive into a usb port on the back of the computer, i noticed it's alot faster than the usb port in the front, so i now see that both of my front usb ports are not running correctly?  </s>
+<s> how can i fix this?  </s>
+<s> look inside your machine.  </s>
+<s> if you see 4 separate wires from motherboard to the front usb connection then it's usb 1.1.  </s>
+<s> you can complain to the machine's maker but this is how most machines were made.  </s>
+<s> the two front usb ports worked before, so i'm not really sure what you mean  </s>
+<s> no one cares it worked before.  </s>
+<s> wouldn't you want it to work from now on?  </s>
+<s> it ran fast before this problem came up so i don't see how it can be a limitation of my machine, since it was working fine at some point.  </s>
+<s> consider that machines, capacitors age, timings skew and what was is no more.  </s>
+<s> i know this one inside out and share so you can save yourself a lot of time.  </s>
+<s> thanks for the insight.  </s>
+<s> can i get a usb extender thing and plug it into one of the usb ports in the back of the computer so i can get a bunch more 2.0 usb ports?  </s>
+<s> some replace the wiring.  </s>
+<s> your choice on the solution.  </s>

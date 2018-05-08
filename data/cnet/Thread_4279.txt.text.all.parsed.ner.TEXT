@@ -1,0 +1,74 @@
+<s> so, i'm needing to update my bios for my new cpu (amd fx 8350 4.0 ghz) to be able to run fully.  </s>
+<s> the problem is, when i go to the website to download an update, i just get a .cap  </s>
+<s> file.  </s>
+<s> i've tried updating it with that file but ez flash says no. so i was on the look out for a .cap to .rom converter, turns out that is what i needed and they gave a list to all of their converters but none was for my model of mobo (which is a m5a99x evo r2.0) please help with this, i've been at it for at least 4 hours and i have had no luck with any other forums.  </s>
+<s> thank you in advance.  </s>
+<s> i rarely help with such but if you give a link to your board i'll look.  </s>
+<s> these sort of updates are treacherous so i rarely write how to do them.  </s>
+<s> i must defer to the maker.  </s>
+<s> i will quote the maker's instructions but in this case, please supply a link so i can check it out and see if there is more.  </s>
+<s> bob  </s>
+<s> thanks! here is a link to my mobo i really hope i figure this out soon, i've been searching all day.  </s>
+<s> i updated a motherboard 2 or 3 years ago and there was none of this &quot;.cap  </s>
+<s> file&quot; stuff.  </s>
+<s> also, i'm running windows 64 bit, that probably doesn't make a difference though.  </s>
+<s> under bios tools i found at that link is a tool that reads: &quot;bios renamer for usb bios flashback 1.put bios file and bios renamer in same folder 2.execute the utility 3.use new bios file for usb bios flashback.&quot;  </s>
+<s> thanks! i think i found it!  </s>
+<s> do i just create a new folder, but the file and the renamer in it, then transfer the folder to my flash drive?  </s>
+<s> do i take the renamer out of the folder after i execute it?  </s>
+<s> again, thank you! i think we're on to something here!  </s>
+<s> i was confused because on the flash back tutorial they have, they didn't give me a link for my specific motherboard.  </s>
+<s> one more thing, this link right here: ( ) that has tutorial on how to use the flash back, they also link a .cap to .rom converter for those specific boards, why doesn't mine have one?  </s>
+<s> or does it even need one?  </s>
+<s> but i usually leave everything in place until i get the job done.  </s>
+<s> remember i can't help anyone do anything not documented and i hope you are not offended about that.  </s>
+<s> hope there tool fixed it up and you can move forward.  </s>
+<s> bob  </s>
+<s> after decades of seeing poor documentation i've grown a little accustomed to the lack of clarity.  </s>
+<s> right or wrong part of this has to do with how competitive the market is.  </s>
+<s> it's all about price so for the price?  </s>
+<s> bob  </s>
+<s> if you look in your manual they explain how to use the flash back feature.  </s>
+<s> they tell you what to rename the file to.  </s>
+<s> it looks like.  </s>
+<s> download the bios file.....zipped.  </s>
+<s> unzip the file.  </s>
+<s> rename the file.  </s>
+<s> copy the file to a usb stick.....note the restrictions about fat and partitions.  </s>
+<s> insert the usb stick in the proper port.  </s>
+<s> push the button.  </s>
+<s> this is probably a stupid question, but where exactly is the flashback button?  </s>
+<s> on a video they have, it shows it's on a the back plate, but i cannot find it.  </s>
+<s> and some folk that build their own don't install such things.  </s>
+<s> sorry about that, i usually do use photobucket, but i forgot my acount info and such, anyway what do you mean?  </s>
+<s> i have the flash back usb port, and there doesn't even seem to be a place for the button in the back panel.  </s>
+<s> i've also tried using ez flash but no dice.  </s>
+<s> (sigh) here's a working link:  </s>
+<s> can you see it at ?  </s>
+<s> ahhh i didn't see that!  </s>
+<s> so it's inside, i was just going off the other models that supported flashback!  </s>
+<s> at they say, a second pair or eyes and hands can really make little jobs go much smoother.  </s>
+<s> now get out of my kitchen.  </s>
+<s> bob  </s>
+<s> so i opened up the case to press down the flashback button, but the light blinks off and on (green) and then turns stable after two or three blinks, anything i'm doing wrong?  </s>
+<s> i don't have the file in a folder on my drive and i don't have any other files on it.  </s>
+<s> what am i doing wrong?  </s>
+<s> another thing, i'm going from revision number 04xx (can't remember the full number at the moment.) to 1503.  </s>
+<s> does skipping all the other updates affect anything?  </s>
+<s> that question is one that has been asked many times.  </s>
+<s> while it's good to ask, be sure we are not repeating what thousands have asked before.  </s>
+<s> so, my answer is -&gt; install any version you want. it does not matter.  </s>
+<s> bob  </s>
+<s> about about the light turning stable after only 2 or 3 flashes?  </s>
+<s> i've tried everything, even formatting it again to fat32.  </s>
+<s> i've also tried doing it with a different update, i really wish i could save $15 and not have to buy another bios chip, then have to pay someone to put it in (because i have no idea how to) but that is looking like the route i'm forced to take.  </s>
+<s> but i don't own this model.  </s>
+<s> my replies are using what i've learned over the years and decoding too many incomplete pages of information.  </s>
+<s> i've never had to buy a bios chip in 2 decades so that would be a first.  </s>
+<s> about the only thing i can add about usb updates is that we should always have a 1 or 2gb stick laying around for such work.  </s>
+<s> bob  </s>
+<s> even if i don't get this working, thank you, you have been a huge help.  </s>
+<s> i really do hope i get this working soon.  </s>
+<s> maybe i'll contact customer support sometime this week.  </s>
+<s> again, thank you very much for your time.  </s>
+<s> these forums are such a help in times like these.  </s>

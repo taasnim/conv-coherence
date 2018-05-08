@@ -1,0 +1,15 @@
+<s> i have installed seagate 3tb, and want to use only this with my p8p57 motherboard, problem is that when i format with mbr i get 2tb space, how do i get access to 700gb rest space?  </s>
+<s> if i install with windows disk management tool i get whole 3tb, but its guid and windows installation on primary dirve doesnt support that only mbr support that, so whats the solution please?  </s>
+<s> thx  </s>
+<s> if your os is xp, then that's it, 2.2gb limit.  </s>
+<s> there is nothing you can do and even if so, it would be another cost and hassle.  </s>
+<s> only the newer mtrbds.  </s>
+<s> and vista and later os(64-bit) will work as clean as possible.  </s>
+<s> visit the seagate support website and review it's faq.  </s>
+<s> tada -----willy  </s>
+<s> i am on windows 7  </s>
+<s> i am on windows 7  </s>
+<s> there is no cure at the moment if you use mbr.  </s>
+<s> here it offered a choice of mbr or gpt.  </s>
+<s> maybe you should try the other?  </s>
+<s> bob  </s>

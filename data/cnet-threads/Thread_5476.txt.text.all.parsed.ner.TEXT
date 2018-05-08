@@ -1,0 +1,14 @@
+<s> hi, i have roadrunner and voip with nuvio, and a router with three network locations, when i add a linksys wrt160n wireless router it does 130mbs but when i use the phone it drops to 54mbs. is this normal?  </s>
+<s> thanks!  </s>
+<s> i assume you are using a wireless voip phone?  </s>
+<s> it is not so much the voip as how wireless works when running a mix of devices.  </s>
+<s> i suspect your phone is 802.11g 130m is using a wide band 802.11n and 54 is using 802.11g.  </s>
+<s> first a router will always slow down to talk to a slower device.  </s>
+<s> it will attempt to switch back and forth but many times it will just run slower for all devices.  </s>
+<s> if you use a old 802.11b device you many times in effect force all your newer devices to run slower.  </s>
+<s> the other thing that 802.11n with wide channels does it will go to narrow channels ie 65/72m if it detect another device trying to use a adjacent channel.  </s>
+<s> so if it detects your neighbor it will change.  </s>
+<s> many people disable this feature.  </s>
+<s> in your case i suspect since you say it is 54m which is 802.11g you have a device active at that speed.  </s>
+<s> hey thanks, i guess that makes some sense, i have an old 2.4ghz uniden portable that i use, and i have my house hard-wired with cat6 cable and just stuck the wireless router at a wall terminal.  </s>
+<s> i guess that i need to incorporate it into my system but i think i'm getting rid of roadrunner soon, so just didn't want to hassle with it. it works fine if i just stay off of the phone........  </s>

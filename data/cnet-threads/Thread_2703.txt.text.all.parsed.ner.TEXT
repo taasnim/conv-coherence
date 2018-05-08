@@ -1,0 +1,32 @@
+<s> hi- recently my amd duron 1200 cpu died, and im having trouble tracking down a replacement, my question is if anyone knows where to find one affordably, and second- does the k7s5a mobo with a atx case with 300 power supply support the amd duron 1400?  </s>
+<s> any thoughts?? any help at all would be appreciated!  </s>
+<s> i believe there was more than one version of the k7s5a motherboard.  </s>
+<s> you'll need to know which version you have.  </s>
+<s> if you have the manual that will be the easiest way to determine the specs.  </s>
+<s> if not download and install belarc or everest home.  </s>
+<s> these small programs can tell you everything installed on your computer.  </s>
+<s> once you know, go to the ecs website to check the supported cpu's.  </s>
+<s> best of luck  </s>
+<s> if it supported the duron cpu, then it supports the amd xp cpu class as well.  </s>
+<s> depending on the mtrbd., it *may* also support the newer sempron cpus as well.  </s>
+<s> during the orginal release of the mtrbd.  </s>
+<s> and later, many a bios update has come out, check the support website for the details, as some update maybe required to support the full range of cpus other than what it orginally supported.  </s>
+<s> you will then know for sure what cpus it supports.  </s>
+<s> tada -----willy  </s>
+<s> look for processors.  </s>
+<s> others will send you to ebay.  </s>
+<s> on the back of the box it says iso-9001 on the bottom left.. and on the front of the manual is a sticker under the k7s5a that says ea=000795b22c56 and in the manual introductions it says : socket a support for an amd k7 type processors, and you can install any one of these processors on the board.  </s>
+<s> the mainboard supports front side bus speeds of 200/266 mhz.  </s>
+<s> beyond this i cant seem to find a model # or anything else...  </s>
+<s> the manual is generic.  </s>
+<s> should be a sticker around the bar code.  </s>
+<s> but the most accurate info will be on the mobo itself.  </s>
+<s> there will be a version sticker next to the chipset.  </s>
+<s> i had a version 5. why limit yourself to duron. the board takes athlon, including thoroughbred. the version # will tell you how late a processor and ddr memory (usually up to pc2100).  </s>
+<s> just checked elitegroup. the latest (k7s5a pro v.5 also takes xp athlon.  </s>
+<s> good luck.  </s>
+<s> chuck  </s>
+<s> remember to get a cooler.  </s>
+<s> however, i don't know if the board supports this chip.  </s>
+<s> i'm assuming so since it's 266mhz fsb.  </s>
+<s> 300 watts is plenty.  </s>

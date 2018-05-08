@@ -1,0 +1,14 @@
+<s> i have three monitors hooked up to my ati radeon hd 5570.  </s>
+<s> it has three monitor ins, vga, dvi, and hdmi.  </s>
+<s> i have a dell 1907fp hooked up to the hdmi port (i have a cable that has dvi to monitor and hdmi to computer) i have a viewpanel vpa150 hooked up to the vga port, and i have a gateway fpd1510 hooked up to the dvi port.  </s>
+<s> i have the two monitors working (viewpanel and dell) but in catalyst control center when i try to extend the gateway ccc says something like &quot;if you extend this monitor another monitor will have to be disabled&quot; and i clicked continue it just disabled the viewpanel and replaced it with the gateway.  </s>
+<s> i wondered if there is anyway i could get the three monitors all extended, not like eyefinity but just so i can move windows to other ones  </s>
+<s> i saw this on the ati radeon site; &quot;ati eyefinity technology works with games that support non-standard aspect ratios, which is required for panning across multiple displays.  </s>
+<s> to enable more than two displays, additional panels with native displayport connectors, and/or displayport compliant active adapters to convert your monitors native input to your cards displayport or mini-displayport connector(s), are required.  </s>
+<s> ati eyefinity technology can support up to 6 displays using a single enabled ati radeon graphics card with windows vista or windows 7 operating systems - the number of displays may vary by board design and you should confirm exact specifications with the applicable manufacturer before purchase.  </s>
+<s> systems using multiple ati radeon graphics cards can support a maximum of 8 displays (total across all cards in system) with a maximum 6 of those displays being used together in a display group (also known as a single large surface mode)&quot; {note 2).  </s>
+<s> seems you may need something extra.  </s>
+<s> mark  </s>
+<s> if i see this card's specs correctly you can use 2 of the three connections at any one time.  </s>
+<s> to get display number three you'll need another card.  </s>
+<s> bob  </s>

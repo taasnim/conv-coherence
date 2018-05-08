@@ -1,0 +1,16 @@
+<s> just purchased an asus k532-bbr9 laptop.  </s>
+<s> everything works fine, except on college campus the internet is very slow, and disconnects every few minutes.  </s>
+<s> my fellow students laptops do not seem to have this problem.  </s>
+<s> i figured it may be a driver issue, so i am trying to update everything.  </s>
+<s> under network adapters in device manager.  </s>
+<s> the microsoft virtual wifi miniport adapter is not up to date when i do a driver update scan.  </s>
+<s> then it says &quot;windows can't verify the publisher of this driver software..&quot; with options to install anyways.  </s>
+<s> i tried to manually find the driver online to verify if it is safe but could not.  </s>
+<s> all advice is welcome!  </s>
+<s> it's a virtual device and not a real one.  </s>
+<s> i'd look for drivers from the (real) hardware makers.  </s>
+<s> asus.com has no such model listed but they have the series at only 24 drivers to pick through.  </s>
+<s> maybe it's easier to ask them to help you get the right one.  </s>
+<s> bob  </s>
+<s> did you ever find a solution for this?  </s>
+<s> i have same issue on a new lenovo - its is blaming norton, but that was never an issue on my old hp which ran windows vista.  </s>

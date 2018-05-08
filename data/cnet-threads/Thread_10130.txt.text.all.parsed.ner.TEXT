@@ -1,0 +1,10 @@
+<s> i am building a computer with an asus txp4-x motherboard, which i do not know how to connect to the case. the plugs from the case are: pwr led + (green) pwr led - (white) power sw (double-width plug, two wires, orange and white) reset sw (double-width plug, two wires, blue and white) speaker (quadruple-width plug, two wires, red and black). the motherboard pins are designated in the manual as follows: reserved: (1) message led: (2)+5v, (3)gnd smi lead: (4), (5)gnd atx power switch: (6), (7)gnd reset sw: (8), (9)gnd system power led: (10)+5v, (11)nc, (12)gnd keyboard lock: (13)lock, (14)gnd reserved: (15) speaker connector: (16)+5v, (17)gnd, (18)gnd, (19)spkr  </s>
+<s> &quot;i am building a computer with an asus txp4-x motherboard, which i do not know how to connect to the case.&quot; in not many words, the speaker connector goes the speaker connection, the reset connector to the reset connection and the atx power switch connector goes to the power sw connection. the led indicators are somewhat optional and if they don't light up, try rotating the connector.  </s>
+<s> in closing, there are other extra connectors or connections.  </s>
+<s> this might confuse a new builder.  </s>
+<s> bob  </s>
+<s> quick lesson, black is usually grd, nc, means no connection at that pin, any led connection usually two wires if it doesn't work one way, swap them around, same for other connections.  </s>
+<s> if a connector has more/less of a width problem or mounted differently, understand some connectors are &quot;keyed&quot; in order to mount.  </s>
+<s> draw a picture to better understand how the connections are displayed if just &quot;listed&quot; (ie: j4 to speaker) pins 1-4 oh yeah, work under good lighting, brother that helps.  </s>
+<s> there, clear as mud.  </s>
+<s> -----willy  </s>

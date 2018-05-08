@@ -1,0 +1,38 @@
+<s> i just purchased a laptop with vista installed and am having a rather difficult time getting it added to my network.  </s>
+<s> lack of sleep due to overtime may possibly be a contributing factor here.  </s>
+<s> i'll not post my system specs just yet, as i don't think the specs have anything to do with the problem. the network is set up like this: dsl modem--&gt;router--&gt;hub--&gt;pc2 i--&gt;pc1 i--&gt;laptop if you can follow my diagram.  </s>
+<s> this has always worked fine to have three pcs on the network.  </s>
+<s> one died, and i replaced it with the laptop.  </s>
+<s> after plugging the laptop into the hub, it is able to access the internet with no trouble.  </s>
+<s> neither it nor a desktop are able to see each other, however.  </s>
+<s> if i pull up a network map on the vista pc, it shows the switch and the other pc. they do not show up in network though.  </s>
+<s> i am also unable to see the laptop from the other computers at all.  </s>
+<s> i have made sure that the workgroup name on both the laptop and &quot;pc2&quot; is the same.  </s>
+<s> i have gone through all the troubleshooting tips, as well as done everything i could think of.  </s>
+<s> i just can't seem to get them to see one another.  </s>
+<s> both the router and the hub are made by linksys, though i don't have the model numbers handy.  </s>
+<s> if this has been addressed already, i apologize in advance for asking again.  </s>
+<s> i searched, but may have missed it.  </s>
+<s> thanks for any help anyone can grant.  </s>
+<s> to see if the computer browser service is running on all machines.  </s>
+<s> to see if computer browser service was running.  </s>
+<s> it is, on both computers.  </s>
+<s> i realize now that i left out information i should have stated already.  </s>
+<s> this is a fully wired network.  </s>
+<s> hp tech support suggests that the model number on the router is not supported on the new laptop.  </s>
+<s> i suspect this is not the issue.  </s>
+<s> i have exactly the same problem, did you manage to resolve it  </s>
+<s> i have not figured anything out yet.  </s>
+<s> i'll be working on it more when i have a chance.  </s>
+<s> still hoping to hear suggestions.  </s>
+<s> i had the same problem, but i discovered that it was my norton internet sercurity, that was blocking the the new vista computer from seeing the xp machine.  </s>
+<s> i made the xp computer a &quot;trusted&quot; computer, and it popped up in the network.  </s>
+<s> i don't know if that's our issue, but it seemed to work for me.  </s>
+<s> make sure your firewall (windows or other) allows the ip address of the computer through.  </s>
+<s> sean  </s>
+<s> i also discovered that turning of norton firewall security on both my vista laptop and my xp desktop solved the problem.  </s>
+<s> i now just have to figure out the best firewall settings to use before i re-enable them.  </s>
+<s> i also run ubuntu dapper drake linux on another machine and still have to figure out how to get this to access the vista machine, it works ok the other way round (vista can access ubuntu files).  </s>
+<s> any suggestions on this one.  </s>
+<s> i also suggest that the following site is well worth the money, if you want to save yourself endless hours of sleep and trudging through endless books and web pages.  </s>
+<s> after unistalling norton, everything is fine.  </s>

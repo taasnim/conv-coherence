@@ -1,0 +1,47 @@
+<s> i have a linksys wrt 330n router, i have the desktop connected via ethernet cable and a laptop that connects wirelessly.  </s>
+<s> there is also a renter in the basement who has a laptop which connects wirelessly.  </s>
+<s> in the past week or two (renter has been here for a month)my connection drops randomly on my desktop and laptop and i have to reset my router to make it work again.  </s>
+<s> just unplug the router and immediatly plug it back in and both will connect right up. the renter has said she is also having issues with connectivity.  </s>
+<s> i have wondered if the connection goes down when she logs on as it seems to happen around the time she wakes up and when she is at home at night.  </s>
+<s> can anyone tell me what they think the problem could be.  </s>
+<s> i have had this particular network set up for about 3 months with no issues and have had the router with no issues for about 3 years.  </s>
+<s> any ideas?  </s>
+<s> i checked my router setup and it isn't limiting the amount of users.  </s>
+<s> it is broadcasting in wireless n-mixed with wep because my old hp printer can't do the the new stuff.  </s>
+<s> when the laptop drops the signal the network doesn't even show up in the list of available wireless networks.  </s>
+<s> i don't know what is relevant info so here's a hodgepodge list of some settings.  </s>
+<s> dynamic dns is disabled mac cloning is disabled dynamic routing is disabled ssid broadcast is enabled mac filter is disabled wireless qos is enabled (no rules saved) that's all i can think of.  </s>
+<s> help?  </s>
+<s> when you get a failure can you access the router from your hardwire pc. if you cannot get into the management screens then the router has a large issue.  </s>
+<s> if you can get in you need to dig around and see if there are any interesting messages in the log or if any of the tables look overloaded.  </s>
+<s> things like getting the nat table full or dhcp errors.  </s>
+<s> if it was only your wireless then i would look at different stuff.  </s>
+<s> even though you have a n router if you connect b or g devices the router will slow down.  </s>
+<s> some routers will attempt to switch back and forth and get locked up but they fixed that with firmware on the model i know did that.  </s>
+<s> still you should lock your router to the slowest device you intend to support.  </s>
+<s> to use n you need to upgrade everything and lock it to n only.  </s>
+<s> i updated the firmware and the system doesn't drop connectivity like used to.  </s>
+<s> now it will lose the connection momentarily but i don't have to reset the router to get it to reconnect it will do it on it's own.  </s>
+<s> it is pretty quick, windows live signs out put skype never shows that it is disconnected and the internet will kinda &quot;hang&quot; when it happens and i usually have to refresh the screen or hit the back button. the internet in general is also running a lot slower and jumpy than it has before i updated, it has a hard time with videos which was never the case before.  </s>
+<s> i'm going to try and switch to wireless g only as you suggeseted by my renter has a wireless n laptop, will this affect her connectivity if i'm just broadcasting in g? the prior issues seemed to happen with the most frequency at night with my laptop which is upstairs and the desktop and router are in the basement.  </s>
+<s> the logs don't have any dhcp errors, it does show quite a few blocked incoming tcp packets with a &quot;ack recieved but there is no active connection&quot;.  </s>
+<s> i don't know what nat tables are to see if they are full or overloaded.  </s>
+<s> good to know it was mostly firmware.  </s>
+<s> to tell if it is the internet or your network you can run a continuous ping between your machines and then a ping to something like 4.2.2.2. if both numbers vary at the same time it is your network, if it is only the internet then its most likely a isp load issue.  </s>
+<s> if you set your connection to only g her machine will just drop down to g. this has most likely been happening all along you just did see it.  </s>
+<s> if only she was using the wireless then it would run n as soon as you activated you g machine it would force her to run g... or it may jump back and forth depends on the router and what threshold is set for the switching.  </s>
+<s> still g is much much faster than your internet so it should not run worse and if you are lucky it will run a little better.  </s>
+<s> hard to say what would be cause of the short hangs.  </s>
+<s> if it is only the wireless machines it could be intermittent interference.  </s>
+<s> so, last night the router sort of wigged out.  </s>
+<s> while i was on the laptop upstairs and the renter was on her laptop downstairs the connection would go in and out over and over again with like 10-45sec between lost connections.  </s>
+<s> then it was like the router won the battle and all connectivity was lost.  </s>
+<s> i went down to the desktop and tried to see if i could access the router settings and i wouldn't connect to them.  </s>
+<s> now the connection was down and i couldn't get on the internet so i tried to access the settings from my favorites page and it didn't work, then i tried hard typing in the address and it didn't work either.  </s>
+<s> it was mentioned that my router has deeper issues if this was undoable.  </s>
+<s> it's an old router at this point, 3years, is it just going out?  </s>
+<s> also, i would like to thank you for sharing your tech knowledge with those of us with less:) thanks bill012!  </s>
+<s> i read you updated the firmware which is part of the forum advice.  </s>
+<s> the rest is simply router defaults, simple ssid broadcasting and wpa psk.  </s>
+<s> i can't find what settings you are using.  </s>
+<s> bob  </s>

@@ -1,0 +1,67 @@
+<s> my computer (pentium iv 3ghz 512 ram with 400 watts power supply, windows xp) suddenly shuts down and lost electrical power while working or while browsing thru the internet and even while i've just started the computer.  </s>
+<s> the computer is connected directly to the wall socket thru an extension cord.  </s>
+<s> i'm not using an avr (automatic voltage regulator).  </s>
+<s> my guess is that sometimes the computer cannot take the voltage comming in, that is why it is cutting off the electricity to protect the computer.  </s>
+<s> does buying an avr solves the problem?  </s>
+<s> of extension cord or just one of those cheapies that you normally use for a table lamp?  </s>
+<s> you would need to use one that is heavy duty and made for things such as power drills, saws, etc otherwise the extension cord overheats and your system will shut down to protect itself.  </s>
+<s> if this still isn't the answer to what's happening, open your case and make sure all fans are running properly inside, especially the one on the cpu.  </s>
+<s> get some canned compressed air and blow out all the dirt and dust.  </s>
+<s> also try reseating the ram stick(s)...my daughter just had the same problem that she mentioned yesterday while i was talking with her and helping her get a new video card installed.  </s>
+<s> once she unclipped the two ram sticks and reseated them, the problem stopped happening.  </s>
+<s> toni  </s>
+<s> hi toni, thanks for your reply.  </s>
+<s> i'll try opening the case and check if there is something wrong or reseating rams.  </s>
+<s> regarding that extension cord.  </s>
+<s> its an extension cord with some sort of surge protection but with 2 pronged plug not that one with the ground pronged plug.  </s>
+<s> it costs around us$ 5 in our country.  </s>
+<s> work your way inwards starting at the power point.  </s>
+<s> 1. try a different power point 2. try a different cable 3. check out the internal temperatures using software from your mobo supplier or 3rd party (shareware ) 1 & 2 above not all power points or cables are created equal and installations are not always perfect.  </s>
+<s> some power cables suffer from short pin syndrome and lousy qa. my company no longer trusts vendors and tests and tags all cables and equipment for fitness for use and safety.  </s>
+<s> when you have done 1, 2 and 3 and you are still looking for a solution, then open up the case and wiggle your components.  </s>
+<s> cheers col  </s>
+<s> please explain what you mean by &quot;lost electrical power&quot;.  </s>
+<s> do you mean the ac input voltage to the power supply or the power supplies dc output voltages to the computer.  </s>
+<s> the intel p4 has built in overtemperature sensors which will tell the mobo to shut the dc power off to the computer when the cpu gets too hot.  </s>
+<s> be sure to check that your cpu's hsf is still working, or not clogged with dust bunnies.  </s>
+<s> what country are you in?? running without the third [ground] wire is certainly not good practice.  </s>
+<s> computer power supplies can handle low line voltage fairly well, because of the way a switching type supply works.  </s>
+<s> you certainly should get a better extension cord, one with 16 gauge [awg] wire, or larger [smaller number awg is larger diameter wire].  </s>
+<s> hi ray, thanks for the response.  </s>
+<s> actually my computer works on two pronged cord extension (meaning the third wire or the ground wire is not connected at all) than the three pronged extension cord.  </s>
+<s> my two pronged extension cord is connected to the wall socket.  </s>
+<s> then my computer is plugged in into this extension cord which has three holes in it.  </s>
+<s> my computer has no problem for six months.  </s>
+<s> what intrigues me is when i bought a new extension cord with three pronged plugs with three hole sockets.  </s>
+<s> i tried to connect my speaker, printer and monitor, all with two-pronged plugs and they are not even powering up, no power at all.  </s>
+<s> but when i connect them to my old extension cord which has two-pronged plugs connected to the wall, they worked.  </s>
+<s> i'm an expat residing here in saudi arabia.  </s>
+<s> i'm sure i need to have this avr (automatic voltage regulator) i just wanted to know how these things worked especially the grounding of wires.  </s>
+<s> now going back to my old setup (connecting with two pronged extension cord) my computer won't start at all and no power.  </s>
+<s> when i opened the case i noticed the case fan and cpu fan just spin for a split second when i press the switch and then stops and then no power.  </s>
+<s> is this the case of the computer's power supply cutting off the electricity in order to protect the computer or a malfunctioning power supply?  </s>
+<s> hi col & toni, i tried to reseat the ram, the cpu fan/power connection to the mobo, and the hard disk cord connection.  </s>
+<s> i don't want to re-intall the cpu itself coz that is too much.  </s>
+<s> the cpu is tightly connected to the motherboard, its too tight it may not even be bothered at all if you moved the case a lot.  </s>
+<s> now regarding the cords, maybe you are right col, as i've said to ray, my computer works with two pronged extension cord than three pronged extension cord, i don't know why.  </s>
+<s> although it is working before in the two pronged extension cord, now it's not working, no power at all.  </s>
+<s> its only a split second spin of the cpu fan and case fan when pressing the power switch.  </s>
+<s> i'm not sure whether to replace the computer's power supply or just buy an avr automatic voltage regulator would solve the problem.  </s>
+<s> there seems to be no burnt smell on the power supply though.  </s>
+<s> finally i solved my problem, it was after all the power supply problem.  </s>
+<s> i bought a new power supply and my computer is alive again.  </s>
+<s> even though no burnt smell and the fuse is still intact the power supply is not working as it should be.  </s>
+<s> i wonder what could have caused it to break down.  </s>
+<s> i also bought an avr (automatic voltage regulator) for protection.  </s>
+<s> actually this is the 3rd power supply i have installed on my computer.  </s>
+<s> these are of swithcing mode type.  </s>
+<s> i don't know if that kind of power supply could have caused it to break down or the electrical spikes in our house since i don't use a good surge protector or an avr.  </s>
+<s> anyway thanks for all those who responded to my problem.  </s>
+<s> how old is the computer?  </s>
+<s> this could be another power switch or power supply problem.  </s>
+<s> yes - you should have a surge protector to protect your investment.  </s>
+<s> no - i seriously doubt it would fix this problem.  </s>
+<s> in fact, if you believe there is over voltage, that may have been what messed up the power supply if that turns out to be the problem.  </s>
+<s> if you are having such wild power fluctuations, you should get one of the protectors with the battery backup.  </s>
+<s> you are probably getting under voltage when it swings the other way.  </s>
+<s> if this is your home, i would have an electritian investigate this. it is probably going to mess other things in the house up as well.  </s>

@@ -1,0 +1,10 @@
+<s> my machine keeps telling me the server is trying to acquire an ip address. the internet provider says it's my machine.  </s>
+<s> don't have a nic card.  </s>
+<s> used cmd command & &quot;netsh int ip reset c:resetlog.txt&quot; and got my ip address after reboot.  </s>
+<s> next time i turned on machine same problem.  </s>
+<s> tried system restore but no help.  </s>
+<s> your post didn't tell why or what hardware is suspect.  </s>
+<s> bob  </s>
+<s> &quot;don't have a nic card&quot; a network interface card is needed to connect.  </s>
+<s> what am i missing?  </s>
+<s> hi there, i think it would be best if you try to possibly upgrade the driver of the your network adapter and by the way hows your computer connecting you the your network is it by a wired or wireless connection  </s>

@@ -1,0 +1,26 @@
+<s> i have a question i was hoping you could help me with.  </s>
+<s> i have a netgear wnr854t router connected to a linksys befcmu10 modem and a netgear gs602 v2 router.  </s>
+<s> i would like to add a wireless access point at the other end of the house.  </s>
+<s> i have run a cat 5 cable to the other end of the house.  </s>
+<s> i also have a netgear wpn824 v2 wireless router, can this be used as an acees pointand if not what would you suggest.  </s>
+<s> if i were to try this i'd end up with what they call a double nat.  </s>
+<s> there are issues which i won't discuss being trouble with network shares but the internet should work.  </s>
+<s> just use the defaults except for the lan ip setup page.  </s>
+<s> if your one lan is 192.168.0.x then your other wifi lan will be something like 192.168.1.x sorry but i can't teach tcpip basics here but that should be the only change needed to accomplish a double nat.  </s>
+<s> bob  </s>
+<s> you lost me with this answer.  </s>
+<s> maybe you can make it a little more clear or maybe someone else has better details.  </s>
+<s> still need a solution.  </s>
+<s> i used the exact words that this router has on it's setup page.  </s>
+<s> since i used the exact words this means this is not going to get any clearer.  </s>
+<s> time to buy a real wap.  </s>
+<s> bob  </s>
+<s> that's all i was looking for bob.  </s>
+<s> all i wanted to know was &quot;if&quot; i could use it and if i couldn't what i needed to get to make it work.  </s>
+<s> i am not an expert like yourself and that why i came here for help.  </s>
+<s> sorry if i seem dumb to you.  </s>
+<s> i took the time to compare your router's manual with my router (nearly the same model) and used the exact words you would see on the router's setup screen.  </s>
+<s> i did this to make it as easy as possible and noted the one change i would do to make it work.  </s>
+<s> all this networking stuff does seem complex but if you need to go beyond the one change i'd try then it's back to the books or get a real wap.  </s>
+<s> hope you see i tried to make it as easy as i could.  </s>
+<s> bob  </s>

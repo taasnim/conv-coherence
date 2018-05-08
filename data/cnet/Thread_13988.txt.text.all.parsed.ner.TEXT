@@ -1,0 +1,9 @@
+<s> i am currently having an issue with a new server build i am working on(extended atx tower)...it is an asus z8ped12 mobo with two xeon 5520 cpus...the ps is an ocz 500w with two 12v rails (1 4pin and 1 8pin connector for the cpus).  </s>
+<s> i have used a 4pin to 8pin adapter so that both 8pin female power jacks are used on the mobo.  </s>
+<s> when i first turned on the system, it would reboot about 5-7 min after starting...it would do this cycle many times until i just turned it off.  </s>
+<s> i tried it today and the server will not turn on at all...do i need a better suited ps? this is seemingly a power issue...any thoughts?  </s>
+<s> reading the posts there it seems such adapters will be troublesome.  </s>
+<s> in other words you need a proper power supply.  </s>
+<s> bob  </s>
+<s> server psu's from newegg just make sure you get one that will power the 2 cpu's  </s>
+<s> the only thing is from this link i have yet to find one that specifically states that it has 2 8pin connectors....they only display the +12v1@18a, +12v2@18a which i believe i have seen with the 1 8pin and 1 4pin configurations.  </s>

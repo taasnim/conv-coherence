@@ -1,0 +1,15 @@
+<s> my hp laptop of 4 yrs died this last summer and at the time i was pretty sure that something on the motherboard or power supply had burned up because of the awful smell.  </s>
+<s> i thought i would pull the hard drive out of it and use it for a backup drive.  </s>
+<s> i went out to newegg and picked up a nexstar cx external enclosure and put the hard drive in it and connected it to my desktop via a usb cable and my desktop won't even recognize it - its like its not even hooked up.  </s>
+<s> so then i tried hooking it up to another laptop i have and got the same results.  </s>
+<s> is there anything in windows 7 that i need to do to get it to recognize it?? or is the hard drive just dead?? thanks  </s>
+<s> if the enclosure is ok and it has enough power (can you use an power adaptor, a powered usb-hub or an usb y-cable) it most likely is the disk.  </s>
+<s> try with another disk to be sure?  </s>
+<s> kees  </s>
+<s> 1. is it an old ide drive?  </s>
+<s> 2. sometimes i find the drive in need of a fresh partition and format.  </s>
+<s> if no data recovery is an issue i just wipe it and start over.  </s>
+<s> some folk forget you don't use windows explorer for that step.  </s>
+<s> bob  </s>
+<s> well i guess never mind - i just tried plugging it in again and this time the computer recognized it and i am now able to get in and see all the files.  </s>
+<s> thanks for your responses.  </s>

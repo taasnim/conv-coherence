@@ -1,0 +1,30 @@
+<s> i'm about as frustrated as a person can be and any help that can be provided by this forum would be extremely appreciated!  </s>
+<s> we just bought a new combination cable modem/wireless router (a linksys wireless-g cable gateway wcg200) and set it up on one of our two household laptops that runs windows xp. the wireless internet connection works great on that laptop, including no problems after setting up 64-bit wep encryption.  </s>
+<s> after getting the first laptop up and running, i turned on the second laptop (an hp pavilion ze5300 also running xp), but it does not recognize that any wireless device is in range (even when it is right next to the router). the wireless button is turned on.  </s>
+<s> i spent about 45 minutes on the phone with linksys tech support, who basically did not seem to have a clue (even though he was the third level of support i got forwarded to). the main thing he had me try was to manually add the new wireless network to the computer's list of preferred networks, entering in the wep key manually.  </s>
+<s> when that didn't work, he ended the conversation by suggesting i turn the encryption off on the router.  </s>
+<s> that didn't work either, so he said the problem must be with my computers wireless adapter and there was nothing more he could do.  </s>
+<s> but i dont see how this can be the issue since right now i am using the laptop at the internet caf down the street and have no problems connecting to the wireless here.  </s>
+<s> what makes this even more frustrating is we went through this whole deal 4 months ago with a netgear router.  </s>
+<s> we spent hours on the phone with hp technicians they eventually sent me a new wireless card which didnt fix the problem.  </s>
+<s> eventually hp concluded it was the routers problem.  </s>
+<s> when netgear couldnt fix the problem either, we basically gave up and decided to start fresh with a new router.  </s>
+<s> a. press the reset on the router and start with all factory settings?  </s>
+<s> b. update the router firmware?  </s>
+<s> cheers, bob  </s>
+<s> i haven't tried that yet with this particular router.  </s>
+<s> since we just took it out of the box yesterday, i figured we were starting with factory settings already.  </s>
+<s> does this mean you think the problem is likely to be with the router?  </s>
+<s> also, when we had this problem before with the netgear router i did the factory restore several times and also tried to download updated firmware but it didn't help - and rendered the router unusable.  </s>
+<s> thanks!  </s>
+<s> out of the box, i've rarely found routers usable.  </s>
+<s> it seems i have to update firmware, reset to factory settings and move on.  </s>
+<s> i watch others pull it out of the box and flail about for months.  </s>
+<s> &quot; also tried to download updated firmware but it didn't help - and rendered the router unusable.  </s>
+<s> &quot; sorry to read that.  </s>
+<s> at least it's returnable as a doa.  </s>
+<s> hope you can recover.  </s>
+<s> bob  </s>
+<s> with networking devices, that starting from some basic settings can bring a non-functioning machine up to speed.  </s>
+<s> i would: 1) turn off encryption 2) turn on ssid broadcasting 3) turn off mac filtering a network adapter that will connect in one spot but not at home, indicates some software anomaly rather then a hardware malfunction.  </s>
+<s> but i would still try another adapter.  </s>

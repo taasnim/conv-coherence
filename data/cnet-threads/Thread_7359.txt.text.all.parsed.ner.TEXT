@@ -1,0 +1,17 @@
+<s> hey, i am having a bit of a problem.  </s>
+<s> recently, i was stupid and folowed a tutorial on how to make your computer faster.  </s>
+<s> the tutorial worked, but now my printer doesn't work. the tutorial told me to go into msconfig and shut down programs that were running in the backgrounds.  </s>
+<s> i did, and now this.  </s>
+<s> i am trying to print out a word document, and whenever i click print i get &quot;word cannot print because there are no printers detected&quot;.  </s>
+<s> so then, i put in my printer install disk, the first thing that comes up is &quot;this printer cannot be installed because the print spooler service is not running&quot;.  </s>
+<s> okay, so i did a search for this spooler service, and i got an exe file.  </s>
+<s> i double clicked it, nothing happened.  </s>
+<s> since i thought this was a background-running application, i thought nothing of it and tried to reinstall the printer.  </s>
+<s> i got that same &quot;this printer cannot be installed because the print spooler service is not running&quot; message.  </s>
+<s> all i want to know is how can i reinable this print spooler service and get my printer working again?  </s>
+<s> start&gt;programs&gt;control panel&gt;administrative tools&gt;services.  </s>
+<s> scroll down to print spooler service.  </s>
+<s> change startup type to automatic and then under service status press start.  </s>
+<s> oh yeah, i forgot to mention, i tried that method and i got an error message  </s>
+<s> i still haven't gotten this fixed, so i'm just bumping this up so people will see it.  </s>
+<s> thx  </s>

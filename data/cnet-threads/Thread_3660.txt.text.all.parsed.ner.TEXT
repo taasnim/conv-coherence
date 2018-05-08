@@ -1,0 +1,13 @@
+<s> as administrator, vista, why would an on board nic (wired) keep an ip or aquire an ip from an unknown router, not release nor renew.  </s>
+<s> see's my router, address 192.168....., but won't let go of an ip address of 196........?? disabled in bios the on board nic, added usb wireless adapter, this adapter gets the 196... frame like the nic?? won't release or renew....only have limited access, no internet just local....i done all the obvious what am i missing here?  </s>
+<s> ip stack corrupt, winsock?? any suggestions.....oh yeah, all network settings for the adapters were all dhcp enabled, with no ip addresses manually entered.  </s>
+<s> suggestions are welcome??? thanks ahead of time.........  </s>
+<s> the 169 series is well discussed, the 196 would be a new mystery.  </s>
+<s> bob  </s>
+<s> i am sure it was 196, i will double check, will respond back to you this evening  </s>
+<s> you mentioned &quot;well discussed&quot;....take me to the holy grail......  </s>
+<s> it means there is a hard failure most of the time.  </s>
+<s> cable, card or damaged os. to sniff out which i boot a livecd called ubuntu (see google) since it runs from cd with no install.  </s>
+<s> if it can't use the ethernet i know it's cable, card or router ports.  </s>
+<s> there are far too many discussions about the 169 issue but that's the boiled down version and the test i use.  </s>
+<s> bob  </s>

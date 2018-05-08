@@ -1,0 +1,43 @@
+<s> i have a home wireless network that works great in some areas and not so great in others, (slow or drops connection) i added a wireless access point which improved but would like to add another to expand.i have no problems connecting until i reach a certain point in my property line.  </s>
+<s> will access points connect to each other or does an access point have to connect to a router?  </s>
+<s> i have a belkin router and access point with dsl.  </s>
+<s> but to be used in a school with two floors, a long hallway and cinder block walls.  </s>
+<s> look into clustering or wds.  </s>
+<s> from what i'm reading you might be better off with access points of the same brand and model that can operate in these modes.  </s>
+<s> with wds, only one device needs to be wired and the others can act as repeaters.  </s>
+<s> there are limitations and pitfalls, however.  </s>
+<s> repeaters, do so.  </s>
+<s> read up about signal degradation, simplex, etc before committing.  </s>
+<s> rf don't travel well through dense walls and floors.  </s>
+<s> you are better off bouncing signals off hard surfaces.  </s>
+<s> however that can create dead zones, so look into mimo.  </s>
+<s> practically any brand's mimo point can handle a 2000+ sq. ft. home with ease.  </s>
+<s> for your school, can't you pull cable to other end of hallway and use a poe point?  </s>
+<s> i posted a question about that a while back.  </s>
+<s> we'd need a midspan or switch capable of providing the power.  </s>
+<s> our short list of hardware includes a few 3com 7760 poe capable aps and either a 3com or us robotics poe switch in the lower price ranges.  </s>
+<s> pulling more cat 5 isn't a problem but finding ac outlets at the best locations for the aps is.  </s>
+<s> that's why poe is being considered.  </s>
+<s> only recently did funds turn up to plan in earnest.  </s>
+<s> i appreciate your mentioning problems with repeaters.  </s>
+<s> i'm not an it guy and, as a volunteer, i want stuff that works without a lot of care and feeding.  </s>
+<s> unfortunately, the current batch of laptops at the school that would benefit from a wireless hot spot feature a bunch of 802.11 &quot;a&quot;s which travel in a cart that carries it's own ap with it that needs to be plugged into the classroom ports for use.  </s>
+<s> what we implement will need to be as compatible as possible with what we already have to live with unless a money tree appears in the school yard.  </s>
+<s> thanks again.  </s>
+<s> i don't want to hijack this thread and i hope such discussion will be useful to originator.  </s>
+<s> there's plenty to read on this common issue.  </s>
+<s> reading and similar from the other makers this is easy once you know how. in closing did you put your router in the basement?  </s>
+<s> or the money tree hasn't sprouted yet due to a never ending winter (phil did say 6 more weeks, which should be ending this saturday!), here is a device you might consider  </s>
+<s> this cost of this device, however, would fetch 5 of the 3com units.  </s>
+<s> it doesn't list the poe standard either but i do think cisco makes their own power injectors for some models.  </s>
+<s> no doubt it has features and management capabilities that wouldn't be used in this school....partially because no one there would know how.  </s>
+<s> it's nice to think big but we need to live with reality.  </s>
+<s> it's not a big school...k-8 with a capacity of about 250 kids plus the staff.  </s>
+<s> i'm hoping to get by with 3 or 4 aps and a small capacity but rack mountable switch that can power them.  </s>
+<s> i'm hoping to propose we can do the project for under $1500.  </s>
+<s> i can get a spool of cat-5 donated so that will help.  </s>
+<s> but make sure you evaluate the effectiveness of one before committing to more.  </s>
+<s> xr is an improvement for a/b/g but it isn't as good as mimo.  </s>
+<s> there are some mimo-xr units in the market but they are from small companies.  </s>
+<s> if you choose it, again make sure their firmware supports features that you need.  </s>
+<s> good luck in your project.  </s>

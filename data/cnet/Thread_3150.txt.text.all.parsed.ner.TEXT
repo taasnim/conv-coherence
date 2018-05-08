@@ -1,0 +1,34 @@
+<s> i know i recently made a post on this, but things have now changed.  </s>
+<s> i have a printer installed on this laptop (vista basic).  </s>
+<s> i need to share this printer on a network with another laptop (vista premium).  </s>
+<s> i have no idea how to do this.  </s>
+<s> i know the computer names.  </s>
+<s> i don't know how to find the server or printer names.  </s>
+<s> and vista likes to be so damn difficult, i can't find a run feature to use the cmd thing.  </s>
+<s> someome please explain to me what the hell i have to do.  </s>
+<s> a lot of very helpful links on the first page of no need to copy content or links, i'd say.  </s>
+<s> kees  </s>
+<s> good luck!  </s>
+<s> and, merry christmas, if you celebrate it.  </s>
+<s> this thread is untracked  </s>
+<s> i think i have found the root of my problems.  </s>
+<s> haha, technical problems, that is.  </s>
+<s> my printer is not showing up in the networks window.  </s>
+<s> the previous printer that was installed was there instead.  </s>
+<s> i uninstalled the old printer and restarted the computer but the new printer still isn't there.  </s>
+<s> i updated the driver and tried to add the printer and choosing the ports, but nothing happened. the new printer is plugged into the (vista basic) laptop. the local port option says that i shouldn't use a local port if it has a usb plugged in.  </s>
+<s> i managed to create a shared folder and it is working perfectly.  </s>
+<s> i am certain that if i could get the printer to show up on the computer at all, i could share it.  </s>
+<s> just to clarify, i go to start &gt;&gt; network and then add the printer there.  </s>
+<s> if i try to add the printer inside one of the computers on the network screen, vista says i have insufficient rights.  </s>
+<s> whatever the hell that means.  </s>
+<s> thanks dango and kees for the help.  </s>
+<s> merry christmas to you both.  </s>
+<s> whether you celebrate it or not.  </s>
+<s> :p  </s>
+<s> create a shortcut to the printer which probably will go to the desktop.  </s>
+<s> put a copy of that shortcut into the shared folder.  </s>
+<s> on the other computer clk on that shortcut and see if it will access it then.  </s>
+<s> i do not know if this will work on vista, so curious about it myself.  </s>
+<s> &quot;if i try to add the printer inside one of the computers on the network screen, vista says i have insufficient rights.  </s>
+<s> whatever the hell that means.&quot; go into admin mode and do it, then allow all users to use it.  </s>

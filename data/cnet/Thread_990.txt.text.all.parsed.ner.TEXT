@@ -1,0 +1,22 @@
+<s> i am running xp sp2.  </s>
+<s> recently had a virus attack.  </s>
+<s> now, lan has low connectivity and a 169.234.x.x automatic private address for the ip address assigned ip instead of the usual zyxel assigned router of 192.168.1.xxx.  </s>
+<s> what kind of problem is this?  </s>
+<s> sorry, i meant the zyxel router ip address range is 192.168.1.101-254.  </s>
+<s> i should be able to just let dhcp assign onew of these ip addresses in the usual way.  </s>
+<s> and you get to either use a winsockfix program or reinstall the os. said fix program is out there on google.  </s>
+<s> another common oversight is trusting microsoft to find all the machine's driver.  </s>
+<s> i'll be short.  </s>
+<s> that doesn't work.  </s>
+<s> bob  </s>
+<s> i've heard on ecan just import ie settings immediately to firefox after downloading and installing it.  </s>
+<s> what do you think?  </s>
+<s> don't have to be politically correct  </s>
+<s> you figure out that the assigned address is not an ie or firefox item.  </s>
+<s> that's an os issue.  </s>
+<s> bob  </s>
+<s> winsockfix worked.  </s>
+<s> i heard about it here.  </s>
+<s> it rebuilt the tcp/ip connections.  </s>
+<s> thanks.  </s>
+<s> now, to get that nasty virus.  </s>

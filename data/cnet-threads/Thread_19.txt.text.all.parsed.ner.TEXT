@@ -1,0 +1,11 @@
+<s> hey hey!  </s>
+<s> i really need help how to setup a network between a pc and a mac (osx, 10.3).  </s>
+<s> currently, i have a ethernet cable connecting these two machines together.  </s>
+<s> on the pc side, i have files that i would like to transfer to the mac.  </s>
+<s> i right-clicked the folder i wanted to share, and made sure the sharing option is chosen in xp. on the mac side, i typed in &quot;smb://my ip address/&lt;share&gt;&quot;, but i get a bad connection response.  </s>
+<s> i would greatly appreciate it if anyone could please help me.  </s>
+<s> thanks!  </s>
+<s> since it's a samba share, you may have better luck researching and the book at i offer no clear answer to your issue but filesharing should be enabled and you might have to either enable the guest or clear passwords.  </s>
+<s> i will not tell you how to do this since it's in the samba web site.  </s>
+<s> bob  </s>
+<s> you may want to try a crossover ethernet cable.  </s>

@@ -1,0 +1,12 @@
+<s> i have a question about the external hard drive.  </s>
+<s> if i get one and plug it into my pc via usb 2.0, will the external hard drive show up as a removable device?  </s>
+<s> i have an external hard drive and whenever i plug it in it shows up as my f: drive .  </s>
+<s> when i look in my computer it shows up as saying local disk (f).  </s>
+<s> i don't see it say anywhere that its a removable drive.  </s>
+<s> hope this helped.  </s>
+<s> in the drive's policies (device manager, disk drives, properties, poilicies tab), you can configure the write caching as safe removable as &quot;optimize for quick removal&quot; or &quot;optimize for performance&quot;.  </s>
+<s> if optimizing for performance, a write cache will be setup in the os and you'll need to use the &quot;safely remove hardware&quot; icon to save any pending data.  </s>
+<s> the quick removal option will allow you unplug the drive once the activity led turn off.  </s>
+<s> i have an seagate 160 gig in an external usb 2.0 case.  </s>
+<s> yes, it will show up as and removable drive.  </s>
+<s> works well.  </s>

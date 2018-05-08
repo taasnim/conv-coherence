@@ -1,0 +1,24 @@
+<s> here's my setup.  </s>
+<s> i have one computer with a linksys wireless g pci adapter in it.  </s>
+<s> i have it wirelessly connected to my 2wire modem in another room.  </s>
+<s> in the same room as my pc, i have another pc that i would like to get the internet connection shared onto.  </s>
+<s> now, i have a netgear wireless router with 4 ethernet ports on it, the wgr614 v6 router.  </s>
+<s> i was thinking i could simply plug both computers into this router, and set up a shared internet connection that way, but everytime i plug in this router it seems to disrupt my wireless internet connection, however then the two pcs are networked fine.  </s>
+<s> only no internet!  </s>
+<s> can anything be done about this short of buying a wired-only router?  </s>
+<s> what is the model number of the 2wire modem?  </s>
+<s> do you have dsl, cable, other?  </s>
+<s> did you follow the installation instructions for the netgear router?  </s>
+<s> typical setup: internet --- modem --- wireless router --- computers the connection between the wireless router and the computers may be wired or wireless.  </s>
+<s> the swire is a 1701hg.  </s>
+<s> i'm familiar with how networks generally work.  </s>
+<s> however, in this case i only have one wireless modem, one wireless router, and one wireless network card.  </s>
+<s> i can only connect to the modem with the wireless card.  </s>
+<s> so my question is is it more worth it to get the two computers networked or to just buy another wireless card for it?  </s>
+<s> there isn't much info on that model at 2wire.com, but this says that there should be 4 ethernet ports on the 1701hg in addition to the wireless capability: i might be wrong, but it looks like the 2wire 1701hg is a router that can handle 4 wired connections and multiple wireless connections at the same time.  </s>
+<s> you wouldn't need another wireless router.  </s>
+<s> am i missing something?  </s>
+<s> spend about $20 on a hub/switch and sell/giveaway the other wireless router or castrate the netgear's routing features.  </s>
+<s> steps to disable the netgear's routing features: + get the ip address of a pc connected to the linksys.  </s>
+<s> (in winxp, open a dos box, and ipconfig.) + plug 1 pc into the netgear but leave the netgear disconnected from the linksys + log in to the netgear's web interface (you'll need to know the ip address of the netgear; usually its 192.168.0.1) + open the wireless section, select disabled and click apply + open the wan section, choose dynamic ip address and click apply + open the dhcp section, select disabled and click apply + open the lan section, and enter the ip address of the pc replacing the last digits with 255 (e.g.: 192.168.0.13 becomes 192.168.0.255); save this address since you'll need to use it access the netgear's admin interface + let the netgear restart then turn it off + plug the netgear into the linksys using a regular (downlink) port (not the netgear's uplink port) + turn on the netgear + plug the other pc(s) into the netgear the netgear should be acting as a switch now.  </s>
+<s> you'll only have 3 available port since 1 will be used to connect it to the linksys.  </s>

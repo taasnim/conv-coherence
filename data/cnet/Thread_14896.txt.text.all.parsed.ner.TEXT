@@ -1,0 +1,23 @@
+<s> this is a system that i built myself 2 years ago.  </s>
+<s> i have upgraded a few things over time but never any problems.  </s>
+<s> i have the msi k7t266 pro2 ver2.0 motherboard with an amd xp1800 processor.  </s>
+<s> lately whenever i start it sometime the led just flashes once and it won't start.  </s>
+<s> if i turn the power off for 10 secs.  </s>
+<s> and then back on it starts fine.  </s>
+<s> but now it won't start at all.  </s>
+<s> everytime i turn the power off and them back on the led will flash one time and all the fans including the cpu fan will start to spin and then nothing else.  </s>
+<s> i went ahead and replace the power supply but it still does the same.  </s>
+<s> just looking for some possible input before i start buying more parts.  </s>
+<s> i was planning on upgrading the motherboard and processor anyway but i was going to use the ones i have now in my wifes computer to upgrade it.  </s>
+<s> thanks for any help, carl  </s>
+<s> i'm not a guru but it could be your temp sensor that the power supply uses to auto shutdown.  </s>
+<s> if your temp sensor has a break in the wire or a short it may be giving you a false overtemp.  </s>
+<s> also, god forbide, your new supply could have been a lemon.  </s>
+<s> i havn't recieved much imput on this problem doesn't anyone have any ideas on this problem.  </s>
+<s> but the short version was to replace the most likely bad parts (and upsize the psu along the way) from cheapest to more expensive.  </s>
+<s> we start with the minimum 450 watt psu, then the motherboard and finally the cpu.  </s>
+<s> but first you strip it down to just psu, motherboard and the power on switch to see if it powers up.  </s>
+<s> if it doesn't then you know its one of the two.  </s>
+<s> then add the cpu/hsf and speaker to see if it comes up and beeps.  </s>
+<s> keep building... you have read the former discussions and know the bulging, leaking capacitors mean you replace that board.  </s>
+<s> bob  </s>

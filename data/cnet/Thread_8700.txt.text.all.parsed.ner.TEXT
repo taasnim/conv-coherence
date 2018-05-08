@@ -1,0 +1,22 @@
+<s> this is my situation: i am trying to set up a small wireless isp service here in tropical west africa.  </s>
+<s> i already have a vsat connection to the internet that i use for my internet cafe.  </s>
+<s> i am trying to extend my wireless service to some homes in the immediate vicinity (1 mile radius).  </s>
+<s> i have installed a 15dbi omni antenna at the top of our buliding connetected to a dlink (dl-614+) wireless router.  </s>
+<s> i also have an amplifier connected to it.  </s>
+<s> length of cable (between omni and ap) is 98 ft. what is ideal for the end-user computer to receive good signal?  </s>
+<s> driving around with my wireless enabled laptop, i can see my wireless network, and can connect to it but within a very short distance of the building.  </s>
+<s> i have tried connecting from within a prospective subscriber's living room just 1/3 of a mile away and could not see the ap. do subscribers need special equipments to connect?  </s>
+<s> how come i cannot connect with a regular wireless card or usb wireless adapter?  </s>
+<s> you could use multiple wifi routers or more correctly waps and use a directional antenna for north, south or north, south, east and west while setting each wap to a different channel.  </s>
+<s> as you move out, you have to populate your system with range expanders.  </s>
+<s> good luck.  </s>
+<s> bob  </s>
+<s> i do not have the budget for your suggestions - waps and repeaters.  </s>
+<s> my intended coverage area is actually less than half a mile. is there any other solution for my current setup?  </s>
+<s> are there external wi-fi antennas that would work for my subcribers to receive signals from the ap?  </s>
+<s> and the user may have to do same.  </s>
+<s> here's the cheap addon for the user's end.  </s>
+<s> look over which is probably the best trick in the book without having to heat up any solder iron.  </s>
+<s> you can help out the user's end this way.  </s>
+<s> if you are looking for magic, there is none here.  </s>
+<s> bob  </s>

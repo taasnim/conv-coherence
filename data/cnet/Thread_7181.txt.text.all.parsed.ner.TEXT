@@ -1,0 +1,16 @@
+<s> hello, i just built a new system with an abit kd7a board and an amd athlon 2200 cpu.  </s>
+<s> a few questions-- the cpu speed is setting up as 1500 mhz, is this correct or is it defaulting to a slower speed?  </s>
+<s> (i can't find info on the ghz speed of this 2200 cpu anywhere!) note i do not want to overclock .  </s>
+<s> . .  </s>
+<s> and, should i bother to clear the cmos memory?  </s>
+<s> thanks - fj  </s>
+<s> for a 2200+, 1500mhz seems a bit low.  </s>
+<s> maybe you should jack it up to 133mhz fsb.  </s>
+<s> i wish they would give the specs someplace.  </s>
+<s> didnt you get manuel with board or call supplier as its a needed item  </s>
+<s> well finally long weekend is over and i called amd and they gave it to me over the phone-- gee whiz, what a silly thing for both board and chip manufacturer to leave out!  </s>
+<s> - fj  </s>
+<s> actual cpu mhz speeds are only a search away on the internet.  </s>
+<s> google search keywords : &quot;athlon 2200+ mhz&quot; 2200+ athlon = 1.8ghz (133mhz fsb x 13.5) motherboards are generally set to 100mhz fsb as this is the lowest fsb used by the amd durons that the boards can use.  </s>
+<s> by having it set as 100mhz default allows every cpu to work at boot up without danger, but of course old althons need the fsb increased to 133, and new xp lettered athlons need this increased to 166mhz.  </s>
+<s> g.  </s>

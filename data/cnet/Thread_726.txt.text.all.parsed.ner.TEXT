@@ -1,0 +1,18 @@
+<s> when i attempted to install the second geforce 8800 gts card into my system, i was greeted with a high pitched squeeling noise the moment i turned on the power.  </s>
+<s> i tried it twice more, once after flipping the sli bridge around and then again with no sli bridge connection.  </s>
+<s> i ensured the card was properly seated.  </s>
+<s> all had the same high-pitched noise.  </s>
+<s> any ideas?  </s>
+<s> thanks -hendrik computer: operating system microsoft windows xp home edition os service pack service pack 3 directx 4.09.00.0904 (directx 9.0c) computer name blazin user name hendrik motherboard: cpu type 2x , 2400 mhz (7 x 343) motherboard name unknown motherboard chipset unknown system memory 2816 mb bios type award (09/28/07) communication port communications port (com1) display: video adapter nvidia geforce 8800 gts (640 mb) monitor plug and play monitor [nodb] (la10c0414031) multimedia: audio adapter realtek hd audio output storage: ide controller standard dual channel pci ide controller ide controller standard dual channel pci ide controller ide controller standard dual channel pci ide controller ide controller standard dual channel pci ide controller scsi/raid controller scsi/raid host controller floppy drive floppy disk drive disk drive wdc wd6400aaks-00a7b0 (596 gb, ide) disk drive generic usb cf reader usb device disk drive generic usb ms reader usb device disk drive generic usb sd reader usb device disk drive generic usb sm reader usb device disk drive st3200822as (200 gb, 7200 rpm, sata) disk drive st3200826as (200 gb, 7200 rpm, sata) optical drive df0897d evb104n scsi cdrom device optical drive lite-on dvdrw lh-20a1s smart hard disks status ok [ bios ] bios properties: vendor phoenix technologies, ltd version 6.00 pg release date 09/28/2007 size 512 kb boot devices floppy disk, hard disk, cd-rom, atapi zip, ls-120 capabilities flash bios, shadow bios, selectable boot, edd, bbs supported standards dmi, apm, acpi, pnp expansion capabilities isa, pci, usb [ system ] system properties: manufacturer evga product 122-ck-nf68 version 2 wake-up type power switch [ motherboard ] motherboard properties: manufacturer evga product 122-ck-nf68 version 2 serial number 1  </s>
+<s> overheating, you need bios update, or you're overclocking.  </s>
+<s> either you forgot the power connections to the cards (can be 2 on each) or that extra 100 watt video card you added pushed the power supply over the edge.  </s>
+<s> let's say you need 650 watts or more on your power supply rating.  </s>
+<s> bob  </s>
+<s> thanks for the quick responses guys.  </s>
+<s> yup, i was just a tired moron last night and didnt plug in the power for the second card, d'oh!. however, while the second card is hooked up and working, with sli-enabled in the nvidia control panel, i have a bit of a snag.  </s>
+<s> under graphics settings in gta iv, my &quot;resources available&quot; is exactly the same and i see minimal graphic improvement.  </s>
+<s> i have found changing the view distance from 1 to 70 (max amt it will let me push it) there is very little difference in viewing distance or graphics improvement.  </s>
+<s> the only difference is when its maxed out my camera movements are a little jagged.  </s>
+<s> otherwise the game runs pretty much the same as on one card (it fairly good to start out with, i suppose).  </s>
+<s> any thoughts by anybody?  </s>
+<s> thanks for your time -hendrik  </s>

@@ -1,0 +1,10 @@
+<s> i know the title appear as a common one, but i couldn't find a similar problem on googling!  </s>
+<s> system just stopped working when i was playing a game, i restart but hard disk never boot again. the hdd led is solid on showing no activity on windows logo screen.i  </s>
+<s> can't log on safe mode for the same problem.  </s>
+<s> i've tried doing a chkdsk /r but it kept showing (unrecoverable ..)on 25% the weird thing about this is next day i switched on the computer and it log on successfully, but it freezed (while hdd led is continuous on) system info: windows xp westren digital 16ce 80gb  </s>
+<s> open the case and make sure the cables are connected.  </s>
+<s> if that gets it going, copy off your data to external storage asap.  </s>
+<s> then download the drive fitness software from the manufacturer's website and run a diagnostic on the drive.  </s>
+<s> you might have to burn a boot disk from the website's iso image of their product.  </s>
+<s> thanks for the quick reply.. it isn't that old,, about 3 years i tried using wd diagnostics.. after couple of times freezing, it completed the scan progress &gt;&gt; result: no errors or bad sectors chkdsk also has completed the scan (finally).. saying that there were errors fixed i tried to boot but this time.. it doesn't reach windows logo.. it shows an error message (( error in the file system windows/system/... ))  </s>
+<s> read and do this -&gt;  </s>

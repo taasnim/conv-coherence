@@ -1,0 +1,39 @@
+<s> i need to figure out how to connect a computer to two different networks at the same time.  </s>
+<s> both of the networks will be wired and must be on 24/7. the computer has (or will have) two wired network interface cards.  </s>
+<s> one is an onboard card and the other is a pci card. the operating system is xp professional.  </s>
+<s> i am &quot;somewhat&quot; familiar with networking.  </s>
+<s> thanks  </s>
+<s> so that leaves us with only one option and that is to subnet the internet.  </s>
+<s> that is you can split the internet addresses in 2 and send requests one way for some and the other set of ip down the other.  </s>
+<s> most people want to bond the channels but that's not part of this os. bob  </s>
+<s> bob, one of the network cards will connect to a local network and through it, to the internet.  </s>
+<s> the other network card will connect to a satellite modem for a wan.  </s>
+<s> both networks must be active 24/7  </s>
+<s> your reply didn't add any new details except you seem to want 24x7 operation.  </s>
+<s> let me try this.  </s>
+<s> how serious are you about this? are you going to get another machine, learn linux or pay up for the expertise to make it happen or the boxes that will do this?  </s>
+<s> bob  </s>
+<s> ok, sorry.  </s>
+<s> i guess i am not as &quot;networking savy&quot; as i thought.  </s>
+<s> i know very basic concepts and am not a real it person.  </s>
+<s> i don't have the option of buying another machine, or learning linux. the one computer must operate on both networks simultaneously.  </s>
+<s> the application this is used for is very &quot;restrictive&quot; in nature and must be secure, and must run with xp pro.  </s>
+<s> i do not currently have a machine to &quot;play with&quot; that has dual network adapters, however, i need to figure out how to make this happen.  </s>
+<s> any help would be appreciated, but consider that i am most likely a novice (at best) when dealing with networking  </s>
+<s> if this box runs windows, then this is not going to happen without more hardware and/or software.  </s>
+<s> since another pc is out of the question i take it that you are not serious about this.  </s>
+<s> let's try a simple approach.  </s>
+<s> look at this will allow you to switch which network to use at boot time.  </s>
+<s> bob  </s>
+<s> i want to asked did u solve this problem ???  </s>
+<s> unless i'm missing something, there's nothing to be done here.  </s>
+<s> simply connect it up, and windows will automatically recognise the two networks.  </s>
+<s> it'll access the internet through whichever network allows, or you can even go into network settings and disable access of the internet through one or another network.  </s>
+<s> i just wanna ask one thing that can i connect to two networks at the same time, because i have a broadband connection and a 3g connection on mobile, and wanna connect both of them to get a combined greater download speed.  </s>
+<s> my os is windows 7 ultimate.  </s>
+<s> research what hardware might do this.  </s>
+<s> read the above posts.  </s>
+<s> you cannot combine 2 networks to get higher download using only the windows.  </s>
+<s> by default windows will only use a single connection.  </s>
+<s> if you work at it you can make it use one connection to download from say utube and the other to download from say netflicks but you cannot combine them to get greater speed.  </s>
+<s> there are companies will try to sell you services to do this but it in general is not worth the costs compared to buying a larger connection from a isp.  </s>

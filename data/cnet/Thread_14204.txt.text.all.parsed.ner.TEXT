@@ -1,0 +1,31 @@
+<s> i have a partition question.  </s>
+<s> if i have like 4 partitions on 2 hard drives and the c drive is obviously the os, does it mess up the the system or registry or what ever if i place programs for instance on the f drive instead of the c drive.  </s>
+<s> for instance c:program filesadobe, i place it in f:program filesadobe as an example.  </s>
+<s> and i am referring doing this to several programs.  </s>
+<s> i guess my concern is if the c drive or os crashes, i don't have to reload all my software.  </s>
+<s> does this question make sense?  </s>
+<s> mike  </s>
+<s> in 1995 microsoft rolled out a new os that made your plan go down in flames.  </s>
+<s> when the os is reinstalled, the shared dlls and the registry will make most if not all software on the other drive nonoperational.  </s>
+<s> there are no plans to change this &quot;feature.&quot; bob  </s>
+<s> i've been able to install programs to other partitions without much trouble, but not necessarilly to ''x:program files''.  </s>
+<s> feel free to try, but be aware that not all programs will do this willingly.  </s>
+<s> if it fails, you'll have to install the program to the local drive.  </s>
+<s> however, if your hd/os crashes, you'll still be out of luck...almost all programs are tied into windows, to at least some degree. the registry and a lot of files used by the programs are still stored on the local drive, and this can't be changed.  </s>
+<s> thus, you'll still have to reinstall the programs after you reinstall windows.  </s>
+<s> (this is only useful for storing your personal files.) the only way to avoid such tedious work is to create an exact duplicate of your entire hard drive (others can recommend software for this), so that you can simply pop in the other drive (or upload from cds/dvds) and continue on as usual.  </s>
+<s> hope this helps, john  </s>
+<s> i work on my laptop all the time.  </s>
+<s> i bought a 160 gig external hard drive to back up my documents (which all things considered is overkill for just documents) but i've used it to save video files in one partition, over 20 gig of music in another and recently, as a second storage solution for system backup and extra programs (ie.  </s>
+<s> audio editing software and games) i've saved these on a a folder &quot;h:program files&quot; and have had no problems accessing the programs (except for the mild lag in gaming). the reason for doing this is due to the limited space on my laptop's partitioned drives (&quot;c:&quot;&gt; 30 gigs, &quot;d:&quot;&gt; 10 gigs).  </s>
+<s> for extra space it works great to put programs on an external drive (regardless of the folder designation).  </s>
+<s> as far as the programs being accessible after an os crash and reformating, i don't it would be possible.  </s>
+<s> these programs interact directly with windows.  </s>
+<s> run files and .dll  </s>
+<s> files are accessed through the &quot;c:&quot; drive which contains my os (window's xp pro)  </s>
+<s> it's very good that you keep programs in one place, but it's not enough.  </s>
+<s> for sure you need to make system partition backup .  </s>
+<s> this file will contain os and all your apps configurations with roads to them.  </s>
+<s> you'll get an exact image of your c drive, keep it on f, also copy to cd (due to compression it takes not much space).  </s>
+<s> and if your os suddenly crash, you could immediately restore it.  </s>
+<s> as for me, i always use this method to keep and protect data.  </s>

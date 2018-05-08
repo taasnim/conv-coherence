@@ -1,0 +1,27 @@
+<s> hi, i have a netgear wireless router wpn824 and wa swroking fine till i used it with dynamic ip address with the dsl connection but now when i came on a business trip and am living in a hotel, i have been provided with static ip and dns servers settings.  </s>
+<s> if i use the laptop without the router, there is no issue except that i have to sit on the chair everytime i have to do anything.  </s>
+<s> i tried setting up the router but to see no luck at all.i  </s>
+<s> provided the ststic ip and dns server info into the router configuration but to see nothing happening, i upgraded network card and router firmware also, i am using 3945 pro wireless intel card.please  </s>
+<s> help as it is become very crucial for me to set it up.i can not sit for hours on a chair just to do busines work.let  </s>
+<s> me knwo if i need to provide any more infomartion.  </s>
+<s> static ip: 192.168.1.8 dns 202.54.7.96 alt.  </s>
+<s> 202.9.6.54  </s>
+<s> hello, since the 192.168 ip scheme is non routable i don't know if this will work but its worth a shot.  </s>
+<s> 1. connect your router's internet port to the hotel's network.  </s>
+<s> verify the internet port light showing a physical connection.  </s>
+<s> 2. connect to your router (lan side) and login.  </s>
+<s> 3. set the internet port to static and enter the info as given by the hotel (verify that it is a class c subnet) 4. modify the lan side of the router to a different subnet; ex: hotel ip 192.168.1.18 class c router lan ip range 192.168.2.1 class c 5. save this configuration and test.  </s>
+<s> let me know if this works  </s>
+<s> i just thought of an easier way to do this.  </s>
+<s> you must have the following information 1. static ip address (ex: 192.168.1.18) 2. subnet mask (ex: 255.255.255.0) 3. dns settings (you have them) 4. gateway address (ex: 192.168.1.1) connect your wireless router to the hotel's network using one of the 4 lan ports.  </s>
+<s> input the above information into the wireless card's ip configuration.  </s>
+<s> connect to the wireless network and you should be on.  </s>
+<s> let me know if this works.  </s>
+<s> apparently this hotel doesn't have wireless available, though in my travels around the us i find wireless is the standard rather than the exception.  </s>
+<s> regardless, a very low tech, simple solution i use when confronted with this situation is a 25ft extension cable with an inline coupling.  </s>
+<s> both can be purchased at walmart for around 20 bucks.  </s>
+<s> 25 ft.  </s>
+<s> cable will reach anywhere in the room and even allow you to sit outside and get some fresh air while computing. it isn't elegant, but it is guaranteed to work 100% of the time.  </s>
+<s> of course i don't have the option of taking my wireless router either.  </s>
+<s> thanks for your quick response..yes it did work.  </s>
+<s> i just had to change the lan ip of the router to a class differnet than what hotel lan is using and now..i'm able to use internet wirelessly..thanks cnet and thanks to you.  </s>

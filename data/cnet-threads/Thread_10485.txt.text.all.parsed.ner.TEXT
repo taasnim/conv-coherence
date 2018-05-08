@@ -1,0 +1,12 @@
+<s> i was wondering if anyone could help me solve my problem,my sound on my computer-self built about 5 years ago,upgraded often.  </s>
+<s> in the sound area it says enabled but not started can someone help me figure out why,i am using the mx46-533v motherboard onboard sound,running windows xp,2 hard drives,one 200gb and the other 60gb,dvd burner and cdr drive,1 stick of 512 ddr pc2700 and 1 stick of 256 ddr pc2700 memory,pentium 4 2.4 ghz,i have installed other sound cards but each time it just says the same thing,enabled but not started.  </s>
+<s> help help help i am going crazy.  </s>
+<s> thanks tracey  </s>
+<s> often go out.  </s>
+<s> it's easy to insert an inexpensive pci card to correct the problem.  </s>
+<s> i did and it still says the same thing,enabled but not started.  </s>
+<s> run msconfig.exe  </s>
+<s> and try booting in safe mode and then normal mode and see if it helps.  </s>
+<s> if not, go into hardware settings in control panels system icon and look for devices related to sound which may be disabled or in conflict.  </s>
+<s> you should also run windows update and contact microsoft for a $35 incident if necessary.  </s>
+<s> i cannot update windows xp,and i don't know why  </s>

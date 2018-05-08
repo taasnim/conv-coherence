@@ -1,0 +1,14 @@
+<s> while checking my system specifications, i recently discovered that i have 44 unformatted gigs.  </s>
+<s> i am wondering how i could activate it without using fdisk, because i unfortunatly don't have a boot disk, or a floppy drive.  </s>
+<s> :s  </s>
+<s> simply use the disk management function of xp. if you want to format it in fat 32 you are limited to 32 gb, however if you use ntfs you can make that one partition.  </s>
+<s> doing it via xp is really a nice feature.  </s>
+<s> use the new partition for your files leaving first partition for the o/s, applications and files you do not intend to keep.  </s>
+<s> this allows, if needed, a re-install of the o/s and applications with out having to migrate your files off the drive.  </s>
+<s> it does not mean no back-ups, you never know when a h/d will fail.  </s>
+<s> bill  </s>
+<s> she could also go into windows explorer, right click that drive letter if it shows up, and choose format from the menu.  </s>
+<s> i don't believe that she would be limited to 32gb though...... if she doesn't see the drive show up in windows explorer, she can still get to the c: prompt in dos by pressing the f8 key as it boots up, get to the menu, choose command prompt only.  </s>
+<s> then she can type fdisk /status and see if that drive has been assigned a drive letter.......if system specifications indicated that the drive is actually fdisked already but not formatted, it has a drive letter assigned.  </s>
+<s> once she has the drive letter for it based on the amount of harddrive space involved (44gb), she can type cd windowscommand and press enter then type format e: (or whatever the drive letter is for that partition) and it will be formatted once she reboots the computer to windows and useable.  </s>
+<s> toni  </s>

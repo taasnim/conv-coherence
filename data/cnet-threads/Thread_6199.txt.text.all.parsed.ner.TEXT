@@ -1,0 +1,32 @@
+<s> i am running into an issue.  </s>
+<s> 2 computers, one is xp home, one is xp media center.  </s>
+<s> both have file and print sharing turned on.  </s>
+<s> firewalls turned off.  </s>
+<s> both connect to the internet thru a telcom dsl router successfully.  </s>
+<s> desktop is wired (xp home), laptop is wireless( media center) it has file sharing on the directory for testing and also sharing the printer.  </s>
+<s> i can ping the ip going both ways.  </s>
+<s> pinging 172.16.x.x. now a couple of things... laptop has a 172.16.x.x via ipconfig desktop has a ip of 192.168.x.x via ipconfig, however via the telcom's router it shows clients of 172.16.x.x. i am unable to connect to the shares on either the desktop or laptop.  </s>
+<s> i can't net use to them either.  </s>
+<s> i can't browse.  </s>
+<s> any idea's?  </s>
+<s> the machines ip ranges are such they are not on the same subnet.  </s>
+<s> fix that first then look at uninstalling the un-named firewall.  </s>
+<s> some like mcaffee, symanctec keep working even when disabled. the lack of small details mean i can't help too much or may write the wrong answer.  </s>
+<s> bob  </s>
+<s> bob, on the same subnet, looking via the telcom's router they are both 172.16.x.x. only on a ipconfig do i see a different ip. however maybe i will just redo the ip's and see if that clears them up.  </s>
+<s> also remember i can ping both ip's going both ways.  </s>
+<s> there is only the 2 machines on the network.  </s>
+<s> we both know that sometimes ip's get hung up, so maybe that is it.  </s>
+<s> network devices.  </s>
+<s> each will have a different ip address.  </s>
+<s> this might be why you see what you see with ipconfig.  </s>
+<s> if your laptop has some sort of network connection management software such as ibms have and you configured your wireless network device using that, windows ipconfig might not display it.  </s>
+<s> you should be able to find it from the tray icon, however.  </s>
+<s> steve, ipconfig is a command that is run from the vdm( vertiual dos mode) it will give you the ip information of all the network connections on that machine irregardless of how they are configured.  </s>
+<s> that on my wife's ibm that typing ipconfig or ipconfig /all in the command window does not give the ip address for the wireless connection.  </s>
+<s> that is because she uses the ibm utility rather than windows to configure the many connections she uses and can click on the one of choice for a specific session.  </s>
+<s> if i let windows set up the address, ipconfig does work as you say.  </s>
+<s> i just tried and verified this within the last few minutes.  </s>
+<s> it was only a thought.  </s>
+<s> i do believe it's correct that you cannot ping or access a device on another subnet without passing through such as a router.  </s>
+<s> in my own home, i've found static addressing to give me fewer problems and aid in troubleshooting network problems.  </s>

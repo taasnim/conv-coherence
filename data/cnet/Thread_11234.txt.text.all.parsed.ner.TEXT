@@ -1,0 +1,18 @@
+<s> hi i still have the 40 gb hard drive that came with the dimension 2400, however i have upgraded ram to 1gb and video card to fx5200.  </s>
+<s> i read around and there seem to be a lot of things to consider such as different types of hard disks and maybe i am short on power supply and that the dimension 2400 only has one power source for hard disk.  </s>
+<s> there is a lot more than that as well it seems.  </s>
+<s> below are some information from belarc advisor operating system system model windows xp home edition service pack 2 (build 2600) dell computer corporation dimension 2400 enclosure type: space-saving processor 2.40 gigahertz intel celeron 8 kilobyte primary memory cache 128 kilobyte secondary memory cache main circuit board board: dell computer corp.  </s>
+<s> 0g1548 a00 serial number: ..cn708213c2g0hp.  </s>
+<s> bus clock: 400 megahertz bios: dell computer corporation a05 12/02/2003 drives 41.06 gigabytes usable hard drive capacity 1.54 gigabytes hard drive free space generic dvd-rom scsi cdrom device [cd-rom drive] hl-dt-st rw/dvd gcc-4480b [cd-rom drive] 3.5&quot; format removeable media [floppy drive] maxtor 6e040l0 [hard drive] (41.11 gb) -- drive 0, s/n e1maj2le, rev nar61590, smart status: healthy c: (ntfs on drive 0) 26.21 gb 734 mb free d: (ntfs on drive 0) 14.85 gb 803 mb free controllers standard floppy disk controller intel(r) 82801db ultra ata storage controller - 24cb primary ide channel [controller] secondary ide channel [controller] i hope you professional guys can help me on this.  </s>
+<s> a hard disk of around 100 gb would be great.  </s>
+<s> thanks a lot in advance.  </s>
+<s> google this: finds this on the first page: it notes 160gb drives so with dell's latest bios it seems you can support 160gb drives without further research.  </s>
+<s> if you need another power connection, there are y connectors at the stores.  </s>
+<s> bob  </s>
+<s> i'd upgrade your bios to the most recent and check to see if it mentions lba 48 (48-bit logical block addressing)?  </s>
+<s> if it supports that then you can get any drive you want.  </s>
+<s> just buy one and hook it up as slave and see if your bios id's it as the correct size?  </s>
+<s> if it does your off and running.  </s>
+<s> if not buy this.  </s>
+<s> you can also go with and ata pci card with lba-48 support .... the only problem is your power supply .... you may need to upgrade that and dell (unless they've changed) uses proprietary psu's so it could be tricky?  </s>
+<s> cheers  </s>

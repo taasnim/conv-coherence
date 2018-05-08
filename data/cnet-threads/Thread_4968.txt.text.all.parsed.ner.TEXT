@@ -1,0 +1,21 @@
+<s> heres a quick summary of the problem and the hardware involved.  </s>
+<s> i have been to many forums and a lot of people have had similiar problems and there are many solutions, but nothing has worked for very long.  </s>
+<s> does anyone out there have an idea of what should be done to gain a sustained connection.  </s>
+<s> its a linksys befw11s4, version 2 (most other posts with the same prob have the version 4.)adapter is linksys wusb11, ver 2.6... both are fully up to date on firmware and drivers... when the &quot;connection drops&quot; i do not lose a connection to the ap. i only lose the ability to recieve info back from the ap. the net connections tab still says i am connected with excellent signal strength.  </s>
+<s> i can see my mac address listed in the clients table of the ap. i'm still on.  </s>
+<s> i can send packets all day long, but will not recieve any back.  </s>
+<s> ssid is being broadcast, 802.1x is not enabled, and zero config is also disabled.  </s>
+<s> i should note that i have no problem at all connecting to other networks with the identical equipment and settings.  </s>
+<s> its only mine... the one i want to connect to.  </s>
+<s> i'll also note that problem is not limited to our xp machines.  </s>
+<s> the exact same thing occurs on my win2k laptop.  </s>
+<s> i can do a long reset, and it will get me back surfing for a few hours, but never any longer.  </s>
+<s> if anyone has even a remote clue as to what is going on, i'd love to know.  </s>
+<s> i'm completely and utterly perplexed at this point.  </s>
+<s> i'm this close to tossing my linky in the garbage.  </s>
+<s> have you contacted linksys for a possible rma? the problem with lowering the price of this equiptment is that it also lowers the quality.  </s>
+<s> michael the router is out of warranty and has been for a few months.  </s>
+<s> thanks for your reply!  </s>
+<s> regards, jh  </s>
+<s> .  </s>
+<s> i dont know if you already found the answer, but i used to have the same problem with my linksys, just make sure the ieee 802.1 authentication is off, you have the lates firmware update and be aware of any other electronic devices such as cordless phone do not operate in the same wavelength as your transmitters, i strongly recommend you to use a wep 64bit encryption.  </s>

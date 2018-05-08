@@ -1,0 +1,26 @@
+<s> i use windows vista can not open google piscasa without this error message: cblockfile: restore err=2, album_index.db  </s>
+<s> all other programs seems to be working fine.  </s>
+<s> i tried searching the net only found one no answer for it.  </s>
+<s> i tried system restore - got this message -there was an unexpected error: the volume shadow copy service used by system restore is not working.  </s>
+<s> for more information view the event log.  </s>
+<s> (0x81000202) ?  </s>
+<s> do i have 2 problems now?  </s>
+<s> google piscasa is my favorite photo program would it work it i uninstall and reinstall the program if i can not restore the computer to a later date?  </s>
+<s> what's up with my system restore?  </s>
+<s> i ran a check for error's + ran a malware program everything is fine.  </s>
+<s> appreciate any help  </s>
+<s> window's visa, just wanted to write i worked the problem out.  </s>
+<s> i started with the system restore problem.  </s>
+<s> ------------------------------------------- start-&gt;run type &quot;services.msc&quot;.  </s>
+<s> enter.  </s>
+<s> in the services window, in the right pane; please check that the following services are enabled and also note the startup type: - &quot;remote procedure call&quot; (rpcss), automatic mine (automatic) - &quot;com+ event system&quot; (eventsystem), manual mine (automatic) - &quot;system event notification service&quot; (sens) , automatic - mine (automatic) - &quot;volume shadow copy&quot; (vss), manual - mine (manual) - &quot;microsoft software shadow copy provider&quot; (swprv), manual.  </s>
+<s> mine (manual) ---------------------------------------------------------------- i changed : these to automatic &quot;volume shadow copy&quot; (vss), manual - mine (manual) - &quot;microsoft software shadow copy provider&quot; (swprv), manual.  </s>
+<s> mine (manual) not sure if this helped, i can't tell unless i run system restore.  </s>
+<s> -------------------------------------------------------------------- i uninstall the picasa and still have the same problem, then i noticed the program that was opening my pictures was set to &quot;irfanview&quot; - i changed that back to &quot;microsoft window viewer&quot; reinstalled picasa, it worked!  </s>
+<s> hi, have, i have exactly same problem like what you described here.  </s>
+<s> i just followed everything you wrote here and almost solve the problem.  </s>
+<s> only i am not sure that how i change to &quot;micrsoft widow viewer&quot;?  </s>
+<s> would you like to explain to me?  </s>
+<s> thanks!  </s>
+<s> carrie  </s>
+<s> please continue there.  </s>

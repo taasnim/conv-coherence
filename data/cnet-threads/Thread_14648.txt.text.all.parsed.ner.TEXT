@@ -1,0 +1,58 @@
+<s> i work on a helpdesk and i am assisting a friend with their new laptop.  </s>
+<s> they purchased an hp pavillion dv9074cl that came with windows media center edition.  </s>
+<s> as he had a full version of xp pro and this laptop will be used for business, he formated the drive and installed xp pro based on my recomendation.  </s>
+<s> he received no errors of any kind and everything seems to be working.  </s>
+<s> however, this laptop came with 2gb of ram and the system is only recognizing 256mb.  </s>
+<s> i checked under the &quot;performance&quot; tab in the taskmanager and it reads a little less than 256mb. the system properties read the same.  </s>
+<s> however, the cmos reads the full 2gb and so does msinfo32.  </s>
+<s> hp will not help us and their only recomendation now is to reinstall mce.  </s>
+<s> i find this insulting because this very same laptop can be customized to order with xp pro installed.  </s>
+<s> we have upgraded the bios and ran a third party utility that determined the system is only registiring and using 256mb- it is not a misnomer.  </s>
+<s> we know the ram is not bad because the system runs (slow) but fine, no errors.  </s>
+<s> also, the bios sees the full 2 gb.  </s>
+<s> i am very stuck here- any help would be greately appreciated.  </s>
+<s> i've run into helpdesk people that never heard of this or how you can create the issue you wrote about.  </s>
+<s> bob  </s>
+<s> bob- i don't understand your response, sorry. the issue is created by formating the primary hard drive on the hp pavillion dv9074cl laptop with media center edition and installing xp pro.  </s>
+<s> i just reinstalled xp pro again to see if that would help- i have the same issue.  </s>
+<s> would it be possible that certain kinds of ram are not compatible with xp pro but are compatible with media center edition?  </s>
+<s> if that is the case, how could the ram be compatilbe with vista?  </s>
+<s> (it says it is a &quot;vista ready&quot; machine) i admit that this problem is completely unordinary and i have never seen anything like it before.  </s>
+<s> however, it is a new laptop so maybe i am one of the first to report it.  </s>
+<s> it is just so strange that the bios would see the ram but the os is only seeing 1/8 of the total physical memory.  </s>
+<s> please help!  </s>
+<s> thanks.  </s>
+<s> msconfig.  </s>
+<s> but to complete the entire picture &quot;tech&quot; reminded me of a pirated version of xp that does strange things like that.  </s>
+<s> i'm not saying you have such but the causes we know about are now these: boot.ini msconfig setting pirate copy of xp root kits hope you research each one.  </s>
+<s> bob  </s>
+<s> installing the nvidia chipset and video drivers for xp from hp's website?  </s>
+<s> i am still working on this but i see a couple of things.  </s>
+<s> for one, when i installed xp pro i received a blue screen error because the hp recovery partition on the second drive had a listing in the mbr. the &quot;fixmbr&quot; and &quot;fixboot&quot; command failed to fix this so i deleted that partition and i no longer received the blue screen and could boot into windows.  </s>
+<s> (i did create the recovery cd's) upon doing this, the drive letter changed from c: to e: in which windows was installed.  </s>
+<s> despite the fact that it boots perfectly, when accessing the boot.ini  </s>
+<s> file i receive the error &quot;windows cannot open c:boot.ini&quot;  </s>
+<s> yet it still boots!! and even more confusing, when i enter setup after booting from the (&quot;educationally discounted&quot; non-pirated) xp cd, setup sees the 2 100gb hard drives seperately but with the same identification.  </s>
+<s> e.g they both read: 95394 mb disk(0) at id(0) on bus(0) on atapi [mbr].  </s>
+<s> it is if it sees the 2 hd as 1 logical disk yet lists them seperatley.  </s>
+<s> windows will not let me create a boot.ini file and i am afraid to alter the registry to force a change in drive letters for the primary system volume.  </s>
+<s> i am still really confused but i think you nailed where the problem lies and i appreciate it.  </s>
+<s> james  </s>
+<s> yes i did and thank you.  </s>
+<s> i believe the problem is with the boot.ini  </s>
+<s> file and the way the system is partitioned.  </s>
+<s> see my other post.  </s>
+<s> thanks again.  </s>
+<s> james, i have the same exact problem with my hp pavilion.  </s>
+<s> hp tech support is completely useless.  </s>
+<s> did you figure out how to correct the problem?  </s>
+<s> i have the same problem, formatted my hp laptop that had windows media center edition and installed xp professional, now it only recognizes 256mb out of my total 2gb installed.  </s>
+<s> i actually created a thread about this in another forum, and people are trying to help me out, go to the link below gtwilson, if i fix the problem i'll post it in the other forum and not this one.  </s>
+<s> gtwilson, the guy who originally created this thread and posted this problem hasn't logged on since last year, look at the date his post was created on, it was last year, so i doubt we will receive any kind of reply from him on how he finally fixed this problem.  </s>
+<s> it seems like it has to do with the way the system is partioned and everything, i bet if you completely formatted the computer, the recovery partion and everything else and installed windows xp pro it would recognize the correct memory amount.  </s>
+<s> i might have to try this as a last resort if nobody else has a better idea.  </s>
+<s> i have had the same problem you have described on my dv800 hp laptop for about 8 months and no one seems to know anything about how to fix it.  </s>
+<s> i have a legitimate copy of xp pro that came loaded with my laptop new and have since had to reformat my hard drive due to virus that destroyed my back up partition as well as main drive.  </s>
+<s> i went to the hp site to get all the drivers and everything now works with the exception of the memory issue.  </s>
+<s> have you had any luck with solving this?  </s>
+<s> dave  </s>

@@ -1,0 +1,18 @@
+<s> i have an hp w2207h and a computer without vga or hdmi. the monitor only has those two hookups and my computer only has dvi-d.  </s>
+<s> i bought a dvi-d to hdmi converter and it doesn't really work sometimes.  </s>
+<s> when i start the computer, the signal is inactive.  </s>
+<s> i turn off my computer and try connecting to my previous monitor that had a dvi-d hookup. the signal is there.  </s>
+<s> then i hookup the conveter to the hp, and the signal is there.  </s>
+<s> what's up with this?  </s>
+<s> basically when i restart my computer or stand by for long periods, the monitor fails to communicate with my computer.  </s>
+<s> my configuration is this: computer(gfx card w/ dual dvi-d ports) &gt; dvi-d to hdmi converter &gt; hdmi cable to monitor please help me solve this problem, thanks!  </s>
+<s> i'm thinking this could be a driver issue, or the hardware isn't right.  </s>
+<s> is there anything i could buy (&lt;$50 if possible) other than a new graphics card or motherboard that can give my computer a vga or hdmi input?  </s>
+<s> you don't want to replace any component or card let's look at the failure mode.  </s>
+<s> &quot;basically when i restart my computer or stand by for long periods, the monitor fails to communicate with my computer.&quot;  </s>
+<s> for now, don't restart or stand by until you get a proper card.  </s>
+<s> maybe its a driver but nothing suggests this is anything more than wishful thinking.  </s>
+<s> sometimes you find owners that insist &quot;this should work&quot; but there is no support to be found and the choices are clear.  </s>
+<s> bob  </s>
+<s> it's a xfx geforce nvidia 8800gt, with dual dvi-d ports.  </s>
+<s> i'll try updating the drivers.  </s>

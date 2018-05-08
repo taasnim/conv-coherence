@@ -1,0 +1,26 @@
+<s> hello! i will try to explain my problem as well as i can.  </s>
+<s> [specs] windows 7 ultimate 64-bit mobo: asus maximus ii formula cpu: intel core 2 duo 8500 3.166ghz gpu: nvidia 260gtx (newest driver) ram: 2x 1024gb ddr2-800 ocz platinum // 2x 2gb ddr2-800 ocz total 6gb 1 sata hdd // 1 ide hdd power supply: ocz gamexstream 700w ------------- i have been running with the setup and overclock that is causing this problem for about 4-5 months.  </s>
+<s> when ever i play certain 3d games this problem occurs.  </s>
+<s> when i play battlefield2 / battlefield 2142 my computer freezes within 5-15 minutes of gaming.  </s>
+<s> this freeze includes all visuals to freeze completely and the sound will skip extremely fast sounding just like a hair trimmer (a buzz). the only way to get out of this is to restart or turn off the computer.  </s>
+<s> &lt;-- my computer being a stock of 3.166ghz is overclocked (with the fsb only) to 3.6ghz.  </s>
+<s> (333fsb x 9.5) playing games such as call of duty mw2 do not cause this freeze.  </s>
+<s> with the new battlefield bad company 2 being released, i have played it for 2.5 days without any freezing.  </s>
+<s> now it will freeze just like above after a few minutes usually.  </s>
+<s> i may have pinpointed part of the problem.  </s>
+<s> clocking back to 3.166ghz hasnt caused any freezes (i have been playing for about an hour).  </s>
+<s> what i'm trying to do now is downclock slowly from 3.6ghz down until it goes away.  </s>
+<s> i've gotten to 3.4ghz so far and it did freeze.  </s>
+<s> i dont know too much about overclocking and i realize memory timings and voltages / cpu voltages also play a big role.  </s>
+<s> these are all on automatic settings to automatically adjust... if this overclocking business is whats causing this than i need help with the settings to properly set it right... my temperatures : cpu seems to run at about 21deg celcius idle and under 55deg in a game.  </s>
+<s> gpu under 70deg at 85%fan power in riva tuner in a game.  </s>
+<s> extra notes: --&gt; sometimes my computer seems like its about to undergo this unique freeze for a split second, the sound skips than goes back to normal right away (very rare).  </s>
+<s> my old computer had this same problem during the end, and after a few months of it it was unable to read or detect sata drives! the only device that is common between that computer and this one is my sata hdd which doesnt seem to have any problems at all.  </s>
+<s> this problem may relate to this thread --&gt; i have been playing stable for longer than it usually takes at 3343mhz (358 x 0.5 fsb ).  </s>
+<s> could it possibly be that certain fsb's run stable and others dont, meaning that it may not necessarily be how high or low it is?  </s>
+<s> help!  </s>
+<s> i ran memtest (boot program) for over an hour, completing a full test without errors.  </s>
+<s> this problem could be a problem with the ram vs. cpu clocking (fsb/voltage/freq/timings) can anyone help?  </s>
+<s> any help is appreciated  </s>
+<s> as i'm sure there are many here that could offer possible solutions to your overclocking problem, the forums for the asus maximus ii mobo is going to be your best source for any information regarding your particular mobo/ concern.  </s>
+<s> i myself have an asus mobo, and found the knowledge base over at their forums invaluble.  </s>

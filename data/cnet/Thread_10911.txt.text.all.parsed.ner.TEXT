@@ -1,0 +1,37 @@
+<s> i recently built a new computer, however it seems to be unstable due to an issue with the power supply or grounding? the system has powered down on three occasions.  </s>
+<s> in one scenario i detached the usb-cable from one of the four usb-ports in the back.  </s>
+<s> in the other two, i slightly moved the computer while it was laying on the carpet.  </s>
+<s> not only did it power down - it would not boot again. the only way i could make it boot was to detach the pci-cards, the pci-e graphics card and even the cpu.  </s>
+<s> after resetting the bios, and mounting the cards, i was able to get it up and running again.  </s>
+<s> at this time my system runs ok, however i am worried to detach or attach any cable as long as the system runs.  </s>
+<s> i never had a problem with this on my other self-built systems.  </s>
+<s> i am very curios as to what cause this problem!  </s>
+<s> any response would be much appreciated.  </s>
+<s> regards, o. jensen these are my specs: power supply trust 570w pro psu dual fan mainboard platform compliance : amd live!  </s>
+<s> manufacturer : asustek computer inc.  </s>
+<s> multi-processor (mp) support : 1 processor(s) mps version : 1.40 model : m2n-mx se type : mainboard version : rev x.xx serial number : ms9874353456379863 asset tag : to be filled by o.e.m.  </s>
+<s> location in chassis : to be filled by o.e.m.  </s>
+<s> system bios : 63-0201-000001-00101111-050107-mcp61 system mainboard properties removable : no replaceable : yes hot swap : no on-board devices to be filled by o.e.m.  </s>
+<s> : video adapter (enabled) system memory controller location : mainboard error correction capability : none number of memory slots : 2 maximum installable memory : 4gb bank0 - dimm0 : manufacturer0 partnum0 sernum0 assettagnum0 dimm synchronous ddr2 2gb/64 @ 667mhz bank1 - dimm1 : empty chipset 1 model : amd athlon 64 / opteron hypertransport technology configuration revision : a1 bus : hypertransport version : 1.02 front side bus speed : 2x 1.00ghz (2.01ghz) maximum fsb speed : 2x 1ghz (2ghz) in/out width : 16-bit / 16-bit i/o queue depth : 4 request(s) maximum bus bandwidth : 7.85gb/s chipset 1 hub interface type : hypertransport version : 1.02 in/out width : 16-bit / 16-bit speed : 2x 1.00ghz (2.01ghz) logical/chipset 1 memory banks bank 0 : 1gb ddr2 5.0-5-5-15 cr2 bank 1 : 1gb ddr2 5.0-5-5-15 cr2 supported memory types : ecc registered ddr2 channels : 1 memory bus speed : 2x 301mhz (602mhz) maximum memory speed : 2x 400mhz (800mhz) multiplier : 1/8x width : 64-bit memory controller in processor : yes cores per memory controller : 2 unit(s) refresh rate : 7.80s power save mode : yes fixed hole present : no maximum memory bus bandwidth : 4.70gb/s memory module 1 type : 2gb dimm ddr2 technology : 16x(128mx8) speed : pc2-5300u ddr2-333 standard timings : 5.0-5-5-15 version : 1.2 date of manufacture : 25 december 1999 memory dc line : 1.80v set timing @ 333mhz : 5.0-5-5-15 set timing @ 267mhz : 4.0-4-4-12 set timing @ 200mhz : 3.0-3-3-9 environment monitor 1 model : ite it8712f lpc version : 8.00 mainboard specific support : no environment monitor 2 model : amd k8 cpu [p0, c2, sc0, sn0] version : 75.02 mainboard specific support : no temperature sensor(s) board temperature : 40.00c cpu temperature : 40.00c td cooling device(s) auto fan speed control : no system fan : 2935rpm voltage sensor(s) cpu dc line : 1.26v +3.3v dc line : 3.34v +12v dc line : 12.23v -12v dc line : -8.91v battery dc line : 3.10v pci bus(es) on hub 1 version : 2.30 number of bridges : 4 pci bus 0 : pci (1/1x pciclk) pci bus 1 : pci (1/1x pciclk) pci bus 2 : pcie (3/1x pciclk) pci bus 3 : pcie (3/1x pciclk) pci bus 4 : pcie (3/1x pciclk) number of pcie lanes : 18 lpc hub controller 1 model : asus mcp61 lpc bridge revision : k3 lpc hub controller 2 model : asus mcp61 smbus revision : k3 usb controller 1 model : asus mcp61 usb controller revision : k3 version : 1.00 interface : ohci channels : 8 supported speed(s) : low (1.5mbps) full (12mbps) legacy emulation enabled : no usb controller 2 model : asus mcp61 usb controller revision : k3 version : 2.00 specification : 1.00 interface : ehci channels : 8 companion controllers : 1 supported speed(s) : low (1.5mbps) full (12mbps) high (480mbps) addressing support : 32-bit legacy emulation enabled : no system smbus controller 1 model : nvidia mcp5+ smbus 1 version : 0a.02 advanced tco mode enabled : no slave device enabled : no pec support : no system smbus controller 2 model : nvidia mcp5+ smbus 2 version : 0a.02 advanced tco mode enabled : no slave device enabled : no pec support : no expansion slot(s) pciex16 (3h) : pcie x64 +3.3v shared half-length used pci1 (1h) : pci 32-bit +3.3v shared pme half-length used (asus mcp61 lpc bridge ) pci2 (2h) : pci 32-bit +3.3v shared pme half-length used (asus mcp61 usb controller) port connector(s) ps/2 mouse - ps2mouse : mouse / ps/2 ps/2 keyboard - keyboard : keyboard / ps/2 usb1 - usb1 : usb / usb usb2 - usb2 : usb / usb usb3 - usb3 : usb / usb usb4 - usb4 : usb / usb usb5 - usb5 : usb / usb usb6 - usb6 : usb / usb usb7 - usb7 : usb / usb usb8 - usb8 : usb / usb lpt port - lpt 1 : parallel port ecp/epp / db-25 pin male com port - com a : serial port 16550a / db-9 pin male audio mic in - audio mic in : audio / mini-jack audio line in - audio line in : audio / mini-jack audio line out - audio line out : audio / mini-jack spdif : none pri ide : ata floppy : floppy disk front pnl : 9 pin dual inline chassis rear fan : none cpu fan : none sata1 : none sata2 : none  </s>
+<s> some find that they have shorts develop from case to motherboard from an extra mounting post to other reasons.  </s>
+<s> your post sounds as if this was your first home made machine.  </s>
+<s> check your work.  </s>
+<s> bob  </s>
+<s> with all due respect, sir. it doesn't matter if it &quot;sounds&quot; like it is the first machine i've built.  </s>
+<s> it is not.  </s>
+<s> i am just trying to put the point across that i did build my own machines before and that i never experienced this problem before.  </s>
+<s> on the other hand, though, i am certainly not a professional.  </s>
+<s> first timers or not, this issue is repeated too often so i toss that out first.  </s>
+<s> i was not there to watch you build the machine so i have to offer the most common issue.  </s>
+<s> also try using those fiber insulators on the mounting posts just to make sure.  </s>
+<s> bob  </s>
+<s> thankyou very much for your fast reply, sir!  </s>
+<s> i never used fiber insulators on the mounting posts before, but i am certainly willing to give it a go - sounds like a good idea.  </s>
+<s> btw - when working on my problem, i could hear the sound of a loose screw when tilting the cabinet.  </s>
+<s> could the loose scew be the cause of my problems?  </s>
+<s> never let a screw loose in a pc. it's metal and could cause a very unhappy event.  </s>
+<s> power off.  </s>
+<s> tilt it this way and that until you find it and get it out of there.  </s>
+<s> -&gt; over a decade ago i ran the repair department at a computer store.  </s>
+<s> you just hit on one of the quality checks we did on every device.  </s>
+<s> we would check for this sound on machines arriving and leaving... bob  </s>

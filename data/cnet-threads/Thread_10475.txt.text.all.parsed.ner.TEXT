@@ -1,0 +1,62 @@
+<s> trouble with dvd drive: it shows the drive but does not acknowledge the presence of a disc in drive.  </s>
+<s> i've tried various things and now i seem to need a new nudge from some enlighten mind regarding what else is there to do.  </s>
+<s> my dvd drive is from a really exotic and elusive, as it turns out, manufacturer: agi technologies, where apparently one of their bloody technologies is disappearence.the thing is called atapi dvd star2000.curiously- it plays any kind of a cd/r but no dvds....my os is win98.i have plenty of memory and direct x #9.in device manager under cd rom controllers i have only one driver, one for drive d, where i have cd/r/rw but nothing that would govern the dvd drive because there is nothing i can find for it and when i got it it came naked without any instr.  </s>
+<s> or software.  </s>
+<s> it may be it doesn't need one, but than- what does it need to play properly?  </s>
+<s> help,enlighten, lead out of darkness, please!  </s>
+<s> if i find a dvd drive that shows a drive letter, but can't read any disks, then i save people time and money by trying a known working drive.  </s>
+<s> try a known working drive.  </s>
+<s> oh! you want to test this drive?  </s>
+<s> here's the test.  </s>
+<s> try to boot from said drive.  </s>
+<s> if it can't boot a cd, then it's 99.99% likely to be dead.  </s>
+<s> bob  </s>
+<s> dear mr. bob, what does it mean &quot;to boot from a drive?&quot;  </s>
+<s> if you can't make one, have a friend do this for you.  </s>
+<s> bob  </s>
+<s> thank you most kindly.  </s>
+<s> i am downloading the basic cd bootable for windows.meanwhile  </s>
+<s> i hope it will not require to communicate with my system in dos: there is always something that stomps me whenever i tried to get into diagnostics.i  </s>
+<s> am at moments of exasperation ready to do what you suggested- to buy a next dvd drive, but then, i had so little use of this one and in the past it worked .  </s>
+<s> it even worked yesterday, before i tried to improve everything with the newest direct x and some free diagnostic tools.  </s>
+<s> i will put up another fight before i will collect my body from the ground and shamble to best buys to get another suspect dvd drive...  </s>
+<s> it's not so much you need to use the utilities on it, its for the bootable feature so you can see if that dvd drive can boot from it.  </s>
+<s> i use such all the time to tell if the drive has failed.  </s>
+<s> then i put in a good drive and a test boot tells if it works.  </s>
+<s> some want a &quot;test&quot; so this is the one i find to be easy without touching the os on the hard disk.  </s>
+<s> bob  </s>
+<s> question: my system is apparently aware of the drive e, where i have the dvd drive and it even works, as a cdrom device: what it does not want to do is to what it ostensibly suppose to be-namely a dvd drive!is that a problem solvable among the bios? is it something within cd rom controllers or ,perhaps in hard disk controllers, with all those primery and secondary stuff?  </s>
+<s> forgive me if i sound idiotic, but it is not ,obviously a familiar ground to my mind.  </s>
+<s> is that some program you installed?  </s>
+<s> i've seen many zombie dvd drives.  </s>
+<s> ones that don't see dvd and others that see dvd, but not cdrom.  </s>
+<s> you can find these posts here.  </s>
+<s> if it shows a drive letter and works with cd, then the cable, master, slave and ide is likely just fine.  </s>
+<s> many owners grasp for hope the drive can be saved... in closing, you can try uninstalling then installing your dvd software player.  </s>
+<s> bob  </s>
+<s> i've re-read the dialogue and it's unclear if it really is connected to the machine.  </s>
+<s> you do need to power down, pull the case cover and make sure the ide cables are seated into the units.  </s>
+<s> also, that the bios screen shows the drives.  </s>
+<s> some do, some don't.  </s>
+<s> if the drive has died, can't boot, etc, you may want to consider a dvd recorder.  </s>
+<s> not much more than what you paid for a dvd drive?  </s>
+<s> in closing, did this unit ever work?  </s>
+<s> i didn't read if it did.  </s>
+<s> bob  </s>
+<s> yes, it worked first time when i bought it, about 2 years ago.  </s>
+<s> then i took it out and now reinstalled it and it worked yesterday for a while and i went to bed feeling good.  </s>
+<s> today is functioning only with cds, no dvd is recognised as present there.  </s>
+<s> yes, it worked first time when i bought it, about 2 years ago.  </s>
+<s> then i took it out and now reinstalled it and it worked yesterday for a while and i went to bed feeling good.  </s>
+<s> today is functioning only with cds, no dvd is recognised as present there.  </s>
+<s> dvd movies rarely work without this step.  </s>
+<s> bob  </s>
+<s> i want to do that, but i am still downloading ultimate boot and it takes forever to download 68 mb on dial-up.  </s>
+<s> sometime tonight i will try my luck with reinstalling windvd 6 tial version.i  </s>
+<s> looked up microsoft system information utility and under components, in storage it lists hard drive, floppy and both cdrom and my unhappy dvd drive as well.  </s>
+<s> it's a little smaller... and what i use to play dvds sometimes.  </s>
+<s> bob  </s>
+<s> i want to add my gratitude for your patient and sagacious advice.  </s>
+<s> i have to confess that at the end i am returning to your original advice:get a spank new dvd drive!  </s>
+<s> once i saw how inexpesive they become since i bought mine i feel i can buy one every month and chuck them out like a used lollypops.thank  </s>
+<s> you again,with my best,henryk.  </s>

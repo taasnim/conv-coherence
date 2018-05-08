@@ -1,0 +1,25 @@
+<s> hi, i noticed that the lg x130 comes with a hidden partition that stores the backup-recovery for the netbook.  </s>
+<s> is there any way to completely remove the hidden partition (or just disable the f11 option after the bios)?  </s>
+<s> i would like the extra space and removing that f11 function would really come in handy.  </s>
+<s> thank you!  </s>
+<s> the partition or whatever you'd like to do with it.  </s>
+<s> 3rd party partition managers can do this or you can use something like ptedit or ptedit32 to make it visible and do as you with within windows.  </s>
+<s> these are generally quite small so you don't gain much in the way of hard drive space.  </s>
+<s> i presume you already have your own fool proof backup method in place.  </s>
+<s> would i be able to use ptedit32 under windows 7? i have a feeling that the f11 option after the bios loads directly from the hidden partition.  </s>
+<s> so removing the partition would mean removing the f11 option.  </s>
+<s> thanks for the help.  </s>
+<s> other comments are still welcome since i would rather not use 3rd party software to make this hidden partition visible.  </s>
+<s> i get an error trying to run ptedit32 (failed to start powerquest engine).  </s>
+<s> i've not tried from a dos boot disk, however.  </s>
+<s> i know acronis disk director works but that cost money.  </s>
+<s> as for the f11 option, i can't speak to that as it may come from the bios or some special boot loader.  </s>
+<s> personally, i'd not worry about such a small loss of space but, if you want to try anyway, i'd make a full hd image including the recovery partition as well.  </s>
+<s> you could always wipe the drive and just restore the primary partition to the full size of the drive.  </s>
+<s> it would accomplish the same purpose.  </s>
+<s> i use clonezilla to backup the entire image to a file on my usb external ntfs formatted hard drive.  </s>
+<s> and it's free.  </s>
+<s> sorry if i don't write a tutorial but it's a little easy to use.  </s>
+<s> i also use gparted as well as easybcd for other minor duties.  </s>
+<s> and those are free and well discussed on the net.  </s>
+<s> hope my sharing helps you save a buck, bob  </s>

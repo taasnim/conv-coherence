@@ -1,0 +1,91 @@
+<s> i have an old gateway mini-tower, model # mfatxstl elp 500l-2, manufacture date 12/22/2011.  </s>
+<s> was running two days ago, when it suddenly shut down ten minutes after startup, power-on yielded yellow power button light (steady yellow), no beep codes, no monitor display.  </s>
+<s> did the usual, reseated the memory cards, video card, rechecked molex connections and reseated.  </s>
+<s> noticed when computer should have been running post, floppy drive light did not come on.  </s>
+<s> cd-rom drive lights both flashed.  </s>
+<s> fans for psu and cpu ran, green light on motherboard.  </s>
+<s> removed power lead to floppy drive, and system completed post, reset bios to current date and time (put in a new cmos battery just prior) and was able to boot to ubuntu linux 10.0.04 lts.  </s>
+<s> system specs: p4 1.5 ghz, 512 gb ram, agp 4x nvidia mx 200 card, integrated sound, integrated network card.  </s>
+<s> use a ps2 mouse and usb keyboard.  </s>
+<s> was running this system and detailing steps to troubleshoot here when system froze completely.  </s>
+<s> forced shutdown gave green power button but did not complete post as no video came up.  </s>
+<s> now using another system to complete and finish this post.  </s>
+<s> digital voltmeter with all power leads to peripheral drives disconnected showed 11.758 volts to mains, and 3.784 volts to floppy drive. is this right?  </s>
+<s> i did not check the main power to the motherboard.  </s>
+<s> i'm thinking the psu is degraded, and will no longer supply enough current and wattage to run the system continuously anymore.  </s>
+<s> system ran for about 40 minutes today before it locked up.  </s>
+<s> system was running two ide hdd, two cd-rom.  </s>
+<s> second hdd is used to backup data on the primary drive.  </s>
+<s> also noticed when forced shutdown is made, system does not shut down immediately when it should be running post as it usually does only two or three seconds in.  </s>
+<s> it acts as if the os is loaded when it cannot be after such a short time.  </s>
+<s> appreciate any help  </s>
+<s> manufacture date is 12/22/2001.  </s>
+<s> sorry 'bout that.  </s>
+<s> all &quot;drives&quot; such as floppy, hdd, and optical usually have +12v and +5v and 3.784 is well outside a generous 10% tolerance.  </s>
+<s> at 10 years old, we are well past the usual 5 year design life so consider some new psu but only after inspecting all boards for bad caps.  </s>
+<s> bad caps on google.com  </s>
+<s> gives you the story, pictures and what to look for.  </s>
+<s> bob  </s>
+<s> it seems when you unplugged the fd, it basically had enough power to boot-up.  </s>
+<s> at 2001 build date, its seen better days.  </s>
+<s> while you have the voltmeter, check everything.  </s>
+<s> overall, simply swap out the psu for better one if you want to keep the pc going.  </s>
+<s> i would seriously think of a new pc or newer one(used, too) as 2001 build, there's bound to be other issues as time progresses.  </s>
+<s> for now, unless you have a need for fd drive, then live w/o it unitl repairs are done or leave it out entirely later.  </s>
+<s> tada -----willy  </s>
+<s> mr. proffitt and willy, wasn't aware of the 10% tolerance rule.  </s>
+<s> thank you for that.  </s>
+<s> i have a psu exact size and form factor (unusual for it's day, as some/most were proprietary) rated to run a p4 1.5, albeit a different mb, lying around the house from a tossed neighbor's system.  </s>
+<s> that system had bad sectors on the primary hdd, hence the ntloader error.  </s>
+<s> was running win2000.  </s>
+<s> there is a 'test' button on the defective psu.  </s>
+<s> what does it test??? i assume one would push it in/hold it down to test.  </s>
+<s> just out of curiosity, are post cards available at retail shops?  </s>
+<s> no bad caps.  </s>
+<s> know what they look like, what to look for.  </s>
+<s> thanks.  </s>
+<s> btw, system has been randomly not completing post for the last three months now.  </s>
+<s> system is run six or seven times a month anyway as i am the primary user and i do not have either system networked together in a home network on a dsl connection, so i must move connections from one pc to the other to run them.  </s>
+<s> the dell i use is the primary. the gateway is a dual boot system with linux and win98se on it, primarily to run m$ office professional 2000 using win98se.  </s>
+<s> win98se runs just fine even though it was never designed to run a p4 processor.  </s>
+<s> willy, i will install a new floppy drive as these are relatively inexpensive.  </s>
+<s> i did disable the floppy in bios to ensure the system would boot.  </s>
+<s> bios build date is 1/9/1999!  </s>
+<s> as it is used so little, i think it worth putting in the other psu for now.  </s>
+<s> another typo....(sorry, it was late....) 512 mb ram, btw... thanks again.  </s>
+<s> mchainmchain xp home edition sp 3,p4 2.8, 2 gb ram  </s>
+<s> i have no answer.  </s>
+<s> no part number, maker, link means i can't look for it those post cards are pretty useless.  </s>
+<s> what good does it do you to see the north bridge chip failed when you can't replace that?  </s>
+<s> for the price of said card we can find another motherboard. the 10% is not a rule, it's just a handy guideline to know when it's out of bounds. the real spec is over at intel.com if folk want it.  </s>
+<s> but i find easy to remember to be easy to remember.  </s>
+<s> bob  </s>
+<s> just be aware that &quot;bad caps&quot; are also in the psu, something not readily seen until taken apart.  </s>
+<s> on top of that a bad cap can be one that's &quot;dried out&quot; literally void of the electrolytic fluid it needs and/or has degraded.  </s>
+<s> your observations are tell-tale signs of a bad psu, but you got your $ worth in a 10yr.  </s>
+<s> system.  </s>
+<s> i agree, a post card is useless unless you have the means to repair and access to parts.  </s>
+<s> for me that would be looking at junk mtrbds.,  </s>
+<s> etc., and it doesn't pay when a new mtrbd.  </s>
+<s> easily returns the pc back to life.  </s>
+<s> as for the fd, if you like checkout a usb based one(if applicable) because here you can re-use it elsewhere.  </s>
+<s> just a thought.  </s>
+<s> adios -----willy  </s>
+<s> got one.  </s>
+<s> maybe two!  </s>
+<s> willy, okay, i replaced the psu with one with exactly the same wattage output (160 watts minimum, 350 watts max) and got the machine running again, albeit for only about four hours.  </s>
+<s> froze once again, and forced shutdown and got the yellow power light once more.  </s>
+<s> purchased an new psu 480 watt output, and that one went dead (temporarily) after only one hour.  </s>
+<s> if i turn it on now, power light is green, and system boots into linux.  </s>
+<s> looks as if this is a heat related issue, at cpu maybe?  </s>
+<s> both the cpu fan and psu fans are running, but so quiet it is hard to hear.  </s>
+<s> maybe the cpu fan is bad, or running too slowly?  </s>
+<s> system is clean of dust.  </s>
+<s> also noticed when the case was open before third psu failure, that the agp 4x card, a nvidia m20 was running hot enough that i could barely smell it, but no smoke.  </s>
+<s> card felt warm to the touch.  </s>
+<s> card does not have a gpu heat sink fan installed, nor does it have a heat sink of any kind installed.. card does run without any apparent problems.  </s>
+<s> hdd's and cd-rom's were not connected at the time.  </s>
+<s> i show 12.52 volts and 5.25 volts at mains and 5.25 volts at floppy connection with the brand new unit, but this was before the psu failure just now.  </s>
+<s> will check again and report back i am saving the hdd's to get the files off of them later as it is, i am not throwing any more money at it, but would like to have the troubleshooting experience for the future should this ever come up again.  </s>
+<s> what to look for?  </s>
+<s> xp home edition sp3 p4 2.8 2 gb ram  </s>

@@ -1,0 +1,6 @@
+(TOP (S (NP (NP (DT a) (NN friend)) (PP (IN of) (NP (NN mine)))) (VP (VBZ wants) (S (VP (TO to) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (NP (PRP he)) (VP (MD can) (VP (VB see) (NP (NP (DT the) (NNS details)) (PP (IN of) (NP (NP (DT an) (JJ icalendar) (NN event)) (PP (IN on) (NP (PRP$ his) (NN ipod)))))))))))))) (. .)) )
+(TOP (S (PP (IN as) (PP (IN of) (NP (RB now)))) (NP (PRP he)) (ADVP (RB just)) (VP (VBZ sees) (NP (DT the) (NN calendar)) (PP (IN with) (NP (NP (DT the) (NN event)) (PP (IN in) (NP (JJ bold)))))) (. .)) )
+(TOP (SBARQ (WHNP (WP what)) (SQ (AUX does) (NP (NP (DT the) (NN user) (NN manual)) (PP (IN for) (NP (DT the) (NN device)))) (VP (AUX have) (S (VP (TO to) (VP (VB say) (NP (RB about) (DT that))))))) (. ?)) )
+(TOP (S (NP (EX there)) (VP (AUX is) (NP (NP (NN nothing)) (PP (IN in) (NP (DT the) (NN manual)))) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB display) (NP (NP (NNS details)) (PP (IN about) (NP (NNS appointments))))))))) (. .)) )
+(TOP (S (NP (NP (VBZ seems)) (PP (IN like) (NP (RB there)))) (VP (MD should) (VP (AUX be))) (. .)) )
+(TOP (NP (NNP rocco)) )

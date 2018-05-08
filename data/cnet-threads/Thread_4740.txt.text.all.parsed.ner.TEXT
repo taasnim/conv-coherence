@@ -1,0 +1,82 @@
+<s> okay, so... i think i should start off by saying that i'm reaaaally new to the hardware stuff and that i really don't know too much about it.  </s>
+<s> feel free to talk to me like i'm a five-year-old about this stuff.  </s>
+<s> i recently bought a couple of new parts for my old hp pavilion desktop to make it at least up-to-par for gaming nowadays, because i didn't want to spend too much money.  </s>
+<s> everything went in perfectly fine and my computer didn't complain at all, except for the video card.  </s>
+<s> i bought an amd radeon hd 6870 off of newegg pretty cheap because of the holiday sales and such.  </s>
+<s> for future reference, it has two dvi ports, an hdmi port, and two really small ports, which i'm not sure what they are.  </s>
+<s> anyway, the manual told me to follow some steps to get it installed with all of its drivers, which was pretty much just &quot;uninstall or disable current onboard graphics drivers, turn off and put in video card, turn back on, change primary video to pci-e and use the cd for driver installation.&quot;  </s>
+<s> i did just that, except it didn't quite go the way i wanted. the fact that i'm new to the hardware scene makes it difficult for me, because i don't know exactly what is supposed to happen.  </s>
+<s> i'm pretty sure that i was supposed to, after putting the video card in, plug my monitor into the dvi port on the video card and start the computer up.  </s>
+<s> when i did this, the monitor didn't get a signal from the computer and remained at a black screen.  </s>
+<s> when i used another cable (because my monitor has both vga and dvi ports) for vga to plug into the motherboard, the screen showed up like regular.  </s>
+<s> from here i assumed &quot;okay, i guess i just have to use the installation cd from here, then use the dvi for the video card after i install and reboot.&quot;  </s>
+<s> so when i got to the desktop and ran the cd, it said that it didn't recognize any of its products, and that i should either reboot and try again, or look for drivers online.  </s>
+<s> i don't really know how to find drivers for video cards online very well, so i decided to reboot.  </s>
+<s> let it be known, at this point, that the video card is inserted into its pci-e slot correctly and that the fan on it is spinning, so i know that it's in right and not fried or anything... unless you can fry everything but the fan, which doesn't sound right.  </s>
+<s> i rebooted (still using vga port from mobo) and it still gave me the same message.  </s>
+<s> whenever i try use the dvi cable between my monitor and the computer, i just get a black screen.  </s>
+<s> that's pretty much the entire situation, and there are only a few potential problems that i can think of, but i was hoping to get some feedback from people that know what they're doing before i try to fix anything anymore.  </s>
+<s> 1.) i have the wrong kind of dvi cable (because i vaguely remember being told that there are different kinds of dvis) 2.) there's something wrong with the video card, even though the fan is working.  </s>
+<s> 3.) the installation cd is just dumb, and it can be solved b downloading drivers online.  </s>
+<s> (if somebody thinks this is it, can you please provide a link?  </s>
+<s> i suck at this. ;n; 4.)there's two slots for a power cord on my video card.  </s>
+<s> i only have one power cord plugged into it from the power supply.  </s>
+<s> pretty sure that it only requires one, but not positive if it needs two or not.  </s>
+<s> 5.) i simply did something wrong.  </s>
+<s> if it helps, i'm using windows 7 ultimate os. i would love to hear from you guys, because i would really like to be able to play games at higher than 15 fps, which is all that my laptop can handle.  </s>
+<s> thank you very much!  </s>
+<s> please ask if you need any additional details!  </s>
+<s> well, revert back to dvi and assure that the monitor itself under it selection menu(if applicable) uses dvi instead of vga.  </s>
+<s> next, since you used vga back at the mtrbd.  </s>
+<s> port, that suggests it never really swapped over.  </s>
+<s> you need now to follow the instructions and repeat the install.  </s>
+<s> when you shutdown, connect to dvi and make sure monitor uses dvi.  </s>
+<s> also, the video manager s/w may also provide insight to finer tune the setup, but of course you need to see display.  </s>
+<s> what does the hp manual(or online support of same) state about installing video card?  </s>
+<s> you want help provide &quot;full details&quot;, hp pcs do vary.  </s>
+<s> different dvi cables?  </s>
+<s> i can't offer real help other than most dvi cables are the same from my understanding, so what makes yours different.  </s>
+<s> you're so vague and again your hp model# should state what it needs, again refer to manual -or- what your monitor asks for.  </s>
+<s> i would suspect that the hp pc &quot;auto-sets&quot; the video connection at the pc. but, it has to acknowledge its there.  </s>
+<s> so, be sure the new video card is fully seated and properly power connected.  </s>
+<s> hp tends to provide only the basic psu for the pc sold.  </s>
+<s> thus, you have assure stable and continued operation that the psu is ample to supply the new video card.  </s>
+<s> i suspect the 6870 needs a 400w or better psu and your current hp psu is 350w, check and verify.  </s>
+<s> also, the new psu should provide the dual-video power plugs as well, so verify if brought and if needed.  </s>
+<s> tada -----willy  </s>
+<s> that's a 151w gpu.  </s>
+<s> you must use two aux power connectors.  </s>
+<s> at a minimum you will need a 500w psu.  </s>
+<s> a nice 600w single rail unit would be better.  </s>
+<s> pertains to your stock (?) psu.  </s>
+<s> most off-the-shelf systems don't have sufficient power to expand the system with lots of extra components especially power hungry components like a high-end gaming card.  </s>
+<s> in addition, being most hd 6870 gpus have their own power connectors that must be connected for it to function properly.  </s>
+<s> if you've already taken care of the psu...maybe the card is just defective.  </s>
+<s> keep us posted.  </s>
+<s> vapcmd  </s>
+<s> my apologies for the late response.  </s>
+<s> i also bought a 600w psu, which works perfectly fine.  </s>
+<s> i only have one power connector from the psu to the card, though.  </s>
+<s> if what bob b says is true, that i need two, that could very likely be the problem.  </s>
+<s> i'd like to hear from more people first, though.  </s>
+<s> also, sorry for being vague and not giving enough information.  </s>
+<s> i'll get the hang of it eventually.  </s>
+<s> ^ ^  </s>
+<s> connect the psu to both.  </s>
+<s> better psus have two so by all means ...connect 'em.  </s>
+<s> exactly what psu did you install ?  </s>
+<s> vapcmd  </s>
+<s> ocz modxstream pro 600w psu here's the newegg link, if it helps.  </s>
+<s> i only have one of the power connectors.  </s>
+<s> i'll have to go out and get another.  </s>
+<s> psu connectors with that psu. one is 6 pin only the other is 6+2 pin.  </s>
+<s> how long have you had the psu ?  </s>
+<s> vapcmd  </s>
+<s> i bought it at the same time as the video card, which was at the start of december 2012.  </s>
+<s> so about a month and a half.  </s>
+<s> haven't really used the computer much, and just now actually trying to set it up.  </s>
+<s> i just ran out to every computer/office store that i know of, and nobody had any of the 6/6+2 pin connectors.  </s>
+<s> i'll have to order one online and come back to this thread later, when it arrives.  </s>
+<s> missing cable since the psu is modular.  </s>
+<s> guess you could get an adapter to fit on another lead until you get a modular 6/6+2 connector.  </s>
+<s> here's a modular cable for an ocz psu 6/6+2 vapcmd  </s>

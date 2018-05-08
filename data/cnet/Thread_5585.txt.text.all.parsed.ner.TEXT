@@ -1,0 +1,28 @@
+<s> i was just wondering how fast my ram should be running at.  </s>
+<s> i got dual256 sticks but my computer is running at 448 because of an undecided reason, i would like to know how fast my ram should be running without any programs working, my computer seems to only work at 30-40% of 448 and i was wondering if that was normal or if i should perhaps try to change something.  </s>
+<s> is &quot;clocked&quot; at motherboard level and is accessed by devices that need it.  </s>
+<s> it's speed is not independent of the rest of your system as it must work with it.  </s>
+<s> you might have some control over clock speed through your bios or mb jumpers in some cases (mostly older boards).  </s>
+<s> you should be able to see your processor speed setting in your bios.  </s>
+<s> your ram modules should have an spd component which is used by your bios to determine it's capabilites and optimize their performance.  </s>
+<s> check your bios to see if these setting have been set manually.  </s>
+<s> if so, set them to something that refers to spd.  </s>
+<s> i am not seeing what you are saying, could you please re-explain or maybe more in depth?  </s>
+<s> you cannot clock ram independantly to gain speed.  </s>
+<s> your mb clocking determines this.  </s>
+<s> you might have some control over this clock through bios or jumper settings but change such with extreme caution.  </s>
+<s> go into your bios by interrupting the boot process and look for ram settings.  </s>
+<s> see if you find anything about spd and set your system to use the information from this. if you set such things as wait states and latency manually and these are not within the performance range of the memory modules, you may wind up with an unstable system.  </s>
+<s> hello note that if you deduct the 448 from 512 (256x2), you are left with 64. this will very likely have been assigned to on-board graphics.  </s>
+<s> the amount memory assigned to your graphics can be seen/set in the bios.  </s>
+<s> i trust this answers your question.  </s>
+<s> kind regards.  </s>
+<s> so should i increase or decrease this, could i decrease this to zero and then it will run on its own without using memory or would that cause it not to work?  </s>
+<s> sorry for the late reply.  </s>
+<s> your bios settings will dictate how little or high you can set the amount of memory to assign to on-board graphics.  </s>
+<s> i don't suppose you will be able to set this to zero.  </s>
+<s> if you were able to, you wouldn't be able to display anything unless of course you had an additional graphics card installed.  </s>
+<s> some boards, in network systems for example, may have a default allocation of 1mb which you will not be able to change.  </s>
+<s> ordinarily you can function reasonably well on as little as 1mb, albeit a little more might be better... 8mb for example.  </s>
+<s> however, if you play computer games then you will perhaps have an idea from these, how much graphic memory is recommended.  </s>
+<s> however much memory is assigned to the on-board graphics will be subtracted from the total ram installed, e.g. 512-32mb=480mb.  </s>

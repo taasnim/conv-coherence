@@ -1,0 +1,18 @@
+<s> i would like to split the monitor signal from the computer (15 pin svga), with one going to a monitor that is hooked into a kvm switch, the other to an lcd t.v., which has a monitor capable input.  </s>
+<s> i initially tried this with a monitor y cable, but the monitor behaved erratically, as if it wanted to turn on and off. the lcd t.v. looked normal, except it flashed some signal &quot;over size&quot; which i haven't yet investigated.  </s>
+<s> would a video distribution amplifier, for a 15 pin monitor cable be available for sale?  </s>
+<s> one input, with two outputs?  </s>
+<s> i assume this would solve it.  </s>
+<s> al  </s>
+<s> any single video output going to two monitors will be supplying the same horizonal/vertical refresh and the same resolution.  </s>
+<s> devices such as you mention will provide some isolation and signal attenuation but i don't see that to solve a problem where two different signals might be necessary.  </s>
+<s> you can run separate video cards or find one with multiple outputs that might suit you better.  </s>
+<s> hope that helps but i cannot answer your question directly.  </s>
+<s> i forgot this portion.... i'm running an hp a730n, with 512 mb dram, xp. could you recommend a video card with dual outputs?  </s>
+<s> would the original monitor output run independently from the video card outputs, so if/when using the kvm, the monitor signal from the computer would be visible on the lcd t.v.? al  </s>
+<s> i won't be able to recommend a specific card.  </s>
+<s> you can do a google search for dual display video to get some ideas of what is available.  </s>
+<s> if your pc motherboard has on board video, you will be limited to pci cards.  </s>
+<s> it is possible to have more than one in a system.  </s>
+<s> i have a couple radeon cards with both d-sub and dvi connectors.  </s>
+<s> these will run 2 displays but not at different resolutions.  </s>

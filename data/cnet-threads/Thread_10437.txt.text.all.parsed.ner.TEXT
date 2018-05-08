@@ -1,0 +1,16 @@
+<s> hi, currently i have a 1tb mechanical hard drive on my custom built pc. i want to switch over to a solid state drive.  </s>
+<s> however, i am looking to save some money, so i had an idea to buy the cheapest, and therefore probably the smallest ssd available, probably around 30-60 gb. i wanted to move my operating system and any necessary files to get my computer to run onto the ssd, and then have my extraneous files such as photos, music, documents, and possibly even programs onto the mechanical hard drive.  </s>
+<s> is there an easy way to accomplish this?  </s>
+<s> there is.  </s>
+<s> buy a ssd (60 gb at least) and install the os on it from the windows disk, the drivers from the driver disk(s) and the application from their setup.  </s>
+<s> then add the original drive again, delete the windows folder and the folders from program files you don't need any more.  </s>
+<s> that leaves the data.  </s>
+<s> then move your new documents folders from the ssd to the hard disk.  </s>
+<s> done.  </s>
+<s> kees  </s>
+<s> ok, that makes sense.  </s>
+<s> however, is there anyway to preserve my existing state of windows 7, as my pc being custom built i had to install a buttload of third party drivers which would be a pain to reinstall.  </s>
+<s> does the windows backup feature selective backup where you can choose what to back up; i've never used it before.  </s>
+<s> also, you think i need a 60gb?  </s>
+<s> i figured 30 should be pushing it but it would be fine right?  </s>
+<s> also, would it just be better to set up raid 0 with this configuration?  </s>

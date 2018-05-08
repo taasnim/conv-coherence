@@ -1,0 +1,23 @@
+<s> i have a gateway&lt;-&gt;gateway ipsec vpn running between 2 offices and the first gateway (bipac 7404vgo) will also host pptp vpn connections as well.  </s>
+<s> i need to be able to route pptp traffic with a destination to the second gateway through the gateway vpn to services in that second network.  </s>
+<s> at this stage no routing occurs when trying to access the second office subnet from the pptp vpn.  </s>
+<s> all clients are using windows xp or above and there is an sbs2003 server on the first subnet attached to the first gateway.  </s>
+<s> at this point i have a choice of using sbs2003 pptp termination or router pptp termination for incoming client connections.  </s>
+<s> at the moment i have the router as the pptp endpoint.  </s>
+<s> i suspect that where it is falling down is the routing on the client itself.  </s>
+<s> i think i need to let each client know when they connect that they need to send traffic for the second subnet through the pptp vpn so it can be routed to that subnet.  </s>
+<s> i don't want to use the pptp connection as the default gateway as this would have large performance issues.  </s>
+<s> is there a way to dynamically allocate a static route on the client when they establish a pptp connection to the router (or sbs server) so traffic can be routed correctly?  </s>
+<s> further to this i have manually added a routing entry into the clients routing table and can now reach the second subnet.  </s>
+<s> [code]route add 192.168.2.0 mask 255.255.255.0 192.168.0.35 metric 2[/code] i need this routing table entry to update in each client when they connect with pptp.  </s>
+<s> not always will the gateway be 192.168.0.35 as this is issued by dhcp from the sbs 2003 server so this would be hard to batch.  </s>
+<s> this is the well known issue with vpn and default route.  </s>
+<s> most the time the vpn box must be the one to insert the routes when you allow split tunneling.  </s>
+<s> the ones i have used let you key in a list of routes to insert. the vpn box is the only one that knows all the information to do this.  </s>
+<s> i have no knowledge of your particular vpn device.  </s>
+<s> although it is painful to get figured out you can let the pptp have the default and put in routes for everything else to the local gateway.  </s>
+<s> if this was a corporate network it is somewhat easier but for internet you could use route add 0.0.0.0 mask 128.0.0.0 (networks 0.0.0.0 - 127.255.255.255) route add 128.0.0.0 mask 192.0.0.0 (network 128.0.0.0 - 191.255.255.255) route add 224.0.0.0 mask 224.0.0.0 (network 224.0.0.0 - 255.255.255.255) route add 192.0.0.0 mask 255.128.0.0 (network 192.0.0.0 - 192.127.255.255) etc etc in effect what you are doing is routing everything except 192.168.x.x to the pc gateway.  </s>
+<s> since you have routes for everything except this one the default becomes that route.  </s>
+<s> this can be a bat file run at login since it really is the default route once you get it complete.  </s>
+<s> i would look hard to see if your vpn vendor has a solution to split tunnel.  </s>
+<s> this is one of the many issues why split tunnel is not allowed at most companies, not to mention the security issue.  </s>

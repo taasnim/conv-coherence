@@ -1,0 +1,99 @@
+<s> i have comcast broadband hooked up through a router to a desktop, and a wireless connection with another desktop upstairs.  </s>
+<s> every week (or about every day, as is the case lately), the router will simply stop its connection to the internet, and both computers will be cut off.  </s>
+<s> if i hook up the main desktop directly to the modem it works fine, which is how i know it's a problem specifically with the router.  </s>
+<s> i'll go through the whole process of setting it up again, and then a week later the same thing happens.  </s>
+<s> i've used several methods to reset it.  </s>
+<s> gone through the cd's setup, use secureeasysetup (or whatever it's called), and used the netset utility.  </s>
+<s> same results.  </s>
+<s> and yes, i've made sure that the firmware is updated.  </s>
+<s> i've already replaced it once, but the same thing keeps happening.  </s>
+<s> could this be a coincidence?  </s>
+<s> and both are broken?  </s>
+<s> or, is this possibly something deeper, like some sort of weird disagreement between comcast and this brand of router?  </s>
+<s> thanks  </s>
+<s> if your modem has a bad signal it could cause your problem.  </s>
+<s> i would call comcast ask them to check your modem signals.  </s>
+<s> if you lost connection for a second your router may not like it and disconnect.  </s>
+<s> hello! i'm not a technician, but i was having similar problems.  </s>
+<s> over the weekend i discovered that i didn't need our d-link router after all because the dsl modem already was a router and they were apparently kicking each other off or something.  </s>
+<s> in any case, i got in touch with the manufacturers of the dsl router and programmed that one.  </s>
+<s> now everything works great and does anyone want to buy a d-link?  </s>
+<s> lol you also need to set up for windows to configure your connection.  </s>
+<s> good luck.  </s>
+<s> i have the exact same issue with a linksys befsx41 and verizon dsl.  </s>
+<s> annoying, isn't it?  </s>
+<s> it started about 10-12 days ago.  </s>
+<s> yesterday i replaced the router with a different brand, and it did the exact same thing (once).  </s>
+<s> i called up the isp, and we tested the connect without a router: it was all good.  </s>
+<s> then they bounced/reset something on their end and i've been good-to-go ever since.  </s>
+<s> i did, however try the linksys once again this morning, in the hopes i could return the new router, but had no luck.  </s>
+<s> i reset it to the factory defaults, power-cycled everything (twice)...still wouldn't grab an ip from the modem.  </s>
+<s> nothing at all.  </s>
+<s> it would time-out trying to renew its ip address.  </s>
+<s> i think it's fubar.  </s>
+<s> good luck with yours!  </s>
+<s> i'm also suffering with connection problems with comcast.  </s>
+<s> in my case since about a month ago i've been unable to get more than one computer successfully connected to access the internet behind either my d-link d614 router or my apple airport wifi router.  </s>
+<s> i've tried every conceivable approach to get back to the multi computer access to internet that i enjoyed for 3+ years using comcast.  </s>
+<s> comcast technical refuses to help as long as i can get at least one computer accessing the internet.  </s>
+<s> at one point i discovered something interesting. the second computer, that had a nat'ed ip from my router but couldn't load webpages in browsers or connect im clients, could successfully load a web page of an internet site if i typed the ip address of that site instead of the url such as bottom line: i think comcast, at least in my part of the comcast network, is mucking around with their dns servers and somehow refusing to resolve dns requests from more than one computer at a time from a single cable modem ip address.  </s>
+<s> nice effect for them as this chokes down bandwidth usage from everyone.  </s>
+<s> chances are there is nothing wrong with the router.  </s>
+<s> periodically, comcast will send updates for the cable modems.  </s>
+<s> sometimes, these updates interfere with the router's firmware, sometimes they require you to reboot the router and sometimes they require you to reboot the cable modem & router; especially when they've made a matrix change and you need to obtain a new comcast.net  </s>
+<s> ip address.  </s>
+<s> in many areas, comcast has been just that - updating their network, making the connections run as faster.  </s>
+<s> in my area, they upgraded me to a 16mb line for free and now offer 32mb service for extra $$$.  </s>
+<s> in either case, you shouldn't have to completely wipe out your router's setting to the linksys defaults.  </s>
+<s> just unplug the cable modem, router for 30 seconds.  </s>
+<s> first plug in the cable modem and wait until it has successfully synch'd with comcast.net.  </s>
+<s> you will know this is done when the ''cable'' light stops blinking.  </s>
+<s> now your cable modem has the latest and greatest synch paramters with comcast.net and is network addressable.  </s>
+<s> then, plug in your router.  </s>
+<s> this will allow the router to obtain the cable modem's ip address.  </s>
+<s> assuming your router is setup for nat and dns, your clients (computers connecting either via wire (cat-5) or wifi, should reconnect and obtain dns ip's.  </s>
+<s> good luck.  </s>
+<s> i am just a basic computer user, this is what i did, first i purchased network magic, cool but it did not fix the problem, then i went to my network list and noticed that there were a total of 5 routers in the area 3 of them linkys, 2 of these were &quot;g&quot; the other was &quot;b&quot; then i saw the wifi trying to connect to my wireless network, and it was switching back and forward from &quot;g&quot; to &quot;b&quot; and that is when i was getting disconnected, so, i deleted the connection &quot;b&quot; for wireless b, and the problem was solved.  </s>
+<s> apparently there was a problem with the software that showed my router twice in the list, one been g and the other b. hope this help.  </s>
+<s> i've been having this same problem, except it's been almost 8 months.  </s>
+<s> for the most part, we've just dealt with it, powercycling, which sets it good to go for awhile.  </s>
+<s> unfortunately, this past week it's only been lasting an hour or 2 after the powercycle before dropping out again.  </s>
+<s> after a bit of research, it seems that b/c the router was not received through comcast, it's not registered in their computers, and though they will assign an ip address, they will reassign it if need be to another customer, causing the loss in service.  </s>
+<s> when a powercycle is done, it resets your ip, at least until they reassign it again.  </s>
+<s> comcast apparently used to let anyone register whichever router's mac address that they used, but no longer due this. the reason seems to be becuase they have this new &quot;home networking:&quot; they charge you $150, give you a gateway router, send a guy to your house to install software on all your computers, and, your problem is solved!  </s>
+<s> if you have problems in the future, they will support you b/c you are now using their router.  </s>
+<s> of course, they could remedy the problem just by letting you use your own router and register it with them (it really doesn't take any extra software), but then they won't make $150!! unfortunately, comcast is the only provider available in my area, otherwise i'd switch in a second.  </s>
+<s> they've been terrible to us, though their speeds are usually pretty good.  </s>
+<s> i've been trying to find a workaround for this problem, but i don't think there is one, so i think i'm gonna have to pay the $150.  </s>
+<s> please anyone let me know if you know a solution!  </s>
+<s> thanks!!  </s>
+<s> home routers use nat (network address translation) to share one ip address with many computers.  </s>
+<s> this means that the router has to keep a table.  </s>
+<s> pc1 with local address 192.168.0.50 wants to go to yahoo.  </s>
+<s> pc2 with address 192.168.0.51 wants to go to google. the router keeps track of all connections.  </s>
+<s> because these products only cost $50 and they have relatively small memory, they have a limited number of tcp connections that they can track.  </s>
+<s> this type of product never advertises the highest number of concurrent sessions.  </s>
+<s> at the opposite extreme are the real firewall products.  </s>
+<s> one of their stats on the marketing brochure is the number of supported tcp sessions.  </s>
+<s> the average user, with multiple open browser windows and other software typically generates between 10-15 tcp traffic flows at any one time.  </s>
+<s> if you have an ftp or mail server running you can expect many more.  </s>
+<s> another way to generate many tcp sessions is a computer virus or adware. the typical virus does a port scan of the internet looking for a new host to infect.  </s>
+<s> this can generate many sessions.  </s>
+<s> adware downloads new advertisements.  </s>
+<s> the other aspect is the outside world.  </s>
+<s> it typically takes less than 30 minutes for a new router or pc on the internet to get port scanned these days.  </s>
+<s> some devices probably handle this better than others.  </s>
+<s> check all your machines are clean.  </s>
+<s> if that does not help, then buy a better quality router.  </s>
+<s> skrall  </s>
+<s> i just went office space on it, drove me insane, took it to the back yard and massaged it with a tire iron.  </s>
+<s> i think there's some oss firmware going around for linksys routers, i haven't tried it myself for lack of a linksys router, but might be a good option  </s>
+<s> go into the status tab on the router and release then renew the dhcp, and see if you can access the net again.  </s>
+<s> comcast may have gliched the cable signals, and caused your modem to lose the ip address it was using.  </s>
+<s> comcast makes the modem get a new ip and gateway address on their end of the system.  </s>
+<s> but until the router does the approx.  </s>
+<s> weekly release/renew process, it will continue to use the 'old' ip addresses that you 'use to' have.  </s>
+<s> so that causes the router to stop working, but when you hook a computer straight up to the modem it works because the modem is using the new ip addresses.  </s>
+<s> while the router is still using the old 'released/invalid' ip address it has stored in its memory.  </s>
+<s> so your router is trying to use ip addresses that are not 'valid' for your modems access settings.(on  </s>
+<s> comcasts end).  </s>

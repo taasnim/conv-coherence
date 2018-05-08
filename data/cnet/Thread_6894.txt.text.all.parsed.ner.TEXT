@@ -1,0 +1,82 @@
+<s> why do all ram makers intentionally make density specs unreliable? is it to make money off markets even when the product isn't compatible?  </s>
+<s> kingston and crucial memory finders, as are others, are infamous for reporting incompatible ram all because of this.  </s>
+<s> real examples(2gbx1): 128x8=8 128bit 128mb chips 128x8=8 64bit 128mb chips per side 128x64=16 128mb chips at 64bit each 128x4=4 128bit 512mb chips 256x64=8 256mb chips at 64bit each fyi: i believe there are even more specs just for 1x2gb alone.  </s>
+<s> it's actually 8 bytes where i say 128bit on 128x8 cause 8 bytes is 64bit and 128bit doesn't exist on main ram with common systems.  </s>
+<s> 128x4 is 1gbx1 sticks.  </s>
+<s> there are still a couple more variants for 1x2gb though.  </s>
+<s> two 1x2gb sticks, one 128x8 and the other 256x64.  </s>
+<s> this only indicated physical characteristics both can be either/or density.  </s>
+<s> my research shows the only real way to tell is fpga datasheets which are never published.  </s>
+<s> all this is about money.  </s>
+<s> and also what market the products are chasing.  </s>
+<s> there is no conspiracy here.  </s>
+<s> but i can imagine folk might think this. both k and c will refund your purchase if it turns out not to work.  </s>
+<s> there have been a few try to use those finders to divine if some other stick will work.  </s>
+<s> those folk are usually upset.  </s>
+<s> bob  </s>
+<s> some more useless markings are 2rx8, 2rx16, 2rx64.  </s>
+<s> all can be, and usually are, both low and high density.  </s>
+<s> kingston makes almost all high-density ram now.  </s>
+<s> they do have some low density like 128x8 sticks for ddr2 667 1x2gb still being made in valueram.  </s>
+<s> these will have 16 chips on them and usually be marked 'compatible ram'.  </s>
+<s> kingston imo is one of the best manufacturers out there, i've been using them since the 90s, but they also have this problem.  </s>
+<s> crucial doesn't even make low density anymore but shows some of there high density ram sticks as compatible with all the low density only systems.  </s>
+<s> i actually commented on &quot;compatible&quot; sticks for low density systems on their site, and they censored all my comments.  </s>
+<s> this could only be cause it'd affect sales.  </s>
+<s> samsung and a couple other makers still do a lot of low density, but it's mostly for oem.  </s>
+<s> you can find them online new still though.  </s>
+<s> is older sticks are no longer in production.  </s>
+<s> this is going to upset folk that have some pentium of older vintage.  </s>
+<s> bob  </s>
+<s> samsung and other manufacturers still make it, even kingston has some low-density valueram still being made.  </s>
+<s> crucial and some other popular makers have no low-density.  </s>
+<s> another thing woth nothing, low-density is faster and more efficient, high-density is just cheaper to make thus higher profit margin.  </s>
+<s> ***i don't mind just don't screw the buyers on sales by inaccurately marking a characteristics that causes the product to simply not work on a huge chunk of the market..which most of them are doing..  </s>
+<s> there are some folk that think that a ddr2 stick should work in any machine you put it in.  </s>
+<s> wishful thinking and not much that i can add except to start taking classes in electronics and more.  </s>
+<s> eventually you will reach a point of understanding why there is more to this than what i've read from you so far.  </s>
+<s> if they had created a different stick for each system the costs would have far higher than what you see today.  </s>
+<s> bob  </s>
+<s> i'm a software engineer.. 1. i have researched.  </s>
+<s> they use high density fpgas cause they cost less to manufacture and they fit more capacity.  </s>
+<s> there isn't anything else to it as even most of them explain where they talk about ;'phasing out' low-density.. 2. you don't need technical expertise for this. the issue is discussed on every hardware site there is from pc magazine to overclocking forums.  </s>
+<s> 3. the fact that most of amds k8 line don't support high-density modules makes this significant.  </s>
+<s> are you proposing that lower cost new sticks be illegal because it does not work with your amd k8?  </s>
+<s> no just standardization of specs..it helps everyone except people who depend on support revenue.  </s>
+<s> note: this post was edited by a forum moderator to remove personal attack.  </s>
+<s> note to op please cease the attacks.  </s>
+<s> on 03/16/2012 at 2:57 pm pt  </s>
+<s> sorry if you are offended in any way.  </s>
+<s> but the industry, in order to deliver lowest costs will continue to use a form factor of these sticks and not all sticks will work in all machines.  </s>
+<s> i'm only an electronics designer and a bit more so i know a bit about this area.  </s>
+<s> to create a new form factor for the lower cost module that doesn't work with the k8 would be the k8 would increase in price and everything else. the end goal of lower prices would not be met and you would then complain about higher prices.  </s>
+<s> bob  </s>
+<s> you're an &quot;electronics designer&quot; but you're talking about &quot;form factor&quot; which has nothing to do with sourcing fpgas for ram manufacturing.. high density has identical &quot;form factor&quot; to low-density, often times even with chip and filter footprints.  </s>
+<s> you're not even comprehending the subject and instead going against-the-grain based on a fragment of the thread title.  </s>
+<s> be relevant and consistent or don't bother.. note: this post was edited by a forum moderator to edit out personal attack on 03/16/2012 at 2:24 pm pt  </s>
+<s> but the form factor of the memory stick, if we change that would require new sockets and yet another connection/board standard.  </s>
+<s> since we can use, for example, the ddr2 stick profile and make a cheaper stick for most but all machines we would do that. the few with the amd k8 may want to use the cheaper stick but find it incompatible.  </s>
+<s> this is why the same stick profiles are used.  </s>
+<s> as to fpgas, those are not &quot;ram.&quot;  </s>
+<s> bob  </s>
+<s> again.. i'm talking about density which shares physical characteristics on the actual form factor, only differentiating on fpga and filter bus **sometimes**(note this has nothing to do with stick form..again), and asking why they don't mark ram with usable density markings instead of ones with double meanings that lead to consumers buying incompatible ram.  </s>
+<s> not once have i mentioned anything about changing the physical form of ram; in fact it has nothing to do with the subject of the thread you're trying to criticize..  </s>
+<s> you will see your posts have been edited.  </s>
+<s> please review forum policy about the use of offensive words and inappropriate language towards other members in these forums.  </s>
+<s> mark  </s>
+<s> that question is like the one where the food industry lists the contents of the products.  </s>
+<s> it is also why folk go to crucial.com to get ram.  </s>
+<s> crucial has done a lot of work to get the right sticks and if it doesn't work, they will swap them for you. the density of the part is only one item that has to be considered.  </s>
+<s> for example we have that, and then the old single vs. double sided discussion.  </s>
+<s> there are over a dozen parameters to consider when matching ram to a system.  </s>
+<s> not one has to do with &quot;fpga&quot; and here i'm going to have to upset you. the answer to your &quot;why?&quot; is very simple.  </s>
+<s> it would cost too much to publish all this in a form that a layman could understand.  </s>
+<s> your continued use of &quot;fpga&quot; shows you have a little more to learn about electronics.  </s>
+<s> and i don't expect folk to know this stuff.  </s>
+<s> why should they?  </s>
+<s> bob  </s>
+<s> understood.. &quot;not one has to do with &quot;fpga&quot;&quot;..things like suggesting density and fpga design are not related and saying the topic is irrelevant when an entire generation of mainstream processor with embedded controllers(amd k8) don't support high-density just gave the impression he didn't know what he was talking about and trolling the thread.  </s>
+<s> he also went to suggesting i was talking about changing physical characteristics of ram which has nothing to do with density or this thread-subject.  </s>
+<s> statistically speaking they usually share the same physical design even down to the analog component level.. being called 'uneducated' by someone who can't even comprehend that i'm talking about documentation is also frustrating, and the argument they pose that: &quot;it would cost too much to publish all this in a form that a layman could understand.&quot; is interesting considering they already do, it's just misleading cause the manufacturers don't use compliance and it leads to consumers buying ram with incompatible density; which is well documented and what the thread subject they're ignoring is solely based on..  </s>
+<s> also on the crucial.com  </s>
+<s> statement they made.. if you buy this crucial 100% compatible with acer 5517 4gb kit it'll show 2gb under bios and any os cause it's 256x64 ram which is high-density, where it only supports 128x8 density no matter which k8 cpu you have in it.. i'm doing nothing but verifying the relevance of this subject and showing statements made to discredit it are wrong.  </s>

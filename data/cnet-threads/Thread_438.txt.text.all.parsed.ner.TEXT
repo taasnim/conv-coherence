@@ -1,0 +1,23 @@
+<s> hi everyone!! i recently adquired a pci-express nvidia gt520 graphics card, a nice one by the way, but there's a thing that's driving me crazy; everytime i turn on my computer there is no graphics.  </s>
+<s> i have to remove it, restart the computer, configure the video to onboard on the bios, turn off the computer, insert the video card again, turn on the computer, configure the video to pci-e on the bios again, restart again, and then i can enjoy the graphics card.  </s>
+<s> i have to do this everytime, and i have no idea why this is happening, so it is like i'm never turning it off!!! the computer is an amd athlon 64 x2 dual core on an asrock nf6g-vsta mobo running win xp. any help would be appreciated.  </s>
+<s> thanks!  </s>
+<s> it could be some dead bios battery since xp is so old, the machines tend to be older and have dead/near-dean bios batteries.  </s>
+<s> bob  </s>
+<s> i thought of that too, but if the bios battery is dead, then date and time wold be gone too, right?  </s>
+<s> as any other bios configuration i had made so far, isn't it?  </s>
+<s> but they aren't, this is the only problem i found everytime i turn on my computer.  </s>
+<s> i turn it on and the screen shows &quot;no signal&quot;, then i have to proceed with the tedious process i talked above, and unless there is a hidden bios battery i haven't seen, i don't think this is the problem.  </s>
+<s> thanks for answering bob.  </s>
+<s> you would be assuming the clock is powered by the same and drops out at the same voltage.  </s>
+<s> but that's a lot of assumptions. the fact the bios settings don't stick is the clue and you get out the volt meter or just pop in another.  </s>
+<s> there are some clients that want more so we'll photo the procedure, the volt meter reading and charge accordingly. the regular client says fix it.  </s>
+<s> bob  </s>
+<s> i didn't think about that...i'm assuming that because most of the systems i've seen work like this.. how can i know this for sure?  </s>
+<s> replacing the battery and try with a new one?  </s>
+<s> or is there another way to find out wheather if the clock is powered by the same or not?  </s>
+<s> another thing; when i just installed the video card, i had to travel for a few days, so the computer was off for about 4 days, when i got back, i turned it on, it worked fine, the graphics card work properly, but then, a few days later i had to travel again and when i was back, i found out with the problem that brought me here..hope this help..  </s>
+<s> as there are standard procedures for this issue i am guessing that my answer is not acceptable.  </s>
+<s> it's a 25 cent part in bulk so we don't think about it.  </s>
+<s> if there is a motherboard/bios flaw, that's another issue and more costly to fix.  </s>
+<s> bob  </s>

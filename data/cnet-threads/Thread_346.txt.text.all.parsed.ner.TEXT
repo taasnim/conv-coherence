@@ -1,0 +1,8 @@
+<s> i have bought ati radeon 9800 pro agp 8x/4x card.  </s>
+<s> i have nividia geforce3 64mb agp as per my dell order form specs. but when i search for location of card on computer it says pci slot 1. why is that?? is dell order spec is incorrect?? other thing is that the ati manual says about something updating agp driver on motherboard chipset( mine is intel).  </s>
+<s> does it mean that i have to install a driver from intell site as well as from prodcut cd????? lastly is there any good web site with detailed instructions for graph card installations?? all the help is much appreciated thanx ps: dell 8100 dimension, os win 2000 pro, intel p4 1.7 ghz, mem 512, 60 gb  </s>
+<s> try going to your desktop, right click&gt; properties&gt; settings&gt; advanced&gt; then find your card properties tab.  </s>
+<s> my device manager said my card was on pci 1 but when i went to the card properties it said agp. and, you are already at the site for grpahics card installation ( )  </s>
+<s> thanx it is agp  </s>
+<s> please read this: uninstall the nvidia drivers, shut down, install the ati card, reboot, install it's drivers if you don't your going to have problems i can gurantee that  </s>
+<s> got all excited put in ati card, got catalyst drivers and control panel, installed the lot, forgot to remove nvidia drivers get 'the application failed to initialize properly (0xc0000135) bugger.... what to do now (tried removing nvidia, then ati then reinstalling ati get the same damn message) help  </s>

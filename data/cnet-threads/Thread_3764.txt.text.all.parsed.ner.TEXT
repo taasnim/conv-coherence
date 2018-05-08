@@ -1,0 +1,9 @@
+<s> alright...i have recentely built a computer and am having early trouble.  </s>
+<s> i have a p4 3.0e, 1024 of ram, 6600gt vcard, asus p4800se, a harddrive from a dell( ata iv seagate barracuda), and a cd/rw drive from the dell, and a floppy from the dell.  </s>
+<s> my computer recognizes the p4, ram, vcard...but i keep getting an error message &quot;primary slave drive - atapi incompatible&quot; my harddrive was quick formated, and i have not installed windows, due to the fact that i can not.  </s>
+<s> any help would be greatly appreciated... thanks in advance  </s>
+<s> slave position of the primary ide port?? try unplugging that.  </s>
+<s> any chance that you have the drives improperly jumpered?? or using cable select and have them plugged into the incorrect connectors??  </s>
+<s> the master [boot drive] as the problem, can't you simply proceed???  </s>
+<s> using one ide port or two...or simply just how is your ide ports being used with the devices attached?  </s>
+<s> congrats '05 -----willy  </s>

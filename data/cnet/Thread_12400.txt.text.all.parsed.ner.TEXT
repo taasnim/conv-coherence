@@ -1,0 +1,56 @@
+<s> hello i have a gtx 260 video card and from 1 month i have a strange problem.  </s>
+<s> once i start the computer there is no video signal coming from the video card or at least the signal that is coming from it it is not showing anything.  </s>
+<s> so i have to leave the computer turned on for around 15 minutes (before was less) and than at some point the video signal is start working and i can see the windows log-in box, and then there aren't any problems.  </s>
+<s> even if i turn off the computer and start it again it starts normal.  </s>
+<s> only if i turn it off and leave it for longer time turned off , than once i turn it back on i have to wait again.  </s>
+<s> any idea what might be the problem ?  </s>
+<s> do i need to change the video card or it is something else ?  </s>
+<s> reseat the video card in the mobo.  </s>
+<s> reseat the power connectors on the video card.  </s>
+<s> the 260 is a bit of a power hog so if the power was on the edge and given we know that electrolytic capacitors work better after they warm up my thought is that this could be the usual just barely big enough power supply symptom.  </s>
+<s> bob  </s>
+<s> hi i did reset everything and still the same situation.  </s>
+<s> my power supply is corsair 550w if that will help  </s>
+<s> the minimum power requirement is a 500w psu, even though yours is 550w, that's real close.  </s>
+<s> also, understand that the start-up power requirements of your pc maybe at a level or stripping a &quot;power leg&quot; to the max.  </s>
+<s> of its specs. the fact it finally boots is a clue to this action.  </s>
+<s> it will only get worse as time goes by. the 1mo.  </s>
+<s> going by is another clue as time has been reached where troubles are popping up.  </s>
+<s> get another better and higher wattage psu as you can afford, but don't buy the cheapest.  </s>
+<s> thus, i agree wuth robert on this one.  </s>
+<s> specs: tada -----willy  </s>
+<s> i drive at 100mph and it breaks down sooner than if i just putted along the 70mph highways?  </s>
+<s> for an example read where you find that 36 ampere number being kicked around.  </s>
+<s> remember that power supplies do age and while the tx 550 does have &quot;+12v@41a&quot; this is going to drop to about half that over a few years or faster in a hot box.  </s>
+<s> then we have to old bad caps issue to investigate.  </s>
+<s> and then how old is this card and other parts?  </s>
+<s> folk think this stuff is solid state but it's still going to age.  </s>
+<s> bob  </s>
+<s> is to have 2-identical mini-vans running at the speeds you suggested and see which finally has a problem.  </s>
+<s> i suspect both are prepped beforehand and then raced on separate tracks or times.  </s>
+<s> then after 30-days see which may have more issues as yet another area to check.  </s>
+<s> stuff happens no matter how its prepped but then again, the true nature of underlying problems comes more apparent when getting to the bottom of it all.  </s>
+<s> if that isn't seen from all the posts here and elsewhere to paint a picture of this or that, then employment is assured.  </s>
+<s> adios -----willy  </s>
+<s> hi i tried with a brand new video card and with a new power supplly 750 w and still the same thing.  </s>
+<s> nothing happen.  </s>
+<s> but try this setup outside the case.  </s>
+<s> i've found too many machines that someone built with an extra mounting post on the motherboard.  </s>
+<s> there can be other issues like a shorted reset button to a low cmos battery but the clues here are sparse.  </s>
+<s> build it on the out side of the case on a cardboard box to see if it's ok there.  </s>
+<s> bob  </s>
+<s> it maybe better simply to tear it down and as robert suggests rebuild outside the case.  </s>
+<s> doing that and making it a simple system, basics only.  </s>
+<s> check results if you can even get a display, etc.. the other half of this is the mtrbd.  </s>
+<s> is kaput or hosed.  </s>
+<s> i can't pin-point that for ya, until you try this and that.  </s>
+<s> if this mtrbd.  </s>
+<s> has a build-in video port, use it and see if it gets anywhere.  </s>
+<s> reset the bios(clear it) and see if you get a display during boot-up.  </s>
+<s> notice any &quot;beep codes&quot; speaker-on or connected or active, what is the beep sequence when power applied?  </s>
+<s> what happens when power applied to cpu fan?  </s>
+<s> closely inspect the mtrbd.  </s>
+<s> for any obvious damage or bad caps, shorts, breakage or non-seated cards, etc.. don&quot;t take anything for granted.  </s>
+<s> if possible test items on another pc, one item at a time.  </s>
+<s> take your time, don't rush this and be sure power it off when replacing or reseating anything and use &quot;static protection&quot; procedures.  </s>
+<s> tada -----willy  </s>

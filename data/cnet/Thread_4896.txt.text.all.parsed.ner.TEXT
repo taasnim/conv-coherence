@@ -1,0 +1,34 @@
+<s> windows me - asus a7n8x my dvd is not showing up in my computer.  </s>
+<s> it has worked just fine from the day i installed it in this computer.  </s>
+<s> it has created no problems, but the other day when i inserted a disk, the led on the front of the unit showed that it was spinning up as usual but nothing came up on the screen.  </s>
+<s> when i went to my computer to try to check on the disk i discovered that the dvd was no longer listed.  </s>
+<s> how do i get it back?  </s>
+<s> i am not sure where to start.  </s>
+<s> doug, as a person i can understand your frustration.  </s>
+<s> as a tech, i regret to say, your best bet is to get a new operating system.  </s>
+<s> me was supposed to be a step between the 9x os's(95, 98, 98se) and the nt os's (nt, 2000,xp).  </s>
+<s> the two cores are simply too vastly different.  </s>
+<s> me doesn't work, microsoft doesn't even sell it anymore (like i've posted in another response, if gm quit selling a car because it was too unreliable, would you keep driving it?). that should say how good it is.  </s>
+<s> in a+ class, our instructor told us to not waste time fixing anything on me.  </s>
+<s> what works today on me may not work tomorrow.  </s>
+<s> i've seen everything from nic's, drives, fonts, applications, video cards, and peripherals suddenly become unrecognized by me.  </s>
+<s> i hate to tell you, but me is a lost cause.  </s>
+<s> yes, someone may post something to help this problem, but you'll be back in the near future with another problem.  </s>
+<s> you're better off saving your data now, and installing it into a different os.  </s>
+<s> well to begin the process you said the dvd drive has worked fine since you installed it, this could mean your only looking at a loose ide cable either on the back of the drive or on the board itself.verify  </s>
+<s> if it shows in the control panel...go to start, settings, control panel...double click system then look in the device manager for cd roms.  </s>
+<s> if it shows correctly you might have a defective drive or the software to play dvd's might be the problem...try playing a audio cd. let me know what you find!!  </s>
+<s> by the way, xp is not without its share of problems i've seen everything from nic's, drives, fonts, applications, video cards, and peripherals suddenly become unrecognized by xp!!! it has a nasty habit of turning off dma and reverting to pio mode for dvd/cd rom drives!  </s>
+<s> let's see what new problems arise from service pack 2!  </s>
+<s> i'm actually missing both the dvd and cd drives on &quot;my computer.&quot;  </s>
+<s> happened overnight.  </s>
+<s> was working fine.  </s>
+<s> i'm running me, and it can't find the drives in other the device manager or on the dos command screen.  </s>
+<s> what's my next step?  </s>
+<s> windows knows your dvd and cd drives are there when your computer boots the bios.  </s>
+<s> your bios then passes this info to windows.  </s>
+<s> first check your bios settings usually you hit the delete or f1 key or what ever appears on your screen during the boot.  </s>
+<s> once your in bios look at &quot;standard cmos features&quot;.  </s>
+<s> this should show your hard drive and dvd/cd drives.  </s>
+<s> if there not there, let the bios &quot;auto detect&quot; the drives, if it can't then you have a loose ide cable on the drives or where the ide cable plugs into the mother.  </s>
+<s> good luck!!  </s>

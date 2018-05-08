@@ -1,0 +1,33 @@
+<s> i installed a program called speedfan 4.32 just to check my computer temperature.  </s>
+<s> when i installed it and it first ran, the temps were: cpu 51c ambient 37c hd0 41c hd1 39c when i turned the computer off for the night and restarted it, the temps were: cpu 42c ambient 23c hd0 20c hd1 19c i let the computer on while i was out today and when i returned, all the fans were running in the computer normally, the computer is almost silent.  </s>
+<s> with the fans running, the temps were: cpu 38c ambient 28c hd0 32c hd1 31c should all of the fans be running 100% and is it possible that i lost a hard drive because it overheated?  </s>
+<s> the temps look normal, very normal.  </s>
+<s> without speedfan the fans do a fair job.  </s>
+<s> running speedfan enables the fans to 100% and the machine is cooler.  </s>
+<s> but don't put too much stock in those temp sensors.  </s>
+<s> i get two different temps when comparing speedfan to everest.  </s>
+<s> just looking at the numbers, your machine and drives are well below any danger zone.  </s>
+<s> if you lost a drive it's not because of temperature.  </s>
+<s> hd a few months ago, and now i am only guessing that it may have been heat related.  </s>
+<s> should i let speedfan control the fans and let them run?  </s>
+<s> what is the best way to get the correct temps?  </s>
+<s> and it will automatically adjust your fans to maintain those temps.  </s>
+<s> if you like quiet, raise the temps.  </s>
+<s> cpu 50c, ambient 35c, and hd 35c should make for a quiet pc and reasonably cool temps.  </s>
+<s> if you maintain your system cleaning and just use it as a typical one, the monitoring fan pgms.  </s>
+<s> just report and really don't do much.  </s>
+<s> more often than not, you will get various different status reports, as long as they don't goto to extremes, you're ok. if you run a system more into extremes like gaming or intense usage, then *maybe* the more intelligent fan monitoring pgms.  </s>
+<s> can help but even then i thought very much.  </s>
+<s> if anything an alarm is the best setting to use to get your attention, but typical bios setting do that anyways. the monitoring pgms.  </s>
+<s> won't do anything but report if you don't use variable fans that can vary their rpm s, so take that into account.  </s>
+<s> alas, having good quality fans and large ones if possible help to reduce noise and/or reduce fan failure.  </s>
+<s> tada -----willy  </s>
+<s> the temps looked good before you installed speedfan.  </s>
+<s> i'd uninstall speedfan.  </s>
+<s> the temps are really on the low side which is good.  </s>
+<s> i doubt if the failure was heat related.  </s>
+<s> i always thought my computer was very quiet (too quiet perhaps)when i bought it.  </s>
+<s> i don't know why the hd failed or really if it were the hd that failed.  </s>
+<s> but since replacing it, the system seems to be fine  </s>
+<s> i just want to know what hd1 stand for because my hd1 temp allot higher than my hd0?  </s>
+<s> plz reply  </s>

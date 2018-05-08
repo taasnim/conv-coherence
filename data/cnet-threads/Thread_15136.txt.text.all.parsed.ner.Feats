@@ -1,0 +1,15 @@
+                                     BOB 0 1 1 0 0 1 0 0 1
+                                ANYTHING 0 0 0 0 0 1 0 0 1
+                                    CALL 0 0 0 0 0 1 0 1 1
+                                  SYSTEM 0 1 0 0 0 1 0 0 0
+                                   ISSUE 0 1 0 0 0 1 0 1 1
+                                PROBLEMS 0 0 0 0 0 1 0 1 1
+                                   MODEM 0 0 0 0 0 1 0 1 1
+                                    CPUS 0 0 0 0 0 0 0 1 1
+                                 CHIPSET 0 0 0 0 0 0 0 1 1
+                           COMPATIBILITY 0 0 0 0 0 0 0 0 0
+                                   LOGIC 0 0 0 0 0 1 0 1 1
+                                SUPPLIER 0 0 0 0 0 0 0 1 1
+                                      HT 0 0 0 0 0 0 0 0 0
+                         HYPER-THREADING 0 0 0 0 0 0 0 0 1
+                           PROBLEMS&QUOT 0 0 0 0 0 0 0 1 1

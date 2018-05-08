@@ -1,0 +1,17 @@
+                                     BOB 0 1 1 0 0 1 0 0 1
+                                    HELP 0 0 0 0 0 1 0 0 1
+                                   ISSUE 0 1 0 0 0 1 0 1 1
+                                  ANSWER 0 0 0 0 0 1 0 1 1
+                                    DISK 0 0 0 0 0 1 0 0 0
+                                    LUCK 0 0 0 0 0 1 0 1 1
+                                HARDWARE 0 0 0 0 0 0 0 0 1
+                                   FILES 0 0 0 0 0 1 0 1 1
+                                SOFTWARE 0 1 0 0 0 1 0 0 0
+                                SOLUTION 0 0 0 0 0 1 0 1 1
+                            INSTALLATION 0 0 0 0 0 1 0 0 1
+                                 DIAMOND 0 0 0 0 0 1 0 1 1
+                                   THANX 0 0 0 0 0 0 0 1 1
+                               ELIZABETH 0 0 1 0 0 1 0 0 1
+                             USBSTOR.SYS 0 0 0 0 0 0 0 0 1
+                            USBNTMAP.SYS 0 0 0 0 0 0 0 1 1
+                                   STEPH 0 0 1 0 0 0 0 0 1

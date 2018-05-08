@@ -1,0 +1,19 @@
+<s> one day i decided to go off to the store and buy dvds to burn some of my files, when i cameback home my computer was running yet there was no display no nuttin on my monitor it was as if everything froze, the power button didnt work either.  </s>
+<s> so i disconnected it.  </s>
+<s> reconnected it and got a eeeee sound as if the computer wasnt feeling the power, like a car wanting to turn on but it wont.  </s>
+<s> i thought it was the psu, i just bought one today and installed it, i connect it, and i kear the same eeeee sound, the sound i think comes from the psus ( not 100% sure but pretty certain) and i know that the spus is not to blame.  </s>
+<s> i wanted to know what could be the problem?  </s>
+<s> motherboard died?  </s>
+<s> or in worse case scenario, cpu died?  </s>
+<s> start unpluggin items from the motherboard.  </s>
+<s> i try 2 at a time until i'm down to motherboard, cpu/heasink/fan, power supply and the little speaker.  </s>
+<s> if those last items don't beep in protest i know it's one of those.  </s>
+<s> bob  </s>
+<s> i had a similar problem which i solved by unplugging the computer, pressing the power button, removing the silver cmos battery inside the computer then reinstalling the battery.  </s>
+<s> everything then started up fine.  </s>
+<s> not sure why this worked but it did.  </s>
+<s> my thought was to clear the cmos and start over with fresh cmos settings.  </s>
+<s> is the sound a screeching sound?  </s>
+<s> if so, it could be the hard drive has failed.  </s>
+<s> disconnect the power to the hard drive and try to start with either a boot floppy or windows cd. just to see if you get a reaction.  </s>
+<s> if you can boot to a ''dos'' prompt from either, the hard drive is fried.  </s>

@@ -1,0 +1,20 @@
+<s> pc spec pentium d 3.4ghz intel d945gnt mboard 3.0ghz ddr2-667 ram 256 ati radeon x1300pro problem: hellpppp!!newly purchased..overall temperature so high..i can feel the heat if i sit near to my cpu..i hv to open the casing to let the air flowing..im using the standard processor fan & standard psu..please help, is theres any setting or tricks..newbies here..thanks  </s>
+<s> heat is common to the system, if you're that close to it, expect it.  </s>
+<s> if your system isn't acting flaky or rebooting, it probably is alright.  </s>
+<s> what does your temp.  </s>
+<s> monitoring s/w say?  </s>
+<s> generic, oem or diy system build?  </s>
+<s> tada -----willy  </s>
+<s> errmmmm im dunno how to check the temp monitor its a diy unit (i guess, coz i request the spec) but its really abnormal for me..the fan too noisy..it quite for a second, then it make noise again..  </s>
+<s> alright, first off your computer will always feel like it's running hot, the only real reason that it would be running too hot would be if a fan(s) is'nt working or you overclocked your computer.  </s>
+<s> if you really feel that the computer is too hot then you can try to add a fan in it.  </s>
+<s> if you want to see the temp.  </s>
+<s> get this program: it also lets you increase the fan speed  </s>
+<s> new purchase?  </s>
+<s> vendor or custom build?  </s>
+<s> if vendor make and model.  </s>
+<s> if custom build the see this link about air flow.  </s>
+<s> bill  </s>
+<s> i have the same mobo and processor and the p4d will turn your pc into a space heater.  </s>
+<s> your typical temps should be around cpu=65c, zone1=45c, zone2=35c.  </s>
+<s> intel mobos allow the cpu to get really hot and won't kick the fans on high until 72c. to monitor your temps, install the latest bios, intel desktop utilities, chipset drivers from: to run cooler and quieter, get a new heatpipe based cooler like this one from asus for $25:  </s>

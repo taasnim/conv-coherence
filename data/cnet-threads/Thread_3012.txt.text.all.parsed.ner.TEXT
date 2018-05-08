@@ -1,0 +1,32 @@
+<s> i am building a desktop and want some info on what cpu to buy: intel core i7 860 processor - 2.80ghz, lga 1156, 8mb l3 cache, quad-core intel core i7 920 processor bx80601920 - 2.66ghz, lga 1366, 4.8gt/s qpi, 8mb l3 cache, quad-core intel core 2 quad q9550 processor bx80569q9550 - 2.83ghz, 12mb cache, 1333mhz fsb amd phenom ii x4 955 black edition quad core processor - 3.20ghz, socket am3, 6mb cache, 2000mhz (4000 mt/s) fsb i do not game mainly watch movies, but i want a cpu that in a couple years wont be out of date.  </s>
+<s> from what i researched all of these are top of the line.  </s>
+<s> which one should i purchase or should i go with an i5?  </s>
+<s> are you looking for a motherboard with usb 3.0 and sata 6gbs too ?  </s>
+<s> vapcmd  </s>
+<s> i was thinking under 250 for cpu alone, maybe under 700 for a bare kit.  </s>
+<s> i havent looked at motherboards yet i was going to find a cpu or two i like and then look for kits or motherboards included with cpu.  </s>
+<s> well if you are wanting top of the line then go with the first one you put.  </s>
+<s> there isn't much difference between the first and the second one though.  </s>
+<s> first one is ranked 14 and second one is ranked 15 on but you said you wanted to keep it under 250... so i am not really sure as to why you put the first two since they are over.  </s>
+<s> if you don't care to spend over 250 then you can't beat either of the i7s you put.  </s>
+<s> just as a fyi, has th i7 860 for 10 bucks cheaper than tigerdirect  </s>
+<s> new stuff comes out too quickly to make a decision now.  </s>
+<s> today's best choice may be may's so-so choice.  </s>
+<s> are likely to be new choices and new prices on cpus in the next couple of months...i'd defer the cpu decision.  </s>
+<s> pending the release of the gulftown cpus, options will expand and prices will drop.  </s>
+<s> here's one of many articles about upcoming intel cpus.  </s>
+<s> hope this helps.  </s>
+<s> vapcmd ps...i have the i860 with a giga-byte mb and i'm very pleased with the performance.  </s>
+<s> you don't have to have a massively powerful cpu to watch movies.  </s>
+<s> in fact you can get much cheaper cpu's than those that will do the job with no problem.  </s>
+<s> same goes for graphics cards.  </s>
+<s> check this one here for example not great for gaming but for movies it's perfect due to it's specs.  </s>
+<s> you are only thinking of intel processors.  </s>
+<s> ok, i myself have one. the great diference between intel processors i7 and the rest of the fleet is that i7 is the first intel processor which uses the new quick pass interconnect bus from intel and the nehalem architecture from intel.  </s>
+<s> i translate: fsb is the name for front side bus, the bus through which the cpu communicates with the rest of the computer.  </s>
+<s> till now, the great problem with the growth of intel processors had to do with the strangulation of data flow in the fsb. the growing flow of data of graphic cards and the growing flow of data from the memory controller were exceeding the capacity of the best fsb, limited by the clock frequency of parallel lines.  </s>
+<s> with the new nehalem architecture, the communication between cpu and memory is now made by an independent and dedicated bus and the memory controller is now included in the cpu chip instead of the northbridge chip.  </s>
+<s> this flow of data is now off from the fsb. the fsb is substituted by the quick pass interconnect, a serial communication done by 20 lines (16 data bits) which can guarantee something like 25 gb/s transfer rate in full duplex.  </s>
+<s> this capacity exceeds largely the actual needs and is prepared for the newest usb 3.0, sata 6gb and ethernet 10gb and probably the expected pcie x32. the difference between series 8 and 9 of i7 is the double or triple channel in the communication with dram memory.  </s>
+<s> as one of the other improvements of i7 series is the large amount of cache memory placed in the cpu chip (2x32kb of level 1 cache for each core, 256 kb of cache level 2 memory for each core and 8 mb of cache level 3 memory for all cores,) i shouldnt think twice between the two and three channels.  </s>
+<s> the three channels allows you a larger block transference for each burst reading of dram and a cache line which can grow until 192 bytes, improving the cache hit and in consequence the work rate of cpu.  </s>

@@ -1,0 +1,20 @@
+<s> i recently bought a notebook from hp with 512mb ram.  </s>
+<s> what i am confused is the setup shows 384mb of system memory and video memory as 128 mb. similarly, task manager on windows xp os shows total physical memory as 384mb.  </s>
+<s> called up hp support, they said that video memory is taking 128 mb out of 512 mb thats why my system memory is 384 mb. is tha true?  </s>
+<s> is it not that video cards( ati radeon 9000) shoud have its own 128 mb memory and my system should be having 512 mb separately.  </s>
+<s> i just want to make sure that i am not cheated.  </s>
+<s> help me out you experts......  </s>
+<s> this is pretty normal for a system with integrated video.  </s>
+<s> you want more memory for programs you can buy more and add it to the system, there is probably a second free memory slot to do this.  </s>
+<s> you didn't get cheated, that's how it works.  </s>
+<s> when it comes to notebooks, shared resources especially ram is a given. the video taking from the base ram and providing the resources it needs.  </s>
+<s> while some video ram can come strictly for itself on its own, more often than not it uses whatever the system memory provides.  </s>
+<s> check to see if you can tailor the video ram to a lesser amount using some ulitity pgm.  </s>
+<s> or onboard bios setting. the only other option is to upgrade the system ram even more if capable to increase overall system memory.  </s>
+<s> there are very few notebooks where the video ram itself is a separte item any more.  </s>
+<s> check your model's specs at hp support website, they provide that, surf there.  </s>
+<s> good luck -----willy  </s>
+<s> there is a setting in your video properties where you can select how much ram is allocated to video depending on the pc. you might right click the desktop, properties, settings tab, advanced.  </s>
+<s> this will get you into your video card/drivers and you should be able to change the amount of ram used.  </s>
+<s> you damn sure don't need 128 meg of ram for a laptop screen.  </s>
+<s> a lot of notebooks have shared video memory, i dont think theres much that anyone can do about it...:(  </s>

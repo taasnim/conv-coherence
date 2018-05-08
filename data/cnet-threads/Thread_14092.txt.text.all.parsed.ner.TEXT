@@ -1,0 +1,20 @@
+<s> i have xp and ubuntu in one machine.  </s>
+<s> i bought the machine a year and a half ago and it came with xp, then i installed ubuntu 10.10 and have been using that -- getting familiar with it -- for the past two weeks.  </s>
+<s> i have the computer and all peripherals plugged into a power bar with a switch.  </s>
+<s> at night, after shutting down the computer, i usually turn off this switch, cutting all power to everything.  </s>
+<s> this has been my routine and i've had no problem with it for over a year.  </s>
+<s> now, since i started using ubuntu, pushing the start button does not start the computer on the first try if i follow my old routine.  </s>
+<s> i turn on the main power (power bar switch), and push the power on button, but nothing happens.  </s>
+<s> only after turning the main off again then on again, will the computer start normally.  </s>
+<s> or, if i turn off the power at the back of the computer instead, then on again, it will start.  </s>
+<s> or, if i shut down the computer normally and do not switch off the power bar, the computer starts by pushing the button as it should.  </s>
+<s> it's as if the computer doesn't like being disconnected from the main power source.  </s>
+<s> (this surely sounds ridiculous -- i feel ridiculous writing this...) so i must ask: is there any reason for this behavior?  </s>
+<s> do computers with dual boot or ubuntu have some power setting or something to explain this? or does this mean that some doom awaits on the horizon?  </s>
+<s> any light would be most appreciated.  </s>
+<s> check in advanced power setting to see if you have one for what to do when power is lost.  </s>
+<s> if so, see if there is an option that says something like &quot;return to previous state&quot; rather than remain off.  </s>
+<s> i remember having to do this with some asus builds if i wanted to turn the pc back on by just turning the main switch on rather than just bring up the ps control voltage.  </s>
+<s> i looked around and can't find that option.  </s>
+<s> it works fine as long as i don't unplug it, so that's what i'll have to do for now.  </s>
+<s> thanks again.  </s>

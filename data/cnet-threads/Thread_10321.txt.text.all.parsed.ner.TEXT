@@ -1,0 +1,25 @@
+<s> greetings.  </s>
+<s> i wonder if someone could please help me.  </s>
+<s> upon turning on my computer everything comes on including the initial text on the screen, however just before it starts to do the ram check (counting through the ram) the computer hangs, if i hit the restart button system restarts and go's through the ram counting process without any other problems.  </s>
+<s> i am not experiencing any other problems with the pc what so ever.  </s>
+<s> i am running an msi motherboard with intel chipset, 2 ghz intel celeron with 512mb ddr transcend memory module.  </s>
+<s> any help with understanding the nature of this would be much appreciated.  </s>
+<s> many thanks dave peter.  </s>
+<s> if it hangs, let it be.  </s>
+<s> give it at least 10-15min.  </s>
+<s> more and see what happens.  </s>
+<s> -or- walk away and enjoy a drink of your choice.  </s>
+<s> come back and check results.,  </s>
+<s> maybe it will finally error out and report what happens, but rebooting beforehand will only create yet another problem sooner or later.  </s>
+<s> if you're running xp, check the log report for errors/status during that time.  </s>
+<s> here's link for such info: it maybe time to replace the power supply(psu), hangs at such times and a reboot pretty much suggest you have a failing psu, no &quot;upphh&quot; during initial boot-up.  </s>
+<s> tada -----willy  </s>
+<s> thank you willie.  </s>
+<s> this is helpful, i would never have thought of the power supply.  </s>
+<s> the freezing happens long before it even thinks about getting to windows.  </s>
+<s> i have also tried leaving it and see what happens, one time it remained at that place for 3/4 of an hour with no further developments.  </s>
+<s> dave  </s>
+<s> open the system case and also check for any &quot;bad caps&quot; on mtrbd., google for pics of same. the bad caps can also cause this problem, especially if you have an older system.  </s>
+<s> even if not, bad caps if found on the mtrbd.  </s>
+<s> tend to create power gremlins of a similar nature as a bad psu.  </s>
+<s> tada -----willy  </s>

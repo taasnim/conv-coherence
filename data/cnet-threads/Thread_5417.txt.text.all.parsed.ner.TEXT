@@ -1,0 +1,34 @@
+<s> i have a desktop that recently died (motherboard) and since i mostly use my notebook anyway i thought i would just convert my desktop's internal 80gb hd to an external drive that i could connect to my laptop usb using an enclosure.  </s>
+<s> i just want to make sure that i can take the hd with its os (xp) and all the files/programs and plug it in and read the data on it with no problems.  </s>
+<s> i have only seen/read about people using blank, naive drives for this.  </s>
+<s> i have some data/music/files on the hd and still really need them, so i don't want to reformat/erase it until i can at least transfer them to the notebook hd. if i do need to wipe the drive, any comments on the best,easiest and cheapest way to retrieve my files first would be welcome.  </s>
+<s> thanks  </s>
+<s> this may or may not work.  </s>
+<s> much depends on the partition type of the xp drive.  </s>
+<s> if your laptop has xp, this is not an issue. the external enclosure will have its own controller.  </s>
+<s> it may or may not be able to access the information on the drive. the ones i have work, however.  </s>
+<s> if you have access to another xp machine that you can temporarily connect the drive to and transfer your wanted files, this is another avenue you can pursue.  </s>
+<s> the external is a crapshoot.  </s>
+<s> i got the external enclosure, plugged in my old desktop hd (was running xp), and connected it by usb to my notebook (also running xp).  </s>
+<s> no problem detecting and reading the drive ... except: i could not get into my folder, i did not have access.  </s>
+<s> the program files, shared files, all other folders were accessible, just the &quot;my documents.&quot;  </s>
+<s> i guess my login under the xp os from my old drive is still necessary, but i can't get any prompt to get in.  </s>
+<s> how can i access this folder when i am using this hd as a secondary drive?  </s>
+<s> i will guess the os on the laptop has claimed ownership for the system.  </s>
+<s> you can take it back through the security settings.  </s>
+<s> how you do this depends on whether the laptop is xp pro or home.  </s>
+<s> if pro, just do a right click on the desired folder and go to properties/security. check to see if your logon name is listed.  </s>
+<s> i am guessing you are not there.  </s>
+<s> you will need to &quot;add&quot; yourself.  </s>
+<s> from &quot;advanced&quot; click &quot;find now&quot;.  </s>
+<s> find your name and add it.  </s>
+<s> return to the listing, click on your name and check the box for full control.  </s>
+<s> from this window press &quot;advanced&quot; and then the &quot;owner&quot; tab.  </s>
+<s> click your name to take ownership and check the box to apply these settings to subfolders so they can &quot;inherit&quot; these permissions.  </s>
+<s> now, if your laptop is xp home, you can do similar but you must boot to safe mode.  </s>
+<s> steve, thanks for the tips.  </s>
+<s> everything worked exactly as you said.  </s>
+<s> i do have xp home, so i really would have had a lot of trouble figuring it out if not for your help.  </s>
+<s> by the way, why do you have to be in safe mode for xp home in order to grab ownership?  </s>
+<s> and in safe mode why at login do i only see &quot;administrator&quot; and myself, but not another user (my wife) with no admin priveleges, while in regular mode i do not see &quot;admin&quot;?  </s>
+<s> my problems are all solved these questions are just for my own edification.... thanks again  </s>

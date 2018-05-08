@@ -1,0 +1,37 @@
+<s> bought a new deskstar from hitachi 500gb sata and when i go and try partition and format it doesn't work i get this error --------------------------- logical disk manager --------------------------- the path cannot be used for creating a drive path likely because the folder does not exist or is already a drive path to some other volume.  </s>
+<s> --------------------------- ok --------------------------- --------------------------- logical disk manager --------------------------- the format did not complete successfully.  </s>
+<s> --------------------------- ok --------------------------- windows xp x64 4gb ram 1tb space  </s>
+<s> you did try the workaround from ?  </s>
+<s> i went through the whole alphabet and when i tried to reformat i get this --------------------------- disk management --------------------------- the operation was canceled due to an internal error.  </s>
+<s> --------------------------- ok --------------------------- able to make it up to a logical disk then nothing  </s>
+<s> you stop remote storage server?  </s>
+<s> did you try setting it to disabled, reboot and try again?  </s>
+<s> idk if i am suppose to have that service because i don't but i did look in my system event logs and it said virtual disk service may fix it so i restarted nothing happend this is leading me to think its my system more and more  </s>
+<s> but if you are not checking, looking then what am i to do?  </s>
+<s> if you don't find the service, tell us so we can look for other possibles.  </s>
+<s> well i thought i made myself clear with that explanation but i dont have that service and i think thats because i'm not using windows server 2003  </s>
+<s> i do not have the time to find the same article rewritten for vista, xp and so on.  </s>
+<s> if you must have that then i have to say i'm sorry and try some other troubleshooting tactic.  </s>
+<s> let's try this.  </s>
+<s> share the services that are currently running.  </s>
+<s> here's how.  </s>
+<s> run cmd and use the net start command then post the results here.  </s>
+<s> c:&gt;net start these windows services are started: automatic updates avg8 e-mail scanner avg8 watchdog com+ event system computer browser dhcp client dns client event log hid input service ipod service ipsec policy agent kodak camera connection software logical disk manager network connections nvidia display driver service plug and play print spooler protected storage remote access connection manager remote procedure call (rpc) security accounts manager server system event notification task scheduler tcp/ip netbios helper service telephony user profile hive cleanup windows management instrumentation driver extensions windows time workstation the command completed successfully.  </s>
+<s> xp64 and server 2003 share far too many commonalities.  </s>
+<s> please be sure to look to server 2003 support articles when researching this one.  </s>
+<s> microsoft windows [version 5.2.3790] (c) copyright 1985-2003 microsoft corp.  </s>
+<s> c:&gt;net start these windows services are started: acronis scheduler2 service application experience lookup service application layer gateway service automatic updates bonjour service com+ event system cryptographic services dcom server process launcher dhcp client distributed link tracking client dns client error reporting service event log flexnet licensing service help and support hid input service ipsec services logical disk manager messenger network connections network location awareness (nla) nmindexingservice nod32 kernel service ntune service nvidia display driver service plug and play pnkbstra print spooler protected storage remote access connection manager remote procedure call (rpc) remote registry secondary logon security accounts manager security center server shell hardware detection ssdp discovery service system event notification system restore service tabletservicepen task scheduler tcp/ip netbios helper telephony terminal services themes universal plug and play device host vmware authorization service vmware dhcp service vmware nat service webclient windows audio windows firewall/internet connection sharing (ics) windows image acquisition (wia) windows management instrumentation windows time wireless configuration workstation the command completed successfully.  </s>
+<s> c:&gt;  </s>
+<s> try this.  </s>
+<s> boot safe mode command prompt and use the diskpart command line.  </s>
+<s> if that's too rough or hard, boot safe mode and try it there.  </s>
+<s> safe mode should reduce the services that could interfere.  </s>
+<s> bob  </s>
+<s> well i would try the dispart but i do not know the commands and do not have ink in my printer to print the commands out i tried the safe mode and nothing same errors as in normal windows boot wondering if i have it format in another computer can it work once i do that in my current pc  </s>
+<s> move the drive to another machine and partition it there.  </s>
+<s> diskpart commands are documented on the web.  </s>
+<s> it's not hard to use and the only issue could be you forget to select the right drive.  </s>
+<s> with no disrespect intended i think its best to learn the os you are using even if one command at a time.  </s>
+<s> my guess is it's the software installed after the os that is at play here unless there is flighty hardware.  </s>
+<s> one member revealed the drive had been dropped after we went through all the steps.  </s>
+<s> bob  </s>

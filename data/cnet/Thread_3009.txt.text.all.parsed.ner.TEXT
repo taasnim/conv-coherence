@@ -1,0 +1,52 @@
+<s> hey everyone, i have a bit of trouble here.  </s>
+<s> i just finished moving my hardware into a new case i am having a problem getting past post.  </s>
+<s> here are the specs: motherboard: abit fatality an8 sli videocard: nvidia geforce 7800 gtx harddrive: maxtor diamondmax plus 8 40gb ata/133 2nd harddrive: seagate momentus 5400.2 120gb sata soundcard: siig soundwave 5.1 pci ram: ocz el ddr pc-3200 dual channel platinum 1gb (two sticks) cpu: amd athlon 64 x2 dual core processor 4800+ i also had two 120mm led silent case fans that were replaced by two new 120mm led silent case fans that came with the new case.  </s>
+<s> i also removed a cd drive (but kept a dvd drive) because there is not a necessity for it.  </s>
+<s> all of these parts with preexistent in a fully functional and working computer prior to moving them to a new case. the motherboard is equipped with a visual led/post code device that reads ?25? whenever i boot up my system. the manual describes post code 25 as: early pci initialization -enumerate pci bus number -assign memory & i/o resource -search for a valid vga device & vga bios, and put it into c000:0 sometimes it will code ?9.0.? before 25. the manual describe post code 9.0.  </s>
+<s> as: complete uguru initial process award bios take over booting job i?m not using uguru so this baffles me.  </s>
+<s> i?m not a hardware guy and i?m at the extent of my knowledge.  </s>
+<s> obviously it?s a hardware issue however i?m fairly confident none of my hardware is damaged there for i must have connected something wrong, or made some type of mistake trying to boot it up after dismantling and rebuilding in a new case.  </s>
+<s> any advice is welcome.  </s>
+<s> thank you for your time.  </s>
+<s> progress update: -cleared cmos, no improvement still coding 25 - tried a minimal boot using just the following components: motherboard, cpu, power supply, single stick of ram, videocard and keyboard.  </s>
+<s> boot successful.  </s>
+<s> -tried to boot using all components except hard drives boot successful.  </s>
+<s> -tried to boot using all components except main hard drive.  </s>
+<s> boot successful.  </s>
+<s> -tried to boot using all components.  </s>
+<s> boot failed, coding 25.  </s>
+<s> probable cause: possible lose ide cable.  </s>
+<s> solution: checking main board and hard drive.  </s>
+<s> probable cause: bad ide cable.  </s>
+<s> solution: swapping ide cables between the hard drive and the dvd drive.  </s>
+<s> probable cause: bad hard drive.  </s>
+<s> solution: none available.  </s>
+<s> do you have any other thoughts?  </s>
+<s> any advice welcome.  </s>
+<s> thanks for your time.  </s>
+<s> while the old &quot;extra standoff short on the back side of the motherboard&quot; is now legendary, did you try setting up the machine on card board without a case for a test?  </s>
+<s> bob  </s>
+<s> progress update: switched ide cables between hard drive and cd drive.  </s>
+<s> insured ide cable was firmly and securely plugged into component and main board.  </s>
+<s> -tried to boot using all components except main hard drive.  </s>
+<s> boot successful.  </s>
+<s> ide cable not bad.  </s>
+<s> -tried to boot using all components.  </s>
+<s> boot successful.  </s>
+<s> initial issue was probably related to the ide cable not being fully plugged in.  </s>
+<s> disk read error.  </s>
+<s> rebooting system gave me post code 9.0.  </s>
+<s> - cleared cmos and tried to boot using all components.  </s>
+<s> boot successful.  </s>
+<s> disk read error.  </s>
+<s> unfortunately i only have a usb keyboard that will not allow me to ctrl+alt+del after the disk read error.  </s>
+<s> i?ve solved the initial problem however, it seems as though i?ve come into another more major problem.  </s>
+<s> bad hard drive, or just failed to read?  </s>
+<s> i don?t know how to tell the difference.  </s>
+<s> bob ?  </s>
+<s> i didn?t set it up on cardboard and test it prior to putting it into its new case.  </s>
+<s> at this point in the trouble shooting should i continue to worry about my motherboard shorting out or have i eliminated that possibility?  </s>
+<s> i haven?t seen any warning signs of a short.  </s>
+<s> well, i solved the problem, however bootmgr is missing.  </s>
+<s> i guess i should've expected something else to go wrong.  </s>
+<s> now just to find that dang windows cd...  </s>

@@ -1,0 +1,64 @@
+<s> hi on evry reboot windows seems to forget my setting for the mouse wheeel scroll lines.  </s>
+<s> i have also used tweak ui to no avail.  </s>
+<s> i then went to the registry and changed in 4 instances the setting for it.  </s>
+<s> user key: [hkey_current_usercontrol paneldesktop] value name: wheelscrolllines i set the lines to 4 and yet on every reboot it goes back to 1. the registry keys are set to 4 and remain at 4 after reboot though.  </s>
+<s> this makes me conclude that [a] these locations of registry keys are useless that there must be another setting somewhere whic i don't know about.  </s>
+<s> [c] something is over-riding all these settings (options and software).  </s>
+<s> i also set the registry key from 'automatic) to &quot;enable wheel detection&quot; on.  </s>
+<s> system key: [hkey_local_machinesystemcurrentcontrolsetservicesi8042prtparameters] value name: enablewheeldetection os: windows xp sp2 i've posted this problem just about everywhere for the past year or so and got no response anywhere.  </s>
+<s> i am hoping you will not be the same.  </s>
+<s> i also placed a search on google and all i find is my question in some of the forums i posted on.  </s>
+<s> thank you  </s>
+<s> restrict the ownership and permissions of that key with regedt32.  </s>
+<s> bob  </s>
+<s> i had the same problem: i'd set the registry key hkcucontrol paneldesktopwheelscrolllines to 1 and it would change to 3 on reboot.  </s>
+<s> well, something would change it to 3 on reboot. the challenge is to find out what is doing this. the solution: load a registry monitor that will do boot-time monitoring, like sysinternals regmon ( ), and check the log to see what is changing the registry key in question.  </s>
+<s> be sure to read about regmon's boot-time process here: as the boot-time log can be large.  </s>
+<s> mine was 75mb.  </s>
+<s> my culprit was a pointing device driver for my laptop that was configured in control panel to be disabled, but was still applying some of it's settings.  </s>
+<s> good luck.  </s>
+<s> after you set regmon to monitor during a reboot, reboot the system, bring up regmon again and click the stop collecting option.  </s>
+<s> then open it's log file and search for the registry key in question.  </s>
+<s> it may appear multiple times.  </s>
+<s> it should show what program changed the key.  </s>
+<s> then look for that program.  </s>
+<s> it's probably a pointer driver for the laptop.  </s>
+<s> thanks to all for your advice.  </s>
+<s> i had not set this to let me know when an answer would be posted hence me taking so long to reply.  </s>
+<s> your suggestions seem to be exact, i will try it as soon as i can.  </s>
+<s> i tried regmon and it didn't take me long to figure out that you guys must know what your doing and in order to be able to use it one must be like you.  </s>
+<s> i, on the other hand, unfortunately am not.  </s>
+<s> one must know what he is looking for.  </s>
+<s> when i set it to log my boot it created a file too huge for even microsft word to open--at 227,000k.  </s>
+<s> i stopped some processes and did it again and it now created a much smaller file but nevertheless still too big at 44,000k or over 27,000 pages in word.  </s>
+<s> once in word i placed a seach for mouse or wheel etc and had hundreds of listings.  </s>
+<s> this tells me that it would take me not hours but days to read all the listings.  </s>
+<s> and even if i were to do so i doubt i cold solve my problem.  </s>
+<s> certainly there must be a way to make this log smaller.  </s>
+<s> how?  </s>
+<s> and what file am i suposed to be looking for?  </s>
+<s> since there are hundreds if not thousands of mentions of the mouse.  </s>
+<s> thank you  </s>
+<s> ok, so you've got this huge log file, now what?  </s>
+<s> you need something specific to search for in the file.  </s>
+<s> for me it was a key that kept changing on it's own (apparently).  </s>
+<s> hkey_current_usercontrol paneldesktopwheelscrolllines was my problem.  </s>
+<s> i'd set it in regedit, then reboot and it wouldn't be the value that i had just set it to before the reboot.  </s>
+<s> if this is your problem, the search that log file for hkey_current_usercontrol paneldesktopwheelscrolllines.  </s>
+<s> you might even try just wheelscrolllines, as there shouldn't be too many registry keys with that name.  </s>
+<s> best of luck.  </s>
+<s> dog.  </s>
+<s> i thank you for the link.  </s>
+<s> i seemed perfect but somehow it did not work.  </s>
+<s> i did what ray williams in suggested but no go.  </s>
+<s> he wrote: i found a fix for this problem.  </s>
+<s> like many laptops, mine is equiped with a synaptic's touchpad.  </s>
+<s> the touchpad driver override the wheel settings for all mouse devices.  </s>
+<s> why?  </s>
+<s> i have no idea.  </s>
+<s> there isn't a wheel anywhere on my laptop.  </s>
+<s> if you are experiencing this problem add the following dword key to you registry: hklm/software/synaptics/syntpenh/allowscrollsettings dword value of 1 after reboot, your mouse wheel settings will no longer be reset. is it possible that the value of '1' which he suggests means one scroll line and therefore i should be setting mine to the number of scroll lines i want?  </s>
+<s> in my case 5? m  </s>
+<s> i had the same problem - ibm/lenovo thinkpad laptop t60 with touch pad and synaptics driver that came bundled in winxp sp2 installation. the suggestion of ray williams didn't help, but hey - it seems it's a problem of the synaptic driver, so maybe the newer version of the driver fixes that.  </s>
+<s> i don't like the &quot;ultranav&quot; extra features that have to be installed with the driver from ibm/lenovo website, so i have updated my synaptics driver directly from the synaptics homepage ( ) and hurray - problem solved. the driver i'm currently using causes no scrolling trouble. the version of this driver is v8.3.4 19may06.  </s>
+<s> hope this helps someone who's still looking for solution.  </s>

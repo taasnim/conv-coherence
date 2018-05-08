@@ -1,0 +1,80 @@
+<s> i have a hp compaq presario r3000 laptop computer, running windows xp. linksys wireless-g broadband router w/speed booster.  </s>
+<s> model: wrt54gs linkseys usb plug in also.  </s>
+<s> problem: this setup worked well for a long time, but now i'm having a problem that happens often.  </s>
+<s> it will say the signal strength is excellent, but the speed will go all the way down to 1.0 mbps. the most is 54. right now it is at 54, but a few minutes ago it was only 18. i checked with my service provider.  </s>
+<s> they did a test and found that things were alright at their end.  </s>
+<s> they suggested it must be the router.  </s>
+<s> does anyone know what could be causing this problem to come and go like this? i did have a phone on my desk near the computer, but i took it out and still have the same problem.  </s>
+<s> also, i am only a few feet away from the router with no obstructions between. the only way i get this to go back to the faster speed is to unplug my router for a few minutes and then plug it back in again.  </s>
+<s> and, one more thing, most of the time when i start up my computer in the morning, it will not go online at all.  </s>
+<s> i usually have to reboot my computer to get it to go online.  </s>
+<s> kind of a pain.  </s>
+<s> thanks.  </s>
+<s> any ideas will be appreciated.  </s>
+<s> both have 802.11b cards inside.  </s>
+<s> but these are very old machines so we learned to disable the onboard cards and use 802.11g pc-cards for these machines.  </s>
+<s> there is one other thing and it's very simple.  </s>
+<s> if the wifi is secured poorly (wep, mac filters or less) then simple kid friendly software can hijack and interfere with the connections.  </s>
+<s> we cover this in the cnet networking forum so i won't write more about that.  </s>
+<s> bob  </s>
+<s> hi bob, thanks for your reply.  </s>
+<s> my computer doesn't have a wifi card inside.  </s>
+<s> i'm using a usb linksys card.  </s>
+<s> this 802.11g.  </s>
+<s> i don't know too much about this, but i checked my security and it says wep(64bit). i don't know what that means, but i'm sure you do. is it good or bad?  </s>
+<s> thanks.  </s>
+<s> there are kid friendly softwares to smack down, hijack and worse wep or less protected connections.  </s>
+<s> this forum has a top post.  </s>
+<s> change to wpa and see if the situation improves.  </s>
+<s> bob  </s>
+<s> well, i read the top post, and then i went in and changed to wpa-personal.  </s>
+<s> it took me a bit to do it correctly, but now i'm up and running again with wpa.  </s>
+<s> so, now i will try this for a while and see if it works better.  </s>
+<s> right now the speed is up to 54. thanks so much.  </s>
+<s> i would be lost without you.  </s>
+<s> remove a common cause that leads to complaints like this.  </s>
+<s> many want to test that it is that which is a good question but the answer is to change and see if that helps.  </s>
+<s> then we have folk that go beyond the changes we note in the top forum and end up with trouble.  </s>
+<s> let's see how it fairs.  </s>
+<s> bob  </s>
+<s> i changed it like you suggested and it seemed to work better.  </s>
+<s> now, i am being disconnected from the wi-fi every so often.  </s>
+<s> also, when i first start my computer i have a very hard time getting a connection.  </s>
+<s> it used to connect automatically when i started my computer.  </s>
+<s> now,it won't all the time.  </s>
+<s> sometimes it will if i restart the computer.  </s>
+<s> right now i'm not on wi-fi, because it cut out on me before today when i was doing some office work and i lost my work, so i hard wired it back up to my service provider.  </s>
+<s> i click on the linksys icon and sometimes the software to connect comes up and sometimes it won't.  </s>
+<s> other times it comes up and i try to connect, but it won't.  </s>
+<s> there doesn't seem to be a pattern to what it is doing.  </s>
+<s> it is strange though, my computer is the main one and i'm about 2 feet from the router and i can't get online.  </s>
+<s> my husband's computer is in the other end of the house and he can be online while i can't.  </s>
+<s> so...it seems it has something to do with my computer.  </s>
+<s> last night the spped went down to 1 again.  </s>
+<s> just don't get it. the other bad thing that is happening is that my computer shuts off by itself every once in awhile.  </s>
+<s> i'm thinking the fan might be dirty, but i do not know how to get inside this laptop, and clean it.  </s>
+<s> any advice on any of this?  </s>
+<s> hp compaq presario r3000 linkeys wireless-g linkseys adaptor thanks.  </s>
+<s> the wrt54gs can be very picky on settings.  </s>
+<s> for example some will follow the forum suggestions &quot;almost.&quot; that is they'll do the wpa, but add mac filters.  </s>
+<s> the forum suggestions are hard earned knowledge.  </s>
+<s> tell what you used.  </s>
+<s> but if the router's wifi has troubles (age, failures, interfering signals) then wired is best.  </s>
+<s> what some don't know is wifi is never a sure thing.  </s>
+<s> in short it's in the open air space and can be interfered with by many things. the industry can't be honest here.  </s>
+<s> they want to sell it but if you were honest then more folk would stay wired.  </s>
+<s> bob  </s>
+<s> site information: ssid bonnie wireless mode: infrastructure channel: 11 security: wpa-personal mac address: 00-22-6b-4b-8d-a2 profile information: transfer rate: auto channel: auto security: wpa-personal authentication: tkip it sounds like wi-fi is tempermental.  </s>
+<s> i like wired, but then my hubby can't get online with his computer too, and we can't take them outside on the porch etc. thanks.  </s>
+<s> is what that router is set at the factory or defaults.  </s>
+<s> since most don't change that, it can be a be crowded.  </s>
+<s> try channel 3 or 6 to move away from other systems.  </s>
+<s> bob  </s>
+<s> maybe that will help.  </s>
+<s> i notice when i do a site survey with my linksys software it usually shows me on 11, two or three people on 6, and one on 1. so, i can change it to 3 and see how that works.  </s>
+<s> thanks.  </s>
+<s> newer routers have a new feature to &quot;find the least crowded channel&quot; when they boot.  </s>
+<s> this helps keep the interference down.  </s>
+<s> bob  </s>
+<s> i'm glad they came up with that.  </s>
+<s> thanks for letting me know.  </s>

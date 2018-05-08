@@ -1,0 +1,33 @@
+<s> a year ago, i tried upgrading ram in my son's system, which has an epox 8kda3j motherboard and an amd64 processor, from .5gb to 1gb.  </s>
+<s> i called kingston memory, and they gave me the number of a product they said would work.  </s>
+<s> however, when i installed it, the memory speed dropped from 200mhz to 166mhz.  </s>
+<s> i called kingston again, and this time they said this motherboard can only handle 3 ranks of memory (aka ''sides'' or ''banks'') without problems, and they don't make anything larger than 256k in single rank.  </s>
+<s> i could not find any other manufacturers who did, although finding out is pretty hard since most manufacturers don't list this information in easy-to-find places.  </s>
+<s> i contacted epox, but they were not very helpful.  </s>
+<s> i decided to wait and see if more single-rank memory came on the market.  </s>
+<s> finally, this past june, i decided to contact epox again and ask what memory they recommend to bring this board up to its advertised capacity of 3gb.  </s>
+<s> after a month of runaround, (e.g., ''check with kingston and crucial'' -- kingston's largest is still 256k, and crucial said they don't make any!), i sent epox a somewhat different reply.  </s>
+<s> apparently they designed the motherboard around a memory format that does not exist.  </s>
+<s> i suggested that ethically they have an obligation to make sure their motherboards realistically work as advertised.  </s>
+<s> this could be by posting the names and model numbers of 1gb single-rank memory modules (the maximum the board's user manual says it can handle), by upgrading the bios and chipset, by swapping for a board that does not require single-rank memory, by giving instructions for overclocking, or anything else that makes the board work as advertised with memory that's actually on the market.  </s>
+<s> this was over two weeks ago, and so far epox has ignored my reply.  </s>
+<s> my son will be starting college next month.  </s>
+<s> before he leaves i would really like to be confident his computer is working properly.  </s>
+<s> can anyone advise me what i should do?  </s>
+<s> if i go to crucial and plug the above into their mem finder i seem to come up with more than a few choices. is their something unique about the mobo you have...like maybe a specific version number?  </s>
+<s> the kingston site has 1gb sticsk that are compatible with your motherboard.  </s>
+<s> 1gb should be sufficient for your son's needs for a year or so.  </s>
+<s> also, its not unusual for mobos to drop ddr-400 to ddr-333 speeds when completely filled.  </s>
+<s> (usually its when 4 slots are filled, but since you only have 3 slots...) as for your mobo being designed for memory that doesn't exist... that's not unusual either. the ddr-400 spec was really late -- it was finalized after ddr-400 sticks were already on the market.  </s>
+<s> also mobo manufacturers often try to anticipate future tech but the tech world changes so fast some of those predictions don't pan out.  </s>
+<s> thanks for the tips.  </s>
+<s> both kingston and crucial list their memory as being compatible, but (unless things have changed in the past week or two) both are double rank.  </s>
+<s> this means they will lower the speed.  </s>
+<s> epox won't even say this is to be expected but acceptable.  </s>
+<s> epox only says that the motherboard needs single-rank memory (three ranks max) to work properly with more than one stick.  </s>
+<s> if i understand ramarc's comment, he's implying that slowing down the memory is normal and i should not worry about it. the system will just work at less than optimal performance, but since ''optimal'' is defined in relation to non-existant memory, this slower preformance is the real, rather than theoretical, optimum. is this correct?  </s>
+<s> should i worry about using 4 ranks if i'm willing to accept slower speeds? is there any way to get a board such as this to perform at speeds comparable to its original design but using 4 ranks?  </s>
+<s> live chat get your questions about crucial memory answered instantly by one of our expert online agents.  </s>
+<s> customer support representatives are also available by phone at 800-336-8915 (u.s. and canada only).  </s>
+<s> whatever you buy, test it thoroughly with memtest+86 or your favorite ram test program as soon as you get it.  </s>
+<s> vapcmd ps...probably ought to make sure the mb bios is up to date too ... that often reduces ram incompatability issues.  </s>

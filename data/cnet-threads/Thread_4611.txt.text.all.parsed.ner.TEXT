@@ -1,0 +1,29 @@
+<s> hi, i just set up a 2 computer home network with ics.  </s>
+<s> i'm using smc ethernet adapters and a cat 5e crossover cable, and i have a dialup connection to the internet.  </s>
+<s> my host computer has windows me and the client has windows 98se.  </s>
+<s> everything works fine - i can share files and the printer between the computers, and they both can access the internet.  </s>
+<s> my problem is that now my host computer always wants to connect to the internet.  </s>
+<s> when i disconnect, it automatically reconnects, and sometimes it dials up by itself when i'm not even around!  </s>
+<s> this is no good, because i have limited access, and it's using up my time on who knows what.  </s>
+<s> so, i went into dun settings and changed it from &quot;dial whenever a network connection is not present&quot; to &quot;always dial my default connection&quot;, and i also removed my password so now i have to type it in, but none of these things has helped.  </s>
+<s> it's like it has a mind of it's own now, and it's obsessed with being on the internet!  </s>
+<s> daily virus and spyware scans are all clean, so i don't think that's a problem, but i don't know what else to do to make it behave.  </s>
+<s> how can i get control over my computer again?  </s>
+<s> thanks for any help.  </s>
+<s> any dns query, open web page on any machine, etc... will trigger a dialup.  </s>
+<s> a lot of software autoupdates.  </s>
+<s> sadly with the move to broadband very few new softwares are &quot;quiet&quot; today.  </s>
+<s> keep looking at what's running on each machine.  </s>
+<s> power them off to find the offender.  </s>
+<s> bob  </s>
+<s> but at least i now know that it's a common problem with ics and not something i did wrong.  </s>
+<s> thanks, i'll try your suggestion and see if i can't find the offender.  </s>
+<s> i do have another question about my network, but i'll start a new topic for it.  </s>
+<s> thanks again!  </s>
+<s> a long time ago, there is a virus that do that thing... (you do update your anti virus, don't you?) today spyware or adware might do that (your anti virus, won't detect spyware/adware) try also using online scan... trendmicro or panda etc.  </s>
+<s> because i thought that might make it not connect even when i wanted it to.  </s>
+<s> my anti-virus and anti-spyware applications are up to date, and i scan daily so i don't think that's the problem.  </s>
+<s> but i guess an online scan couldn't hurt.  </s>
+<s> thanks for your suggestions.  </s>
+<s> ethereal is free and it might give you insight into the traffic that is triggering the demand for internet connectivity.  </s>
+<s> skrall  </s>

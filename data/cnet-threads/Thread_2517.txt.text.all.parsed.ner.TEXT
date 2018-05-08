@@ -1,0 +1,12 @@
+<s> i am having trouble setting up my network...please help.  </s>
+<s> here is what i have: dsl modem connected to router (belkin n1 wireless networking router with mimo f5d8231-4) the router is connected to a switch (linksys ef4116 etherfast 4116 16-port 10/100 ethernet switch) the switch is connect to ethernet ports throughout the house computer: 4 desktops -2 running windows xp home -2 running windows xp media center 1 laptop -runs windows vista 1 xbox (not important right now) -modded, runs xbmc all the computers can connect to the internet however after running network setup wizard on all of them, i keep get permission denied error.  </s>
+<s> please help.  </s>
+<s> your steps to create accounts for each user on each machine and what you did to allow networking through your software firewalls.  </s>
+<s> bob  </s>
+<s> in the network wizard i clicked: -(next) -(next) -other, (next) -this computer is connected to the internet through a network hub.  </s>
+<s> other computers on the network are also connect through the network hub.  </s>
+<s> (next) -description: (person's name, location) computer name: (person's nickname) (next) -work group name: our home (next) -printer sharing on (next),(yes) -(next) -just finish wizard, i dont need to run wizard on other computers repeated on all computer restarted all computers  </s>
+<s> sadly the wizard is a dunce.  </s>
+<s> it doesn't know to create accounts or how to set the firewall.  </s>
+<s> as such, it's back to the many web pages on how to create accounts, set the firewalls and then create the shares.  </s>
+<s> bob  </s>

@@ -1,0 +1,47 @@
+<s> on a dell vostro 200 desktop computer that is less than two years old, the o/s [windows xp home] boots up to the sign on screen but at this time both the mouse and keyboard are inoperative.  </s>
+<s> both the mouse and keyboard are usb devices.  </s>
+<s> this model pc does not have ps2 connections.  </s>
+<s> neither mouse nor keyboard will work when booting up in safe mode either.  </s>
+<s> suspect corruption to critical file due to infestation of virus.  </s>
+<s> i am unable to determine specific files needing scrutiny.  </s>
+<s> i am able to boot the system up in the recovery console mode.  </s>
+<s> i also was able to inert a different hard drive and install the same o/s successfully.  </s>
+<s> i then returned the defective o/s drive to the pc and was able to scan it for viruses.  </s>
+<s> found multiple viruses and successfully removed.  </s>
+<s> removing the new drive and returning the original hard drive to the pc, i still get freezing at sign on screen.  </s>
+<s> the desire is to enable the original hard drive capable of booting up due to applications on that specific drive not available on second drive.  </s>
+<s> try connecting your usb devices: mouse and keyboard at the back of your computer (the usb port built in with the motherboard) not the usb ports that are extended and housed in you casing.  </s>
+<s> if the usb port on the motherboard works, then that means the connection of the extension usb ports that are located on your casing may have been loose or disconnected.  </s>
+<s> if it still doesn't work then it's either your mouse and keyboard is deffective or your motherboard needs replacement.  </s>
+<s> to be able to take care of your pc components, you must understand them well.  </s>
+<s> here is a link that you may find helpful:  </s>
+<s> thanks for responding to my post.  </s>
+<s> perhaps i did not make myself clear.  </s>
+<s> i replaced the original hard drive with an identical one [same manufacturer, same size, same model] and i installed the same o/s.  </s>
+<s> everything worked.  </s>
+<s> when i removed the new drive and replaced the old drive, the problem shows up.  </s>
+<s> there is nothing wrong with the motherboard, usb ports, mouse or keyboard. the problem exists within the o/s for the original hard drive.  </s>
+<s> i do not want to reinstall the o/s to the original drive because i will then loose critical files.  </s>
+<s> i need to be able to find the problem with the original drive's o/s and repair withiut having to reformat it.  </s>
+<s> that's called an advanced windows repair.  </s>
+<s> if we are lucky to catch it soon enough we can use system restore.  </s>
+<s> if we let it go we know we can try the usuals like &quot;xp repair install&quot; as well as installing the drivers for the machine in the correct order.  </s>
+<s> i find many still can't write down the right order.  </s>
+<s> since i clone the os to another drive i can test this on the copy without endangering the original.  </s>
+<s> bob ps. for a price, dell or microsoft can provide more support about this than you may find on forums.  </s>
+<s> you should run the virus scanner again in safe mode with networking option.  </s>
+<s> that way, you're able to access cd/usb drives with pgms., of course update the scanner with the latest.  </s>
+<s> next, if you haven't already, reboot after that.  </s>
+<s> if it works, great if not, do you still have &quot;restore feature-on?  </s>
+<s> in many cases, if you tried the restore feature to working date and any malware comes back, disable restore feature(will delete restore points) to remove the &quot;rehatching area of malware&quot;, very common.  </s>
+<s> repeat the scan process and then reboot.  </s>
+<s> if you can enter the os, use the sfc command from run, otherwise you're stuck in trying a os repair from the os recovery(install) discs.  </s>
+<s> you may had multiple problems and get stuck resolving more than meets the eye, so it gets time involved.  </s>
+<s> if you like, remove old hd and try recovering critical data on another system if malware free.  </s>
+<s> if successful, then reformat old hd for re-use.  </s>
+<s> imho, you have no easy answer.  </s>
+<s> tada -----willy  </s>
+<s> go to dell,and download the manual.  </s>
+<s> look on pg 180 on how to remove the password.  </s>
+<s> that might help, as you said it was stopping on &quot;the sign on screen&quot;.  </s>
+<s> it's a simple jumper, but you need to follow the procedure.  </s>

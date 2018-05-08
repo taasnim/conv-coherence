@@ -1,0 +1,8 @@
+(TOP (INTJ (UH hello) (RB again) (. .)) )
+(TOP (S (S (NP (PRP i)) (VP (AUX have) (NP (DT the) (JJ 3c905c-tx-m) (NN lan) (NN card)))) (CC but) (S (NP (PRP i)) (VP (MD can) (RB n't) (VP (VB find) (S (NP (NNS windows)) (VP (NN vista) (NP (JJ 32/64bit) (NNS drivers)) (PP (IN over) (NP (DT the) (NN internet)))))))) (. .)) )
+(TOP (SBARQ (SBAR (IN if) (S (NP (NN anybody)) (VP (AUX has) (NP (DT this) (NN card))))) (SQ (MD could) (NP (PRP you)) (VP (VB please) (VP (VB tell) (NP (PRP me)) (SBAR (WHADVP (WRB where)) (S (MD can) (NP (PRP i)) (VP (NN download) (NP (NNS drivers)) (PP (IN for) (NP (NN vista))))))))) (. ?)) )
+(TOP (NP (NNS thanks) (. .)) )
+(TOP (SINV (AUX has) (NP (NP (DT the) (NN support) (NNS numbers)) (PP (IN in) (NP (DT the) (JJ last) (NNS chapters)))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (S (NP (DT the) (JJ 3c905c) (NN line)) (VP (VBD went) (NP (NP (NN end)) (PP (IN of) (NP (NN life)))) (ADVP (RB back) (PP (IN in) (NP (date (CD 2002)))))) (. .)) )
+(TOP (S (S (NP (PRP you)) (VP (MD might) (VP (VB find) (NP (DT some) (JJ generic) (NNS drivers))))) (, ,) (CC but) (S (NP (PRP i)) (VP (VBP recommend) (SBAR (S (NP (PRP you)) (VP (VBP get) (NP (NP (DT a) (JJ new) (NN nic)) (PP (IN from) (NP (NN dlink) (CC or) (NN netgear))) (PP (IN for) (NP (money ($ $) (CD 30)) (QP (CC or) (JJR less)))))))))) (. .)) )

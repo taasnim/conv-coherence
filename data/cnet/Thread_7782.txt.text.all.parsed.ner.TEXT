@@ -1,0 +1,36 @@
+<s> hi everyone there are two hard disks in this pc both are set as master and each is alone on an ide channel.  </s>
+<s> one is 10 gig with windows98 and one 20 gig with windows 2000 in this phoenix bios there is no option auto detect hard drive when i turn it on, the pc always boot on windows 2000,even after i swaped them.  </s>
+<s> (first 10 gig hd with w98 at primary and then it is on secondary ide) after booting we can see both hard disks in my computer if i take out the 20 gig with windows 2000 the pc can not boot there is an error message on the screen no operating system found that means the bios can not detect the 10 gig hard disk.  </s>
+<s> this motherboard is intel 82810 810 chipset do you have any idea?  </s>
+<s> thank you for your precious time and advice.  </s>
+<s> hpc  </s>
+<s> no operating system found&quot; does not mean it doesn't see the hard drive, it just means it can't find to files on the hd needed to boot into the os.  </s>
+<s> it maybe interesting to hear how you go about installing your os/s at the beginning.  </s>
+<s> do you know that win9x has to to installed as primary-master?  </s>
+<s> did the win98 drive ever work to boot to win98?  </s>
+<s> to boot into win98 you would have had to install it on the drive when it was the boot drive.  </s>
+<s> you can always sys the drive again, using a floppy, and get a bootable partition working, at that point you need to definitely have win98 correctly installed with the c: drive listed as the boot in the msdos.sys  </s>
+<s> file.  </s>
+<s> see if there is a msdos.sys on the win98 drive and what does it show as the windir?  </s>
+<s> one of the interesting things that i have found out is the behavior of a machine when you have two disks installed and both disk have bootable operating systems installed, one disk having 98 fat32 while the other disk has xp in ntfs.  </s>
+<s> you can have the ntfs xp system as the master drive and the 98 fat32 system as the slave drive, and the system will always boot to the 98 fat32 system first and establish the defined slave drive as the c: drive and the defined master drive as the next drive.  </s>
+<s> it always defers to the fat32 drive. the same applies to fat16.  </s>
+<s> there seems to be a hierarchy.  </s>
+<s> if you have w2000 and xp, both as ntfs, then it defaults to w2000.  </s>
+<s> if the xp is fat32, then it defaults to the fat32 system.  </s>
+<s> if both 98 and xp have fat 32 systems then, the boot sequence follows the bios set sequence.  </s>
+<s> even if you have the two drives jumpered as cs,(cable select) the 98 disks will always boot first.  </s>
+<s> and make the xp drive the second drive, regardless of where you have them positioned on the cable. the key is the ntfs or fat32 system.  </s>
+<s> if you have two drives on a cs chain that are both xp drives ntfs, then the middle chain is the master and the end of the chain is slave, and the machine will always boot from the middle disk, regardless if you have them defined in the bios as the end disk as master and the middle disk as slave.  </s>
+<s> (this test was done with a 120g drive as slave and a 160g drive as master).  </s>
+<s> note that the standard is for the end of the cs chain to be master and the middle is to be slave, but it seems that the cables that come with the newer drives, the 80 pin cables can double as a cs cable or a jumpered master slave.  </s>
+<s> make the cable do its master slave installation by setting the correct jumpers.  </s>
+<s> this will allow you to put the master anywhere on the chain, but if you mix fat32 and ntfs, then fat32 prevails.  </s>
+<s> this will only occur if both drives are bootable.  </s>
+<s> i do not know if this is a function of the bios (suspect), or of microsoft windows, but it causes a lot of confusion.  </s>
+<s> i have run across this in three machines that i have tested.  </s>
+<s> norm  </s>
+<s> hi everyone, thank you all for your precious time and advice.  </s>
+<s> the problem was solved when i found out how to force the bios detect the hard disk.  </s>
+<s> thank you again.  </s>
+<s> hpc  </s>

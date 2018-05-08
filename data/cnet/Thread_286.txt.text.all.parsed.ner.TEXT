@@ -1,0 +1,41 @@
+<s> i had a bad virus in my comp.  </s>
+<s> so i did a clean install using a new xp sp2 cd, not hp recovery cd's.  </s>
+<s> everything works fine now, video, ethernet, sound, usb (front and back).  </s>
+<s> but when i go into my device manager i have a yellow question mark on &quot;unknown device / pci standard isa bridge, driver not installed&quot;.  </s>
+<s> i have been searching high and low all over the net for 3 day's trying to find the correct driver needed.  </s>
+<s> i have updated all my chipset with latest ati and hp drivers, windows update is up-todate.  </s>
+<s> i have used the unknown device program to help find the correct driver but none on them have worked?  </s>
+<s> i would preferr not using a driver robot partially because they charge and have used in the past and have not had good results.  </s>
+<s> i have also tried uninstalling device and rebooting, still shows up.  </s>
+<s> and i have not installed any other hardware.  </s>
+<s> i have also searched this site looking for answers and tried a few drivers in downloads but cant seem to find exactly what i am looking for.  </s>
+<s> since everything is working properly do i even need a driver for this and can i just disable it?  </s>
+<s> i'm a little stumpted here on what to do?  </s>
+<s> compaq presario sr2011wm device instance id: acpiawy00014&1ec577c0&0 thanks in advance,  </s>
+<s> if you used anything other than hp's drivers... try only those at  </s>
+<s> and they did not work either, that was one of the first things i tried was the compaq site.  </s>
+<s> tried the ones there and on hp site.  </s>
+<s> here's an example chat -&gt; it's not your model but sadly hp hides some drivers up on ftp servers that you only find if you ask them.  </s>
+<s> did you notice that install order matters?  </s>
+<s> if you do it in the wrong order, weirdness.  </s>
+<s> bob  </s>
+<s> bob: thanks for your reply, i did also try that yesterday and it was taking forever about an hour 1/2 waiting and i finally got to chat with someone he ended up wanting me to chat with him thru another computer so we could look into the bios.  </s>
+<s> i didnt have another computer so that was kind of a fail.  </s>
+<s> guess i need to borrow someones laptop and attempt it again.  </s>
+<s> i might take a look at what you suggested about installing in order, i was unaware of that.  </s>
+<s> this is a shot in the dark but, a relative has the same exact computer as mine.  </s>
+<s> what if i was to make a set of restore cd's and tried to load them into my computer using my xp serial number?? maybe??  </s>
+<s> recovery cd's of your own as you used a new xp install, you could try drivermax.  </s>
+<s> run it on the relative's computer to back up the drivers to a cd and then redo the install for your computer using the drivermax cd to install all your drivers, after the xp install is completed.  </s>
+<s> it may be possible to use the relative's restore cd's from hp but don't count on it. the other alternative is to buy a set of recovery cd's from hp for your computer.  </s>
+<s> they are normally $25 - $30.  </s>
+<s> why cant there be just a quick easy fix?? guess this makes for a good learning experience.  </s>
+<s> i'm going to try to give hp a call today and see if they can help me out.  </s>
+<s> if not i will try to use the drivermax sugesstion, that actually sounds like it may work!  </s>
+<s> i appreciate all your guys help and ideas.  </s>
+<s> if you have any more i'm all ears.  </s>
+<s> happen if i just left it the way it was?? what does the pci standard isa bridge do??  </s>
+<s> you have to take a small class in intel architecture but the isa bus is rather outdated and rarely seen anymore.  </s>
+<s> what was on the isa bus were items like serial and parallel ports.  </s>
+<s> but if those work then there is little reason to fix this.  </s>
+<s> bob  </s>

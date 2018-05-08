@@ -1,0 +1,21 @@
+<s> i am working on a computer for a friend and the port for the onboard graphics isn't sending any information to the monotor.what  </s>
+<s> i would like to know is if i install a new graphics card to the pci-e slot.would this fix the problem and if any geforce 5500 or above pci-e graphics card will work?  </s>
+<s> if the onboard 6100 graphics are out, the chipset (and the mobo) could be toast.  </s>
+<s> test with a pci-e card and be sure to test all built-in functionality (usb, sound, etc.) if the mobo is bad and it's out of warranty, this biostar should drop right in.  </s>
+<s> microsoft may allow you to reactivate the windows license without repurchasing.  </s>
+<s> do you get any bios display at all.  </s>
+<s> if not, try shorting the bios &quot;clearing pins&quot; to return to defaults and reboot.  </s>
+<s> if needed, set the jumper to allow bios clearing.  </s>
+<s> if still no display, reduce system to basics and see if the system responds at all.  </s>
+<s> it appears you may have a blown psu(power supply) if you open case and observe the cpu fan, what does it do? the other half is a bad mtrbd.  </s>
+<s> or component holding down the system.  </s>
+<s> tada -----willy  </s>
+<s> thank you for your advice on the t6420.it  </s>
+<s> turns out like you said the motherboard was bad and needs replaced.my  </s>
+<s> next question is will i be able to salvage anything from the old one to use on the new one.such as processor memory...ect or will i need to replace all of it?  </s>
+<s> a old vga card in a pci slot first.  </s>
+<s> you can get them for a couple of dollars at flea markets and used electronic parts stores.  </s>
+<s> just something to test the motherboard and chipset. the mobo will recognize any vga thats working.  </s>
+<s> in answer to your original question yes your pci-e card should work to test this as well.  </s>
+<s> windows should boot with the replacement (and a few driver installs).  </s>
+<s> remember, call microsoft if the replacement mobo forces you to reactivate.  </s>

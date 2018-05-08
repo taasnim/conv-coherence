@@ -1,0 +1,119 @@
+<s> sorry for the book, but must read.  </s>
+<s> i had an issue with a computer purchased from hp, and i believe that this information could be helpful to some of the readers of cnet.  </s>
+<s> first of all, i am not putting down hp computers, because i have been an owner, user, and customer engineer for hp products since 1988.  </s>
+<s> that being said, let me tell you about this experience.  </s>
+<s> i purchased this computer in june 2008, and have had no issues with the computer or the original os vista ultimate 64. it has been fast received all updates including vista service pack 2 and no restore or recovers since it started up in june of last year.  </s>
+<s> last week i was running some programs and searching the internet, when i started having some freeze issues.  </s>
+<s> i ran my anti-virus program, vipre to check if i had down loaded a virus or spyware that might cause this issue, not one issue was found.  </s>
+<s> i restarted windows and for the first time, since i have been running xp, or vista on four different machines, got a windows needs to run a check disc for your hard drive.  </s>
+<s> i let the check disc run and it found only a few corrupted files which vista moved and recovered.  </s>
+<s> i then ran disk dianostics twice, and system bios smart drive dianostics twice no problems found.  </s>
+<s> the system went back to running as normal.  </s>
+<s> windows did an upgrade and my system was required to do a restart.  </s>
+<s> during restart windows again said it needed to do a check disc.  </s>
+<s> almost the exact same files were found corrupted.  </s>
+<s> this let me to believe that something in windows, or one of the latest upgrades had corrupted tne computer.  </s>
+<s> i decided to do a restore from a previous restore point.  </s>
+<s> big mistake.  </s>
+<s> running the restore seemed to work ok until a restart, at that time the mother board bios presented a message that i was going to have an imminent drive failure, backup as soon as possible. the drive was dead and nothing could open or access this drive.  </s>
+<s> since this computer was purchased in june of 2008 and was not under warranty, i purchased a new drive with the same parameters as the dead drive so i could use the recovery disks that i had made from the recovery partition on the drive during the first start up. the startup disk gave error, configuration has changed these disks can not be used to recover the system.  </s>
+<s> ok, i went to hps web site and ordered the recovery kit for the computer.  </s>
+<s> same issue, these recovery disks can not be used to recover this system.  </s>
+<s> i ordered windows 7 64bit and installed all worked fine.  </s>
+<s> i contacted hp support and explained my issues.  </s>
+<s> my post to hp and their response back!! fragments list.s.cnet pre_process.sh  </s>
+<s> threads problem description : hard drive failure.  </s>
+<s> drive had a few corrupted files on it, and while trying to replace the corrupted files, the drive died.  </s>
+<s> since computer was a few months out of warranty, i ordered a new drive,same drive 500g wd. i tried using the recovery disk that were made when system was first started, but got error, these disks do not match the configuration of the computer and could be for a different computer.  </s>
+<s> you can not recover with these disc.  </s>
+<s> troubleshooting: ordered recovery kit from hp. when the disk came in and i tried to recover using these disc.  </s>
+<s> got basically the same answer.  </s>
+<s> this system is not supported by these disc.(vista  </s>
+<s> ultimate hp, compaq 64bit.) i ordered windows 7 ultimate 64 bit from an online vendor since your recovery disc would not work and reloaded everything.  </s>
+<s> no issues and no failures.  </s>
+<s> it does not seem right that you can not rely on hp's recovery system.  </s>
+<s> i have never liked the lost of a partion on the main drive for recovery of your os on the same drive.  </s>
+<s> using your own disc and only able to make one copy is not feasible.  </s>
+<s> a set of recovery disc should come with every computer.  </s>
+<s> setting changes: nothing has changed on my computer other than the western digital disc that died. the only issue i had with the windows 7 install was the color laserjet cm1017 mfp printer installing.  </s>
+<s> installed perfectlly under vista 64, but would not install under windows 7 64.  </s>
+<s> loaded drivers from web and printer installed.  </s>
+<s> fragments list.s.cnet pre_process.sh  </s>
+<s> threads dear john, thank you for contacting hp total care.  </s>
+<s> after reading your e-mail i understand that you are experiencing an issue with the recovery disc of the hp pavilion ultimate d4996t cto desktop pc. you have further mentioned that hard drive failed so you replaced the drive and then tried to run the recovery using the old recovery disc but you got the error message.  </s>
+<s> then again you ordered the recovery disc from us but the issue still persists.  </s>
+<s> please accept my apologies for the difficulties you encountered with your technical issues.  </s>
+<s> i appreciate that you have forwarded your concern to us and given us a chance to assist you in regard this matter john, first of all i would like to inform you that the hp does not send the set of recovery disc with the system.  </s>
+<s> hp recommends its users to create the set of recovery disc form the system so that in case of system failure the user can retrieve the operating system.  </s>
+<s> the set of recovery disc which users create from the system itself will only work with the hard drive shipped with the system as it has the preinstalled image of operating system which is burned in the d: drive of the system. the motherboard and the hard drive are synchronized in such a way that if you change the hard drive of the system then the hp set of recovery disc will not work with the new hard drive and it is not possible to use the same recovery disc to the other system.  </s>
+<s> john, if you had purchased the hard drive from us then the recovery disc will work but now i regret to inform you that it is not possible to use the same recovery disc.  </s>
+<s> if there is anything else we can do to make things easier for you, please let us know, we will be happy to assist you further.  </s>
+<s> we are available 24x7 for your convenience.  </s>
+<s> please feel free to contact us at any point of time.  </s>
+<s> have a nice day!  </s>
+<s> wish you happy new year and merry christmas!  </s>
+<s> for information on keeping your hp and compaq products up and running, please visit our web site at: sincerely,  </s>
+<s> is there a particular question you have that we can help you with or are you just sharing your experience?  </s>
+<s> i see the issue clearly.  </s>
+<s> but maybe you can clarify if the oem can lock the owners out of replacing the hard drive with non vendor supplied units.  </s>
+<s> this was common practice bpc (before personal computers) and we saw some flirtations with that practice over the years so can you check into this?  </s>
+<s> bob  </s>
+<s> from hp's explanation it sounds like the recovery media you received is incapable of re-imaging the disk but is for recovering the c: partition which was archived in partition d:. hmm, not useful at all.  </s>
+<s> in win98 days, hp recovery media would restore the hard disk to factory state by truly re-imaging it.  </s>
+<s> you should call, not write, to see if hp has alternate media that can re-image a bare drive.  </s>
+<s> if not, hp should have vista os and driver/apps recovery dvds that allow you to install on a bare drive.  </s>
+<s> if you have the inclination and energy, hp mgmt should hear about this.  </s>
+<s> just wanted people to know what hp said, about using their recovery disc.  </s>
+<s> if this tech was correct their recovery system is useless.  </s>
+<s> hp is not the only mfg to do this, most others are the same. the created disks (by user owner) are germane only to that hdd.  </s>
+<s> i am surprised that yourself having been an hp cust rep were not aware of that little issue, we run into these types of situations on a fairly regular basis and not just with hp.  </s>
+<s> if i had not needed this computer sooner i would have still been fighting instead of buying new system software.  </s>
+<s> i have not given up on getting an answer to all your questions, because i do not want to believe that hp has fallen so low as to prevent repair or recovery of their system.  </s>
+<s> i could see this happening on high end main frame systems, but not personal computers.  </s>
+<s> i am from the old school of hp and computer repair.  </s>
+<s> i have several sets of hard drive recovery disc from hp, compaq, dell, acer and several other companies.  </s>
+<s> (these all came with the computers).  </s>
+<s> all of these will re-image a drive.  </s>
+<s> even the asain drives that you can buy.  </s>
+<s> first time i have used the recovery disc from the d: partion to replace a drive.  </s>
+<s> i just gave that a shot, but i did not want anyone else buying their recovery kit which should image any drive as long as it is in the oem machine.  </s>
+<s> agree with bob.  </s>
+<s> we need to know if this is purely an oem vendor issue or does windows licensing/activation a factor too?  </s>
+<s> your hp machine was out of warranty so, in effect, whatever you did you were on your own.  </s>
+<s> that means, if a hard disk fails, you are within your rights to purchase and install your own hard disk without contravening any warranty.  </s>
+<s> but, if you want to retain the version of vista you already had, the oem version with all the drivers, and all/any of the additions that hp include in the oem, you cannot replace the hard disk without purchasing it, and additional/appropriate recovery disks, from hp themselves.  </s>
+<s> that ties you in to hp for the lifetime of the machine.  </s>
+<s> perhaps their tos or conditions of sale mentions this, but i bet it is tucked away somewhere.  </s>
+<s> i wonder if other manufacturers and makers are adopting this method.  </s>
+<s> not nice.  </s>
+<s> mark  </s>
+<s> interesting thread.  </s>
+<s> i wonder if you could clone the hp oem hard drive to an after market one & save it for the situation the op ran into?  </s>
+<s> i'm saying buy my new puter & clone the hd to an aftermarket one & save it in case of a crash?  </s>
+<s> you need it.  </s>
+<s> use an image backup like true image to store the archive to cds for that rainy day!  </s>
+<s> a caveat is if the factory image has security protection against imaging/cloning but no consumer grade laptops have it.  </s>
+<s> hp and compaq desktop pcs - obtaining a recovery cd or dvd set 1: create a set of recovery discs or a recovery dvd 2: order recovery cds on the web 3: contact support this document pertains to recovery discs for hp and compaq desktop pcs.  </s>
+<s> this document provides information about obtaining recovery discs.  </s>
+<s> note: hp pavilions that ship with windows xp do not always come with recovery cds.  </s>
+<s> instead, they use a hidden space (partition) on the hard drive to store the recovery information.  </s>
+<s> using a hidden partition provides a convenient, more stable recovery process.  </s>
+<s> 1: create a set of recovery discs or a recovery dvd some hp and compaq computers have recovery cd creator software that can create a recovery disc set or dvd.  </s>
+<s> to see if your computer has recovery creator software, click start, all programs, hewlett-packard or compaq, and then hp pavilionpc tools or compaq presario pc tools.  </s>
+<s> open the software and follow the on-screen directions to create the recovery discs.  </s>
+<s> for more information, read the hp support document is available creating recovery cds using hp's recovery cd creator software (in english).  </s>
+<s> 2: order recovery cds on the web to order cds on the web, perform the following steps.  </s>
+<s> costs are minimal and only cover the cost of manufacturing and shipping.  </s>
+<s> note: a credit card or paypal is required for ordering recovery discs.  </s>
+<s> enter the model name (for example, 533w, 5002us, or xe735). the model name is located on a sticker that is stuck to the case of the pc. click the appropriate model name from the list that appears.  </s>
+<s> if more than one model name appears, refer to the product number or part number on the identification sticker on the back of the pc. note: the recovery cd set or dvd is matched to specific pc models.  </s>
+<s> it is important to select the correct model name or an error can occur when using them.  </s>
+<s> select recovery kit from the by keyword dropdown.  </s>
+<s> write down the part number of the recovery kit for future reference.  </s>
+<s> type the quantity of recovery kits you wish to order (1) into the qty field of the recovery kit part number.  </s>
+<s> if you can not select any quantity, then a recovery kit is not available for the computer.  </s>
+<s> click order selected parts and then read and fill out all of the screens that appear.  </s>
+<s> 3: contact support you should try to use the methods above to create or order recovery cds or dvds.  </s>
+<s> if you have tried the steps above and failed, contact hp customer care .  </s>
+<s> hp customer care may be able to send out new discs or replace defective versions depending on your situation if your computer is under warranty.  </s>
+<s> out of warranty replacement kits are available at 1 800 496 6127 at a cost of 27.00.  </s>

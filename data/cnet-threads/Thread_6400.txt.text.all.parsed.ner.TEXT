@@ -1,0 +1,15 @@
+<s> i have an intel d845pebt2 motherboard with the latest bios.  </s>
+<s> on my secondary ide bus i have a plextor px-708a dvd burner (master) and a tdk dvdrw420n burner as the slave.  </s>
+<s> when i boot xp pro and try to read a photocd (.pcd) in plextor drive, it asks to put in disk , then it says can't read from disk.  </s>
+<s> yet when i put it into the tdk drive it has no problems.  </s>
+<s> now - i have played with htis and that settings, and finally i found that if i go to device manager and remove the plextor drive, then have it search and install new hardware , that now it will act right, at least till i reboot, or if i follow the advice and reboot - it will work properly that instance as it installs the device on that cycle, but won't acknowledge the .pcd  </s>
+<s> disk upon hte following reboot.  </s>
+<s> any ideas how i can fix this , or why this is happening - and only to my master drive?--  </s>
+<s> harry jk of reading, pa  </s>
+<s> this is a sign that either the firmware in the drive doesn't support the media or the drive is aging.  </s>
+<s> if its an aging drive, you'll find more media that won't work as time passes.  </s>
+<s> bob  </s>
+<s> latest firmware for the plextor unit is installed this is a relatively new 8x +/-r/rw dvd burner.  </s>
+<s> have uninstalled from hardware manager, adn rebooted allowing discovery of new hardware.  </s>
+<s> having done this in the past it had worked ofr that session only and not after multiple reboots.  </s>
+<s> today it si still working, adn i wonder when it will stop next?  </s>

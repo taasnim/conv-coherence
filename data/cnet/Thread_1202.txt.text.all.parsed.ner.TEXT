@@ -1,0 +1,16 @@
+<s> there is a computer at my job with building automation software on it, uses an sql database.  </s>
+<s> the software recommends a 512 graphics card. the computer has a monitor but we don't use it that way.  </s>
+<s> we all connect to it via remote desktop.  </s>
+<s> does the that computer benefit having a graphics card?  </s>
+<s> or do only the computers remoting in need a graphics card?  </s>
+<s> the pc that has the monitor connected should have the graphic card.  </s>
+<s> kees  </s>
+<s> how does that computers graphics card help the remote user?  </s>
+<s> if the server is just storing the exe-file, and it's run on the client pc, the client pc should have the graphics card.  </s>
+<s> if it's a terminal server, remote desktop or citrix setup (using a thin client), it most likely is a server thing also.  </s>
+<s> then better ask the guy who manages the server.  </s>
+<s> kees  </s>
+<s> is that i've written apps that log events and more to the sql database and with rare exception you can't use what is known as a headless server for some systems because they used windows.  </s>
+<s> i don't want to duplicate all that has been written about headless servers but your product's maker must tell you if it can be done.  </s>
+<s> keep in mine that i've done such but the costs are higher than if i went with a plain old pc with a card.  </s>
+<s> bob  </s>

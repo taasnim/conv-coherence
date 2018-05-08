@@ -1,0 +1,14 @@
+<s> my system is dell dimension 4500s.  </s>
+<s> i put in 256 ddr pc2100 yesterday.  </s>
+<s> after i put it in, i plugged in the power strip, the computer turned on automatically without me pressing the switch on button.(this  </s>
+<s> never happen before) about 2 second, the power cuts off briefly and goes back on again but my monitor can't get any signal from the cpu. the fan inside the cpu seems to be working okay. the cd-rom drive can open and close and i hear my hard drive spinning.  </s>
+<s> the problem is consistent even after i tried removing the new memory from the slot.  </s>
+<s> anyone have any clue what's going on?  </s>
+<s> good chance that you knocked it loose when plugging the memory in. the other glitch happened because you unplugged the power switch which removed the 5 volt standby power that is always on the mobo, if plugged in.  </s>
+<s> when the standby voltage came back you got a logic glitch through the power managment function.  </s>
+<s> i notice there is a led in the middle of the motherboard.  </s>
+<s> is that light supposed to be on all the time?  </s>
+<s> even when the power is off?  </s>
+<s> cause i noticed it was off after i switch off the computer.  </s>
+<s> is that led an indicator for the cmos battery?  </s>
+<s> how do i fix the logic glitch that you mentioned?  </s>

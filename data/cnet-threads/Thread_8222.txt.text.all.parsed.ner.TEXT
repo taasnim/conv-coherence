@@ -1,0 +1,13 @@
+<s> i'm running windows xp home edition and i've installed the ati radeon 9600 se video card but im having some toruble.  </s>
+<s> when i installed it everything seemed to go fine, windows found the hardware and installed it.  </s>
+<s> but when i tried to install the drivers and software that are on the cd it says the following: &quot;inf error, video driver not found, click ok&quot; and when i click ok it says the following &quot;try to set up your display adapter with a standard vga driver before running setup.&quot;  </s>
+<s> ive tried downloading the drivers directly from the ati site but i cant get anything to work. the video card isnt busted or anything, im using it right now but i just dont know what to do.  </s>
+<s> xp installs its own drivers when you first put in the card. the usual sequence is to uninstall ati software from add and remove programs, uninstall the display adapter in device manager.  </s>
+<s> then you use the latest drivers from here:  </s>
+<s> try this:  </s>
+<s> do not reboot after deleting the adapter from the device manager.  </s>
+<s> it'll ask you to do so though, but if you do, the same drivers will be installed again after reboot.  </s>
+<s> hi, try downloading the cat uninstaller and running it that will get rid of all ati files on your machine.  </s>
+<s> then try two things.  </s>
+<s> 1, just install the driver and not the control panel and multimedia driver.  </s>
+<s> 2,install everything and then turn off fast write in the smartgart section of the advanced settings of the display.  </s>

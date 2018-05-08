@@ -1,0 +1,31 @@
+<s> i just installed a simple wireless network using: 1) netgear rangemax router (wpn824) connected to toshiba cable modem.  </s>
+<s> 2) pc#1 - dell dimension 4300, win xp home edition sp2, windows firewall disabled, ezarmor firewall on with network identified for sharing, specific folder identified, connected to router via ethernet cable.  </s>
+<s> 3) pc#2 - dell dimension 3000, win xp home edition (not sure of sp#), windows firewall exceptions set to allow sharing, specific folder identified, connected via netgear rangemax wireless pci adapter (wpn311) i updated the security settings on the router to use wpa encryption & mac addresses.  </s>
+<s> added mac address of pc#2 to list - did not add pc#1 because it did not come up as connected (that's how i entered mac address for pc#2 - the router config site identified who was connected at the time i updated the security).  </s>
+<s> pc#1 - internet works.  </s>
+<s> network places only shows shared folders from pc#1 itself.  </s>
+<s> workgroup computers shows both pc#1 & pc#2, but pc#2 gives error when i try to open/explore (... not accessible.  </s>
+<s> you may not have permission to access this network resource ... path not found.) pc#2 - internet works.  </s>
+<s> wireless signal say 'excellent.' network places shows nothing.  </s>
+<s> workgroup computers shows nothing.  </s>
+<s> any thoughts on why pc#1 cannot get into pc#2?  </s>
+<s> ...why pc#2 does not see either computer (not even itself) under the workgroup or network places?  </s>
+<s> by accessing the number through ipconfig/all from a command prompt.  </s>
+<s> firewalls are one of the main reasons people fail to network their machines.  </s>
+<s> for this reason i would turn them off until a viable network has been established.  </s>
+<s> then i would : 1) check the workgroup names 2) check the ip/subnet ranges for each machine 3) search for each computer by ip and then by name  </s>
+<s> all of the searches & areas where i can enter an address for a computer that i can find ask for the name of the computer rather than the ip.  </s>
+<s> start/search/for files or folders/computers or people/computer on the network/computer name or you may enter an ip address.  </s>
+<s> turned off all firewalls (realized my son's computer, pc#2)had norton internet security firewall on - thought he only had windows firewall and norton antivirus.  </s>
+<s> anyway, turned all off, and voila - we could both see & access each other's computers.  </s>
+<s> i then configured my ezarmor firewall to allow my network as a trusted zone for sharing info and configured his norton firewall to allow the network as well.  </s>
+<s> turned them on and still had access both ways.  </s>
+<s> i even printed through his printer.  </s>
+<s> but... i put my pc (#1) on standby and went out - in the meantime, he shut his down to rearrange his computer desk.  </s>
+<s> when i came off standby and he turned his on - back to the same problem as before for me - his pc shows in my workgroup view but tells me i don't have access when i try to view shared folders/printers, etc. he can still use my shared folders in his network places but goes back to previous error saying he does not have permission to access the workgroup when he tries to view the computers through there.  </s>
+<s> i turned all firewalls back off but no luck.  </s>
+<s> any thoughts on these developments?  </s>
+<s> guarding the gates can lead to confusion as to which program is blocking the way.  </s>
+<s> personally i use one or the other (actually only xps firewall).  </s>
+<s> i find security suites to be overly resource hungry and invasive.  </s>
+<s> as a test, try uninstalling norton/ez armor and use only xps firewall making sure you enable file and print sharing on the exceptions tab.  </s>

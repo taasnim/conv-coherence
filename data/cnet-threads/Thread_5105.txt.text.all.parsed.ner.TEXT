@@ -1,0 +1,34 @@
+<s> i built a pc with the following configuration: mobo- asus m2n-32sli which includes nvidia raid controller windows 7 professional (64-bit) amd dual core athlon processor 4 gb ram current raid confguration is 2 disks mirrored for drive c (all program installs) mirror 2 has all docs, data, etc my question is this: how difficult would it be to reconfigure the raid to 5? would the best solution be to break each mirror, and add an additional drive for drives c and d and convert them to a separate raid 5 virtual drive for each?  </s>
+<s> also, would i have to lose all of the data and/or programs, or does the raid controller automatically reconfigure the data and convert it to raid 5? the reason that i'm using raid instead of backup is that i have huge video and music files (i create videos and arrange music) and don't want to add a 2 tb drive to back up everything.  </s>
+<s> however, i can't risk losing my information and files.  </s>
+<s> i hope that this is a bit clearer than mud.  </s>
+<s> if anyone needs clarification or additional info, i will be happy to append it to this original post.  </s>
+<s> thanks in advance for your help.  </s>
+<s> miaclockman  </s>
+<s> let's start by you supply the manual to this raid controller.  </s>
+<s> i'll read it if you supply it and see if they document how to do this.  </s>
+<s> bob  </s>
+<s> i appreciate your wiilingness to look at the documentation and i really feel stupid asking this question, but i can't find anywhere in this forum thread where i can attach a pdf file of the manual.  </s>
+<s> i can reply with the instructions in the message body, but the chapter on the raid controller is 17 pages long.  </s>
+<s> i have searched the faqs and every other place on this site, but cannot find where i can upload the pdf.  </s>
+<s> please forgive my ignorance, but this is the first forum where i've encountered this problem.  </s>
+<s> thanks, jeff  </s>
+<s> you can supply the maker's web link or even a dropbox public link.  </s>
+<s> i'm so sorry - i didn't even think about doing that.  </s>
+<s> here is a link to the manual. the pdf download is about at the middle of the page.  </s>
+<s> again, i thank you for willing to take the time to see if you can help me.  </s>
+<s> hope you're having a happy turkey day!  </s>
+<s> jeff  </s>
+<s> &quot;sorry.  </s>
+<s> model description.  </s>
+<s> asus m2n32-sli deluxe is temporary unavailable.&quot;  </s>
+<s> did i try for the wrong board?  </s>
+<s> is this at the asus site?  </s>
+<s> in outline format.  </s>
+<s> 1. i would create an image of the raid 1 array and store that on another hd. 2. i would create the raid 5 array on a new set of hds using the bios utility to do such.  </s>
+<s> (this will break the raid 1 array) you will also want to make sure your hd selection is designed for raid operation.  </s>
+<s> 3. i would restore the image to the new array.  </s>
+<s> 4. i would attempt to boot the pc. with a little luck and cooperation from the imaging software, this should work since the array is considered as one drive.  </s>
+<s> i have used this method to move an os on a single disk to a raid 1 array and it worked fine with xp. i've not gone from one raid configuration to another, however.  </s>
+<s> your mb claims to support raid 0/1/5 and jbod.  </s>
+<s> good luck.  </s>

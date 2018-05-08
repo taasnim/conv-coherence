@@ -1,0 +1,32 @@
+<s> its my first build in awhile and im looking for some help.  </s>
+<s> i got an asus mobo with an onboard sis 180 controller and a samsung 120gb sp1213c sata hdd.  </s>
+<s> i plan on it being the only hdd.  </s>
+<s> anyway, i tried to have cmos autodetect the drive like the install instructions said but that failed.  </s>
+<s> continued to the sata menu where it did detect the drive there.  </s>
+<s> however when i continued to try and install xp on the drive it said no hd was detected.  </s>
+<s> thats a quick summary of where im at now and im at a loss.  </s>
+<s> its been some time since doing something like this, so any help on what im forgetting is much appreciated.  </s>
+<s> have sata drivers.  </s>
+<s> these come with the mb. you need to have these available when the xp installation asks for them.  </s>
+<s> early on, xp will ask if you have device drivers to pre-install.  </s>
+<s> you must acknowledge that you do and what the drivers are.  </s>
+<s> they will be on the mb software/driver disk.  </s>
+<s> a bit later you will need to present the disk.  </s>
+<s> it is usually possible to extract the necessary files to a floppy and the cd that came with the mb might allow you to make them right from it.  </s>
+<s> sometimes this requires another pc. it can be tricky for one who has never encountered this. the same goes for raid drivers.  </s>
+<s> if your mb has a raid controller, xp will see this but not install drivers.  </s>
+<s> you do this yourself.  </s>
+<s> was talking with a friend and he said something about only needing drivers if i wanted a raid configuration.  </s>
+<s> since this hd will be stand alone im not gonna need a raid setup.  </s>
+<s> he also said the hd needeto be detected in the bios, which was my original problem.  </s>
+<s> i cant seem to get it to it to autodetect and i cant put it in manually either.  </s>
+<s> anyway thnx for the help and any more info is very much appreciated.  </s>
+<s> because it has the necessary internal software to do so.  </s>
+<s> xp needs to see the drive through the controller. the drivers are for the controller.  </s>
+<s> other manufactures such as promise and via make sata and raid controllers as well and the same applies.  </s>
+<s> xp needs the drivers for these and other devices it does not know.  </s>
+<s> there is a workaround but it's tricky.  </s>
+<s> you can install the os on an ide drive and then extract the drivers easily from the mb cd. next you need to attach the sata drive and clone it from the ide drive.  </s>
+<s> then remove the ide drive and the sata drive should boot.  </s>
+<s> xp will detect it as new hardware but, if it's a new installation, there is no worry about reactivating at this point.  </s>
+<s> i have done this myself.  </s>

@@ -1,0 +1,21 @@
+<s> sir, i am a new member to your august forum.  </s>
+<s> kindly help me out.  </s>
+<s> i want to know how to fix a new hard drive to my pentium celeron.  </s>
+<s> it has a mercury motherboard with 256 mb ram.  </s>
+<s> hi karthik, how big of a hard drive are you hooking up to the old computer?  </s>
+<s> some motherboards aren't capable of recognizing some of the larger sized hard drives.  </s>
+<s> you will have to read your motherboard manual and find this out.  </s>
+<s> in some cases, you will have to upgrade your bios in order for your motherboard to recognize the new drive.  </s>
+<s> you're other option is to purchase an external hard drive and use it that way.  </s>
+<s> hope this helps, howard  </s>
+<s> hello howard, thanks a lot for the message.  </s>
+<s> since i got the computer assembled i do not have the manual.  </s>
+<s> i am thinking of going in for 40 gb.  </s>
+<s> regards karthik.  </s>
+<s> i did find motherboards with the ''i810-w83627hf'' combination.  </s>
+<s> they were all from 1999, which means they used ultra ata/33 hard drives, and maybe ultra ata/66 at fastest.  </s>
+<s> today's new ultra ata drives are ata/100 and ata/133.  </s>
+<s> if you want to get a new hd, but your motherboard's hd controller chip doesn't support it, you still can add an ata100/133 hd controller card ($10-15 usd, less on ebay) to an empty pci slot and connect the hd there.  </s>
+<s> so, you do have options.  </s>
+<s> if you are running windows xp and the hd is less than 127gb, you should be ok with new pci hard disk controller card.  </s>
+<s> what operating system are you using?  </s>

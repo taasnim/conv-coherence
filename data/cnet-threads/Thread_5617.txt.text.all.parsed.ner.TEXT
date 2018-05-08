@@ -1,0 +1,29 @@
+<s> hi. i'm a sophomore in college and this is a problem a friend of mine in my hall is having.  </s>
+<s> she has a gateway 831gm she got in august.  </s>
+<s> her os is windows xp. anyway, about a week ago, she lost all internet connection.  </s>
+<s> she cannot get on aim, ie, use the music store in itunes or anything.  </s>
+<s> if you go to network connections and click on her connection the box says, she has sent 0 packets and recieved 0 packets.  </s>
+<s> and when you click on the support tab she has nothing listed for ip address or any of that, and when you try and click repair, it says it can't because it can't get a connection. the other thing is, when you restart her computer and open up ie, nothing comes up at all, so then after you close it, norton pops up with a message that says that a virus was detected it says, trojan horse, and that it cannot be removed, and it gives a partial filename.  </s>
+<s> is there anything she can do?  </s>
+<s> you gave a pretty good description of her problem but you left out the most important piece.  </s>
+<s> how is she trying to connect to the internet.  </s>
+<s> what version of xp is she using.  </s>
+<s> what hardware (modem, nic, router, wireless..etc..etc) give us that and we should be able to help.  </s>
+<s> and life goes on... jack  </s>
+<s> first, make sure she has previous backups of any important data.  </s>
+<s> if not, have her back up as much as possible onto a fresh cd/dvd/drive.  </s>
+<s> just be aware that there is a possibility that the malware will be copied to the backup.  </s>
+<s> thus, only use that backup if needed, and if everything goes well, and it's removed without harming the computer, destroy that backup and create a fresh, uncontaminated one.  </s>
+<s> second, contact your college's it department and notify them of the problem.  </s>
+<s> they should be able to help you with any problems that come up, and also ensure that whatever she has doesn't spread across the network.  </s>
+<s> finally, click here and download a few of the free utilities listed, including avast antivirus, a-squared, cwshredder, spybot, and stinger.  </s>
+<s> burn them to disk, or write them to a flash drive, and install them on her computer.  </s>
+<s> run each of them one at a time, preferably in safe mode with system restore disabled.  </s>
+<s> that should take care of the virus/trojan problem.  </s>
+<s> you should also give hijackthis a try, which is a powerful tool for locating traces of malware.  </s>
+<s> just click here for instructions and where (not here) to post the logs.  </s>
+<s> hope this helps, john p.s. sharing the partial file name will help us determine how exactly to clean her computer, and what possible problems may arise.  </s>
+<s> students' computers typically run into such problems because they use p2p file sharing programs.  </s>
+<s> after you remove all the nasties from the computer, make sure you have a free firewall, antivirus, and antispyware installed.  </s>
+<s> keep them up to date.  </s>
+<s> strongly consider ditching p2p sharing completely.  </s>

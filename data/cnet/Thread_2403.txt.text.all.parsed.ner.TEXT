@@ -1,0 +1,45 @@
+<s> my current pc is a dell inspiron 570 running windows 7 64-bit.  </s>
+<s> i have a western digital wd1200jb internal hard drive from my old pc that i have fitted into an akasa integral external enclosure and connected to the inspiron via a usb port.  </s>
+<s> windows says that it has recognised a usb mass storage device and that it is installing device driver software.  </s>
+<s> after a few minutes trying it gives the error message that the device driver software was not successfully installed.  </s>
+<s> windows device manager gives the device status as this device cannot start (code 10).  </s>
+<s> i have tried various jumper settings on the hd without success.  </s>
+<s> windows trouble shooting says that i have the most up to date driver.  </s>
+<s> i have looked on the western digital site and cannot find any drivers for the wd1200jb - i believe that it uses a windows one.  </s>
+<s> have you any suggestions on what to try next?  </s>
+<s> if it's an ide-drive, it should be configured as master in the ide.  </s>
+<s> and drivers shouldn't be necessary.  </s>
+<s> two little experiments: 1. find a friend, colleague or family member who has another external disk (they are quite common, nowadays).  </s>
+<s> does that work on your pc? 2. find another pc. does your disk work on that pc. it should.  </s>
+<s> kees  </s>
+<s> have you tried: 1) connecting the drive to another usb port/ another computer?  </s>
+<s> 2) connecting the drive to an e-sata port on your computer?  </s>
+<s> 3) installing the software drivers (that accompanied the enclosure)?  </s>
+<s> 4) gone to akasa'a website to see if there is an update for that particular enclosure?  </s>
+<s> 5) made sure the e-sata/ usb switch is switched to usb?  </s>
+<s> many thanks for your replies.  </s>
+<s> unfortunately i still can't get it to work.  </s>
+<s> it's an ide drive and at the moment it's configured as dual (master).  </s>
+<s> i've also tried it configured as single (neutral position) and cable select.  </s>
+<s> i've tried it in another usb port.  </s>
+<s> i've spoken to akasa and they confirm that there are no akasa drivers - it uses the windows one.  </s>
+<s> this appears to be usbstor.sys.  </s>
+<s> i've tried driver update but windows says that i have the most up to date one. the akasa site (and the help line) say that it should work with win 7. the only point here is that the manual that came with the enclosure (dated 2006) only mentions up to win xp.  </s>
+<s> did you delete the usb drivers.  </s>
+<s> delete and reboot system.  </s>
+<s> try another usb 2 cable.  </s>
+<s> using another pc, install(as normal int.  </s>
+<s> hd)prep the old hd and reformat it, etc.. when done, test it using the wd diags provided by the vendor from their support website.  </s>
+<s> if ok, now install in ext.  </s>
+<s> case and use master as possible setting on hd. this way you eliminate any hd fault here, thus only the ext.  </s>
+<s> case is viewed as faulty if it doesn't want to work. the ext.  </s>
+<s> case vendor must have given some clue to proper install of hd, if not or lacking, running through the possible cures is problematic at best or worst, their fault.  </s>
+<s> if it still refuses to work and known good hd, then return it.  </s>
+<s> get another brand and yes, cheap is cheap and your results are why is is so.  </s>
+<s> tada -----willy  </s>
+<s> i tried the suggestion of using another usb cable and ,lo & behold, after uninstalling and starting again the installation apparently worked.  </s>
+<s> device manager said it was ok. as it did not show up in explorer i went to disk management which showed that the hd was there but with an unallocated 2044 gb - not a good sign! when i tried to initialize the hd i got the error message &quot;the request could not be performed because of an i/o device error.&quot;  </s>
+<s> i have now decided that enough is enough in trying to recover what is an old, smallish drive.  </s>
+<s> i may try some time in the future the suggestion of finding another pc to try it on, but the problem is now on the back burner.  </s>
+<s> however, many thanks for all the comments.  </s>
+<s> it's nice to find such a helpful forum.  </s>

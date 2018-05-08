@@ -1,0 +1,33 @@
+<s> hello.  </s>
+<s> i have an hp pavilion dv7-6059eo with windows 7 64-bit.  </s>
+<s> my gpu is a radeon hd 6770m.  </s>
+<s> i've had this problem for 2 months without being able to fix it, so help would be greatly appreciated.  </s>
+<s> i had amd graphics drivers installed which i downloaded from the official hp driver site, but my programs and games often crashed because of my display driver restarting.  </s>
+<s> i googled the problem, and i found out that some other people had the problem as well, and that it could be because of outdated graphics drivers.  </s>
+<s> so i uninstalled the graphics drivers from hp and i downloaded some newer ones from the amd website (i now know that this isn't the proper way to upgrade them), and it worked, my gpu wasn't crashing anymore, but after a while i wanted to switch back to the hp drivers, because of some functions missing.  </s>
+<s> so i uninstalled the drivers from amd and i downloaded the hp drivers for my product again, however this time the installer does not seem to be able to install the drivers at all.  </s>
+<s> right now i am using the gpu that's built into the intel cpu, and it's obviously not good enough for gaming.  </s>
+<s> when i try to install the drivers, the only things that the installer wants to install are these: and when it's done, it says &quot;installation complete (warnings occured during installation).  </s>
+<s> view log for details.&quot; but when i click &quot;view log&quot; it doesn't show any errors: and when i go to my installed programs, the only new program that seems to have appeared is this: i've tried removing all amd drivers before installing them again, but it still doesn't work.  </s>
+<s> it's like my computer doesn't even know that i have an amd gpu, or maybe it thinks that the drivers are already installed.  </s>
+<s> thank you in advance.  </s>
+<s> how i solved this before.  </s>
+<s> my advice is to use hp.com and their chat or research more on the web (i haven't done this recently so maybe folk have found a better way.) what i did was a factory restore and then install the newer drivers.  </s>
+<s> it appears there are other drivers and apps that are required to make this work but hp did not document how to perform a clean install of windows so i can't see what else is required.  </s>
+<s> it's usually some chipset (not the gpu!) driver and some helper app.  </s>
+<s> bob  </s>
+<s> i suggest you install in &quot;safe mode&quot; as that's more basic and not so demanding.  </s>
+<s> it may work to install that way, just be sure to select during the boot-up, pick the &quot;with networking option&quot; as well from the menu rather than simple safe mode alone.  </s>
+<s> if that doesn't work, get a 100% feel for what you have.  </s>
+<s> i use pcwizard 2012, maybe 2013 now and install it.  </s>
+<s> allow it to report what gpu and chipset you have.  </s>
+<s> id'ing the right h/w may lead to what you really require.  </s>
+<s> i find that using the proper hp provided install s/w should done it right the 1st time, but laptops are a world of thier own.  </s>
+<s> you may want to use your sn# in order to get the right install s/w.  </s>
+<s> last, i don't see anything wrong using amd provided installs from their support website.  </s>
+<s> of course, again you need to get the right s/w as well.  </s>
+<s> you could also do a refresh of the os install or use sfc /scannow.  </s>
+<s> if refreshing the os providing it actually installs over itself and doesn't wipe clean the current install.  </s>
+<s> what it does is simply reloads the os and returns everything whatever got corrupted. the other method is using the &quot;restore feature&quot; and select a date prior to your 1st changes.  </s>
+<s> one method or the other should work, but again it depends as oem type s/w can be too restrictive.  </s>
+<s> tada -----willy  </s>

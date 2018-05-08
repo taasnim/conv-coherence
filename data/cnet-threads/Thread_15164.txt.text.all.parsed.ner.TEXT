@@ -1,0 +1,22 @@
+<s> 'installed a new brookstone photo scanner (model no. sku634394) on my imac7,1 running mac os x 10.6.5.  </s>
+<s> for this install, i connected the scanner directly to the imac using the provided usb cable.  </s>
+<s> for software, i used the provided cd to install the iconnect driver and utilities called digiphoto version 1.0. the software installed successfully until the very end when an error message appeared.  </s>
+<s> the error message window was titled &quot;postflight&quot;. the body of the error message stated: &quot;chmod: unable to change file on /library/application support/brookstone: operation not permitted&quot;.  </s>
+<s> clicking the &quot;ok&quot; button on this window closed the window.  </s>
+<s> at this point the install seemed to be complete.  </s>
+<s> i then restarted the computer as instructed and, upon restart, the digiphoto software started and instructed that calibration of the scanner be undertaken.  </s>
+<s> i proceeded to insert a provided calibration sheet (4x6&quot; white card) into the scanner with the side with printing facing up.  </s>
+<s> by pressing a button on the digiphoto window on the imac desktop, the scanner proceeded to pull the sheet through and creating a file from the scan.  </s>
+<s> this file, &quot;image0001.jpg&quot;, was placed in a special folder, &quot;digiphoto&quot;, that was created inside the imac's documents folder. the scanner's printed instruction booklet then indicates that the fourth step in calibrating the scanner is as follows: &quot;follow the on-screen instructions to complete the scanner calibration.&quot;  </s>
+<s> i saw no such instructions on the screen of the imac. the instruction booklet then goes on to state in bold text: &quot;note: if the scanner installation is not started and displayed automatically on the screen, click 'start', select 'run' and type in [d:setup].&quot;  </s>
+<s> in the window of the running digiphoto application, i saw no &quot;start&quot;.  </s>
+<s> there was an &quot;ok&quot; button there, which, when clicked, seems to do nothing except close the window, but not quit the application.  </s>
+<s> when i quitted the application, the application crashed.  </s>
+<s> i would be happy to supply the content of the crash log, but there is not the room here to attach it.  </s>
+<s> i tried deleting the application files (that i could find) and reinstall software from the cd but get the same results.  </s>
+<s> i must admit that i did not delete the files at /library/application support/brookstone when i attempted the software reinstall so i suppose they could be corrupted.  </s>
+<s> any ideas what i should try to get this scanner calibrated and functioning properly?  </s>
+<s> this is my third unit, have same problem,, were you able to fix it?  </s>
+<s> return it.  </s>
+<s> look at the company and they are not one to pick up tech gear from.  </s>
+<s> next time, an epson or hp scanner.  </s>

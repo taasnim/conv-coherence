@@ -1,0 +1,16 @@
+<s> i ordered a computer a while back not knowing what a partitioned drive is, it came with two 250gb partitioned drives and it would be great if someone could help me get them back to just one chunk of 500gb or even setting up a raid/ running both drives at the same time  </s>
+<s> let's clear one thing, you can't run raid using one physical hd, you have a partitoned hd that acts as if two.  </s>
+<s> in other words you need two real hds in order to run raid of even sizes.  </s>
+<s> next, i suggest you use either partition magic or any other so-called partitioning s/w in order to combine the partitions, either buy or use shareware s/w.  </s>
+<s> however, the old fashion way is to delete all on the partitions using the s/w the hd maker provides, usually free.  </s>
+<s> goto the support website of the hd maker and get the diags or s/w that's available.  </s>
+<s> running such s/w is destructive to data, so save what you need or simply proceed once ready.  </s>
+<s> when asked, combine or accept the hd as one large hd, non-partitioned.  </s>
+<s> tada -----willy  </s>
+<s> are you using windows or linux operating system?  </s>
+<s> if you are using microsoft windows, what version is it?  </s>
+<s> you can tell what version you're using by moving your mouse cursor over the start menu button in the bottom left corner of your screen and click it.  </s>
+<s> look for &quot;my computer&quot; in the menu and press the right mouse button over it.  </s>
+<s> you'll now see a menu, move your mouse cursor down to the last item which should be &quot;properties&quot;. the next window that opens should display the version of your windows installation.  </s>
+<s> if you have windows vista or windows 7, you can delete partitions in the operating system.  </s>
+<s> anything earlier than that like win xp you will likely need a program like partition magic.  </s>

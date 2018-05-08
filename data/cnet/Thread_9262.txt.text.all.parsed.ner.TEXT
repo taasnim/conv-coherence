@@ -1,0 +1,55 @@
+<s> hi all, here is a tough one for ya! i installed a seagate 400gb hard drive with a silicon image ultra-133 ata raid controller card... now what?  </s>
+<s> my dell with windows xp system can't see the drive to format it.  </s>
+<s> i have described the problem as best i can, please feel free to ask questions and make suggestions to get this hard drive up and running!  </s>
+<s> device manager *can* see the drive, but i can't see it under disk management to assign a letter, format or partion the drive.  </s>
+<s> not sure what other info is needed, i installed the card first, and the driver from the supplied cd, during start up it sees the added card as a raid, not sure this is correct, as it is only *one* extra drive, on one slot of the ata card (which has 2 places for the ribbon cable).  </s>
+<s> i starting the computer with no jumper in the new drive, and moved the jumper to the other 3 slots (for the little black connector either for slave, master, etc. settings) but that didnt help, and the device manager always sees the hard drive as st340063 3a scsi disk device.  </s>
+<s> since the hard drive is being labeled a scsi device, i am assuming one of those 4 pins might need to be set so i don't get a scsi conflict.  </s>
+<s> is this how an internal scsi device (like my hd) is terminated?  </s>
+<s> anyone have any clues about this?  </s>
+<s> windows keeps saying my hard drive is ready to use (of course) but i still need to format it so the system recognizes it.  </s>
+<s> any help would be appreciated!! kzincat  </s>
+<s> you have to use the raid utility to format it and make it available.  </s>
+<s> this is not supplied by microsoft so read your documentation one more time.  </s>
+<s> bob  </s>
+<s> just to eliminate the obvious...was the drive working as intended at the time when you removed it?  </s>
+<s> or was this some old peice of hardwware laying around somehwere?  </s>
+<s> if it is the latter then never mind, you have an old broken drive, get a new one...but if it is the former, perhaps this will help.  </s>
+<s> raid is redundant arrary of inexpensive disks.  </s>
+<s> there fore, a raid drive is not a drive, but rather a &quot;slice&quot; of a drive, which requires all of its componenets to be whole.  </s>
+<s> it is useful to know if you're talking about hardware-based or software-based raid.  </s>
+<s> if it is hardware based and the disk is designed for raid (for others reading - yours is not), then if you want to &quot;access&quot; it you will need to use the raid utility.  </s>
+<s> - however - what if you just want to blow the standard drive out and pretend that raid never was?  </s>
+<s> that's a horse of a different color.  </s>
+<s> if you try putting that raid formatted drive in your pc, what will happen is that the new card will recognize the drive as existing, so you will &quot;see&quot; that it does exist.  </s>
+<s> sounds great, right?  </s>
+<s> now for the sucky part.  </s>
+<s> since microsoft does not support raid in and of itself (the manufacturer of raid arrays and drives do that), what it is fundamentally seeing is a live drive, with an unrecognizable format (because it's just a slice, remember?). you can indeed see the drive, but you're dreaming if you think you can do anything with it.  </s>
+<s> so...here's what you do: blast the drive. the best type of program (and usually a freebie) for what's called a single pass zero-out is the same one some drive manufacturers ask you to run before allowing you to return a drive under warranty terms.  </s>
+<s> only by changing the contents of every byte on a disk to a zero or some other value picked at random, can you be sure that the data is cleared out (of course, if you are working for the dod you may have a different take.  </s>
+<s> for most individuals, however, i don't see any reason to use more than a single-pass overwrite.  </s>
+<s> when you change all the bytes on a disk to a zero byte, it's commonly called 'zero-filling', 'zeroing-out' or 'initializing' a drive; it is not a low-level format, though we've all heard some &quot;wannabe&quot; it technie using this term incorrectly, to describe this initialization process).  </s>
+<s> i've heard &quot;dban&quot; (&quot;dariks boot and nuke&quot; or something like that) works well.  </s>
+<s> you put that drive back in the box, where microsoft recognizes a &quot;new&quot; drive, at which point you should be able to use disk utilities to format and create a new partition.  </s>
+<s> just a side note: misuse of the term &quot;low-level format&quot; can even be found on the web pages of major hard drive manufacturers.  </s>
+<s> some geeks like myself and drive manufacturers are using the mixed term &quot;low-level zero-fill&quot; which is a bit more accurate.  </s>
+<s> due to consumers misunderstamdings that erasing a drive can only be accomplished with a &quot;low-level format&quot; utility, many drive manufacturers have finally started to use that term to describe zero-fill utilities instead; but it's still incorrect usage!  </s>
+<s> to low-level format (llf) a drive, really means to set up the physical locations of its tracks and sectors on the platter itself!  </s>
+<s> and embed that data in the control structures of the drive!  </s>
+<s> because of the complexity of a modern drive's internal structures (which includes zoned-bit recording and even servo data on the disk itself - mean crazy complicated), a true llf can only be done at the factory!  </s>
+<s> very old (less than 30 mib in most cases) mfm drives did have llf programs that consumers could occasionally use; and thus the reason for the idea that they might still be useful.  </s>
+<s> did that help?  </s>
+<s> &gt;just to eliminate the obvious...was the drive working as intended at the time when you removed it? the drive is a brand new 400gb seagate drive, rightoutofthebox.  </s>
+<s> i just wasnt sure which position for the pin configuration for master, slave, etc. &gt;what if you just want to blow the standard drive out and pretend that raid never was?  </s>
+<s> that's a horse of a different color.  </s>
+<s> if you try putting that raid formatted drive in your pc, what will happen is that the new card will recognize the drive as existing, so you will ''see'' that it does exist.  </s>
+<s> this is correct.  </s>
+<s> i see the drive and the serial number for it, the windows xp software just wont see it to format it.  </s>
+<s> &gt;since microsoft does not support raid in and of itself (the manufacturer of raid arrays and drives do that), what it is fundamentally seeing is a live drive, with an unrecognizable format (because it's just a slice, remember?). you can indeed see the drive, but you're dreaming if you think you can do anything with it.  </s>
+<s> so...here's what you do: blast the drive. the best type of program (and usually a freebie) for what's called a single pass zero-out is the same one some drive manufacturers ask you to run before allowing you to return a drive under warranty terms.  </s>
+<s> only by changing the contents of every byte on a disk to a zero or some other value picked at random, can you be sure that the data is cleared out (of course, if you are working for the dod you may have a different take.  </s>
+<s> for most individuals, however, i don't see any reason to use more than a single-pass overwrite.  </s>
+<s> when you change all the bytes on a disk to a zero byte, it's commonly called 'zero-filling', 'zeroing-out' or 'initializing' a drive; it is not a low-level format, though we've all heard some ''wannabe'' it technie using this term incorrectly, to describe this initialization process).  </s>
+<s> &gt;i've heard ''dban'' (''dariks boot and nuke'' or something like that) works well.  </s>
+<s> i will look for that utility, or a zero-fill utility like it.  </s>
+<s> thanks!  </s>

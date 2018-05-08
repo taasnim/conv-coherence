@@ -1,0 +1,22 @@
+<s> we have a 1987(circa) compaq portable 3, with dos 3.1 installed.  </s>
+<s> 5&quot; floppy.  </s>
+<s> a few weeks ago i used it to do a bit of batchfile stuff to show people what it looked like in 'the old days'.i've  </s>
+<s> just fired her up again and got '1790 - disk 0 error' which i believe to mean hard disk failure. is this the end of the the computer without perhaps major surgery?  </s>
+<s> can i get into the bios? is there a bios to get into?  </s>
+<s> any thoughts would be most welcome.  </s>
+<s> the compaq does have a bios.  </s>
+<s> you may need to find out though just how you enter it.  </s>
+<s> wag, it's hitting f2 or f10 key during boot-up.  </s>
+<s> you would need to repair it as more than likely the error 1790 is a &quot;hard error&quot;.  </s>
+<s> if you have access to the os floppies and yet another hd, you should be able to recover.  </s>
+<s> compaq back then provided &quot;diag floppies&quot; that covered everything that needed to be done.  </s>
+<s> having access to this is going to be your problem.  </s>
+<s> a bootable floppy that had the required files is required is going the old fashion raw method. the bios access requires it boots from &quot;floppy&quot; 1st as the main boot device, thus the required bootable floppy and/or diskette.  </s>
+<s> while you're dealing with dos3.1, it can very well use any latter released os like 5.0 up to 6.2(from memory).  </s>
+<s> of course, you still need the bootable floppy/diskette.  </s>
+<s> compaq support may have details on all required diags, check the &quot;legacy side&quot; of things to see if provided but that's a long shot.  </s>
+<s> tada -----willy  </s>
+<s> read  </s>
+<s> thanks willy, i'll try to track down a bootable floppy.  </s>
+<s> it's all very annoying as it was working fine.  </s>
+<s> cheers john  </s>

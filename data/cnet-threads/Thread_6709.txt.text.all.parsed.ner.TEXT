@@ -1,0 +1,47 @@
+<s> thanks for whomever reads this.  </s>
+<s> i bought a computer back in '99 and it hasn't given me much problems.  </s>
+<s> i currently have a 400mhz intel celeron processor and i was thinking of buying a new motherboard, preferably a msi.  </s>
+<s> i was just wondering that if i did find a board with a celeron compatibility, could i just take off the processor of my current board and just transfer it over.  </s>
+<s> does pin number count?  </s>
+<s> keep in mind this was purchased back in '99 from gateway.  </s>
+<s> any help would be appreciated.  </s>
+<s> if using the same processor?  </s>
+<s> you must get one that supports use of the socket that the cpu uses, probably a socket 370.  </s>
+<s> not quite sure where you would get any improved performance unless your present mobo doesn't support the maximum fsb and use faster memory that the 400 mhz cpu can support.  </s>
+<s> the best solution in your case would probably be to buy a new system.  </s>
+<s> you and now find reasonably fast systems for a little over $300.  </s>
+<s> but if you really want to upgrade then read the following reply.  </s>
+<s> unfortunately, any decent msi motherboard that you purchase will have a socket 478 cpu socket for pentium processors.  </s>
+<s> i have never seen an adapter than could make a slot cpu(like your celeron i presume) work on a socket 478 motherboard.  </s>
+<s> that means your cpu simply would not be compatible.  </s>
+<s> a couple of years ago there were a few models of hybrid motherboards and cpu adapters(daughterboards) that were marketed to people looking to switch from older processors to new designs.  </s>
+<s> today there are not as many solutions.  </s>
+<s> one of the reasons for this is the variable power requirements of the different cpus.  </s>
+<s> my suggestion to you is that you think about upgrading a couple of other parts such as the cpu and and memory.  </s>
+<s> as for memory, most motherboards today use ddr sdram rather than the single-rate memory that you probably have in your gateway.  </s>
+<s> and as for the cpu, you could easily upgrade to a socket 478 cpu such as a celeron 4 without spending too much.  </s>
+<s> here's an example of a sufficient cpu upgrade.  </s>
+<s> i would suggest more if i had more information about your computer usage requirements.  </s>
+<s> 256 mb of ram is a sufficient amount of ram.  </s>
+<s> if you plan on running anykind of graphically intense programs such as games, then 512 mb atleast is what i recommend.  </s>
+<s> it really all depends on your spending budget.  </s>
+<s> the cpu and memory upgrades would add just over 100+ dollars to your current spending budget.  </s>
+<s> the performance increase is well worth it.  </s>
+<s> however, as i said, the best solution would be to look for new computer system rather than spend your hard-earned money on upgrades that may need to be replaced again in less than a year.  </s>
+<s> you may find a new mtrbd.  </s>
+<s> that accepts your old cpu(just ask), but believe me you're better off starting anew.  </s>
+<s> plainly, its time to move on as that cpu is very dated and any new offering are at least 2-cpu generations ahead.  </s>
+<s> look for a kit, that's made of a cpu and mtrbd.  </s>
+<s> together being the best value for you as well as being atx ready(your system capable of that?). further, you can still find bargains out there, e-machines being well within or lower $500 range.  </s>
+<s> hp and dell offer similar deals at least in the $700 or less range.  </s>
+<s> monitor may or may not be included but if anything you can carry-over the old monitor to new system.  </s>
+<s> you could shop for a &quot;used&quot; system that's at least 800-1ghz or better by buying just the &quot;box&quot; of a working system, again re-using your old kybd, monitor, etc.. you can try here for that: or similar sources.  </s>
+<s> good luck -----willy  </s>
+<s> i presumed that your cpu is a slot 1 cpu for i have never worked with a celeron of that age and speed that used a socket.  </s>
+<s> if you did manage to find a compatible motherboard with compatible socket/slot and the correct voltage requirements then, you could easy swap the motherboard out with no problems.  </s>
+<s> pin count does matter.  </s>
+<s> while it might seem reasonable to put a cpu in a socket with more pins, you can not.  </s>
+<s> other than that, just make sure that the motherboard supports the type of memory that you are using.  </s>
+<s> make sure that the board is exactly compatible with your cpu and not a similar model based on a different core with different voltage requirements.(undervoltage/overvoltage  </s>
+<s> can cause bad result for your cpu)  </s>
+<s> check out the good deals at  </s>

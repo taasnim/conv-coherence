@@ -1,0 +1,6 @@
+(TOP (S (S (NP (NNP im)) (VP (VBG thinking) (PP (IN of) (S (VP (VBG getting) (NP (NNP wireless) (NN router))))))) (, ,) (CC but) (S (NP (PRP i)) (VP (AUX was) (VP (VBN told) (SBAR (S (NP (NNS others)) (VP (MD would) (VP (AUX be) (ADJP (JJ able) (S (VP (TO to) (VP (VB log) (PRT (RP in)) (PP (TO to) (NP (PRP$ my) (NN internet)))))))))))))) (. .)) )
+(TOP (SQ (AUX is) (NP (EX there)) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB prevent) (NP (DT this)) (PP (IN from) (S (VP (VBG happening))))))))) (. ?)) )
+(TOP (S (VP (VB thank) (NP (PRP you)) (PP (IN for) (NP (NN everything) (CD ..)))) (. .)) )
+(TOP (FRAG (INTJ (UH yes)) (, ,) (PP (IN by) (S (VP (VBG enabling) (NP (DT the) (JJ wep) (NN encryption))))) (. .)) )
+(TOP (S (S (NP (NNP wep)) (VP (AUX is) (NP (NP (CD one) (NN area)) (PP (IN of) (NP (NN security)))))) (, ,) (NP (NNP mac) (VBG filtering)) (VP (AUX is) (NP (DT another))) (. .)) )
+(TOP (S (NP (DT this)) (VP (MD will) (VP (VB allow/disallow) (NP (NNP wireless) (NNS devices)) (PP (IN from) (NP (VBG connecting))))) (. .)) )

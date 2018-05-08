@@ -1,0 +1,37 @@
+<s> hi there: i've got a question to ask about my internet set up.  </s>
+<s> currently, my wireless router is connected to my modem, what i'd like to know is, is it possible to connect my modem to a switch then the wireless router to the switch and still keep everything working?  </s>
+<s> if i connect one computer to the switch through lan cable and another computer to the wireless router through wifi, will both computer be able to go onto the internet?  </s>
+<s> sorry about the long question, but it's just that the logistics of the rooms and stuff makes things difficult.  </s>
+<s> cheers  </s>
+<s> ive got my wireless belkin going into my pc like you and my wireless goes into my modem also.  </s>
+<s> my wifes pc is upstairs and shes also got a laptop and every thing works fine.  </s>
+<s> i can turn my pc off whenever and internet still works fine.  </s>
+<s> she has got wireless built into both devices though.i  </s>
+<s> dont see no need 4 a switch as the wireless signal comes from the modem then goes through the wireless 2 her computers.you  </s>
+<s> should have no problems mate.  </s>
+<s> heres a link that might help.  </s>
+<s> modem &gt;wireless router &gt; switch-- that's the order.  </s>
+<s> i take it that the wireless router with several ports.  </s>
+<s> connect your switch to one of the ports in the router.  </s>
+<s> why would you need a switch anyway.  </s>
+<s> do you have more than 3 computers you want to hardwire or are you just experimenting?  </s>
+<s> this is the wrong layout modem &gt; switch &gt; router. the modem gives you one ipaddress (unless its a combo) and the router is a nat that essentially subdivides that one number and sends the message to the proper computer which can be wired or wireless (if it's a wireless router).  </s>
+<s> kind of like a veteran mailman who gets a mail that don't have the address.  </s>
+<s> he knows everyone in town and knows that the mail belong to this house and not that. the switch cannot translate.  </s>
+<s> it's like a new mailman and knows virtually no one in town.  </s>
+<s> whatever address he sees on the mail, that where goes to put it, but he would be lost if the address wasn't there. the nat (router) is a smart device that knows which computer out of 10 computers in your house ask for the message from the internet.  </s>
+<s> the switch is not that smart.  </s>
+<s> he dropped out of college.  </s>
+<s> this is not a technical explanation, but it gives you an idea.  </s>
+<s> yea, i thought so.  </s>
+<s> it's just that the modem is in my room while the router is very far away (the wiring from the modem to the router is inside the wall), i don't want to have a cable going all the way from the router to the computer so was thinking of some way of hooking the computer straight onto the modem without disconnecting the router.  </s>
+<s> thanks for the quick reply, guess i'll just have to go with wireless then.  </s>
+<s> so the computer is right next to the modem.  </s>
+<s> just take the router and connect a patch cable (short cable) to it (wan side) and plug the other end into the modem.  </s>
+<s> take the long cable from the modem that is in the wall and plug it in one of the port of the router.  </s>
+<s> take another patch cable and plug one end to your computer and the other to the router.  </s>
+<s> at the end of the long cable in the other room, get a switch and plug in as many computer as you want (limited to the number of ports, of course).  </s>
+<s> modem &gt; router &gt; 1st port your computer, 2nd port long cable to the other room &gt; switch.  </s>
+<s> i just wanted to followup with another query.  </s>
+<s> i am also setting up a network at home and plan to have modem&gt;router&gt;switch. however, is it possible to connect some computers and devices to the router's extra ports and the rest of the home's devices to the router?  </s>
+<s> this is mainly because of geographical constraints (the router has to be in my office room which has only one drop) many thanks.  </s>

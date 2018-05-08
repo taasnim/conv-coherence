@@ -1,0 +1,57 @@
+<s> first, here's my system: antec pc tower case amd athlon 64 x2 3800+ processor socket 939 asus a8n-sli premium nforce4 sli his hightech radeon x1800xt g.skill 2gb (2 x 1gb) 184-pin ddr sdram western digital caviar re wd2500yd 250gb serial ata 7200rpm hard drive w/16mb buffer lite-on black atapi/e-ide 5x dvd-ram write dvd burner with lightscribe model shm-165h6s mitsumi black internal floppy drive this is my first build and i kinda followed the guide here: everything pretty much went fine.  </s>
+<s> i was able to install xp without any problems (i'm not using raid, btw).  </s>
+<s> i installed my dvd burner to the primary ide plug on my mobo and installed the hdd to the sata 1. however, here's where my questions/problem come into play.  </s>
+<s> first, in the lower right of the desktop, near the clock, there is an icon that you would recieve if you plugged a usb stick into the pc. if i highlight it, it says &quot;safely remove hardware&quot;.  </s>
+<s> if i right-click it and click that, it shows my hard drive listed in the hardware devices at location 0. it gives me the options to view the properties and the option to &quot;stop&quot; the device.  </s>
+<s> i haven't tried stopping it, but i have looked at the properties.  </s>
+<s> nothing appeared wrong there.  </s>
+<s> however, there are no volumes listed on the volumes tab (i don't really know what goes here...if anything).  </s>
+<s> so, my first question is if my drive should be showing up like this? i've looked in device manager and my hard drive was listed under disk drives.  </s>
+<s> also, something &quot;odd&quot; happened when i moved my pc from where i built it to my desk.  </s>
+<s> after i had moved it and booted it up, my hard drive was no longer detected.  </s>
+<s> i checked my bios and it didn't recognize it either.  </s>
+<s> so, i opened the box back up and checked to make sure no wires had come loose...none had that i could notice.  </s>
+<s> i tried booting up again, but had the same problem.  </s>
+<s> so i rearranged some of the cables and went so far as to exchange the sata cables that plugged into the drive.  </s>
+<s> amazingly that worked.  </s>
+<s> this has only happened to me once so far, but i was wondering if it had anything to do with the other issue.  </s>
+<s> thanks.  </s>
+<s> first didn't show up. the signal connectors for sata drives have been known to be very poor in that they come loose and fall off easily.  </s>
+<s> they have been redesigned to have some of a slight retaining feature.  </s>
+<s> i do not know if the retainer/latch/catch requires that the drive side of the connector has to be changed to match the newer cable.  </s>
+<s> thus the move most likely simply loosened the cable.  </s>
+<s> did you install any mfg supplied drivers when installing winxp (f6)?  </s>
+<s> see if you have an ahci device in device manager; check your bios and see if ahci or hot-swapping is enabled.  </s>
+<s> if your drives are configured to allow hot swapping, they'll appear in the &quot;safely remove hardware&quot; list just like a usb drive.  </s>
+<s> when i first installed an sata drive, i installed the cable backwards.  </s>
+<s> one end just has a plug, but the other has a plug and a clip/lock.  </s>
+<s> the cable works either way but is loose if reversed.  </s>
+<s> perhaps you did the same thing?  </s>
+<s> i'm just using the cables that came with the mobo.  </s>
+<s> i bought a bare drive, so it didn't come with any cables.  </s>
+<s> both ends of the cables look identical.  </s>
+<s> i don't see any clip/lock.  </s>
+<s> but the cables do look kinda &quot;chintzy&quot;, so i think i agree with what the other poster said.  </s>
+<s> about the ahci and whether i have hot-swapping enabled...i'll have to check that later.  </s>
+<s> (i'm not at that pc right now.) i know that i did not press f6 at any time during boot-up, if that's what you first meant.  </s>
+<s> it did ask me to if i wanted though.  </s>
+<s> what exactly does ahci stand for, btw?  </s>
+<s> and, i'm assuming that if i discover that hot swapping is enabled, then i should disable it...right?  </s>
+<s> or does it matter?  </s>
+<s> thanks.  </s>
+<s> i only have the cables that came with the mobo.  </s>
+<s> i bought a bare drive, so it didn't come with any cables.  </s>
+<s> when i was building the computer, i did think that the quality of the cable ends looked kinda &quot;chintzy&quot;.  </s>
+<s> so, you're probably right...the move just simply loosened the cable.  </s>
+<s> at least, i hope that's so.  </s>
+<s> ha. thanks.  </s>
+<s> jon  </s>
+<s> advanced host controller interface (ahci) is an interface specification that allows the storage driver to enable advanced serial ata features such as native command queuing and hot plug.  </s>
+<s> here's a secure cable: since you didn't add any drivers, maybe they're part of the mobo/chipset drivers.  </s>
+<s> your mobo certainly supports hot plug (page 1-3 of your user's guide).  </s>
+<s> anyhoo... i don't think you have anything to worry about.  </s>
+<s> hot swapping and there was no ahci device in device manager.  </s>
+<s> so i guess i just won't worry about it if i don't really need to.  </s>
+<s> thanks.  </s>
+<s> and thanks for the link to the secure cable.  </s>
+<s> jon  </s>

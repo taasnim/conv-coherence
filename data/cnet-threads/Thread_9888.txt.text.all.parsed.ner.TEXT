@@ -1,0 +1,17 @@
+<s> i have finally gotten 2 wireless networks operating using a netgear wnr2000 setup for wireless-n /wpa2 security as the primary router connected to the dsl modem.  </s>
+<s> lan output from the netgear (direct-wired) into the lan on the secondary-linksys wrt54g router setup for wireless-b & wep security.  </s>
+<s> the secondary-linksys has the dhcp turned off.  </s>
+<s> (i need the 802.11b/wep for an older tivo box, and that's all.  </s>
+<s> i want better security for a laptop which is using the n/wpa2 network.) my question is whether someone can break into my overall network thru the less-secure secondary router?  </s>
+<s> 1. read ok, we now have two routers.  </s>
+<s> 2. yes!  </s>
+<s> i will be able to use your wifi connection since wep, even with mac filters is crackable in about 120 seconds now.  </s>
+<s> if there is any way to get the old insecure stuff gone i strongly suggest it.  </s>
+<s> even if it means getting wired or using a bridge.  </s>
+<s> i use a wgps606 on wpa today for such a connection.  </s>
+<s> bob  </s>
+<s> someone was telling me about using a range extender, but these appear to nothing more than a wireless signal repeater.  </s>
+<s> what would be useful is a wireless n receiver with a straight ethernet/cat 5 output.  </s>
+<s> is there such an animal?  </s>
+<s> we have that noted in the forum sticky.  </s>
+<s> look for 'using a router as a wap.'  </s>

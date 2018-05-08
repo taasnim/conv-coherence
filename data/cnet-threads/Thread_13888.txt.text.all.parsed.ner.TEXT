@@ -1,0 +1,26 @@
+<s> amd phenom ii x6 1090t windows 7 (build 7600) cpu arch : 1 cpu - 6 cores - 6 threads cpu psn : amd phenom ii x6 1090t processor cpu ext : mmx(+), 3dnow!(+), sse (1, 2, 3, 4a), x86-64, amd-v cpuid : f.a.0 / extended : 10.a cpu cache : l1 : 6 x 64 / 6 x 64 kb - l2 : 6 x 512 kb cpu cache : l3 : 6144 kb core : thuban (45 nm) / stepping : ph-e0 freq : 3519.88 mhz (219.99 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 16) mb brand : asus mb model : m3n72-d nb : nvidia nforce 740a sli rev a2 sb : nvidia nforce 740a sli mcp rev a2 gpu type : nvidia geforce 7600 gt gpu clocks : core 580 mhz / ram 750 mhz directx version : 11.0 ram : 6144 mb ddr2 dual channel ram speed : 293.3 mhz (3:4) @ 4-4-4-18 slot 1 : 2048mb (6400) slot 1 manufacturer : corsair slot 2 : 2048mb (6400) slot 2 manufacturer : corsair slot 3 : 1024mb (4300) slot 3 manufacturer : hyundai electronics slot 4 : 1024mb (4300) slot 4 manufacturer : hyundai electronics cpuz cpu-z forum banner (bb code below) cpuz ok so heres my q that i could use an informed a for.  </s>
+<s> i had two 1 gig sticks of ram (i thought was 533mhz but its been at least a year since i got it) and i just bought some upgrades including two 2 gig sticks of corsair 1066mhz ram.  </s>
+<s> so that makes a total of 6 gigs and it works great but since all the ram is running at the lowest speed (10% oc brought ram speed up to 293.3mhz stable) from a performance stand point would it be better to have 4 gigs at 1066mhz or the six at 293.3mhz.  </s>
+<s> i also use my com for both audio and video production as well as star craft 2 and other games.  </s>
+<s> so any thoughts would be greatly appreciated.  </s>
+<s> thanks, spleader visualsonic p.s. cpu-z validation url:  </s>
+<s> what ram performance score do you get under win7 'performance information and tools' with all 6gbs ?  </s>
+<s> did you run the ram test with the 4gb of higher speed ram ?  </s>
+<s> and you're getting dual channel-128bit ram is the bios ?  </s>
+<s> vapcmd  </s>
+<s> thanks very much for the help.  </s>
+<s> that just did not cross my mind to check.  </s>
+<s> and yes with the 6 gigs in there ( at 533 mhz, cpu-z i guess rates the speed per channel so 266 mhz x ddr2 = 533 mhz or something like that)win 7 gave it 7.5 out of 7.9 and with the 4 gigs at 533 mhz x ddr2 = 1066 win 7 gave it a 5.9 out of 7.9 so yeah i guess ill keep the 6 gigs in.  </s>
+<s> thanks again!  </s>
+<s> on the other hand i would as well like to overclock and i am having trouble with that as well.  </s>
+<s> i have a m3n72-d mobo and an amd 1090t cooled with a corsair h70 with push pull air from upgraded 90 cfm cooler master fans running at (without any oc) an average temp.  </s>
+<s> of 18c to 19c and with load add about 10 degrees peak 30c or so.  </s>
+<s> powered buy an ultra x4 1600 psu running with the 1200 watt power cable.  </s>
+<s> so i would have thought the oc would be easy, not the case. the bios has an ai system to bump up by % with a max of 10% that gets me up to where i was on the first oc but it achieves that buy upping the bus to 210 which ocs the ram as well.  </s>
+<s> the manual option has two cpu multipliers one for the nb and one labeled simply cpu multiplier. the nb cpu multiplier only goes up to x16 and the cpu multiplier goes by .5 up to x35. and that one (not the nb one) does not seem to do anything to the speed or so it seems.  </s>
+<s> so im getting a little frustrated and confused so if you have any input on this please let me know?  </s>
+<s> thanks once more, the spleader visualsonic p.s. no oc cpu-z validation url:  </s>
+<s> the ai oc upped the bus to 219.99 fragments list.s.cnet pre_process.sh  </s>
+<s> threads 16 for a speed of 3519.88 mhz.  </s>
+<s> url for 10% oc cpu-z: and without oc:  </s>

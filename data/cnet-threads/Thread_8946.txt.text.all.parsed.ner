@@ -1,0 +1,8 @@
+(TOP (S (NP (PRP i)) (VP (AUX have) (S (NP (NP (DT a) (NN radeon) (date (CD 9550)) (NN video) (NN card)) (PP (IN with) (NP (DT the) (JJS latest) (NNS drivers) (CC and) (NN catalyst) (NN control) (NN center)))) (VP (VBN installed)))) (. .)) )
+(TOP (S (NP (PRP i)) (VP (VP (VBD bought) (NP (DT a) (JJ s-video) (NN cable)) (PP (IN for) (NP (money ($ $) (CD 5))))) (CC and) (VP (VBN connected) (NP (PRP it)) (PP (IN from) (NP (NP (DT the) (NN back)) (PP (IN of) (NP (DT the) (NN video) (NN card))))) (PP (TO to) (NP (NP (PRP$ my) (CD 27) (NN inch)) (SBAR (S (NP (NNP sony)) (VP (VBZ tv.) (SBAR (S (NP (DT the) (NN problem)) (VP (AUX is) (SBAR (IN that) (S (NP (DT the) (NN catalyst) (NN software)) (VP (AUX does) (RB n't) (VP (VB detect) (NP (DT the) (NN television)))))))))))))))) (. .)) )
+(TOP (SBARQ (WHNP (WP what)) (SQ (MD should) (NP (PRP i)) (VP (AUX do))) (. ?)) )
+(TOP (S (VP (VB thank) (NP (PRP you))) (. .)) )
+(TOP (S (PP (IN unlike) (NP (DT the) (JJ f-type) (NN connection))) (NP (EX there)) (VP (AUX is) (NP (DT no) (NN signal) (S (VP (TO to) (VP (VB tell) (NP (DT a) (NN pc)) (SBAR (IN that) (S (NP (DT a) (NN connection)) (VP (AUX was) (VP (VBN made) (PP (IN via) (NP (NN rca) (CC or) (NN svideo)))))))))))) (. .)) )
+(TOP (S (S (VP (VB skip) (PP (IN past) (NP (PDT all) (DT that) (NN &quot))) (: ;) (ADVP (RB detection&quot)))) (: ;) (CC and) (S (VP (VB ask) (NP (PRP them)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB turn) (NP (PRP it)) (PRT (RP on)))))))) (. .)) )
+(TOP (NP (NNP bob)) )
+(TOP (FRAG (NP (PRP them)) (WHNP (WP who)) (. ?)) )

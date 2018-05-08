@@ -1,0 +1,33 @@
+<s> hello, i recently had my 3yo wd internal hd die on me and i replaced it with the wd3200aaks model.  </s>
+<s> from the onset i noticed a slight slowdown in performance and a progressively louder noise coming from the hd. i've got a 3yo dell xps gen 5, os is winxp and 4gb ddr ram.  </s>
+<s> i'm wondering if there's anything i can really do? it clearly is spinning loudly because the sound will increase as i add more workload to it.  </s>
+<s> if i so much as look at graphic intensive stuff it'll start getting louder and louder and it's driving me insane.  </s>
+<s> too bad your old drive model wasn't shared.  </s>
+<s> looking at the specs at i see the 2ms seek time will make this a fast but different sounding drive from what most would have had.  </s>
+<s> also the noise level is pretty high at seek mode 0  </s>
+<s> larger sized hds when they get spinning will make slightly more noticeable sounds(noise).  </s>
+<s> however, it shouldn't be confused with &quot;resonance&quot; from metal-to-metal contact and/or tray setups.  </s>
+<s> if resonance use a small thin rubber/plastic washer between screw and hd where they screw down.  </s>
+<s> if tray type, use some foam between slot and guide to help there.  </s>
+<s> if the hd itself is making the noise by simply being on, its not the seek&fetch data cycles.  </s>
+<s> if the noise is too much and it seems to work ok, then use the rma process to return under warranty.  </s>
+<s> heat kills hds and they can make noise before they die, so have a back-up plan in place to save critical data and/or a full image.  </s>
+<s> if heat the cause of hd failure, be sure to clean innards and provide better cooling as the problem will continue.  </s>
+<s> also, verify that any screws aren't &quot;real tight&quot; they need be only snug.  </s>
+<s> tada -----willy  </s>
+<s> thanks for the advice.  </s>
+<s> the sound is like the hd is revving.  </s>
+<s> i'm using hd tune pro and i've been on the pc for about 30 minutes and the temp is 102 degrees fahrenheit.  </s>
+<s> i'm not sure if that's good or bad.  </s>
+<s> i'm using their acoustic management option and the pc is not making that revving noise.  </s>
+<s> i guess that confirms that it is a spinning issue.  </s>
+<s> at least i can would a cooling system help?  </s>
+<s> it's a dell xps gen 5 which has 4 hd slots (only 1 is being used).  </s>
+<s> increased system cooling should benefit the whole system.  </s>
+<s> while you have 1 hd present, the system case is putting out the heat and &quot;airflow&quot; is key to maintaining a desired level.  </s>
+<s> thus, be sure any dust bunnies are cleaned out, the cables/harness is routed well, any possible frt.  </s>
+<s> panel filter/inlets are clear and all fans are working now.  </s>
+<s> add an extra fan(s) to &quot;exhaust&quot; if empty placement is available.  </s>
+<s> check out: for what's out there and others.  </s>
+<s> cooling in general is always a plus.  </s>
+<s> tada -----willy  </s>

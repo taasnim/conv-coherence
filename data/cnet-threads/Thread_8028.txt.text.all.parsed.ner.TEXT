@@ -1,0 +1,66 @@
+<s> hello, i will list system specs below.  </s>
+<s> i have used nvidias bios update utility multiple times without any trouble, but today i went to flash the newest bios revision using the utility and it made my comp really laggy and it was freezing up whenever i tried to open some programs.  </s>
+<s> so i figured that it was just the bios flash and that i would just flash back to the old revision.  </s>
+<s> so i did so and then when my comp restarted it wouldn't post.  </s>
+<s> i got out the manual and cleared the cmos according to the instructions.  </s>
+<s> before i did so i got and error code 50, after i cleared them it doesnt even run through the codes and i just get a - - in the spaces and no post.  </s>
+<s> i took out and put back in one at a time everything but the cpu, tried clearing cmos again multiple times, prayed, and nothing but the -- in the error code boxes.  </s>
+<s> thank you for any replies and help!  </s>
+<s> mobo: evga 680i cpu: intel pentium d 820 memory: 2 x 1 gig sticks of pc-4300 corsair value(dual channel set up) video card: 2 x bfg 7600 gtoc in sli psu: 550w nspire hdd: a 300 gig seagate ata with windows installed on it, 160 gig seagate sata with almost everything else but windows. the error code 50 in the manual says &quot;exit and replace nvmm&quot; and there is nothing about the &quot;--&quot; when it doesnt go through the tests at all.  </s>
+<s> &quot;--&quot; is probably the only response your system can give as it's hosed. the error 50, is probably telling you to replace the bios chip itself as its gone too far to recover or it has failed.  </s>
+<s> you're stuck and need to replace the bios chip and really there's no routine to recover on your own.  </s>
+<s> contact a 3rd party bios maker, i suggest or any other vendor/service.  </s>
+<s> these things happen.  </s>
+<s> tada -----willy  </s>
+<s> sounds like rma time!  </s>
+<s> i can't any reference to &quot;nvmm&quot; outside of your mobo's manual.  </s>
+<s> if you can't post, you can attempt another bios flash, so it seems like its time to return it.  </s>
+<s> i dont know what nvmm is either and at their knowledge base doesnt have an answer for either code 50 or nvmm.  </s>
+<s> its under warrenty still so ill contacat their tech support and see what they say, which they wont have a clue like usual, and it shouldnt be a problem to send it back.  </s>
+<s> thanks for the info willy and ramarc!  </s>
+<s> the bios unless it's to overcome a serious error or problem.  </s>
+<s> you didn't indicate that was the case or did i miss that ?  </s>
+<s> most mfgs will ship you a new bios chip but not for free.  </s>
+<s> let us know how it works out.  </s>
+<s> vapcmd  </s>
+<s> one of the fixes listed in the information for the update.  </s>
+<s> i have been trying to find solutions to the sli problem that many people are having when running graphic intensive programs in sli mode.  </s>
+<s> im pretty sure its the nvidia drivers but i thought i would give it a shot.  </s>
+<s> looks like i screwed myslef though.  </s>
+<s> o well, thanks for the advice!  </s>
+<s> but the good news is a new bios from the mfg will bring it back to life. the sooner you place the request...the sooner you'll be back in biz.  </s>
+<s> let us know how responsive the mfg is.  </s>
+<s> vapcmd  </s>
+<s> nvmm = non-volatile memory module or eeprom(bios) my educated guess in this matter.  </s>
+<s> the only reason you're getting any error message are the small routines buried in the bios.  </s>
+<s> (--) maybe the only characters it can access within its limited memory space as it could be any character(s).  </s>
+<s> imho, evga, is a cheap outfit as they been offering items on their own recently and mostly at the bottom end.  </s>
+<s> only now do i see high prcied offering, but i avoid such myself.  </s>
+<s> -----willy  </s>
+<s> my deaf and blind dog that has no legs is more responsive.  </s>
+<s> so i got the new motherboard.  </s>
+<s> terrible process, evga must not know how email works or something because they are terrible at communication.  </s>
+<s> this one works, but im not getting a terrible noise from the processor?? im going to reseat it and see if that helps, if not im guessing its the motherboard because it never did that before.  </s>
+<s> are they supposed to send you brand new ones when u rma it?  </s>
+<s> or do they send you the ones that they used to test, or ones they fixed or something?  </s>
+<s> this one is clearly not new.  </s>
+<s> didnt even have to put pressure on the memory sticks, they slid right in, all four slots, in my past experiences that has never ever happened even when ive removed and replaced the memory tons of time.  </s>
+<s> im getting really frustrated with this and and beginning to wish i would have bought the board from bfg, ive had such a great experience with them.  </s>
+<s> chip which evga could have furnished but i know some mfgs charge for the new eeprom and shipping.  </s>
+<s> and as someone else suggested there are also third party vendors that can provide the flashed eeprom for your system.  </s>
+<s> you remove the old eeprom and insert the new one.  </s>
+<s> i like the replacement eeprom solution from the mfg or the third party if that's all that's wrong with the mb. when you rma a mb, mfgs may furnish new a brand new mbw however i have seen rmas get replaced with other rma boards that weren't defective or repaired mbs including some older revisions of the board.  </s>
+<s> ugh.  </s>
+<s> vapcmd vapcmd  </s>
+<s> and they said no just to send it back, they refused to even discuss the bios or anything to do with it.  </s>
+<s> i would have contacted phoenix and replaced it myself but i didnt want to void the warranty in case something else goes wrong.  </s>
+<s> and im beginning to believe now that im stuck with another dud.  </s>
+<s> im going to try to contact someone there that has a clue what there doing and see if they have the capacity of mind to explain to my why they cannot communicate with customers and why i have another board that is making a bunch of noise and under performing compared to the other one i had.  </s>
+<s> if they cant do something for me im just gona tell em to shove it and ill spend the money on a new one from bfg.  </s>
+<s> understand about returning mb...it can be frustrating to say the least.  </s>
+<s> my biggest concern is neither evga or bfg are what i'd callled tried and tested mb mfgs.  </s>
+<s> keep us posted.  </s>
+<s> vapcmd  </s>
+<s> your right they are not tried and tested, however, i would gladly deal with the problems with the care of bfgs coustomer service, had a bad video card, told em, they tested theirs with my set up, called me back in an hour, told me they didn't find problems so mine was bad, had a new one within a week.  </s>
+<s> doesn't get better than that.  </s>
+<s> thanks for the info!  </s>

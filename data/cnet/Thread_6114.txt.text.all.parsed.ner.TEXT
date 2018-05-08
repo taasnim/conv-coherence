@@ -1,0 +1,216 @@
+<s> hello everyone: my first post on this forum.  </s>
+<s> in the nov.  </s>
+<s> issue of pc mag on pages 106 & 107 there is an ad for a new hardware device called &quot;iphantom&quot; offered by phantom technologies, { it supposedly protects your network and pc against viruses, adware, spyware, network intrusion and identity theft while allowing you to surf anonymously over an encrypted link by providing a hardware firewall between your broadband modem and your router or pc. has anybody purchased one of these devices or seen any evaluation wriiten or broadcast anywhere?  </s>
+<s> if this device functions as they claim it could easily solve alot of our internet security concerns.  </s>
+<s> i have no connection with this company, i'm just tired of fighting malware and intrusion attempts on my pc's, friends pc's, family pc's etc. is this the answer?  </s>
+<s> pete  </s>
+<s> the anonymous surfing claim is doubtful to an outright lie.  </s>
+<s> it's not unlike snail mail delivery to your home but you're removed the home's address and mailbox.  </s>
+<s> this only works if some other address proxies the request and forwards the data back to you.  </s>
+<s> if what you posted is all there is, the product is to be avoided like the plague.  </s>
+<s> bob  </s>
+<s> the iphantom does pass your data through remote gateways in order to protect you identity on the internet.  </s>
+<s> rob, you're right to say this is necessary for this to happen in order to get that kind of protection.  </s>
+<s> i am very happy with the service.  </s>
+<s> basically, what you are getting is gateway protection (virus scanning, adware/spyware scanning, network intrusion, etc) for a fraction of the cost.  </s>
+<s> on top of this, all of the data between yourself and the gateways is encrypted to protect the information entering and leaving the network.  </s>
+<s> even if i were to set up gateway antivirus protection (which is expensive if it works), i wouldn't get the encryption.  </s>
+<s> i've talked to the guys there and they are very friendly and helpful. the explained that they are running a lightweight udp protocol and using standard 256-bit aes encryption. the setup was easy and its been working flawlessly.  </s>
+<s> sometimes i can't even tell it is there.  </s>
+<s> from what i've seen and heard, this company is legit.  </s>
+<s> i heard about them from leo.  </s>
+<s> i was in the same boat as you rob initially.  </s>
+<s> there are a lot of standard firewalls that claim privacy just by using nat (sure you get a private address from nat, but that has nothing to do with privacy on the net).  </s>
+<s> however, i am very happy with this device.  </s>
+<s> hey hawk, i did not purchase one until i heard more people that used it.  </s>
+<s> i heard it on leo laporte show on am 640 in l.a. and also on his security now podcast.  </s>
+<s> this device is like what large companies run but on a smaller scale and user friendly.  </s>
+<s> google leo laporte iphantom and you should find his review.  </s>
+<s> i am using it and to be honest, it really does work.  </s>
+<s> peace of mind is what you are paying for and it does annonymize me.  </s>
+<s> they have a 30 day money back guarenty so you have nothing to lose.  </s>
+<s> most people knocked it before trying it.  </s>
+<s> it did slow my connection about 10% but thats nothing considering i am still pushing 3 mb compared to the useless annonymizer which was barely usable.  </s>
+<s> i does not get in the way of any of my programs either.  </s>
+<s> to be honest, you forget its there. the tech support is really knows their stuff.  </s>
+<s> your requests are to another gateway, but still pass through your isp and as such the information is loggable there.  </s>
+<s> if you've been following the fallout of the patriot act, you know the isps have only some months to install these devices on their networks.  </s>
+<s> you are paying for something that does not work as well as you wish.  </s>
+<s> only the sites see the proxy address, but the isp sees the real request.  </s>
+<s> please think this over.  </s>
+<s> cheers, bob  </s>
+<s> bob, i think you missed the encryption portion. the iphantom uses aes encryption to encrypt all of the data between the iphantom and the gateways.  </s>
+<s> this would prevent any logging by the isp unless they can decrypt 256-bit aes encryption.  </s>
+<s> i don't see why you would think this is a sham.  </s>
+<s> and the powers that be will decrypt such content.  </s>
+<s> it is not bullet proof.  </s>
+<s> also the proxied site is simply tapped for it's ins and outs.  </s>
+<s> have you researched what fallout there is from the patriot act and the new wiretap provisions that isps must provide?  </s>
+<s> with all this, i applaud their marketing of the product but as you pull back the curtain it all seems to fall apart.  </s>
+<s> cheers, bob  </s>
+<s> i still think you are missing the point.  </s>
+<s> besides the encryption, the iphantom provides the easiest gateway antivirus, spyware, adware, network intrusion prevention that i have ever used.  </s>
+<s> coupling it with my software antivirus gives me all around protection.  </s>
+<s> as far as the encryption part, i know from talking to them that each device is programmed with a unique key.  </s>
+<s> besides making my data private, it keeps data sniffers and other people from communicating directly with my broadband connection.  </s>
+<s> and they manage all of that for me.  </s>
+<s> if you look at the big picutre, it is worth it.  </s>
+<s> if you've ever dealt with gateway protection (antivirus, etc.) you'd know its expensive and can be complicated.  </s>
+<s> i do network security administration and at first was skeptical like you were.  </s>
+<s> i tried it and was happy to find that it actually works.  </s>
+<s> as a designer of embedded electronics of the cellular type equipment, our us gov doesn't allow marketing of products they can't tap into or decode.  </s>
+<s> your faith in these products shows how good the marketing is.  </s>
+<s> my design background in the telecom work has me thinking what a good job they did.  </s>
+<s> cheers, bob  </s>
+<s> i don't know if you read the entire previous post, i was talking about the other aspects of the product and how the encryption is a vital part of it.  </s>
+<s> using encryption between your connection and their gateways provides a prefiltered line that has all of the gateway security applied to it.  </s>
+<s> this prevents anyone from communicating directly with your network connection and allows you to get gateway antivirus, spyware, intrusion protection, etc without all of the hassles with a simple setup.  </s>
+<s> i still don't see how you can claim that this doesn't make sense especially if you do design in the networking related field.  </s>
+<s> i can tell from your original posts that you hadn't even looked at the product based on what you posted.  </s>
+<s> giving advice on something you haven't researched is misleading and is the opposite of helpful for people looking for information.  </s>
+<s> i guess we can go back and forth on this, but having managed gateway protection at the price they offer is a great deal as i know what this costs.  </s>
+<s> you missed my point entirely.  </s>
+<s> the us gov forbids products from our markets.  </s>
+<s> i'm sure you'd understand once you are in the business. the product will lock out the masses, but not our gov.  </s>
+<s> your advice is incomplete here and shows you don't know what the feds require in the comm' world.  </s>
+<s> bob  </s>
+<s> i am a network administrator in the business.  </s>
+<s> my argument for the last few posts had to do with network security (gateway antivirus protection, antispyware, network intrusion protection, etc.) what does this have to do with the federal gov? the only thing it does have to do with them is that they use similar protection on their networks as do large companies for a high price.  </s>
+<s> there are other companies, like prolexic, that provide similar types of service but for thousands of dollars. the concept has been extended for the smb and home.  </s>
+<s> as far as probing and tapping goes, i'd rather have an encrypted connection than nothing at all.  </s>
+<s> the p2p users love these devices since they feel it will sheild them.  </s>
+<s> oops, it just moved them higher on the radar and may have enabled easier taps for the ones that would be interested in such.  </s>
+<s> bob  </s>
+<s> i just noticed all the back and forth on this topic.  </s>
+<s> i noticed bob that rjla has a good point.  </s>
+<s> you do not know anything about this product but you are quick to judge.  </s>
+<s> i too was a skeptic but as rjla noted its about more than just the anonymous portion, its about keeping the line clean.  </s>
+<s> also, what do you recommend regarding the anonymous portion.  </s>
+<s> you talk about the gov.  </s>
+<s> and laws so that i can only assume you have a law degree or are just another conspiracy theorist.  </s>
+<s> the man is watching.  </s>
+<s> what are you using now to be anonymous, nothing.  </s>
+<s> i assume using something to be anonymous is better than nothing even if, as you claim, the gov.  </s>
+<s> can eventually gain access to it.  </s>
+<s> using your logic, if the gov can gain access to encrypted packets then using nothing is the worst thing you can do because the gov.  </s>
+<s> does'nt even have to lift a finger to monitor you.  </s>
+<s> let me know how you solve this problem.  </s>
+<s> also, why all this gov.  </s>
+<s> fear. the anonymous portion also prevents from non-gov from looking in like your isp,riaa,etc.  </s>
+<s> are these not something to worry about.  </s>
+<s> i worry about these before the government or better yet, forget the gov.  </s>
+<s> as we all know who they work for... the truth is out there  </s>
+<s> i just don't see how you can claim that the only purpose of a device like this is to be anonymous.  </s>
+<s> i know other businesses using it besides myself.  </s>
+<s> and no one on their network or mine download anything on p2p.  </s>
+<s> no matter what i say, you like to circle around to conspiracy theory and 1 aspect of the device.  </s>
+<s> there is much more to it than p2p downloading.  </s>
+<s> i just don't think you'll ever understand that.  </s>
+<s> part of the fallout from the patriot act is a clause to allow remote wiretaps (or monitoring) of internet connections at isps and &quot;access providers.&quot;  </s>
+<s> this has caused a problem for libraries, universities whose routers and such don't have the needed taps for out government.  </s>
+<s> here's why.  </s>
+<s> it's the money.  </s>
+<s> while it's a government mandate to provide the tap points there was no provision that the goverment would pay for retrofitting or changeout of the old equipment.  </s>
+<s> your device is not as secure as you think since your provider has to provide these taps. the same issues caused delays in digatal cell phone rollouts.  </s>
+<s> before they could just tap the analog lines.  </s>
+<s> now we not only have to design in the taps but allow taps via remote access.  </s>
+<s> this is not theory but reality.  </s>
+<s> bob  </s>
+<s> bob, as they said earlier in a post.  </s>
+<s> i do not think you read the post but just reply.  </s>
+<s> i do not know if it is because that is the only answer you can give.  </s>
+<s> i just finished stating that the gov. is not who i really care about.  </s>
+<s> most people are not doing anything so grave that they are worried about the gov. the riaa and is not the gov.  </s>
+<s> they do not have the power to tap lines nor do i believe the gov.  </s>
+<s> will give them access to tap because they feel someone is violating them.  </s>
+<s> what is with this gov.  </s>
+<s> tie up.  </s>
+<s> give up the gov.  </s>
+<s> comments.  </s>
+<s> why do you not comment or give credit to the products full potential and give up the gov.  </s>
+<s> hang up.  </s>
+<s> forget the whole anonymous thing and let me know what you think about the product as a network device regarding the antivirus,spyware,etc and its ease of use.  </s>
+<s> this in my opinion is worth every penny.  </s>
+<s> no hassle if my kid antivirus is up to date and the no brainer set is awesome.  </s>
+<s> it's not bad stuff.  </s>
+<s> but with my experience of people bringing those pests (and rootkits) in on cds and more, maybe this plus a total lockdown is the answer?  </s>
+<s> bob  </s>
+<s> writes: &quot;under a 1994 law known as the communications assistance for law enforcement act, telephone service providers must offer law enforcement agencies the ability to wiretap digital networks.&quot;  </s>
+<s> be sure to follow this lead to other laws that require your isp and the services you connect to, to provide not only telephone service taps but remotely monitor the service provider's networks.  </s>
+<s> if anyone thinks this box will shield their activies... bob  </s>
+<s> lets face it bob, of course you must let the law tap the line if they request it.  </s>
+<s> they are not monitoring all lines at all times.  </s>
+<s> what is being said here is that the everyday guy is protected.  </s>
+<s> if you are the mafia, or a online psyco, then this is some protection.  </s>
+<s> most of us do not fall in this extreme catagory.  </s>
+<s> most are like myself, being encrypted protects against others besides the law.  </s>
+<s> its protects you when you go to a hotel and plug into that network.  </s>
+<s> things like that.  </s>
+<s> if you are being monitored by the police, tapping you internet line is the least of you worries and definatly not going to be the only thing they are listening in on.  </s>
+<s> they would have tapped your cell, home phone, work, bank account,etc.  </s>
+<s> this idea you have that this is going to get you caught it just out there.  </s>
+<s> lets face it, these guys have a good product, good support, nothing out there that i have seen at even close the price.  </s>
+<s> can you get over your negativity and agree that its a good device.  </s>
+<s> again, what do you suggest?  </s>
+<s> bob, you are suggesting that because this does not protect against viruses brought in by a cd that it is over kill?  </s>
+<s> what planet are you on.  </s>
+<s> did you ever think this plus a software antivirus is key. is this not what is done at almost every large corporation.  </s>
+<s> total lock down?  </s>
+<s> yes, do all you can to prevent.  </s>
+<s> your mentality is so far out, you suggest that to much protection is lock down.  </s>
+<s> remember, you should already have software antivirus, this is seemless and run on the back end with no software.  </s>
+<s> why not.  </s>
+<s> bob, you just have nothing better so say.  </s>
+<s> you have not recommended something better than a combination of software and hardware antivirus.  </s>
+<s> all you can say is the sky is falling.  </s>
+<s> do you just do this to post something to remain as a moderator as you have no suggestions?  </s>
+<s> that sums it up for me.  </s>
+<s> however, any other mac/linux/pc box can do this so it's not a product exclusive.  </s>
+<s> i'll admit their marketing is good.  </s>
+<s> bob  </s>
+<s> to achieve the results you seem to want, we have to move to a total lockdown.  </s>
+<s> anything less will negate all the positive effects of this investment.  </s>
+<s> bob  </s>
+<s> i beleive that we should shoot for total lock downs.  </s>
+<s> we should find every means of protection to secure our computers and lives.  </s>
+<s> purchasing the iphantom only increases our security along with other measures.  </s>
+<s> i am glad to see that you agree the combination of software security along with that of the iphantoms gateway security is a good thing.  </s>
+<s> nothing can protect you from everything, but this combination is the best i have found out there.  </s>
+<s> &quot;nothing can protect you from everything, but this combination is the best i have found out there.&quot; thanks, superhifi, for restoring perspective.  </s>
+<s> i have to admit that, in his obsession, bob p. may have a point, given ongoing revelations re the washington mob's nefarious deployments of nsa, fbi, dod and who knows what else. sadly, however, bob's point is irrelevant to the real discussion here. the only real solution to bob's concern won't be technological but rather political -- investigation, exposure, censure, impeachment, and/or conviction.  </s>
+<s> such issues belong in some other forum, not this one.  </s>
+<s> yet, well meant responses to bob only further encourage him.  </s>
+<s> i found my way to this forum looking for means optimally to protect my system at reasonable cost -- while i try to get my job done.  </s>
+<s> my first computer was an original ibm pc (no hard drive!). i belonged to three user groups and many sigs, talked the tech talk and did my own hardware/software upgrades and fixes.  </s>
+<s> i survived many ms-dos versions plus win286 and 386 (aaarrrgh!), etc. now -- at 71 -- my priorities are quite different.  </s>
+<s> i still work against tight deadlines with a hefty workload, but i now have a distinctly finite amount of time on this planet.  </s>
+<s> hence, i'm urgently more interested in work product than in process.  </s>
+<s> in this case, all i wanted to know was: a) what's the difference between stingray and the phantom products?; and b) what hands-on, real-world experience does anyone have using these products to prevent threats to their work?  </s>
+<s> among you, despite the static, you gave me what i came here for.  </s>
+<s> i'm grateful for your helpfulness.  </s>
+<s> now i'll be calling phantom and will let you know my own experience with the product.  </s>
+<s> good holidays, thomkil  </s>
+<s> gentlemen: i've been away from this forum since my original post.  </s>
+<s> i purchased one device for my daughter.  </s>
+<s> she installed it and loves it.  </s>
+<s> it has totally cleaned up the malware she used to experience when online.  </s>
+<s> her husband called a friend of his that runs computer security for a large credit card firm.  </s>
+<s> his friend, a highly respected computer engineer, said his firm highly recommends the iphantom to their customers.  </s>
+<s> i understand where everyone is coming from in this continuing debate.  </s>
+<s> the point is that this device makes online security easily attainable for nontechnical people.  </s>
+<s> i for one do not have any fear about govt.  </s>
+<s> taps.  </s>
+<s> if i were a terrorist or pedophile or downloading music, videos or software then i might be concerned that iphantom is not located offshore.  </s>
+<s> i am grateful that our govt. is doing it's best to protect us!  </s>
+<s> i can't go into specifics but one of our beautiful cities still exists only because a friend was able to prevent an incident from occuring because of the govt.  </s>
+<s> ability to ''tap'' online communications.  </s>
+<s> for that i'm grateful!  </s>
+<s> thank you all for the educational debate!  </s>
+<s> merry christmas and happy holidays to all.  </s>
+<s> quantumhawk  </s>
+<s> i've been wanting to get the iphantom for my home network.  </s>
+<s> i do have two questions.  </s>
+<s> 1. will the iphantom protect ports that software is &quot;listening&quot; to?  </s>
+<s> or does it have a way to &quot;poke holes&quot; in the firewall that would unsecure the ports?  </s>
+<s> 2. does iphantom cause latency or other issues with world of warcraft online play?  </s>
+<s> thanks!  </s>

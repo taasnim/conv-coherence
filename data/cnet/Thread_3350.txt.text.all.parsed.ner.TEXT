@@ -1,0 +1,9 @@
+<s> i currently have a celeron 2.2ghz socket 478 running inside a dell dimension 2400 still with the stock dell motherboard.  </s>
+<s> currently, identification programs such as cpu-z have listed the effective fsb as 400 with a true fsb of 100.  </s>
+<s> i have heard other people describe intel fsb's as &quot;quadpumped&quot; (100x4=400).  </s>
+<s> does anyone know if 400mhz is the limited effective speed for this computers motherboard because i'm curious to know if putting a socket 478 pentium 4 with an 800mhz would work in this computer.  </s>
+<s> if 400mhz is the limit, meaning the pentium 4 with 800mhz won't work, will a pentium m that fits into a socket 478 that runs around 1.8ghz be able to beat a celeron at 2.2ghz (my current chip)?  </s>
+<s> to see if they give the part/model number of the mobo?? then go to the mobo mfr's site to see.  </s>
+<s> obviously, among other things it would require faster memory.  </s>
+<s> does the data you have give you the part number of the mch chip of the chipset?? here's a link to get intel documents.  </s>
+<s> search for the chipset.  </s>

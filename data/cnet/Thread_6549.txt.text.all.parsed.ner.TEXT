@@ -1,0 +1,66 @@
+<s> hey guys...i am trying to resolve this problem for someone at work.  </s>
+<s> she uses this keyboard to input recieving orders, nothing really daunting on the keyboard at all.  </s>
+<s> anyway, just today the little light in the right corner next to the volume knob became solid blue-purple and the keyboard does not respond now.  </s>
+<s> it used to always blink while it was active.  </s>
+<s> already read the manual on everything to try, reset, new batteries.... so really not sure on what is left to try.  </s>
+<s> dell doesn't offer anything outside of the manual, which i said didn't help.  </s>
+<s> anyone have any experience with these? it is a dell optiplex gx240, rather old but still in good condish. it uses win 2000.thanks  </s>
+<s> you didn't tell.  </s>
+<s> i am not sure if i did in the first place.  </s>
+<s> the thing is, all the machines in the warehouse have these keyboards and this is the first one to have problems. the driver software was installed properly on all of them.  </s>
+<s> what do i need to do to 'pair' these together?  </s>
+<s> keep in mind, i will be testing this on another pc that has xp professional instead.  </s>
+<s> not only would you have to install the driver for the bluetooth dongle, but pair it before it would work.  </s>
+<s> all this is in the manuals and i'm just a programming dealing with bluetooth in my application.  </s>
+<s> i did not read the manual for your keyboard and i didn't look for it.  </s>
+<s> i had hopes that me mentioning pairing would ring a bell.  </s>
+<s> in short, moving it to another pc will bring with it a lot more work than just pairing it (a bluetooth procedure you do all the time).  </s>
+<s> bob  </s>
+<s> okay, then apparently we made biiiig mistakes, lol.  </s>
+<s> well what must one do to pair this keyboard with it's usb counterpart?  </s>
+<s> i am going to give this another try tomorrow.  </s>
+<s> i can only guide you to generic answers.  </s>
+<s> like these -&gt; .  </s>
+<s> okay, i have the keyboard in front of me now.  </s>
+<s> what numbers do you need?  </s>
+<s> i have a model number of: y-raq-del2 is there some program i am looking for to pair these?  </s>
+<s> sorry about having so many questions, i just avoided wireless for so long because i dislike it lol.  </s>
+<s> i am not familiar at all with bluetooth.  </s>
+<s> thanks so much, by the way, for all the help you have offered so far!  </s>
+<s> you would give me the link to that manual.  </s>
+<s> this is all volunteer so like me stopping to help you change the tire, you get to show me the tire and more.  </s>
+<s> bob  </s>
+<s> read  </s>
+<s> didn't think to find manual to link to you-i am reading the paper one right now.  </s>
+<s> anyway.  </s>
+<s> yes, that is the one.  </s>
+<s> i have the exact same keyboard, and just tonight, it flipped into the mode you describe - if the power is on, the bluetooth light illuminates with a purplish tint.  </s>
+<s> it happened when my gsm blackberry was very close to it, and i think the strong rf field from the cell phone damaged the programming on the circuit board that runs the keyboard.  </s>
+<s> i've looked at it enough that i'm giving up on it.  </s>
+<s> i like the keyboard, but i can't imagine how i'd get the firmware back into place on this.  </s>
+<s> sadly, it indicates poor design on dell/logitech's part, that a rf-based keyboard would be so susceptible to damage from rf. good luck - if you figure out how to recover from the purple light of death, i'd love to know how!  </s>
+<s> it is very poor design attempt on tier part lol.  </s>
+<s> i have not been able to figure out why, although i did notice everyone in her area has a bluetooth headset on all the time and none of them understand the settings on their phones so someone probably tried to pair it up with their phone lol.  </s>
+<s> if i am actually able to figure something out i will post!  </s>
+<s> i had the same problem that you and synchros described!!! i put my keyboard and mobile in the same pocket and later on when i wanted to pair the keyboard again it didn't work any more =( only the purple led of death.. does anyone knw where can i find a solution?? besides throw it away and never buy dell again?  </s>
+<s> this is so incredibly..  </s>
+<s> my logitech bluetooth through me for a loop last week.  </s>
+<s> i finally had to remove it from the pairing screens (talk about not intuitive) and then pair it up again.  </s>
+<s> it still does not work when i switch users.  </s>
+<s> bluetooth appears to be &quot;not ready&quot; for the market.  </s>
+<s> bob  </s>
+<s> thought i would update to save the next poor soul.. your batteries are dead.. trust me.. the batteries you got from the dollar store are not reliable.  </s>
+<s> been there done that.  </s>
+<s> reading 1.55v on the voltmeter.  </s>
+<s> the issue i noted is just one of many bluetooth gaffes i'm seeing.  </s>
+<s> what am i doing?  </s>
+<s> i'm in year 5 of bluetooth programming with palmos, now porting to windows mobile and more. the bluetooth consortium gaffed it.  </s>
+<s> bob  </s>
+<s> it is not the batteries or anything but the place where you turn the power on and off, in the back, you take off the small square/retangle shape cover and there is a small power board, it is that, that went out, i switch that with another power board and the keyboard works again  </s>
+<s> i had the exact same problem for years but left the keyboard in dust but now need one for a new system.  </s>
+<s> i opened it up and found this power board.  </s>
+<s> where did you get a new one?  </s>
+<s> i spoke to dell themselves and they had nothing on their knowledge base about this issue which i think is amazing. the tec said to me they would normally just swop the keyboard over so i'm assuming that this is a well known problem that they aren't admitting to as it;s a design fault.  </s>
+<s> you'll note that they have discontinued the product.  </s>
+<s> did any one manage to find out where to get the spare power part from?  </s>
+<s> thanks  </s>

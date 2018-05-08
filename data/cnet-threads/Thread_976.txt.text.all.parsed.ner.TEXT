@@ -1,0 +1,39 @@
+<s> 1) are there any gpus available now that will allow me to take advantage of aero (or whatever that 3d vista desktop function will be called)?  </s>
+<s> nvidia cliams that its geforce 7 series is ready for vista but... with vista so far away from release, how can they be sure?  </s>
+<s> i plan to get a powerful gpu now and sli it later.  </s>
+<s> but if i'll have to wait until the dx10 cards, then i don't want to waste my money now.  </s>
+<s> 2) what's the best way to connect 3 pata drives with only two pata ports?  </s>
+<s> i'll have dvd-rw drive, dvd-rom, and a 300gb ata-100 hdd.  </s>
+<s> i've heard that placing a optical drive and hd (master and slave respectably, or vice versa) will hurt performance.  </s>
+<s> vista gpu: you'll need direct x9.0 h/w support in the gpu.  </s>
+<s> on the ati side, the radeon x800/x1800/x1900 series with at least 128mb of ram will be sufficient.  </s>
+<s> 256mb will be better.  </s>
+<s> i would avoid radeon x1300s.  </s>
+<s> for nvidia, geforce 6000/7000 series with 128mb of ram is needed.  </s>
+<s> i would avoid the 6200s and 7300s.  </s>
+<s> pata drives: your pata 'ports' on the mobo each support two drives with the proper cable, so 2 pata channels support 4 drives.  </s>
+<s> retail drives usually come with the proper cables.  </s>
+<s> put the hd on the primary (typically ide 0) port, and the dvds can share the secondary port.  </s>
+<s> with this os more than 6 months away and doubtful features, it's best to wait this one out.  </s>
+<s> 2. the correct way is the one that works for you.  </s>
+<s> a long time ago it made a big difference to get it just so but then i could show that the &quot;right&quot; way was incorrect in a specific test.  </s>
+<s> therefore, there is no right way except to tell what the test will be and then hook it up to do best at the tests.  </s>
+<s> example 1. disk to disk?  </s>
+<s> each on it's own channel.  </s>
+<s> example 2. dvd to dvdrw?  </s>
+<s> each on it's own channel.  </s>
+<s> be aware that some cd/dvd drives will cause some slowing of the pate ide channels so to get all combos at top speed is self defeating.  </s>
+<s> pick what you want to do and optimize for that. the good news is sata doesn't appear to have this issue.  </s>
+<s> bob  </s>
+<s> i guess that's a no on the vista gpu.  </s>
+<s> damn, i was really hoping to get a gpu now and sli it when vista came out.  </s>
+<s> maybe i'll try a 6600 for a bit... i will try it with the two optical drives together and the hdd by itself since i'll most likely use the hdd more than the optical drives.  </s>
+<s> the reason why i like both a dvd and dvd-rw drive is because i don't like taking my dvds to school.  </s>
+<s> usually someone takes it and never returns it or returns it all scratched up.  </s>
+<s> i really wish this hd was sata but $50 (after rebates) for a 300gb seagate was a hell of a deal.  </s>
+<s> thanks guys.  </s>
+<s> ms released final vista hardware requirements last week.  </s>
+<s> i read somewhere that dx10 games will not run on any previous versions of dx. so, the evga 7600gt i'm looking at says vista ready but says nothing about being dx10 capable.  </s>
+<s> and i've read that vista does require a dx10 card but instead can be fully functional with a dx9 card given that it meets certain requirements.  </s>
+<s> am i right in assuming that today's dx9 cards may work with vista but will not work with dx10 games?  </s>
+<s> if yes, then it's more reason for me to not get a video card and use the money for something else.  </s>

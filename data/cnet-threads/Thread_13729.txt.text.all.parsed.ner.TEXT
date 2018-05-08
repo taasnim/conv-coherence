@@ -1,0 +1,27 @@
+<s> i would like to ask you if it is possible to extent wifi range with one extra wifi router.  </s>
+<s> i have one wifi router which is connected to dsl line with ip address 192.168.254.1 and its lan ip is set up to 192.168.2.1 and dhcp range from 192.168.2.2 to 192.168.2.30.  </s>
+<s> mask is 255.255.255.0 in all cases.  </s>
+<s> i have bought one additional router because the range of antenna was not satisfied and i need to extend the range around couple of meters.  </s>
+<s> due to it was the most convenient solution for me. the first router is us 125bg and the second one is cnet cwr 854.  </s>
+<s> all both of them are brand new router and operate perfect as stand alone.  </s>
+<s> problem is in reconnection all of them.  </s>
+<s> when i tried to connect them together via air they are not so communicative that why i am asking for you help.  </s>
+<s> despite i have already researched all internet i did not find any proper diagram which can help me in my troubles.  </s>
+<s> i hope that it is possible to use one additional router as an ap. the additional router had following configuration: lan: ip 192.168.2.40, mask 255.255.255.0, gw 192.168.2.40 wan only dhcp no any special configuration, perhaps nothing is connected to its wan port, wifi method is set up as wds+ap.  </s>
+<s> if you require any specific information regarding this issue i am ready to support you.  </s>
+<s> very many thank for your ideas and references, kind regards, martin.  </s>
+<s> but in short you can create a wider area if you use routers as access points or aps.  </s>
+<s> this is the cnet discussion forum (nothing to do with cnet routers) so you are not on a cnet router support site.  </s>
+<s> this is where people discuss things and help another.  </s>
+<s> since you didn't give links to the manual i'll just note the usual method.  </s>
+<s> bob  </s>
+<s> i hate it when the forum organizers answer a question.  </s>
+<s> they want to inform you that you are posting in the wrong forum.  </s>
+<s> soooooo annnoyyyyyinnnnngggg. i would slap you if i could.  </s>
+<s> since this is a member to member forum, answer the questions of the other members.  </s>
+<s> there is some confusion about the cnet network products and this forum.  </s>
+<s> a few members demanded support and after too many times of that, i have to make it clear this is not that forum.  </s>
+<s> bob  </s>
+<s> is that this is cnet.com's forums, not to be confused with cnet usa, which is completely different company and we are not affiliated in anyway with them: cnet usa cnet.com i hope this clears things up.  </s>
+<s> cheers!  </s>
+<s> -lee  </s>

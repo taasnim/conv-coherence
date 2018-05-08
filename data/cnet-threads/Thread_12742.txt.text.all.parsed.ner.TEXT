@@ -1,0 +1,9 @@
+<s> i m facing 2 problems with my hp compaq dx 2009 vsff system (the small cpu) 1. when i install graphix drivers for it the monitor [hp w15v] displays- out of range, and 2. when i install my hp psc 1410 all-in-one printer software it stops saying [the processor on this computer does not meet the minimum system requirement because it is not supported or it is too slow] os-xp version 2000 sp 2 hp compaq dx2009 very small form factor pc - specifications technical specifications feature specification processor  </s>
+<s> you can't be helped.  </s>
+<s> assuming you downloaded the xp drivers from hp.com and installed them in correct order (primarily chipset before vga), the default display mode must be beyond the range of the monitor.  </s>
+<s> only way you can set a resolution/refresh within range of the monitor is to use another more capable monitor with wider range of display res/refresh (beg/borrow?) to alter the display mode and then re-connect to your w15v.  </s>
+<s> via cpus derive their low power rating by using software instead of hardware to execute some functions.  </s>
+<s> since most, if not all, low-end aios require the cpu to process vector graphics, the c7 is likely underpowered for the task.  </s>
+<s> item 1 is sometimes corrected by booting safe mode (which i no longer tell how since we can research that on our own) then setting the display mode to what the monitor supports (or lower!) item 2 is because the machine doesn't support this.  </s>
+<s> since we can't change this you may want to have others print the pages for you.  </s>
+<s> bob  </s>

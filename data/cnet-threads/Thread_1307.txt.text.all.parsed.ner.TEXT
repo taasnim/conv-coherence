@@ -1,0 +1,19 @@
+<s> good day, i've been trying to reinstall avg anti virus software, i get the following message local machine: installation failed installation: error: action failed for file avg7rsw.sys:  </s>
+<s> starting service.... the system cannot find the file specified.  </s>
+<s> (2) rollback: error: action failed for file avgupsvc.exe:  </s>
+<s> removing file.... access is denied.  </s>
+<s> (5) %path% = &quot;c:program filesgrisoftavg7avgupsvc.exe&quot; i have no ideal.  </s>
+<s> my system crashed a few days ago and conducted a system recovery yet still had to reinstall all programs.  </s>
+<s> any suggestions would help thanks  </s>
+<s> ...only returns you computer to an earlier working state.  </s>
+<s> and as that could be years ago, it's no wonder you had to re-install all your applications.  </s>
+<s> as far as re-instlaling avg...that should really be a question for the &quot;virus and security alerts&quot; forum shouldn't it?  </s>
+<s> personally (i don't use avg) that error you are getting looks like because you have done a system revovery, you os has went back in time (it's one of those delorean pc's!) but all the application folders are still there.  </s>
+<s> when you try to re-install avg, it could be that it's finding another install and dropping you out with errors.  </s>
+<s> it could be that using winblows exploder and manually deleting the avg7 directory would be enough to let you re-install. it could be detecting updates and newer virus defintions and deciding that it'll go no further.  </s>
+<s> but again, you'd get better support in the other forum from people who actually use the software.  </s>
+<s> good luck, gb.  </s>
+<s> thanks for your reply.... your right somehow i did a system recovery and tried to reinstall and kept bumpping heads with the files that was backed up.  </s>
+<s> i deleated all the avg files till i was able to install it again.  </s>
+<s> i should have made a post that i figured it out so that you could have spent your time on more important matters once again thanks for your time.  </s>
+<s> movin  </s>

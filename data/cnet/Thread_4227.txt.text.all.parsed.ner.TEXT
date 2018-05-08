@@ -1,0 +1,44 @@
+<s> specs: 160 gb maxxtor hd windows xp home nforce 2 mobo (with dual channel ram capabilities) nvidia geforce 4 mx 4000+ amd athlon xp 3000+ today i purchased 2 pny sticks of 512mb ddr ram.  </s>
+<s> i have one already in my computer, but another brand.  </s>
+<s> i have 2 banks on my motherboard, 3 slots.  </s>
+<s> i put the new ram into bank 1, and the older one into the second bank.  </s>
+<s> i start windows and after a minute or so or windows being loaded, i get a bsod.  </s>
+<s> i got this twice.  </s>
+<s> (i have the details if needed).  </s>
+<s> i remove the old ram, and everything works fine, for about an hour.  </s>
+<s> then my computer randomly reboots.  </s>
+<s> i start t back up, and get the same thing.  </s>
+<s> the only thing i figure culd be wrong is my vdd power voltage.  </s>
+<s> i set it at 1.6 v, but everytime i start up, stats like the voltage and temps show up, and its red and only showing 1.3-&gt;1.45v.  </s>
+<s> i dont know what the deal is.  </s>
+<s> thinking this problem was with windows and the software, i decide to restore my computer.  </s>
+<s> after backing up and everything, i put all of the ram in and begin the process.  </s>
+<s> at 11% formatting, it freezes completely.  </s>
+<s> so, this must be a hardware problem...ive used each of the ram seperatly so i know none of them is bad.  </s>
+<s> but i cant get them to work, and i dont know why.  </s>
+<s> whats the deal?  </s>
+<s> i thought this would take about 5 minutes and id be all set...not the whole damn day.  </s>
+<s> &gt;_&lt; p.s. im 100% sure the ram is compatable with my mobo and it can handle that much  </s>
+<s> 3 memory slots work with dual channel??? that might be part of the problem.  </s>
+<s> give the manual a thorough read on how to install memory for dual channel.  </s>
+<s> i did look in the manual.  </s>
+<s> it said when ihave 3 dimms, touse all three slots.  </s>
+<s> is it not possible to have 2 ram sticks with dual channel memory?  </s>
+<s> why would they give me 3 slots?  </s>
+<s> in the manual they say its possible.  </s>
+<s> ok...after a fresh install, i put in the 2 new sticks of ram (just 2) the the appropriate slots.  </s>
+<s> it reboot on me after less than a minute.  </s>
+<s> basically, lets be honest.  </s>
+<s> did you actually anti static yourself before taking the thing out of its packet and keep yourself grounded with a armband whilst you fitted it?  </s>
+<s> because when i put my ram in i forgot to do these things and it list.cnet.remains  </s>
+<s> more_fragments more_threads pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train  </s>
+<s> scripts threads the module!  </s>
+<s> sensitivity starts when ram gets bigger that 256...a 256 module is nearly indestructable but youve gotta be more careful with the bigger sizes.  </s>
+<s> secondly, double check that the ram is right for your comp.  </s>
+<s> dual suggests 2 to me personally, and also check its the right speed of memory, this could explain your power issue if it was incorrect.  </s>
+<s> hope this helps.. ozz  </s>
+<s> number of the mobo?  </s>
+<s> if it is socket 754 the cpu does not support dual channel.  </s>

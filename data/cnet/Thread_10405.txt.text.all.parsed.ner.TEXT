@@ -1,0 +1,15 @@
+<s> cpu details ----------- os : windows media center editon 2005 + sp2 ram : 1024 mb ram hd : 300 gb maxtor + western digital cpu : amd 64bit 3500+ net : dsl 1 mbps perheirphals ------------ nic : realtek 8159 nic card 10/100 router: u.s robotic maxg router 5461 pcmcia: u.s robotic maxg pcmcia 5411 modem : speedstream [efficient networks]4060 scenario -------- i am a newbie to networking but any help on this problem is greatly appreciated.  </s>
+<s> i am running windows mce 2005.recently i bought a u.s robotics wireless maxg router + u.s robotics maxg pcmcia card for my pc and laptop.  </s>
+<s> i have a dsl modem. the scenario is. the dsl modem is connected to my pc through usb .  </s>
+<s> i have conneted the usr wireless router to my pc through a network cable to my nic card.  </s>
+<s> now in the wan status of the router,i am not able to get any indication of internet although i am conneted to the net via the usb dsl modem.  </s>
+<s> my laptop is connected wireless to the usr router.the  </s>
+<s> usr does have a wan port but when i connect the lan cable to this port,i am not able to get the web interface i.e configuring the router information etc...but when i connect the lan cable to the one of the 4 ports of the usr router,i am able to get the web interface for the router.  </s>
+<s> is there something that i am doing wrong or is there some information i need to know.also i am able to share files and see my laptop on the network.thanks  </s>
+<s> in advance  </s>
+<s> in order for the router to function as the server of the internet connection, it needs to be directly connected to the modem via it's wan port.  </s>
+<s> if your modems interface is only usb, you should ask your isp for an ethernet capable modem.  </s>
+<s> your configuration would then be: dsl modem &gt;&gt;&gt;&gt; router &gt;&gt;&gt;&gt; pc's  </s>
+<s> thanks for the info.  </s>
+<s> i would look into the issue of getting a new adsl modem.once  </s>
+<s> again..thanks..  </s>

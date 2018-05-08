@@ -1,0 +1,21 @@
+<s> i've been developing my site on my home intranet.  </s>
+<s> my local dns names are of the order: host name/ip addr: musashi 192.168.0.1 host name/ip addr: kenshin 192.168.0.4, 192.168.0.5 url: musashi.mydomain.com  </s>
+<s> 192.168.0.1 url: kenshin.mydomain.com  </s>
+<s> 192.168.0.4 url: secure.mydomain.com  </s>
+<s> 192.168.0.5 (vhost on kenshin) i plan to run an http proxy (probably squid) on musashi.  </s>
+<s> here's my question.  </s>
+<s> once i register my domain with an isp, i'll get assign ips for the isp external dns server.  </s>
+<s> i expect that the url will be something like how does the translation to my internal ip addresses and url take place.  </s>
+<s> let's say i'm assigned an ip like 10.xxx.xxx.xxx how does the resolution to my home page which is on 192.168.0.1 port 80 take place?  </s>
+<s> will i have to change my urls from kenshin.mydomain.com  </s>
+<s> to locally or is there a translation process for that as well.  </s>
+<s> what about secure.mydomain.com  </s>
+<s> (ssl on a vhost @ 192.168.0.5).  </s>
+<s> will i need an additional domain name from my isp to handle the vhost?  </s>
+<s> this is my first attempt at publishing a site so any help will be appreciated.  </s>
+<s> sorry my homepage is on internal ip 192.168.0.4 port 80. detail - details.  </s>
+<s> the 192.168.x.x is not a valid internet address.  </s>
+<s> it's strictly for private lans.  </s>
+<s> your public ip however can be used but your isp may forbid you running a server.  </s>
+<s> your choice to see if they would cut you off if you do this.  </s>
+<s> here's a few solutions you need to review: good luck, bob  </s>

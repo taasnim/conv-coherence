@@ -1,0 +1,32 @@
+<s> hi everyone, computer powers on, fans run, no video or post or beeps.  </s>
+<s> here is a list of what i tried : hp m8300f i disconnected everything, cleaned heat sink, processor and reapplied thermal grease.  </s>
+<s> took all ram out except 1 stick, harddrive, and powered on.  </s>
+<s> fans run but no video,no beeps,nothing, also fans seem to be running really fast and really loud.  </s>
+<s> tried all of these : 1. known working hard drive 2. known working ram 3. i took the processor out and put it on this motherboard - mzn68-la (not 100% sure of compatibility) 4. i tried a known working processor from my other desktop which is a sr5610f.  </s>
+<s> (not sure of compatibility)  </s>
+<s> that model is less than a year old.  </s>
+<s> why not ask hp to fix it?  </s>
+<s> usually, it leaves only the psu and mtrbd.  </s>
+<s> to content with.  </s>
+<s> unplug the ac cord and depress the power-on button for a 10sec.. return ac cord and try to power-on again.  </s>
+<s> if it works, you got a bad power relay on mtrbd.. if not, then again bad mtrbd.  </s>
+<s> or psu. the psu supplies more than one voltage, just because the fan runs means only 12v is present.  </s>
+<s> you can also try the to clear the cmos using the clearing pins/pads.  </s>
+<s> this will reset it to defaults and may clear a problem or not.  </s>
+<s> i would swap out the psu as a 1st step in a repair.  </s>
+<s> if that doesn't work, test other components elsewhere(if possible) like ram, etc.. if you do have any warranty, use it before going hog wild on repair attempts as that may void warranty.  </s>
+<s> computability is critical, it may fit but still not work on cpu sockets, so you do have to know before swapping any parts.  </s>
+<s> tada -----willy  </s>
+<s> hi jawot, i work for hp and saw your post and want to help if i can.  </s>
+<s> can you tell me more about your issue.  </s>
+<s> did this start out of no where, like you just woke up one morning and it wasn't working?  </s>
+<s> did it happen after running a software update, such as a bios update?  </s>
+<s> does anything at all show up on your monitor, does your monitor detect if your pc is connected?  </s>
+<s> it's kind of hard to tell, but maybe you had a failed bios update, or perhaps some hardware has failed, such as the motherboard or power supply.  </s>
+<s> here are some boot and power troubleshooting documents from hp for your pc model: if it turns out this is from a failed bios update, you may need to send the pc into hp for reimaging, or you can also try taking out the cmos battery for about 30 minutes and seeing if that will reset your bios to default.  </s>
+<s> if you want to try the cmos battery step, from the page linked above, there is also a document on replacing the cmos battery.  </s>
+<s> for future reference, here is your hp product support page: let us know how it goes.  </s>
+<s> --although i am an hp employee, i am speaking for myself and not for hp.--  </s>
+<s> the hp computer m8300f has a motherboard (mcp61pm-hm) that apparently has bad 6.3v 1800uf capacitors.  </s>
+<s> it is all over the net.  </s>
+<s> all nine of these caps were replaced on mine by me and now runs fine..... my cost was about 4 bucks plus my time.  </s>

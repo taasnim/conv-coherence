@@ -1,0 +1,18 @@
+<s> i have been trying for the past couple of days to network a couple of pc's.  </s>
+<s> a)win xp - b)win nt. i have b running through a netgear hub where i have a laser copier as well.  </s>
+<s> the thing is that the laser copier is identified in the network but the win nt machine is not.  </s>
+<s> i tried to ping one machine from the other and no luck.  </s>
+<s> they seem to not see each other on the network.  </s>
+<s> however when i enter the ip address of the nt machine in the xp one a message flags instantly on both machines, they can't shared the same ip.  </s>
+<s> i am not a wizard at all on networking, to my disgrace, but if they are not seeing each other on the network why is this message coming up in both machines simultaneously?  </s>
+<s> now i realize that in the nt machine there are two protocols installed: tcp/ip & netbui while xp does not carry netbui anymore.  </s>
+<s> could this be the bloody reason why xp is not picking up this machine on the network?  </s>
+<s> i have tried a million things that have come to my mind to no luck.  </s>
+<s> what suggestions come to your mind guys?  </s>
+<s> please enlighten me... gelson  </s>
+<s> with nbt being the preferred solution, you need to move off netbeui.  </s>
+<s> of course, if you want, there are articles about forcing netbeui into xp. bob  </s>
+<s> forget about netbeui.  </s>
+<s> focus on workgroup names set as the same and file sharing being enabled.  </s>
+<s> also look for those link lights on the nics flashing.  </s>
+<s> check your ips, see that they are not the same.  </s>

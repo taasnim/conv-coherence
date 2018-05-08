@@ -1,0 +1,22 @@
+<s> ok, i live in a house with 4 other people each have their own computer.  </s>
+<s> we have cable internet coming into the house and i was wondering how we would split that connection to all 5 computers.  </s>
+<s> there are 3 people with desktops that dont need a wireless connection but there are 2 people that have notebooks that want a wireless connection.  </s>
+<s> what type or router(s) would i need to get so that the computers would split the connection almost evenly?  </s>
+<s> or would it just be easier and faster for everyone just to direct connect to a router?  </s>
+<s> also what type of speed can we expect for each computer?  </s>
+<s> any help would be very much appreciated.  </s>
+<s> thanks.  </s>
+<s> wireless/wired router will do.  </s>
+<s> naturally the more times you split the connection, speed begins to take a hit.  </s>
+<s> but this usually shows up during large downloads or intensive gaming on the lan, surfing will show hardly any ill effects.  </s>
+<s> so i should just take the switch out & plug all the computers into the router?  </s>
+<s> how good is the typical routers' firewall?  </s>
+<s> do i need to zone alarm all the computers individually?  </s>
+<s> or will the router be enough?  </s>
+<s> if the router has multiple jacks to plug the rj-45 cable into, it has a switch built into it.  </s>
+<s> this is probably the easiest way to go.  </s>
+<s> individual users could add za or another software firewall if so inclined but as long as they don't have file and printer sharing enabled and shared folders on their machines, they should be ok for most uses.  </s>
+<s> sygate personal firewall is another easy to use one free for home use.  </s>
+<s> if the router only has one output, you may be able to put the switch on the downstream (pc) side of the router and have everyone connect.  </s>
+<s> you may want to do some additional checking on that one though.  </s>
+<s> - mm  </s>

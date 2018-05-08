@@ -1,0 +1,26 @@
+<s> mine is wifi router buffalo whr g300n.  </s>
+<s> any alternative way?  </s>
+<s> you would need either a router designed with that capability or a compatible adapter kit that can provide the dc input your router needs.  </s>
+<s> baring that, you get creative and fashion your own.  </s>
+<s> you need to add the dc from some area near your modem. the device used is called an &quot;injector&quot;. you then need to split the data and power signals at the router.  </s>
+<s> typically injectors produce dc at a higher voltage than that which is required for the device they power.  </s>
+<s> this is the hangup you'll run into.  </s>
+<s> if your router gets 6v from it's external ps and your injector produces the typical 48v, you may fry something.  </s>
+<s> have you checked to see what the dc requirements are of your router and if a kit is available to match?  </s>
+<s> while i've no real experience with such fabrications, i do suspect there is a reason for poe to need the higher voltage and that is to ensure delivery of enough current over longer distances such as one encounters over longer wiring runs.  </s>
+<s> my wifi dc is 12 v and cable modem is 12 v. you mean they need total 24 v to supply power to each networking, rite?  </s>
+<s> so i need to buy new power adapter which could supply 24v and the injector.  </s>
+<s> i thought it could make it in easy way without add something component.  </s>
+<s> i see, that's clear...:) btw, do you ever use buffalo's router infinia wireless n? what do u think?  </s>
+<s> thx  </s>
+<s> if your router needs 12vdc, then you need to provide 12vdc to it.  </s>
+<s> look here to see what a google search for 12v poe adaper finds.  </s>
+<s> this does not say that the splitter plug will fit your buffalo router's jack.  </s>
+<s> no, i've never used that router but have set up a wireless network connecting to several aps using poe.  </s>
+<s> in my case, i used a poe switch which carried power and data to all the connected devices.  </s>
+<s> it delivered 48vdc.  </s>
+<s> that's because the aps were designed for poe.  </s>
+<s> your router is not so you have to find or make something to make it work in a manner other than the manufacturer intended.  </s>
+<s> i suspect you're trying to locate the router in an area which will provide the best coverage and that the area you've chosen has no ac outlet handy.  </s>
+<s> poe fills that void and allows you recycle the router by simply disconnecting and reconnecting the ethernet cable.  </s>
+<s> good luck.  </s>

@@ -1,0 +1,67 @@
+<s> i am running an asus p4s800d-x motherboard with a pentium iv 3ghz cpu and 2gb of ram.  </s>
+<s> i currently have an asus a9550 agp graphics card with 128mb of ram and which has one dvi port and on vga port.  </s>
+<s> i had been running a single apple widescreen 20 cinema display on the dvi port for a year or so.  </s>
+<s> now i just added a second monitor which is a dell 24 widescreen ultrasharp display to make it a dual monitor setup. the dell is capable of running on both a vga or dvi signal, but since my graphics card only has one dvi port, i have the dell running on the vga port and the moment.  </s>
+<s> i use the computer mainly for photoshop and working on 50-150mb image files.  </s>
+<s> i found that images look sharper on the apple, even though it is almost 2 years old already.  </s>
+<s> my guess is that the dell would be much sharper if i had it running also on a dvi port.  </s>
+<s> i have been looking at agp cards that i can upgrade to, although there are not many to choose from.  </s>
+<s> there is one by asus i have been looking at with 512mb of ram which is the asus hd2600.  </s>
+<s> i am also looking at a sapphire x1950 pro also with 512mb of ram.  </s>
+<s> before i make a new video card purchase i want to make sure i am going to get the right thing.  </s>
+<s> if anyone could answer the following questions it would be much appreciated: 1 if i put the dell monitor also on a dvi port will i see a noticeable difference in sharpness over the vga signal it is running on now? 2 will a graphics card with 512mb of ram versus 256mb of ram make a noticeable difference in performance for the type of work i am doing which as i said is primarily photoshop with large photo files?  </s>
+<s> 3 i had heard that the sapphire x1950 pro is one of the fastest graphics cards.  </s>
+<s> for the work i am doing do i need something as fast as this? 4 i also heard that the sapphire card requires lots of power and could be a problem in some machines.  </s>
+<s> is this something to be concerned about? 5 if i upgraded to say a graphics card with 256mb of ram and 2 dvi ports, would this be enough of an upgrade to increase the sharpness on the dell and overall increase in performance i am looking for?  </s>
+<s> 6 are there any other graphics cards available that would offer to dvi ports with an agp slot with either 256mb or 512mb of ram worth considering instead of the ones i mentioned above?  </s>
+<s> thank you for your time and hoping to get some good guidance on this.  </s>
+<s> why not start with answering your question #1 yourself?  </s>
+<s> just disconnect your apple monitor and connect the dell.  </s>
+<s> tell what you see.  </s>
+<s> kees  </s>
+<s> thank you.  </s>
+<s> i thought about doing that, but the problem is without the apple hooked up on a dvi port next to it i wont be able to use the apple as a guage for sharpness anymore to see if the dell has become equally as sharp or sharper.  </s>
+<s> and since the apple does not have a vga connection, there is no way to swap them and see if the dell becomes sharper when the dell is on the dvi and the apple is on the vga either.  </s>
+<s> 1) it depends on your eyes.  </s>
+<s> if you've got a good vga cable, you probably won't see any difference.  </s>
+<s> but if you can detect moire patterns, 'waviness', or ghosting now, then dvi should clear that up.  </s>
+<s> 2) 512mb won't help photoshop or any other non-3d application.  </s>
+<s> 3) a fast gpu won't help photoshop either.  </s>
+<s> they're only useful in 3d applications.  </s>
+<s> 4) stick with a hd2600 or x1600 or lower and you won't need to upgrade your power supply.  </s>
+<s> 5) see #1 6) from this list, i'd get the his hd 2600pro 512mb.  </s>
+<s> (i don't care much for gecube cards.) agp 4x cards with 2 dvi from newegg  </s>
+<s> thank you ramarc.  </s>
+<s> of all the replies i have had on different forums regarding this subject, yours is the best and most practical of them all and the his 2600pro card you suggested seems like it offers everything i need for a lot less money than the others.  </s>
+<s> i have a couple more questions though please. 1 - i assume the his 2600pro wont put any power consumption strains on my psu and also wont require an additional psu connection directly to the card? 2 - i don't see moir patterns, 'waviness', or ghosting from the dell running on the vga connection, the issue is only a slightly lower level of sharpness.  </s>
+<s> this may or may not be improved from changing over to a dvi connection on that monitor, i guess that remains to be seen, but from what i read on another forum the sharpness issue may actually be related directly to the dpi rating of the monitor itself.  </s>
+<s> i havent compared the dpi rating specs between the apple and the dell as of yet, but do you think this might be the root of the issue?  </s>
+<s> 3 the extra ram, by going from a 128mb card to a 512mb card, i understand will reduce the strain on the 2gb of system ram i have since photoshop is a ram intensive program.  </s>
+<s> dont you think?  </s>
+<s> i also understand on the ram issue that 512mb of ram will help photoshop in the sense that it will improve upon opening and displaying large image files more quickly and offering a faster refresh and/or redraw rate when i move large image files around on the screen.  </s>
+<s> 1) the 2600pro will need a floppy power connection but shouldn't overtax your power supply since you'll hardly ever be in 3d mode.  </s>
+<s> 3d mode is when the gpu draws the most power.  </s>
+<s> 2) &quot;sharpness&quot; is really subjective.  </s>
+<s> you'll have to try it and judge for yourself.  </s>
+<s> 3) extra ram on a video card (past 128mb) is of no use in 2d mode (non 3d gaming).  </s>
+<s> 256mb is enough for 32bit true color on dual 1920 res screens.  </s>
+<s> if you're using vista aero it will be using the graphics card 3d mode, but even it only requires 128mb.  </s>
+<s> photoshop doesn't use any of your video card's ram.  </s>
+<s> 1 - i have an extra floppy drive connector hanging off my power supply so that should not be a problem to give the his card an extra power boost if it needs that.  </s>
+<s> 2- i did some checking, and i think the sharpness issue may actually have to do with varying pixel pitch specs between the two monitors.  </s>
+<s> i checked it out and the 20&quot; apple i am using has a pixel pitch of .258 and the 24&quot; dell a pixel pitch of .270 - the difference is only slight, but the apple having just a slightly tighter pixel pitch might be enough to make a small difference visually.  </s>
+<s> 3 - understood on the extra ram (going from 128mb to 512mb) i will be getting not being useful really on the his 2600pro card for what the work i am doing, but i think it can't hurt.  </s>
+<s> and where i will probably see some benefit is from the much higher core clock and memory clock speeds on the 2600pro since they will be over double that of my current card.  </s>
+<s> 4 - also, going from a dual dvi card from one that is a dvi/vga card means the dell monitor will also be put on a digital signal (now running on vga).  </s>
+<s> many people have told me that i wont see much, if any noticeable difference in display quality between the 2 signals, but i believe it might be just enough to make a difference.  </s>
+<s> 5 - lastly, there is an issue of some color problems on the dell when displaying photos in graphic viewing programs like acdsee.  </s>
+<s> when displaying photos in photoshop on either screen simultaneously there is no problem.  </s>
+<s> but when i open photos in acdsee on the dell monitor the images becomes highly over color saturated.  </s>
+<s> there is no problem like this when i open them on acdsee on the apple monitor simultaneously, so it is a bit curious.  </s>
+<s> at first i thought it might be a color space problem with the acdsee program, but if that was the case then it should occur on both of the screens and not just one.  </s>
+<s> i also have the proper color profiles installed for both monitors so that should not be a problem either.  </s>
+<s> so as i said, in photoshop it is able to control the colors properly on both screens, but not a program like acdsee.  </s>
+<s> any possible thoughts on why that might be?  </s>
+<s> i've no idea why your colors are acting up.  </s>
+<s> maybe the new card will fix whatever the issue is.  </s>
+<s> make sure you have both displays set for the same color depth and run a color calibration on both.  </s>

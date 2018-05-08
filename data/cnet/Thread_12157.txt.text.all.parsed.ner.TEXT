@@ -1,0 +1,5 @@
+<s> hi i just installed my new amd athlon xp 2600 on an asus a7z8x mother board amd says i should get 2ghz yet the system is only showing 1.14ghz how do i fix this?  </s>
+<s> thanks, marc  </s>
+<s> have a look in the bios and try resetting the fsb to 133mhz.  </s>
+<s> you need to go into the bios and check the fsb and clock multiplier settings.  </s>
+<s> if you set them incorrectly the machine will boot into a failsafe configuration which will give you the lower clock speeds.  </s>

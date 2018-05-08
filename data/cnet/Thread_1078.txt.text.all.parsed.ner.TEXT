@@ -1,0 +1,32 @@
+<s> hi, i just bought a 3.5 ide hard drive to usb 2.0 enclosure.  </s>
+<s> when i hook up the power plug(the plug that has the 4 connections that plugs in the hard drive i can turn it on and the hard drive will spin.  </s>
+<s> when i hook up the ribbon cable that goes into the hard drive, the hard drive doesn't spin. the power light is still on, but it will not work.  </s>
+<s> i've tried three different hard drive, but the same thing.  </s>
+<s> i'm using windows xp, and all of my disk are set for master.  </s>
+<s> also, when i look in my computer, it is not listed.  </s>
+<s> when i look in disk manager, it doesn't show up.  </s>
+<s> can you think of any reason the disk will not spin?  </s>
+<s> thanks for any help.  </s>
+<s> if the drive is not communicating with the cpu, it can not register with my computer.  </s>
+<s> (1) eide cables have an orientation &quot;notch&quot; that precludes you plugging the eide cable upside down.  </s>
+<s> some are embossed on the header.  </s>
+<s> (2) try the above, with power, but do not connect the usb cable.  </s>
+<s> does the drive spin?  </s>
+<s> if not, the adapter circuit board was more than likely shorted.  </s>
+<s> you did not say if power was on while plugging the eide cable to the controller board.  </s>
+<s> that will short out the controller.  </s>
+<s> (3) if the drive is spinning, then plug in the usb cable.  </s>
+<s> (4) check device manager?  </s>
+<s> any yellow flags on the usb controllers?  </s>
+<s> if not, ok. if so, delete only the affected item.  </s>
+<s> re-boot.  </s>
+<s> go to 3. (5) are you using a usb hub?  </s>
+<s> if so, use any usb port on the back.  </s>
+<s> not the front.  </s>
+<s> have seen some hp's with faulty front usb grounds.  </s>
+<s> hi, thanks for the reply.  </s>
+<s> i didn't realize how many people was having this same problem until it happened to me.  </s>
+<s> i've been going all over the net to solve it.  </s>
+<s> i believe that it has to be in the unit itself.  </s>
+<s> i've used these before, and never had no problems.  </s>
+<s> thanks again for your reply.  </s>

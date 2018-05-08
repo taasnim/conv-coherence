@@ -1,0 +1,61 @@
+<s> ive had this problem since i bought my xbox 360 in july last year and i still cant sort out the problem i have a wireless router with 4 ethernet ports (gigabyte gn-br01g) , when i connect my 360 to this router ( wired connection ) i can sign into xbox live but i cannot play any games online.. then about 3 mins after i connected i get disconnected from xbox live :? the 360 will work fine if i run it straight into the modem but then no one in the house can access the interne.  </s>
+<s> i bought a 12 port ethernet switch to hopefully fix the problem but it will constantly fail at ip address no matter what the settings are.  </s>
+<s> i have tried assigning a static ip to my pc then forwarding the required ports, ive tried resetting the router back to its factory settings but it will still do the same thing my 360 and router are less than 2ft apart and i dont really want to spend 60 on a wireless adapter when they are this close can anyone please help me with this ?  </s>
+<s> ?  </s>
+<s> could it be a modem problem?  </s>
+<s> or my isp blocking something? it is a modem from ntl ( now virgin media ) if anyone knows of any issues please let me know  </s>
+<s> i'm not going to duplicate web content here.  </s>
+<s> so here's a few links.  </s>
+<s> and for the dmz... bob  </s>
+<s> thanks for the reply.  </s>
+<s> i tried the advice from the links but nothing has changed ( port fowarding + dmz setting etc) it is exactly as it was before could it possibly be that the router is too old?  </s>
+<s> there is no option in the routers control pannel to disable the firewall when i click &quot;firewall rule&quot; i get 2 options &quot;vpn pass through&quot; and &quot;static rule&quot; = any ideas?  </s>
+<s> by the looks of this i will probably have to get a new router if i want to play online can any one reccomed a wireless router with ehternet ports for wired networking that will definatley work with xbox live?  </s>
+<s> :p  </s>
+<s> without make, model, firmware versions and what's different from the stock settings i can't comment.  </s>
+<s> but i will say that i've used those searches and the results to cure this issue.  </s>
+<s> so far, i've yet to replace a router over this.  </s>
+<s> bob  </s>
+<s> &quot;create a dmz locking them to the reserved ip - problem solved.&quot;  </s>
+<s> seems to be noted with this router and the 360...  </s>
+<s> sorry i didnt include more information before trying all this i updated the firmware to 1.38e do you mean assign an ip to the 360 then put that ip in the dmz?  </s>
+<s> ive tried that and ended up with the same result if im thinking the wrong thing there could you please tell me how to do what you are describing?  </s>
+<s> thanks,  </s>
+<s> ok, sorry to ask but is there a firewall enabled in that router?  </s>
+<s> and what isp do you have?  </s>
+<s> comcast, verizon, etc. sorry that it just didn't work but it seems to be close (or a cable is broken...) be sure to try other cables and another port on the router.  </s>
+<s> bob  </s>
+<s> the router has a &quot;firewall rule&quot; option with vpn pass through and static rule but no option to disable the firewall.  </s>
+<s> i have tried switching the cables but still no use  </s>
+<s> sorry forgot to add my isp is virgin internet (live in the uk) currently on a 2mb line  </s>
+<s> the static ip is one of a few numbers you enter.  </s>
+<s> notes a possible dns if you can't find yours.  </s>
+<s> the dns settings i entered where: primary 192.168.1.254 secondary: 194.168.4.100 also looking at my ipconfig /all, the default gateway and dhcp server address is the same as my primary dns server.. is this right?  </s>
+<s> just tried again and i still can connect to xbox live but cant get onto any online games.  </s>
+<s> default gateway and dhcp server address is the same as my primary dns server.. is this right?  </s>
+<s> for some systems.  </s>
+<s> what i suspect here is a dns issue.  </s>
+<s> did you try the dns that your router is using?  </s>
+<s> sorry to be a pain but i dont know where to find my routers dns servers had a look about and there seems to be no mention of them  </s>
+<s> many of these issues vanish when the router's firmware is updated.  </s>
+<s> since the update did note the 360 i see no reason to continue along any other discussion path until we know we have the latest firmware or the firmware the maker's support is telling us to use.  </s>
+<s> as to the dns supplied to the router i know it only seems tough.  </s>
+<s> but such information is in some configuration page on the router.  </s>
+<s> you must dive into these issues are just have someone come over and tackle this issue.  </s>
+<s> if we leave important steps undone it's more likely to be the issue.  </s>
+<s> bob  </s>
+<s> have you solved the problem yet? it seem like the same error ocurred when i try to connect xbox to live.  </s>
+<s> i can still play online, ex. cod: modern warfare2- nat open: yes.  </s>
+<s> but in this case i cannot join other live parties and games with spesific users/friends, thougt they can without any problems.  </s>
+<s> so in a way the gn-br01g can not communicate with other routers such as linksys wrt54gl, witch works great with other users etc. i tried to forward all ports and followed description on portforward.com but still doesnt work!  </s>
+<s> i also powered-off modem and router for several minutes and times.  </s>
+<s> some say it will work if you can enable upnp, but i cant find where to activate it either in the router settings.  </s>
+<s> please let me know if you have any idea how to solve this problem.  </s>
+<s> any suggestins well be appreciated!  </s>
+<s> finally i got mine to work! was kinda simple.  </s>
+<s> 1. i went into the xbox 360 and entered a static ip and all that.  </s>
+<s> 2. in virtual server-pppoe/dhcp/static configuration settings on the router open port: 53,80,3074,88,42042,42052 for icmp and the static ip of your xbox 360.  </s>
+<s> all guides i have read says i should open these ports for tcp and udp, that did not solve it for me.  </s>
+<s> just figured this out and have not testes what port made it work.  </s>
+<s> all games that did not work online works perfect now!  </s>
+<s> right now i have all those ports open for tcp, udp and icmp.  </s>

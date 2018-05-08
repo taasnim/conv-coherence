@@ -1,0 +1,39 @@
+<s> after i upgraded my inspiron 1100 mem from 256 to 640 i noticed when i ran a defrag.that  </s>
+<s> my free space on my hard drive went down 2 % ., any reason and is this normal  </s>
+<s> windows will tend to adjust the size of the swap file using it's own formula...which does not make much sense to me.  </s>
+<s> i believe it makes the file 1 1/2 times larger than physical ram. it would seem that more physical ram should reduce the size needed for virtual memory use.  </s>
+<s> maybe someone here knows why this happens.  </s>
+<s> i am using winxp home ie 6.0  </s>
+<s> set your tools/folder options/view to display hidden and system files if you have not already done so.  </s>
+<s> look in the root folder of your boot drive (usually c: but not always with xp).  </s>
+<s> look for a file called &quot;pagefile.sys&quot; and not its size.  </s>
+<s> now shut down and remove one stick of ram.  </s>
+<s> reboot and see if the pagefile gets smaller.  </s>
+<s> if so, that's probably where your space went.  </s>
+<s> displaying hidden/system files will allow you to see how much space your system restore folder occupies as well.  </s>
+<s> setting restore points decreases disk size but if you don't have your system set to display &quot;system volume information&quot;, it will show no space used.  </s>
+<s> step by step please,how is this done  </s>
+<s> step by step please  </s>
+<s> you say you upgraded your ram. did you do this yourself?  </s>
+<s> if not, and you are not comfortable with opening your case and removing a module, the step by step instruction will not help you.  </s>
+<s> but, you can do this.  </s>
+<s> as i said, allow display of system and hidden files.  </s>
+<s> here's how.  </s>
+<s> from the desktop, click on &quot;my computer&quot;.  </s>
+<s> go to tools/folder options/view.  </s>
+<s> check the option to show hidden files and folders and uncheck one that says t to hide protected operating system files.  </s>
+<s> click ok and exit.  </s>
+<s> now, go to your boot drive which is usually c: and click on that.  </s>
+<s> you should see a file called &quot;pagefile.sys&quot;.  </s>
+<s> it will display the size in kilobytes.  </s>
+<s> write down that number and note if it's approximately 1 1/2 time the amount of ram you have.  </s>
+<s> i'll guess about 115000kb but it won't be exact.  </s>
+<s> now, if you remove one of your ram modules (power off of course) and recheck the size of the pagefile, you may find it to be smaller by a similar ratio to the math you just performed.  </s>
+<s> what this means is that, when you added ram, windows expanded the size of this file.  </s>
+<s> i'll guess it to be about 3/4 of a gig smaller now.  </s>
+<s> hope this makes some sense.  </s>
+<s> i have a dell inspiron 1100 upgraded ram from 256 to 640 only two slots so removed 128 installed 512.  </s>
+<s> it means you're not that much of a newbie.  </s>
+<s> i tried to offer a reason why adding memory would lessen your available hard drive space.  </s>
+<s> you're free to validate or invalidate that as a reason so the rest is up to you.  </s>
+<s> good luck.  </s>

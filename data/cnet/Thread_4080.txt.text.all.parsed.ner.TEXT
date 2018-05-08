@@ -1,0 +1,20 @@
+<s> i want to upgrade from my p4 2.6mhz processor as it isnt coping very well with the demand my music software places on it.  </s>
+<s> does anyone know what the best processor i can mount on my asus p4p400 (standard)motherboard is?  </s>
+<s> thanks  </s>
+<s> the issue is that you are nearly at the top end of cpus for that board.  </s>
+<s> it may be time to pop for some 64-bit cpu or some intel ht cpu, board and ram.  </s>
+<s> bob  </s>
+<s> can you suggest any please?  </s>
+<s> i've used gigabyte, asus, msi, a few others with cpus from amd and intel.  </s>
+<s> depending on the part of the world you live in, some of these parts may be available.  </s>
+<s> bob  </s>
+<s> the best processor as to performance without overclocking would be a p4 2800 if you can find one for the 400 bus.  </s>
+<s> the asus webpage says i can goto the 3.4 if i change the bios. is this right?  </s>
+<s> thats great.  </s>
+<s> i was looking for models.  </s>
+<s> the asus p4p400-dlx(865 chipset) can support such, but be sure that your current ddram is of the right speed and pairs for dual channel operation or you'll likely get &quot;not much&quot; of a boost.  </s>
+<s> also, the power supply has to have spare watts to make it all stable and you'll get a new cpu heatsink/fan.  </s>
+<s> and finally the case has to let all the heat out.  </s>
+<s> bob  </s>
+<s> keep in mind that video and music producing software will usualy useup a most of the cpu cycles no matter how fast the processor is, the differece is how long it takes to render the project.  </s>
+<s> john  </s>

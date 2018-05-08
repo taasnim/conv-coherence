@@ -1,0 +1,19 @@
+<s> i have an msi rx3870 t2d512e-oc video card and over the weekend told me about the ati catalyst driver site at .  </s>
+<s> i was wondering, what are the major differences in the drivers you can download at the manufacturer's website as opposed to the drivers from ati catalyst?  </s>
+<s> any real benefits to the catalyst drivers?  </s>
+<s> you might visit the manufacturer's site.  </s>
+<s> see here: they show an update service.  </s>
+<s> you might want to check that out.  </s>
+<s> normally the ati site will have the newest driver version, but this particular card may not utilize the same feature set.  </s>
+<s> they have a warning about using the incorrect driver.  </s>
+<s> see here:  </s>
+<s> vendors just bundle the latest ati drivers at the time of packaging... they don't create their own drivers for video cards.  </s>
+<s> you can download just the drivers or the full catalyst control center (ccc).  </s>
+<s> ccc gives you greater control over advanced features (anti-aliasing performance, color management, video acceleration, overclocking, etc.) but it can be a pain.  </s>
+<s> there is a difference between cards that are &quot;built by ati&quot; and cards that are &quot;powered by ati&quot;.  </s>
+<s> in many instances, cards that are &quot;powered by&quot; often contain &quot;enhancements&quot; that are specifically engineered for their brand of card.  </s>
+<s> pipelines and/or shaders my be disabled or there may be overclocked functions that the manufacturer has determined are &quot;optimal&quot; for their version of the card.  </s>
+<s> in my experience, it has always been best to download the drivers from the card manufacturers website, although i have had mixed success with using the drivers offered from the ati website.  </s>
+<s> nvidia on the other hand has no such issues.  </s>
+<s> after being a longtime ati user i now have a new pc with an 8800gts and will probably never go back to ati powered cards.  </s>
+<s> also, ccc (catalyst control center) tends to be a resource hog and takes longer to load than nvidia's control panel.  </s>

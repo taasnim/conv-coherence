@@ -1,0 +1,40 @@
+<s> i have a wireless home network.  </s>
+<s> my internet service was down for 4 days.  </s>
+<s> after the comcast technician repaired the cables, i was able to get my desktop back on the internet, but not the laptop.  </s>
+<s> my desktop is wired to the netgear router, and my laptop is wireless.  </s>
+<s> my laptop is connected to the network.  </s>
+<s> i am able to share the printer as before.  </s>
+<s> i originally used my laptop to set up the router and network.  </s>
+<s> very frustrated, please help.  </s>
+<s> this my first time posting, and i'm not sure if this is enought information.  </s>
+<s> control panel -&gt; internet options -&gt; connections tab lan settings make sure all the boxes are unchecked.  </s>
+<s> it sometimes will revert to proxy settings if there is no internet when you tried to connect.  </s>
+<s> after being able to connect with a network cable, and then also with a usb adapter, i'm pretty sure it's the wireless card in my laptop.  </s>
+<s> i will soon give dell a call.  </s>
+<s> thanks for your help.  </s>
+<s> i use a cable modem and also have a wireless connection to the internet for my laptop, using a netgear router connected to my desktop computer.  </s>
+<s> everytime my isp changes the ip address, i lose my internet connection on the laptop.  </s>
+<s> i have been unplugging the router and when i plug it in again my connection is restored.  </s>
+<s> is there a setting that can be changed in order to prevent this from happening to me???? can the instructions you gave (control panel -&gt; internet options -&gt; connections tab lan settings make sure all the boxes are unchecked.  </s>
+<s> it sometimes will revert to proxy settings if there is no internet when you tried to connect.), apply to my situation, too?  </s>
+<s> i appreciate your help with this.  </s>
+<s> it's been driving me crazy.  </s>
+<s> my isp was no help and basically blamed it on the router.  </s>
+<s> i have been searching everywhere for a simple answer to this, but even when i did find an article that might apply, it was too technical for me to understand.  </s>
+<s> thank you.......gina  </s>
+<s> after spending two and a half hours on the phone with dell tech support, the problem was resolved by scaling down some of the security i had set to protect my network.  </s>
+<s> (64 bit instead of 128 bit wep for one thing).  </s>
+<s> he told me that the dell draft n wireless mini-card in my laptop may have compatiblility issues with a netgear router.  </s>
+<s> (i had no problems at all until the comcast lines were cut by the direct tv installers)!  </s>
+<s> at any rate, he made me cut back on the encryption level, and now i'm back on line.  </s>
+<s> ah--my laptop happens to be a dell as well!! were you also getting disconnected when your isp changed your ip number, or were you having a problem connecting all of the time?  </s>
+<s> as i mentiond earlier, the only time i have a problem is when my isp changes the ip number every few days.  </s>
+<s> that makes me wonder if my solution could possibly be as simple as changing a setting--but if so, which setting????  </s>
+<s> it should be cable &gt; cable modem &gt; wireless router &gt; wired desktop or cable &gt; cable modem &gt; wireless router if it's connected like this, your settings for your wireless router should not change.  </s>
+<s> if you have it hooked up like this: cable &gt; wireless router &gt; cable modem &gt; wired desktop or cable &gt; wireless router &gt; cable modem this is wrong!  </s>
+<s> hope this helps.  </s>
+<s> rick  </s>
+<s> thank you rick! i am 99% sure mine does go: cable &gt; wireless router &gt; cable modem &gt; wired desktop, because i believe that's how the instructions said to do it!  </s>
+<s> i am going to redo the connections as you suggested.  </s>
+<s> will i also have to change any settings because of this setup change, or should changing the connection order alone do the trick?? thank you again!  </s>
+<s> i will be so happy to get this pesky problem corrected!!.......gina  </s>

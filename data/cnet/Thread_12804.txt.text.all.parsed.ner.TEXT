@@ -1,0 +1,18 @@
+<s> i have a juniper netscreen 5gt firewall device and i have public ip pools from different subnet.  </s>
+<s> one ip i had configure in the untrust mode and now i want to use seceond ip pool for whole netwrok so that my public ip changed.  </s>
+<s> please help me how can i do this..............  </s>
+<s> you may not dmz the entire network.  </s>
+<s> that's a simple no. bob  </s>
+<s> dear sir, actually i want to change my public ip because i have still 6 ip pending.  </s>
+<s> but you know where that ip comes from so why not ask them for another?  </s>
+<s> bob  </s>
+<s> actually sir i have two ip pools and i want to change my public ip at regular basis like suppose i want a ip for one week then another ip for another week and so on and i don't want to change my untrust mode ip because i am unable to find default gateway ip field in juniper netscreen 5gt so i want to nat my whole network to another ip without changing my untrust port ip  </s>
+<s> i don't think i can help you.  </s>
+<s> it appears there is more information or a bigger question than you lead with.  </s>
+<s> it's pretty clear that you can't dmz an entire network.  </s>
+<s> that is, a machine in the dmz would receive all incoming connections.  </s>
+<s> so the usual network is behind a router and while a pool of ips would let you take an ip and send incoming to that ip to a particular computer, that still fails to &quot;dmz&quot; the entire network.  </s>
+<s> at least that's clear to your beginning first year networker.  </s>
+<s> with that out of the way, i can only suggest you chat with the folk you work with about your network.  </s>
+<s> i must bow out since i think your goal is unclear.  </s>
+<s> bob  </s>

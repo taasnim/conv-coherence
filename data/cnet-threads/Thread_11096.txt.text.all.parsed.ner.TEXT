@@ -1,0 +1,16 @@
+<s> hi i've got the zero configuration set to start automatically (win xp home sp2) but when i restart the pc the service hasn't started and i have to start it manually.  </s>
+<s> how do i overcome this/ thanks  </s>
+<s> do you have some linksys, belkin, dlink, netgear, card?  </s>
+<s> bob  </s>
+<s> the wireless adapter on my laptop is a belkin and i've a talktalk router.  </s>
+<s> the belkin software is at issue here.  </s>
+<s> you can see this discussed on the web but most of us just use belkin's replacement for this.  </s>
+<s> bob  </s>
+<s> thanks for that.  </s>
+<s> i found another solution on microsoft forum.  </s>
+<s> open notepad and type the following text (in lower case) net start wzcsvc save this as wbt.bat (onto the desktop).  </s>
+<s> then copy this bat file to c:documents and settingsall usersstart menuprogramsstartup then restart the computer.  </s>
+<s> i've found another fix - i went into device manager and uninstalled my card, i then restarted my laptop and sure enough all is well - zero configuration starts every time.  </s>
+<s> a friend suggested this he thought that during the original installation something had gone wrong and zero configuration hadn't been configured correctly.  </s>
+<s> by uninstalling in device manager you just remove the cards driver it seeems.  </s>
+<s> you learn something new every day!  </s>

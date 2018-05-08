@@ -1,0 +1,23 @@
+<s> hi all, i have created two set of bcv and tried to exposed to host.  </s>
+<s> here what i want to be my configuration: 1) i am using symmetrix as backend.  </s>
+<s> 2) i have two set of bcv, both synched and different time.  </s>
+<s> 3) i have solaris 10 host with veritas volume manager 5.0 installed.  </s>
+<s> 4) if i tried to import both set of bcv one by one... it fails second one... when i imported first one... it succeed and works fine... but when we try to import second one ... it will go automatically in same group and it will show as foreign disk in vxvm.then it won't allow to import as different disk.  </s>
+<s> i have both set of bcv from same production.  </s>
+<s> is there any restriction?  </s>
+<s> means we can use only one bcv at a time...or something needs to been done on ecc or vxvm.  </s>
+<s> please advice me with step.  </s>
+<s> early response highly appreciaited.  </s>
+<s> regards diwakar  </s>
+<s> wrote &quot; would see all the disks of the split-off bcvs as belonging to the very same vg - and that would destroy everything...&quot; it's been years since i've been on solaris so i think you make have to find someone else to solve this, but it seems proper what its doing to me.  </s>
+<s> but heck, it's been many years... bob  </s>
+<s> thanks bob!! i tried to extract info from mentioned link.  </s>
+<s> but could not succeed.  </s>
+<s> i am able to import only one set of bcv at a time.  </s>
+<s> i can't able two import both bcv at same time on single host.  </s>
+<s> if i tried to import second disk. it will add in exisiting group as foreign disk.  </s>
+<s> pls help me regards, diwakar  </s>
+<s> but all i could discern was yup, there will be issues.  </s>
+<s> i can't comment deeply since i've been out of the solaris loop for years now.  </s>
+<s> your best bet is to call them and ask.  </s>
+<s> bob  </s>

@@ -1,0 +1,81 @@
+<s> hi, certain people in my company are having random drops happen to them when using a remote desktop connection.  </s>
+<s> some people will get dropped 10 or so times a day others only 3 or 4 a week and some don't get dropped at all.  </s>
+<s> we are running a windows 2003 server that people are connecting to into an access front ended program, sql server 2005 as the back end.  </s>
+<s> all of the computers in the office are running windows xp. we have a t1 line ran from at&t but we are getting the internet through someone else who provides us with our voip.  </s>
+<s> basically what happens is a user will be in our &quot;system&quot; and the two computers with a red x will show up in the top right corner, drop them and then they have to log in again, the side effect is that people are having to retype some stuff occasionally.  </s>
+<s> and when everyone is 55+ with no computer knowledge it turns into the end of the world.  </s>
+<s> when this problem crops up it seems to hit the same people the hardest every time.  </s>
+<s> one other quirk about it is that i am currently logged on at the desk of a user who is not here for the week, this person usually has problems with getting disconnected, but i have not been disconnected once in the past hour.  </s>
+<s> anyone have any ideas of what might cause this or a possible fix?  </s>
+<s> i am starting to hear people say stuff like &quot;my bf is in it and he says this shouldnt happen&quot; which just pisses me off.  </s>
+<s> thanks, chris  </s>
+<s> sounds like their accounts are set to different time outs, and since it doesn't happen to you while using it the timeout must be based on periods between server usage or contacts.  </s>
+<s> just wondering.  </s>
+<s> also since you posted in the networking and wireless forum if any are wireless be sure to use wpa, leave ssid enabled or it will drop!!! if you feel this is incorrect i invite you to call all the makers involved to ask for a fix.  </s>
+<s> in closing i found such an issue many times was something simple. the person who setup their lan forgot to put the routers and network switches on battery backup units.  </s>
+<s> i've also found the occasional bad wire, bad ethernet crimp that would disconnect as the door slammed.  </s>
+<s> that took weeks to find.  </s>
+<s> bob  </s>
+<s> is there a way i can check if they have time outs set?  </s>
+<s> i have sat idle in my connection for about an hour and had no disconnects either, i have also tried typing a lot of information to see what might happen, and nothing is going on.  </s>
+<s> would a timeout cause the disconnect icon in the top corner.  </s>
+<s> before we had an issue with a windows update that caused timeouts with remote desktop, where it would just drop and go back to the logon and say, &quot;your remote login has been disconnected&quot; the problem now is a lag, the icon screen gets a grey haze and then goes back to logon.  </s>
+<s> chris  </s>
+<s> i am the it staff here, i have some knowledge about computers but not any understanding of this.  </s>
+<s> there is a head it person in an office in another state.  </s>
+<s> i am still in college but i am getting an mis degree an understand programming a lot better than windows server stuff.  </s>
+<s> no one is on wireless apart from my laptop which never has any issues, everyone else is on cat5e cables, everything is on battery backups as we had a problem of the transformer outside our office blowing up occasionally.  </s>
+<s> it could be a bad crimp from the back of the patch panel to the persons desk, but the on and off nature of the problem and also that i am sitting and someones desk who typically gets the disconnects and i haven't been disconnected once makes me think that it is something other than bad crimping.  </s>
+<s> chris  </s>
+<s> you need to check the user accounts on the server side for that.  </s>
+<s> the one thing i find some to forget is that all this stuff is still buggy. the occasionally crash, drop is to be expected.  </s>
+<s> if you feel otherwise you only need more time in your current task or take up programming.  </s>
+<s> all the companies are shipping with known bugs.  </s>
+<s> not to say it's not something along the lines of a bad cable, connection but that blown transformer is interesting.  </s>
+<s> -&gt; if the logs show who calls in then you trace their lines to which switch and see if they all share that switch.  </s>
+<s> i did that once and found a flakey switch.  </s>
+<s> of course it worked most of the time which made replacement difficult for some companies.  </s>
+<s> since i only answer to me i swapped it out.  </s>
+<s> bob  </s>
+<s> check the affected individual computers if it's not server side and make sure they don't have their lan connection set for some power saving mode that turns it off after a period of non use.  </s>
+<s> i've had that happen and unless the wake on lan is on, once it's turned the lan off you can be sitting there with it not coming back on even when trying to use it.  </s>
+<s> i'd look in the network connections and the lan properties for timeout settings too.  </s>
+<s> &quot;one other quirk about it is that i am currently logged on at the desk of a user who is not here for the week, this person usually has problems with getting disconnected, but i have not been disconnected once in the past hour.&quot;  </s>
+<s> are you using the same user account or did you setup a different one on that particular computer to use?  </s>
+<s> if a different one, then the problem is how the other user's lan connection is setup.  </s>
+<s> i am using my account on the users computer.  </s>
+<s> if it were lan settings wouldn't the problem be consistent?  </s>
+<s> this problem crops up for a week then dissapears for a month, etc. for example one user has told me that she usually will get disconnected 1 during the time people are complaining, but today it has happened 5 or 6 times to her.  </s>
+<s> something i wanted to add, my thinking is that time out settings would make it disconnect when there is user inactivity. the reason this problem is such a big deal to the users is because the disconnects are when they are using the system and typing notes which are quite long some times and they lose everything that they typed.  </s>
+<s> chris  </s>
+<s> i checked the logs on one users computer before, and nothing unusual was showing, but then i also found out he was hotkeying to log off windows, so a log wouldn't show much there.  </s>
+<s> if the only thing that is disconnecting is the rdc will that show in a log on the users computer or would you have to go after a log on the server.  </s>
+<s> i think my memory is telling me that the main it person has looked at the logs on the server and cant find anything wrong.  </s>
+<s> if it were once or twice a week for people across the board i would agree with you that it is just the nature of the internet and you are going to get dropped occasionally, and i have pushed that answer on the problem people frequently while i search for a solution, but i think it is wearing thin on them now.  </s>
+<s> everyone in our office, the only one having problems, is on one switch, its a big cisco switch that is monitored by or voip provider, i would hope that when we first reported this problem they took a look at that, so i am kind of ruling out the switch, but that might not be wise of me.  </s>
+<s> thanks a lot for your guys help.  </s>
+<s> chris  </s>
+<s> are there a larger number of users connecting to the server during these periods when people are getting disconnects?  </s>
+<s> i don't have a copy of 2003 server to check this out for you.  </s>
+<s> i do have 2000 server, but not loaded at this time, so can't check that either.  </s>
+<s> there may be some maximum number or users set on the server and it's dropping previous connects for new incoming ones.  </s>
+<s> if it's just certain computers this happens at though, i'd concentrate my efforts on them, which is what you seem to be doing.  </s>
+<s> we are a small company, there is about 30 in the office i am at.  </s>
+<s> but it is also the slow period right after christmas so there are only about 15 or 20 in the office today and even less yesterday when the problem started up.  </s>
+<s> other times it has happened we have had a full office.  </s>
+<s> ...i like rob's suggestion about the switch  </s>
+<s> i checked the user directory on our exchange server and went through every tab.  </s>
+<s> i didn't see any settings that had to do with time outs or disconnecting after inactivity or the like.  </s>
+<s> would you guys agree, that if it were the switch, that b swapping which ports people are plugged into on the switch if i start getting yelled at by other people and the people who had the problem initially don't complain then we have found the culprit?  </s>
+<s> chris  </s>
+<s> when a call for support is made the better it depts log it so they build the picture that some building, switch or such is having issues.  </s>
+<s> bob  </s>
+<s> i was going to suggest switching the ports between switches and see if those who were on the other switch started complaining but didn't know if you had a second switch or if located close enough you could do that.  </s>
+<s> i'm not sure just moving them around on the same switch will help, but label the lines first and their current hardwire port use before doing it.  </s>
+<s> always good to know where you were instead of wondering later.  </s>
+<s> well, the reason i said moving them around, is because with our current set up we have 2 switches, a cisco switch and a 3com switch, the cisco being the main one.  </s>
+<s> the 3com switch is connected through a port on the cisco switch.  </s>
+<s> users are having problems on both switches, but users on the 3com could be having problems because there is something wrong with the cisco then it will cause problems for the 3com.  </s>
+<s> i would remove the cisco entirely to do some testing, but it is configured by our voip people to allow for voip and some other network settings that i dont understand.  </s>
+<s> i believe that they can monitor the switch though so i might find out if they have been seeing any drops on ports in the last few days.  </s>
+<s> and if users start complaining again, tell them it's the voip people's fault.  </s>

@@ -1,0 +1,28 @@
+<s> i am pretty new to this stuff so i am hoping someone is able to help me out with my problem.  </s>
+<s> i recently installed a new dvd burner into my system and while it does a good job of making backups the speed leaves something to be desired.  </s>
+<s> when it first starts to burn it will go up to 3x speed but quickly drop then level off to around 1.6.  </s>
+<s> doesnt matter if its dl discs or single layer, and i have tried different brands of media.  </s>
+<s> i did change it from being the slave drive to the master on the second ide but it didnt change anything at all.  </s>
+<s> here is all the info that i can think of that might be useful programs used:dvd decrypter and dvd shrink dvd burner: benq 1640 cd-r: 48x cd-rom access time: 120ms cd-rw: 32x dvd+r: 16x dvd+r dl: 8x dvd+rw: 8x dvd-r: 16x dvd-rom access time: 120ms dvd-rw: 6x computer: 750mb ram, 2.6 pentium, 40gb ibm drive.  </s>
+<s> could it be the hd? i think it is my systems weakest link.  </s>
+<s> i look at the media speed, then set the recorder software to 1/2 that.  </s>
+<s> i rarely see a coaster.  </s>
+<s> cheers, bob  </s>
+<s> ok, you have changed brands of dvd media.  </s>
+<s> what about the speed rating on the discs?  </s>
+<s> are you using 16x media?  </s>
+<s> what i use: nero ultra 6.6 software will run a burn simulation to test the media at a selected speed before burning. the downside--it's expensive.  </s>
+<s> check to see if dma is enabled on the drive.  </s>
+<s> it is possible that even if it is, the drive only supports dma33 which will limit transfer speeds and subsequently write speeds.  </s>
+<s> did you buy the drive new or used?  </s>
+<s> did it come with any type of burning program with it?  </s>
+<s> the drive was brand new and came with nero. the media i have been using is verbatim 6x for the dl discs and tdk for the single layer discs.  </s>
+<s> both burn at 1.6x i tried memorex but they were junk discs.  </s>
+<s> many dual layer drives could not attain higher speeds &quot;out of the box&quot; or new. the owners had to update the firmware.  </s>
+<s> -&gt; the same story plays out in routers, motherboards and other devices.  </s>
+<s> bob  </s>
+<s> thanks for the suggestion but i actually did flash the firmware of the new drive when i first got it, maybe i can dbl check and make sure it worked.  </s>
+<s> nero comes with a drive info tool that will rate the speed of the drive.  </s>
+<s> check out whether or not for some reason the drives speed has been reduced from it's rated speed.  </s>
+<s> other than that you can check out a few websites (cdfreaks comes to mind) where you can check out the rated write speeds of various discs.  </s>
+<s> some are rated for a much higher speed than they will ever attain.  </s>

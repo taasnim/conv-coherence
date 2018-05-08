@@ -1,0 +1,49 @@
+<s> i am using windows me, gateway performance 800 desktop, and generic floppy disk drive.  </s>
+<s> floppy drive (a:) has disappeared from my computer and search for files and folders.  </s>
+<s> system properties shows the floppy disk controllers/standard floppy disk controller and that there are no conflicts.  </s>
+<s> the bios recognizes the floppy drive a and reflects that it is enabled.  </s>
+<s> system information recognizes the floppy drive and reflects status ok. in search for files and folders when i search for a: in hard drive c: the &quot;search for&quot; field changes to list.cnet.remains  </s>
+<s> pre_process.sh  </s>
+<s> s.cnet.dev  </s>
+<s> s.cnet.test  </s>
+<s> s.cnet.train and the contents of inserted diskette are found.  </s>
+<s> does anyone know how i can get the floppy drive back into my computer?  </s>
+<s> i have no idea how it got out.  </s>
+<s> reverting the hard drive to an earlier date/time doesn't fix it.  </s>
+<s> thank you.  </s>
+<s> have a great day.  </s>
+<s> caktus  </s>
+<s> 1. can you boot from said device? 2. while the os could reveal where the off switch for the floppy can be, i'll note that in most versions of tweakui, you can hide drive letters in explorer with tweakui. the test for this one is to open a command prompt, stick a diskette into a: and type... dir a: bob  </s>
+<s> i am unable to boot from the floppy.  </s>
+<s> i don't have tweakui but i tried the command promt thing you mentioned and it reflects the items on diskettes.  </s>
+<s> thanks, caktus  </s>
+<s> it matters not if you had tweakui or not.  </s>
+<s> malware and other programs can hide drive letters from explorer.  </s>
+<s> it's unfortunate that you can't boot from said disk drive, but we'll ignore that for now.  </s>
+<s> in the future, do take heed from the tip that is supplied with every post and tell the os in question.  </s>
+<s> &quot;tip: if you are asking for help to troubleshoot a computer-related problem, please be sure to include all the necessary information (ie: operating system, model number, hardware, software, etc) that will help others identify your problem for a speedy resolution.&quot;  </s>
+<s> bob  </s>
+<s> i am using windows me, gateway performance 800 desktop, and generic floppy disk drive.  </s>
+<s> i downloaded tweakui from two sources (ms and annoyances.org.) in each case the install process was supposed to provide a shortcut in the control panel but did not.  </s>
+<s> when i attempt to open the tweakui.cpl  </s>
+<s> nothing happens. the .inf  </s>
+<s> file is greak to me.  </s>
+<s> and the tweakui.hlp  </s>
+<s> file dosen't seem to mention anything about this problem.  </s>
+<s> any guidence on this matter?  </s>
+<s> thanks, caktus  </s>
+<s> that was a problem about this version of tweakui.  </s>
+<s> once you read how to install tweakui, proceed to the panel that allows you to show/hide drive letters and make sure all are allowed.  </s>
+<s> tweakui installs by a right-click on the .inf and then selecting install.  </s>
+<s> maybe you tried that, but didn't write you did.  </s>
+<s> always elaborate as much as possible.  </s>
+<s> bob  </s>
+<s> bob  </s>
+<s> bob, i finally got tweakui installed.  </s>
+<s> my problem was i didn't realize it had to be installed to it's own download folder to end up in the control panel.  </s>
+<s> i see tweakui has alot of little goodies.  </s>
+<s> it appears now i can sometimes tweak w/o being afraid of the messing up the registry.  </s>
+<s> thanks for your help.  </s>
+<s> have a great day.  </s>
+<s> caktus  </s>
+<s> aaaaaa  </s>

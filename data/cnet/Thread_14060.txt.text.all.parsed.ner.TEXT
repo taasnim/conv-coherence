@@ -1,0 +1,12 @@
+<s> is there a way to setup a thumb drive where windows reads the autorun.inf  </s>
+<s> like on a cd? i do not want the autorun option menus to come up, just the program to launch.  </s>
+<s> i need it to do this for any computer it is attached to. is that possible?  </s>
+<s> widely documented so i'll just end here.  </s>
+<s> bob  </s>
+<s> i'm setting this up for a blind person who has an installation cd for a program that allows the computer to talk.  </s>
+<s> when i try to set this up, windows doesn't just run the program.  </s>
+<s> it gives a list of options, one of which is to run the program.  </s>
+<s> i want it to just go directly to setup.exe when the drive is inserted.  </s>
+<s> as to why the usb didn't autorun i can't see your work so i can't guess what you did.  </s>
+<s> i won't duplicate how cd autorun works since it's widely documented.  </s>
+<s> bob  </s>

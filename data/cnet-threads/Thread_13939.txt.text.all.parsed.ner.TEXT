@@ -1,0 +1,48 @@
+<s> windows xp professional sp3 after a failed installation of anti-virus software, my mouse stopped working.  </s>
+<s> its properties say &quot;windows cannot start this hardware because its configuration information (in the registry) is incomplete or damaged (code 19).&quot; troubleshooter instructs me to uninstall the device, after which windows searches for plug and play devices.  </s>
+<s> it then says, &quot;this troubleshooter is unable to solve your problem.&quot; attempting to update the driver using the hardware update wizard results in the following message: &quot;the wizard cannot find a better match for your hardware than the software you currently have installed.&quot;  </s>
+<s> i'm confused.  </s>
+<s> is this failing mouse a usb device and you are looking for a compatible ps/2 mouse?  </s>
+<s> i've never seen that type of message with a ps/2 mouse.  </s>
+<s> the mouse is designated in device manager as &quot;ps/2 compatible mouse&quot;.  </s>
+<s> i've seen this message when a bum filter driver was installed.  </s>
+<s> logitech issued a how to remove it but today we see malware and registry cleaners create this problem.  </s>
+<s> try the easy fix first.  </s>
+<s> boot safe mode, head to device manager and remove the device there.  </s>
+<s> on reboot we hope it will straighten it out.  </s>
+<s> bob  </s>
+<s> thanks bob.  </s>
+<s> i've already tried that and nothing changes.  </s>
+<s> logitech had some issues years ago.  </s>
+<s> lesson?  </s>
+<s> don't install mouse and keyboard drivers.  </s>
+<s> read today malware can cause this.  </s>
+<s> read grif's advice at  </s>
+<s> thanks for those two links, bob.  </s>
+<s> i don't think the logitech issue applies in this case.  </s>
+<s> as i understand it, that was about a logitech optical mouse that was installed and conflicts that occurred with something called setpoint in a vista environment.  </s>
+<s> my mouse was manufactured by microsoft; underneath it says, &quot;intellimouse serial and ps/2 compatible&quot;.  </s>
+<s> any drivers that are installed on my system are windows xp's native drivers.  </s>
+<s> i downloaded the malware scanners recommended on the other page to which you referred me, and scanned my system.  </s>
+<s> a few suspect items were detected and deleted or quarantined, but it hasn't solved my mouse problem.  </s>
+<s> i would like to suggest you to get replaced your mouse then check the result.  </s>
+<s> if it doesn't work so i think you need to consult with any hardware specialist.  </s>
+<s> i have tried four different mice and none works.  </s>
+<s> i do not believe there is anything wrong with the mouse i am using or that my actual hardware is the source of this problem.  </s>
+<s> as the message in device manager says, &quot;windows cannot start this hardware because its configuration information (in the registry) is incomplete or damaged (code 19).&quot; this indicates to me that the problem is with corrupt or incorrect data on my computer.  </s>
+<s> as for hiring a hardware specialist, i think that would cost me more than my computer is worth.  </s>
+<s> the code 19 is the clue here.  </s>
+<s> this code has been seen on other mice when the driver messed up.  </s>
+<s> sadly some will want an exact fit when i supply a link.  </s>
+<s> this may be possible but since this is all volunteer i limit my searches to close enough examples.  </s>
+<s> -&gt; what i try next is to unplug all the mice and boot safe mode.  </s>
+<s> try it with just one mouse and in safe mode head to the device manager and uninstall all mice found.  </s>
+<s> on the next boot windows will redetect compatible mice and hopefully cures it. the logitech code 19 often resulted in reloading the os. and beyond the setpoint the mouse filter drivers were causing code 19 and other issues.  </s>
+<s> that history is well, history.  </s>
+<s> i learned to avoid installing such but let's think about today's malware.  </s>
+<s> a keyboard+mouse logger could create this problem.  </s>
+<s> it's why we can't discount malware.  </s>
+<s> bob  </s>
+<s> this error seems like windows registery file corrupted.  </s>
+<s> i think you should repair windows thank you may be fix this problem.  </s>
+<s> thanks, but i do not know exactly where any corruption might be located, or how to repair windows short of reinstalling it.  </s>

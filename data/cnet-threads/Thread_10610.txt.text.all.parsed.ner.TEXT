@@ -1,0 +1,23 @@
+<s> ive put to gether a computer and im having trouble getting it to work.  </s>
+<s> every time i select tthe partition to load it will take me to a screen giving me options about safe mode i have tried all the options and all that is happening is the computer is restarting.  </s>
+<s> it came up with a cpu has been changed message and a message saying something about defaults being loaded.  </s>
+<s> but so far nothing has worked.  </s>
+<s> ive tried messing with the bios and changing the cmos battery ive tried loads of hard drives with different os installed on them but so far nothing has worked.  </s>
+<s> its running ( well trying to ) amd athlon 1.3 ghz i think ( its what the bios is saying) nvidia ge force 8800 wd 60gb hdd 1.5 gb ram if you have a solution can you email me at mistachance@hotmail.com as i dont really check this much.  </s>
+<s> any help is appreciated thanx oh i forgot to mention the mother board has sata chips and connections and ide connections im trying to run a ide hard drive.  </s>
+<s> is this a used hard drive with a previous installation of windows?  </s>
+<s> if so, from xp and upward, it's not going to run on hardware other than that it was installed on.  </s>
+<s> your best bet is to erase the drive by deleting all partitions first.  </s>
+<s> then, boot from your windows cd to begin the installation.  </s>
+<s> it will create the partition, format the drive, and install itself.  </s>
+<s> as long as the hard drive is recognized in the bios and compatible with your version of windows, this should get you started.  </s>
+<s> of course you'll need to have driver disks handy including those for the motherboard.  </s>
+<s> so i should erase everything on the hard drive and start again with my windows xp disk?  </s>
+<s> we did try a hard drive with 98 on wich didnt work eaither.  </s>
+<s> il give this a go and then get back to the forum thanx for you help.  </s>
+<s> and the os can perform the upgrade maintaining all programs and data intact.  </s>
+<s> this isn't often the case.  </s>
+<s> erase the drive and delete all partitions.  </s>
+<s> my preference is to do so with the manufacturer's utility that writes zeros to all locations and does a thorough surface analysis that will disclose defects.  </s>
+<s> if any media defects are found, chuck the drive and get another one.  </s>
+<s> hey ive decidedto just use a blank hdd will hat be ok thanx for your help so far  </s>

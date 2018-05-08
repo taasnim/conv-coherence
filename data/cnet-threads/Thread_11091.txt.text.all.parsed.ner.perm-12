@@ -1,0 +1,3 @@
+(TOP (NP (CD apps.microsoft.com/windows/en-us/app/backgammon-pro/3f179c37-ed75-4d81-9495-2702e407d778)) )
+(TOP (S (NP (DT any) (NN one)) (VP (VBD found) (NP (NP (DT a) (JJ good) (NN backgammon) (NN game)) (PP (IN for) (NP (NNS windows)))) (NP (CD 8))) (. ?)) )
+(TOP (NP (JJ good) (NNS game.thanks)) )

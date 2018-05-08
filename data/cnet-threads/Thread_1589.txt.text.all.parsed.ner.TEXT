@@ -1,0 +1,345 @@
+<s> hope some one can help me i am looking in to buying a new computer and wanted to know some stuff about the grafix cards.  </s>
+<s> what is pixel pipelines is it better if the number is high or low?  </s>
+<s> like pixel pipelines 16 or 24? what is fill rate is it better if its low or high?  </s>
+<s> like fill rate 15.6 gigapixel/s or 10.4 gigapixel/s?  </s>
+<s> memory bandwidth same queston is it better high or low number?  </s>
+<s> like memory bandwidth 46.4 gb/s or memory bandwidth 51.2 gb/s and lastly sorry if this is long but what about memory speed?  </s>
+<s> better higher or lower.  </s>
+<s> like memory speed 1600 mhz or memory speed 1450 mhz .  </s>
+<s> thank you very much for your time.  </s>
+<s> i think the higher numbers are better then the lower one.  </s>
+<s> a higher figure is better in all your categories, but don't rely on those raw fill rate/memory bandwidth figures when comparing cards with different gpus.  </s>
+<s> pick a budget, find some cards that fit in your budget, then start reading some reviews on those cards.  </s>
+<s> use benchmark charts like this: and this: to compare performance.  </s>
+<s> also, don't be fooled into thinking that a card is automatically better because it has 512mb of ram.  </s>
+<s> a x1300 w/512mb is still slower than a x1600 w/256mb.  </s>
+<s> i got this information from tigerdirect.com it may help you: i used a lot off glosarrys to help me learn the terms so when i ask for help, they knew what i was talking about.  </s>
+<s> this might be a lot to read but it is a lot on the basics.  </s>
+<s> i wish it was a link but here it is.  </s>
+<s> good luck wendell h video glosarry compiled by tigerdirect editors numbers 16-bit - a 16-bit computer hardware device or software program is one that is capable of transferring 16 bits of data at a time.  </s>
+<s> microsoft windows 3.11 is a 16-bit operating system, while ata and ide are 16-bit hardware standards.  </s>
+<s> when referring to a computer video or graphics card, 16-bit relates to the amount of colors capable of being displayed.  </s>
+<s> for example, 16-bit is the same as 65,536 colors.  </s>
+<s> 24-bit - 24-bit is known as true color.  </s>
+<s> 24-bits are equivalent to 16.7 million colors.  </s>
+<s> 3-d - also known as three-dimensional.  </s>
+<s> 3-d describes a visual image that has the appearance of depth and field.  </s>
+<s> when referring to an internal adapter card, a 3-d accelerator is a graphics cards with additional processing power and memory that helps the performance and look of 3-d images.  </s>
+<s> also see graphics accelerator card.  </s>
+<s> 32-bit - computers or software programs capable of transferring data 32-bits at a time.  </s>
+<s> examples of 32-bit operating systems are os/2 and windows nt. the first true 32-bit processor was the intel 80386.  </s>
+<s> 32-bit can also refer to the amount of colors a video card is displaying.  </s>
+<s> 32-bit is the same as 16.7 million colors (24 bit color with a 8-bit alpha channel).  </s>
+<s> 3dfx - brand and company of 3d accelerator cards.  </s>
+<s> 8-bit - computer hardware device or software capable of transferring eight bits of data at the same time.  </s>
+<s> when referring to a video or graphics card, 8-bit relates to the amount of colors capable of being displaying.  </s>
+<s> 8-bit is the same as 256 colors.  </s>
+<s> 8514/a - developed by ibm in 1987, 8514/a is a graphics display standard that supports 1024x768 pixel resolution and is interlaced.  </s>
+<s> terms a active-matrix display - also known as tft or thin film transistor, an active matrix display is a liquid crystal display (lcd) found on notebook computers and flat panel displays.  </s>
+<s> with active matrix displays one to four transistors, which commonly make the screens fasters, brighter and more colorful then passive matrix control each pixel.  </s>
+<s> agp - short for accelerated graphics port, agp is an advanced port designed for video cards and 3d accelerators.  </s>
+<s> designed by intel in 1997, agp introduces a dedicated point-to-point channel so that the graphics controller can directly access the system memory.  </s>
+<s> analog monitor - monitor that is capable of accepting continuously varying or analog signals from the video adapter.  </s>
+<s> this allows the monitor to display an infinite range of different colors. the majority of crt monitors are analog, while all flat panel displays are digital.  </s>
+<s> aperture grille - a method of crt construction employing vertical strips of phosphor separated by a grid of tiny metal wires.  </s>
+<s> light emitted from the electron gun passes through this grid of metal strings and is filtered and focused onto the back of the crt, exciting phosphors that produce the on-screen image.  </s>
+<s> aperture grille construction produces brighter, more saturated colors, but is not as good for text or fine detail.  </s>
+<s> b bit map - graphic file usually ending in *.bmp where several bits are made up to make one full image.  </s>
+<s> bit-mapped font - font that if enlarged will have jagged edges instead of the scalable font where no matter what the size will look the same.  </s>
+<s> bit-mapped fonts are comprised of several dots to make a single character.  </s>
+<s> bit-mapped graphic - description used to describe an image that is formed in a map form instead of a mathematical form. the image is created by placing dots (or bits) in a row or column, forming an image with several thousand small dots or bits to make the complete image.  </s>
+<s> a bit-mapped image when enlarged will have jagged edges.  </s>
+<s> brightness - the light level intensity of a computer monitor, adjusted in unison with contrast to effect the quality of the viewable image.  </s>
+<s> brush - tool used in creating images with a drawing program.  </s>
+<s> generally the brush is similar to a paintbrush, capable of making bold or vivid strokes, and able to fill a large area quickly when compared to other tools such as the pencil.  </s>
+<s> bump mapping - video accelerator technique that gives a surface the look of texture.  </s>
+<s> bump mapping may cause walls to look bumpy or rough; without bump mapping it would have an ordinary look.  </s>
+<s> burn in - when a computer monitor is left for long periods of time with one stand-alone image, the image can permeate.  </s>
+<s> burn in occurs more often with older monitors.  </s>
+<s> however still can occur on new crt monitors (although not as common).  </s>
+<s> to help prevent this issue turn off the monitor or use a screen saver.  </s>
+<s> c candle - a measurement of light reflected by a surface one foot from a lighted candle.  </s>
+<s> candle light is measured in lux and is commonly used as a light measurement for lcd displays and projectors.  </s>
+<s> also known as candelas and candle power.  </s>
+<s> cathode-ray oscilloscope - tool used for measuring the voltage of the cathode-ray tube inside of your computer crt monitor. the cathode-ray oscilloscope was invented by german scientist karl ferdinand braun in 1897.  </s>
+<s> codec - short for compression/decompression, a codec is an algorithm or special computer program that reduces the number of bytes consumed by large files.  </s>
+<s> codecs are often used with videos distributed over the internet.  </s>
+<s> codecs enable what would normally be a very large video file to be much smaller computer graphic - a computer graphic or computer picture is either a computer generated image, or a graphic imported into the computer and capable of being displayed on the screen.  </s>
+<s> contrast - a term used to describe the degree of value (white through black) variation in an image.  </s>
+<s> in a black and white image, there is a large difference in the value range (since there are no in-between grays in the image).  </s>
+<s> an image made of only black and white (and no gray values) is therefore the highest in contrast, while an image with many grays and few white (highlights) and black (shadows) is a low contrast image.  </s>
+<s> adjusting the brightness of an image does not affect its overall contrast.  </s>
+<s> d dead pixel - term used to describe a pixel that no longer illuminates.  </s>
+<s> degauss - degauss is a method of erasing magnetic media and the removal of remnants of previously recorded signals.  </s>
+<s> the degauss process is achieved by passing magnetic media through a magnet field more powerful than the media itself in order to rearrange the magnetic particles.  </s>
+<s> detonators - detonators are updated reference drivers for the nvidia chipset video cards.  </s>
+<s> digital display - video display that presents images in shades of gray of very limited color such as a monochrome or an ega monitor.  </s>
+<s> digital monitor - monitor that takes a digital signal received from a monitor and changes it to analog.  </s>
+<s> unlike a analog monitor a digital monitor is not capable of displaying an infinite range of colors.  </s>
+<s> digitize - process of converting a image into digital data for storing.  </s>
+<s> a good example of digitizing is when a computer scanner converts a non-digital image, such as a picture, into binary.  </s>
+<s> directx - first released in 1996 directx is a set of apis (application program interface) developed by microsoft to allow all programs to write instructions for hardware without knowing exactly what hardware is within the computer.  </s>
+<s> games which include directx have the capability to utilize multimedia and graphics accelerator features more efficiently.  </s>
+<s> display - term used to describe the device used to view images and/or text.  </s>
+<s> also used to describe the actual object or item being displayed.  </s>
+<s> display attribute - attribute of an object viewed on a monitor such as a size, color, etc. dithering - technique used with dots or a mixtures of colors to help create a look of a new color or shade of color in an image.  </s>
+<s> dithering is commonly used in large publications such as a newspaper.  </s>
+<s> dot pitch - distance between pixels on a computer display screen measured in millimeters.  </s>
+<s> dstn - also known as dual scan screens.  </s>
+<s> dstn stands for double-layer super twisted nematic and is an improvement over stn.  </s>
+<s> dstn is a passive-matrix technology that uses two layers.  </s>
+<s> dpi - dpi (dot per inch) is a measurement of printer resolution indicating how many ink dots the printer can place in one square inch. the higher the dpi the sharper the image.  </s>
+<s> dpi or dot's per inch is also used to determine an image resolution.  </s>
+<s> drift - wave-like movement or swaying of any line that appears on the monitor.  </s>
+<s> dual-scan display - type of passive-matrix display found on notebook computers and flat panel displays.  </s>
+<s> a dual-scan display refreshes twice as often as the regular passive-matrix.  </s>
+<s> e enhanced graphics adapter - manufactured by ibm in 1984, enhanced graphics ad (ega) is a video standard with a resolution of 640 x 350 and offers more colors (16 from a palette of 64) when compared to earlier standards.  </s>
+<s> elf emission - short for extremely low frequency emissions, elf emissions are magnetic emissions given off by electrical appliances.  </s>
+<s> because it is not yet known if these emissions could be harmful to humans over long periods of times, several governments have created standards to help ensure that devices produce less elf emissions.  </s>
+<s> f fixed-frequency monitor - fixed-frequency monitors are older models designed to only run at a specific signal from within a limited frequency range.  </s>
+<s> fixed-frequency monitors generally require a specific or specially designed video card.  </s>
+<s> flat-display monitor - thin screens most often used in notebook computers.  </s>
+<s> however, they are becoming more popular with desktop computers.  </s>
+<s> flat-panel displays are not based upon the cathode-ray tubes technology; they usually use liquid-crystal display (lcd) technology.  </s>
+<s> flat screen - an attribute of some computer monitors that means their display screens are flat.  </s>
+<s> these screens usually use better technology and help prevent screen glare.  </s>
+<s> flicker - the appearance of a flicker, flashing, or unsteadiness in an image on a display screen.  </s>
+<s> flickers can occur when the video refresh rate is too low, or because of other video related problems, and in some cases are caused by monitor hardware problems.  </s>
+<s> a flickering screen can cause users to experience eye strain.  </s>
+<s> foot candle - a measurement of light reflected by a surface one foot from a lighted candle.  </s>
+<s> candle light is measured in lux and is commonly used as a light measurement for lcd displays and projectors.  </s>
+<s> fps - short for frames per second, fps is a measurement of the speed or performance of a game and/or computer system.  </s>
+<s> generally, a user who has a higher fps will be capable of performing better.  </s>
+<s> frame - a frame is a single still image frame displayed by the computer, video hardware or software application.  </s>
+<s> frames are often used in word processing and graphic arts to help focus the viewers attention.  </s>
+<s> in data or network communications, a frame is a block of data that begins with a header to indicate the beginning of the block of data, and a trailer to indicate the ending of the data.  </s>
+<s> on the internet, a frame is a movable or non-movable portion of a web page to help make the navigation easier.  </s>
+<s> frame capture board - also known as a frame grabber, the frame capture board is an internal computer expansion board that is installed in a computer and allows video devices such a vcr, television, or other device to connect to it.  </s>
+<s> this device can then capture video images from that device and store them on a computer.  </s>
+<s> frame rate - the rate at which frames are displayed or projected.  </s>
+<s> usually measured in frames per second (fps).  </s>
+<s> today's movies are generally at a frame rate of 24, 25 and 30 frames per second.  </s>
+<s> framebuffer - portion of video card memory that holds the information necessary to display a single screen image.  </s>
+<s> the size of the framebuffer determines the resolution and maximum colors able to be displayed.  </s>
+<s> fstn - short for film supertwist nematic, fstn is a type of lcd display.  </s>
+<s> full-motion video - abbreviated as fmv, full-motion video is a computer system that is capable of displaying full video images and sound on a computer.  </s>
+<s> depending upon the compression being used by the computer and the computer hardware, the frames per second can vary.  </s>
+<s> computers not capable of displaying at least 24fps will create choppy video.  </s>
+<s> full-page display - computer screen that allows an entire 8.5-inch by 11-inch page to be displayed at once without the need for scrolling or zooming out.  </s>
+<s> these monitors are either longer horizontally then vertically, or are built so they can be turned from horizontal to vertical.  </s>
+<s> g gamma correction - gamma or gamma correction is the adjustment of the brightness and/or contrast in color on a image displayed on computer monitor or printed on a printer.  </s>
+<s> adjusting the gamma correction on a image can correct the overall quality of an image.  </s>
+<s> gas-plasma display - type of display that is a collection of neon gas materials between two plates.  </s>
+<s> each plate contains a conductive print; one with a horizontal and the other with a vertical.  </s>
+<s> gas-plasma displays are sometimes found with older portable computers.  </s>
+<s> however, because of advances in portable lcd technologies and the power requirements, gas-plasma displays are often used for large displays.  </s>
+<s> these displays can range anywhere from 42 to 60-inches.  </s>
+<s> glare screen- clear panel or filter placed over a computer screen to help prevent glare on the screen from the sun or other bright light sources.  </s>
+<s> gpu - introduced in 1999 by nvidia, gpu is short for graphics processing unit.  </s>
+<s> the gpu is a single chip processor located on the video card capable of processing a minimum of 10 million polygons per second.  </s>
+<s> grabber - also known as a frame grabber, grabber describes hardware or software that is capable of taking a image frame from analog or digital video.  </s>
+<s> once the image is grabbed, the computer stores it as a graphic image.  </s>
+<s> granularity - term used to describe how clear an image is displayed.  </s>
+<s> for example, with a bit-mapped image the smaller the dots the better granularity or clarity the image will be.  </s>
+<s> graphic - a digitized version of photograph, or other type of picture that is displayed on a computer display.  </s>
+<s> below is a basic example of a computer graphic.  </s>
+<s> graphics accelerator card - also known as a 3d accelerator, the graphics accelerator card is a internal board that generally is installed into the pci or agp slot and reduces the time it takes to produce images on the computer screen by incorporating its own processor and memory.  </s>
+<s> graphics controller - a chip, also known as a graphics coprocessor, which is similar to a microprocessor.  </s>
+<s> it is ordinarily found on graphics accelerator cards.  </s>
+<s> the graphics controller processes the graphics to create dots and lines on-screen.  </s>
+<s> graphics mode - computer display mode where an image is produced by pixels to create an overall image.  </s>
+<s> h hercules - type of graphics standard introduced in the early 1980s and developed by hercules computer technology for ibm compatible computers. the standard defined a resolution of 720 pixels by 348 pixels on a monochrome monitor.  </s>
+<s> hga - short for hercules graphic adapter.  </s>
+<s> high-persistence phosphor - type of neon phosphor used in monitors that illuminates longer, allows lower refresh rates and reduces the flicker effect.  </s>
+<s> with early monitors this type of phosphor could cause poor animation when an object, such as a mouse, moved across the screen.  </s>
+<s> the user would be able to notice a trail of the moving object.  </s>
+<s> high resolution - the final quality of images displayed or seen. the resolution on printers and monitors is usually measured by the quantity of dots or pixels per-inch.  </s>
+<s> horizontal scan rate - the speed that each line is drawn horizontally.  </s>
+<s> this is commonly expressed in kilohertz [khz].  </s>
+<s> hpa - abbreviation for high-performance addressing.  </s>
+<s> developed by hitachi, hpa is an lcd passive-matrix display technology commonly found on low-end portable computers.  </s>
+<s> monitors featuring hpa have higher response rates and contrast, and are capable of displaying up to 16-million colors.  </s>
+<s> however, hpa monitors lack the crisp display that is found with an active-matrix display.  </s>
+<s> hpd - short for hybrid passive display.  </s>
+<s> hpd was developed by toshiba and sharp, and is a technology that utilizes a new type of liquid crystal to provide a better contrast and overall image quality for lcd displays.  </s>
+<s> i irgb - intensity red green blue (irgb) is the technology used to generate a 16-color image on a computer monitor.  </s>
+<s> 16-colors are created by the addition of an intensity bit. the 16 colors created were black, dark gray, light gray blue, light blue, green, light green, cyan, light cyan, red, light red, purple, light purple, yellow, light yellow and white.  </s>
+<s> intensity bit - bit of information used to display different intensities of color with computer software and computer monitors.  </s>
+<s> for example, the irgb monitor is capable of displaying 16 different colors because of this bit.  </s>
+<s> interlacing - interlacing is a method for refreshing an image on a computer monitor.  </s>
+<s> interlacing refreshes an image on the screen by scanning every other line, and alternately scans every opposite line.  </s>
+<s> this allows a faster refresh rate, and less information during each scan.  </s>
+<s> unfortunately this may cause flickering or noticeable line movements in some situations.  </s>
+<s> j jaggies - term used to describe a rigid, non-straight line or edge of an image or graphic.  </s>
+<s> jaggies are commonly seen when zooming in on an image, or on a low-quality or low-resolution image.  </s>
+<s> l landscape monitor - monitor that lays horizontally and is wider than it is tall.  </s>
+<s> most computer monitors are landscape monitors.  </s>
+<s> lcd - abbreviation for liquid-crystal display.  </s>
+<s> lcd is a flat display technology used in laptops, calculators and the majority of flat screen displays.  </s>
+<s> lcd displays are available as an active matrix, dual-scan or passive-matrix display.  </s>
+<s> liquid crystal - liquid crystals were discovered by friedrich reintzer in 1988 and are substances that have the properties of both liquids and solids.  </s>
+<s> liquid crystals are widely used in liquid crystal displays (lcd).  </s>
+<s> low resolution - computer screen, image, or printed page that is not crisp, grainy and/or pixilated.  </s>
+<s> low resolution screen or image commonly describes a picture that has a small amount of pixels causing the image to be jaggy.  </s>
+<s> a low resolution print page has a small amount of dots causing the printed text or image to appear light and not crisp.  </s>
+<s> luminance - the overall brightness of a computer screen.  </s>
+<s> m mcga - abbreviation for multi-color graphics array or memory controller gate array.  </s>
+<s> mcga is a type of graphics system built into computers manufactured during the 1980s.  </s>
+<s> mda - short for monochrome display adapter.  </s>
+<s> mda is the first text-only video display standard from ibm capable of displaying at a maximum of 80x25 characters in two colors.  </s>
+<s> mda is no longer used.  </s>
+<s> moir - the moir is a distortion and/or pattern of an image caused by conflicting frequencies; two or more different resolutions overlapping each other.  </s>
+<s> a moir commonly is a wavy image effect, grids or dots across the image, or a similar visual effect that occurs on a display device such as a monitor or a printed image.  </s>
+<s> monitor - video display screen and the hard shell that holds it.  </s>
+<s> also called video display terminal (vdt).  </s>
+<s> in its most common usage, monitor refers only to devices that contain no electronic equipment other than what is essentially needed to display and adjust the characters of an image.  </s>
+<s> monochrome - term used to describe a visual display or output in one color.  </s>
+<s> a monochrome monitor displays only one color, such as green on a black background.  </s>
+<s> mpc - short for multimedia pc. mpc was developed in 1990 describes any computer capable of running programs that combine video, animation, audio, and graphics.  </s>
+<s> mpeg - video codec used by most computers to display a video.  </s>
+<s> mpeg compression is handled through the software and/or hardware.  </s>
+<s> there are various versions of mpeg.  </s>
+<s> multifrequency monitor - computer monitor capable of accepting video signals at more than one frequency.  </s>
+<s> multimedia - display of a combination of audio, video, animation, and graphics.  </s>
+<s> multiscanning monitor - computer monitor capable of responding to any frequency within a specified range.  </s>
+<s> this allows a computer monitor to work with various types of graphic displays.  </s>
+<s> n nit - the smallest measurable unit of brightness that is used to measure the brightness of the surface area of a monitor, lcd or other display device.  </s>
+<s> noninterlaced - noninterlacing is a method of refreshing an image on a computer monitor.  </s>
+<s> with noninterlacing, every line on the monitor is refreshed during a scan.  </s>
+<s> this provides for a higher quality display and less chance of the user noticing flickering or line movements on the monitor.  </s>
+<s> when considering between a interlaced and a noninterlaced monitor, a noninterlaced monitor is commonly recommended.  </s>
+<s> ntsc - short for national television system committee, ntsc is the american committee responsible for creating technological television and video standards, including refresh rate and color capabilities.  </s>
+<s> ntsc composite video is the standard for analog color televisions.  </s>
+<s> o oled - abbreviation for organic light-emitting diode.  </s>
+<s> oled is a type of led that is being used in flat-panel displays, is much thinner then lcd and requires much less power to run.  </s>
+<s> opengl - opengl is a trademark of silicon graphics inc and is a cross-platform standard for 3d rendering and 3d hardware acceleration.  </s>
+<s> output device - any peripheral that receives output from a computer.  </s>
+<s> computer printers and monitors are output devices.  </s>
+<s> output screen - device used to display output.  </s>
+<s> this could be a separate monitor or other display device used only to display the output being received from the computer or other device.  </s>
+<s> p pal - short for phase alternating line, pal is the dominant television standard across europe delivering 625 lines at 50 half-frames per second.  </s>
+<s> paper-white - refers to a white that is as white as white paper.  </s>
+<s> paper-white commonly refers to monochrome monitor that contains a pure white background with black text.  </s>
+<s> passive matrix display - type of lcd screen display that contains a series of wires that criss-cross each other.  </s>
+<s> at the intersection of each wire contains a single lcd element that allows light to be passed through.  </s>
+<s> a passive-matrix display does not provide the same quality as an active-matrix display.  </s>
+<s> persistence - display persistence is unit of time required for the phosphor in a crt display to lose all of its charge.  </s>
+<s> pga - short for professional graphics adapter.  </s>
+<s> pga is a video standard developed by ibm that supports up to 640x400 resolution.  </s>
+<s> phosphor - a collection of blue, green, and red dots or lines that become charged by the cathode ray tube (crt) within a crt.  </s>
+<s> when charged, the phosphor lights up for an instant, causing a visible color to be displayed on the screen of your monitor.  </s>
+<s> pixel - a term that comes from the words picture element or pel.  </s>
+<s> a pixel is the smallest portion of an image or display that a computer is capable of printing or displaying.  </s>
+<s> a pixel can easily be distinguished when zooming onto an image.  </s>
+<s> polygon - number of straight lines used to form a graphic object that can be filled and/or moved.  </s>
+<s> polygons help create a 3d environment.  </s>
+<s> ppi - short for pixel per inch, ppi is the numbers of pixels per inch that comprises a pixel image.  </s>
+<s> the more pixels per inch the image contains, the higher quality the image will be.  </s>
+<s> projector - a hardware device that enables an image to be projected onto a flat surface.  </s>
+<s> these devices are commonly used in meetings and presentations as they allow for a large image that everyone in a room can see.  </s>
+<s> q quicktime - developed by apple computers, quicktime is software that allows a computer user to play movie files.  </s>
+<s> quicktime is available for apple and ibm compatible users running a compatible operating system such as microsoft windows or any macintosh operating system.  </s>
+<s> with ibm compatible computers, quicktime is commonly used to play .mov  </s>
+<s> extension files.  </s>
+<s> r radeon - the ati radeon series was introduced in 2000 and is a type of 3d acceleration video card developed by ati.  </s>
+<s> ramdac - pronounced random access memory digital-to-analog converter, ramdac is the portion of a computer video card that converts the digital data to a analog signal to be displayed on a computer monitor.  </s>
+<s> raster - image file that is defined by a pixel that has one or more numbers associated with it. the number generally defines the location, size and/or color of the pixel(s).  </s>
+<s> raster images are commonly .bmp,  </s>
+<s> .gif,  </s>
+<s> .tiff and .jpeg  </s>
+<s> files.  </s>
+<s> refresh - a term commonly associated with computer crt monitors, refresh refers to the renewal of the screen content.  </s>
+<s> as the refresh rate is increased the image will become clearer.  </s>
+<s> we recommend that users run their computers with at least a 75mhz refresh rate.  </s>
+<s> lower refresh rates commonly cause eye strain.  </s>
+<s> render - in general, ''render'' refers to the process of taking a computer image or file and converting it into another format and/or applying graphic modifications, such as shading or shadows to that image.  </s>
+<s> when referring to 3d animation, the term ''render'' refers to the process of taking an computer generated image and performing complicated operations that make that image appear as a 3d image and/or making a series of images animated.  </s>
+<s> resolution - the image quality of a printer or monitor.  </s>
+<s> in monitors, the resolution is measured by the number of pixels in a given area.  </s>
+<s> response time - when referring to an lcd display, a response time is how many frames can be displayed in a second.  </s>
+<s> response time is very important for users who are considering an lcd display and plan to use that display for full motion video.  </s>
+<s> reverse video - also known as invert video, reverse video is a method of reversing the colors or background and text.  </s>
+<s> highlighting on a computer is a type of reverse video or invert.  </s>
+<s> rgb - short for red-green-blue, rgb is a method of creating colors from the primary colors of red, green, and blue.  </s>
+<s> rgb is sometimes used when describing a type of display or monitor.  </s>
+<s> rgb monitor - computer monitor that uses the red-green-blue signals to generate the colors displayed on the screen.  </s>
+<s> s s-video - also known as y/c video, s-video is short for super video and is a type of interface and cable that transmits video luminance (y) and chrominance (c) signals separately.  </s>
+<s> when received by the tv or other display device this generates a better picture when compared to composite video.  </s>
+<s> scart - also known as a euroconnector or peritel, scart is short for syndicat des constructeurs d'appareils radiorcepteurs et tlviseursand is 21-pin connector capable of carrying audio, video, and/or other signals.  </s>
+<s> screen flicker - the appearance of a flicker, flashing, or unsteadiness in an image on a display screen.  </s>
+<s> a flicker issue can occur when the video refresh rate is too low, due to other video related issues and, in some cases, because of hardware problems with the monitor.  </s>
+<s> flicker often causes eye strain.  </s>
+<s> sgram - short for synchronous graphic ram, sgram is a 144 pin memory module with a single port with the capability of synchronizing with cpu bus (speeds of 83 mhz, 100mhz, 125mhz, and 142mhz) and is commonly used with computer video cards.  </s>
+<s> shadow mask - on standard monitors a shadow mask is a metal plate located on the back of the crt to mask the beams from the electron guns similar to an aperture grille on a trinitron monitor.  </s>
+<s> sharpness - a term used to describe the overall clarity of a computer display's picture or a printed image/text.  </s>
+<s> commonly the sharper an image, text, or display, the better it will look.  </s>
+<s> snow - cast of pixels on a monitor that appears as small, white flickering dots.  </s>
+<s> snow is often caused by video disruption.  </s>
+<s> supertwisted nematic - abbreviated as stn, supertwisted nematic is a type of liquid-crystal-display (lcd) used in portable computers and flat panel displays.  </s>
+<s> stn builds on the twisted nematic (tn) method, which twists liquid molecules, causing the lcd display to have a sharper contrast and better viewing angle.  </s>
+<s> svga - short for super video graphics array, svga is a set of video standards that is one step above vga.  </s>
+<s> svga monitors are capable of displaying up to 16 million colors with a resolution of 800 x 600 on 14-inch monitors or up to a 1200 x 1600 resolution on a 20-inch monitor.  </s>
+<s> sxga - short for super xga, sxga is a video resolution that supports a maximum resolution of 1280 horizontal pixels by 1024 vertical pixels.  </s>
+<s> t t & l - short for transform and lighting.  </s>
+<s> t&l is a type of video technology that takes all the 3d information that used to be handled by the computer processor and gives it to the gpu.  </s>
+<s> this enables a more complex 3d environment by adding a higher polygon count and improving the lighting at the same time it allows the computer processor to handle other tasks.  </s>
+<s> text mode - also known as character mode or alphanumeric mode, text mode is a display mode where the display is divided into rows and columns of boxes, in which only alphanumeric characters are shown.  </s>
+<s> tft - also known as active matrix display.  </s>
+<s> tft is a liquid crystal display found on notebook computers and flat panel displays.  </s>
+<s> with active matrix displays each pixel is controlled by one to four transistors which commonly make the screens fasters, brighter and more colorful then passive matrix.  </s>
+<s> because of this improved technology, active matrix screens commonly tend to be a more expensive but better of quality than a passive matrix display.  </s>
+<s> ti 34010 - ti 34010 is a graphics standard developed by texas instruments that supports a resolution of 1024x768 pixels and is noninterlaced.  </s>
+<s> tn - short for twisted nematic, tn is a method of twisting causing the liquid crystals in a lcd to twist in one direction allowing for light to not scatter allowing lcd displays to have a better contrast.  </s>
+<s> touch screen - type of monitor with a sensitive panel directly on the screen that registers the touch of a finger as input.  </s>
+<s> some monitors, as opposed to being touch-sensitive, use beams across the screen to create a grid, which is interrupted by the presence of a finger near the screen.  </s>
+<s> transform and lighting (t& l) - t &l is a type of video technology that takes all the 3d information that used to be handled by the computer processor gives it to the gpu.  </s>
+<s> this allows a more complex 3d environment by adding a higher polygon count and improving the lighting at the same time that it allows the computer processor to handle other tasks.  </s>
+<s> some computer games may require that users have a t&l compatible chipset.  </s>
+<s> if you are unsure if your video card or motherboard video chipset is t&l compatible, or what generation of t&l your computer has, check the documentation for your video card.  </s>
+<s> trichomatic - a method of mixing red, green, and blue to render the entire color spectrum.  </s>
+<s> this method of mixing colors is commonly used in inkjet printers and computer monitors to create multiple variations of colors.  </s>
+<s> trinitron - the trinitron technology was invented by sony in 1968 and later released in a computer monitor in 1982.  </s>
+<s> trinitron is a display method that uses an aperture grill to help create a true, life-like image.  </s>
+<s> true color - the use of at least 24-bits to represent each pixel in a graphic.  </s>
+<s> 16.7 million colors can be shown when 24-bit color is enabled.  </s>
+<s> u uxga - short for ultra xga, uxga is a video resolution that supports a maximum resolution of 1600 horizontal pixels by 1200 vertical pixels.  </s>
+<s> v vdu - short for visual display unit, vdu is a term used to describe a visual display device for a computer.  </s>
+<s> for example, a flat panel display, monitor and a projector are all examples of a vdu.  </s>
+<s> vdu is most commonly used to describe a standard crt monitor.  </s>
+<s> vertical retrace - also known as a vertical blanking interval or the vertical sync signal, vertical retrace describes the action performed within the computer that turns the monitor beam off when moving it from the lower-right corner of a monitor to the upper-left of the monitor.  </s>
+<s> this action takes place each time the beam has completed tracing the entire screen to create an image.  </s>
+<s> vesa - short for video electronics standard association, vesa is a group of monitor and video card manufactures that set various display standards.  </s>
+<s> vga - short for video graphics array, vga is a popular display standard developed by ibm.  </s>
+<s> vga provides 640 x 480 resolution color display screens with a refresh rate of 60hz and 16 colors displayed at a time.  </s>
+<s> if the resolution is lowered to 320 x 200, 256 colors can be displayed.  </s>
+<s> vga capability is built into plug -in video cards, vga chips, and monitors that can work with the vga cards.  </s>
+<s> today vga has been supplanted by svga.  </s>
+<s> video - electronic signal of moving graphics, pictures and/or text used to combine a fluent source of images used for entertainment, education or other uses.  </s>
+<s> video accelerator - video card with integrated processor and memory to increase the overall capabilities of video graphics.  </s>
+<s> today most video accelerators are used for computer gaming.  </s>
+<s> video adapter - also known as a graphics card, video card, video board, or a video controller.  </s>
+<s> a video adapter is an internal circuit board that allows a display device such as a monitor to display images from the computer.  </s>
+<s> video buffer - a storage location in a system or video cards memory that holds information before it is sent to the display device.  </s>
+<s> video digitizer - software that takes an analog video still frame and coverts it to a digital still image.  </s>
+<s> this is generally accomplished with the aid of computer hardware.  </s>
+<s> video display page - a video screen image stored in the video buffer.  </s>
+<s> video conferencing - computer software, hardware, or other device capable of transmitting a video signal to another computer software program or hardware device allowing other individuals to see a picture of the participants in a conference.  </s>
+<s> video memory - memory on the video card, in some cases located on the motherboard, which is accessible by the video and computer processor.  </s>
+<s> with more video memory, the video card and computer is capable of handling more complex graphics at a faster rate.  </s>
+<s> video card memory may be between 8 and 512mb of memory.  </s>
+<s> videotex - technology developed in the u.s. that allowed users to read text news on a television by using a receiver and a dedicated line.  </s>
+<s> because of the interface, cost, and other factors the videotex system never became popular and is no longer in service or used.  </s>
+<s> vertical sync line - also known as vertical retrace or vertical blanking, vertical sync line describes the action performed within the computer that turns the monitor beam off when moving it from the lower-right corner of a monitor to the upper-left of the monitor.  </s>
+<s> this action takes place each time the beam has completed tracing the entire screen to create an image.  </s>
+<s> vlf - short for very low frequency, vlf describes the electrical radiation emitted by computer monitors, televisions, and other cathode ray tubes (crts).  </s>
+<s> w windows-based acceleration - super video graphics array adapter specially created to run microsoft windows programs faster.  </s>
+<s> this should not be confused with standard svga cards.  </s>
+<s> wireframe - the simplest type of data representation for 3-d models.  </s>
+<s> wireframe modeling is a natural outgrowth of 2-d cad in that such models only contain information on edges and vertices.  </s>
+<s> with a wireframe modeler, there is no implicit information on the boundary between inside and outside the model volume.  </s>
+<s> wireframe can also refer to a rendering technique in which only the edges and vertices are represented in the image.  </s>
+<s> wsxga - short for wide sxga, wsxga is a resolution that supports 1600 by 900 pixels or 1600 x 1024 pixels.  </s>
+<s> wuxga - short for wide ultra extended graphics array, wuxga has a resolution of 1920 horizontal pixels by 1200 vertical pixels.  </s>
+<s> wxga - short for wide xga, wxga is a video resolution that supports a maximum resolution of 1366 horizontal pixels by 768 vertical pixels.  </s>
+<s> x xga - short for extended graphics array, xga was introduced in 1990 and is ibms upgrade to the vga video standard.  </s>
+<s> xga supports a maximum resolution of 1024 horizontal &gt; pixels by 768 vertical pixels and 256 colors.  </s>

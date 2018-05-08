@@ -1,0 +1,54 @@
+<s> i have a dell xps studio 7100, with the amd 6 core phenom ii 1090t cpu.  </s>
+<s> recently i changed out my psu for a future graphics card upgrade, and this is where the problems began. the corsair 650 watt psu went in w/no probs, and my system runs great, even smoother than before.  </s>
+<s> however... if i run a stat program like cpu-z, it shows the v core voltage of my cpu is now way too high like 2.028 volts (it's supposed to be 1.1 or 1.2v according to amd).  </s>
+<s> i've checked it on a couple of other programs as well including hw monitor, aida64, and speccy which all give the same result.  </s>
+<s> 2 volts or more.  </s>
+<s> and no- i am not overclocking, you can't on a dell.  </s>
+<s> i called dell, amd, and corsair, but they all tell me since my system is stable and not running hot (it's only 31c right now under a light load, and only gets to around 40-42c under heavy load), there is nothing they will do right now.  </s>
+<s> they basically want me to wait til it fries the cpu or something else and then call them. the amd tech support said he thinks the dell mobo may be &quot;over-volting&quot; the cpu so i should call dell and tell them.  </s>
+<s> i did and they didn't agree and said to call corsair because its a psu problem, so i have to call them.  </s>
+<s> when i called corsair they said since it's only the cpu and not anything else affected, and the system isn't overheating at all- it's likely either amd's or dell's issue - not the psu.  </s>
+<s> what a run around!  </s>
+<s> any suggestions on how i can lower this voltage setting or is this all just false readings?  </s>
+<s> bios adjustments are not accessible on dell's so i can't even check to verify that it's not a false reading.  </s>
+<s> i'm stumped.  </s>
+<s> and again..i'm not overclocking.  </s>
+<s> i even tried to running crysis 2, while having an excel spreadsheet open, wih several browser tabs open, and while playing itunes in the background.  </s>
+<s> still no problem- it only got to 40-42c, and was completely stable.  </s>
+<s> it didn't even phase the 1090t which was laughing at about 20-24% usage.  </s>
+<s> any opinions?  </s>
+<s> i just dont want to fry my cpu or mobo with high voltage.  </s>
+<s> dell usually does not allow change of this setting.  </s>
+<s> that is, unless someone has installed some tweak software it's correct according to dell.  </s>
+<s> sadly some apps like you note read something wrong and folk lose time calling support for no reason.  </s>
+<s> your story might be incomplete but so far i see no reason to keep writing.  </s>
+<s> bob  </s>
+<s> if you install the old psu what does that v-core stuff show?  </s>
+<s> if it shows the same thing then i doubt it's a psu issue.  </s>
+<s> yes i put the old psu back in to double check, but it's the same reading.  </s>
+<s> it's like the sensor is stuck now on 2 volts.  </s>
+<s> but again, my system is running great, stable, and cool.  </s>
+<s> i have sinced put the new corsair psu back in, since the voltage readings are the same.  </s>
+<s> hardware monitor ite it8721 voltage 0 5.24 volts [0x69] (+12v) voltage 1 2.58 volts [0x7b] (+5v) voltage 2 2.02 volts [0xaa] (cpu vcore) voltage values cpu core 2.028 v motherboard 30 c (86 f) cpu #1 / core #1 34 c (93 f) cpu #1 / core #2 34 c (93 f) cpu #1 / core #3 34 c (93 f) cpu #1 / core #4 34 c (93 f) cpu #1 / core #5 34 c (93 f) cpu #1 / core #6 34 c (93 f)  </s>
+<s> remember that dell will not respond if it's not.  </s>
+<s> are you sure this ever read less than 2 volts?  </s>
+<s> perhaps it has been that way from day 1. before i chased this around i'd break out the dvm and see what it really is.  </s>
+<s> maybe the sensor fibs.  </s>
+<s> if the dvm shows 2+ volts and amd says 1.3 volts i'd call dell and ask&gt;&gt;&gt;&gt;&gt;how come?  </s>
+<s> as mentioned.....you can not use non-dell software to tell dell they have a problem......it does not work....they go deaf.  </s>
+<s> not possible.  </s>
+<s> after doing some reading that vcore should be in the 1.2v/1.4v  </s>
+<s> range......depending on turbo or what ever amd calls it.  </s>
+<s> before you could get vcore to 2v+ that cpu would have gone to &quot;cpu heaven&quot;. the temps look fine.  </s>
+<s> ignore the voltage sensor.  </s>
+<s> yes, i think youre right bob b. there is just no way the cpu hasn't gone up in flames if it was really running at 2 volts.  </s>
+<s> i'm pretty sure it was only showing the normal range before i changed out the psu, but in all honestly i'm not positive.  </s>
+<s> i really wasn't looking at the vcore, i was only monitoring the temps.  </s>
+<s> i've had my computer running for about two hours now, and the cpu temp is only 29c, and the mainboard is 31c (according to speedfan).  </s>
+<s> my question is this - if these software based can't read my vcore accurately, how reliable are the temps they're giving me?  </s>
+<s> i found them to not be accurate but when they work they were reliable to show me when the temp changed.  </s>
+<s> put another way, if it did report 55c and it shot up to 88c while it could be off 10c it reliable did indicate it got hotter.  </s>
+<s> bob  </s>
+<s> if your using one of those monitor progs a good dose of skepticism will come in handy.  </s>
+<s> i recall using one of those monitor tools that came from the mobo maker......the readings were nutty.  </s>
+<s> if the mobo maker can't figure out how to get that info from &quot;their&quot; own board what chance does a third party tool have?  </s>

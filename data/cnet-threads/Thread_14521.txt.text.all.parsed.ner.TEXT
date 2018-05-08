@@ -1,0 +1,24 @@
+<s> windows xp home edition service pack 3 (build 2600) 1.60 gigahertz amd athlon 64 128 kilobyte primary memory cache 256 kilobyte secondary memory cache board: gigabyte technology co., ltd.  </s>
+<s> k8m800-8237 x.x bus clock: 200 megahertz bios: award software international, inc.  </s>
+<s> fc 10/13/2005 using whats running 2.2. it is using about 6.2 % of cpu [system process] is using from 92 to 98% of cpu.  </s>
+<s> i have cnet home page open and wordpad to write this.  </s>
+<s> isass.exe is only other showing activity using around 1.6 % of cpu ocasionally, i have a problem of clicking on icon and having it take several minutes to come up.  </s>
+<s> such as freecell, the speaker icon to adjust sound.  </s>
+<s> thanks ben  </s>
+<s> xp was installed but the other 10 or so drivers were not installed.  </s>
+<s> your post is a little light.  </s>
+<s> bob can you expand on your post?  </s>
+<s> thanks ben  </s>
+<s> example 10 at tell me your install method and list of drivers so i can see if you missed one.  </s>
+<s> &quot;system process&quot; or &quot;system &lt;i&gt;idle&lt;/i&gt; process&quot;?  </s>
+<s> if it's the former, it's completely normal.  </s>
+<s> it's what the cpu does when it's not working on anything else.  </s>
+<s> it's typical to see this running close to 100% when the computer is idle.  </s>
+<s> bob, i did a destructive format and installed xp sp1 from disk over a year ago.  </s>
+<s> then when sp2 came out, installed it, same for sp3.  </s>
+<s> i used the disks that came with my motherboard at time of xp install drivers.  </s>
+<s> allowed all xp updates by auto-update.  </s>
+<s> thanks again, ben  </s>
+<s> i meant to say &quot;latter&quot; not &quot;former&quot; in my previous post.  </s>
+<s> &quot;system idle process&quot; is the normal one.  </s>
+<s> go to start, run, type in msconfig, press enter and see what you have running that you don't need, could well me a part of your issue.  </s>

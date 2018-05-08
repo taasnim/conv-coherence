@@ -1,0 +1,901 @@
+<s> the gateway gm5478 (running windows vista home premium) looks like a great pc ( ) for a pretty good price.  </s>
+<s> and i do really like mine, except for one serious issue that i've noticed other people have encountered as well.  </s>
+<s> about a month after purchase, the fan in the power supply sped way up (which was really loud and made me practically jump out of my skin) and then the pc spontaneously rebooted.  </s>
+<s> at first it only did it a few times.  </s>
+<s> then it started doing it all the time.  </s>
+<s> i've blogged about the experience here: .  </s>
+<s> due to the fact that other people are saying the same thing about the issue, i'm thinking this is a design flaw. is anyone else seeing this problem?  </s>
+<s> has anyone had any success in getting this issue resolved with gateway or best buy?  </s>
+<s> some can't stand them.  </s>
+<s> have you thought about installing a fixed speed fan?  </s>
+<s> bob  </s>
+<s> ...i'm rather ticked off about having such a problem occur only a month after spending over $1000 on a new computer.  </s>
+<s> i should not have to pay out of my own pocket to fix a design flaw.  </s>
+<s> multiple speed fans are doing their job when they encounter increase temps.  </s>
+<s> once cooled enough they will throttle down or up if the temp increases.  </s>
+<s> if the bios cpu temp is too conservative you may increase it(only abit).  </s>
+<s> you can also, select to &quot;shutdown&quot; rather than reboot if that's the cause.  </s>
+<s> many a system will upon initial boot=up kick-in high then settle as the system handles the temp from whatever means.  </s>
+<s> dust alone defeat heatsinks and/or fan(s) as they collect on fins, etc.. it does happen that a design flaw can exist, but it maybe more of pushing the envelope for certain cpus or poor wire harness routing and/or airflow in a case.  </s>
+<s> just my 2-cents tada -----willy  </s>
+<s> good point.  </s>
+<s> my guess is that the system is behaving as designed, but that the temperature is getting too high.  </s>
+<s> in other words, inadequate heat dissipation.  </s>
+<s> that's what i meant about the design flaw.  </s>
+<s> i'll take a look at the bios and see if i can tweak the setting.  </s>
+<s> also, i've heard there are utilities to see what the cpu temp is, but i've not tried one of those.  </s>
+<s> also, it's annoying that the auto reboot uses an improper shutdown procedure and could cause system corruption.  </s>
+<s> during a few reboots, i was not sure whether i'd ever ever get back into the system without using the recovery cd.  </s>
+<s> fortunately i've been successful so far without having to do that.  </s>
+<s> i'm not sure whether this is a vista issue or a pc issue, but since you mention the bios, maybe it's the pc. and...i forgot to mention previously that the power supply fan has also been making odd undulating whining sounds similar to those made by old pcs with worn out power supplies.  </s>
+<s> so not sure whether power supply itself is shot.  </s>
+<s> call gateway and ask for a replacement power supply and/or fan.  </s>
+<s> be sure you know what fan is causing the noise.  </s>
+<s> that all variable speed fans tend to do that?  </s>
+<s> gateway has no lock on this issue.  </s>
+<s> bob  </s>
+<s> i think the system is performing properly (i.e., increase fan speed and shut down to prevent high-temp damage), but i think the cooling is inadequate or the temp setpoints are too low.  </s>
+<s> normal operation should not constantly cause overtemp/shutdown situations.  </s>
+<s> and i saw that on a recent fun box i made. it had a mbtx board and the intel cooler.  </s>
+<s> it would by design run the cpu fan at maximum on power up.  </s>
+<s> since the board, bios, cooler and all were made by intel let's lay the issue at their feet.  </s>
+<s> thankfully a new bios picked a not at maximum rpm setting on power up... bob  </s>
+<s> intel p4 cpus have a build-in temp sensor above any system sensors.  </s>
+<s> the fact that the cpu gets turned-on sets the cpu at a level from x-degress above that int.  </s>
+<s> rating, thus the fan kicks-on to high rate then settles as the difference is less of the rate its suppose to turn on at, throttles down.  </s>
+<s> when cold, it starts to heat-up quickly and it senses that, thus usually for many an oem system, its high fan rpm time.  </s>
+<s> this all int.  </s>
+<s> to the cpu and no user action is desired or required.  </s>
+<s> if the case gets hot later or remains at a hot level, then consider the cooling of the case.  </s>
+<s> this in turn allows the airflow to come into play.  </s>
+<s> thus frt.  </s>
+<s> panel air inlets and fans exhasuting int.  </s>
+<s> air creates the airflow.  </s>
+<s> a good airflow system maybe defeated by &quot;objects&quot; in the air path to include cables/harness, devices, cards, or too small of a case.  </s>
+<s> however, since most system are &quot;air cooled&quot; y fans and multiple ones at that, it does get noisy.  </s>
+<s> further, i don't see many makers using pricey less noisy fans.  </s>
+<s> but high rpm fans will make noise.  </s>
+<s> as for auto reboots, that's an item to consider.  </s>
+<s> but think if the system remains on the damage is far greater from heat stress and/or possible fire, thus the auto &quot;shutdown&quot; rather than a reboot.  </s>
+<s> i had this happen during electric storms, etc. and/or lose power or be intermittent and have the system reboot then before it finishes loses power again.  </s>
+<s> i have not noticed this before as i was always gone, but when i saw it, entered the bios to enable &quot;shutdown&quot; rather than reboot during system failure.  </s>
+<s> as for your psu fan, if that's an issue and possible problem then maybe its the root cause.  </s>
+<s> because the psu fan is the primary exhaust for heat build-up.  </s>
+<s> its not entirely unusual to have a bad psu over the life of the system, but in such a short time, that's not good.  </s>
+<s> in either case, if you feel its warrants support then do note down all actions for such.  </s>
+<s> repeated repairs/fixes is a reason for warranty being granted.  </s>
+<s> tada -----willy  </s>
+<s> tried pressing f2 (as instructed by boot screen) to access bios.  </s>
+<s> f2 had no effect (nor did del, f8, or f10).  </s>
+<s> then pc got to point where it says &quot;microsoft&quot; with progress bar at bottom of screen.  </s>
+<s> i pressed f2 again and got the bsod.  </s>
+<s> message says &quot;if this is the first time you've seen this stop error screen, restart your computer.  </s>
+<s> if this screen appears again, follow these steps: the bios in this system is not fully acpi compliant.  </s>
+<s> please contact your system vendor for an updated bios.&quot; niiiiice.  </s>
+<s> so i rebooted and clicked f2 again when prompted. this time, i *did* finally get into bios, but could not find a setting that looks like it would allow me to do this.  </s>
+<s> i'll see if i can upgrade my bios.  </s>
+<s> i'd like to change the restart to shutdown on overtemp in bios (if possible), but i still need to call gateway about the problem in general.  </s>
+<s> mine is about three months old.  </s>
+<s> i have four programs installed.  </s>
+<s> i don't run games.  </s>
+<s> i've noticed the hard drive is very noisy.  </s>
+<s> reminds me of the old junk packard bell computers... clickity clickity clickity.  </s>
+<s> boot up is slow.  </s>
+<s> loading and running programs is slow.  </s>
+<s> i removed the annoying bloatware like mcafee antivirus.  </s>
+<s> if this is quad core technology, it sucks.  </s>
+<s> either that or windows vista is a pain in the butt bloatware itself.  </s>
+<s> i do get random rebooting once a week.  </s>
+<s> i was surprised at how small the case is.  </s>
+<s> i can see how it would overheat.  </s>
+<s> the specs on this sound great.  </s>
+<s> unfortunately they went cheap with design and components.  </s>
+<s> i would not recommend this computer to those who rely on a computer for work (don't know about gaming).  </s>
+<s> i paid $1,050.00 because i needed it the same day when my other computer was damaged, but should have built my own.  </s>
+<s> i also had no problem with mine until 3 weeks after purchase.  </s>
+<s> then it started.  </s>
+<s> checked temps with ir and found nothing overheating.  </s>
+<s> after downloading a vista update, problem went away for about 2 weeks and then returned.  </s>
+<s> then checked ms technet and there was 1 person that had overcome the problem by changing the fan speed settings in bios.  </s>
+<s> changed processing zone response to &quot;aggressive&quot;, processing zone damping to &quot;high&quot; and automatic fan detect to &quot;always&quot;.  </s>
+<s> i changed mine 3 hours ago and so far, no problem.  </s>
+<s> i've also seen no change in temps, but fan does overspeed for a few seconds at start up.  </s>
+<s> by the way, just saw that gateway has posted a bios update download on their website (10/25/07).  </s>
+<s> would've been nice to have been notified.  </s>
+<s> i have the same problem.  </s>
+<s> my gm 5478 is one month and 3 days old.  </s>
+<s> contacted gateway tech support.  </s>
+<s> she wanted to run recovery set up.  </s>
+<s> i told her no, it was not software issue it seemed like hardware or power supply issue.  </s>
+<s> she then suggested i reseat the ram, duh.  </s>
+<s> i asked if they had anything on this issue.  </s>
+<s> she just answered i could take the tower to where i purchased it for repair.  </s>
+<s> nice!  </s>
+<s> lots of people having this problem: no (permanent) solutions yet that i've seen but more info here: and here: i guess we're calling it v1sdie......  </s>
+<s> i just looked at the castlecops forum. the thread is already 4 pages long!  </s>
+<s> anyway, v1sdie = &quot;vista 1-hour shut down issue event&quot;.  </s>
+<s> cute according to posts at the castlecops forum, intel has a bios fix that works on some other pcs, but not the gm5478.  </s>
+<s> there is a new bios update from gateway, but i have not had a chance to install it yet.  </s>
+<s> i originally though this was the power supply fan, but it does appear to be the cpu fan after all.  </s>
+<s> it's good to see user discussion about this so we can finally figure it out.  </s>
+<s> boy this sounds just like my phone calls to the rocket scientists at gateway.  </s>
+<s> mine was restarting so much it fried my hard drive.  </s>
+<s> then i sent it in and all they did was replace the hard drive.  </s>
+<s> now i'm having the same problems again.  </s>
+<s> has anyone got rid of the problems since upgrading the bios?  </s>
+<s> i installed the new bios and the pc has been running without a restart for one day.  </s>
+<s> i'm keeping my fingers crossed.  </s>
+<s> i just installed the new bios update from the gateway web site.  </s>
+<s> we'll see how that goes.  </s>
+<s> thanks for the tips, links, and confirmation that i'm not alone  </s>
+<s> i was wondering if anyone had any thoughts on the hourly aspect of the reboots that people seem to be experiencing.  </s>
+<s> it's virtually on the dot every hour, e.g. when it starts happening, i can watch the clock and predict when it's going to happen again.  </s>
+<s> i've tried the many bios fan settings discussed at the various sites/threads on this topic.  </s>
+<s> none work for very long... in fact, the only pattern i notice is that if i go into the bios at all and make any change whatsoever (even if it's to just change a setting and then immediately change it back), it will fix the problem temporarily for several days or a couple of weeks.  </s>
+<s> the last thing i've tried is disabling automatic fan detection - no problems so far, but again, that doesn't mean anything because it can happen any day now.  </s>
+<s> anyway, i was wondering what might be happening every hour?  </s>
+<s> examining event logs and processes and services and the like hasn't yielded any clues.  </s>
+<s> are there any cooling or temperature or fan processes that run every hour that anyone knows of?  </s>
+<s> that's not one of the most stable systems out there.  </s>
+<s> how do you dismiss that?  </s>
+<s> try a dual boot to linux.  </s>
+<s> does that stay &quot;up&quot;?  </s>
+<s> it affects windows and linux and not just this pc model...at least that's what i've read at i have not actually tried linux on this pc. from what others have said, it looks like a cpu/bios problem related to the cpu fan/thermal control, not the power supply fan like i originally thought.  </s>
+<s> i that linux was for older systems.  </s>
+<s> is their support for newer hardware because this one has a quad-core processor?  </s>
+<s> i wonder if all the drivers are available for fedora or red hat but i am clueless because i have only tinkered with linux a few times.  </s>
+<s> a long and tested history.  </s>
+<s> all good.  </s>
+<s> bob  </s>
+<s> i have a chance to get one of these gateway machines really cheap...was planning on gutting it and building it back up in a differant case, but the reboot prob has me worried.  </s>
+<s> are you still up and running fine with the new bios?  </s>
+<s> mine had actually been &quot;behaving&quot; again for a couple weeks.  </s>
+<s> but i installed the bios upgrade yesterday and today it just did a spontaneous reboot.  </s>
+<s> that's not a promising result so far.  </s>
+<s> that's cool.  </s>
+<s> i'll give it a try.  </s>
+<s> what linux version do you recommend?  </s>
+<s> you can run of off the cd for a look see.  </s>
+<s> i'm on the phone with gateway right now because the problem is back.  </s>
+<s> i am asking for a new pc. this is crazy to spend this kind of money and have these kinds of problems.  </s>
+<s> if you want to get really fired up, read your gateway warranty.  </s>
+<s> it states that the customer has to pay for shipping for warranty repairs.  </s>
+<s> so let me get this straight?  </s>
+<s> you put out a defective product and i have to pay for you to fix the problem that's your fault to begin with?  </s>
+<s> nice.  </s>
+<s> i have 10 minutes to finish this posting before reboot &lt;insert wry laughter here&gt;.  </s>
+<s> i have a gateway gm5485e and it also has this problem.  </s>
+<s> one way to diagnose if you have it to is to check your event logs to see if your system is rebooting almost exactly every hour.  </s>
+<s> do this: from the start menu, choose control panel, then click on classic view on the left side.  </s>
+<s> open up administrative tools, then open event viewer.  </s>
+<s> give your permission to run event viewer.  </s>
+<s> within event viewer, on the left side expand the windows logs folder, then select system.  </s>
+<s> now on the right side in the &quot;actions&quot; pane, select &quot;filter current log&quot;.  </s>
+<s> in the field that says &lt;all event ids&gt;, type &quot;6008&quot; and click ok. now take a look at the list of errors.  </s>
+<s> on my list, i see many 6008 errors in groups of typically 3 to 8 that are almost exactly 1 hour apart. the 6008 error code specifies that the system shutdown &quot;unexpectedly&quot;.  </s>
+<s> if you see this pattern too, congratulations -- you are the proud owner of a spontaneous reboot problem.  </s>
+<s> just as is the case with the others who have posted in this thread and in other blogs, the times when i've been near the computer when the reboot happens, the fan races for 1 to 3 seconds and then comes the reboot.  </s>
+<s> my plan is to spend black friday backing up my data and taking the computer back to costco.  </s>
+<s> too bad - the price was very good, but i guess you get what you pay for.  </s>
+<s> perhaps an hp 9080n is in my future.  </s>
+<s> drf  </s>
+<s> dfarley said...i have 10 minutes to finish this posting before reboot.  </s>
+<s> too funny dude!  </s>
+<s> i laughed so hard when i read this.  </s>
+<s> well even after the bios update i am still having the same problem.  </s>
+<s> i called gateway again and they acknowledged the problem but they have no idea what is causing the reboots.  </s>
+<s> they are going to replace my motherboard.  </s>
+<s> i asked him if they are just going to keep throwing parts at it since they don't know the root cause.  </s>
+<s> i told him if they didn't fix it this time i want a brand new pc other than gm5478.  </s>
+<s> i am not one of those crazy sue happy people but i think we can get a class-action lawsuit rolling here if gateway doesn't own up to the problem and fix it.  </s>
+<s> what is everyone else's thoughts here?  </s>
+<s> i would even be willing to talk to an attorney that specializes in torts if enough people are interested.  </s>
+<s> after upgrading the bios and having that one restart, i tweaked one of the bios settings (i think i changed the fan control processor zone response from &quot;normal&quot; to &quot;aggressive&quot;). that was about 1.5 weeks ago and i have not had a restart since (knock on wood).  </s>
+<s> it's been exactly 4 weeks since i changed my bios fan settings and it started again.  </s>
+<s> went back in and changed the 1st 2 fan settings to normal and the reboots stopped.  </s>
+<s> we'll see how long this lasts.  </s>
+<s> to bad we have to troubleshoot the problem for them.  </s>
+<s> i have not downloaded gateway's bios update yet-saving it for last resort.  </s>
+<s> gateway pays for shipping.  </s>
+<s> i have already sent this turd in once.  </s>
+<s> they send you a box with a pre-paid freight sticker on it.  </s>
+<s> so nice of them to do that for us! i got my new box friday. the problem has for the most part gone away (knocking on wood).  </s>
+<s> i'm wondering if i should send it in or just wait for it to get worse.  </s>
+<s> hey i've have been preaching some type of lawsuit now on a couple of forums, i have the gm5478 with the same problem, it must be thousands of people out there with same problem.  </s>
+<s> lets do something.....  </s>
+<s> i just wanted to chime in here. the bios update is not going to work.  </s>
+<s> my system is the newer and larger one with two 512 hard drives but everything else is basically the same.  </s>
+<s> i purchased it on october 30th and it came with the updated bios already installed.  </s>
+<s> just as the rest of you everything seemed fairly okay.  </s>
+<s> i did have a few days in the past month where my computer had rebooted by itself but i just figured it was a problem with vista as it was my first time using it.  </s>
+<s> then tonight at 8:23 pm it started doing exactly what you all said.  </s>
+<s> fan ran for about three seconds and then it shut down (in the middle of a proposal).  </s>
+<s> it has thus far happened every hour like clock work.  </s>
+<s> i checked my event log for the 6008 id and saw that it has happened maybe 1-2 times a week over the past month.  </s>
+<s> each time it seemed to happen 2-3 times in one day.  </s>
+<s> however tonight was the first time i experienced the dreaded hourly crash and that's when i started searching for a solution.  </s>
+<s> i came across this forum and realized i wasn't crazy after all!  </s>
+<s> tomorrow is my 30 day return deadline.  </s>
+<s> i'm hard pressed to return the whole computer as i spent the last month tweaking t and loading all of my software etc. it took forever.  </s>
+<s> however i am guessing this will be an ongoing lemon issue.  </s>
+<s> what do you all think?  </s>
+<s> but an interesting issue i'm running into are businesses that are missing what backup and &quot;disaster recovery plans&quot; are and when to use them.  </s>
+<s> i find them spending many hours trying to fix something that was delivered not quite ready to use.  </s>
+<s> how do we help them get over it and move to the solution?  </s>
+<s> bob  </s>
+<s> i just found a support document on the gateway web site that acknowledges this issue: .  </s>
+<s> their recommendation is to update the bios...though we know that alone doesn't fix the issue.  </s>
+<s> i still needed to change my cpu fan setting as mentioned above.  </s>
+<s> but at least now gateway acknowledges the problem.  </s>
+<s> it's not a heat issue.  </s>
+<s> i actively monitor internal temperature and i can definitively say there is no rhyme or reason to the spontaneous rebooting.  </s>
+<s> i have the 10/25/07 bios update and it doesn't help.  </s>
+<s> if anyone discovers an underlying cause & fix, please post.  </s>
+<s> thanks!  </s>
+<s> two updates: 1. i had another restart the other day despite the bios update and bios fan setting change.  </s>
+<s> but, i didn't actually witness it, so not sure if it was the same problem or something else (it happened over night).  </s>
+<s> 2. there have been a number of comments submitted to my blog post on this topic.  </s>
+<s> on recent comment is a little different from everything else i've seen so far on this.  </s>
+<s> here is a cross-post of the comment (from ): matt says: december 12th, 2007 at 11:16 am &quot;i had this happen recently to me (6 months after buying) and i think ive come up with one reason why it does it.  </s>
+<s> (card jaming flaw!) and psu flaw.  </s>
+<s> 1st move the tv tuner card down a slot.  </s>
+<s> where they put it at the factory is far to close and does not allow the heat to escape causing a progressive temp spike.  </s>
+<s> on top of that (after doing a voltage test) when the fan goes into its screaming spin up, the power spikes over the psu max.  </s>
+<s> (even at low speed test showed 403w take from a 400 watt.) i called gateway and got a replacement 8500gt card and replaced the psu myself.  </s>
+<s> havent had 1 reboot problem since.  </s>
+<s> hope this helps.&quot;  </s>
+<s> i'm not much of a computer hardware guy and so was wondering what psu you ended up getting.  </s>
+<s> is there a specific watt-age or dimensions that you might recommend for the gm5478?  </s>
+<s> or just a link to the psu that you bought would be helpful.  </s>
+<s> thanks.  </s>
+<s> i am wanting to but this one, is this problem only with the gt5628?  </s>
+<s> or also the gm5632e, i notice on best buy's page the gm gets better reviews then the gt, but on paper, they seem to be about the same computer.  </s>
+<s> also on the power supply, can anyone tell me how good it really is? the specs on it are 400 watts with 18a on the 12v rails, but then when you go look at the 8500 gt in a box, it says it requires 22a on the 12v rail.  </s>
+<s> could this be one of the problems?  </s>
+<s> thanks  </s>
+<s> i have a gateway 5478 with the same symptoms.  </s>
+<s> reboot every hour.  </s>
+<s> i don't think matt is right about card jamming issue.  </s>
+<s> card jamming, driving a heat-related reboot wouldn't be so predictable (every hour within a minute).  </s>
+<s> another symptom to add to the mix: i just shut my computer down and tried to restart it just after it shut down.  </s>
+<s> when i pushed the button to restart, the cpu fan went crazy like just before it restarts itself only this time the fan stayed on, but he machine didn't come on.  </s>
+<s> cycling the start button got it back, but now it skipped the expected hourly restart (first hour).  </s>
+<s> i bought a gm5632e a little over a month ago from bestbuy.  </s>
+<s> aside from the headache setting up the pc to dual boot xp and vista, it had run good for sev weeks.  </s>
+<s> all of a sudden today i notice a fan inside the case get louder for a sec than reboots every hour within a min like clockwork.  </s>
+<s> after reading this thread and trying everything that was suggested i went to gateway website and started a chat with a tech option.  </s>
+<s> they had me goto msconfig and disable all startups, and then goto power options and asked me to use never for all.  </s>
+<s> basically to not turn off monitor and harddisks ever. the only 1 that needed changed was monitor from 20 mins to never.  </s>
+<s> she asked me to restart.  </s>
+<s> after that she said to come back and ask for her after a few hours if it persisted.  </s>
+<s> before i left the chat.i  </s>
+<s> asked her why she asked me to make them changes and what was the underlining cause if she knew?  </s>
+<s> after several mins without a response , i asked if she was still there.  </s>
+<s> i seen notification of her typing then it disapeared and no response.  </s>
+<s> after at least 6 or 7 mins later she finally answered with, i noticed a conflict with your software and your hardware.  </s>
+<s> that`s all she said.  </s>
+<s> so i said sorry but,how did you determine that?  </s>
+<s> lol i mean i told her what the problem was and she immediatelyinstructed me to do the 2 changes.  </s>
+<s> well the pc hasnt restarted in over 4+ hours as of yet. the only startups i had checked in the first place was for my razor mouse,and my nvidia card.  </s>
+<s> so what that could have did is beyond me.  </s>
+<s> so were left with auto shut off of the monitor?  </s>
+<s> every hour when it restarted i was on the internet reading articles.  </s>
+<s> my screensaver is set to 5 mins and it never came up so i wasnt idle for sure.  </s>
+<s> and this was happening on the xp side.  </s>
+<s> vista is installed but havent booted into that side in weeks.  </s>
+<s> good luck all gateway roxxxxxxxx  </s>
+<s> ok...so after all of this, best buy is down to $900 on this, with all this in mind, is this a buy or a pass?  </s>
+<s> thanks  </s>
+<s> frank, don't get your hopes up too much.  </s>
+<s> several people have gotten their gw (to hell) boxes to work without reboots for 7 to 10 days, only to have the problem come back.  </s>
+<s> given your description of your tech (un)support session, i'm highly doubtful your problem is fixed.  </s>
+<s> as for me, the p.o.s gateway went back to costco a few weeks ago and my new hp has been running fine since then.  </s>
+<s> good luck to you.  </s>
+<s> drf  </s>
+<s> my gateway gm5632e (bought oct.  </s>
+<s> 13, 2007) suddenly started having the exact same symptoms: every hour a whining fan for a few seconds, followed by a spontaneous reboot.  </s>
+<s> before that, spontaneous rebooting occurred very occasionally and apparently unexplainably.  </s>
+<s> then i realized: during a normal week, i usually turn the computer off before i go to work.  </s>
+<s> i leave it on nights and weekends.  </s>
+<s> but over the past week (during our christmas break) i left it on all the time (with vista's default screen-saver/power saver, self-lock options).  </s>
+<s> well, yesterday and the day before was when i had hourly reboots.  </s>
+<s> then i powered the thing down (turned it off and pulled out the plug for 10 seconds) twice over the last two days.  </s>
+<s> and so far (with fingers crossed), no reboots, even after several hours of attended use.  </s>
+<s> conclusion: this gateway machine, if left always on, simply says, &quot;i'm mad as hell and i'm not gonna take it anymore!&quot; i'm very bad at hardware, but to my mind, that points to a an underpowered psu.  </s>
+<s> we have a dell at work that sometimes refused to boot up normally unless powered down (and disconnected from the ac) at fairly regular 24-hour intervals.  </s>
+<s> and that was the fault of a weak power supply.  </s>
+<s> same thing here?  </s>
+<s> i too bought a gm5632e recently, neglecting to read any reviews before i did buy it.  </s>
+<s> it started having the restarting problem after the best buy 14 day return period expired, of course.  </s>
+<s> initially i didn't realize it was such a recurring problem, but when it persisted, i searched and found the article on the gateway website about updating the bios to the newest version. the article was tagged with gm5632e when i found it, and so i updated the bios update and checked. the update was the correct one for my motherboard.  </s>
+<s> but when i went to actually run the update, it told me that i already the most updated version!  </s>
+<s> i chose to run the update anyway and it actually fixed the hourly restart problem for exactly a week.  </s>
+<s> but after that week, the restarting began again, around the 45th to the 49th minute of each hour, every hour.  </s>
+<s> so i finally did some research and found this article and specifically your post.  </s>
+<s> i decided that out of all the methods used for temporarily fixing this problem, this was the easiest, so i tried it.  </s>
+<s> i disabled all startup programs and set all power settings to &quot;never.&quot; and it hasn't had a problem for three days now.  </s>
+<s> i still remain skeptical until at least a full week is up and it hasn't restarted, but i'm hoping that something that i did resolved the problem.  </s>
+<s> has yours started acting up again since you changed those few power settings and startup settings?  </s>
+<s> i'll repost if it works for my computer, if anyone else is interested  </s>
+<s> one of the people who commented on my blog post replaced the gm5478 psu with a cooler master 600w unit (from compusa) and moved the tuner card.  </s>
+<s> but, unfortunately the reboots started again 7 days later.  </s>
+<s> so he gave up and bought a macbook pro instead.  </s>
+<s> okay, so i too am unfortunately a victim of gateway gm5478... question... have any of you noticed a correlation between media center and restarts?? i don't seem to remember these restarts before i configured media center, so i'm gonna try to go back to a restore point prior to it's configuration... does anyone have the restart and has not yet configured media center?  </s>
+<s> p.s. just got off the phone with gateway tech support....seems they're answer to everything is reinstall...  </s>
+<s> gm5478 i definetly noticed restarts when using mc. i dont remember if it started when i configured mc, but noticed that when i tryed to play avi files in mc it would play for 5-10mins and then the now infamous restart.  </s>
+<s> i havent had restarts for a while, even in mc. this is after multiple factory resets, and numerous motherboard ,operating system, driver updates and treating my system with kid gloves.  </s>
+<s> i also had restarts when using photoshop, but only a couple of times.  </s>
+<s> media center definitely caused a restart in a reproducble pattern.  </s>
+<s> i think gateway should acknowledge the problem and take responsibilty.  </s>
+<s> i still plan on returning my computer to them, but havent because it works for now.... i still think if anyone wants to do a petition we should, warranties are running out.  </s>
+<s> one week after the restarts stopped, they started again today, for no reason.  </s>
+<s> i wonder what sent the computer into restarting.  </s>
+<s> how did you get your gm5632e to dual boot?  </s>
+<s> i keep running into stop errors when booting from the xp setup disc.  </s>
+<s> okay, so it's been 7 days since i restored to a point prior to configuring media center, and absolutely no restarts i have also disabled the media center item in the start up list... so far so good.  </s>
+<s> i'll keep this updated.  </s>
+<s> whining sound, shuts down and reboots.  </s>
+<s> that is eaxctly the problem i have had with mine since july of 2007.  </s>
+<s> i lived at geek squad!  </s>
+<s> they replaced the hard drive, video and more.  </s>
+<s> never looked at a fan issue.  </s>
+<s> that's beside the point.  </s>
+<s> this is a design flaw - we are all being taken advantager of by best buy (if that's where you purchased and the problem started 2 weeks later) and gateway!  </s>
+<s> bestbuy, geek squad and gateway are pathetic companies.  </s>
+<s> they do nothing for the consumer of lemon products.  </s>
+<s> bestbuy is trying to trade me down to a $600 budget pc.  </s>
+<s> ridiculous after spending $1,050 in july 2007.  </s>
+<s> sorry guys i havent checked this thread for awhile.  </s>
+<s> i did eventually start getting the reboots again.  </s>
+<s> i ended up just updating to the new bios that intel has released for the g33 chipset.  </s>
+<s> be careful and since this bios is not from gateway it does or will have it issues.  </s>
+<s> but it does stop the reboots at least until gateway releases there own version of the new bios.i  </s>
+<s> do get and error now during startup that says cannot find the aa number which because gateway uses there own.which the bios from gateway will fix that.it  </s>
+<s> just means hitting enter once before it will get to desktop.  </s>
+<s> good luck and try at own risk.  </s>
+<s> as for the dual boot issue.  </s>
+<s> lol had the same issue with stop errors after xp install would be done copying files. the only way to get past this point is to.  </s>
+<s> have a xp disk with sp2 integrated and and you must slipstream the drivers for your sata & raid controllers on to the disk as well.  </s>
+<s> follow the directions at this link to create your own slipstream disk.  </s>
+<s> it is easiest to just add driver packs to the disk.  </s>
+<s> i would recommend adding the chipset and mass storage at least. the more driver packs you add the more hardware drivers that the xp disk will have built in already for installation during setup.  </s>
+<s> i know it seems like alot but it`s worth it.  </s>
+<s> also while your using nlite you can also do a unattended install as well.  </s>
+<s> basically add all your options that you would normally have to do during install.  </s>
+<s> customize that disk to your very own needs.  </s>
+<s> even add your cd key for automatically inputing when required.  </s>
+<s> i would recommend installing xp first then add vista second.  </s>
+<s> good luck  </s>
+<s> let me know if it works for you.  </s>
+<s> i am going to try using orb 2.0 in lieu of media center.  </s>
+<s> thanks a lot for the post(s) frank6760!  </s>
+<s> i've been following the same path as you and now i have the aa bios error.  </s>
+<s> i have not been able to restore the gateway schroeder town bios.  </s>
+<s> do you have any suggestions?  </s>
+<s> i guess its been about 10 days now, no reboots...  </s>
+<s> i feel exactly the same way.  </s>
+<s> same system same problems.  </s>
+<s> obviously a design flaw and we are getting taken advantage of.  </s>
+<s> well aside from the aa# error the pc has worked perfectly since the bios upgrade.  </s>
+<s> i don`t plan on attempting to alter the bios again until gateway releases a new bios version which incorporates the new intel changes, which obviously have fixed the issue for me anyways. the aa# error to my knowledge isn`t anything to worry about.  </s>
+<s> there are a few options in the bios itself that are different after the upgrade but nothing to wory about.the aa# is just how gateway identifies the changes and modifications it has made to a particular motherboard.  </s>
+<s> but since i don`t restart much or rarely switch to vista i forget about the problem entirely.  </s>
+<s> good luck  </s>
+<s> well it's been two weeks and no restarts... it looks as though the bios update farther in the thread is good, but why is media center doing this as well... interesting... so far, no media center=no reboots.  </s>
+<s> i'm not convinced any new gateway bios will update the board now that the intel bios is on the system.  </s>
+<s> i've tried various methods of recovering to the latest gateway bios here: (schroeder%20town)%20g33%20motherboard%20bios%20update%20revision:%20dpp3510j.15a.0261&uid=183477036 without any success.  </s>
+<s> i've even tried other intel bios updates, but nothing works (maybe because all of the aforementioned bios files predate the existing bios?) the intel bios of course carries the 86a id string whereas the gateway bios contains a 15a.  </s>
+<s> i would appreciate further comments on this frank6760.  </s>
+<s> frank6760 gateway has released an updated bios for the schroeder town board: although this file just came out, the installer utility detects it as older than the intel bios.  </s>
+<s> however, the update worked successfully and now no &quot;aa&quot; error! the operating system(s) did however want to reinstall all the hardware drivers during startup.  </s>
+<s> thanks for everything frank6760!  </s>
+<s> shutting down (cold rebooting) my gateway gm5632e stopped the spontaneous reboots for a while: from christmas day 2007 to jan 19, 2007.  </s>
+<s> then yesterday, during a long session with photoshop cs3, i heard the familiar whine, quickly attempted to save my work, and the computer shut down.  </s>
+<s> (only one color channel was saved.) before installing the bios update, news of which was posted to this forum on jan.  </s>
+<s> 16, i want to see if the fix appears to really work (after at least two weeks.) btw, i never set up media center, so i can't see that it was at fault.  </s>
+<s> thanks for the media center info.  </s>
+<s> i haven't had any reboots, and also applied the newest bios the other day...  </s>
+<s> exact same problem - hourly reboots - increased fan speed a second or so prior but i have an intel dp35dp-m (media edition) board (p35 chipset) thermaltake 550 power supply so i don't think it's the power supply 4g ocz 5-6-6-18 ram ?? intel e6750 cpu nx8500gt video card (i know but it's not a gaming machine) maxtor sata  </s>
+<s> i updated the bios first week in november, it fixed it for a while.  </s>
+<s> but today 27 january 2008, it continues to reboot every hour and a half. the cpu fan kicks on extreme high and then reboots.  </s>
+<s> this sucks, gateway!  </s>
+<s> i found this very useful thread in a search on the gateway 5632 issues and problems.  </s>
+<s> after reviewing all the threads i've found on various issues such as the dreaded gateway &quot;reboot/restart&quot; problems, the 1/16/08 schroeder town motherboard bios update seemed to be the final nut for the solution.  </s>
+<s> i would love some feedback from the various gateway owners who have had these issues and have applied the latest gateway schroeder town bios update as a solution.  </s>
+<s> have any issues returned?  </s>
+<s> has the 1/16/08 bios update rectified all the problems with this speedy, yet problematic, system?  </s>
+<s> thanks in advance.  </s>
+<s> computer restarts windows every hour it is on affected products: desktop computers affected operating systems: windows vista issue: while powered on, the computer randomly restarts windows at 45 to 60 minute intervals without warning or notification as to why it is restarting.  </s>
+<s> event viewer notes each restart as, event id: 6008, &quot;the previous system shutdown (&quot;date/time&quot;) was unexpected&quot;.  </s>
+<s> resolution: 1. if not already bios version dpp3510j.15a.0296, update bios to intel (schroeder town) g33 motherboard bios revision dpp3510j.15a.0296.  </s>
+<s> filename: 9539095.exe 2. check to see if the computer has trend micro anti-virus and web spysweeper installed.  </s>
+<s> if so, remove web spysweeper and then refer to the software supplier for support and resolution.  </s>
+<s> well, there has been another bios update since that you could have tried, that gateway says does address the reboot issues.  </s>
+<s> have you done the 9539095.exe  </s>
+<s> update?  </s>
+<s> personally, i would try this since it's out and mentioned as a reboot solution along with the following: check for trend micro anti-virus and web spysweeper installed.  </s>
+<s> if so, remove web spysweeper and then refer to the software supplier for support and resolution.  </s>
+<s> would love to hear back from others that had the problems and tried this solution.  </s>
+<s> so far have not had any issues what so ever with my gm5632e after latest bios update.  </s>
+<s> but have read that it takes up to a month for problems to start again.  </s>
+<s> will post back again after a few more weeks.  </s>
+<s> good luck  </s>
+<s> stupid gateway has had my computer at their 'repair' shop a total of 3.5 months!!!! i've only owned this since august of 07! they refuse to offer me a comparable replacement or loaner... both times it came back to me, it seemed to be ok for about a week and then started rebooting again.  </s>
+<s> going to try the bios update tonight...  </s>
+<s> i am in agreement with a class action suit.  </s>
+<s> it's ridiculous that gateway has my computer for the majority of its one year warranty in their shop fixing something that shouldn't have been sold to begin with.  </s>
+<s> my philosophy has always been (with desktops) that warranties are more expensive than the replacing the components that will unlikely fail... notice that best buy pulled it from their shelves all together...  </s>
+<s> my warranty is up this august... thus far gateway has refused to refund my money or replace it with a comparable (working) model.  </s>
+<s> i think if enough consumers (us) were to demand some kind of resolution-- we would stand a better chance.  </s>
+<s> i'm sure they would much rather lose a few bucks satisfying us than their stock continuing its nosedive because everyone hates them and they're unreliable.  </s>
+<s> i also have the exact same problem with my 5478 and it acts the same way, the cooling fan comes on at the fastest possible speed for about 5 seconds, then the machine shuts down and reboots, i am also looking for gateway to explain this problem and fix it, please let me know if anybody has had this problem fixed by gateway,  </s>
+<s> gateway has acknowledged the issue ( ) and released a new bios in january ( ) which they claim fixes this problem. the bios fix includes the gm5478 and models.  </s>
+<s> knock on wood, it has (so far) fixed the issue on my pc. well see if its still fixed a month from now.  </s>
+<s> i bought my gm5478 back in july 2007 and have had the fan race and reboot problem since the day i bought it.  </s>
+<s> unfortunetly it started after the 14 day bestbuy return period so i just couldn't get a new machine.  </s>
+<s> i sent the machine back to gateway twice and they replaced the fan, mb, and hard drive with no avail.  </s>
+<s> just got ahold of gateway todaqy and demanded a new replacement computer a friendly person i talked to who probably hates gateway as much as it's consumers gave me the nuber to thier corporate office who are the only ones who can authorize a replacement.  </s>
+<s> so hopefully this helps you guys out like it did me.  </s>
+<s> gateway corporate office direct number : (408)273-0105 goodluck!  </s>
+<s> strange that so many people with months of problems apparently arent even reading the whole thread, which might just contain a solution to their predicament.  </s>
+<s> of the last few people that still seem lost in a sea of reboots, not a one has mentioned attempting the lone gateway support solution with the 1-16-08 bias flash update.  </s>
+<s> those that have attempted this, have so far not complained again.  </s>
+<s> while it's still up for debate whether this latest bios update solves all the problems, it sure seems to be something to try, especially for these poor souls that seemed lost in reboot hell.  </s>
+<s> then again, perhaps close reading is a lost art...  </s>
+<s> i had not read any of the latest posts regarding the bios upgrade because i could not stay on line long enough to get past the first one, after installing the latest bios upgrade my 5478 has not rebooted, 24 hours so far,  </s>
+<s> thanks for updating with your latest. it would be great if everyone that did install the latest 1-16-08 bios flash would check in with their results.  </s>
+<s> so far, it's been a good sign for those with this last update.  </s>
+<s> anyone can set this thread's updates to track to their email, too. the irony for me is i dont even own a gateway, currently working on a custom machine.  </s>
+<s> but i was interested in a marked down 5632 as a base system, hence this thread and the interest in the bios solution.  </s>
+<s> i installed the bios update last week and haven't had a problem yet.... the reason i say i won't hold my breath is because the second time that the computer came back from gateway-- i didn't have reboots for almost 3 weeks... to be continued.  </s>
+<s> out of curiosity- has anyone moved their 5478 into a new tower?  </s>
+<s> i also used to build my own systems but i just got tired of searching everywhere for the components and having different warrantys form several companies, so i decided (insert laughter here) to buy a branded pc from a reputable company, (ahem) anyway, after looking at several pc's from hp and gateway i decided on this one 5478 because of the quad core q6600 cpu, my son bought a gateway 5238e with xp that has been rock solid and very quick so i shelled out $1299.00 at bj&quot;s for the 5478 back in june of 07 and the first thing i noticed right away was the 5238e was much faster than the quad core but i think that is a vista issue, just my own opinion, besides the reboot issue that has been fixed so far with the newest bios i really do like the 5478, and if you are just going to use it as a upgrade platform the quad core is the way to go, again, just my opinion, please don&quot;t send me hate mail,  </s>
+<s> &lt;i&gt;&quot;just my own opinion, besides the reboot issue that has been fixed so far with the newest bios i really do like the 5478, and if you are just going to use it as a upgrade platform the quad core is the way to go, again, just my opinion, please don&quot;t send me hate mail&quot;&lt;/i&gt; well, you sure won't have to worry about hate mail from me as that seems like a sound opinion.  </s>
+<s> did you load your vista 5478 with ram?  </s>
+<s> that's the rub with vista besides other teething issues; if you dont load it up with ram, and get a vid card that uses its own, you're in for slooow.  </s>
+<s> i'm thinking 4gb of 800mhz for mine.  </s>
+<s> and the only way to go to 8mb is via 64bit vista.  </s>
+<s> right now, i'm actually leaning towards a customized dell xps 420 with 1tb (2x500gb) hd, 4gb of 800mhz ram, 8500 vid card with 256 memory (i play zero games), and other adds ons.  </s>
+<s> trying to decide between the amazing 24&quot; hp 2408 monitor (6 bit) or the impressive dell 2407.  </s>
+<s> in person, the hp 2408 is simply amazing.  </s>
+<s> gateway really almost dropped the intel quad core cold with the last run...  </s>
+<s> anyone notice that there is a new (02/04/2008) bios update on the gateway site?  </s>
+<s> i've held off on updating with the 1/16 update until someone reports a month without problems. the new update sort of puts a damper on that.  </s>
+<s> in the meantime, i've been going into bios every 2 weeks and changing the first 2 fan settingsto prevent the reboots.  </s>
+<s> i have been on the newest bios since about 3 days after it was released and i haven't had any restarts (knocking on wood until my knuckles are bleeding).  </s>
+<s> i have run the pc through hell and back trying to get it to restart.  </s>
+<s> i ran crysis (pc game that is known to be hard on pc's), media center for 3 straight days and running orb server without any problems.  </s>
+<s> i was never able to do that prior to the january bios update.  </s>
+<s> i read that there is another bios release.  </s>
+<s> i am a little apprehensive on installing it because this bios has been pretty good so far.  </s>
+<s> good luck to everyone!  </s>
+<s> i bought the gm5632e as a floor model.  </s>
+<s> 1st thing i noticed in the event log was the 1 hr crash you mentioned but the last one seems to have occured 12/16/07.  </s>
+<s> it has not crashed since.  </s>
+<s> i bought it in feb 08 and i'm trying to test it by force the situation by keeping it on for extended periods and running a ton of programs.  </s>
+<s> any other suggestions to tell if mine has the flaw or do they all?  </s>
+<s> also, for the love of g-d how do i install a dual boot on this machine.  </s>
+<s> i have an xp pro disc (sp 2 is not included i have that on another disc.) i can not get the install to begin.  </s>
+<s> any suggestions?  </s>
+<s> has anyone else suceeded and can i install on the 2nd drive?  </s>
+<s> listen my chilren and you will hear.. the reboot issue leads to a shipping issue leads to a voided warranty the reboot issue happened to me 45 days after purchase, called gateway spent countless time on phone with them.  </s>
+<s> they told me &quot;bring it back to best buy they will fix under warranty...no bb won't fix under warranty they'll charge $60 to &quot;troubleshoot&quot; but not fix.  </s>
+<s> called gateay again they said &quot;send it back&quot; by now it is pd(purchase date)+ 3 months.  </s>
+<s> they will send box and ship at their expense.  </s>
+<s> dhl arrives with box to put machine in, i do so and call for pickup.  </s>
+<s> time is now pd +4 months.  </s>
+<s> sent back 3 weeks go by call gateway for status &quot;we never got the system&quot; was the reply.  </s>
+<s> called dhl (the clown princes of the shipping business)and they had no record of shipment (driver didn't scan label).  </s>
+<s> after going down to the cranston ri terminal and threatening to file a police report for stolen goods, they &quot;found it&quot; in a warehouse in ohio.  </s>
+<s> returned it to me, by now its a pile of metal and plastic no longer a cpu but a pile of parts.  </s>
+<s> dhl says file a claim.  </s>
+<s> i called gw and talked to the clown princess of customer service heather, explained everything to her right down to sending it back via fed ex at my expense to get the thing fixed.  </s>
+<s> she said &quot;since the machine had been &quot;damaged&quot; by mishadling the warranty was void and if i wanted i could return it for a repair estimate at a cost of $250.  </s>
+<s> so now its pd+5 months.  </s>
+<s> gateway can rot in hell i hope the president of dhl gets brain cancer and i'll never set foot in bb again.  </s>
+<s> maybe i'll try the bios upgrade (if the machine still works) but i don't need the kind of agravation these jerks choose to dish out to paying customers.  </s>
+<s> wow, that is the worst story i have heard to date, i was told by gateway tech support to bring my 5478 to staples, she said staples was an authorized repair facility, they are not, after another call to tech support she said to bring it to best buy, again not authorized, finally she sent me a box with a shipping tag and while i was removing my important files to ready my 5478 to be shipped back to gateway i found the bios update and installed it, so far, no reboots, i think we all deserve something from gateway for all of our troubles, but i will not hold my breath,  </s>
+<s> whatever you do don't let dhl within 20 feet of that package!!! i took it out and stuck the plastic trim pieces (litterally) back on, plugged it in and it still works!!! maybe all it needed was a 40' drop from a airplane cargo bay.  </s>
+<s> i'm still going to try that bios update and still file a claim with dhl (the clown princes of the shipping business).  </s>
+<s> well, just to report the other side, i've had great luck wih dhl on a number of occasions.  </s>
+<s> perhaps it depends on the contractors and the responsibility of people in the area.  </s>
+<s> indeed, i just received a vintage road bike that was valuable.  </s>
+<s> it was packed perfectly and delivered just as fine. the drivers were friendly and polite.  </s>
+<s> i think i've had about 10 dealings with dhl and all have been fine, although all were coming this way.  </s>
+<s> you do a search online, and you'll run into anomosity and contempt for ups, usps, fedex, fedex ground, dhl, etc, etc. i dont think there is a single shipping company that's not been singled at as part of the circle of hell.  </s>
+<s> on another note, the first thing i do when confronted with issues with a piece of gear is to research it online to see if there are similar experiences.  </s>
+<s> i try to at least have a handle on the problem before i even deal with any of the companies, no matter what the product.  </s>
+<s> the fact is, we often have better access to knowledge than the company support, something that's almost a given these days whether it be computers or other gear.  </s>
+<s> boutique or cottage builders are another matter, usually offering far more support, at a cost, but often worth it.  </s>
+<s> but it's become a near cliche not to depend on the end support from major companies.  </s>
+<s> sad but true.  </s>
+<s> best thing is to really arm yourself with knowledge as much as possible.  </s>
+<s> i've havent bought my new computer yet, waiting to get more info.  </s>
+<s> so far, regarding this problem, it seems the bios fix, at least the latest version, is batting a pretty good average.  </s>
+<s> still, gateway has received some pretty mediocre service reviews, with or without acer.  </s>
+<s> that's brutal.  </s>
+<s> and this, my friends, is why my p.o.s. gateway went straight back to costco as soon as i came across this thread back in november.  </s>
+<s> and also why i'm now very happy with my hp.  </s>
+<s> i've tried the new bios update and had a scary experience with it.  </s>
+<s> right after the installation was complete the computer continued on to the next step which involved shutting down.  </s>
+<s> i waited 30 minutes for the shutdown to finish, took the time to chat with a gateway representative on my other computer (which led to the rep.  </s>
+<s> telling me that any issues caused by the bios update would be my fault and void the warranty), and finally did a manual shutdown out of frustration.  </s>
+<s> once the computer started coming up, everything came to as usual and i received a message stating the installation was complete.  </s>
+<s> i'm hoping for the best out of this one.  </s>
+<s> if anyone cares to read i'll gladly give an update after a month or whenever another spontaneous-shutdown issue arises.  </s>
+<s> whichever comes first.  </s>
+<s> well, my cynicism has wavered... i've gone over a month without spontaneous restarts or crazy fan noises.  </s>
+<s> one complaint i do have- is now when i go to restart the computer- it literally takes 10 minutes or more to load vista-- i get a black screen for several minutes... and just when i'm about to give up and pull the plug- it starts loading like normal.  </s>
+<s> has anyone else had that problem?  </s>
+<s> mine only takes about 2 minutes to start.  </s>
+<s> you may have some spyware that may be causing it to lock up.  </s>
+<s> also how many startup programs do you have?  </s>
+<s> you may have too many and they may be conflicting with each other.  </s>
+<s> i had the same problem.  </s>
+<s> i ended up installing the bios again.  </s>
+<s> you may want to try the same thing because even though the bios said is installed correctly it didn't.  </s>
+<s> i checked the bios date and it was the january one still.  </s>
+<s> i have read just about every post/thread/website i could find about this issue.  </s>
+<s> i am dealing with the same issue on a gm5478.  </s>
+<s> glad i found this thread.  </s>
+<s> yesterday, i applied the bios update from january.  </s>
+<s> so far, it's fixed as with most who posted before me.  </s>
+<s> if you never read another post on this topic from me, you will know there was final resolution.  </s>
+<s> mine has stopped the automatic reboots, last week it just started shutting down, and i was unable to reboot for hours.  </s>
+<s> now it won't turn on.  </s>
+<s> is it worth spending the money to fix it or should i just toss it and buy something new?  </s>
+<s> a little over a month after updating the bios and the issue's started again.  </s>
+<s> for no reason the computer shutdown twice, exactly one hour apart.  </s>
+<s> there happens to be another update for april and i just finished installing it.  </s>
+<s> i'm never buying another gateway again.  </s>
+<s> be sure to spread the word about this crappy product.  </s>
+<s> i am also getting some bsod's (blue screen of death) but it is not to the same frequency that you are having.  </s>
+<s> i installed all the recent updates and i have had one crash since installing.  </s>
+<s> this computer is a total pos.  </s>
+<s> last time for a gateway with me.  </s>
+<s> i am sticking with hp.  </s>
+<s> same thing happening to me.  </s>
+<s> i found that if i leave the side panel off or put a small fan on the side with the panel on, that it solves the problem.  </s>
+<s> not a very elegant solution, but it works.  </s>
+<s> at least it does for me.  </s>
+<s> hello all, just a little update, after installing the latest bios back in feb.  </s>
+<s> my 5478 has run flawlessly, not a single reboot in over 2 months, i can now say i am happy with it and i still can not believe all the crap we had to go through to finally get a stable working computer that we all thought we were buying in the first place, gateway really dropped the ball on this one and if it wasn't for forums like this one i wonder how many of us would still be going through the reboots from hell issue, thanks to all who posted the info,  </s>
+<s> don't get hp. it's worse...trust me... today i had 2 bsods already (blue screen of death) and it takes not 6 or 10 but 15 or 20 mins on average to load up, 10 if i'm lucky... i don't even get the bars loading or any screen it's just blackout until it loads vista, and that means i can't even run safe mode.  </s>
+<s> i've tried everything, including going back to old drivers, they said the new ones through windows update are not good, but it hasn't worked for me.  </s>
+<s> i'm suggesting a toshiba, as uncomputerly as it may sound, they have a new system which is twice as fast than your average pc. (my boyfriends a technician, he basically sets new pc's up and running and he said for an average laptop it takes him 2 hours to set up but for some reason the way toshiba's made it's set up in an hour!) so consider that, and they're cheap, my mom bought one for 950 dollars with decent specs, 2gigs ram, dual core etc... and i'm getting myself one too, this is too much for me, the bsods are killing me) so if you still want a hp or any other computer for that matter make sure it's got mmore than 2gigs of ram ideally 4 is vista's soft spot!  </s>
+<s> how to install a dual boot system on gateway gm5632e i did this with installing xp on my second hard drive and keeping vista on the first.  </s>
+<s> 1)  </s>
+<s> i did the update just about the same time you did, well they started again yesterday!!!!! beside painting it blue and throwing it to the ocean i have no clue at what to do.  </s>
+<s> since dhl dropped this pos out of the cargo bay and i stuck the plastic trim pieces back on with silver tape....well not once did it take over the on off switch, not once did it reboot.  </s>
+<s> what did happen is the power supply just failed and i put another ps in ($27) not warranty, gateway voided it remember.  </s>
+<s> going on 2 weeks with the new power supply so go figure.  </s>
+<s> same hourly reboot issue here.  </s>
+<s> i recently purchased two of these machines.  </s>
+<s> naturally both are identical, both have the same 'bad' bios version (dpp3510j.15a.0216).  </s>
+<s> odd thing is, only one of these machines is having the hourly restart problem.  </s>
+<s> i've ran the bios update program (windows version) and while it says that it successfully updated the bios, the version number does not change!  </s>
+<s> i've tried using the extra -a mb command switches and it still will not actually update the bios.  </s>
+<s> i've even tried using the iso boot cd i found here: (april 5th entry) the boot cd method also said it was successful at updating the bios...but again when i went to verify the version number, it was the same old bios version.  </s>
+<s> soooo anyone have any thoughts as to why this thing will not update the bios?  </s>
+<s> fwiw, i've emailed gateway support and they sent me the readme file that comes with the update (sigh).  </s>
+<s> after i clearly stated that i had already done everything in the readme file.  </s>
+<s> now they want me to rma the faulty system and i just want to update the bios before going through that hassle.  </s>
+<s> ps - this same 'buggy' system will not shut down.  </s>
+<s> at the end of the day when i shut down through windows vista it powers down. the cpu fan ramps up to 100% for 5 seconds, then it starts back up again.  </s>
+<s> any thoughts on that one?  </s>
+<s> well, i did pretty well for a few months after updating it. the rebooting stopped...had maybe 2 or 3 random reboots.  </s>
+<s> well now the graphics card wants to die. it freezes every once in a while...then resizes the screen all warped... every couple of days vista tells me &quot;the graphics adapter failed...blah blah blah&quot;.i've got a dual-monitor setup.  </s>
+<s> this damn thing goes out of warranty from gateway in 2 more months...gateway should be sued.  </s>
+<s> well, at least i know i'm not alone.  </s>
+<s> not only did i see exactly what you're seeing (for several weeks), but then it froze up one day and now it will not even boot.  </s>
+<s> gateway support sent me this link, but i have not had time to try it/troubleshoot yet: .  </s>
+<s> well i guess i spoke way too soon, the reboots have not returned but now my graphics card wants out of this pos gateway case, for no reason card just goes away and i get a blank screen and a &quot;no signal&quot; warning, we all need to start a class action law suit, it just amazes me in this day and age so many people can just get screwed by one company,  </s>
+<s> i actually had the same problem as you guys, my graphics card ended up melting and lucky for me i was under warranty and got a card at best buy right away, i ended up moving the tv tuner card down and it seems to be working , dont know if that really helps i just thought id share  </s>
+<s> i'm curious if anyone has tried putting it all in a new case with a real cooling system (not the 50 cent plastic fan that gateway served us)...? i wanted to switch out the case to see if it helped, but am bummed because i actually like the design of the gateway case with its many ports.  </s>
+<s> if someone has tried that- let me know what case and cooling system you went with.  </s>
+<s> on another graphics card note-- i remember reading that gateway installed a cheapened down version of the nvidia 8500.  </s>
+<s> i don't know if that's true?  </s>
+<s> also of interest- mpc took over gateway's business customers-- their slogan is &quot;mpc is not a headache to deal with&quot;- maybe gateway's retail sector will get taken over by a company that actually cares about customer satisfaction.  </s>
+<s> i finally had a chance to actually troubleshoot the issue.  </s>
+<s> i removed the nvidia card and plugged the monitor into the integrated video port and now i can boot & use the pc just fine.  </s>
+<s> so at least i know what's wrong.  </s>
+<s> now to see if gateway will replace the nvidia card since it should still be under warranty... also, while i was inside the case, i moved the tv tuner card down one slot.  </s>
+<s> it was way too close to the nvidia card and there is plenty of room for the tuner next to that 1/2-size modem card.  </s>
+<s> back in april, i also moved the tv card down one slot and noted improved performance.  </s>
+<s> applied the bios update at the same time.  </s>
+<s> so far no reboots and video card has not expired (yet).  </s>
+<s> my pos 5478 also stopped booting yesterday, i removed the video card and found the cooling fan locked up solid, i removed the pos nvidia video card and also used the onboard video adapter and now once again it boots up just fine until another component quits, i will keep you updated.  </s>
+<s> i also had to replace the video card in one of mine as well.  </s>
+<s> the fan motor was burnt...literally...it was black/charred and obviously non-operational.  </s>
+<s> as others mentioned i also moved the wireless card down further to give more area for heat dissipation when i installed the new video card.  </s>
+<s> hard to believe all the common problems i've read about with these 5485's.  </s>
+<s> we've successfully resolved issues like this with manufacturers in the past - so rather than painting your computer blue and throwing it in the ocean, check us out.  </s>
+<s> dave  </s>
+<s> so yesterday my gateway decided to stop working as well.its  </s>
+<s> weird how month after month the pc would restart itself.. glad to see im not the only one who was having this issue.  </s>
+<s> still isnt fun that its an apparent flaw in the actual pc. after trying everything i could... i took it to best buy .. they seem to think its the motherboard.. after reading this i called them back to let them know what i have read about this model.. they are going to try to fix it in store.. hopefully replacing the card will work.  </s>
+<s> its bad that you pay money for something that in all reality wasnt intended to work properly from the start &gt;_&lt;  </s>
+<s> i submitted a support request to gateway and they'll send a replacement nvidia card under warranty.  </s>
+<s> that's good because i didn't want to have to wipe my hard drive and ship the entire pc back for just a card relacement.  </s>
+<s> to submit the request for replacement graphics card: 1. do the troubleshooting procedurehere: 2. go to 3. click &quot;contact support&quot; tab 4. click &quot;e-mail technical support&quot; link 5. explain your problem and the results of the troubleshooting procedure.  </s>
+<s> ask for a replacement video card if the card has failed.  </s>
+<s> 6. you should get a computer-generated email and then later an email response from a gateway support person.  </s>
+<s> you may need to re-iterate that you want a replacement card sent.  </s>
+<s> 7. you'll be requested to provide address/phone info and go to a secure web site to place a pre-authorization on a credit card (card not charged).  </s>
+<s> 8. you should receive the replacement card in the mail within a few days.  </s>
+<s> you'll have 7 days to send back the failed card.  </s>
+<s> otherwise, your credit card will be charged if you don't send the failed card back in time.  </s>
+<s> seems simple enough, so hopefully this all works out and the new card lasts longer than 10-11 months.  </s>
+<s> i am experiencing the high whirring, restarting and the next thing that happens is the motherboard crashes!!! this pc is less than a year old, and i just had the 2nd!!! motherboard replaced.  </s>
+<s> the computer didn't even work when i received it brand new via ups! the lexmark printer that was sold with it is not compatible with vista, (and yes, works fine with xp).i have 2g of ram, so plenty to support vista, yet the video card still does not reconize a 32bit running system.  </s>
+<s> a piece of space trash!!!  </s>
+<s> i went for about 6 months with no problems until my vista op system got that &quot;must exit-- rebooting-- must exit-- reboot&quot; endless loop in windows explorer... there was nothing i could do to fix it, so i set up a new copy of vista.  </s>
+<s> it acted like a whole different computer.  </s>
+<s> and the 55 minute crash was there.  </s>
+<s> i took out video card, went into the bios setup to fix the fan cooling, installed bios and mboard updates, and i still had the problems.  </s>
+<s> i finally installed xp3, through a process of creating an xp3 install disc that included all of the drivers for various parts of this computer that didn't exist when xp was the main opsys.  </s>
+<s> (otherwise you get the bsod.  </s>
+<s> there are instructions for this throughout this thread --much earlier).  </s>
+<s> since that time, 18 hours ago, the 5478 has been continuously on in an unairconditioned room without a crash.  </s>
+<s> (don't worry, i'll put the air on soon.) and the hard drive is as quiet as could be-- compared to that constant crunching that was happening when vista was &quot;in charge.&quot;  </s>
+<s> i have no idea which combination of these items did the trick, but i think it was getting a proper xp installed.  </s>
+<s> the computer now seems so &quot;civilized&quot;.  </s>
+<s> i bought my gm5478 in july 2007 and i too was experiencing the reboots though they didn't start until a few months later.  </s>
+<s> at first i thought it was a vista issue or some junk i may have installed.  </s>
+<s> i'll tell you all what i did to resolve my problem.  </s>
+<s> i found an unused fan connector on the motherboard.  </s>
+<s> so i installed a fan (with the 3 pin connector) in the lower front of the case.  </s>
+<s> it's a snug fit so it's not mounted to anything (it isn't going anywhere) i was thinking this would give the bios something else to monitor plus provide some more air flow (not much but some) the reboots seemed to have gotten better but they still occured.  </s>
+<s> i updated my bios to dpp3510j.15a.0298 back in the middle of february 08 and i have had not one reboot since !!! so if you have an extra fan (with the small 3 pin connector) install the fan and update your bios and just maybe you'll get lucky!  </s>
+<s> fred  </s>
+<s> had same reboot problem as all gm5478's.  </s>
+<s> simple fix.  </s>
+<s> i turned off reboot on error in the advanced system settings and it hasn't rebooted in over a year.  </s>
+<s> i was instrucked to do so by a tech at best buy where i bought it.  </s>
+<s> i still have error reporting set up and also have had no error's in a year.  </s>
+<s> i have the same problem.  </s>
+<s> the problem is nothing.  </s>
+<s> its just overheating and it needs a short break.  </s>
+<s> go have a bite and come back or leave it off overnight and it will be good to go!  </s>
+<s> if it was just 'overheating' then gateway wouldn't have released a bios update to correct the problem and they wouldn't have replaced 3 motherboards (and counting)along with new memory, 2 hard drives, 2 graphic cards, etc.... they would just prefer to recall the product and save on the repairs.  </s>
+<s> go finish your rum captain.  </s>
+<s> i wouldnt no bout the bad parts cuz im not a comp geek like all of yall, u just need to leave it alone for a lil bit and itll be aight  </s>
+<s> add me to the group with the problematic gm5478, raise in fan speed followed by shutdown.  </s>
+<s> after many off/on days with different tech support; gateway replaced my mother board and modum, after a few weeks problem resurfaced.  </s>
+<s> pc would shut down with no ryme or reason 2-4 times a month, i replaced my ups to no avail.  </s>
+<s> answers by gateway $199/yr said &quot;we can't help you, sounds like it's a hardware issue.  </s>
+<s> i had pc 1yr and 22 days, gateway said sorry, it's out of warranty, we can trouble shoot it remote control but it will cost you almost $200.  </s>
+<s> what's going on, i feel like we are all in some kind of &quot;twilight zone&quot; does anybody have a solution or attorney for a class action law suit.  </s>
+<s> i bought my gm5478 in july 2007.  </s>
+<s> i too had the same hourly reboots which started in october 2007.  </s>
+<s> they would go away for a week or 2 and then come back and the fans would speed up followed by a reboot.  </s>
+<s> like clockwork, i could predict the next event and plan accordingly.  </s>
+<s> i updated my bios around the middle of february 2008 and i have not had one instance of the fans speeding up and the computer rebooting !!! i used: dpp3510j.15a.0298 (february 4, 2008) to update my bios.  </s>
+<s> there a newer one available: dpp3510j.15a.0316 (july 11, 2008) update your bios if you haven't done it yet.  </s>
+<s> i also did one other thing last february, i installed an additional fan, it's underneath the hard drive cage and is a snug fit so you don't have to mount it or secure it.  </s>
+<s> there a spare unused 3 pin fan connector on the motherboard.  </s>
+<s> my logic was to give the bios something else to monitor because i don't think i'm helping a lot with additional airflow.  </s>
+<s> remember, i haven't had a single repeat of that problem for 6 months!  </s>
+<s> goodluck!  </s>
+<s> i have bought a gateway gm5643e for two weeks, i started having the same reboot problem yesterday for three times, i will see if it can be fixed by the recommendations made here...  </s>
+<s> well i have had this computer for about a year and a half, i have sent it in to gateway 4 times,under warrenty free of charge.  </s>
+<s> all four time assuring me that it was fixed, first they repalced the motherboard, next diognosed the problem and bios update, thrid another motherboard replacement, fourth a hard drive replacement.  </s>
+<s> each time with the same results, reboot.  </s>
+<s> now my computer will not even boot, it is fried.  </s>
+<s> gateway will not do anything about it since it is out of warrenty.  </s>
+<s> so i just scrapped the system and bought a dell xps. it was a good buy for the price in the beginning but after four repairs/replacements it only lasted a year, i say this is a bust.  </s>
+<s> this is just my personal problem, good luck to the rest of you.  </s>
+<s> after all this problem i have to say one more thing that gateway support is very unsupportive.  </s>
+<s> especially when you are out of warrenty  </s>
+<s> we all should do so!  </s>
+<s> does anyone know a lawyer that will take this case on for us?  </s>
+<s> if we demanded $5,000 a piece (lost work time, hassle, purchasing, inflation of original purchase, lost productivity, etc...) or more, then the lawyer could get their cut too.  </s>
+<s> has anyone made any progress trying to get gateway to pay for this mess?  </s>
+<s> i have had the same problem with my gm5478 on and off for almost a year now.  </s>
+<s> every time i think i have found a solution that works (i.e. new graphics card, added fan, updated bios), the problem eventually comes back.  </s>
+<s> it is unnaceptable that a defective product like this was put on the market and gateway should be held responsible.  </s>
+<s> i have two of these computers, and this fixed it:  </s>
+<s> ok, so after applying the bios updates to my gm5478 last year i haven't had any more reboots, and i've been happy with it for several months.  </s>
+<s> now, though, when i boot it up (or sometimes just when-ever) i get this weird hum/buzz funky sound like a fan is bound up or something.  </s>
+<s> any ideas what this may be?  </s>
+<s> did yours sound like this before the 8500gt went out?  </s>
+<s> anyone else have this issue?  </s>
+<s> what's really great is that the only way i've figured out to deal with it is a sharp blow to the top of the case.  </s>
+<s> this usually makes the sound stop.  </s>
+<s> i've added another 500gb drive, and am about to switch to 64bit os and 8gb of ram, but i'm thinking maybe i'd better just scrap the thing rather than deal with anymore issues.  </s>
+<s> i'm a freelance software/ web developer, so i run lots of stuff most &quot;home&quot; users don't (jde, visual studio 05 and 08, sql server, adobe cs4, virtualbox and vmware for linux virtualization, apache, mysql etc.) and it's been great since the bios update but i'm getting a little sick of never knowing what's up with the damn thing.  </s>
+<s> same thing happened to me. the fan on the graphics card will take a dump soon.  </s>
+<s> it's not up to the task.  </s>
+<s> i bought another card from a different maker, but still the 8500gt and have been very happy since. it has a larger heat sink where the fan is mounted. the computer is quieter than when new and the fan has never gone into overspeed condition.  </s>
+<s> my guess is that this could be the fan on the graphics card, power supply or cpu.  </s>
+<s> my graphics card died about 6 months ago but i can't recall if i heard that sound before it did.  </s>
+<s> my previous two computers both eventually started making an annoying intermittent hum/groan but after a couple years of this for each, they were still running just fine.  </s>
+<s> like you, i could make it stop by whacking the chassis (but not too hard - i didn't want to crash the hard drive).  </s>
+<s> i heard somewhere it was probably the power supply fan.  </s>
+<s> i have a gateway gt5628 and had the same problem for weeks.  </s>
+<s> i got fed up with the shutdown and racing fan, so once i watched the time, and right before it was due to happen again, instead of waiting for it to shutdown i hit start --- restart.  </s>
+<s> after the restart it hasn't happened again.  </s>
+<s> i don't know why this worked, but i haven't had the problem come back.  </s>
+<s> its worth a try, and would be interesting to see if it works for anyone else..  </s>
+<s> boy - best buy and gateway have dropped the ball for me...i had this exact problem 6 months after purchase and no one ever mentioned that this is a common issue plaguing this computer (and possibly others).  </s>
+<s> i have had my computer just over a year and problems began in june 2008.  </s>
+<s> best buy implied that there is nothing wrong with my computer and made me feel whiny.  </s>
+<s> poor computer has been in the best buy service center twice, plus in-store for diagnosis 3 times.  </s>
+<s> next plan- send directly to gateway but even they did not mention that other have this issue...they all seemed surprised and no one wants to offer me a replacement computer.  </s>
+<s> will peruse this site for more info, but glad to hear that i am not alone.  </s>
+<s> looking for real fixes, if there are any out there.  </s>
+<s> otherwise, will consider a mac!  </s>
+<s> the roar/restart issue ended after i upgraded my bios.  </s>
+<s> the bios upgrade fixed the fan roar/restart issue.  </s>
+<s> my keyboard died and gateway replaced it under warranty.  </s>
+<s> and finally, the video card died and i just gave up after a replacement failed to work also.  </s>
+<s> i think the motherboard may have been damaged by the video card.  </s>
+<s> i just removed the nvidia video card use the integrated video interface (the one covered by a sticker).  </s>
+<s> we tried the suggested manual restart within a minute of the expected autoshutown today, and so far (fingers crossed) the hourly shutdowns have ceased.  </s>
+<s> it's been a few hours now and so far, so good.  </s>
+<s> will post longer-term success or failure when the computer's status changes.  </s>
+<s> anyone given more thought to the class-action suit?  </s>
+<s> i plan to call gateway tomorrow and visit with the head of tech support regarding where to go from here if problem resurfaces.  </s>
+<s> why do you suppose a product recall has not yet occurred?  </s>
+<s> thanks to all for posting ideas on this site.  </s>
+<s> i figured it was a fan, it's just hard to discern which one it is... i tried monitoring the temp, and it consistently runs 65c (gpu i mean), i guess i could preemptively replace the gpu, but i'm afraid then that the power supply will go out... does anyone have experience replacing a power supply on the gm5478?  </s>
+<s> specifically which model fits in the case?  </s>
+<s> i figure i need at least a 500 watt, as i run 2 hdds 4 gb ram, and will want at least the 8500gt if not better gpu.  </s>
+<s> thanks for the info guys!  </s>
+<s> we tried the trick of manually restarting our computer with a minute of its next anticipated auto shutdown...so far, so good.  </s>
+<s> normal ops for 2.5 days now, whereas previously, hourly shutdowns for the past week.  </s>
+<s> hi...we took your advice and it worked...so far.  </s>
+<s> 2.5 problem-free days and counting.  </s>
+<s> we were getting hourly shutdowns all last week and i was ready to scream...at gateway, since best buy washed their hands of it.  </s>
+<s> how did you happen to decide to try this?  </s>
+<s> if this really works, you are to be commended for your creativity! thanks, so far.  </s>
+<s> will post if problem reoccurs, but it's been great in the interim.  </s>
+<s> are you still running normally with yours?  </s>
+<s> feel free to reply directly.  </s>
+<s> lkkuehl at gmail dot com  </s>
+<s> to fix the problems in my gm5478, i have replaced the power supply (which wasn't the cause of the problems) and now the graphics card (which seems to work).  </s>
+<s> to stick with a setup matching factory items, i picked up a power supply from tigerdirect - &quot;a406-1087 xion simple power 630w atx power supply&quot;, was reasonable and had plenty of power, slips right into the same space.  </s>
+<s> also, from tigerdirect, i bought the &quot;xfx geforce 8500 gt ultra silent cooling video card&quot; because it doesn't have a fan, just a monster heat sink.  </s>
+<s> in combination with bios updates there are no longer any more reboots.  </s>
+<s> running this way for over a month without a single problem.  </s>
+<s> i did change the setting for &quot;reboot on error&quot;, and i turned off all power settings for the monitor and hard drive.  </s>
+<s> spending a total of $120 extra has made this system stable, for now.  </s>
+<s> i bought my lame gm5478 in 8-07.  </s>
+<s> this thing has been a nightmare.  </s>
+<s> it broke down within the 14 days, but my husband simply thought it was a flawed computer and got another one.  </s>
+<s> our second computer has done the same thing multiple times.  </s>
+<s> we have replaced the mother board, video card, and fan.  </s>
+<s> i sent my computer in 12-10 for repairs, as it would not start up.  </s>
+<s> gateway has my computer again, as i had to send it in on 1-19 for the hourly reboot issue.  </s>
+<s> honestly, i have read multiple posts about this issue.  </s>
+<s> fixing bios, replacing power supplies,etc.  </s>
+<s> however, i know nothing about computers really.  </s>
+<s> i paid $1600 for a fast running computer that was supposed to be able to handle playing some video games and for a mom like me to store her photos.  </s>
+<s> i should not have to be an expert on computers.  </s>
+<s> it should work.  </s>
+<s> after the multiple times i have sent this lame computer in, i have lost a lot of data, photos, had to reinstall every game, program.  </s>
+<s> it is time consuming.  </s>
+<s> i do not think i should have to pay geek squad $150 every time this computer has a flaw to back up my data when it is a design issue.  </s>
+<s> moreover, getting customer service is a joke.  </s>
+<s> if you go to their website and google gm5478, you can't even find it.  </s>
+<s> getting a live person on the phone is even harder.  </s>
+<s> i do have the extended warranty, so if this thing breaks down one more time, i am demanding they junk it.  </s>
+<s> i will never buy a gateway again.  </s>
+<s> they pretend they have no knowledge that my computer's symptoms are a common problem.  </s>
+<s> they have &quot;never heard of such a problem&quot;.  </s>
+<s> sorry to vent, but this last time i got my computer back, i didn't have all my stuff reinstalled for more than a week before this computer started rebooting.  </s>
+<s> sad, because when this thing actually works, it is fast.  </s>
+<s> i would rather have a reliable computer.  </s>
+<s> hi...our gateway has been auto-rebooting for 7 months now and we finally gave up on best buy or gateway and tried an fix we found on this forum...just prior to the hourly reboot, perform a manual restart.  </s>
+<s> we tried this on 1/15 and have had no problems since.  </s>
+<s> i have not idea why this worked, but so far, so good.  </s>
+<s> will post here if and when the hourly reboots resume.  </s>
+<s> crazy!  </s>
+<s> you shouldn't need to be a computer expert to run an off the shelf system.  </s>
+<s> i have built systems before, and you expect a certain amount of tinkering etc. but gateway really bit the big one on the gm5478!  </s>
+<s> i have rethought my idea of spending any money to upgrade mine.  </s>
+<s> fundamentally it is an unstable, unreliable system.  </s>
+<s> gateway really lost me as a customer as well, and anyone who asks my opinion (practically everyone i know asks me as i'm a computer science grad).  </s>
+<s> i guess as soon as my graphics card, motherboard or power supply blow up (one of them is making an awful grinding noise) i'm gonna get a dell or maybe an hp... definitely not a gateway!!! i also couldn't agree more about the horrible customer service!  </s>
+<s> hi...we tried this for our computer and no more reboots since january 15th, 2009.  </s>
+<s> we were getting hourly reboots since june of 2008.  </s>
+<s> thanks for the tip.  </s>
+<s> what made you think of it?  </s>
+<s> hi...our auto shutdown has had nothing to do with giving the computer a &quot;rest.&quot; it occurs no matter what we are running and when we are running it...or how much we have been using it.  </s>
+<s> shutdowns were very random, but recently right on the hour.  </s>
+<s> see my previous posts for how we think we have (temporarily) fixed this...by manually restarting just prior to an hourly auto-shutdown.  </s>
+<s> we tried this on 1/15/09 and as of today, not a single reboot so far.  </s>
+<s> computer has been perfect.  </s>
+<s> maybe it knew we were on the verge of buying an imac.  </s>
+<s> anyone know why this fix would work?  </s>
+<s> i am a pc repair technician with a major retailer in south texas.  </s>
+<s> recently i had to work on a gateway gt5628 that was having similar problems to the ones you all have discussed in this thread. the processor fan would start running very fast, then the computer would turn itself off.  </s>
+<s> i have resolved this problem, and i know what caused it. the gateway gt series uses a modified intel desktop board.  </s>
+<s> the board itself is made by intel, gateway merely puts their own limited (and flawed, in my opinion) bios on the board.  </s>
+<s> the board that was in this faulty gt series pc was the dg33sxg2.  </s>
+<s> i replaced it with a dg33sl desktop board, which is almost exactly identical to the dg33sxg2.  </s>
+<s> after making a minor adjustment to switch the sata mode to raid, the pc booted right up to a vista desktop, readjusted its hardware resource database, and proceeded to work perfectly.  </s>
+<s> the cost of the new motherboard (retail) was $130.00.  </s>
+<s> you can probably find it cheaper on the web from many sources. the only practical difference between the two boards, aside from one having ps2 ports and one not...was their bios. the intel dg33tl of course had intel bios. the gateway board had a proprietary, stripped down &quot;gateway&quot; version of those bios.  </s>
+<s> i am concluding that the entire problem with the gt series is nothing more than bad bios programming on gateway's part.  </s>
+<s> or perhaps it was done intentionally, a &quot;planned obsolescence&quot; marketing tactic.  </s>
+<s> make the boards bomb after a year, when they are out of warranty, and force the customer to buy a new board or a new pc.  </s>
+<s> you be the judge.  </s>
+<s> hi, there, lisa here, reporting that our gateway gm5478 is still performing flawlessly since we did the &quot;manual restart prior to hourly auto shutdown,&quot; on january 15th.  </s>
+<s> i just cannot believe that such a simple fix could remedy months and months of frustration and improper diagnosis (&quot;there's nothing wrong with your computer...&quot;) by the geek squad.  </s>
+<s> anyhow, will report if the good luck ends and the problem resurfaces.  </s>
+<s> anyone out there know why a manual restart prior to auto shutdown would fix this problem?? thanks...  </s>
+<s> yeah, i've had that problem... simple fix, really... go buy a can of compressed air, open up your side panel, locate heat sink, the metal grid-like thing above your cpu, and blast all the dust that probably got caked in there away... oh, be sure to shut down your computer so the fan isn't turning when you go to clean it out... see, the fan blows towards the heat sink... the cool air that's injected into the case, and all the dust, is then blown towards the heat sink which is a practically a magnet for dust... i've only had mine (which i'm typing back to you on) about a year ago myself... went through a move to new house, and it started doing this stuff... i recognized the same sound from my brother's xbox 360 that overheated (finally got that back) so yeah, compressed air blasting away all that dust from your heat sink does the trick... been running cool since... hope this helped instead of gettin a whole new computer, cans of compressed air at walmart, by the way, are only about 6 bucks a can?  </s>
+<s> don't take my complete word for that, and last quite awhile... oh, make sure you use the little red tube that you attach to the nozzle.  </s>
+<s> anyways, hope this helped!  </s>
+<s> i have a gateway gm5643e pc. it reboots all by itself when you least expect it.  </s>
+<s> does anyone have any idea how to stop it?  </s>
+<s> i don't have the same exact model of computer, but the problem is all the same.  </s>
+<s> i just found out that the motherboard flaw with the gt4010 is fairly commonplace, resulting in $1300 doorstops for every consumer unlucky enough to purchase one of these.  </s>
+<s> i would be more than interested in a class-action lawsuit, you can contact me at adamys@gmail.com and i would love to join the group.  </s>
+<s> let's put some power back into the hands of the consumer again.  </s>
+<s> i've got the same reboot issues.  </s>
+<s> i removed some memory (2 of the 4 1gb sticks) and thought it was working ok, but then the reboot started again.  </s>
+<s> i think it may be a problem with the motherboard but i don't know where to buy a replacment that won't have the same problems.  </s>
+<s> any ideas?  </s>
+<s> i love how fast the computer is when it works.  </s>
+<s> hello all, i started posting to this forum in june 07 right after purchasing a gateway gm 5478 that had the hourly reboots, after installing several gateway bios updates without any satisfaction i went to the intel website and installed the latest intel bios, dpp3510j.15a.0298.2007.1213.1844,  </s>
+<s> 12/30/2007, my system has not rebooted once since i installed this bios, i have replaced the video card twice under gateway warranty and i moved the t/v tuner card down one slot to increase cooling, i can finally say i am happy with this system and it is actually quite fast, i hope this helps those of you that are still stuck in reboot hell.  </s>
+<s> i have had this computer two years and it was taken back to best buy for repair because of the hourly shut down.  </s>
+<s> i paid to have the video card removed and the problem started again.  </s>
+<s> i did the shut down one minute before the hourly shut down and so far this problem is fixed.  </s>
+<s> i am going to contact gateway and tell them how stupid it is not to tell people that this will fix the problem.  </s>
+<s> i am going to update the bios as well, but this simple fix has solved my problem so far.  </s>
+<s> thanks to all of the people on this thread for all of their idea and hard work.  </s>
+<s> here's my fix.  </s>
+<s> i believe it's a case/motherboard heat issue.  </s>
+<s> i installed a 92mm fan in rear of case and moved the 80mm fan from the rear to the front of case.  </s>
+<s> there is a second 3 pin header on the mobo near the front of the case.  </s>
+<s> i connected the rear 92mm fan directly to the power supply, not the motherboard.  </s>
+<s> i don't trust the mobo to get the rear fan speed correct.  </s>
+<s> i put the rear antec 3 speed fan on high.  </s>
+<s> i also updated the bios.  </s>
+<s> i also upgraded the psu to a corsair 450.  </s>
+<s> no problems since.  </s>
+<s> shame on gateway for not providing adequate ventilation.  </s>
+<s> i'm sure many units were returned.  </s>
+<s> just look at all the referbished ones for sale.  </s>
+<s> good luck.  </s>
+<s> i bought my desktop in march and it started shutting down after a few weeks.  </s>
+<s> after hours speaking with someone in india, i was finally transferred to a tier 2 tech in the us.  </s>
+<s> i sent the computer back in june for &quot;warranty repairs&quot; - at a cost of over $100 for shipping, and got it back after they &quot;replaced a faulty hard drive&quot;.  </s>
+<s> it's powered down a few times over the past couple of months and yesterday it wouldn't stay powered on more than a few minutes - not enough time to get through the recovery discs (this is usually the first thing tech support spits out for you to do when there is a problem).  </s>
+<s> i went to the gateway support site and sent a message for support.  </s>
+<s> they just came back and said that &quot;it appears to be a hardware issue.  </s>
+<s> ship it to depot repair for further help&quot;.  </s>
+<s> of course i'm not going to waste another $100+ to do that.  </s>
+<s> after reading this forum, i monitored the cpu temp for awhile from the bios and saw that it was running right at 100 degrees f. i placed a small desk fan blowing into the vent and the temp went down a few degrees and i was then able to perform a recovery and it's been working great for the past few hours.  </s>
+<s> my fan is usually rather loud and runs fast most of the time too - the same as many other posters on this thread.  </s>
+<s> it's really apparent to me that the gateway support people are truly unaware of the overheating problem and their answer to everything is &quot;send it back&quot;.  </s>
+<s> it would be wonderful if the bigwigs at gateway (acer now??) would monitor these forums and see that their customers are having these issues.  </s>
+<s> i'm still going to talk to them about trying to get an upgraded fan or something else instead of sending it in for warranty service.  </s>
+<s> i doubt i'll have much luck.  </s>
+<s> like many on this & other forums, went searching for possible issues with my gateway gt5636e.  </s>
+<s> i have the core 2 quad 6600 2.4 processor model.  </s>
+<s> i have now owned it for approx.  </s>
+<s> 18 months.  </s>
+<s> mine was fine until, of course, the one year warranty ended.  </s>
+<s> within a couple weeks of warranty expiration, mine started doing instant shutdowns.  </s>
+<s> when trying to restart, it would begin to power up then shut right back down.  </s>
+<s> first thing i made sure all dust-bunnies were cleaned from both the outside and inside of the pc. first time problem began this seemed to take care of it for a couple months.  </s>
+<s> then one day it started again.  </s>
+<s> checked it and this time it was very clean.  </s>
+<s> after putting it all back together again it worked fine again... for maybe a month.  </s>
+<s> then it started again.  </s>
+<s> repeat above.  </s>
+<s> then one day i went to start the pc and actually missed the power button with my finger.  </s>
+<s> i instead had lightly pushed down on the surrounding plastic bezel. the pc powered up!  </s>
+<s> whoa, wait a minute.  </s>
+<s> i let it power up, shut it down, did it again.  </s>
+<s> here is what i found: the top plastic bezel on my gt model that is labeled &quot;digital media manager&quot; was mis-aligned and the on/off button for the power supply was actually rubbing on the bezel!  </s>
+<s> once i took the case apart & pushed/moved/loosened/tightend all i could, the power button was now freely moving in and out of the bezel.  </s>
+<s> i have not had one pc sudden shutdown on my gt5636e for at least 3 months since! it has been perfect.  </s>
+<s> if you are having similar problems with your gateway, first, make sure it is clean inside and out, then check to see if your power off/on button is getting stuck on the plastic bezel.  </s>
+<s> my best guess is that the button on mine was not popping out all the way after a morning boot up.  </s>
+<s> eventually with the button half in, it would shut itself down.  </s>
+<s> to avoid members not getting replies this thread is now closed.  </s>

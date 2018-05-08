@@ -1,0 +1,7 @@
+(TOP (X (FW forumsters) (, ,) (SBARQ (WHADVP (WRB how)) (SQ (AUX do) (NP (PRP i)) (VP (VB enable) (NP (NP (NN dma)) (PP (IN for) (NP (PRP$ my) (NNS dvdrw)))) (PP (IN in) (NP (CD win2000))))) (. ?)) (NP (PRP i))) )
+(TOP (S (VP (AUX am) (RB not) (VP (VBG getting) (NP (DT the) (NN option) (S (VP (TO to) (VP (AUX do) (NP (PRP it)) (PP (IN from) (NP (NN device) (NNS manager.regards))))))))) (. .)) )
+(TOP (S (VP (VB enable) (NP (PRP it)) (ADVP (RB first)) (PP (IN in) (NP (NNS bios)))) (. .)) )
+(TOP (S (NP (EX there)) (VP (AUX is) (NP (NP (DT an) (NN option)) (PP (IN in) (NP (NNS bios))) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBZ detects) (NP (DT all) (NNS harddrives) (CC and) (NNS cddrives)) (PP (IN upon) (NP (NN startup)))))))) (. .)) )
+(TOP (S (VP (VB set) (S (NP (PRP it)) (VP (TO to) (VP (NN auto))))) (. .)) )
+(TOP (NP (NNP swisse)) )
+(TOP (S (VP (VB pick) (NP (NP (DT the) (NN article)) (SBAR (S (NP (PRP you)) (VP (VBP understand) (PP (IN from) (NP (NNP bob))))))))) )

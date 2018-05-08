@@ -1,0 +1,39 @@
+<s> i've contacted soundblaster to no avail.  </s>
+<s> yesterday i installed a few things into my pc (wireless card and xp sp2) didnt notice the problem until i installed everything. the external hub isn't getting any power it seems. the sound card works fine, but nothing works on the box, and none of the inputs are available in windows.  </s>
+<s> i really have no clue whats going on with it.  </s>
+<s> i googled it up most of today without finding any information or support for the hub, i've tried the diagnostic program, updated all of my software/drivers, nothing has worked so far. the product has worked fine for about a year now, anybody here had a similar problem?  </s>
+<s> thank you  </s>
+<s> what does device manager tell you about the hardware?  </s>
+<s> any question marks or exclamation points?  </s>
+<s> if they show to be installed and working properly, you may have to get help from the mfg.  </s>
+<s> under sound video and game controllers, nothing has any problems.  </s>
+<s> under &quot;other devices&quot; there is a &quot;multimedia audio controller&quot; listed with a question mark next to it, however i dont know what that is.  </s>
+<s> i dont think the hub is listed, the things listed are: -audio codecs -creative game port -creative sb audigy 2 zs (wdm) -legacy audio drivers -legacy video capture devices -media control devices -standard game port -video codecs  </s>
+<s> somewhat obvious is that sp2 may have bumped out the audigy.  </s>
+<s> to test i would uninstall sp2.  </s>
+<s> i uninstalled windows sp2, that didnt work.  </s>
+<s> since you've uninstalled sp2, i would uninstall the device, then re-install.  </s>
+<s> i'm not sure about the multimedia device with the question mark.  </s>
+<s> could be onboard audio, or may be related to the sound card.  </s>
+<s> i always try to eliminate all question marks by reinstalling.  </s>
+<s> i'm unsure if this will solve the problem, but it's easy enough to try.  </s>
+<s> ive figured it out, i bumped the power connector loose from the sound card when i was installing another card  </s>
+<s> i have the same problem, but all of my power connections are secure.  </s>
+<s> can you recall any of the help creative gave you on the problem?  </s>
+<s> i have updated everything, and am running on the xp pro sp2 with an asus a7n8x.  </s>
+<s> i can't think of anything else, and i am sick of waiting for creative to respond to my tech support request.  </s>
+<s> i use more features on the external hub than anything else, and would greatly appreciate any help anyon can give me.... the only thing i havent checked is continuity on the firewire part of the cable to the external hub, as i don't have a cable tester for firewire cables, and my probes on my multimeter are too large to fit in the slot on the end of the cable.  </s>
+<s> thanks for any help you can give me  </s>
+<s> this problem started occuring when my computer goes into stanby over night (cuz i run the puter 24/7 for online game hosting) and the first couple times it occured a simple reboot was all that was required to fix the problem.  </s>
+<s> now nothing i do seems to help.  </s>
+<s> thanks again for any help any of you can give me  </s>
+<s> it was a really simple solution, the power cable to the soundcard wasnt hooked up right.  </s>
+<s> silly me  </s>
+<s> i had a conflict with irq's, and had to move the internal card to another slot.  </s>
+<s> sounded like fragments list.s.cnet pre_process.sh  </s>
+<s> threads to me when tech support told me to do it, but it worked.  </s>
+<s> had to reinstall all the drivers too.  </s>
+<s> on the upside, i finally found out how to get my optical spdif to put out more than just a stereo signal... woohoo!  </s>
+<s> thanks  </s>
+<s> hey ultimatedave i was having the same trouble but the guy from sb told me to ensure the converter cable was plugged into the card and he was right (it wasn't).  </s>
+<s> now the hub has power but i don't know what to do with it. the remote doesn't seem to work..... i mainly bought it for the card  </s>

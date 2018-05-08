@@ -1,0 +1,46 @@
+<s> hi people, i hope someone can help me with my problem.  </s>
+<s> i live on the central pacific coast of costa rica. the electricity here is very unstable, even with a ups device to help protect computers.  </s>
+<s> a couple weeks ago my power supply burnt out.  </s>
+<s> i borrowed a friends supply and my computer booted up normally.  </s>
+<s> i ran some tests to confirm it was functioning correctly.  </s>
+<s> i then ordered 2 power supplies and had them shipped here.  </s>
+<s> i ordered a chaeper one as a backup and a more expensive, robust one for day to day use.  </s>
+<s> when th epower supplies arrived i intsalled the expensive one and when i turned on th epower switch on the supply, the computer started up.  </s>
+<s> however, it then shutdown and then restarted again. the fans continued to spin but the computer never went to post.  </s>
+<s> i removed the supply and tried th eother one but got the same response.  </s>
+<s> i tried clearing the bios but that didn't help.  </s>
+<s> next i tried removing and re-seating the video card but that did not help.  </s>
+<s> next i removed one of the 512mb dimms and the computer got to post and asked me to setup the bios.  </s>
+<s> i loaded the default bios, but when the computer restarted it said: boot failure insert boot disket in a: i restarted and went back into th ebios and noticed th ehard drive wasnot detected.  </s>
+<s> i have two hard drives, one with xp and another for doing video editing (storing video and audio clips) next, i tried swapping the sata cables that attache the two drives to the motherboard but that didn't help.  </s>
+<s> i even used a multimeter to check the voltages on the power supply to make sure the drives were getting the correct voltages.  </s>
+<s> any ideas on what i can do next?  </s>
+<s> also,do you think my other 512mb ddram stick is bad?  </s>
+<s> thanks, kurt costa rica  </s>
+<s> i would start with the minimum post mb,cpu-hsf,one stick of memory,video card,keyboard.  </s>
+<s> if it posts ok, then add the other stick of memnory, go into bios and check settings if ok then add primary hd with os, check bios for correct setting and see if it will boot.  </s>
+<s> with the problems you have had just do one thing at a time.  </s>
+<s> you didn't say which mb make & model you have so the one step at a time is the best approach.  </s>
+<s> john  </s>
+<s> thanks for the advice john.  </s>
+<s> i will give it a try.  </s>
+<s> btw, my mb is a: msi ms-6728 865pe neo2-p p4 atx motherboard i will let you know how it goes.  </s>
+<s> kurt  </s>
+<s> i believe that 220 volt electricity is transmitted from the power companies in central and south america at 50 hertz not 60 hertz as is true in the us.  </s>
+<s> make sure the voltage switch on the power supplies are set properly.  </s>
+<s> i suggest that you check with your power company to determine what they supply to your locality.  </s>
+<s> you may need an autosensing power supply similar to those used on laptops if the power is as variable as you say.  </s>
+<s> i am getting ready to move to cr and am taking my laptop.  </s>
+<s> do you have a problem charging them or starting them up?  </s>
+<s> do you have a pc or laptop?  </s>
+<s> also- do you have any reccomendations for internet access in cr?  </s>
+<s> i also plan on moving to the central pacific coast in cr. i am having the hardest time locating cel or interent coverage.  </s>
+<s> any reccommendations?  </s>
+<s> undid all of the proper settings needed for the way your drives are configured. the bios with these mobos with raid/sata controllers and sometimes two different ones are very confusing to set up properly.  </s>
+<s> it would also seem to make sense to buy a ups to provide cleaner power to the computer.  </s>
+<s> better than spending a money on a second cheap power supply.  </s>
+<s> if it turns out that is your problem let us know.  </s>
+<s> i can download the manual and see if i can help advise how to set the bios items.  </s>
+<s> the glitch at the first turn on was not unusual. the system had been without the 5 volt standby power for a while.  </s>
+<s> when you first applied power to the new supply, the 5 volts was immediately applied and the logic momentarily turned your system on then right back off.  </s>
+<s> not abnormal really.  </s>

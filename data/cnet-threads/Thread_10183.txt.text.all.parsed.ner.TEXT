@@ -1,0 +1,19 @@
+<s> i just got an 80gb hitachi external hard drive in an ultra enclosure, and i can't seem to access it with win xp using firewire.  </s>
+<s> my inspiron 8200 laptop is a few years old, so no usb 2.0.  </s>
+<s> instead, i use a pc card with firewire ports to connect to the hd. the computer recognizes the device and it pops up as a drive in the device manager, but it doesn't display an accessible icon in my computer.  </s>
+<s> does someone know a way that i can get into this thing?  </s>
+<s> thanks, bryant  </s>
+<s> while its in the firewire case?  </s>
+<s> and using xp's drive or disk management tool?  </s>
+<s> bob  </s>
+<s> haven't partitioned or formatted it, but i was under the impression that had been done, as it was labeled &quot;plug & play.&quot;  </s>
+<s> i'm not familiar with xp's disk management tool; i will have to look for that.  </s>
+<s> here's why.  </s>
+<s> no supplier can guess what partitions or file system you want.  </s>
+<s> bob  </s>
+<s> i have exactly the same problem with a maxtor 250 gb hd in an icy box enclosure, xp, firewire-access and motherboard doesn't support usb2 either.  </s>
+<s> the disc is still an active disc in my system managment and disc managment but i had no access to it.  </s>
+<s> but ntsf/fat32 isn't recognised ... a quick format solves the problem temporary.  </s>
+<s> but the problem will occur again soon.  </s>
+<s> i guess the problem is on a driver-level or bios-level, recognising the disc.  </s>
+<s> if you find a solution u can mail me .. christianblock01@yahoo.com.  </s>

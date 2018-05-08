@@ -1,0 +1,18 @@
+<s> when i shut down my pc, the operating system etc. turns off fine.  </s>
+<s> however, the pwr and hdd leds as well as front of case illumination and internal cooling fans do not, this causes me to have to use the switch on the power supply at the back.  </s>
+<s> this problem started happening all of a sudden without me changin any bios settings or settings in windows.  </s>
+<s> since i have tried re-installing xp professional and take out ram, hardrive, graphics card, sound card etc. my system is running an amd 64 3200+ processor mounted on a gigabyte ga-k8nf-9 (k8 triton series) motherboard. the os is xp professional sp1 (was sp2 until re-install).  </s>
+<s> i have tried updating the bios with no luck.  </s>
+<s> any suggestions?  </s>
+<s> jonathan.  </s>
+<s> what motherboard driver package was used?  </s>
+<s> bob  </s>
+<s> package that originally came with the mobo.  </s>
+<s> never had any trouble before, have reinstalled xp tonnes of times before and never any probs.  </s>
+<s> what sequence does the power on go through?? trying to guess whether the power control logic has failed and always has pin 9 [green wire] on the 20/24 pin connector held logic low.  </s>
+<s> but i'd test it one more time with a linux livecd.  </s>
+<s> if i could boot linux and it shuts down proper i then have to make a decision.  </s>
+<s> bob  </s>
+<s> the usb ports seem to be playing up, the usb mouse sometimes looses its connection and also i have had no end of trouble trying to install my printer, it see,s to take forever to detect the usb devices plugged in.  </s>
+<s> another thing which is confusing me is that my network card is built into the motherboard an i have installed the drivers which were on the cd with the motherboard yet i get '!' marks in the device manager?! i also get a few in the ieee 1394 bus host controllers section of device manager.  </s>
+<s> j.  </s>

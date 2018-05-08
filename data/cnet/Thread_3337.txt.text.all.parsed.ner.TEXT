@@ -1,0 +1,21 @@
+<s> i have an old 486 laptop that would make a great clock, but i don't know what the effects of leaving the lcd running night and day for months or even years would have on it.  </s>
+<s> would that destroy it, or harm it at all?  </s>
+<s> a common misconception about mtbf is that it means that some product may last that long.  </s>
+<s> actually, the definition (my rewrite) is that on average all the devices will have a failure or have failed by that number of hours.  </s>
+<s> some may expire early, later or even never.  </s>
+<s> not knowing the lcd in question, a whack at google shows this: being thoroughly a whack at the numbers, we see on the first page from 10,000 to 50,000 hours.  </s>
+<s> it's not a bell curve on the failure profiles, but usually a bathtub shape, but for this discussion i'm going to use the midpoints as the average time your unit will fail.  </s>
+<s> statement -&gt; your lcd will fail from 5,000 hours to 25,000 hours in continuous usage.  </s>
+<s> or 208 days to 1,041 days or from 0.57 years to 2.85 years.  </s>
+<s> to extend this time, simply reducing the brightness could easily double this number.  </s>
+<s> bob  </s>
+<s> is it true that the number of hours to be expected are decreased by continuous usage, or does the total ontime life of the unit (lcd) remain the same whether it is used constantly or not.  </s>
+<s> it's an average time before failure.  </s>
+<s> it's a tough idea to grasp that all units in the group will fail as the 10,000 hours is reached.  </s>
+<s> the idea is simple. the usage pattern will of course help and i noted this.  </s>
+<s> mbtf = mean time between failures.  </s>
+<s> or on average a failure is expected (all units) on average at this time span.  </s>
+<s> i will not define mtbf futher, but will let you research reliability and mtbf on googgle.  </s>
+<s> i supplied a simplified example of how many hours you might expect from such usage.  </s>
+<s> without knowing the exact make/model and its mtbf, the method i used has been more accurate in predicting the lifespan that i care to elaborate.  </s>
+<s> bob  </s>

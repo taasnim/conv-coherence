@@ -1,0 +1,70 @@
+<s> i have a dual athlon mp 2100+ with 1.5 gb ram (registered memory, 266 mhz), one 18k and one 36k cheetah 15k scsi drives, an ide pioneer a04, an externally powered scsi plextor 12/24/32 cd/rw (with a separate scsi card), and a media card (also pci) on a tyan tiger mpx 2466 motherboard.  </s>
+<s> it is powered by an enermax 465 power supply and previously had stock fans on each of the two cpus as well as a matrox parhelia 128 mb graphics card.  </s>
+<s> in addition to the monitor, which is self-powered (of course), i swapped the fans with the 80mm masscool fans (sparingly used the included silver grease) and replaced the parhelia with the pci 4x/8x (in 4x mode as capped by the motherboard) xfx geforce 6800 128 mb dual dvi card (using one dvi channel and it has its own molex plugged in).  </s>
+<s> although the media drive is not hooked up (nor is the printer or scanner), everything else is described as above).  </s>
+<s> i did this over the weekend.  </s>
+<s> no overclocking whatsoever.  </s>
+<s> everything ran great!  </s>
+<s> then, i left on tuesday.  </s>
+<s> i have small children.  </s>
+<s> to the best of my knowledge, the 1 yr old likely did turn it on and off, but i'm guessing.  </s>
+<s> the 5 yr old knows not to.  </s>
+<s> on the enermax, there is a 120/240v switch (or thereabouts).  </s>
+<s> i do not believe that the youngest one could have switched it (physical strength) and it is in the 115/120v position.  </s>
+<s> when you press the power on button, nothing happens...at all.  </s>
+<s> it does not begin to boot in the slightest.  </s>
+<s> this leads me to believe that the enermax has likely bit the dust despite my belief that it should have been able to support the load.  </s>
+<s> other than being turned on and off (again, i am guessing), i seriously doubt they subjected it to any significant load.  </s>
+<s> it functioned fine through tuesday morning...i have backup software that runs wirelessly (802.11g) though i am still working out some kinks with it.  </s>
+<s> a complete backup (just a few gigs) occurred on the 20th and an incremental backup successfully completed on wednesday, the 23rd.  </s>
+<s> i tried plugging in just the enermax by itself for signs of life but it did not yield any. that may be an invalid way of determining whether or not it is dead.  </s>
+<s> it does not smell burnt in any way.  </s>
+<s> how can i confirm whether or not this is the source of my problem and, if so, how much juice do i need?  </s>
+<s> i know with the xfx, they recommend at least 300w, so i figured on the dual mp 2100+ with my specs, the enermax would suffice.  </s>
+<s> perhaps it did not... if that is not (or may not) be the problem, how can i test the enermax, which i have removed?  </s>
+<s> additionally, if it isn't that, what else might it be?  </s>
+<s> i do not get even a millisecond of life from the computer/motherboard, etc...and i do recall that under normal operation, an led glows on the tyan tiger mpx 2466 motherboard...green, i believe.  </s>
+<s> in the event that i do need a new power supply, am i able to merely plug it in to the wall to confirm it operates (something my enermax is definitely not doing)?  </s>
+<s> thanks!  </s>
+<s> ross  </s>
+<s> ross: you could buy a tester, about twelve bucks on the internet.  </s>
+<s> i have a shelf full of blown power supplies.  </s>
+<s> some died, some died from power surges, some died from my own carelessness.  </s>
+<s> plug the power supply into a 110v power.  </s>
+<s> locate pin 14 on the connector plug.  </s>
+<s> it is a green wire.  </s>
+<s> next to it on both sides are black wires. the green wire is the ps lead, (power start) the black wire is ground.  </s>
+<s> short the green wire and the black wire momentarily and see if the fan starts.  </s>
+<s> if it does not then the ps is probably dead.  </s>
+<s> if it starts (fan runs, then it most likely is the motherboard.  </s>
+<s> the mother board has a chip on it that takes a short signal from the switch and connects to the ps_signal line (green pin 14 connector) this in turn activates another chip inside of the power supply that connects the ac power to the main conversion circuit. the first test checks out the ps chip, the second test checks out the motherboard chip.  </s>
+<s> of course the mechanical switch on the front of the case could be bad so that you would have to manually short the two pins on your motherboard to test this out.  </s>
+<s> look in your manual and it should indicate where these two pins are located.  </s>
+<s> be careful if you do this, not to short anything else.  </s>
+<s> norm  </s>
+<s> when i short either of the two pairs (green-adjacent black), the fan on the bottom will spin as long as it is held down (brief touch to several seconds).  </s>
+<s> however, in no case did the fan adjacent to the power plug spin (intake?). only the one facing within the box spun up.  </s>
+<s> does this indicate a functioning or defective ps? with regard to the second test, am i to plug it in and create a short at the site of the on-off switch?  </s>
+<s> from what i recall several years ago when i did have a defective 2466 mobo, the board lit green upon having a connection to electricity, prior to starting...there is no lit-up lcd when i have it hooked up.  </s>
+<s> furthermore, i don't know if i'm wrong about the light...i &quot;think&quot; it was that motherboard which lit up, but am not certain.  </s>
+<s> i know the 6800 would have added the additional stress that is causing either the ps or mobo to fail, but since one fan of two spun up, i'm not sure if that was a pass or fail on the ps. btw, i truly appreciate your very detailed reply...you are being of fantastic help to me.  </s>
+<s> i look forward to your response.  </s>
+<s> thanks, ross  </s>
+<s> this presumes that you did not have power to the board since you had disconnected the 20 pin ps from the board to run the test.  </s>
+<s> if the ps internal fan spun up constantly, this prresumes that the ps is putting out the proper voltage, but the cpu fan does not have power so it does not spin up. the front switch just puts a short on two pins located along the edge of the motherboard where all of the front switches and lights hook up.  </s>
+<s> if the front switch jumper cable is removed from the pins and a small screwdriver is inserted between the two pins 13,15 (see: ftp://ftp.tyan.com/manuals/a_s2466_110.pdf )to produce the short.  </s>
+<s> this assumes that you have hooked the ps back up to the mother board to run this test.  </s>
+<s> if the cpu fan spins up, then the switch is in trouble.  </s>
+<s> if the cpu fan does not spin up, then the motherboard has a problem.  </s>
+<s> the addendum manual sheet also indicates that an error was produced in the original manual in which the pins appear backward.  </s>
+<s> ftp://ftp.tyan.com/manuals/a_s2466_110.pdf front panel connector (j12) the following connectors have been reversed in the opposite direction. the manual indicates that pin 1 starts from the right side.  </s>
+<s> pin 1 on the board begins from the left.  </s>
+<s> could you have hooked the front panel connector up in reverse?  </s>
+<s> norm  </s>
+<s> i am truly perplexed, but upon reconnecting the power cables, etc., i had everything spinning up as it should....so i proceeded to hook everything back up and it is working like a charm.  </s>
+<s> what's so odd is that when i first began, prior to doing the short test, the switch (which i never reseated at all) would not invoke the slightest bit of life.  </s>
+<s> i verified that the two box fans, the two cpu fans, and the graphic card fan all spun up, the scsi devices are all correctly recognized, etc...behavior normal.  </s>
+<s> i am totally perplexed but very, very happy!  </s>
+<s> i still have no clue what happened but this appears to be a happy ending to the story.  </s>
+<s> thanks!  </s>
+<s> ross  </s>

@@ -1,0 +1,24 @@
+<s> i reviewed an older thread on this topic and followed the suggestions, but no joy.  </s>
+<s> i have replaced my laptop with a new one, running vista home premium.  </s>
+<s> i have set up network sharing as directed, and my laptop can see an modify files on the xp system. the xp system can see the files on the vista laptop, but when i try to open one, i get the xp message &quot;[path] is not accessible.  </s>
+<s> you might not have permission ....&quot;.  </s>
+<s> yet i have set sharing permissions on the laptop to everyone.  </s>
+<s> i also see in the vista file sharing panels the comment &quot;people must have a user account for this computer to access files...&quot; does this mean i have to create an account for my xp machine?  </s>
+<s> if so, how do you do this for a 'user' on another machine on the network?  </s>
+<s> thanks for any advice perry b  </s>
+<s> everyone with an account.  </s>
+<s> why not try making those accounts?  </s>
+<s> i find it interesting that people read this but don't try.  </s>
+<s> bob  </s>
+<s> as i said, there does not seem to be a way to create an account for a user on a remote computer ... it's obviously easy to create an account on the host computer, but i need one that will activate the path \xp systemuser.  </s>
+<s> i have also set up and permissioned &quot;everyone&quot; but that doesn't work.  </s>
+<s> when you login, you have an account name.  </s>
+<s> that name must have an account in each machine you want to access this machine from. the rules are simple.  </s>
+<s> just tell me what step stops you from creating the account.  </s>
+<s> and let's repeat this.  </s>
+<s> &quot;everyone&quot; is not &quot;anyone.&quot; the difference is worth repeating.  </s>
+<s> &quot;everyone&quot; in windows networking is those with an account.  </s>
+<s> &quot;anyone&quot; would be those with or without an account.  </s>
+<s> bob  </s>
+<s> try using a application called dropbox and then use file sync programs on both systems i had this problem and as-long as both systems are connected to the internet u can drop items into this film and then it loads them onto the other computer and the i used file sync programs to get these files from dropbox onto things like itunes library etc. if i am unclear what the demo video and it makes it perfectly clear.  </s>
+<s> hope this helps  </s>

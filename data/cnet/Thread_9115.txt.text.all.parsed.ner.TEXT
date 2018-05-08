@@ -1,0 +1,34 @@
+<s> id really appreciate some help with this, cos im stumped.  </s>
+<s> i had 2 computers, one running xp pro, and the other win2000. the 2000 machine connected to the internet through a wireless card and and a wireless router connected to the xp machine.  </s>
+<s> it was also connected to the xp machine as part of a network.  </s>
+<s> on the 2000 machine, there was a folder called ''shared'' that sat on the desktop.  </s>
+<s> users on both computers could put stuff in there, and take stuff out, but, anything the xp machine tried to share (mark as a shared folder and/or put into the shared documents folder) with the 2000, the 2000 was never allowed to access it ''access denied''.  </s>
+<s> when it would let me ''access'' it, it asked for a name and password, but no matter what i entered it still wouldnt let me log in.  </s>
+<s> only a few days ago i upgraded the 2000 machine to xp, and now i cant even access the ''shared'' folder on the new xp machine.  </s>
+<s> i've got no idea whats going, and i've tried everything i know, which doesnt amount to much, so any help in this matter would be very greatly appreciated!  </s>
+<s> thanks frank ps: i am also, since upgrading the 2000 to xp, getting an ''error 777, problem ceonnecting to signup'' message all throughout the day.  </s>
+<s> what's that all about?  </s>
+<s> if your shared folder that is on the desktop is a shortcut or mapped drive, delete the desktop folder.  </s>
+<s> caution: if the folder on your desktop is the actual folder that is being shared, deleting it will delete all the folder contents.  </s>
+<s> if you are unsure, backup the folder contents to another folder.  </s>
+<s> 1. find the acutal shared folder (not a shortcut or mapped network drive) 2. rt-click it and disable file sharing and click apply.  </s>
+<s> 3. enable file sharing again on the same folder and click apply.  </s>
+<s> go to the mfg.  </s>
+<s> website for your modem and download the latest xp driver.  </s>
+<s> info:  </s>
+<s> ok thank you.  </s>
+<s> i've done that but cant get onto the other computer at the moment, so theres no way for me to tell if it worked or not.  </s>
+<s> i'll post and say whether it is or not when i get the chance to have a look.  </s>
+<s> ok im on the older xp machine now, and i still cant access the shared folder, i cant even access the other computer (the one that i just recently put xp on.  </s>
+<s> ''you might not have permission to use this network resource, contact the administrator of this server to find out if you have access permissions.  </s>
+<s> access denied''.  </s>
+<s> it was my brother-in-law who set the computer up a while ago and he knows a lot more than i do, so could it possibly be something ''advanced'' thats stopping me?  </s>
+<s> as for the error777, thats still popping up, especially on this site.  </s>
+<s> i downloaded a driver and installed it, but that didnt seem to do anything. the link you gave me said it was for hp computers(which mine isnt) but the 3rd party page is where i got the driver from and it still didnt work.  </s>
+<s> thanks again for your help!  </s>
+<s> run xp's network setup wizard on each computer.  </s>
+<s> make sure to give all computers the same workgroup name.  </s>
+<s> also, enable file sharing.  </s>
+<s> that was one of the 1st things i did after putting xp on the other computer, but it just said &quot;you have to run network setup wizard on each computer you want to join the network.  </s>
+<s> i ran it on both and its still saying i dont have permission, when im logged in as the admin on both computers. is there some kind of order i should do them in?  </s>
+<s> thanks.  </s>

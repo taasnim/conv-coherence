@@ -1,0 +1,19 @@
+<s> hi all, i will start with describing the situation: 1) i have wifi connection and local network installed.  </s>
+<s> 2) i can connect my laptop (and other devices) via wifi to the network and browse the local network as well as the internet.  </s>
+<s> 3) i have two other desktops that are wired (connected via wire) to the network and works fine (can get to the internet) the problem: ~~~~~~~~~~~~ i conneced one additional desktop to my home network via wifi and i can browse the local network but i cannot connect to the internet do you have any idea what can be the problem?  </s>
+<s> (i already reinstalled the computer and restarted the wireless router) thanks for any idea.... shai  </s>
+<s> - does it work wired?  </s>
+<s> you only tell about wireless.  </s>
+<s> - what exactly is &quot;reinstalling the computer&quot;?  </s>
+<s> -] what happens if you try to &quot;connect to the internet&quot; and how do you do that?  </s>
+<s> for example, can you ping a website?  </s>
+<s> - what os on this desktop?  </s>
+<s> windows 95? linux?  </s>
+<s> speaking of linux, does it work if you boot from a linux live disk?  </s>
+<s> - now take that same uncooperative desktop to another location (friend or family).  </s>
+<s> does it work there wired?  </s>
+<s> wireless?  </s>
+<s> kees  </s>
+<s> hi, thanks for your reply, it looks like i have some problem with the wifi router.  </s>
+<s> it is strange that: 1) i can connect to the network (local and internet) via wifi using my laptop 2) i can use other machines and connect to the internet and tothe local network wired 3) this specific machin can connect to the internet using other wifi network 4) my os is win xp and i reinstalled it 5) i also reset the router 6) still with this machine i can only brows my local network and cannot brows the internent via wifi anyway, i changed the connection technology for this machine and now i use the: &quot;powerline 200 adapter&quot; it is work great!  </s>
+<s> thanks kees_b, shai  </s>

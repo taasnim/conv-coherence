@@ -1,0 +1,22 @@
+<s> i feel really dumb.  </s>
+<s> so i was using dban (derek's nuke and boot) software to format an external hard drive.  </s>
+<s> long behold i accidentally click on my main computer's hard drive to delete.  </s>
+<s> it deleted approximately 5mb on the hard drive until i stopped it.  </s>
+<s> now it doesn't boot, so i use easus partition master 6.1.1 professional (paid version), and use the partition recovery wizard.  </s>
+<s> the hard drive still has all of it partitioned, so it won't let me recover anything (it will only let me try and recover unallocated parts, which there are none), but i still won't boot.  </s>
+<s> my guess is that i just deleted the partition table, because all the data is in tact (phew).  </s>
+<s> but since all of it is still partitioned, i can't recover anything.  </s>
+<s> what should i do?  </s>
+<s> any help would be appreciated, thanks.  </s>
+<s> okay, so i tried active@ partition recovery.  </s>
+<s> it detects 5.9mb of unallocated hard drive space along with the partitioned part.  </s>
+<s> however it can't and doesn't find any deleted partition, so i can't recover it.  </s>
+<s> i guess i have to format the computer now...  </s>
+<s> you didn't delete the partition but rather the info/data on that partition.  </s>
+<s> basically, the partition is still active, but you're trying to recover the data side of things.  </s>
+<s> you may want to look into pci_filerecovery pgm.  </s>
+<s> and hope it may do the trick, google for it.  </s>
+<s> a commercial pgm.  </s>
+<s> called, paragon hd manager pro could help too.  </s>
+<s> understand, dban whole purpose is to rewrite(format) so data gets lost, begone for good so no one else can recover it.  </s>
+<s> tada -----willy  </s>

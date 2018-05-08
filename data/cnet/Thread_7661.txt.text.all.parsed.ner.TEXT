@@ -1,0 +1,29 @@
+<s> hello, thank you for taking the time to read and help me with my question.  </s>
+<s> i've slowly been buying parts for my new computer build over the weeks and i just tried putting it together last night to no avail.  </s>
+<s> after assembled correctly, (all wiring checked and rechecked), the power button immediately starts every fan in the system (all 5 casefans, psu fan, cpu heatsink fan, gpu fan) but i hear no sounds similar to that of the actual computer starting.  </s>
+<s> the monitor stops displaying *no signal* when i plug it in, and it's light just goes orange.  </s>
+<s> nothing plugged into usb ports will light up (mouse/usb storage).  </s>
+<s> there are no beep codes during any of this and i am seriously perplexed.  </s>
+<s> system specs- foxconn amd am3 mobo - atx 16gb ripjaws ram (only one 4gb stick inserted for test) sapphire radeon hd 6850 gpu (unplugged and sat aside after first test, no difference in result) 650 watt antec psu amd phenom ii x4 3.8ghz processor sata 500gb laptop hdd (test purposes only, havn't bought the one i want yet.  </s>
+<s> this has windows 7 already installed onto it.) i would appreciate if anyone could look at this and give me any fresh input, it's very discouraging .  </s>
+<s> i would install more ram, to make a &quot;bank&quot; that refers to at least 2 slots, find what makes bank 0 or bank 1 as the numbers start.  </s>
+<s> next, sorry but no you can't have pre-installed win7 on a hd and expect it to boot.  </s>
+<s> if the mtrbd.  </s>
+<s> and such were the same as what you're working it may have booted or error out.  </s>
+<s> in your case, win7 will remind at a fault level, you have to install win7 to that system as in fresh install.  </s>
+<s> if your mtrbd.  </s>
+<s> has only usb ports for the kybd.  </s>
+<s> and mouse, leave as is for now.  </s>
+<s> next, using your win7 or any windoze install disc, use that to see if it will boot.  </s>
+<s> you will need to verify the 1st boot device is cd drive from the bios setting and save upon exit.  </s>
+<s> -or- depending on your pc setup if it asks from a boot menu where to boot, again that's a feature of your bios.  </s>
+<s> i don't know if that is possible or applicable to your current pc, so check.  </s>
+<s> don&quot;t take anything for granted, recheck and verify and what i stated in this post should apply.  </s>
+<s> tada -----willy  </s>
+<s> i actually just unplugged the cpu and tried reseating it a few times, but i get the same result (i also tried the ram idea, different choices between the 4 sticks on different tests) without the cpu in at all i get the exact response, no real computer action but all fans immdiately power on and whirr loudly.  </s>
+<s> this makes me think it's the cpu because every one of the fans are working, even the gpu fan/ psu fan, and heatsink fan, but no actual computing is happening.  </s>
+<s> i can't even get to the bios, and that's what concerns me, without the cpu, would the mobo load it's bios?  </s>
+<s> it just seems like there aren't any post or beep codes at all.  </s>
+<s> either way i've just rma'd the cpu to newegg and hope to get a replacement for this soon.  </s>
+<s> i'll be back replying on any help i get here after the processor is fresh and i can try it again.  </s>
+<s> thanks willy for taking the time  </s>

@@ -1,0 +1,19 @@
+<s> hello prospective helpers, i have a 512mb sanddisk cruzer mini usb drive that used to work perfectly fine until recently.  </s>
+<s> all of a sudden for no apparent reason my pc (xp sp2) is have trouble reading the usb drive and slows down the system in the process.  </s>
+<s> when i tried to access the usb drive in command prompt, after about 3 minutes i got the following error message: &quot;the volume does not contain a recognized file system.  </s>
+<s> please make sure that all required file system drivers are loaded and that the volume is not corrupted.&quot; then i went into &quot;device manager&quot; and saw the usb drive listed under &quot;disk drives&quot;.  </s>
+<s> double clicking on it reveals that the &quot;device status&quot; is &quot;this device is working properly.&quot;  </s>
+<s> so i believe the drivers are not the problem but somehow volume is corrupted.  </s>
+<s> bottom line, i have very important files stored only on this usb which i need to retrieve before throwing the usb drive away.  </s>
+<s> i tried other usb drives on the same usb port and had no problems so it's not the usb port that has problems.  </s>
+<s> i also tried my faulty usb drive on other pc's and they all had trouble reading it.  </s>
+<s> thanks for any help.  </s>
+<s> these things don't work forever but i find people lose a lot of time over what is now a 10 to 20 buck thing.  </s>
+<s> if you've gotten into the habit of simply plugging/unplugging after use w/o a proper dismount, you can corrupt the fat. the damage can also be due to &quot;static/esd&quot; which can fry or damage the usb drive.  </s>
+<s> in either case, more than likely you can't recover if you've done a reformat and it doesn't take.  </s>
+<s> i had many drives just go &quot;poof&quot; as i and other users get a sudden loss of drive usage.  </s>
+<s> it happens and far better to move on.  </s>
+<s> you can try the hp usb drives tool(web search at hp) to see if it can be recovered or try another recovery tool, but usually the results are negative.  </s>
+<s> tada -----willy  </s>
+<s> hi, here's a program to enable and disable usb mass storage devices and still have your keyboard and mouse working.  </s>
+<s> you can also use your usb drive as an access key to your pc. free download at this link:  </s>

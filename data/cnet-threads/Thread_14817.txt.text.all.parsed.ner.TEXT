@@ -1,0 +1,26 @@
+<s> i'm hoping to upgrade my hard drive to a seagate momentus 7200.3 320gb.  </s>
+<s> i am unsure whether my current notebook will find the hard drive, could someone please confirm this?  </s>
+<s> hp doesn't provide hard drives above 120gb for this notebook.  </s>
+<s> my specs: hp compaq nx7400 intel centrino duo t5600 1.8ghz 2 gig ddr2-667 ram 80gb toshiba s-ata hard drive (original) latest bios update from windows vista ultimate 32bit please help!!! thanks  </s>
+<s> 1. xp sp2 or later (vista passes) 2. sata interface = as big as they come for today.  </s>
+<s> sadly there is little hope anyone has your exact laptop and has done this but if it was mine i'd do that.  </s>
+<s> unless the bios is hardwired(bios set) not to allow such a larger hd, you can install a big hd. what may happen, is you may need to partition the new hd for the bios to see 80gb or 120gb as 1st partition.  </s>
+<s> then the bios is happy and the remaining hd is used a 2nd partition and not wasted. the supplied recovery/restore os disks should offer not only the original install process(8gb is reserved for os recovery) but also partitioning as well as an option.  </s>
+<s> in many cases, new hds supply their own install setup, you can then use the &quot;copy/image portion&quot; to fill the 1st partition, etc.. offhand, i don't think it will be a problem, but i found laptops unique all to often, so i can't give a clear answer, sorry.  </s>
+<s> i have found newer laptops are simpler to deal with.  </s>
+<s> tada -----willy  </s>
+<s> thanks a million willy!  </s>
+<s> i recieved no recovery discs with my pc 18 months ago, however i have a backup on my desktop external.  </s>
+<s> i will make use of partitioning if all else fails and as long as my pc picks up the new drive!  </s>
+<s> ciao fuertos  </s>
+<s> i have installed the seagate momentus 7200.3 (320 gb) in my notebook doing the replacement and making my original hard drive a portable one.  </s>
+<s> i just have to say that i have not experienced a tad difficulty in transfering my operating system (vista ultimate 32-bit) to the new drive.  </s>
+<s> i made use of seagate discwizard, which happens to be a sister program of the acronis migrate easy and acronis true image home.  </s>
+<s> i utilized the clone option and created a 100gb partition for the transfer.  </s>
+<s> after waiting about an hour with a dead black screen and two busy drives, my new drive was ready to go.  </s>
+<s> i merely exchanged drives (transfering the metal dock cover) and hey ho... boot-up.  </s>
+<s> my notebook asked to be restarted once.  </s>
+<s> so as of now, i'm running a much faster, larger (and more reliable according to my standards) seagate drive.  </s>
+<s> it's quiet running (a slight cr-cr sound vs. a weee sound from the other drive) and i'm experiencing no lag time when i open/close a program and there are absolutely no occurrences of a program freezing and then continuing again.  </s>
+<s> i've ran the drive for over a while now in the same format as my previous drive and the side of my keyboard above the drive is room temperature - no heat after gaming and tracking tunes i intend on transferring my copy of vista 64 from my other drive also to a partition on this drive now using acronis disk director suite.  </s>
+<s> i hope this helps someone who needs the info!! peace (and quiet) a very chuffed fuertos  </s>

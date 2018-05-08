@@ -1,0 +1,39 @@
+<s> hello, i'm new in forum.  </s>
+<s> i hope i can get some help here, and as i can see i can really start to help in some topics so, here's my question.  </s>
+<s> i have a simple switch of 24 ports from zte and i have another equipment contected to it in one port. the port is up, but i can't ping the equipment.  </s>
+<s> after 1minute (sometimes more, sometimes less) when port learns the other equipment's mac address it goes down.  </s>
+<s> i already tested.  </s>
+<s> the port is up while i'm checking mac table and there's no mac in port.  </s>
+<s> when finally port learns the mac i will check port state again and it is down.  </s>
+<s> some seconds later port is up again and everything starts again.  </s>
+<s> anyone have a idea what's can be the problem?  </s>
+<s> i already check negotion parameters and mac learning.  </s>
+<s> it's everyting ok.  </s>
+<s> i have equipment that never replies to ping.  </s>
+<s> however the story sounds like someone made their own cables or if they used punchdowns got the pairs wrong.  </s>
+<s> the mac table is good information, ping is not.  </s>
+<s> so given the light story, i'll wait for more.  </s>
+<s> bob  </s>
+<s> hello, thank you for the answer.  </s>
+<s> ping is.  </s>
+<s> because connected to other switchs from other vendor the ping is ok. the cable is not a problem also.  </s>
+<s> it is a large scale network and i have this situation replicated in other locations.  </s>
+<s> none of them works.  </s>
+<s> .  </s>
+<s> if the other vendor product works, use them.  </s>
+<s> why use defective gear?  </s>
+<s> bob  </s>
+<s> hello, it is a very complex situation.  </s>
+<s> i have to change the equipments for other reasons.  </s>
+<s> i really have to.  </s>
+<s> another thing i have tried is to force port to a permanent mac address.  </s>
+<s> nothing happens.  </s>
+<s> exactly the same.  </s>
+<s> thanks.  </s>
+<s> it looks simple from here.  </s>
+<s> one device works the other is defective.  </s>
+<s> of course you could have the old boss issue.  </s>
+<s> that is, the boss wants to use the new cheap defective box.  </s>
+<s> i know of no cure for that issue.  </s>
+<s> back to the maker and ask if they can fix it.  </s>
+<s> bob  </s>

@@ -1,0 +1,7 @@
+<s> i plug the flash drive into the pc and it reads &quot;usb device&quot; but when i look for the drive letter it doesn't exist. is there a way to turn on drive letters for external devices? the cd-rom shows as d: but the usb doesn't automatically turn up as any letter.  </s>
+<s> i can see the flash drive in the device manager but i don't see the letter.  </s>
+<s> your usb drive and another drive on the system are trying to use the same drive letter.  </s>
+<s> change the drive letter of your cd drive to something else.  </s>
+<s> right click on my computer--&gt;manage click on disk management under storage right click on your cd drive--&gt; change drive letter and path.  </s>
+<s> click on change and change the letter to somthing else (e).  </s>
+<s> that was it - it was my computer, manage, storage, disk management - yay!  </s>

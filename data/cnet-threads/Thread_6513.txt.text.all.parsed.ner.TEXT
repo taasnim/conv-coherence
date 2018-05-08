@@ -1,0 +1,20 @@
+<s> i have a desktop system running with win xp (dell dimension 510 w/1gb of ram, 3.00 ghz and 144 gb harddrive) and all the required peripherals (keyboard, mouse, monitor, printer, scanner, usb ports). the cpu is acting strange, lots of fan noise, and it's out of warranty.  </s>
+<s> rather than spend money getting it fixed, i'm looking for a good desktop replacement, box only, without all the peripherals.  </s>
+<s> any suggestions?  </s>
+<s> try using this as a server and install a linux/gnu or a bsd distribution on it.  </s>
+<s> i suggest you go a money saving route. the people here will tell you what they think is popular.  </s>
+<s> all of them are going to be of the same two types of chips x86(32bit) and amd64(64bit).  </s>
+<s> there is no difference at all in what each can do as far as name goes.  </s>
+<s> as far as address goes, 64bit has long maode, physical adress extension, and virtualization built in.  </s>
+<s> x86 does not.  </s>
+<s> if they tell you what a name does, it's bunk.  </s>
+<s> get a budget 64bit setup- if you want to save money- and add a sound , graphics card later.  </s>
+<s> if you want a better system, try a risc based processor.  </s>
+<s> the 1st thing to do is open case and clean out the dust bunnies.  </s>
+<s> hopefully, that reduces noise and possible heat build-up sources and continued usage.  </s>
+<s> next, the system you want is called a &quot;bare bones&quot; type.  </s>
+<s> this will be only the case, mtrbd.  </s>
+<s> and psu and/or some ram(maybe). the cost is much less and should give a decent start to a complete system once all is attached, etc.. you can try these vendors, but others are out there, just be sure to look for &quot;bare bones&quot; or what they call them, just verify before ordering.  </s>
+<s> &lt;-check out links ciao -----willy  </s>
+<s> it would be a good idea to go ahead and replace the cpu fan because if the fan is making noise means that the small bearings in the fan are getting hot and trying to lock up.  </s>
+<s> or buy a new heat sink fan combo.  </s>

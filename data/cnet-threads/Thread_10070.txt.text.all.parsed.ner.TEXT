@@ -1,0 +1,37 @@
+<s> q: can the hardware in a computer kill hard drives?  </s>
+<s> power supply faulty?  </s>
+<s> ide controller self destructive?  </s>
+<s> mobo failing?  </s>
+<s> my girlfriends computer killed a 40gb maxtor.  </s>
+<s> so i replaced it with a 40gb western digital, not trusting those silly maxtors.  </s>
+<s> that got a crapload of errors after about 3 weeks and then it croaked too.  </s>
+<s> so i took out one of my several hard drives from my computer and donated an 80gb hard drive that i have had for 2 years with no problems at all ever.  </s>
+<s> ran disk check (after i filled it with music) and nothing came up.  </s>
+<s> so i formatted and put in her machine.  </s>
+<s> 2 weeks later i get error checking on boot up.  </s>
+<s> now i am convinced that 3 hard drives in 2 months is a little freakin ridiculous.  </s>
+<s> one of the hard drives will not even be recognized by bios in three different machines and the other one it just permanently errored.  </s>
+<s> i was hoping not to loose my 80gb because i kind of like it. it is being used right now by the infernal machine.  </s>
+<s> not sure if this matters but two of the four integrated usb ports on the motherboard are dead.  </s>
+<s> is this a sign of motherboard crapping out on me?  </s>
+<s> is the system on a ups ?? how old is the pc ?? vapcmd  </s>
+<s> when you have persistant problem(s) on a system you have to step back.  </s>
+<s> all too often a common link maybe the psu and/or anything else.  </s>
+<s> i usually like to replace the psu as a matter of course.  </s>
+<s> while this sometimes corrects the problem it *may* return as it seems yours has and then i see the other half or 2ndary problem, usually the mtrbd.  </s>
+<s> or a compotent/device that was stressed during a bad psu or whatever caused the problems.  </s>
+<s> another common link is a high level of &quot;heat stress&quot; and that effects everything as well once you have a stuffed system or non-cleaned dust bunnies in there.  </s>
+<s> since, you have bad usb ports it could be drivers or mtrbd.  </s>
+<s> h/w fault but since you have multiple probelms it really gets hard to t/s w/o some massive swap.  </s>
+<s> unstable ac power can also cause weird or unrelated problems in the long run, other than being in the same system.  </s>
+<s> tada -----willy  </s>
+<s> this problem cannot be because of bad ac power, since it has been in the same room as my computer without any problems and it has done this in both my house and our apt.  </s>
+<s> i doubt it is heat stress since it is so bare.  </s>
+<s> amd 3200 with one cd rom, 2 sticks of ram, one hard drive and one pci card.  </s>
+<s> it is a roomy aluminium mid atx case and 3 fans (one intake, bottom front, one exhaust in the back and one side out.) the psu is an interesting idea.  </s>
+<s> this thing uses so little power though... it doesn't even have a floppy drive.  </s>
+<s> i guess i'll just get a new mobo...  </s>
+<s> i had a motherboard that did the same thing only to memory chips.  </s>
+<s> i replaced the psu and things were fine for a while and then i started getting hard drive errors.  </s>
+<s> after checking the motherboard i found several capacitors with bulging tops which meant they were bad.  </s>
+<s> don't know if there was a connection between the bad psu and the capacitors.  </s>

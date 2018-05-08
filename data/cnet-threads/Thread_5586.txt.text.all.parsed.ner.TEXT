@@ -1,0 +1,41 @@
+<s> hey, i recently picked up some new ram.  </s>
+<s> i started off with 1gb of corsair pc3200 (1 stick).  </s>
+<s> initially, i bought 2 sticks of 512 mb kingston pc3200.  </s>
+<s> when i installed this with the corsair stick, my pc wouldn't boot.  </s>
+<s> i checked the motherboard's manual, and it turns out that it will not boot any configuration of 3 sticks.  </s>
+<s> fine, so i go buy another 1 gb stick of corsair to match my first stick.  </s>
+<s> now, with all 4 sticks in, totally 3 gb, the system boots, but bios only recognizes 2gb.  </s>
+<s> i know the kingston works, i was using it without the corsair while i was waiting for the second corsair to come.  </s>
+<s> obviously, the corsair works too.  </s>
+<s> so why does the kingston stop working alongside the corsair?  </s>
+<s> i know its iffy to mix ram, but these sticks are exactly the same type and speed, all pc 3200.  </s>
+<s> it looks to me like the chips are laid out the same way too.  </s>
+<s> does anyone have any idea what could be causing this?  </s>
+<s> i am using vista 64-bit edition now too, so it shouldn't be an addressability issue right?  </s>
+<s> even if it was, the motherboard should still be able to recognize all 3 gb.  </s>
+<s> sorry.  </s>
+<s> i read your post three times and couldn't find the make, model, version and the bios version of the machine or motherboard.  </s>
+<s> put it in bold so it stands out for me.  </s>
+<s> it's a gigabyte k8nf-9 ultra motherboard.  </s>
+<s> can i determine the bios version from windows, or will i need to restart to find it?  </s>
+<s> i found my bios version in the registry.  </s>
+<s> key: systembiosversion value: nvidia - 42302e31 award modular bios v6.00pg  </s>
+<s> version f11 is the last issued in 2006 at notes issues with more than 2 sticks of ram.  </s>
+<s> it's not a good board to go with more than 2 sticks and i'm finding people are having issues.  </s>
+<s> seems you need to check with your ram supplier directly to see how to get the ram exchanged for sticks for your board.  </s>
+<s> the speed reduction issue is not the problem i'm encountering though.  </s>
+<s> i'm aware of that issue, and it is a cpu limitation anyway. is that the only issue you found related to using 4 sticks?  </s>
+<s> the bios version is interesting.  </s>
+<s> mine is f2, so it's definitely out of date.  </s>
+<s> unfortunately i'm having problems updating it.  </s>
+<s> @bios is giving write errrors every time when trying to update the flash memory with the new bios version.  </s>
+<s> i tried v11 and v3, neither worked.  </s>
+<s> not sure how to proceed from here.  </s>
+<s> sorry, what i found was not fun and more than the links i gave.  </s>
+<s> i decline to write long passages with links backing up every assertion.  </s>
+<s> for that you usually have to get to a support forum (usually pay) and not a discussion forum.  </s>
+<s> -&gt; f2 bios could be a problem.  </s>
+<s> that's very old so check the board for flash bios write protect jumpers next time and you may get lucky.  </s>
+<s> part of those bios updates are to correct memory controller settings and more.  </s>
+<s> good luck.  </s>
+<s> bob  </s>

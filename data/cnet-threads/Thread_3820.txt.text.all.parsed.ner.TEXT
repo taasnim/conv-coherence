@@ -1,0 +1,46 @@
+<s> my problem is that my pc has lost its operating system and now i am trying to connect my laptop to my pc with a crossover connection.  </s>
+<s> i am hoping that i can get to my pc's hard drive to copy &quot;my documents&quot; to another folder or to my laptop.  </s>
+<s> looking for some step by step directions.  </s>
+<s> can't seem to find my pc in my network places.  </s>
+<s> where am i going wrong?  </s>
+<s> thanks for your help.  </s>
+<s> what do you mean by ''lost its operating system?'' i am assuming that the operating system was installed and you have run into some problem that will not allow your pc to boot into windows.  </s>
+<s> what operating systems are on your computers?  </s>
+<s> you won't find your pc in my network places.  </s>
+<s> to transfer files over two computers that are networked with a crossover connection, the operating systems needs to be running on both computers.  </s>
+<s> have you tried troubleshooting the hard disk by trying to boot to it in safe mode?  </s>
+<s> have you tried a recovering files with a knoppix cd? what have you tried?  </s>
+<s> if you have tried everything to fix software issues that may be causing your hard disk not to boot, you need to connect the hard disk directly to another computer.  </s>
+<s> you can make it a secondary disk in another desktop, you can put it into an external enclosure and attach it to your computer, or you can attach it to your notebook via a usb to ide adapter .  </s>
+<s> the error is a missing operating system.  </s>
+<s> both have xp. we tried to reboot every possible way. the recovery disc offers a standard recovery and a full reformat but i would like to recover &quot;my documents&quot;.  </s>
+<s> i was told that a crossover connection could get me access to my pc hard drive even though it will not boot. is that incorrect info?  </s>
+<s> you recommended putting hard drive in another pc or a usb the 2 together?  </s>
+<s> the usb would be easiest.  </s>
+<s> instruction would be welcomed, thanks for your thought and assistance.  </s>
+<s> the correct information is that it is absolutely necessary that both computers have working operating systems to network them together via a crossover cable.  </s>
+<s> it will cost you no money to put the second drive into a working computer as a slave or on a separate cable.  </s>
+<s> instructions to install hard dive as a slave: disconnect the data and power cables from the back of your hard drive (hd1).  </s>
+<s> pull your hard drive from your computer (comp1).  </s>
+<s> look at for a jumper pin diagram on the back of your hd and you should see cap settings for cs, ma, sl. those symbols stand for cable select, master, and slave.  </s>
+<s> place the jumper cap over the two pins that designate the drive as a slave.  </s>
+<s> now move hd1 to another computer (comp2) and install it on the same data cable as the new computer's hard drive (hd2).  </s>
+<s> insert the middle data connector of the cable into hd1 (the slave position).  </s>
+<s> install any free power connector into hd1.  </s>
+<s> boot comp2 and see if hd1 shows up in comp2's my computer.  </s>
+<s> if you have trouble booting comp2, you will need to enter comp2's bios settings to tell comp2 explicitly to boot from hd2.  </s>
+<s> instructions to install hard drive on usb to ide adapter: instructions included with device  </s>
+<s> slaved the bad drive, saw it but could not read &quot;parameters not correct&quot; was error message.  </s>
+<s> checked properties of bad drive - file system -raw not ftns??? knoppix cd????? tell me more?  </s>
+<s> (a) do not worry if you have all your data files in the my documents folder & you have not deleted this folder or formatted the hard drive.  </s>
+<s> b) first step is to use a bootable cd (having windows 98 second edition / xp).  </s>
+<s> (c)prior to that - go to the bios setup (pressing f2 while the system reboots)- and in the boot device priority, select cd rom first and then the hard disk.  </s>
+<s> save and exit.  </s>
+<s> (d) the bootable cd should be in the drive when you boot. it will take you to the a: prompt and its directory will show the bootable files that should not be of any concern.  </s>
+<s> (e) type d: (or any other where you can find your de drive).  </s>
+<s> this should show the windows setup files.  </s>
+<s> (f) type setup and the installation starts.  </s>
+<s> (g) once the setup is finished in all respects and the system reboots - press f2 again to enter the bios setup menu - go to the boot device priority and set it back to hard disk first and then the cd rom.  </s>
+<s> save and exit.  </s>
+<s> and let window do its work to install other drivers and files.  </s>
+<s> (h)once windows has been installed - go to the networking option and install your network computer - (its much easier in xp) hope it helps otherwise for further information please ask me at: intrstat@lhr.comsats.net.pk  </s>

@@ -1,0 +1,8 @@
+<s> i am running a 2100s rev320r i20 scsi v001.38 in raid5 we want to upgrade the drives to 300gb.  </s>
+<s> according to documentation i should go into storage manager mark the drive as failed, replace it with the new drive, let it rebuild then repeat the process for each drive.  </s>
+<s> i have installed storage manager' version 4.40.00 (16593) but it tells me that no controllers were found.  </s>
+<s> time to call its maker and arrange for repair or replacements.  </s>
+<s> the drives are working fine. the system is fine, just approaching capacity.  </s>
+<s> we can access the raid in bios with smor but want to do the drive upgrade with system up and running not to disrupt users.  </s>
+<s> the product has failed.  </s>
+<s> ask its maker what to do next.  </s>

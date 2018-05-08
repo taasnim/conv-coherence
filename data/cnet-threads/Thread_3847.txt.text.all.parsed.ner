@@ -1,0 +1,5 @@
+(TOP (S (NP (NNP plz)) (VP (VB help) (NP (PRP me)) (NP (NNS peps))) (: :) (X (SYM d))) )
+(TOP (S (NP (PDT all) (DT that)) (NP (PRP you)) (VP (MD will) (VP (AUX need) (S (VP (TO to) (VP (VB know) (, ,) (PP (IN with) (NP (NP (NN help)) (SBAR (WHADVP (WRB when)) (S (VP (VBN needed))) (. .))))))))) (. .)) )
+(TOP (S (NP (EX there)) (VP (AUX are) (NP (NP (DT no) (JJ known) (NN pc) (NN hardware) (NNS items)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (AUX do) (NP (DT this)) (PP (IN for) (NP (date (NN today)))))))))) (. .)) )
+(TOP (S (NP (PRP you)) (VP (MD may) (VP (VB want) (S (VP (TO to) (VP (VB try) (NP (DT a) (NN software) (CC or) (NN web) (NN topic) (NN forum))))))) (. .)) )
+(TOP (NP (NNP bob)) )

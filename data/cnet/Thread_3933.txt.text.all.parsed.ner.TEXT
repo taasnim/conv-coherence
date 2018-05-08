@@ -1,0 +1,29 @@
+<s> i dropped it and now there is no led indicator light lighting up.  </s>
+<s> and it will not show up in my computer.  </s>
+<s> i managed to strip it down to this.  </s>
+<s> so the first thing i notice is that this chip is loose.  </s>
+<s> and on the underside, it has 4 metal contacts, so we know that it goes there in that missing spot.  </s>
+<s> however, it could orient either way, and i've tried holding it there myself and plugging it in, but to no avail.  </s>
+<s> so, now i'm stuck here.  </s>
+<s> i really need to recover this.thanks.  </s>
+<s> it's a pity you tried yourself.  </s>
+<s> a specialized data recovery company would have done better, and it might be more expensive now than it would have been if you hadn't started yourself.  </s>
+<s> anyway, a usb-stick should - exactly like a floppy 15 years ago - be considered as a good means to move data between computers.  </s>
+<s> not as permanent storage, and certainly not as a good place to store the only copy of some data.  </s>
+<s> so - for everybody following that simple rule - no data is ever lost by a failed drive and there's no need at all for any expensive recovery.  </s>
+<s> let's hope you fall in that category.  </s>
+<s> kees  </s>
+<s> minor detective work , i would see what defacing the solder pads look like and match them.  </s>
+<s> use a magnifying glass and notice the solder pattern, because they would fit.  </s>
+<s> however, how you solder it back is another issue. the proper tech way is find pin 1 of solder area, it may have the #1 to id it and the chip has a #1 or indent, dot, hollow or/on chip form, then match and resolder.  </s>
+<s> because, this is smc stuff, it can be hard to do w/o proper tools, so you're left at the mercy of your skills.  </s>
+<s> tada -----willy  </s>
+<s> well this is very small, and there's not really &quot;pins&quot;.  </s>
+<s> its more like small flat squares that are metal.  </s>
+<s> i probably wont be able to solder this.  </s>
+<s> because im terrible at soldering.  </s>
+<s> if you have access to forceps or small vise grip pliers, and knowing ordination of chip, try this as last resort.  </s>
+<s> using maybe small wood/leather pads in order to not smash chip, apply to flash drive and clip on the pliers using just necessary force to keep it from moving.  </s>
+<s> use a usb cable too extend the flash drive away from the port and allow ease of access. the constant contact may allow access to data if that's all it is, chip off pcb.  </s>
+<s> you can apply a micro-drop of super glue with toothpick, again if ordination is known to keep chip in place, but apply pliers quickly before it sets.  </s>
+<s> tada -----willy  </s>

@@ -1,0 +1,84 @@
+<s> i am searching the net for some good resources on how to build my own computer.  </s>
+<s> i have a budget of about $1500, and i have a couple ideas of what i want out of the computer: i want to run mutiple programs, edit/create music and videos, and maybe some designing in circuits later on.  </s>
+<s> i don't see myself doing any gaming.  </s>
+<s> i would like to assemble it myself (i've got a couple free weekends), but i am not completely against a company custominzing one for me.  </s>
+<s> monarch's site had an insane amount of items to look at....it was overwhelming, i didn't quite know where to start.  </s>
+<s> a motherboard?  </s>
+<s> any input???? newbie here.  </s>
+<s> aside from that here are some things a pc needs: motherboard - the basis of the system, everything is connected to this power supply - don't skimp, you want a good unit from ocz, antec, forton source, enermax, or ttgi superflower, as this powers the computer, and is often the most common source of problmes cpu - this does the majority of data processing in the system, again, don't skimp gpu - here is where your graphics are done, pcie or agp 8x, this depends on the motherboard/cpu combination you choose hdd - hard drives, your storage, how much you need?  </s>
+<s> ram - memory, i suggest at least 1gb, running in 2x512 (2 512mb sticks, thus, dual channel (if you have a dual channel motherboard) and pc 3200 or faster (pc 3200 is what you need to run 1:1 with basically every chip out there (yes, including the 800fsb intel chips) but you can get faster ram if you'd like (no need unless your overclocking)) i'd suggest some of the following parts: abit an8 $144 @ newegg amd athlon64 3800+ (socket 939) $380 (oem) or $385 (retial) @ newegg thermalright xp-90 $49.99 @ newegg (get a 92mm fan for this also) 1gb (2x512) pc 3200 ddr: geforce 6600nu pcie and your choice of sata hard drives for the psu i'd suggest one of the following: antec neopower 480w ocz powerstream 520w as for a case you just have to pick one you like same goes for optical drives, just pick one/ones with features you like and you also have to choose if you want a floppy drive  </s>
+<s> take your time to learn as much as you can before trying to build.  </s>
+<s> i suggest this new free course that cnet will conduct on march 28:  </s>
+<s> use this forum too.  </s>
+<s> once you decide on a rough layout of what you want post it here.  </s>
+<s> i did that and found at least a couple potential problems that i was able to avoid.  </s>
+<s> but also i ended up going a different way than i had originally planned.  </s>
+<s> lol... but yea newegg is great for pricing.  </s>
+<s> sometimes tigerdirect can ahve some deals but they seem to have somewhat of a not so great reputation aroudn here so i guess use sparingly.  </s>
+<s> things to research; chipset, psu design, especially plus check reviews on pretty much everything that you're thinking of putting in there.  </s>
+<s> look for compatability issues and those sorts of thigns...  </s>
+<s> i am reading reivews online for different products.  </s>
+<s> so i have some questions now.. athlon64 vs p4? p4 performs better in lame mp3 encoding and divx encoding; while the athlon64 performs better in xvid.  </s>
+<s> what does this mean for an end user like myself?  </s>
+<s> which applications will be better handled by the p4 vs the athlon64?  </s>
+<s> these are specs for the dfi &quot;855gme-mgf&quot; i855gme chipset motherboard for intel socket 479 cpu that i found on newegg.  </s>
+<s> what do these specs mean in terms of application and expansion?  </s>
+<s> specifications: supported cpu: socket 479 intel pentium m/celeron m processor chipset: i855gme + 6300esb fsb: 400mhz ram: 2x dimm ddr 333 max 2gb slots: 1x agp 4x, 3x pci, 1x pci-x ports: 2x ps/2, 1x lpt, 1x com, 1x vga, 4x usb2.0(rear 4), 1x rj45, 1x 1394, audio ports ide: 2x ata 100 up to 4 devices sata: 2x sata with raid 0/1 onboard video: integrated vga engine onboard audio: realtek alc655 6-ch audio onboard lan: rtl8110s gigabit ethernet controller onboard 1394: 2x ieee 1394 by via vt6307 form factor: microatx  </s>
+<s> in general terms if your'e going to be doing a lot of audio work and or photo editing, the p4 cpu will do better.  </s>
+<s> amd's primarily shine best when it comes to gaming performance and things like that... ok now to the board... i think the socket 479 is the newest one for intel so you should be able to go pretty high there.  </s>
+<s> chipsets i think are a bit old.  </s>
+<s> fsb about half what you'd want of you're going to be going with a fast cpu.  </s>
+<s> imo it's best to have as fast of fsb as you can. in the case of intel that's 800 mhz currently.  </s>
+<s> the ram is also very limited.  </s>
+<s> at most you can have 2 sticks of ram on that.  </s>
+<s> also it only supports pc2700 ddr ram. the sort of standard ram is pc3200 or ddr 400 so you're a bit limited there.  </s>
+<s> slots: also limited in the graphics area.  </s>
+<s> most of the better video cards need to have an agp 8x or the new slot pci-express x-16 slot.  </s>
+<s> that's only got an agp4x so your'e limited in what you could do there.  </s>
+<s> only having the 3 pci slots can be very limiting too. the ports seem ok. it might be a good move to get some usb ports for the front of the comp but that's optional.  </s>
+<s> unless you plan on using ide devices i'd reccoment using the sata; or at least use them for the primary drives.  </s>
+<s> i use sata for both my hd and dvd-rw.  </s>
+<s> so you really looking at a board taht small?  </s>
+<s> that's a rpetty small board...  </s>
+<s> hey thanks for the help.  </s>
+<s> i'm actually learning something about hardware having to review all these items... since i won't be doing any gaming on this pc, but i do plan to be messing around with mp3's and photo editing, the p4 would be a better choice.  </s>
+<s> but how about recording dvd's?  </s>
+<s> i posted the socket 479 because i really don't know what is standard for my desired applications, or what the specs would mean when it comes to performance.  </s>
+<s> i realize now that something offering a faster fsb with more ram is a must.  </s>
+<s> i'm not sure how many devices i'm going to be running, other than hard drive and a dvd-rw... any suggestions on a couple boards?  </s>
+<s> since your learning here are some links.  </s>
+<s> remember that when they say better it means that it took a little less time to encode a bench mark test clip, most of the results are just a few seconds difference.  </s>
+<s> there is no difference in the quality fo the finished clip! john  </s>
+<s> i thought something didnt quite seem right.  </s>
+<s> i just looked at the intel cpu that i was thiking about getting and it's a lga775 socket cpu.  </s>
+<s> i was looking at a 3.2 ghz prescott core p4 chip so that might be something esle to watch for.  </s>
+<s> i'd look for at least a p4 530 chip or higher.  </s>
+<s> the 3.2 is a 540 chip.  </s>
+<s> they do run very warm though so if you go with a prescott core cpu be sure you've got good case cooling.  </s>
+<s> especially if you're running a video card that generates much heat.  </s>
+<s> dont know about the dvd recording.  </s>
+<s> my guess would be it would hold the same as with audio but i'm not sure.  </s>
+<s> wahtever the case though either make of cpu given a high enough speed will do the job nicely.  </s>
+<s> meaning an amd 3500+ will do the job nicely as will a p4 of the same speed.  </s>
+<s> if you're going to be doing audio work, i'd recommend getting a quality sound card, which will take a pci slot.  </s>
+<s> i've got an audigy 2 zs gamer and it's an excellent card.  </s>
+<s> unless you've got a good reason to go micro-atx i'd probably go standard atx form.  </s>
+<s> gives you more room to work inside the case and more room for heat dissipation too if you do go with a prescott cpu.  </s>
+<s> as fro boards; umm, i guess head to newegg and search for boards that are socket lga775 compatible.  </s>
+<s> then look at the form factor(atx, m-atx). the chipset is somewhat hard to nail down for me currently.  </s>
+<s> i think the newest chipset from intel at least is the 915 series.  </s>
+<s> i was looking at a 915p chipset.  </s>
+<s> if you can find a board that supports it, it might be worth investing in dual channel ddr too.  </s>
+<s> i'm a bit fuzzy on how it works but it gives you roughly a 10% increase in performance vs single channel ddr.  </s>
+<s> pc3200 is the absolute min that you should go for.  </s>
+<s> i'd look into at least ddr433 or ddr500 and initially have at least a gig of it.  </s>
+<s> and yea an 800mhz fsb is very important to have so the fsb isnt the choke point on the computer.  </s>
+<s> hi steepleboy, gmartin suggest the intel socket lga775 and to look at the p4 530 or 540 .  </s>
+<s> i agree with the intel socket lga775 and suggest as an alternate to p4 5xx, the new p4 630 (3.0ghz) $237, or the p4 640 (3.2ghz) $288, with the 64-bit technology (em64t) for the future, and also with the pci-express bus technology. the 6xx series also has 2mb of l2 cache, whereas the 5xx series have 1mb, 533, or less depending on other varables.  </s>
+<s> for a motherboard to go along with the lga775 socket & lets say the $288 p4 640: $236 - asus p5ad2-e premium i925xe chipset +ich6r $224 - abit &quot;fatality aa8xe 925xd $208 - asus p5ad2-e deluxe i925xe chipset +ich6r $196 - intel &quot;boxd925xfcv2lk i925xe chipset $169 - intel &quot;boxd925xcvlk 925x chipset $147 - intel &quot;boxd915pbll 915p chipset $148 - asus &quot;p5gdc deluxe i915p +ich6r $115 - gigabyte &quot;ga-81915p duo prov (rev1.1)&quot;  </s>
+<s> 915p chipset i would also add more cooling like for instance a $34 artic-cooling freezer 7 cpu cooler for socket lga775, model acfrz7 the pci-express technology is slowly replacing the pci bus and also the agp bus for video cards.  </s>
+<s> features of the intel pentium 4 processor 6xx supporting hyper-threading technology 2 mb of l2 cache = a larger cache size can help the processor more efficiently run many popular applications in digital imaging, music, video and gaming.  </s>
+<s> intel extended memory 64 technology&#934; = provides flexibility for future applications that support both 32-bit and 64-bit computing.  </s>
+<s> execute disable bit =  </s>
+<s> forgot amd didnt have the monopoly on 64bit cpu's.  </s>
+<s> lol... yea defintiely look into the 64bit cpu's.  </s>

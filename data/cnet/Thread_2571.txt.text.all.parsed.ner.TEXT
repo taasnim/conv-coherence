@@ -1,0 +1,17 @@
+<s> vista sp 2 64 bit hp pavilion elite m9250f monitor - hp w1907 it was fine last night but when i tried to turn it on today the monitor blacks out but the comps tower is lit to show its still on.  </s>
+<s> restarted in safe mode with networking and it started fine i'm currently backing my 2 hard drives up with power2go to be on the safe side, but i'd like to know how to fix it as i'm scared to turn the thing off now please let me know what you think  </s>
+<s> it sounds like the resolution your computer is set for is incompatible with your monitor and/or video hardware.  </s>
+<s> since you can boot to safe mode ok, go into the display applet of the control panel and lower the resolution.  </s>
+<s> good luck.  </s>
+<s> i thought you're supposed to use the default res for the monitor. the current res is 1440 x 900.  </s>
+<s> what res would you suggest?  </s>
+<s> when you run in safe mode, you get 640 x 480, so i'd try lowering the resolution.  </s>
+<s> normally i'd use the default for the monitor, but if your pc's video can't handle that, you've got to either lower the setting or get a better video card.  </s>
+<s> try 800 x 600 and see if that works.  </s>
+<s> if it does, try 1024 x 786, and keep going up 'till you find one that doesn't, then back down from that.  </s>
+<s> good luck.  </s>
+<s> i set the res 800 x 600 in safe mode and restarted and the moitor went black for a minute before working. the res however is the same 1440 x 900, so i don't know what got it working again, but i'm not complaining!  </s>
+<s> thanks for the help.  </s>
+<s> but any idea what fixed it?  </s>
+<s> just kidding about the holy water obviously; your guess is probably good as mine.  </s>
+<s> if it goes black again though, be sure to remember what you did!  </s>

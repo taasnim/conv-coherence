@@ -1,0 +1,23 @@
+<s> hello there.  </s>
+<s> i have a duplex home in an urban setting that seems too vast for a single wifi router.  </s>
+<s> additionally, it seems that there is significant speed degradation through wifi.  </s>
+<s> according to my speed tests, i can lose up to 70% of my contracted internet speeds (of 15 mbps) via the router (which i am hoping that the apple tc can help to fix although i'm sure that sometimes it's the cable co's fault!) i have read that if i can add a wifi router to the second floor that would help with the signal, however that speed would be the same degraded one.  </s>
+<s> so, i have been doing lots of reading on the powerline devices and i'd like to know if i can do the following and if so, how: 1. connect the wifi router (soon to be an apple tc) to the cable modem, as i do now, but then run the ethernet cable through the tc to the powerline and powerline network that way.  </s>
+<s> 2. connect my imac to the internet via powerline 2a. can i then use powerline fo home sharing, air play, and so on?  </s>
+<s> 2b. back up my imac to tc? 3. connect my internet ready tv via powerline (currently conencted via wifi).  </s>
+<s> 4. connect a second wifi router on the second floor via powerline and it be on the same wifi network as if i am using the second router as an extender.  </s>
+<s> 5. there is a tenant on the 3rd floor who receives a separate electric bill.  </s>
+<s> can i assume that they would be shut out of my powerlined network?  </s>
+<s> 6. lastly, connect my ios devices to wifi?  </s>
+<s> thanks so much!  </s>
+<s> too dangerous to let others on my network.  </s>
+<s> have them get their own cable or dsl.  </s>
+<s> bob  </s>
+<s> the easy one first is that you tenant first would have to buy a device and then know your key/code since you can encrypt the traffic.  </s>
+<s> it is unlikely it would work anyway, these devices get picky when you start passing though power meters and main power boxes.  </s>
+<s> i have only used these devices as point to point but the documentation talks about running more. the issue is that you really only have one set of wires in your house but if you put up multiple devices they all will try to talk over the top of each other.  </s>
+<s> even with just 2 devices running video over them you never really know if it will work.  </s>
+<s> they are susceptible to all kinds of things and video is going to be pushing it to the limit.  </s>
+<s> i would not try more that 2 to start with sometime they do not work acceptable in some houses.  </s>
+<s> could be something as simple as it does not like a appliance in your house.  </s>
+<s> many people use them for your option 4. if you can run any ethernet cable for any of these runs it will help a lot.  </s>

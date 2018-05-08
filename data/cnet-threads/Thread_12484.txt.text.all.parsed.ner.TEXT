@@ -1,0 +1,33 @@
+<s> i have seen many similar messages similar to what i am about to post, but i have tried a few fixes and nothing seems to be working, so i have decided to post and see if i can get some help.. i recently purchased a wirless router (d-link di-624) and a pci wireless adapter card (d-link airplus dwl-g520).  </s>
+<s> i also have an acer notebook with a broadcom 802.11g network adapter (which came built-in).  </s>
+<s> i have set up the router and connected it to my dsl connection via the modem. the pc is hardwired to the router.  </s>
+<s> both notebook and pc will connect to the wireless connection i have set up with good signal strength.  </s>
+<s> i can set up a home network and transfer files between the computers wirelessly.  </s>
+<s> however, my laptop cannot connect to the internet.  </s>
+<s> if i unwire the pc from the router, then it cannot connect to the internet either.  </s>
+<s> it also seems that even when wired the internet connect6ion drops quite readily and i have to unplug the router, plug it back in, and then everything works fine.  </s>
+<s> some additional info... notebook: ip address: 192.168.0.100 subnet mask: 255.255.255.0 default gateway: 192.168.0.1 pc ip address: 192.168.0.101 subnet mask: 255.255.255.0 default gateway: 192.168.0.1 both adapters are set to auto obtain an ip address ssed broadcasting is turned off on the router and wep is enabled.  </s>
+<s> cheers!  </s>
+<s> daryl  </s>
+<s> sorry,,, both computers are running windows xp sp2.  </s>
+<s> cheers!  </s>
+<s> daryl  </s>
+<s> for the router.  </s>
+<s> then i might disable any security settings as a trial.  </s>
+<s> i agree with michael, security will be your issue.  </s>
+<s> first disable all security and enable ssid broadcast.  </s>
+<s> then set up your computers and make sure that they can connect to the network and internet.  </s>
+<s> if they do then i would use mac filtering only.  </s>
+<s> there is an issue with microsoft zero configuration, every so often it searches for a beter connection (no idea why) and if it cannot find one it logs back on to your network.  </s>
+<s> with security enableed it cannot connect for some reason.  </s>
+<s> with mac filtering you do not have this problem.  </s>
+<s> if you are still having problems then try a different channel number, making sure each wireless computer is changed as well.  </s>
+<s> if that doesn't work post back.  </s>
+<s> sf  </s>
+<s> can get my desktop to connect to the internet without a wired connection... but my laptop will still not do it... played around with the channels but that didn't seem to make any difference.. any further advice would be really wlecome... my notebook connects to other wireless networks fine.... but not to my new router... cheers!  </s>
+<s> daryl  </s>
+<s> why don't you tell us exactly what your set up is then we may be able to help.  </s>
+<s> what security settings do you have, is ssid enabled etc. i mentioned a couple of things in my post but all you said was that you played around with the channels.  </s>
+<s> have you tried disabling all security?  </s>
+<s> have you updated latest firmware, drivers etc? if you can connect to other networks then you probably have security enabled and this is stopping you connecting.  </s>
+<s> sf  </s>

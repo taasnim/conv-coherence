@@ -1,0 +1,33 @@
+<s> hi everyone.  </s>
+<s> i recently recieved a siemens se505 wireless router. the quick installation guide told me to first disallow windows from configuring the wireless network.  </s>
+<s> once i had done that, i had to change the ssid of the adapter to connectionpoint.  </s>
+<s> once i had done this, the computer could see the router, and i had excellent signal strength.  </s>
+<s> i then had to enter the ip address of the router and this would allow me to configure the router.  </s>
+<s> i configured it, was able to surf the net, and everything was fine.  </s>
+<s> i then went again to the cofiguration page, and enabled wep encryption and mac control (if that is how one refers to that).  </s>
+<s> then i logged out, and since then, i have never been able to connect to the router.  </s>
+<s> i always have excellent signal strength, but i can never connect to the router or enter the cofiguration state.  </s>
+<s> when i type in the routers address in firefox or explorer, i get the message saying the connection was refused.  </s>
+<s> i tried both enabling and disabling wep on my adapter, but niether setting helps.  </s>
+<s> i tried the factory reset on the router which should have reset all passwords and settings, but i still have no luck.  </s>
+<s> i don't know if this is relevant, but when i directly enter my routers ip address and subnet mask rather than saying to look for the ip address automatically (as i am supposed to do), i am able to enter the configuartion pages.  </s>
+<s> however, i cannot connect to the internet when i log on to the router this way.  </s>
+<s> i have also tried updating the firware, and this also has not helped.  </s>
+<s> i would greatly appreceate any help or info.  </s>
+<s> thanks.  </s>
+<s> how do you know all this works?  </s>
+<s> go back to factory settings and try each item one by one.  </s>
+<s> what no one tells you is that all this doesn't always work.  </s>
+<s> if you don't like that, return the defective product.  </s>
+<s> in closing, another thing no one tells you is the &quot;new&quot; product can arrive with out of date firmware and drivers.  </s>
+<s> bob  </s>
+<s> btw, what mac address did you enter?  </s>
+<s> your router mac address or your ethernet card mac address?  </s>
+<s> with wep enabled, usually you need to enter username and password - add it manually in your wireless network configuration.  </s>
+<s> i entered.  </s>
+<s> but it shouldn't make a difference once i've reset the router, should it?  </s>
+<s> i am going to try the reset again, and try all the options.  </s>
+<s> excuse my networking illiteracy here, but does windows automatically know to try and reach the router address (when i type it in) using the wireless connection, and not my regular internet connection (which is offline)?  </s>
+<s> thanks for the replies.  </s>
+<s> nothing is &quot;automatic&quot;. the wizards may help or they may not.  </s>
+<s> bob  </s>

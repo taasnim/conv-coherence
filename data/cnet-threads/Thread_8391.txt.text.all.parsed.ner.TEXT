@@ -1,0 +1,21 @@
+<s> we have (had) two computers.  </s>
+<s> the older one is (was) a compaq with 2 wd ata hdds.  </s>
+<s> it suddenly died today, and i'm wondering if there is a relatively painless way to transfer the data on the two ata hdds to the newer (acer) sata computer.  </s>
+<s> no need to move programs - just data.  </s>
+<s> any help appreciated.  </s>
+<s> this even isn't called recovery (one talks recovery when the disk is damaged).  </s>
+<s> this is just copy.  </s>
+<s> buy a usb2 to sata/ide-cable and use that to connect these drives to a usb-port on your newer pc (like any usb-stick of external drive).  </s>
+<s> then copy what you need.  </s>
+<s> an enclosure is better than a cable if you want to keep using these disk as (for example) a backup medium.  </s>
+<s> it seems you don't yet have one.  </s>
+<s> three notes: - for older drives this has to be an externally powered cable or enclosure (that is: with a power adapter) - probably you'll need to set the disk to 'master', not slave, when using it this wad - you might need to 'take ownership' of some or all info on that older drives - easy to google how to do that if you get an 'access denied' message on that data any computer shop will be able to sell you what you need and give advice.  </s>
+<s> this really has a near 100% success chance.  </s>
+<s> unless, of course, the breaking down of your old pc was caused by a failed hard disk.  </s>
+<s> you didn't tell that.  </s>
+<s> then it will only work with the other disk.  </s>
+<s> kees  </s>
+<s> if the drive is so old it needs external power?  </s>
+<s> older pc = older drive.  </s>
+<s> only a 2.5&quot; laptop drive has a good chance (but no more than that) to function correctly without external power.  </s>
+<s> kees  </s>

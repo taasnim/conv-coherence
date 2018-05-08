@@ -1,0 +1,82 @@
+<s> hello friends, george ou at techrepublic states that even in high end systems a good quality power supply with 330 watts is all you need?  </s>
+<s> i am including a link to the article.  </s>
+<s> scroll down to the the power supply section.  </s>
+<s> it's near the top. it will say, &quot;note on the power supply:&quot; also read his comments in the posts below.  </s>
+<s> i hope this is true, but what are your thoughts/experiences? thanks in advance  </s>
+<s> it's the core 2 duo and that helped almost halve the watts going to the cpu.  </s>
+<s> while i'll call it slim at 330 watts it is possible to build a high end system today with smaller supplies because parts are starting to show up without hungry power needs.  </s>
+<s> my core 2 duo (c2d) is sipping just under 100 watts of ac power on the power meter (i bought such to measure this) and the old box used to run over 200 when idling.  </s>
+<s> bob  </s>
+<s> read post no 5 &quot;even with a core 2 duo overclocked to 2.67, two dvd burners, 3 hdds, and an ati x850, i peak less than 190 watts.  </s>
+<s> i've had much higher power requirements when i ran a p4 clocked to 3.5 ghz in the same computer and that went up to 280 watts at times yet the quality 330 watt active pfc power supply didn't even stutter.&quot;  </s>
+<s> for (too) many psus they will fail as you approach their maximums.  </s>
+<s> read the results are clear.  </s>
+<s> to stay away from psu trouble, get a big one.  </s>
+<s> there are no downsides to slipping in a 450, 500 or more watt psu and your system using less than 1/2 that.  </s>
+<s> bob  </s>
+<s> the articles uses a 7300gs and 7600gt which only suggest 300w power supplies.  </s>
+<s> draw from the wall from any pc is typically around 200w or less, but that doesn't mean you can get away with a 250w power supply.  </s>
+<s> power supplies *split* their power into various rails (3.3v, 5.0v, and one or more 12v rails).  </s>
+<s> when a high end video card (radeon x1900/hd2900 or geforce 8800) is installed, it can easily overload the 12v rail and cause the pc to crash (since the cpu also uses 12v power). the biggest power draws in a pc are the cpu and video card.  </s>
+<s> hard drives draw very little power comparatively except at spin-up.  </s>
+<s> as the article and poster said, the quality of the power supply is more important than an exorbitant power rating (there are practically no rules which govern manufacturer power claims).  </s>
+<s> a good name brand (antec, coolermaster, enermax, thermaltake, seasonic, etc) 400w power supply is fine for everything but an 8800gtx and definitely better than a $30 600w unit.  </s>
+<s> you want...i guarantee i won't do that with mine.  </s>
+<s> vapcmd  </s>
+<s> i have an antec modular neo power 480 watt psu going into a new build.  </s>
+<s> so, i am not really concerned.  </s>
+<s> right now i'm using an antec 430 watt psu and it's an older modol.  </s>
+<s> never shows the slightest problem running video editing, encoding, games, photoshop, etc. so the 480 will run even better.  </s>
+<s> antecs are extremely efficient and i always use them.  </s>
+<s> of course anyone could go out and buy a 1,000 watt piece of cr@p and have it die in a week.  </s>
+<s> i'm not debating with anybody, just trying to keep others informed.  </s>
+<s> whether you like him or not george ou knows his tech.  </s>
+<s> please reread the thread.  </s>
+<s> its good insurance to have a larger and capable psu to handle current and possible future needs.  </s>
+<s> think of it in the &quot;3 little pigs and bad wolf fable&quot; way and see what gets by and when better is better.  </s>
+<s> from straw, to wood, to brick, it just is better.  </s>
+<s> tada -----willy  </s>
+<s> then what's your point and why quibble about an invited comment ?  </s>
+<s> might want to reread my response ... i didn't say you were going to put it into your system...i said you could...strictly up to you.  </s>
+<s> (post is immediately below) +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ &quot;you can put your high-end system on a 330w psu if - new!  </s>
+<s> by vapcmd - 9/2/07 8:46 am in reply to: 330watt power supply all that's needed for high end system?  </s>
+<s> by digibop you want...i guarantee i won't do that with mine.  </s>
+<s> vapcmd&quot; ++++++++++++++++++++++++++++++++++++++ and further, what they're building is not a high-end system (you're misrepresenting the article) and seasonic is not your average 330w psu at $55. if you look at one of my earlier posts with another poster ...he bought a 550w logisys for $39.  </s>
+<s> &quot;330watt power supply all that's needed for high end system?  </s>
+<s> - new!  </s>
+<s> by digibop - 9/2/07 4:23 am hello friends, george ou at techrepublic states that even in high end systems a good quality power supply with 330 watts is all you need?  </s>
+<s> i am including a link to the article.  </s>
+<s> scroll down to the the power supply section.  </s>
+<s> it's near the top. it will say, &quot;note on the power supply:&quot; also read his comments in the posts below.  </s>
+<s> i hope this is true, but what are your thoughts/experiences? thanks in advance 'note on the power supply: i'm using a seasonic s12-330 330 watt power supply, which can be had for $55.  </s>
+<s> i swear by these power supplies, and i own five of them because they're super efficient at above 80 percent, they're dead silent, and they're very affordable.  </s>
+<s> most power supplies make much more noise and are typically in the 60-70 percent energy efficiency range.  </s>
+<s> many people spend upwards of $100 on a higher power supply, citing the myth that you need at least 400 watts and higher on a modern computer.  </s>
+<s> that's utter nonsense even for a high-end pc. even the highest-end pcs peak out at around 250 watts. the measured power consumption at the plug for the pc in this tutorial idled at around 73 watts and peaked out at around 110 watts during intense cpu loads. the high wattage power supply proponents will often cite video card manuals specifying that they need a 400 watt power supply, but those numbers were just pulled out of thin air and aren't based on actual power consumption measurements.  </s>
+<s> 330 watts happens to be one of the smallest atx power supplies you can find, and it's more than enough for what we're building here.'  </s>
+<s> vapcmd, i'm not misrepresenting anything. the articles title: build a great pc on a budget with these parts and procedures.  </s>
+<s> true, but i asked you to read his comments.  </s>
+<s> apparantly you did not.  </s>
+<s> here are a few of his replies: if i went that extreme i'd probably go with a seasonic 400 watt psu just to have the extra overhead to house 6 more hard drives.  </s>
+<s> but truth be told the 330 watt psu is technically enough even for an extreme pc if you don't put a lot of drives in to it.  </s>
+<s> even an overclocked dual core system with an 8800 gtx will work on this 330 watt psu peaking at about 280 watts of power consumption.  </s>
+<s> i use to run two old p4 system that peaked that high for many years.  </s>
+<s> you just can't add any more drives or dvd burners to it.  </s>
+<s> however, i'd probably recommend the 400 watt seasonic at $90 for that kind of system so that it has room to grow.  </s>
+<s> if you've ever noticed, the seasonic power supplies are very conservative with their ratings.  </s>
+<s> there are plenty of free psus you get with a cheap chassis that's labeled &quot;400 watts&quot;, that doesn't mean it's reliable at any where close to that.  </s>
+<s> again, 330 is double over kill.  </s>
+<s> i'm not pulling these numbers out of thin air.  </s>
+<s> this system measured 110 watts at peak load at the power plug!  </s>
+<s> even if this were an extreme system with an nvidia 8800 gtx, it would still be less than 280 watt peak which a quality 330 watt active pfc psu can handle with ease.  </s>
+<s> this business of spending hundreds of dollars on a quarter, half, or one ton power supply is getting absurd.  </s>
+<s> theres a tendency for power users to think more is better, but thats just a nice way to sell more expensive power supplies.  </s>
+<s> i am no fan of george, but he's been around pcs a lot.  </s>
+<s> vapcmd your &quot;quibble&quot; should be with mr. ou, i'm just stating what he wrote.  </s>
+<s> like i replied earlier, i have an antec 480 watt neo power modular ps (my girlfriend bought it for me) so i'll be fine.  </s>
+<s> this psu everyone is commenting about is a nice unit but it's not what the origional poster thinks it is.  </s>
+<s> 2-12v rails @ 17a each.  </s>
+<s> my psu has 2-12v rails @ 18a each = 264w maximum on combined 12v divided by 12 = 22amps (305w).  </s>
+<s> my limits on a gpu are 7900gt, 8600gts, or x1950pro.  </s>
+<s> can't even think about the 8800 series or 2900's.  </s>
+<s> my 2 cents  </s>

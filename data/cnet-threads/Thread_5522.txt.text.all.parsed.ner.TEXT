@@ -1,0 +1,15 @@
+<s> hi, i am not the most technical person so when i purchased my new mybook i did not re-format it to os extended journaled, i understand that ms-dos (fat 32) is acceptable for my powerbook but i have no future need to share the drive with a pc. i have just bought a seagate 320gb expansion portable drive as i couldn't get my hands on a wd portable soon enough for my needs, i have formatted that drive as os extended journaled and all is fine, however when trying to use both carbon copy cloner or super duper to clone my mybook hd it tells me as it is formated as ms-dos (fat32) it will not run hfs+ files.  </s>
+<s> i have done the old drag and drop of all my files/folders i wish to keep including system files such as autorun, documentation, memeo, recycled, system volume information etc which i don't know is necessary or not.  </s>
+<s> my main problem is all the folders copy across fine by the look of things but i have 290.41gb on my wd mybook and when copied over it is only showing 283.44 on my seagate....i am wanting to re-format my mybook to set up my time machine but don't want to do it until i am sure all of my files are copied over..... can anybody help please?  </s>
+<s> many thanks for taking the time to read this.  </s>
+<s> cheers  </s>
+<s> &quot;have 290.41gb on my wd mybook and when copied over it is only showing 283.44 on my seagate&quot; that difference is most likely due to differences in the file systems.  </s>
+<s> fat32's &quot;slack space&quot; or large clusters (sorry but i decline to write a dissertation on file systems) is assuredly larger and therefore i can safely bet that a fat32 system would report more used space than hfs+ even if the same files were on each.  </s>
+<s> to dissect this more we've need to spend a few weeks reading and learning about file systems but i hope the short answer works.  </s>
+<s> try the other way to compare.  </s>
+<s> let's say the old drive has 2,010 files.  </s>
+<s> if the new drive has 2,010 files and the space used is that close, i bet we're done.  </s>
+<s> bob  </s>
+<s> the short answer is perfect and gives me the confidence to go ahead and re-format the wd external in the knowledge i should have all my important data intact.  </s>
+<s> i will give a couple of the options for file/folder size comparison a quick try just to be sure!  </s>
+<s> thanks again for your advice and help  </s>

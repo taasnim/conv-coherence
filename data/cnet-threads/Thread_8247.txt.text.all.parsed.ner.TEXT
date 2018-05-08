@@ -1,0 +1,35 @@
+<s> hi,i brought a motherboard ,put it in pluged in everthing i needed to ,but the only thing that happens is the little green light on the motherboard comes on , i asked the guy who i brought the motherboard off,he told me i need to turn the cpu switch to on,what i want to know is were is it ?  </s>
+<s> hope you can help me  </s>
+<s> but have him show you this switch and the motherboard and all working.  </s>
+<s> else just ask for your money back.  </s>
+<s> bob  </s>
+<s> as the &quot;cpu&quot;.  </s>
+<s> perhaps he means the power button.  </s>
+<s> you said you plugged everything in.  </s>
+<s> do you remember wiring the front panel connections part of the motherboard?  </s>
+<s> did you double check power switch connection? the green light means you have the 5v power to latch the power supply to &quot;on&quot; but it doesn't start the computer.  </s>
+<s> yes i did wire up the power buttons etc but still nothing happens i even got the guy on the phone ( the man who i brought the motherboard off) and we checked everything together.still  </s>
+<s> nothing  </s>
+<s> with system off, do... find the frt.  </s>
+<s> panel on/off button and its wire harness.  </s>
+<s> follow that wiring to the mtrbd.  </s>
+<s> where it connects.  </s>
+<s> disconnect and then momentarily short those pins and it should try to start.  </s>
+<s> if it doesn't you got another problem.  </s>
+<s> if it does start, you got a bad wiring or switch.  </s>
+<s> be sure, you locate proper on/off wiring.  </s>
+<s> some users confuse on/off(power) with remote power(any other power label) or wake-up connections if so labeled.  </s>
+<s> tada -----willy  </s>
+<s> you can try to start the ps from the mb connector as well.  </s>
+<s> if you have a dvm, you can see if the voltages are there.  </s>
+<s> i've seen a number of power supplies that show evidence of an attempt to start but shut down immediately.  </s>
+<s> watch the ps fan carefully when you try to power up the pc. if it twitches and stops, this means it attempted to start but shut down do to detecting a load problem.  </s>
+<s> this is generally a bad power supply or something it's connected to.  </s>
+<s> switching power supplies are tricky to troubleshoot as they also don't like to start when not connected to a load.  </s>
+<s> if you can connect the ps to another mb and the ps starts ok, this usually rules it out as the problem.  </s>
+<s> it doesn't rule it out as possibly being of insufficient power to operate what it's connected to.  </s>
+<s> i'd remove all connections to the ps but the mb. this can also include ram and cpu if you wish.  </s>
+<s> if the ps starts ok as evidenced by it's fan continuing to run when it hasn't before, this makes the mb suspect.  </s>
+<s> it's also not uncommon to have standoffs under a mb causing short circuits if you have it in the case.  </s>
+<s> you can check this by putting the mb on a table and just connecting things outside the box.  </s>
+<s> good luck.  </s>

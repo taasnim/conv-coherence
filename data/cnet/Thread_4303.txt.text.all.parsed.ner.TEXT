@@ -1,0 +1,34 @@
+<s> i've published the below in a few usenet groups and have not gotten any info which helps.  </s>
+<s> see the end for an update and follow-on question - and, if you have an answer for me, please copy it to me directly at skipgundlach at gmail dot com, as i don't get here often enough.  </s>
+<s> subject: ap access hardware date: wednesday, january 18, 2006 12:09 pm so, i'm a starving college student, living in an ap rich environment.  </s>
+<s> however, my laptop antenna, including amps like the hawking 54g desktop, can't get out of my concrete cellar apartment.  </s>
+<s> several folks have offered to share their connection on wifi, but i can't see them (from downstairs).  </s>
+<s> i can't afford my own isp broadband (or any other, for that matter) subscription, relying on the school or my neighbors for access (thus the gmail address).  </s>
+<s> having to go out is a nuisance, but i can't see them at home, so that's currently the solution.  </s>
+<s> makes study/homework and research a nuisance at best, not to mention battery issues as i wardrive, effectively.  </s>
+<s> is there a way (what equipment needed??) to set up a piece, or pieces, of gear so that my laptop antenna could see said equipment, and said equipment could see those aps, such that i could select from them, and wifi surf, as i can when i'm out of the basement?  </s>
+<s> i'm assuming i'd need some omni antenna(s?) and amplification for distance to overcome my bunker.  </s>
+<s> assume for the moment that i can set this up somewhere with power available but it needs to stand alone, otherwise.  </s>
+<s> no connection to my or the other computers or my benefactors' hardware.  </s>
+<s> fwiw, i'm running laptop(s) with internal wifi under xp, or the aforesaid external (shouldn't need it if i have a good system on top of the nearby pole) hawking antenna, using either the xp or hawking sw for selection of available ap. can it be done? is anyone now doing it?  </s>
+<s> what gear do i need? that was the post - which got no useful info... now for the followup: i already have a very nice (supposedly, anyway) wifi ap, the senao 2611cb3 deluxe.  </s>
+<s> it, alone, won't do the job.  </s>
+<s> that is, i can't see it, and have it see other aps and enable me to select between them.  </s>
+<s> i can see it, but it doesn't see anything (other aps).  </s>
+<s> others have said i need to connect it via cat5 crossover to another one, configured as bridge (they can be toggled from ap to bridge), but that provides only conflicts (even if i set them up on different channels, and on oddball ips to avoid ip conflicts, which are reported nontheless), and no ability to select aps it may see.  </s>
+<s> i can give a very detailed report on what i have done and what happens if it would be useful to the discussion.  </s>
+<s> both senao reps i've contacted assert it can be done - but literally months of screwing with it have been fruitless, despite following their instructions exactly, and, in one case, doing it on the phone, real-time, with him, to no avail.  </s>
+<s> today i talked to a netgear rep who tells me that their prosafe wg302 ap will do what i want it to; if i need more tx power i could put an amplifier in-line with it, and because of the removable antennae, i can put a higher-gain antenna on it (or the amp).  </s>
+<s> (he originally suggested the wpn802, but it has internal antennae which wouldn't get out of the metal external protection box i'd need to keep it weatherproof.) what makes it so that this unit can see remote aps and also let me see it with my laptop, as well as select from the remote aps (using their sw, not the integral windoze that my laptop would ordinarily use)?  </s>
+<s> or, perhaps more properly, what does this netgear unit have that the senao doesn't?? well, i suppose i should also ask if any here have succeeded in doing what i'm trying to do with some other means!  </s>
+<s> thanks.  </s>
+<s> skip the society for the preservation of tithesis commends your ebriated and scrutible use of delible and defatigable, which are gainly, sipid and couth.  </s>
+<s> we are gruntled and consolate that you have the ertia and eptitude to choose such putably pensible tithesis, which we parage.  </s>
+<s> &gt;&gt;stamp out sesquipedalianism&lt;&lt;  </s>
+<s> antenna or accesspoint near the windows .. you did get the signal near the windows, right?  </s>
+<s> as for the antenna, remember that you will have antenna cable connected to your laptop.  </s>
+<s> so, configure your router (senoa?) as repeater ... i.e. disabling dhcp, you may need your friend router/accesspoint ip address, etc. by the way, what you are doing is like you said (wardriving), so not many people will help you for that.  </s>
+<s> no, i can't move to the window and do any better.  </s>
+<s> as thick as i am, i'm smarter than that (if i could have done that i'd not be in this pickle). the antenna is in - or in the case of the hawking, connected to - my laptop, and it's not sufficient to see the aps available to me - but might well see some device on the pole outside (mounted well above me, directly overhead, basically), to which i can't connect physically. the senao gear doesn't have repeater function - or at least, their manual and the url-based setup makes no mention of it.  </s>
+<s> and, i can't rely on knowing the ap mac in advance. the netgear rep claims their software will display that info - but having been burned once already i'm not anxious to run out and buy a couple hundred dollar item before having confirmation that it will, in fact, do what i need, particularly since there will also be some installation effort and costs.  </s>
+<s> so... *without* physical connection to my computer or the physical access to the aps available (see original for expansion), can it be done; does the netgear do it (who's done it with that item), or failing that, what else? thanks.  </s>

@@ -1,0 +1,10 @@
+<s> if i were to purchase a wireless router, (those i've seen have several lan ports), could i connect my dsl modem via the wan port and my pc via 1 of these ports to utilise the router as a another security measure?  </s>
+<s> also if that is feasible am i putting data rf out?  </s>
+<s> do you see what i am asking?  </s>
+<s> wireless routers are prevelant, but i would still use the router as a wired pc. rbul1@sbcglobal.net  </s>
+<s> and another level of security in addition to whatever you have on your pc. not sure if you can turn off the radio (check the user manual on the mfg's site) but you can configure it so practically no one can access it.  </s>
+<s> i have done a lot of work with the linksys wrt54g, wrt54gs, and wrt54gc wireless-g routers.  </s>
+<s> in addition to disabling the ssid broadcast, there is a setting on the wrt54g and wrt54gs to disable the wireless portion of the router (set wireless network mode to ''disabled''). the firmware versions i have encountered for the wrt54gc do not have the ability to disable its wireless network.  </s>
+<s> if i needed to disallow all wireless connections, i probably would enable mac address filtering but permit no mac addresses to connect.  </s>
+<s> i also would enable encryption and disable the ssid broadcast.  </s>
+<s> hmmm...i guess i could also place the router in heavy 2.4ghz interference/blocking areas.  </s>

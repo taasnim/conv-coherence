@@ -1,0 +1,23 @@
+<s> hello, i never had this problem before and i can't find any possible settings that would be causing it.  </s>
+<s> i have a motorola surfboard modem that is connected to my dd-wrt 54g wireless router.  </s>
+<s> if i put in my external ip address in the browser while connected to my wireless network, it directs me to the correct local ip that i have it set to.  </s>
+<s> if i try to access it outside my network it just times out and says &quot;response error.  </s>
+<s> technical description: 502 bad gateway - response error, a bad response was received from another proxy server or the destination origin server&quot; any ideas of what i can look for?  </s>
+<s> thanks!  </s>
+<s> you didn't share what you mean by access so i can't tell if this is a ftp, telnet or other type of access.  </s>
+<s> because of problems that occur with &quot;users&quot; many isps now block network sharing ports.  </s>
+<s> bob  </s>
+<s> thank you for your quick reply.  </s>
+<s> i am connecting for browser access.  </s>
+<s> it is going to my raspberry pi that i have running raspbmc (xbmc).  </s>
+<s> i have tried using different ports because like you said they block access certain ports.  </s>
+<s> i wonder why i am able to connect within my network using my external ip though, that seems strange to me.  </s>
+<s> by browser access i mean i am literally entering my external ip into the browser window.  </s>
+<s> ok i just changed it to port forward to another web server i have and it will connect to that in the browser outside the network no problem.  </s>
+<s> this leads me to believe it's an issue with the pi and not the network.  </s>
+<s> i will have to do more research.  </s>
+<s> i can connect to the pi by it's internal ip address however so i am not sure why i can't connect by port forwarding.  </s>
+<s> turns out that by default raspbmc on rasperry pi refuses any connection from any port outside the network.  </s>
+<s> something to do with ip tables.  </s>
+<s> something i will have to look into another day.  </s>
+<s> i take it that you put the pi into the dmz if you have a router?  </s>

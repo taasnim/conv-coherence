@@ -1,0 +1,33 @@
+<s> yesterday night, my house rcd tripped while i'm uploading file to internet.  </s>
+<s> after recovered pc power, i found that my sata hdd disappeared from windows xp hdd list - other 2 ide hdd, fdd, dvd drives & movable drive remained.  </s>
+<s> i opened device manager, selected drives icon and right clicked on it then forced it to scan for hardware change.  </s>
+<s> device manager didn't found the sata drive.  </s>
+<s> however, every time i rebooted the pc, bios reported existence of the sata hdd.  </s>
+<s> i tried connect that sata hdd to sata0 then 1 of my gigabyte ga-8s655fx(-l) motherboard (my motherboard had 2 available sata ports).  </s>
+<s> each time bios could found the hdd drive.  </s>
+<s> was my sata dead ?  </s>
+<s> if no, how could i make xp to discover it again ?  </s>
+<s> the point right before the accident.  </s>
+<s> how to restore if xp couldn't see the hardware ?  </s>
+<s> only bios detected hdd existence but bios could do nothing to restore, right ?  </s>
+<s> since you have no access to system restore (the only reason not to try this) then you'll have to reinstall the os. sorry, bob  </s>
+<s> i wonder if xp installation program could find out the problem disk.  </s>
+<s> what's more important, the disk was used for data storage only.  </s>
+<s> no os had ever been installed there.  </s>
+<s> i wonder if there exists software that can access the sata hdd for those not even accessible by windows disk management utility.  </s>
+<s> here's why.  </s>
+<s> xp as supplied from microsoft has no sata support.  </s>
+<s> we have to supply such during f6 option.  </s>
+<s> i think system restore is the first choice since any other choice requires sata drivers and more.  </s>
+<s> bob  </s>
+<s> right click on &quot;my computer&quot; and choose &quot;manage&quot; to get into computer management.  </s>
+<s> click on disk management and the drive should be there.  </s>
+<s> 1.drive marked as &quot;raw&quot; then you'll need data recovery software to retrieve your data then repartition.  </s>
+<s> 2.drive seems to be normal then you just need to assign a drive volume by right clicking it.  </s>
+<s> if the drive does appear in disk management you should try it in a different pc or get someone to look at it.  </s>
+<s> had the same situation.  </s>
+<s> it was the sata cable.  </s>
+<s> western digital for example warns against using an l shaped connector on desk top machines.  </s>
+<s> i switched it to a straight wire and it is fine.  </s>
+<s> don't know why but that's what it was.  </s>
+<s> apparently the l connector works itself loose.  </s>

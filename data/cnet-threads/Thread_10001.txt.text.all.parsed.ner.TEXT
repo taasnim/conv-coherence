@@ -1,0 +1,21 @@
+<s> i have a macbook pro (the first generation) with 2.16ghz core duo and 1gig of ram (hopefully upgrading that soon).  </s>
+<s> i was hoping to be able to install vista on an external harddrive and somehow run it with bootcamp without installing it directly onto my laptop's on-board harddrive.  </s>
+<s> any suggestions as to how to go about doing this?  </s>
+<s> so far, no version of windows runs off external drives.  </s>
+<s> i have not read of a successful external drive install of vista yet so you would be the first.  </s>
+<s> let me be clear that said externals are connected with usb or firewire but not sata.  </s>
+<s> bob  </s>
+<s> does that &quot;no version of windows runs off external drives&quot; apply to all machines or just the boot camp mac?  </s>
+<s> p  </s>
+<s> 1. windows versions from microsoft.  </s>
+<s> not going to comment on hack jobs.  </s>
+<s> 2. usb, firewire drives.  </s>
+<s> with that short constraint list, no version of windows installs and runs on external usb, firewire drives.  </s>
+<s> yes there is bart, but that's a hack, doesn't run everything and is a hack.  </s>
+<s> bob  </s>
+<s> and a little surprising.  </s>
+<s> i have been booting off external drives, scsi & firewire(no usb) since my first mac.  </s>
+<s> i thought that the primary drive only, boot thing had moved along.  </s>
+<s> p  </s>
+<s> i thought that if i installed osx on an external drive, then booted off of that drive to install bootcamp on it i could get around the internal drive requirement, but it did not work.  </s>
+<s> maybe they'll finally let you do that with 10.5.  </s>

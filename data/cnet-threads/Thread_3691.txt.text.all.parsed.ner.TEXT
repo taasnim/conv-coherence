@@ -1,0 +1,20 @@
+<s> i have 2 computers, a and b. both computers are running on xp professional sp2.  </s>
+<s> computer a is installed with a hp laserjet 1022.  </s>
+<s> computer b is installed with epson stylus c79.  </s>
+<s> both printers are using usb interface.  </s>
+<s> as both computers are in the same network, i shared both printers out, so that computer a can use the epson printer, while computer b can use the hp printer.  </s>
+<s> after all the setup, computer a can use the epson and hp printers.  </s>
+<s> computer b can also connect to both printers.  </s>
+<s> but when printing using the hp, only blank page comes out.  </s>
+<s> and when i login using administrator account to look at the hp printer properties, it tells me that the driver of the printer is not properly installed.  </s>
+<s> but i tried installing the driver from the cd and also downloaded the driver from the website to install... all didn't work.  </s>
+<s> so i tried connecting the hp printer directly to computer b, and install it.  </s>
+<s> but while installing the printer, i got error message telling me that the required section was not found in the inf.  </s>
+<s> i have another computer c. c can successfully connect to both printers and use them.  </s>
+<s> let me tell you some history of computer b. before using laserjet 1022, it was using laserjet 1100.  </s>
+<s> what should i do?  </s>
+<s> . . .  </s>
+<s> and hp has yet to fix it.  </s>
+<s> suggest using another vendor's printer.  </s>
+<s> &quot;i got error message telling me that the required section was not found in the inf.&quot; this is the item to focus on.  </s>
+<s> ask hp for a fix for that.  </s>

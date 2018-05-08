@@ -1,0 +1,15 @@
+<s> i recently bought a new external hard drive (seagate) with a nexstar case.  </s>
+<s> it shows up in &quot;device manager&quot; but not in &quot;my computer&quot; or &quot;disk management&quot; which means i can't partition it or anything.  </s>
+<s> i've tried using the installation cd, but that didnt do anythin.  </s>
+<s> i tried a program discwizard but that kept telling me to reboot over and over.  </s>
+<s> if you could help me, it'd be greatly appreciated, thanks!  </s>
+<s> im trying to run this on my windows xp laptop.  </s>
+<s> ...and format with ntfs (not fat32).  </s>
+<s> could you please tell me how to format?  </s>
+<s> a few people have pushed me in that direction but i never knew what to do.  </s>
+<s> thank you  </s>
+<s> you did state that you couldn't see it in disk management.  </s>
+<s> try disk management one more time and initialize it: if that doesn't work, i'd install the hard drive as a secondary drive in my desktop.  </s>
+<s> then, try initializing it in disk management again.  </s>
+<s> if that fails, try seatools from seagate.com.  </s>
+<s> this is where you need to have ram.. i would hope you have at least 512 mb's of ram.. .. when you do your start-up..do not connect the hdd/ just start the laptop..let it reach its desktop/ run dskcleanup..and defragmentor../ .. now plug the usb in.. .. if that doesn't work..i would check my pin-assignments.. be sure the hdd is useing cable-select[cs].. which means you need to open the external enclosure.. and view the rear of the drive for the pin-assignments.. .. you may want to visit the seagate website..... and read some info on your drive.  </s>

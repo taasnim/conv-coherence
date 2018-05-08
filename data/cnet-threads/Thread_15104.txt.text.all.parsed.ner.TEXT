@@ -1,0 +1,12 @@
+<s> hello, recently my dvd is not working porperly and i'm not sure what the is the problem , it can read cd's with images but nothing else.  </s>
+<s> i've checked the device manager - everything there looks ok (no ??) in addition when i look at the properties of my nvidia ata controller properties i dont see anything strange, apart from the &quot;primary channel&quot; tab showing &quot;no device&quot; in the master area. the transfer mode is set to dma (so no problem here too, i guess).  </s>
+<s> i used nero infotool 4.4.2.0 to get the following properties (below) whenever there is no disk in the dvd nero info tool dvd fearures show that region control is rpc2 and the dvd is not locked *i have 4 changes left) when i insert dvd in and refresh the tool i get n/a in all these fields any idea what can be the cause for this annoying problem ?  </s>
+<s> thanks lior -----------------------hardware------------------------- hardware: amd athlon xp 2500+ 1.8 ghz system information ------------------ allocatecdroms : 0 operating system : windows xp professional (5.01.2600 service pack 2) directx : directx 9.0c ide ata/atapi controllers  </s>
+<s> 1. try a cd/dvd lens cleaner.  </s>
+<s> 2. update the drive's firmware.  </s>
+<s> 3. try other make media.  </s>
+<s> 4. try a new drive.  </s>
+<s> this is the usual four steps to resolve a bum drive.  </s>
+<s> bob  </s>
+<s> i cleaned the lens again, after the 3rd time it started working on dvd media as well.  </s>
+<s> guess cleaning it only once was not sufficient thanks lior  </s>

@@ -1,0 +1,59 @@
+<s> hello everyone i am new to this field.. so i am asking a rather simple qestion but seriously i couldn't find the answer anywhere.  </s>
+<s> for a device to communicate with another device it sends the information with specific radio frequency.  </s>
+<s> now my question is why do organizations like fcc, etc allocate the bandwidth in the first place through auctioning and stuff like that.  </s>
+<s> i mean there is no limit on the em spectrum to be used right.  </s>
+<s> can you please tell me the exact specifics of why actually allocation is needed and what happens if it is not allocated.  </s>
+<s> i also want to know why specific frequency is allocated to specific radio channel.  </s>
+<s> why cant a radio channel use any other frequency.  </s>
+<s> i am kind of new so this may seem absurd but please help even any links or books explaining these concepts are also fine for me and sorry if i posted in the wrong area cuz this is wer i found appropriate.  </s>
+<s> edit/delete message  </s>
+<s> well physically there is a limit on microwave and wireless frequencies, they don't range from 1 to infinity, and governments have always parcelled out frequency bandwidth to providers.  </s>
+<s> a very simple case in point.  </s>
+<s> governments restrict the public use of radio frequencies used by emergency services on fm, short range, or lw, long wave.  </s>
+<s> if they did not, the emergency services wouldn't work as public use would constantly cause interference.  </s>
+<s> another example.  </s>
+<s> tv transmission over the airways used up an enormous range of frequencies for each channel.  </s>
+<s> if governments did not allocate channel bandwidth and prevent pirate stations from operating, we would not have received the programs we expected.  </s>
+<s> we would have seen pirated stations, or just static interference.  </s>
+<s> that said, developed nations have now, largely, moved on from 'over the air' analog transmission in favor of over the air digital transmission which can pack more data in, and the processors in tvs and set-top boxes are able to de-compress the data and process it into the hundreds of channels we now get.  </s>
+<s> but no organisation can legally begin transmitting data, be it radio, tv, cell phone or walkie talkie on just any frequency.  </s>
+<s> they have to have ownership of that frequency and that is where allocation comes in.  </s>
+<s> you may be thinking that, even so, the range of frequencies from microwave to radio wave is immense, and that is right, but modern technology is not yet at the stage where broadcasters and receivers can use 1 single hz or 1 decimal point of a hz without interference and bleeding into other frequencies.  </s>
+<s> that sort of precision technology doesn't yet exist, if it ever will.  </s>
+<s> i hope that helps.  </s>
+<s> mark  </s>
+<s> that was helpful thanks a lot.  </s>
+<s> but still i have a few more doubts.  </s>
+<s> just to be clear.... 1) suppose i have at my home a transmitter and a receiver with me.  </s>
+<s> now i am transmitting a signal at a frequency of say 'x' hz with the data being modulated from the transmitter in fm manner.  </s>
+<s> and say that there is a radio station with same frequency (x fm).  </s>
+<s> now, will i be able to transmit the data or not.  </s>
+<s> technically i shouldn't because that particular frequency is allocated to that channel right.  </s>
+<s> 2) secondly, if there is a radio station at say x fm. will i be able to access that same radio channel, by turning the knob of my radio to that particular frequency, from anywhere in the world.  </s>
+<s> because it has been allocated that channel, so technically i must be able to access it anywhere because the organization wouldn't have allocated it to anyone else except that channel company.  </s>
+<s> thanks again for the above answer, it was helpful.  </s>
+<s> and just one more thing... what about different countries.  </s>
+<s> if a channel is allocated a specific frequency, will that frequency be not available for any other country as well.  </s>
+<s> this was just an extension of my previous post but if the question wasn't clear this is it.  </s>
+<s> also i tried to catch a radio channel which is there in some other state, but i couldn't from where i stay.  </s>
+<s> 1] no, not if that channel has been allocated to that radio station.  </s>
+<s> 2] yes, but probably not everywhere around the world.  </s>
+<s> fm is, i believe, short range. the physical range depends on the amount of power the station can use and other factors like height of the transmitter.  </s>
+<s> if they could use unlimited power, they would still need to be mindful of bleeding into frequencies of nearby, (fm range) stations.  </s>
+<s> but of course this all depends on where you live.  </s>
+<s> i have no idea if all nations allocate and control microwave and wireless frequencies.  </s>
+<s> for all i know, some nations may have a 'free for all'.  </s>
+<s> your other question below.  </s>
+<s> yes it may be available in other countries.  </s>
+<s> different countries allocate frequencies for their own purpose.  </s>
+<s> there may be an international agreement about certain frequencies but apart form that nations have their own free will.  </s>
+<s> mark  </s>
+<s> 1. yes, technically you can. but it's not allowed and there's a good change you'll see the police in a short time.  </s>
+<s> how short a time depends on what others use that same frequency.  </s>
+<s> if it happens to be the army for its very secret and very secure communications it won't take long.  </s>
+<s> same for air traffic control after a few planes crashed because they couldn't receive the instructions.  </s>
+<s> if it's the very popular local radio that other people can't receive now, it won't take very long either if enough of your fellow citizens complain.  </s>
+<s> compare it with driving on the right side of the road in the uk. technically you can. but it's not adviced to do it for some good reason.  </s>
+<s> 2. if you're inside the receiving range (distance): yes.  </s>
+<s> otherwise: no. only so called 'short wave' is really nearly world-wide.  </s>
+<s> kees  </s>

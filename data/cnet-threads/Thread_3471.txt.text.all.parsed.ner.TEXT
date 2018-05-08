@@ -1,0 +1,18 @@
+<s> i have three computers connected to a dsl/router.  </s>
+<s> two connect to the internet ok. the one i am having trouble with is running win98 se and i am using a belkin f5d7050 usb wireless connection.  </s>
+<s> it can connect to the router, and i can 'see' files on the win98 computer from the other computers.  </s>
+<s> there is no way however that i can connect to the internet with it - even though the other two computers can.  </s>
+<s> any ideas?  </s>
+<s> i have checked that the computer name is unique and that the workgroup is the same. the router assigns it a dhcp ip address, but i cannot get onto the internet.  </s>
+<s> please help!  </s>
+<s> paul  </s>
+<s> what are those ip and default gateway numbers?  </s>
+<s> nothing is amiss in the device manager (no exclamation points). the ip address is 192.168.2.6 and the dns address is 192.168.2.1 this is the dns address that is entered into the dns tab.  </s>
+<s> there is no dns reported when i do an ipconfig.  </s>
+<s> is this normal with win 98? thanks for the help.  </s>
+<s> paul  </s>
+<s> points to the router's ip address instead of the ip address of your isp's server.  </s>
+<s> make sure your are set to &quot;obtain your ip and dns automatically&quot; on your tcp/ip properties page.  </s>
+<s> then try a release and renewing of those numbers using winipcfg from a command prompt.  </s>
+<s> they hand out the dns as 192.168.0.1 for example and proxy the dns lookup duty.  </s>
+<s> bob  </s>

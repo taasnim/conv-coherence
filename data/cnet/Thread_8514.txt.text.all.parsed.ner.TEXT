@@ -1,0 +1,27 @@
+<s> ok,i have a wireless network here.  </s>
+<s> comcast cable -&gt; di-624 - multiple pcs/laptops with 802.11g cards of varying manufacturers.  </s>
+<s> i'm currently using a microsft pci mn-730 adapter on this pc, but i have the same issue on all pcs, regardless of hardware.  </s>
+<s> my question (or problem) is this - why do i only get about 12% utlilzation of that 54mb wireless connection?  </s>
+<s> regardless of location of remote pc, signal strength, hard disk speed, etc, i can only move about 1.1 - 1.3mb/sec (i'm using bandwidth monitor for my testing).  </s>
+<s> how can i increase this utilization, if possible, and why am i not using even close to what's available to me? and no, i'm not talking about the internet connection.. although i can get 8-10mb down from comcast, i'm more interested in moving 2gb or larger files from one pc on my network to another.  </s>
+<s> it's faster to just hook up a portable usb drive and move them that way, but this is not always feasible.  </s>
+<s> any suggestions or thoughts?  </s>
+<s> thanks, auburndmbfan  </s>
+<s> for instance, windows networking has a lot of overhead.  </s>
+<s> when i need to move gb i'll run my ftp programs instead.  </s>
+<s> bob  </s>
+<s> make sure that all the devices are of a similar protocol.  </s>
+<s> if you have an odd 802.11b device (like a built-in wireless on an older laptop) lurking in the mix, that could slow things down on the whole network.  </s>
+<s> furthermore, the security encryption takes a small toll.  </s>
+<s> if the transfer is between two wireless links, the available bandwidth is divided between them, e.g., a 54mbs nominal network will spend half its time communicating to system a and the other half its time to system b, so only 27mbs can move in either direction.  </s>
+<s> add to that the crosstalk for operating system error checking, etc. and pretty soon it slows to a crawl.  </s>
+<s> dw  </s>
+<s> so that explains it... good info to know.  </s>
+<s> wish there was something to do.  </s>
+<s> btw, on the previous response, i use ftp all the time and it seems as slow as most other types of transfers.  </s>
+<s> unfortunately, every point on my network is a wireless one, so it looks like i'm starting at 27 before i do anything... guess i'll keep my external usb drive close by  </s>
+<s> so everything is wireless... does it have to be? is any system in the same room as your cable modem and router?  </s>
+<s> if so, use an ethernet cable for that one.  </s>
+<s> now you've reduced the load on the wireless by one/however-many.  </s>
+<s> you might even consider upgrading all your equipment to one of the pre-n or super-g boosted speeds (for which all equipment needs to be the same brand and compatibility for the full throughput to be realized), but now we're talking bucks... glad to help you understand it all better.  </s>
+<s> dw  </s>
