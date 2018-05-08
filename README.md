@@ -2,6 +2,12 @@
 
 This repository contains code of our ACL'18 Paper - *Coherence Modeling of Asynchronus Conversations: A Neural Entity Grid Approach*.
 
+Software Requirements
+---------------------
+
+Python 3.6 and Tensorflow 1.4 are required for the current codebase.
+
+
 Citation
 --------
 
