@@ -1,6 +1,8 @@
 # conv-coherence
 
-This repository contains code of our ACL'18 Paper - [Coherence Modeling of Asynchronus Conversations: A Neural Entity Grid Approach](https://arxiv.org/abs/1805.02275).
+This repository contains code of our **ACL'18** Paper - [Coherence Modeling of Asynchronus Conversations: A Neural Entity Grid Approach](https://arxiv.org/abs/1805.02275).
+
+![model](https://taasnim.github.io/img/conv-coherence/models.png)
 
 Software Requirements
 ---------------------
